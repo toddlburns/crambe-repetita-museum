@@ -1,0 +1,17 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>designer: Tadanori Yokoo — Crambe Repetita Museum</title><link rel="stylesheet" href="../../../style.css"></head><body><div class="crumb"><span class="t">DESIGNER: TADANORI YOKOO</span><span class="c">6 items</span><a href="../../../tags/">&#8592; all tags</a></div><div class="grid"><a class="cell" href="../../../CRVI000116/"><div class="inner"><img src="../../../images/CRVI000116.jpg" alt=""></div><div class="cap"><span class="n">CRVI000116</span>Tadanori Yokoo - Made in Japan, Tadanori Yokoo, Having Reached a Climax at the Age of 29, I Was Dead<br>Self-portrait poster · 1965</div></a><a class="cell" href="../../../CRVI000117/"><div class="inner"><img src="../../../images/CRVI000117.jpg" alt=""></div><div class="cap"><span class="n">CRVI000117</span>Tadanori Yokoo - Are You Ready for Foods?<br>Advertisement for a Chinese restaurant · 1989</div></a><a class="cell" href="../../../CRVI000118/"><div class="inner"><img src="../../../images/CRVI000118.jpg" alt=""></div><div class="cap"><span class="n">CRVI000118</span>Tadanori Yokoo - Garuda<br>Offset lithograph · 1990</div></a><a class="cell" href="../../../CRVI000119/"><div class="inner"><img src="../../../images/CRVI000119.jpg" alt=""></div><div class="cap"><span class="n">CRVI000119</span>Tadanori Yokoo - Koshimaki-Osen<br>腰巻お仙 · theatre poster for Kara Juro's Jokyo Gekijo (Situation Theatre) · silkscreen · 1966</div></a><a class="cell" href="../../../CRVI000120/"><div class="inner"><img src="../../../images/CRVI000120.jpg" alt=""></div><div class="cap"><span class="n">CRVI000120</span>Tadanori Yokoo - Tadanori Yokoo — Stedelijk Museum Amsterdam<br>Exhibition poster, 22.2 t/m 14.4 1974 · 1974</div></a><a class="cell" href="../../../CRVI000121/"><div class="inner"><img src="../../../images/CRVI000121.jpg" alt=""></div><div class="cap"><span class="n">CRVI000121</span>Tadanori Yokoo - Word &amp; Image<br>The Museum of Modern Art, New York, January 24 – March 10 · 1968</div></a></div><script>
+var SCALE=3;var t=null;
+document.querySelectorAll('.cell').forEach(function(c){
+  c.addEventListener('mouseenter',function(){
+    clearTimeout(t);
+    t=setTimeout(function(){
+      // transform does not change layout, so push the caption below the grown image
+      var im=c.querySelector('img'),cap=c.querySelector('.cap');
+      cap.style.transform='translateY('+im.getBoundingClientRect().height*(SCALE-1)+'px)';
+      c.classList.add('big');
+    },1000);
+  });
+  c.addEventListener('mouseleave',function(){
+    clearTimeout(t);c.classList.remove('big');c.querySelector('.cap').style.transform='';
+  });
+});
+</script></body></html>
