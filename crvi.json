@@ -5323,6 +5323,149 @@
     }
    ],
    "published": true
+  },
+  {
+   "id": "CRVI000124",
+   "image": "images/CRVI000124.jpg",
+   "original": "originals/CRVI000124.jpg",
+   "original_px": [
+    750,
+    1061
+   ],
+   "original_bytes": 84818,
+   "maker": "Ikko Tanaka",
+   "title": "Nihon Buyo",
+   "subtitle": "UCLA Asian Performing Arts Institute · Los Angeles, Washington D.C., New York",
+   "year": "1981",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Ikko Tanaka"
+    },
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "subject",
+     "v": "dance"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "colour",
+     "v": "orange"
+    },
+    {
+     "k": "colour",
+     "v": "cyan"
+    }
+   ],
+   "published": true
+  },
+  {
+   "id": "CRVI000125",
+   "image": "images/CRVI000125.jpg",
+   "original": "originals/CRVI000125.jpg",
+   "original_px": [
+    746,
+    1072
+   ],
+   "original_bytes": 160719,
+   "maker": "Yusaku Kamekura",
+   "title": "Expo '70",
+   "subtitle": "Japan World Exposition, Osaka · 'Progress and Harmony for Mankind'",
+   "year": "1970",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Yusaku Kamekura"
+    },
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "subject",
+     "v": "world's fair"
+    },
+    {
+     "k": "client",
+     "v": "Expo '70 Osaka"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "colour",
+     "v": "red"
+    },
+    {
+     "k": "colour",
+     "v": "green"
+    },
+    {
+     "k": "colour",
+     "v": "black"
+    }
+   ],
+   "published": true
+  },
+  {
+   "id": "CRVI000126",
+   "image": "images/CRVI000126.jpg",
+   "original": "originals/CRVI000126.jpg",
+   "original_px": [
+    493,
+    700
+   ],
+   "original_bytes": 29537,
+   "maker": "Shigeo Fukuda",
+   "title": "The World of Shigeo Fukuda in U.S.A.",
+   "subtitle": "M.H. de Young Memorial Museum, San Francisco · Junior Art Center, Los Angeles · Santa Barbara Museum of Art",
+   "year": "1971",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Shigeo Fukuda"
+    },
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "subject",
+     "v": "exhibition"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "colour",
+     "v": "orange"
+    },
+    {
+     "k": "colour",
+     "v": "black"
+    }
+   ],
+   "published": true
   }
  ]
 }
