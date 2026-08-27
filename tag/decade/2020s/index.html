@@ -1,0 +1,17 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>decade: 2020s — Crambe Repetita Museum</title><link rel="stylesheet" href="../../../style.css"></head><body><div class="crumb"><span class="t">DECADE: 2020S</span><span class="c">3 items</span><a href="../../../tags/">&#8592; all tags</a></div><div class="grid"><a class="cell" href="../../../CRVI000211/"><div class="inner"><img src="../../../originals/CRVI000211.gif" alt=""></div><div class="cap"><span class="n">CRVI000211</span>Unknown - Nonverbal Yes<br>Reaction GIF · Leslie Bibb as Kate, The White Lotus · 39 frames, 3.9s loop · 2025</div></a><a class="cell" href="../../../CRVI000213/"><div class="inner"><img src="../../../originals/CRVI000213.gif" alt=""></div><div class="cap"><span class="n">CRVI000213</span>Unknown - Stare<br>Reaction GIF · Walton Goggins as Rick Hatchett, The White Lotus · 72 frames, 3.6s loop · 2025</div></a><a class="cell" href="../../../CRVI000214/"><div class="inner"><img src="../../../originals/CRVI000214.gif" alt=""></div><div class="cap"><span class="n">CRVI000214</span>Unknown - Victoria<br>Reaction GIF · Parker Posey as Victoria Ratliff, The White Lotus · 117 frames, 3.9s loop · 2025</div></a></div><script>
+var SCALE=3;var t=null;
+document.querySelectorAll('.cell').forEach(function(c){
+  c.addEventListener('mouseenter',function(){
+    clearTimeout(t);
+    t=setTimeout(function(){
+      // transform does not change layout, so push the caption below the grown image
+      var im=c.querySelector('img'),cap=c.querySelector('.cap');
+      cap.style.transform='translateY('+im.getBoundingClientRect().height*(SCALE-1)+'px)';
+      c.classList.add('big');
+    },1000);
+  });
+  c.addEventListener('mouseleave',function(){
+    clearTimeout(t);c.classList.remove('big');c.querySelector('.cap').style.transform='';
+  });
+});
+</script></body></html>
