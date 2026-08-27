@@ -50,7 +50,9 @@ a{color:inherit;text-decoration:none}
 .item{height:100%;display:flex;flex-direction:column}
 .stage{flex:1;display:flex;align-items:center;justify-content:center;padding:24px;min-height:0;
  position:relative}
-.stage a{display:flex;align-items:center;justify-content:center;max-width:100%;max-height:100%}
+/* ⚠️ DO NOT WRAP THE IMAGE IN AN ANCHOR. The anchor has no definite height, so the image's
+   max-height:100% resolves against `auto` and it renders at natural size — which blew every
+   picture past the viewport. The link to the original lives in the corner instead. */
 .stage img{max-width:100%;max-height:100%;object-fit:contain;display:block}
 .orig{position:absolute;right:18px;bottom:6px;font:10px/1 var(--mono);color:var(--mute);
  letter-spacing:.04em}
@@ -192,8 +194,8 @@ def main():
         if it.get("original"):
             mb = (it.get("original_bytes") or 0) / 1e6
             note = (f'{op[0]}&#215;{op[1]} &middot; {mb:.1f} MB' if len(op) == 2 else 'original')
-            stage = (f'<a href="../{esc(it["original"])}" title="Open the original">{img}</a>'
-                     f'<a class="orig" href="../{esc(it["original"])}">{note}</a>')
+            stage = (img + f'<a class="orig" href="../{esc(it["original"])}" '
+                     f'title="Open the original at full resolution">{note}</a>')
         else:
             stage = img
         body = (f'<div class="item"><div class="bar">{work_line(it,"../")}'
