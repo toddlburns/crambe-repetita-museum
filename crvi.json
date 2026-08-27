@@ -4396,6 +4396,138 @@
      "v": "orange"
     }
    ]
+  },
+  {
+   "id": "CRVI000106",
+   "image": "images/CRVI000106.jpg",
+   "original": "originals/CRVI000106.jpg",
+   "original_px": [
+    1283,
+    1920
+   ],
+   "original_bytes": 402789,
+   "maker": "Natori Shunsen",
+   "title": "Matsumoto Koshiro as the white bearded Ikkyu",
+   "subtitle": "from the supplement to the Collection of Shunsen portraits (Shunsen nigao-e shu) series · colour woodblock",
+   "year": "1929",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Natori Shunsen"
+    },
+    {
+     "k": "type",
+     "v": "woodblock print"
+    },
+    {
+     "k": "medium",
+     "v": "colour woodblock"
+    },
+    {
+     "k": "subject",
+     "v": "kabuki actor"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "colour",
+     "v": "orange"
+    },
+    {
+     "k": "colour",
+     "v": "yellow"
+    }
+   ]
+  },
+  {
+   "id": "CRVI000107",
+   "image": "images/CRVI000107.jpg",
+   "original": "originals/CRVI000107.jpg",
+   "original_px": [
+    2000,
+    1421
+   ],
+   "original_bytes": 454199,
+   "maker": "Masuteru Aoba",
+   "title": "The Bread Is For Peace",
+   "subtitle": "戦争に使うパンはない · anti-war poster · carries an Arthur Koestler passage in twelve languages",
+   "year": "c1975",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Masuteru Aoba"
+    },
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "subject",
+     "v": "anti-war"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "colour",
+     "v": "orange"
+    },
+    {
+     "k": "colour",
+     "v": "red"
+    }
+   ]
+  },
+  {
+   "id": "CRVI000108",
+   "image": "images/CRVI000108.jpg",
+   "original": "originals/CRVI000108.jpg",
+   "original_px": [
+    999,
+    1248
+   ],
+   "original_bytes": 109766,
+   "maker": "Designer unknown",
+   "title": "A.D. 3000 ⋯ Energy-Addicted Man?",
+   "subtitle": "エネルギーに頼り過ぎた3000年の人間？",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "subject",
+     "v": "energy"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "status",
+     "v": "unidentified"
+    },
+    {
+     "k": "colour",
+     "v": "green"
+    },
+    {
+     "k": "colour",
+     "v": "orange"
+    }
+   ]
   }
  ]
 }
