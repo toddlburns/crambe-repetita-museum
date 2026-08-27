@@ -8180,6 +8180,48 @@
    ],
    "hue": null,
    "light": 0.1705
+  },
+  {
+   "id": "CRVI000189",
+   "image": "images/CRVI000189.gif",
+   "original": "originals/CRVI000189.gif",
+   "original_px": [
+    400,
+    261
+   ],
+   "original_bytes": 1867999,
+   "maker": "Unknown",
+   "title": "Nope",
+   "subtitle": "Reaction GIF cut from TMZ footage · Rihanna leaving a club · 49 frames, 3.9s loop",
+   "year": "2014",
+   "tags": [
+    {
+     "k": "type",
+     "v": "reaction gif"
+    },
+    {
+     "k": "subject",
+     "v": "Rihanna"
+    },
+    {
+     "k": "medium",
+     "v": "animated gif"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "black"
+    }
+   ],
+   "hue": 16.08,
+   "light": 0.1358
   }
  ]
 }
