@@ -90,6 +90,20 @@ a{color:inherit;text-decoration:none}
 .cell.big .cap{opacity:1}
 """
 
+# Arrow keys walk the exhibition. The item pages are otherwise script-free, so this is the
+# only thing they carry — and it degrades to nothing if it fails, because the arrow LINKS in
+# the top row are real anchors either way.
+ITEM_JS = """
+(function(){
+ var p=%s,n=%s;
+ addEventListener('keydown',function(e){
+  if(e.metaKey||e.ctrlKey||e.altKey||e.shiftKey) return;
+  if(e.key==='ArrowLeft'&&p){e.preventDefault();location.href='../'+p+'/';}
+  if(e.key==='ArrowRight'&&n){e.preventDefault();location.href='../'+n+'/';}
+ });
+})();
+"""
+
 JS = """
 var SCALE=3;var t=null;
 document.querySelectorAll('.cell').forEach(function(c){
@@ -165,10 +179,12 @@ def main():
         tags = "".join(f'<a href="../tag/{slug(t["k"])}/{slug(t["v"])}/">#{esc(t["v"])}</a>'
                        for t in it.get("tags", []))
         tags += '<a class="all" href="../tags/">#alltags</a>'
+        keys = ITEM_JS % (json.dumps(prev) if prev else "null",
+                          json.dumps(nxt) if nxt else "null")
         body = (f'<div class="item"><div class="bar">{work_line(it,"../")}'
                 f'<div class="nav">{nav}</div></div>'
                 f'<div class="stage"><img src="../{esc(it["image"])}" alt="{esc(it.get("title"))}"></div>'
-                f'<div class="tags">{tags}</div></div>')
+                f'<div class="tags">{tags}</div></div><script>{keys}</script>')
         od = os.path.join(HERE, it["id"]); os.makedirs(od, exist_ok=True)
         open(os.path.join(od, "index.html"), "w").write(
             page(f'{it["id"]} — Crambe Repetita Museum', body, 1))
