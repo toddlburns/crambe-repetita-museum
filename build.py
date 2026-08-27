@@ -84,7 +84,7 @@ a{color:inherit;text-decoration:none}
  grid-template-columns:repeat(auto-fill,minmax(92px,1fr));gap:18px;align-items:start}
 .cell{position:relative;cursor:pointer}
 .cell .inner{transition:transform .22s cubic-bezier(.2,.7,.3,1);transform-origin:left top}
-.cell img{width:100%;display:block;background:#f5f5f5}
+.cell img{width:100%;display:block;background:var(--paper)}
 .cell .cap{opacity:0;font-size:11px;color:var(--mute);margin-top:6px;line-height:1.45;width:270px;
  transition:opacity .2s ease .05s,transform .22s cubic-bezier(.2,.7,.3,1);
  pointer-events:none;position:relative;z-index:1}

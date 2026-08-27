@@ -7991,13 +7991,13 @@
   },
   {
    "id": "CRVI000185",
-   "image": "images/CRVI000185.jpg",
+   "image": "images/CRVI000185.png",
    "original": "originals/CRVI000185.jpg",
    "original_px": [
-    865,
-    1391
+    531,
+    750
    ],
-   "original_bytes": 417921,
+   "original_bytes": 88682,
    "maker": "Ernst Reichl",
    "title": "Ulysses",
    "subtitle": "Dust jacket for James Joyce's Ulysses · Random House, New York",
@@ -8036,8 +8036,150 @@
      "v": "red"
     }
    ],
-   "hue": 37.69,
-   "light": 0.6255
+   "hue": 34.43,
+   "light": 0.5851
+  },
+  {
+   "id": "CRVI000186",
+   "image": "images/CRVI000186.jpg",
+   "original": "originals/CRVI000186.jpg",
+   "original_px": [
+    689,
+    1024
+   ],
+   "original_bytes": 267712,
+   "maker": "E. McKnight Kauffer",
+   "title": "Ulysses",
+   "subtitle": "Dust jacket for James Joyce's Ulysses · Random House, New York",
+   "year": "1946",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "E. McKnight Kauffer"
+    },
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    },
+    {
+     "k": "client",
+     "v": "Random House"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "literature"
+    },
+    {
+     "k": "color",
+     "v": "black"
+    }
+   ],
+   "hue": null,
+   "light": 0.1677
+  },
+  {
+   "id": "CRVI000187",
+   "image": "images/CRVI000187.jpg",
+   "original": "originals/CRVI000187.jpg",
+   "original_px": [
+    698,
+    1024
+   ],
+   "original_bytes": 266289,
+   "maker": "E. McKnight Kauffer",
+   "title": "Point Counter Point",
+   "subtitle": "Dust jacket for Aldous Huxley's Point Counter Point · The Modern Library, New York",
+   "year": "1942",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "E. McKnight Kauffer"
+    },
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    },
+    {
+     "k": "client",
+     "v": "The Modern Library"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "literature"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 15.83,
+   "light": 0.6158
+  },
+  {
+   "id": "CRVI000188",
+   "image": "images/CRVI000188.jpg",
+   "original": "originals/CRVI000188.jpg",
+   "original_px": [
+    698,
+    1024
+   ],
+   "original_bytes": 267940,
+   "maker": "E. McKnight Kauffer",
+   "title": "Don Quixote",
+   "subtitle": "Dust jacket for Miguel de Cervantes' Don Quixote · The Modern Library, New York",
+   "year": "1940",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "E. McKnight Kauffer"
+    },
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    },
+    {
+     "k": "client",
+     "v": "The Modern Library"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "literature"
+    },
+    {
+     "k": "color",
+     "v": "black"
+    }
+   ],
+   "hue": null,
+   "light": 0.1705
   }
  ]
 }
