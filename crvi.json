@@ -4729,7 +4729,7 @@
      "v": "orange"
     }
    ],
-   "published": false
+   "published": true
   },
   {
    "id": "CRVI000111",
@@ -4774,7 +4774,7 @@
      "v": "red"
     }
    ],
-   "published": false
+   "published": true
   },
   {
    "id": "CRVI000112",
@@ -4819,7 +4819,7 @@
      "v": "yellow"
     }
    ],
-   "published": false
+   "published": true
   },
   {
    "id": "CRVI000113",
@@ -4864,7 +4864,7 @@
      "v": "red"
     }
    ],
-   "published": false
+   "published": true
   }
  ]
 }
