@@ -1,5 +1,5 @@
 {
- "next": 221,
+ "next": 225,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -10594,6 +10594,237 @@
    "chroma": 0.249,
    "deleted": true,
    "deleted_on": "2026-08-27"
+  },
+  "NYT Kusama::A Bouquet of Love I saw in the Universe (2021)": {
+   "id": "CRVI000221",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000221.jpg",
+   "original_px": [
+    1170,
+    1752
+   ],
+   "original_bytes": 824253,
+   "identity": "NYT Kusama::A Bouquet of Love I saw in the Universe (2021)",
+   "maker": "Yayoi Kusama",
+   "title": "A Bouquet of Love I saw in the Universe",
+   "subtitle": "Photograph by Andreas Meichsner · Martin-Gropius-Bau, Berlin",
+   "year": "2021",
+   "verified_against": "Caption and credit read directly off the New York Times feature 'Yayoi Kusama: A Life in Pictures' (27 August 2026), from Todd's own screenshots of it. Captioned '“A Bouquet of Love I saw in the Universe” at Martin-Gropius-Bau in Berlin in 2021', credited 'Andreas Meichsner for The New York Times'.",
+   "source_page": "https://www.nytimes.com/2026/08/27/arts/design/yayoi-kusama-photos-artwork.html",
+   "notes": [
+    "Cropped from Todd's screenshot to the photograph alone — the article text, caption and phone chrome are not part of the object and are not in the archive.",
+    "Reproduced at screenshot resolution; the Times' own file is behind its paywall and was not taken."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/kus_m1.jpg",
+   "source_px": [
+    1170,
+    1752
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Yayoi Kusama"
+    },
+    {
+     "k": "type",
+     "v": "installation"
+    },
+    {
+     "k": "photographer",
+     "v": "Andreas Meichsner"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Caption and credit read directly off the New York Times feature 'Yayoi Kusama: A Life in Pictures' (27 August 2026), from Todd's own screenshots of it. Captioned '“A Bouquet of Love I saw in the Universe” at Martin-Gropius-Bau in Berlin in 2021', credited 'Andreas Meichsner for The New York Times'.",
+   "hue": 347.62,
+   "light": 0.4189,
+   "chroma": 0.791
+  },
+  "NYT Kusama::Kusama with her stuffed fabric works (1964)": {
+   "id": "CRVI000222",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000222.jpg",
+   "original_px": [
+    1170,
+    1161
+   ],
+   "original_bytes": 467283,
+   "identity": "NYT Kusama::Kusama with her stuffed fabric works (1964)",
+   "maker": "Yayoi Kusama",
+   "title": "Kusama with her stuffed fabric works",
+   "subtitle": "Photograph by Evelyn Hofer · among the sewn phalluses of her room-filling installations",
+   "year": "1964",
+   "verified_against": "Caption and credit read directly off the New York Times feature 'Yayoi Kusama: A Life in Pictures' (27 August 2026), from Todd's own screenshots of it. Captioned 'Ms. Kusama in 1964. In the early 1960s, she began sewing thousands of stuffed fabric phalluses to create arresting room-filling installations', credited 'Evelyn Hofer/Getty Images'.",
+   "source_page": "https://www.nytimes.com/2026/08/27/arts/design/yayoi-kusama-photos-artwork.html",
+   "notes": [
+    "Cropped from Todd's screenshot to the photograph alone — the article text, caption and phone chrome are not part of the object and are not in the archive.",
+    "Reproduced at screenshot resolution; the Times' own file is behind its paywall and was not taken."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/kus_m2.jpg",
+   "source_px": [
+    1170,
+    1161
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Yayoi Kusama"
+    },
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "photographer",
+     "v": "Evelyn Hofer"
+    },
+    {
+     "k": "subject",
+     "v": "Yayoi Kusama"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Caption and credit read directly off the New York Times feature 'Yayoi Kusama: A Life in Pictures' (27 August 2026), from Todd's own screenshots of it. Captioned 'Ms. Kusama in 1964. In the early 1960s, she began sewing thousands of stuffed fabric phalluses to create arresting room-filling installations', credited 'Evelyn Hofer/Getty Images'.",
+   "hue": null,
+   "light": 0.5302,
+   "chroma": 0.0
+  },
+  "NYT Kusama::Infinity Mirrored Room — Let's Survive Forever (2017)": {
+   "id": "CRVI000223",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000223.jpg",
+   "original_px": [
+    1170,
+    776
+   ],
+   "original_bytes": 375599,
+   "identity": "NYT Kusama::Infinity Mirrored Room — Let's Survive Forever (2017)",
+   "maker": "Yayoi Kusama",
+   "title": "Infinity Mirrored Room — Let's Survive Forever",
+   "subtitle": "Photograph by Vincent Tullo · David Zwirner Gallery",
+   "year": "2017",
+   "verified_against": "Caption and credit read directly off the New York Times feature 'Yayoi Kusama: A Life in Pictures' (27 August 2026), from Todd's own screenshots of it. Captioned '“Infinity Mirrored Room — Let’s Survive Forever,” at the David Zwirner gallery in 2017', credited 'Vincent Tullo for The New York Times'.",
+   "source_page": "https://www.nytimes.com/2026/08/27/arts/design/yayoi-kusama-photos-artwork.html",
+   "notes": [
+    "A different work from CRVI000219 'Longing for Eternity', though both were shown at David Zwirner in 2017 and both photographed by Vincent Tullo.",
+    "Cropped from Todd's screenshot to the photograph alone — the article text, caption and phone chrome are not part of the object and are not in the archive.",
+    "Reproduced at screenshot resolution; the Times' own file is behind its paywall and was not taken."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/kus_m3.jpg",
+   "source_px": [
+    1170,
+    776
+   ],
+   "colors": [
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Yayoi Kusama"
+    },
+    {
+     "k": "type",
+     "v": "installation"
+    },
+    {
+     "k": "photographer",
+     "v": "Vincent Tullo"
+    },
+    {
+     "k": "client",
+     "v": "David Zwirner Gallery"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Caption and credit read directly off the New York Times feature 'Yayoi Kusama: A Life in Pictures' (27 August 2026), from Todd's own screenshots of it. Captioned '“Infinity Mirrored Room — Let’s Survive Forever,” at the David Zwirner gallery in 2017', credited 'Vincent Tullo for The New York Times'.",
+   "hue": null,
+   "light": 0.4399,
+   "chroma": 0.0672
+  },
+  "NYT Kusama::Kusama painting dots at a happening (1968)": {
+   "id": "CRVI000224",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000224.jpg",
+   "original_px": [
+    1050,
+    1357
+   ],
+   "original_bytes": 279715,
+   "identity": "NYT Kusama::Kusama painting dots at a happening (1968)",
+   "maker": "Yayoi Kusama",
+   "title": "Kusama painting dots at a happening",
+   "subtitle": "Keystone Features · painting her dots onto the bodies of the hippie generation",
+   "year": "1968",
+   "verified_against": "Caption and credit read directly off the New York Times feature 'Yayoi Kusama: A Life in Pictures' (27 August 2026), from Todd's own screenshots of it. Captioned 'Kusama in 1968. She became famous for spectacles in which she would paint her trademark dots onto the naked bodies of the hippie generation', credited 'Keystone Features/Getty Images'.",
+   "source_page": "https://www.nytimes.com/2026/08/27/arts/design/yayoi-kusama-photos-artwork.html",
+   "notes": [
+    "Credited to the Keystone Features agency, not to a named photographer, so nobody is tagged in the photographer facet — that facet holds people. The agency credit is recorded here instead.",
+    "Cropped from Todd's screenshot to the photograph alone — the article text, caption and phone chrome are not part of the object and are not in the archive.",
+    "Reproduced at screenshot resolution; the Times' own file is behind its paywall and was not taken."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/kus_m4.jpg",
+   "source_px": [
+    1050,
+    1357
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Yayoi Kusama"
+    },
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "subject",
+     "v": "Yayoi Kusama"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Caption and credit read directly off the New York Times feature 'Yayoi Kusama: A Life in Pictures' (27 August 2026), from Todd's own screenshots of it. Captioned 'Kusama in 1968. She became famous for spectacles in which she would paint her trademark dots onto the naked bodies of the hippie generation', credited 'Keystone Features/Getty Images'.",
+   "hue": null,
+   "light": 0.3337,
+   "chroma": 0.0
   }
  }
 }

@@ -9410,6 +9410,174 @@
    ],
    "hue": 5.88,
    "light": 0.2061
+  },
+  {
+   "id": "CRVI000221",
+   "image": "images/CRVI000221.jpg",
+   "original": "originals/CRVI000221.jpg",
+   "original_px": [
+    1170,
+    1752
+   ],
+   "original_bytes": 824253,
+   "maker": "Yayoi Kusama",
+   "title": "A Bouquet of Love I saw in the Universe",
+   "subtitle": "Photograph by Andreas Meichsner · Martin-Gropius-Bau, Berlin",
+   "year": "2021",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Yayoi Kusama"
+    },
+    {
+     "k": "type",
+     "v": "installation"
+    },
+    {
+     "k": "photographer",
+     "v": "Andreas Meichsner"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 347.62,
+   "light": 0.4189
+  },
+  {
+   "id": "CRVI000222",
+   "image": "images/CRVI000222.jpg",
+   "original": "originals/CRVI000222.jpg",
+   "original_px": [
+    1170,
+    1161
+   ],
+   "original_bytes": 467283,
+   "maker": "Yayoi Kusama",
+   "title": "Kusama with her stuffed fabric works",
+   "subtitle": "Photograph by Evelyn Hofer · among the sewn phalluses of her room-filling installations",
+   "year": "1964",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Yayoi Kusama"
+    },
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "photographer",
+     "v": "Evelyn Hofer"
+    },
+    {
+     "k": "subject",
+     "v": "Yayoi Kusama"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "neutral"
+    }
+   ],
+   "hue": null,
+   "light": 0.5302
+  },
+  {
+   "id": "CRVI000223",
+   "image": "images/CRVI000223.jpg",
+   "original": "originals/CRVI000223.jpg",
+   "original_px": [
+    1170,
+    776
+   ],
+   "original_bytes": 375599,
+   "maker": "Yayoi Kusama",
+   "title": "Infinity Mirrored Room — Let's Survive Forever",
+   "subtitle": "Photograph by Vincent Tullo · David Zwirner Gallery",
+   "year": "2017",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Yayoi Kusama"
+    },
+    {
+     "k": "type",
+     "v": "installation"
+    },
+    {
+     "k": "photographer",
+     "v": "Vincent Tullo"
+    },
+    {
+     "k": "client",
+     "v": "David Zwirner Gallery"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": null,
+   "light": 0.4399
+  },
+  {
+   "id": "CRVI000224",
+   "image": "images/CRVI000224.jpg",
+   "original": "originals/CRVI000224.jpg",
+   "original_px": [
+    1050,
+    1357
+   ],
+   "original_bytes": 279715,
+   "maker": "Yayoi Kusama",
+   "title": "Kusama painting dots at a happening",
+   "subtitle": "Keystone Features · painting her dots onto the bodies of the hippie generation",
+   "year": "1968",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Yayoi Kusama"
+    },
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "subject",
+     "v": "Yayoi Kusama"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "neutral"
+    }
+   ],
+   "hue": null,
+   "light": 0.3337
   }
  ]
 }
