@@ -133,7 +133,10 @@ def main(spec_path):
     print(f'  image {orig[0]}x{orig[1]} · {shown}  colors {it["colors"]}')
 
     # ---- rewrite the museum payload from the registry ----
-    items = sorted(reg["items"].values(), key=lambda x: x["id"])
+    # ⚠️ A DELETED item stays in the registry so its number stays provably retired and the
+    # history is kept, but it must not reach the public payload, the site, or the files.
+    items = [i for i in sorted(reg["items"].values(), key=lambda x: x["id"])
+             if not i.get("deleted")]
     out = []
     for i in items:
         tags = list(i.get("tags") or [])

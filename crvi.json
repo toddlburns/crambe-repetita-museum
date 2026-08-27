@@ -9410,48 +9410,6 @@
    ],
    "hue": 5.88,
    "light": 0.2061
-  },
-  {
-   "id": "CRVI000220",
-   "image": "images/CRVI000220.jpg",
-   "original": "originals/CRVI000220.jpg",
-   "original_px": [
-    1170,
-    1542
-   ],
-   "original_bytes": 558574,
-   "maker": "Yayoi Kusama",
-   "title": "Narcissus Garden",
-   "subtitle": "Photograph by Heather Sten · steel spheres on an artificial wetland, New York Botanical Garden",
-   "year": "1966/2021",
-   "tags": [
-    {
-     "k": "artist",
-     "v": "Yayoi Kusama"
-    },
-    {
-     "k": "type",
-     "v": "installation"
-    },
-    {
-     "k": "photographer",
-     "v": "Heather Sten"
-    },
-    {
-     "k": "location",
-     "v": "United States"
-    },
-    {
-     "k": "decade",
-     "v": "1960s"
-    },
-    {
-     "k": "color",
-     "v": "orange"
-    }
-   ],
-   "hue": 205.62,
-   "light": 0.3919
   }
  ]
 }

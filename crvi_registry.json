@@ -10552,7 +10552,8 @@
    "notes": [
     "Dated 1966/2021 as the Times dates it: the work is from 1966, this installation of it from 2021.",
     "Cropped from Todd's screenshot to the photograph alone — the article text, caption and phone chrome are not part of the object and are not in the archive.",
-    "Reproduced here at screenshot resolution; the Times' own file is behind its paywall and was not taken."
+    "Reproduced here at screenshot resolution; the Times' own file is behind its paywall and was not taken.",
+    "DELETED from the museum at Todd's request on 2026-08-27. The record is kept so the number stays provably retired: CRVI000220 is never reissued, so no old link can ever resolve to a different object. Image files removed; the item no longer reaches the payload or the site."
    ],
    "label": "",
    "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/kus_k5.jpg",
@@ -10586,11 +10587,13 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "Caption and credit read directly off the New York Times feature 'Yayoi Kusama: A Life in Pictures' (27 August 2026), from Todd's own screenshots of it. Captioned '“Narcissus Garden” (1966/2021), with steel balls floating on the waters of an artificial wetland, at the New York Botanical Garden in 2021', credited 'Heather Sten for The New York Times'.",
    "hue": 205.62,
    "light": 0.3919,
-   "chroma": 0.249
+   "chroma": 0.249,
+   "deleted": true,
+   "deleted_on": "2026-08-27"
   }
  }
 }
