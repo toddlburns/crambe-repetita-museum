@@ -4865,6 +4865,112 @@
     }
    ],
    "published": true
+  },
+  {
+   "id": "CRVI000114",
+   "image": "images/CRVI000114.jpg",
+   "original": "originals/CRVI000114.jpg",
+   "original_px": [
+    3796,
+    5379
+   ],
+   "original_bytes": 2882722,
+   "maker": "Yusaku Kamekura",
+   "title": "Tokyo 1964 — Butterfly Swimmer",
+   "subtitle": "Official poster, Games of the XVIII Olympiad · photograph Osamu Hayasaki · photo direction Jo Murakoshi",
+   "year": "1964",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Yusaku Kamekura"
+    },
+    {
+     "k": "photographer",
+     "v": "Osamu Hayasaki"
+    },
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "subject",
+     "v": "Olympics"
+    },
+    {
+     "k": "client",
+     "v": "Tokyo 1964 Olympic Games"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "colour",
+     "v": "cyan"
+    },
+    {
+     "k": "colour",
+     "v": "orange"
+    }
+   ],
+   "published": true
+  },
+  {
+   "id": "CRVI000115",
+   "image": "images/CRVI000115.jpg",
+   "original": "originals/CRVI000115.jpg",
+   "original_px": [
+    1130,
+    1598
+   ],
+   "original_bytes": 2272745,
+   "maker": "Yusaku Kamekura",
+   "title": "Tokyo 1964 — Starting Line",
+   "subtitle": "Official poster, Games of the XVIII Olympiad · photograph Osamu Hayasaki",
+   "year": "1964",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Yusaku Kamekura"
+    },
+    {
+     "k": "photographer",
+     "v": "Osamu Hayasaki"
+    },
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "subject",
+     "v": "Olympics"
+    },
+    {
+     "k": "client",
+     "v": "Tokyo 1964 Olympic Games"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "colour",
+     "v": "red"
+    },
+    {
+     "k": "colour",
+     "v": "orange"
+    }
+   ],
+   "published": true
   }
  ]
 }
