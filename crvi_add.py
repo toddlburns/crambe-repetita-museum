@@ -16,6 +16,7 @@ where item.json carries at least: identity, image (path or url), maker, title, a
 """
 import json, os, re, shutil, sys, urllib.request, collections
 import labels
+import payload
 
 BASE = os.path.dirname(os.path.realpath(__file__))   # realpath: symlinks still resolve here
 ROOT = os.path.dirname(BASE)
@@ -133,46 +134,8 @@ def main(spec_path):
     print(f'  image {orig[0]}x{orig[1]} · {shown}  colors {it["colors"]}')
 
     # ---- rewrite the museum payload from the registry ----
-    # ⚠️ A DELETED item stays in the registry so its number stays provably retired and the
-    # history is kept, but it must not reach the public payload, the site, or the files.
-    items = [i for i in sorted(reg["items"].values(), key=lambda x: x["id"])
-             if not i.get("deleted")]
-    out = []
-    for i in items:
-        tags = list(i.get("tags") or [])
-        if not tags:                       # the IDM items carry structured fields, not tags
-            for d in i.get("designers", []): tags.append({"k": "designer", "v": d})
-            if i.get("artist"): tags.append({"k": "artist", "v": i["artist"]})
-            if i.get("label"): tags.append({"k": "label", "v": i["label"]})
-            y = i.get("year")
-            if y and y.isdigit(): tags.append({"k": "decade", "v": f"{int(y)//10*10}s"})
-            tags.append({"k": "type", "v": "album cover"})
-            for t, kk in (("photo", "photographer"), ("illus", "illustrator"),
-                          ("art dir", "art director"), ("type", "typographer")):
-                for n in (i.get("credits") or {}).get(t, []): tags.append({"k": kk, "v": n})
-        for c in i.get("colors", []): tags.append({"k": "color", "v": c})
-        seen, uniq = set(), []
-        for t in tags:
-            k = (t["k"], t["v"])
-            if k in seen or not t["v"]: continue
-            seen.add(k); uniq.append(t)
-        if i.get("maker") is not None:                       # explicitly-specified item
-            maker, title, sub = i.get("maker", ""), i.get("title", ""), i.get("subtitle", "")
-        else:                                                # IDM album shape
-            maker, title = i.get("artist", ""), i.get("title", "")
-            ds = i.get("designers") or []
-            sub = (("Designed by " if (i.get("designer_source") or "").startswith("design")
-                    else "Artwork by ") + ", ".join(ds)) if ds else "Designer unknown"
-            if i.get("label"): sub += f' · {i["label"]}'
-        out.append({"id": i["id"], "image": i.get("display") or ("images/" + i["id"] + ".jpg"),
-                    "original": i.get("original_file") or ("originals/" + i["id"] + ".jpg"),
-                    "original_px": i.get("original_px"),
-                    "original_bytes": i.get("original_bytes"),
-                    "maker": maker, "title": title, "subtitle": sub,
-                    "year": str(i.get("year") or ""), "tags": uniq})
-    json.dump({"archive": "Crambe Repetita Visual Inspiration",
-               "items": out}, open(os.path.join(SITE, "crvi.json"), "w"),
-              ensure_ascii=False, indent=1)
+    # One builder, shared with crvi.py and crvi_delete.py — see payload.py.
+    out = payload.write(reg, SITE)
     print(f'  archive now {len(out)} items · next number CRVI{reg["next"]:06d}')
 
 

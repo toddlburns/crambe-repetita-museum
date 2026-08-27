@@ -50,9 +50,29 @@ git add -A && git commit && git push
 
 `crvi_add.py` rewrites `crvi.json` itself, so a single add doesn't need the bulk builder.
 
+## Deleting an item
+
+```bash
+python3 crvi_delete.py CRVI000223 CRVI000224     # --dry-run to see it first
+```
+
+⚠️ **Use the script, not the steps by hand.** Deletion is a three-stage sequence and the middle
+stage — rebuilding `crvi.json` — is easy to skip, because `crvi_hue.py` also writes to that file
+and so looks like it rebuilt it. It doesn't; it only stamps hue values onto what's already
+there. Miss the rebuild and the item stays live on the site while every command reports success.
+That happened once, on CRVI000220.
+
+⚠️ **Numbers are retired, never recycled.** The record stays in the registry flagged `deleted`
+and `reg.next` is untouched, so a deleted number is never minted again. A gap in the sequence is
+the honest outcome; reusing one would make an old link resolve to a different object.
+
+`payload.py` is the single builder for `crvi.json`, shared by `crvi_add.py`, `crvi.py` and
+`crvi_delete.py` — deleted items are excluded there, at the one chokepoint every writer passes.
+
 ## What lives where
 
-- `crvi_registry.json` · `crvi_add.py` · `crvi_hue.py` · `labels.py` · `build.py` — here, in the repo,
+- `crvi_registry.json` · `crvi_add.py` · `crvi_delete.py` · `crvi_hue.py` · `labels.py` ·
+  `payload.py` · `build.py` — here, in the repo,
   so the whole pipeline is reachable from any machine (including a session started from a phone).
 - `crvi.py` — the IDM-book bulk builder, still on Todd's Mac at `~/Desktop/Graphic Design/_catalog/`,
   because it reads `FINAL/` and the Discogs credit files. It writes to the registry *here*.
