@@ -40,7 +40,6 @@
      "v": "black"
     }
    ],
-   "published": true,
    "hue": 358.29,
    "light": 0.0439
   },
@@ -83,7 +82,6 @@
      "v": "black"
     }
    ],
-   "published": true,
    "hue": null,
    "light": 0.1502
   },
@@ -130,7 +128,6 @@
      "v": "blue"
     }
    ],
-   "published": true,
    "hue": 194.57,
    "light": 0.5981
   },
@@ -173,7 +170,6 @@
      "v": "neutral"
     }
    ],
-   "published": true,
    "hue": null,
    "light": 0.7932
   },
@@ -216,7 +212,6 @@
      "v": "white"
     }
    ],
-   "published": true,
    "hue": 225.15,
    "light": 0.882
   },
@@ -271,7 +266,6 @@
      "v": "white"
     }
    ],
-   "published": true,
    "hue": null,
    "light": 0.8379
   },
@@ -322,7 +316,6 @@
      "v": "purple"
     }
    ],
-   "published": true,
    "hue": 265.0,
    "light": 0.391
   },
@@ -369,7 +362,6 @@
      "v": "green"
     }
    ],
-   "published": true,
    "hue": 177.27,
    "light": 0.4689
   },
@@ -416,7 +408,6 @@
      "v": "orange"
     }
    ],
-   "published": true,
    "hue": 45.51,
    "light": 0.4048
   },
@@ -467,7 +458,6 @@
      "v": "cyan"
     }
    ],
-   "published": true,
    "hue": 196.03,
    "light": 0.4352
   },
@@ -510,7 +500,6 @@
      "v": "yellow"
     }
    ],
-   "published": true,
    "hue": 57.16,
    "light": 0.86
   },
@@ -557,7 +546,6 @@
      "v": "yellow"
     }
    ],
-   "published": true,
    "hue": 54.93,
    "light": 0.6642
   },
@@ -604,7 +592,6 @@
      "v": "cyan"
     }
    ],
-   "published": true,
    "hue": 206.84,
    "light": 0.5829
   },
@@ -655,7 +642,6 @@
      "v": "white"
     }
    ],
-   "published": true,
    "hue": null,
    "light": 0.8131
   },
@@ -706,7 +692,6 @@
      "v": "pink"
     }
    ],
-   "published": true,
    "hue": 195.26,
    "light": 0.4696
   },
@@ -757,7 +742,6 @@
      "v": "orange"
     }
    ],
-   "published": true,
    "hue": 213.35,
    "light": 0.4609
   },
@@ -772,7 +756,7 @@
    "original_bytes": 975714,
    "maker": "David Chesworth",
    "title": "50 Synthesizer Greats",
-   "subtitle": "Designed by Geronimo Creative Services · Not On Label",
+   "subtitle": "Designed by Geronimo Creative Services",
    "year": "1979",
    "tags": [
     {
@@ -782,10 +766,6 @@
     {
      "k": "artist",
      "v": "David Chesworth"
-    },
-    {
-     "k": "label",
-     "v": "Not On Label"
     },
     {
      "k": "decade",
@@ -804,7 +784,6 @@
      "v": "yellow"
     }
    ],
-   "published": true,
    "hue": 43.21,
    "light": 0.5556
   },
@@ -847,7 +826,6 @@
      "v": "neutral"
     }
    ],
-   "published": true,
    "hue": null,
    "light": 0.2471
   },
@@ -862,7 +840,7 @@
    "original_bytes": 1505787,
    "maker": "Two Lone Swordsmen",
    "title": "Stay Down",
-   "subtitle": "Designed by Haywire, James Woodbourne · Warp",
+   "subtitle": "Designed by Haywire, James Woodbourne · Warp Records",
    "year": "1998",
    "tags": [
     {
@@ -879,7 +857,7 @@
     },
     {
      "k": "label",
-     "v": "Warp"
+     "v": "Warp Records"
     },
     {
      "k": "decade",
@@ -898,7 +876,6 @@
      "v": "yellow"
     }
    ],
-   "published": true,
    "hue": 104.36,
    "light": 0.3824
   },
@@ -937,7 +914,6 @@
      "v": "neutral"
     }
    ],
-   "published": true,
    "hue": null,
    "light": 0.6028
   },
@@ -984,7 +960,6 @@
      "v": "green"
     }
    ],
-   "published": true,
    "hue": 136.42,
    "light": 0.6241
   },
@@ -1035,7 +1010,6 @@
      "v": "blue"
     }
    ],
-   "published": true,
    "hue": 222.73,
    "light": 0.7895
   },
@@ -1082,7 +1056,6 @@
      "v": "green"
     }
    ],
-   "published": true,
    "hue": 214.8,
    "light": 0.64
   },
@@ -1097,7 +1070,7 @@
    "original_bytes": 3544950,
    "maker": "The Caretaker",
    "title": "An Empty Bliss Beyond This World",
-   "subtitle": "Artwork by Ivan Seal · History Always Favours the Winners",
+   "subtitle": "Artwork by Ivan Seal · History Always Favours The Winners",
    "year": "2011",
    "tags": [
     {
@@ -1110,7 +1083,7 @@
     },
     {
      "k": "label",
-     "v": "History Always Favours the Winners"
+     "v": "History Always Favours The Winners"
     },
     {
      "k": "decade",
@@ -1129,7 +1102,6 @@
      "v": "cyan"
     }
    ],
-   "published": true,
    "hue": 215.61,
    "light": 0.3652
   },
@@ -1172,7 +1144,6 @@
      "v": "white"
     }
    ],
-   "published": true,
    "hue": null,
    "light": 0.9499
   },
@@ -1223,7 +1194,6 @@
      "v": "white"
     }
    ],
-   "published": true,
    "hue": null,
    "light": 0.8044
   },
@@ -1266,7 +1236,6 @@
      "v": "orange"
     }
    ],
-   "published": true,
    "hue": 27.33,
    "light": 0.4138
   },
@@ -1317,7 +1286,6 @@
      "v": "neutral"
     }
    ],
-   "published": true,
    "hue": null,
    "light": 0.556
   },
@@ -1368,7 +1336,6 @@
      "v": "black"
     }
    ],
-   "published": true,
    "hue": 34.29,
    "light": 0.2586
   },
@@ -1415,7 +1382,6 @@
      "v": "orange"
     }
    ],
-   "published": true,
    "hue": 195.07,
    "light": 0.4882
   },
@@ -1466,7 +1432,6 @@
      "v": "red"
     }
    ],
-   "published": true,
    "hue": 24.58,
    "light": 0.1798
   },
@@ -1513,7 +1478,6 @@
      "v": "red"
     }
    ],
-   "published": true,
    "hue": 17.41,
    "light": 0.6678
   },
@@ -1552,7 +1516,6 @@
      "v": "neutral"
     }
    ],
-   "published": true,
    "hue": null,
    "light": 0.5705
   },
@@ -1599,7 +1562,6 @@
      "v": "blue"
     }
    ],
-   "published": true,
    "hue": 156.32,
    "light": 0.8588
   },
@@ -1642,7 +1604,6 @@
      "v": "blue"
     }
    ],
-   "published": true,
    "hue": 4.97,
    "light": 0.5006
   },
@@ -1681,7 +1642,6 @@
      "v": "white"
     }
    ],
-   "published": true,
    "hue": null,
    "light": 0.9216
   },
@@ -1728,7 +1688,6 @@
      "v": "yellow"
     }
    ],
-   "published": true,
    "hue": 41.63,
    "light": 0.5122
   },
@@ -1783,7 +1742,6 @@
      "v": "red"
     }
    ],
-   "published": true,
    "hue": 2.95,
    "light": 0.8699
   },
@@ -1830,7 +1788,6 @@
      "v": "cyan"
     }
    ],
-   "published": true,
    "hue": 4.79,
    "light": 0.7855
   },
@@ -1877,7 +1834,6 @@
      "v": "red"
     }
    ],
-   "published": true,
    "hue": 23.37,
    "light": 0.4484
   },
@@ -1924,7 +1880,6 @@
      "v": "neutral"
     }
    ],
-   "published": true,
    "hue": null,
    "light": 0.5595
   },
@@ -1967,7 +1922,6 @@
      "v": "orange"
     }
    ],
-   "published": true,
    "hue": 142.26,
    "light": 0.5757
   },
@@ -2014,7 +1968,6 @@
      "v": "neutral"
     }
    ],
-   "published": true,
    "hue": null,
    "light": 0.3011
   },
@@ -2057,7 +2010,6 @@
      "v": "black"
     }
    ],
-   "published": true,
    "hue": null,
    "light": 0.1271
   },
@@ -2072,7 +2024,7 @@
    "original_bytes": 222871,
    "maker": "Various",
    "title": "Artificial Intelligence II",
-   "subtitle": "Artwork by Phil Wolstenholme, The Designers Republic · Warp",
+   "subtitle": "Artwork by Phil Wolstenholme, The Designers Republic · Warp Records",
    "year": "1994",
    "tags": [
     {
@@ -2089,7 +2041,7 @@
     },
     {
      "k": "label",
-     "v": "Warp"
+     "v": "Warp Records"
     },
     {
      "k": "decade",
@@ -2108,7 +2060,6 @@
      "v": "green"
     }
    ],
-   "published": true,
    "hue": 356.72,
    "light": 0.247
   },
@@ -2147,7 +2098,6 @@
      "v": "black"
     }
    ],
-   "published": true,
    "hue": null,
    "light": 0.1267
   },
@@ -2194,7 +2144,6 @@
      "v": "white"
     }
    ],
-   "published": true,
    "hue": 175.07,
    "light": 0.859
   },
@@ -2209,7 +2158,7 @@
    "original_bytes": 530498,
    "maker": "Oneohtrix Point Never",
    "title": "R Plus Seven",
-   "subtitle": "Designed by Robert Beatty · War facords",
+   "subtitle": "Designed by Robert Beatty · Warp Records",
    "year": "2013",
    "tags": [
     {
@@ -2222,7 +2171,7 @@
     },
     {
      "k": "label",
-     "v": "War facords"
+     "v": "Warp Records"
     },
     {
      "k": "decade",
@@ -2249,7 +2198,6 @@
      "v": "orange"
     }
    ],
-   "published": true,
    "hue": 43.38,
    "light": 0.2696
   },
@@ -2296,7 +2244,6 @@
      "v": "yellow"
     }
    ],
-   "published": true,
    "hue": 47.76,
    "light": 0.7648
   },
@@ -2343,7 +2290,6 @@
      "v": "white"
     }
    ],
-   "published": true,
    "hue": null,
    "light": 0.8331
   },
@@ -2382,7 +2328,6 @@
      "v": "red"
     }
    ],
-   "published": true,
    "hue": 5.01,
    "light": 0.3623
   },
@@ -2421,7 +2366,6 @@
      "v": "red"
     }
    ],
-   "published": true,
    "hue": 5.0,
    "light": 0.5722
   },
@@ -2468,7 +2412,6 @@
      "v": "yellow"
     }
    ],
-   "published": true,
    "hue": 56.92,
    "light": 0.8539
   },
@@ -2483,7 +2426,7 @@
    "original_bytes": 228757,
    "maker": "Autechre",
    "title": "Amber",
-   "subtitle": "Designed by The Designers Republic · Warp",
+   "subtitle": "Designed by The Designers Republic · Warp Records",
    "year": "1994",
    "tags": [
     {
@@ -2496,7 +2439,7 @@
     },
     {
      "k": "label",
-     "v": "Warp"
+     "v": "Warp Records"
     },
     {
      "k": "decade",
@@ -2515,7 +2458,6 @@
      "v": "blue"
     }
    ],
-   "published": true,
    "hue": 333.51,
    "light": 0.6508
   },
@@ -2562,7 +2504,6 @@
      "v": "orange"
     }
    ],
-   "published": true,
    "hue": 27.53,
    "light": 0.6264
   },
@@ -2601,7 +2542,6 @@
      "v": "green"
     }
    ],
-   "published": true,
    "hue": 82.88,
    "light": 0.311
   },
@@ -2652,7 +2592,6 @@
      "v": "blue"
     }
    ],
-   "published": true,
    "hue": 25.98,
    "light": 0.398
   },
@@ -2699,7 +2638,6 @@
      "v": "green"
     }
    ],
-   "published": true,
    "hue": 55.13,
    "light": 0.3719
   },
@@ -2746,7 +2684,6 @@
      "v": "yellow"
     }
    ],
-   "published": true,
    "hue": 43.61,
    "light": 0.4139
   },
@@ -2793,7 +2730,6 @@
      "v": "black"
     }
    ],
-   "published": true,
    "hue": null,
    "light": 0.2329
   },
@@ -2844,7 +2780,6 @@
      "v": "orange"
     }
    ],
-   "published": true,
    "hue": 44.87,
    "light": 0.6538
   },
@@ -2895,7 +2830,6 @@
      "v": "orange"
     }
    ],
-   "published": true,
    "hue": 27.32,
    "light": 0.6066
   },
@@ -2934,7 +2868,6 @@
      "v": "white"
     }
    ],
-   "published": true,
    "hue": null,
    "light": 0.6595
   },
@@ -2977,7 +2910,6 @@
      "v": "yellow"
     }
    ],
-   "published": true,
    "hue": null,
    "light": 0.5407
   },
@@ -3020,7 +2952,6 @@
      "v": "purple"
     }
    ],
-   "published": true,
    "hue": 199.21,
    "light": 0.6266
   },
@@ -3059,7 +2990,6 @@
      "v": "neutral"
     }
    ],
-   "published": true,
    "hue": null,
    "light": 0.6019
   },
@@ -3102,7 +3032,6 @@
      "v": "blue"
     }
    ],
-   "published": true,
    "hue": 28.44,
    "light": 0.6799
   },
@@ -3153,7 +3082,6 @@
      "v": "red"
     }
    ],
-   "published": true,
    "hue": 355.47,
    "light": 0.6626
   },
@@ -3196,7 +3124,6 @@
      "v": "yellow"
     }
    ],
-   "published": true,
    "hue": 55.54,
    "light": 0.4324
   },
@@ -3243,7 +3170,6 @@
      "v": "neutral"
     }
    ],
-   "published": true,
    "hue": null,
    "light": 0.3022
   },
@@ -3290,7 +3216,6 @@
      "v": "white"
     }
    ],
-   "published": true,
    "hue": 23.62,
    "light": 0.85
   },
@@ -3325,7 +3250,6 @@
      "v": "neutral"
     }
    ],
-   "published": true,
    "hue": null,
    "light": 0.5617
   },
@@ -3364,7 +3288,6 @@
      "v": "orange"
     }
    ],
-   "published": true,
    "hue": 45.56,
    "light": 0.7876
   },
@@ -3403,7 +3326,6 @@
      "v": "orange"
     }
    ],
-   "published": true,
    "hue": 25.06,
    "light": 0.539
   },
@@ -3446,7 +3368,6 @@
      "v": "blue"
     }
    ],
-   "published": true,
    "hue": 307.12,
    "light": 0.4774
   },
@@ -3485,7 +3406,6 @@
      "v": "black"
     }
    ],
-   "published": true,
    "hue": 25.03,
    "light": 0.0499
   },
@@ -3528,7 +3448,6 @@
      "v": "white"
     }
    ],
-   "published": true,
    "hue": null,
    "light": 0.9024
   },
@@ -3567,7 +3486,6 @@
      "v": "orange"
     }
    ],
-   "published": true,
    "hue": 52.24,
    "light": 0.2397
   },
@@ -3606,7 +3524,6 @@
      "v": "orange"
     }
    ],
-   "published": true,
    "hue": 25.0,
    "light": 0.4447
   },
@@ -3645,7 +3562,6 @@
      "v": "neutral"
     }
    ],
-   "published": true,
    "hue": null,
    "light": 0.3892
   },
@@ -3688,7 +3604,6 @@
      "v": "neutral"
     }
    ],
-   "published": true,
    "hue": null,
    "light": 0.4154
   },
@@ -3727,7 +3642,6 @@
      "v": "orange"
     }
    ],
-   "published": true,
    "hue": 15.33,
    "light": 0.3374
   },
@@ -3766,7 +3680,6 @@
      "v": "orange"
     }
    ],
-   "published": true,
    "hue": 27.65,
    "light": 0.5861
   },
@@ -3805,7 +3718,6 @@
      "v": "black"
     }
    ],
-   "published": true,
    "hue": null,
    "light": 0.1266
   },
@@ -3844,7 +3756,6 @@
      "v": "white"
     }
    ],
-   "published": true,
    "hue": null,
    "light": 0.8238
   },
@@ -3887,7 +3798,6 @@
      "v": "orange"
     }
    ],
-   "published": true,
    "hue": 345.06,
    "light": 0.6917
   },
@@ -3930,7 +3840,6 @@
      "v": "white"
     }
    ],
-   "published": true,
    "hue": null,
    "light": 0.9689
   },
@@ -3973,7 +3882,6 @@
      "v": "yellow"
     }
    ],
-   "published": true,
    "hue": 56.0,
    "light": 0.7216
   },
@@ -4016,7 +3924,6 @@
      "v": "green"
     }
    ],
-   "published": true,
    "hue": 210.83,
    "light": 0.6387
   },
@@ -4051,7 +3958,6 @@
      "v": "blue"
     }
    ],
-   "published": true,
    "hue": 216.02,
    "light": 0.6034
   },
@@ -4094,7 +4000,6 @@
      "v": "white"
     }
    ],
-   "published": true,
    "hue": 231.3,
    "light": 0.9702
   },
@@ -4137,7 +4042,6 @@
      "v": "black"
     }
    ],
-   "published": true,
    "hue": 53.01,
    "light": 0.2903
   },
@@ -4188,7 +4092,6 @@
      "v": "blue"
     }
    ],
-   "published": true,
    "hue": 214.59,
    "light": 0.5695
   },
@@ -4203,7 +4106,7 @@
    "original_bytes": 715599,
    "maker": "Various",
    "title": "Artificial Intelligence",
-   "subtitle": "Designer unknown · Warp",
+   "subtitle": "Designer unknown · Warp Records",
    "year": "1992",
    "tags": [
     {
@@ -4212,7 +4115,7 @@
     },
     {
      "k": "label",
-     "v": "Warp"
+     "v": "Warp Records"
     },
     {
      "k": "decade",
@@ -4231,7 +4134,6 @@
      "v": "orange"
     }
    ],
-   "published": true,
    "hue": 155.44,
    "light": 0.2925
   },
@@ -4246,7 +4148,7 @@
    "original_bytes": 1367768,
    "maker": "Martin Davorin Jagodic",
    "title": "Tempo Furioso (Tolles Wetter)",
-   "subtitle": "Designer unknown · nova musicha - n. 8",
+   "subtitle": "Designer unknown · nova musicha - n.",
    "year": "1975",
    "tags": [
     {
@@ -4255,7 +4157,7 @@
     },
     {
      "k": "label",
-     "v": "nova musicha - n. 8"
+     "v": "nova musicha - n."
     },
     {
      "k": "decade",
@@ -4278,7 +4180,6 @@
      "v": "yellow"
     }
    ],
-   "published": true,
    "hue": null,
    "light": 0.8491
   },
@@ -4321,7 +4222,6 @@
      "v": "yellow"
     }
    ],
-   "published": true,
    "hue": 22.53,
    "light": 0.5273
   },
@@ -4364,7 +4264,6 @@
      "v": "orange"
     }
    ],
-   "published": true,
    "hue": 45.88,
    "light": 0.3685
   },
@@ -4403,7 +4302,6 @@
      "v": "red"
     }
    ],
-   "published": true,
    "hue": 355.24,
    "light": 0.3771
   },
@@ -4442,7 +4340,6 @@
      "v": "orange"
     }
    ],
-   "published": true,
    "hue": 42.46,
    "light": 0.4844
   },
@@ -4493,7 +4390,6 @@
      "v": "black"
     }
    ],
-   "published": true,
    "hue": 58.62,
    "light": 0.1592
   },
@@ -4508,7 +4404,7 @@
    "original_bytes": 290699,
    "maker": "p-Ziq",
    "title": "Lunatic Harness",
-   "subtitle": "Designer unknown · Planet Mu / Virgin",
+   "subtitle": "Designer unknown · Planet Mu",
    "year": "1997",
    "tags": [
     {
@@ -4517,7 +4413,7 @@
     },
     {
      "k": "label",
-     "v": "Planet Mu / Virgin"
+     "v": "Planet Mu"
     },
     {
      "k": "decade",
@@ -4532,7 +4428,6 @@
      "v": "orange"
     }
    ],
-   "published": true,
    "hue": 26.35,
    "light": 0.4348
   },
@@ -4579,7 +4474,6 @@
      "v": "white"
     }
    ],
-   "published": true,
    "hue": null,
    "light": 0.7335
   },
@@ -4622,7 +4516,6 @@
      "v": "blue"
     }
    ],
-   "published": true,
    "hue": 213.87,
    "light": 0.8298
   },
@@ -4665,7 +4558,6 @@
      "v": "blue"
     }
    ],
-   "published": true,
    "hue": 223.42,
    "light": 0.7958
   },
@@ -4708,7 +4600,6 @@
      "v": "orange"
     }
    ],
-   "published": true,
    "hue": 40.81,
    "light": 0.7469
   },
@@ -4759,7 +4650,6 @@
      "v": "yellow"
     }
    ],
-   "published": true,
    "hue": 27.6,
    "light": 0.6553
   },
@@ -4806,7 +4696,6 @@
      "v": "red"
     }
    ],
-   "published": true,
    "hue": 34.24,
    "light": 0.6262
   },
@@ -4849,7 +4738,6 @@
      "v": "orange"
     }
    ],
-   "published": true,
    "hue": null,
    "light": 0.8529
   },
@@ -4900,7 +4788,6 @@
      "v": "yellow"
     }
    ],
-   "published": true,
    "hue": 55.77,
    "light": 0.838
   },
@@ -4947,7 +4834,6 @@
      "v": "orange"
     }
    ],
-   "published": true,
    "hue": 51.03,
    "light": 0.5184
   },
@@ -4994,7 +4880,6 @@
      "v": "red"
     }
    ],
-   "published": true,
    "hue": 37.35,
    "light": 0.5474
   },
@@ -5041,7 +4926,6 @@
      "v": "yellow"
     }
    ],
-   "published": true,
    "hue": 35.94,
    "light": 0.4604
   },
@@ -5088,7 +4972,6 @@
      "v": "red"
     }
    ],
-   "published": true,
    "hue": 23.52,
    "light": 0.3601
   },
@@ -5143,7 +5026,6 @@
      "v": "orange"
     }
    ],
-   "published": true,
    "hue": 192.42,
    "light": 0.3159
   },
@@ -5198,7 +5080,6 @@
      "v": "orange"
     }
    ],
-   "published": true,
    "hue": 13.44,
    "light": 0.2938
   },
@@ -5241,7 +5122,6 @@
      "v": "orange"
     }
    ],
-   "published": true,
    "hue": 4.23,
    "light": 0.4892
   },
@@ -5284,7 +5164,6 @@
      "v": "yellow"
     }
    ],
-   "published": true,
    "hue": 52.95,
    "light": 0.4681
   },
@@ -5327,7 +5206,6 @@
      "v": "orange"
     }
    ],
-   "published": true,
    "hue": 357.04,
    "light": 0.3862
   },
@@ -5374,7 +5252,6 @@
      "v": "orange"
     }
    ],
-   "published": true,
    "hue": 325.94,
    "light": 0.4418
   },
@@ -5425,7 +5302,6 @@
      "v": "yellow"
     }
    ],
-   "published": true,
    "hue": 17.51,
    "light": 0.2814
   },
@@ -5476,7 +5352,6 @@
      "v": "cyan"
     }
    ],
-   "published": true,
    "hue": 4.22,
    "light": 0.4447
   },
@@ -5519,7 +5394,6 @@
      "v": "orange"
     }
    ],
-   "published": true,
    "hue": 4.98,
    "light": 0.7529
   },
@@ -5566,7 +5440,6 @@
      "v": "pink"
     }
    ],
-   "published": true,
    "hue": 45.06,
    "light": 0.3825
   },
@@ -5613,7 +5486,6 @@
      "v": "cyan"
     }
    ],
-   "published": true,
    "hue": 352.57,
    "light": 0.5033
   },
@@ -5668,7 +5540,6 @@
      "v": "black"
     }
    ],
-   "published": true,
    "hue": 1.75,
    "light": 0.1363
   },
@@ -5715,7 +5586,6 @@
      "v": "black"
     }
    ],
-   "published": true,
    "hue": 44.72,
    "light": 0.158
   },
@@ -5762,7 +5632,6 @@
      "v": "red"
     }
    ],
-   "published": true,
    "hue": 354.25,
    "light": 0.6506
   },
@@ -5809,7 +5678,6 @@
      "v": "blue"
     }
    ],
-   "published": true,
    "hue": 47.96,
    "light": 0.6148
   },
@@ -5848,7 +5716,6 @@
      "v": "blue"
     }
    ],
-   "published": true,
    "hue": 192.4,
    "light": 0.5157
   },
@@ -5891,7 +5758,6 @@
      "v": "orange"
     }
    ],
-   "published": true,
    "hue": 43.95,
    "light": 0.6385
   },
@@ -5926,7 +5792,6 @@
      "v": "orange"
     }
    ],
-   "published": true,
    "hue": 27.87,
    "light": 0.2101
   },
@@ -5973,7 +5838,6 @@
      "v": "red"
     }
    ],
-   "published": true,
    "hue": 6.49,
    "light": 0.4046
   },
@@ -6020,7 +5884,6 @@
      "v": "red"
     }
    ],
-   "published": true,
    "hue": 205.69,
    "light": 0.464
   },
@@ -6063,7 +5926,6 @@
      "v": "green"
     }
    ],
-   "published": true,
    "hue": null,
    "light": 0.4865
   },
@@ -6106,7 +5968,6 @@
      "v": "orange"
     }
    ],
-   "published": true,
    "hue": 31.47,
    "light": 0.3246
   },
@@ -6145,7 +6006,6 @@
      "v": "orange"
     }
    ],
-   "published": true,
    "hue": 4.77,
    "light": 0.5557
   },
@@ -6184,7 +6044,6 @@
      "v": "cyan"
     }
    ],
-   "published": true,
    "hue": 4.53,
    "light": 0.3904
   },
@@ -6219,7 +6078,6 @@
      "v": "red"
     }
    ],
-   "published": true,
    "hue": 5.03,
    "light": 0.4132
   },
@@ -6262,7 +6120,6 @@
      "v": "red"
     }
    ],
-   "published": true,
    "hue": 25.35,
    "light": 0.3584
   },
@@ -6309,7 +6166,6 @@
      "v": "white"
     }
    ],
-   "published": true,
    "hue": 5.02,
    "light": 0.9447
   },
@@ -6360,7 +6216,6 @@
      "v": "red"
     }
    ],
-   "published": true,
    "hue": 18.2,
    "light": 0.6826
   },
@@ -6399,7 +6254,6 @@
      "v": "red"
     }
    ],
-   "published": true,
    "hue": 14.21,
    "light": 0.6666
   },
@@ -6442,7 +6296,6 @@
      "v": "red"
     }
    ],
-   "published": true,
    "hue": 215.23,
    "light": 0.5988
   },
@@ -6489,7 +6342,6 @@
      "v": "cyan"
     }
    ],
-   "published": true,
    "hue": 355.99,
    "light": 0.8415
   },
@@ -6532,7 +6384,6 @@
      "v": "yellow"
     }
    ],
-   "published": true,
    "hue": 44.03,
    "light": 0.3043
   },
@@ -6575,7 +6426,6 @@
      "v": "purple"
     }
    ],
-   "published": true,
    "hue": 222.64,
    "light": 0.6043
   },
@@ -6618,7 +6468,6 @@
      "v": "orange"
     }
    ],
-   "published": true,
    "hue": 66.52,
    "light": 0.3883
   },
@@ -6665,7 +6514,6 @@
      "v": "orange"
     }
    ],
-   "published": true,
    "hue": 25.03,
    "light": 0.3391
   },
@@ -6704,7 +6552,6 @@
      "v": "purple"
     }
    ],
-   "published": true,
    "hue": 4.83,
    "light": 0.5056
   },
@@ -6751,7 +6598,6 @@
      "v": "yellow"
     }
    ],
-   "published": true,
    "hue": 34.16,
    "light": 0.5651
   },
@@ -6794,7 +6640,6 @@
      "v": "red"
     }
    ],
-   "published": true,
    "hue": 358.45,
    "light": 0.706
   },
@@ -6826,7 +6671,7 @@
     },
     {
      "k": "label",
-     "v": "Vertigo 6360"
+     "v": "Vertigo"
     },
     {
      "k": "decade",
@@ -6841,7 +6686,6 @@
      "v": "orange"
     }
    ],
-   "published": true,
    "hue": 36.01,
    "light": 0.602
   },
@@ -6884,7 +6728,6 @@
      "v": "cyan"
     }
    ],
-   "published": true,
    "hue": 353.97,
    "light": 0.6224
   },
@@ -6927,7 +6770,6 @@
      "v": "orange"
     }
    ],
-   "published": true,
    "hue": 6.51,
    "light": 0.429
   },
@@ -6970,7 +6812,6 @@
      "v": "neutral"
     }
    ],
-   "published": true,
    "hue": null,
    "light": 0.4582
   },
@@ -7009,7 +6850,6 @@
      "v": "green"
     }
    ],
-   "published": true,
    "hue": 122.64,
    "light": 0.6764
   },
@@ -7052,7 +6892,6 @@
      "v": "red"
     }
    ],
-   "published": true,
    "hue": 358.03,
    "light": 0.5721
   },
@@ -7091,7 +6930,6 @@
      "v": "pink"
     }
    ],
-   "published": true,
    "hue": 335.96,
    "light": 0.7296
   },
@@ -7134,7 +6972,6 @@
      "v": "red"
     }
    ],
-   "published": true,
    "hue": 6.69,
    "light": 0.2165
   },
@@ -7173,7 +7010,6 @@
      "v": "blue"
     }
    ],
-   "published": true,
    "hue": 356.66,
    "light": 0.242
   },
@@ -7216,7 +7052,6 @@
      "v": "red"
     }
    ],
-   "published": true,
    "hue": 54.88,
    "light": 0.6067
   },
@@ -7255,7 +7090,6 @@
      "v": "neutral"
     }
    ],
-   "published": true,
    "hue": 53.52,
    "light": 0.2849
   },
@@ -7294,7 +7128,6 @@
      "v": "blue"
     }
    ],
-   "published": true,
    "hue": 238.68,
    "light": 0.4792
   },
@@ -7341,7 +7174,6 @@
      "v": "orange"
     }
    ],
-   "published": true,
    "hue": 3.93,
    "light": 0.3875
   },
@@ -7380,7 +7212,6 @@
      "v": "red"
     }
    ],
-   "published": true,
    "hue": 26.7,
    "light": 0.2853
   },
@@ -7427,7 +7258,6 @@
      "v": "yellow"
     }
    ],
-   "published": true,
    "hue": 204.31,
    "light": 0.4811
   },
@@ -7466,7 +7296,6 @@
      "v": "orange"
     }
    ],
-   "published": true,
    "hue": 4.86,
    "light": 0.235
   },
@@ -7501,7 +7330,6 @@
      "v": "orange"
     }
    ],
-   "published": true,
    "hue": 356.56,
    "light": 0.4576
   },
@@ -7544,7 +7372,6 @@
      "v": "yellow"
     }
    ],
-   "published": true,
    "hue": 44.36,
    "light": 0.6334
   },
@@ -7579,7 +7406,6 @@
      "v": "yellow"
     }
    ],
-   "published": true,
    "hue": 245.71,
    "light": 0.7789
   },
@@ -7622,7 +7448,6 @@
      "v": "red"
     }
    ],
-   "published": true,
    "hue": 23.95,
    "light": 0.5166
   },
@@ -7661,7 +7486,6 @@
      "v": "cyan"
     }
    ],
-   "published": true,
    "hue": 196.7,
    "light": 0.5942
   },
@@ -7700,7 +7524,6 @@
      "v": "green"
     }
    ],
-   "published": true,
    "hue": 102.36,
    "light": 0.3245
   },
@@ -7739,7 +7562,6 @@
      "v": "yellow"
     }
    ],
-   "published": true,
    "hue": 65.0,
    "light": 0.6176
   },
@@ -7767,7 +7589,7 @@
     },
     {
      "k": "label",
-     "v": "Harvest SHVL773"
+     "v": "Harvest"
     },
     {
      "k": "decade",
@@ -7778,7 +7600,6 @@
      "v": "purple"
     }
    ],
-   "published": true,
    "hue": 277.09,
    "light": 0.577
   },
@@ -7821,7 +7642,6 @@
      "v": "neutral"
     }
    ],
-   "published": true,
    "hue": null,
    "light": 0.728
   },
@@ -7868,7 +7688,6 @@
      "v": "white"
     }
    ],
-   "published": true,
    "hue": 3.68,
    "light": 0.8141
   },
@@ -7915,7 +7734,6 @@
      "v": "cyan"
     }
    ],
-   "published": true,
    "hue": 200.36,
    "light": 0.2648
   },
@@ -7958,7 +7776,6 @@
      "v": "yellow"
     }
    ],
-   "published": true,
    "hue": 55.16,
    "light": 0.509
   },
@@ -8001,7 +7818,6 @@
      "v": "orange"
     }
    ],
-   "published": true,
    "hue": 224.98,
    "light": 0.3352
   },
@@ -8044,7 +7860,6 @@
      "v": "neutral"
     }
    ],
-   "published": true,
    "hue": null,
    "light": 0.7559
   },
@@ -8083,7 +7898,6 @@
      "v": "orange"
     }
    ],
-   "published": true,
    "hue": 192.32,
    "light": 0.6359
   },
@@ -8126,7 +7940,6 @@
      "v": "green"
     }
    ],
-   "published": true,
    "hue": 203.34,
    "light": 0.4697
   },
@@ -8173,9 +7986,58 @@
      "v": "red"
     }
    ],
-   "published": true,
    "hue": 5.03,
    "light": 0.5544
+  },
+  {
+   "id": "CRVI000185",
+   "image": "images/CRVI000185.jpg",
+   "original": "originals/CRVI000185.jpg",
+   "original_px": [
+    865,
+    1391
+   ],
+   "original_bytes": 417921,
+   "maker": "Ernst Reichl",
+   "title": "Ulysses",
+   "subtitle": "Dust jacket for James Joyce's Ulysses · Random House, New York",
+   "year": "1934",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Ernst Reichl"
+    },
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "decade",
+     "v": "1930s"
+    },
+    {
+     "k": "client",
+     "v": "Random House"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "literature"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 37.69,
+   "light": 0.6255
   }
  ]
 }
