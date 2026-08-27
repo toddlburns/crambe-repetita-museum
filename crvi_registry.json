@@ -1,5 +1,5 @@
 {
- "next": 215,
+ "next": 216,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -10224,6 +10224,73 @@
    "hue": 27.5,
    "light": 0.3797,
    "chroma": 0.5455
+  },
+  "Album cover::Youngblood Brass Band - Pax Volumi (Tru Thoughts, 2013)": {
+   "id": "CRVI000215",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000215.jpg",
+   "original_px": [
+    1394,
+    1478
+   ],
+   "original_bytes": 1251298,
+   "identity": "Album cover::Youngblood Brass Band - Pax Volumi (Tru Thoughts, 2013)",
+   "maker": "Youngblood Brass Band",
+   "title": "Pax Volumi",
+   "subtitle": "Illustration by Timothy J. Reynolds · Tru Thoughts",
+   "year": "2013",
+   "label": "Tru Thoughts",
+   "verified_against": "Timothy J. Reynolds' own portfolio at turnislefthome.com, on his page for this cover: 'Art & Sons, a small studio out of Madison, WI commissioned me to [re]design the cover art for Youngblood Brass Band'. The image here is served from that same Wix site. The release itself is confirmed on Discogs — Youngblood Brass Band, Pax Volumi, Tru Thoughts, UK, 2013 (TRUCD278 / TRULP278, master 680660).",
+   "source_page": "https://turnislefthome.com/youngblood-brass-band-pax-volumi-cover-art",
+   "discogs_release": 5984994,
+   "notes": [
+    "Credited as ILLUSTRATOR, not designer. Reynolds states plainly on his own page that he 'didn't design any packaging/graphic design/etc' — only the illustration. The archive keeps that distinction.",
+    "The work was a commissioned RE-design: Art & Sons brought him in to reinterpret cover art the band had outgrown.",
+    "A web summary credited the original art to 'Scott Pauli and Tim Reynolds'. Reynolds' own page does not mention Pauli, so Pauli is not credited here — the earlier artwork's authorship is left open rather than guessed at.",
+    "No Discogs pressing of this release carries an art or design credit at all, on any of the four; the attribution comes entirely from the illustrator's own site.",
+    "Image is the untransformed Wix master at 1394x1478. The URL Todd sent carried a w_2500 transform but actually served 1254x1330 at a fifth of the bytes — on Wix the master sits at the bare /media/ path, and the dimensions are encoded in the filename."
+   ],
+   "source_image": "https://static.wixstatic.com/media/72a9df_bcccbb7e26604b528230841472b956b3~mv2_d_1394_1478_s_2.jpg",
+   "source_px": [
+    1394,
+    1478
+   ],
+   "colors": [
+    "red",
+    "pink"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Youngblood Brass Band"
+    },
+    {
+     "k": "illustrator",
+     "v": "Timothy J. Reynolds"
+    },
+    {
+     "k": "label",
+     "v": "Tru Thoughts"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "client",
+     "v": "Art & Sons"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Timothy J. Reynolds' own portfolio at turnislefthome.com, on his page for this cover: 'Art & Sons, a small studio out of Madison, WI commissioned me to [re]design the cover art for Youngblood Brass Band'. The image here is served from that same Wix site. The release itself is confirmed on Discogs — Youngblood Brass Band, Pax Volumi, Tru Thoughts, UK, 2013 (TRUCD278 / TRULP278, master 680660).",
+   "hue": 345.37,
+   "light": 0.6511,
+   "chroma": 0.6184
   }
  }
 }

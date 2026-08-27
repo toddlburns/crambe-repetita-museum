@@ -9180,6 +9180,56 @@
    ],
    "hue": 27.5,
    "light": 0.3797
+  },
+  {
+   "id": "CRVI000215",
+   "image": "images/CRVI000215.jpg",
+   "original": "originals/CRVI000215.jpg",
+   "original_px": [
+    1394,
+    1478
+   ],
+   "original_bytes": 1251298,
+   "maker": "Youngblood Brass Band",
+   "title": "Pax Volumi",
+   "subtitle": "Illustration by Timothy J. Reynolds · Tru Thoughts",
+   "year": "2013",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Youngblood Brass Band"
+    },
+    {
+     "k": "illustrator",
+     "v": "Timothy J. Reynolds"
+    },
+    {
+     "k": "label",
+     "v": "Tru Thoughts"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "client",
+     "v": "Art & Sons"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    }
+   ],
+   "hue": 345.37,
+   "light": 0.6511
   }
  ]
 }
