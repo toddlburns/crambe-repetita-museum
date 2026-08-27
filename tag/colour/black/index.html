@@ -1,0 +1,17 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>colour: black — Crambe Repetita Museum</title><link rel="stylesheet" href="../../../style.css"></head><body><div class="crumb"><span class="t">COLOUR: BLACK</span><span class="c">10 items</span><a href="../../../tags/">&#8592; all tags</a></div><div class="grid"><a class="cell" href="../../../CRVI000001/"><div class="inner"><img src="../../../images/CRVI000001.jpg" alt=""></div><div class="cap"><span class="n">CRVI000001</span>Paul Jebanasam - Rites<br>Designed by Alex Digard · 2013</div></a><a class="cell" href="../../../CRVI000002/"><div class="inner"><img src="../../../images/CRVI000002.jpg" alt=""></div><div class="cap"><span class="n">CRVI000002</span>Sote - Architectonic<br>Artwork by Arash Bolouri · Morphine Records · 2014</div></a><a class="cell" href="../../../CRVI000029/"><div class="inner"><img src="../../../images/CRVI000029.jpg" alt=""></div><div class="cap"><span class="n">CRVI000029</span>Squarepusher - Feed Me Weird Things<br>Designed by Johnny Clayton, Tom Jenkinson · Rephlex · 1996</div></a><a class="cell" href="../../../CRVI000044/"><div class="inner"><img src="../../../images/CRVI000044.jpg" alt=""></div><div class="cap"><span class="n">CRVI000044</span>John Bender - Pop Surgery<br>Designed by Patrick Spenlau · Record Sluts · 1983</div></a><a class="cell" href="../../../CRVI000046/"><div class="inner"><img src="../../../images/CRVI000046.jpg" alt=""></div><div class="cap"><span class="n">CRVI000046</span>Demdike Stare - Voices Of Dust<br>Designed by Radu Prepeleac · 2010</div></a><a class="cell" href="../../../CRVI000060/"><div class="inner"><img src="../../../images/CRVI000060.jpg" alt=""></div><div class="cap"><span class="n">CRVI000060</span>Tito - Quetzalcóatl<br>Designed by Tito, Manuel Fornos · Discos Tiabi · 1977</div></a><a class="cell" href="../../../CRVI000076/"><div class="inner"><img src="../../../images/CRVI000076.jpg" alt=""></div><div class="cap"><span class="n">CRVI000076</span>Herva - Kila<br>Designer unknown · 2015</div></a><a class="cell" href="../../../CRVI000084/"><div class="inner"><img src="../../../images/CRVI000084.jpg" alt=""></div><div class="cap"><span class="n">CRVI000084</span>Leyland Kirby - Eager To Tear Apart The Stars<br>Designer unknown · History Always Favours The Winners · 2011</div></a><a class="cell" href="../../../CRVI000092/"><div class="inner"><img src="../../../images/CRVI000092.jpg" alt=""></div><div class="cap"><span class="n">CRVI000092</span>Juan Blanco - Musica Electroacustica<br>Designer unknown · Areito</div></a><a class="cell" href="../../../CRVI000100/"><div class="inner"><img src="../../../images/CRVI000100.jpg" alt=""></div><div class="cap"><span class="n">CRVI000100</span>Sid Bass - From Another World<br>Designer unknown · Vik · 1956</div></a></div><script>
+var SCALE=3;var t=null;
+document.querySelectorAll('.cell').forEach(function(c){
+  c.addEventListener('mouseenter',function(){
+    clearTimeout(t);
+    t=setTimeout(function(){
+      // transform does not change layout, so push the caption below the grown image
+      var im=c.querySelector('img'),cap=c.querySelector('.cap');
+      cap.style.transform='translateY('+im.getBoundingClientRect().height*(SCALE-1)+'px)';
+      c.classList.add('big');
+    },1000);
+  });
+  c.addEventListener('mouseleave',function(){
+    clearTimeout(t);c.classList.remove('big');c.querySelector('.cap').style.transform='';
+  });
+});
+</script></body></html>

@@ -1,0 +1,17 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>artist: Various — Crambe Repetita Museum</title><link rel="stylesheet" href="../../../style.css"></head><body><div class="crumb"><span class="t">ARTIST: VARIOUS</span><span class="c">6 items</span><a href="../../../tags/">&#8592; all tags</a></div><div class="grid"><a class="cell" href="../../../CRVI000036/"><div class="inner"><img src="../../../images/CRVI000036.jpg" alt=""></div><div class="cap"><span class="n">CRVI000036</span>Various - Close to the Noise Floor (Formative UK Electronica 1975-1984)<br>Designed by Lora Findlay · 2016</div></a><a class="cell" href="../../../CRVI000045/"><div class="inner"><img src="../../../images/CRVI000045.jpg" alt=""></div><div class="cap"><span class="n">CRVI000045</span>Various - Artificial Intelligence II<br>Artwork by Phil Wolstenholme, The Designers Republic · Warp · 1994</div></a><a class="cell" href="../../../CRVI000047/"><div class="inner"><img src="../../../images/CRVI000047.jpg" alt=""></div><div class="cap"><span class="n">CRVI000047</span>Various - Hohokum Soundtrack<br>Designed by Richard Hogg · Ghostly International · 2014</div></a><a class="cell" href="../../../CRVI000059/"><div class="inner"><img src="../../../images/CRVI000059.jpg" alt=""></div><div class="cap"><span class="n">CRVI000059</span>Various - The Philosophy of Sound and Machine<br>Designed by Third Earth · Applied Rhythmic Technology · 1992</div></a><a class="cell" href="../../../CRVI000094/"><div class="inner"><img src="../../../images/CRVI000094.jpg" alt=""></div><div class="cap"><span class="n">CRVI000094</span>Various - Artificial Intelligence<br>Designer unknown · Warp · 1992</div></a><a class="cell" href="../../../CRVI000098/"><div class="inner"><img src="../../../images/CRVI000098.jpg" alt=""></div><div class="cap"><span class="n">CRVI000098</span>Various - Midnite Spares<br>Designer unknown · Efficient Space · 2016</div></a></div><script>
+var SCALE=3;var t=null;
+document.querySelectorAll('.cell').forEach(function(c){
+  c.addEventListener('mouseenter',function(){
+    clearTimeout(t);
+    t=setTimeout(function(){
+      // transform does not change layout, so push the caption below the grown image
+      var im=c.querySelector('img'),cap=c.querySelector('.cap');
+      cap.style.transform='translateY('+im.getBoundingClientRect().height*(SCALE-1)+'px)';
+      c.classList.add('big');
+    },1000);
+  });
+  c.addEventListener('mouseleave',function(){
+    clearTimeout(t);c.classList.remove('big');c.querySelector('.cap').style.transform='';
+  });
+});
+</script></body></html>
