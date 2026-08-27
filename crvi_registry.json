@@ -10731,7 +10731,8 @@
    "notes": [
     "A different work from CRVI000219 'Longing for Eternity', though both were shown at David Zwirner in 2017 and both photographed by Vincent Tullo.",
     "Cropped from Todd's screenshot to the photograph alone — the article text, caption and phone chrome are not part of the object and are not in the archive.",
-    "Reproduced at screenshot resolution; the Times' own file is behind its paywall and was not taken."
+    "Reproduced at screenshot resolution; the Times' own file is behind its paywall and was not taken.",
+    "DELETED from the museum at Todd's request on 2026-08-27. The record is kept so CRVI000223 stays provably retired and is never reissued."
    ],
    "label": "",
    "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/kus_m3.jpg",
@@ -10765,11 +10766,13 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "Caption and credit read directly off the New York Times feature 'Yayoi Kusama: A Life in Pictures' (27 August 2026), from Todd's own screenshots of it. Captioned '“Infinity Mirrored Room — Let’s Survive Forever,” at the David Zwirner gallery in 2017', credited 'Vincent Tullo for The New York Times'.",
    "hue": null,
    "light": 0.4399,
-   "chroma": 0.0672
+   "chroma": 0.0672,
+   "deleted": true,
+   "deleted_on": "2026-08-27"
   },
   "NYT Kusama::Kusama painting dots at a happening (1968)": {
    "id": "CRVI000224",
@@ -10790,7 +10793,8 @@
    "notes": [
     "Credited to the Keystone Features agency, not to a named photographer, so nobody is tagged in the photographer facet — that facet holds people. The agency credit is recorded here instead.",
     "Cropped from Todd's screenshot to the photograph alone — the article text, caption and phone chrome are not part of the object and are not in the archive.",
-    "Reproduced at screenshot resolution; the Times' own file is behind its paywall and was not taken."
+    "Reproduced at screenshot resolution; the Times' own file is behind its paywall and was not taken.",
+    "DELETED from the museum at Todd's request on 2026-08-27. The record is kept so CRVI000224 stays provably retired and is never reissued."
    ],
    "label": "",
    "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/kus_m4.jpg",
@@ -10820,11 +10824,13 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "Caption and credit read directly off the New York Times feature 'Yayoi Kusama: A Life in Pictures' (27 August 2026), from Todd's own screenshots of it. Captioned 'Kusama in 1968. She became famous for spectacles in which she would paint her trademark dots onto the naked bodies of the hippie generation', credited 'Keystone Features/Getty Images'.",
    "hue": null,
    "light": 0.3337,
-   "chroma": 0.0
+   "chroma": 0.0,
+   "deleted": true,
+   "deleted_on": "2026-08-27"
   }
  }
 }
