@@ -4605,11 +4605,15 @@
     1248
    ],
    "original_bytes": 109766,
-   "maker": "Designer unknown",
+   "maker": "Masuteru Aoba",
    "title": "A.D. 3000 ⋯ Energy-Addicted Man?",
    "subtitle": "エネルギーに頼り過ぎた3000年の人間？",
    "year": "",
    "tags": [
+    {
+     "k": "designer",
+     "v": "Masuteru Aoba"
+    },
     {
      "k": "type",
      "v": "poster"
@@ -4623,10 +4627,6 @@
      "v": "Japan"
     },
     {
-     "k": "status",
-     "v": "unidentified"
-    },
-    {
      "k": "colour",
      "v": "green"
     },
@@ -4635,7 +4635,7 @@
      "v": "orange"
     }
    ],
-   "published": false
+   "published": true
   },
   {
    "id": "CRVI000109",
