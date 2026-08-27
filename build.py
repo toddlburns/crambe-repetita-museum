@@ -34,7 +34,7 @@ body{background:var(--paper);color:var(--ink);font:13px/1.5 var(--sans);
 a{color:inherit;text-decoration:none}
 
 /* ---- top row: one thin line, one type size ---- */
-.bar{display:flex;align-items:center;gap:14px;height:38px;padding:0 18px;
+.bar{position:relative;display:flex;align-items:center;gap:14px;height:38px;padding:0 18px;
  border-bottom:1px solid var(--rule);font-size:12px;white-space:nowrap;overflow:hidden}
 .bar .id{font:700 12px/1 var(--mono);letter-spacing:.06em;color:#000}
 .bar .work{font-size:12px;overflow:hidden;text-overflow:ellipsis}
@@ -45,6 +45,8 @@ a{color:inherit;text-decoration:none}
  width:26px;height:22px;border:1px solid var(--rule);font-size:12px;color:var(--ink)}
 .bar .nav a:hover{border-color:var(--ink)}
 .bar .nav span{opacity:0;pointer-events:none}
+.infotoggle{position:absolute;opacity:0;width:1px;height:1px;pointer-events:none}
+.infobtn{display:none}
 
 /* ---- item ---- */
 .item{height:100%;display:flex;flex-direction:column}
@@ -99,9 +101,24 @@ a{color:inherit;text-decoration:none}
   gap:0 10px;row-gap:3px;align-items:baseline}
  .bar .id{order:1}
  .bar .nav{order:2;margin-left:auto;align-self:center}
- .bar .work{order:3;flex:1 1 100%;overflow:visible;text-overflow:clip}
- .bar .sep{display:none}
- .bar .rest{order:4;flex:1 1 100%;overflow:visible;text-overflow:clip}
+ /* Todd, 2026-08-27: the work and the rest fold into a box called "info", so the bar is one
+    row and the picture gets the two lines back. Tap targets are 46x40 rather than 26x22 —
+    "a bit bigger for my fat thumbs". Checkbox again, so it needs no script. */
+ .bar{align-items:center;padding:6px 12px}
+ .bar .work,.bar .rest,.bar .sep{display:none}
+ .infotoggle:checked ~ .work{display:block;order:4;flex:1 1 100%;font-weight:600;
+  overflow:visible;text-overflow:clip;padding-top:2px}
+ .infotoggle:checked ~ .rest{display:block;order:5;flex:1 1 100%;
+  overflow:visible;text-overflow:clip;padding-bottom:2px}
+ .infobtn{display:flex;align-items:center;justify-content:center;order:2;margin-left:auto;
+  min-width:46px;height:40px;border:1px solid var(--rule);cursor:pointer;
+  font:11px/1 var(--mono);letter-spacing:.08em;color:var(--ink);
+  -webkit-tap-highlight-color:transparent}
+ .infobtn .b{display:none}
+ .infotoggle:checked ~ .infobtn .a{display:none}
+ .infotoggle:checked ~ .infobtn .b{display:inline}
+ .bar .nav{order:3;margin-left:8px;gap:6px}
+ .bar .nav a,.bar .nav span{min-width:46px;height:40px;font-size:15px}
 
  /* ---- grid captions are desktop-only ----
     ⚠️ The caption is revealed by a mouseenter handler with a 1s delay, so touch never shows it
@@ -200,13 +217,18 @@ def page(title, body, depth):
 def work_line(it, up):
     """`CRVI000042  Artist - Title ||| the rest` — a DASH between artist and title, and the
     ||| divides the work from everything said about it."""
-    bits = [f'<span class="id">{esc(it["id"])}</span>']
+    # The toggle leads so the CSS sibling selectors below it can reach the work and the rest.
+    # It does nothing on desktop, where everything stays on the one line it always was.
+    bits = ['<input type="checkbox" id="info" class="infotoggle">',
+            f'<span class="id">{esc(it["id"])}</span>']
     work = " - ".join(filter(None, [esc(it.get("maker")), esc(it.get("title"))]))
     bits.append(f'<span class="work">{work}</span>')
     rest = " · ".join(filter(None, [it.get("subtitle"), it.get("year")]))
     if rest:
         bits.append('<span class="sep">|||</span>')
         bits.append(f'<span class="rest">{esc(rest)}</span>')
+    bits.append('<label class="infobtn" for="info">'
+                '<span class="a">info</span><span class="b">close</span></label>')
     return "".join(bits)
 
 
