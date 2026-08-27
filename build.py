@@ -89,6 +89,41 @@ a{color:inherit;text-decoration:none}
  .more .b{display:none}
  .moretoggle:checked ~ .col .more .a{display:none}
  .moretoggle:checked ~ .col .more .b{display:inline}
+
+ /* ---- item top row: two readable lines, not one truncated one ----
+    At 390px the single nowrap row cut the work to "Youngbl…" and the subtitle to
+    "Illustration by …", so a phone could not tell you what it was looking at. The number and
+    the arrows keep the first line; the work and the rest each take a full line below.
+    The ||| separator is hidden here — the line break does that job, and left in it dangles. */
+ .bar{height:auto;min-height:38px;flex-wrap:wrap;white-space:normal;padding:8px 14px;
+  gap:0 10px;row-gap:3px;align-items:baseline}
+ .bar .id{order:1}
+ .bar .nav{order:2;margin-left:auto;align-self:center}
+ .bar .work{order:3;flex:1 1 100%;overflow:visible;text-overflow:clip}
+ .bar .sep{display:none}
+ .bar .rest{order:4;flex:1 1 100%;overflow:visible;text-overflow:clip}
+
+ /* ---- grid captions are desktop-only ----
+    ⚠️ The caption is revealed by a mouseenter handler with a 1s delay, so touch never shows it
+    at all — but at a fixed width:270px inside ~100px tracks it was the ENTIRE cause of tag
+    pages scrolling sideways on a phone (536px of content in a 390px viewport, 214 offending
+    elements). Hiding it on mobile costs nothing and removes the horizontal scroll. */
+ .cell .cap{display:none}
+ .grid{padding:16px 14px 120px;gap:14px}
+
+ /* ---- tag index: heading above its list, both using the full width ----
+    The 150px heading column was eating 40% of a 390px screen and squeezing names into
+    two and three lines. */
+ .wrap{padding:22px 14px 80px}
+ .facet{grid-template-columns:1fr;gap:6px;padding:14px 0 16px}
+ .facet h2 .ct{display:inline;margin:0 0 0 8px}
+ .facet .list{column-width:auto;columns:1}
+
+ /* ---- header rows break BETWEEN elements, never inside them ----
+    "ALL TAGS" was splitting to "ALL / TAGS" and the back link to "back to the / museum". */
+ .crumb{height:auto;min-height:38px;flex-wrap:wrap;padding:8px 14px;row-gap:2px}
+ .crumb .t,.crumb .c,.crumb a{white-space:nowrap}
+ .crumb a{margin-left:auto}
 }
 .crumb{display:flex;align-items:center;gap:14px;height:38px;padding:0 18px;
  border-bottom:1px solid var(--rule);font-size:12px}
