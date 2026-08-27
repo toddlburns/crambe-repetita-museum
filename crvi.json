@@ -6032,6 +6032,92 @@
     }
    ],
    "published": true
+  },
+  {
+   "id": "CRVI000141",
+   "image": "images/CRVI000141.jpg",
+   "original": "originals/CRVI000141.jpg",
+   "original_px": [
+    1426,
+    2000
+   ],
+   "original_bytes": 1540158,
+   "maker": "Shin Matsunaga",
+   "title": "Shiseido Sun Oil",
+   "subtitle": "Offset lithograph",
+   "year": "1971",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Shin Matsunaga"
+    },
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "client",
+     "v": "Shiseido"
+    },
+    {
+     "k": "subject",
+     "v": "advertising"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "colour",
+     "v": "orange"
+    },
+    {
+     "k": "colour",
+     "v": "red"
+    }
+   ],
+   "published": true
+  },
+  {
+   "id": "CRVI000142",
+   "image": "images/CRVI000142.jpg",
+   "original": "originals/CRVI000142.jpg",
+   "original_px": [
+    716,
+    1000
+   ],
+   "original_bytes": 545300,
+   "maker": "Shin Matsunaga",
+   "title": "[Poster: PLAY, black discs and an orange form]",
+   "subtitle": "Title not established",
+   "year": "",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Shin Matsunaga"
+    },
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "colour",
+     "v": "blue"
+    },
+    {
+     "k": "colour",
+     "v": "red"
+    }
+   ],
+   "published": true
   }
  ]
 }
