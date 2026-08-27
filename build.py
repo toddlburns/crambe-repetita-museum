@@ -224,7 +224,28 @@ def main():
         page("All tags — Crambe Repetita Museum", body, 1))
 
     # ---- one page per tag ----
+    # ⚠️ Todd, 2026-08-26: a tag page with MORE THAN 30 images groups itself by colour, "so that
+    # the green go next to the green, the red next to the red". Below that threshold the page
+    # stays in item order — a short page reads fine and shuffling it only hides the sequence.
+    # Chromatic items run round the hue wheel (red -> orange -> yellow -> green -> blue -> pink);
+    # achromatic ones have no hue at all and are kept together at the end, ordered dark to light,
+    # rather than being scattered through the colours.
+    COLOUR_SORT_MIN = 30
+
+    def colour_order(idxs):
+        def key(i):
+            it = items[i]
+            h = it.get("hue")
+            lt = it.get("light") if it.get("light") is not None else 0.5
+            if h is None:
+                return (1, 0.0, lt)
+            return (0, h, lt)
+        return sorted(idxs, key=key)
+
     for (k, v), idxs in by_tag.items():
+        grouped = len(idxs) > COLOUR_SORT_MIN
+        if grouped:
+            idxs = colour_order(idxs)
         cells = []
         for i in idxs:
             it = items[i]
@@ -234,9 +255,10 @@ def main():
                 f'<div class="inner"><img src="../../../{esc(it["image"])}" alt=""></div>'
                 f'<div class="cap"><span class="n">{esc(it["id"])}</span>'
                 f'{esc(it.get("maker"))} - {esc(it.get("title"))}<br>{esc(rest)}</div></a>')
+        note = ' &middot; grouped by colour' if grouped else ''
         body = ('<div class="crumb">'
                 f'<span class="t">{esc(k.upper())}: {esc(v.upper())}</span>'
-                f'<span class="c">{len(idxs)} items</span>'
+                f'<span class="c">{len(idxs)} items{note}</span>'
                 '<a href="../../../tags/">&#8592; all tags</a></div>'
                 f'<div class="grid">{"".join(cells)}</div><script>{JS}</script>')
         od = os.path.join(HERE, "tag", slug(k), slug(v)); os.makedirs(od, exist_ok=True)

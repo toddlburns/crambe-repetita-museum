@@ -40,7 +40,9 @@
      "v": "black"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 358.29,
+   "light": 0.0439
   },
   {
    "id": "CRVI000002",
@@ -81,7 +83,9 @@
      "v": "black"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": null,
+   "light": 0.1502
   },
   {
    "id": "CRVI000003",
@@ -126,7 +130,9 @@
      "v": "blue"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 194.57,
+   "light": 0.5981
   },
   {
    "id": "CRVI000004",
@@ -167,7 +173,9 @@
      "v": "neutral"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": null,
+   "light": 0.7932
   },
   {
    "id": "CRVI000005",
@@ -208,7 +216,9 @@
      "v": "white"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 225.15,
+   "light": 0.882
   },
   {
    "id": "CRVI000006",
@@ -261,7 +271,9 @@
      "v": "white"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": null,
+   "light": 0.8379
   },
   {
    "id": "CRVI000007",
@@ -310,7 +322,9 @@
      "v": "purple"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 265.0,
+   "light": 0.391
   },
   {
    "id": "CRVI000008",
@@ -355,7 +369,9 @@
      "v": "green"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 177.27,
+   "light": 0.4689
   },
   {
    "id": "CRVI000009",
@@ -400,7 +416,9 @@
      "v": "orange"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 45.51,
+   "light": 0.4048
   },
   {
    "id": "CRVI000010",
@@ -449,7 +467,9 @@
      "v": "cyan"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 196.03,
+   "light": 0.4352
   },
   {
    "id": "CRVI000011",
@@ -490,7 +510,9 @@
      "v": "yellow"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 57.16,
+   "light": 0.86
   },
   {
    "id": "CRVI000012",
@@ -535,7 +557,9 @@
      "v": "yellow"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 54.93,
+   "light": 0.6642
   },
   {
    "id": "CRVI000013",
@@ -580,7 +604,9 @@
      "v": "cyan"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 206.84,
+   "light": 0.5829
   },
   {
    "id": "CRVI000014",
@@ -629,7 +655,9 @@
      "v": "white"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": null,
+   "light": 0.8131
   },
   {
    "id": "CRVI000015",
@@ -678,7 +706,9 @@
      "v": "pink"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 195.26,
+   "light": 0.4696
   },
   {
    "id": "CRVI000016",
@@ -727,7 +757,9 @@
      "v": "orange"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 213.35,
+   "light": 0.4609
   },
   {
    "id": "CRVI000017",
@@ -772,7 +804,9 @@
      "v": "yellow"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 43.21,
+   "light": 0.5556
   },
   {
    "id": "CRVI000018",
@@ -813,7 +847,9 @@
      "v": "neutral"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": null,
+   "light": 0.2471
   },
   {
    "id": "CRVI000019",
@@ -862,7 +898,9 @@
      "v": "yellow"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 104.36,
+   "light": 0.3824
   },
   {
    "id": "CRVI000020",
@@ -899,7 +937,9 @@
      "v": "neutral"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": null,
+   "light": 0.6028
   },
   {
    "id": "CRVI000021",
@@ -944,7 +984,9 @@
      "v": "green"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 136.42,
+   "light": 0.6241
   },
   {
    "id": "CRVI000022",
@@ -993,7 +1035,9 @@
      "v": "blue"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 222.73,
+   "light": 0.7895
   },
   {
    "id": "CRVI000023",
@@ -1038,7 +1082,9 @@
      "v": "green"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 214.8,
+   "light": 0.64
   },
   {
    "id": "CRVI000024",
@@ -1083,7 +1129,9 @@
      "v": "cyan"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 215.61,
+   "light": 0.3652
   },
   {
    "id": "CRVI000025",
@@ -1124,7 +1172,9 @@
      "v": "white"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": null,
+   "light": 0.9499
   },
   {
    "id": "CRVI000026",
@@ -1173,7 +1223,9 @@
      "v": "white"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": null,
+   "light": 0.8044
   },
   {
    "id": "CRVI000027",
@@ -1214,7 +1266,9 @@
      "v": "orange"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 27.33,
+   "light": 0.4138
   },
   {
    "id": "CRVI000028",
@@ -1263,7 +1317,9 @@
      "v": "neutral"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": null,
+   "light": 0.556
   },
   {
    "id": "CRVI000029",
@@ -1312,7 +1368,9 @@
      "v": "black"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 34.29,
+   "light": 0.2586
   },
   {
    "id": "CRVI000030",
@@ -1357,7 +1415,9 @@
      "v": "orange"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 195.07,
+   "light": 0.4882
   },
   {
    "id": "CRVI000031",
@@ -1406,7 +1466,9 @@
      "v": "red"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 24.58,
+   "light": 0.1798
   },
   {
    "id": "CRVI000032",
@@ -1451,7 +1513,9 @@
      "v": "red"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 17.41,
+   "light": 0.6678
   },
   {
    "id": "CRVI000033",
@@ -1488,7 +1552,9 @@
      "v": "neutral"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": null,
+   "light": 0.5705
   },
   {
    "id": "CRVI000034",
@@ -1533,7 +1599,9 @@
      "v": "blue"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 156.32,
+   "light": 0.8588
   },
   {
    "id": "CRVI000035",
@@ -1574,7 +1642,9 @@
      "v": "blue"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 4.97,
+   "light": 0.5006
   },
   {
    "id": "CRVI000036",
@@ -1611,7 +1681,9 @@
      "v": "white"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": null,
+   "light": 0.9216
   },
   {
    "id": "CRVI000037",
@@ -1656,7 +1728,9 @@
      "v": "yellow"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 41.63,
+   "light": 0.5122
   },
   {
    "id": "CRVI000038",
@@ -1709,7 +1783,9 @@
      "v": "red"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 2.95,
+   "light": 0.8699
   },
   {
    "id": "CRVI000039",
@@ -1754,7 +1830,9 @@
      "v": "cyan"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 4.79,
+   "light": 0.7855
   },
   {
    "id": "CRVI000040",
@@ -1799,7 +1877,9 @@
      "v": "red"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 23.37,
+   "light": 0.4484
   },
   {
    "id": "CRVI000041",
@@ -1844,7 +1924,9 @@
      "v": "neutral"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": null,
+   "light": 0.5595
   },
   {
    "id": "CRVI000042",
@@ -1885,7 +1967,9 @@
      "v": "orange"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 142.26,
+   "light": 0.5757
   },
   {
    "id": "CRVI000043",
@@ -1930,7 +2014,9 @@
      "v": "neutral"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": null,
+   "light": 0.3011
   },
   {
    "id": "CRVI000044",
@@ -1971,7 +2057,9 @@
      "v": "black"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": null,
+   "light": 0.1271
   },
   {
    "id": "CRVI000045",
@@ -2020,7 +2108,9 @@
      "v": "green"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 356.72,
+   "light": 0.247
   },
   {
    "id": "CRVI000046",
@@ -2057,7 +2147,9 @@
      "v": "black"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": null,
+   "light": 0.1267
   },
   {
    "id": "CRVI000047",
@@ -2102,7 +2194,9 @@
      "v": "white"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 175.07,
+   "light": 0.859
   },
   {
    "id": "CRVI000048",
@@ -2155,7 +2249,9 @@
      "v": "orange"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 43.38,
+   "light": 0.2696
   },
   {
    "id": "CRVI000049",
@@ -2200,7 +2296,9 @@
      "v": "yellow"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 47.76,
+   "light": 0.7648
   },
   {
    "id": "CRVI000050",
@@ -2245,7 +2343,9 @@
      "v": "white"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": null,
+   "light": 0.8331
   },
   {
    "id": "CRVI000051",
@@ -2282,7 +2382,9 @@
      "v": "red"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 5.01,
+   "light": 0.3623
   },
   {
    "id": "CRVI000052",
@@ -2319,7 +2421,9 @@
      "v": "red"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 5.0,
+   "light": 0.5722
   },
   {
    "id": "CRVI000053",
@@ -2364,7 +2468,9 @@
      "v": "yellow"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 56.92,
+   "light": 0.8539
   },
   {
    "id": "CRVI000054",
@@ -2409,7 +2515,9 @@
      "v": "blue"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 333.51,
+   "light": 0.6508
   },
   {
    "id": "CRVI000055",
@@ -2454,7 +2562,9 @@
      "v": "orange"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 27.53,
+   "light": 0.6264
   },
   {
    "id": "CRVI000056",
@@ -2491,7 +2601,9 @@
      "v": "green"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 82.88,
+   "light": 0.311
   },
   {
    "id": "CRVI000057",
@@ -2540,7 +2652,9 @@
      "v": "blue"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 25.98,
+   "light": 0.398
   },
   {
    "id": "CRVI000058",
@@ -2585,7 +2699,9 @@
      "v": "green"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 55.13,
+   "light": 0.3719
   },
   {
    "id": "CRVI000059",
@@ -2630,7 +2746,9 @@
      "v": "yellow"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 43.61,
+   "light": 0.4139
   },
   {
    "id": "CRVI000060",
@@ -2675,7 +2793,9 @@
      "v": "black"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": null,
+   "light": 0.2329
   },
   {
    "id": "CRVI000061",
@@ -2724,7 +2844,9 @@
      "v": "orange"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 44.87,
+   "light": 0.6538
   },
   {
    "id": "CRVI000062",
@@ -2773,7 +2895,9 @@
      "v": "orange"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 27.32,
+   "light": 0.6066
   },
   {
    "id": "CRVI000063",
@@ -2810,7 +2934,9 @@
      "v": "white"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": null,
+   "light": 0.6595
   },
   {
    "id": "CRVI000064",
@@ -2851,7 +2977,9 @@
      "v": "yellow"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": null,
+   "light": 0.5407
   },
   {
    "id": "CRVI000065",
@@ -2892,7 +3020,9 @@
      "v": "purple"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 199.21,
+   "light": 0.6266
   },
   {
    "id": "CRVI000066",
@@ -2929,7 +3059,9 @@
      "v": "neutral"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": null,
+   "light": 0.6019
   },
   {
    "id": "CRVI000067",
@@ -2970,7 +3102,9 @@
      "v": "blue"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 28.44,
+   "light": 0.6799
   },
   {
    "id": "CRVI000068",
@@ -3019,7 +3153,9 @@
      "v": "red"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 355.47,
+   "light": 0.6626
   },
   {
    "id": "CRVI000069",
@@ -3060,7 +3196,9 @@
      "v": "yellow"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 55.54,
+   "light": 0.4324
   },
   {
    "id": "CRVI000070",
@@ -3105,7 +3243,9 @@
      "v": "neutral"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": null,
+   "light": 0.3022
   },
   {
    "id": "CRVI000071",
@@ -3150,7 +3290,9 @@
      "v": "white"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 23.62,
+   "light": 0.85
   },
   {
    "id": "CRVI000072",
@@ -3183,7 +3325,9 @@
      "v": "neutral"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": null,
+   "light": 0.5617
   },
   {
    "id": "CRVI000073",
@@ -3220,7 +3364,9 @@
      "v": "orange"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 45.56,
+   "light": 0.7876
   },
   {
    "id": "CRVI000074",
@@ -3257,7 +3403,9 @@
      "v": "orange"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 25.06,
+   "light": 0.539
   },
   {
    "id": "CRVI000075",
@@ -3298,7 +3446,9 @@
      "v": "blue"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 307.12,
+   "light": 0.4774
   },
   {
    "id": "CRVI000076",
@@ -3335,7 +3485,9 @@
      "v": "black"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 25.03,
+   "light": 0.0499
   },
   {
    "id": "CRVI000077",
@@ -3376,7 +3528,9 @@
      "v": "white"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": null,
+   "light": 0.9024
   },
   {
    "id": "CRVI000078",
@@ -3413,7 +3567,9 @@
      "v": "orange"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 52.24,
+   "light": 0.2397
   },
   {
    "id": "CRVI000079",
@@ -3450,7 +3606,9 @@
      "v": "orange"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 25.0,
+   "light": 0.4447
   },
   {
    "id": "CRVI000080",
@@ -3487,7 +3645,9 @@
      "v": "neutral"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": null,
+   "light": 0.3892
   },
   {
    "id": "CRVI000081",
@@ -3528,7 +3688,9 @@
      "v": "neutral"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": null,
+   "light": 0.4154
   },
   {
    "id": "CRVI000082",
@@ -3565,7 +3727,9 @@
      "v": "orange"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 15.33,
+   "light": 0.3374
   },
   {
    "id": "CRVI000083",
@@ -3602,7 +3766,9 @@
      "v": "orange"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 27.65,
+   "light": 0.5861
   },
   {
    "id": "CRVI000084",
@@ -3639,7 +3805,9 @@
      "v": "black"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": null,
+   "light": 0.1266
   },
   {
    "id": "CRVI000085",
@@ -3676,7 +3844,9 @@
      "v": "white"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": null,
+   "light": 0.8238
   },
   {
    "id": "CRVI000086",
@@ -3717,7 +3887,9 @@
      "v": "orange"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 345.06,
+   "light": 0.6917
   },
   {
    "id": "CRVI000087",
@@ -3758,7 +3930,9 @@
      "v": "white"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": null,
+   "light": 0.9689
   },
   {
    "id": "CRVI000088",
@@ -3799,7 +3973,9 @@
      "v": "yellow"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 56.0,
+   "light": 0.7216
   },
   {
    "id": "CRVI000089",
@@ -3840,7 +4016,9 @@
      "v": "green"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 210.83,
+   "light": 0.6387
   },
   {
    "id": "CRVI000090",
@@ -3873,7 +4051,9 @@
      "v": "blue"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 216.02,
+   "light": 0.6034
   },
   {
    "id": "CRVI000091",
@@ -3914,7 +4094,9 @@
      "v": "white"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 231.3,
+   "light": 0.9702
   },
   {
    "id": "CRVI000092",
@@ -3955,7 +4137,9 @@
      "v": "black"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 53.01,
+   "light": 0.2903
   },
   {
    "id": "CRVI000093",
@@ -4004,7 +4188,9 @@
      "v": "blue"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 214.59,
+   "light": 0.5695
   },
   {
    "id": "CRVI000094",
@@ -4045,7 +4231,9 @@
      "v": "orange"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 155.44,
+   "light": 0.2925
   },
   {
    "id": "CRVI000095",
@@ -4090,7 +4278,9 @@
      "v": "yellow"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": null,
+   "light": 0.8491
   },
   {
    "id": "CRVI000096",
@@ -4131,7 +4321,9 @@
      "v": "yellow"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 22.53,
+   "light": 0.5273
   },
   {
    "id": "CRVI000097",
@@ -4172,7 +4364,9 @@
      "v": "orange"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 45.88,
+   "light": 0.3685
   },
   {
    "id": "CRVI000098",
@@ -4209,7 +4403,9 @@
      "v": "red"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 355.24,
+   "light": 0.3771
   },
   {
    "id": "CRVI000099",
@@ -4246,7 +4442,9 @@
      "v": "orange"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 42.46,
+   "light": 0.4844
   },
   {
    "id": "CRVI000100",
@@ -4295,7 +4493,9 @@
      "v": "black"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 58.62,
+   "light": 0.1592
   },
   {
    "id": "CRVI000101",
@@ -4332,7 +4532,9 @@
      "v": "orange"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 26.35,
+   "light": 0.4348
   },
   {
    "id": "CRVI000102",
@@ -4377,7 +4579,9 @@
      "v": "white"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": null,
+   "light": 0.7335
   },
   {
    "id": "CRVI000103",
@@ -4418,7 +4622,9 @@
      "v": "blue"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 213.87,
+   "light": 0.8298
   },
   {
    "id": "CRVI000104",
@@ -4459,7 +4665,9 @@
      "v": "blue"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 223.42,
+   "light": 0.7958
   },
   {
    "id": "CRVI000105",
@@ -4500,7 +4708,9 @@
      "v": "orange"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 40.81,
+   "light": 0.7469
   },
   {
    "id": "CRVI000106",
@@ -4549,7 +4759,9 @@
      "v": "yellow"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 27.6,
+   "light": 0.6553
   },
   {
    "id": "CRVI000107",
@@ -4594,7 +4806,9 @@
      "v": "red"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 34.24,
+   "light": 0.6262
   },
   {
    "id": "CRVI000108",
@@ -4635,7 +4849,9 @@
      "v": "orange"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": null,
+   "light": 0.8529
   },
   {
    "id": "CRVI000109",
@@ -4684,7 +4900,9 @@
      "v": "yellow"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 55.77,
+   "light": 0.838
   },
   {
    "id": "CRVI000110",
@@ -4729,7 +4947,9 @@
      "v": "orange"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 51.03,
+   "light": 0.5184
   },
   {
    "id": "CRVI000111",
@@ -4774,7 +4994,9 @@
      "v": "red"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 37.35,
+   "light": 0.5474
   },
   {
    "id": "CRVI000112",
@@ -4819,7 +5041,9 @@
      "v": "yellow"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 35.94,
+   "light": 0.4604
   },
   {
    "id": "CRVI000113",
@@ -4864,7 +5088,9 @@
      "v": "red"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 23.52,
+   "light": 0.3601
   },
   {
    "id": "CRVI000114",
@@ -4917,7 +5143,9 @@
      "v": "orange"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 192.42,
+   "light": 0.3159
   },
   {
    "id": "CRVI000115",
@@ -4970,7 +5198,9 @@
      "v": "orange"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 13.44,
+   "light": 0.2938
   },
   {
    "id": "CRVI000116",
@@ -5011,7 +5241,9 @@
      "v": "orange"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 4.23,
+   "light": 0.4892
   },
   {
    "id": "CRVI000117",
@@ -5052,7 +5284,9 @@
      "v": "yellow"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 52.95,
+   "light": 0.4681
   },
   {
    "id": "CRVI000118",
@@ -5093,7 +5327,9 @@
      "v": "orange"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 357.04,
+   "light": 0.3862
   },
   {
    "id": "CRVI000119",
@@ -5138,7 +5374,9 @@
      "v": "orange"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 325.94,
+   "light": 0.4418
   },
   {
    "id": "CRVI000120",
@@ -5187,7 +5425,9 @@
      "v": "yellow"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 17.51,
+   "light": 0.2814
   },
   {
    "id": "CRVI000121",
@@ -5236,7 +5476,9 @@
      "v": "cyan"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 4.22,
+   "light": 0.4447
   },
   {
    "id": "CRVI000122",
@@ -5277,7 +5519,9 @@
      "v": "orange"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 4.98,
+   "light": 0.7529
   },
   {
    "id": "CRVI000123",
@@ -5322,7 +5566,9 @@
      "v": "pink"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 45.06,
+   "light": 0.3825
   },
   {
    "id": "CRVI000124",
@@ -5367,7 +5613,9 @@
      "v": "cyan"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 352.57,
+   "light": 0.5033
   },
   {
    "id": "CRVI000125",
@@ -5420,7 +5668,9 @@
      "v": "black"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 1.75,
+   "light": 0.1363
   },
   {
    "id": "CRVI000126",
@@ -5465,7 +5715,9 @@
      "v": "black"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 44.72,
+   "light": 0.158
   },
   {
    "id": "CRVI000127",
@@ -5510,7 +5762,9 @@
      "v": "red"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 354.25,
+   "light": 0.6506
   },
   {
    "id": "CRVI000128",
@@ -5555,7 +5809,9 @@
      "v": "blue"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 47.96,
+   "light": 0.6148
   },
   {
    "id": "CRVI000129",
@@ -5592,7 +5848,9 @@
      "v": "blue"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 192.4,
+   "light": 0.5157
   },
   {
    "id": "CRVI000130",
@@ -5633,7 +5891,9 @@
      "v": "orange"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 43.95,
+   "light": 0.6385
   },
   {
    "id": "CRVI000131",
@@ -5666,7 +5926,9 @@
      "v": "orange"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 27.87,
+   "light": 0.2101
   },
   {
    "id": "CRVI000132",
@@ -5711,7 +5973,9 @@
      "v": "red"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 6.49,
+   "light": 0.4046
   },
   {
    "id": "CRVI000133",
@@ -5756,7 +6020,9 @@
      "v": "red"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 205.69,
+   "light": 0.464
   },
   {
    "id": "CRVI000134",
@@ -5797,7 +6063,9 @@
      "v": "green"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": null,
+   "light": 0.4865
   },
   {
    "id": "CRVI000135",
@@ -5838,7 +6106,9 @@
      "v": "orange"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 31.47,
+   "light": 0.3246
   },
   {
    "id": "CRVI000136",
@@ -5875,7 +6145,9 @@
      "v": "orange"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 4.77,
+   "light": 0.5557
   },
   {
    "id": "CRVI000137",
@@ -5912,7 +6184,9 @@
      "v": "cyan"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 4.53,
+   "light": 0.3904
   },
   {
    "id": "CRVI000138",
@@ -5945,7 +6219,9 @@
      "v": "red"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 5.03,
+   "light": 0.4132
   },
   {
    "id": "CRVI000139",
@@ -5986,7 +6262,9 @@
      "v": "red"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 25.35,
+   "light": 0.3584
   },
   {
    "id": "CRVI000140",
@@ -6031,7 +6309,9 @@
      "v": "white"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 5.02,
+   "light": 0.9447
   },
   {
    "id": "CRVI000141",
@@ -6080,7 +6360,9 @@
      "v": "red"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 18.2,
+   "light": 0.6826
   },
   {
    "id": "CRVI000142",
@@ -6117,7 +6399,9 @@
      "v": "red"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 14.21,
+   "light": 0.6666
   },
   {
    "id": "CRVI000143",
@@ -6158,7 +6442,9 @@
      "v": "red"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 215.23,
+   "light": 0.5988
   },
   {
    "id": "CRVI000144",
@@ -6203,7 +6489,9 @@
      "v": "cyan"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 355.99,
+   "light": 0.8415
   },
   {
    "id": "CRVI000145",
@@ -6244,7 +6532,9 @@
      "v": "yellow"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 44.03,
+   "light": 0.3043
   },
   {
    "id": "CRVI000146",
@@ -6285,7 +6575,9 @@
      "v": "purple"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 222.64,
+   "light": 0.6043
   },
   {
    "id": "CRVI000147",
@@ -6326,7 +6618,9 @@
      "v": "orange"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 66.52,
+   "light": 0.3883
   },
   {
    "id": "CRVI000148",
@@ -6371,7 +6665,9 @@
      "v": "orange"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 25.03,
+   "light": 0.3391
   },
   {
    "id": "CRVI000149",
@@ -6408,7 +6704,9 @@
      "v": "purple"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 4.83,
+   "light": 0.5056
   },
   {
    "id": "CRVI000150",
@@ -6453,7 +6751,9 @@
      "v": "yellow"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 34.16,
+   "light": 0.5651
   },
   {
    "id": "CRVI000151",
@@ -6494,7 +6794,9 @@
      "v": "red"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 358.45,
+   "light": 0.706
   },
   {
    "id": "CRVI000152",
@@ -6539,7 +6841,9 @@
      "v": "orange"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 36.01,
+   "light": 0.602
   },
   {
    "id": "CRVI000153",
@@ -6580,7 +6884,9 @@
      "v": "cyan"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 353.97,
+   "light": 0.6224
   },
   {
    "id": "CRVI000154",
@@ -6621,7 +6927,9 @@
      "v": "orange"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 6.51,
+   "light": 0.429
   },
   {
    "id": "CRVI000155",
@@ -6662,7 +6970,9 @@
      "v": "neutral"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": null,
+   "light": 0.4582
   },
   {
    "id": "CRVI000156",
@@ -6699,7 +7009,9 @@
      "v": "green"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 122.64,
+   "light": 0.6764
   },
   {
    "id": "CRVI000157",
@@ -6740,7 +7052,9 @@
      "v": "red"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 358.03,
+   "light": 0.5721
   },
   {
    "id": "CRVI000158",
@@ -6777,7 +7091,9 @@
      "v": "pink"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 335.96,
+   "light": 0.7296
   },
   {
    "id": "CRVI000159",
@@ -6818,7 +7134,9 @@
      "v": "red"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 6.69,
+   "light": 0.2165
   },
   {
    "id": "CRVI000160",
@@ -6855,7 +7173,9 @@
      "v": "blue"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 356.66,
+   "light": 0.242
   },
   {
    "id": "CRVI000161",
@@ -6896,7 +7216,9 @@
      "v": "red"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 54.88,
+   "light": 0.6067
   },
   {
    "id": "CRVI000162",
@@ -6933,7 +7255,9 @@
      "v": "neutral"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 53.52,
+   "light": 0.2849
   },
   {
    "id": "CRVI000163",
@@ -6970,7 +7294,9 @@
      "v": "blue"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 238.68,
+   "light": 0.4792
   },
   {
    "id": "CRVI000164",
@@ -7015,7 +7341,9 @@
      "v": "orange"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 3.93,
+   "light": 0.3875
   },
   {
    "id": "CRVI000165",
@@ -7052,7 +7380,9 @@
      "v": "red"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 26.7,
+   "light": 0.2853
   },
   {
    "id": "CRVI000166",
@@ -7097,7 +7427,9 @@
      "v": "yellow"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 204.31,
+   "light": 0.4811
   },
   {
    "id": "CRVI000167",
@@ -7134,7 +7466,9 @@
      "v": "orange"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 4.86,
+   "light": 0.235
   },
   {
    "id": "CRVI000168",
@@ -7167,7 +7501,9 @@
      "v": "orange"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 356.56,
+   "light": 0.4576
   },
   {
    "id": "CRVI000169",
@@ -7208,7 +7544,9 @@
      "v": "yellow"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 44.36,
+   "light": 0.6334
   },
   {
    "id": "CRVI000170",
@@ -7241,7 +7579,9 @@
      "v": "yellow"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 245.71,
+   "light": 0.7789
   },
   {
    "id": "CRVI000171",
@@ -7282,7 +7622,9 @@
      "v": "red"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 23.95,
+   "light": 0.5166
   },
   {
    "id": "CRVI000172",
@@ -7319,7 +7661,9 @@
      "v": "cyan"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 196.7,
+   "light": 0.5942
   },
   {
    "id": "CRVI000173",
@@ -7356,7 +7700,9 @@
      "v": "green"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 102.36,
+   "light": 0.3245
   },
   {
    "id": "CRVI000174",
@@ -7393,7 +7739,9 @@
      "v": "yellow"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 65.0,
+   "light": 0.6176
   },
   {
    "id": "CRVI000175",
@@ -7430,7 +7778,9 @@
      "v": "purple"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 277.09,
+   "light": 0.577
   },
   {
    "id": "CRVI000176",
@@ -7471,7 +7821,9 @@
      "v": "neutral"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": null,
+   "light": 0.728
   },
   {
    "id": "CRVI000177",
@@ -7516,7 +7868,9 @@
      "v": "white"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 3.68,
+   "light": 0.8141
   },
   {
    "id": "CRVI000178",
@@ -7561,7 +7915,9 @@
      "v": "cyan"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 200.36,
+   "light": 0.2648
   },
   {
    "id": "CRVI000179",
@@ -7602,7 +7958,9 @@
      "v": "yellow"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 55.16,
+   "light": 0.509
   },
   {
    "id": "CRVI000180",
@@ -7643,7 +8001,9 @@
      "v": "orange"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 224.98,
+   "light": 0.3352
   },
   {
    "id": "CRVI000181",
@@ -7684,7 +8044,9 @@
      "v": "neutral"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": null,
+   "light": 0.7559
   },
   {
    "id": "CRVI000182",
@@ -7721,7 +8083,9 @@
      "v": "orange"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 192.32,
+   "light": 0.6359
   },
   {
    "id": "CRVI000183",
@@ -7762,7 +8126,9 @@
      "v": "green"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 203.34,
+   "light": 0.4697
   },
   {
    "id": "CRVI000184",
@@ -7807,7 +8173,9 @@
      "v": "red"
     }
    ],
-   "published": true
+   "published": true,
+   "hue": 5.03,
+   "light": 0.5544
   }
  ]
 }
