@@ -62,7 +62,7 @@ a{color:inherit;text-decoration:none}
 
 /* ---- tag index ---- */
 .wrap{max-width:1180px;margin:0 auto;padding:34px 18px 90px}
-.facet{border-top:1px solid var(--rule);padding:16px 0 20px;display:grid;
+.facet{position:relative;border-top:1px solid var(--rule);padding:16px 0 20px;display:grid;
  grid-template-columns:150px 1fr;gap:22px}
 .facet:first-child{border-top:none}
 .facet h2{font:600 10px/1.4 var(--mono);letter-spacing:.16em;text-transform:uppercase;color:var(--ink)}
@@ -72,6 +72,24 @@ a{color:inherit;text-decoration:none}
  padding:2px 0;break-inside:avoid}
 .facet .list a:hover{text-decoration:underline}
 .facet .list .n{color:var(--mute);font:10px/1.7 var(--mono);flex:0 0 auto}
+.facet .col{min-width:0}
+/* ⚠️ Todd, 2026-08-27, MOBILE ONLY: a tag with more than ten things shows immediately, the rest
+   sit behind "see more". Desktop is untouched — .more stays hidden and every tag renders, so the
+   wide layout is exactly what it was. Done with a checkbox rather than JS so it survives with
+   scripting off, and the toggle is visually hidden rather than display:none so it stays
+   focusable. */
+.moretoggle{position:absolute;opacity:0;width:1px;height:1px;pointer-events:none}
+.more{display:none}
+@media (max-width:700px){
+ .facet .list a.small{display:none}
+ .moretoggle:checked ~ .col .list a.small{display:flex}
+ .more{display:inline-block;margin-top:10px;font:11px/1.6 var(--mono);letter-spacing:.05em;
+  color:var(--mute);border-bottom:1px solid var(--rule);cursor:pointer;
+  -webkit-tap-highlight-color:transparent}
+ .more .b{display:none}
+ .moretoggle:checked ~ .col .more .a{display:none}
+ .moretoggle:checked ~ .col .more .b{display:inline}
+}
 .crumb{display:flex;align-items:center;gap:14px;height:38px;padding:0 18px;
  border-bottom:1px solid var(--rule);font-size:12px}
 .crumb .t{font:600 12px/1 var(--mono);letter-spacing:.06em}
@@ -206,15 +224,35 @@ def main():
     for (k, v), idxs in by_tag.items():
         facets.setdefault(k, []).append((v, len(idxs)))
     order = [f for f in FACET_ORDER if f in facets] + sorted(set(facets) - set(FACET_ORDER))
+    # ⚠️ MOBILE ONLY. Tags with MORE THAN ten items show straight away; the rest wait behind a
+    # "see more". The split is by item count per tag, not per facet, so eight of the fifteen
+    # facets — artist, subject, photographer, client, art director, illustrator, typographer,
+    # typography — currently have nothing above the line and open empty on a phone. The link
+    # names the hidden count for exactly that reason: "see 122 more" reads as a choice, an
+    # unexplained blank does not. Desktop renders every tag as before.
+    MOBILE_SHOW_MIN = 10
     secs = []
     for k in order:
         vals = sorted(facets[k], key=lambda x: (-x[1], x[0].lower()))
-        links = "".join(
-            f'<a href="../tag/{slug(k)}/{slug(v)}/"><span>{esc(v)}</span>'
-            f'<span class="n">{n}</span></a>' for v, n in vals)
-        secs.append(f'<section class="facet"><h2>{esc(k)}'
-                    f'<span class="ct">{len(vals)}</span></h2>'
-                    f'<div class="list">{links}</div></section>')
+        # vals is already ordered by descending count, so the big ones lead and this split
+        # preserves the existing order rather than reshuffling it
+        big = [t for t in vals if t[1] > MOBILE_SHOW_MIN]
+        small = [t for t in vals if t[1] <= MOBILE_SHOW_MIN]
+
+        def lnk(v, n, cls):
+            return (f'<a class="{cls}" href="../tag/{slug(k)}/{slug(v)}/"><span>{esc(v)}</span>'
+                    f'<span class="n">{n}</span></a>')
+        links = ("".join(lnk(v, n, "big") for v, n in big)
+                 + "".join(lnk(v, n, "small") for v, n in small))
+        tid = "m-" + slug(k)
+        more = (f'<label class="more" for="{tid}">'
+                f'<span class="a">see {len(small)} more</span>'
+                f'<span class="b">show fewer</span></label>') if small else ""
+        secs.append(f'<section class="facet">'
+                    f'<input type="checkbox" id="{tid}" class="moretoggle">'
+                    f'<h2>{esc(k)}<span class="ct">{len(vals)}</span></h2>'
+                    f'<div class="col"><div class="list">{links}</div>{more}</div>'
+                    f'</section>')
     body = ('<div class="crumb"><span class="t">ALL TAGS</span>'
             f'<span class="c">{len(by_tag)} across {len(order)} categories</span>'
             f'<a href="../{items[0]["id"]}/">&#8592; back to the museum</a></div>'

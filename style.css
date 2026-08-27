@@ -37,7 +37,7 @@ a{color:inherit;text-decoration:none}
 
 /* ---- tag index ---- */
 .wrap{max-width:1180px;margin:0 auto;padding:34px 18px 90px}
-.facet{border-top:1px solid var(--rule);padding:16px 0 20px;display:grid;
+.facet{position:relative;border-top:1px solid var(--rule);padding:16px 0 20px;display:grid;
  grid-template-columns:150px 1fr;gap:22px}
 .facet:first-child{border-top:none}
 .facet h2{font:600 10px/1.4 var(--mono);letter-spacing:.16em;text-transform:uppercase;color:var(--ink)}
@@ -47,6 +47,24 @@ a{color:inherit;text-decoration:none}
  padding:2px 0;break-inside:avoid}
 .facet .list a:hover{text-decoration:underline}
 .facet .list .n{color:var(--mute);font:10px/1.7 var(--mono);flex:0 0 auto}
+.facet .col{min-width:0}
+/* ⚠️ Todd, 2026-08-27, MOBILE ONLY: a tag with more than ten things shows immediately, the rest
+   sit behind "see more". Desktop is untouched — .more stays hidden and every tag renders, so the
+   wide layout is exactly what it was. Done with a checkbox rather than JS so it survives with
+   scripting off, and the toggle is visually hidden rather than display:none so it stays
+   focusable. */
+.moretoggle{position:absolute;opacity:0;width:1px;height:1px;pointer-events:none}
+.more{display:none}
+@media (max-width:700px){
+ .facet .list a.small{display:none}
+ .moretoggle:checked ~ .col .list a.small{display:flex}
+ .more{display:inline-block;margin-top:10px;font:11px/1.6 var(--mono);letter-spacing:.05em;
+  color:var(--mute);border-bottom:1px solid var(--rule);cursor:pointer;
+  -webkit-tap-highlight-color:transparent}
+ .more .b{display:none}
+ .moretoggle:checked ~ .col .more .a{display:none}
+ .moretoggle:checked ~ .col .more .b{display:inline}
+}
 .crumb{display:flex;align-items:center;gap:14px;height:38px;padding:0 18px;
  border-bottom:1px solid var(--rule);font-size:12px}
 .crumb .t{font:600 12px/1 var(--mono);letter-spacing:.06em}
