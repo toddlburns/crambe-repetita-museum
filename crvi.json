@@ -1,6 +1,5 @@
 {
  "archive": "Crambe Repetita Visual Inspiration",
- "exhibition": "First Exhibition — IDM definitive",
  "items": [
   {
    "id": "CRVI000001",
@@ -3731,6 +3730,40 @@
     {
      "k": "colour",
      "v": "blue"
+    }
+   ]
+  },
+  {
+   "id": "CRVI000105",
+   "image": "images/CRVI000105.jpg",
+   "maker": "Masuteru Aoba",
+   "title": "10th Anniversary of \"Tategumi Yokogumi\" Magazine",
+   "subtitle": "Morisawa & Company Ltd. · Silkscreen",
+   "year": "1993",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Masuteru Aoba"
+    },
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "client",
+     "v": "Morisawa & Company Ltd."
+    },
+    {
+     "k": "medium",
+     "v": "silkscreen"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "colour",
+     "v": "orange"
     }
    ]
   }
