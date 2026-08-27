@@ -4528,6 +4528,54 @@
      "v": "orange"
     }
    ]
+  },
+  {
+   "id": "CRVI000109",
+   "image": "images/CRVI000109.jpg",
+   "original": "originals/CRVI000109.jpg",
+   "original_px": [
+    3309,
+    4678
+   ],
+   "original_bytes": 4076140,
+   "maker": "Katsumi Asaba",
+   "title": "Bauhaus.",
+   "subtitle": "Misawa Design, bauhaus collection · after Lyonel Feininger's woodcut 'Cathedral', 1919",
+   "year": "2009",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Katsumi Asaba"
+    },
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "client",
+     "v": "Misawa Design"
+    },
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    },
+    {
+     "k": "typography",
+     "v": "blackletter"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    },
+    {
+     "k": "colour",
+     "v": "yellow"
+    }
+   ]
   }
  ]
 }
