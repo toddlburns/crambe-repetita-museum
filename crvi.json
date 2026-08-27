@@ -9230,6 +9230,228 @@
    ],
    "hue": 345.37,
    "light": 0.6511
+  },
+  {
+   "id": "CRVI000216",
+   "image": "images/CRVI000216.jpg",
+   "original": "originals/CRVI000216.jpg",
+   "original_px": [
+    1170,
+    1654
+   ],
+   "original_bytes": 546437,
+   "maker": "Yayoi Kusama",
+   "title": "Kusama with paper works, Tokyo",
+   "subtitle": "Photographed among her works on paper · via David Zwirner",
+   "year": "1957",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Yayoi Kusama"
+    },
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "subject",
+     "v": "Yayoi Kusama"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "color",
+     "v": "neutral"
+    }
+   ],
+   "hue": null,
+   "light": 0.3274
+  },
+  {
+   "id": "CRVI000217",
+   "image": "images/CRVI000217.jpg",
+   "original": "originals/CRVI000217.jpg",
+   "original_px": [
+    1170,
+    1037
+   ],
+   "original_bytes": 522799,
+   "maker": "Yayoi Kusama",
+   "title": "Infinity Mirror Room — Phalli's Field (or Floor Show)",
+   "subtitle": "Kusama standing in the work · via David Zwirner",
+   "year": "1965",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Yayoi Kusama"
+    },
+    {
+     "k": "type",
+     "v": "installation"
+    },
+    {
+     "k": "subject",
+     "v": "Yayoi Kusama"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    }
+   ],
+   "hue": 346.29,
+   "light": 0.6356
+  },
+  {
+   "id": "CRVI000218",
+   "image": "images/CRVI000218.jpg",
+   "original": "originals/CRVI000218.jpg",
+   "original_px": [
+    1170,
+    761
+   ],
+   "original_bytes": 346610,
+   "maker": "Yayoi Kusama",
+   "title": "Kusama painting, Tokyo",
+   "subtitle": "Photograph by Motohiko Hasui · at the media preview of the Yayoi Kusama Museum",
+   "year": "2017",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Yayoi Kusama"
+    },
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "photographer",
+     "v": "Motohiko Hasui"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "subject",
+     "v": "Yayoi Kusama"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 194.71,
+   "light": 0.4676
+  },
+  {
+   "id": "CRVI000219",
+   "image": "images/CRVI000219.jpg",
+   "original": "originals/CRVI000219.jpg",
+   "original_px": [
+    1170,
+    1463
+   ],
+   "original_bytes": 297377,
+   "maker": "Yayoi Kusama",
+   "title": "Longing for Eternity",
+   "subtitle": "Photograph by Vincent Tullo · shown in 'Festival of Life', David Zwirner Gallery",
+   "year": "2017",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Yayoi Kusama"
+    },
+    {
+     "k": "type",
+     "v": "installation"
+    },
+    {
+     "k": "photographer",
+     "v": "Vincent Tullo"
+    },
+    {
+     "k": "subject",
+     "v": "Yayoi Kusama"
+    },
+    {
+     "k": "client",
+     "v": "David Zwirner Gallery"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 5.88,
+   "light": 0.2061
+  },
+  {
+   "id": "CRVI000220",
+   "image": "images/CRVI000220.jpg",
+   "original": "originals/CRVI000220.jpg",
+   "original_px": [
+    1170,
+    1542
+   ],
+   "original_bytes": 558574,
+   "maker": "Yayoi Kusama",
+   "title": "Narcissus Garden",
+   "subtitle": "Photograph by Heather Sten · steel spheres on an artificial wetland, New York Botanical Garden",
+   "year": "1966/2021",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Yayoi Kusama"
+    },
+    {
+     "k": "type",
+     "v": "installation"
+    },
+    {
+     "k": "photographer",
+     "v": "Heather Sten"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 205.62,
+   "light": 0.3919
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "next": 216,
+ "next": 221,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -10291,6 +10291,306 @@
    "hue": 345.37,
    "light": 0.6511,
    "chroma": 0.6184
+  },
+  "NYT Kusama::Kusama with paper works, Tokyo (1957)": {
+   "id": "CRVI000216",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000216.jpg",
+   "original_px": [
+    1170,
+    1654
+   ],
+   "original_bytes": 546437,
+   "identity": "NYT Kusama::Kusama with paper works, Tokyo (1957)",
+   "maker": "Yayoi Kusama",
+   "title": "Kusama with paper works, Tokyo",
+   "subtitle": "Photographed among her works on paper · via David Zwirner",
+   "year": "1957",
+   "verified_against": "Caption and credit read directly off the New York Times feature 'Yayoi Kusama: A Life in Pictures' (27 August 2026), from Todd's own screenshots of it. Captioned 'Kusama with paper artworks on the floor in Tokyo in 1957', credited 'Yayoi Kusama, via David Zwirner'. No photographer is named there, and none is claimed here.",
+   "source_page": "https://www.nytimes.com/2026/08/27/arts/design/yayoi-kusama-photos-artwork.html",
+   "notes": [
+    "The photographer is not identified — the Times credits the image to the artist via David Zwirner, which is a source line, not an authorship line.",
+    "Cropped from Todd's screenshot to the photograph alone — the article text, caption and phone chrome are not part of the object and are not in the archive.",
+    "Reproduced here at screenshot resolution; the Times' own file is behind its paywall and was not taken."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/kus_k1.jpg",
+   "source_px": [
+    1170,
+    1654
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Yayoi Kusama"
+    },
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "subject",
+     "v": "Yayoi Kusama"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Caption and credit read directly off the New York Times feature 'Yayoi Kusama: A Life in Pictures' (27 August 2026), from Todd's own screenshots of it. Captioned 'Kusama with paper artworks on the floor in Tokyo in 1957', credited 'Yayoi Kusama, via David Zwirner'. No photographer is named there, and none is claimed here.",
+   "hue": null,
+   "light": 0.3274,
+   "chroma": 0.0164
+  },
+  "NYT Kusama::Infinity Mirror Room — Phalli's Field (or Floor Show) (1965)": {
+   "id": "CRVI000217",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000217.jpg",
+   "original_px": [
+    1170,
+    1037
+   ],
+   "original_bytes": 522799,
+   "identity": "NYT Kusama::Infinity Mirror Room — Phalli's Field (or Floor Show) (1965)",
+   "maker": "Yayoi Kusama",
+   "title": "Infinity Mirror Room — Phalli's Field (or Floor Show)",
+   "subtitle": "Kusama standing in the work · via David Zwirner",
+   "year": "1965",
+   "verified_against": "Caption and credit read directly off the New York Times feature 'Yayoi Kusama: A Life in Pictures' (27 August 2026), from Todd's own screenshots of it. Captioned 'Kusama standing in her “Infinity Mirror Room — Phalli’s Field (or Floor Show)” in 1965', credited 'Yayoi Kusama, via David Zwirner'.",
+   "source_page": "https://www.nytimes.com/2026/08/27/arts/design/yayoi-kusama-photos-artwork.html",
+   "notes": [
+    "No venue is recorded: the Times caption gives only the year, so the gallery is left open rather than filled in from memory.",
+    "Photographer unidentified.",
+    "Cropped from Todd's screenshot to the photograph alone — the article text, caption and phone chrome are not part of the object and are not in the archive.",
+    "Reproduced here at screenshot resolution; the Times' own file is behind its paywall and was not taken."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/kus_k2.jpg",
+   "source_px": [
+    1170,
+    1037
+   ],
+   "colors": [
+    "red",
+    "pink"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Yayoi Kusama"
+    },
+    {
+     "k": "type",
+     "v": "installation"
+    },
+    {
+     "k": "subject",
+     "v": "Yayoi Kusama"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Caption and credit read directly off the New York Times feature 'Yayoi Kusama: A Life in Pictures' (27 August 2026), from Todd's own screenshots of it. Captioned 'Kusama standing in her “Infinity Mirror Room — Phalli’s Field (or Floor Show)” in 1965', credited 'Yayoi Kusama, via David Zwirner'.",
+   "hue": 346.29,
+   "light": 0.6356,
+   "chroma": 0.8502
+  },
+  "NYT Kusama::Kusama painting, Tokyo (2017)": {
+   "id": "CRVI000218",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000218.jpg",
+   "original_px": [
+    1170,
+    761
+   ],
+   "original_bytes": 346610,
+   "identity": "NYT Kusama::Kusama painting, Tokyo (2017)",
+   "maker": "Yayoi Kusama",
+   "title": "Kusama painting, Tokyo",
+   "subtitle": "Photograph by Motohiko Hasui · at the media preview of the Yayoi Kusama Museum",
+   "year": "2017",
+   "verified_against": "Caption and credit read directly off the New York Times feature 'Yayoi Kusama: A Life in Pictures' (27 August 2026), from Todd's own screenshots of it. Captioned 'Kusama at a 2017 media preview of the Tokyo museum that bears her name', credited 'Motohiko Hasui for The New York Times'.",
+   "source_page": "https://www.nytimes.com/2026/08/27/arts/design/yayoi-kusama-photos-artwork.html",
+   "notes": [
+    "Cropped from Todd's screenshot to the photograph alone — the article text, caption and phone chrome are not part of the object and are not in the archive.",
+    "Reproduced here at screenshot resolution; the Times' own file is behind its paywall and was not taken."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/kus_k3.jpg",
+   "source_px": [
+    1170,
+    761
+   ],
+   "colors": [
+    "cyan",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Yayoi Kusama"
+    },
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "photographer",
+     "v": "Motohiko Hasui"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "subject",
+     "v": "Yayoi Kusama"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Caption and credit read directly off the New York Times feature 'Yayoi Kusama: A Life in Pictures' (27 August 2026), from Todd's own screenshots of it. Captioned 'Kusama at a 2017 media preview of the Tokyo museum that bears her name', credited 'Motohiko Hasui for The New York Times'.",
+   "hue": 194.71,
+   "light": 0.4676,
+   "chroma": 0.5982
+  },
+  "NYT Kusama::Longing for Eternity (2017)": {
+   "id": "CRVI000219",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000219.jpg",
+   "original_px": [
+    1170,
+    1463
+   ],
+   "original_bytes": 297377,
+   "identity": "NYT Kusama::Longing for Eternity (2017)",
+   "maker": "Yayoi Kusama",
+   "title": "Longing for Eternity",
+   "subtitle": "Photograph by Vincent Tullo · shown in 'Festival of Life', David Zwirner Gallery",
+   "year": "2017",
+   "verified_against": "Caption and credit read directly off the New York Times feature 'Yayoi Kusama: A Life in Pictures' (27 August 2026), from Todd's own screenshots of it. Captioned 'A peek inside “Longing for Eternity,” made by Kusama in 2017, on display in her show “Festival of Life” at David Zwirner Gallery', credited 'Vincent Tullo for The New York Times'.",
+   "source_page": "https://www.nytimes.com/2026/08/27/arts/design/yayoi-kusama-photos-artwork.html",
+   "notes": [
+    "Cropped from Todd's screenshot to the photograph alone — the article text, caption and phone chrome are not part of the object and are not in the archive.",
+    "Reproduced here at screenshot resolution; the Times' own file is behind its paywall and was not taken."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/kus_k4.jpg",
+   "source_px": [
+    1170,
+    1463
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Yayoi Kusama"
+    },
+    {
+     "k": "type",
+     "v": "installation"
+    },
+    {
+     "k": "photographer",
+     "v": "Vincent Tullo"
+    },
+    {
+     "k": "subject",
+     "v": "Yayoi Kusama"
+    },
+    {
+     "k": "client",
+     "v": "David Zwirner Gallery"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Caption and credit read directly off the New York Times feature 'Yayoi Kusama: A Life in Pictures' (27 August 2026), from Todd's own screenshots of it. Captioned 'A peek inside “Longing for Eternity,” made by Kusama in 2017, on display in her show “Festival of Life” at David Zwirner Gallery', credited 'Vincent Tullo for The New York Times'.",
+   "hue": 5.88,
+   "light": 0.2061,
+   "chroma": 0.2013
+  },
+  "NYT Kusama::Narcissus Garden (1966/2021)": {
+   "id": "CRVI000220",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000220.jpg",
+   "original_px": [
+    1170,
+    1542
+   ],
+   "original_bytes": 558574,
+   "identity": "NYT Kusama::Narcissus Garden (1966/2021)",
+   "maker": "Yayoi Kusama",
+   "title": "Narcissus Garden",
+   "subtitle": "Photograph by Heather Sten · steel spheres on an artificial wetland, New York Botanical Garden",
+   "year": "1966/2021",
+   "verified_against": "Caption and credit read directly off the New York Times feature 'Yayoi Kusama: A Life in Pictures' (27 August 2026), from Todd's own screenshots of it. Captioned '“Narcissus Garden” (1966/2021), with steel balls floating on the waters of an artificial wetland, at the New York Botanical Garden in 2021', credited 'Heather Sten for The New York Times'.",
+   "source_page": "https://www.nytimes.com/2026/08/27/arts/design/yayoi-kusama-photos-artwork.html",
+   "notes": [
+    "Dated 1966/2021 as the Times dates it: the work is from 1966, this installation of it from 2021.",
+    "Cropped from Todd's screenshot to the photograph alone — the article text, caption and phone chrome are not part of the object and are not in the archive.",
+    "Reproduced here at screenshot resolution; the Times' own file is behind its paywall and was not taken."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/kus_k5.jpg",
+   "source_px": [
+    1170,
+    1542
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Yayoi Kusama"
+    },
+    {
+     "k": "type",
+     "v": "installation"
+    },
+    {
+     "k": "photographer",
+     "v": "Heather Sten"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Caption and credit read directly off the New York Times feature 'Yayoi Kusama: A Life in Pictures' (27 August 2026), from Todd's own screenshots of it. Captioned '“Narcissus Garden” (1966/2021), with steel balls floating on the waters of an artificial wetland, at the New York Botanical Garden in 2021', credited 'Heather Sten for The New York Times'.",
+   "hue": 205.62,
+   "light": 0.3919,
+   "chroma": 0.249
   }
  }
 }
