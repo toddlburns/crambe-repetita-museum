@@ -1,0 +1,17 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>designer: Jutaro Itoh — Crambe Repetita Museum</title><link rel="stylesheet" href="../../../style.css"></head><body><div class="crumb"><span class="t">DESIGNER: JUTARO ITOH</span><span class="c">2 items</span><a href="../../../tags/">&#8592; all tags</a></div><div class="grid"><a class="cell" href="../../../CRVI000139/"><div class="inner"><img src="../../../images/CRVI000139.jpg" alt=""></div><div class="cap"><span class="n">CRVI000139</span>Jutaro Itoh - Hiroshima (orange)<br>廣島</div></a><a class="cell" href="../../../CRVI000140/"><div class="inner"><img src="../../../images/CRVI000140.jpg" alt=""></div><div class="cap"><span class="n">CRVI000140</span>Jutaro Itoh - 企業空間のサイン — Corporate Signs (Designing Signs Vol. 2)<br>Jutaro Itoh and Atsuko Taguchi · Rikuyo-sha</div></a></div><script>
+var SCALE=3;var t=null;
+document.querySelectorAll('.cell').forEach(function(c){
+  c.addEventListener('mouseenter',function(){
+    clearTimeout(t);
+    t=setTimeout(function(){
+      // transform does not change layout, so push the caption below the grown image
+      var im=c.querySelector('img'),cap=c.querySelector('.cap');
+      cap.style.transform='translateY('+im.getBoundingClientRect().height*(SCALE-1)+'px)';
+      c.classList.add('big');
+    },1000);
+  });
+  c.addEventListener('mouseleave',function(){
+    clearTimeout(t);c.classList.remove('big');c.querySelector('.cap').style.transform='';
+  });
+});
+</script></body></html>

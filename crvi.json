@@ -5946,6 +5946,92 @@
     }
    ],
    "published": true
+  },
+  {
+   "id": "CRVI000139",
+   "image": "images/CRVI000139.jpg",
+   "original": "originals/CRVI000139.jpg",
+   "original_px": [
+    1657,
+    2365
+   ],
+   "original_bytes": 329557,
+   "maker": "Jutaro Itoh",
+   "title": "Hiroshima (orange)",
+   "subtitle": "廣島",
+   "year": "",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Jutaro Itoh"
+    },
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "subject",
+     "v": "Hiroshima"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "colour",
+     "v": "orange"
+    },
+    {
+     "k": "colour",
+     "v": "red"
+    }
+   ],
+   "published": true
+  },
+  {
+   "id": "CRVI000140",
+   "image": "images/CRVI000140.jpg",
+   "original": "originals/CRVI000140.jpg",
+   "original_px": [
+    1852,
+    2400
+   ],
+   "original_bytes": 199172,
+   "maker": "Jutaro Itoh",
+   "title": "企業空間のサイン — Corporate Signs (Designing Signs Vol. 2)",
+   "subtitle": "Jutaro Itoh and Atsuko Taguchi · Rikuyo-sha",
+   "year": "",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Jutaro Itoh"
+    },
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "subject",
+     "v": "signage"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "colour",
+     "v": "yellow"
+    },
+    {
+     "k": "colour",
+     "v": "red"
+    },
+    {
+     "k": "colour",
+     "v": "white"
+    }
+   ],
+   "published": true
   }
  ]
 }
