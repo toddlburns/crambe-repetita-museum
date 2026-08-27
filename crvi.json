@@ -4685,6 +4685,186 @@
     }
    ],
    "published": true
+  },
+  {
+   "id": "CRVI000110",
+   "image": "images/CRVI000110.jpg",
+   "original": "originals/CRVI000110.jpg",
+   "original_px": [
+    1250,
+    1769
+   ],
+   "original_bytes": 370314,
+   "maker": "Kiyoshi Awazu",
+   "title": "The 6th Contemporary Japanese Sculpture Exhibition",
+   "subtitle": "第6回現代日本彫刻展 · Ube City Open-Air Sculpture Museum, Tokiwa Park, Ube, Yamaguchi",
+   "year": "1975",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Kiyoshi Awazu"
+    },
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "subject",
+     "v": "exhibition"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "colour",
+     "v": "yellow"
+    },
+    {
+     "k": "colour",
+     "v": "orange"
+    }
+   ],
+   "published": false
+  },
+  {
+   "id": "CRVI000111",
+   "image": "images/CRVI000111.jpg",
+   "original": "originals/CRVI000111.jpg",
+   "original_px": [
+    1250,
+    1762
+   ],
+   "original_bytes": 424434,
+   "maker": "Kiyoshi Awazu",
+   "title": "Contemporary Japanese Sculpture Exhibition — Form and Colour",
+   "subtitle": "現代日本彫刻展 形と色",
+   "year": "1973",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Kiyoshi Awazu"
+    },
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "subject",
+     "v": "exhibition"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "colour",
+     "v": "orange"
+    },
+    {
+     "k": "colour",
+     "v": "red"
+    }
+   ],
+   "published": false
+  },
+  {
+   "id": "CRVI000112",
+   "image": "images/CRVI000112.jpg",
+   "original": "originals/CRVI000112.jpg",
+   "original_px": [
+    1250,
+    1762
+   ],
+   "original_bytes": 551478,
+   "maker": "Kiyoshi Awazu",
+   "title": "Kiyoshi Awazu Exhibition & Workshop",
+   "subtitle": "The 43rd International Design Conference in Aspen",
+   "year": "1993",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Kiyoshi Awazu"
+    },
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "subject",
+     "v": "exhibition"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "colour",
+     "v": "orange"
+    },
+    {
+     "k": "colour",
+     "v": "yellow"
+    }
+   ],
+   "published": false
+  },
+  {
+   "id": "CRVI000113",
+   "image": "images/CRVI000113.jpg",
+   "original": "originals/CRVI000113.jpg",
+   "original_px": [
+    4367,
+    6234
+   ],
+   "original_bytes": 5635107,
+   "maker": "Kiyoshi Awazu",
+   "title": "La Chinoise",
+   "subtitle": "Japanese poster for the first Japanese release of Godard's film · Athos",
+   "year": "1967",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Kiyoshi Awazu"
+    },
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "colour",
+     "v": "orange"
+    },
+    {
+     "k": "colour",
+     "v": "red"
+    }
+   ],
+   "published": false
   }
  ]
 }
