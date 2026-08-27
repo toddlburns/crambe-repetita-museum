@@ -54,9 +54,6 @@ a{color:inherit;text-decoration:none}
    max-height:100% resolves against `auto` and it renders at natural size — which blew every
    picture past the viewport. The link to the original lives in the corner instead. */
 .stage img{max-width:100%;max-height:100%;object-fit:contain;display:block}
-.orig{position:absolute;right:18px;bottom:6px;font:10px/1 var(--mono);color:var(--mute);
- letter-spacing:.04em}
-.orig:hover{color:var(--ink)}
 .tags{flex:0 0 auto;display:flex;flex-wrap:wrap;gap:5px 13px;padding:11px 18px 15px;
  border-top:1px solid var(--rule);font-size:11.5px}
 .tags a{color:var(--mute)}
@@ -162,7 +159,12 @@ def work_line(it, up):
 
 def main():
     d = json.load(open(DATA))
-    items = d["items"]
+    # ⚠️ NOTHING UNVERIFIED GOES LIVE. Todd, 2026-08-26, after I published an unattributed
+    # poster to his public site: the museum publishes only items whose identity is established
+    # by at least one credible source. A held item KEEPS its CRVI number — numbers are
+    # permanent — it simply has no page until it is settled.
+    items = [i for i in d["items"] if i.get("published", True)]
+    held = [i for i in d["items"] if not i.get("published", True)]
     by_tag = {}
     for i, it in enumerate(items):
         for t in it.get("tags", []):
@@ -188,16 +190,9 @@ def main():
         tags += '<a class="all" href="../tags/">#alltags</a>'
         keys = ITEM_JS % (json.dumps(prev) if prev else "null",
                           json.dumps(nxt) if nxt else "null")
-        # the museum HOLDS the original; the page shows a display copy and links to it
-        img = f'<img src="../{esc(it["image"])}" alt="{esc(it.get("title"))}">'
-        op = it.get("original_px") or []
-        if it.get("original"):
-            mb = (it.get("original_bytes") or 0) / 1e6
-            note = (f'{op[0]}&#215;{op[1]} &middot; {mb:.1f} MB' if len(op) == 2 else 'original')
-            stage = (img + f'<a class="orig" href="../{esc(it["original"])}" '
-                     f'title="Open the original at full resolution">{note}</a>')
-        else:
-            stage = img
+        # The museum still HOLDS the original in originals/ — it is simply not advertised
+        # on the page. Todd: "i don't want this 1500x1500 - 0.4 mb thing in there."
+        stage = f'<img src="../{esc(it["image"])}" alt="{esc(it.get("title"))}">' 
         body = (f'<div class="item"><div class="bar">{work_line(it,"../")}'
                 f'<div class="nav">{nav}</div></div>'
                 f'<div class="stage">{stage}</div>'
@@ -257,6 +252,8 @@ def main():
         f'<body><a href="{items[0]["id"]}/">Enter the museum</a></body></html>')
 
     print(f'{len(items)} item pages · {len(by_tag)} tag pages · {len(order)} facets')
+    if held:
+        print(f'  {len(held)} HELD BACK, unverified: ' + ", ".join(h["id"] for h in held))
     print(f'  first {items[0]["id"]} · last {items[-1]["id"]}')
 
 
