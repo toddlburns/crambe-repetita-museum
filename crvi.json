@@ -9498,6 +9498,90 @@
    ],
    "hue": null,
    "light": 0.5302
+  },
+  {
+   "id": "CRVI000225",
+   "image": "images/CRVI000225.jpg",
+   "original": "originals/CRVI000225.jpg",
+   "original_px": [
+    1170,
+    851
+   ],
+   "original_bytes": 260194,
+   "maker": "Unknown",
+   "title": "Bumblebee coffin",
+   "subtitle": "Ghanaian fantasy coffin · The Art Underground, Museum of International Folk Art, Santa Fe",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "coffin"
+    },
+    {
+     "k": "location",
+     "v": "Ghana"
+    },
+    {
+     "k": "subject",
+     "v": "funerary"
+    },
+    {
+     "k": "subject",
+     "v": "exhibition"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 23.59,
+   "light": 0.4752
+  },
+  {
+   "id": "CRVI000226",
+   "image": "images/CRVI000226.jpg",
+   "original": "originals/CRVI000226.jpg",
+   "original_px": [
+    1170,
+    876
+   ],
+   "original_bytes": 281031,
+   "maker": "Unknown",
+   "title": "Sanitation truck coffin",
+   "subtitle": "Ghanaian fantasy coffin · The Art Underground, Museum of International Folk Art, Santa Fe",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "coffin"
+    },
+    {
+     "k": "location",
+     "v": "Ghana"
+    },
+    {
+     "k": "subject",
+     "v": "funerary"
+    },
+    {
+     "k": "subject",
+     "v": "exhibition"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 26.86,
+   "light": 0.4472
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "next": 225,
+ "next": 227,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -10831,6 +10831,120 @@
    "chroma": 0.0,
    "deleted": true,
    "deleted_on": "2026-08-27"
+  },
+  "MOIFA fantasy coffins::Bumblebee coffin": {
+   "id": "CRVI000225",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000225.jpg",
+   "original_px": [
+    1170,
+    851
+   ],
+   "original_bytes": 260194,
+   "identity": "MOIFA fantasy coffins::Bumblebee coffin",
+   "maker": "Unknown",
+   "title": "Bumblebee coffin",
+   "subtitle": "Ghanaian fantasy coffin · The Art Underground, Museum of International Folk Art, Santa Fe",
+   "year": "",
+   "verified_against": "Captioned in the New York Times feature '6 Feet Under in Coffins That Are Over the Top' (Patricia Leigh Brown, 27 August 2026, reporting from Santa Fe) as 'From top: a bumblebee coffin; a coffin in the shape of a human heart' — this is the bumblebee. Exhibition identified as The Art Underground: Fantasy Coffins of Ghana, Museum of International Folk Art, Santa Fe, 19 July 2026 – 5 September 2027, guest curated by Mark Sloan with Eric Adjetey Anang.",
+   "source_page": "https://www.museumfoundation.org/exhibitions/the-art-underground-fantasy-coffins-of-ghana/",
+   "notes": [
+    "The exhibition credits its makers as a group — Kane Kwei, who founded the workshop, Paa Joe, Cedi Anang, Jacob Tetteh Ashong, Daniel Mensah ('Hello') and Eric Adjetey Anang — but does not attribute individual coffins. So no maker is named here. Picking one of the six would be a guess wearing a credit's clothes.",
+    "The article's lead photograph is credited 'Brad Trone for The New York Times'. The credit line for this particular frame was not in Todd's screenshot, so it is not asserted.",
+    "Cropped from Todd's screenshot to the photograph alone — the article caption is not part of the object.",
+    "No date recorded: the exhibition mixes newly commissioned pieces with older ones and the caption gives no year for this one, so the decade is left off rather than assumed."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/cof_c1.jpg",
+   "source_px": [
+    1170,
+    851
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "coffin"
+    },
+    {
+     "k": "location",
+     "v": "Ghana"
+    },
+    {
+     "k": "subject",
+     "v": "funerary"
+    },
+    {
+     "k": "subject",
+     "v": "exhibition"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Captioned in the New York Times feature '6 Feet Under in Coffins That Are Over the Top' (Patricia Leigh Brown, 27 August 2026, reporting from Santa Fe) as 'From top: a bumblebee coffin; a coffin in the shape of a human heart' — this is the bumblebee. Exhibition identified as The Art Underground: Fantasy Coffins of Ghana, Museum of International Folk Art, Santa Fe, 19 July 2026 – 5 September 2027, guest curated by Mark Sloan with Eric Adjetey Anang.",
+   "hue": 23.59,
+   "light": 0.4752,
+   "chroma": 0.5074
+  },
+  "MOIFA fantasy coffins::Sanitation truck coffin": {
+   "id": "CRVI000226",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000226.jpg",
+   "original_px": [
+    1170,
+    876
+   ],
+   "original_bytes": 281031,
+   "identity": "MOIFA fantasy coffins::Sanitation truck coffin",
+   "maker": "Unknown",
+   "title": "Sanitation truck coffin",
+   "subtitle": "Ghanaian fantasy coffin · The Art Underground, Museum of International Folk Art, Santa Fe",
+   "year": "",
+   "verified_against": "Captioned in the same feature as 'From top: A BMW S.U.V. coffin; a coffin fashioned to look like a sanitation truck' — this is the sanitation truck, lettered CITY SANITATION. Exhibition identified as The Art Underground: Fantasy Coffins of Ghana, Museum of International Folk Art, Santa Fe, 19 July 2026 – 5 September 2027, guest curated by Mark Sloan with Eric Adjetey Anang.",
+   "source_page": "https://www.museumfoundation.org/exhibitions/the-art-underground-fantasy-coffins-of-ghana/",
+   "notes": [
+    "The exhibition credits its makers as a group — Kane Kwei, who founded the workshop, Paa Joe, Cedi Anang, Jacob Tetteh Ashong, Daniel Mensah ('Hello') and Eric Adjetey Anang — but does not attribute individual coffins. So no maker is named here. Picking one of the six would be a guess wearing a credit's clothes.",
+    "The article's lead photograph is credited 'Brad Trone for The New York Times'. The credit line for this particular frame was not in Todd's screenshot, so it is not asserted.",
+    "Cropped from Todd's screenshot to the photograph alone — the article caption is not part of the object.",
+    "No date recorded: the exhibition mixes newly commissioned pieces with older ones and the caption gives no year for this one, so the decade is left off rather than assumed."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/cof_c2.jpg",
+   "source_px": [
+    1170,
+    876
+   ],
+   "colors": [
+    "blue",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "coffin"
+    },
+    {
+     "k": "location",
+     "v": "Ghana"
+    },
+    {
+     "k": "subject",
+     "v": "funerary"
+    },
+    {
+     "k": "subject",
+     "v": "exhibition"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Captioned in the same feature as 'From top: A BMW S.U.V. coffin; a coffin fashioned to look like a sanitation truck' — this is the sanitation truck, lettered CITY SANITATION. Exhibition identified as The Art Underground: Fantasy Coffins of Ghana, Museum of International Folk Art, Santa Fe, 19 July 2026 – 5 September 2027, guest curated by Mark Sloan with Eric Adjetey Anang.",
+   "hue": 26.86,
+   "light": 0.4472,
+   "chroma": 0.644
   }
  }
 }
