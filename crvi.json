@@ -7763,6 +7763,51 @@
     }
    ],
    "published": true
+  },
+  {
+   "id": "CRVI000184",
+   "image": "images/CRVI000184.jpg",
+   "original": "originals/CRVI000184.jpg",
+   "original_px": [
+    1200,
+    1600
+   ],
+   "original_bytes": 827393,
+   "maker": "Designer unknown",
+   "title": "Швейныя машины Компаніи Зингеръ — Singer Company Sewing Machines",
+   "subtitle": "Russian Singer emblem · advertising poster",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "subject",
+     "v": "advertising"
+    },
+    {
+     "k": "client",
+     "v": "Singer"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "typography",
+     "v": "Cyrillic"
+    },
+    {
+     "k": "colour",
+     "v": "yellow"
+    },
+    {
+     "k": "colour",
+     "v": "red"
+    }
+   ],
+   "published": true
   }
  ]
 }
