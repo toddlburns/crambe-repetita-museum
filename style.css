@@ -23,8 +23,13 @@ a{color:inherit;text-decoration:none}
 
 /* ---- item ---- */
 .item{height:100%;display:flex;flex-direction:column}
-.stage{flex:1;display:flex;align-items:center;justify-content:center;padding:24px;min-height:0}
+.stage{flex:1;display:flex;align-items:center;justify-content:center;padding:24px;min-height:0;
+ position:relative}
+.stage a{display:flex;align-items:center;justify-content:center;max-width:100%;max-height:100%}
 .stage img{max-width:100%;max-height:100%;object-fit:contain;display:block}
+.orig{position:absolute;right:18px;bottom:6px;font:10px/1 var(--mono);color:var(--mute);
+ letter-spacing:.04em}
+.orig:hover{color:var(--ink)}
 .tags{flex:0 0 auto;display:flex;flex-wrap:wrap;gap:5px 13px;padding:11px 18px 15px;
  border-top:1px solid var(--rule);font-size:11.5px}
 .tags a{color:var(--mute)}

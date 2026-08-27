@@ -48,8 +48,13 @@ a{color:inherit;text-decoration:none}
 
 /* ---- item ---- */
 .item{height:100%;display:flex;flex-direction:column}
-.stage{flex:1;display:flex;align-items:center;justify-content:center;padding:24px;min-height:0}
+.stage{flex:1;display:flex;align-items:center;justify-content:center;padding:24px;min-height:0;
+ position:relative}
+.stage a{display:flex;align-items:center;justify-content:center;max-width:100%;max-height:100%}
 .stage img{max-width:100%;max-height:100%;object-fit:contain;display:block}
+.orig{position:absolute;right:18px;bottom:6px;font:10px/1 var(--mono);color:var(--mute);
+ letter-spacing:.04em}
+.orig:hover{color:var(--ink)}
 .tags{flex:0 0 auto;display:flex;flex-wrap:wrap;gap:5px 13px;padding:11px 18px 15px;
  border-top:1px solid var(--rule);font-size:11.5px}
 .tags a{color:var(--mute)}
@@ -181,9 +186,19 @@ def main():
         tags += '<a class="all" href="../tags/">#alltags</a>'
         keys = ITEM_JS % (json.dumps(prev) if prev else "null",
                           json.dumps(nxt) if nxt else "null")
+        # the museum HOLDS the original; the page shows a display copy and links to it
+        img = f'<img src="../{esc(it["image"])}" alt="{esc(it.get("title"))}">'
+        op = it.get("original_px") or []
+        if it.get("original"):
+            mb = (it.get("original_bytes") or 0) / 1e6
+            note = (f'{op[0]}&#215;{op[1]} &middot; {mb:.1f} MB' if len(op) == 2 else 'original')
+            stage = (f'<a href="../{esc(it["original"])}" title="Open the original">{img}</a>'
+                     f'<a class="orig" href="../{esc(it["original"])}">{note}</a>')
+        else:
+            stage = img
         body = (f'<div class="item"><div class="bar">{work_line(it,"../")}'
                 f'<div class="nav">{nav}</div></div>'
-                f'<div class="stage"><img src="../{esc(it["image"])}" alt="{esc(it.get("title"))}"></div>'
+                f'<div class="stage">{stage}</div>'
                 f'<div class="tags">{tags}</div></div><script>{keys}</script>')
         od = os.path.join(HERE, it["id"]); os.makedirs(od, exist_ok=True)
         open(os.path.join(od, "index.html"), "w").write(
