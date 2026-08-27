@@ -288,9 +288,11 @@ def main():
                     f'<h2>{esc(k)}<span class="ct">{len(vals)}</span></h2>'
                     f'<div class="col"><div class="list">{links}</div>{more}</div>'
                     f'</section>')
+    # Todd, 2026-08-27: no stats line, and a short enough back link that the whole row fits on
+    # one line on a phone. The per-facet counts sit next to each heading anyway, so a global
+    # "429 across 15 categories" was saying nothing the page below does not already say.
     body = ('<div class="crumb"><span class="t">ALL TAGS</span>'
-            f'<span class="c">{len(by_tag)} across {len(order)} categories</span>'
-            f'<a href="../{items[0]["id"]}/">&#8592; back to the museum</a></div>'
+            f'<a href="../{items[0]["id"]}/">&#8592; museum</a></div>'
             f'<div class="wrap">{"".join(secs)}</div>')
     os.makedirs(os.path.join(HERE, "tags"), exist_ok=True)
     open(os.path.join(HERE, "tags", "index.html"), "w").write(
