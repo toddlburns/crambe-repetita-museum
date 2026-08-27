@@ -5248,9 +5248,9 @@
    ],
    "original_bytes": 564400,
    "maker": "Shigeo Fukuda",
-   "title": "Look 1",
-   "subtitle": "103 x 73 cm",
-   "year": "1985",
+   "title": "[Poster: figure walking through a red spiral, LOOK series]",
+   "subtitle": "Title not established",
+   "year": "",
    "tags": [
     {
      "k": "designer",
@@ -6115,6 +6115,1573 @@
     {
      "k": "colour",
      "v": "red"
+    }
+   ],
+   "published": true
+  },
+  {
+   "id": "CRVI000143",
+   "image": "images/CRVI000143.jpg",
+   "original": "originals/CRVI000143.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 4617964,
+   "maker": "Kenny Drew",
+   "title": "This Is New",
+   "subtitle": "Designed by Paul Bacon",
+   "year": "1957",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Paul Bacon"
+    },
+    {
+     "k": "artist",
+     "v": "Kenny Drew"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "colour",
+     "v": "blue"
+    },
+    {
+     "k": "colour",
+     "v": "red"
+    }
+   ],
+   "published": true
+  },
+  {
+   "id": "CRVI000144",
+   "image": "images/CRVI000144.jpg",
+   "original": "originals/CRVI000144.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 1377261,
+   "maker": "Bud Shank Quartet",
+   "title": "Jazz at Cal-Tech",
+   "subtitle": "Designed by William Claxton · Pacific Jazz 1219",
+   "year": "1956",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "William Claxton"
+    },
+    {
+     "k": "artist",
+     "v": "Bud Shank Quartet"
+    },
+    {
+     "k": "label",
+     "v": "Pacific Jazz"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "colour",
+     "v": "red"
+    },
+    {
+     "k": "colour",
+     "v": "cyan"
+    }
+   ],
+   "published": true
+  },
+  {
+   "id": "CRVI000145",
+   "image": "images/CRVI000145.jpg",
+   "original": "originals/CRVI000145.jpg",
+   "original_px": [
+    1400,
+    1400
+   ],
+   "original_bytes": 911428,
+   "maker": "Gentle Giant",
+   "title": "Octopus",
+   "subtitle": "Designed by Roger Dean",
+   "year": "1972",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Roger Dean"
+    },
+    {
+     "k": "artist",
+     "v": "Gentle Giant"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "colour",
+     "v": "orange"
+    },
+    {
+     "k": "colour",
+     "v": "yellow"
+    }
+   ],
+   "published": true
+  },
+  {
+   "id": "CRVI000146",
+   "image": "images/CRVI000146.jpg",
+   "original": "originals/CRVI000146.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 1496244,
+   "maker": "Bobby Timmons",
+   "title": "Soul Time",
+   "subtitle": "Designed by Ken Deardoff",
+   "year": "1960",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Ken Deardoff"
+    },
+    {
+     "k": "artist",
+     "v": "Bobby Timmons"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "colour",
+     "v": "blue"
+    },
+    {
+     "k": "colour",
+     "v": "purple"
+    }
+   ],
+   "published": true
+  },
+  {
+   "id": "CRVI000147",
+   "image": "images/CRVI000147.jpg",
+   "original": "originals/CRVI000147.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 348465,
+   "maker": "The Grassella Oliphant Quartette",
+   "title": "The Grass Roots",
+   "subtitle": "Designed by Loring Eutemey",
+   "year": "1965",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Loring Eutemey"
+    },
+    {
+     "k": "artist",
+     "v": "The Grassella Oliphant Quartette"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "colour",
+     "v": "yellow"
+    },
+    {
+     "k": "colour",
+     "v": "orange"
+    }
+   ],
+   "published": true
+  },
+  {
+   "id": "CRVI000148",
+   "image": "images/CRVI000148.jpg",
+   "original": "originals/CRVI000148.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 2373304,
+   "maker": "Pharoah Sanders",
+   "title": "Tauhid",
+   "subtitle": "Designed by Robert (Viceroy) Flynn · Impulse! AS-9138",
+   "year": "1966",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Robert (Viceroy) Flynn"
+    },
+    {
+     "k": "artist",
+     "v": "Pharoah Sanders"
+    },
+    {
+     "k": "label",
+     "v": "Impulse!"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "colour",
+     "v": "red"
+    },
+    {
+     "k": "colour",
+     "v": "orange"
+    }
+   ],
+   "published": true
+  },
+  {
+   "id": "CRVI000149",
+   "image": "images/CRVI000149.jpg",
+   "original": "originals/CRVI000149.jpg",
+   "original_px": [
+    706,
+    1000
+   ],
+   "original_bytes": 42302,
+   "maker": "Shigeo Fukuda",
+   "title": "The Marriage of Figaro - Teatr Narodowy Warsaw",
+   "subtitle": "Designed by Shigeo Fukuda",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "designer",
+     "v": "Shigeo Fukuda"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "colour",
+     "v": "red"
+    },
+    {
+     "k": "colour",
+     "v": "purple"
+    }
+   ],
+   "published": true
+  },
+  {
+   "id": "CRVI000150",
+   "image": "images/CRVI000150.jpg",
+   "original": "originals/CRVI000150.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 1201330,
+   "maker": "Art Blakey's Jazz Messengers",
+   "title": "Art Blakey's Jazz Messengers",
+   "subtitle": "Designed by Marvin Israel · Atlantic 1278",
+   "year": "1957",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Marvin Israel"
+    },
+    {
+     "k": "artist",
+     "v": "Art Blakey's Jazz Messengers"
+    },
+    {
+     "k": "label",
+     "v": "Atlantic"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "colour",
+     "v": "orange"
+    },
+    {
+     "k": "colour",
+     "v": "yellow"
+    }
+   ],
+   "published": true
+  },
+  {
+   "id": "CRVI000151",
+   "image": "images/CRVI000151.jpg",
+   "original": "originals/CRVI000151.jpg",
+   "original_px": [
+    1475,
+    1452
+   ],
+   "original_bytes": 380754,
+   "maker": "Charles Mingus",
+   "title": "The Clown",
+   "subtitle": "Designed by Marvin Israel · Atlantic 1260",
+   "year": "1957",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Marvin Israel"
+    },
+    {
+     "k": "artist",
+     "v": "Charles Mingus"
+    },
+    {
+     "k": "label",
+     "v": "Atlantic"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "colour",
+     "v": "red"
+    }
+   ],
+   "published": true
+  },
+  {
+   "id": "CRVI000152",
+   "image": "images/CRVI000152.jpg",
+   "original": "originals/CRVI000152.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 542363,
+   "maker": "Cressida",
+   "title": "Asylum",
+   "subtitle": "Designed by Keef · Vertigo 6360 025",
+   "year": "1971",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Keef"
+    },
+    {
+     "k": "artist",
+     "v": "Cressida"
+    },
+    {
+     "k": "label",
+     "v": "Vertigo 6360"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "colour",
+     "v": "yellow"
+    },
+    {
+     "k": "colour",
+     "v": "orange"
+    }
+   ],
+   "published": true
+  },
+  {
+   "id": "CRVI000153",
+   "image": "images/CRVI000153.jpg",
+   "original": "originals/CRVI000153.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 536862,
+   "maker": "Wynton Kelly",
+   "title": "It's All Right!",
+   "subtitle": "Designed by Michael J. Malatak",
+   "year": "1964",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Michael J. Malatak"
+    },
+    {
+     "k": "artist",
+     "v": "Wynton Kelly"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "colour",
+     "v": "red"
+    },
+    {
+     "k": "colour",
+     "v": "cyan"
+    }
+   ],
+   "published": true
+  },
+  {
+   "id": "CRVI000154",
+   "image": "images/CRVI000154.jpg",
+   "original": "originals/CRVI000154.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 790017,
+   "maker": "Mal Waldron",
+   "title": "Mal-1",
+   "subtitle": "Designed by Reid Miles · Prestige LP 7090",
+   "year": "1956",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "artist",
+     "v": "Mal Waldron"
+    },
+    {
+     "k": "label",
+     "v": "Prestige"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "colour",
+     "v": "orange"
+    }
+   ],
+   "published": true
+  },
+  {
+   "id": "CRVI000155",
+   "image": "images/CRVI000155.jpg",
+   "original": "originals/CRVI000155.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 3358255,
+   "maker": "Red Garland Trio",
+   "title": "Groovy",
+   "subtitle": "Designed by Reid Miles · Prestige 7113",
+   "year": "1957",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "artist",
+     "v": "Red Garland Trio"
+    },
+    {
+     "k": "label",
+     "v": "Prestige"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "colour",
+     "v": "neutral"
+    }
+   ],
+   "published": true
+  },
+  {
+   "id": "CRVI000156",
+   "image": "images/CRVI000156.jpg",
+   "original": "originals/CRVI000156.jpg",
+   "original_px": [
+    703,
+    1000
+   ],
+   "original_bytes": 50322,
+   "maker": "Kazumasa Nagai",
+   "title": "Design Forum - Matsuya Ginza",
+   "subtitle": "Designed by Kazumasa Nagai",
+   "year": "1981",
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "designer",
+     "v": "Kazumasa Nagai"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "colour",
+     "v": "green"
+    }
+   ],
+   "published": true
+  },
+  {
+   "id": "CRVI000157",
+   "image": "images/CRVI000157.jpg",
+   "original": "originals/CRVI000157.jpg",
+   "original_px": [
+    703,
+    1000
+   ],
+   "original_bytes": 68421,
+   "maker": "Kazumasa Nagai",
+   "title": "Exhibition of Graphic Art",
+   "subtitle": "Designed by Kazumasa Nagai",
+   "year": "1978",
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "designer",
+     "v": "Kazumasa Nagai"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "colour",
+     "v": "yellow"
+    },
+    {
+     "k": "colour",
+     "v": "red"
+    }
+   ],
+   "published": true
+  },
+  {
+   "id": "CRVI000158",
+   "image": "images/CRVI000158.jpg",
+   "original": "originals/CRVI000158.jpg",
+   "original_px": [
+    2842,
+    4000
+   ],
+   "original_bytes": 1137815,
+   "maker": "Kazumasa Nagai",
+   "title": "Human Right - Living Together - Artis '89",
+   "subtitle": "Designed by Kazumasa Nagai",
+   "year": "1988",
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "designer",
+     "v": "Kazumasa Nagai"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "colour",
+     "v": "pink"
+    }
+   ],
+   "published": true
+  },
+  {
+   "id": "CRVI000159",
+   "image": "images/CRVI000159.jpg",
+   "original": "originals/CRVI000159.jpg",
+   "original_px": [
+    705,
+    1000
+   ],
+   "original_bytes": 124068,
+   "maker": "Kazumasa Nagai",
+   "title": "JIDA 30th Anniversary Program",
+   "subtitle": "Designed by Kazumasa Nagai",
+   "year": "1982",
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "designer",
+     "v": "Kazumasa Nagai"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "colour",
+     "v": "orange"
+    },
+    {
+     "k": "colour",
+     "v": "red"
+    }
+   ],
+   "published": true
+  },
+  {
+   "id": "CRVI000160",
+   "image": "images/CRVI000160.jpg",
+   "original": "originals/CRVI000160.jpg",
+   "original_px": [
+    2840,
+    4000
+   ],
+   "original_bytes": 467609,
+   "maker": "Kazumasa Nagai",
+   "title": "Kazumasa Nagai Exhibition - Design Gallery",
+   "subtitle": "Designed by Kazumasa Nagai",
+   "year": "1991",
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "designer",
+     "v": "Kazumasa Nagai"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "colour",
+     "v": "blue"
+    }
+   ],
+   "published": true
+  },
+  {
+   "id": "CRVI000161",
+   "image": "images/CRVI000161.jpg",
+   "original": "originals/CRVI000161.jpg",
+   "original_px": [
+    702,
+    1000
+   ],
+   "original_bytes": 253953,
+   "maker": "Kazumasa Nagai",
+   "title": "Peace",
+   "subtitle": "Designed by Kazumasa Nagai",
+   "year": "1989",
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "designer",
+     "v": "Kazumasa Nagai"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "colour",
+     "v": "yellow"
+    },
+    {
+     "k": "colour",
+     "v": "red"
+    }
+   ],
+   "published": true
+  },
+  {
+   "id": "CRVI000162",
+   "image": "images/CRVI000162.jpg",
+   "original": "originals/CRVI000162.jpg",
+   "original_px": [
+    703,
+    1000
+   ],
+   "original_bytes": 88468,
+   "maker": "Kazumasa Nagai",
+   "title": "The World of Kazumasa Nagai - Ikeda Museum of the 20th Century Art",
+   "subtitle": "Designed by Kazumasa Nagai",
+   "year": "1980",
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "designer",
+     "v": "Kazumasa Nagai"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "colour",
+     "v": "neutral"
+    }
+   ],
+   "published": true
+  },
+  {
+   "id": "CRVI000163",
+   "image": "images/CRVI000163.jpg",
+   "original": "originals/CRVI000163.jpg",
+   "original_px": [
+    2813,
+    4000
+   ],
+   "original_bytes": 2571100,
+   "maker": "Kazumasa Nagai",
+   "title": "World Design Expo '89 - Nagoya",
+   "subtitle": "Designed by Kazumasa Nagai",
+   "year": "1989",
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "designer",
+     "v": "Kazumasa Nagai"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "colour",
+     "v": "blue"
+    }
+   ],
+   "published": true
+  },
+  {
+   "id": "CRVI000164",
+   "image": "images/CRVI000164.jpg",
+   "original": "originals/CRVI000164.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 356009,
+   "maker": "Colosseum II",
+   "title": "Electric Savage",
+   "subtitle": "Designed by John Pasche · MCA MCF2800",
+   "year": "1977",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "John Pasche"
+    },
+    {
+     "k": "artist",
+     "v": "Colosseum II"
+    },
+    {
+     "k": "label",
+     "v": "MCA"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "colour",
+     "v": "red"
+    },
+    {
+     "k": "colour",
+     "v": "orange"
+    }
+   ],
+   "published": true
+  },
+  {
+   "id": "CRVI000165",
+   "image": "images/CRVI000165.jpg",
+   "original": "originals/CRVI000165.jpg",
+   "original_px": [
+    1417,
+    1417
+   ],
+   "original_bytes": 392224,
+   "maker": "Bonzo Dog Band",
+   "title": "The Doughnut in Granny's Greenhouse",
+   "subtitle": "Designed by Vivian Stanshall",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Vivian Stanshall"
+    },
+    {
+     "k": "artist",
+     "v": "Bonzo Dog Band"
+    },
+    {
+     "k": "colour",
+     "v": "orange"
+    },
+    {
+     "k": "colour",
+     "v": "red"
+    }
+   ],
+   "published": true
+  },
+  {
+   "id": "CRVI000166",
+   "image": "images/CRVI000166.jpg",
+   "original": "originals/CRVI000166.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 3051395,
+   "maker": "Soft Machine",
+   "title": "Seven",
+   "subtitle": "Designed by Roslav Szaybo · CBS 65799",
+   "year": "1973",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Roslav Szaybo"
+    },
+    {
+     "k": "artist",
+     "v": "Soft Machine"
+    },
+    {
+     "k": "label",
+     "v": "CBS"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "colour",
+     "v": "blue"
+    },
+    {
+     "k": "colour",
+     "v": "yellow"
+    }
+   ],
+   "published": true
+  },
+  {
+   "id": "CRVI000167",
+   "image": "images/CRVI000167.jpg",
+   "original": "originals/CRVI000167.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 1992989,
+   "maker": "Albert Ayler",
+   "title": "New Grass",
+   "subtitle": "Designer unknown",
+   "year": "1969",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "artist",
+     "v": "Albert Ayler"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "colour",
+     "v": "red"
+    },
+    {
+     "k": "colour",
+     "v": "orange"
+    }
+   ],
+   "published": true
+  },
+  {
+   "id": "CRVI000168",
+   "image": "images/CRVI000168.jpg",
+   "original": "originals/CRVI000168.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 657255,
+   "maker": "Capability Brown",
+   "title": "Voice",
+   "subtitle": "Designer unknown",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "artist",
+     "v": "Capability Brown"
+    },
+    {
+     "k": "colour",
+     "v": "red"
+    },
+    {
+     "k": "colour",
+     "v": "orange"
+    }
+   ],
+   "published": true
+  },
+  {
+   "id": "CRVI000169",
+   "image": "images/CRVI000169.jpg",
+   "original": "originals/CRVI000169.jpg",
+   "original_px": [
+    1401,
+    1401
+   ],
+   "original_bytes": 354104,
+   "maker": "Chet Baker",
+   "title": "Chet Baker & Crew",
+   "subtitle": "Designer unknown · Pacific Jazz 1224",
+   "year": "1956",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "artist",
+     "v": "Chet Baker"
+    },
+    {
+     "k": "label",
+     "v": "Pacific Jazz"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "colour",
+     "v": "orange"
+    },
+    {
+     "k": "colour",
+     "v": "yellow"
+    }
+   ],
+   "published": true
+  },
+  {
+   "id": "CRVI000170",
+   "image": "images/CRVI000170.jpg",
+   "original": "originals/CRVI000170.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 3114071,
+   "maker": "Kestrel",
+   "title": "Kestrel",
+   "subtitle": "Designer unknown",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "artist",
+     "v": "Kestrel"
+    },
+    {
+     "k": "colour",
+     "v": "red"
+    },
+    {
+     "k": "colour",
+     "v": "yellow"
+    }
+   ],
+   "published": true
+  },
+  {
+   "id": "CRVI000171",
+   "image": "images/CRVI000171.jpg",
+   "original": "originals/CRVI000171.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 2275337,
+   "maker": "Sonny Rollins",
+   "title": "The Sound of Sonny",
+   "subtitle": "Designer unknown · Riverside RLP 12-241",
+   "year": "1957",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "artist",
+     "v": "Sonny Rollins"
+    },
+    {
+     "k": "label",
+     "v": "Riverside"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "colour",
+     "v": "orange"
+    },
+    {
+     "k": "colour",
+     "v": "red"
+    }
+   ],
+   "published": true
+  },
+  {
+   "id": "CRVI000172",
+   "image": "images/CRVI000172.jpg",
+   "original": "originals/CRVI000172.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 609913,
+   "maker": "Sonny Rollins",
+   "title": "Way Out West",
+   "subtitle": "Designer unknown · Contemporary S7530",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "artist",
+     "v": "Sonny Rollins"
+    },
+    {
+     "k": "label",
+     "v": "Contemporary"
+    },
+    {
+     "k": "colour",
+     "v": "orange"
+    },
+    {
+     "k": "colour",
+     "v": "cyan"
+    }
+   ],
+   "published": true
+  },
+  {
+   "id": "CRVI000173",
+   "image": "images/CRVI000173.jpg",
+   "original": "originals/CRVI000173.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 1118642,
+   "maker": "Sonny Rollins",
+   "title": "Work Time",
+   "subtitle": "Designer unknown · Prestige LP 7020",
+   "year": "1955",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "artist",
+     "v": "Sonny Rollins"
+    },
+    {
+     "k": "label",
+     "v": "Prestige"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "colour",
+     "v": "green"
+    }
+   ],
+   "published": true
+  },
+  {
+   "id": "CRVI000174",
+   "image": "images/CRVI000174.jpg",
+   "original": "originals/CRVI000174.jpg",
+   "original_px": [
+    1427,
+    1412
+   ],
+   "original_bytes": 277394,
+   "maker": "The Modern Jazz Quartet",
+   "title": "The Sheriff",
+   "subtitle": "Designer unknown · Atlantic 1414",
+   "year": "1964",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "artist",
+     "v": "The Modern Jazz Quartet"
+    },
+    {
+     "k": "label",
+     "v": "Atlantic"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "colour",
+     "v": "yellow"
+    }
+   ],
+   "published": true
+  },
+  {
+   "id": "CRVI000175",
+   "image": "images/CRVI000175.jpg",
+   "original": "originals/CRVI000175.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 4026987,
+   "maker": "Third Ear Band",
+   "title": "Third Ear Band",
+   "subtitle": "Designer unknown · Harvest SHVL773",
+   "year": "1970",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "artist",
+     "v": "Third Ear Band"
+    },
+    {
+     "k": "label",
+     "v": "Harvest SHVL773"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "colour",
+     "v": "purple"
+    }
+   ],
+   "published": true
+  },
+  {
+   "id": "CRVI000176",
+   "image": "images/CRVI000176.jpg",
+   "original": "originals/CRVI000176.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 981573,
+   "maker": "The Beatles",
+   "title": "Revolver",
+   "subtitle": "Designed by Klaus Voormann · Parlophone PCS7009",
+   "year": "1966",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Klaus Voormann"
+    },
+    {
+     "k": "artist",
+     "v": "The Beatles"
+    },
+    {
+     "k": "label",
+     "v": "Parlophone"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "colour",
+     "v": "neutral"
+    }
+   ],
+   "published": true
+  },
+  {
+   "id": "CRVI000177",
+   "image": "images/CRVI000177.jpg",
+   "original": "originals/CRVI000177.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 921510,
+   "maker": "Hank Mobley",
+   "title": "Tenor Conclave",
+   "subtitle": "Designed by Bob Weinstock · Prestige LP 7074",
+   "year": "1956",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Bob Weinstock"
+    },
+    {
+     "k": "artist",
+     "v": "Hank Mobley"
+    },
+    {
+     "k": "label",
+     "v": "Prestige"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "colour",
+     "v": "red"
+    },
+    {
+     "k": "colour",
+     "v": "white"
+    }
+   ],
+   "published": true
+  },
+  {
+   "id": "CRVI000178",
+   "image": "images/CRVI000178.jpg",
+   "original": "originals/CRVI000178.jpg",
+   "original_px": [
+    1482,
+    1500
+   ],
+   "original_bytes": 426241,
+   "maker": "Sonny Rollins",
+   "title": "Sonny Rollins",
+   "subtitle": "Designed by Bob Weinstock · Prestige LP 7029",
+   "year": "1953",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Bob Weinstock"
+    },
+    {
+     "k": "artist",
+     "v": "Sonny Rollins"
+    },
+    {
+     "k": "label",
+     "v": "Prestige"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "colour",
+     "v": "blue"
+    },
+    {
+     "k": "colour",
+     "v": "cyan"
+    }
+   ],
+   "published": true
+  },
+  {
+   "id": "CRVI000179",
+   "image": "images/CRVI000179.jpg",
+   "original": "originals/CRVI000179.jpg",
+   "original_px": [
+    1425,
+    1416
+   ],
+   "original_bytes": 647042,
+   "maker": "Genesis",
+   "title": "Nursery Cryme",
+   "subtitle": "Designed by Paul Whitehead · Charisma CAS1052",
+   "year": "1971",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Paul Whitehead"
+    },
+    {
+     "k": "artist",
+     "v": "Genesis"
+    },
+    {
+     "k": "label",
+     "v": "Charisma"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "colour",
+     "v": "yellow"
+    }
+   ],
+   "published": true
+  },
+  {
+   "id": "CRVI000180",
+   "image": "images/CRVI000180.jpg",
+   "original": "originals/CRVI000180.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 3000648,
+   "maker": "Tricky Lofton & Carmell Jones",
+   "title": "Brass Bag",
+   "subtitle": "Designed by Woody Woodward",
+   "year": "1962",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Woody Woodward"
+    },
+    {
+     "k": "artist",
+     "v": "Tricky Lofton & Carmell Jones"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "colour",
+     "v": "blue"
+    },
+    {
+     "k": "colour",
+     "v": "orange"
+    }
+   ],
+   "published": true
+  },
+  {
+   "id": "CRVI000181",
+   "image": "images/CRVI000181.jpg",
+   "original": "originals/CRVI000181.jpg",
+   "original_px": [
+    707,
+    1000
+   ],
+   "original_bytes": 61677,
+   "maker": "Shigeo Fukuda",
+   "title": "Look 1",
+   "subtitle": "Exhibition · 103 x 73 cm offset",
+   "year": "1985",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Shigeo Fukuda"
+    },
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "subject",
+     "v": "exhibition"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "colour",
+     "v": "neutral"
     }
    ],
    "published": true
