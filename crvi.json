@@ -7685,6 +7685,84 @@
     }
    ],
    "published": true
+  },
+  {
+   "id": "CRVI000182",
+   "image": "images/CRVI000182.jpg",
+   "original": "originals/CRVI000182.jpg",
+   "original_px": [
+    1200,
+    1200
+   ],
+   "original_bytes": 404140,
+   "maker": "Albert Collins",
+   "title": "The Cool Sound of Albert Collins",
+   "subtitle": "Designer unknown",
+   "year": "",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Albert Collins"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "subject",
+     "v": "blues"
+    },
+    {
+     "k": "colour",
+     "v": "cyan"
+    },
+    {
+     "k": "colour",
+     "v": "orange"
+    }
+   ],
+   "published": true
+  },
+  {
+   "id": "CRVI000183",
+   "image": "images/CRVI000183.jpg",
+   "original": "originals/CRVI000183.jpg",
+   "original_px": [
+    1411,
+    1411
+   ],
+   "original_bytes": 903128,
+   "maker": "Dee Dee Sharp",
+   "title": "Songs of Faith",
+   "subtitle": "Designer unknown · Cameo",
+   "year": "1962",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Dee Dee Sharp"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "subject",
+     "v": "gospel"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "colour",
+     "v": "blue"
+    },
+    {
+     "k": "colour",
+     "v": "green"
+    }
+   ],
+   "published": true
   }
  ]
 }
