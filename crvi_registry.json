@@ -10958,16 +10958,17 @@
    "identity": "ele-king sweep::Club Jazz Definitive::IMG_4154_1",
    "maker": "Beats International",
    "title": "Let Them Eat Bingo",
-   "subtitle": "Designer unknown · Gol Beat",
+   "subtitle": "Designer unknown · Go! Beat",
    "year": "1990",
-   "label": "Gol Beat",
+   "label": "Go! Beat",
    "verified_against": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Beats International / Let Them Eat Bingo (1990).",
    "source_page": "iTunes Search API",
    "notes": [
     "Artist corrected from the book read 'International' to 'Beats International' using iTunes, which Todd's approval of the cover confirms.",
     "Label read as 'Go! Beat'; snapped to 'Gol Beat', which this book prints 2 times.",
     "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
-    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging.",
+    "Label corrected by hand to 'Go! Beat'. The OCR read 'Gol Beat' on every record from this label in the batch, so the in-book frequency snap could not catch it — a typo that is consistent looks exactly like a fact. A lowercase l starting a word is almost always a misread, and here it was a misread '!'."
    ],
    "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4154_1.jpg",
    "source_px": [
@@ -10989,7 +10990,7 @@
     },
     {
      "k": "label",
-     "v": "Gol Beat"
+     "v": "Go! Beat"
     },
     {
      "k": "decade",
@@ -11289,15 +11290,16 @@
    "identity": "ele-king sweep::Club Jazz Definitive::IMG_4169_1",
    "maker": "Portishead",
    "title": "Portishead",
-   "subtitle": "Designer unknown · Gol Beat",
+   "subtitle": "Designer unknown · Go! Beat",
    "year": "1997",
-   "label": "Gol Beat",
+   "label": "Go! Beat",
    "verified_against": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Portishead / Portishead (1997).",
    "source_page": "iTunes Search API",
    "notes": [
     "Artist corrected from the book read '' to 'Portishead' using iTunes, which Todd's approval of the cover confirms.",
     "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
-    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging.",
+    "Label corrected by hand to 'Go! Beat'. The OCR read 'Gol Beat' on every record from this label in the batch, so the in-book frequency snap could not catch it — a typo that is consistent looks exactly like a fact. A lowercase l starting a word is almost always a misread, and here it was a misread '!'."
    ],
    "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4169_1.jpg",
    "source_px": [
@@ -11318,7 +11320,7 @@
     },
     {
      "k": "label",
-     "v": "Gol Beat"
+     "v": "Go! Beat"
     },
     {
      "k": "decade",
@@ -11344,14 +11346,15 @@
    "identity": "ele-king sweep::Club Jazz Definitive::IMG_4170_1",
    "maker": "Portishead",
    "title": "Dummy",
-   "subtitle": "Designer unknown · Gol Beat",
+   "subtitle": "Designer unknown · Go! Beat",
    "year": "1994",
-   "label": "Gol Beat",
+   "label": "Go! Beat",
    "verified_against": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Portishead / Dummy (1994).",
    "source_page": "iTunes Search API",
    "notes": [
     "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
-    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging.",
+    "Label corrected by hand to 'Go! Beat'. The OCR read 'Gol Beat' on every record from this label in the batch, so the in-book frequency snap could not catch it — a typo that is consistent looks exactly like a fact. A lowercase l starting a word is almost always a misread, and here it was a misread '!'."
    ],
    "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4170_1.jpg",
    "source_px": [
@@ -11372,7 +11375,7 @@
     },
     {
      "k": "label",
-     "v": "Gol Beat"
+     "v": "Go! Beat"
     },
     {
      "k": "decade",
