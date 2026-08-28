@@ -77,8 +77,15 @@ def build(reg):
                 src_url = i[k]; break
         if not src_url and i.get("discogs_release"):
             src_url = f'https://www.discogs.com/release/{i["discogs_release"]}'
+        # ⚠️ Animated items ship a POSTER to the grids. A tag page holding all 26 reaction GIFs
+        # was 101 MB; the grid shows the still and fetches the GIF only on hover. The item page
+        # still loads the GIF directly — there the movement IS the object.
+        disp = i.get("display") or ("images/" + i["id"] + ".jpg")
+        animated = disp.lower().endswith(".gif")
         out.append({"id": i["id"],
                     "source_url": src_url,
+                    "animated": animated,
+                    "poster": ("posters/" + i["id"] + ".jpg") if animated else "",
                     "source_label": i.get("source_label", ""),
                     "image": i.get("display") or ("images/" + i["id"] + ".jpg"),
                     "original": i.get("original_file") or ("originals/" + i["id"] + ".jpg"),

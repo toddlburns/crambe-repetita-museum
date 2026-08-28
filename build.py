@@ -191,8 +191,29 @@ ITEM_JS = """
 
 JS = """
 var SCALE=3;var t=null;
+// ⚠️ THE GIF IS FETCHED ON HOVER, NOT BEFORE. Setting src is what triggers the download, so a
+// grid cell ships the still poster and only swaps in the animation when the pointer arrives.
+// Pausing or hiding a GIF whose src is already set saves nothing — it is on the wire either way.
+// The poster is kept in data-poster so leaving restores it without a second fetch of anything.
+function playGif(c){
+  var im=c.querySelector('img.anim');
+  if(!im) return;
+  var g=im.getAttribute('data-gif');
+  if(!g||im.dataset.playing) return;
+  im.dataset.poster=im.getAttribute('src');
+  im.dataset.playing='1';
+  im.setAttribute('src',g);
+}
+function stopGif(c){
+  var im=c.querySelector('img.anim');
+  if(!im||!im.dataset.playing) return;
+  // back to the still, so a page full of gifs is not left all animating at once
+  im.setAttribute('src',im.dataset.poster);
+  delete im.dataset.playing;
+}
 document.querySelectorAll('.cell').forEach(function(c){
   c.addEventListener('mouseenter',function(){
+    playGif(c);
     clearTimeout(t);
     t=setTimeout(function(){
       // transform does not change layout, so push the caption below the grown image
@@ -202,6 +223,7 @@ document.querySelectorAll('.cell').forEach(function(c){
     },1000);
   });
   c.addEventListener('mouseleave',function(){
+    stopGif(c);
     clearTimeout(t);c.classList.remove('big');c.querySelector('.cap').style.transform='';
   });
 });
@@ -412,7 +434,9 @@ is misidentified, please get in touch: it will be fixed and the correction noted
             rest = " · ".join(filter(None, [it.get("subtitle"), it.get("year")]))
             cells.append(
                 f'<a class="cell" href="../../../{it["id"]}/">'
-                f'<div class="inner"><img src="../../../{esc(it["image"])}" alt=""></div>'
+                f'<div class="inner"><img src="../../../{esc(it["poster"] or it["image"])}"'
+                + (f' data-gif="../../../{esc(it["image"])}" class="anim"' if it.get("animated") else "")
+                + ' alt=""></div>'
                 f'<div class="cap"><span class="n">{esc(it["id"])}</span>'
                 f'{esc(it.get("maker"))} - {esc(it.get("title"))}<br>{esc(rest)}</div></a>')
         body = ('<div class="crumb">'
