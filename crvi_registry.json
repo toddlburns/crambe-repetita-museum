@@ -1,5 +1,5 @@
 {
- "next": 227,
+ "next": 246,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -10945,6 +10945,1050 @@
    "hue": 26.86,
    "light": 0.4472,
    "chroma": 0.644
+  },
+  "ele-king sweep::Club Jazz Definitive::IMG_4154_1": {
+   "id": "CRVI000227",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000227.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 337545,
+   "identity": "ele-king sweep::Club Jazz Definitive::IMG_4154_1",
+   "maker": "Beats International",
+   "title": "Let Them Eat Bingo",
+   "subtitle": "Designer unknown · Gol Beat",
+   "year": "1990",
+   "label": "Gol Beat",
+   "verified_against": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Beats International / Let Them Eat Bingo (1990).",
+   "source_page": "iTunes Search API",
+   "notes": [
+    "Artist corrected from the book read 'International' to 'Beats International' using iTunes, which Todd's approval of the cover confirms.",
+    "Label read as 'Go! Beat'; snapped to 'Gol Beat', which this book prints 2 times.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4154_1.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "yellow",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Beats International"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Gol Beat"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Beats International / Let Them Eat Bingo (1990).",
+   "hue": 350.82,
+   "light": 0.7673,
+   "chroma": 0.1619
+  },
+  "ele-king sweep::Club Jazz Definitive::IMG_4157_1": {
+   "id": "CRVI000228",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000228.jpg",
+   "original_px": [
+    1401,
+    1401
+   ],
+   "original_bytes": 345376,
+   "identity": "ele-king sweep::Club Jazz Definitive::IMG_4157_1",
+   "maker": "Us3",
+   "title": "Hand On The Torch",
+   "subtitle": "Designer unknown · Blue Note",
+   "year": "1993",
+   "label": "Blue Note",
+   "verified_against": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Us3 / Hand On the Torch (1993).",
+   "source_page": "iTunes Search API",
+   "notes": [
+    "Artist corrected from the book read 'Us 3' to 'Us3' using iTunes, which Todd's approval of the cover confirms.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4157_1.jpg",
+   "source_px": [
+    1401,
+    1401
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Us3"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Us3 / Hand On the Torch (1993).",
+   "hue": 42.31,
+   "light": 0.6819,
+   "chroma": 0.8988
+  },
+  "ele-king sweep::Club Jazz Definitive::IMG_4164_1": {
+   "id": "CRVI000229",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000229.jpg",
+   "original_px": [
+    2838,
+    2792
+   ],
+   "original_bytes": 1423395,
+   "identity": "ele-king sweep::Club Jazz Definitive::IMG_4164_1",
+   "maker": "Paolo Achenza Trio",
+   "title": "Do It",
+   "subtitle": "Designer unknown · Right Tempo",
+   "year": "1994",
+   "label": "Right Tempo",
+   "verified_against": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Paolo Achenza Trio / Do It (1994).",
+   "source_page": "iTunes Search API",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4164_1.jpg",
+   "source_px": [
+    2838,
+    2792
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Paolo Achenza Trio"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Right Tempo"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Paolo Achenza Trio / Do It (1994).",
+   "hue": 25.45,
+   "light": 0.5644,
+   "chroma": 0.922
+  },
+  "ele-king sweep::Club Jazz Definitive::IMG_4165_1": {
+   "id": "CRVI000230",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000230.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 1886310,
+   "identity": "ele-king sweep::Club Jazz Definitive::IMG_4165_1",
+   "maker": "Fez Combo",
+   "title": "Follow The Spirit",
+   "subtitle": "Designer unknown · Right Tempo",
+   "year": "1995",
+   "label": "Right Tempo",
+   "verified_against": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Fez Combo / Follow the Spirit (1996).",
+   "source_page": "iTunes Search API",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4165_1.jpg",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "blue",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Fez Combo"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Right Tempo"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Fez Combo / Follow the Spirit (1996).",
+   "hue": 202.21,
+   "light": 0.4397,
+   "chroma": 0.6494
+  },
+  "ele-king sweep::Club Jazz Definitive::IMG_4166_1": {
+   "id": "CRVI000231",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000231.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 978925,
+   "identity": "ele-king sweep::Club Jazz Definitive::IMG_4166_1",
+   "maker": "Reminiscence Quartet",
+   "title": "Psycodelico",
+   "subtitle": "Designer unknown · Yellow Productions",
+   "year": "1995",
+   "label": "Yellow Productions",
+   "verified_against": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Reminiscence Quartet / Psycodelico (1995).",
+   "source_page": "iTunes Search API",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4166_1.jpg",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "blue",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Reminiscence Quartet"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Yellow Productions"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Reminiscence Quartet / Psycodelico (1995).",
+   "hue": 201.6,
+   "light": 0.66,
+   "chroma": 0.3931
+  },
+  "ele-king sweep::Club Jazz Definitive::IMG_4167_1": {
+   "id": "CRVI000232",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000232.jpg",
+   "original_px": [
+    600,
+    600
+   ],
+   "original_bytes": 41589,
+   "identity": "ele-king sweep::Club Jazz Definitive::IMG_4167_1",
+   "maker": "Abstract Truth",
+   "title": "Get Another Plan",
+   "subtitle": "Designer unknown · Streetwave Music",
+   "year": "1996",
+   "label": "Streetwave Music",
+   "verified_against": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Abstract Truth / Get Another Plan (1996).",
+   "source_page": "iTunes Search API",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4167_1.jpg",
+   "source_px": [
+    600,
+    600
+   ],
+   "colors": [
+    "white"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Abstract Truth"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Streetwave Music"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Abstract Truth / Get Another Plan (1996).",
+   "hue": null,
+   "light": 0.9572,
+   "chroma": 0.0577
+  },
+  "ele-king sweep::Club Jazz Definitive::IMG_4169_1": {
+   "id": "CRVI000233",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000233.jpg",
+   "original_px": [
+    1425,
+    1425
+   ],
+   "original_bytes": 354484,
+   "identity": "ele-king sweep::Club Jazz Definitive::IMG_4169_1",
+   "maker": "Portishead",
+   "title": "Portishead",
+   "subtitle": "Designer unknown · Gol Beat",
+   "year": "1997",
+   "label": "Gol Beat",
+   "verified_against": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Portishead / Portishead (1997).",
+   "source_page": "iTunes Search API",
+   "notes": [
+    "Artist corrected from the book read '' to 'Portishead' using iTunes, which Todd's approval of the cover confirms.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4169_1.jpg",
+   "source_px": [
+    1425,
+    1425
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Portishead"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Gol Beat"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Portishead / Portishead (1997).",
+   "hue": null,
+   "light": 0.2453,
+   "chroma": 0.0
+  },
+  "ele-king sweep::Club Jazz Definitive::IMG_4170_1": {
+   "id": "CRVI000234",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000234.jpg",
+   "original_px": [
+    1445,
+    1465
+   ],
+   "original_bytes": 317954,
+   "identity": "ele-king sweep::Club Jazz Definitive::IMG_4170_1",
+   "maker": "Portishead",
+   "title": "Dummy",
+   "subtitle": "Designer unknown · Gol Beat",
+   "year": "1994",
+   "label": "Gol Beat",
+   "verified_against": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Portishead / Dummy (1994).",
+   "source_page": "iTunes Search API",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4170_1.jpg",
+   "source_px": [
+    1445,
+    1465
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Portishead"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Gol Beat"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Portishead / Dummy (1994).",
+   "hue": 215.79,
+   "light": 0.2349,
+   "chroma": 0.9178
+  },
+  "ele-king sweep::Club Jazz Definitive::IMG_4172_1": {
+   "id": "CRVI000235",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000235.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 1141856,
+   "identity": "ele-king sweep::Club Jazz Definitive::IMG_4172_1",
+   "maker": "Coldcut",
+   "title": "Philosophy",
+   "subtitle": "Designer unknown · Ninja Tune",
+   "year": "1993",
+   "label": "Ninja Tune",
+   "verified_against": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Coldcut / Philosophy (1993).",
+   "source_page": "iTunes Search API",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4172_1.jpg",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Coldcut"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Ninja Tune"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Coldcut / Philosophy (1993).",
+   "hue": 41.61,
+   "light": 0.6035,
+   "chroma": 0.3712
+  },
+  "ele-king sweep::Club Jazz Definitive::IMG_4176_1": {
+   "id": "CRVI000236",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000236.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 2404917,
+   "identity": "ele-king sweep::Club Jazz Definitive::IMG_4176_1",
+   "maker": "Kruder & Dorfmeister",
+   "title": "G-Stoned",
+   "subtitle": "Designer unknown · G-Stone Recordings",
+   "year": "1993",
+   "label": "G-Stone Recordings",
+   "verified_against": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Kruder & Dorfmeister / G-Stoned - EP (1993).",
+   "source_page": "iTunes Search API",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4176_1.jpg",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Kruder & Dorfmeister"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "G-Stone Recordings"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Kruder & Dorfmeister / G-Stoned - EP (1993).",
+   "hue": null,
+   "light": 0.4048,
+   "chroma": 0.0
+  },
+  "ele-king sweep::Club Jazz Definitive::IMG_4178_1": {
+   "id": "CRVI000237",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000237.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 820937,
+   "identity": "ele-king sweep::Club Jazz Definitive::IMG_4178_1",
+   "maker": "Bullitnuts",
+   "title": "1st Of The Day",
+   "subtitle": "Designer unknown · Pork Recordings",
+   "year": "1996",
+   "label": "Pork Recordings",
+   "verified_against": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Bullitnuts / 1ST OF THE DAY (1999).",
+   "source_page": "iTunes Search API",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4178_1.jpg",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "orange",
+    "white"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Bullitnuts"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Pork Recordings"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Bullitnuts / 1ST OF THE DAY (1999).",
+   "hue": 27.95,
+   "light": 0.8293,
+   "chroma": 0.2324
+  },
+  "ele-king sweep::Club Jazz Definitive::IMG_4181_1": {
+   "id": "CRVI000238",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000238.jpg",
+   "original_px": [
+    1440,
+    1440
+   ],
+   "original_bytes": 556283,
+   "identity": "ele-king sweep::Club Jazz Definitive::IMG_4181_1",
+   "maker": "Troubleman",
+   "title": "Time Out Of Mind",
+   "subtitle": "Designer unknown · Far Out Recordings",
+   "year": "2004",
+   "label": "Far Out Recordings",
+   "verified_against": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Troubleman / Time out of Mind (2007).",
+   "source_page": "iTunes Search API",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4181_1.jpg",
+   "source_px": [
+    1440,
+    1440
+   ],
+   "colors": [
+    "green",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Troubleman"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Far Out Recordings"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Troubleman / Time out of Mind (2007).",
+   "hue": 192.24,
+   "light": 0.4337,
+   "chroma": 0.966
+  },
+  "ele-king sweep::Club Jazz Definitive::IMG_4184_1": {
+   "id": "CRVI000239",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000239.jpg",
+   "original_px": [
+    1440,
+    1440
+   ],
+   "original_bytes": 187245,
+   "identity": "ele-king sweep::Club Jazz Definitive::IMG_4184_1",
+   "maker": "Landslide",
+   "title": "Drum And Bossa",
+   "subtitle": "Designer unknown · Hospital",
+   "year": "1998",
+   "label": "Hospital",
+   "verified_against": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Landslide / Drum and Bossa (2000).",
+   "source_page": "iTunes Search API",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4184_1.jpg",
+   "source_px": [
+    1440,
+    1440
+   ],
+   "colors": [
+    "white"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Landslide"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Hospital"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Landslide / Drum and Bossa (2000).",
+   "hue": null,
+   "light": 0.7747,
+   "chroma": 0.024
+  },
+  "ele-king sweep::Club Jazz Definitive::IMG_4186_1": {
+   "id": "CRVI000240",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000240.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 1102582,
+   "identity": "ele-king sweep::Club Jazz Definitive::IMG_4186_1",
+   "maker": "Sunship",
+   "title": "Sunship",
+   "subtitle": "Designer unknown · Filter",
+   "year": "1997",
+   "label": "Filter",
+   "verified_against": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Sunship / Sunship (1997).",
+   "source_page": "iTunes Search API",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4186_1.jpg",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "yellow",
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Sunship"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Filter"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Sunship / Sunship (1997).",
+   "hue": 50.99,
+   "light": 0.1468,
+   "chroma": 0.1782
+  },
+  "ele-king sweep::Club Jazz Definitive::IMG_4187_1": {
+   "id": "CRVI000241",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000241.jpg",
+   "original_px": [
+    665,
+    600
+   ],
+   "original_bytes": 184698,
+   "identity": "ele-king sweep::Club Jazz Definitive::IMG_4187_1",
+   "maker": "Frederic Galliano Electronic Sextet",
+   "title": "Live Infinis",
+   "subtitle": "Designer unknown · F Communications",
+   "year": "1998",
+   "label": "F Communications",
+   "verified_against": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Frederic Galliano Electronic Sextet / Live Infinis (1998).",
+   "source_page": "iTunes Search API",
+   "notes": [
+    "Artist corrected from the book read '' to 'Frederic Galliano Electronic Sextet' using iTunes, which Todd's approval of the cover confirms.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4187_1.jpg",
+   "source_px": [
+    665,
+    600
+   ],
+   "colors": [
+    "pink",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Frederic Galliano Electronic Sextet"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "F Communications"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Frederic Galliano Electronic Sextet / Live Infinis (1998).",
+   "hue": 354.41,
+   "light": 0.6552,
+   "chroma": 0.8887
+  },
+  "ele-king sweep::Club Jazz Definitive::IMG_4188_1": {
+   "id": "CRVI000242",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000242.jpg",
+   "original_px": [
+    1440,
+    1440
+   ],
+   "original_bytes": 1254161,
+   "identity": "ele-king sweep::Club Jazz Definitive::IMG_4188_1",
+   "maker": "Shazz",
+   "title": "Shazz",
+   "subtitle": "Designer unknown · Columbia",
+   "year": "1998",
+   "label": "Columbia",
+   "verified_against": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Shazz / Shazz (1998).",
+   "source_page": "iTunes Search API",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4188_1.jpg",
+   "source_px": [
+    1440,
+    1440
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Shazz"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Columbia"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Shazz / Shazz (1998).",
+   "hue": 43.17,
+   "light": 0.6908,
+   "chroma": 0.9637
+  },
+  "ele-king sweep::Club Jazz Definitive::IMG_4194_1": {
+   "id": "CRVI000243",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000243.jpg",
+   "original_px": [
+    1563,
+    1575
+   ],
+   "original_bytes": 318851,
+   "identity": "ele-king sweep::Club Jazz Definitive::IMG_4194_1",
+   "maker": "Isoul8",
+   "title": "Balance",
+   "subtitle": "Designer unknown · Sonar Kollektiv",
+   "year": "2008",
+   "label": "Sonar Kollektiv",
+   "verified_against": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Isoul8 / Balance (2006).",
+   "source_page": "iTunes Search API",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4194_1.jpg",
+   "source_px": [
+    1563,
+    1575
+   ],
+   "colors": [
+    "orange",
+    "white"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Isoul8"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Sonar Kollektiv"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Isoul8 / Balance (2006).",
+   "hue": 32.2,
+   "light": 0.9462,
+   "chroma": 0.1567
+  },
+  "ele-king sweep::Club Jazz Definitive::IMG_4207_1": {
+   "id": "CRVI000244",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000244.jpg",
+   "original_px": [
+    1400,
+    1400
+   ],
+   "original_bytes": 506933,
+   "identity": "ele-king sweep::Club Jazz Definitive::IMG_4207_1",
+   "maker": "Matthias Vogt Trio",
+   "title": "Changing Colours",
+   "subtitle": "Designer unknown · INFRACom!",
+   "year": "2006",
+   "label": "INFRACom!",
+   "verified_against": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Matthias Vogt Trio / Changing Colours (2006).",
+   "source_page": "iTunes Search API",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4207_1.jpg",
+   "source_px": [
+    1400,
+    1400
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Matthias Vogt Trio"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "INFRACom!"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Matthias Vogt Trio / Changing Colours (2006).",
+   "hue": 45.42,
+   "light": 0.4834,
+   "chroma": 0.5716
+  },
+  "ele-king sweep::Club Jazz Definitive::IMG_4211_1": {
+   "id": "CRVI000245",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000245.jpg",
+   "original_px": [
+    1440,
+    1440
+   ],
+   "original_bytes": 210934,
+   "identity": "ele-king sweep::Club Jazz Definitive::IMG_4211_1",
+   "maker": "Zimpala",
+   "title": "Almaviva",
+   "subtitle": "Designer unknown · Lacerba",
+   "year": "2000",
+   "label": "Lacerba",
+   "verified_against": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Zimpala / Almaviva (2001).",
+   "source_page": "iTunes Search API",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4211_1.jpg",
+   "source_px": [
+    1440,
+    1440
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Zimpala"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Lacerba"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Zimpala / Almaviva (2001).",
+   "hue": 42.5,
+   "light": 0.2812,
+   "chroma": 0.7189
   }
  }
 }
