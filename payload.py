@@ -67,7 +67,19 @@ def build(reg):
                     else "Artwork by ") + ", ".join(ds)) if ds else "Designer unknown"
             if i.get("label"):
                 sub += f' · {i["label"]}'
+        # ⚠️ EVERY ITEM CARRIES ITS SOURCE. Todd, 2026-08-27: he wants it visible on the item so
+        # nobody reads the archive as a claim of authorship. A URL where one exists; otherwise
+        # the source NAMED in plain words. Never a fabricated link — a wrong URL would look
+        # like provenance and be false, which is worse than saying the origin is unrecorded.
+        src_url = ""
+        for k in ("source_page", "source_url"):
+            if (i.get(k) or "").startswith("http"):
+                src_url = i[k]; break
+        if not src_url and i.get("discogs_release"):
+            src_url = f'https://www.discogs.com/release/{i["discogs_release"]}'
         out.append({"id": i["id"],
+                    "source_url": src_url,
+                    "source_label": i.get("source_label", ""),
                     "image": i.get("display") or ("images/" + i["id"] + ".jpg"),
                     "original": i.get("original_file") or ("originals/" + i["id"] + ".jpg"),
                     "original_px": i.get("original_px"),

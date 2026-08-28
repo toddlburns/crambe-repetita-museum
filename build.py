@@ -60,6 +60,10 @@ a{color:inherit;text-decoration:none}
  border-top:1px solid var(--rule);font-size:11.5px}
 .tags a{color:var(--mute)}
 .tags a:hover{color:var(--ink)}
+.tags .src{margin-left:auto;color:#a8a8a8;font-size:11px}
+.tags .src.rights{margin-left:14px;text-decoration:underline}
+@media (max-width:700px){.tags .src{margin-left:0;flex-basis:100%}
+ .tags .src.rights{margin-left:0}}
 .tags a.all{color:var(--ink);font-weight:600}
 
 /* ---- tag index ---- */
@@ -148,6 +152,13 @@ a{color:inherit;text-decoration:none}
 .crumb .c{color:var(--mute);font:11px var(--mono)}
 .crumb a{margin-left:auto;color:var(--mute);font-size:11.5px}
 .crumb a:hover{color:var(--ink)}
+.rights{max-width:660px}
+.rights h2{font:600 10px/1.4 var(--mono);letter-spacing:.16em;text-transform:uppercase;
+ margin:30px 0 8px;color:var(--ink)}
+.rights h2:first-child{margin-top:0}
+.rights p{font-size:13.5px;line-height:1.62;color:#333;margin-bottom:10px}
+.rights a{text-decoration:underline}
+.rights .contact{font:12px var(--mono)}
 
 /* ---- tag page grid ---- */
 .grid{padding:22px 18px 180px;display:grid;
@@ -263,6 +274,15 @@ def main():
         tags = "".join(f'<a href="../tag/{slug(t["k"])}/{slug(t["v"])}/">#{esc(t["v"])}</a>'
                        for t in it.get("tags", []))
         tags += '<a class="all" href="../tags/">#alltags</a>'
+        # source sits with the tags, at the end, quiet but always present
+        if it.get("source_url"):
+            import urllib.parse as _up
+            hostname = _up.urlparse(it["source_url"]).netloc.replace("www.", "")
+            tags += (f'<a class="src" href="{esc(it["source_url"])}" target="_blank" '
+                     f'rel="noopener noreferrer">source: {esc(hostname)} &#8599;</a>')
+        elif it.get("source_label"):
+            tags += f'<span class="src">source: {esc(it["source_label"])}</span>'
+        tags += '<a class="src rights" href="../rights/">rights &amp; use</a>'
         keys = ITEM_JS % (json.dumps(prev) if prev else "null",
                           json.dumps(nxt) if nxt else "null")
         # The museum still HOLDS the original in originals/ — it is simply not advertised
@@ -319,6 +339,51 @@ def main():
     os.makedirs(os.path.join(HERE, "tags"), exist_ok=True)
     open(os.path.join(HERE, "tags", "index.html"), "w").write(
         page("All tags — Crambe Repetita Museum", body, 1))
+
+    # ---- rights & use ----
+    # ⚠️ A STATEMENT OF PRACTICE, NOT A LEGAL SHIELD, and it does not pretend to be one. It says
+    # plainly what the archive is, that nothing in it is Todd's work, where each image came from,
+    # and how to get something taken down — that last part is what actually resolves complaints.
+    # Todd asked for something "very legalistic"; asserting a legal defence we cannot back would
+    # be worse than useless, so this states facts and offers a fast, unconditional removal.
+    rights = """<div class="crumb"><span class="t">RIGHTS &amp; USE</span>
+<a href="../__F__/">&#8592; museum</a></div>
+<div class="wrap rights">
+<h2>What this is</h2>
+<p>Crambe Repetita Visual Inspiration is a personal, non-commercial reference archive. It
+collects graphic design and images its owner finds visually interesting &mdash; record sleeves,
+posters, book jackets, photographs &mdash; so they can be looked at, compared and searched in one
+place. Nothing is sold here. There is no advertising, no affiliate linking and no paid access.</p>
+<h2>Nothing here is my work</h2>
+<p>Every image in this archive was made by someone else. The archive makes <strong>no claim of
+authorship and no claim of ownership</strong> over any image it displays. Copyright and all other
+rights in each work remain with the artist, designer, photographer, publisher, estate or other
+rights holder. Where a creator is known, the archive names them; where the creator is not
+established, it says so rather than guessing.</p>
+<h2>Every item names its source</h2>
+<p>Each item records where its image came from. Where a public page for the object exists &mdash;
+a museum record, a Discogs release, a gallery or seller listing, a published article &mdash; the
+item links straight to it. Where no such page is available, the source is named in words. Where
+the origin genuinely could not be established, the item says that too. <strong>Source links are
+never invented to fill a gap.</strong></p>
+<h2>Images are held at reference size</h2>
+<p>Images are kept at the resolution needed to see a design clearly and no more. Many are small.
+They are here as a record of what a thing looks like, with attribution and context &mdash; not as
+a substitute for the original object, a print, or a licensed reproduction.</p>
+<h2>If you hold rights in something here</h2>
+<p>If you are a rights holder and would like an image removed, corrected or better credited,
+please say so and it will be dealt with promptly and without argument. <strong>Removal requests
+are honoured on request; no justification is required.</strong></p>
+<p class="contact">Contact: <a href="mailto:todd.burns@gmail.com">todd.burns@gmail.com</a></p>
+<p>When an item is removed its record is kept without the image, so the removal itself stays
+documented.</p>
+<h2>Corrections</h2>
+<p>Attribution errors are taken seriously. If something is credited to the wrong person, or a work
+is misidentified, please get in touch: it will be fixed and the correction noted on the item.</p>
+</div>""".replace("__F__", items[0]["id"])
+    os.makedirs(os.path.join(HERE, "rights"), exist_ok=True)
+    open(os.path.join(HERE, "rights", "index.html"), "w").write(
+        page("Rights & use — Crambe Repetita Museum", rights, 1))
 
     # ---- one page per tag ----
     # ⚠️ Todd, 2026-08-26: a tag page with MORE THAN 30 images groups itself by color, "so that
