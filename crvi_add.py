@@ -76,10 +76,18 @@ def main(spec_path):
         # deleted CRVI number will one day resolve to a DIFFERENT object rather than staying
         # dead. The deleted record is therefore kept in the registry under a `retired_as` key
         # so the history of what the number used to hold is not lost with it.
-        recycled = sorted((v["id"], k) for k, v in reg["items"].items() if v.get("deleted"))
+        # ⚠️ THE TOMBSTONE MUST SURVIVE. The first version POPPED the deleted record when it
+        # recycled its number — which erased the only evidence that the thing had ever been
+        # deleted, so a stale approval re-minted it straight back in. (Fez Combo and Zimpala
+        # both returned that way after Todd had removed them.) The record now stays, flagged
+        # `number_reused` so the recycler will not offer it twice and so its identity still
+        # blocks a re-add.
+        recycled = sorted((v["id"], k) for k, v in reg["items"].items()
+                          if v.get("deleted") and not v.get("number_reused"))
         if recycled:
             rid, rkey = recycled[0]
-            gone = reg["items"].pop(rkey)
+            gone = reg["items"][rkey]
+            gone["number_reused"] = True
             it = {"id": rid, "minted": spec.get("minted", "2026-08-27"),
                   "reused": True,
                   "previously": {"identity": rkey, "maker": gone.get("maker"),

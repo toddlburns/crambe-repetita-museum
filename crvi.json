@@ -10284,48 +10284,6 @@
    "light": 0.2061
   },
   {
-   "id": "CRVI000220",
-   "source_url": "",
-   "animated": false,
-   "thumb": "thumbs/CRVI000220.jpg",
-   "source_label": "",
-   "image": "images/CRVI000220.jpg",
-   "original": "originals/CRVI000220.jpg",
-   "original_px": [
-    1400,
-    1400
-   ],
-   "original_bytes": 422164,
-   "maker": "XRS Land",
-   "title": "Sarau",
-   "subtitle": "Designer unknown · Sambaloco",
-   "year": "1999",
-   "tags": [
-    {
-     "k": "artist",
-     "v": "XRS Land"
-    },
-    {
-     "k": "type",
-     "v": "album cover"
-    },
-    {
-     "k": "label",
-     "v": "Sambaloco"
-    },
-    {
-     "k": "decade",
-     "v": "1990s"
-    },
-    {
-     "k": "color",
-     "v": "white"
-    }
-   ],
-   "hue": null,
-   "light": 0.9439
-  },
-  {
    "id": "CRVI000221",
    "source_url": "https://www.nytimes.com/2026/08/27/arts/design/yayoi-kusama-photos-artwork.html",
    "animated": false,
@@ -13418,6 +13376,1526 @@
    ],
    "hue": 110.97,
    "light": 0.335
+  },
+  {
+   "id": "CRVI000293",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000293.jpg",
+   "source_label": "",
+   "image": "images/CRVI000293.jpg",
+   "original": "originals/CRVI000293.jpg",
+   "original_px": [
+    1400,
+    1400
+   ],
+   "original_bytes": 558259,
+   "maker": "Jean-Jacques Perrey",
+   "title": "Moog Indigo",
+   "subtitle": "Designer unknown · Vanguard",
+   "year": "1970",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Jean-Jacques Perrey"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Vanguard"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 34.12,
+   "light": 0.5272
+  },
+  {
+   "id": "CRVI000294",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000294.jpg",
+   "source_label": "",
+   "image": "images/CRVI000294.jpg",
+   "original": "originals/CRVI000294.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 2383283,
+   "maker": "Dick Hyman & Mary Mayo",
+   "title": "Moon Gas",
+   "subtitle": "Designer unknown · MGM Records",
+   "year": "1963",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Dick Hyman & Mary Mayo"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "MGM Records"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 212.84,
+   "light": 0.6556
+  },
+  {
+   "id": "CRVI000295",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000295.jpg",
+   "source_label": "",
+   "image": "images/CRVI000295.jpg",
+   "original": "originals/CRVI000295.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 1534501,
+   "maker": "Parliament",
+   "title": "Mothership Connection",
+   "subtitle": "Designer unknown · Casablanca",
+   "year": "1975",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Parliament"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Casablanca"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 186.99,
+   "light": 0.3306
+  },
+  {
+   "id": "CRVI000296",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000296.jpg",
+   "source_label": "",
+   "image": "images/CRVI000296.jpg",
+   "original": "originals/CRVI000296.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 502869,
+   "maker": "Miles Davis",
+   "title": "On The Corner",
+   "subtitle": "Designer unknown · Columbia",
+   "year": "1972",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Miles Davis"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Columbia"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 54.46,
+   "light": 0.3787
+  },
+  {
+   "id": "CRVI000297",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000297.jpg",
+   "source_label": "",
+   "image": "images/CRVI000297.jpg",
+   "original": "originals/CRVI000297.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 526245,
+   "maker": "King Tubby",
+   "title": "The Roots Of Dub",
+   "subtitle": "Designer unknown · Total Sounds / Clock Tower Records Inc.",
+   "year": "1976",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "King Tubby"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Total Sounds / Clock Tower Records Inc."
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "purple"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 266.17,
+   "light": 0.5187
+  },
+  {
+   "id": "CRVI000298",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000298.jpg",
+   "source_label": "",
+   "image": "images/CRVI000298.jpg",
+   "original": "originals/CRVI000298.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 573036,
+   "maker": "Snakefinger",
+   "title": "Chewing Hides The Sound",
+   "subtitle": "Designer unknown · Ralph",
+   "year": "1979",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Snakefinger"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Ralph"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 38.47,
+   "light": 0.3813
+  },
+  {
+   "id": "CRVI000299",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000299.jpg",
+   "source_label": "",
+   "image": "images/CRVI000299.jpg",
+   "original": "originals/CRVI000299.jpg",
+   "original_px": [
+    1425,
+    1425
+   ],
+   "original_bytes": 574447,
+   "maker": "The Residents",
+   "title": "The Commercial Album",
+   "subtitle": "Designer unknown · Ralph",
+   "year": "1980",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "The Residents"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Ralph"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 53.82,
+   "light": 0.2873
+  },
+  {
+   "id": "CRVI000300",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000300.jpg",
+   "source_label": "",
+   "image": "images/CRVI000300.jpg",
+   "original": "originals/CRVI000300.jpg",
+   "original_px": [
+    1425,
+    1425
+   ],
+   "original_bytes": 769214,
+   "maker": "I Start Counting",
+   "title": "Fused",
+   "subtitle": "Designer unknown · Mute",
+   "year": "1988",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "I Start Counting"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Mute"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 69.66,
+   "light": 0.4567
+  },
+  {
+   "id": "CRVI000301",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000301.jpg",
+   "source_label": "",
+   "image": "images/CRVI000301.jpg",
+   "original": "originals/CRVI000301.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 751292,
+   "maker": "Matt Baldwin",
+   "title": "Night In The Triangle",
+   "subtitle": "Designer unknown · American Dust",
+   "year": "2011",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Matt Baldwin"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "American Dust"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 28.07,
+   "light": 0.2621
+  },
+  {
+   "id": "CRVI000302",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000302.jpg",
+   "source_label": "",
+   "image": "images/CRVI000302.jpg",
+   "original": "originals/CRVI000302.jpg",
+   "original_px": [
+    1440,
+    1440
+   ],
+   "original_bytes": 312287,
+   "maker": "Pekka Airaksinen",
+   "title": "Other Power",
+   "subtitle": "Designer unknown · Hormonia",
+   "year": "2012",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Pekka Airaksinen"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Hormonia"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 178.63,
+   "light": 0.3932
+  },
+  {
+   "id": "CRVI000303",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000303.jpg",
+   "source_label": "",
+   "image": "images/CRVI000303.jpg",
+   "original": "originals/CRVI000303.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 771086,
+   "maker": "Suicide",
+   "title": "Suicide",
+   "subtitle": "Designer unknown · Red Star",
+   "year": "1977",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Suicide"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Red Star"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "white"
+    }
+   ],
+   "hue": 7.45,
+   "light": 0.7987
+  },
+  {
+   "id": "CRVI000304",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000304.jpg",
+   "source_label": "",
+   "image": "images/CRVI000304.jpg",
+   "original": "originals/CRVI000304.jpg",
+   "original_px": [
+    1425,
+    1425
+   ],
+   "original_bytes": 697017,
+   "maker": "Cabaret Voltaire",
+   "title": "The Voice Of America",
+   "subtitle": "Designer unknown · Rough Trade",
+   "year": "1980",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Cabaret Voltaire"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Rough Trade"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "color",
+     "v": "neutral"
+    }
+   ],
+   "hue": null,
+   "light": 0.4299
+  },
+  {
+   "id": "CRVI000305",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000305.jpg",
+   "source_label": "",
+   "image": "images/CRVI000305.jpg",
+   "original": "originals/CRVI000305.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 814148,
+   "maker": "Yellow Magic Orchestra",
+   "title": "BGM",
+   "subtitle": "Designer unknown · Alfa",
+   "year": "1981",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Yellow Magic Orchestra"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Alfa"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 191.76,
+   "light": 0.8065
+  },
+  {
+   "id": "CRVI000306",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000306.jpg",
+   "source_label": "",
+   "image": "images/CRVI000306.jpg",
+   "original": "originals/CRVI000306.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 1125266,
+   "maker": "Haruomi Hosono",
+   "title": "Philharmony",
+   "subtitle": "Designer unknown · Yen",
+   "year": "1982",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Haruomi Hosono"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Yen"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 145.1,
+   "light": 0.5224
+  },
+  {
+   "id": "CRVI000307",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000307.jpg",
+   "source_label": "",
+   "image": "images/CRVI000307.jpg",
+   "original": "originals/CRVI000307.jpg",
+   "original_px": [
+    2400,
+    2400
+   ],
+   "original_bytes": 1766696,
+   "maker": "Der Plan",
+   "title": "Normalette Surprise",
+   "subtitle": "Designer unknown · Ata Tak",
+   "year": "1981",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Der Plan"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Ata Tak"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 203.68,
+   "light": 0.5013
+  },
+  {
+   "id": "CRVI000308",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000308.jpg",
+   "source_label": "",
+   "image": "images/CRVI000308.jpg",
+   "original": "originals/CRVI000308.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 1456287,
+   "maker": "Palais Schaumburg",
+   "title": "Palais Schaumburg",
+   "subtitle": "Designer unknown · Phonogram",
+   "year": "1981",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Palais Schaumburg"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Phonogram"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 355.83,
+   "light": 0.2649
+  },
+  {
+   "id": "CRVI000309",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000309.jpg",
+   "source_label": "",
+   "image": "images/CRVI000309.jpg",
+   "original": "originals/CRVI000309.jpg",
+   "original_px": [
+    1420,
+    1408
+   ],
+   "original_bytes": 167153,
+   "maker": "Mantronix",
+   "title": "The Album",
+   "subtitle": "Designer unknown · Sleeping Bag",
+   "year": "1985",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Mantronix"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Sleeping Bag"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "color",
+     "v": "white"
+    }
+   ],
+   "hue": null,
+   "light": 0.7615
+  },
+  {
+   "id": "CRVI000310",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000310.jpg",
+   "source_label": "",
+   "image": "images/CRVI000310.jpg",
+   "original": "originals/CRVI000310.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 1416096,
+   "maker": "Doris Norton",
+   "title": "Artificial Intelligence",
+   "subtitle": "Designer unknown · Globo",
+   "year": "1985",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Doris Norton"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Globo"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "black"
+    }
+   ],
+   "hue": 66.56,
+   "light": 0.1749
+  },
+  {
+   "id": "CRVI000311",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000311.jpg",
+   "source_label": "",
+   "image": "images/CRVI000311.jpg",
+   "original": "originals/CRVI000311.jpg",
+   "original_px": [
+    1448,
+    1448
+   ],
+   "original_bytes": 439378,
+   "maker": "Carl Craig",
+   "title": "More Songs About Food And Revolutionary Art",
+   "subtitle": "Designer unknown · Planet E",
+   "year": "1997",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Carl Craig"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Planet E"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "color",
+     "v": "neutral"
+    }
+   ],
+   "hue": null,
+   "light": 0.1722
+  },
+  {
+   "id": "CRVI000312",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000312.jpg",
+   "source_label": "",
+   "image": "images/CRVI000312.jpg",
+   "original": "originals/CRVI000312.jpg",
+   "original_px": [
+    1419,
+    1419
+   ],
+   "original_bytes": 388842,
+   "maker": "The Human League",
+   "title": "Reproduction",
+   "subtitle": "Designer unknown · Virgin",
+   "year": "1979",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "The Human League"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Virgin"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 27.61,
+   "light": 0.5681
+  },
+  {
+   "id": "CRVI000313",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000313.jpg",
+   "source_label": "",
+   "image": "images/CRVI000313.jpg",
+   "original": "originals/CRVI000313.jpg",
+   "original_px": [
+    1600,
+    1600
+   ],
+   "original_bytes": 1741089,
+   "maker": "Shut Up and Dance",
+   "title": "Dance Before the Police Come",
+   "subtitle": "Designer unknown · p And Dance",
+   "year": "1991",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Shut Up and Dance"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "p And Dance"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 25.8,
+   "light": 0.3509
+  },
+  {
+   "id": "CRVI000314",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000314.jpg",
+   "source_label": "",
+   "image": "images/CRVI000314.jpg",
+   "original": "originals/CRVI000314.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 511993,
+   "maker": "Underworld",
+   "title": "Dubnobasswithmyheadman",
+   "subtitle": "Designer unknown · Junior Boy's Own",
+   "year": "1994",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Underworld"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Junior Boy's Own"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "color",
+     "v": "neutral"
+    }
+   ],
+   "hue": null,
+   "light": 0.489
+  },
+  {
+   "id": "CRVI000315",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000315.jpg",
+   "source_label": "",
+   "image": "images/CRVI000315.jpg",
+   "original": "originals/CRVI000315.jpg",
+   "original_px": [
+    1400,
+    1400
+   ],
+   "original_bytes": 571279,
+   "maker": "Leftfield",
+   "title": "Leftism",
+   "subtitle": "Designer unknown · Hard Hands",
+   "year": "1995",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Leftfield"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Hard Hands"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 35.94,
+   "light": 0.5783
+  },
+  {
+   "id": "CRVI000316",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000316.jpg",
+   "source_label": "",
+   "image": "images/CRVI000316.jpg",
+   "original": "originals/CRVI000316.jpg",
+   "original_px": [
+    600,
+    600
+   ],
+   "original_bytes": 20129,
+   "maker": "Moritz Von Oswald Trio",
+   "title": "Horizontal Structures",
+   "subtitle": "Designer unknown · Honest Jon's",
+   "year": "2011",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Moritz Von Oswald Trio"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Honest Jon's"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 47.14,
+   "light": 0.9326
+  },
+  {
+   "id": "CRVI000317",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000317.jpg",
+   "source_label": "",
+   "image": "images/CRVI000317.jpg",
+   "original": "originals/CRVI000317.jpg",
+   "original_px": [
+    1417,
+    1417
+   ],
+   "original_bytes": 413294,
+   "maker": "Farben",
+   "title": "Textstar",
+   "subtitle": "Designer unknown · Klang Elektronik",
+   "year": "2002",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Farben"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Klang Elektronik"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 205.79,
+   "light": 0.3411
+  },
+  {
+   "id": "CRVI000318",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000318.jpg",
+   "source_label": "",
+   "image": "images/CRVI000318.jpg",
+   "original": "originals/CRVI000318.jpg",
+   "original_px": [
+    1417,
+    1420
+   ],
+   "original_bytes": 828205,
+   "maker": "Tosca",
+   "title": "Suzuki",
+   "subtitle": "Designer unknown · G-Stone",
+   "year": "2000",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Tosca"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "G-Stone"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 4.3,
+   "light": 0.4795
+  },
+  {
+   "id": "CRVI000319",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000319.jpg",
+   "source_label": "",
+   "image": "images/CRVI000319.jpg",
+   "original": "originals/CRVI000319.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 613715,
+   "maker": "Cornelius",
+   "title": "Fantasma",
+   "subtitle": "Designer unknown · Trattoria",
+   "year": "1997",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Cornelius"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Trattoria"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 25.61,
+   "light": 0.8283
+  },
+  {
+   "id": "CRVI000320",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000320.jpg",
+   "source_label": "",
+   "image": "images/CRVI000320.jpg",
+   "original": "originals/CRVI000320.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 1184540,
+   "maker": "Villalobos",
+   "title": "Fizheuer Zieheuer",
+   "subtitle": "Designer unknown · Playhouse",
+   "year": "2006",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Villalobos"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Playhouse"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 355.0,
+   "light": 0.457
+  },
+  {
+   "id": "CRVI000321",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000321.jpg",
+   "source_label": "",
+   "image": "images/CRVI000321.jpg",
+   "original": "originals/CRVI000321.jpg",
+   "original_px": [
+    600,
+    600
+   ],
+   "original_bytes": 21730,
+   "maker": "Loscil",
+   "title": "Plume",
+   "subtitle": "Designer unknown · Kranky",
+   "year": "2006",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Loscil"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Kranky"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": null,
+   "light": 0.9216
+  },
+  {
+   "id": "CRVI000322",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000322.jpg",
+   "source_label": "",
+   "image": "images/CRVI000322.jpg",
+   "original": "originals/CRVI000322.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 837365,
+   "maker": "Skream",
+   "title": "Skream!",
+   "subtitle": "Designer unknown · Tempa",
+   "year": "2006",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Skream"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Tempa"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 53.47,
+   "light": 0.3748
+  },
+  {
+   "id": "CRVI000323",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000323.jpg",
+   "source_label": "",
+   "image": "images/CRVI000323.jpg",
+   "original": "originals/CRVI000323.jpg",
+   "original_px": [
+    1400,
+    1400
+   ],
+   "original_bytes": 1019817,
+   "maker": "Flying Lotus",
+   "title": "Cosmogramma",
+   "subtitle": "Designer unknown · Warp",
+   "year": "2010",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Flying Lotus"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Warp"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "neutral"
+    }
+   ],
+   "hue": null,
+   "light": 0.5094
+  },
+  {
+   "id": "CRVI000324",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000324.jpg",
+   "source_label": "",
+   "image": "images/CRVI000324.jpg",
+   "original": "originals/CRVI000324.jpg",
+   "original_px": [
+    1400,
+    1400
+   ],
+   "original_bytes": 405609,
+   "maker": "DJ Diamond",
+   "title": "Flight Muzik",
+   "subtitle": "Designer unknown · Planet Mu",
+   "year": "2011",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "DJ Diamond"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Planet Mu"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 57.5,
+   "light": 0.5465
+  },
+  {
+   "id": "CRVI000325",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000325.jpg",
+   "source_label": "",
+   "image": "images/CRVI000325.jpg",
+   "original": "originals/CRVI000325.jpg",
+   "original_px": [
+    1440,
+    1440
+   ],
+   "original_bytes": 155328,
+   "maker": "Lone",
+   "title": "Ecstasy & Friends",
+   "subtitle": "Designer unknown · Werk Discs",
+   "year": "2009",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Lone"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Werk Discs"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 197.3,
+   "light": 0.636
+  },
+  {
+   "id": "CRVI000326",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000326.jpg",
+   "source_label": "",
+   "image": "images/CRVI000326.jpg",
+   "original": "originals/CRVI000326.jpg",
+   "original_px": [
+    1400,
+    1400
+   ],
+   "original_bytes": 859648,
+   "maker": "NHK'Koyxen",
+   "title": "Dance Classics Vol.I",
+   "subtitle": "Designer unknown · Pan",
+   "year": "2012",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "NHK'Koyxen"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Pan"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    }
+   ],
+   "hue": 335.04,
+   "light": 0.3386
   }
  ]
 }
