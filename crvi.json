@@ -10316,34 +10316,274 @@
    "light": 0.4834
   },
   {
-   "id": "CRVI000245",
-   "image": "images/CRVI000245.jpg",
-   "original": "originals/CRVI000245.jpg",
+   "id": "CRVI000246",
+   "image": "images/CRVI000246.jpg",
+   "original": "originals/CRVI000246.jpg",
    "original_px": [
-    1440,
-    1440
+    1560,
+    1560
    ],
-   "original_bytes": 210934,
-   "maker": "Zimpala",
-   "title": "Almaviva",
-   "subtitle": "Designer unknown · Lacerba",
+   "original_bytes": 179063,
+   "maker": "Keiji Usami",
+   "title": "Louisiana exhibition poster",
+   "subtitle": "Exhibition poster · Louisiana Museum of Modern Art",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "designer",
+     "v": "Keiji Usami"
+    },
+    {
+     "k": "location",
+     "v": "Denmark"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 205.55,
+   "light": 0.8381
+  },
+  {
+   "id": "CRVI000247",
+   "image": "images/CRVI000247.jpg",
+   "original": "originals/CRVI000247.jpg",
+   "original_px": [
+    1560,
+    1560
+   ],
+   "original_bytes": 179564,
+   "maker": "Marisol",
+   "title": "Untitled",
+   "subtitle": "Exhibition Poster · 1960-65",
+   "year": "1960-65",
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "designer",
+     "v": "Marisol"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "location",
+     "v": "Denmark"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 43.87,
+   "light": 0.9165
+  },
+  {
+   "id": "CRVI000248",
+   "image": "images/CRVI000248.jpg",
+   "original": "originals/CRVI000248.jpg",
+   "original_px": [
+    1560,
+    1560
+   ],
+   "original_bytes": 247691,
+   "maker": "Tetsuya Ishida",
+   "title": "Mebae",
+   "subtitle": "Exhibition Poster · 1998",
+   "year": "1998",
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "designer",
+     "v": "Tetsuya Ishida"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "location",
+     "v": "Denmark"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 54.08,
+   "light": 0.6714
+  },
+  {
+   "id": "CRVI000249",
+   "image": "images/CRVI000249.jpg",
+   "original": "originals/CRVI000249.jpg",
+   "original_px": [
+    800,
+    800
+   ],
+   "original_bytes": 110158,
+   "maker": "Bozena Jankowska",
+   "title": "Dersu Uzala",
+   "subtitle": "Film Poster Designed By Bozena Jankowska · 1976",
+   "year": "1976",
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster designed by bozena jankowska"
+    },
+    {
+     "k": "designer",
+     "v": "Bozena Jankowska"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 145.42,
+   "light": 0.6946
+  },
+  {
+   "id": "CRVI000250",
+   "image": "images/CRVI000250.jpg",
+   "original": "originals/CRVI000250.jpg",
+   "original_px": [
+    682,
+    960
+   ],
+   "original_bytes": 193327,
+   "maker": "Waldemar Swierzy",
+   "title": "Harakiri",
+   "subtitle": "Film Poster Designed By Waldemar Swierzy · 1987",
+   "year": "1987",
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster designed by waldemar swierzy"
+    },
+    {
+     "k": "designer",
+     "v": "Waldemar Swierzy"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    }
+   ],
+   "hue": 3.97,
+   "light": 0.7651
+  },
+  {
+   "id": "CRVI000251",
+   "image": "images/CRVI000251.jpg",
+   "original": "originals/CRVI000251.jpg",
+   "original_px": [
+    800,
+    800
+   ],
+   "original_bytes": 86708,
+   "maker": "Wiesław Wałkuski",
+   "title": "Scruple",
+   "subtitle": "Film Poster Designed By Wiesław Wałkuski · 2000",
    "year": "2000",
    "tags": [
     {
-     "k": "artist",
-     "v": "Zimpala"
-    },
-    {
      "k": "type",
-     "v": "album cover"
+     "v": "film poster designed by wiesław wałkuski"
     },
     {
-     "k": "label",
-     "v": "Lacerba"
+     "k": "designer",
+     "v": "Wiesław Wałkuski"
     },
     {
      "k": "decade",
      "v": "2000s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 356.25,
+   "light": 0.4534
+  },
+  {
+   "id": "CRVI000252",
+   "image": "images/CRVI000252.jpg",
+   "original": "originals/CRVI000252.jpg",
+   "original_px": [
+    800,
+    800
+   ],
+   "original_bytes": 196613,
+   "maker": "Lech Majewski",
+   "title": "Ras le cœur",
+   "subtitle": "Film Poster Designed By Lech Majewski · 1980",
+   "year": "1980",
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster designed by lech majewski"
+    },
+    {
+     "k": "designer",
+     "v": "Lech Majewski"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
     },
     {
      "k": "color",
@@ -10354,8 +10594,1564 @@
      "v": "red"
     }
    ],
-   "hue": 42.5,
-   "light": 0.2812
+   "hue": 16.27,
+   "light": 0.6684
+  },
+  {
+   "id": "CRVI000253",
+   "image": "images/CRVI000253.jpg",
+   "original": "originals/CRVI000253.jpg",
+   "original_px": [
+    800,
+    800
+   ],
+   "original_bytes": 174096,
+   "maker": "Lex Drewinski",
+   "title": "Investigation Proved",
+   "subtitle": "Film Poster Designed By Lex Drewinski · 1983",
+   "year": "1983",
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster designed by lex drewinski"
+    },
+    {
+     "k": "designer",
+     "v": "Lex Drewinski"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    }
+   ],
+   "hue": 6.1,
+   "light": 0.7461
+  },
+  {
+   "id": "CRVI000254",
+   "image": "images/CRVI000254.jpg",
+   "original": "originals/CRVI000254.jpg",
+   "original_px": [
+    667,
+    960
+   ],
+   "original_bytes": 196441,
+   "maker": "Jerzy Flisak",
+   "title": "The Audience",
+   "subtitle": "Film Poster Designed By Jerzy Flisak · 1973",
+   "year": "1973",
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster designed by jerzy flisak"
+    },
+    {
+     "k": "designer",
+     "v": "Jerzy Flisak"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 183.41,
+   "light": 0.6388
+  },
+  {
+   "id": "CRVI000255",
+   "image": "images/CRVI000255.jpg",
+   "original": "originals/CRVI000255.jpg",
+   "original_px": [
+    800,
+    800
+   ],
+   "original_bytes": 148650,
+   "maker": "Romuald Socha",
+   "title": "A Faithful Woman",
+   "subtitle": "Film Poster Designed By Romuald Socha · 1978",
+   "year": "1978",
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster designed by romuald socha"
+    },
+    {
+     "k": "designer",
+     "v": "Romuald Socha"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": null,
+   "light": 0.5489
+  },
+  {
+   "id": "CRVI000256",
+   "image": "images/CRVI000256.jpg",
+   "original": "originals/CRVI000256.jpg",
+   "original_px": [
+    800,
+    800
+   ],
+   "original_bytes": 116396,
+   "maker": "Wiesław Wałkuski",
+   "title": "The Idiots",
+   "subtitle": "Film Poster Designed By Wiesław Wałkuski · 1999",
+   "year": "1999",
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster designed by wiesław wałkuski"
+    },
+    {
+     "k": "designer",
+     "v": "Wiesław Wałkuski"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 6.59,
+   "light": 0.4786
+  },
+  {
+   "id": "CRVI000257",
+   "image": "images/CRVI000257.jpg",
+   "original": "originals/CRVI000257.jpg",
+   "original_px": [
+    800,
+    800
+   ],
+   "original_bytes": 156986,
+   "maker": "Lech Majewski",
+   "title": "Thank God It's Friday",
+   "subtitle": "Film Poster Designed By Lech Majewski · 1979",
+   "year": "1979",
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster designed by lech majewski"
+    },
+    {
+     "k": "designer",
+     "v": "Lech Majewski"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 15.02,
+   "light": 0.5301
+  },
+  {
+   "id": "CRVI000258",
+   "image": "images/CRVI000258.jpg",
+   "original": "originals/CRVI000258.jpg",
+   "original_px": [
+    668,
+    960
+   ],
+   "original_bytes": 171409,
+   "maker": "Maciej Zbikowski",
+   "title": "The Man Whose Price Rose",
+   "subtitle": "Film Poster Designed By Maciej Zbikowski · 1973",
+   "year": "1973",
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster designed by maciej zbikowski"
+    },
+    {
+     "k": "designer",
+     "v": "Maciej Zbikowski"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    }
+   ],
+   "hue": 231.55,
+   "light": 0.6646
+  },
+  {
+   "id": "CRVI000259",
+   "image": "images/CRVI000259.jpg",
+   "original": "originals/CRVI000259.jpg",
+   "original_px": [
+    695,
+    1000
+   ],
+   "original_bytes": 194419,
+   "maker": "Ryszard Kaja",
+   "title": "Dachshund in Films",
+   "subtitle": "Poster",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "designer",
+     "v": "Ryszard Kaja"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 31.54,
+   "light": 0.5212
+  },
+  {
+   "id": "CRVI000260",
+   "image": "images/CRVI000260.jpg",
+   "original": "originals/CRVI000260.jpg",
+   "original_px": [
+    679,
+    960
+   ],
+   "original_bytes": 152822,
+   "maker": "Wiktor Górka",
+   "title": "Cabaret",
+   "subtitle": "Poster · 2017",
+   "year": "2017",
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "designer",
+     "v": "Wiktor Górka"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 350.51,
+   "light": 0.3979
+  },
+  {
+   "id": "CRVI000261",
+   "image": "images/CRVI000261.jpg",
+   "original": "originals/CRVI000261.jpg",
+   "original_px": [
+    679,
+    960
+   ],
+   "original_bytes": 190689,
+   "maker": "Wiktor Gorka",
+   "title": "The Great Escape",
+   "subtitle": "Film Poster Designed By Wiktor Gorka · 2018",
+   "year": "2018",
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster designed by wiktor gorka"
+    },
+    {
+     "k": "designer",
+     "v": "Wiktor Gorka"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 155.11,
+   "light": 0.5194
+  },
+  {
+   "id": "CRVI000262",
+   "image": "images/CRVI000262.jpg",
+   "original": "originals/CRVI000262.jpg",
+   "original_px": [
+    667,
+    960
+   ],
+   "original_bytes": 136084,
+   "maker": "Jakub Kamiński",
+   "title": "Wniebowzieci",
+   "subtitle": "Film Poster",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "designer",
+     "v": "Jakub Kamiński"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 195.01,
+   "light": 0.3987
+  },
+  {
+   "id": "CRVI000263",
+   "image": "images/CRVI000263.jpg",
+   "original": "originals/CRVI000263.jpg",
+   "original_px": [
+    559,
+    800
+   ],
+   "original_bytes": 282707,
+   "maker": "Roman Cieślewicz",
+   "title": "Polish Fashion",
+   "subtitle": "Advertising Poster · 1972",
+   "year": "1972",
+   "tags": [
+    {
+     "k": "type",
+     "v": "advertising poster"
+    },
+    {
+     "k": "designer",
+     "v": "Roman Cieślewicz"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "black"
+    }
+   ],
+   "hue": 11.86,
+   "light": 0.2017
+  },
+  {
+   "id": "CRVI000264",
+   "image": "images/CRVI000264.jpg",
+   "original": "originals/CRVI000264.jpg",
+   "original_px": [
+    557,
+    800
+   ],
+   "original_bytes": 274357,
+   "maker": "Enchantment of story-telling – Roman Cieślewicz",
+   "title": "Affabulazione",
+   "subtitle": "Theatre Poster · 1984",
+   "year": "1984",
+   "tags": [
+    {
+     "k": "type",
+     "v": "theatre poster"
+    },
+    {
+     "k": "designer",
+     "v": "Enchantment of story-telling – Roman Cieślewicz"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 55.08,
+   "light": 0.2584
+  },
+  {
+   "id": "CRVI000265",
+   "image": "images/CRVI000265.jpg",
+   "original": "originals/CRVI000265.jpg",
+   "original_px": [
+    560,
+    800
+   ],
+   "original_bytes": 413142,
+   "maker": "Roman Cieślewicz",
+   "title": "Theater Wspolczesny in Wroclaw Invites",
+   "subtitle": "Theatre Poster · 1975",
+   "year": "1975",
+   "tags": [
+    {
+     "k": "type",
+     "v": "theatre poster"
+    },
+    {
+     "k": "designer",
+     "v": "Roman Cieślewicz"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 88.82,
+   "light": 0.4169
+  },
+  {
+   "id": "CRVI000266",
+   "image": "images/CRVI000266.jpg",
+   "original": "originals/CRVI000266.jpg",
+   "original_px": [
+    557,
+    800
+   ],
+   "original_bytes": 329668,
+   "maker": "Roman Cieślewicz",
+   "title": "J.M.K. Hellcat",
+   "subtitle": "Theatre Poster · 1979",
+   "year": "1979",
+   "tags": [
+    {
+     "k": "type",
+     "v": "theatre poster"
+    },
+    {
+     "k": "designer",
+     "v": "Roman Cieślewicz"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 5.39,
+   "light": 0.3352
+  },
+  {
+   "id": "CRVI000267",
+   "image": "images/CRVI000267.jpg",
+   "original": "originals/CRVI000267.jpg",
+   "original_px": [
+    550,
+    800
+   ],
+   "original_bytes": 300216,
+   "maker": "Roman Cieślewicz",
+   "title": "The Danton Case",
+   "subtitle": "Theatre Poster · 1975",
+   "year": "1975",
+   "tags": [
+    {
+     "k": "type",
+     "v": "theatre poster"
+    },
+    {
+     "k": "designer",
+     "v": "Roman Cieślewicz"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": null,
+   "light": 0.3769
+  },
+  {
+   "id": "CRVI000268",
+   "image": "images/CRVI000268.jpg",
+   "original": "originals/CRVI000268.jpg",
+   "original_px": [
+    560,
+    800
+   ],
+   "original_bytes": 112735,
+   "maker": "Robert Czerniawski",
+   "title": "Boris Godunov",
+   "subtitle": "Theatre Poster · 2008",
+   "year": "2008",
+   "tags": [
+    {
+     "k": "type",
+     "v": "theatre poster"
+    },
+    {
+     "k": "designer",
+     "v": "Robert Czerniawski"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 34.27,
+   "light": 0.3039
+  },
+  {
+   "id": "CRVI000269",
+   "image": "images/CRVI000269.jpg",
+   "original": "originals/CRVI000269.jpg",
+   "original_px": [
+    553,
+    800
+   ],
+   "original_bytes": 204105,
+   "maker": "Robert Czerniawski",
+   "title": "Man Tanker Sitt",
+   "subtitle": "Film Poster · 2010",
+   "year": "2010",
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "designer",
+     "v": "Robert Czerniawski"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 95.39,
+   "light": 0.5364
+  },
+  {
+   "id": "CRVI000270",
+   "image": "images/CRVI000270.jpg",
+   "original": "originals/CRVI000270.jpg",
+   "original_px": [
+    566,
+    800
+   ],
+   "original_bytes": 119314,
+   "maker": "Robert Czerniawski",
+   "title": "Gospel",
+   "subtitle": "Theatre Poster · 2009",
+   "year": "2009",
+   "tags": [
+    {
+     "k": "type",
+     "v": "theatre poster"
+    },
+    {
+     "k": "designer",
+     "v": "Robert Czerniawski"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    }
+   ],
+   "hue": 144.86,
+   "light": 0.3576
+  },
+  {
+   "id": "CRVI000271",
+   "image": "images/CRVI000271.jpg",
+   "original": "originals/CRVI000271.jpg",
+   "original_px": [
+    566,
+    800
+   ],
+   "original_bytes": 129530,
+   "maker": "Robert Czerniawski",
+   "title": "Lulu on the Bridge",
+   "subtitle": "Theatre Poster · 2008",
+   "year": "2008",
+   "tags": [
+    {
+     "k": "type",
+     "v": "theatre poster"
+    },
+    {
+     "k": "designer",
+     "v": "Robert Czerniawski"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 194.88,
+   "light": 0.7458
+  },
+  {
+   "id": "CRVI000272",
+   "image": "images/CRVI000272.jpg",
+   "original": "originals/CRVI000272.jpg",
+   "original_px": [
+    527,
+    800
+   ],
+   "original_bytes": 205746,
+   "maker": "Andrzej Krajewski",
+   "title": "A Trap Cinderella",
+   "subtitle": "Film Poster · 1967",
+   "year": "1967",
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "designer",
+     "v": "Andrzej Krajewski"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 344.87,
+   "light": 0.4248
+  },
+  {
+   "id": "CRVI000273",
+   "image": "images/CRVI000273.jpg",
+   "original": "originals/CRVI000273.jpg",
+   "original_px": [
+    561,
+    800
+   ],
+   "original_bytes": 325629,
+   "maker": "Andrzej Krauze",
+   "title": "Camera Buff",
+   "subtitle": "Film Poster · 1979",
+   "year": "1979",
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "designer",
+     "v": "Andrzej Krauze"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    },
+    {
+     "k": "color",
+     "v": "neutral"
+    }
+   ],
+   "hue": null,
+   "light": 0.4552
+  },
+  {
+   "id": "CRVI000274",
+   "image": "images/CRVI000274.jpg",
+   "original": "originals/CRVI000274.jpg",
+   "original_px": [
+    560,
+    800
+   ],
+   "original_bytes": 205713,
+   "maker": "Jan Młodożeniec",
+   "title": "Klute",
+   "subtitle": "Film Poster · 1973",
+   "year": "1973",
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "designer",
+     "v": "Jan Młodożeniec"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    }
+   ],
+   "hue": 335.4,
+   "light": 0.3744
+  },
+  {
+   "id": "CRVI000275",
+   "image": "images/CRVI000275.jpg",
+   "original": "originals/CRVI000275.jpg",
+   "original_px": [
+    560,
+    800
+   ],
+   "original_bytes": 254313,
+   "maker": "Andrzej Pągowski",
+   "title": "1901 Children on Strike",
+   "subtitle": "Film Poster · 1980",
+   "year": "1980",
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "designer",
+     "v": "Andrzej Pągowski"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 355.56,
+   "light": 0.3066
+  },
+  {
+   "id": "CRVI000276",
+   "image": "images/CRVI000276.jpg",
+   "original": "originals/CRVI000276.jpg",
+   "original_px": [
+    534,
+    800
+   ],
+   "original_bytes": 312477,
+   "maker": "Andrzej Pągowski",
+   "title": "Polish Film Ltd.",
+   "subtitle": "Film Poster · 1989",
+   "year": "1989",
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "designer",
+     "v": "Andrzej Pągowski"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 199.23,
+   "light": 0.6272
+  },
+  {
+   "id": "CRVI000277",
+   "image": "images/CRVI000277.jpg",
+   "original": "originals/CRVI000277.jpg",
+   "original_px": [
+    563,
+    800
+   ],
+   "original_bytes": 335868,
+   "maker": "Andrzej Pągowski",
+   "title": "State of Fear",
+   "subtitle": "Film Poster · 1989",
+   "year": "1989",
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "designer",
+     "v": "Andrzej Pągowski"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 354.46,
+   "light": 0.4773
+  },
+  {
+   "id": "CRVI000278",
+   "image": "images/CRVI000278.jpg",
+   "original": "originals/CRVI000278.jpg",
+   "original_px": [
+    568,
+    800
+   ],
+   "original_bytes": 279234,
+   "maker": "Wiktor Sadowski",
+   "title": "Art Center for Children and Youth",
+   "subtitle": "Event Poster · 1996",
+   "year": "1996",
+   "tags": [
+    {
+     "k": "type",
+     "v": "event poster"
+    },
+    {
+     "k": "designer",
+     "v": "Wiktor Sadowski"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 35.95,
+   "light": 0.4847
+  },
+  {
+   "id": "CRVI000279",
+   "image": "images/CRVI000279.jpg",
+   "original": "originals/CRVI000279.jpg",
+   "original_px": [
+    573,
+    800
+   ],
+   "original_bytes": 318082,
+   "maker": "Wiktor Sadowski",
+   "title": "Candide, or Optimism",
+   "subtitle": "Theatre Poster · 1986",
+   "year": "1986",
+   "tags": [
+    {
+     "k": "type",
+     "v": "theatre poster"
+    },
+    {
+     "k": "designer",
+     "v": "Wiktor Sadowski"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 29.19,
+   "light": 0.5087
+  },
+  {
+   "id": "CRVI000280",
+   "image": "images/CRVI000280.jpg",
+   "original": "originals/CRVI000280.jpg",
+   "original_px": [
+    546,
+    800
+   ],
+   "original_bytes": 106503,
+   "maker": "Mieczysław Wasilewski",
+   "title": "La Provincjale; The Girl from Lorraine",
+   "subtitle": "Film Poster · 1991",
+   "year": "1991",
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "designer",
+     "v": "Mieczysław Wasilewski"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    },
+    {
+     "k": "color",
+     "v": "white"
+    }
+   ],
+   "hue": null,
+   "light": 0.8598
+  },
+  {
+   "id": "CRVI000281",
+   "image": "images/CRVI000281.jpg",
+   "original": "originals/CRVI000281.jpg",
+   "original_px": [
+    550,
+    800
+   ],
+   "original_bytes": 183213,
+   "maker": "Mieczysław Wasilewski",
+   "title": "A Summer Tale",
+   "subtitle": "Film Poster · 1978",
+   "year": "1978",
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "designer",
+     "v": "Mieczysław Wasilewski"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "black"
+    }
+   ],
+   "hue": 36.04,
+   "light": 0.2106
+  },
+  {
+   "id": "CRVI000282",
+   "image": "images/CRVI000282.jpg",
+   "original": "originals/CRVI000282.jpg",
+   "original_px": [
+    2555,
+    3577
+   ],
+   "original_bytes": 1572245,
+   "maker": "Unknown",
+   "title": "Caron's Face Powder",
+   "subtitle": "Poster",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 19.2,
+   "light": 0.7448
+  },
+  {
+   "id": "CRVI000283",
+   "image": "images/CRVI000283.jpg",
+   "original": "originals/CRVI000283.jpg",
+   "original_px": [
+    2806,
+    4096
+   ],
+   "original_bytes": 2115304,
+   "maker": "Unknown",
+   "title": "Japanese Pharmacy Ad",
+   "subtitle": "Poster",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 32.99,
+   "light": 0.6173
+  },
+  {
+   "id": "CRVI000284",
+   "image": "images/CRVI000284.jpg",
+   "original": "originals/CRVI000284.jpg",
+   "original_px": [
+    2877,
+    4096
+   ],
+   "original_bytes": 1527308,
+   "maker": "David Olère",
+   "title": "Pour l'Amour du Ciel! (For Heaven's Sake)",
+   "subtitle": "Press book illustration · Paramount, Paris",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "designer",
+     "v": "David Olère"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 25.52,
+   "light": 0.8424
+  },
+  {
+   "id": "CRVI000285",
+   "image": "images/CRVI000285.jpg",
+   "original": "originals/CRVI000285.jpg",
+   "original_px": [
+    3234,
+    4175
+   ],
+   "original_bytes": 1507968,
+   "maker": "Unknown",
+   "title": "Heinz Tomato Juice — We're Sorry There Aren't Enough of our kind to go 'round",
+   "subtitle": "Advertisement · Fortune magazine · 1935",
+   "year": "1935",
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "1930s"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 356.25,
+   "light": 0.8224
+  },
+  {
+   "id": "CRVI000286",
+   "image": "images/CRVI000286.jpg",
+   "original": "originals/CRVI000286.jpg",
+   "original_px": [
+    723,
+    1024
+   ],
+   "original_bytes": 117257,
+   "maker": "Herbert Bayer",
+   "title": "Bauhaus Exhibition Poster - 50 Years of Bauhaus",
+   "subtitle": "Poster",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "designer",
+     "v": "Herbert Bayer"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 212.57,
+   "light": 0.565
+  },
+  {
+   "id": "CRVI000287",
+   "image": "images/CRVI000287.jpg",
+   "original": "originals/CRVI000287.jpg",
+   "original_px": [
+    723,
+    1024
+   ],
+   "original_bytes": 106386,
+   "maker": "Herbert Bayer",
+   "title": "Bauhaus Exhibition Poster",
+   "subtitle": "Poster",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "designer",
+     "v": "Herbert Bayer"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 185.08,
+   "light": 0.6579
+  },
+  {
+   "id": "CRVI000288",
+   "image": "images/CRVI000288.jpg",
+   "original": "originals/CRVI000288.jpg",
+   "original_px": [
+    723,
+    1024
+   ],
+   "original_bytes": 181285,
+   "maker": "Utagawa Hiroshige",
+   "title": "Eight Shadow Figures Art Print",
+   "subtitle": "Poster",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "designer",
+     "v": "Utagawa Hiroshige"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 42.3,
+   "light": 0.6905
+  },
+  {
+   "id": "CRVI000289",
+   "image": "images/CRVI000289.jpg",
+   "original": "originals/CRVI000289.jpg",
+   "original_px": [
+    723,
+    1024
+   ],
+   "original_bytes": 91362,
+   "maker": "Ikko Tanaka",
+   "title": "Faces",
+   "subtitle": "Poster",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "designer",
+     "v": "Ikko Tanaka"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 83.5,
+   "light": 0.5219
+  },
+  {
+   "id": "CRVI000290",
+   "image": "images/CRVI000290.jpg",
+   "original": "originals/CRVI000290.jpg",
+   "original_px": [
+    458,
+    669
+   ],
+   "original_bytes": 104636,
+   "maker": "Jan Sawka",
+   "title": "Cyrk — Pyramid of Acrobats",
+   "subtitle": "Polish CYRK circus poster · acrobats on unicycles",
+   "year": "",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Jan Sawka"
+    },
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    },
+    {
+     "k": "subject",
+     "v": "circus"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 4.53,
+   "light": 0.6899
+  },
+  {
+   "id": "CRVI000291",
+   "image": "images/CRVI000291.jpg",
+   "original": "originals/CRVI000291.jpg",
+   "original_px": [
+    373,
+    536
+   ],
+   "original_bytes": 59548,
+   "maker": "Jan Sawka",
+   "title": "Untitled",
+   "subtitle": "Jan Sawka · work on paper",
+   "year": "",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Jan Sawka"
+    },
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 94.64,
+   "light": 0.7325
+  },
+  {
+   "id": "CRVI000292",
+   "image": "images/CRVI000292.jpg",
+   "original": "originals/CRVI000292.jpg",
+   "original_px": [
+    3840,
+    5444
+   ],
+   "original_bytes": 6086124,
+   "maker": "Jan Sawka",
+   "title": "Operetka (The Operetta)",
+   "subtitle": "Jan Sawka · Witold Gombrowicz, Teatr STU",
+   "year": "",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Jan Sawka"
+    },
+    {
+     "k": "type",
+     "v": "theatre poster"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    },
+    {
+     "k": "subject",
+     "v": "theatre"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 110.97,
+   "light": 0.335
   }
  ]
 }

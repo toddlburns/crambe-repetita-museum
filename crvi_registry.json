@@ -1,5 +1,5 @@
 {
- "next": 246,
+ "next": 293,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -11957,7 +11957,8 @@
    "source_page": "iTunes Search API",
    "notes": [
     "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
-    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging.",
+    "DELETED from the museum on 2026-08-27. The record is kept so CRVI000245 stays provably retired and is never reissued."
    ],
    "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4211_1.jpg",
    "source_px": [
@@ -11987,11 +11988,2492 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Zimpala / Almaviva (2001).",
    "hue": 42.5,
    "light": 0.2812,
-   "chroma": 0.7189
+   "chroma": 0.7189,
+   "deleted": true,
+   "deleted_on": "2026-08-27"
+  },
+  "poster shop::https://butik.louisiana.dk/en-int/products/keiji-usami-louisiana-plakat": {
+   "id": "CRVI000246",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000246.jpg",
+   "original_px": [
+    1560,
+    1560
+   ],
+   "original_bytes": 179063,
+   "identity": "poster shop::https://butik.louisiana.dk/en-int/products/keiji-usami-louisiana-plakat",
+   "maker": "Keiji Usami",
+   "title": "Louisiana exhibition poster",
+   "subtitle": "Exhibition poster · Louisiana Museum of Modern Art",
+   "year": "",
+   "verified_against": "Listed by butik.louisiana.dk as “”. Designer given as Keiji Usami.",
+   "source_page": "https://butik.louisiana.dk/en-int/products/keiji-usami-louisiana-plakat",
+   "notes": [
+    "Metadata as published by the Louisiana Museum of Modern Art shop.",
+    "Louisiana exhibition poster reproducing the artist's work. The named person made the ARTWORK; whoever designed the poster is not credited by the shop.",
+    "The shop titles this page with the artist's name alone, so the work has no title of its own here. Keiji Usami (1940-2012) made the ARTWORK; the poster's designer is not credited."
+   ],
+   "label": "",
+   "source_image": "http://butik.louisiana.dk/cdn/shop/products/106099KeijiUsami.jpg?v=1615920870&width=2048",
+   "source_px": [
+    1560,
+    1560
+   ],
+   "colors": [
+    "blue",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "designer",
+     "v": "Keiji Usami"
+    },
+    {
+     "k": "location",
+     "v": "Denmark"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Listed by butik.louisiana.dk as “”. Designer given as Keiji Usami.",
+   "hue": 205.55,
+   "light": 0.8381,
+   "chroma": 0.3821
+  },
+  "poster shop::https://butik.louisiana.dk/en-int/products/marisol-untitled-c-1960-65": {
+   "id": "CRVI000247",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000247.jpg",
+   "original_px": [
+    1560,
+    1560
+   ],
+   "original_bytes": 179564,
+   "identity": "poster shop::https://butik.louisiana.dk/en-int/products/marisol-untitled-c-1960-65",
+   "maker": "Marisol",
+   "title": "Untitled",
+   "subtitle": "Exhibition Poster · 1960-65",
+   "year": "1960-65",
+   "verified_against": "Listed by butik.louisiana.dk as “Untitled”. Designer given as Marisol.",
+   "source_page": "https://butik.louisiana.dk/en-int/products/marisol-untitled-c-1960-65",
+   "notes": [
+    "Metadata as published by the Louisiana Museum of Modern Art shop.",
+    "Louisiana exhibition poster reproducing the artist's work. The named person made the ARTWORK; whoever designed the poster is not credited by the shop."
+   ],
+   "label": "",
+   "source_image": "http://butik.louisiana.dk/cdn/shop/files/Marisol-Untitled.jpg?v=1758625338&width=2048",
+   "source_px": [
+    1560,
+    1560
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "designer",
+     "v": "Marisol"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "location",
+     "v": "Denmark"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Listed by butik.louisiana.dk as “Untitled”. Designer given as Marisol.",
+   "hue": 43.87,
+   "light": 0.9165,
+   "chroma": 0.4976
+  },
+  "poster shop::https://butik.louisiana.dk/en-int/products/tetsuya-ishida-mebae-1998": {
+   "id": "CRVI000248",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000248.jpg",
+   "original_px": [
+    1560,
+    1560
+   ],
+   "original_bytes": 247691,
+   "identity": "poster shop::https://butik.louisiana.dk/en-int/products/tetsuya-ishida-mebae-1998",
+   "maker": "Tetsuya Ishida",
+   "title": "Mebae",
+   "subtitle": "Exhibition Poster · 1998",
+   "year": "1998",
+   "verified_against": "Listed by butik.louisiana.dk as “Mebae”. Designer given as Tetsuya Ishida.",
+   "source_page": "https://butik.louisiana.dk/en-int/products/tetsuya-ishida-mebae-1998",
+   "notes": [
+    "Metadata as published by the Louisiana Museum of Modern Art shop.",
+    "Louisiana exhibition poster reproducing the artist's work. The named person made the ARTWORK; whoever designed the poster is not credited by the shop."
+   ],
+   "label": "",
+   "source_image": "http://butik.louisiana.dk/cdn/shop/files/TetsuyaIshida-Mebae1998.jpg?v=1700473500&width=2048",
+   "source_px": [
+    1560,
+    1560
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "designer",
+     "v": "Tetsuya Ishida"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "location",
+     "v": "Denmark"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Listed by butik.louisiana.dk as “Mebae”. Designer given as Tetsuya Ishida.",
+   "hue": 54.08,
+   "light": 0.6714,
+   "chroma": 0.1167
+  },
+  "poster shop::https://polishposter.com/0490-dersu-uzala-akira-kurosawa.html": {
+   "id": "CRVI000249",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000249.jpg",
+   "original_px": [
+    800,
+    800
+   ],
+   "original_bytes": 110158,
+   "identity": "poster shop::https://polishposter.com/0490-dersu-uzala-akira-kurosawa.html",
+   "maker": "Bozena Jankowska",
+   "title": "Dersu Uzala",
+   "subtitle": "Film Poster Designed By Bozena Jankowska · 1976",
+   "year": "1976",
+   "verified_against": "Listed by polishposter.com as “Dersu Uzala”. Designer given as Bozena Jankowska.",
+   "source_page": "https://polishposter.com/0490-dersu-uzala-akira-kurosawa.html",
+   "notes": [
+    "Metadata as published by polishposter.com.",
+    "Held at 800x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+   ],
+   "label": "",
+   "source_image": "https://polishposter.com/404-large_default/0490-dersu-uzala-akira-kurosawa.jpg",
+   "source_px": [
+    800,
+    800
+   ],
+   "colors": [
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster designed by bozena jankowska"
+    },
+    {
+     "k": "designer",
+     "v": "Bozena Jankowska"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Listed by polishposter.com as “Dersu Uzala”. Designer given as Bozena Jankowska.",
+   "hue": 145.42,
+   "light": 0.6946,
+   "chroma": 0.6594
+  },
+  "poster shop::https://polishposter.com/1058-harakiri-seppuku-polish-movie-poster.html": {
+   "id": "CRVI000250",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000250.jpg",
+   "original_px": [
+    682,
+    960
+   ],
+   "original_bytes": 193327,
+   "identity": "poster shop::https://polishposter.com/1058-harakiri-seppuku-polish-movie-poster.html",
+   "maker": "Waldemar Swierzy",
+   "title": "Harakiri",
+   "subtitle": "Film Poster Designed By Waldemar Swierzy · 1987",
+   "year": "1987",
+   "verified_against": "Listed by polishposter.com as “Harakiri”. Designer given as Waldemar Swierzy.",
+   "source_page": "https://polishposter.com/1058-harakiri-seppuku-polish-movie-poster.html",
+   "notes": [
+    "Metadata as published by polishposter.com.",
+    "Held at 682x960 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+   ],
+   "label": "",
+   "source_image": "https://polishposter.com/871/1058-harakiri-seppuku-polish-movie-poster.jpg",
+   "source_px": [
+    682,
+    960
+   ],
+   "colors": [
+    "red",
+    "pink"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster designed by waldemar swierzy"
+    },
+    {
+     "k": "designer",
+     "v": "Waldemar Swierzy"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Listed by polishposter.com as “Harakiri”. Designer given as Waldemar Swierzy.",
+   "hue": 3.97,
+   "light": 0.7651,
+   "chroma": 0.7371
+  },
+  "poster shop::https://polishposter.com/1679-skrupul-walka-polish-movie-poster.html": {
+   "id": "CRVI000251",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000251.jpg",
+   "original_px": [
+    800,
+    800
+   ],
+   "original_bytes": 86708,
+   "identity": "poster shop::https://polishposter.com/1679-skrupul-walka-polish-movie-poster.html",
+   "maker": "Wiesław Wałkuski",
+   "title": "Scruple",
+   "subtitle": "Film Poster Designed By Wiesław Wałkuski · 2000",
+   "year": "2000",
+   "verified_against": "Listed by polishposter.com as “Scruple”. Designer given as Wiesław Wałkuski.",
+   "source_page": "https://polishposter.com/1679-skrupul-walka-polish-movie-poster.html",
+   "notes": [
+    "Metadata as published by polishposter.com.",
+    "Held at 800x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+   ],
+   "label": "",
+   "source_image": "https://polishposter.com/1448-large_default/1679-skrupul-walka-polish-movie-poster.jpg",
+   "source_px": [
+    800,
+    800
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster designed by wiesław wałkuski"
+    },
+    {
+     "k": "designer",
+     "v": "Wiesław Wałkuski"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Listed by polishposter.com as “Scruple”. Designer given as Wiesław Wałkuski.",
+   "hue": 356.25,
+   "light": 0.4534,
+   "chroma": 0.2733
+  },
+  "poster shop::https://polishposter.com/1857-ras-le-coeur.html": {
+   "id": "CRVI000252",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000252.jpg",
+   "original_px": [
+    800,
+    800
+   ],
+   "original_bytes": 196613,
+   "identity": "poster shop::https://polishposter.com/1857-ras-le-coeur.html",
+   "maker": "Lech Majewski",
+   "title": "Ras le cœur",
+   "subtitle": "Film Poster Designed By Lech Majewski · 1980",
+   "year": "1980",
+   "verified_against": "Listed by polishposter.com as “Ras le cœur”. Designer given as Lech Majewski.",
+   "source_page": "https://polishposter.com/1857-ras-le-coeur.html",
+   "notes": [
+    "Metadata as published by polishposter.com.",
+    "Held at 800x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+   ],
+   "label": "",
+   "source_image": "https://polishposter.com/1614-large_default/1857-ras-le-coeur.jpg",
+   "source_px": [
+    800,
+    800
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster designed by lech majewski"
+    },
+    {
+     "k": "designer",
+     "v": "Lech Majewski"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Listed by polishposter.com as “Ras le cœur”. Designer given as Lech Majewski.",
+   "hue": 16.27,
+   "light": 0.6684,
+   "chroma": 0.669
+  },
+  "poster shop::https://polishposter.com/2054-sledztwo-wykazalo.html": {
+   "id": "CRVI000253",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000253.jpg",
+   "original_px": [
+    800,
+    800
+   ],
+   "original_bytes": 174096,
+   "identity": "poster shop::https://polishposter.com/2054-sledztwo-wykazalo.html",
+   "maker": "Lex Drewinski",
+   "title": "Investigation Proved",
+   "subtitle": "Film Poster Designed By Lex Drewinski · 1983",
+   "year": "1983",
+   "verified_against": "Listed by polishposter.com as “Investigation Proved”. Designer given as Lex Drewinski.",
+   "source_page": "https://polishposter.com/2054-sledztwo-wykazalo.html",
+   "notes": [
+    "Metadata as published by polishposter.com.",
+    "Held at 800x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+   ],
+   "label": "",
+   "source_image": "https://polishposter.com/1789-large_default/2054-sledztwo-wykazalo.jpg",
+   "source_px": [
+    800,
+    800
+   ],
+   "colors": [
+    "red",
+    "pink"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster designed by lex drewinski"
+    },
+    {
+     "k": "designer",
+     "v": "Lex Drewinski"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Listed by polishposter.com as “Investigation Proved”. Designer given as Lex Drewinski.",
+   "hue": 6.1,
+   "light": 0.7461,
+   "chroma": 0.2376
+  },
+  "poster shop::https://polishposter.com/2317-audience-the-polish-movie-poster.html": {
+   "id": "CRVI000254",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000254.jpg",
+   "original_px": [
+    667,
+    960
+   ],
+   "original_bytes": 196441,
+   "identity": "poster shop::https://polishposter.com/2317-audience-the-polish-movie-poster.html",
+   "maker": "Jerzy Flisak",
+   "title": "The Audience",
+   "subtitle": "Film Poster Designed By Jerzy Flisak · 1973",
+   "year": "1973",
+   "verified_against": "Listed by polishposter.com as “The Audience”. Designer given as Jerzy Flisak.",
+   "source_page": "https://polishposter.com/2317-audience-the-polish-movie-poster.html",
+   "notes": [
+    "Metadata as published by polishposter.com.",
+    "Held at 667x960 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+   ],
+   "label": "",
+   "source_image": "https://polishposter.com/1970/2317-audience-the-polish-movie-poster.jpg",
+   "source_px": [
+    667,
+    960
+   ],
+   "colors": [
+    "cyan",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster designed by jerzy flisak"
+    },
+    {
+     "k": "designer",
+     "v": "Jerzy Flisak"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Listed by polishposter.com as “The Audience”. Designer given as Jerzy Flisak.",
+   "hue": 183.41,
+   "light": 0.6388,
+   "chroma": 0.5681
+  },
+  "poster shop::https://polishposter.com/2453-faithful-woman-a-polish-movie-poster.html": {
+   "id": "CRVI000255",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000255.jpg",
+   "original_px": [
+    800,
+    800
+   ],
+   "original_bytes": 148650,
+   "identity": "poster shop::https://polishposter.com/2453-faithful-woman-a-polish-movie-poster.html",
+   "maker": "Romuald Socha",
+   "title": "A Faithful Woman",
+   "subtitle": "Film Poster Designed By Romuald Socha · 1978",
+   "year": "1978",
+   "verified_against": "Listed by polishposter.com as “A Faithful Woman”. Designer given as Romuald Socha.",
+   "source_page": "https://polishposter.com/2453-faithful-woman-a-polish-movie-poster.html",
+   "notes": [
+    "Metadata as published by polishposter.com.",
+    "Held at 800x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+   ],
+   "label": "",
+   "source_image": "https://polishposter.com/2068-large_default/2453-faithful-woman-a-polish-movie-poster.jpg",
+   "source_px": [
+    800,
+    800
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster designed by romuald socha"
+    },
+    {
+     "k": "designer",
+     "v": "Romuald Socha"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Listed by polishposter.com as “A Faithful Woman”. Designer given as Romuald Socha.",
+   "hue": null,
+   "light": 0.5489,
+   "chroma": 0.0858
+  },
+  "poster shop::https://polishposter.com/2461-idiots-the-polish-movie-poster.html": {
+   "id": "CRVI000256",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000256.jpg",
+   "original_px": [
+    800,
+    800
+   ],
+   "original_bytes": 116396,
+   "identity": "poster shop::https://polishposter.com/2461-idiots-the-polish-movie-poster.html",
+   "maker": "Wiesław Wałkuski",
+   "title": "The Idiots",
+   "subtitle": "Film Poster Designed By Wiesław Wałkuski · 1999",
+   "year": "1999",
+   "verified_against": "Listed by polishposter.com as “The Idiots”. Designer given as Wiesław Wałkuski.",
+   "source_page": "https://polishposter.com/2461-idiots-the-polish-movie-poster.html",
+   "notes": [
+    "Metadata as published by polishposter.com.",
+    "Held at 800x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+   ],
+   "label": "",
+   "source_image": "https://polishposter.com/2076-large_default/2461-idiots-the-polish-movie-poster.jpg",
+   "source_px": [
+    800,
+    800
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster designed by wiesław wałkuski"
+    },
+    {
+     "k": "designer",
+     "v": "Wiesław Wałkuski"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Listed by polishposter.com as “The Idiots”. Designer given as Wiesław Wałkuski.",
+   "hue": 6.59,
+   "light": 0.4786,
+   "chroma": 0.4115
+  },
+  "poster shop::https://polishposter.com/2725-thank-god-it-s-friday-polish-movie-poster.html": {
+   "id": "CRVI000257",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000257.jpg",
+   "original_px": [
+    800,
+    800
+   ],
+   "original_bytes": 156986,
+   "identity": "poster shop::https://polishposter.com/2725-thank-god-it-s-friday-polish-movie-poster.html",
+   "maker": "Lech Majewski",
+   "title": "Thank God It's Friday",
+   "subtitle": "Film Poster Designed By Lech Majewski · 1979",
+   "year": "1979",
+   "verified_against": "Listed by polishposter.com as “Thank God It's Friday”. Designer given as Lech Majewski.",
+   "source_page": "https://polishposter.com/2725-thank-god-it-s-friday-polish-movie-poster.html",
+   "notes": [
+    "Metadata as published by polishposter.com.",
+    "Held at 800x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+   ],
+   "label": "",
+   "source_image": "https://polishposter.com/2307-large_default/2725-thank-god-it-s-friday-polish-movie-poster.jpg",
+   "source_px": [
+    800,
+    800
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster designed by lech majewski"
+    },
+    {
+     "k": "designer",
+     "v": "Lech Majewski"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Listed by polishposter.com as “Thank God It's Friday”. Designer given as Lech Majewski.",
+   "hue": 15.02,
+   "light": 0.5301,
+   "chroma": 0.6083
+  },
+  "poster shop::https://polishposter.com/3007-czlowiek-ktorego-cena-rosla-polish-movie-poster.html": {
+   "id": "CRVI000258",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000258.jpg",
+   "original_px": [
+    668,
+    960
+   ],
+   "original_bytes": 171409,
+   "identity": "poster shop::https://polishposter.com/3007-czlowiek-ktorego-cena-rosla-polish-movie-poster.html",
+   "maker": "Maciej Zbikowski",
+   "title": "The Man Whose Price Rose",
+   "subtitle": "Film Poster Designed By Maciej Zbikowski · 1973",
+   "year": "1973",
+   "verified_against": "Listed by polishposter.com as “The Man Whose Price Rose”. Designer given as Maciej Zbikowski.",
+   "source_page": "https://polishposter.com/3007-czlowiek-ktorego-cena-rosla-polish-movie-poster.html",
+   "notes": [
+    "Metadata as published by polishposter.com.",
+    "Held at 668x960 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+   ],
+   "label": "",
+   "source_image": "https://polishposter.com/2515/3007-czlowiek-ktorego-cena-rosla-polish-movie-poster.jpg",
+   "source_px": [
+    668,
+    960
+   ],
+   "colors": [
+    "blue",
+    "pink"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster designed by maciej zbikowski"
+    },
+    {
+     "k": "designer",
+     "v": "Maciej Zbikowski"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Listed by polishposter.com as “The Man Whose Price Rose”. Designer given as Maciej Zbikowski.",
+   "hue": 231.55,
+   "light": 0.6646,
+   "chroma": 0.5129
+  },
+  "poster shop::https://polishposter.com/5339-dachshund-in-films-night-with-film-poster-r-kaja.html": {
+   "id": "CRVI000259",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000259.jpg",
+   "original_px": [
+    695,
+    1000
+   ],
+   "original_bytes": 194419,
+   "identity": "poster shop::https://polishposter.com/5339-dachshund-in-films-night-with-film-poster-r-kaja.html",
+   "maker": "Ryszard Kaja",
+   "title": "Dachshund in Films",
+   "subtitle": "Poster",
+   "year": "",
+   "verified_against": "Listed by polishposter.com as “Dachshund in Films”. Designer given as Ryszard Kaja.",
+   "source_page": "https://polishposter.com/5339-dachshund-in-films-night-with-film-poster-r-kaja.html",
+   "notes": [
+    "Metadata as published by polishposter.com."
+   ],
+   "label": "",
+   "source_image": "https://polishposter.com/4867/5339-dachshund-in-films-night-with-film-poster-r-kaja.jpg",
+   "source_px": [
+    695,
+    1000
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "designer",
+     "v": "Ryszard Kaja"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Listed by polishposter.com as “Dachshund in Films”. Designer given as Ryszard Kaja.",
+   "hue": 31.54,
+   "light": 0.5212,
+   "chroma": 0.5232
+  },
+  "poster shop::https://polishposter.com/5369-cabaret-polish-poster-wiktor-gorka-ed-2017.html": {
+   "id": "CRVI000260",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000260.jpg",
+   "original_px": [
+    679,
+    960
+   ],
+   "original_bytes": 152822,
+   "identity": "poster shop::https://polishposter.com/5369-cabaret-polish-poster-wiktor-gorka-ed-2017.html",
+   "maker": "Wiktor Górka",
+   "title": "Cabaret",
+   "subtitle": "Poster · 2017",
+   "year": "2017",
+   "verified_against": "Listed by polishposter.com as “Cabaret”. Designer given as Wiktor Górka.",
+   "source_page": "https://polishposter.com/5369-cabaret-polish-poster-wiktor-gorka-ed-2017.html",
+   "notes": [
+    "Metadata as published by polishposter.com.",
+    "Held at 679x960 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+   ],
+   "label": "",
+   "source_image": "https://polishposter.com/4642/5369-cabaret-polish-poster-wiktor-gorka-ed-2017.jpg",
+   "source_px": [
+    679,
+    960
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "designer",
+     "v": "Wiktor Górka"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Listed by polishposter.com as “Cabaret”. Designer given as Wiktor Górka.",
+   "hue": 350.51,
+   "light": 0.3979,
+   "chroma": 0.6184
+  },
+  "poster shop::https://polishposter.com/5377-the-great-escape-polish-movie-poster-wiktor-gorka-ed-2018.html": {
+   "id": "CRVI000261",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000261.jpg",
+   "original_px": [
+    679,
+    960
+   ],
+   "original_bytes": 190689,
+   "identity": "poster shop::https://polishposter.com/5377-the-great-escape-polish-movie-poster-wiktor-gorka-ed-2018.html",
+   "maker": "Wiktor Gorka",
+   "title": "The Great Escape",
+   "subtitle": "Film Poster Designed By Wiktor Gorka · 2018",
+   "year": "2018",
+   "verified_against": "Listed by polishposter.com as “The Great Escape”. Designer given as Wiktor Gorka.",
+   "source_page": "https://polishposter.com/5377-the-great-escape-polish-movie-poster-wiktor-gorka-ed-2018.html",
+   "notes": [
+    "Metadata as published by polishposter.com.",
+    "Held at 679x960 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+   ],
+   "label": "",
+   "source_image": "https://polishposter.com/4523/5377-the-great-escape-polish-movie-poster-wiktor-gorka-ed-2018.jpg",
+   "source_px": [
+    679,
+    960
+   ],
+   "colors": [
+    "green",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster designed by wiktor gorka"
+    },
+    {
+     "k": "designer",
+     "v": "Wiktor Gorka"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Listed by polishposter.com as “The Great Escape”. Designer given as Wiktor Gorka.",
+   "hue": 155.11,
+   "light": 0.5194,
+   "chroma": 0.7371
+  },
+  "poster shop::https://polishposter.com/5384-wniebowzieci-film-poster-jakub-kaminski.html": {
+   "id": "CRVI000262",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000262.jpg",
+   "original_px": [
+    667,
+    960
+   ],
+   "original_bytes": 136084,
+   "identity": "poster shop::https://polishposter.com/5384-wniebowzieci-film-poster-jakub-kaminski.html",
+   "maker": "Jakub Kamiński",
+   "title": "Wniebowzieci",
+   "subtitle": "Film Poster",
+   "year": "",
+   "verified_against": "Listed by polishposter.com as “Wniebowzieci”. Designer given as Jakub Kamiński.",
+   "source_page": "https://polishposter.com/5384-wniebowzieci-film-poster-jakub-kaminski.html",
+   "notes": [
+    "Metadata as published by polishposter.com.",
+    "Held at 667x960 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+   ],
+   "label": "",
+   "source_image": "https://polishposter.com/4528/5384-wniebowzieci-film-poster-jakub-kaminski.jpg",
+   "source_px": [
+    667,
+    960
+   ],
+   "colors": [
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "designer",
+     "v": "Jakub Kamiński"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Listed by polishposter.com as “Wniebowzieci”. Designer given as Jakub Kamiński.",
+   "hue": 195.01,
+   "light": 0.3987,
+   "chroma": 0.7868
+  },
+  "poster shop::https://polishpostergallery.com/poster/cieslewicz_moda_polska": {
+   "id": "CRVI000263",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000263.jpg",
+   "original_px": [
+    559,
+    800
+   ],
+   "original_bytes": 282707,
+   "identity": "poster shop::https://polishpostergallery.com/poster/cieslewicz_moda_polska",
+   "maker": "Roman Cieślewicz",
+   "title": "Polish Fashion",
+   "subtitle": "Advertising Poster · 1972",
+   "year": "1972",
+   "verified_against": "Listed by polishpostergallery.com as “Polish Fashion”. Designer given as Roman Cieślewicz.",
+   "source_page": "https://polishpostergallery.com/poster/cieslewicz_moda_polska",
+   "notes": [
+    "Metadata as published by Polish Poster Gallery, which states designer, type and year on the listing.",
+    "Held at 559x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+   ],
+   "label": "",
+   "source_image": "https://poster.pl/posters/cieslewicz_moda_polska.jpg?v=1772836281",
+   "source_px": [
+    559,
+    800
+   ],
+   "colors": [
+    "red",
+    "orange",
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "advertising poster"
+    },
+    {
+     "k": "designer",
+     "v": "Roman Cieślewicz"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Listed by polishpostergallery.com as “Polish Fashion”. Designer given as Roman Cieślewicz.",
+   "hue": 11.86,
+   "light": 0.2017,
+   "chroma": 0.2089
+  },
+  "poster shop::https://polishpostergallery.com/poster/cieslewicz_roman_affabulazione_pasolini": {
+   "id": "CRVI000264",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000264.jpg",
+   "original_px": [
+    557,
+    800
+   ],
+   "original_bytes": 274357,
+   "identity": "poster shop::https://polishpostergallery.com/poster/cieslewicz_roman_affabulazione_pasolini",
+   "maker": "Enchantment of story-telling – Roman Cieślewicz",
+   "title": "Affabulazione",
+   "subtitle": "Theatre Poster · 1984",
+   "year": "1984",
+   "verified_against": "Listed by polishpostergallery.com as “Affabulazione”. Designer given as Enchantment of story-telling – Roman Cieślewicz.",
+   "source_page": "https://polishpostergallery.com/poster/cieslewicz_roman_affabulazione_pasolini",
+   "notes": [
+    "Metadata as published by Polish Poster Gallery, which states designer, type and year on the listing.",
+    "Held at 557x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+   ],
+   "label": "",
+   "source_image": "https://poster.pl/posters/cieslewicz_roman_affabulazione_pasolini.jpg?v=1726523315",
+   "source_px": [
+    557,
+    800
+   ],
+   "colors": [
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "theatre poster"
+    },
+    {
+     "k": "designer",
+     "v": "Enchantment of story-telling – Roman Cieślewicz"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Listed by polishpostergallery.com as “Affabulazione”. Designer given as Enchantment of story-telling – Roman Cieślewicz.",
+   "hue": 55.08,
+   "light": 0.2584,
+   "chroma": 0.5957
+  },
+  "poster shop::https://polishpostergallery.com/poster/cieslewicz_roman_teatr_wspolczesny": {
+   "id": "CRVI000265",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000265.jpg",
+   "original_px": [
+    560,
+    800
+   ],
+   "original_bytes": 413142,
+   "identity": "poster shop::https://polishpostergallery.com/poster/cieslewicz_roman_teatr_wspolczesny",
+   "maker": "Roman Cieślewicz",
+   "title": "Theater Wspolczesny in Wroclaw Invites",
+   "subtitle": "Theatre Poster · 1975",
+   "year": "1975",
+   "verified_against": "Listed by polishpostergallery.com as “Theater Wspolczesny in Wroclaw Invites”. Designer given as Roman Cieślewicz.",
+   "source_page": "https://polishpostergallery.com/poster/cieslewicz_roman_teatr_wspolczesny",
+   "notes": [
+    "Metadata as published by Polish Poster Gallery, which states designer, type and year on the listing.",
+    "Held at 560x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+   ],
+   "label": "",
+   "source_image": "https://poster.pl/posters/cieslewicz_roman_teatr_wspolczesny.jpg?v=1726522074",
+   "source_px": [
+    560,
+    800
+   ],
+   "colors": [
+    "green",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "theatre poster"
+    },
+    {
+     "k": "designer",
+     "v": "Roman Cieślewicz"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Listed by polishpostergallery.com as “Theater Wspolczesny in Wroclaw Invites”. Designer given as Roman Cieślewicz.",
+   "hue": 88.82,
+   "light": 0.4169,
+   "chroma": 0.4993
+  },
+  "poster shop::https://polishpostergallery.com/poster/cieslewicz_roman_witkiewicz_wscieklica": {
+   "id": "CRVI000266",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000266.jpg",
+   "original_px": [
+    557,
+    800
+   ],
+   "original_bytes": 329668,
+   "identity": "poster shop::https://polishpostergallery.com/poster/cieslewicz_roman_witkiewicz_wscieklica",
+   "maker": "Roman Cieślewicz",
+   "title": "J.M.K. Hellcat",
+   "subtitle": "Theatre Poster · 1979",
+   "year": "1979",
+   "verified_against": "Listed by polishpostergallery.com as “J.M.K. Hellcat”. Designer given as Roman Cieślewicz.",
+   "source_page": "https://polishpostergallery.com/poster/cieslewicz_roman_witkiewicz_wscieklica",
+   "notes": [
+    "Metadata as published by Polish Poster Gallery, which states designer, type and year on the listing.",
+    "Held at 557x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+   ],
+   "label": "",
+   "source_image": "https://poster.pl/posters/cieslewicz_roman_witkiewicz_wscieklica.jpg?v=1726522889",
+   "source_px": [
+    557,
+    800
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "theatre poster"
+    },
+    {
+     "k": "designer",
+     "v": "Roman Cieślewicz"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Listed by polishpostergallery.com as “J.M.K. Hellcat”. Designer given as Roman Cieślewicz.",
+   "hue": 5.39,
+   "light": 0.3352,
+   "chroma": 0.662
+  },
+  "poster shop::https://polishpostergallery.com/poster/cieslewicz_sprawa_dantona": {
+   "id": "CRVI000267",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000267.jpg",
+   "original_px": [
+    550,
+    800
+   ],
+   "original_bytes": 300216,
+   "identity": "poster shop::https://polishpostergallery.com/poster/cieslewicz_sprawa_dantona",
+   "maker": "Roman Cieślewicz",
+   "title": "The Danton Case",
+   "subtitle": "Theatre Poster · 1975",
+   "year": "1975",
+   "verified_against": "Listed by polishpostergallery.com as “The Danton Case”. Designer given as Roman Cieślewicz.",
+   "source_page": "https://polishpostergallery.com/poster/cieslewicz_sprawa_dantona",
+   "notes": [
+    "Metadata as published by Polish Poster Gallery, which states designer, type and year on the listing.",
+    "Held at 550x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+   ],
+   "label": "",
+   "source_image": "https://poster.pl/posters/cieslewicz_sprawa_dantona.jpg?v=1726522890",
+   "source_px": [
+    550,
+    800
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "theatre poster"
+    },
+    {
+     "k": "designer",
+     "v": "Roman Cieślewicz"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Listed by polishpostergallery.com as “The Danton Case”. Designer given as Roman Cieślewicz.",
+   "hue": null,
+   "light": 0.3769,
+   "chroma": 0.0645
+  },
+  "poster shop::https://polishpostergallery.com/poster/czerniawski_robert_borys_godunow": {
+   "id": "CRVI000268",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000268.jpg",
+   "original_px": [
+    560,
+    800
+   ],
+   "original_bytes": 112735,
+   "identity": "poster shop::https://polishpostergallery.com/poster/czerniawski_robert_borys_godunow",
+   "maker": "Robert Czerniawski",
+   "title": "Boris Godunov",
+   "subtitle": "Theatre Poster · 2008",
+   "year": "2008",
+   "verified_against": "Listed by polishpostergallery.com as “Boris Godunov”. Designer given as Robert Czerniawski.",
+   "source_page": "https://polishpostergallery.com/poster/czerniawski_robert_borys_godunow",
+   "notes": [
+    "Metadata as published by Polish Poster Gallery, which states designer, type and year on the listing.",
+    "Held at 560x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+   ],
+   "label": "",
+   "source_image": "https://poster.pl/posters/czerniawski_robert_borys_godunow.jpg?v=1726522920",
+   "source_px": [
+    560,
+    800
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "theatre poster"
+    },
+    {
+     "k": "designer",
+     "v": "Robert Czerniawski"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Listed by polishpostergallery.com as “Boris Godunov”. Designer given as Robert Czerniawski.",
+   "hue": 34.27,
+   "light": 0.3039,
+   "chroma": 0.5946
+  },
+  "poster shop::https://polishpostergallery.com/poster/czerniawski_robert_burrowing": {
+   "id": "CRVI000269",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000269.jpg",
+   "original_px": [
+    553,
+    800
+   ],
+   "original_bytes": 204105,
+   "identity": "poster shop::https://polishpostergallery.com/poster/czerniawski_robert_burrowing",
+   "maker": "Robert Czerniawski",
+   "title": "Man Tanker Sitt",
+   "subtitle": "Film Poster · 2010",
+   "year": "2010",
+   "verified_against": "Listed by polishpostergallery.com as “Man Tanker Sitt”. Designer given as Robert Czerniawski.",
+   "source_page": "https://polishpostergallery.com/poster/czerniawski_robert_burrowing",
+   "notes": [
+    "Metadata as published by Polish Poster Gallery, which states designer, type and year on the listing.",
+    "Held at 553x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+   ],
+   "label": "",
+   "source_image": "https://poster.pl/posters/czerniawski_robert_burrowing.jpg?v=1726522137",
+   "source_px": [
+    553,
+    800
+   ],
+   "colors": [
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "designer",
+     "v": "Robert Czerniawski"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Listed by polishpostergallery.com as “Man Tanker Sitt”. Designer given as Robert Czerniawski.",
+   "hue": 95.39,
+   "light": 0.5364,
+   "chroma": 0.9013
+  },
+  "poster shop::https://polishpostergallery.com/poster/czerniawski_robert_ewangelia": {
+   "id": "CRVI000270",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000270.jpg",
+   "original_px": [
+    566,
+    800
+   ],
+   "original_bytes": 119314,
+   "identity": "poster shop::https://polishpostergallery.com/poster/czerniawski_robert_ewangelia",
+   "maker": "Robert Czerniawski",
+   "title": "Gospel",
+   "subtitle": "Theatre Poster · 2009",
+   "year": "2009",
+   "verified_against": "Listed by polishpostergallery.com as “Gospel”. Designer given as Robert Czerniawski.",
+   "source_page": "https://polishpostergallery.com/poster/czerniawski_robert_ewangelia",
+   "notes": [
+    "Metadata as published by Polish Poster Gallery, which states designer, type and year on the listing.",
+    "Held at 566x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+   ],
+   "label": "",
+   "source_image": "https://poster.pl/posters/czerniawski_robert_ewangelia.jpg?v=1726522138",
+   "source_px": [
+    566,
+    800
+   ],
+   "colors": [
+    "green",
+    "pink"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "theatre poster"
+    },
+    {
+     "k": "designer",
+     "v": "Robert Czerniawski"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Listed by polishpostergallery.com as “Gospel”. Designer given as Robert Czerniawski.",
+   "hue": 144.86,
+   "light": 0.3576,
+   "chroma": 0.6742
+  },
+  "poster shop::https://polishpostergallery.com/poster/czerniawski_robert_lulu_na_moscie": {
+   "id": "CRVI000271",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000271.jpg",
+   "original_px": [
+    566,
+    800
+   ],
+   "original_bytes": 129530,
+   "identity": "poster shop::https://polishpostergallery.com/poster/czerniawski_robert_lulu_na_moscie",
+   "maker": "Robert Czerniawski",
+   "title": "Lulu on the Bridge",
+   "subtitle": "Theatre Poster · 2008",
+   "year": "2008",
+   "verified_against": "Listed by polishpostergallery.com as “Lulu on the Bridge”. Designer given as Robert Czerniawski.",
+   "source_page": "https://polishpostergallery.com/poster/czerniawski_robert_lulu_na_moscie",
+   "notes": [
+    "Metadata as published by Polish Poster Gallery, which states designer, type and year on the listing.",
+    "Held at 566x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+   ],
+   "label": "",
+   "source_image": "https://poster.pl/posters/czerniawski_robert_lulu_na_moscie.jpg?v=1726522139",
+   "source_px": [
+    566,
+    800
+   ],
+   "colors": [
+    "cyan",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "theatre poster"
+    },
+    {
+     "k": "designer",
+     "v": "Robert Czerniawski"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Listed by polishpostergallery.com as “Lulu on the Bridge”. Designer given as Robert Czerniawski.",
+   "hue": 194.88,
+   "light": 0.7458,
+   "chroma": 0.8406
+  },
+  "poster shop::https://polishpostergallery.com/poster/krajewski_andrzej_kopciuszek_w_potrzasku": {
+   "id": "CRVI000272",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000272.jpg",
+   "original_px": [
+    527,
+    800
+   ],
+   "original_bytes": 205746,
+   "identity": "poster shop::https://polishpostergallery.com/poster/krajewski_andrzej_kopciuszek_w_potrzasku",
+   "maker": "Andrzej Krajewski",
+   "title": "A Trap Cinderella",
+   "subtitle": "Film Poster · 1967",
+   "year": "1967",
+   "verified_against": "Listed by polishpostergallery.com as “A Trap Cinderella”. Designer given as Andrzej Krajewski.",
+   "source_page": "https://polishpostergallery.com/poster/krajewski_andrzej_kopciuszek_w_potrzasku",
+   "notes": [
+    "Metadata as published by Polish Poster Gallery, which states designer, type and year on the listing.",
+    "Held at 527x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+   ],
+   "label": "",
+   "source_image": "https://poster.pl/posters/krajewski_andrzej_kopciuszek_w_potrzasku.jpg?v=1772836238",
+   "source_px": [
+    527,
+    800
+   ],
+   "colors": [
+    "pink",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "designer",
+     "v": "Andrzej Krajewski"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Listed by polishpostergallery.com as “A Trap Cinderella”. Designer given as Andrzej Krajewski.",
+   "hue": 344.87,
+   "light": 0.4248,
+   "chroma": 0.9367
+  },
+  "poster shop::https://polishpostergallery.com/poster/krauze_amator": {
+   "id": "CRVI000273",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000273.jpg",
+   "original_px": [
+    561,
+    800
+   ],
+   "original_bytes": 325629,
+   "identity": "poster shop::https://polishpostergallery.com/poster/krauze_amator",
+   "maker": "Andrzej Krauze",
+   "title": "Camera Buff",
+   "subtitle": "Film Poster · 1979",
+   "year": "1979",
+   "verified_against": "Listed by polishpostergallery.com as “Camera Buff”. Designer given as Andrzej Krauze.",
+   "source_page": "https://polishpostergallery.com/poster/krauze_amator",
+   "notes": [
+    "Metadata as published by Polish Poster Gallery, which states designer, type and year on the listing.",
+    "Held at 561x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+   ],
+   "label": "",
+   "source_image": "https://poster.pl/posters/krauze_amator.jpg?v=1726523831",
+   "source_px": [
+    561,
+    800
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "designer",
+     "v": "Andrzej Krauze"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Listed by polishpostergallery.com as “Camera Buff”. Designer given as Andrzej Krauze.",
+   "hue": null,
+   "light": 0.4552,
+   "chroma": 0.0034
+  },
+  "poster shop::https://polishpostergallery.com/poster/mlodozeniec_jan_klute": {
+   "id": "CRVI000274",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000274.jpg",
+   "original_px": [
+    560,
+    800
+   ],
+   "original_bytes": 205713,
+   "identity": "poster shop::https://polishpostergallery.com/poster/mlodozeniec_jan_klute",
+   "maker": "Jan Młodożeniec",
+   "title": "Klute",
+   "subtitle": "Film Poster · 1973",
+   "year": "1973",
+   "verified_against": "Listed by polishpostergallery.com as “Klute”. Designer given as Jan Młodożeniec.",
+   "source_page": "https://polishpostergallery.com/poster/mlodozeniec_jan_klute",
+   "notes": [
+    "Metadata as published by Polish Poster Gallery, which states designer, type and year on the listing.",
+    "Held at 560x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+   ],
+   "label": "",
+   "source_image": "https://poster.pl/posters/mlodozeniec_jan_klute.jpg?v=1726522808",
+   "source_px": [
+    560,
+    800
+   ],
+   "colors": [
+    "blue",
+    "pink"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "designer",
+     "v": "Jan Młodożeniec"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Listed by polishpostergallery.com as “Klute”. Designer given as Jan Młodożeniec.",
+   "hue": 335.4,
+   "light": 0.3744,
+   "chroma": 0.4947
+  },
+  "poster shop::https://polishpostergallery.com/poster/pagowski_andrzej_1901_children": {
+   "id": "CRVI000275",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000275.jpg",
+   "original_px": [
+    560,
+    800
+   ],
+   "original_bytes": 254313,
+   "identity": "poster shop::https://polishpostergallery.com/poster/pagowski_andrzej_1901_children",
+   "maker": "Andrzej Pągowski",
+   "title": "1901 Children on Strike",
+   "subtitle": "Film Poster · 1980",
+   "year": "1980",
+   "verified_against": "Listed by polishpostergallery.com as “1901 Children on Strike”. Designer given as Andrzej Pągowski.",
+   "source_page": "https://polishpostergallery.com/poster/pagowski_andrzej_1901_children",
+   "notes": [
+    "Metadata as published by Polish Poster Gallery, which states designer, type and year on the listing.",
+    "Held at 560x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+   ],
+   "label": "",
+   "source_image": "https://poster.pl/posters/pagowski_andrzej_1901_children.jpg?v=1726522182",
+   "source_px": [
+    560,
+    800
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "designer",
+     "v": "Andrzej Pągowski"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Listed by polishpostergallery.com as “1901 Children on Strike”. Designer given as Andrzej Pągowski.",
+   "hue": 355.56,
+   "light": 0.3066,
+   "chroma": 0.9462
+  },
+  "poster shop::https://polishpostergallery.com/poster/pagowski_andrzej_film_polski": {
+   "id": "CRVI000276",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000276.jpg",
+   "original_px": [
+    534,
+    800
+   ],
+   "original_bytes": 312477,
+   "identity": "poster shop::https://polishpostergallery.com/poster/pagowski_andrzej_film_polski",
+   "maker": "Andrzej Pągowski",
+   "title": "Polish Film Ltd.",
+   "subtitle": "Film Poster · 1989",
+   "year": "1989",
+   "verified_against": "Listed by polishpostergallery.com as “Polish Film Ltd.”. Designer given as Andrzej Pągowski.",
+   "source_page": "https://polishpostergallery.com/poster/pagowski_andrzej_film_polski",
+   "notes": [
+    "Metadata as published by Polish Poster Gallery, which states designer, type and year on the listing.",
+    "Held at 534x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+   ],
+   "label": "",
+   "source_image": "https://poster.pl/posters/pagowski_andrzej_film_polski.jpg?v=1726522234",
+   "source_px": [
+    534,
+    800
+   ],
+   "colors": [
+    "blue",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "designer",
+     "v": "Andrzej Pągowski"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Listed by polishpostergallery.com as “Polish Film Ltd.”. Designer given as Andrzej Pągowski.",
+   "hue": 199.23,
+   "light": 0.6272,
+   "chroma": 0.7347
+  },
+  "poster shop::https://polishpostergallery.com/poster/pagowski_andrzej_stan_strachu": {
+   "id": "CRVI000277",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000277.jpg",
+   "original_px": [
+    563,
+    800
+   ],
+   "original_bytes": 335868,
+   "identity": "poster shop::https://polishpostergallery.com/poster/pagowski_andrzej_stan_strachu",
+   "maker": "Andrzej Pągowski",
+   "title": "State of Fear",
+   "subtitle": "Film Poster · 1989",
+   "year": "1989",
+   "verified_against": "Listed by polishpostergallery.com as “State of Fear”. Designer given as Andrzej Pągowski.",
+   "source_page": "https://polishpostergallery.com/poster/pagowski_andrzej_stan_strachu",
+   "notes": [
+    "Metadata as published by Polish Poster Gallery, which states designer, type and year on the listing.",
+    "Held at 563x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+   ],
+   "label": "",
+   "source_image": "https://poster.pl/posters/pagowski_andrzej_stan_strachu.jpg?v=1726522326",
+   "source_px": [
+    563,
+    800
+   ],
+   "colors": [
+    "red",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "designer",
+     "v": "Andrzej Pągowski"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Listed by polishpostergallery.com as “State of Fear”. Designer given as Andrzej Pągowski.",
+   "hue": 354.46,
+   "light": 0.4773,
+   "chroma": 0.3996
+  },
+  "poster shop::https://polishpostergallery.com/poster/sadowski_ogolnopolski_osrodek_sztuki": {
+   "id": "CRVI000278",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000278.jpg",
+   "original_px": [
+    568,
+    800
+   ],
+   "original_bytes": 279234,
+   "identity": "poster shop::https://polishpostergallery.com/poster/sadowski_ogolnopolski_osrodek_sztuki",
+   "maker": "Wiktor Sadowski",
+   "title": "Art Center for Children and Youth",
+   "subtitle": "Event Poster · 1996",
+   "year": "1996",
+   "verified_against": "Listed by polishpostergallery.com as “Art Center for Children and Youth”. Designer given as Wiktor Sadowski.",
+   "source_page": "https://polishpostergallery.com/poster/sadowski_ogolnopolski_osrodek_sztuki",
+   "notes": [
+    "Metadata as published by Polish Poster Gallery, which states designer, type and year on the listing.",
+    "Held at 568x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+   ],
+   "label": "",
+   "source_image": "https://poster.pl/posters/sadowski_ogolnopolski_osrodek_sztuki.jpg?v=1772836240",
+   "source_px": [
+    568,
+    800
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "event poster"
+    },
+    {
+     "k": "designer",
+     "v": "Wiktor Sadowski"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Listed by polishpostergallery.com as “Art Center for Children and Youth”. Designer given as Wiktor Sadowski.",
+   "hue": 35.95,
+   "light": 0.4847,
+   "chroma": 0.4323
+  },
+  "poster shop::https://polishpostergallery.com/poster/sadowski_wiktor_kandyd": {
+   "id": "CRVI000279",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000279.jpg",
+   "original_px": [
+    573,
+    800
+   ],
+   "original_bytes": 318082,
+   "identity": "poster shop::https://polishpostergallery.com/poster/sadowski_wiktor_kandyd",
+   "maker": "Wiktor Sadowski",
+   "title": "Candide, or Optimism",
+   "subtitle": "Theatre Poster · 1986",
+   "year": "1986",
+   "verified_against": "Listed by polishpostergallery.com as “Candide, or Optimism”. Designer given as Wiktor Sadowski.",
+   "source_page": "https://polishpostergallery.com/poster/sadowski_wiktor_kandyd",
+   "notes": [
+    "Metadata as published by Polish Poster Gallery, which states designer, type and year on the listing.",
+    "Held at 573x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+   ],
+   "label": "",
+   "source_image": "https://poster.pl/posters/sadowski_wiktor_kandyd.jpg?v=1772836259",
+   "source_px": [
+    573,
+    800
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "theatre poster"
+    },
+    {
+     "k": "designer",
+     "v": "Wiktor Sadowski"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Listed by polishpostergallery.com as “Candide, or Optimism”. Designer given as Wiktor Sadowski.",
+   "hue": 29.19,
+   "light": 0.5087,
+   "chroma": 0.2388
+  },
+  "poster shop::https://polishpostergallery.com/poster/wasilewski_mieczyslaw_prowincjuszka": {
+   "id": "CRVI000280",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000280.jpg",
+   "original_px": [
+    546,
+    800
+   ],
+   "original_bytes": 106503,
+   "identity": "poster shop::https://polishpostergallery.com/poster/wasilewski_mieczyslaw_prowincjuszka",
+   "maker": "Mieczysław Wasilewski",
+   "title": "La Provincjale; The Girl from Lorraine",
+   "subtitle": "Film Poster · 1991",
+   "year": "1991",
+   "verified_against": "Listed by polishpostergallery.com as “La Provincjale; The Girl from Lorraine”. Designer given as Mieczysław Wasilewski.",
+   "source_page": "https://polishpostergallery.com/poster/wasilewski_mieczyslaw_prowincjuszka",
+   "notes": [
+    "Metadata as published by Polish Poster Gallery, which states designer, type and year on the listing.",
+    "Held at 546x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+   ],
+   "label": "",
+   "source_image": "https://poster.pl/posters/wasilewski_mieczyslaw_prowincjuszka.jpg?v=1726523720",
+   "source_px": [
+    546,
+    800
+   ],
+   "colors": [
+    "white"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "designer",
+     "v": "Mieczysław Wasilewski"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Listed by polishpostergallery.com as “La Provincjale; The Girl from Lorraine”. Designer given as Mieczysław Wasilewski.",
+   "hue": null,
+   "light": 0.8598,
+   "chroma": 0.0
+  },
+  "poster shop::https://polishpostergallery.com/poster/wasilewski_mieczyslaw_tanase_scatiu": {
+   "id": "CRVI000281",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000281.jpg",
+   "original_px": [
+    550,
+    800
+   ],
+   "original_bytes": 183213,
+   "identity": "poster shop::https://polishpostergallery.com/poster/wasilewski_mieczyslaw_tanase_scatiu",
+   "maker": "Mieczysław Wasilewski",
+   "title": "A Summer Tale",
+   "subtitle": "Film Poster · 1978",
+   "year": "1978",
+   "verified_against": "Listed by polishpostergallery.com as “A Summer Tale”. Designer given as Mieczysław Wasilewski.",
+   "source_page": "https://polishpostergallery.com/poster/wasilewski_mieczyslaw_tanase_scatiu",
+   "notes": [
+    "Metadata as published by Polish Poster Gallery, which states designer, type and year on the listing.",
+    "Held at 550x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+   ],
+   "label": "",
+   "source_image": "https://poster.pl/posters/wasilewski_mieczyslaw_tanase_scatiu.jpg?v=1726523730",
+   "source_px": [
+    550,
+    800
+   ],
+   "colors": [
+    "orange",
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "designer",
+     "v": "Mieczysław Wasilewski"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Listed by polishpostergallery.com as “A Summer Tale”. Designer given as Mieczysław Wasilewski.",
+   "hue": 36.04,
+   "light": 0.2106,
+   "chroma": 0.1124
+  },
+  "poster shop::https://www.authenticvintageposters.com/collections/full-collection/products/formes-et-couleurs-ad-1": {
+   "id": "CRVI000282",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000282.jpg",
+   "original_px": [
+    2555,
+    3577
+   ],
+   "original_bytes": 1572245,
+   "identity": "poster shop::https://www.authenticvintageposters.com/collections/full-collection/products/formes-et-couleurs-ad-1",
+   "maker": "Unknown",
+   "title": "Caron's Face Powder",
+   "subtitle": "Poster",
+   "year": "",
+   "verified_against": "Listed by www.authenticvintageposters.com as “Caron's Face Powder”. No designer is credited by the seller, and none is claimed here.",
+   "source_page": "https://www.authenticvintageposters.com/collections/full-collection/products/formes-et-couleurs-ad-1",
+   "notes": [
+    "Metadata as published by Authentic Vintage Posters."
+   ],
+   "label": "",
+   "source_image": "http://www.authenticvintageposters.com/cdn/shop/files/2026-04-29-15-30-53-01.jpg?v=1777502760",
+   "source_px": [
+    2555,
+    3577
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Listed by www.authenticvintageposters.com as “Caron's Face Powder”. No designer is credited by the seller, and none is claimed here.",
+   "hue": 19.2,
+   "light": 0.7448,
+   "chroma": 0.4919
+  },
+  "poster shop::https://www.authenticvintageposters.com/collections/japan/products/pharmacy-ad-w-medicine-list": {
+   "id": "CRVI000283",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000283.jpg",
+   "original_px": [
+    2806,
+    4096
+   ],
+   "original_bytes": 2115304,
+   "identity": "poster shop::https://www.authenticvintageposters.com/collections/japan/products/pharmacy-ad-w-medicine-list",
+   "maker": "Unknown",
+   "title": "Japanese Pharmacy Ad",
+   "subtitle": "Poster",
+   "year": "",
+   "verified_against": "Listed by www.authenticvintageposters.com as “Japanese Pharmacy Ad”. No designer is credited by the seller, and none is claimed here.",
+   "source_page": "https://www.authenticvintageposters.com/collections/japan/products/pharmacy-ad-w-medicine-list",
+   "notes": [
+    "Metadata as published by Authentic Vintage Posters."
+   ],
+   "label": "",
+   "source_image": "http://www.authenticvintageposters.com/cdn/shop/files/edited_f800d5ab-7b4d-47a9-9455-acf4a94a7899.jpg?v=1773527118",
+   "source_px": [
+    2806,
+    4096
+   ],
+   "colors": [
+    "orange",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Listed by www.authenticvintageposters.com as “Japanese Pharmacy Ad”. No designer is credited by the seller, and none is claimed here.",
+   "hue": 32.99,
+   "light": 0.6173,
+   "chroma": 0.6537
+  },
+  "poster shop::https://www.authenticvintageposters.com/products/for-heavens-sake-vintage-movie-ad": {
+   "id": "CRVI000284",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000284.jpg",
+   "original_px": [
+    2877,
+    4096
+   ],
+   "original_bytes": 1527308,
+   "identity": "poster shop::https://www.authenticvintageposters.com/products/for-heavens-sake-vintage-movie-ad",
+   "maker": "David Olère",
+   "title": "Pour l'Amour du Ciel! (For Heaven's Sake)",
+   "subtitle": "Press book illustration · Paramount, Paris",
+   "year": "",
+   "verified_against": "Listed by www.authenticvintageposters.com as “”. No designer is credited by the seller, and none is claimed here.",
+   "source_page": "https://www.authenticvintageposters.com/products/for-heavens-sake-vintage-movie-ad",
+   "notes": [
+    "Metadata as published by Authentic Vintage Posters.",
+    "Designer and subject taken from the seller's own description: a French press-book illustration for Harold Lloyd's 'Pour l'Amour du Ciel!', by David Olère, who made promotional artwork for Paramount's Paris operations in the silent era. The page carries no title tag, which is why this arrived as 'Untitled'."
+   ],
+   "label": "",
+   "source_image": "https://cdn.shopify.com/s/files/1/0088/3005/8556/files/2025-12-16-13-05-48-01.jpg?v=1774127514",
+   "source_px": [
+    2877,
+    4096
+   ],
+   "colors": [
+    "green",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "designer",
+     "v": "David Olère"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Listed by www.authenticvintageposters.com as “”. No designer is credited by the seller, and none is claimed here.",
+   "hue": 25.52,
+   "light": 0.8424,
+   "chroma": 0.1672
+  },
+  "poster shop::https://www.authenticvintageposters.com/products/fortune-ad-32": {
+   "id": "CRVI000285",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000285.jpg",
+   "original_px": [
+    3234,
+    4175
+   ],
+   "original_bytes": 1507968,
+   "identity": "poster shop::https://www.authenticvintageposters.com/products/fortune-ad-32",
+   "maker": "Unknown",
+   "title": "Heinz Tomato Juice — We're Sorry There Aren't Enough of our kind to go 'round",
+   "subtitle": "Advertisement · Fortune magazine · 1935",
+   "year": "1935",
+   "verified_against": "Listed by www.authenticvintageposters.com as “”. No designer is credited by the seller, and none is claimed here.",
+   "source_page": "https://www.authenticvintageposters.com/products/fortune-ad-32",
+   "notes": [
+    "Metadata as published by Authentic Vintage Posters.",
+    "Title, publication and year from the seller's description: a Heinz Tomato Juice advertisement in Fortune, dated 1935 by its copyright mark, with anthropomorphic tomatoes as a barbershop quartet. No designer is credited and none is claimed."
+   ],
+   "label": "",
+   "source_image": "https://cdn.shopify.com/s/files/1/0088/3005/8556/files/2026-04-16-14-56-39-01.jpg?v=1776377873",
+   "source_px": [
+    3234,
+    4175
+   ],
+   "colors": [
+    "yellow",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "1930s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Listed by www.authenticvintageposters.com as “”. No designer is credited by the seller, and none is claimed here.",
+   "hue": 356.25,
+   "light": 0.8224,
+   "chroma": 0.232
+  },
+  "poster shop::https://www.posterist.net/products/50-years-of-bauhaus-exhibition-poster?variant=41246121230533": {
+   "id": "CRVI000286",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000286.jpg",
+   "original_px": [
+    723,
+    1024
+   ],
+   "original_bytes": 117257,
+   "identity": "poster shop::https://www.posterist.net/products/50-years-of-bauhaus-exhibition-poster?variant=41246121230533",
+   "maker": "Herbert Bayer",
+   "title": "Bauhaus Exhibition Poster - 50 Years of Bauhaus",
+   "subtitle": "Poster",
+   "year": "",
+   "verified_against": "Listed by www.posterist.net as “Bauhaus Exhibition Poster - 50 Years of Bauhaus”. Designer given as Herbert Bayer. High quality giclée print on 200gsm matte art paper. Free Worldwide Shipping an all orders over.",
+   "source_page": "https://www.posterist.net/products/50-years-of-bauhaus-exhibition-poster?variant=41246121230533",
+   "notes": [
+    "Metadata as published by posterist.net.",
+    "⚠️ posterist.net sells a MODERN GICLÉE REPRINT. The design is the named designer's; the object photographed is a recent reproduction, not an original printing.",
+    "Designer trimmed from the scraped string 'Herbert Bayer. High quality giclée print on 200gsm matte art paper. Free Worldwide Shipping an all orders over' — the pattern ran past the sentence end into the seller's marketing copy."
+   ],
+   "label": "",
+   "source_image": "http://www.posterist.net/cdn/shop/products/bauhaus-blue-poster-01.jpg?v=1625041436",
+   "source_px": [
+    723,
+    1024
+   ],
+   "colors": [
+    "blue",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "designer",
+     "v": "Herbert Bayer"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Listed by www.posterist.net as “Bauhaus Exhibition Poster - 50 Years of Bauhaus”. Designer given as Herbert Bayer. High quality giclée print on 200gsm matte art paper. Free Worldwide Shipping an all orders over.",
+   "hue": 212.57,
+   "light": 0.565,
+   "chroma": 0.6721
+  },
+  "poster shop::https://www.posterist.net/products/bauhaus-exhibition-poster-by-herbert-bayer?variant=41246163927237": {
+   "id": "CRVI000287",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000287.jpg",
+   "original_px": [
+    723,
+    1024
+   ],
+   "original_bytes": 106386,
+   "identity": "poster shop::https://www.posterist.net/products/bauhaus-exhibition-poster-by-herbert-bayer?variant=41246163927237",
+   "maker": "Herbert Bayer",
+   "title": "Bauhaus Exhibition Poster",
+   "subtitle": "Poster",
+   "year": "",
+   "verified_against": "Listed by www.posterist.net as “Bauhaus Exhibition Poster”. Designer given as Herbert Bayer.",
+   "source_page": "https://www.posterist.net/products/bauhaus-exhibition-poster-by-herbert-bayer?variant=41246163927237",
+   "notes": [
+    "Metadata as published by posterist.net.",
+    "⚠️ posterist.net sells a MODERN GICLÉE REPRINT. The design is the named designer's; the object photographed is a recent reproduction, not an original printing."
+   ],
+   "label": "",
+   "source_image": "http://www.posterist.net/cdn/shop/products/bauhaus-poster-white-01_a60e9266-54c1-4066-9993-040ae236daeb.jpg?v=1625041257",
+   "source_px": [
+    723,
+    1024
+   ],
+   "colors": [
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "designer",
+     "v": "Herbert Bayer"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Listed by www.posterist.net as “Bauhaus Exhibition Poster”. Designer given as Herbert Bayer.",
+   "hue": 185.08,
+   "light": 0.6579,
+   "chroma": 0.1339
+  },
+  "poster shop::https://www.posterist.net/products/eight-shadow-figures-art-print-by-utagawa-hiroshige?variant=41692907307205": {
+   "id": "CRVI000288",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000288.jpg",
+   "original_px": [
+    723,
+    1024
+   ],
+   "original_bytes": 181285,
+   "identity": "poster shop::https://www.posterist.net/products/eight-shadow-figures-art-print-by-utagawa-hiroshige?variant=41692907307205",
+   "maker": "Utagawa Hiroshige",
+   "title": "Eight Shadow Figures Art Print",
+   "subtitle": "Poster",
+   "year": "",
+   "verified_against": "Listed by www.posterist.net as “Eight Shadow Figures Art Print”. Designer given as Utagawa Hiroshige.",
+   "source_page": "https://www.posterist.net/products/eight-shadow-figures-art-print-by-utagawa-hiroshige?variant=41692907307205",
+   "notes": [
+    "Metadata as published by posterist.net.",
+    "⚠️ posterist.net sells a MODERN GICLÉE REPRINT. The design is the named designer's; the object photographed is a recent reproduction, not an original printing."
+   ],
+   "label": "",
+   "source_image": "http://www.posterist.net/cdn/shop/products/hiroshige-eight-shadow-figures-01.jpg?v=1662639491",
+   "source_px": [
+    723,
+    1024
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "designer",
+     "v": "Utagawa Hiroshige"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Listed by www.posterist.net as “Eight Shadow Figures Art Print”. Designer given as Utagawa Hiroshige.",
+   "hue": 42.3,
+   "light": 0.6905,
+   "chroma": 0.726
+  },
+  "poster shop::https://www.posterist.net/products/ikko-tanaka-art-print-faces?variant=41448996896965": {
+   "id": "CRVI000289",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000289.jpg",
+   "original_px": [
+    723,
+    1024
+   ],
+   "original_bytes": 91362,
+   "identity": "poster shop::https://www.posterist.net/products/ikko-tanaka-art-print-faces?variant=41448996896965",
+   "maker": "Ikko Tanaka",
+   "title": "Faces",
+   "subtitle": "Poster",
+   "year": "",
+   "verified_against": "Listed by www.posterist.net as “Ikko Tanaka Faces Art Print”. Designer given as Ikko Tanaka.",
+   "source_page": "https://www.posterist.net/products/ikko-tanaka-art-print-faces?variant=41448996896965",
+   "notes": [
+    "Metadata as published by posterist.net.",
+    "⚠️ posterist.net sells a MODERN GICLÉE REPRINT. The design is the named designer's; the object photographed is a recent reproduction, not an original printing.",
+    "Title trimmed from 'Ikko Tanaka Faces Art Print': posterist.net prefixes the designer's name and appends a product word, neither of which is part of the work's title."
+   ],
+   "label": "",
+   "source_image": "http://www.posterist.net/cdn/shop/products/ikko-tanaka-faces-02.jpg?v=1676488640",
+   "source_px": [
+    723,
+    1024
+   ],
+   "colors": [
+    "green",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "designer",
+     "v": "Ikko Tanaka"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Listed by www.posterist.net as “Ikko Tanaka Faces Art Print”. Designer given as Ikko Tanaka.",
+   "hue": 83.5,
+   "light": 0.5219,
+   "chroma": 0.3936
+  },
+  "Jan Sawka::Cyrk — Pyramid of Acrobats": {
+   "id": "CRVI000290",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000290.jpg",
+   "original_px": [
+    458,
+    669
+   ],
+   "original_bytes": 104636,
+   "identity": "Jan Sawka::Cyrk — Pyramid of Acrobats",
+   "maker": "Jan Sawka",
+   "title": "Cyrk — Pyramid of Acrobats",
+   "subtitle": "Polish CYRK circus poster · acrobats on unicycles",
+   "year": "",
+   "verified_against": "Jan Sawka's CYRK circus poster, the pyramid of acrobats. Identified from the artwork and from Todd's own Artsy link for it (artsy.net/artwork/jan-sawka-circus-pyramid-of-acrobats), which 403s to automation but names the work. Held at 458x669 — a search thumbnail, the only source given.",
+   "source_page": "",
+   "notes": [
+    "No date recorded — none is given by any source Todd provided."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/museum/sawka_a.jpg",
+   "source_px": [
+    458,
+    669
+   ],
+   "colors": [
+    "yellow",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Jan Sawka"
+    },
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    },
+    {
+     "k": "subject",
+     "v": "circus"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Jan Sawka's CYRK circus poster, the pyramid of acrobats. Identified from the artwork and from Todd's own Artsy link for it (artsy.net/artwork/jan-sawka-circus-pyramid-of-acrobats), which 403s to automation but names the work. Held at 458x669 — a search thumbnail, the only source given.",
+   "hue": 4.53,
+   "light": 0.6899,
+   "chroma": 0.5087
+  },
+  "Jan Sawka::Untitled": {
+   "id": "CRVI000291",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000291.jpg",
+   "original_px": [
+    373,
+    536
+   ],
+   "original_bytes": 59548,
+   "identity": "Jan Sawka::Untitled",
+   "maker": "Jan Sawka",
+   "title": "Untitled",
+   "subtitle": "Jan Sawka · work on paper",
+   "year": "",
+   "verified_against": "Attributed to Jan Sawka because Todd sent it under his name; the work itself is NOT identified — no title, date or series is claimed. A figure on a mound against a ground of handwritten text, with three small framed images above. Held at 373x536, a search thumbnail.",
+   "source_page": "",
+   "notes": [
+    "No date recorded — none is given by any source Todd provided."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/museum/sawka_b.jpg",
+   "source_px": [
+    373,
+    536
+   ],
+   "colors": [
+    "green",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Jan Sawka"
+    },
+    {
+     "k": "type",
+     "v": "print"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Attributed to Jan Sawka because Todd sent it under his name; the work itself is NOT identified — no title, date or series is claimed. A figure on a mound against a ground of handwritten text, with three small framed images above. Held at 373x536, a search thumbnail.",
+   "hue": 94.64,
+   "light": 0.7325,
+   "chroma": 0.9037
+  },
+  "Jan Sawka::Operetka (The Operetta)": {
+   "id": "CRVI000292",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000292.jpg",
+   "original_px": [
+    3840,
+    5444
+   ],
+   "original_bytes": 6086124,
+   "identity": "Jan Sawka::Operetka (The Operetta)",
+   "maker": "Jan Sawka",
+   "title": "Operetka (The Operetta)",
+   "subtitle": "Jan Sawka · Witold Gombrowicz, Teatr STU",
+   "year": "",
+   "verified_against": "The poster itself carries the credits: GOMBROWICZ · OPERETKA / THE OPERETTA · teatr STU. Attributed to Jan Sawka on Todd's grouping. At 3840x5444 this is the largest image in the batch.",
+   "source_page": "",
+   "notes": [
+    "No date recorded — none is given by any source Todd provided."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/museum/sawka_c.jpg",
+   "source_px": [
+    3840,
+    5444
+   ],
+   "colors": [
+    "green",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Jan Sawka"
+    },
+    {
+     "k": "type",
+     "v": "theatre poster"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    },
+    {
+     "k": "subject",
+     "v": "theatre"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The poster itself carries the credits: GOMBROWICZ · OPERETKA / THE OPERETTA · teatr STU. Attributed to Jan Sawka on Todd's grouping. At 3840x5444 this is the largest image in the batch.",
+   "hue": 110.97,
+   "light": 0.335,
+   "chroma": 0.9781
   }
  }
 }

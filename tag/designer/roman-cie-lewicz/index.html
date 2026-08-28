@@ -1,0 +1,17 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>designer: Roman Cieślewicz — Crambe Repetita Museum</title><link rel="stylesheet" href="../../../style.css"></head><body><div class="crumb"><span class="t">DESIGNER: ROMAN CIEŚLEWICZ</span><span class="c">4 items</span><a href="../../../tags/">&#8592; all tags</a></div><div class="grid"><a class="cell" href="../../../CRVI000263/"><div class="inner"><img src="../../../images/CRVI000263.jpg" alt=""></div><div class="cap"><span class="n">CRVI000263</span>Roman Cieślewicz - Polish Fashion<br>Advertising Poster · 1972 · 1972</div></a><a class="cell" href="../../../CRVI000265/"><div class="inner"><img src="../../../images/CRVI000265.jpg" alt=""></div><div class="cap"><span class="n">CRVI000265</span>Roman Cieślewicz - Theater Wspolczesny in Wroclaw Invites<br>Theatre Poster · 1975 · 1975</div></a><a class="cell" href="../../../CRVI000266/"><div class="inner"><img src="../../../images/CRVI000266.jpg" alt=""></div><div class="cap"><span class="n">CRVI000266</span>Roman Cieślewicz - J.M.K. Hellcat<br>Theatre Poster · 1979 · 1979</div></a><a class="cell" href="../../../CRVI000267/"><div class="inner"><img src="../../../images/CRVI000267.jpg" alt=""></div><div class="cap"><span class="n">CRVI000267</span>Roman Cieślewicz - The Danton Case<br>Theatre Poster · 1975 · 1975</div></a></div><script>
+var SCALE=3;var t=null;
+document.querySelectorAll('.cell').forEach(function(c){
+  c.addEventListener('mouseenter',function(){
+    clearTimeout(t);
+    t=setTimeout(function(){
+      // transform does not change layout, so push the caption below the grown image
+      var im=c.querySelector('img'),cap=c.querySelector('.cap');
+      cap.style.transform='translateY('+im.getBoundingClientRect().height*(SCALE-1)+'px)';
+      c.classList.add('big');
+    },1000);
+  });
+  c.addEventListener('mouseleave',function(){
+    clearTimeout(t);c.classList.remove('big');c.querySelector('.cap').style.transform='';
+  });
+});
+</script></body></html>
