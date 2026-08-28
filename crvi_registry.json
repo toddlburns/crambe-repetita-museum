@@ -10528,68 +10528,6 @@
    "light": 0.6511,
    "chroma": 0.6184
   },
-  "NYT Kusama::Kusama with paper works, Tokyo (1957)": {
-   "id": "CRVI000216",
-   "minted": "2026-08-26",
-   "original_file": "originals/CRVI000216.jpg",
-   "original_px": [
-    1170,
-    1654
-   ],
-   "original_bytes": 546437,
-   "identity": "NYT Kusama::Kusama with paper works, Tokyo (1957)",
-   "maker": "Yayoi Kusama",
-   "title": "Kusama with paper works, Tokyo",
-   "subtitle": "Photographed among her works on paper · via David Zwirner",
-   "year": "1957",
-   "verified_against": "Caption and credit read directly off the New York Times feature 'Yayoi Kusama: A Life in Pictures' (27 August 2026), from Todd's own screenshots of it. Captioned 'Kusama with paper artworks on the floor in Tokyo in 1957', credited 'Yayoi Kusama, via David Zwirner'. No photographer is named there, and none is claimed here.",
-   "source_page": "https://www.nytimes.com/2026/08/27/arts/design/yayoi-kusama-photos-artwork.html",
-   "notes": [
-    "The photographer is not identified — the Times credits the image to the artist via David Zwirner, which is a source line, not an authorship line.",
-    "Cropped from Todd's screenshot to the photograph alone — the article text, caption and phone chrome are not part of the object and are not in the archive.",
-    "Reproduced here at screenshot resolution; the Times' own file is behind its paywall and was not taken.",
-    "DELETED from the museum on 2026-08-27. The record is kept so CRVI000216 stays provably retired and is never reissued."
-   ],
-   "label": "",
-   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/kus_k1.jpg",
-   "source_px": [
-    1170,
-    1654
-   ],
-   "colors": [
-    "neutral"
-   ],
-   "tags": [
-    {
-     "k": "artist",
-     "v": "Yayoi Kusama"
-    },
-    {
-     "k": "type",
-     "v": "photograph"
-    },
-    {
-     "k": "location",
-     "v": "Japan"
-    },
-    {
-     "k": "subject",
-     "v": "Yayoi Kusama"
-    },
-    {
-     "k": "decade",
-     "v": "1950s"
-    }
-   ],
-   "identity_established": true,
-   "published": false,
-   "verification": "Caption and credit read directly off the New York Times feature 'Yayoi Kusama: A Life in Pictures' (27 August 2026), from Todd's own screenshots of it. Captioned 'Kusama with paper artworks on the floor in Tokyo in 1957', credited 'Yayoi Kusama, via David Zwirner'. No photographer is named there, and none is claimed here.",
-   "hue": null,
-   "light": 0.3274,
-   "chroma": 0.0164,
-   "deleted": true,
-   "deleted_on": "2026-08-27"
-  },
   "NYT Kusama::Infinity Mirror Room — Phalli's Field (or Floor Show) (1965)": {
    "id": "CRVI000217",
    "minted": "2026-08-26",
@@ -10772,68 +10710,6 @@
    "light": 0.2061,
    "chroma": 0.2013
   },
-  "NYT Kusama::Narcissus Garden (1966/2021)": {
-   "id": "CRVI000220",
-   "minted": "2026-08-26",
-   "original_file": "originals/CRVI000220.jpg",
-   "original_px": [
-    1170,
-    1542
-   ],
-   "original_bytes": 558574,
-   "identity": "NYT Kusama::Narcissus Garden (1966/2021)",
-   "maker": "Yayoi Kusama",
-   "title": "Narcissus Garden",
-   "subtitle": "Photograph by Heather Sten · steel spheres on an artificial wetland, New York Botanical Garden",
-   "year": "1966/2021",
-   "verified_against": "Caption and credit read directly off the New York Times feature 'Yayoi Kusama: A Life in Pictures' (27 August 2026), from Todd's own screenshots of it. Captioned '“Narcissus Garden” (1966/2021), with steel balls floating on the waters of an artificial wetland, at the New York Botanical Garden in 2021', credited 'Heather Sten for The New York Times'.",
-   "source_page": "https://www.nytimes.com/2026/08/27/arts/design/yayoi-kusama-photos-artwork.html",
-   "notes": [
-    "Dated 1966/2021 as the Times dates it: the work is from 1966, this installation of it from 2021.",
-    "Cropped from Todd's screenshot to the photograph alone — the article text, caption and phone chrome are not part of the object and are not in the archive.",
-    "Reproduced here at screenshot resolution; the Times' own file is behind its paywall and was not taken.",
-    "DELETED from the museum at Todd's request on 2026-08-27. The record is kept so the number stays provably retired: CRVI000220 is never reissued, so no old link can ever resolve to a different object. Image files removed; the item no longer reaches the payload or the site."
-   ],
-   "label": "",
-   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/kus_k5.jpg",
-   "source_px": [
-    1170,
-    1542
-   ],
-   "colors": [
-    "orange"
-   ],
-   "tags": [
-    {
-     "k": "artist",
-     "v": "Yayoi Kusama"
-    },
-    {
-     "k": "type",
-     "v": "installation"
-    },
-    {
-     "k": "photographer",
-     "v": "Heather Sten"
-    },
-    {
-     "k": "location",
-     "v": "United States"
-    },
-    {
-     "k": "decade",
-     "v": "1960s"
-    }
-   ],
-   "identity_established": true,
-   "published": false,
-   "verification": "Caption and credit read directly off the New York Times feature 'Yayoi Kusama: A Life in Pictures' (27 August 2026), from Todd's own screenshots of it. Captioned '“Narcissus Garden” (1966/2021), with steel balls floating on the waters of an artificial wetland, at the New York Botanical Garden in 2021', credited 'Heather Sten for The New York Times'.",
-   "hue": 205.62,
-   "light": 0.3919,
-   "chroma": 0.249,
-   "deleted": true,
-   "deleted_on": "2026-08-27"
-  },
   "NYT Kusama::A Bouquet of Love I saw in the Universe (2021)": {
    "id": "CRVI000221",
    "minted": "2026-08-26",
@@ -10950,126 +10826,6 @@
    "hue": null,
    "light": 0.5302,
    "chroma": 0.0
-  },
-  "NYT Kusama::Infinity Mirrored Room — Let's Survive Forever (2017)": {
-   "id": "CRVI000223",
-   "minted": "2026-08-26",
-   "original_file": "originals/CRVI000223.jpg",
-   "original_px": [
-    1170,
-    776
-   ],
-   "original_bytes": 375599,
-   "identity": "NYT Kusama::Infinity Mirrored Room — Let's Survive Forever (2017)",
-   "maker": "Yayoi Kusama",
-   "title": "Infinity Mirrored Room — Let's Survive Forever",
-   "subtitle": "Photograph by Vincent Tullo · David Zwirner Gallery",
-   "year": "2017",
-   "verified_against": "Caption and credit read directly off the New York Times feature 'Yayoi Kusama: A Life in Pictures' (27 August 2026), from Todd's own screenshots of it. Captioned '“Infinity Mirrored Room — Let’s Survive Forever,” at the David Zwirner gallery in 2017', credited 'Vincent Tullo for The New York Times'.",
-   "source_page": "https://www.nytimes.com/2026/08/27/arts/design/yayoi-kusama-photos-artwork.html",
-   "notes": [
-    "A different work from CRVI000219 'Longing for Eternity', though both were shown at David Zwirner in 2017 and both photographed by Vincent Tullo.",
-    "Cropped from Todd's screenshot to the photograph alone — the article text, caption and phone chrome are not part of the object and are not in the archive.",
-    "Reproduced at screenshot resolution; the Times' own file is behind its paywall and was not taken.",
-    "DELETED from the museum at Todd's request on 2026-08-27. The record is kept so CRVI000223 stays provably retired and is never reissued."
-   ],
-   "label": "",
-   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/kus_m3.jpg",
-   "source_px": [
-    1170,
-    776
-   ],
-   "colors": [
-    "green"
-   ],
-   "tags": [
-    {
-     "k": "artist",
-     "v": "Yayoi Kusama"
-    },
-    {
-     "k": "type",
-     "v": "installation"
-    },
-    {
-     "k": "photographer",
-     "v": "Vincent Tullo"
-    },
-    {
-     "k": "client",
-     "v": "David Zwirner Gallery"
-    },
-    {
-     "k": "decade",
-     "v": "2010s"
-    }
-   ],
-   "identity_established": true,
-   "published": false,
-   "verification": "Caption and credit read directly off the New York Times feature 'Yayoi Kusama: A Life in Pictures' (27 August 2026), from Todd's own screenshots of it. Captioned '“Infinity Mirrored Room — Let’s Survive Forever,” at the David Zwirner gallery in 2017', credited 'Vincent Tullo for The New York Times'.",
-   "hue": null,
-   "light": 0.4399,
-   "chroma": 0.0672,
-   "deleted": true,
-   "deleted_on": "2026-08-27"
-  },
-  "NYT Kusama::Kusama painting dots at a happening (1968)": {
-   "id": "CRVI000224",
-   "minted": "2026-08-26",
-   "original_file": "originals/CRVI000224.jpg",
-   "original_px": [
-    1050,
-    1357
-   ],
-   "original_bytes": 279715,
-   "identity": "NYT Kusama::Kusama painting dots at a happening (1968)",
-   "maker": "Yayoi Kusama",
-   "title": "Kusama painting dots at a happening",
-   "subtitle": "Keystone Features · painting her dots onto the bodies of the hippie generation",
-   "year": "1968",
-   "verified_against": "Caption and credit read directly off the New York Times feature 'Yayoi Kusama: A Life in Pictures' (27 August 2026), from Todd's own screenshots of it. Captioned 'Kusama in 1968. She became famous for spectacles in which she would paint her trademark dots onto the naked bodies of the hippie generation', credited 'Keystone Features/Getty Images'.",
-   "source_page": "https://www.nytimes.com/2026/08/27/arts/design/yayoi-kusama-photos-artwork.html",
-   "notes": [
-    "Credited to the Keystone Features agency, not to a named photographer, so nobody is tagged in the photographer facet — that facet holds people. The agency credit is recorded here instead.",
-    "Cropped from Todd's screenshot to the photograph alone — the article text, caption and phone chrome are not part of the object and are not in the archive.",
-    "Reproduced at screenshot resolution; the Times' own file is behind its paywall and was not taken.",
-    "DELETED from the museum at Todd's request on 2026-08-27. The record is kept so CRVI000224 stays provably retired and is never reissued."
-   ],
-   "label": "",
-   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/kus_m4.jpg",
-   "source_px": [
-    1050,
-    1357
-   ],
-   "colors": [
-    "neutral"
-   ],
-   "tags": [
-    {
-     "k": "artist",
-     "v": "Yayoi Kusama"
-    },
-    {
-     "k": "type",
-     "v": "photograph"
-    },
-    {
-     "k": "subject",
-     "v": "Yayoi Kusama"
-    },
-    {
-     "k": "decade",
-     "v": "1960s"
-    }
-   ],
-   "identity_established": true,
-   "published": false,
-   "verification": "Caption and credit read directly off the New York Times feature 'Yayoi Kusama: A Life in Pictures' (27 August 2026), from Todd's own screenshots of it. Captioned 'Kusama in 1968. She became famous for spectacles in which she would paint her trademark dots onto the naked bodies of the hippie generation', credited 'Keystone Features/Getty Images'.",
-   "hue": null,
-   "light": 0.3337,
-   "chroma": 0.0,
-   "deleted": true,
-   "deleted_on": "2026-08-27"
   },
   "MOIFA fantasy coffins::Bumblebee coffin": {
    "id": "CRVI000225",
@@ -11358,64 +11114,6 @@
    "light": 0.5644,
    "chroma": 0.922,
    "discogs_release": 294597
-  },
-  "ele-king sweep::Club Jazz Definitive::IMG_4165_1": {
-   "id": "CRVI000230",
-   "minted": "2026-08-26",
-   "original_file": "originals/CRVI000230.jpg",
-   "original_px": [
-    3000,
-    3000
-   ],
-   "original_bytes": 1886310,
-   "identity": "ele-king sweep::Club Jazz Definitive::IMG_4165_1",
-   "maker": "Fez Combo",
-   "title": "Follow The Spirit",
-   "subtitle": "Designer unknown · Right Tempo",
-   "year": "1995",
-   "label": "Right Tempo",
-   "verified_against": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Fez Combo / Follow the Spirit (1996).",
-   "source_page": "iTunes Search API",
-   "notes": [
-    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
-    "Designer unrecorded: these ele-king guides credit the music, never the packaging.",
-    "DELETED from the museum on 2026-08-27. The record is kept so CRVI000230 stays provably retired and is never reissued."
-   ],
-   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4165_1.jpg",
-   "source_px": [
-    3000,
-    3000
-   ],
-   "colors": [
-    "blue",
-    "cyan"
-   ],
-   "tags": [
-    {
-     "k": "artist",
-     "v": "Fez Combo"
-    },
-    {
-     "k": "type",
-     "v": "album cover"
-    },
-    {
-     "k": "label",
-     "v": "Right Tempo"
-    },
-    {
-     "k": "decade",
-     "v": "1990s"
-    }
-   ],
-   "identity_established": true,
-   "published": false,
-   "verification": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Fez Combo / Follow the Spirit (1996).",
-   "hue": 202.21,
-   "light": 0.4397,
-   "chroma": 0.6494,
-   "deleted": true,
-   "deleted_on": "2026-08-27"
   },
   "ele-king sweep::Club Jazz Definitive::IMG_4166_1": {
    "id": "CRVI000231",
@@ -12214,64 +11912,6 @@
    "chroma": 0.5716,
    "discogs_release": 770551
   },
-  "ele-king sweep::Club Jazz Definitive::IMG_4211_1": {
-   "id": "CRVI000245",
-   "minted": "2026-08-26",
-   "original_file": "originals/CRVI000245.jpg",
-   "original_px": [
-    1440,
-    1440
-   ],
-   "original_bytes": 210934,
-   "identity": "ele-king sweep::Club Jazz Definitive::IMG_4211_1",
-   "maker": "Zimpala",
-   "title": "Almaviva",
-   "subtitle": "Designer unknown · Lacerba",
-   "year": "2000",
-   "label": "Lacerba",
-   "verified_against": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Zimpala / Almaviva (2001).",
-   "source_page": "iTunes Search API",
-   "notes": [
-    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
-    "Designer unrecorded: these ele-king guides credit the music, never the packaging.",
-    "DELETED from the museum on 2026-08-27. The record is kept so CRVI000245 stays provably retired and is never reissued."
-   ],
-   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4211_1.jpg",
-   "source_px": [
-    1440,
-    1440
-   ],
-   "colors": [
-    "orange",
-    "red"
-   ],
-   "tags": [
-    {
-     "k": "artist",
-     "v": "Zimpala"
-    },
-    {
-     "k": "type",
-     "v": "album cover"
-    },
-    {
-     "k": "label",
-     "v": "Lacerba"
-    },
-    {
-     "k": "decade",
-     "v": "2000s"
-    }
-   ],
-   "identity_established": true,
-   "published": false,
-   "verification": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Zimpala / Almaviva (2001).",
-   "hue": 42.5,
-   "light": 0.2812,
-   "chroma": 0.7189,
-   "deleted": true,
-   "deleted_on": "2026-08-27"
-  },
   "poster shop::https://butik.louisiana.dk/en-int/products/keiji-usami-louisiana-plakat": {
    "id": "CRVI000246",
    "minted": "2026-08-26",
@@ -12487,64 +12127,6 @@
    "hue": 145.42,
    "light": 0.6946,
    "chroma": 0.6594
-  },
-  "poster shop::https://polishposter.com/1058-harakiri-seppuku-polish-movie-poster.html": {
-   "id": "CRVI000250",
-   "minted": "2026-08-26",
-   "original_file": "originals/CRVI000250.jpg",
-   "original_px": [
-    682,
-    960
-   ],
-   "original_bytes": 193327,
-   "identity": "poster shop::https://polishposter.com/1058-harakiri-seppuku-polish-movie-poster.html",
-   "maker": "Waldemar Swierzy",
-   "title": "Harakiri",
-   "subtitle": "Film Poster Designed By Waldemar Swierzy · 1987",
-   "year": "1987",
-   "verified_against": "Listed by polishposter.com as “Harakiri”. Designer given as Waldemar Swierzy.",
-   "source_page": "https://polishposter.com/1058-harakiri-seppuku-polish-movie-poster.html",
-   "notes": [
-    "Metadata as published by polishposter.com.",
-    "Held at 682x960 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default.",
-    "DELETED from the museum on 2026-08-27. The record is kept so CRVI000250 stays provably retired and is never reissued."
-   ],
-   "label": "",
-   "source_image": "https://polishposter.com/871/1058-harakiri-seppuku-polish-movie-poster.jpg",
-   "source_px": [
-    682,
-    960
-   ],
-   "colors": [
-    "red",
-    "pink"
-   ],
-   "tags": [
-    {
-     "k": "type",
-     "v": "film poster designed by waldemar swierzy"
-    },
-    {
-     "k": "designer",
-     "v": "Waldemar Swierzy"
-    },
-    {
-     "k": "decade",
-     "v": "1980s"
-    },
-    {
-     "k": "location",
-     "v": "Poland"
-    }
-   ],
-   "identity_established": true,
-   "published": false,
-   "verification": "Listed by polishposter.com as “Harakiri”. Designer given as Waldemar Swierzy.",
-   "hue": 3.97,
-   "light": 0.7651,
-   "chroma": 0.7371,
-   "deleted": true,
-   "deleted_on": "2026-08-27"
   },
   "poster shop::https://polishposter.com/1679-skrupul-walka-polish-movie-poster.html": {
    "id": "CRVI000251",
@@ -13413,235 +12995,6 @@
    "light": 0.3352,
    "chroma": 0.662
   },
-  "poster shop::https://polishpostergallery.com/poster/cieslewicz_sprawa_dantona": {
-   "id": "CRVI000267",
-   "minted": "2026-08-26",
-   "original_file": "originals/CRVI000267.jpg",
-   "original_px": [
-    550,
-    800
-   ],
-   "original_bytes": 300216,
-   "identity": "poster shop::https://polishpostergallery.com/poster/cieslewicz_sprawa_dantona",
-   "maker": "Roman Cieślewicz",
-   "title": "The Danton Case",
-   "subtitle": "Theatre Poster · 1975",
-   "year": "1975",
-   "verified_against": "Listed by polishpostergallery.com as “The Danton Case”. Designer given as Roman Cieślewicz.",
-   "source_page": "https://polishpostergallery.com/poster/cieslewicz_sprawa_dantona",
-   "notes": [
-    "Metadata as published by Polish Poster Gallery, which states designer, type and year on the listing.",
-    "Held at 550x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default.",
-    "DELETED from the museum on 2026-08-27. The record is kept so CRVI000267 stays provably retired and is never reissued."
-   ],
-   "label": "",
-   "source_image": "https://poster.pl/posters/cieslewicz_sprawa_dantona.jpg?v=1726522890",
-   "source_px": [
-    550,
-    800
-   ],
-   "colors": [
-    "red"
-   ],
-   "tags": [
-    {
-     "k": "type",
-     "v": "theatre poster"
-    },
-    {
-     "k": "designer",
-     "v": "Roman Cieślewicz"
-    },
-    {
-     "k": "decade",
-     "v": "1970s"
-    },
-    {
-     "k": "location",
-     "v": "Poland"
-    }
-   ],
-   "identity_established": true,
-   "published": false,
-   "verification": "Listed by polishpostergallery.com as “The Danton Case”. Designer given as Roman Cieślewicz.",
-   "hue": null,
-   "light": 0.3769,
-   "chroma": 0.0645,
-   "deleted": true,
-   "deleted_on": "2026-08-27"
-  },
-  "poster shop::https://polishpostergallery.com/poster/czerniawski_robert_borys_godunow": {
-   "id": "CRVI000268",
-   "minted": "2026-08-26",
-   "original_file": "originals/CRVI000268.jpg",
-   "original_px": [
-    560,
-    800
-   ],
-   "original_bytes": 112735,
-   "identity": "poster shop::https://polishpostergallery.com/poster/czerniawski_robert_borys_godunow",
-   "maker": "Robert Czerniawski",
-   "title": "Boris Godunov",
-   "subtitle": "Theatre Poster · 2008",
-   "year": "2008",
-   "verified_against": "Listed by polishpostergallery.com as “Boris Godunov”. Designer given as Robert Czerniawski.",
-   "source_page": "https://polishpostergallery.com/poster/czerniawski_robert_borys_godunow",
-   "notes": [
-    "Metadata as published by Polish Poster Gallery, which states designer, type and year on the listing.",
-    "Held at 560x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default.",
-    "DELETED from the museum on 2026-08-27. The record is kept so CRVI000268 stays provably retired and is never reissued."
-   ],
-   "label": "",
-   "source_image": "https://poster.pl/posters/czerniawski_robert_borys_godunow.jpg?v=1726522920",
-   "source_px": [
-    560,
-    800
-   ],
-   "colors": [
-    "orange"
-   ],
-   "tags": [
-    {
-     "k": "type",
-     "v": "theatre poster"
-    },
-    {
-     "k": "designer",
-     "v": "Robert Czerniawski"
-    },
-    {
-     "k": "decade",
-     "v": "2000s"
-    },
-    {
-     "k": "location",
-     "v": "Poland"
-    }
-   ],
-   "identity_established": true,
-   "published": false,
-   "verification": "Listed by polishpostergallery.com as “Boris Godunov”. Designer given as Robert Czerniawski.",
-   "hue": 34.27,
-   "light": 0.3039,
-   "chroma": 0.5946,
-   "deleted": true,
-   "deleted_on": "2026-08-27"
-  },
-  "poster shop::https://polishpostergallery.com/poster/czerniawski_robert_burrowing": {
-   "id": "CRVI000269",
-   "minted": "2026-08-26",
-   "original_file": "originals/CRVI000269.jpg",
-   "original_px": [
-    553,
-    800
-   ],
-   "original_bytes": 204105,
-   "identity": "poster shop::https://polishpostergallery.com/poster/czerniawski_robert_burrowing",
-   "maker": "Robert Czerniawski",
-   "title": "Man Tanker Sitt",
-   "subtitle": "Film Poster · 2010",
-   "year": "2010",
-   "verified_against": "Listed by polishpostergallery.com as “Man Tanker Sitt”. Designer given as Robert Czerniawski.",
-   "source_page": "https://polishpostergallery.com/poster/czerniawski_robert_burrowing",
-   "notes": [
-    "Metadata as published by Polish Poster Gallery, which states designer, type and year on the listing.",
-    "Held at 553x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default.",
-    "DELETED from the museum on 2026-08-27. The record is kept so CRVI000269 stays provably retired and is never reissued."
-   ],
-   "label": "",
-   "source_image": "https://poster.pl/posters/czerniawski_robert_burrowing.jpg?v=1726522137",
-   "source_px": [
-    553,
-    800
-   ],
-   "colors": [
-    "green"
-   ],
-   "tags": [
-    {
-     "k": "type",
-     "v": "film poster"
-    },
-    {
-     "k": "designer",
-     "v": "Robert Czerniawski"
-    },
-    {
-     "k": "decade",
-     "v": "2010s"
-    },
-    {
-     "k": "location",
-     "v": "Poland"
-    }
-   ],
-   "identity_established": true,
-   "published": false,
-   "verification": "Listed by polishpostergallery.com as “Man Tanker Sitt”. Designer given as Robert Czerniawski.",
-   "hue": 95.39,
-   "light": 0.5364,
-   "chroma": 0.9013,
-   "deleted": true,
-   "deleted_on": "2026-08-27"
-  },
-  "poster shop::https://polishpostergallery.com/poster/czerniawski_robert_ewangelia": {
-   "id": "CRVI000270",
-   "minted": "2026-08-26",
-   "original_file": "originals/CRVI000270.jpg",
-   "original_px": [
-    566,
-    800
-   ],
-   "original_bytes": 119314,
-   "identity": "poster shop::https://polishpostergallery.com/poster/czerniawski_robert_ewangelia",
-   "maker": "Robert Czerniawski",
-   "title": "Gospel",
-   "subtitle": "Theatre Poster · 2009",
-   "year": "2009",
-   "verified_against": "Listed by polishpostergallery.com as “Gospel”. Designer given as Robert Czerniawski.",
-   "source_page": "https://polishpostergallery.com/poster/czerniawski_robert_ewangelia",
-   "notes": [
-    "Metadata as published by Polish Poster Gallery, which states designer, type and year on the listing.",
-    "Held at 566x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default.",
-    "DELETED from the museum on 2026-08-27. The record is kept so CRVI000270 stays provably retired and is never reissued."
-   ],
-   "label": "",
-   "source_image": "https://poster.pl/posters/czerniawski_robert_ewangelia.jpg?v=1726522138",
-   "source_px": [
-    566,
-    800
-   ],
-   "colors": [
-    "green",
-    "pink"
-   ],
-   "tags": [
-    {
-     "k": "type",
-     "v": "theatre poster"
-    },
-    {
-     "k": "designer",
-     "v": "Robert Czerniawski"
-    },
-    {
-     "k": "decade",
-     "v": "2000s"
-    },
-    {
-     "k": "location",
-     "v": "Poland"
-    }
-   ],
-   "identity_established": true,
-   "published": false,
-   "verification": "Listed by polishpostergallery.com as “Gospel”. Designer given as Robert Czerniawski.",
-   "hue": 144.86,
-   "light": 0.3576,
-   "chroma": 0.6742,
-   "deleted": true,
-   "deleted_on": "2026-08-27"
-  },
   "poster shop::https://polishpostergallery.com/poster/czerniawski_robert_lulu_na_moscie": {
    "id": "CRVI000271",
    "minted": "2026-08-26",
@@ -13697,64 +13050,6 @@
    "light": 0.7458,
    "chroma": 0.8406
   },
-  "poster shop::https://polishpostergallery.com/poster/krajewski_andrzej_kopciuszek_w_potrzasku": {
-   "id": "CRVI000272",
-   "minted": "2026-08-26",
-   "original_file": "originals/CRVI000272.jpg",
-   "original_px": [
-    527,
-    800
-   ],
-   "original_bytes": 205746,
-   "identity": "poster shop::https://polishpostergallery.com/poster/krajewski_andrzej_kopciuszek_w_potrzasku",
-   "maker": "Andrzej Krajewski",
-   "title": "A Trap Cinderella",
-   "subtitle": "Film Poster · 1967",
-   "year": "1967",
-   "verified_against": "Listed by polishpostergallery.com as “A Trap Cinderella”. Designer given as Andrzej Krajewski.",
-   "source_page": "https://polishpostergallery.com/poster/krajewski_andrzej_kopciuszek_w_potrzasku",
-   "notes": [
-    "Metadata as published by Polish Poster Gallery, which states designer, type and year on the listing.",
-    "Held at 527x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default.",
-    "DELETED from the museum on 2026-08-27. The record is kept so CRVI000272 stays provably retired and is never reissued."
-   ],
-   "label": "",
-   "source_image": "https://poster.pl/posters/krajewski_andrzej_kopciuszek_w_potrzasku.jpg?v=1772836238",
-   "source_px": [
-    527,
-    800
-   ],
-   "colors": [
-    "pink",
-    "red"
-   ],
-   "tags": [
-    {
-     "k": "type",
-     "v": "film poster"
-    },
-    {
-     "k": "designer",
-     "v": "Andrzej Krajewski"
-    },
-    {
-     "k": "decade",
-     "v": "1960s"
-    },
-    {
-     "k": "location",
-     "v": "Poland"
-    }
-   ],
-   "identity_established": true,
-   "published": false,
-   "verification": "Listed by polishpostergallery.com as “A Trap Cinderella”. Designer given as Andrzej Krajewski.",
-   "hue": 344.87,
-   "light": 0.4248,
-   "chroma": 0.9367,
-   "deleted": true,
-   "deleted_on": "2026-08-27"
-  },
   "poster shop::https://polishpostergallery.com/poster/krauze_amator": {
    "id": "CRVI000273",
    "minted": "2026-08-26",
@@ -13808,64 +13103,6 @@
    "hue": null,
    "light": 0.4552,
    "chroma": 0.0034
-  },
-  "poster shop::https://polishpostergallery.com/poster/mlodozeniec_jan_klute": {
-   "id": "CRVI000274",
-   "minted": "2026-08-26",
-   "original_file": "originals/CRVI000274.jpg",
-   "original_px": [
-    560,
-    800
-   ],
-   "original_bytes": 205713,
-   "identity": "poster shop::https://polishpostergallery.com/poster/mlodozeniec_jan_klute",
-   "maker": "Jan Młodożeniec",
-   "title": "Klute",
-   "subtitle": "Film Poster · 1973",
-   "year": "1973",
-   "verified_against": "Listed by polishpostergallery.com as “Klute”. Designer given as Jan Młodożeniec.",
-   "source_page": "https://polishpostergallery.com/poster/mlodozeniec_jan_klute",
-   "notes": [
-    "Metadata as published by Polish Poster Gallery, which states designer, type and year on the listing.",
-    "Held at 560x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default.",
-    "DELETED from the museum on 2026-08-27. The record is kept so CRVI000274 stays provably retired and is never reissued."
-   ],
-   "label": "",
-   "source_image": "https://poster.pl/posters/mlodozeniec_jan_klute.jpg?v=1726522808",
-   "source_px": [
-    560,
-    800
-   ],
-   "colors": [
-    "blue",
-    "pink"
-   ],
-   "tags": [
-    {
-     "k": "type",
-     "v": "film poster"
-    },
-    {
-     "k": "designer",
-     "v": "Jan Młodożeniec"
-    },
-    {
-     "k": "decade",
-     "v": "1970s"
-    },
-    {
-     "k": "location",
-     "v": "Poland"
-    }
-   ],
-   "identity_established": true,
-   "published": false,
-   "verification": "Listed by polishpostergallery.com as “Klute”. Designer given as Jan Młodożeniec.",
-   "hue": 335.4,
-   "light": 0.3744,
-   "chroma": 0.4947,
-   "deleted": true,
-   "deleted_on": "2026-08-27"
   },
   "poster shop::https://polishpostergallery.com/poster/pagowski_andrzej_1901_children": {
    "id": "CRVI000275",
@@ -14141,121 +13378,6 @@
    "hue": 29.19,
    "light": 0.5087,
    "chroma": 0.2388
-  },
-  "poster shop::https://polishpostergallery.com/poster/wasilewski_mieczyslaw_prowincjuszka": {
-   "id": "CRVI000280",
-   "minted": "2026-08-26",
-   "original_file": "originals/CRVI000280.jpg",
-   "original_px": [
-    546,
-    800
-   ],
-   "original_bytes": 106503,
-   "identity": "poster shop::https://polishpostergallery.com/poster/wasilewski_mieczyslaw_prowincjuszka",
-   "maker": "Mieczysław Wasilewski",
-   "title": "La Provincjale; The Girl from Lorraine",
-   "subtitle": "Film Poster · 1991",
-   "year": "1991",
-   "verified_against": "Listed by polishpostergallery.com as “La Provincjale; The Girl from Lorraine”. Designer given as Mieczysław Wasilewski.",
-   "source_page": "https://polishpostergallery.com/poster/wasilewski_mieczyslaw_prowincjuszka",
-   "notes": [
-    "Metadata as published by Polish Poster Gallery, which states designer, type and year on the listing.",
-    "Held at 546x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default.",
-    "DELETED from the museum on 2026-08-27. The record is kept so CRVI000280 stays provably retired and is never reissued."
-   ],
-   "label": "",
-   "source_image": "https://poster.pl/posters/wasilewski_mieczyslaw_prowincjuszka.jpg?v=1726523720",
-   "source_px": [
-    546,
-    800
-   ],
-   "colors": [
-    "white"
-   ],
-   "tags": [
-    {
-     "k": "type",
-     "v": "film poster"
-    },
-    {
-     "k": "designer",
-     "v": "Mieczysław Wasilewski"
-    },
-    {
-     "k": "decade",
-     "v": "1990s"
-    },
-    {
-     "k": "location",
-     "v": "Poland"
-    }
-   ],
-   "identity_established": true,
-   "published": false,
-   "verification": "Listed by polishpostergallery.com as “La Provincjale; The Girl from Lorraine”. Designer given as Mieczysław Wasilewski.",
-   "hue": null,
-   "light": 0.8598,
-   "chroma": 0.0,
-   "deleted": true,
-   "deleted_on": "2026-08-27"
-  },
-  "poster shop::https://polishpostergallery.com/poster/wasilewski_mieczyslaw_tanase_scatiu": {
-   "id": "CRVI000281",
-   "minted": "2026-08-26",
-   "original_file": "originals/CRVI000281.jpg",
-   "original_px": [
-    550,
-    800
-   ],
-   "original_bytes": 183213,
-   "identity": "poster shop::https://polishpostergallery.com/poster/wasilewski_mieczyslaw_tanase_scatiu",
-   "maker": "Mieczysław Wasilewski",
-   "title": "A Summer Tale",
-   "subtitle": "Film Poster · 1978",
-   "year": "1978",
-   "verified_against": "Listed by polishpostergallery.com as “A Summer Tale”. Designer given as Mieczysław Wasilewski.",
-   "source_page": "https://polishpostergallery.com/poster/wasilewski_mieczyslaw_tanase_scatiu",
-   "notes": [
-    "Metadata as published by Polish Poster Gallery, which states designer, type and year on the listing.",
-    "Held at 550x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default.",
-    "DELETED from the museum on 2026-08-27. The record is kept so CRVI000281 stays provably retired and is never reissued."
-   ],
-   "label": "",
-   "source_image": "https://poster.pl/posters/wasilewski_mieczyslaw_tanase_scatiu.jpg?v=1726523730",
-   "source_px": [
-    550,
-    800
-   ],
-   "colors": [
-    "orange",
-    "black"
-   ],
-   "tags": [
-    {
-     "k": "type",
-     "v": "film poster"
-    },
-    {
-     "k": "designer",
-     "v": "Mieczysław Wasilewski"
-    },
-    {
-     "k": "decade",
-     "v": "1970s"
-    },
-    {
-     "k": "location",
-     "v": "Poland"
-    }
-   ],
-   "identity_established": true,
-   "published": false,
-   "verification": "Listed by polishpostergallery.com as “A Summer Tale”. Designer given as Mieczysław Wasilewski.",
-   "hue": 36.04,
-   "light": 0.2106,
-   "chroma": 0.1124,
-   "deleted": true,
-   "deleted_on": "2026-08-27"
   },
   "poster shop::https://www.authenticvintageposters.com/collections/full-collection/products/formes-et-couleurs-ad-1": {
    "id": "CRVI000282",
@@ -14624,63 +13746,6 @@
    "light": 0.5219,
    "chroma": 0.3936
   },
-  "Jan Sawka::Cyrk — Pyramid of Acrobats": {
-   "id": "CRVI000290",
-   "minted": "2026-08-26",
-   "original_file": "originals/CRVI000290.jpg",
-   "original_px": [
-    458,
-    669
-   ],
-   "original_bytes": 104636,
-   "identity": "Jan Sawka::Cyrk — Pyramid of Acrobats",
-   "maker": "Jan Sawka",
-   "title": "Cyrk — Pyramid of Acrobats",
-   "subtitle": "Polish CYRK circus poster · acrobats on unicycles",
-   "year": "",
-   "verified_against": "Jan Sawka's CYRK circus poster, the pyramid of acrobats. Identified from the artwork and from Todd's own Artsy link for it (artsy.net/artwork/jan-sawka-circus-pyramid-of-acrobats), which 403s to automation but names the work. Held at 458x669 — a search thumbnail, the only source given.",
-   "source_page": "",
-   "notes": [
-    "No date recorded — none is given by any source Todd provided.",
-    "DELETED from the museum on 2026-08-27. The record is kept so CRVI000290 stays provably retired and is never reissued."
-   ],
-   "label": "",
-   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/museum/sawka_a.jpg",
-   "source_px": [
-    458,
-    669
-   ],
-   "colors": [
-    "yellow",
-    "red"
-   ],
-   "tags": [
-    {
-     "k": "designer",
-     "v": "Jan Sawka"
-    },
-    {
-     "k": "type",
-     "v": "poster"
-    },
-    {
-     "k": "location",
-     "v": "Poland"
-    },
-    {
-     "k": "subject",
-     "v": "circus"
-    }
-   ],
-   "identity_established": true,
-   "published": false,
-   "verification": "Jan Sawka's CYRK circus poster, the pyramid of acrobats. Identified from the artwork and from Todd's own Artsy link for it (artsy.net/artwork/jan-sawka-circus-pyramid-of-acrobats), which 403s to automation but names the work. Held at 458x669 — a search thumbnail, the only source given.",
-   "hue": 4.53,
-   "light": 0.6899,
-   "chroma": 0.5087,
-   "deleted": true,
-   "deleted_on": "2026-08-27"
-  },
   "Jan Sawka::Untitled": {
    "id": "CRVI000291",
    "minted": "2026-08-26",
@@ -14784,6 +13849,1011 @@
    "light": 0.335,
    "chroma": 0.9781,
    "source_label": "Supplied by Todd as an image; original listing not recorded"
+  },
+  "ele-king sweep::Club Jazz Definitive::IMG_4214_1": {
+   "id": "CRVI000216",
+   "minted": "2026-08-27",
+   "reused": true,
+   "previously": {
+    "identity": "NYT Kusama::Kusama with paper works, Tokyo (1957)",
+    "maker": "Yayoi Kusama",
+    "title": "Kusama with paper works, Tokyo",
+    "deleted_on": "2026-08-27"
+   },
+   "original_file": "originals/CRVI000216.jpg",
+   "original_px": [
+    600,
+    600
+   ],
+   "original_bytes": 166984,
+   "identity": "ele-king sweep::Club Jazz Definitive::IMG_4214_1",
+   "maker": "Izuru Utsumi",
+   "title": "Utsumi",
+   "subtitle": "Designer unknown · Flower",
+   "year": "2002",
+   "label": "Flower",
+   "verified_against": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Izuru Utsumi / Utsumi - EP (2002).",
+   "source_page": "",
+   "discogs_release": null,
+   "notes": [
+    "Artist corrected from the book read 'Utsumi' using iTunes, which Todd's approval of the cover confirms.",
+    "Title taken from iTunes ('Utsumi - EP'); the caption read 'Utsumi'.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging.",
+    "Title trimmed from 'Utsumi - EP': '- EP' is iTunes' product naming, not part of the album title the book prints."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4214_1.jpg",
+   "source_px": [
+    600,
+    600
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Izuru Utsumi"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Flower"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Izuru Utsumi / Utsumi - EP (2002).",
+   "hue": 37.82,
+   "light": 0.5726,
+   "chroma": 0.896
+  },
+  "ele-king sweep::Club Jazz Definitive::IMG_4217_1": {
+   "id": "CRVI000220",
+   "minted": "2026-08-27",
+   "reused": true,
+   "previously": {
+    "identity": "NYT Kusama::Narcissus Garden (1966/2021)",
+    "maker": "Yayoi Kusama",
+    "title": "Narcissus Garden",
+    "deleted_on": "2026-08-27"
+   },
+   "original_file": "originals/CRVI000220.jpg",
+   "original_px": [
+    1400,
+    1400
+   ],
+   "original_bytes": 422164,
+   "identity": "ele-king sweep::Club Jazz Definitive::IMG_4217_1",
+   "maker": "XRS Land",
+   "title": "Sarau",
+   "subtitle": "Designer unknown · Sambaloco",
+   "year": "1999",
+   "label": "Sambaloco",
+   "verified_against": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as XRS Land / Sarau (2003).",
+   "source_page": "",
+   "discogs_release": null,
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4217_1.jpg",
+   "source_px": [
+    1400,
+    1400
+   ],
+   "colors": [
+    "white"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "XRS Land"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Sambaloco"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as XRS Land / Sarau (2003).",
+   "hue": null,
+   "light": 0.9439,
+   "chroma": 0.0
+  },
+  "ele-king sweep::Club Jazz Definitive::IMG_4219_1": {
+   "id": "CRVI000223",
+   "minted": "2026-08-27",
+   "reused": true,
+   "previously": {
+    "identity": "NYT Kusama::Infinity Mirrored Room — Let's Survive Forever (2017)",
+    "maker": "Yayoi Kusama",
+    "title": "Infinity Mirrored Room — Let's Survive Forever",
+    "deleted_on": "2026-08-27"
+   },
+   "original_file": "originals/CRVI000223.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 586431,
+   "identity": "ele-king sweep::Club Jazz Definitive::IMG_4219_1",
+   "maker": "The Five Corners Quintet",
+   "title": "Hot Corner",
+   "subtitle": "Designer unknown · Ricky-Tick",
+   "year": "2008",
+   "label": "Ricky-Tick",
+   "verified_against": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as The Five Corners Quintet / Hot Corner (2008).",
+   "source_page": "",
+   "discogs_release": null,
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4219_1.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "The Five Corners Quintet"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Ricky-Tick"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as The Five Corners Quintet / Hot Corner (2008).",
+   "hue": 5.0,
+   "light": 0.2643,
+   "chroma": 0.1584
+  },
+  "ele-king sweep::Club Jazz Definitive::IMG_4224_1": {
+   "id": "CRVI000224",
+   "minted": "2026-08-27",
+   "reused": true,
+   "previously": {
+    "identity": "NYT Kusama::Kusama painting dots at a happening (1968)",
+    "maker": "Yayoi Kusama",
+    "title": "Kusama painting dots at a happening",
+    "deleted_on": "2026-08-27"
+   },
+   "original_file": "originals/CRVI000224.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 197674,
+   "identity": "ele-king sweep::Club Jazz Definitive::IMG_4224_1",
+   "maker": "SOIL & \"PIMP\" SESSIONS",
+   "title": "Pimp Of The Year",
+   "subtitle": "Designer unknown · Victor",
+   "year": "2006",
+   "label": "Victor",
+   "verified_against": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as SOIL & \"PIMP\" SESSIONS / Pimp of the Year (2007).",
+   "source_page": "",
+   "discogs_release": null,
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4224_1.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "SOIL & \"PIMP\" SESSIONS"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Victor"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as SOIL & \"PIMP\" SESSIONS / Pimp of the Year (2007).",
+   "hue": null,
+   "light": 0.599,
+   "chroma": 0.0452
+  },
+  "ele-king sweep::Club Jazz Definitive::IMG_4226_2": {
+   "id": "CRVI000230",
+   "minted": "2026-08-27",
+   "reused": true,
+   "previously": {
+    "identity": "ele-king sweep::Club Jazz Definitive::IMG_4165_1",
+    "maker": "Fez Combo",
+    "title": "Follow The Spirit",
+    "deleted_on": "2026-08-27"
+   },
+   "original_file": "originals/CRVI000230.jpg",
+   "original_px": [
+    1440,
+    1440
+   ],
+   "original_bytes": 296292,
+   "identity": "ele-king sweep::Club Jazz Definitive::IMG_4226_2",
+   "maker": "Me&You",
+   "title": "Floating Heavy",
+   "subtitle": "Designer unknown · Tru Thoughts",
+   "year": "2007",
+   "label": "Tru Thoughts",
+   "verified_against": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Me&You / Floating Heavy (2007).",
+   "source_page": "",
+   "discogs_release": null,
+   "notes": [
+    "Artist corrected from the book read 'Me & You' using iTunes, which Todd's approval of the cover confirms.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4226_2.jpg",
+   "source_px": [
+    1440,
+    1440
+   ],
+   "colors": [
+    "blue",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Me&You"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Tru Thoughts"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Me&You / Floating Heavy (2007).",
+   "hue": 204.24,
+   "light": 0.3941,
+   "chroma": 0.7652
+  },
+  "ele-king sweep::Club Jazz Definitive::IMG_4227_1": {
+   "id": "CRVI000245",
+   "minted": "2026-08-27",
+   "reused": true,
+   "previously": {
+    "identity": "ele-king sweep::Club Jazz Definitive::IMG_4211_1",
+    "maker": "Zimpala",
+    "title": "Almaviva",
+    "deleted_on": "2026-08-27"
+   },
+   "original_file": "originals/CRVI000245.jpg",
+   "original_px": [
+    1440,
+    1440
+   ],
+   "original_bytes": 552633,
+   "identity": "ele-king sweep::Club Jazz Definitive::IMG_4227_1",
+   "maker": "TM Juke",
+   "title": "Forward",
+   "subtitle": "Designer unknown · Tru Thoughts",
+   "year": "2006",
+   "label": "Tru Thoughts",
+   "verified_against": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as TM Juke / Forward (2006).",
+   "source_page": "",
+   "discogs_release": null,
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4227_1.jpg",
+   "source_px": [
+    1440,
+    1440
+   ],
+   "colors": [
+    "pink",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "TM Juke"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Tru Thoughts"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as TM Juke / Forward (2006).",
+   "hue": 307.44,
+   "light": 0.548,
+   "chroma": 0.5116
+  },
+  "ele-king sweep::Club Jazz Definitive::IMG_4228_1": {
+   "id": "CRVI000250",
+   "minted": "2026-08-27",
+   "reused": true,
+   "previously": {
+    "identity": "poster shop::https://polishposter.com/1058-harakiri-seppuku-polish-movie-poster.html",
+    "maker": "Waldemar Swierzy",
+    "title": "Harakiri",
+    "deleted_on": "2026-08-27"
+   },
+   "original_file": "originals/CRVI000250.jpg",
+   "original_px": [
+    1440,
+    1440
+   ],
+   "original_bytes": 306896,
+   "identity": "ele-king sweep::Club Jazz Definitive::IMG_4228_1",
+   "maker": "Belleruche",
+   "title": "Turntable Soul Music",
+   "subtitle": "Designer unknown · Tru Thoughts",
+   "year": "2007",
+   "label": "Tru Thoughts",
+   "verified_against": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Belleruche / Turntable Soul Music (2007).",
+   "source_page": "",
+   "discogs_release": null,
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4228_1.jpg",
+   "source_px": [
+    1440,
+    1440
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Belleruche"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Tru Thoughts"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Belleruche / Turntable Soul Music (2007).",
+   "hue": 4.42,
+   "light": 0.7771,
+   "chroma": 0.7739
+  },
+  "ele-king sweep::Club Jazz Definitive::IMG_4229_1": {
+   "id": "CRVI000267",
+   "minted": "2026-08-27",
+   "reused": true,
+   "previously": {
+    "identity": "poster shop::https://polishpostergallery.com/poster/cieslewicz_sprawa_dantona",
+    "maker": "Roman Cieślewicz",
+    "title": "The Danton Case",
+    "deleted_on": "2026-08-27"
+   },
+   "original_file": "originals/CRVI000267.jpg",
+   "original_px": [
+    1440,
+    1440
+   ],
+   "original_bytes": 203067,
+   "identity": "ele-king sweep::Club Jazz Definitive::IMG_4229_1",
+   "maker": "Unforscene",
+   "title": "Fingers And Thumbs",
+   "subtitle": "Designer unknown · Tru Thoughts",
+   "year": "2008",
+   "label": "Tru Thoughts",
+   "verified_against": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Unforscene / Fingers and Thumbs (2008).",
+   "source_page": "",
+   "discogs_release": null,
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4229_1.jpg",
+   "source_px": [
+    1440,
+    1440
+   ],
+   "colors": [
+    "orange",
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Unforscene"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Tru Thoughts"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Unforscene / Fingers and Thumbs (2008).",
+   "hue": 16.09,
+   "light": 0.1288,
+   "chroma": 0.4835
+  },
+  "ele-king sweep::Club Jazz Definitive::IMG_4231_1": {
+   "id": "CRVI000268",
+   "minted": "2026-08-27",
+   "reused": true,
+   "previously": {
+    "identity": "poster shop::https://polishpostergallery.com/poster/czerniawski_robert_borys_godunow",
+    "maker": "Robert Czerniawski",
+    "title": "Boris Godunov",
+    "deleted_on": "2026-08-27"
+   },
+   "original_file": "originals/CRVI000268.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 939022,
+   "identity": "ele-king sweep::Club Jazz Definitive::IMG_4231_1",
+   "maker": "Lack of Afro",
+   "title": "Press On",
+   "subtitle": "Designer unknown · Freestyle",
+   "year": "2007",
+   "label": "Freestyle",
+   "verified_against": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Lack of Afro / Press On (2007).",
+   "source_page": "",
+   "discogs_release": null,
+   "notes": [
+    "Artist corrected from the book read 'Lack Of Afro' using iTunes, which Todd's approval of the cover confirms.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4231_1.jpg",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Lack of Afro"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Freestyle"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Lack of Afro / Press On (2007).",
+   "hue": 36.68,
+   "light": 0.649,
+   "chroma": 0.4688
+  },
+  "ele-king sweep::Club Jazz Definitive::IMG_4232_1": {
+   "id": "CRVI000269",
+   "minted": "2026-08-27",
+   "reused": true,
+   "previously": {
+    "identity": "poster shop::https://polishpostergallery.com/poster/czerniawski_robert_burrowing",
+    "maker": "Robert Czerniawski",
+    "title": "Man Tanker Sitt",
+    "deleted_on": "2026-08-27"
+   },
+   "original_file": "originals/CRVI000269.jpg",
+   "original_px": [
+    1448,
+    1448
+   ],
+   "original_bytes": 179749,
+   "identity": "ele-king sweep::Club Jazz Definitive::IMG_4232_1",
+   "maker": "The Brandt Brauer Frick Ensemble",
+   "title": "Mr. Nachine",
+   "subtitle": "Designer unknown · Studio IK7",
+   "year": "2011",
+   "label": "Studio",
+   "verified_against": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as The Brandt Brauer Frick Ensemble / Mr. Machine (2011).",
+   "source_page": "",
+   "discogs_release": null,
+   "notes": [
+    "Artist corrected from the book read 'Ensemble' using iTunes, which Todd's approval of the cover confirms.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "catalogue": "IK7",
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4232_1.jpg",
+   "source_px": [
+    1448,
+    1448
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "The Brandt Brauer Frick Ensemble"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Studio IK7"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as The Brandt Brauer Frick Ensemble / Mr. Machine (2011).",
+   "hue": null,
+   "light": 0.9257,
+   "chroma": 0.0848
+  },
+  "ele-king sweep::Club Jazz Definitive::IMG_4235_1": {
+   "id": "CRVI000270",
+   "minted": "2026-08-27",
+   "reused": true,
+   "previously": {
+    "identity": "poster shop::https://polishpostergallery.com/poster/czerniawski_robert_ewangelia",
+    "maker": "Robert Czerniawski",
+    "title": "Gospel",
+    "deleted_on": "2026-08-27"
+   },
+   "original_file": "originals/CRVI000270.jpg",
+   "original_px": [
+    1400,
+    1400
+   ],
+   "original_bytes": 540052,
+   "identity": "ele-king sweep::Club Jazz Definitive::IMG_4235_1",
+   "maker": "Mop Mop",
+   "title": "Isle Of Magic",
+   "subtitle": "Designer unknown · Agogo",
+   "year": "2013",
+   "label": "Agogo",
+   "verified_against": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Mop Mop / Isle of Magic (2013).",
+   "source_page": "",
+   "discogs_release": null,
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4235_1.jpg",
+   "source_px": [
+    1400,
+    1400
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Mop Mop"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Agogo"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Mop Mop / Isle of Magic (2013).",
+   "hue": 30.66,
+   "light": 0.2253,
+   "chroma": 0.8194
+  },
+  "ele-king sweep::Club Jazz Definitive::IMG_4238_1": {
+   "id": "CRVI000272",
+   "minted": "2026-08-27",
+   "reused": true,
+   "previously": {
+    "identity": "poster shop::https://polishpostergallery.com/poster/krajewski_andrzej_kopciuszek_w_potrzasku",
+    "maker": "Andrzej Krajewski",
+    "title": "A Trap Cinderella",
+    "deleted_on": "2026-08-27"
+   },
+   "original_file": "originals/CRVI000272.jpg",
+   "original_px": [
+    1440,
+    1440
+   ],
+   "original_bytes": 932017,
+   "identity": "ele-king sweep::Club Jazz Definitive::IMG_4238_1",
+   "maker": "Meridian Brothers",
+   "title": "Desesperanza",
+   "subtitle": "Designer unknown · Soundway",
+   "year": "2012",
+   "label": "Soundway",
+   "verified_against": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Meridian Brothers / Desesperanza (2012).",
+   "source_page": "",
+   "discogs_release": null,
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4238_1.jpg",
+   "source_px": [
+    1440,
+    1440
+   ],
+   "colors": [
+    "orange",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Meridian Brothers"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Soundway"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Meridian Brothers / Desesperanza (2012).",
+   "hue": 41.6,
+   "light": 0.5315,
+   "chroma": 0.8315
+  },
+  "ele-king sweep::Club Jazz Definitive::IMG_4239_1": {
+   "id": "CRVI000274",
+   "minted": "2026-08-27",
+   "reused": true,
+   "previously": {
+    "identity": "poster shop::https://polishpostergallery.com/poster/mlodozeniec_jan_klute",
+    "maker": "Jan Młodożeniec",
+    "title": "Klute",
+    "deleted_on": "2026-08-27"
+   },
+   "original_file": "originals/CRVI000274.jpg",
+   "original_px": [
+    1000,
+    1000
+   ],
+   "original_bytes": 73775,
+   "identity": "ele-king sweep::Club Jazz Definitive::IMG_4239_1",
+   "maker": "DRC Music",
+   "title": "Kinshasa One Two",
+   "subtitle": "Designer unknown · Warp",
+   "year": "2011",
+   "label": "Warp Records",
+   "verified_against": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as DRC Music / Kinshasa One Two (2011).",
+   "source_page": "",
+   "discogs_release": null,
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4239_1.jpg",
+   "source_px": [
+    1000,
+    1000
+   ],
+   "colors": [
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "DRC Music"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Warp"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as DRC Music / Kinshasa One Two (2011).",
+   "hue": null,
+   "light": 0.0236,
+   "chroma": 0.0765
+  },
+  "ele-king sweep::Club Jazz Definitive::IMG_4241_2": {
+   "id": "CRVI000280",
+   "minted": "2026-08-27",
+   "reused": true,
+   "previously": {
+    "identity": "poster shop::https://polishpostergallery.com/poster/wasilewski_mieczyslaw_prowincjuszka",
+    "maker": "Mieczysław Wasilewski",
+    "title": "La Provincjale; The Girl from Lorraine",
+    "deleted_on": "2026-08-27"
+   },
+   "original_file": "originals/CRVI000280.jpg",
+   "original_px": [
+    1400,
+    1400
+   ],
+   "original_bytes": 122695,
+   "identity": "ele-king sweep::Club Jazz Definitive::IMG_4241_2",
+   "maker": "Mo Kolours",
+   "title": "Mo Kolours",
+   "subtitle": "Designer unknown · One-Handed Music",
+   "year": "2014",
+   "label": "One-Handed Music",
+   "verified_against": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Mo Kolours / Mo Kolours (2014).",
+   "source_page": "",
+   "discogs_release": null,
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4241_2.jpg",
+   "source_px": [
+    1400,
+    1400
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Mo Kolours"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "One-Handed Music"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Mo Kolours / Mo Kolours (2014).",
+   "hue": null,
+   "light": 0.5439,
+   "chroma": 0.0191
+  },
+  "ele-king sweep::Club Jazz Definitive::IMG_4243_1": {
+   "id": "CRVI000281",
+   "minted": "2026-08-27",
+   "reused": true,
+   "previously": {
+    "identity": "poster shop::https://polishpostergallery.com/poster/wasilewski_mieczyslaw_tanase_scatiu",
+    "maker": "Mieczysław Wasilewski",
+    "title": "A Summer Tale",
+    "deleted_on": "2026-08-27"
+   },
+   "original_file": "originals/CRVI000281.jpg",
+   "original_px": [
+    1400,
+    1400
+   ],
+   "original_bytes": 654561,
+   "identity": "ele-king sweep::Club Jazz Definitive::IMG_4243_1",
+   "maker": "Romare",
+   "title": "Projections",
+   "subtitle": "Designer unknown · Ninja Tune",
+   "year": "2015",
+   "label": "Ninja Tune",
+   "verified_against": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Romare / Projections (2015).",
+   "source_page": "",
+   "discogs_release": null,
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4243_1.jpg",
+   "source_px": [
+    1400,
+    1400
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Romare"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Ninja Tune"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Romare / Projections (2015).",
+   "hue": null,
+   "light": 0.8754,
+   "chroma": 0.0
+  },
+  "ele-king sweep::Club Jazz Definitive::IMG_4244_1": {
+   "id": "CRVI000290",
+   "minted": "2026-08-27",
+   "reused": true,
+   "previously": {
+    "identity": "Jan Sawka::Cyrk — Pyramid of Acrobats",
+    "maker": "Jan Sawka",
+    "title": "Cyrk — Pyramid of Acrobats",
+    "deleted_on": "2026-08-27"
+   },
+   "original_file": "originals/CRVI000290.jpg",
+   "original_px": [
+    1425,
+    1425
+   ],
+   "original_bytes": 612480,
+   "identity": "ele-king sweep::Club Jazz Definitive::IMG_4244_1",
+   "maker": "Portico Quartet",
+   "title": "Portico Quartet",
+   "subtitle": "Designer unknown · Real World",
+   "year": "2012",
+   "label": "Real World",
+   "verified_against": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Portico Quartet / Portico Quartet (2011).",
+   "source_page": "",
+   "discogs_release": null,
+   "notes": [
+    "Artist corrected from the book read 'Portico' using iTunes, which Todd's approval of the cover confirms.",
+    "Title taken from iTunes ('Portico Quartet'); the caption read 'Quartet'.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4244_1.jpg",
+   "source_px": [
+    1425,
+    1425
+   ],
+   "colors": [
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Portico Quartet"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Real World"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Portico Quartet / Portico Quartet (2011).",
+   "hue": 168.31,
+   "light": 0.168,
+   "chroma": 0.2898
   }
  }
 }
