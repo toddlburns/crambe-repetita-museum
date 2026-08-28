@@ -10284,6 +10284,52 @@
    "light": 0.2061
   },
   {
+   "id": "CRVI000220",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000220.jpg",
+   "source_label": "",
+   "image": "images/CRVI000220.jpg",
+   "original": "originals/CRVI000220.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 753996,
+   "maker": "James Brown & The Famous Flames",
+   "title": "Think!",
+   "subtitle": "Designer unknown · King",
+   "year": "1960",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "James Brown & The Famous Flames"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "King"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 54.32,
+   "light": 0.6982
+  },
+  {
    "id": "CRVI000221",
    "source_url": "https://www.nytimes.com/2026/08/27/arts/design/yayoi-kusama-photos-artwork.html",
    "animated": false,
@@ -13332,6 +13378,52 @@
    "light": 0.168
   },
   {
+   "id": "CRVI000291",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000291.jpg",
+   "source_label": "",
+   "image": "images/CRVI000291.jpg",
+   "original": "originals/CRVI000291.jpg",
+   "original_px": [
+    2840,
+    2840
+   ],
+   "original_bytes": 1062651,
+   "maker": "The Isley Brothers",
+   "title": "Shout!",
+   "subtitle": "Designer unknown · RCA",
+   "year": "1959",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "The Isley Brothers"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "RCA"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 344.77,
+   "light": 0.4867
+  },
+  {
    "id": "CRVI000292",
    "source_url": "",
    "animated": false,
@@ -14896,6 +14988,2248 @@
    ],
    "hue": 335.04,
    "light": 0.3386
+  },
+  {
+   "id": "CRVI000327",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000327.jpg",
+   "source_label": "",
+   "image": "images/CRVI000327.jpg",
+   "original": "originals/CRVI000327.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 362622,
+   "maker": "The Marvelettes",
+   "title": "Please Mr. Postman",
+   "subtitle": "Designer unknown · Tamla",
+   "year": "1961",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "The Marvelettes"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Tamla"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 4.99,
+   "light": 0.7883
+  },
+  {
+   "id": "CRVI000328",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000328.jpg",
+   "source_label": "",
+   "image": "images/CRVI000328.jpg",
+   "original": "originals/CRVI000328.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 2902931,
+   "maker": "Stevie Wonder",
+   "title": "Signed, Sealed & Delivered I'm Yours",
+   "subtitle": "Designer unknown · Motown",
+   "year": "1970",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Stevie Wonder"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Motown"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 36.0,
+   "light": 0.7411
+  },
+  {
+   "id": "CRVI000329",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000329.jpg",
+   "source_label": "",
+   "image": "images/CRVI000329.jpg",
+   "original": "originals/CRVI000329.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 551566,
+   "maker": "Marvin Gaye & Tammi Terrell",
+   "title": "United",
+   "subtitle": "Designer unknown · Tamla",
+   "year": "1967",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Marvin Gaye & Tammi Terrell"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Tamla"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 29.48,
+   "light": 0.5358
+  },
+  {
+   "id": "CRVI000330",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000330.jpg",
+   "source_label": "",
+   "image": "images/CRVI000330.jpg",
+   "original": "originals/CRVI000330.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 829324,
+   "maker": "Marvin Gaye",
+   "title": "In The Groove",
+   "subtitle": "Designer unknown · Tamla",
+   "year": "1968",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Marvin Gaye"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Tamla"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 95.2,
+   "light": 0.5241
+  },
+  {
+   "id": "CRVI000331",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000331.jpg",
+   "source_label": "",
+   "image": "images/CRVI000331.jpg",
+   "original": "originals/CRVI000331.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 3488350,
+   "maker": "Shorty Long",
+   "title": "Here Comes The Judge",
+   "subtitle": "Designer unknown · Soul",
+   "year": "1968",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Shorty Long"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Soul"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 34.01,
+   "light": 0.3607
+  },
+  {
+   "id": "CRVI000332",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000332.jpg",
+   "source_label": "",
+   "image": "images/CRVI000332.jpg",
+   "original": "originals/CRVI000332.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 1498976,
+   "maker": "100 Proof (Aged In Soul)",
+   "title": "Somebody's Been Sleeping in My Bed",
+   "subtitle": "Designer unknown · HotWax",
+   "year": "1970",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "100 Proof (Aged In Soul)"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "HotWax"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 19.28,
+   "light": 0.6045
+  },
+  {
+   "id": "CRVI000333",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000333.jpg",
+   "source_label": "",
+   "image": "images/CRVI000333.jpg",
+   "original": "originals/CRVI000333.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 2088839,
+   "maker": "100 Proof (Aged In Soul)",
+   "title": "100 Proof Aged In Soul",
+   "subtitle": "Designer unknown · Hot Wax",
+   "year": "1972",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "100 Proof (Aged In Soul)"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Hot Wax"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "black"
+    }
+   ],
+   "hue": 12.39,
+   "light": 0.1619
+  },
+  {
+   "id": "CRVI000334",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000334.jpg",
+   "source_label": "",
+   "image": "images/CRVI000334.jpg",
+   "original": "originals/CRVI000334.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 1716548,
+   "maker": "Chairmen of the Board",
+   "title": "Give Me Just A Little More Time",
+   "subtitle": "Designer unknown · Invictus",
+   "year": "1970",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Chairmen of the Board"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Invictus"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 181.26,
+   "light": 0.2964
+  },
+  {
+   "id": "CRVI000335",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000335.jpg",
+   "source_label": "",
+   "image": "images/CRVI000335.jpg",
+   "original": "originals/CRVI000335.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 335546,
+   "maker": "Sam & Dave",
+   "title": "Hold On, I'm Comin'",
+   "subtitle": "Designer unknown · Stax",
+   "year": "1966",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Sam & Dave"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Stax"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 56.17,
+   "light": 0.5669
+  },
+  {
+   "id": "CRVI000336",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000336.jpg",
+   "source_label": "",
+   "image": "images/CRVI000336.jpg",
+   "original": "originals/CRVI000336.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 504409,
+   "maker": "The Bar-Kays",
+   "title": "Soul Finger",
+   "subtitle": "Designer unknown · Volt",
+   "year": "1967",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "The Bar-Kays"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Volt"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 3.14,
+   "light": 0.5917
+  },
+  {
+   "id": "CRVI000337",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000337.jpg",
+   "source_label": "",
+   "image": "images/CRVI000337.jpg",
+   "original": "originals/CRVI000337.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 546791,
+   "maker": "Various Artists",
+   "title": "Recorded Live Motortown Revue In Paris",
+   "subtitle": "Designer unknown · Universal",
+   "year": "2016",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Various Artists"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Universal"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    }
+   ],
+   "hue": 215.56,
+   "light": 0.3331
+  },
+  {
+   "id": "CRVI000338",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000338.jpg",
+   "source_label": "",
+   "image": "images/CRVI000338.jpg",
+   "original": "originals/CRVI000338.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 495014,
+   "maker": "Eddie Floyd",
+   "title": "Knock On Wood",
+   "subtitle": "Designer unknown · Stex",
+   "year": "1967",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Eddie Floyd"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Stex"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 44.61,
+   "light": 0.5239
+  },
+  {
+   "id": "CRVI000339",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000339.jpg",
+   "source_label": "",
+   "image": "images/CRVI000339.jpg",
+   "original": "originals/CRVI000339.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 469558,
+   "maker": "Arif Mardin",
+   "title": "Glass Onion",
+   "subtitle": "Designer unknown · Atlantic",
+   "year": "1969",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Arif Mardin"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Atlantic"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 8.73,
+   "light": 0.2164
+  },
+  {
+   "id": "CRVI000340",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000340.jpg",
+   "source_label": "",
+   "image": "images/CRVI000340.jpg",
+   "original": "originals/CRVI000340.jpg",
+   "original_px": [
+    1440,
+    1429
+   ],
+   "original_bytes": 277125,
+   "maker": "Wilson Pickett",
+   "title": "The Exciting Wilson Pickett",
+   "subtitle": "Designer unknown · Atlantic",
+   "year": "1966",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Wilson Pickett"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Atlantic"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 345.4,
+   "light": 0.6487
+  },
+  {
+   "id": "CRVI000341",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000341.jpg",
+   "source_label": "",
+   "image": "images/CRVI000341.jpg",
+   "original": "originals/CRVI000341.jpg",
+   "original_px": [
+    1423,
+    1411
+   ],
+   "original_bytes": 635152,
+   "maker": "Terry Callier",
+   "title": "Occasional Rain",
+   "subtitle": "Designer unknown · Coder",
+   "year": "1972",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Terry Callier"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Coder"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 135.45,
+   "light": 0.2641
+  },
+  {
+   "id": "CRVI000342",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000342.jpg",
+   "source_label": "",
+   "image": "images/CRVI000342.jpg",
+   "original": "originals/CRVI000342.jpg",
+   "original_px": [
+    1400,
+    1400
+   ],
+   "original_bytes": 397981,
+   "maker": "Major Lance",
+   "title": "Um, Um, Um, Um, Um, Um (Seasaint Version)",
+   "subtitle": "Designer unknown · Okeh",
+   "year": "1964",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Major Lance"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Okeh"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 35.0,
+   "light": 0.5937
+  },
+  {
+   "id": "CRVI000343",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000343.jpg",
+   "source_label": "",
+   "image": "images/CRVI000343.jpg",
+   "original": "originals/CRVI000343.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 552180,
+   "maker": "Walter Jackson",
+   "title": "It's All Over",
+   "subtitle": "Designer unknown · Okeh",
+   "year": "1965",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Walter Jackson"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Okeh"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    }
+   ],
+   "hue": 46.02,
+   "light": 0.7352
+  },
+  {
+   "id": "CRVI000344",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000344.jpg",
+   "source_label": "",
+   "image": "images/CRVI000344.jpg",
+   "original": "originals/CRVI000344.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 617717,
+   "maker": "James Brown & The Famous Flames",
+   "title": "Cold Sweat",
+   "subtitle": "Designer unknown · King",
+   "year": "1967",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "James Brown & The Famous Flames"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "King"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 209.26,
+   "light": 0.4314
+  },
+  {
+   "id": "CRVI000345",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000345.jpg",
+   "source_label": "",
+   "image": "images/CRVI000345.jpg",
+   "original": "originals/CRVI000345.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 478495,
+   "maker": "Sly & The Family Stone",
+   "title": "A Whole New Thing (Bonus Tracks Edition) [2007 Remaster]",
+   "subtitle": "Designer unknown · Epic",
+   "year": "1967",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Sly & The Family Stone"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Epic"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "black"
+    }
+   ],
+   "hue": 15.25,
+   "light": 0.1837
+  },
+  {
+   "id": "CRVI000346",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000346.jpg",
+   "source_label": "",
+   "image": "images/CRVI000346.jpg",
+   "original": "originals/CRVI000346.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 354328,
+   "maker": "The J.B.'s",
+   "title": "Food For Thought",
+   "subtitle": "Designer unknown · People",
+   "year": "1972",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "The J.B.'s"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "People"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 358.86,
+   "light": 0.3361
+  },
+  {
+   "id": "CRVI000347",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000347.jpg",
+   "source_label": "",
+   "image": "images/CRVI000347.jpg",
+   "original": "originals/CRVI000347.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 4917897,
+   "maker": "Funkadelic",
+   "title": "Standing On The Verge Of Getting It On",
+   "subtitle": "Designer unknown · Westbound",
+   "year": "1974",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Funkadelic"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Westbound"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 195.63,
+   "light": 0.4135
+  },
+  {
+   "id": "CRVI000348",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000348.jpg",
+   "source_label": "",
+   "image": "images/CRVI000348.jpg",
+   "original": "originals/CRVI000348.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 995592,
+   "maker": "Eddie Hazel",
+   "title": "Game, Dames And Guitar Thangs",
+   "subtitle": "Designer unknown · Warner",
+   "year": "1977",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Eddie Hazel"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Warner"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 19.09,
+   "light": 0.2947
+  },
+  {
+   "id": "CRVI000349",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000349.jpg",
+   "source_label": "",
+   "image": "images/CRVI000349.jpg",
+   "original": "originals/CRVI000349.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 565822,
+   "maker": "Bernie Worrell",
+   "title": "All The Woo In The World",
+   "subtitle": "Designer unknown · Arista",
+   "year": "1978",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Bernie Worrell"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Arista"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 35.73,
+   "light": 0.2983
+  },
+  {
+   "id": "CRVI000350",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000350.jpg",
+   "source_label": "",
+   "image": "images/CRVI000350.jpg",
+   "original": "originals/CRVI000350.jpg",
+   "original_px": [
+    2400,
+    2400
+   ],
+   "original_bytes": 1348854,
+   "maker": "The Brides of Funkenstein",
+   "title": "Funk Or Walk",
+   "subtitle": "Designer unknown · Warner",
+   "year": "1978",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "The Brides of Funkenstein"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Warner"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "black"
+    }
+   ],
+   "hue": 53.29,
+   "light": 0.1051
+  },
+  {
+   "id": "CRVI000351",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000351.jpg",
+   "source_label": "",
+   "image": "images/CRVI000351.jpg",
+   "original": "originals/CRVI000351.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 542888,
+   "maker": "Parlet",
+   "title": "Pleasure Principle",
+   "subtitle": "Designer unknown · Casablanca",
+   "year": "1978",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Parlet"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Casablanca"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 23.68,
+   "light": 0.3109
+  },
+  {
+   "id": "CRVI000352",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000352.jpg",
+   "source_label": "",
+   "image": "images/CRVI000352.jpg",
+   "original": "originals/CRVI000352.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 485221,
+   "maker": "Earth, Wind & Fire",
+   "title": "AIl 'N' AIl",
+   "subtitle": "Designer unknown · Columbia",
+   "year": "1977",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Earth, Wind & Fire"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Columbia"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 196.25,
+   "light": 0.5536
+  },
+  {
+   "id": "CRVI000353",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000353.jpg",
+   "source_label": "",
+   "image": "images/CRVI000353.jpg",
+   "original": "originals/CRVI000353.jpg",
+   "original_px": [
+    1542,
+    1400
+   ],
+   "original_bytes": 199709,
+   "maker": "Betty Davis",
+   "title": "Betty Davis",
+   "subtitle": "Designer unknown · Just Sunshine",
+   "year": "1973",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Betty Davis"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Just Sunshine"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 23.36,
+   "light": 0.3763
+  },
+  {
+   "id": "CRVI000354",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000354.jpg",
+   "source_label": "",
+   "image": "images/CRVI000354.jpg",
+   "original": "originals/CRVI000354.jpg",
+   "original_px": [
+    1400,
+    1400
+   ],
+   "original_bytes": 358853,
+   "maker": "Wah Wah Watson",
+   "title": "Elementary",
+   "subtitle": "Designer unknown · Columbia",
+   "year": "1976",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Wah Wah Watson"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Columbia"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 357.68,
+   "light": 0.2871
+  },
+  {
+   "id": "CRVI000355",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000355.jpg",
+   "source_label": "",
+   "image": "images/CRVI000355.jpg",
+   "original": "originals/CRVI000355.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 2534099,
+   "maker": "Isaac Hayes",
+   "title": "...To Be Continued",
+   "subtitle": "Designer unknown · Enterprise",
+   "year": "1970",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Isaac Hayes"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Enterprise"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 5.03,
+   "light": 0.4362
+  },
+  {
+   "id": "CRVI000356",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000356.jpg",
+   "source_label": "",
+   "image": "images/CRVI000356.jpg",
+   "original": "originals/CRVI000356.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 989364,
+   "maker": "The Bar-Kays",
+   "title": "Money Talks",
+   "subtitle": "Designer unknown · Stax",
+   "year": "1978",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "The Bar-Kays"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Stax"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 323.84,
+   "light": 0.5305
+  },
+  {
+   "id": "CRVI000357",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000357.jpg",
+   "source_label": "",
+   "image": "images/CRVI000357.jpg",
+   "original": "originals/CRVI000357.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 609522,
+   "maker": "The Meters",
+   "title": "Rejuvenation",
+   "subtitle": "Designer unknown · Reprise",
+   "year": "1974",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "The Meters"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Reprise"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 336.26,
+   "light": 0.5471
+  },
+  {
+   "id": "CRVI000358",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000358.jpg",
+   "source_label": "",
+   "image": "images/CRVI000358.jpg",
+   "original": "originals/CRVI000358.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 881144,
+   "maker": "Stevie Wonder",
+   "title": "Fulfillingness' First Finale",
+   "subtitle": "Designer unknown · Tamla",
+   "year": "1974",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Stevie Wonder"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Tamla"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 17.57,
+   "light": 0.5846
+  },
+  {
+   "id": "CRVI000359",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000359.jpg",
+   "source_label": "",
+   "image": "images/CRVI000359.jpg",
+   "original": "originals/CRVI000359.jpg",
+   "original_px": [
+    2400,
+    2400
+   ],
+   "original_bytes": 958767,
+   "maker": "The Staple Singers",
+   "title": "Let's Do It Again (Original Soundtrack)",
+   "subtitle": "Designer unknown · Curtom",
+   "year": "1975",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "The Staple Singers"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Curtom"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 44.81,
+   "light": 0.7295
+  },
+  {
+   "id": "CRVI000360",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000360.jpg",
+   "source_label": "",
+   "image": "images/CRVI000360.jpg",
+   "original": "originals/CRVI000360.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 440409,
+   "maker": "O.V. WRIGHT",
+   "title": "Into Something (Can't Shake Loose)",
+   "subtitle": "Designer unknown · Hi",
+   "year": "1977",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "O.V. WRIGHT"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Hi"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "black"
+    }
+   ],
+   "hue": 33.08,
+   "light": 0.2158
+  },
+  {
+   "id": "CRVI000361",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000361.jpg",
+   "source_label": "",
+   "image": "images/CRVI000361.jpg",
+   "original": "originals/CRVI000361.jpg",
+   "original_px": [
+    1760,
+    1760
+   ],
+   "original_bytes": 803962,
+   "maker": "Betty Wright",
+   "title": "Hard to Stop",
+   "subtitle": "Designer unknown · TK",
+   "year": "1973",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Betty Wright"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "TK"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 26.6,
+   "light": 0.4691
+  },
+  {
+   "id": "CRVI000362",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000362.jpg",
+   "source_label": "",
+   "image": "images/CRVI000362.jpg",
+   "original": "originals/CRVI000362.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 1917191,
+   "maker": "Millie Jackson",
+   "title": "Caught Up",
+   "subtitle": "Designer unknown · Spring",
+   "year": "1974",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Millie Jackson"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Spring"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "neutral"
+    }
+   ],
+   "hue": null,
+   "light": 0.2
+  },
+  {
+   "id": "CRVI000363",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000363.jpg",
+   "source_label": "",
+   "image": "images/CRVI000363.jpg",
+   "original": "originals/CRVI000363.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 1246608,
+   "maker": "Billy Paul",
+   "title": "360 Degrees of Billy Paul",
+   "subtitle": "Designer unknown · Philadelphia International",
+   "year": "1972",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Billy Paul"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Philadelphia International"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 23.04,
+   "light": 0.5397
+  },
+  {
+   "id": "CRVI000364",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000364.jpg",
+   "source_label": "",
+   "image": "images/CRVI000364.jpg",
+   "original": "originals/CRVI000364.jpg",
+   "original_px": [
+    1407,
+    1407
+   ],
+   "original_bytes": 667007,
+   "maker": "The Miracles",
+   "title": "City of Angels",
+   "subtitle": "Designer unknown · Tamla",
+   "year": "1975",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "The Miracles"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Tamla"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 26.25,
+   "light": 0.5583
+  },
+  {
+   "id": "CRVI000365",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000365.jpg",
+   "source_label": "",
+   "image": "images/CRVI000365.jpg",
+   "original": "originals/CRVI000365.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 515610,
+   "maker": "Herbie Hancock",
+   "title": "Future Shock",
+   "subtitle": "Designer unknown · Columbia",
+   "year": "1983",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Herbie Hancock"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Columbia"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 206.05,
+   "light": 0.223
+  },
+  {
+   "id": "CRVI000366",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000366.jpg",
+   "source_label": "",
+   "image": "images/CRVI000366.jpg",
+   "original": "originals/CRVI000366.jpg",
+   "original_px": [
+    1417,
+    1417
+   ],
+   "original_bytes": 375553,
+   "maker": "Dayton",
+   "title": "Hot Fun",
+   "subtitle": "Designer unknown · Capitol",
+   "year": "1982",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Dayton"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Capitol"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 38.01,
+   "light": 0.6049
+  },
+  {
+   "id": "CRVI000367",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000367.jpg",
+   "source_label": "",
+   "image": "images/CRVI000367.jpg",
+   "original": "originals/CRVI000367.jpg",
+   "original_px": [
+    1425,
+    1425
+   ],
+   "original_bytes": 316838,
+   "maker": "The Time",
+   "title": "What Time Is It?",
+   "subtitle": "Designer unknown · Warner",
+   "year": "1982",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "The Time"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Warner"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 14.48,
+   "light": 0.3011
+  },
+  {
+   "id": "CRVI000368",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000368.jpg",
+   "source_label": "",
+   "image": "images/CRVI000368.jpg",
+   "original": "originals/CRVI000368.jpg",
+   "original_px": [
+    1501,
+    1501
+   ],
+   "original_bytes": 665464,
+   "maker": "Redd Hott",
+   "title": "Redd Hott #1",
+   "subtitle": "Designer unknown · Venture",
+   "year": "1982",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Redd Hott"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Venture"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    }
+   ],
+   "hue": 345.11,
+   "light": 0.5821
+  },
+  {
+   "id": "CRVI000369",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000369.jpg",
+   "source_label": "",
+   "image": "images/CRVI000369.jpg",
+   "original": "originals/CRVI000369.jpg",
+   "original_px": [
+    1440,
+    1440
+   ],
+   "original_bytes": 960830,
+   "maker": "The Deele",
+   "title": "Eyes Of A Stranger",
+   "subtitle": "Designer unknown · Solar",
+   "year": "1987",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "The Deele"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Solar"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 22.81,
+   "light": 0.3555
+  },
+  {
+   "id": "CRVI000370",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000370.jpg",
+   "source_label": "",
+   "image": "images/CRVI000370.jpg",
+   "original": "originals/CRVI000370.jpg",
+   "original_px": [
+    1708,
+    1519
+   ],
+   "original_bytes": 558238,
+   "maker": "The Neville Brothers",
+   "title": "Neville - Ization",
+   "subtitle": "Designer unknown · Black Top",
+   "year": "1984",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "The Neville Brothers"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Black Top"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 52.63,
+   "light": 0.713
+  },
+  {
+   "id": "CRVI000371",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000371.jpg",
+   "source_label": "",
+   "image": "images/CRVI000371.jpg",
+   "original": "originals/CRVI000371.jpg",
+   "original_px": [
+    1906,
+    1898
+   ],
+   "original_bytes": 1665153,
+   "maker": "The Neville Brothers",
+   "title": "Fiyo On The Bayou",
+   "subtitle": "Designer unknown · ASM",
+   "year": "1981",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "The Neville Brothers"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "ASM"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 15.63,
+   "light": 0.3902
+  },
+  {
+   "id": "CRVI000372",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000372.jpg",
+   "source_label": "",
+   "image": "images/CRVI000372.jpg",
+   "original": "originals/CRVI000372.jpg",
+   "original_px": [
+    1404,
+    1404
+   ],
+   "original_bytes": 265590,
+   "maker": "Maze featuring Frankie Beverly",
+   "title": "Can't Stop the Love (2004 Remaster)",
+   "subtitle": "Designer unknown · Capitol",
+   "year": "1985",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Maze featuring Frankie Beverly"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Capitol"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "black"
+    }
+   ],
+   "hue": 207.13,
+   "light": 0.0985
+  },
+  {
+   "id": "CRVI000373",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000373.jpg",
+   "source_label": "",
+   "image": "images/CRVI000373.jpg",
+   "original": "originals/CRVI000373.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 533218,
+   "maker": "Mint Condition",
+   "title": "Meant To Be Mint",
+   "subtitle": "Designer unknown · Perspective",
+   "year": "1991",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Mint Condition"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Perspective"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 6.8,
+   "light": 0.4678
+  },
+  {
+   "id": "CRVI000374",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000374.jpg",
+   "source_label": "",
+   "image": "images/CRVI000374.jpg",
+   "original": "originals/CRVI000374.jpg",
+   "original_px": [
+    1482,
+    1482
+   ],
+   "original_bytes": 518865,
+   "maker": "TLC",
+   "title": "Ooooooohhh... On The TLC Tip",
+   "subtitle": "Designer unknown · Laface",
+   "year": "1992",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "TLC"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Laface"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 348.61,
+   "light": 0.6236
+  },
+  {
+   "id": "CRVI000375",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000375.jpg",
+   "source_label": "",
+   "image": "images/CRVI000375.jpg",
+   "original": "originals/CRVI000375.jpg",
+   "original_px": [
+    1400,
+    1400
+   ],
+   "original_bytes": 171404,
+   "maker": "Sharon Jones & The Dap-Kings",
+   "title": "Dap Dippin' with Sharon Jones and the Dap-Kings",
+   "subtitle": "Designer unknown · Daptone",
+   "year": "2002",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Sharon Jones & The Dap-Kings"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Daptone"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "black"
+    }
+   ],
+   "hue": 356.21,
+   "light": 0.1302
   }
  ]
 }

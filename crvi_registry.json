@@ -1,5 +1,5 @@
 {
- "next": 327,
+ "next": 376,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -14803,7 +14803,11 @@
    "published": false,
    "verification": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Fez Combo / Follow the Spirit (1996).",
    "deleted": true,
-   "deleted_on": "2026-08-28"
+   "deleted_on": "2026-08-28",
+   "number_reused": true,
+   "hue": 54.32,
+   "light": 0.6982,
+   "chroma": 0.8946
   },
   "ele-king sweep::Club Jazz Definitive::IMG_4211_1": {
    "id": "CRVI000291",
@@ -14864,7 +14868,11 @@
    "published": false,
    "verification": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Zimpala / Almaviva (2001).",
    "deleted": true,
-   "deleted_on": "2026-08-28"
+   "deleted_on": "2026-08-28",
+   "number_reused": true,
+   "hue": 344.77,
+   "light": 0.4867,
+   "chroma": 0.9139
   },
   "ele-king sweep::Techno Definitive::IMG_4610_1": {
    "id": "CRVI000293",
@@ -16707,6 +16715,2802 @@
    "hue": 335.04,
    "light": 0.3386,
    "chroma": 0.1296
+  },
+  "ele-king sweep::Soul Definitive::IMG_4698_1": {
+   "id": "CRVI000220",
+   "minted": "2026-08-27",
+   "reused": true,
+   "previously": {
+    "identity": "ele-king sweep::Club Jazz Definitive::IMG_4165_1",
+    "maker": "Fez Combo",
+    "title": "Follow The Spirit",
+    "deleted_on": "2026-08-28"
+   },
+   "original_file": "originals/CRVI000220.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 753996,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4698_1",
+   "maker": "James Brown & The Famous Flames",
+   "title": "Think!",
+   "subtitle": "Designer unknown · King",
+   "year": "1960",
+   "label": "King",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as James Brown & The Famous Flames / Think! (1960).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4698_1.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "James Brown & The Famous Flames"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "King"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as James Brown & The Famous Flames / Think! (1960).",
+   "hue": 54.32,
+   "light": 0.6982,
+   "chroma": 0.8946
+  },
+  "ele-king sweep::Soul Definitive::IMG_4699_1": {
+   "id": "CRVI000291",
+   "minted": "2026-08-27",
+   "reused": true,
+   "previously": {
+    "identity": "ele-king sweep::Club Jazz Definitive::IMG_4211_1",
+    "maker": "Zimpala",
+    "title": "Almaviva",
+    "deleted_on": "2026-08-28"
+   },
+   "original_file": "originals/CRVI000291.jpg",
+   "original_px": [
+    2840,
+    2840
+   ],
+   "original_bytes": 1062651,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4699_1",
+   "maker": "The Isley Brothers",
+   "title": "Shout!",
+   "subtitle": "Designer unknown · RCA",
+   "year": "1959",
+   "label": "RCA",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as The Isley Brothers / Shout! (1959).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4699_1.jpg",
+   "source_px": [
+    2840,
+    2840
+   ],
+   "colors": [
+    "pink",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "The Isley Brothers"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "RCA"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as The Isley Brothers / Shout! (1959).",
+   "hue": 344.77,
+   "light": 0.4867,
+   "chroma": 0.9139
+  },
+  "ele-king sweep::Soul Definitive::IMG_4702_1": {
+   "id": "CRVI000327",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000327.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 362622,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4702_1",
+   "maker": "The Marvelettes",
+   "title": "Please Mr. Postman",
+   "subtitle": "Designer unknown · Tamla",
+   "year": "1961",
+   "label": "Tamla",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as The Marvelettes / Please Mr. Postman (1961).",
+   "notes": [
+    "Artist corrected from the book read 'Marvelettes' using iTunes.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4702_1.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "yellow",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "The Marvelettes"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Tamla"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as The Marvelettes / Please Mr. Postman (1961).",
+   "hue": 4.99,
+   "light": 0.7883,
+   "chroma": 0.3059
+  },
+  "ele-king sweep::Soul Definitive::IMG_4704_1": {
+   "id": "CRVI000328",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000328.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 2902931,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4704_1",
+   "maker": "Stevie Wonder",
+   "title": "Signed, Sealed & Delivered I'm Yours",
+   "subtitle": "Designer unknown · Motown",
+   "year": "1970",
+   "label": "Motown",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Stevie Wonder / Signed Sealed and Delivered (1970).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4704_1.jpg",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "orange",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Stevie Wonder"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Motown"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Stevie Wonder / Signed Sealed and Delivered (1970).",
+   "hue": 36.0,
+   "light": 0.7411,
+   "chroma": 0.5345
+  },
+  "ele-king sweep::Soul Definitive::IMG_4705_1": {
+   "id": "CRVI000329",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000329.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 551566,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4705_1",
+   "maker": "Marvin Gaye & Tammi Terrell",
+   "title": "United",
+   "subtitle": "Designer unknown · Tamla",
+   "year": "1967",
+   "label": "Tamla",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Marvin Gaye & Tammi Terrell / United (1967).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4705_1.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Marvin Gaye & Tammi Terrell"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Tamla"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Marvin Gaye & Tammi Terrell / United (1967).",
+   "hue": 29.48,
+   "light": 0.5358,
+   "chroma": 0.9264
+  },
+  "ele-king sweep::Soul Definitive::IMG_4706_1": {
+   "id": "CRVI000330",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000330.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 829324,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4706_1",
+   "maker": "Marvin Gaye",
+   "title": "In The Groove",
+   "subtitle": "Designer unknown · Tamla",
+   "year": "1968",
+   "label": "Tamla",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Marvin Gaye / In the Groove (1968).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4706_1.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "green",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Marvin Gaye"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Tamla"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Marvin Gaye / In the Groove (1968).",
+   "hue": 95.2,
+   "light": 0.5241,
+   "chroma": 0.633
+  },
+  "ele-king sweep::Soul Definitive::IMG_4708_1": {
+   "id": "CRVI000331",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000331.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 3488350,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4708_1",
+   "maker": "Shorty Long",
+   "title": "Here Comes The Judge",
+   "subtitle": "Designer unknown · Soul",
+   "year": "1968",
+   "label": "Soul",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Shorty Long / Here Comes The Judge (Expanded Edition) (1968).",
+   "notes": [
+    "⚠️ iTunes returned this as 'Here Comes The Judge (Expanded Edition)' — an explicitly REISSUED edition, so this artwork is very likely not the pressing the book describes.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4708_1.jpg",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Shorty Long"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Soul"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Shorty Long / Here Comes The Judge (Expanded Edition) (1968).",
+   "hue": 34.01,
+   "light": 0.3607,
+   "chroma": 0.8198
+  },
+  "ele-king sweep::Soul Definitive::IMG_4709_1": {
+   "id": "CRVI000332",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000332.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 1498976,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4709_1",
+   "maker": "100 Proof (Aged In Soul)",
+   "title": "Somebody's Been Sleeping in My Bed",
+   "subtitle": "Designer unknown · HotWax",
+   "year": "1970",
+   "label": "HotWax",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as 100 Proof (Aged In Soul) / Somebody's Been Sleeping in My Bed (1971).",
+   "notes": [
+    "Artist corrected from the book read '100 Proof Aged In Soul' using iTunes.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4709_1.jpg",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "100 Proof (Aged In Soul)"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "HotWax"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as 100 Proof (Aged In Soul) / Somebody's Been Sleeping in My Bed (1971).",
+   "hue": 19.28,
+   "light": 0.6045,
+   "chroma": 0.2468
+  },
+  "ele-king sweep::Soul Definitive::IMG_4710_1": {
+   "id": "CRVI000333",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000333.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 2088839,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4710_1",
+   "maker": "100 Proof (Aged In Soul)",
+   "title": "100 Proof Aged In Soul",
+   "subtitle": "Designer unknown · Hot Wax",
+   "year": "1972",
+   "label": "Hot Wax",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as 100 Proof (Aged In Soul) / 100 Proof Aged in Soul (1972).",
+   "notes": [
+    "Artist corrected from the book read '100 Proof Aged In Soul' using iTunes.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4710_1.jpg",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "red",
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "100 Proof (Aged In Soul)"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Hot Wax"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as 100 Proof (Aged In Soul) / 100 Proof Aged in Soul (1972).",
+   "hue": 12.39,
+   "light": 0.1619,
+   "chroma": 0.1736
+  },
+  "ele-king sweep::Soul Definitive::IMG_4711_1": {
+   "id": "CRVI000334",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000334.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 1716548,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4711_1",
+   "maker": "Chairmen of the Board",
+   "title": "Give Me Just A Little More Time",
+   "subtitle": "Designer unknown · Invictus",
+   "year": "1970",
+   "label": "Invictus",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Chairmen of the Board / Give Me Just A Little More Time (1970).",
+   "notes": [
+    "Artist corrected from the book read 'Chairmen Of The Board' using iTunes.",
+    "Title from iTunes; the caption read 'Just A Little More Time'.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4711_1.jpg",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "green",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Chairmen of the Board"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Invictus"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Chairmen of the Board / Give Me Just A Little More Time (1970).",
+   "hue": 181.26,
+   "light": 0.2964,
+   "chroma": 0.3882
+  },
+  "ele-king sweep::Soul Definitive::IMG_4712_1": {
+   "id": "CRVI000335",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000335.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 335546,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4712_1",
+   "maker": "Sam & Dave",
+   "title": "Hold On, I'm Comin'",
+   "subtitle": "Designer unknown · Stax",
+   "year": "1966",
+   "label": "Stax",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Sam & Dave / Hold On, I'm Comin' (1966).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4712_1.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "yellow",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Sam & Dave"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Stax"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Sam & Dave / Hold On, I'm Comin' (1966).",
+   "hue": 56.17,
+   "light": 0.5669,
+   "chroma": 0.8047
+  },
+  "ele-king sweep::Soul Definitive::IMG_4713_1": {
+   "id": "CRVI000336",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000336.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 504409,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4713_1",
+   "maker": "The Bar-Kays",
+   "title": "Soul Finger",
+   "subtitle": "Designer unknown · Volt",
+   "year": "1967",
+   "label": "Volt",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as The Bar-Kays / Soul Finger (1967).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4713_1.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "The Bar-Kays"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Volt"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as The Bar-Kays / Soul Finger (1967).",
+   "hue": 3.14,
+   "light": 0.5917,
+   "chroma": 0.6483
+  },
+  "ele-king sweep::Soul Definitive::IMG_4714_2": {
+   "id": "CRVI000337",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000337.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 546791,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4714_2",
+   "maker": "Various Artists",
+   "title": "Recorded Live Motortown Revue In Paris",
+   "subtitle": "Designer unknown · Universal",
+   "year": "2016",
+   "label": "Universal",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Various Artists / Recorded Live Motortown Revue In Paris (1965).",
+   "notes": [
+    "Artist corrected from the book read 'VA' using iTunes.",
+    "Title from iTunes; the caption read 'Motown Revue In Paris'.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4714_2.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "blue",
+    "pink"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Various Artists"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Universal"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Various Artists / Recorded Live Motortown Revue In Paris (1965).",
+   "hue": 215.56,
+   "light": 0.3331,
+   "chroma": 0.854
+  },
+  "ele-king sweep::Soul Definitive::IMG_4716_1": {
+   "id": "CRVI000338",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000338.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 495014,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4716_1",
+   "maker": "Eddie Floyd",
+   "title": "Knock On Wood",
+   "subtitle": "Designer unknown · Stex",
+   "year": "1967",
+   "label": "Stex",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Eddie Floyd / Knock On Wood (1967).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4716_1.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Eddie Floyd"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Stex"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Eddie Floyd / Knock On Wood (1967).",
+   "hue": 44.61,
+   "light": 0.5239,
+   "chroma": 0.805
+  },
+  "ele-king sweep::Soul Definitive::IMG_4718_1": {
+   "id": "CRVI000339",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000339.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 469558,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4718_1",
+   "maker": "Arif Mardin",
+   "title": "Glass Onion",
+   "subtitle": "Designer unknown · Atlantic",
+   "year": "1969",
+   "label": "Atlantic",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Arif Mardin / Glass Onion (1970).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4718_1.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Arif Mardin"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Atlantic"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Arif Mardin / Glass Onion (1970).",
+   "hue": 8.73,
+   "light": 0.2164,
+   "chroma": 0.3768
+  },
+  "ele-king sweep::Soul Definitive::IMG_4719_1": {
+   "id": "CRVI000340",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000340.jpg",
+   "original_px": [
+    1440,
+    1429
+   ],
+   "original_bytes": 277125,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4719_1",
+   "maker": "Wilson Pickett",
+   "title": "The Exciting Wilson Pickett",
+   "subtitle": "Designer unknown · Atlantic",
+   "year": "1966",
+   "label": "Atlantic",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Wilson Pickett / The Exciting Wilson Pickett (1966).",
+   "notes": [
+    "Title from iTunes; the caption read 'The Exciting Wilson Picket'.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4719_1.jpg",
+   "source_px": [
+    1440,
+    1429
+   ],
+   "colors": [
+    "pink",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Wilson Pickett"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Atlantic"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Wilson Pickett / The Exciting Wilson Pickett (1966).",
+   "hue": 345.4,
+   "light": 0.6487,
+   "chroma": 0.8821
+  },
+  "ele-king sweep::Soul Definitive::IMG_4720_1": {
+   "id": "CRVI000341",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000341.jpg",
+   "original_px": [
+    1423,
+    1411
+   ],
+   "original_bytes": 635152,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4720_1",
+   "maker": "Terry Callier",
+   "title": "Occasional Rain",
+   "subtitle": "Designer unknown · Coder",
+   "year": "1972",
+   "label": "Coder",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Terry Callier / Occasional Rain (1972).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4720_1.jpg",
+   "source_px": [
+    1423,
+    1411
+   ],
+   "colors": [
+    "green",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Terry Callier"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Coder"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Terry Callier / Occasional Rain (1972).",
+   "hue": 135.45,
+   "light": 0.2641,
+   "chroma": 0.2776
+  },
+  "ele-king sweep::Soul Definitive::IMG_4721_1": {
+   "id": "CRVI000342",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000342.jpg",
+   "original_px": [
+    1400,
+    1400
+   ],
+   "original_bytes": 397981,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4721_1",
+   "maker": "Major Lance",
+   "title": "Um, Um, Um, Um, Um, Um (Seasaint Version)",
+   "subtitle": "Designer unknown · Okeh",
+   "year": "1964",
+   "label": "Okeh",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Major Lance / Um, Um, Um, Um, Um, Um (Seasaint Version) - Single (1996).",
+   "notes": [
+    "Title from iTunes; the caption read 'Um, Um, Um, Um, Um, Um'.",
+    "⚠️ iTunes returned this as 'Um, Um, Um, Um, Um, Um (Seasaint Version) - Single' — an explicitly REISSUED edition, so this artwork is very likely not the pressing the book describes.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4721_1.jpg",
+   "source_px": [
+    1400,
+    1400
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Major Lance"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Okeh"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Major Lance / Um, Um, Um, Um, Um, Um (Seasaint Version) - Single (1996).",
+   "hue": 35.0,
+   "light": 0.5937,
+   "chroma": 0.8755
+  },
+  "ele-king sweep::Soul Definitive::IMG_4722_1": {
+   "id": "CRVI000343",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000343.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 552180,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4722_1",
+   "maker": "Walter Jackson",
+   "title": "It's All Over",
+   "subtitle": "Designer unknown · Okeh",
+   "year": "1965",
+   "label": "Okeh",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Walter Jackson / It's All Over (1965).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4722_1.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "yellow",
+    "pink"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Walter Jackson"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Okeh"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Walter Jackson / It's All Over (1965).",
+   "hue": 46.02,
+   "light": 0.7352,
+   "chroma": 0.8531
+  },
+  "ele-king sweep::Soul Definitive::IMG_4723_1": {
+   "id": "CRVI000344",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000344.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 617717,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4723_1",
+   "maker": "James Brown & The Famous Flames",
+   "title": "Cold Sweat",
+   "subtitle": "Designer unknown · King",
+   "year": "1967",
+   "label": "King",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as James Brown & The Famous Flames / Cold Sweat (1967).",
+   "notes": [
+    "Artist corrected from the book read 'James Brown' using iTunes.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4723_1.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "blue",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "James Brown & The Famous Flames"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "King"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as James Brown & The Famous Flames / Cold Sweat (1967).",
+   "hue": 209.26,
+   "light": 0.4314,
+   "chroma": 0.515
+  },
+  "ele-king sweep::Soul Definitive::IMG_4724_1": {
+   "id": "CRVI000345",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000345.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 478495,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4724_1",
+   "maker": "Sly & The Family Stone",
+   "title": "A Whole New Thing (Bonus Tracks Edition) [2007 Remaster]",
+   "subtitle": "Designer unknown · Epic",
+   "year": "1967",
+   "label": "Epic",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Sly & The Family Stone / A Whole New Thing (Bonus Tracks Edition) [2007 Remaster] (1967).",
+   "notes": [
+    "Title from iTunes; the caption read 'A Whole New Thing'.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4724_1.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "orange",
+    "red",
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Sly & The Family Stone"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Epic"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Sly & The Family Stone / A Whole New Thing (Bonus Tracks Edition) [2007 Remaster] (1967).",
+   "hue": 15.25,
+   "light": 0.1837,
+   "chroma": 0.3485
+  },
+  "ele-king sweep::Soul Definitive::IMG_4725_1": {
+   "id": "CRVI000346",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000346.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 354328,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4725_1",
+   "maker": "The J.B.'s",
+   "title": "Food For Thought",
+   "subtitle": "Designer unknown · People",
+   "year": "1972",
+   "label": "People",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as The J.B.'s / Food for Thought (1972).",
+   "notes": [
+    "Artist corrected from the book read \"The JB's\" using iTunes.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4725_1.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "The J.B.'s"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "People"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as The J.B.'s / Food for Thought (1972).",
+   "hue": 358.86,
+   "light": 0.3361,
+   "chroma": 0.5783
+  },
+  "ele-king sweep::Soul Definitive::IMG_4729_1": {
+   "id": "CRVI000347",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000347.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 4917897,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4729_1",
+   "maker": "Funkadelic",
+   "title": "Standing On The Verge Of Getting It On",
+   "subtitle": "Designer unknown · Westbound",
+   "year": "1974",
+   "label": "Westbound",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Funkadelic / Standing On the Verge of Getting It On (1974).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4729_1.jpg",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "red",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Funkadelic"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Westbound"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Funkadelic / Standing On the Verge of Getting It On (1974).",
+   "hue": 195.63,
+   "light": 0.4135,
+   "chroma": 0.5243
+  },
+  "ele-king sweep::Soul Definitive::IMG_4731_1": {
+   "id": "CRVI000348",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000348.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 995592,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4731_1",
+   "maker": "Eddie Hazel",
+   "title": "Game, Dames And Guitar Thangs",
+   "subtitle": "Designer unknown · Warner",
+   "year": "1977",
+   "label": "Warner",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Eddie Hazel / Game, Dames and Guitar Thangs (1977).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4731_1.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Eddie Hazel"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Warner"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Eddie Hazel / Game, Dames and Guitar Thangs (1977).",
+   "hue": 19.09,
+   "light": 0.2947,
+   "chroma": 0.6417
+  },
+  "ele-king sweep::Soul Definitive::IMG_4733_1": {
+   "id": "CRVI000349",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000349.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 565822,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4733_1",
+   "maker": "Bernie Worrell",
+   "title": "All The Woo In The World",
+   "subtitle": "Designer unknown · Arista",
+   "year": "1978",
+   "label": "Arista",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Bernie Worrell / All the Woo in the World (1978).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4733_1.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Bernie Worrell"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Arista"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Bernie Worrell / All the Woo in the World (1978).",
+   "hue": 35.73,
+   "light": 0.2983,
+   "chroma": 0.2384
+  },
+  "ele-king sweep::Soul Definitive::IMG_4734_1": {
+   "id": "CRVI000350",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000350.jpg",
+   "original_px": [
+    2400,
+    2400
+   ],
+   "original_bytes": 1348854,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4734_1",
+   "maker": "The Brides of Funkenstein",
+   "title": "Funk Or Walk",
+   "subtitle": "Designer unknown · Warner",
+   "year": "1978",
+   "label": "Warner",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as The Brides of Funkenstein / Funk Or Walk (1978).",
+   "notes": [
+    "Artist corrected from the book read 'Brides Of Funkenstein' using iTunes.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4734_1.jpg",
+   "source_px": [
+    2400,
+    2400
+   ],
+   "colors": [
+    "yellow",
+    "orange",
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "The Brides of Funkenstein"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Warner"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as The Brides of Funkenstein / Funk Or Walk (1978).",
+   "hue": 53.29,
+   "light": 0.1051,
+   "chroma": 0.2322
+  },
+  "ele-king sweep::Soul Definitive::IMG_4736_1": {
+   "id": "CRVI000351",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000351.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 542888,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4736_1",
+   "maker": "Parlet",
+   "title": "Pleasure Principle",
+   "subtitle": "Designer unknown · Casablanca",
+   "year": "1978",
+   "label": "Casablanca",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Parlet / Pleasure Principle (1978).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4736_1.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Parlet"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Casablanca"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Parlet / Pleasure Principle (1978).",
+   "hue": 23.68,
+   "light": 0.3109,
+   "chroma": 0.616
+  },
+  "ele-king sweep::Soul Definitive::IMG_4739_1": {
+   "id": "CRVI000352",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000352.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 485221,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4739_1",
+   "maker": "Earth, Wind & Fire",
+   "title": "AIl 'N' AIl",
+   "subtitle": "Designer unknown · Columbia",
+   "year": "1977",
+   "label": "Columbia",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Earth, Wind & Fire / All 'N All (1977).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4739_1.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "orange",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Earth, Wind & Fire"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Columbia"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Earth, Wind & Fire / All 'N All (1977).",
+   "hue": 196.25,
+   "light": 0.5536,
+   "chroma": 0.9579
+  },
+  "ele-king sweep::Soul Definitive::IMG_4740_1": {
+   "id": "CRVI000353",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000353.jpg",
+   "original_px": [
+    1542,
+    1400
+   ],
+   "original_bytes": 199709,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4740_1",
+   "maker": "Betty Davis",
+   "title": "Betty Davis",
+   "subtitle": "Designer unknown · Just Sunshine",
+   "year": "1973",
+   "label": "Just Sunshine",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Betty Davis / Betty Davis (1973).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4740_1.jpg",
+   "source_px": [
+    1542,
+    1400
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Betty Davis"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Just Sunshine"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Betty Davis / Betty Davis (1973).",
+   "hue": 23.36,
+   "light": 0.3763,
+   "chroma": 0.4037
+  },
+  "ele-king sweep::Soul Definitive::IMG_4741_1": {
+   "id": "CRVI000354",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000354.jpg",
+   "original_px": [
+    1400,
+    1400
+   ],
+   "original_bytes": 358853,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4741_1",
+   "maker": "Wah Wah Watson",
+   "title": "Elementary",
+   "subtitle": "Designer unknown · Columbia",
+   "year": "1976",
+   "label": "Columbia",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Wah Wah Watson / Elementary (Expanded Edition) (1977).",
+   "notes": [
+    "⚠️ iTunes returned this as 'Elementary (Expanded Edition)' — an explicitly REISSUED edition, so this artwork is very likely not the pressing the book describes.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4741_1.jpg",
+   "source_px": [
+    1400,
+    1400
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Wah Wah Watson"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Columbia"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Wah Wah Watson / Elementary (Expanded Edition) (1977).",
+   "hue": 357.68,
+   "light": 0.2871,
+   "chroma": 0.6453
+  },
+  "ele-king sweep::Soul Definitive::IMG_4743_1": {
+   "id": "CRVI000355",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000355.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 2534099,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4743_1",
+   "maker": "Isaac Hayes",
+   "title": "...To Be Continued",
+   "subtitle": "Designer unknown · Enterprise",
+   "year": "1970",
+   "label": "Enterprise",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Isaac Hayes / ...To Be Continued (1970).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4743_1.jpg",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Isaac Hayes"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Enterprise"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Isaac Hayes / ...To Be Continued (1970).",
+   "hue": 5.03,
+   "light": 0.4362,
+   "chroma": 0.6745
+  },
+  "ele-king sweep::Soul Definitive::IMG_4744_1": {
+   "id": "CRVI000356",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000356.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 989364,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4744_1",
+   "maker": "The Bar-Kays",
+   "title": "Money Talks",
+   "subtitle": "Designer unknown · Stax",
+   "year": "1978",
+   "label": "Stax",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as The Bar-Kays / Money Talks (1978).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4744_1.jpg",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "pink",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "The Bar-Kays"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Stax"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as The Bar-Kays / Money Talks (1978).",
+   "hue": 323.84,
+   "light": 0.5305,
+   "chroma": 0.7275
+  },
+  "ele-king sweep::Soul Definitive::IMG_4745_1": {
+   "id": "CRVI000357",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000357.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 609522,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4745_1",
+   "maker": "The Meters",
+   "title": "Rejuvenation",
+   "subtitle": "Designer unknown · Reprise",
+   "year": "1974",
+   "label": "Reprise",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as The Meters / Rejuvenation (1974).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4745_1.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "pink",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "The Meters"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Reprise"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as The Meters / Rejuvenation (1974).",
+   "hue": 336.26,
+   "light": 0.5471,
+   "chroma": 0.3445
+  },
+  "ele-king sweep::Soul Definitive::IMG_4746_1": {
+   "id": "CRVI000358",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000358.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 881144,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4746_1",
+   "maker": "Stevie Wonder",
+   "title": "Fulfillingness' First Finale",
+   "subtitle": "Designer unknown · Tamla",
+   "year": "1974",
+   "label": "Tamla",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Stevie Wonder / Fulfillingness' First Finale (1974).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4746_1.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Stevie Wonder"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Tamla"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Stevie Wonder / Fulfillingness' First Finale (1974).",
+   "hue": 17.57,
+   "light": 0.5846,
+   "chroma": 0.9979
+  },
+  "ele-king sweep::Soul Definitive::IMG_4747_1": {
+   "id": "CRVI000359",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000359.jpg",
+   "original_px": [
+    2400,
+    2400
+   ],
+   "original_bytes": 958767,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4747_1",
+   "maker": "The Staple Singers",
+   "title": "Let's Do It Again (Original Soundtrack)",
+   "subtitle": "Designer unknown · Curtom",
+   "year": "1975",
+   "label": "Curtom",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as The Staple Singers / Let's Do It Again (Original Soundtrack) (1975).",
+   "notes": [
+    "Artist corrected from the book read 'Staple Singers' using iTunes.",
+    "Title from iTunes; the caption read \"Let's Do It Again\".",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4747_1.jpg",
+   "source_px": [
+    2400,
+    2400
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "The Staple Singers"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Curtom"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as The Staple Singers / Let's Do It Again (Original Soundtrack) (1975).",
+   "hue": 44.81,
+   "light": 0.7295,
+   "chroma": 0.8755
+  },
+  "ele-king sweep::Soul Definitive::IMG_4748_1": {
+   "id": "CRVI000360",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000360.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 440409,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4748_1",
+   "maker": "O.V. WRIGHT",
+   "title": "Into Something (Can't Shake Loose)",
+   "subtitle": "Designer unknown · Hi",
+   "year": "1977",
+   "label": "Hi",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as O.V. WRIGHT / Into Something (Can't Shake Loose) (1977).",
+   "notes": [
+    "Artist corrected from the book read 'O.V. Wright' using iTunes.",
+    "Title from iTunes; the caption read 'Into Something'.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4748_1.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "orange",
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "O.V. WRIGHT"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Hi"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as O.V. WRIGHT / Into Something (Can't Shake Loose) (1977).",
+   "hue": 33.08,
+   "light": 0.2158,
+   "chroma": 0.4534
+  },
+  "ele-king sweep::Soul Definitive::IMG_4750_1": {
+   "id": "CRVI000361",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000361.jpg",
+   "original_px": [
+    1760,
+    1760
+   ],
+   "original_bytes": 803962,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4750_1",
+   "maker": "Betty Wright",
+   "title": "Hard to Stop",
+   "subtitle": "Designer unknown · TK",
+   "year": "1973",
+   "label": "TK",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Betty Wright / Hard to Stop (Remastered) (1973).",
+   "notes": [
+    "Title from iTunes; the caption read 'Hard To Stop'.",
+    "⚠️ iTunes returned this as 'Hard to Stop (Remastered)' — an explicitly REISSUED edition, so this artwork is very likely not the pressing the book describes.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4750_1.jpg",
+   "source_px": [
+    1760,
+    1760
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Betty Wright"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "TK"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Betty Wright / Hard to Stop (Remastered) (1973).",
+   "hue": 26.6,
+   "light": 0.4691,
+   "chroma": 0.9099
+  },
+  "ele-king sweep::Soul Definitive::IMG_4751_1": {
+   "id": "CRVI000362",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000362.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 1917191,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4751_1",
+   "maker": "Millie Jackson",
+   "title": "Caught Up",
+   "subtitle": "Designer unknown · Spring",
+   "year": "1974",
+   "label": "Spring",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Millie Jackson / Caught Up (1974).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4751_1.jpg",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Millie Jackson"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Spring"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Millie Jackson / Caught Up (1974).",
+   "hue": null,
+   "light": 0.2,
+   "chroma": 0.0584
+  },
+  "ele-king sweep::Soul Definitive::IMG_4752_1": {
+   "id": "CRVI000363",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000363.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 1246608,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4752_1",
+   "maker": "Billy Paul",
+   "title": "360 Degrees of Billy Paul",
+   "subtitle": "Designer unknown · Philadelphia International",
+   "year": "1972",
+   "label": "Philadelphia International",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Billy Paul / 360 Degrees of Billy Paul (Expanded Edition) (1972).",
+   "notes": [
+    "⚠️ iTunes returned this as '360 Degrees of Billy Paul (Expanded Edition)' — an explicitly REISSUED edition, so this artwork is very likely not the pressing the book describes.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4752_1.jpg",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Billy Paul"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Philadelphia International"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Billy Paul / 360 Degrees of Billy Paul (Expanded Edition) (1972).",
+   "hue": 23.04,
+   "light": 0.5397,
+   "chroma": 0.3206
+  },
+  "ele-king sweep::Soul Definitive::IMG_4756_1": {
+   "id": "CRVI000364",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000364.jpg",
+   "original_px": [
+    1407,
+    1407
+   ],
+   "original_bytes": 667007,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4756_1",
+   "maker": "The Miracles",
+   "title": "City of Angels",
+   "subtitle": "Designer unknown · Tamla",
+   "year": "1975",
+   "label": "Tamla",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as The Miracles / City of Angels (Expanded Edition) (1975).",
+   "notes": [
+    "Title from iTunes; the caption read 'City Of Angels'.",
+    "⚠️ iTunes returned this as 'City of Angels (Expanded Edition)' — an explicitly REISSUED edition, so this artwork is very likely not the pressing the book describes.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4756_1.jpg",
+   "source_px": [
+    1407,
+    1407
+   ],
+   "colors": [
+    "orange",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "The Miracles"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Tamla"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as The Miracles / City of Angels (Expanded Edition) (1975).",
+   "hue": 26.25,
+   "light": 0.5583,
+   "chroma": 0.4151
+  },
+  "ele-king sweep::Soul Definitive::IMG_4758_1": {
+   "id": "CRVI000365",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000365.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 515610,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4758_1",
+   "maker": "Herbie Hancock",
+   "title": "Future Shock",
+   "subtitle": "Designer unknown · Columbia",
+   "year": "1983",
+   "label": "Columbia",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Herbie Hancock / Future Shock (1983).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4758_1.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Herbie Hancock"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Columbia"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Herbie Hancock / Future Shock (1983).",
+   "hue": 206.05,
+   "light": 0.223,
+   "chroma": 0.4534
+  },
+  "ele-king sweep::Soul Definitive::IMG_4760_1": {
+   "id": "CRVI000366",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000366.jpg",
+   "original_px": [
+    1417,
+    1417
+   ],
+   "original_bytes": 375553,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4760_1",
+   "maker": "Dayton",
+   "title": "Hot Fun",
+   "subtitle": "Designer unknown · Capitol",
+   "year": "1982",
+   "label": "Capitol",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Dayton / Hot Fun (1982).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4760_1.jpg",
+   "source_px": [
+    1417,
+    1417
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Dayton"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Capitol"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Dayton / Hot Fun (1982).",
+   "hue": 38.01,
+   "light": 0.6049,
+   "chroma": 0.8405
+  },
+  "ele-king sweep::Soul Definitive::IMG_4761_1": {
+   "id": "CRVI000367",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000367.jpg",
+   "original_px": [
+    1425,
+    1425
+   ],
+   "original_bytes": 316838,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4761_1",
+   "maker": "The Time",
+   "title": "What Time Is It?",
+   "subtitle": "Designer unknown · Warner",
+   "year": "1982",
+   "label": "Warner",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as The Time / What Time Is It? (1982).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4761_1.jpg",
+   "source_px": [
+    1425,
+    1425
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "The Time"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Warner"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as The Time / What Time Is It? (1982).",
+   "hue": 14.48,
+   "light": 0.3011,
+   "chroma": 0.3088
+  },
+  "ele-king sweep::Soul Definitive::IMG_4762_1": {
+   "id": "CRVI000368",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000368.jpg",
+   "original_px": [
+    1501,
+    1501
+   ],
+   "original_bytes": 665464,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4762_1",
+   "maker": "Redd Hott",
+   "title": "Redd Hott #1",
+   "subtitle": "Designer unknown · Venture",
+   "year": "1982",
+   "label": "Venture",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Redd Hott / Redd Hott #1 (2006).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4762_1.jpg",
+   "source_px": [
+    1501,
+    1501
+   ],
+   "colors": [
+    "red",
+    "pink"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Redd Hott"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Venture"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Redd Hott / Redd Hott #1 (2006).",
+   "hue": 345.11,
+   "light": 0.5821,
+   "chroma": 0.9696
+  },
+  "ele-king sweep::Soul Definitive::IMG_4763_1": {
+   "id": "CRVI000369",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000369.jpg",
+   "original_px": [
+    1440,
+    1440
+   ],
+   "original_bytes": 960830,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4763_1",
+   "maker": "The Deele",
+   "title": "Eyes Of A Stranger",
+   "subtitle": "Designer unknown · Solar",
+   "year": "1987",
+   "label": "Solar",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as The Deele / Eyes of a Stranger (1987).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4763_1.jpg",
+   "source_px": [
+    1440,
+    1440
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "The Deele"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Solar"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as The Deele / Eyes of a Stranger (1987).",
+   "hue": 22.81,
+   "light": 0.3555,
+   "chroma": 0.506
+  },
+  "ele-king sweep::Soul Definitive::IMG_4767_1": {
+   "id": "CRVI000370",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000370.jpg",
+   "original_px": [
+    1708,
+    1519
+   ],
+   "original_bytes": 558238,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4767_1",
+   "maker": "The Neville Brothers",
+   "title": "Neville - Ization",
+   "subtitle": "Designer unknown · Black Top",
+   "year": "1984",
+   "label": "Black Top",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as The Neville Brothers / Neville - Ization (2015).",
+   "notes": [
+    "Artist corrected from the book read 'Neville Brothers' using iTunes.",
+    "Title from iTunes; the caption read 'Neville-ization'.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4767_1.jpg",
+   "source_px": [
+    1708,
+    1519
+   ],
+   "colors": [
+    "pink",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "The Neville Brothers"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Black Top"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as The Neville Brothers / Neville - Ization (2015).",
+   "hue": 52.63,
+   "light": 0.713,
+   "chroma": 0.3192
+  },
+  "ele-king sweep::Soul Definitive::IMG_4768_1": {
+   "id": "CRVI000371",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000371.jpg",
+   "original_px": [
+    1906,
+    1898
+   ],
+   "original_bytes": 1665153,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4768_1",
+   "maker": "The Neville Brothers",
+   "title": "Fiyo On The Bayou",
+   "subtitle": "Designer unknown · ASM",
+   "year": "1981",
+   "label": "ASM",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as The Neville Brothers / Fiyo on the Bayou (1981).",
+   "notes": [
+    "Artist corrected from the book read 'Neville Brothers' using iTunes.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4768_1.jpg",
+   "source_px": [
+    1906,
+    1898
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "The Neville Brothers"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "ASM"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as The Neville Brothers / Fiyo on the Bayou (1981).",
+   "hue": 15.63,
+   "light": 0.3902,
+   "chroma": 0.5174
+  },
+  "ele-king sweep::Soul Definitive::IMG_4770_1": {
+   "id": "CRVI000372",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000372.jpg",
+   "original_px": [
+    1404,
+    1404
+   ],
+   "original_bytes": 265590,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4770_1",
+   "maker": "Maze featuring Frankie Beverly",
+   "title": "Can't Stop the Love (2004 Remaster)",
+   "subtitle": "Designer unknown · Capitol",
+   "year": "1985",
+   "label": "Capitol",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Maze featuring Frankie Beverly / Can't Stop the Love (2004 Remaster) (1985).",
+   "notes": [
+    "Artist corrected from the book read 'Maze feat. Frankie Beverly' using iTunes.",
+    "Title from iTunes; the caption read \"Can't Stop The Love\".",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4770_1.jpg",
+   "source_px": [
+    1404,
+    1404
+   ],
+   "colors": [
+    "blue",
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Maze featuring Frankie Beverly"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Capitol"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Maze featuring Frankie Beverly / Can't Stop the Love (2004 Remaster) (1985).",
+   "hue": 207.13,
+   "light": 0.0985,
+   "chroma": 0.1334
+  },
+  "ele-king sweep::Soul Definitive::IMG_4772_1": {
+   "id": "CRVI000373",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000373.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 533218,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4772_1",
+   "maker": "Mint Condition",
+   "title": "Meant To Be Mint",
+   "subtitle": "Designer unknown · Perspective",
+   "year": "1991",
+   "label": "Perspective",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Mint Condition / Meant to Be Mint (1991).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4772_1.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Mint Condition"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Perspective"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Mint Condition / Meant to Be Mint (1991).",
+   "hue": 6.8,
+   "light": 0.4678,
+   "chroma": 0.7608
+  },
+  "ele-king sweep::Soul Definitive::IMG_4773_1": {
+   "id": "CRVI000374",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000374.jpg",
+   "original_px": [
+    1482,
+    1482
+   ],
+   "original_bytes": 518865,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4773_1",
+   "maker": "TLC",
+   "title": "Ooooooohhh... On The TLC Tip",
+   "subtitle": "Designer unknown · Laface",
+   "year": "1992",
+   "label": "Laface",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as TLC / Ooooooohhh... On the TLC Tip (1992).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4773_1.jpg",
+   "source_px": [
+    1482,
+    1482
+   ],
+   "colors": [
+    "yellow",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "TLC"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Laface"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as TLC / Ooooooohhh... On the TLC Tip (1992).",
+   "hue": 348.61,
+   "light": 0.6236,
+   "chroma": 0.574
+  },
+  "ele-king sweep::Soul Definitive::IMG_4775_1": {
+   "id": "CRVI000375",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000375.jpg",
+   "original_px": [
+    1400,
+    1400
+   ],
+   "original_bytes": 171404,
+   "identity": "ele-king sweep::Soul Definitive::IMG_4775_1",
+   "maker": "Sharon Jones & The Dap-Kings",
+   "title": "Dap Dippin' with Sharon Jones and the Dap-Kings",
+   "subtitle": "Designer unknown · Daptone",
+   "year": "2002",
+   "label": "Daptone",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Sharon Jones & The Dap-Kings / Dap-Dippin' with Sharon Jones and the Dap-Kings (2002).",
+   "notes": [
+    "Artist corrected from the book read 'Sharon Jones And The Dap Kings' using iTunes.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4775_1.jpg",
+   "source_px": [
+    1400,
+    1400
+   ],
+   "colors": [
+    "red",
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Sharon Jones & The Dap-Kings"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Daptone"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Sharon Jones & The Dap-Kings / Dap-Dippin' with Sharon Jones and the Dap-Kings (2002).",
+   "hue": 356.21,
+   "light": 0.1302,
+   "chroma": 0.1692
   }
  }
 }

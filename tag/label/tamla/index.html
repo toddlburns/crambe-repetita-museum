@@ -1,0 +1,39 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>label: Tamla — Crambe Repetita Museum</title><link rel="stylesheet" href="../../../style.css"></head><body><div class="crumb"><span class="t">LABEL: TAMLA</span><span class="c">5 items</span><a href="../../../tags/">&#8592; all tags</a></div><div class="grid"><a class="cell" href="../../../CRVI000327/"><div class="inner"><img src="../../../thumbs/CRVI000327.jpg" alt=""></div><div class="cap"><span class="n">CRVI000327</span>The Marvelettes - Please Mr. Postman<br>Designer unknown · Tamla · 1961</div></a><a class="cell" href="../../../CRVI000329/"><div class="inner"><img src="../../../thumbs/CRVI000329.jpg" alt=""></div><div class="cap"><span class="n">CRVI000329</span>Marvin Gaye &amp; Tammi Terrell - United<br>Designer unknown · Tamla · 1967</div></a><a class="cell" href="../../../CRVI000330/"><div class="inner"><img src="../../../thumbs/CRVI000330.jpg" alt=""></div><div class="cap"><span class="n">CRVI000330</span>Marvin Gaye - In The Groove<br>Designer unknown · Tamla · 1968</div></a><a class="cell" href="../../../CRVI000358/"><div class="inner"><img src="../../../thumbs/CRVI000358.jpg" alt=""></div><div class="cap"><span class="n">CRVI000358</span>Stevie Wonder - Fulfillingness' First Finale<br>Designer unknown · Tamla · 1974</div></a><a class="cell" href="../../../CRVI000364/"><div class="inner"><img src="../../../thumbs/CRVI000364.jpg" alt=""></div><div class="cap"><span class="n">CRVI000364</span>The Miracles - City of Angels<br>Designer unknown · Tamla · 1975</div></a></div><script>
+var SCALE=3;var t=null;
+// ⚠️ THE GIF IS FETCHED ON HOVER, NOT BEFORE. Setting src is what triggers the download, so a
+// grid cell ships the still poster and only swaps in the animation when the pointer arrives.
+// Pausing or hiding a GIF whose src is already set saves nothing — it is on the wire either way.
+// The poster is kept in data-poster so leaving restores it without a second fetch of anything.
+function playGif(c){
+  var im=c.querySelector('img.anim');
+  if(!im) return;
+  var g=im.getAttribute('data-gif');
+  if(!g||im.dataset.playing) return;
+  im.dataset.poster=im.getAttribute('src');
+  im.dataset.playing='1';
+  im.setAttribute('src',g);
+}
+function stopGif(c){
+  var im=c.querySelector('img.anim');
+  if(!im||!im.dataset.playing) return;
+  // back to the still, so a page full of gifs is not left all animating at once
+  im.setAttribute('src',im.dataset.poster);
+  delete im.dataset.playing;
+}
+document.querySelectorAll('.cell').forEach(function(c){
+  c.addEventListener('mouseenter',function(){
+    playGif(c);
+    clearTimeout(t);
+    t=setTimeout(function(){
+      // transform does not change layout, so push the caption below the grown image
+      var im=c.querySelector('img'),cap=c.querySelector('.cap');
+      cap.style.transform='translateY('+im.getBoundingClientRect().height*(SCALE-1)+'px)';
+      c.classList.add('big');
+    },1000);
+  });
+  c.addEventListener('mouseleave',function(){
+    stopGif(c);
+    clearTimeout(t);c.classList.remove('big');c.querySelector('.cap').style.transform='';
+  });
+});
+</script></body></html>
