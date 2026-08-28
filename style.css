@@ -15,6 +15,9 @@ a{color:inherit;text-decoration:none}
 .bar .work{font-size:12px;overflow:hidden;text-overflow:ellipsis}
 .bar .sep{color:var(--mute);letter-spacing:.12em}
 .bar .rest{color:var(--mute);font-size:12px;overflow:hidden;text-overflow:ellipsis}
+.bar .srcline{color:var(--mute);font-size:12px;white-space:nowrap;text-decoration:underline}
+.bar a.srcline:hover{color:var(--ink)}
+.bar .srcline.nourl{text-decoration:none;border-bottom:1px dotted var(--rule);cursor:help}
 .bar .nav{margin-left:auto;display:flex;gap:4px}
 .bar .nav a,.bar .nav span{display:flex;align-items:center;justify-content:center;
  width:26px;height:22px;border:1px solid var(--rule);font-size:12px;color:var(--ink)}
@@ -84,11 +87,13 @@ a{color:inherit;text-decoration:none}
     row and the picture gets the two lines back. Tap targets are 46x40 rather than 26x22 —
     "a bit bigger for my fat thumbs". Checkbox again, so it needs no script. */
  .bar{align-items:center;padding:6px 12px}
- .bar .work,.bar .rest,.bar .sep{display:none}
+ .bar .work,.bar .rest,.bar .sep,.bar .srcline{display:none}
  .infotoggle:checked ~ .work{display:block;order:4;flex:1 1 100%;font-weight:600;
   overflow:visible;text-overflow:clip;padding-top:2px}
  .infotoggle:checked ~ .rest{display:block;order:5;flex:1 1 100%;
-  overflow:visible;text-overflow:clip;padding-bottom:2px}
+  overflow:visible;text-overflow:clip}
+ /* Todd, 2026-08-28: on mobile the source belongs inside the info box, not on the bar */
+ .infotoggle:checked ~ .srcline{display:block;order:6;flex:1 1 100%;padding-bottom:2px}
  .infobtn{display:flex;align-items:center;justify-content:center;order:2;margin-left:auto;
   min-width:46px;height:40px;border:1px solid var(--rule);cursor:pointer;
   font:11px/1 var(--mono);letter-spacing:.08em;color:var(--ink);

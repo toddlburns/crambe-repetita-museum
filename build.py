@@ -40,6 +40,9 @@ a{color:inherit;text-decoration:none}
 .bar .work{font-size:12px;overflow:hidden;text-overflow:ellipsis}
 .bar .sep{color:var(--mute);letter-spacing:.12em}
 .bar .rest{color:var(--mute);font-size:12px;overflow:hidden;text-overflow:ellipsis}
+.bar .srcline{color:var(--mute);font-size:12px;white-space:nowrap;text-decoration:underline}
+.bar a.srcline:hover{color:var(--ink)}
+.bar .srcline.nourl{text-decoration:none;border-bottom:1px dotted var(--rule);cursor:help}
 .bar .nav{margin-left:auto;display:flex;gap:4px}
 .bar .nav a,.bar .nav span{display:flex;align-items:center;justify-content:center;
  width:26px;height:22px;border:1px solid var(--rule);font-size:12px;color:var(--ink)}
@@ -109,11 +112,13 @@ a{color:inherit;text-decoration:none}
     row and the picture gets the two lines back. Tap targets are 46x40 rather than 26x22 —
     "a bit bigger for my fat thumbs". Checkbox again, so it needs no script. */
  .bar{align-items:center;padding:6px 12px}
- .bar .work,.bar .rest,.bar .sep{display:none}
+ .bar .work,.bar .rest,.bar .sep,.bar .srcline{display:none}
  .infotoggle:checked ~ .work{display:block;order:4;flex:1 1 100%;font-weight:600;
   overflow:visible;text-overflow:clip;padding-top:2px}
  .infotoggle:checked ~ .rest{display:block;order:5;flex:1 1 100%;
-  overflow:visible;text-overflow:clip;padding-bottom:2px}
+  overflow:visible;text-overflow:clip}
+ /* Todd, 2026-08-28: on mobile the source belongs inside the info box, not on the bar */
+ .infotoggle:checked ~ .srcline{display:block;order:6;flex:1 1 100%;padding-bottom:2px}
  .infobtn{display:flex;align-items:center;justify-content:center;order:2;margin-left:auto;
   min-width:46px;height:40px;border:1px solid var(--rule);cursor:pointer;
   font:11px/1 var(--mono);letter-spacing:.08em;color:var(--ink);
@@ -260,6 +265,19 @@ def work_line(it, up):
     if rest:
         bits.append('<span class="sep">|||</span>')
         bits.append(f'<span class="rest">{esc(rest)}</span>')
+    # ⚠️ THE LINK SAYS ONLY "(Source)". Todd, 2026-08-28: "don't say what it is." So the host is
+    # not printed — the destination is a surprise by design. Where there is no URL to link (75
+    # items name their source in words instead), the same "(Source)" is rendered as plain text
+    # with the named source in the title attribute, so hovering still tells you. It is never a
+    # link to nowhere.
+    src_url, src_lab = it.get("source_url") or "", it.get("source_label") or ""
+    if src_url or src_lab:
+        bits.append('<span class="sep srcsep">|||</span>')
+        if src_url:
+            bits.append(f'<a class="srcline" href="{esc(src_url)}" target="_blank" '
+                        f'rel="noopener noreferrer">(Source)</a>')
+        else:
+            bits.append(f'<span class="srcline nourl" title="{esc(src_lab)}">(Source)</span>')
     bits.append('<label class="infobtn" for="info">'
                 '<span class="a">info</span><span class="b">close</span></label>')
     return "".join(bits)
@@ -297,13 +315,7 @@ def main():
                        for t in it.get("tags", []))
         tags += '<a class="all" href="../tags/">#alltags</a>'
         # source sits with the tags, at the end, quiet but always present
-        if it.get("source_url"):
-            import urllib.parse as _up
-            hostname = _up.urlparse(it["source_url"]).netloc.replace("www.", "")
-            tags += (f'<a class="src" href="{esc(it["source_url"])}" target="_blank" '
-                     f'rel="noopener noreferrer">source: {esc(hostname)} &#8599;</a>')
-        elif it.get("source_label"):
-            tags += f'<span class="src">source: {esc(it["source_label"])}</span>'
+        # source moved to the top row (see work_line); only the rights link stays down here
         tags += '<a class="src rights" href="../rights/">rights &amp; use</a>'
         keys = ITEM_JS % (json.dumps(prev) if prev else "null",
                           json.dumps(nxt) if nxt else "null")
@@ -434,7 +446,7 @@ is misidentified, please get in touch: it will be fixed and the correction noted
             rest = " · ".join(filter(None, [it.get("subtitle"), it.get("year")]))
             cells.append(
                 f'<a class="cell" href="../../../{it["id"]}/">'
-                f'<div class="inner"><img src="../../../{esc(it["poster"] or it["image"])}"'
+                f'<div class="inner"><img src="../../../{esc(it["thumb"] or it["image"])}"'
                 + (f' data-gif="../../../{esc(it["image"])}" class="anim"' if it.get("animated") else "")
                 + ' alt=""></div>'
                 f'<div class="cap"><span class="n">{esc(it["id"])}</span>'

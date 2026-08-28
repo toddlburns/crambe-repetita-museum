@@ -77,15 +77,15 @@ def build(reg):
                 src_url = i[k]; break
         if not src_url and i.get("discogs_release"):
             src_url = f'https://www.discogs.com/release/{i["discogs_release"]}'
-        # ⚠️ Animated items ship a POSTER to the grids. A tag page holding all 26 reaction GIFs
-        # was 101 MB; the grid shows the still and fetches the GIF only on hover. The item page
-        # still loads the GIF directly — there the movement IS the object.
+        # ⚠️ GRIDS GET A 600px THUMB, NEVER THE FULL IMAGE. Serving 1600px display copies into
+        # ~92-200px tiles cost 39 MB on one tag page; for animated items the thumb is the first
+        # frame and the GIF is fetched only on hover. Item pages still load the real thing.
         disp = i.get("display") or ("images/" + i["id"] + ".jpg")
         animated = disp.lower().endswith(".gif")
         out.append({"id": i["id"],
                     "source_url": src_url,
                     "animated": animated,
-                    "poster": ("posters/" + i["id"] + ".jpg") if animated else "",
+                    "thumb": "thumbs/" + i["id"] + ".jpg",
                     "source_label": i.get("source_label", ""),
                     "image": i.get("display") or ("images/" + i["id"] + ".jpg"),
                     "original": i.get("original_file") or ("originals/" + i["id"] + ".jpg"),
