@@ -10311,7 +10311,8 @@
    "notes": [
     "The photographer is not identified — the Times credits the image to the artist via David Zwirner, which is a source line, not an authorship line.",
     "Cropped from Todd's screenshot to the photograph alone — the article text, caption and phone chrome are not part of the object and are not in the archive.",
-    "Reproduced here at screenshot resolution; the Times' own file is behind its paywall and was not taken."
+    "Reproduced here at screenshot resolution; the Times' own file is behind its paywall and was not taken.",
+    "DELETED from the museum on 2026-08-27. The record is kept so CRVI000216 stays provably retired and is never reissued."
    ],
    "label": "",
    "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/kus_k1.jpg",
@@ -10345,11 +10346,13 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "Caption and credit read directly off the New York Times feature 'Yayoi Kusama: A Life in Pictures' (27 August 2026), from Todd's own screenshots of it. Captioned 'Kusama with paper artworks on the floor in Tokyo in 1957', credited 'Yayoi Kusama, via David Zwirner'. No photographer is named there, and none is claimed here.",
    "hue": null,
    "light": 0.3274,
-   "chroma": 0.0164
+   "chroma": 0.0164,
+   "deleted": true,
+   "deleted_on": "2026-08-27"
   },
   "NYT Kusama::Infinity Mirror Room — Phalli's Field (or Floor Show) (1965)": {
    "id": "CRVI000217",
@@ -11133,7 +11136,8 @@
    "source_page": "iTunes Search API",
    "notes": [
     "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
-    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging.",
+    "DELETED from the museum on 2026-08-27. The record is kept so CRVI000230 stays provably retired and is never reissued."
    ],
    "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4165_1.jpg",
    "source_px": [
@@ -11163,11 +11167,13 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Fez Combo / Follow the Spirit (1996).",
    "hue": 202.21,
    "light": 0.4397,
-   "chroma": 0.6494
+   "chroma": 0.6494,
+   "deleted": true,
+   "deleted_on": "2026-08-27"
   },
   "ele-king sweep::Club Jazz Definitive::IMG_4166_1": {
    "id": "CRVI000231",
@@ -12230,7 +12236,8 @@
    "source_page": "https://polishposter.com/1058-harakiri-seppuku-polish-movie-poster.html",
    "notes": [
     "Metadata as published by polishposter.com.",
-    "Held at 682x960 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+    "Held at 682x960 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default.",
+    "DELETED from the museum on 2026-08-27. The record is kept so CRVI000250 stays provably retired and is never reissued."
    ],
    "label": "",
    "source_image": "https://polishposter.com/871/1058-harakiri-seppuku-polish-movie-poster.jpg",
@@ -12261,11 +12268,13 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "Listed by polishposter.com as “Harakiri”. Designer given as Waldemar Swierzy.",
    "hue": 3.97,
    "light": 0.7651,
-   "chroma": 0.7371
+   "chroma": 0.7371,
+   "deleted": true,
+   "deleted_on": "2026-08-27"
   },
   "poster shop::https://polishposter.com/1679-skrupul-walka-polish-movie-poster.html": {
    "id": "CRVI000251",
@@ -13152,7 +13161,8 @@
    "source_page": "https://polishpostergallery.com/poster/cieslewicz_sprawa_dantona",
    "notes": [
     "Metadata as published by Polish Poster Gallery, which states designer, type and year on the listing.",
-    "Held at 550x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+    "Held at 550x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default.",
+    "DELETED from the museum on 2026-08-27. The record is kept so CRVI000267 stays provably retired and is never reissued."
    ],
    "label": "",
    "source_image": "https://poster.pl/posters/cieslewicz_sprawa_dantona.jpg?v=1726522890",
@@ -13182,11 +13192,13 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "Listed by polishpostergallery.com as “The Danton Case”. Designer given as Roman Cieślewicz.",
    "hue": null,
    "light": 0.3769,
-   "chroma": 0.0645
+   "chroma": 0.0645,
+   "deleted": true,
+   "deleted_on": "2026-08-27"
   },
   "poster shop::https://polishpostergallery.com/poster/czerniawski_robert_borys_godunow": {
    "id": "CRVI000268",
@@ -13206,7 +13218,8 @@
    "source_page": "https://polishpostergallery.com/poster/czerniawski_robert_borys_godunow",
    "notes": [
     "Metadata as published by Polish Poster Gallery, which states designer, type and year on the listing.",
-    "Held at 560x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+    "Held at 560x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default.",
+    "DELETED from the museum on 2026-08-27. The record is kept so CRVI000268 stays provably retired and is never reissued."
    ],
    "label": "",
    "source_image": "https://poster.pl/posters/czerniawski_robert_borys_godunow.jpg?v=1726522920",
@@ -13236,11 +13249,13 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "Listed by polishpostergallery.com as “Boris Godunov”. Designer given as Robert Czerniawski.",
    "hue": 34.27,
    "light": 0.3039,
-   "chroma": 0.5946
+   "chroma": 0.5946,
+   "deleted": true,
+   "deleted_on": "2026-08-27"
   },
   "poster shop::https://polishpostergallery.com/poster/czerniawski_robert_burrowing": {
    "id": "CRVI000269",
@@ -13260,7 +13275,8 @@
    "source_page": "https://polishpostergallery.com/poster/czerniawski_robert_burrowing",
    "notes": [
     "Metadata as published by Polish Poster Gallery, which states designer, type and year on the listing.",
-    "Held at 553x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+    "Held at 553x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default.",
+    "DELETED from the museum on 2026-08-27. The record is kept so CRVI000269 stays provably retired and is never reissued."
    ],
    "label": "",
    "source_image": "https://poster.pl/posters/czerniawski_robert_burrowing.jpg?v=1726522137",
@@ -13290,11 +13306,13 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "Listed by polishpostergallery.com as “Man Tanker Sitt”. Designer given as Robert Czerniawski.",
    "hue": 95.39,
    "light": 0.5364,
-   "chroma": 0.9013
+   "chroma": 0.9013,
+   "deleted": true,
+   "deleted_on": "2026-08-27"
   },
   "poster shop::https://polishpostergallery.com/poster/czerniawski_robert_ewangelia": {
    "id": "CRVI000270",
@@ -13314,7 +13332,8 @@
    "source_page": "https://polishpostergallery.com/poster/czerniawski_robert_ewangelia",
    "notes": [
     "Metadata as published by Polish Poster Gallery, which states designer, type and year on the listing.",
-    "Held at 566x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+    "Held at 566x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default.",
+    "DELETED from the museum on 2026-08-27. The record is kept so CRVI000270 stays provably retired and is never reissued."
    ],
    "label": "",
    "source_image": "https://poster.pl/posters/czerniawski_robert_ewangelia.jpg?v=1726522138",
@@ -13345,11 +13364,13 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "Listed by polishpostergallery.com as “Gospel”. Designer given as Robert Czerniawski.",
    "hue": 144.86,
    "light": 0.3576,
-   "chroma": 0.6742
+   "chroma": 0.6742,
+   "deleted": true,
+   "deleted_on": "2026-08-27"
   },
   "poster shop::https://polishpostergallery.com/poster/czerniawski_robert_lulu_na_moscie": {
    "id": "CRVI000271",
@@ -13424,7 +13445,8 @@
    "source_page": "https://polishpostergallery.com/poster/krajewski_andrzej_kopciuszek_w_potrzasku",
    "notes": [
     "Metadata as published by Polish Poster Gallery, which states designer, type and year on the listing.",
-    "Held at 527x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+    "Held at 527x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default.",
+    "DELETED from the museum on 2026-08-27. The record is kept so CRVI000272 stays provably retired and is never reissued."
    ],
    "label": "",
    "source_image": "https://poster.pl/posters/krajewski_andrzej_kopciuszek_w_potrzasku.jpg?v=1772836238",
@@ -13455,11 +13477,13 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "Listed by polishpostergallery.com as “A Trap Cinderella”. Designer given as Andrzej Krajewski.",
    "hue": 344.87,
    "light": 0.4248,
-   "chroma": 0.9367
+   "chroma": 0.9367,
+   "deleted": true,
+   "deleted_on": "2026-08-27"
   },
   "poster shop::https://polishpostergallery.com/poster/krauze_amator": {
    "id": "CRVI000273",
@@ -13533,7 +13557,8 @@
    "source_page": "https://polishpostergallery.com/poster/mlodozeniec_jan_klute",
    "notes": [
     "Metadata as published by Polish Poster Gallery, which states designer, type and year on the listing.",
-    "Held at 560x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+    "Held at 560x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default.",
+    "DELETED from the museum on 2026-08-27. The record is kept so CRVI000274 stays provably retired and is never reissued."
    ],
    "label": "",
    "source_image": "https://poster.pl/posters/mlodozeniec_jan_klute.jpg?v=1726522808",
@@ -13564,11 +13589,13 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "Listed by polishpostergallery.com as “Klute”. Designer given as Jan Młodożeniec.",
    "hue": 335.4,
    "light": 0.3744,
-   "chroma": 0.4947
+   "chroma": 0.4947,
+   "deleted": true,
+   "deleted_on": "2026-08-27"
   },
   "poster shop::https://polishpostergallery.com/poster/pagowski_andrzej_1901_children": {
    "id": "CRVI000275",
@@ -13863,7 +13890,8 @@
    "source_page": "https://polishpostergallery.com/poster/wasilewski_mieczyslaw_prowincjuszka",
    "notes": [
     "Metadata as published by Polish Poster Gallery, which states designer, type and year on the listing.",
-    "Held at 546x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+    "Held at 546x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default.",
+    "DELETED from the museum on 2026-08-27. The record is kept so CRVI000280 stays provably retired and is never reissued."
    ],
    "label": "",
    "source_image": "https://poster.pl/posters/wasilewski_mieczyslaw_prowincjuszka.jpg?v=1726523720",
@@ -13893,11 +13921,13 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "Listed by polishpostergallery.com as “La Provincjale; The Girl from Lorraine”. Designer given as Mieczysław Wasilewski.",
    "hue": null,
    "light": 0.8598,
-   "chroma": 0.0
+   "chroma": 0.0,
+   "deleted": true,
+   "deleted_on": "2026-08-27"
   },
   "poster shop::https://polishpostergallery.com/poster/wasilewski_mieczyslaw_tanase_scatiu": {
    "id": "CRVI000281",
@@ -13917,7 +13947,8 @@
    "source_page": "https://polishpostergallery.com/poster/wasilewski_mieczyslaw_tanase_scatiu",
    "notes": [
     "Metadata as published by Polish Poster Gallery, which states designer, type and year on the listing.",
-    "Held at 550x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+    "Held at 550x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default.",
+    "DELETED from the museum on 2026-08-27. The record is kept so CRVI000281 stays provably retired and is never reissued."
    ],
    "label": "",
    "source_image": "https://poster.pl/posters/wasilewski_mieczyslaw_tanase_scatiu.jpg?v=1726523730",
@@ -13948,11 +13979,13 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "Listed by polishpostergallery.com as “A Summer Tale”. Designer given as Mieczysław Wasilewski.",
    "hue": 36.04,
    "light": 0.2106,
-   "chroma": 0.1124
+   "chroma": 0.1124,
+   "deleted": true,
+   "deleted_on": "2026-08-27"
   },
   "poster shop::https://www.authenticvintageposters.com/collections/full-collection/products/formes-et-couleurs-ad-1": {
    "id": "CRVI000282",
@@ -14338,7 +14371,8 @@
    "verified_against": "Jan Sawka's CYRK circus poster, the pyramid of acrobats. Identified from the artwork and from Todd's own Artsy link for it (artsy.net/artwork/jan-sawka-circus-pyramid-of-acrobats), which 403s to automation but names the work. Held at 458x669 — a search thumbnail, the only source given.",
    "source_page": "",
    "notes": [
-    "No date recorded — none is given by any source Todd provided."
+    "No date recorded — none is given by any source Todd provided.",
+    "DELETED from the museum on 2026-08-27. The record is kept so CRVI000290 stays provably retired and is never reissued."
    ],
    "label": "",
    "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/museum/sawka_a.jpg",
@@ -14369,11 +14403,13 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "Jan Sawka's CYRK circus poster, the pyramid of acrobats. Identified from the artwork and from Todd's own Artsy link for it (artsy.net/artwork/jan-sawka-circus-pyramid-of-acrobats), which 403s to automation but names the work. Held at 458x669 — a search thumbnail, the only source given.",
    "hue": 4.53,
    "light": 0.6899,
-   "chroma": 0.5087
+   "chroma": 0.5087,
+   "deleted": true,
+   "deleted_on": "2026-08-27"
   },
   "Jan Sawka::Untitled": {
    "id": "CRVI000291",
@@ -14392,7 +14428,8 @@
    "verified_against": "Attributed to Jan Sawka because Todd sent it under his name; the work itself is NOT identified — no title, date or series is claimed. A figure on a mound against a ground of handwritten text, with three small framed images above. Held at 373x536, a search thumbnail.",
    "source_page": "",
    "notes": [
-    "No date recorded — none is given by any source Todd provided."
+    "No date recorded — none is given by any source Todd provided.",
+    "DELETED from the museum on 2026-08-27. The record is kept so CRVI000291 stays provably retired and is never reissued."
    ],
    "label": "",
    "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/museum/sawka_b.jpg",
@@ -14415,11 +14452,13 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "Attributed to Jan Sawka because Todd sent it under his name; the work itself is NOT identified — no title, date or series is claimed. A figure on a mound against a ground of handwritten text, with three small framed images above. Held at 373x536, a search thumbnail.",
    "hue": 94.64,
    "light": 0.7325,
-   "chroma": 0.9037
+   "chroma": 0.9037,
+   "deleted": true,
+   "deleted_on": "2026-08-27"
   },
   "Jan Sawka::Operetka (The Operetta)": {
    "id": "CRVI000292",

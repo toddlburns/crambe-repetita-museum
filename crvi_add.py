@@ -70,10 +70,28 @@ def main(spec_path):
         it = existing
         print(f'{ident} already holds {it["id"]} — updating it, not minting a second number')
     else:
-        it = {"id": f'CRVI{reg["next"]:06d}', "minted": spec.get("minted", "2026-08-26")}
-        reg["next"] += 1
-        reg["items"][ident] = it
-        print(f'minted {it["id"]} for {ident}')
+        # ⚠️ RETIRED NUMBERS ARE REUSED — Todd, 2026-08-27: "i'm happy to re-mint things to
+        # anything that has been previously deleted." This REVERSES the earlier rule that a
+        # deleted number was permanent. The cost is real and he has accepted it: a link to a
+        # deleted CRVI number will one day resolve to a DIFFERENT object rather than staying
+        # dead. The deleted record is therefore kept in the registry under a `retired_as` key
+        # so the history of what the number used to hold is not lost with it.
+        recycled = sorted((v["id"], k) for k, v in reg["items"].items() if v.get("deleted"))
+        if recycled:
+            rid, rkey = recycled[0]
+            gone = reg["items"].pop(rkey)
+            it = {"id": rid, "minted": spec.get("minted", "2026-08-27"),
+                  "reused": True,
+                  "previously": {"identity": rkey, "maker": gone.get("maker"),
+                                 "title": gone.get("title"), "deleted_on": gone.get("deleted_on")}}
+            reg["items"][ident] = it
+            print(f'minted {rid} for {ident}  (reusing a retired number; '
+                  f'was {gone.get("maker","")} — {gone.get("title","")})')
+        else:
+            it = {"id": f'CRVI{reg["next"]:06d}', "minted": spec.get("minted", "2026-08-26")}
+            reg["next"] += 1
+            reg["items"][ident] = it
+            print(f'minted {it["id"]} for {ident}')
 
     # ⚠️ THE MUSEUM HOLDS THE ORIGINAL. Keep the fetched file byte-for-byte in `originals/`
     # and derive a display copy — the first version of this discarded the source after

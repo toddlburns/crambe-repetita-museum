@@ -62,9 +62,12 @@ and so looks like it rebuilt it. It doesn't; it only stamps hue values onto what
 there. Miss the rebuild and the item stays live on the site while every command reports success.
 That happened once, on CRVI000220.
 
-⚠️ **Numbers are retired, never recycled.** The record stays in the registry flagged `deleted`
-and `reg.next` is untouched, so a deleted number is never minted again. A gap in the sequence is
-the honest outcome; reusing one would make an old link resolve to a different object.
+⚠️ **Deleted numbers ARE reused** — Todd, 2026-08-27: *"i'm happy to re-mint things to anything
+that has been previously deleted."* The next `crvi_add.py` takes the **lowest retired number**
+before reaching for `reg.next`, so the sequence stays dense. This reverses the earlier rule and
+the cost is accepted: a link to a deleted number will eventually resolve to a different object
+rather than staying dead. The displaced record is kept under `previously` on the new item, so
+what the number used to hold is still recorded.
 
 `payload.py` is the single builder for `crvi.json`, shared by `crvi_add.py`, `crvi.py` and
 `crvi_delete.py` — deleted items are excluded there, at the one chokepoint every writer passes.
