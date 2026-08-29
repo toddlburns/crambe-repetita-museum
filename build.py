@@ -66,8 +66,10 @@ a{color:inherit;text-decoration:none}
 /* the rights link sits hard right on the bottom row — margin-left:auto on the last flex item
    pushes it to the end of its line, and .tags wraps, so on a narrow screen it right-aligns on
    whatever line it lands on rather than jamming against the last tag */
-.tags .src.rights{margin-left:auto;color:#a8a8a8;font-size:11px;text-decoration:underline}
+.tags .src.rights{margin-left:14px;color:#a8a8a8;font-size:11px;text-decoration:underline}
 .tags .src.rights:hover{color:var(--ink)}
+.tags .src.allbtn{margin-left:auto;color:#a8a8a8;font-size:11px;text-decoration:underline}
+.tags .src.allbtn:hover{color:var(--ink)}
 .tags a.all{color:var(--ink);font-weight:600}
 
 /* ---- tag index ---- */
@@ -169,6 +171,8 @@ a{color:inherit;text-decoration:none}
 /* ---- tag page grid ---- */
 .grid{padding:22px 18px 180px;display:grid;
  grid-template-columns:repeat(auto-fill,minmax(92px,1fr));gap:18px;align-items:start}
+.grid.small{grid-template-columns:repeat(auto-fill,minmax(64px,1fr));gap:10px;padding:18px 18px 160px}
+@media (max-width:700px){.grid.small{grid-template-columns:repeat(auto-fill,minmax(58px,1fr));gap:8px;padding:14px 14px 100px}}
 .cell{position:relative;cursor:pointer}
 .cell .inner{transition:transform .22s cubic-bezier(.2,.7,.3,1);transform-origin:left top}
 .cell img{width:100%;display:block;background:var(--paper)}
@@ -316,7 +320,9 @@ def main():
                        for t in it.get("tags", []))
         tags += '<a class="all" href="../tags/">#alltags</a>'
         # source sits with the tags, at the end, quiet but always present
-        # source moved to the top row (see work_line); only the rights link stays down here
+        # source moved to the top row (see work_line). The bottom right holds the two
+        # whole-archive links: `all` takes the auto margin so both sit hard right together.
+        tags += '<a class="src allbtn" href="../all/">all</a>'
         tags += '<a class="src rights" href="../rights/">rights &amp; use</a>'
         keys = ITEM_JS % (json.dumps(prev) if prev else "null",
                           json.dumps(nxt) if nxt else "null")
@@ -449,7 +455,7 @@ is misidentified, please get in touch: it will be fixed and the correction noted
                 f'<a class="cell" href="../../../{it["id"]}/">'
                 f'<div class="inner"><img src="../../../{esc(it["thumb"] or it["image"])}"'
                 + (f' data-gif="../../../{esc(it["image"])}" class="anim"' if it.get("animated") else "")
-                + ' alt=""></div>'
+                + ' loading="lazy" alt=""></div>'
                 f'<div class="cap"><span class="n">{esc(it["id"])}</span>'
                 f'{esc(it.get("maker"))} - {esc(it.get("title"))}<br>{esc(rest)}</div></a>')
         body = ('<div class="crumb">'
@@ -468,6 +474,30 @@ is misidentified, please get in touch: it will be fixed and the correction noted
         f'<link rel="canonical" href="{items[0]["id"]}/">'
         '<title>Crambe Repetita Museum</title></head>'
         f'<body><a href="{items[0]["id"]}/">Enter the museum</a></body></html>')
+
+    # ---- /all/ — the whole museum as one contact sheet ----
+    # Todd, 2026-08-28: "as though it's a tag page for simply everything". So it is literally
+    # that: the same cell, the same hover-enlarge, the same colour grouping every tag page over
+    # 30 items already uses — just smaller tiles, because 375 of them have to fit.
+    all_idx = color_order(list(range(len(items))))
+    acells = []
+    for i in all_idx:
+        it = items[i]
+        rest = " · ".join(filter(None, [it.get("subtitle"), it.get("year")]))
+        acells.append(
+            f'<a class="cell" href="../{it["id"]}/">'
+            f'<div class="inner"><img src="../{esc(it["thumb"] or it["image"])}"'
+            + (f' data-gif="../{esc(it["image"])}" class="anim"' if it.get("animated") else "")
+            + ' loading="lazy" alt=""></div>'
+            f'<div class="cap"><span class="n">{esc(it["id"])}</span>'
+            f'{esc(it.get("maker"))} - {esc(it.get("title"))}<br>{esc(rest)}</div></a>')
+    abody = ('<div class="crumb"><span class="t">ALL</span>'
+             f'<span class="c">{len(items)} items</span>'
+             f'<a href="../{items[0]["id"]}/">&#8592; museum</a></div>'
+             f'<div class="grid small">{"".join(acells)}</div><script>{JS}</script>')
+    os.makedirs(os.path.join(HERE, "all"), exist_ok=True)
+    open(os.path.join(HERE, "all", "index.html"), "w").write(
+        page("All — Crambe Repetita Museum", abody, 1))
 
     print(f'{len(items)} item pages · {len(by_tag)} tag pages · {len(order)} facets')
     if held:

@@ -41,8 +41,10 @@ a{color:inherit;text-decoration:none}
 /* the rights link sits hard right on the bottom row — margin-left:auto on the last flex item
    pushes it to the end of its line, and .tags wraps, so on a narrow screen it right-aligns on
    whatever line it lands on rather than jamming against the last tag */
-.tags .src.rights{margin-left:auto;color:#a8a8a8;font-size:11px;text-decoration:underline}
+.tags .src.rights{margin-left:14px;color:#a8a8a8;font-size:11px;text-decoration:underline}
 .tags .src.rights:hover{color:var(--ink)}
+.tags .src.allbtn{margin-left:auto;color:#a8a8a8;font-size:11px;text-decoration:underline}
+.tags .src.allbtn:hover{color:var(--ink)}
 .tags a.all{color:var(--ink);font-weight:600}
 
 /* ---- tag index ---- */
@@ -144,6 +146,8 @@ a{color:inherit;text-decoration:none}
 /* ---- tag page grid ---- */
 .grid{padding:22px 18px 180px;display:grid;
  grid-template-columns:repeat(auto-fill,minmax(92px,1fr));gap:18px;align-items:start}
+.grid.small{grid-template-columns:repeat(auto-fill,minmax(64px,1fr));gap:10px;padding:18px 18px 160px}
+@media (max-width:700px){.grid.small{grid-template-columns:repeat(auto-fill,minmax(58px,1fr));gap:8px;padding:14px 14px 100px}}
 .cell{position:relative;cursor:pointer}
 .cell .inner{transition:transform .22s cubic-bezier(.2,.7,.3,1);transform-origin:left top}
 .cell img{width:100%;display:block;background:var(--paper)}
