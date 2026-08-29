@@ -21014,6 +21014,172 @@
    ],
    "hue": 209.74,
    "light": 0.5908
+  },
+  {
+   "id": "CRVI000462",
+   "source_url": "https://www.bloomberg.com/magazine/businessweek/12_32",
+   "animated": false,
+   "thumb": "thumbs/CRVI000462.jpg",
+   "source_label": "",
+   "image": "images/CRVI000462.jpg",
+   "original": "originals/CRVI000462.jpg",
+   "original_px": [
+    480,
+    639
+   ],
+   "original_bytes": 48285,
+   "maker": "Richard Turley",
+   "title": "The Freewheelin' Ben Bernanke",
+   "subtitle": "Bloomberg Businessweek, 6 August 2012 · illustration by David Parkins",
+   "year": "2012",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Richard Turley"
+    },
+    {
+     "k": "illustrator",
+     "v": "David Parkins"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Bloomberg Businessweek"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "finance"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    }
+   ],
+   "hue": 334.64,
+   "light": 0.4513
+  },
+  {
+   "id": "CRVI000463",
+   "source_url": "https://www.bloomberg.com/magazine/businessweek/11_46",
+   "animated": false,
+   "thumb": "thumbs/CRVI000463.jpg",
+   "source_label": "",
+   "image": "images/CRVI000463.jpg",
+   "original": "originals/CRVI000463.jpg",
+   "original_px": [
+    387,
+    516
+   ],
+   "original_bytes": 82322,
+   "maker": "Richard Turley",
+   "title": "The Underground Solution",
+   "subtitle": "Bloomberg Businessweek, 7 November 2011",
+   "year": "2011",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Richard Turley"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Bloomberg Businessweek"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "energy"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 353.76,
+   "light": 0.6162
+  },
+  {
+   "id": "CRVI000464",
+   "source_url": "https://digiday.com/media/richard-turleys-best-businessweek-covers/",
+   "animated": false,
+   "thumb": "thumbs/CRVI000464.jpg",
+   "source_label": "",
+   "image": "images/CRVI000464.jpg",
+   "original": "originals/CRVI000464.jpg",
+   "original_px": [
+    600,
+    800
+   ],
+   "original_bytes": 205623,
+   "maker": "Richard Turley",
+   "title": "The Hedge Fund Myth",
+   "subtitle": "Bloomberg Businessweek, 15 July 2013",
+   "year": "2013",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Richard Turley"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Bloomberg Businessweek"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "finance"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "white"
+    }
+   ],
+   "hue": 5.1,
+   "light": 0.8291
   }
  ]
 }

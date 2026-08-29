@@ -1,5 +1,5 @@
 {
- "next": 462,
+ "next": 465,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -24687,6 +24687,204 @@
    "hue": 209.74,
    "light": 0.5908,
    "chroma": 0.4314
+  },
+  "Bloomberg Businessweek::The Freewheelin' Ben Bernanke": {
+   "id": "CRVI000462",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000462.jpg",
+   "original_px": [
+    480,
+    639
+   ],
+   "original_bytes": 48285,
+   "identity": "Bloomberg Businessweek::The Freewheelin' Ben Bernanke",
+   "maker": "Richard Turley",
+   "title": "The Freewheelin' Ben Bernanke",
+   "subtitle": "Bloomberg Businessweek, 6 August 2012 · illustration by David Parkins",
+   "year": "2012",
+   "verified_against": "Bloomberg's own issue page titles 12_32 'The Freewheelin' Ben Bernanke — August 6, 2012 Issue'. The illustration is credited to David Parkins, explicitly after Milton Glaser's 1966 Bob Dylan poster; Richard Turley was creative director.",
+   "source_page": "https://www.bloomberg.com/magazine/businessweek/12_32",
+   "notes": [
+    "The cover is a direct pastiche of Milton Glaser's Dylan poster for the Bob Dylan's Greatest Hits sleeve — the silhouetted head with psychedelic hair — applied to the Federal Reserve chair.",
+    "⚠️ Todd's link was a 480x639 Google search thumbnail and no larger copy was found. The date was not read off it: the issue is confirmed by Bloomberg's own issue index.",
+    "Credited to Richard Turley as Bloomberg Businessweek's creative director, the role in which these covers are attributed to him. Where an illustrator is separately credited that is recorded too.",
+    "Held at the resolution the best available source serves. Bloomberg's issue pages do not expose the cover asset itself, and the covers were not found larger elsewhere."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/t1.jpg",
+   "source_px": [
+    480,
+    639
+   ],
+   "colors": [
+    "pink"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Richard Turley"
+    },
+    {
+     "k": "illustrator",
+     "v": "David Parkins"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Bloomberg Businessweek"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "finance"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Bloomberg's own issue page titles 12_32 'The Freewheelin' Ben Bernanke — August 6, 2012 Issue'. The illustration is credited to David Parkins, explicitly after Milton Glaser's 1966 Bob Dylan poster; Richard Turley was creative director.",
+   "hue": 334.64,
+   "light": 0.4513,
+   "chroma": 0.2272
+  },
+  "Bloomberg Businessweek::The Underground Solution": {
+   "id": "CRVI000463",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000463.jpg",
+   "original_px": [
+    387,
+    516
+   ],
+   "original_bytes": 82322,
+   "identity": "Bloomberg Businessweek::The Underground Solution",
+   "maker": "Richard Turley",
+   "title": "The Underground Solution",
+   "subtitle": "Bloomberg Businessweek, 7 November 2011",
+   "year": "2011",
+   "verified_against": "Bloomberg's own issue page titles 11_46 'The Underground Solution — November 7, 2011 Issue', which matches this cover's date strip and its line about solving the energy crisis and the deficit 'with the flick of a little flame'. Richard Turley was creative director.",
+   "source_page": "https://www.bloomberg.com/magazine/businessweek/11_46",
+   "notes": [
+    "⚠️ Todd's link was a 387x516 Google search thumbnail, the smallest of this set, and no larger copy was found. No illustrator is separately credited by the sources consulted.",
+    "Credited to Richard Turley as Bloomberg Businessweek's creative director, the role in which these covers are attributed to him. Where an illustrator is separately credited that is recorded too.",
+    "Held at the resolution the best available source serves. Bloomberg's issue pages do not expose the cover asset itself, and the covers were not found larger elsewhere."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/t2.jpg",
+   "source_px": [
+    387,
+    516
+   ],
+   "colors": [
+    "red",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Richard Turley"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Bloomberg Businessweek"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "energy"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Bloomberg's own issue page titles 11_46 'The Underground Solution — November 7, 2011 Issue', which matches this cover's date strip and its line about solving the energy crisis and the deficit 'with the flick of a little flame'. Richard Turley was creative director.",
+   "hue": 353.76,
+   "light": 0.6162,
+   "chroma": 0.6843
+  },
+  "Bloomberg Businessweek::The Hedge Fund Myth": {
+   "id": "CRVI000464",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000464.jpg",
+   "original_px": [
+    600,
+    800
+   ],
+   "original_bytes": 205623,
+   "identity": "Bloomberg Businessweek::The Hedge Fund Myth",
+   "maker": "Richard Turley",
+   "title": "The Hedge Fund Myth",
+   "subtitle": "Bloomberg Businessweek, 15 July 2013",
+   "year": "2013",
+   "verified_against": "Digiday's roundup of Richard Turley's Businessweek covers carries this one, filed as BBW-Cover-Hedge-Fund-Cover-7.15.13.jpg. Bloomberg's issue 13_29 is dated July 15, 2013.",
+   "source_page": "https://digiday.com/media/richard-turleys-best-businessweek-covers/",
+   "notes": [
+    "⚠️ The printed cover line is 'The Hedge Fund Myth'. Bloomberg's own issue index titles that issue 'Hedge Funds Are for Suckers' — the cover and the online headline differ, and the cover line is what is recorded here because the cover is the object.",
+    "Taken from Digiday at 600x800 rather than Todd's 250x334 search thumbnail.",
+    "Credited to Richard Turley as Bloomberg Businessweek's creative director, the role in which these covers are attributed to him. Where an illustrator is separately credited that is recorded too.",
+    "Held at the resolution the best available source serves. Bloomberg's issue pages do not expose the cover asset itself, and the covers were not found larger elsewhere."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/hedge.jpg",
+   "source_px": [
+    600,
+    800
+   ],
+   "colors": [
+    "red",
+    "green",
+    "white"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Richard Turley"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Bloomberg Businessweek"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "finance"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Digiday's roundup of Richard Turley's Businessweek covers carries this one, filed as BBW-Cover-Hedge-Fund-Cover-7.15.13.jpg. Bloomberg's issue 13_29 is dated July 15, 2013.",
+   "hue": 5.1,
+   "light": 0.8291,
+   "chroma": 0.1509
   }
  }
 }
