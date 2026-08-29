@@ -1,5 +1,5 @@
 {
- "next": 466,
+ "next": 475,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -24944,6 +24944,522 @@
    "hue": 355.43,
    "light": 0.6864,
    "chroma": 0.3501
+  },
+  "Bloomberg Businessweek::XXX": {
+   "id": "CRVI000466",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000466.jpg",
+   "original_px": [
+    387,
+    516
+   ],
+   "original_bytes": 45185,
+   "identity": "Bloomberg Businessweek::XXX",
+   "maker": "Unknown",
+   "title": "XXX",
+   "subtitle": "Bloomberg Businessweek, June 25 – July 1, 2012",
+   "year": "2012",
+   "verified_against": "Bloomberg Businessweek cover. Dated from the cover's own printed strip, which reads 'June 25 – July 1, 2012'.",
+   "source_page": "https://www.bloomberg.com/businessweek",
+   "notes": [
+    "The cover concerns the .xxx top-level domain and the pornography industry.",
+    "⚠️ No designer is named. Bloomberg Businessweek's creative direction passed from Richard Turley to Rob Vargas during 2014, with Tracy Ma as deputy, and no source consulted attributes this particular cover to an individual. Naming one would be a guess wearing a credit's clothes. The four Turley covers already in this archive are credited because sources say so.",
+    "Held at the size of Todd's Google search thumbnail; no larger copy was found. Bloomberg's issue pages expose interior spreads rather than the cover asset, and the site began refusing automated requests during this batch."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/n1.jpg",
+   "source_px": [
+    387,
+    516
+   ],
+   "colors": [
+    "pink"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Bloomberg Businessweek"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "internet"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Bloomberg Businessweek cover. Dated from the cover's own printed strip, which reads 'June 25 – July 1, 2012'.",
+   "hue": 324.45,
+   "light": 0.2876,
+   "chroma": 0.3806
+  },
+  "Bloomberg Businessweek::Transition Game": {
+   "id": "CRVI000467",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000467.jpg",
+   "original_px": [
+    387,
+    516
+   ],
+   "original_bytes": 41181,
+   "identity": "Bloomberg Businessweek::Transition Game",
+   "maker": "Unknown",
+   "title": "Transition Game",
+   "subtitle": "Bloomberg Businessweek",
+   "year": "",
+   "verified_against": "Bloomberg Businessweek cover. The cover's own date strip is not legible at the resolution available, and Bloomberg's issue index could not be reached to confirm one, so no date is claimed.",
+   "source_page": "https://www.bloomberg.com/businessweek",
+   "notes": [
+    "David Stern handing the NBA commissionership to Adam Silver, which took effect 1 February 2014 — so the issue is from around then. The cover's own date strip is illegible at this size and no date is asserted.",
+    "⚠️ No designer is named. Bloomberg Businessweek's creative direction passed from Richard Turley to Rob Vargas during 2014, with Tracy Ma as deputy, and no source consulted attributes this particular cover to an individual. Naming one would be a guess wearing a credit's clothes. The four Turley covers already in this archive are credited because sources say so.",
+    "Held at the size of Todd's Google search thumbnail; no larger copy was found. Bloomberg's issue pages expose interior spreads rather than the cover asset, and the site began refusing automated requests during this batch."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/n2.jpg",
+   "source_px": [
+    387,
+    516
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Bloomberg Businessweek"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "sport"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Bloomberg Businessweek cover. The cover's own date strip is not legible at the resolution available, and Bloomberg's issue index could not be reached to confirm one, so no date is claimed.",
+   "hue": 19.13,
+   "light": 0.6885,
+   "chroma": 0.2312
+  },
+  "Bloomberg Businessweek::The Year Ahead: 2015": {
+   "id": "CRVI000468",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000468.jpg",
+   "original_px": [
+    480,
+    639
+   ],
+   "original_bytes": 116662,
+   "identity": "Bloomberg Businessweek::The Year Ahead: 2015",
+   "maker": "Unknown",
+   "title": "The Year Ahead: 2015",
+   "subtitle": "Bloomberg Businessweek, November 10, 2014 – January 6, 2015",
+   "year": "2014",
+   "verified_against": "Bloomberg Businessweek cover. Dated from the cover's own printed strip, which reads 'November 10, 2014 – January 6, 2015'.",
+   "source_page": "https://www.bloomberg.com/businessweek",
+   "notes": [
+    "A double-length special issue, as its own date range shows.",
+    "⚠️ No designer is named. Bloomberg Businessweek's creative direction passed from Richard Turley to Rob Vargas during 2014, with Tracy Ma as deputy, and no source consulted attributes this particular cover to an individual. Naming one would be a guess wearing a credit's clothes. The four Turley covers already in this archive are credited because sources say so.",
+    "Held at the size of Todd's Google search thumbnail; no larger copy was found. Bloomberg's issue pages expose interior spreads rather than the cover asset, and the site began refusing automated requests during this batch."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/n3.jpg",
+   "source_px": [
+    480,
+    639
+   ],
+   "colors": [
+    "cyan",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Bloomberg Businessweek"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "business"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Bloomberg Businessweek cover. Dated from the cover's own printed strip, which reads 'November 10, 2014 – January 6, 2015'.",
+   "hue": 193.21,
+   "light": 0.4667,
+   "chroma": 0.4854
+  },
+  "Bloomberg Businessweek::The U.S. Created PRISM. It Also Created the Antidote": {
+   "id": "CRVI000469",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000469.jpg",
+   "original_px": [
+    387,
+    516
+   ],
+   "original_bytes": 32864,
+   "identity": "Bloomberg Businessweek::The U.S. Created PRISM. It Also Created the Antidote",
+   "maker": "Unknown",
+   "title": "The U.S. Created PRISM. It Also Created the Antidote",
+   "subtitle": "Bloomberg Businessweek",
+   "year": "",
+   "verified_against": "Bloomberg Businessweek cover. The cover's own date strip is not legible at the resolution available, and Bloomberg's issue index could not be reached to confirm one, so no date is claimed.",
+   "source_page": "https://www.bloomberg.com/businessweek",
+   "notes": [
+    "On the NSA's PRISM programme, revealed in 2013. The cover's date strip is illegible at this size and no date is asserted.",
+    "⚠️ No designer is named. Bloomberg Businessweek's creative direction passed from Richard Turley to Rob Vargas during 2014, with Tracy Ma as deputy, and no source consulted attributes this particular cover to an individual. Naming one would be a guess wearing a credit's clothes. The four Turley covers already in this archive are credited because sources say so.",
+    "Held at the size of Todd's Google search thumbnail; no larger copy was found. Bloomberg's issue pages expose interior spreads rather than the cover asset, and the site began refusing automated requests during this batch."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/n4.jpg",
+   "source_px": [
+    387,
+    516
+   ],
+   "colors": [
+    "cyan",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Bloomberg Businessweek"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "surveillance"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Bloomberg Businessweek cover. The cover's own date strip is not legible at the resolution available, and Bloomberg's issue index could not be reached to confirm one, so no date is claimed.",
+   "hue": 194.57,
+   "light": 0.7521,
+   "chroma": 0.3468
+  },
+  "Bloomberg Businessweek::Miracle Worker": {
+   "id": "CRVI000470",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000470.jpg",
+   "original_px": [
+    387,
+    516
+   ],
+   "original_bytes": 59723,
+   "identity": "Bloomberg Businessweek::Miracle Worker",
+   "maker": "Unknown",
+   "title": "Miracle Worker",
+   "subtitle": "Bloomberg Businessweek",
+   "year": "",
+   "verified_against": "Bloomberg Businessweek cover. The cover's own date strip is not legible at the resolution available, and Bloomberg's issue index could not be reached to confirm one, so no date is claimed.",
+   "source_page": "https://www.bloomberg.com/businessweek",
+   "notes": [
+    "Shinzo Abe and the economic programme known as Abenomics. Date strip illegible at this size.",
+    "⚠️ No designer is named. Bloomberg Businessweek's creative direction passed from Richard Turley to Rob Vargas during 2014, with Tracy Ma as deputy, and no source consulted attributes this particular cover to an individual. Naming one would be a guess wearing a credit's clothes. The four Turley covers already in this archive are credited because sources say so.",
+    "Held at the size of Todd's Google search thumbnail; no larger copy was found. Bloomberg's issue pages expose interior spreads rather than the cover asset, and the site began refusing automated requests during this batch."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/n5.jpg",
+   "source_px": [
+    387,
+    516
+   ],
+   "colors": [
+    "pink",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Bloomberg Businessweek"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "politics"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Bloomberg Businessweek cover. The cover's own date strip is not legible at the resolution available, and Bloomberg's issue index could not be reached to confirm one, so no date is claimed.",
+   "hue": 333.16,
+   "light": 0.7609,
+   "chroma": 0.5823
+  },
+  "Bloomberg Businessweek::Samsung's Secret": {
+   "id": "CRVI000471",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000471.jpg",
+   "original_px": [
+    387,
+    516
+   ],
+   "original_bytes": 48449,
+   "identity": "Bloomberg Businessweek::Samsung's Secret",
+   "maker": "Unknown",
+   "title": "Samsung's Secret",
+   "subtitle": "Bloomberg Businessweek",
+   "year": "",
+   "verified_against": "Bloomberg Businessweek cover. The cover's own date strip is not legible at the resolution available, and Bloomberg's issue index could not be reached to confirm one, so no date is claimed.",
+   "source_page": "https://www.bloomberg.com/businessweek",
+   "notes": [
+    "On Samsung and chairman Lee Kun-Hee. Date strip illegible at this size.",
+    "⚠️ No designer is named. Bloomberg Businessweek's creative direction passed from Richard Turley to Rob Vargas during 2014, with Tracy Ma as deputy, and no source consulted attributes this particular cover to an individual. Naming one would be a guess wearing a credit's clothes. The four Turley covers already in this archive are credited because sources say so.",
+    "Held at the size of Todd's Google search thumbnail; no larger copy was found. Bloomberg's issue pages expose interior spreads rather than the cover asset, and the site began refusing automated requests during this batch."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/n6.jpg",
+   "source_px": [
+    387,
+    516
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Bloomberg Businessweek"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "technology"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Bloomberg Businessweek cover. The cover's own date strip is not legible at the resolution available, and Bloomberg's issue index could not be reached to confirm one, so no date is claimed.",
+   "hue": 208.84,
+   "light": 0.353,
+   "chroma": 0.4554
+  },
+  "Bloomberg Businessweek::Selling Obama": {
+   "id": "CRVI000472",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000472.jpg",
+   "original_px": [
+    479,
+    640
+   ],
+   "original_bytes": 104829,
+   "identity": "Bloomberg Businessweek::Selling Obama",
+   "maker": "Unknown",
+   "title": "Selling Obama",
+   "subtitle": "Bloomberg Businessweek",
+   "year": "",
+   "verified_against": "Bloomberg Businessweek cover. The cover's own date strip is not legible at the resolution available, and Bloomberg's issue index could not be reached to confirm one, so no date is claimed.",
+   "source_page": "https://www.bloomberg.com/businessweek",
+   "notes": [
+    "On the 2012 Obama re-election campaign and its manager Jim Messina. Date strip illegible.",
+    "⚠️ No designer is named. Bloomberg Businessweek's creative direction passed from Richard Turley to Rob Vargas during 2014, with Tracy Ma as deputy, and no source consulted attributes this particular cover to an individual. Naming one would be a guess wearing a credit's clothes. The four Turley covers already in this archive are credited because sources say so.",
+    "Held at the size of Todd's Google search thumbnail; no larger copy was found. Bloomberg's issue pages expose interior spreads rather than the cover asset, and the site began refusing automated requests during this batch."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/n7.jpg",
+   "source_px": [
+    479,
+    640
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Bloomberg Businessweek"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "politics"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Bloomberg Businessweek cover. The cover's own date strip is not legible at the resolution available, and Bloomberg's issue index could not be reached to confirm one, so no date is claimed.",
+   "hue": 355.59,
+   "light": 0.606,
+   "chroma": 0.5088
+  },
+  "Bloomberg Businessweek::Pikettymania": {
+   "id": "CRVI000473",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000473.jpg",
+   "original_px": [
+    480,
+    639
+   ],
+   "original_bytes": 98478,
+   "identity": "Bloomberg Businessweek::Pikettymania",
+   "maker": "Unknown",
+   "title": "Pikettymania",
+   "subtitle": "Bloomberg Businessweek, June 2 – June 8, 2014",
+   "year": "2014",
+   "verified_against": "Bloomberg Businessweek cover. Dated from the cover's own printed strip, which reads 'June 2 – June 8, 2014'.",
+   "source_page": "https://www.bloomberg.com/businessweek",
+   "notes": [
+    "On Thomas Piketty and Capital in the Twenty-First Century.",
+    "⚠️ No designer is named. Bloomberg Businessweek's creative direction passed from Richard Turley to Rob Vargas during 2014, with Tracy Ma as deputy, and no source consulted attributes this particular cover to an individual. Naming one would be a guess wearing a credit's clothes. The four Turley covers already in this archive are credited because sources say so.",
+    "Held at the size of Todd's Google search thumbnail; no larger copy was found. Bloomberg's issue pages expose interior spreads rather than the cover asset, and the site began refusing automated requests during this batch."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/n8.jpg",
+   "source_px": [
+    480,
+    639
+   ],
+   "colors": [
+    "pink",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Bloomberg Businessweek"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "economics"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Bloomberg Businessweek cover. Dated from the cover's own printed strip, which reads 'June 2 – June 8, 2014'.",
+   "hue": 54.37,
+   "light": 0.5658,
+   "chroma": 0.7788
+  },
+  "Bloomberg Businessweek::The How-To Issue": {
+   "id": "CRVI000474",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000474.jpg",
+   "original_px": [
+    480,
+    639
+   ],
+   "original_bytes": 70810,
+   "identity": "Bloomberg Businessweek::The How-To Issue",
+   "maker": "Unknown",
+   "title": "The How-To Issue",
+   "subtitle": "Bloomberg Businessweek, April 15 – April 21, 2013",
+   "year": "2013",
+   "verified_against": "Bloomberg Businessweek cover. Dated from the cover's own printed strip, which reads 'April 15 – April 21, 2013'.",
+   "source_page": "https://www.bloomberg.com/businessweek",
+   "notes": [
+    "⚠️ No designer is named. Bloomberg Businessweek's creative direction passed from Richard Turley to Rob Vargas during 2014, with Tracy Ma as deputy, and no source consulted attributes this particular cover to an individual. Naming one would be a guess wearing a credit's clothes. The four Turley covers already in this archive are credited because sources say so.",
+    "Held at the size of Todd's Google search thumbnail; no larger copy was found. Bloomberg's issue pages expose interior spreads rather than the cover asset, and the site began refusing automated requests during this batch."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/n9.jpg",
+   "source_px": [
+    480,
+    639
+   ],
+   "colors": [
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Bloomberg Businessweek"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "business"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Bloomberg Businessweek cover. Dated from the cover's own printed strip, which reads 'April 15 – April 21, 2013'.",
+   "hue": 123.07,
+   "light": 0.4216,
+   "chroma": 0.7361
   }
  }
 }
