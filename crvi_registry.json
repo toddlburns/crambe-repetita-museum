@@ -1,5 +1,5 @@
 {
- "next": 438,
+ "next": 439,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -22812,6 +22812,69 @@
    "hue": 175.64,
    "light": 0.6135,
    "chroma": 0.5936
+  },
+  "Penguin University Books::The Concept of Mind": {
+   "id": "CRVI000438",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000438.jpg",
+   "original_px": [
+    1134,
+    1581
+   ],
+   "original_bytes": 104807,
+   "identity": "Penguin University Books::The Concept of Mind",
+   "maker": "John McConnell",
+   "title": "The Concept of Mind",
+   "subtitle": "Cover for Gilbert Ryle · Penguin University Books",
+   "year": "",
+   "verified_against": "Penguin Series Design, 'Penguin University Books' (8 June 2026). The article's own opening credit reads 'Cover design by John McConnell. Penguin University Books, 1973', and the two sibling covers in the same carousel are both captioned 'Cover design by John McConnell'.",
+   "source_page": "https://penguinseriesdesign.com/2026/06/08/penguin-university-books/#jp-carousel-9726",
+   "notes": [
+    "⚠️ THE BLOG'S OWN CAPTION ON THIS IMAGE IS WRONG. It reads 'Cover design by Gilbert Ryle' — but Ryle is the book's AUTHOR, the philosopher who wrote The Concept of Mind. The caption repeats his name into the designer field. The article's opening line and both sibling captions credit John McConnell, who designed the series, so that is what is recorded here.",
+    "Penguin University Books ran from its launch in 1971 to the series closing in 1974, which is why the decade is recorded but no year is: the article dates the series, not this title.",
+    "Photographed on a plain ground by the blog's author; the image is the book object, not a flat scan of the artwork."
+   ],
+   "label": "",
+   "source_image": "https://penguinseriesdesign.com/wp-content/uploads/2026/03/dscf9015-copy.jpg",
+   "source_px": [
+    1134,
+    1581
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "John McConnell"
+    },
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "client",
+     "v": "Penguin Books"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "subject",
+     "v": "philosophy"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Penguin Series Design, 'Penguin University Books' (8 June 2026). The article's own opening credit reads 'Cover design by John McConnell. Penguin University Books, 1973', and the two sibling covers in the same carousel are both captioned 'Cover design by John McConnell'.",
+   "hue": 39.46,
+   "light": 0.4219,
+   "chroma": 0.1085
   }
  }
 }
