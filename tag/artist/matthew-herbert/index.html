@@ -1,0 +1,39 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>artist: Matthew Herbert — Crambe Repetita Museum</title><link rel="stylesheet" href="../../../style.css"></head><body><div class="crumb"><span class="t">ARTIST: MATTHEW HERBERT</span><span class="c">1 items</span><a href="../../../tags/">&#8592; all tags</a></div><div class="grid"><a class="cell" href="../../../CRVI000402/"><div class="inner"><img src="../../../thumbs/CRVI000402.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI000402</span>Matthew Herbert - Around the House<br>Designer unknown · Studio IK7 · 1998</div></a></div><script>
+var SCALE=3;var t=null;
+// ⚠️ THE GIF IS FETCHED ON HOVER, NOT BEFORE. Setting src is what triggers the download, so a
+// grid cell ships the still poster and only swaps in the animation when the pointer arrives.
+// Pausing or hiding a GIF whose src is already set saves nothing — it is on the wire either way.
+// The poster is kept in data-poster so leaving restores it without a second fetch of anything.
+function playGif(c){
+  var im=c.querySelector('img.anim');
+  if(!im) return;
+  var g=im.getAttribute('data-gif');
+  if(!g||im.dataset.playing) return;
+  im.dataset.poster=im.getAttribute('src');
+  im.dataset.playing='1';
+  im.setAttribute('src',g);
+}
+function stopGif(c){
+  var im=c.querySelector('img.anim');
+  if(!im||!im.dataset.playing) return;
+  // back to the still, so a page full of gifs is not left all animating at once
+  im.setAttribute('src',im.dataset.poster);
+  delete im.dataset.playing;
+}
+document.querySelectorAll('.cell').forEach(function(c){
+  c.addEventListener('mouseenter',function(){
+    playGif(c);
+    clearTimeout(t);
+    t=setTimeout(function(){
+      // transform does not change layout, so push the caption below the grown image
+      var im=c.querySelector('img'),cap=c.querySelector('.cap');
+      cap.style.transform='translateY('+im.getBoundingClientRect().height*(SCALE-1)+'px)';
+      c.classList.add('big');
+    },1000);
+  });
+  c.addEventListener('mouseleave',function(){
+    stopGif(c);
+    clearTimeout(t);c.classList.remove('big');c.querySelector('.cap').style.transform='';
+  });
+});
+</script></body></html>

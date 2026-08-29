@@ -1,5 +1,5 @@
 {
- "next": 376,
+ "next": 438,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -19511,6 +19511,3380 @@
    "hue": 356.21,
    "light": 0.1302,
    "chroma": 0.1692
+  },
+  "ele-king sweep::Ambient Definitive::IMG_4254_1": {
+   "id": "CRVI000376",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000376.jpg",
+   "original_px": [
+    620,
+    620
+   ],
+   "original_bytes": 101243,
+   "identity": "ele-king sweep::Ambient Definitive::IMG_4254_1",
+   "maker": "AMM",
+   "title": "AMMMusic 1966",
+   "subtitle": "Designer unknown · Elektra",
+   "year": "1967",
+   "label": "Elektra",
+   "verified_against": "Read off AMBIENT definitive 1958-2013 (三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as AMM / AMMMusic 1966 (1966).",
+   "notes": [
+    "Title from iTunes; the caption read 'Ammmusic'.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4254_1.jpg",
+   "source_px": [
+    620,
+    620
+   ],
+   "colors": [
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "AMM"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Elektra"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off AMBIENT definitive 1958-2013 (三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as AMM / AMMMusic 1966 (1966).",
+   "hue": 54.15,
+   "light": 0.5475,
+   "chroma": 0.6057
+  },
+  "ele-king sweep::Ambient Definitive::IMG_4255_1": {
+   "id": "CRVI000377",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000377.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 876739,
+   "identity": "ele-king sweep::Ambient Definitive::IMG_4255_1",
+   "maker": "Alvin Lucier",
+   "title": "Bird And Person Dyning",
+   "subtitle": "Designer unknown · Cramps",
+   "year": "1976",
+   "label": "Cramps",
+   "verified_against": "Read off AMBIENT definitive 1958-2013 (三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Alvin Lucier / Bird and Person Dying (1976).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4255_1.jpg",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "blue",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Alvin Lucier"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Cramps"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off AMBIENT definitive 1958-2013 (三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Alvin Lucier / Bird and Person Dying (1976).",
+   "hue": 211.48,
+   "light": 0.7988,
+   "chroma": 0.1329
+  },
+  "ele-king sweep::Ambient Definitive::IMG_4267_1": {
+   "id": "CRVI000378",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000378.jpg",
+   "original_px": [
+    600,
+    600
+   ],
+   "original_bytes": 143556,
+   "identity": "ele-king sweep::Ambient Definitive::IMG_4267_1",
+   "maker": "Thai Elephant Orchestra /Dave Soldier / Richard Lair",
+   "title": "Elephonic Rhapsodies",
+   "subtitle": "Designer unknown · Mulatta",
+   "year": "2005",
+   "label": "Mulatta",
+   "verified_against": "Read off AMBIENT definitive 1958-2013 (三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Thai Elephant Orchestra /Dave Soldier / Richard Lair / Elephonic Rhapsodies (2005).",
+   "notes": [
+    "Artist corrected from the book read 'Thai Elephant Orchestra with Dave Soldier, Richard Lair' using iTunes.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4267_1.jpg",
+   "source_px": [
+    600,
+    600
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Thai Elephant Orchestra /Dave Soldier / Richard Lair"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Mulatta"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off AMBIENT definitive 1958-2013 (三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Thai Elephant Orchestra /Dave Soldier / Richard Lair / Elephonic Rhapsodies (2005).",
+   "hue": 36.53,
+   "light": 0.5231,
+   "chroma": 0.6102
+  },
+  "ele-king sweep::Ambient Definitive::IMG_4268_1": {
+   "id": "CRVI000379",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000379.jpg",
+   "original_px": [
+    1400,
+    1400
+   ],
+   "original_bytes": 436891,
+   "identity": "ele-king sweep::Ambient Definitive::IMG_4268_1",
+   "maker": "Quintron",
+   "title": "The Frog Tape",
+   "subtitle": "Designer unknown · Skin Graft",
+   "year": "2005",
+   "label": "Skin Graft",
+   "verified_against": "Read off AMBIENT definitive 1958-2013 (三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Quintron / The Frog Tape (2004).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4268_1.jpg",
+   "source_px": [
+    1400,
+    1400
+   ],
+   "colors": [
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Quintron"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Skin Graft"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off AMBIENT definitive 1958-2013 (三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Quintron / The Frog Tape (2004).",
+   "hue": 134.62,
+   "light": 0.3499,
+   "chroma": 0.6571
+  },
+  "ele-king sweep::Ambient Definitive::IMG_4274_1": {
+   "id": "CRVI000380",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000380.jpg",
+   "original_px": [
+    615,
+    600
+   ],
+   "original_bytes": 98142,
+   "identity": "ele-king sweep::Ambient Definitive::IMG_4274_1",
+   "maker": "Basil Kirchin",
+   "title": "Quantum",
+   "subtitle": "Designer unknown · Trunk",
+   "year": "2003",
+   "label": "Trunk",
+   "verified_against": "Read off AMBIENT definitive 1958-2013 (三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Basil Kirchin / Quantum (2003).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4274_1.jpg",
+   "source_px": [
+    615,
+    600
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Basil Kirchin"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Trunk"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off AMBIENT definitive 1958-2013 (三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Basil Kirchin / Quantum (2003).",
+   "hue": 5.05,
+   "light": 0.2803,
+   "chroma": 0.7732
+  },
+  "ele-king sweep::Ambient Definitive::IMG_4283_1": {
+   "id": "CRVI000381",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000381.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 510009,
+   "identity": "ele-king sweep::Ambient Definitive::IMG_4283_1",
+   "maker": "Joel Vandroogenbroeck, Mac Prindy & Marc Monsen",
+   "title": "Biomechanoid",
+   "subtitle": "Designer unknown · Sofoursound Library",
+   "year": "1980",
+   "label": "Sofoursound Library",
+   "verified_against": "Read off AMBIENT definitive 1958-2013 (三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Joel Vandroogenbroeck, Mac Prindy & Marc Monsen / Biomechanoid (1980).",
+   "notes": [
+    "Artist corrected from the book read 'Joel Vandroogenbroeck' using iTunes.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4283_1.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "green",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Joel Vandroogenbroeck, Mac Prindy & Marc Monsen"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Sofoursound Library"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off AMBIENT definitive 1958-2013 (三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Joel Vandroogenbroeck, Mac Prindy & Marc Monsen / Biomechanoid (1980).",
+   "hue": 183.54,
+   "light": 0.395,
+   "chroma": 0.3159
+  },
+  "ele-king sweep::Ambient Definitive::IMG_4284_1": {
+   "id": "CRVI000382",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000382.jpg",
+   "original_px": [
+    1440,
+    1440
+   ],
+   "original_bytes": 332562,
+   "identity": "ele-king sweep::Ambient Definitive::IMG_4284_1",
+   "maker": "Joel Vandroogenbroeck",
+   "title": "Images Of Flute In Nature",
+   "subtitle": "Designer unknown · Cenacolo",
+   "year": "1978",
+   "label": "Cenacolo",
+   "verified_against": "Read off AMBIENT definitive 1958-2013 (三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Joel Vandroogenbroeck / Images of Flute in Nature (1978).",
+   "notes": [
+    "Artist corrected from the book read 'Joël Vandroogenbroeck' using iTunes.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4284_1.jpg",
+   "source_px": [
+    1440,
+    1440
+   ],
+   "colors": [
+    "yellow",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Joel Vandroogenbroeck"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Cenacolo"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off AMBIENT definitive 1958-2013 (三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Joel Vandroogenbroeck / Images of Flute in Nature (1978).",
+   "hue": 62.56,
+   "light": 0.7808,
+   "chroma": 0.2922
+  },
+  "ele-king sweep::Ambient Definitive::IMG_4285_1": {
+   "id": "CRVI000383",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000383.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 2926713,
+   "identity": "ele-king sweep::Ambient Definitive::IMG_4285_1",
+   "maker": "Brainticket",
+   "title": "Celestial Ocean",
+   "subtitle": "Designer unknown · RCA Victor",
+   "year": "1972",
+   "label": "RCA Victor",
+   "verified_against": "Read off AMBIENT definitive 1958-2013 (三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Brainticket / Celestial Ocean (1974).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4285_1.jpg",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "yellow",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Brainticket"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "RCA Victor"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off AMBIENT definitive 1958-2013 (三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Brainticket / Celestial Ocean (1974).",
+   "hue": 45.68,
+   "light": 0.4801,
+   "chroma": 0.7144
+  },
+  "ele-king sweep::Ambient Definitive::IMG_4288_1": {
+   "id": "CRVI000384",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000384.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 1355773,
+   "identity": "ele-king sweep::Ambient Definitive::IMG_4288_1",
+   "maker": "Mark Isham",
+   "title": "Vapor Drawings",
+   "subtitle": "Designer unknown · Windham Hill",
+   "year": "1983",
+   "label": "Windham Hill",
+   "verified_against": "Read off AMBIENT definitive 1958-2013 (三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Mark Isham / Vapor Drawings (1983).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4288_1.jpg",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "green",
+    "cyan",
+    "white"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Mark Isham"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Windham Hill"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off AMBIENT definitive 1958-2013 (三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Mark Isham / Vapor Drawings (1983).",
+   "hue": 202.78,
+   "light": 0.7913,
+   "chroma": 0.2842
+  },
+  "ele-king sweep::Ambient Definitive::IMG_4290_1": {
+   "id": "CRVI000385",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000385.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 1613995,
+   "identity": "ele-king sweep::Ambient Definitive::IMG_4290_1",
+   "maker": "Herman Chin Loy",
+   "title": "Aquarius Recording Co",
+   "subtitle": "Designer unknown · Ltd.",
+   "year": "1975",
+   "label": "Ltd.",
+   "verified_against": "Read off AMBIENT definitive 1958-2013 (三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Herman Chin Loy / Aquarius Dub (2020).",
+   "notes": [
+    "Artist corrected from the book read 'Herman Chin Loy Aquarius Dub' using iTunes.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4290_1.jpg",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Herman Chin Loy"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Ltd."
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off AMBIENT definitive 1958-2013 (三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Herman Chin Loy / Aquarius Dub (2020).",
+   "hue": 33.99,
+   "light": 0.49,
+   "chroma": 0.4559
+  },
+  "ele-king sweep::Ambient Definitive::IMG_4293_1": {
+   "id": "CRVI000386",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000386.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 1864451,
+   "identity": "ele-king sweep::Ambient Definitive::IMG_4293_1",
+   "maker": "Conrad Schnitzler",
+   "title": "Con",
+   "subtitle": "Designer unknown · Egg",
+   "year": "1978",
+   "label": "Egg",
+   "verified_against": "Read off AMBIENT definitive 1958-2013 (三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Conrad Schnitzler / Con (1978).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4293_1.jpg",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Conrad Schnitzler"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Egg"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off AMBIENT definitive 1958-2013 (三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Conrad Schnitzler / Con (1978).",
+   "hue": null,
+   "light": 0.4111,
+   "chroma": 0.0342
+  },
+  "ele-king sweep::Ambient Definitive::IMG_4294_1": {
+   "id": "CRVI000387",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000387.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 269921,
+   "identity": "ele-king sweep::Ambient Definitive::IMG_4294_1",
+   "maker": "Conrad Schnitzler",
+   "title": "Conal",
+   "subtitle": "Designer unknown · Uniton",
+   "year": "1981",
+   "label": "Uniton",
+   "verified_against": "Read off AMBIENT definitive 1958-2013 (三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Conrad Schnitzler / Conal (1981).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4294_1.jpg",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Conrad Schnitzler"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Uniton"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off AMBIENT definitive 1958-2013 (三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Conrad Schnitzler / Conal (1981).",
+   "hue": 345.04,
+   "light": 0.3585,
+   "chroma": 0.9374
+  },
+  "ele-king sweep::Ambient Definitive::IMG_4297_1": {
+   "id": "CRVI000388",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000388.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 1851172,
+   "identity": "ele-king sweep::Ambient Definitive::IMG_4297_1",
+   "maker": "Manuel Göttsching",
+   "title": "Inventions For Electric Guitar (Mixed Tracks)",
+   "subtitle": "Designer unknown · Kosmische Musik",
+   "year": "1975",
+   "label": "Kosmische Musik",
+   "verified_against": "Read off AMBIENT definitive 1958-2013 (三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Manuel Göttsching / Inventions For Electric Guitar (Mixed Tracks) (1974).",
+   "notes": [
+    "Artist corrected from the book read 'Gottsching, Ash Ra Tempel' using iTunes.",
+    "Title from iTunes; the caption read 'Inventions For Electric Guitar'.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4297_1.jpg",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Manuel Göttsching"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Kosmische Musik"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off AMBIENT definitive 1958-2013 (三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Manuel Göttsching / Inventions For Electric Guitar (Mixed Tracks) (1974).",
+   "hue": 212.41,
+   "light": 0.4309,
+   "chroma": 0.5847
+  },
+  "ele-king sweep::Ambient Definitive::IMG_4311_1": {
+   "id": "CRVI000389",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000389.jpg",
+   "original_px": [
+    600,
+    600
+   ],
+   "original_bytes": 69387,
+   "identity": "ele-king sweep::Ambient Definitive::IMG_4311_1",
+   "maker": "SND",
+   "title": "Stdio",
+   "subtitle": "Designer unknown · Mille Plateaux",
+   "year": "2000",
+   "label": "Mille Plateaux",
+   "verified_against": "Read off AMBIENT definitive 1958-2013 (三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as SND / Stdio (2000).",
+   "notes": [
+    "Artist corrected from the book read 'Snd' using iTunes.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4311_1.jpg",
+   "source_px": [
+    600,
+    600
+   ],
+   "colors": [
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "SND"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Mille Plateaux"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off AMBIENT definitive 1958-2013 (三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as SND / Stdio (2000).",
+   "hue": 194.97,
+   "light": 0.8861,
+   "chroma": 0.3481
+  },
+  "ele-king sweep::Ambient Definitive::IMG_4316_1": {
+   "id": "CRVI000390",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000390.jpg",
+   "original_px": [
+    2000,
+    2000
+   ],
+   "original_bytes": 826438,
+   "identity": "ele-king sweep::Ambient Definitive::IMG_4316_1",
+   "maker": "Fennesz",
+   "title": "Endless Summer",
+   "subtitle": "Designer unknown",
+   "year": "2001",
+   "label": "",
+   "verified_against": "Read off AMBIENT definitive 1958-2013 (三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Fennesz / Endless Summer (2001).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4316_1.jpg",
+   "source_px": [
+    2000,
+    2000
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Fennesz"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": ""
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off AMBIENT definitive 1958-2013 (三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Fennesz / Endless Summer (2001).",
+   "hue": 21.86,
+   "light": 0.341,
+   "chroma": 0.6865
+  },
+  "ele-king sweep::Ambient Definitive::IMG_4320_1": {
+   "id": "CRVI000391",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000391.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 3567288,
+   "identity": "ele-king sweep::Ambient Definitive::IMG_4320_1",
+   "maker": "Oneohtrix Point Never",
+   "title": "Replica",
+   "subtitle": "Designer unknown · Software",
+   "year": "2011",
+   "label": "Software",
+   "verified_against": "Read off AMBIENT definitive 1958-2013 (三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Oneohtrix Point Never / Replica (2011).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4320_1.jpg",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Oneohtrix Point Never"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Software"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off AMBIENT definitive 1958-2013 (三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Oneohtrix Point Never / Replica (2011).",
+   "hue": null,
+   "light": 0.6235,
+   "chroma": 0.0
+  },
+  "ele-king sweep::Ambient Definitive::IMG_4322_1": {
+   "id": "CRVI000392",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000392.jpg",
+   "original_px": [
+    1400,
+    1400
+   ],
+   "original_bytes": 298664,
+   "identity": "ele-king sweep::Ambient Definitive::IMG_4322_1",
+   "maker": "M. Geddes Gengras",
+   "title": "Test Leads",
+   "subtitle": "Designer unknown · Holy Mountain",
+   "year": "2012",
+   "label": "Holy Mountain",
+   "verified_against": "Read off AMBIENT definitive 1958-2013 (三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as M. Geddes Gengras / Test Leads (2012).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4322_1.jpg",
+   "source_px": [
+    1400,
+    1400
+   ],
+   "colors": [
+    "green",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "M. Geddes Gengras"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Holy Mountain"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off AMBIENT definitive 1958-2013 (三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as M. Geddes Gengras / Test Leads (2012).",
+   "hue": 37.32,
+   "light": 0.7868,
+   "chroma": 0.9491
+  },
+  "ele-king sweep::House Definitive::IMG_4333_1": {
+   "id": "CRVI000393",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000393.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 4890273,
+   "identity": "ele-king sweep::House Definitive::IMG_4333_1",
+   "maker": "Harold Melvin & The Blue Notes",
+   "title": "Wake Up Everybody (feat. Teddy Pendergrass)",
+   "subtitle": "Designer unknown · International",
+   "year": "1975",
+   "label": "International",
+   "verified_against": "Read off HOUSE definitive 1974-2014 (西村公輝+三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Harold Melvin & The Blue Notes / Wake Up Everybody (feat. Teddy Pendergrass) (1975).",
+   "notes": [
+    "Artist corrected from the book read 'Harold' using iTunes.",
+    "Title from iTunes; the caption read 'Wake Up Everybody'.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4333_1.jpg",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Harold Melvin & The Blue Notes"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "International"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off HOUSE definitive 1974-2014 (西村公輝+三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Harold Melvin & The Blue Notes / Wake Up Everybody (feat. Teddy Pendergrass) (1975).",
+   "hue": 137.36,
+   "light": 0.2554,
+   "chroma": 0.8825
+  },
+  "ele-king sweep::House Definitive::IMG_4337_1": {
+   "id": "CRVI000394",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000394.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 625653,
+   "identity": "ele-king sweep::House Definitive::IMG_4337_1",
+   "maker": "Grace Jones",
+   "title": "Portfolio",
+   "subtitle": "Designer unknown · Island Records",
+   "year": "1977",
+   "label": "Island Records",
+   "verified_against": "Read off HOUSE definitive 1974-2014 (西村公輝+三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Grace Jones / Portfolio (1977).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4337_1.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "blue",
+    "pink"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Grace Jones"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Island Records"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off HOUSE definitive 1974-2014 (西村公輝+三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Grace Jones / Portfolio (1977).",
+   "hue": 205.05,
+   "light": 0.517,
+   "chroma": 0.6382
+  },
+  "ele-king sweep::House Definitive::IMG_4342_1": {
+   "id": "CRVI000395",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000395.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 430123,
+   "identity": "ele-king sweep::House Definitive::IMG_4342_1",
+   "maker": "Herbie Mann",
+   "title": "Bird In A Silver Cage",
+   "subtitle": "Designer unknown · Atlantic",
+   "year": "1976",
+   "label": "Atlantic",
+   "verified_against": "Read off HOUSE definitive 1974-2014 (西村公輝+三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Herbie Mann / Bird In a Silver Cage (1976).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4342_1.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "orange",
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Herbie Mann"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Atlantic"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off HOUSE definitive 1974-2014 (西村公輝+三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Herbie Mann / Bird In a Silver Cage (1976).",
+   "hue": 29.06,
+   "light": 0.1517,
+   "chroma": 0.1653
+  },
+  "ele-king sweep::House Definitive::IMG_4357_1": {
+   "id": "CRVI000396",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000396.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 264969,
+   "identity": "ele-king sweep::House Definitive::IMG_4357_1",
+   "maker": "James White & The Blacks",
+   "title": "Off White",
+   "subtitle": "Designer unknown",
+   "year": "1979",
+   "label": "",
+   "verified_against": "Read off HOUSE definitive 1974-2014 (西村公輝+三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as James White & The Blacks / Off White (1979).",
+   "notes": [
+    "Artist corrected from the book read 'James White' using iTunes.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4357_1.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "James White & The Blacks"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": ""
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off HOUSE definitive 1974-2014 (西村公輝+三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as James White & The Blacks / Off White (1979).",
+   "hue": 357.16,
+   "light": 0.7049,
+   "chroma": 0.1598
+  },
+  "ele-king sweep::House Definitive::IMG_4362_1": {
+   "id": "CRVI000397",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000397.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 298127,
+   "identity": "ele-king sweep::House Definitive::IMG_4362_1",
+   "maker": "Frankie Knuckles",
+   "title": "Beyond The Mix",
+   "subtitle": "Designer unknown · Virgin",
+   "year": "1991",
+   "label": "Virgin",
+   "verified_against": "Read off HOUSE definitive 1974-2014 (西村公輝+三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Frankie Knuckles / Beyond the Mix (1991).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4362_1.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Frankie Knuckles"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Virgin"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off HOUSE definitive 1974-2014 (西村公輝+三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Frankie Knuckles / Beyond the Mix (1991).",
+   "hue": 23.11,
+   "light": 0.3128,
+   "chroma": 0.5825
+  },
+  "ele-king sweep::House Definitive::IMG_4363_1": {
+   "id": "CRVI000398",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000398.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 2169457,
+   "identity": "ele-king sweep::House Definitive::IMG_4363_1",
+   "maker": "Fingers Inc.",
+   "title": "Another Side",
+   "subtitle": "Designer unknown · Jack Trax",
+   "year": "1988",
+   "label": "Jack Trax",
+   "verified_against": "Read off HOUSE definitive 1974-2014 (西村公輝+三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Fingers Inc. / Another Side (1988).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4363_1.jpg",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Fingers Inc."
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Jack Trax"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off HOUSE definitive 1974-2014 (西村公輝+三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Fingers Inc. / Another Side (1988).",
+   "hue": 44.58,
+   "light": 0.301,
+   "chroma": 0.6367
+  },
+  "ele-king sweep::House Definitive::IMG_4364_1": {
+   "id": "CRVI000399",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000399.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 4181988,
+   "identity": "ele-king sweep::House Definitive::IMG_4364_1",
+   "maker": "Mr. Fingers",
+   "title": "Introduction",
+   "subtitle": "Designer unknown · MCA Records",
+   "year": "1992",
+   "label": "MCA Records",
+   "verified_against": "Read off HOUSE definitive 1974-2014 (西村公輝+三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Mr. Fingers / Introduction (1992).",
+   "notes": [
+    "Artist corrected from the book read 'Mr Fingers' using iTunes.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4364_1.jpg",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Mr. Fingers"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "MCA Records"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off HOUSE definitive 1974-2014 (西村公輝+三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Mr. Fingers / Introduction (1992).",
+   "hue": 224.99,
+   "light": 0.3368,
+   "chroma": 0.8984
+  },
+  "ele-king sweep::House Definitive::IMG_4371_1": {
+   "id": "CRVI000400",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000400.jpg",
+   "original_px": [
+    600,
+    600
+   ],
+   "original_bytes": 50582,
+   "identity": "ele-king sweep::House Definitive::IMG_4371_1",
+   "maker": "C+C Music Factory",
+   "title": "Gonna Make You Sweat",
+   "subtitle": "Designer unknown · CBS",
+   "year": "1990",
+   "label": "CBS",
+   "verified_against": "Read off HOUSE definitive 1974-2014 (西村公輝+三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as C+C Music Factory / Gonna Make You Sweat (1990).",
+   "notes": [
+    "Artist corrected from the book read 'C + C Music Factory' using iTunes.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4371_1.jpg",
+   "source_px": [
+    600,
+    600
+   ],
+   "colors": [
+    "cyan",
+    "white"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "C+C Music Factory"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "CBS"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off HOUSE definitive 1974-2014 (西村公輝+三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as C+C Music Factory / Gonna Make You Sweat (1990).",
+   "hue": 193.61,
+   "light": 0.8635,
+   "chroma": 0.1359
+  },
+  "ele-king sweep::House Definitive::IMG_4381_1": {
+   "id": "CRVI000401",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000401.jpg",
+   "original_px": [
+    1400,
+    1400
+   ],
+   "original_bytes": 237735,
+   "identity": "ele-king sweep::House Definitive::IMG_4381_1",
+   "maker": "PAUL RANDOLPH",
+   "title": "This Is What It Is",
+   "subtitle": "Designer unknown · Mahogani Music",
+   "year": "2004",
+   "label": "Mahogani Music",
+   "verified_against": "Read off HOUSE definitive 1974-2014 (西村公輝+三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as PAUL RANDOLPH / This Is What It Is (Remastered 2024) (2004).",
+   "notes": [
+    "Artist corrected from the book read 'Randolph' using iTunes.",
+    "Title from iTunes; the caption read 'This Is... What It Is'.",
+    "⚠️ iTunes returned this as 'This Is What It Is (Remastered 2024)' — an explicitly REISSUED edition, so the artwork is very likely not the pressing the book describes.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4381_1.jpg",
+   "source_px": [
+    1400,
+    1400
+   ],
+   "colors": [
+    "pink",
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "PAUL RANDOLPH"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Mahogani Music"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off HOUSE definitive 1974-2014 (西村公輝+三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as PAUL RANDOLPH / This Is What It Is (Remastered 2024) (2004).",
+   "hue": 342.75,
+   "light": 0.115,
+   "chroma": 0.2843
+  },
+  "ele-king sweep::House Definitive::IMG_4384_1": {
+   "id": "CRVI000402",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000402.jpg",
+   "original_px": [
+    1636,
+    1458
+   ],
+   "original_bytes": 394638,
+   "identity": "ele-king sweep::House Definitive::IMG_4384_1",
+   "maker": "Matthew Herbert",
+   "title": "Around the House",
+   "subtitle": "Designer unknown · Studio IK7",
+   "year": "1998",
+   "label": "Studio",
+   "verified_against": "Read off HOUSE definitive 1974-2014 (西村公輝+三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Matthew Herbert / Around the House (Special Edition) (2013).",
+   "notes": [
+    "Artist corrected from the book read 'Herbert' using iTunes.",
+    "Title from iTunes; the caption read 'Around The House'.",
+    "⚠️ iTunes returned this as 'Around the House (Special Edition)' — an explicitly REISSUED edition, so the artwork is very likely not the pressing the book describes.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "catalogue": "IK7",
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4384_1.jpg",
+   "source_px": [
+    1636,
+    1458
+   ],
+   "colors": [
+    "blue",
+    "white"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Matthew Herbert"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Studio IK7"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off HOUSE definitive 1974-2014 (西村公輝+三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Matthew Herbert / Around the House (Special Edition) (2013).",
+   "hue": 8.15,
+   "light": 0.9307,
+   "chroma": 0.1138
+  },
+  "ele-king sweep::House Definitive::IMG_4388_1": {
+   "id": "CRVI000403",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000403.jpg",
+   "original_px": [
+    1400,
+    1400
+   ],
+   "original_bytes": 215698,
+   "identity": "ele-king sweep::House Definitive::IMG_4388_1",
+   "maker": "Idjut Boys",
+   "title": "Cellar Door",
+   "subtitle": "Designer unknown · Smalltown Supersound",
+   "year": "2012",
+   "label": "Smalltown Supersound",
+   "verified_against": "Read off HOUSE definitive 1974-2014 (西村公輝+三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Idjut Boys / Cellar Door (2012).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4388_1.jpg",
+   "source_px": [
+    1400,
+    1400
+   ],
+   "colors": [
+    "blue",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Idjut Boys"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Smalltown Supersound"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off HOUSE definitive 1974-2014 (西村公輝+三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Idjut Boys / Cellar Door (2012).",
+   "hue": 342.65,
+   "light": 0.7896,
+   "chroma": 0.3475
+  },
+  "ele-king sweep::House Definitive::IMG_4389_1": {
+   "id": "CRVI000404",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000404.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 748335,
+   "identity": "ele-king sweep::House Definitive::IMG_4389_1",
+   "maker": "Los Updates",
+   "title": "Los Updates First If You Please",
+   "subtitle": "Designer unknown",
+   "year": "2008",
+   "label": "",
+   "verified_against": "Read off HOUSE definitive 1974-2014 (西村公輝+三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Los Updates / Los Updates First If You Please (2008).",
+   "notes": [
+    "Title from iTunes; the caption read 'First If You Please'.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4389_1.jpg",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Los Updates"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": ""
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off HOUSE definitive 1974-2014 (西村公輝+三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Los Updates / Los Updates First If You Please (2008).",
+   "hue": 233.99,
+   "light": 0.5313,
+   "chroma": 0.1464
+  },
+  "ele-king sweep::House Definitive::IMG_4393_1": {
+   "id": "CRVI000405",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000405.jpg",
+   "original_px": [
+    600,
+    600
+   ],
+   "original_bytes": 27970,
+   "identity": "ele-king sweep::House Definitive::IMG_4393_1",
+   "maker": "Elektro Guzzi",
+   "title": "Elektro Guzzi",
+   "subtitle": "Designer unknown · Macro",
+   "year": "2010",
+   "label": "Macro",
+   "verified_against": "Read off HOUSE definitive 1974-2014 (西村公輝+三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Elektro Guzzi / Elektro Guzzi (2010).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4393_1.jpg",
+   "source_px": [
+    600,
+    600
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Elektro Guzzi"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Macro"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off HOUSE definitive 1974-2014 (西村公輝+三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Elektro Guzzi / Elektro Guzzi (2010).",
+   "hue": 204.97,
+   "light": 0.3912,
+   "chroma": 0.9998
+  },
+  "ele-king sweep::House Definitive::IMG_4394_1": {
+   "id": "CRVI000406",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000406.jpg",
+   "original_px": [
+    1440,
+    1440
+   ],
+   "original_bytes": 106220,
+   "identity": "ele-king sweep::House Definitive::IMG_4394_1",
+   "maker": "Tin Man",
+   "title": "Neo Neo Acid",
+   "subtitle": "Designer unknown · Absurd Recordings",
+   "year": "2012",
+   "label": "Absurd Recordings",
+   "verified_against": "Read off HOUSE definitive 1974-2014 (西村公輝+三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Tin Man / Neo Neo Acid (2012).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4394_1.jpg",
+   "source_px": [
+    1440,
+    1440
+   ],
+   "colors": [
+    "pink",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Tin Man"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Absurd Recordings"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off HOUSE definitive 1974-2014 (西村公輝+三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Tin Man / Neo Neo Acid (2012).",
+   "hue": 345.01,
+   "light": 0.4861,
+   "chroma": 0.9978
+  },
+  "ele-king sweep::Hip Hop Definitive::IMG_4779_1": {
+   "id": "CRVI000407",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000407.jpg",
+   "original_px": [
+    1400,
+    1400
+   ],
+   "original_bytes": 432854,
+   "identity": "ele-king sweep::Hip Hop Definitive::IMG_4779_1",
+   "maker": "Various Artists",
+   "title": "Live Convention \"80\"",
+   "subtitle": "Designer unknown · Disc-O-Wax",
+   "year": "1981",
+   "label": "Disc-O-Wax",
+   "verified_against": "Read off HIP HOP definitive 1974-2017 (小渕晃, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Various Artists / Live Convention \"80\" (1980).",
+   "notes": [
+    "Artist corrected from the book read 'Various' using iTunes.",
+    "Title from iTunes; the caption read \"Live Convention '81\".",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4779_1.jpg",
+   "source_px": [
+    1400,
+    1400
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Various Artists"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Disc-O-Wax"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off HIP HOP definitive 1974-2017 (小渕晃, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Various Artists / Live Convention \"80\" (1980).",
+   "hue": null,
+   "light": 0.218,
+   "chroma": 0.0
+  },
+  "ele-king sweep::Hip Hop Definitive::IMG_4780_1": {
+   "id": "CRVI000408",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000408.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 746567,
+   "identity": "ele-king sweep::Hip Hop Definitive::IMG_4780_1",
+   "maker": "G.L.O.B.E. & Whiz Kid",
+   "title": "Play That Beat Mr. D.J.",
+   "subtitle": "Designer unknown · Tommy Boy",
+   "year": "1983",
+   "label": "Tommy Boy",
+   "verified_against": "Read off HIP HOP definitive 1974-2017 (小渕晃, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as G.L.O.B.E. & Whiz Kid / Play That Beat Mr. D.J. - EP (1983).",
+   "notes": [
+    "Artist corrected from the book read 'Whiz Kid' using iTunes.",
+    "Title from iTunes; the caption read 'Play That Beat Mr. DJ'.",
+    "⚠️ iTunes returned this as 'Play That Beat Mr. D.J. - EP' — an explicitly REISSUED edition, so the artwork is very likely not the pressing the book describes.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4780_1.jpg",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "G.L.O.B.E. & Whiz Kid"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Tommy Boy"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off HIP HOP definitive 1974-2017 (小渕晃, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as G.L.O.B.E. & Whiz Kid / Play That Beat Mr. D.J. - EP (1983).",
+   "hue": 5.28,
+   "light": 0.6347,
+   "chroma": 0.6334
+  },
+  "ele-king sweep::Hip Hop Definitive::IMG_4785_1": {
+   "id": "CRVI000409",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000409.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 559548,
+   "identity": "ele-king sweep::Hip Hop Definitive::IMG_4785_1",
+   "maker": "Whodini",
+   "title": "Escape",
+   "subtitle": "Designer unknown · Jive",
+   "year": "1984",
+   "label": "Jive",
+   "verified_against": "Read off HIP HOP definitive 1974-2017 (小渕晃, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Whodini / Escape (Expanded Edition) (1984).",
+   "notes": [
+    "⚠️ iTunes returned this as 'Escape (Expanded Edition)' — an explicitly REISSUED edition, so the artwork is very likely not the pressing the book describes.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4785_1.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "blue",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Whodini"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Jive"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off HIP HOP definitive 1974-2017 (小渕晃, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Whodini / Escape (Expanded Edition) (1984).",
+   "hue": 215.35,
+   "light": 0.4757,
+   "chroma": 0.3502
+  },
+  "ele-king sweep::Hip Hop Definitive::IMG_4787_1": {
+   "id": "CRVI000410",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000410.jpg",
+   "original_px": [
+    1425,
+    1425
+   ],
+   "original_bytes": 374523,
+   "identity": "ele-king sweep::Hip Hop Definitive::IMG_4787_1",
+   "maker": "UTFO",
+   "title": "UTFO",
+   "subtitle": "Designer unknown · Selecf",
+   "year": "1985",
+   "label": "Selecf",
+   "verified_against": "Read off HIP HOP definitive 1974-2017 (小渕晃, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as UTFO / UTFO (1985).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4787_1.jpg",
+   "source_px": [
+    1425,
+    1425
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "UTFO"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Selecf"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off HIP HOP definitive 1974-2017 (小渕晃, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as UTFO / UTFO (1985).",
+   "hue": 7.73,
+   "light": 0.5244,
+   "chroma": 0.3912
+  },
+  "ele-king sweep::Hip Hop Definitive::IMG_4795_1": {
+   "id": "CRVI000411",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000411.jpg",
+   "original_px": [
+    1400,
+    1400
+   ],
+   "original_bytes": 360205,
+   "identity": "ele-king sweep::Hip Hop Definitive::IMG_4795_1",
+   "maker": "EPMD",
+   "title": "Strictly Business",
+   "subtitle": "Designer unknown · Fresh",
+   "year": "1988",
+   "label": "Fresh",
+   "verified_against": "Read off HIP HOP definitive 1974-2017 (小渕晃, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as EPMD / Strictly Business - EP (1998).",
+   "notes": [
+    "⚠️ iTunes returned this as 'Strictly Business - EP' — an explicitly REISSUED edition, so the artwork is very likely not the pressing the book describes.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4795_1.jpg",
+   "source_px": [
+    1400,
+    1400
+   ],
+   "colors": [
+    "orange",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "EPMD"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Fresh"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off HIP HOP definitive 1974-2017 (小渕晃, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as EPMD / Strictly Business - EP (1998).",
+   "hue": 43.75,
+   "light": 0.2142,
+   "chroma": 0.3764
+  },
+  "ele-king sweep::Hip Hop Definitive::IMG_4798_1": {
+   "id": "CRVI000412",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000412.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 516830,
+   "identity": "ele-king sweep::Hip Hop Definitive::IMG_4798_1",
+   "maker": "Heavy D & The Boyz",
+   "title": "Peaceful Journey",
+   "subtitle": "Designer unknown · Uptown",
+   "year": "1991",
+   "label": "Uptown",
+   "verified_against": "Read off HIP HOP definitive 1974-2017 (小渕晃, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Heavy D & The Boyz / Peaceful Journey (1991).",
+   "notes": [
+    "Artist corrected from the book read 'Heavy D. & The Boyz' using iTunes.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4798_1.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "red",
+    "purple"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Heavy D & The Boyz"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Uptown"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off HIP HOP definitive 1974-2017 (小渕晃, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Heavy D & The Boyz / Peaceful Journey (1991).",
+   "hue": 284.32,
+   "light": 0.3217,
+   "chroma": 0.1889
+  },
+  "ele-king sweep::Hip Hop Definitive::IMG_4799_1": {
+   "id": "CRVI000413",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000413.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 860325,
+   "identity": "ele-king sweep::Hip Hop Definitive::IMG_4799_1",
+   "maker": "Redhead Kingpin & The F.B.I.",
+   "title": "A Shade Of Red",
+   "subtitle": "Designer unknown · Virgin",
+   "year": "1990",
+   "label": "Virgin",
+   "verified_against": "Read off HIP HOP definitive 1974-2017 (小渕晃, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Redhead Kingpin & The F.B.I. / A Shade of Red (1989).",
+   "notes": [
+    "Artist corrected from the book read 'Redhead Kingpin and The F.B.I.' using iTunes.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4799_1.jpg",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "green",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Redhead Kingpin & The F.B.I."
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Virgin"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off HIP HOP definitive 1974-2017 (小渕晃, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Redhead Kingpin & The F.B.I. / A Shade of Red (1989).",
+   "hue": 5.45,
+   "light": 0.3984,
+   "chroma": 0.477
+  },
+  "ele-king sweep::Hip Hop Definitive::IMG_4800_1": {
+   "id": "CRVI000414",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000414.jpg",
+   "original_px": [
+    1476,
+    1476
+   ],
+   "original_bytes": 340143,
+   "identity": "ele-king sweep::Hip Hop Definitive::IMG_4800_1",
+   "maker": "MC Hammer",
+   "title": "Please Hammer Don't Hurt 'Em",
+   "subtitle": "Designer unknown · Capia",
+   "year": "1090",
+   "label": "Capia",
+   "verified_against": "Read off HIP HOP definitive 1974-2017 (小渕晃, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as MC Hammer / Please Hammer Don't Hurt 'Em (1990).",
+   "notes": [
+    "Title from iTunes; the caption read \"Please Hammer Don't Hurt Em\".",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4800_1.jpg",
+   "source_px": [
+    1476,
+    1476
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "MC Hammer"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Capia"
+    },
+    {
+     "k": "decade",
+     "v": "1090s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off HIP HOP definitive 1974-2017 (小渕晃, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as MC Hammer / Please Hammer Don't Hurt 'Em (1990).",
+   "hue": 217.13,
+   "light": 0.4616,
+   "chroma": 0.4745
+  },
+  "ele-king sweep::Hip Hop Definitive::IMG_4804_1": {
+   "id": "CRVI000415",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000415.jpg",
+   "original_px": [
+    600,
+    589
+   ],
+   "original_bytes": 69253,
+   "identity": "ele-king sweep::Hip Hop Definitive::IMG_4804_1",
+   "maker": "Candyman",
+   "title": "Ain't No Shame In My Game",
+   "subtitle": "Designer unknown · Épie",
+   "year": "1990",
+   "label": "Épie",
+   "verified_against": "Read off HIP HOP definitive 1974-2017 (小渕晃, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Candyman / Ain't No Shame In My Game (1990).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4804_1.jpg",
+   "source_px": [
+    600,
+    589
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Candyman"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Épie"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off HIP HOP definitive 1974-2017 (小渕晃, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Candyman / Ain't No Shame In My Game (1990).",
+   "hue": 35.39,
+   "light": 0.7173,
+   "chroma": 0.7152
+  },
+  "ele-king sweep::Hip Hop Definitive::IMG_4806_1": {
+   "id": "CRVI000416",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000416.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 1539203,
+   "identity": "ele-king sweep::Hip Hop Definitive::IMG_4806_1",
+   "maker": "N2Deep",
+   "title": "Back To The Hotel",
+   "subtitle": "Designer unknown · Profile",
+   "year": "1992",
+   "label": "Profile",
+   "verified_against": "Read off HIP HOP definitive 1974-2017 (小渕晃, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as N2Deep / Back To The Hotel - Single (1992).",
+   "notes": [
+    "⚠️ iTunes returned this as 'Back To The Hotel - Single' — an explicitly REISSUED edition, so the artwork is very likely not the pressing the book describes.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4806_1.jpg",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "N2Deep"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Profile"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off HIP HOP definitive 1974-2017 (小渕晃, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as N2Deep / Back To The Hotel - Single (1992).",
+   "hue": 6.3,
+   "light": 0.2149,
+   "chroma": 0.6007
+  },
+  "ele-king sweep::Hip Hop Definitive::IMG_4810_1": {
+   "id": "CRVI000417",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000417.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 656394,
+   "identity": "ele-king sweep::Hip Hop Definitive::IMG_4810_1",
+   "maker": "Lakim Shabazz",
+   "title": "Pure Righteousness",
+   "subtitle": "Designer unknown · Tuff City",
+   "year": "1988",
+   "label": "Tuff City",
+   "verified_against": "Read off HIP HOP definitive 1974-2017 (小渕晃, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Lakim Shabazz / Pure Righteousness (1988).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4810_1.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Lakim Shabazz"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Tuff City"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off HIP HOP definitive 1974-2017 (小渕晃, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Lakim Shabazz / Pure Righteousness (1988).",
+   "hue": 43.97,
+   "light": 0.5252,
+   "chroma": 0.6293
+  },
+  "ele-king sweep::Hip Hop Definitive::IMG_4811_1": {
+   "id": "CRVI000418",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000418.jpg",
+   "original_px": [
+    1400,
+    1400
+   ],
+   "original_bytes": 454014,
+   "identity": "ele-king sweep::Hip Hop Definitive::IMG_4811_1",
+   "maker": "De La Soul",
+   "title": "3 Feet High And Rising",
+   "subtitle": "Designer unknown · Tommy Boy",
+   "year": "1989",
+   "label": "Tommy Boy",
+   "verified_against": "Read off HIP HOP definitive 1974-2017 (小渕晃, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as De La Soul / 3 Feet High and Rising (1989).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4811_1.jpg",
+   "source_px": [
+    1400,
+    1400
+   ],
+   "colors": [
+    "yellow",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "De La Soul"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Tommy Boy"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off HIP HOP definitive 1974-2017 (小渕晃, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as De La Soul / 3 Feet High and Rising (1989).",
+   "hue": 55.26,
+   "light": 0.4204,
+   "chroma": 0.546
+  },
+  "ele-king sweep::Hip Hop Definitive::IMG_4815_1": {
+   "id": "CRVI000419",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000419.jpg",
+   "original_px": [
+    1425,
+    1425
+   ],
+   "original_bytes": 402337,
+   "identity": "ele-king sweep::Hip Hop Definitive::IMG_4815_1",
+   "maker": "KMD",
+   "title": "Mr. Hood",
+   "subtitle": "Designer unknown · Elektra",
+   "year": "1991",
+   "label": "Elektra",
+   "verified_against": "Read off HIP HOP definitive 1974-2017 (小渕晃, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as KMD / Mr. Hood (1991).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4815_1.jpg",
+   "source_px": [
+    1425,
+    1425
+   ],
+   "colors": [
+    "pink",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "KMD"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Elektra"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off HIP HOP definitive 1974-2017 (小渕晃, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as KMD / Mr. Hood (1991).",
+   "hue": 22.29,
+   "light": 0.4363,
+   "chroma": 0.2448
+  },
+  "ele-king sweep::Hip Hop Definitive::IMG_4816_1": {
+   "id": "CRVI000420",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000420.jpg",
+   "original_px": [
+    2400,
+    2400
+   ],
+   "original_bytes": 3238748,
+   "identity": "ele-king sweep::Hip Hop Definitive::IMG_4816_1",
+   "maker": "Leaders Of The New School",
+   "title": "A Future Without A Past...",
+   "subtitle": "Designer unknown · Elektra",
+   "year": "1991",
+   "label": "Elektra",
+   "verified_against": "Read off HIP HOP definitive 1974-2017 (小渕晃, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Leaders Of The New School / A Future Without a Past (1991).",
+   "notes": [
+    "Artist corrected from the book read 'The New School' using iTunes.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4816_1.jpg",
+   "source_px": [
+    2400,
+    2400
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Leaders Of The New School"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Elektra"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off HIP HOP definitive 1974-2017 (小渕晃, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Leaders Of The New School / A Future Without a Past (1991).",
+   "hue": null,
+   "light": 0.6528,
+   "chroma": 0.0994
+  },
+  "ele-king sweep::Hip Hop Definitive::IMG_4818_1": {
+   "id": "CRVI000421",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000421.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 2435522,
+   "identity": "ele-king sweep::Hip Hop Definitive::IMG_4818_1",
+   "maker": "The UMC's",
+   "title": "Fruits Of Nature",
+   "subtitle": "Designer unknown · Wild Pitch",
+   "year": "1991",
+   "label": "Wild Pitch",
+   "verified_against": "Read off HIP HOP definitive 1974-2017 (小渕晃, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as The UMC's / Fruits of Nature (1991).",
+   "notes": [
+    "Label read as 'Wild Pich'; snapped to 'Wild Pitch', which this book prints 4 times.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4818_1.jpg",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "The UMC's"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Wild Pitch"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off HIP HOP definitive 1974-2017 (小渕晃, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as The UMC's / Fruits of Nature (1991).",
+   "hue": 207.58,
+   "light": 0.5364,
+   "chroma": 0.7807
+  },
+  "ele-king sweep::Hip Hop Definitive::IMG_4825_1": {
+   "id": "CRVI000422",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000422.jpg",
+   "original_px": [
+    1436,
+    1436
+   ],
+   "original_bytes": 459381,
+   "identity": "ele-king sweep::Hip Hop Definitive::IMG_4825_1",
+   "maker": "Trick Daddy",
+   "title": "www.thug.com",
+   "subtitle": "Designer unknown · Slip-N-Slide",
+   "year": "1998",
+   "label": "Slip-N-Slide",
+   "verified_against": "Read off HIP HOP definitive 1974-2017 (小渕晃, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Trick Daddy / Www.Thug.Com (1999).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4825_1.jpg",
+   "source_px": [
+    1436,
+    1436
+   ],
+   "colors": [
+    "blue",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Trick Daddy"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Slip-N-Slide"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off HIP HOP definitive 1974-2017 (小渕晃, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Trick Daddy / Www.Thug.Com (1999).",
+   "hue": 13.43,
+   "light": 0.4386,
+   "chroma": 0.3126
+  },
+  "ele-king sweep::Guitar Pop Definitive::IMG_4835_1": {
+   "id": "CRVI000423",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000423.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 330212,
+   "identity": "ele-king sweep::Guitar Pop Definitive::IMG_4835_1",
+   "maker": "Har-You Percussion Group",
+   "title": "The Har-You Percussion Group",
+   "subtitle": "Designer unknown · ESP Disk",
+   "year": "1969",
+   "label": "ESP Disk",
+   "verified_against": "Read off GUITAR POP definitive 1955-2015 (監修 岡村詩野, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Har-You Percussion Group / Har-You Percussion Group (1991).",
+   "notes": [
+    "Artist corrected from the book read 'The Har-You Percussion Group' using iTunes.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4835_1.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Har-You Percussion Group"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "ESP Disk"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off GUITAR POP definitive 1955-2015 (監修 岡村詩野, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Har-You Percussion Group / Har-You Percussion Group (1991).",
+   "hue": 8.38,
+   "light": 0.7137,
+   "chroma": 0.3198
+  },
+  "ele-king sweep::Guitar Pop Definitive::IMG_4838_1": {
+   "id": "CRVI000424",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000424.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 644320,
+   "identity": "ele-king sweep::Guitar Pop Definitive::IMG_4838_1",
+   "maker": "Lee Hazlewood",
+   "title": "Love and Other Crimes",
+   "subtitle": "Designer unknown · Reprise Records",
+   "year": "1968",
+   "label": "Reprise Records",
+   "verified_against": "Read off GUITAR POP definitive 1955-2015 (監修 岡村詩野, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Lee Hazlewood / Love and Other Crimes (Remastered) (1968).",
+   "notes": [
+    "Title from iTunes; the caption read 'Love And Other Crimes'.",
+    "⚠️ iTunes returned this as 'Love and Other Crimes (Remastered)' — an explicitly REISSUED edition, so the artwork is very likely not the pressing the book describes.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4838_1.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Lee Hazlewood"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Reprise Records"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off GUITAR POP definitive 1955-2015 (監修 岡村詩野, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Lee Hazlewood / Love and Other Crimes (Remastered) (1968).",
+   "hue": 211.27,
+   "light": 0.3449,
+   "chroma": 0.874
+  },
+  "ele-king sweep::Guitar Pop Definitive::IMG_4840_1": {
+   "id": "CRVI000425",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000425.jpg",
+   "original_px": [
+    600,
+    605
+   ],
+   "original_bytes": 112937,
+   "identity": "ele-king sweep::Guitar Pop Definitive::IMG_4840_1",
+   "maker": "Bob Thompson and His Orchestra & Chorus",
+   "title": "Just For Kicks",
+   "subtitle": "Designer unknown · RCA Victor",
+   "year": "1959",
+   "label": "RCA Victor",
+   "verified_against": "Read off GUITAR POP definitive 1955-2015 (監修 岡村詩野, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Bob Thompson and His Orchestra & Chorus / Just for Kicks (1958).",
+   "notes": [
+    "Artist corrected from the book read 'Bob Thompson, His Chorus And Orchestra' using iTunes.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4840_1.jpg",
+   "source_px": [
+    600,
+    605
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Bob Thompson and His Orchestra & Chorus"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "RCA Victor"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off GUITAR POP definitive 1955-2015 (監修 岡村詩野, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Bob Thompson and His Orchestra & Chorus / Just for Kicks (1958).",
+   "hue": 16.93,
+   "light": 0.6818,
+   "chroma": 0.8113
+  },
+  "ele-king sweep::Guitar Pop Definitive::IMG_4841_1": {
+   "id": "CRVI000426",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000426.jpg",
+   "original_px": [
+    1423,
+    1411
+   ],
+   "original_bytes": 459400,
+   "identity": "ele-king sweep::Guitar Pop Definitive::IMG_4841_1",
+   "maker": "ザ・タイガース",
+   "title": "世界はボクらを待っている",
+   "subtitle": "Designer unknown · ポリドール",
+   "year": "1968",
+   "label": "ポリドール",
+   "verified_against": "Read off GUITAR POP definitive 1955-2015 (監修 岡村詩野, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as ザ・タイガース / 世界はボクらを待っている (1968).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4841_1.jpg",
+   "source_px": [
+    1423,
+    1411
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "ザ・タイガース"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "ポリドール"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off GUITAR POP definitive 1955-2015 (監修 岡村詩野, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as ザ・タイガース / 世界はボクらを待っている (1968).",
+   "hue": 50.61,
+   "light": 0.6473,
+   "chroma": 0.9873
+  },
+  "ele-king sweep::Guitar Pop Definitive::IMG_4845_1": {
+   "id": "CRVI000427",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000427.jpg",
+   "original_px": [
+    1400,
+    1400
+   ],
+   "original_bytes": 1078422,
+   "identity": "ele-king sweep::Guitar Pop Definitive::IMG_4845_1",
+   "maker": "Lou Ragland",
+   "title": "Is The Conveyor \"Understand Each Other®",
+   "subtitle": "Designer unknown · SMH Records",
+   "year": "1978",
+   "label": "SMH Records",
+   "verified_against": "Read off GUITAR POP definitive 1955-2015 (監修 岡村詩野, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Lou Ragland / Is the Conveyor \"Understand Each Other\" (1978).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4845_1.jpg",
+   "source_px": [
+    1400,
+    1400
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Lou Ragland"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "SMH Records"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off GUITAR POP definitive 1955-2015 (監修 岡村詩野, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Lou Ragland / Is the Conveyor \"Understand Each Other\" (1978).",
+   "hue": null,
+   "light": 0.7039,
+   "chroma": 0.0086
+  },
+  "ele-king sweep::Guitar Pop Definitive::IMG_4852_1": {
+   "id": "CRVI000428",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000428.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 1833617,
+   "identity": "ele-king sweep::Guitar Pop Definitive::IMG_4852_1",
+   "maker": "The Chills",
+   "title": "Brave Words",
+   "subtitle": "Designer unknown · Flying Nun Records",
+   "year": "1987",
+   "label": "Flying Nun Records",
+   "verified_against": "Read off GUITAR POP definitive 1955-2015 (監修 岡村詩野, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as The Chills / Brave Words (Expanded Edition) (1987).",
+   "notes": [
+    "⚠️ iTunes returned this as 'Brave Words (Expanded Edition)' — an explicitly REISSUED edition, so the artwork is very likely not the pressing the book describes.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4852_1.jpg",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "yellow",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "The Chills"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Flying Nun Records"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off GUITAR POP definitive 1955-2015 (監修 岡村詩野, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as The Chills / Brave Words (Expanded Edition) (1987).",
+   "hue": 55.3,
+   "light": 0.8842,
+   "chroma": 0.3686
+  },
+  "ele-king sweep::Guitar Pop Definitive::IMG_4853_1": {
+   "id": "CRVI000429",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000429.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 444920,
+   "identity": "ele-king sweep::Guitar Pop Definitive::IMG_4853_1",
+   "maker": "Yeni Türkü",
+   "title": "Akdeniz Akdeniz",
+   "subtitle": "Designer unknown · Goksoy Plakçlik",
+   "year": "1982",
+   "label": "Goksoy Plakçlik",
+   "verified_against": "Read off GUITAR POP definitive 1955-2015 (監修 岡村詩野, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Yeni Türkü / Akdeniz Akdeniz (1983).",
+   "notes": [
+    "Artist corrected from the book read 'Yeni Turku' using iTunes.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4853_1.jpg",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Yeni Türkü"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Goksoy Plakçlik"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off GUITAR POP definitive 1955-2015 (監修 岡村詩野, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Yeni Türkü / Akdeniz Akdeniz (1983).",
+   "hue": 205.03,
+   "light": 0.4783,
+   "chroma": 0.9387
+  },
+  "ele-king sweep::Guitar Pop Definitive::IMG_4856_1": {
+   "id": "CRVI000430",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000430.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 602104,
+   "identity": "ele-king sweep::Guitar Pop Definitive::IMG_4856_1",
+   "maker": "Teenage Fanclub",
+   "title": "Bandwagonesque",
+   "subtitle": "Designer unknown · Creation",
+   "year": "1991",
+   "label": "Creation",
+   "verified_against": "Read off GUITAR POP definitive 1955-2015 (監修 岡村詩野, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Teenage Fanclub / Bandwagonesque (1991).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4856_1.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "yellow",
+    "pink"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Teenage Fanclub"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Creation"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off GUITAR POP definitive 1955-2015 (監修 岡村詩野, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Teenage Fanclub / Bandwagonesque (1991).",
+   "hue": 345.78,
+   "light": 0.6799,
+   "chroma": 0.7892
+  },
+  "ele-king sweep::Guitar Pop Definitive::IMG_4861_1": {
+   "id": "CRVI000431",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000431.jpg",
+   "original_px": [
+    2000,
+    2000
+   ],
+   "original_bytes": 656762,
+   "identity": "ele-king sweep::Guitar Pop Definitive::IMG_4861_1",
+   "maker": "Camera Obscura",
+   "title": "Underachievers Please Try Harder",
+   "subtitle": "Designer unknown · Elefant Records",
+   "year": "2003",
+   "label": "Elefant Records",
+   "verified_against": "Read off GUITAR POP definitive 1955-2015 (監修 岡村詩野, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Camera Obscura / Underachievers Please Try Harder (2003).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4861_1.jpg",
+   "source_px": [
+    2000,
+    2000
+   ],
+   "colors": [
+    "orange",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Camera Obscura"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Elefant Records"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off GUITAR POP definitive 1955-2015 (監修 岡村詩野, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Camera Obscura / Underachievers Please Try Harder (2003).",
+   "hue": 33.41,
+   "light": 0.4595,
+   "chroma": 0.4803
+  },
+  "ele-king sweep::Guitar Pop Definitive::IMG_4865_1": {
+   "id": "CRVI000432",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000432.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 962314,
+   "identity": "ele-king sweep::Guitar Pop Definitive::IMG_4865_1",
+   "maker": "Belle and Sebastian",
+   "title": "If You're Feeling Sinister",
+   "subtitle": "Designer unknown · Jeepster Records",
+   "year": "1996",
+   "label": "Jeepster Records",
+   "verified_against": "Read off GUITAR POP definitive 1955-2015 (監修 岡村詩野, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Belle and Sebastian / If You're Feeling Sinister (1996).",
+   "notes": [
+    "Artist corrected from the book read 'Belle And Sebastian' using iTunes.",
+    "Title from iTunes; the caption read \"If you're Feeling Siniste\".",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4865_1.jpg",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Belle and Sebastian"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Jeepster Records"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off GUITAR POP definitive 1955-2015 (監修 岡村詩野, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Belle and Sebastian / If You're Feeling Sinister (1996).",
+   "hue": 4.63,
+   "light": 0.3326,
+   "chroma": 0.7131
+  },
+  "ele-king sweep::Guitar Pop Definitive::IMG_4866_1": {
+   "id": "CRVI000433",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000433.jpg",
+   "original_px": [
+    1400,
+    1400
+   ],
+   "original_bytes": 633231,
+   "identity": "ele-king sweep::Guitar Pop Definitive::IMG_4866_1",
+   "maker": "Neutral Milk Hotel",
+   "title": "In The Aeroplane Over The Sea",
+   "subtitle": "Designer unknown · MGM Records",
+   "year": "1998",
+   "label": "MGM Records",
+   "verified_against": "Read off GUITAR POP definitive 1955-2015 (監修 岡村詩野, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Neutral Milk Hotel / In the Aeroplane Over the Sea (1998).",
+   "notes": [
+    "Label read as 'Merge Records'; snapped to 'MGM Records', which this book prints 2 times.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4866_1.jpg",
+   "source_px": [
+    1400,
+    1400
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Neutral Milk Hotel"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "MGM Records"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off GUITAR POP definitive 1955-2015 (監修 岡村詩野, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Neutral Milk Hotel / In the Aeroplane Over the Sea (1998).",
+   "hue": 44.95,
+   "light": 0.5646,
+   "chroma": 0.8355
+  },
+  "ele-king sweep::Guitar Pop Definitive::IMG_4867_1": {
+   "id": "CRVI000434",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000434.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 816249,
+   "identity": "ele-king sweep::Guitar Pop Definitive::IMG_4867_1",
+   "maker": "Feist",
+   "title": "The Reminder (Deluxe Version)",
+   "subtitle": "Designer unknown · Polydor",
+   "year": "2007",
+   "label": "Polydor",
+   "verified_against": "Read off GUITAR POP definitive 1955-2015 (監修 岡村詩野, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Feist / The Reminder (Deluxe Version) (2007).",
+   "notes": [
+    "Title from iTunes; the caption read 'The Reminder'.",
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4867_1.jpg",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Feist"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Polydor"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off GUITAR POP definitive 1955-2015 (監修 岡村詩野, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Feist / The Reminder (Deluxe Version) (2007).",
+   "hue": null,
+   "light": 0.518,
+   "chroma": 0.0694
+  },
+  "ele-king sweep::Guitar Pop Definitive::IMG_4868_1": {
+   "id": "CRVI000435",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000435.jpg",
+   "original_px": [
+    900,
+    900
+   ],
+   "original_bytes": 274528,
+   "identity": "ele-king sweep::Guitar Pop Definitive::IMG_4868_1",
+   "maker": "Sufjan Stevens",
+   "title": "Illinois",
+   "subtitle": "Designer unknown · Asthmatic Kitty",
+   "year": "2005",
+   "label": "Asthmatic Kitty",
+   "verified_against": "Read off GUITAR POP definitive 1955-2015 (監修 岡村詩野, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Sufjan Stevens / Illinois (2005).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4868_1.jpg",
+   "source_px": [
+    900,
+    900
+   ],
+   "colors": [
+    "blue",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Sufjan Stevens"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Asthmatic Kitty"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off GUITAR POP definitive 1955-2015 (監修 岡村詩野, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Sufjan Stevens / Illinois (2005).",
+   "hue": 200.13,
+   "light": 0.4857,
+   "chroma": 0.5202
+  },
+  "ele-king sweep::Guitar Pop Definitive::IMG_4870_1": {
+   "id": "CRVI000436",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000436.jpg",
+   "original_px": [
+    1400,
+    1400
+   ],
+   "original_bytes": 1074536,
+   "identity": "ele-king sweep::Guitar Pop Definitive::IMG_4870_1",
+   "maker": "Panda Bear",
+   "title": "Person Pitch",
+   "subtitle": "Designer unknown · Paw Tracks",
+   "year": "2007",
+   "label": "Paw Tracks",
+   "verified_against": "Read off GUITAR POP definitive 1955-2015 (監修 岡村詩野, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Panda Bear / Person Pitch (2007).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4870_1.jpg",
+   "source_px": [
+    1400,
+    1400
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Panda Bear"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Paw Tracks"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off GUITAR POP definitive 1955-2015 (監修 岡村詩野, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Panda Bear / Person Pitch (2007).",
+   "hue": 32.84,
+   "light": 0.3905,
+   "chroma": 0.3971
+  },
+  "ele-king sweep::Guitar Pop Definitive::IMG_4871_1": {
+   "id": "CRVI000437",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000437.jpg",
+   "original_px": [
+    1600,
+    1600
+   ],
+   "original_bytes": 1177224,
+   "identity": "ele-king sweep::Guitar Pop Definitive::IMG_4871_1",
+   "maker": "Real Estate",
+   "title": "Real Estate",
+   "subtitle": "Designer unknown · Woodsist",
+   "year": "2009",
+   "label": "Woodsist",
+   "verified_against": "Read off GUITAR POP definitive 1955-2015 (監修 岡村詩野, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Real Estate / Real Estate (2009).",
+   "notes": [
+    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+   ],
+   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4871_1.jpg",
+   "source_px": [
+    1600,
+    1600
+   ],
+   "colors": [
+    "cyan",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Real Estate"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Woodsist"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Read off GUITAR POP definitive 1955-2015 (監修 岡村詩野, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Real Estate / Real Estate (2009).",
+   "hue": 175.64,
+   "light": 0.6135,
+   "chroma": 0.5936
   }
  }
 }
