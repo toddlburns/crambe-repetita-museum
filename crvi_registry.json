@@ -1,5 +1,5 @@
 {
- "next": 510,
+ "next": 512,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -27618,6 +27618,152 @@
    "hue": 135.06,
    "light": 0.5667,
    "chroma": 0.3725
+  },
+  "Impulse!::Albert Ayler::The Last Album": {
+   "id": "CRVI000510",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000510.jpg",
+   "original_px": [
+    1026,
+    1026
+   ],
+   "original_bytes": 194711,
+   "identity": "Impulse!::Albert Ayler::The Last Album",
+   "maker": "Albert Ayler",
+   "title": "The Last Album",
+   "subtitle": "Designed by Woody Woodward Grafix · Impulse!",
+   "year": "1971",
+   "label": "Impulse!",
+   "discogs_release": 968003,
+   "verified_against": "Discogs release 968003, the original US Impulse! pressing AS-9208 (1971), credits Design to Woody Woodward Grafix, Illustration to Lorel Michel, and Photography to Bert Andrews and Woody Woodward.",
+   "source_page": "https://www.discogs.com/release/968003",
+   "notes": [
+    "Released posthumously — Ayler died in November 1970, the year before this came out.",
+    "Cropped from Todd's screenshot to the sleeve alone."
+   ],
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/ayler_last.jpg",
+   "source_px": [
+    1026,
+    1026
+   ],
+   "colors": [
+    "green",
+    "yellow",
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Albert Ayler"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Impulse!"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "designer",
+     "v": "Woody Woodward Grafix"
+    },
+    {
+     "k": "illustrator",
+     "v": "Lorel Michel"
+    },
+    {
+     "k": "photographer",
+     "v": "Bert Andrews"
+    },
+    {
+     "k": "photographer",
+     "v": "Woody Woodward"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Discogs release 968003, the original US Impulse! pressing AS-9208 (1971), credits Design to Woody Woodward Grafix, Illustration to Lorel Michel, and Photography to Bert Andrews and Woody Woodward.",
+   "hue": 93.2,
+   "light": 0.1586,
+   "chroma": 0.7155
+  },
+  "Impulse!::Albert Ayler::In Greenwich Village": {
+   "id": "CRVI000511",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000511.jpg",
+   "original_px": [
+    1026,
+    1027
+   ],
+   "original_bytes": 440926,
+   "identity": "Impulse!::Albert Ayler::In Greenwich Village",
+   "maker": "Albert Ayler",
+   "title": "In Greenwich Village",
+   "subtitle": "Designed by Robert & Barbara Flynn · Impulse!",
+   "year": "1967",
+   "label": "Impulse!",
+   "discogs_release": 901714,
+   "verified_against": "Discogs release 901714, the original US Impulse! pressing AS-9155 (1967), credits Design [Cover] to Robert & Barbara Flynn and Photography to Chuck Stewart.",
+   "source_page": "https://www.discogs.com/release/901714",
+   "notes": [
+    "The same pressing credits Joe Lebow with Design [Liner]. He is not tagged here because the liner is a different surface from the cover, and this record is the cover.",
+    "The sleeve is built almost entirely from hand-drawn psychedelic lettering repeating the artist, title and venues, with three small circular photographs set into it.",
+    "Cropped from Todd's screenshot to the sleeve alone."
+   ],
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/ayler_gv.jpg",
+   "source_px": [
+    1026,
+    1027
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Albert Ayler"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Impulse!"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "designer",
+     "v": "Robert & Barbara Flynn"
+    },
+    {
+     "k": "photographer",
+     "v": "Chuck Stewart"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Discogs release 901714, the original US Impulse! pressing AS-9155 (1967), credits Design [Cover] to Robert & Barbara Flynn and Photography to Chuck Stewart.",
+   "hue": 356.55,
+   "light": 0.5577,
+   "chroma": 0.9239
   }
  }
 }

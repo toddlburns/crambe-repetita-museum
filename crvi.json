@@ -23382,6 +23382,134 @@
    ],
    "hue": 135.06,
    "light": 0.5667
+  },
+  {
+   "id": "CRVI000510",
+   "source_url": "https://www.discogs.com/release/968003",
+   "animated": false,
+   "thumb": "thumbs/CRVI000510.jpg",
+   "source_label": "",
+   "image": "images/CRVI000510.jpg",
+   "original": "originals/CRVI000510.jpg",
+   "original_px": [
+    1026,
+    1026
+   ],
+   "original_bytes": 194711,
+   "maker": "Albert Ayler",
+   "title": "The Last Album",
+   "subtitle": "Designed by Woody Woodward Grafix · Impulse!",
+   "year": "1971",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Albert Ayler"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Impulse!"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "designer",
+     "v": "Woody Woodward Grafix"
+    },
+    {
+     "k": "illustrator",
+     "v": "Lorel Michel"
+    },
+    {
+     "k": "photographer",
+     "v": "Bert Andrews"
+    },
+    {
+     "k": "photographer",
+     "v": "Woody Woodward"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "black"
+    }
+   ],
+   "hue": 93.2,
+   "light": 0.1586
+  },
+  {
+   "id": "CRVI000511",
+   "source_url": "https://www.discogs.com/release/901714",
+   "animated": false,
+   "thumb": "thumbs/CRVI000511.jpg",
+   "source_label": "",
+   "image": "images/CRVI000511.jpg",
+   "original": "originals/CRVI000511.jpg",
+   "original_px": [
+    1026,
+    1027
+   ],
+   "original_bytes": 440926,
+   "maker": "Albert Ayler",
+   "title": "In Greenwich Village",
+   "subtitle": "Designed by Robert & Barbara Flynn · Impulse!",
+   "year": "1967",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Albert Ayler"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Impulse!"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "designer",
+     "v": "Robert & Barbara Flynn"
+    },
+    {
+     "k": "photographer",
+     "v": "Chuck Stewart"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 356.55,
+   "light": 0.5577
   }
  ]
 }
