@@ -1,5 +1,5 @@
 {
- "next": 461,
+ "next": 462,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -24622,6 +24622,71 @@
    "hue": 118.43,
    "light": 0.5351,
    "chroma": 0.7881
+  },
+  "Bloomberg Businessweek::Let's Get It On (6 Feb 2012)": {
+   "id": "CRVI000461",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000461.jpg",
+   "original_px": [
+    768,
+    1024
+   ],
+   "original_bytes": 205462,
+   "identity": "Bloomberg Businessweek::Let's Get It On (6 Feb 2012)",
+   "maker": "Richard Turley",
+   "title": "Let's Get It On",
+   "subtitle": "Bloomberg Businessweek, 6–12 February 2012",
+   "year": "2012",
+   "verified_against": "Digiday's '5 awesome Richard Turley Businessweek covers' carries this cover and files it as BBW-Cover-Lets-Get-It-On-2.6.12.jpg; Bloomberg's own issue page for it is /magazine/businessweek/12_06. Richard Turley was Businessweek's creative director and is credited with the cover. The cover's own date strip reads 'February 6 – 12, 2012'.",
+   "source_page": "https://www.bloomberg.com/magazine/businessweek/12_06",
+   "notes": [
+    "The cover illustrates the United–Continental merger with the two airlines' aircraft in flight. Editor Josh Tyrangiel described it as a nod to Marvin Gaye, the Airplane films and a 1990s Economist cover of camels; it won an American Society of Magazine Editors cover contest.",
+    "Credited to Richard Turley as creative director. Whoever made the photo-illustration itself is not separately credited by the sources consulted, and no such credit is claimed here.",
+    "⚠️ Held at 768x1024, Bloomberg's true master. Its asset URL will serve 1200x1600 and 2000x2666 on request, but a detail test scored those at 0.86 against an enlarged 768 — softer than the upscale, so they are interpolation, not a better scan. Todd's original link was a 479x640 search thumbnail.",
+    "⚠️ The date on the search thumbnail is illegible at 479px and I first read it as January 9–15. It is February 6–12: the larger file makes it plain, Bloomberg files the issue as 12_06, and Digiday's filename dates it 2.6.12."
+   ],
+   "label": "",
+   "source_image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imgbLoDWv8LY/v1/-1x-1.jpg",
+   "source_px": [
+    768,
+    1024
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Richard Turley"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Bloomberg Businessweek"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "aviation"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Digiday's '5 awesome Richard Turley Businessweek covers' carries this cover and files it as BBW-Cover-Lets-Get-It-On-2.6.12.jpg; Bloomberg's own issue page for it is /magazine/businessweek/12_06. Richard Turley was Businessweek's creative director and is credited with the cover. The cover's own date strip reads 'February 6 – 12, 2012'.",
+   "hue": 209.74,
+   "light": 0.5908,
+   "chroma": 0.4314
   }
  }
 }

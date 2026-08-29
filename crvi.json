@@ -20960,6 +20960,60 @@
    ],
    "hue": 118.43,
    "light": 0.5351
+  },
+  {
+   "id": "CRVI000461",
+   "source_url": "https://www.bloomberg.com/magazine/businessweek/12_06",
+   "animated": false,
+   "thumb": "thumbs/CRVI000461.jpg",
+   "source_label": "",
+   "image": "images/CRVI000461.jpg",
+   "original": "originals/CRVI000461.jpg",
+   "original_px": [
+    768,
+    1024
+   ],
+   "original_bytes": 205462,
+   "maker": "Richard Turley",
+   "title": "Let's Get It On",
+   "subtitle": "Bloomberg Businessweek, 6–12 February 2012",
+   "year": "2012",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Richard Turley"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Bloomberg Businessweek"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "aviation"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 209.74,
+   "light": 0.5908
   }
  ]
 }
