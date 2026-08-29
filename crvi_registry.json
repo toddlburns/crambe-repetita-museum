@@ -4035,7 +4035,8 @@
    "notes": [
     "The poster prints its own credit: 'Design: Masuteru Aoba' and 'This poster is produced as The 10th anniversary of \"Tategumi Yokogumi\" magazine. Printed in Japan 1993.'",
     "MoMA lists the dimensions as 102.8 x 23 cm, but 28 3/4 in is 73 cm and 102.8 x 73 cm is the standard Japanese B1 poster size. Recorded as 73; the 23 looks like a typo in their record.",
-    "Source link recovered 2026-08-27 from this record's own verification note."
+    "Source link recovered 2026-08-27 from this record's own verification note.",
+    "Medium 'silkscreen' folded into the type facet."
    ],
    "source_image": "https://www.moma.org/media/W1siZiIsIjUyNzQ4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=445e6e85780f1b4e",
    "source_px": [
@@ -4056,7 +4057,7 @@
      "v": "Morisawa & Company Ltd."
     },
     {
-     "k": "medium",
+     "k": "type",
      "v": "silkscreen"
     },
     {
@@ -4108,7 +4109,8 @@
    "verified_against": "NGV collection record",
    "notes": [
     "NGV's image server caps at 1920 (1283x1920); size=2000 and above 404.",
-    "Source link recovered 2026-08-27 from this record's own verification note."
+    "Source link recovered 2026-08-27 from this record's own verification note.",
+    "Medium tag 'color woodblock' removed: the type tag ['woodblock print'] already said it, and the two facets were folded into one."
    ],
    "source_image": "https://content.ngv.vic.gov.au/retrieve.php?size=1920&type=image&vernonID=88005",
    "source_px": [
@@ -4123,10 +4125,6 @@
     {
      "k": "type",
      "v": "woodblock print"
-    },
-    {
-     "k": "medium",
-     "v": "color woodblock"
     },
     {
      "k": "subject",
@@ -9052,7 +9050,8 @@
    "source_url": "local file: ~/Desktop/Nope hell no come on Rihanna.gif",
    "notes": [
     "First animated item in the archive, and the first that is a photograph of a person rather than a designed object. Held and displayed as the GIF itself - 49 frames at 80ms, looping - because the movement IS the content. The pipeline previously assumed every object was a still JPEG and would have silently archived frame 1.",
-    "The GIF circulates without attribution; whoever cut it is unknown, and no maker is claimed. The underlying footage is TMZ's."
+    "The GIF circulates without attribution; whoever cut it is unknown, and no maker is claimed. The underlying footage is TMZ's.",
+    "Medium tag 'animated gif' removed: the type tag ['reaction gif'] already said it, and the two facets were folded into one."
    ],
    "label": "",
    "source_image": "~/Desktop/Nope hell no come on Rihanna.gif",
@@ -9072,10 +9071,6 @@
     {
      "k": "subject",
      "v": "Rihanna"
-    },
-    {
-     "k": "medium",
-     "v": "animated gif"
     },
     {
      "k": "decade",
@@ -9110,7 +9105,8 @@
    "source_url": "local file: ~/Desktop/Confused Comedy bang bang-2.gif",
    "notes": [
     "Show taken from the set and the filename. The performer is not named — he looks like Scott Aukerman, which is not the same as knowing.",
-    "Held and shown as the GIF itself; the loop is the object."
+    "Held and shown as the GIF itself; the loop is the object.",
+    "Medium tag 'animated gif' removed: the type tag ['reaction gif'] already said it, and the two facets were folded into one."
    ],
    "label": "",
    "source_image": "~/Desktop/Confused Comedy bang bang-2.gif",
@@ -9125,10 +9121,6 @@
     {
      "k": "type",
      "v": "reaction gif"
-    },
-    {
-     "k": "medium",
-     "v": "animated gif"
     },
     {
      "k": "subject",
@@ -9162,7 +9154,8 @@
    "verified_against": "Winona Ryder standing with the Stranger Things cast during their Screen Actors Guild Awards win in January 2017, cycling through a much-circulated run of expressions. One of the most widely reproduced reaction sets of the decade.",
    "source_url": "local file: ~/Desktop/Confused winona.gif",
    "notes": [
-    "Held and shown as the GIF itself; the loop is the object."
+    "Held and shown as the GIF itself; the loop is the object.",
+    "Medium tag 'animated gif' removed: the type tag ['reaction gif'] already said it, and the two facets were folded into one."
    ],
    "label": "",
    "source_image": "~/Desktop/Confused winona.gif",
@@ -9177,10 +9170,6 @@
     {
      "k": "type",
      "v": "reaction gif"
-    },
-    {
-     "k": "medium",
-     "v": "animated gif"
     },
     {
      "k": "subject",
@@ -9219,7 +9208,8 @@
    "source_url": "local file: ~/Desktop/Cool-2 2.gif",
    "notes": [
     "Almost certainly Top Gun (1986) on the strength of his age, the aviators and the flag — but left unstated in the record. Worth confirming.",
-    "Held and shown as the GIF itself; the loop is the object."
+    "Held and shown as the GIF itself; the loop is the object.",
+    "Medium tag 'animated gif' removed: the type tag ['reaction gif'] already said it, and the two facets were folded into one."
    ],
    "label": "",
    "source_image": "~/Desktop/Cool-2 2.gif",
@@ -9235,10 +9225,6 @@
     {
      "k": "type",
      "v": "reaction gif"
-    },
-    {
-     "k": "medium",
-     "v": "animated gif"
     },
     {
      "k": "subject",
@@ -9273,7 +9259,8 @@
    "source_url": "local file: ~/Desktop/Dancing.gif",
    "notes": [
     "Unidentified. Looks like a viral school clip; no source found.",
-    "Held and shown as the GIF itself; the loop is the object."
+    "Held and shown as the GIF itself; the loop is the object.",
+    "Medium tag 'animated gif' removed: the type tag ['reaction gif'] already said it, and the two facets were folded into one."
    ],
    "label": "",
    "source_image": "~/Desktop/Dancing.gif",
@@ -9289,10 +9276,6 @@
     {
      "k": "type",
      "v": "reaction gif"
-    },
-    {
-     "k": "medium",
-     "v": "animated gif"
     }
    ],
    "identity_established": true,
@@ -9323,7 +9306,8 @@
    "source_url": "local file: ~/Desktop/Dunno.gif",
    "notes": [
     "Unidentified. The Warriors jersey and the monitor setup suggest a media-day or ratings-reaction shoot, but the player is not named here.",
-    "Held and shown as the GIF itself; the loop is the object."
+    "Held and shown as the GIF itself; the loop is the object.",
+    "Medium tag 'animated gif' removed: the type tag ['reaction gif'] already said it, and the two facets were folded into one."
    ],
    "label": "",
    "source_image": "~/Desktop/Dunno.gif",
@@ -9339,10 +9323,6 @@
     {
      "k": "type",
      "v": "reaction gif"
-    },
-    {
-     "k": "medium",
-     "v": "animated gif"
     },
     {
      "k": "subject",
@@ -9378,7 +9358,8 @@
    "notes": [
     "Strongly resembles the Egyptian Panda Cheese ads (c. 2010). Not confirmed, so not stated as fact.",
     "Carries a 'BLOGGIF' watermark, so this copy has been through a third-party GIF maker.",
-    "Held and shown as the GIF itself; the loop is the object."
+    "Held and shown as the GIF itself; the loop is the object.",
+    "Medium tag 'animated gif' removed: the type tag ['reaction gif'] already said it, and the two facets were folded into one."
    ],
    "label": "",
    "source_image": "~/Desktop/Fthis.gif",
@@ -9394,10 +9375,6 @@
     {
      "k": "type",
      "v": "reaction gif"
-    },
-    {
-     "k": "medium",
-     "v": "animated gif"
     }
    ],
    "identity_established": true,
@@ -9428,7 +9405,8 @@
    "source_url": "local file: ~/Desktop/Hello.gif",
    "notes": [
     "Unidentified. The CBS logo dates it to a CBS programme but the show and the performer are not established.",
-    "Held and shown as the GIF itself; the loop is the object."
+    "Held and shown as the GIF itself; the loop is the object.",
+    "Medium tag 'animated gif' removed: the type tag ['reaction gif'] already said it, and the two facets were folded into one."
    ],
    "label": "",
    "source_image": "~/Desktop/Hello.gif",
@@ -9444,10 +9422,6 @@
     {
      "k": "type",
      "v": "reaction gif"
-    },
-    {
-     "k": "medium",
-     "v": "animated gif"
     }
    ],
    "identity_established": true,
@@ -9478,7 +9452,8 @@
    "source_url": "local file: ~/Desktop/Hmm Alonzo mourning.gif",
    "notes": [
     "The chyron is legible in the frames — Bulls vs Heat, Craig Sager reporting — but the specific game and date are not pinned down.",
-    "Held and shown as the GIF itself; the loop is the object."
+    "Held and shown as the GIF itself; the loop is the object.",
+    "Medium tag 'animated gif' removed: the type tag ['reaction gif'] already said it, and the two facets were folded into one."
    ],
    "label": "",
    "source_image": "~/Desktop/Hmm Alonzo mourning.gif",
@@ -9493,10 +9468,6 @@
     {
      "k": "type",
      "v": "reaction gif"
-    },
-    {
-     "k": "medium",
-     "v": "animated gif"
     },
     {
      "k": "subject",
@@ -9535,7 +9506,8 @@
    "source_url": "local file: ~/Desktop/Nope classic.gif",
    "notes": [
     "Unidentified. Looks like early-2010s music-video or documentary footage.",
-    "Held and shown as the GIF itself; the loop is the object."
+    "Held and shown as the GIF itself; the loop is the object.",
+    "Medium tag 'animated gif' removed: the type tag ['reaction gif'] already said it, and the two facets were folded into one."
    ],
    "label": "",
    "source_image": "~/Desktop/Nope classic.gif",
@@ -9551,10 +9523,6 @@
     {
      "k": "type",
      "v": "reaction gif"
-    },
-    {
-     "k": "medium",
-     "v": "animated gif"
     }
    ],
    "identity_established": true,
@@ -9585,7 +9553,8 @@
    "source_url": "local file: ~/Desktop/Nope james harden.gif",
    "notes": [
     "Harden and the Rockets jersey are certain; the specific game and season are not established.",
-    "Held and shown as the GIF itself; the loop is the object."
+    "Held and shown as the GIF itself; the loop is the object.",
+    "Medium tag 'animated gif' removed: the type tag ['reaction gif'] already said it, and the two facets were folded into one."
    ],
    "label": "",
    "source_image": "~/Desktop/Nope james harden.gif",
@@ -9601,10 +9570,6 @@
     {
      "k": "type",
      "v": "reaction gif"
-    },
-    {
-     "k": "medium",
-     "v": "animated gif"
     },
     {
      "k": "subject",
@@ -9643,7 +9608,8 @@
    "source_url": "local file: ~/Desktop/Nope prince .gif",
    "notes": [
     "Prince is certain. The clip is not identified — no year or programme is claimed.",
-    "Held and shown as the GIF itself; the loop is the object."
+    "Held and shown as the GIF itself; the loop is the object.",
+    "Medium tag 'animated gif' removed: the type tag ['reaction gif'] already said it, and the two facets were folded into one."
    ],
    "label": "",
    "source_image": "~/Desktop/Nope prince .gif",
@@ -9658,10 +9624,6 @@
     {
      "k": "type",
      "v": "reaction gif"
-    },
-    {
-     "k": "medium",
-     "v": "animated gif"
     },
     {
      "k": "subject",
@@ -9696,7 +9658,8 @@
    "source_url": "local file: ~/Desktop/Ohhhhh.gif",
    "notes": [
     "Unidentified. The framing suggests a street cypher or battle crowd.",
-    "Held and shown as the GIF itself; the loop is the object."
+    "Held and shown as the GIF itself; the loop is the object.",
+    "Medium tag 'animated gif' removed: the type tag ['reaction gif'] already said it, and the two facets were folded into one."
    ],
    "label": "",
    "source_image": "~/Desktop/Ohhhhh.gif",
@@ -9712,10 +9675,6 @@
     {
      "k": "type",
      "v": "reaction gif"
-    },
-    {
-     "k": "medium",
-     "v": "animated gif"
     }
    ],
    "identity_established": true,
@@ -9746,7 +9705,9 @@
    "source_url": "local file: ~/Desktop/Ohno .gif",
    "notes": [
     "Character and series certain; episode not identified.",
-    "Held and shown as the GIF itself; the loop is the object."
+    "Held and shown as the GIF itself; the loop is the object.",
+    "Medium tag 'animated gif' removed: the type tag ['reaction gif'] already said it, and the two facets were folded into one.",
+    "Medium tag 'animation' removed: the type tag ['reaction gif'] already said it, and the two facets were folded into one."
    ],
    "label": "",
    "source_image": "~/Desktop/Ohno .gif",
@@ -9763,16 +9724,8 @@
      "v": "reaction gif"
     },
     {
-     "k": "medium",
-     "v": "animated gif"
-    },
-    {
      "k": "subject",
      "v": "The Simpsons"
-    },
-    {
-     "k": "medium",
-     "v": "animation"
     }
    ],
    "identity_established": true,
@@ -9803,7 +9756,8 @@
    "source_url": "local file: ~/Desktop/Popcorn.gif",
    "notes": [
     "Unidentified. Todd's filename says popcorn; no popcorn is visible in the frames sampled, so the moment he means may sit elsewhere in the loop.",
-    "Held and shown as the GIF itself; the loop is the object."
+    "Held and shown as the GIF itself; the loop is the object.",
+    "Medium tag 'animated gif' removed: the type tag ['reaction gif'] already said it, and the two facets were folded into one."
    ],
    "label": "",
    "source_image": "~/Desktop/Popcorn.gif",
@@ -9819,10 +9773,6 @@
     {
      "k": "type",
      "v": "reaction gif"
-    },
-    {
-     "k": "medium",
-     "v": "animated gif"
     }
    ],
    "identity_established": true,
@@ -9852,7 +9802,8 @@
    "verified_against": "The 'Roll Safe' reaction: Kayode Ewumi as Reece Simpson, grinning and tapping his temple, from a BBC Three mini-documentary about his web series Hood Documentary, uploaded 1 June 2016. It went widely viral in January 2017 attached to deliberately flawed reasoning. The BBC ident is visible in the top-left of the frame.",
    "source_url": "local file: ~/Desktop/Thinker.gif",
    "notes": [
-    "Held and shown as the GIF itself; the loop is the object."
+    "Held and shown as the GIF itself; the loop is the object.",
+    "Medium tag 'animated gif' removed: the type tag ['reaction gif'] already said it, and the two facets were folded into one."
    ],
    "label": "",
    "source_image": "~/Desktop/Thinker.gif",
@@ -9868,10 +9819,6 @@
     {
      "k": "type",
      "v": "reaction gif"
-    },
-    {
-     "k": "medium",
-     "v": "animated gif"
     },
     {
      "k": "subject",
@@ -9914,7 +9861,8 @@
    "source_url": "local file: ~/Desktop/Time.gif",
    "notes": [
     "Performer and series certain; the episode is not established. Season one aired 2014, but the year is left off rather than assumed.",
-    "Held and shown as the GIF itself; the loop is the object."
+    "Held and shown as the GIF itself; the loop is the object.",
+    "Medium tag 'animated gif' removed: the type tag ['reaction gif'] already said it, and the two facets were folded into one."
    ],
    "label": "",
    "source_image": "~/Desktop/Time.gif",
@@ -9930,10 +9878,6 @@
     {
      "k": "type",
      "v": "reaction gif"
-    },
-    {
-     "k": "medium",
-     "v": "animated gif"
     },
     {
      "k": "subject",
@@ -9972,7 +9916,8 @@
    "source_url": "local file: ~/Desktop/Uhhhhhhh.gif",
    "notes": [
     "Unidentified. The period lighting and wardrobe read as mid-century American crime drama, but nothing is claimed.",
-    "Held and shown as the GIF itself; the loop is the object."
+    "Held and shown as the GIF itself; the loop is the object.",
+    "Medium tag 'animated gif' removed: the type tag ['reaction gif'] already said it, and the two facets were folded into one."
    ],
    "label": "",
    "source_image": "~/Desktop/Uhhhhhhh.gif",
@@ -9988,10 +9933,6 @@
     {
      "k": "type",
      "v": "reaction gif"
-    },
-    {
-     "k": "medium",
-     "v": "animated gif"
     }
    ],
    "identity_established": true,
@@ -10022,7 +9963,8 @@
    "source_url": "local file: ~/Desktop/Waitwhat1.gif",
    "notes": [
     "Unidentified.",
-    "Held and shown as the GIF itself; the loop is the object."
+    "Held and shown as the GIF itself; the loop is the object.",
+    "Medium tag 'animated gif' removed: the type tag ['reaction gif'] already said it, and the two facets were folded into one."
    ],
    "label": "",
    "source_image": "~/Desktop/Waitwhat1.gif",
@@ -10038,10 +9980,6 @@
     {
      "k": "type",
      "v": "reaction gif"
-    },
-    {
-     "k": "medium",
-     "v": "animated gif"
     }
    ],
    "identity_established": true,
@@ -10072,7 +10010,8 @@
    "source_url": "local file: ~/Desktop/Whoaaaaaaa.gif",
    "notes": [
     "Farley is certain. The film is not — the floral shirt suggests Beverly Hills Ninja (1997), but that is a guess and is not in the record.",
-    "Held and shown as the GIF itself; the loop is the object."
+    "Held and shown as the GIF itself; the loop is the object.",
+    "Medium tag 'animated gif' removed: the type tag ['reaction gif'] already said it, and the two facets were folded into one."
    ],
    "label": "",
    "source_image": "~/Desktop/Whoaaaaaaa.gif",
@@ -10088,10 +10027,6 @@
     {
      "k": "type",
      "v": "reaction gif"
-    },
-    {
-     "k": "medium",
-     "v": "animated gif"
     },
     {
      "k": "subject",
@@ -10125,7 +10060,8 @@
    "verified_against": "Sister Mary Jo Sobieck, a Dominican sister who taught at Marian Catholic High School, bouncing the ball off her bicep before throwing the ceremonial first pitch at the Chicago White Sox / Kansas City Royals game at Guaranteed Rate Field on 18 August 2018 — a strike, to Lucas Giolito. The NBC Sports Chicago ident in frame matches the broadcast.",
    "source_url": "local file: ~/Desktop/Yoooo.gif",
    "notes": [
-    "Held and shown as the GIF itself; the loop is the object."
+    "Held and shown as the GIF itself; the loop is the object.",
+    "Medium tag 'animated gif' removed: the type tag ['reaction gif'] already said it, and the two facets were folded into one."
    ],
    "label": "",
    "source_image": "~/Desktop/Yoooo.gif",
@@ -10141,10 +10077,6 @@
     {
      "k": "type",
      "v": "reaction gif"
-    },
-    {
-     "k": "medium",
-     "v": "animated gif"
     },
     {
      "k": "subject",
@@ -10187,7 +10119,8 @@
    "source_url": "local file: ~/Desktop/confused absolutely fabulous.gif",
    "notes": [
     "Performer and series certain; the episode and year are not established.",
-    "Held and shown as the GIF itself; the loop is the object."
+    "Held and shown as the GIF itself; the loop is the object.",
+    "Medium tag 'animated gif' removed: the type tag ['reaction gif'] already said it, and the two facets were folded into one."
    ],
    "label": "",
    "source_image": "~/Desktop/confused absolutely fabulous.gif",
@@ -10203,10 +10136,6 @@
     {
      "k": "type",
      "v": "reaction gif"
-    },
-    {
-     "k": "medium",
-     "v": "animated gif"
     },
     {
      "k": "subject",
@@ -10244,7 +10173,8 @@
    "verified_against": "Leslie Bibb as Kate in The White Lotus season three, giving a wordless affirmative across a dinner table. Identified from the performer's appearance and from the source filename, which names the actor, character and season.",
    "source_url": "local file: ~/Desktop/leslie-bibb-kate-white-lotus-white-lotus-season-3-nonverbal-yes.gif",
    "notes": [
-    "Held and shown as the GIF itself; the loop is the object."
+    "Held and shown as the GIF itself; the loop is the object.",
+    "Medium tag 'animated gif' removed: the type tag ['reaction gif'] already said it, and the two facets were folded into one."
    ],
    "label": "",
    "source_image": "~/Desktop/leslie-bibb-kate-white-lotus-white-lotus-season-3-nonverbal-yes.gif",
@@ -10259,10 +10189,6 @@
     {
      "k": "type",
      "v": "reaction gif"
-    },
-    {
-     "k": "medium",
-     "v": "animated gif"
     },
     {
      "k": "subject",
@@ -10305,7 +10231,8 @@
    "source_url": "local file: ~/Desktop/mr-on-blast-on-blast-snl-dance-break.gif",
    "notes": [
     "Programme certain from the Weekend Update set. The performer is not identified and the filename's 'Mr On Blast' could not be confirmed as a real recurring character.",
-    "Held and shown as the GIF itself; the loop is the object."
+    "Held and shown as the GIF itself; the loop is the object.",
+    "Medium tag 'animated gif' removed: the type tag ['reaction gif'] already said it, and the two facets were folded into one."
    ],
    "label": "",
    "source_image": "~/Desktop/mr-on-blast-on-blast-snl-dance-break.gif",
@@ -10321,10 +10248,6 @@
     {
      "k": "type",
      "v": "reaction gif"
-    },
-    {
-     "k": "medium",
-     "v": "animated gif"
     },
     {
      "k": "subject",
@@ -10358,7 +10281,8 @@
    "verified_against": "Walton Goggins as Rick Hatchett in The White Lotus season three, staring flatly ahead against warm bokeh. Identified from the performer's appearance and from the source filename, which names the character.",
    "source_url": "local file: ~/Desktop/the-white-lotus-rick-hatchette-whitelotussky-white-lotus-whitelotus.gif",
    "notes": [
-    "Held and shown as the GIF itself; the loop is the object."
+    "Held and shown as the GIF itself; the loop is the object.",
+    "Medium tag 'animated gif' removed: the type tag ['reaction gif'] already said it, and the two facets were folded into one."
    ],
    "label": "",
    "source_image": "~/Desktop/the-white-lotus-rick-hatchette-whitelotussky-white-lotus-whitelotus.gif",
@@ -10375,10 +10299,6 @@
     {
      "k": "type",
      "v": "reaction gif"
-    },
-    {
-     "k": "medium",
-     "v": "animated gif"
     },
     {
      "k": "subject",
@@ -10420,7 +10340,8 @@
    "verified_against": "Parker Posey as Victoria Ratliff in The White Lotus season three, in sunglasses on a boat. Identified from the performer's appearance and from the source filename, which names her.",
    "source_url": "local file: ~/Desktop/the-white-lotus-the-white-lotus-season-3-the-white-lotus-parker-posey-parker-posey-selactress.gif",
    "notes": [
-    "Held and shown as the GIF itself; the loop is the object."
+    "Held and shown as the GIF itself; the loop is the object.",
+    "Medium tag 'animated gif' removed: the type tag ['reaction gif'] already said it, and the two facets were folded into one."
    ],
    "label": "",
    "source_image": "~/Desktop/the-white-lotus-the-white-lotus-season-3-the-white-lotus-parker-posey-parker-posey-selactress.gif",
@@ -10435,10 +10356,6 @@
     {
      "k": "type",
      "v": "reaction gif"
-    },
-    {
-     "k": "medium",
-     "v": "animated gif"
     },
     {
      "k": "subject",
@@ -12092,7 +12009,8 @@
    "source_page": "https://polishposter.com/0490-dersu-uzala-akira-kurosawa.html",
    "notes": [
     "Metadata as published by polishposter.com.",
-    "Held at 800x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+    "Held at 800x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default.",
+    "Type corrected from 'film poster designed by bozena jankowska' to 'film poster': the seller's title puts the designer in the same comma-clause as the poster type, and the parser took the lot. The designer is unaffected — it was already recorded separately."
    ],
    "label": "",
    "source_image": "https://polishposter.com/404-large_default/0490-dersu-uzala-akira-kurosawa.jpg",
@@ -12106,7 +12024,7 @@
    "tags": [
     {
      "k": "type",
-     "v": "film poster designed by bozena jankowska"
+     "v": "film poster"
     },
     {
      "k": "designer",
@@ -12146,7 +12064,8 @@
    "source_page": "https://polishposter.com/1679-skrupul-walka-polish-movie-poster.html",
    "notes": [
     "Metadata as published by polishposter.com.",
-    "Held at 800x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+    "Held at 800x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default.",
+    "Type corrected from 'film poster designed by wiesław wałkuski' to 'film poster': the seller's title puts the designer in the same comma-clause as the poster type, and the parser took the lot. The designer is unaffected — it was already recorded separately."
    ],
    "label": "",
    "source_image": "https://polishposter.com/1448-large_default/1679-skrupul-walka-polish-movie-poster.jpg",
@@ -12160,7 +12079,7 @@
    "tags": [
     {
      "k": "type",
-     "v": "film poster designed by wiesław wałkuski"
+     "v": "film poster"
     },
     {
      "k": "designer",
@@ -12200,7 +12119,8 @@
    "source_page": "https://polishposter.com/1857-ras-le-coeur.html",
    "notes": [
     "Metadata as published by polishposter.com.",
-    "Held at 800x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+    "Held at 800x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default.",
+    "Type corrected from 'film poster designed by lech majewski' to 'film poster': the seller's title puts the designer in the same comma-clause as the poster type, and the parser took the lot. The designer is unaffected — it was already recorded separately."
    ],
    "label": "",
    "source_image": "https://polishposter.com/1614-large_default/1857-ras-le-coeur.jpg",
@@ -12215,7 +12135,7 @@
    "tags": [
     {
      "k": "type",
-     "v": "film poster designed by lech majewski"
+     "v": "film poster"
     },
     {
      "k": "designer",
@@ -12255,7 +12175,8 @@
    "source_page": "https://polishposter.com/2054-sledztwo-wykazalo.html",
    "notes": [
     "Metadata as published by polishposter.com.",
-    "Held at 800x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+    "Held at 800x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default.",
+    "Type corrected from 'film poster designed by lex drewinski' to 'film poster': the seller's title puts the designer in the same comma-clause as the poster type, and the parser took the lot. The designer is unaffected — it was already recorded separately."
    ],
    "label": "",
    "source_image": "https://polishposter.com/1789-large_default/2054-sledztwo-wykazalo.jpg",
@@ -12270,7 +12191,7 @@
    "tags": [
     {
      "k": "type",
-     "v": "film poster designed by lex drewinski"
+     "v": "film poster"
     },
     {
      "k": "designer",
@@ -12310,7 +12231,8 @@
    "source_page": "https://polishposter.com/2317-audience-the-polish-movie-poster.html",
    "notes": [
     "Metadata as published by polishposter.com.",
-    "Held at 667x960 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+    "Held at 667x960 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default.",
+    "Type corrected from 'film poster designed by jerzy flisak' to 'film poster': the seller's title puts the designer in the same comma-clause as the poster type, and the parser took the lot. The designer is unaffected — it was already recorded separately."
    ],
    "label": "",
    "source_image": "https://polishposter.com/1970/2317-audience-the-polish-movie-poster.jpg",
@@ -12325,7 +12247,7 @@
    "tags": [
     {
      "k": "type",
-     "v": "film poster designed by jerzy flisak"
+     "v": "film poster"
     },
     {
      "k": "designer",
@@ -12365,7 +12287,8 @@
    "source_page": "https://polishposter.com/2453-faithful-woman-a-polish-movie-poster.html",
    "notes": [
     "Metadata as published by polishposter.com.",
-    "Held at 800x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+    "Held at 800x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default.",
+    "Type corrected from 'film poster designed by romuald socha' to 'film poster': the seller's title puts the designer in the same comma-clause as the poster type, and the parser took the lot. The designer is unaffected — it was already recorded separately."
    ],
    "label": "",
    "source_image": "https://polishposter.com/2068-large_default/2453-faithful-woman-a-polish-movie-poster.jpg",
@@ -12379,7 +12302,7 @@
    "tags": [
     {
      "k": "type",
-     "v": "film poster designed by romuald socha"
+     "v": "film poster"
     },
     {
      "k": "designer",
@@ -12419,7 +12342,8 @@
    "source_page": "https://polishposter.com/2461-idiots-the-polish-movie-poster.html",
    "notes": [
     "Metadata as published by polishposter.com.",
-    "Held at 800x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+    "Held at 800x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default.",
+    "Type corrected from 'film poster designed by wiesław wałkuski' to 'film poster': the seller's title puts the designer in the same comma-clause as the poster type, and the parser took the lot. The designer is unaffected — it was already recorded separately."
    ],
    "label": "",
    "source_image": "https://polishposter.com/2076-large_default/2461-idiots-the-polish-movie-poster.jpg",
@@ -12434,7 +12358,7 @@
    "tags": [
     {
      "k": "type",
-     "v": "film poster designed by wiesław wałkuski"
+     "v": "film poster"
     },
     {
      "k": "designer",
@@ -12474,7 +12398,8 @@
    "source_page": "https://polishposter.com/2725-thank-god-it-s-friday-polish-movie-poster.html",
    "notes": [
     "Metadata as published by polishposter.com.",
-    "Held at 800x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+    "Held at 800x800 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default.",
+    "Type corrected from 'film poster designed by lech majewski' to 'film poster': the seller's title puts the designer in the same comma-clause as the poster type, and the parser took the lot. The designer is unaffected — it was already recorded separately."
    ],
    "label": "",
    "source_image": "https://polishposter.com/2307-large_default/2725-thank-god-it-s-friday-polish-movie-poster.jpg",
@@ -12489,7 +12414,7 @@
    "tags": [
     {
      "k": "type",
-     "v": "film poster designed by lech majewski"
+     "v": "film poster"
     },
     {
      "k": "designer",
@@ -12529,7 +12454,8 @@
    "source_page": "https://polishposter.com/3007-czlowiek-ktorego-cena-rosla-polish-movie-poster.html",
    "notes": [
     "Metadata as published by polishposter.com.",
-    "Held at 668x960 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+    "Held at 668x960 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default.",
+    "Type corrected from 'film poster designed by maciej zbikowski' to 'film poster': the seller's title puts the designer in the same comma-clause as the poster type, and the parser took the lot. The designer is unaffected — it was already recorded separately."
    ],
    "label": "",
    "source_image": "https://polishposter.com/2515/3007-czlowiek-ktorego-cena-rosla-polish-movie-poster.jpg",
@@ -12544,7 +12470,7 @@
    "tags": [
     {
      "k": "type",
-     "v": "film poster designed by maciej zbikowski"
+     "v": "film poster"
     },
     {
      "k": "designer",
@@ -12688,7 +12614,8 @@
    "source_page": "https://polishposter.com/5377-the-great-escape-polish-movie-poster-wiktor-gorka-ed-2018.html",
    "notes": [
     "Metadata as published by polishposter.com.",
-    "Held at 679x960 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default."
+    "Held at 679x960 — the largest this seller serves. Their thumbnail conventions were exhausted (Shopify size suffix, PrestaShop size directory); this is the ceiling, not a default.",
+    "Type corrected from 'film poster designed by wiktor gorka' to 'film poster': the seller's title puts the designer in the same comma-clause as the poster type, and the parser took the lot. The designer is unaffected — it was already recorded separately."
    ],
    "label": "",
    "source_image": "https://polishposter.com/4523/5377-the-great-escape-polish-movie-poster-wiktor-gorka-ed-2018.jpg",
@@ -12703,7 +12630,7 @@
    "tags": [
     {
      "k": "type",
-     "v": "film poster designed by wiktor gorka"
+     "v": "film poster"
     },
     {
      "k": "designer",

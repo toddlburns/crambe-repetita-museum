@@ -20,6 +20,8 @@ import json, os, re, shutil, sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(HERE, "crvi.json")
 
+# `medium` was folded into `type` on 2026-08-28 — of 29 medium tags, 28 restated the type
+# beside them. One facet, not two that mostly agree.
 FACET_ORDER = ["designer", "artist", "label", "decade", "color", "type",
                "photographer", "illustrator", "art director", "typographer"]
 
