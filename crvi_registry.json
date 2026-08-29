@@ -1,5 +1,5 @@
 {
- "next": 475,
+ "next": 495,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -25460,6 +25460,1219 @@
    "hue": 123.07,
    "light": 0.4216,
    "chroma": 0.7361
+  },
+  "ASME 2025::The Atlantic October::": {
+   "id": "CRVI000475",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000475.jpg",
+   "original_px": [
+    1170,
+    1542
+   ],
+   "original_bytes": 492285,
+   "identity": "ASME 2025::The Atlantic October::",
+   "maker": "Justin Metz",
+   "title": "The Atlantic, October 2024",
+   "subtitle": "The Atlantic October",
+   "year": "2024",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest 2025 (Winner). ASME's own listing reads: The Atlantic October 2024 Issue Justin Metz, Illustrator",
+   "source_page": "https://asme.memberclicks.net/asme-best-cover-contest-winners-and-finalists-2025",
+   "notes": [
+    "ASME award: Winner.",
+    "⚠️ ASME lists no individual credit for this cover, so none is claimed here.",
+    "Cropped from Todd's screenshot of the ASME listing to the cover alone — the awards caption beneath it is not part of the object, though its credits are what this record is built from.",
+    "⚠️ The 2025 contest was the last: ASME discontinued the Best Cover Contest after it.",
+    "ASME lists this one without a cover line — it is simply 'The Atlantic October 2024 Issue', Cover of the Year. Justin Metz is credited as illustrator."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers/IMG_5202.jpg",
+   "source_px": [
+    1170,
+    1542
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The Atlantic October"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "illustrator",
+     "v": "Justin Metz"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest 2025 (Winner). ASME's own listing reads: The Atlantic October 2024 Issue Justin Metz, Illustrator",
+   "hue": 6.48,
+   "light": 0.2862,
+   "chroma": 0.1223
+  },
+  "ASME 2025::The New York Times Magazine::Whitewash": {
+   "id": "CRVI000476",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000476.jpg",
+   "original_px": [
+    1170,
+    1419
+   ],
+   "original_bytes": 245649,
+   "identity": "ASME 2025::The New York Times Magazine::Whitewash",
+   "maker": "Mark Harris",
+   "title": "Whitewash",
+   "subtitle": "The New York Times Magazine, March 17, 2024",
+   "year": "2024",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest 2025 (Winner). ASME's own listing reads: The New York Times Magazine “Whitewash,” March 17, 2024 Mark Harris, Illustrator",
+   "source_page": "https://asme.memberclicks.net/asme-best-cover-contest-winners-and-finalists-2025",
+   "notes": [
+    "ASME award: Winner.",
+    "Cropped from Todd's screenshot of the ASME listing to the cover alone — the awards caption beneath it is not part of the object, though its credits are what this record is built from.",
+    "⚠️ The 2025 contest was the last: ASME discontinued the Best Cover Contest after it."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers/IMG_5203.jpg",
+   "source_px": [
+    1170,
+    1419
+   ],
+   "colors": [
+    "white"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New York Times Magazine"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mark Harris"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest 2025 (Winner). ASME's own listing reads: The New York Times Magazine “Whitewash,” March 17, 2024 Mark Harris, Illustrator",
+   "hue": null,
+   "light": 0.805,
+   "chroma": 0.0
+  },
+  "ASME 2025::The Economist::The Centre Cannot Hold": {
+   "id": "CRVI000477",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000477.jpg",
+   "original_px": [
+    1170,
+    1518
+   ],
+   "original_bytes": 401233,
+   "identity": "ASME 2025::The Economist::The Centre Cannot Hold",
+   "maker": "Justin Metz",
+   "title": "The Centre Cannot Hold",
+   "subtitle": "The Economist, June 29-July 5, 2024",
+   "year": "2024",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest 2025 (Finalist). ASME's own listing reads: The Economist \"The Centre Cannot Hold,\" June 29-July 5, 2024 Justin Metz, Photographer Ben Shmulevitch, Illustrator",
+   "source_page": "https://asme.memberclicks.net/asme-best-cover-contest-winners-and-finalists-2025",
+   "notes": [
+    "ASME award: Finalist.",
+    "Cropped from Todd's screenshot of the ASME listing to the cover alone — the awards caption beneath it is not part of the object, though its credits are what this record is built from.",
+    "⚠️ The 2025 contest was the last: ASME discontinued the Best Cover Contest after it."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers/IMG_5204.jpg",
+   "source_px": [
+    1170,
+    1518
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The Economist"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "photographer",
+     "v": "Justin Metz"
+    },
+    {
+     "k": "illustrator",
+     "v": "Ben Shmulevitch"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest 2025 (Finalist). ASME's own listing reads: The Economist \"The Centre Cannot Hold,\" June 29-July 5, 2024 Justin Metz, Photographer Ben Shmulevitch, Illustrator",
+   "hue": 208.66,
+   "light": 0.5671,
+   "chroma": 0.5726
+  },
+  "ASME 2025::Mother Jones::American Oligarchy": {
+   "id": "CRVI000478",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000478.jpg",
+   "original_px": [
+    1170,
+    1508
+   ],
+   "original_bytes": 486311,
+   "identity": "ASME 2025::Mother Jones::American Oligarchy",
+   "maker": "Tim O'Brien",
+   "title": "American Oligarchy",
+   "subtitle": "Mother Jones, January + February 2024",
+   "year": "2024",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest 2025 (Finalist). ASME's own listing reads: Mother Jones \"American Oligarchy,” January + February 2024 Tim O'Brien, Illustrator",
+   "source_page": "https://asme.memberclicks.net/asme-best-cover-contest-winners-and-finalists-2025",
+   "notes": [
+    "ASME award: Finalist.",
+    "Cropped from Todd's screenshot of the ASME listing to the cover alone — the awards caption beneath it is not part of the object, though its credits are what this record is built from.",
+    "⚠️ The 2025 contest was the last: ASME discontinued the Best Cover Contest after it."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers/IMG_5205.jpg",
+   "source_px": [
+    1170,
+    1508
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Mother Jones"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "illustrator",
+     "v": "Tim O'Brien"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest 2025 (Finalist). ASME's own listing reads: Mother Jones \"American Oligarchy,” January + February 2024 Tim O'Brien, Illustrator",
+   "hue": 323.11,
+   "light": 0.5346,
+   "chroma": 0.3051
+  },
+  "ASME 2025::New York::The Health Issue": {
+   "id": "CRVI000479",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000479.jpg",
+   "original_px": [
+    1170,
+    1525
+   ],
+   "original_bytes": 356820,
+   "identity": "ASME 2025::New York::The Health Issue",
+   "maker": "Martin Schoeller",
+   "title": "The Health Issue",
+   "subtitle": "New York, July 15-28, 2024",
+   "year": "2024",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest 2025 (Finalist). ASME's own listing reads: New York “The Health Issue,” July 15-28, 2024 Photo illustration by Martin Schoeller Source photographs by Seth Wenig/Pool (Trump) and Mandel Ngan/AFP (Biden)",
+   "source_page": "https://asme.memberclicks.net/asme-best-cover-contest-winners-and-finalists-2025",
+   "notes": [
+    "ASME award: Finalist.",
+    "Cropped from Todd's screenshot of the ASME listing to the cover alone — the awards caption beneath it is not part of the object, though its credits are what this record is built from.",
+    "⚠️ The 2025 contest was the last: ASME discontinued the Best Cover Contest after it.",
+    "ASME credits 'Photo illustration by Martin Schoeller', with source photographs by Seth Wenig/Pool and others. The parser had run his name into the following phrase."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers/IMG_5206.jpg",
+   "source_px": [
+    1170,
+    1525
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "illustrator",
+     "v": "Martin Schoeller"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest 2025 (Finalist). ASME's own listing reads: New York “The Health Issue,” July 15-28, 2024 Photo illustration by Martin Schoeller Source photographs by Seth Wenig/Pool (Trump) and Mandel Ngan/AFP (Biden)",
+   "hue": 13.46,
+   "light": 0.7707,
+   "chroma": 0.2382
+  },
+  "ASME 2025::The New York Times Magazine::The Retirement Issue": {
+   "id": "CRVI000480",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000480.jpg",
+   "original_px": [
+    1170,
+    1441
+   ],
+   "original_bytes": 95963,
+   "identity": "ASME 2025::The New York Times Magazine::The Retirement Issue",
+   "maker": "Alex Merto",
+   "title": "The Retirement Issue",
+   "subtitle": "The New York Times Magazine, May 12, 2024",
+   "year": "2024",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest 2025 (Winner). ASME's own listing reads: The New York Times Magazine “The Retirement Issue,” May 12, 2024 Alex Merto, Illustrator",
+   "source_page": "https://asme.memberclicks.net/asme-best-cover-contest-winners-and-finalists-2025",
+   "notes": [
+    "ASME award: Winner.",
+    "Cropped from Todd's screenshot of the ASME listing to the cover alone — the awards caption beneath it is not part of the object, though its credits are what this record is built from.",
+    "⚠️ The 2025 contest was the last: ASME discontinued the Best Cover Contest after it."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers/IMG_5207.jpg",
+   "source_px": [
+    1170,
+    1441
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New York Times Magazine"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "illustrator",
+     "v": "Alex Merto"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest 2025 (Winner). ASME's own listing reads: The New York Times Magazine “The Retirement Issue,” May 12, 2024 Alex Merto, Illustrator",
+   "hue": null,
+   "light": 0.6354,
+   "chroma": 0.0051
+  },
+  "ASME 2025::New York::The Power Issue": {
+   "id": "CRVI000481",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000481.jpg",
+   "original_px": [
+    1170,
+    1510
+   ],
+   "original_bytes": 303325,
+   "identity": "ASME 2025::New York::The Power Issue",
+   "maker": "Unknown",
+   "title": "The Power Issue",
+   "subtitle": "New York, October 21-November 3, 2024",
+   "year": "2024",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest 2025 (Readers' Choice). ASME's own listing reads: New York “The Power Issue,” October 21-November 3, 2024",
+   "source_page": "https://asme.memberclicks.net/asme-best-cover-contest-winners-and-finalists-2025",
+   "notes": [
+    "ASME award: Readers' Choice.",
+    "⚠️ ASME lists no individual credit for this cover, so none is claimed here.",
+    "Cropped from Todd's screenshot of the ASME listing to the cover alone — the awards caption beneath it is not part of the object, though its credits are what this record is built from.",
+    "⚠️ The 2025 contest was the last: ASME discontinued the Best Cover Contest after it."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers/IMG_5208.jpg",
+   "source_px": [
+    1170,
+    1510
+   ],
+   "colors": [
+    "red",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest 2025 (Readers' Choice). ASME's own listing reads: New York “The Power Issue,” October 21-November 3, 2024",
+   "hue": null,
+   "light": 0.6104,
+   "chroma": 0.0978
+  },
+  "ASME 2025::The Economist::War and AI": {
+   "id": "CRVI000482",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000482.jpg",
+   "original_px": [
+    1170,
+    1526
+   ],
+   "original_bytes": 164056,
+   "identity": "ASME 2025::The Economist::War and AI",
+   "maker": "Graeme James",
+   "title": "War and AI",
+   "subtitle": "The Economist, June 22-28, 2024",
+   "year": "2024",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest 2025 (Finalist). ASME's own listing reads: The Economist “War and AI,” June 22-28, 2024 Graeme James and Ben Shmulevitch, Illustrators",
+   "source_page": "https://asme.memberclicks.net/asme-best-cover-contest-winners-and-finalists-2025",
+   "notes": [
+    "ASME award: Finalist.",
+    "Cropped from Todd's screenshot of the ASME listing to the cover alone — the awards caption beneath it is not part of the object, though its credits are what this record is built from.",
+    "⚠️ The 2025 contest was the last: ASME discontinued the Best Cover Contest after it.",
+    "ASME credits both Graeme James and Ben Shmulevitch; the parser had kept only the second."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers/IMG_5209.jpg",
+   "source_px": [
+    1170,
+    1526
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The Economist"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "illustrator",
+     "v": "Graeme James"
+    },
+    {
+     "k": "illustrator",
+     "v": "Ben Shmulevitch"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest 2025 (Finalist). ASME's own listing reads: The Economist “War and AI,” June 22-28, 2024 Graeme James and Ben Shmulevitch, Illustrators",
+   "hue": 5.09,
+   "light": 0.5396,
+   "chroma": 0.7653
+  },
+  "ASME 2025::The New York Times Magazine::Why Pants Are Blowing Up": {
+   "id": "CRVI000483",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000483.jpg",
+   "original_px": [
+    1170,
+    1394
+   ],
+   "original_bytes": 299421,
+   "identity": "ASME 2025::The New York Times Magazine::Why Pants Are Blowing Up",
+   "maker": "Bobby Doherty",
+   "title": "Why Pants Are Blowing Up",
+   "subtitle": "The New York Times Magazine, March 3, 2024",
+   "year": "2024",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest 2025 (Winner). ASME's own listing reads: The New York Times Magazine “Why Pants Are Blowing Up,” March 3, 2024 Bobby Doherty, Photographer",
+   "source_page": "https://asme.memberclicks.net/asme-best-cover-contest-winners-and-finalists-2025",
+   "notes": [
+    "ASME award: Winner.",
+    "Cropped from Todd's screenshot of the ASME listing to the cover alone — the awards caption beneath it is not part of the object, though its credits are what this record is built from.",
+    "⚠️ The 2025 contest was the last: ASME discontinued the Best Cover Contest after it."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers/IMG_5210.jpg",
+   "source_px": [
+    1170,
+    1394
+   ],
+   "colors": [
+    "pink",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New York Times Magazine"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "photographer",
+     "v": "Bobby Doherty"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest 2025 (Winner). ASME's own listing reads: The New York Times Magazine “Why Pants Are Blowing Up,” March 3, 2024 Bobby Doherty, Photographer",
+   "hue": 337.76,
+   "light": 0.4648,
+   "chroma": 0.7993
+  },
+  "ASME 2025::VIRTUOSO::The Hotel Issue": {
+   "id": "CRVI000484",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000484.jpg",
+   "original_px": [
+    1170,
+    1395
+   ],
+   "original_bytes": 267238,
+   "identity": "ASME 2025::VIRTUOSO::The Hotel Issue",
+   "maker": "Anna Devís",
+   "title": "The Hotel Issue",
+   "subtitle": "VIRTUOSO, July/August 2024",
+   "year": "2024",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest 2025 (Readers' Choice). ASME's own listing reads: VIRTUOSO “The Hotel Issue,” July/August 2024 Anna Devís and Daniel Rueda, Photographers",
+   "source_page": "https://asme.memberclicks.net/asme-best-cover-contest-winners-and-finalists-2025",
+   "notes": [
+    "ASME award: Readers' Choice.",
+    "Cropped from Todd's screenshot of the ASME listing to the cover alone — the awards caption beneath it is not part of the object, though its credits are what this record is built from.",
+    "⚠️ The 2025 contest was the last: ASME discontinued the Best Cover Contest after it.",
+    "ASME credits both Anna Devís and Daniel Rueda; the parser had kept only the second."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers/IMG_5211.jpg",
+   "source_px": [
+    1170,
+    1395
+   ],
+   "colors": [
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "VIRTUOSO"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "photographer",
+     "v": "Anna Devís"
+    },
+    {
+     "k": "photographer",
+     "v": "Daniel Rueda"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest 2025 (Readers' Choice). ASME's own listing reads: VIRTUOSO “The Hotel Issue,” July/August 2024 Anna Devís and Daniel Rueda, Photographers",
+   "hue": 84.69,
+   "light": 0.7583,
+   "chroma": 0.9187
+  },
+  "ASME 2025::The Economist::Gen Z: Reasons to Be Cheerful": {
+   "id": "CRVI000485",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000485.jpg",
+   "original_px": [
+    1170,
+    1530
+   ],
+   "original_bytes": 538950,
+   "identity": "ASME 2025::The Economist::Gen Z: Reasons to Be Cheerful",
+   "maker": "Javier Jaen",
+   "title": "Gen Z: Reasons to Be Cheerful",
+   "subtitle": "The Economist, April 20-26, 2024",
+   "year": "2024",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest 2025 (Winner). ASME's own listing reads: The Economist “Gen Z: Reasons to Be Cheerful,” April 20-26, 2024 Javier Jaen, Photographer Ben Shmulevitch, Illustrator",
+   "source_page": "https://asme.memberclicks.net/asme-best-cover-contest-winners-and-finalists-2025",
+   "notes": [
+    "ASME award: Winner.",
+    "Cropped from Todd's screenshot of the ASME listing to the cover alone — the awards caption beneath it is not part of the object, though its credits are what this record is built from.",
+    "⚠️ The 2025 contest was the last: ASME discontinued the Best Cover Contest after it."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers/IMG_5212.jpg",
+   "source_px": [
+    1170,
+    1530
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The Economist"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "photographer",
+     "v": "Javier Jaen"
+    },
+    {
+     "k": "illustrator",
+     "v": "Ben Shmulevitch"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest 2025 (Winner). ASME's own listing reads: The Economist “Gen Z: Reasons to Be Cheerful,” April 20-26, 2024 Javier Jaen, Photographer Ben Shmulevitch, Illustrator",
+   "hue": 7.33,
+   "light": 0.5395,
+   "chroma": 0.8708
+  },
+  "ASME 2025::The New York Times Magazine::The Olympics Issue": {
+   "id": "CRVI000486",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000486.jpg",
+   "original_px": [
+    1170,
+    1440
+   ],
+   "original_bytes": 269002,
+   "identity": "ASME 2025::The New York Times Magazine::The Olympics Issue",
+   "maker": "Philip Montgomery",
+   "title": "The Olympics Issue",
+   "subtitle": "The New York Times Magazine, July 28, 2024",
+   "year": "2024",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest 2025 (Finalist). ASME's own listing reads: The New York Times Magazine “The Olympics Issue,” July 28, 2024 Philip Montgomery, Photographer",
+   "source_page": "https://asme.memberclicks.net/asme-best-cover-contest-winners-and-finalists-2025",
+   "notes": [
+    "ASME award: Finalist.",
+    "Cropped from Todd's screenshot of the ASME listing to the cover alone — the awards caption beneath it is not part of the object, though its credits are what this record is built from.",
+    "⚠️ The 2025 contest was the last: ASME discontinued the Best Cover Contest after it."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers/IMG_5213.jpg",
+   "source_px": [
+    1170,
+    1440
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New York Times Magazine"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "photographer",
+     "v": "Philip Montgomery"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest 2025 (Finalist). ASME's own listing reads: The New York Times Magazine “The Olympics Issue,” July 28, 2024 Philip Montgomery, Photographer",
+   "hue": null,
+   "light": 0.5881,
+   "chroma": 0.0266
+  },
+  "ASME 2025::The New York Times for Kids::The Games Issue": {
+   "id": "CRVI000487",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000487.jpg",
+   "original_px": [
+    1170,
+    2041
+   ],
+   "original_bytes": 1099353,
+   "identity": "ASME 2025::The New York Times for Kids::The Games Issue",
+   "maker": "CSA Design/CSA Images",
+   "title": "The Games Issue",
+   "subtitle": "The New York Times for Kids, December 29, 2024",
+   "year": "2024",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest 2025 (Finalist). ASME's own listing reads: The New York Times for Kids “The Games Issue,” December 29, 2024 Illustration by CSA Design/CSA Images",
+   "source_page": "https://asme.memberclicks.net/asme-best-cover-contest-winners-and-finalists-2025",
+   "notes": [
+    "ASME award: Finalist.",
+    "Cropped from Todd's screenshot of the ASME listing to the cover alone — the awards caption beneath it is not part of the object, though its credits are what this record is built from.",
+    "⚠️ The 2025 contest was the last: ASME discontinued the Best Cover Contest after it."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers/IMG_5214.jpg",
+   "source_px": [
+    1170,
+    2041
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New York Times for Kids"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "illustrator",
+     "v": "CSA Design/CSA Images"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest 2025 (Finalist). ASME's own listing reads: The New York Times for Kids “The Games Issue,” December 29, 2024 Illustration by CSA Design/CSA Images",
+   "hue": 4.99,
+   "light": 0.7841,
+   "chroma": 0.7724
+  },
+  "ASME 2025::New York::The Takeover": {
+   "id": "CRVI000488",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000488.jpg",
+   "original_px": [
+    1170,
+    1503
+   ],
+   "original_bytes": 541353,
+   "identity": "ASME 2025::New York::The Takeover",
+   "maker": "Stella Ragas",
+   "title": "The Takeover",
+   "subtitle": "New York, May 6-19, 2024",
+   "year": "2024",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest 2025 (Finalist). ASME's own listing reads: New York “The Takeover,” May 6-19, 2024 Stella Ragas, Photographer",
+   "source_page": "https://asme.memberclicks.net/asme-best-cover-contest-winners-and-finalists-2025",
+   "notes": [
+    "ASME award: Finalist.",
+    "Cropped from Todd's screenshot of the ASME listing to the cover alone — the awards caption beneath it is not part of the object, though its credits are what this record is built from.",
+    "⚠️ The 2025 contest was the last: ASME discontinued the Best Cover Contest after it."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers/IMG_5215.jpg",
+   "source_px": [
+    1170,
+    1503
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "photographer",
+     "v": "Stella Ragas"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest 2025 (Finalist). ASME's own listing reads: New York “The Takeover,” May 6-19, 2024 Stella Ragas, Photographer",
+   "hue": 15.49,
+   "light": 0.3432,
+   "chroma": 0.4728
+  },
+  "ASME 2025::MIT Technology Review::The Robots Are Coming": {
+   "id": "CRVI000489",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000489.jpg",
+   "original_px": [
+    1170,
+    1581
+   ],
+   "original_bytes": 539173,
+   "identity": "ASME 2025::MIT Technology Review::The Robots Are Coming",
+   "maker": "R. Kikuo Johnson",
+   "title": "The Robots Are Coming",
+   "subtitle": "MIT Technology Review, May/June 2024",
+   "year": "2024",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest 2025 (Winner). ASME's own listing reads: MIT Technology Review “The Robots Are Coming,” May/June 2024 R. Kikuo Johnson, Illustrator",
+   "source_page": "https://asme.memberclicks.net/asme-best-cover-contest-winners-and-finalists-2025",
+   "notes": [
+    "ASME award: Winner.",
+    "Cropped from Todd's screenshot of the ASME listing to the cover alone — the awards caption beneath it is not part of the object, though its credits are what this record is built from.",
+    "⚠️ The 2025 contest was the last: ASME discontinued the Best Cover Contest after it."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers/IMG_5216.jpg",
+   "source_px": [
+    1170,
+    1581
+   ],
+   "colors": [
+    "blue",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "MIT Technology Review"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "illustrator",
+     "v": "R. Kikuo Johnson"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest 2025 (Winner). ASME's own listing reads: MIT Technology Review “The Robots Are Coming,” May/June 2024 R. Kikuo Johnson, Illustrator",
+   "hue": 203.54,
+   "light": 0.6901,
+   "chroma": 0.5763
+  },
+  "ASME 2025::New York::The Psychic Toll of a Dead-Even Race": {
+   "id": "CRVI000490",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000490.jpg",
+   "original_px": [
+    1170,
+    1534
+   ],
+   "original_bytes": 142512,
+   "identity": "ASME 2025::New York::The Psychic Toll of a Dead-Even Race",
+   "maker": "Unknown",
+   "title": "The Psychic Toll of a Dead-Even Race",
+   "subtitle": "New York, November 4-17, 2024",
+   "year": "2024",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest 2025 (Winner). ASME's own listing reads: New York “The Psychic Toll of a Dead-Even Race,” November 4-17, 2024",
+   "source_page": "https://asme.memberclicks.net/asme-best-cover-contest-winners-and-finalists-2025",
+   "notes": [
+    "ASME award: Winner.",
+    "⚠️ ASME lists no individual credit for this cover, so none is claimed here.",
+    "Cropped from Todd's screenshot of the ASME listing to the cover alone — the awards caption beneath it is not part of the object, though its credits are what this record is built from.",
+    "⚠️ The 2025 contest was the last: ASME discontinued the Best Cover Contest after it."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers/IMG_5217.jpg",
+   "source_px": [
+    1170,
+    1534
+   ],
+   "colors": [
+    "white"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest 2025 (Winner). ASME's own listing reads: New York “The Psychic Toll of a Dead-Even Race,” November 4-17, 2024",
+   "hue": null,
+   "light": 0.9477,
+   "chroma": 0.0064
+  },
+  "ASME 2025::The Atlantic::If Trump Wins": {
+   "id": "CRVI000491",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000491.jpg",
+   "original_px": [
+    1170,
+    1537
+   ],
+   "original_bytes": 332227,
+   "identity": "ASME 2025::The Atlantic::If Trump Wins",
+   "maker": "Matt Huynh",
+   "title": "If Trump Wins",
+   "subtitle": "The Atlantic, January/February 2024",
+   "year": "2024",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest 2025 (Finalist). ASME's own listing reads: The Atlantic “If Trump Wins,” January/February 2024 Matt Huynh, Illustrator",
+   "source_page": "https://asme.memberclicks.net/asme-best-cover-contest-winners-and-finalists-2025",
+   "notes": [
+    "ASME award: Finalist.",
+    "Cropped from Todd's screenshot of the ASME listing to the cover alone — the awards caption beneath it is not part of the object, though its credits are what this record is built from.",
+    "⚠️ The 2025 contest was the last: ASME discontinued the Best Cover Contest after it."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers/IMG_5218.jpg",
+   "source_px": [
+    1170,
+    1537
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The Atlantic"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "illustrator",
+     "v": "Matt Huynh"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest 2025 (Finalist). ASME's own listing reads: The Atlantic “If Trump Wins,” January/February 2024 Matt Huynh, Illustrator",
+   "hue": 13.94,
+   "light": 0.5807,
+   "chroma": 0.9262
+  },
+  "ASME 2025::New York::Sign Here, My Stallion": {
+   "id": "CRVI000492",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000492.jpg",
+   "original_px": [
+    1170,
+    1547
+   ],
+   "original_bytes": 687343,
+   "identity": "ASME 2025::New York::Sign Here, My Stallion",
+   "maker": "Joe Darrow",
+   "title": "Sign Here, My Stallion",
+   "subtitle": "New York, July 1-14, 2024",
+   "year": "2024",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest 2025 (Finalist). ASME's own listing reads: New York \"Sign Here, My Stallion,” July 1-14, 2024 Photo illustration by Joe Darrow Source artwork by Victor Gadino Lettering by McCandliss and Campbell",
+   "source_page": "https://asme.memberclicks.net/asme-best-cover-contest-winners-and-finalists-2025",
+   "notes": [
+    "ASME award: Finalist.",
+    "Cropped from Todd's screenshot of the ASME listing to the cover alone — the awards caption beneath it is not part of the object, though its credits are what this record is built from.",
+    "⚠️ The 2025 contest was the last: ASME discontinued the Best Cover Contest after it.",
+    "ASME: photo illustration by Joe Darrow, source artwork by Victor Gadino, lettering by McCandliss and Campbell."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers/IMG_5219.jpg",
+   "source_px": [
+    1170,
+    1547
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "illustrator",
+     "v": "Joe Darrow"
+    },
+    {
+     "k": "illustrator",
+     "v": "Victor Gadino"
+    },
+    {
+     "k": "typographer",
+     "v": "McCandliss and Campbell"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest 2025 (Finalist). ASME's own listing reads: New York \"Sign Here, My Stallion,” July 1-14, 2024 Photo illustration by Joe Darrow Source artwork by Victor Gadino Lettering by McCandliss and Campbell",
+   "hue": 245.28,
+   "light": 0.5655,
+   "chroma": 0.5788
+  },
+  "ASME 2025::The New York Times for Kids::When Pets Escape: The Great Goldfish Invasion": {
+   "id": "CRVI000493",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000493.jpg",
+   "original_px": [
+    1170,
+    1969
+   ],
+   "original_bytes": 622787,
+   "identity": "ASME 2025::The New York Times for Kids::When Pets Escape: The Great Goldfish Invasion",
+   "maker": "Bill Mayer",
+   "title": "When Pets Escape: The Great Goldfish Invasion",
+   "subtitle": "The New York Times for Kids, January 28, 2024",
+   "year": "2024",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest 2025 (Finalist). ASME's own listing reads: The New York Times for Kids \"When Pets Escape: The Great Goldfish Invasion,” January 28, 2024 Bill Mayer, Illustrator",
+   "source_page": "https://asme.memberclicks.net/asme-best-cover-contest-winners-and-finalists-2025",
+   "notes": [
+    "ASME award: Finalist.",
+    "Cropped from Todd's screenshot of the ASME listing to the cover alone — the awards caption beneath it is not part of the object, though its credits are what this record is built from.",
+    "⚠️ The 2025 contest was the last: ASME discontinued the Best Cover Contest after it."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers/IMG_5220.jpg",
+   "source_px": [
+    1170,
+    1969
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New York Times for Kids"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "illustrator",
+     "v": "Bill Mayer"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest 2025 (Finalist). ASME's own listing reads: The New York Times for Kids \"When Pets Escape: The Great Goldfish Invasion,” January 28, 2024 Bill Mayer, Illustrator",
+   "hue": 26.74,
+   "light": 0.6128,
+   "chroma": 0.8305
+  },
+  "ASME 2025::The New York Times Magazine::Sting Theory": {
+   "id": "CRVI000494",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000494.jpg",
+   "original_px": [
+    1170,
+    1392
+   ],
+   "original_bytes": 677583,
+   "identity": "ASME 2025::The New York Times Magazine::Sting Theory",
+   "maker": "Armando Veve",
+   "title": "Sting Theory",
+   "subtitle": "The New York Times Magazine, November 17, 2024",
+   "year": "2024",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest 2025 (Finalist). ASME's own listing reads: The New York Times Magazine “Sting Theory,” November 17, 2024 Armando Veve, Illustrator",
+   "source_page": "https://asme.memberclicks.net/asme-best-cover-contest-winners-and-finalists-2025",
+   "notes": [
+    "ASME award: Finalist.",
+    "Cropped from Todd's screenshot of the ASME listing to the cover alone — the awards caption beneath it is not part of the object, though its credits are what this record is built from.",
+    "⚠️ The 2025 contest was the last: ASME discontinued the Best Cover Contest after it."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers/IMG_5221.jpg",
+   "source_px": [
+    1170,
+    1392
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New York Times Magazine"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "illustrator",
+     "v": "Armando Veve"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest 2025 (Finalist). ASME's own listing reads: The New York Times Magazine “Sting Theory,” November 17, 2024 Armando Veve, Illustrator",
+   "hue": 36.83,
+   "light": 0.6648,
+   "chroma": 0.5422
   }
  }
 }
