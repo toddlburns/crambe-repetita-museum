@@ -1,5 +1,5 @@
 {
- "next": 531,
+ "next": 551,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -28958,6 +28958,1279 @@
    "hue": 44.16,
    "light": 0.6099,
    "chroma": 0.288
+  },
+  "ASME::New York::The Lunacy of Text-Based Therapy": {
+   "id": "CRVI000531",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000531.jpg",
+   "original_px": [
+    1170,
+    1678
+   ],
+   "original_bytes": 403744,
+   "identity": "ASME::New York::The Lunacy of Text-Based Therapy",
+   "maker": "Unknown",
+   "title": "The Lunacy of Text-Based Therapy",
+   "subtitle": "New York, March 29-April 11, 2021",
+   "year": "2021",
+   "verified_against": "American Society of Magazine Editors Best Cover Contest (Winner). Credits read from ASME's own caption beneath the cover: New York · \"The Lunacy of Text-Based Therapy,\" March · 29-April 11, 2021 · David Haskell, Editor in Chief · - · 20",
+   "source_page": "https://asme.memberclicks.net/past-winners-and-finalists",
+   "notes": [
+    "ASME award: Winner.",
+    "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
+    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine.",
+    "⚠️ No design credit could be parsed from the caption; none is claimed.",
+    "⚠️ No design credit: ASME's caption is cut off by the edge of Todd's screenshot after the editor in chief, so whoever designed this cover is not recorded rather than guessed."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2022/IMG_5258.jpg",
+   "source_px": [
+    1170,
+    1678
+   ],
+   "colors": [
+    "cyan",
+    "orange",
+    "white"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors Best Cover Contest (Winner). Credits read from ASME's own caption beneath the cover: New York · \"The Lunacy of Text-Based Therapy,\" March · 29-April 11, 2021 · David Haskell, Editor in Chief · - · 20",
+   "hue": 196.63,
+   "light": 0.8815,
+   "chroma": 0.1929
+  },
+  "ASME::New York::3 Wednesdays in America": {
+   "id": "CRVI000532",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000532.jpg",
+   "original_px": [
+    1170,
+    1634
+   ],
+   "original_bytes": 249242,
+   "identity": "ASME::New York::3 Wednesdays in America",
+   "maker": "Thomas Alberty",
+   "title": "3 Wednesdays in America",
+   "subtitle": "New York, January 18-31, 2021",
+   "year": "2021",
+   "verified_against": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: New York · \"3 Wednesdays in America,\" January 18-31, · 2021 · David Haskell, Editor in Chief · Thomas Alberty, Designer",
+   "source_page": "https://asme.memberclicks.net/past-winners-and-finalists",
+   "notes": [
+    "ASME award: Finalist.",
+    "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
+    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2022/IMG_5259.jpg",
+   "source_px": [
+    1170,
+    1634
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "designer",
+     "v": "Thomas Alberty"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: New York · \"3 Wednesdays in America,\" January 18-31, · 2021 · David Haskell, Editor in Chief · Thomas Alberty, Designer",
+   "hue": null,
+   "light": 0.4809,
+   "chroma": 0.0056
+  },
+  "ASME::The New York Times Magazine::The American Abyss": {
+   "id": "CRVI000533",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000533.jpg",
+   "original_px": [
+    1170,
+    1419
+   ],
+   "original_bytes": 808339,
+   "identity": "ASME::The New York Times Magazine::The American Abyss",
+   "maker": "Gail Bichler",
+   "title": "The American Abyss",
+   "subtitle": "The New York Times Magazine, January 17, 2021",
+   "year": "2021",
+   "verified_against": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: The New York Times Magazine · \"The American Abyss,\" January 17, 2021 · Jake Silverstein, Editor in Chief · Gail Bichler, Designer · Kathy Ryan, Photography Editor · Ashley Gilbertson, Photographer",
+   "source_page": "https://asme.memberclicks.net/past-winners-and-finalists",
+   "notes": [
+    "ASME award: Finalist.",
+    "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
+    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2022/IMG_5260.jpg",
+   "source_px": [
+    1170,
+    1419
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New York Times Magazine"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "designer",
+     "v": "Gail Bichler"
+    },
+    {
+     "k": "photographer",
+     "v": "Kathy Ryan"
+    },
+    {
+     "k": "photographer",
+     "v": "Ashley Gilbertson"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: The New York Times Magazine · \"The American Abyss,\" January 17, 2021 · Jake Silverstein, Editor in Chief · Gail Bichler, Designer · Kathy Ryan, Photography Editor · Ashley Gilbertson, Photographer",
+   "hue": 22.95,
+   "light": 0.4471,
+   "chroma": 0.1671
+  },
+  "ASME::TIME::Delete 'Facebook'?": {
+   "id": "CRVI000534",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000534.jpg",
+   "original_px": [
+    1170,
+    1544
+   ],
+   "original_bytes": 352302,
+   "identity": "ASME::TIME::Delete 'Facebook'?",
+   "maker": "D.W. Pine",
+   "title": "Delete 'Facebook'?",
+   "subtitle": "TIME, October 25-November 1, 2021",
+   "year": "2021",
+   "verified_against": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: TIME · \"Delete 'Facebook'?\" October 25-November 1, · 2021 · Edward Felsenthal, Editor in Chief and Chief · Executive Officer · D.W. Pine, Designer",
+   "source_page": "https://asme.memberclicks.net/past-winners-and-finalists",
+   "notes": [
+    "ASME award: Finalist.",
+    "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
+    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2022/IMG_5261.jpg",
+   "source_px": [
+    1170,
+    1544
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "TIME"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "designer",
+     "v": "D.W. Pine"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: TIME · \"Delete 'Facebook'?\" October 25-November 1, · 2021 · Edward Felsenthal, Editor in Chief and Chief · Executive Officer · D.W. Pine, Designer",
+   "hue": 4.96,
+   "light": 0.6167,
+   "chroma": 0.5965
+  },
+  "ASME::Bloomberg Businessweek::Lupin and the Art of the Steal": {
+   "id": "CRVI000535",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000535.jpg",
+   "original_px": [
+    1170,
+    1537
+   ],
+   "original_bytes": 389343,
+   "identity": "ASME::Bloomberg Businessweek::Lupin and the Art of the Steal",
+   "maker": "Chris Nosenzo",
+   "title": "Lupin and the Art of the Steal",
+   "subtitle": "Bloomberg Businessweek, July 5, 2021",
+   "year": "2021",
+   "verified_against": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: Bloomberg Businessweek · \"Lupin and the Art of the Steal,\" July 5, 2021 · Joel Weber, Editor in Chief · Aeriel Brown, Photo Editor · Chris Nosenzo, Art Director · Djeneba Aduayom, Photographer",
+   "source_page": "https://asme.memberclicks.net/past-winners-and-finalists",
+   "notes": [
+    "ASME award: Finalist.",
+    "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
+    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2022/IMG_5262.jpg",
+   "source_px": [
+    1170,
+    1537
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Bloomberg Businessweek"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "art director",
+     "v": "Chris Nosenzo"
+    },
+    {
+     "k": "photographer",
+     "v": "Djeneba Aduayom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: Bloomberg Businessweek · \"Lupin and the Art of the Steal,\" July 5, 2021 · Joel Weber, Editor in Chief · Aeriel Brown, Photo Editor · Chris Nosenzo, Art Director · Djeneba Aduayom, Photographer",
+   "hue": null,
+   "light": 0.2847,
+   "chroma": 0.0
+  },
+  "ASME::The New York Times Magazine::The Age of Ishiguro": {
+   "id": "CRVI000536",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000536.jpg",
+   "original_px": [
+    1170,
+    2171
+   ],
+   "original_bytes": 254479,
+   "identity": "ASME::The New York Times Magazine::The Age of Ishiguro",
+   "maker": "Gail Bichler",
+   "title": "The Age of Ishiguro",
+   "subtitle": "The New York Times Magazine, February 28, 2021",
+   "year": "2021",
+   "verified_against": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: The New York Times Magazine · \"The Age of Ishiguro,\" February 28, 2021 · Jake Silverstein, Editor · Gail Bichler, Designer · Kathy Ryan, Photography Editor · Jack Davison, Photographer · FINALIST · NYLON",
+   "source_page": "https://asme.memberclicks.net/past-winners-and-finalists",
+   "notes": [
+    "ASME award: Finalist.",
+    "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
+    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2022/IMG_5263.jpg",
+   "source_px": [
+    1170,
+    2171
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New York Times Magazine"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "designer",
+     "v": "Gail Bichler"
+    },
+    {
+     "k": "photographer",
+     "v": "Kathy Ryan"
+    },
+    {
+     "k": "photographer",
+     "v": "Jack Davison"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: The New York Times Magazine · \"The Age of Ishiguro,\" February 28, 2021 · Jake Silverstein, Editor · Gail Bichler, Designer · Kathy Ryan, Photography Editor · Jack Davison, Photographer · FINALIST · NYLON",
+   "hue": null,
+   "light": 0.6961,
+   "chroma": 0.0136
+  },
+  "ASME::The New York Times Magazine::How America Spends": {
+   "id": "CRVI000537",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000537.jpg",
+   "original_px": [
+    1170,
+    1445
+   ],
+   "original_bytes": 246681,
+   "identity": "ASME::The New York Times Magazine::How America Spends",
+   "maker": "Gail Bichler",
+   "title": "How America Spends",
+   "subtitle": "The New York Times Magazine, May 23, 2021",
+   "year": "2021",
+   "verified_against": "American Society of Magazine Editors Best Cover Contest (Winner). Credits read from ASME's own caption beneath the cover: The New York Times Magazine · \"How America Spends,\" May 23, 2021 · Jake Silverstein, Editor in Chief · Gail Bichler, Designer · Kathy Ryan, Photography Editor · Hannah Whitaker, Illustrator",
+   "source_page": "https://asme.memberclicks.net/past-winners-and-finalists",
+   "notes": [
+    "ASME award: Winner.",
+    "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
+    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2022/IMG_5264.jpg",
+   "source_px": [
+    1170,
+    1445
+   ],
+   "colors": [
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New York Times Magazine"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "designer",
+     "v": "Gail Bichler"
+    },
+    {
+     "k": "photographer",
+     "v": "Kathy Ryan"
+    },
+    {
+     "k": "illustrator",
+     "v": "Hannah Whitaker"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors Best Cover Contest (Winner). Credits read from ASME's own caption beneath the cover: The New York Times Magazine · \"How America Spends,\" May 23, 2021 · Jake Silverstein, Editor in Chief · Gail Bichler, Designer · Kathy Ryan, Photography Editor · Hannah Whitaker, Illustrator",
+   "hue": 54.88,
+   "light": 0.7273,
+   "chroma": 0.6716
+  },
+  "ASME::Bloomberg Businessweek::How to Lose $20 Billion* in 2 Days": {
+   "id": "CRVI000538",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000538.jpg",
+   "original_px": [
+    1170,
+    1552
+   ],
+   "original_bytes": 262718,
+   "identity": "ASME::Bloomberg Businessweek::How to Lose $20 Billion* in 2 Days",
+   "maker": "Chris Nosenzo",
+   "title": "How to Lose $20 Billion* in 2 Days",
+   "subtitle": "Bloomberg Businessweek, April 12, 2021",
+   "year": "2021",
+   "verified_against": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: Bloomberg Businessweek · \"How to Lose $20 Billion* in 2 Days,\" April 12, · 2021 · Joel Weber, Editor in Chief · Chris Nosenzo, Art Director · Emile Wamsteker, Photographer",
+   "source_page": "https://asme.memberclicks.net/past-winners-and-finalists",
+   "notes": [
+    "ASME award: Finalist.",
+    "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
+    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2022/IMG_5265.jpg",
+   "source_px": [
+    1170,
+    1552
+   ],
+   "colors": [
+    "green",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Bloomberg Businessweek"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "art director",
+     "v": "Chris Nosenzo"
+    },
+    {
+     "k": "photographer",
+     "v": "Emile Wamsteker"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: Bloomberg Businessweek · \"How to Lose $20 Billion* in 2 Days,\" April 12, · 2021 · Joel Weber, Editor in Chief · Chris Nosenzo, Art Director · Emile Wamsteker, Photographer",
+   "hue": 5.17,
+   "light": 0.6402,
+   "chroma": 0.1563
+  },
+  "ASME::Fortune::Fortune 500": {
+   "id": "CRVI000539",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000539.jpg",
+   "original_px": [
+    1170,
+    1556
+   ],
+   "original_bytes": 404628,
+   "identity": "ASME::Fortune::Fortune 500",
+   "maker": "Peter Herbert",
+   "title": "Fortune 500",
+   "subtitle": "Fortune, June/July 2021",
+   "year": "2021",
+   "verified_against": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: Fortune · \"Fortune 500,\" June/July 2021 · Alyson Shontell, Editor in Chief · Peter Herbert, Designer · Ori Toor, Illustrator",
+   "source_page": "https://asme.memberclicks.net/past-winners-and-finalists",
+   "notes": [
+    "ASME award: Finalist.",
+    "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
+    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2022/IMG_5266.jpg",
+   "source_px": [
+    1170,
+    1556
+   ],
+   "colors": [
+    "cyan",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Fortune"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "designer",
+     "v": "Peter Herbert"
+    },
+    {
+     "k": "illustrator",
+     "v": "Ori Toor"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: Fortune · \"Fortune 500,\" June/July 2021 · Alyson Shontell, Editor in Chief · Peter Herbert, Designer · Ori Toor, Illustrator",
+   "hue": 184.59,
+   "light": 0.6031,
+   "chroma": 0.5448
+  },
+  "ASME::New York::Can I SPAC My Stonks With NFTs?": {
+   "id": "CRVI000540",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000540.jpg",
+   "original_px": [
+    1170,
+    1547
+   ],
+   "original_bytes": 226033,
+   "identity": "ASME::New York::Can I SPAC My Stonks With NFTs?",
+   "maker": "QuickHoney",
+   "title": "Can I SPAC My Stonks With NFTs?",
+   "subtitle": "New York, April 12- 25, 2021",
+   "year": "2021",
+   "verified_against": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: New York · \"Can I SPAC My Stonks With NFTs?\" April 12- · 25, 2021 · David Haskell, Editor in Chief · QuickHoney, Illustrator",
+   "source_page": "https://asme.memberclicks.net/past-winners-and-finalists",
+   "notes": [
+    "ASME award: Finalist.",
+    "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
+    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2022/IMG_5267.jpg",
+   "source_px": [
+    1170,
+    1547
+   ],
+   "colors": [
+    "white"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "illustrator",
+     "v": "QuickHoney"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: New York · \"Can I SPAC My Stonks With NFTs?\" April 12- · 25, 2021 · David Haskell, Editor in Chief · QuickHoney, Illustrator",
+   "hue": null,
+   "light": 0.7545,
+   "chroma": 0.0483
+  },
+  "ASME::Parents::Current Mood: Resilient": {
+   "id": "CRVI000541",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000541.jpg",
+   "original_px": [
+    1170,
+    1536
+   ],
+   "original_bytes": 540121,
+   "identity": "ASME::Parents::Current Mood: Resilient",
+   "maker": "Agnethe Glatved",
+   "title": "Current Mood: Resilient",
+   "subtitle": "Parents, March 2021",
+   "year": "2021",
+   "verified_against": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: Parents · \"Current Mood: Resilient,\" March 2021 · Julia Edelstein, Editor in Chief · Agnethe Glatved, Designer · Joanna Muenz, Photography Editor · Mark Williams + Sara Hirakawa, · Photographers",
+   "source_page": "https://asme.memberclicks.net/past-winners-and-finalists",
+   "notes": [
+    "ASME award: Finalist.",
+    "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
+    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2022/IMG_5268.jpg",
+   "source_px": [
+    1170,
+    1536
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Parents"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "designer",
+     "v": "Agnethe Glatved"
+    },
+    {
+     "k": "photographer",
+     "v": "Joanna Muenz"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: Parents · \"Current Mood: Resilient,\" March 2021 · Julia Edelstein, Editor in Chief · Agnethe Glatved, Designer · Joanna Muenz, Photography Editor · Mark Williams + Sara Hirakawa, · Photographers",
+   "hue": 35.21,
+   "light": 0.733,
+   "chroma": 0.3851
+  },
+  "ASME::Allure::The Best of Global Beauty": {
+   "id": "CRVI000542",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000542.jpg",
+   "original_px": [
+    1170,
+    1624
+   ],
+   "original_bytes": 500611,
+   "identity": "ASME::Allure::The Best of Global Beauty",
+   "maker": "Nathalie Kirsheh",
+   "title": "The Best of Global Beauty",
+   "subtitle": "Allure, May 2021",
+   "year": "2021",
+   "verified_against": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: Allure · \"The Best of Global Beauty,\" May 2021 · Jessica Cruel, Editor in Chief · Nathalie Kirsheh, Designer · Kathryne Hall, Photography Editor · Peter Ash Lee, Photographer",
+   "source_page": "https://asme.memberclicks.net/past-winners-and-finalists",
+   "notes": [
+    "ASME award: Finalist.",
+    "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
+    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2022/IMG_5269.jpg",
+   "source_px": [
+    1170,
+    1624
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Allure"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "designer",
+     "v": "Nathalie Kirsheh"
+    },
+    {
+     "k": "photographer",
+     "v": "Kathryne Hall"
+    },
+    {
+     "k": "photographer",
+     "v": "Peter Ash Lee"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: Allure · \"The Best of Global Beauty,\" May 2021 · Jessica Cruel, Editor in Chief · Nathalie Kirsheh, Designer · Kathryne Hall, Photography Editor · Peter Ash Lee, Photographer",
+   "hue": 32.96,
+   "light": 0.6924,
+   "chroma": 0.5361
+  },
+  "ASME::New York::New Yawk Style": {
+   "id": "CRVI000543",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000543.jpg",
+   "original_px": [
+    1170,
+    1527
+   ],
+   "original_bytes": 408134,
+   "identity": "ASME::New York::New Yawk Style",
+   "maker": "Bobby Doherty",
+   "title": "New Yawk Style",
+   "subtitle": "New York, March 1-14, 2021",
+   "year": "2021",
+   "verified_against": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: New York · \"New Yawk Style, March 1-14, 2021 · David Haskell, Editor in Chief · Bobby Doherty, Photographer · PRICE $8.99 · SEPT. 27, 2021 · THF",
+   "source_page": "https://asme.memberclicks.net/past-winners-and-finalists",
+   "notes": [
+    "ASME award: Finalist.",
+    "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
+    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2022/IMG_5270.jpg",
+   "source_px": [
+    1170,
+    1527
+   ],
+   "colors": [
+    "blue",
+    "white"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "photographer",
+     "v": "Bobby Doherty"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: New York · \"New Yawk Style, March 1-14, 2021 · David Haskell, Editor in Chief · Bobby Doherty, Photographer · PRICE $8.99 · SEPT. 27, 2021 · THF",
+   "hue": 25.95,
+   "light": 0.8502,
+   "chroma": 0.1448
+  },
+  "ASME::The New Yorker::Composed": {
+   "id": "CRVI000544",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000544.jpg",
+   "original_px": [
+    1170,
+    1477
+   ],
+   "original_bytes": 327440,
+   "identity": "ASME::The New Yorker::Composed",
+   "maker": "Malika Favre",
+   "title": "Composed",
+   "subtitle": "The New Yorker, September 27, 2021",
+   "year": "2021",
+   "verified_against": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: The New Yorker · \"Composed,\" September 27, 2021 · David Remnick, Editor · Françoise Mouly, Art Editor · Malika Favre. Illustrator · + · • • •",
+   "source_page": "https://asme.memberclicks.net/past-winners-and-finalists",
+   "notes": [
+    "ASME award: Finalist.",
+    "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
+    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine.",
+    "⚠️ No design credit could be parsed from the caption; none is claimed.",
+    "Credits recovered by hand: ASME's caption reads 'Malika Favre. Illustrator' — OCR gave a full stop where the comma is, so the name/role pattern did not match."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2022/IMG_5271.jpg",
+   "source_px": [
+    1170,
+    1477
+   ],
+   "colors": [
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New Yorker"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "illustrator",
+     "v": "Malika Favre"
+    },
+    {
+     "k": "art director",
+     "v": "Françoise Mouly"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: The New Yorker · \"Composed,\" September 27, 2021 · David Remnick, Editor · Françoise Mouly, Art Editor · Malika Favre. Illustrator · + · • • •",
+   "hue": 45.06,
+   "light": 0.5801,
+   "chroma": 0.3912
+  },
+  "ASME::EatingWell::Build a Better Breakfast Sandwich": {
+   "id": "CRVI000545",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000545.jpg",
+   "original_px": [
+    1170,
+    1504
+   ],
+   "original_bytes": 593955,
+   "identity": "ASME::EatingWell::Build a Better Breakfast Sandwich",
+   "maker": "James Van Fleteren",
+   "title": "Build a Better Breakfast Sandwich",
+   "subtitle": "EatingWell, May 2021",
+   "year": "2021",
+   "verified_against": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: EatingWell · \"Build a Better Breakfast Sandwich,\" May 2021 · Jessie Price, Editor in Chief · James Van Fleteren, Designer · Maria Emmighausen, Photography Editor · Ted & Chelsea Cavanaugh, Photographers",
+   "source_page": "https://asme.memberclicks.net/past-winners-and-finalists",
+   "notes": [
+    "ASME award: Finalist.",
+    "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
+    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2022/IMG_5272.jpg",
+   "source_px": [
+    1170,
+    1504
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "EatingWell"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "designer",
+     "v": "James Van Fleteren"
+    },
+    {
+     "k": "photographer",
+     "v": "Maria Emmighausen"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: EatingWell · \"Build a Better Breakfast Sandwich,\" May 2021 · Jessie Price, Editor in Chief · James Van Fleteren, Designer · Maria Emmighausen, Photography Editor · Ted & Chelsea Cavanaugh, Photographers",
+   "hue": 16.45,
+   "light": 0.6621,
+   "chroma": 0.461
+  },
+  "ASME::Texas Monthly::The 50 Best BBQ Joints": {
+   "id": "CRVI000546",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000546.jpg",
+   "original_px": [
+    1170,
+    1472
+   ],
+   "original_bytes": 874336,
+   "identity": "ASME::Texas Monthly::The 50 Best BBQ Joints",
+   "maker": "Emily Kimbro",
+   "title": "The 50 Best BBQ Joints",
+   "subtitle": "Texas Monthly, November 2021",
+   "year": "2021",
+   "verified_against": "American Society of Magazine Editors Best Cover Contest (Readers' Choice). Credits read from ASME's own caption beneath the cover: Texas Monthly · \"The 50 Best BBQ Joints, November 2021 · Dan Goodgame, Editor in Chief · Emily Kimbro, Designer · Claire Hogan, Photography Editor · Chelsea Kyle, Photographer",
+   "source_page": "https://asme.memberclicks.net/past-winners-and-finalists",
+   "notes": [
+    "ASME award: Readers' Choice.",
+    "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
+    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2022/IMG_5273.jpg",
+   "source_px": [
+    1170,
+    1472
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Texas Monthly"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "designer",
+     "v": "Emily Kimbro"
+    },
+    {
+     "k": "photographer",
+     "v": "Claire Hogan"
+    },
+    {
+     "k": "photographer",
+     "v": "Chelsea Kyle"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors Best Cover Contest (Readers' Choice). Credits read from ASME's own caption beneath the cover: Texas Monthly · \"The 50 Best BBQ Joints, November 2021 · Dan Goodgame, Editor in Chief · Emily Kimbro, Designer · Claire Hogan, Photography Editor · Chelsea Kyle, Photographer",
+   "hue": 8.93,
+   "light": 0.4367,
+   "chroma": 0.7793
+  },
+  "ASME::The Atlantic::Who Killed America's Newspapers?": {
+   "id": "CRVI000547",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000547.jpg",
+   "original_px": [
+    1170,
+    1496
+   ],
+   "original_bytes": 234789,
+   "identity": "ASME::The Atlantic::Who Killed America's Newspapers?",
+   "maker": "Oliver Munday",
+   "title": "Who Killed America's Newspapers?",
+   "subtitle": "The Atlantic, November 2021",
+   "year": "2021",
+   "verified_against": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: The Atlantic · \"Who Killed America's Newspapers?\" · November 2021 · Jeffrey Goldberg, Editor in Chief · Oliver Munday, Designer · Luise Stauss and Christine Walsh, · Photography Editors · Dan Winters, Photographer",
+   "source_page": "https://asme.memberclicks.net/past-winners-and-finalists",
+   "notes": [
+    "ASME award: Finalist.",
+    "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
+    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2022/IMG_5274.jpg",
+   "source_px": [
+    1170,
+    1496
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The Atlantic"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "designer",
+     "v": "Oliver Munday"
+    },
+    {
+     "k": "photographer",
+     "v": "Dan Winters"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: The Atlantic · \"Who Killed America's Newspapers?\" · November 2021 · Jeffrey Goldberg, Editor in Chief · Oliver Munday, Designer · Luise Stauss and Christine Walsh, · Photography Editors · Dan Winters, Photographer",
+   "hue": 5.04,
+   "light": 0.8873,
+   "chroma": 0.1141
+  },
+  "ASME::ESSENCE::Rihanna + Lorna Simpson": {
+   "id": "CRVI000548",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000548.jpg",
+   "original_px": [
+    1170,
+    1454
+   ],
+   "original_bytes": 473224,
+   "identity": "ASME::ESSENCE::Rihanna + Lorna Simpson",
+   "maker": "Nia Lawrence",
+   "title": "Rihanna + Lorna Simpson",
+   "subtitle": "ESSENCE, January/February 2021",
+   "year": "2021",
+   "verified_against": "American Society of Magazine Editors Best Cover Contest (Winner). Credits read from ASME's own caption beneath the cover: ESSENCE · \"Rihanna + Lorna Simpson,\" January/February · 2021 · Cori Murray, Deputy Editor · Nia Lawrence, Designer · Lorna Simpson, Illustrator and Photographer",
+   "source_page": "https://asme.memberclicks.net/past-winners-and-finalists",
+   "notes": [
+    "ASME award: Winner.",
+    "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
+    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2022/IMG_5275.jpg",
+   "source_px": [
+    1170,
+    1454
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "ESSENCE"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "designer",
+     "v": "Nia Lawrence"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors Best Cover Contest (Winner). Credits read from ASME's own caption beneath the cover: ESSENCE · \"Rihanna + Lorna Simpson,\" January/February · 2021 · Cori Murray, Deputy Editor · Nia Lawrence, Designer · Lorna Simpson, Illustrator and Photographer",
+   "hue": 35.02,
+   "light": 0.7302,
+   "chroma": 0.5284
+  },
+  "ASME::The New York Times Magazine::The Passion of Questlove": {
+   "id": "CRVI000549",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000549.jpg",
+   "original_px": [
+    1170,
+    1423
+   ],
+   "original_bytes": 842534,
+   "identity": "ASME::The New York Times Magazine::The Passion of Questlove",
+   "maker": "Gail Bichler",
+   "title": "The Passion of Questlove",
+   "subtitle": "The New York Times Magazine, October 17, 2021",
+   "year": "2021",
+   "verified_against": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: The New York Times Magazine · \"The Passion of Questlove,\" October 17, 2021 · Jake Silverstein, Editor in Chief · Gail Bichler, Designer · Kathy Ryan, Photography Editor · Bisa Butler, Illustrator",
+   "source_page": "https://asme.memberclicks.net/past-winners-and-finalists",
+   "notes": [
+    "ASME award: Finalist.",
+    "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
+    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2022/IMG_5276.jpg",
+   "source_px": [
+    1170,
+    1423
+   ],
+   "colors": [
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New York Times Magazine"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "designer",
+     "v": "Gail Bichler"
+    },
+    {
+     "k": "photographer",
+     "v": "Kathy Ryan"
+    },
+    {
+     "k": "illustrator",
+     "v": "Bisa Butler"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: The New York Times Magazine · \"The Passion of Questlove,\" October 17, 2021 · Jake Silverstein, Editor in Chief · Gail Bichler, Designer · Kathy Ryan, Photography Editor · Bisa Butler, Illustrator",
+   "hue": 96.51,
+   "light": 0.439,
+   "chroma": 0.6127
+  },
+  "ASME::TIME::Day One.": {
+   "id": "CRVI000550",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000550.jpg",
+   "original_px": [
+    1170,
+    1526
+   ],
+   "original_bytes": 526447,
+   "identity": "ASME::TIME::Day One.",
+   "maker": "D.W. Pine",
+   "title": "Day One.",
+   "subtitle": "TIME, February 1-8, 2021",
+   "year": "2021",
+   "verified_against": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: TIME · \"Day One.\" · , February 1-8, 2021 · Edward Felsenthal, Editor in Chief and Chief · Executive Officer · D.W. Pine, Designer · Tim O'Brien, Illustrator",
+   "source_page": "https://asme.memberclicks.net/past-winners-and-finalists",
+   "notes": [
+    "ASME award: Finalist.",
+    "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
+    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2022/IMG_5277.jpg",
+   "source_px": [
+    1170,
+    1526
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "TIME"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "designer",
+     "v": "D.W. Pine"
+    },
+    {
+     "k": "illustrator",
+     "v": "Tim O'Brien"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: TIME · \"Day One.\" · , February 1-8, 2021 · Edward Felsenthal, Editor in Chief and Chief · Executive Officer · D.W. Pine, Designer · Tim O'Brien, Illustrator",
+   "hue": 7.78,
+   "light": 0.5172,
+   "chroma": 0.7345
   }
  }
 }
