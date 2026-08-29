@@ -160,6 +160,9 @@ a{color:inherit;text-decoration:none}
 .crumb .c{color:var(--mute);font:11px var(--mono)}
 .crumb a{margin-left:auto;color:var(--mute);font-size:11.5px}
 .crumb a:hover{color:var(--ink)}
+.crumb .ord{margin-left:16px;color:var(--mute);font:11px var(--mono);cursor:pointer;
+ display:inline-flex;align-items:center;gap:6px;white-space:nowrap}
+.crumb .ord input{accent-color:#111;cursor:pointer}
 .rights{max-width:660px}
 .rights h2{font:600 10px/1.4 var(--mono);letter-spacing:.16em;text-transform:uppercase;
  margin:30px 0 8px;color:var(--ink)}
@@ -479,13 +482,17 @@ is misidentified, please get in touch: it will be fixed and the correction noted
     # Todd, 2026-08-28: "as though it's a tag page for simply everything". So it is literally
     # that: the same cell, the same hover-enlarge, the same colour grouping every tag page over
     # 30 items already uses — just smaller tiles, because 375 of them have to fit.
-    all_idx = color_order(list(range(len(items))))
+    # ⚠️ Todd, 2026-08-28: /all/ opens in CRVI ORDER, not colour order. Colour grouping is a
+    # choice you make, not the state you arrive in — the number sequence is the archive's own
+    # order and shows how it was built. Colour is still available as a toggle, applied with the
+    # CSS `order` property so nothing is re-fetched or moved in the DOM when you switch.
+    rank = {idx: n for n, idx in enumerate(color_order(list(range(len(items)))))}
     acells = []
-    for i in all_idx:
+    for i in range(len(items)):
         it = items[i]
         rest = " · ".join(filter(None, [it.get("subtitle"), it.get("year")]))
         acells.append(
-            f'<a class="cell" href="../{it["id"]}/">'
+            f'<a class="cell" href="../{it["id"]}/" data-c="{rank[i]}">'
             f'<div class="inner"><img src="../{esc(it["thumb"] or it["image"])}"'
             + (f' data-gif="../{esc(it["image"])}" class="anim"' if it.get("animated") else "")
             + ' loading="lazy" alt=""></div>'
@@ -493,8 +500,17 @@ is misidentified, please get in touch: it will be fixed and the correction noted
             f'{esc(it.get("maker"))} - {esc(it.get("title"))}<br>{esc(rest)}</div></a>')
     abody = ('<div class="crumb"><span class="t">ALL</span>'
              f'<span class="c">{len(items)} items</span>'
+             '<label class="ord"><input type="checkbox" id="bycolor"> group by color</label>'
              f'<a href="../{items[0]["id"]}/">&#8592; museum</a></div>'
-             f'<div class="grid small">{"".join(acells)}</div><script>{JS}</script>')
+             f'<div class="grid small" id="allgrid">{"".join(acells)}</div>'
+             '<script>(function(){var b=document.getElementById("bycolor");'
+             'var cs=[].slice.call(document.querySelectorAll("#allgrid .cell"));'
+             'function apply(){var on=b.checked;'
+             'cs.forEach(function(c){c.style.order=on?c.dataset.c:"";});'
+             'try{localStorage.setItem("crviAllByColor",on?"1":"");}catch(e){}}'
+             'try{if(localStorage.getItem("crviAllByColor")){b.checked=true;}}catch(e){}'
+             'b.addEventListener("change",apply);apply();})();</script>'
+             f'<script>{JS}</script>')
     os.makedirs(os.path.join(HERE, "all"), exist_ok=True)
     open(os.path.join(HERE, "all", "index.html"), "w").write(
         page("All — Crambe Repetita Museum", abody, 1))
