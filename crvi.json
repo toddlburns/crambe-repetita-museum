@@ -20645,7 +20645,7 @@
   },
   {
    "id": "CRVI000454",
-   "source_url": "https://penguinseriesdesign.com/wp-content/uploads/2022/11/brideshead-revisited_waugh_penguin.jpg",
+   "source_url": "https://penguinseriesdesign.com/2023/06/19/retro-deco-for-evelyn-waugh/",
    "animated": false,
    "thumb": "thumbs/CRVI000454.jpg",
    "source_label": "",
@@ -20656,11 +20656,15 @@
     1631
    ],
    "original_bytes": 116806,
-   "maker": "Unknown",
+   "maker": "Peter Bentley",
    "title": "Brideshead Revisited",
    "subtitle": "Cover for Evelyn Waugh · Penguin",
    "year": "",
    "tags": [
+    {
+     "k": "designer",
+     "v": "Peter Bentley"
+    },
     {
      "k": "type",
      "v": "book cover"
@@ -20733,7 +20737,7 @@
   },
   {
    "id": "CRVI000456",
-   "source_url": "https://i.pinimg.com/736x/1c/df/d2/1cdfd21fd8c7e2767ca6640e1d78e785.jpg",
+   "source_url": "https://penguinseriesdesign.com/2023/06/19/retro-deco-for-evelyn-waugh/",
    "animated": false,
    "thumb": "thumbs/CRVI000456.jpg",
    "source_label": "",
@@ -20744,11 +20748,15 @@
     1798
    ],
    "original_bytes": 396090,
-   "maker": "Unknown",
-   "title": "Untitled",
-   "subtitle": "Penguin cover for Evelyn Waugh",
+   "maker": "Peter Bentley",
+   "title": "Helena",
+   "subtitle": "Cover for Evelyn Waugh · Penguin",
    "year": "",
    "tags": [
+    {
+     "k": "designer",
+     "v": "Peter Bentley"
+    },
     {
      "k": "type",
      "v": "book cover"
@@ -20782,13 +20790,13 @@
    "image": "images/CRVI000457.jpg",
    "original": "originals/CRVI000457.jpg",
    "original_px": [
-    2880,
-    2880
+    1237,
+    2015
    ],
-   "original_bytes": 609921,
+   "original_bytes": 526500,
    "maker": "Janet Halverson",
    "title": "JFK and LBJ",
-   "subtitle": "",
+   "subtitle": "Cover for Tom Wicker · Pelican",
    "year": "",
    "tags": [
     {
@@ -20800,8 +20808,16 @@
      "v": "book cover"
     },
     {
+     "k": "client",
+     "v": "Pelican"
+    },
+    {
      "k": "location",
      "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "politics"
     },
     {
      "k": "color",
@@ -20812,8 +20828,8 @@
      "v": "black"
     }
    ],
-   "hue": 32.33,
-   "light": 0.2304
+   "hue": 32.26,
+   "light": 0.7605
   },
   {
    "id": "CRVI000458",
