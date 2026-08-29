@@ -1,5 +1,5 @@
 {
- "next": 439,
+ "next": 461,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -11621,7 +11621,8 @@
     "Artist corrected from the book read '' to 'Frederic Galliano Electronic Sextet' using iTunes, which Todd's approval of the cover confirms.",
     "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
     "Designer unrecorded: these ele-king guides credit the music, never the packaging.",
-    "Source link added 2026-08-27: the Discogs release page for this record, as the public reference for the object whose sleeve this is."
+    "Source link added 2026-08-27: the Discogs release page for this record, as the public reference for the object whose sleeve this is.",
+    "DELETED from the museum on 2026-08-29. The record is kept so CRVI000241 stays provably retired and is never reissued."
    ],
    "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4187_1.jpg",
    "source_px": [
@@ -11651,12 +11652,15 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Frederic Galliano Electronic Sextet / Live Infinis (1998).",
-   "hue": 354.41,
-   "light": 0.6552,
-   "chroma": 0.8887,
-   "discogs_release": 1451226
+   "hue": 4.36,
+   "light": 0.8116,
+   "chroma": 0.1328,
+   "discogs_release": 1451226,
+   "deleted": true,
+   "deleted_on": "2026-08-29",
+   "number_reused": true
   },
   "ele-king sweep::Club Jazz Definitive::IMG_4188_1": {
    "id": "CRVI000242",
@@ -11735,7 +11739,8 @@
    "notes": [
     "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
     "Designer unrecorded: these ele-king guides credit the music, never the packaging.",
-    "Source link added 2026-08-27: the Discogs release page for this record, as the public reference for the object whose sleeve this is."
+    "Source link added 2026-08-27: the Discogs release page for this record, as the public reference for the object whose sleeve this is.",
+    "DELETED from the museum on 2026-08-29. The record is kept so CRVI000243 stays provably retired and is never reissued."
    ],
    "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4194_1.jpg",
    "source_px": [
@@ -11765,12 +11770,15 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page — he approved this cover as the right record. iTunes returns it as Isoul8 / Balance (2006).",
-   "hue": 32.2,
-   "light": 0.9462,
-   "chroma": 0.1567,
-   "discogs_release": 775578
+   "hue": 224.31,
+   "light": 0.5145,
+   "chroma": 0.5699,
+   "discogs_release": 775578,
+   "deleted": true,
+   "deleted_on": "2026-08-29",
+   "number_reused": true
   },
   "ele-king sweep::Club Jazz Definitive::IMG_4207_1": {
    "id": "CRVI000244",
@@ -14008,7 +14016,8 @@
    "discogs_release": null,
    "notes": [
     "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
-    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging.",
+    "DELETED from the museum on 2026-08-29. The record is kept so CRVI000245 stays provably retired and is never reissued."
    ],
    "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4227_1.jpg",
    "source_px": [
@@ -14038,11 +14047,14 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as TM Juke / Forward (2006).",
-   "hue": 307.44,
-   "light": 0.548,
-   "chroma": 0.5116
+   "hue": 16.74,
+   "light": 0.6241,
+   "chroma": 0.3819,
+   "deleted": true,
+   "deleted_on": "2026-08-29",
+   "number_reused": true
   },
   "ele-king sweep::Club Jazz Definitive::IMG_4228_1": {
    "id": "CRVI000250",
@@ -14071,7 +14083,8 @@
    "discogs_release": null,
    "notes": [
     "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
-    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging.",
+    "DELETED from the museum on 2026-08-29. The record is kept so CRVI000250 stays provably retired and is never reissued."
    ],
    "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4228_1.jpg",
    "source_px": [
@@ -14100,11 +14113,14 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "Read off CLUB JAZZ definitive 1984-2015 (小川充, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Belleruche / Turntable Soul Music (2007).",
-   "hue": 4.42,
-   "light": 0.7771,
-   "chroma": 0.7739
+   "hue": 25.62,
+   "light": 0.5925,
+   "chroma": 0.5987,
+   "deleted": true,
+   "deleted_on": "2026-08-29",
+   "number_reused": true
   },
   "ele-king sweep::Club Jazz Definitive::IMG_4229_1": {
    "id": "CRVI000267",
@@ -18965,7 +18981,8 @@
    "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as The Time / What Time Is It? (1982).",
    "notes": [
     "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
-    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging.",
+    "DELETED from the museum on 2026-08-29. The record is kept so CRVI000367 stays provably retired and is never reissued."
    ],
    "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4761_1.jpg",
    "source_px": [
@@ -18995,11 +19012,14 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as The Time / What Time Is It? (1982).",
-   "hue": 14.48,
-   "light": 0.3011,
-   "chroma": 0.3088
+   "hue": 40.86,
+   "light": 0.6007,
+   "chroma": 0.5832,
+   "deleted": true,
+   "deleted_on": "2026-08-29",
+   "number_reused": true
   },
   "ele-king sweep::Soul Definitive::IMG_4762_1": {
    "id": "CRVI000368",
@@ -19403,7 +19423,8 @@
    "notes": [
     "Artist corrected from the book read 'Sharon Jones And The Dap Kings' using iTunes.",
     "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
-    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging.",
+    "DELETED from the museum on 2026-08-29. The record is kept so CRVI000375 stays provably retired and is never reissued."
    ],
    "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4775_1.jpg",
    "source_px": [
@@ -19433,11 +19454,14 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Sharon Jones & The Dap-Kings / Dap-Dippin' with Sharon Jones and the Dap-Kings (2002).",
-   "hue": 356.21,
-   "light": 0.1302,
-   "chroma": 0.1692
+   "hue": 125.65,
+   "light": 0.6491,
+   "chroma": 0.7219,
+   "deleted": true,
+   "deleted_on": "2026-08-29",
+   "number_reused": true
   },
   "ele-king sweep::Ambient Definitive::IMG_4254_1": {
    "id": "CRVI000376",
@@ -21636,7 +21660,8 @@
    "notes": [
     "⚠️ iTunes returned this as 'Back To The Hotel - Single' — an explicitly REISSUED edition, so the artwork is very likely not the pressing the book describes.",
     "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
-    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging.",
+    "DELETED from the museum on 2026-08-29. The record is kept so CRVI000416 stays provably retired and is never reissued."
    ],
    "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4806_1.jpg",
    "source_px": [
@@ -21666,11 +21691,14 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "Read off HIP HOP definitive 1974-2017 (小渕晃, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as N2Deep / Back To The Hotel - Single (1992).",
-   "hue": 6.3,
-   "light": 0.2149,
-   "chroma": 0.6007
+   "hue": 123.2,
+   "light": 0.6051,
+   "chroma": 0.773,
+   "deleted": true,
+   "deleted_on": "2026-08-29",
+   "number_reused": true
   },
   "ele-king sweep::Hip Hop Definitive::IMG_4810_1": {
    "id": "CRVI000417",
@@ -22777,7 +22805,8 @@
    "verified_against": "Read off GUITAR POP definitive 1955-2015 (監修 岡村詩野, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Real Estate / Real Estate (2009).",
    "notes": [
     "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
-    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging.",
+    "DELETED from the museum on 2026-08-29. The record is kept so CRVI000437 stays provably retired and is never reissued."
    ],
    "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4871_1.jpg",
    "source_px": [
@@ -22807,11 +22836,14 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "Read off GUITAR POP definitive 1955-2015 (監修 岡村詩野, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Real Estate / Real Estate (2009).",
-   "hue": 175.64,
-   "light": 0.6135,
-   "chroma": 0.5936
+   "hue": 43.21,
+   "light": 0.7423,
+   "chroma": 0.5713,
+   "deleted": true,
+   "deleted_on": "2026-08-29",
+   "number_reused": true
   },
   "Penguin University Books::The Concept of Mind": {
    "id": "CRVI000438",
@@ -22875,6 +22907,1702 @@
    "hue": 39.46,
    "light": 0.4219,
    "chroma": 0.1085
+  },
+  "Penguin Series Design::Why I Am So Wise::Friedrich Nietzsche": {
+   "id": "CRVI000241",
+   "minted": "2026-08-27",
+   "reused": true,
+   "previously": {
+    "identity": "ele-king sweep::Club Jazz Definitive::IMG_4187_1",
+    "maker": "Frederic Galliano Electronic Sextet",
+    "title": "Live Infinis",
+    "deleted_on": "2026-08-29"
+   },
+   "original_file": "originals/CRVI000241.jpg",
+   "original_px": [
+    1134,
+    1717
+   ],
+   "original_bytes": 174336,
+   "identity": "Penguin Series Design::Why I Am So Wise::Friedrich Nietzsche",
+   "maker": "Phil Baines",
+   "title": "Why I Am So Wise",
+   "subtitle": "Cover for Friedrich Nietzsche · Penguin Great Ideas",
+   "year": "2004",
+   "verified_against": "Penguin Series Design (penguinseriesdesign.com). Designer credited as Phil Baines: the post's opening credit: 'Cover artwork by Phil Baines'.",
+   "source_page": "https://penguinseriesdesign.com/2026/03/25/penguin-has-great-ideas/",
+   "notes": [
+    "Photographed on a plain ground by the blog's author; the image is the book object, not a flat scan."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/penguin/img/8707.jpg",
+   "source_px": [
+    1134,
+    1717
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Phil Baines"
+    },
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "client",
+     "v": "Penguin"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Penguin Series Design (penguinseriesdesign.com). Designer credited as Phil Baines: the post's opening credit: 'Cover artwork by Phil Baines'.",
+   "hue": 4.36,
+   "light": 0.8116,
+   "chroma": 0.1328
+  },
+  "Penguin Series Design::Horse Under Water::Len Deighton": {
+   "id": "CRVI000243",
+   "minted": "2026-08-27",
+   "reused": true,
+   "previously": {
+    "identity": "ele-king sweep::Club Jazz Definitive::IMG_4194_1",
+    "maker": "Isoul8",
+    "title": "Balance",
+    "deleted_on": "2026-08-29"
+   },
+   "original_file": "originals/CRVI000243.jpg",
+   "original_px": [
+    1149,
+    1701
+   ],
+   "original_bytes": 142564,
+   "identity": "Penguin Series Design::Horse Under Water::Len Deighton",
+   "maker": "Jim Stoddart",
+   "title": "Horse Under Water",
+   "subtitle": "Cover for Len Deighton · Penguin",
+   "year": "2021",
+   "verified_against": "Penguin Series Design (penguinseriesdesign.com). Designer credited as Jim Stoddart: the post's opening credit: 'Cover design by Jim Stoddart, 2021'.",
+   "source_page": "https://penguinseriesdesign.com/2025/07/21/stoddart-designs-deighton/",
+   "notes": [
+    "Photographed on a plain ground by the blog's author; the image is the book object, not a flat scan."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/penguin/img/8916.jpg",
+   "source_px": [
+    1149,
+    1701
+   ],
+   "colors": [
+    "blue",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Jim Stoddart"
+    },
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "client",
+     "v": "Penguin"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Penguin Series Design (penguinseriesdesign.com). Designer credited as Jim Stoddart: the post's opening credit: 'Cover design by Jim Stoddart, 2021'.",
+   "hue": 224.31,
+   "light": 0.5145,
+   "chroma": 0.5699
+  },
+  "Penguin Series Design::Urgent Copy::Anthony Burgess": {
+   "id": "CRVI000245",
+   "minted": "2026-08-27",
+   "reused": true,
+   "previously": {
+    "identity": "ele-king sweep::Club Jazz Definitive::IMG_4227_1",
+    "maker": "TM Juke",
+    "title": "Forward",
+    "deleted_on": "2026-08-29"
+   },
+   "original_file": "originals/CRVI000245.jpg",
+   "original_px": [
+    864,
+    1297
+   ],
+   "original_bytes": 101827,
+   "identity": "Penguin Series Design::Urgent Copy::Anthony Burgess",
+   "maker": "Peter Bentley",
+   "title": "Urgent Copy",
+   "subtitle": "Cover for Anthony Burgess · Penguin",
+   "year": "",
+   "verified_against": "Penguin Series Design (penguinseriesdesign.com). Designer credited as Peter Bentley: named in the blog's own filename for this image.",
+   "source_page": "https://penguinseriesdesign.com/wp-content/uploads/2024/12/penguin_anthony-burgess_urgent-copy_design-peter-bentley.jpg",
+   "notes": [
+    "Photographed on a plain ground by the blog's author; the image is the book object, not a flat scan."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/penguin/img/penguin_anthony-burgess_urgent-copy_design-peter-bentley.jpg",
+   "source_px": [
+    864,
+    1297
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Peter Bentley"
+    },
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "client",
+     "v": "Penguin"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Penguin Series Design (penguinseriesdesign.com). Designer credited as Peter Bentley: named in the blog's own filename for this image.",
+   "hue": 16.74,
+   "light": 0.6241,
+   "chroma": 0.3819
+  },
+  "Penguin Series Design::The Wanting Seed::Anthony Burgess": {
+   "id": "CRVI000250",
+   "minted": "2026-08-27",
+   "reused": true,
+   "previously": {
+    "identity": "ele-king sweep::Club Jazz Definitive::IMG_4228_1",
+    "maker": "Belleruche",
+    "title": "Turntable Soul Music",
+    "deleted_on": "2026-08-29"
+   },
+   "original_file": "originals/CRVI000250.jpg",
+   "original_px": [
+    864,
+    1314
+   ],
+   "original_bytes": 109312,
+   "identity": "Penguin Series Design::The Wanting Seed::Anthony Burgess",
+   "maker": "Peter Bentley",
+   "title": "The Wanting Seed",
+   "subtitle": "Cover for Anthony Burgess · Penguin",
+   "year": "",
+   "verified_against": "Penguin Series Design (penguinseriesdesign.com). Designer credited as Peter Bentley: named in the blog's own filename for this image.",
+   "source_page": "https://penguinseriesdesign.com/wp-content/uploads/2024/12/penguin_anthony-burgess_the-wanting-seed_design-peter-bentley.jpg",
+   "notes": [
+    "Photographed on a plain ground by the blog's author; the image is the book object, not a flat scan."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/penguin/img/penguin_anthony-burgess_the-wanting-seed_design-peter-bentle.jpg",
+   "source_px": [
+    864,
+    1314
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Peter Bentley"
+    },
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "client",
+     "v": "Penguin"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Penguin Series Design (penguinseriesdesign.com). Designer credited as Peter Bentley: named in the blog's own filename for this image.",
+   "hue": 25.62,
+   "light": 0.5925,
+   "chroma": 0.5987
+  },
+  "Penguin Series Design::The Malayan Trilogy::Anthony Burgess": {
+   "id": "CRVI000367",
+   "minted": "2026-08-27",
+   "reused": true,
+   "previously": {
+    "identity": "ele-king sweep::Soul Definitive::IMG_4761_1",
+    "maker": "The Time",
+    "title": "What Time Is It?",
+    "deleted_on": "2026-08-29"
+   },
+   "original_file": "originals/CRVI000367.jpg",
+   "original_px": [
+    864,
+    1268
+   ],
+   "original_bytes": 114597,
+   "identity": "Penguin Series Design::The Malayan Trilogy::Anthony Burgess",
+   "maker": "Peter Bentley",
+   "title": "The Malayan Trilogy",
+   "subtitle": "Cover for Anthony Burgess · Penguin",
+   "year": "",
+   "verified_against": "Penguin Series Design (penguinseriesdesign.com). Designer credited as Peter Bentley: named in the blog's own filename for this image.",
+   "source_page": "https://penguinseriesdesign.com/2025/03/13/peter-bentley-illustrator/penguin_anthony-burgess_the-malayan-trilogy_design-peter-bentley/",
+   "notes": [
+    "Photographed on a plain ground by the blog's author; the image is the book object, not a flat scan."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/penguin/img/penguin_anthony-burgess_the-malayan-trilogy_design-peter-ben.jpg",
+   "source_px": [
+    864,
+    1268
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Peter Bentley"
+    },
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "client",
+     "v": "Penguin"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Penguin Series Design (penguinseriesdesign.com). Designer credited as Peter Bentley: named in the blog's own filename for this image.",
+   "hue": 40.86,
+   "light": 0.6007,
+   "chroma": 0.5832
+  },
+  "Penguin Series Design::Hare Sitting Up::Michael Innes": {
+   "id": "CRVI000375",
+   "minted": "2026-08-27",
+   "reused": true,
+   "previously": {
+    "identity": "ele-king sweep::Soul Definitive::IMG_4775_1",
+    "maker": "Sharon Jones & The Dap-Kings",
+    "title": "Dap Dippin' with Sharon Jones and the Dap-Kings",
+    "deleted_on": "2026-08-29"
+   },
+   "original_file": "originals/CRVI000375.jpg",
+   "original_px": [
+    580,
+    913
+   ],
+   "original_bytes": 179004,
+   "identity": "Penguin Series Design::Hare Sitting Up::Michael Innes",
+   "maker": "Alan Aldridge",
+   "title": "Hare Sitting Up",
+   "subtitle": "Cover for Michael Innes · Penguin Crime",
+   "year": "",
+   "verified_against": "Penguin Series Design (penguinseriesdesign.com). Designer credited as Alan Aldridge: named in the blog's own filename, from its Alan Aldridge crime-covers post.",
+   "source_page": "https://penguinseriesdesign.com/2025/01/27/alan-aldridge-crimes/penguin_hare-sitting-up_docken-dead_covers-by-aldridge/",
+   "notes": [
+    "Cut from a two-book photograph on the blog; the other cover in the frame is a separate record or was not requested.",
+    "Photographed on a plain ground by the blog's author; the image is the book object, not a flat scan."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/penguin/split/penguin_hare-sitting-up_docken-dead_covers-by-aldridge_L.jpg",
+   "source_px": [
+    580,
+    913
+   ],
+   "colors": [
+    "green",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Alan Aldridge"
+    },
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "client",
+     "v": "Penguin"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Penguin Series Design (penguinseriesdesign.com). Designer credited as Alan Aldridge: named in the blog's own filename, from its Alan Aldridge crime-covers post.",
+   "hue": 125.65,
+   "light": 0.6491,
+   "chroma": 0.7219
+  },
+  "Penguin Series Design::Docken Dead::John Trench": {
+   "id": "CRVI000416",
+   "minted": "2026-08-27",
+   "reused": true,
+   "previously": {
+    "identity": "ele-king sweep::Hip Hop Definitive::IMG_4806_1",
+    "maker": "N2Deep",
+    "title": "Back To The Hotel",
+    "deleted_on": "2026-08-29"
+   },
+   "original_file": "originals/CRVI000416.jpg",
+   "original_px": [
+    579,
+    913
+   ],
+   "original_bytes": 196084,
+   "identity": "Penguin Series Design::Docken Dead::John Trench",
+   "maker": "Alan Aldridge",
+   "title": "Docken Dead",
+   "subtitle": "Cover for John Trench · Penguin Crime",
+   "year": "",
+   "verified_against": "Penguin Series Design (penguinseriesdesign.com). Designer credited as Alan Aldridge: named in the blog's own filename, from its Alan Aldridge crime-covers post.",
+   "source_page": "https://penguinseriesdesign.com/2025/01/27/alan-aldridge-crimes/penguin_hare-sitting-up_docken-dead_covers-by-aldridge/",
+   "notes": [
+    "Cut from a two-book photograph on the blog; the other cover in the frame is a separate record or was not requested.",
+    "Photographed on a plain ground by the blog's author; the image is the book object, not a flat scan."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/penguin/split/penguin_hare-sitting-up_docken-dead_covers-by-aldridge_R.jpg",
+   "source_px": [
+    579,
+    913
+   ],
+   "colors": [
+    "green",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Alan Aldridge"
+    },
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "client",
+     "v": "Penguin"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Penguin Series Design (penguinseriesdesign.com). Designer credited as Alan Aldridge: named in the blog's own filename, from its Alan Aldridge crime-covers post.",
+   "hue": 123.2,
+   "light": 0.6051,
+   "chroma": 0.773
+  },
+  "Penguin Series Design::Marx in His Own Words::Ernst Fischer": {
+   "id": "CRVI000437",
+   "minted": "2026-08-27",
+   "reused": true,
+   "previously": {
+    "identity": "ele-king sweep::Guitar Pop Definitive::IMG_4871_1",
+    "maker": "Real Estate",
+    "title": "Real Estate",
+    "deleted_on": "2026-08-29"
+   },
+   "original_file": "originals/CRVI000437.jpg",
+   "original_px": [
+    904,
+    1428
+   ],
+   "original_bytes": 275947,
+   "identity": "Penguin Series Design::Marx in His Own Words::Ernst Fischer",
+   "maker": "Unknown",
+   "title": "Marx in His Own Words",
+   "subtitle": "Cover for Ernst Fischer · Pelican",
+   "year": "",
+   "verified_against": "Penguin Series Design (penguinseriesdesign.com). No designer is credited for this cover on the blog and none is claimed here.",
+   "source_page": "https://penguinseriesdesign.com/wp-content/uploads/2024/06/pelican_complete-plain-words_-marx-in-his-own-words-2.jpg",
+   "notes": [
+    "Cut from a two-book photograph on the blog; the other cover in the frame is a separate record or was not requested.",
+    "Photographed on a plain ground by the blog's author; the image is the book object, not a flat scan."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/penguin/split/pelican_complete-plain-words_-marx-in-his-own-words-2_R.jpg",
+   "source_px": [
+    904,
+    1428
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "client",
+     "v": "Pelican"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Penguin Series Design (penguinseriesdesign.com). No designer is credited for this cover on the blog and none is claimed here.",
+   "hue": 43.21,
+   "light": 0.7423,
+   "chroma": 0.5713
+  },
+  "Penguin Series Design::Sanity, Madness and the Family::R. D. Laing and A. Esterson": {
+   "id": "CRVI000439",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000439.jpg",
+   "original_px": [
+    644,
+    1027
+   ],
+   "original_bytes": 294002,
+   "identity": "Penguin Series Design::Sanity, Madness and the Family::R. D. Laing and A. Esterson",
+   "maker": "Unknown",
+   "title": "Sanity, Madness and the Family",
+   "subtitle": "Cover for R. D. Laing and A. Esterson · Pelican",
+   "year": "",
+   "verified_against": "Penguin Series Design (penguinseriesdesign.com). No designer is credited for this cover on the blog and none is claimed here.",
+   "source_page": "https://penguinseriesdesign.com/wp-content/uploads/2024/06/sanity-madness-and-family_self-and-others-3.jpg",
+   "notes": [
+    "Cut from a two-book photograph on the blog; the other cover in the frame is a separate record or was not requested.",
+    "Photographed on a plain ground by the blog's author; the image is the book object, not a flat scan."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/penguin/split/sanity-madness-and-family_self-and-others-3_L.jpg",
+   "source_px": [
+    644,
+    1027
+   ],
+   "colors": [
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "client",
+     "v": "Pelican"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Penguin Series Design (penguinseriesdesign.com). No designer is credited for this cover on the blog and none is claimed here.",
+   "hue": null,
+   "light": 0.7322,
+   "chroma": 0.039
+  },
+  "Penguin Series Design::After Hitler::Jürgen Neven-du Mont": {
+   "id": "CRVI000440",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000440.jpg",
+   "original_px": [
+    966,
+    1512
+   ],
+   "original_bytes": 346034,
+   "identity": "Penguin Series Design::After Hitler::Jürgen Neven-du Mont",
+   "maker": "Unknown",
+   "title": "After Hitler",
+   "subtitle": "Cover for Jürgen Neven-du Mont · Pelican",
+   "year": "",
+   "verified_against": "Penguin Series Design (penguinseriesdesign.com). No designer is credited for this cover on the blog and none is claimed here.",
+   "source_page": "https://penguinseriesdesign.com/wp-content/uploads/2024/06/after-hitler_the-new-industrial-state-3.jpg",
+   "notes": [
+    "Cut from a two-book photograph on the blog; the other cover in the frame is a separate record or was not requested.",
+    "Photographed on a plain ground by the blog's author; the image is the book object, not a flat scan."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/penguin/split/after-hitler_the-new-industrial-state-3_L.jpg",
+   "source_px": [
+    966,
+    1512
+   ],
+   "colors": [
+    "yellow",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "client",
+     "v": "Pelican"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Penguin Series Design (penguinseriesdesign.com). No designer is credited for this cover on the blog and none is claimed here.",
+   "hue": 7.25,
+   "light": 0.7415,
+   "chroma": 0.2861
+  },
+  "Penguin Series Design::Tiger! Tiger!::Alfred Bester": {
+   "id": "CRVI000441",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000441.jpg",
+   "original_px": [
+    918,
+    1490
+   ],
+   "original_bytes": 92153,
+   "identity": "Penguin Series Design::Tiger! Tiger!::Alfred Bester",
+   "maker": "David Pelham",
+   "title": "Tiger! Tiger!",
+   "subtitle": "Cover for Alfred Bester · Penguin Science Fiction",
+   "year": "",
+   "verified_against": "Penguin Series Design (penguinseriesdesign.com). Designer credited as David Pelham: David Pelham, Penguin art director, airbrush science-fiction series.",
+   "source_page": "https://penguinseriesdesign.com/2023/06/19/david-pelhams-airbrushed-sci-fi/",
+   "notes": [
+    "Photographed on a plain ground by the blog's author; the image is the book object, not a flat scan."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/penguin/img/penguin-alfred-bester_tigertiger-_davis-pelham-cover-copy.jpg",
+   "source_px": [
+    918,
+    1490
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "David Pelham"
+    },
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "client",
+     "v": "Penguin"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Penguin Series Design (penguinseriesdesign.com). Designer credited as David Pelham: David Pelham, Penguin art director, airbrush science-fiction series.",
+   "hue": 215.41,
+   "light": 0.2483,
+   "chroma": 0.1029
+  },
+  "Penguin Series Design::The Demolished Man::Alfred Bester": {
+   "id": "CRVI000442",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000442.jpg",
+   "original_px": [
+    500,
+    825
+   ],
+   "original_bytes": 90938,
+   "identity": "Penguin Series Design::The Demolished Man::Alfred Bester",
+   "maker": "David Pelham",
+   "title": "The Demolished Man",
+   "subtitle": "Cover for Alfred Bester · Penguin Science Fiction",
+   "year": "",
+   "verified_against": "Penguin Series Design (penguinseriesdesign.com). Designer credited as David Pelham: David Pelham, Penguin art director, airbrush science-fiction series.",
+   "source_page": "https://penguinseriesdesign.com/2023/06/19/david-pelhams-airbrushed-sci-fi/",
+   "notes": [
+    "Photographed on a plain ground by the blog's author; the image is the book object, not a flat scan."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/penguin/img/penguin-sci-fi_alfred-bester_demolished-man-1.jpg",
+   "source_px": [
+    500,
+    825
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "David Pelham"
+    },
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "client",
+     "v": "Penguin"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Penguin Series Design (penguinseriesdesign.com). Designer credited as David Pelham: David Pelham, Penguin art director, airbrush science-fiction series.",
+   "hue": 25.61,
+   "light": 0.2217,
+   "chroma": 0.272
+  },
+  "Penguin Series Design::The Drowned World::J. G. Ballard": {
+   "id": "CRVI000443",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000443.jpg",
+   "original_px": [
+    500,
+    831
+   ],
+   "original_bytes": 101566,
+   "identity": "Penguin Series Design::The Drowned World::J. G. Ballard",
+   "maker": "David Pelham",
+   "title": "The Drowned World",
+   "subtitle": "Cover for J. G. Ballard · Penguin Science Fiction",
+   "year": "1974",
+   "verified_against": "Penguin Series Design (penguinseriesdesign.com). Designer credited as David Pelham: David Pelham, Penguin art director, airbrush science-fiction series.",
+   "source_page": "https://penguinseriesdesign.com/2023/06/19/david-pelhams-airbrushed-sci-fi/",
+   "notes": [
+    "Photographed on a plain ground by the blog's author; the image is the book object, not a flat scan."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/penguin/img/penguin_jg-ballard_drowned-world_pelham.jpg",
+   "source_px": [
+    500,
+    831
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "David Pelham"
+    },
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "client",
+     "v": "Penguin"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Penguin Series Design (penguinseriesdesign.com). Designer credited as David Pelham: David Pelham, Penguin art director, airbrush science-fiction series.",
+   "hue": 18.85,
+   "light": 0.3321,
+   "chroma": 0.7267
+  },
+  "Penguin Series Design::The Drought::J. G. Ballard": {
+   "id": "CRVI000444",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000444.jpg",
+   "original_px": [
+    500,
+    830
+   ],
+   "original_bytes": 110483,
+   "identity": "Penguin Series Design::The Drought::J. G. Ballard",
+   "maker": "David Pelham",
+   "title": "The Drought",
+   "subtitle": "Cover for J. G. Ballard · Penguin Science Fiction",
+   "year": "1974",
+   "verified_against": "Penguin Series Design (penguinseriesdesign.com). Designer credited as David Pelham: David Pelham, Penguin art director, airbrush science-fiction series.",
+   "source_page": "https://penguinseriesdesign.com/2023/06/19/david-pelhams-airbrushed-sci-fi/",
+   "notes": [
+    "Photographed on a plain ground by the blog's author; the image is the book object, not a flat scan."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/penguin/img/penguin_jg-ballard_the-drought_pelham.jpg",
+   "source_px": [
+    500,
+    830
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "David Pelham"
+    },
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "client",
+     "v": "Penguin"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Penguin Series Design (penguinseriesdesign.com). Designer credited as David Pelham: David Pelham, Penguin art director, airbrush science-fiction series.",
+   "hue": 7.54,
+   "light": 0.3517,
+   "chroma": 0.7109
+  },
+  "Penguin Series Design::The Black Cloud::Fred Hoyle": {
+   "id": "CRVI000445",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000445.jpg",
+   "original_px": [
+    1143,
+    1786
+   ],
+   "original_bytes": 160398,
+   "identity": "Penguin Series Design::The Black Cloud::Fred Hoyle",
+   "maker": "John Griffith",
+   "title": "The Black Cloud",
+   "subtitle": "Cover for Fred Hoyle · Penguin",
+   "year": "",
+   "verified_against": "Penguin Series Design (penguinseriesdesign.com). Designer credited as John Griffith: named as illustrator in the blog's own filename.",
+   "source_page": "https://penguinseriesdesign.com/wp-content/uploads/2023/10/fred-hoyle_the-black-cloud_illus-john-griffith_penguin.jpg",
+   "notes": [
+    "Photographed on a plain ground by the blog's author; the image is the book object, not a flat scan."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/penguin/img/fred-hoyle_the-black-cloud_illus-john-griffith_penguin.jpg",
+   "source_px": [
+    1143,
+    1786
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "John Griffith"
+    },
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "client",
+     "v": "Penguin"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Penguin Series Design (penguinseriesdesign.com). Designer credited as John Griffith: named as illustrator in the blog's own filename.",
+   "hue": 15.11,
+   "light": 0.6193,
+   "chroma": 0.5256
+  },
+  "Penguin Series Design::The New Men::C. P. Snow": {
+   "id": "CRVI000446",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000446.jpg",
+   "original_px": [
+    1102,
+    1742
+   ],
+   "original_bytes": 455681,
+   "identity": "Penguin Series Design::The New Men::C. P. Snow",
+   "maker": "Unknown",
+   "title": "The New Men",
+   "subtitle": "Cover for C. P. Snow · Penguin",
+   "year": "",
+   "verified_against": "Penguin Series Design (penguinseriesdesign.com). No designer is credited for this cover on the blog and none is claimed here.",
+   "source_page": "https://penguinseriesdesign.com/wp-content/uploads/2023/10/the-new-men-the-black-cloud.jpg",
+   "notes": [
+    "Cut from a two-book photograph on the blog; the other cover in the frame is a separate record or was not requested.",
+    "Photographed on a plain ground by the blog's author; the image is the book object, not a flat scan."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/penguin/split/the-new-men-the-black-cloud_L.jpg",
+   "source_px": [
+    1102,
+    1742
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "client",
+     "v": "Penguin"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Penguin Series Design (penguinseriesdesign.com). No designer is credited for this cover on the blog and none is claimed here.",
+   "hue": 16.11,
+   "light": 0.762,
+   "chroma": 0.5621
+  },
+  "Penguin Series Design::Ideology::L. B. Brown": {
+   "id": "CRVI000447",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000447.jpg",
+   "original_px": [
+    1148,
+    1804
+   ],
+   "original_bytes": 90769,
+   "identity": "Penguin Series Design::Ideology::L. B. Brown",
+   "maker": "Derek Birdsall",
+   "title": "Ideology",
+   "subtitle": "Cover for L. B. Brown · Penguin Education",
+   "year": "1972",
+   "verified_against": "Penguin Series Design (penguinseriesdesign.com). Designer credited as Derek Birdsall: Derek Birdsall / Omnific, art-directing the whole Penguin Education category from 1972.",
+   "source_page": "https://penguinseriesdesign.com/2023/12/17/derek-birdsalls-education/",
+   "notes": [
+    "Photographed on a plain ground by the blog's author; the image is the book object, not a flat scan."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/penguin/img/lb-brown_ideology.jpg",
+   "source_px": [
+    1148,
+    1804
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Derek Birdsall"
+    },
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "client",
+     "v": "Penguin"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Penguin Series Design (penguinseriesdesign.com). Designer credited as Derek Birdsall: Derek Birdsall / Omnific, art-directing the whole Penguin Education category from 1972.",
+   "hue": null,
+   "light": 0.8391,
+   "chroma": 0.0625
+  },
+  "Penguin Series Design::Socialization::Kurt Danziger": {
+   "id": "CRVI000448",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000448.jpg",
+   "original_px": [
+    1148,
+    1804
+   ],
+   "original_bytes": 82843,
+   "identity": "Penguin Series Design::Socialization::Kurt Danziger",
+   "maker": "Derek Birdsall",
+   "title": "Socialization",
+   "subtitle": "Cover for Kurt Danziger · Penguin Education",
+   "year": "1972",
+   "verified_against": "Penguin Series Design (penguinseriesdesign.com). Designer credited as Derek Birdsall: Derek Birdsall / Omnific, art-directing the whole Penguin Education category from 1972.",
+   "source_page": "https://penguinseriesdesign.com/2023/12/17/derek-birdsalls-education/",
+   "notes": [
+    "Photographed on a plain ground by the blog's author; the image is the book object, not a flat scan."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/penguin/img/kurt-danziger_socialization_penguin-education.jpg",
+   "source_px": [
+    1148,
+    1804
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Derek Birdsall"
+    },
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "client",
+     "v": "Penguin"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Penguin Series Design (penguinseriesdesign.com). Designer credited as Derek Birdsall: Derek Birdsall / Omnific, art-directing the whole Penguin Education category from 1972.",
+   "hue": 43.9,
+   "light": 0.8626,
+   "chroma": 0.2852
+  },
+  "Penguin Series Design::Peasants and Peasant Societies::Teodor Shanin": {
+   "id": "CRVI000449",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000449.jpg",
+   "original_px": [
+    1148,
+    1804
+   ],
+   "original_bytes": 104262,
+   "identity": "Penguin Series Design::Peasants and Peasant Societies::Teodor Shanin",
+   "maker": "Derek Birdsall",
+   "title": "Peasants and Peasant Societies",
+   "subtitle": "Cover for Teodor Shanin · Penguin Education",
+   "year": "1972",
+   "verified_against": "Penguin Series Design (penguinseriesdesign.com). Designer credited as Derek Birdsall: Derek Birdsall / Omnific, art-directing the whole Penguin Education category from 1972.",
+   "source_page": "https://penguinseriesdesign.com/2023/12/17/derek-birdsalls-education/",
+   "notes": [
+    "Photographed on a plain ground by the blog's author; the image is the book object, not a flat scan."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/penguin/img/shanin_peasants-and-peasant-societies_penguin-education.jpg",
+   "source_px": [
+    1148,
+    1804
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Derek Birdsall"
+    },
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "client",
+     "v": "Penguin"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Penguin Series Design (penguinseriesdesign.com). Designer credited as Derek Birdsall: Derek Birdsall / Omnific, art-directing the whole Penguin Education category from 1972.",
+   "hue": null,
+   "light": 0.8463,
+   "chroma": 0.0496
+  },
+  "Penguin Series Design::Social Science and Public Policy::Martin Rein": {
+   "id": "CRVI000450",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000450.jpg",
+   "original_px": [
+    1148,
+    1804
+   ],
+   "original_bytes": 107185,
+   "identity": "Penguin Series Design::Social Science and Public Policy::Martin Rein",
+   "maker": "Derek Birdsall",
+   "title": "Social Science and Public Policy",
+   "subtitle": "Cover for Martin Rein · Penguin Education",
+   "year": "1972",
+   "verified_against": "Penguin Series Design (penguinseriesdesign.com). Designer credited as Derek Birdsall: Derek Birdsall / Omnific, art-directing the whole Penguin Education category from 1972.",
+   "source_page": "https://penguinseriesdesign.com/2023/12/17/derek-birdsalls-education/",
+   "notes": [
+    "Photographed on a plain ground by the blog's author; the image is the book object, not a flat scan."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/penguin/img/rein_social-science-public-policy_penguin-education.jpg",
+   "source_px": [
+    1148,
+    1804
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Derek Birdsall"
+    },
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "client",
+     "v": "Penguin"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Penguin Series Design (penguinseriesdesign.com). Designer credited as Derek Birdsall: Derek Birdsall / Omnific, art-directing the whole Penguin Education category from 1972.",
+   "hue": null,
+   "light": 0.5568,
+   "chroma": 0.0696
+  },
+  "Penguin Series Design::Creativity::P. E. Vernon": {
+   "id": "CRVI000451",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000451.jpg",
+   "original_px": [
+    1148,
+    1804
+   ],
+   "original_bytes": 87857,
+   "identity": "Penguin Series Design::Creativity::P. E. Vernon",
+   "maker": "Derek Birdsall",
+   "title": "Creativity",
+   "subtitle": "Cover for P. E. Vernon · Penguin Education",
+   "year": "1972",
+   "verified_against": "Penguin Series Design (penguinseriesdesign.com). Designer credited as Derek Birdsall: Derek Birdsall / Omnific, art-directing the whole Penguin Education category from 1972.",
+   "source_page": "https://penguinseriesdesign.com/2023/12/17/derek-birdsalls-education/",
+   "notes": [
+    "Photographed on a plain ground by the blog's author; the image is the book object, not a flat scan."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/penguin/img/pe-vernon_creativity.jpg",
+   "source_px": [
+    1148,
+    1804
+   ],
+   "colors": [
+    "yellow",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Derek Birdsall"
+    },
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "client",
+     "v": "Penguin"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Penguin Series Design (penguinseriesdesign.com). Designer credited as Derek Birdsall: Derek Birdsall / Omnific, art-directing the whole Penguin Education category from 1972.",
+   "hue": null,
+   "light": 0.8752,
+   "chroma": 0.0384
+  },
+  "Penguin Series Design::Reconstructing Social Psychology::Nigel Armistead": {
+   "id": "CRVI000452",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000452.jpg",
+   "original_px": [
+    1148,
+    1804
+   ],
+   "original_bytes": 98582,
+   "identity": "Penguin Series Design::Reconstructing Social Psychology::Nigel Armistead",
+   "maker": "Derek Birdsall",
+   "title": "Reconstructing Social Psychology",
+   "subtitle": "Cover for Nigel Armistead · Penguin Education",
+   "year": "1972",
+   "verified_against": "Penguin Series Design (penguinseriesdesign.com). Designer credited as Derek Birdsall: Derek Birdsall / Omnific, art-directing the whole Penguin Education category from 1972.",
+   "source_page": "https://penguinseriesdesign.com/2023/12/17/derek-birdsalls-education/",
+   "notes": [
+    "Photographed on a plain ground by the blog's author; the image is the book object, not a flat scan."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/penguin/img/armistead_reconstructing-social-psychology_penguin-education.jpg",
+   "source_px": [
+    1148,
+    1804
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Derek Birdsall"
+    },
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "client",
+     "v": "Penguin"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Penguin Series Design (penguinseriesdesign.com). Designer credited as Derek Birdsall: Derek Birdsall / Omnific, art-directing the whole Penguin Education category from 1972.",
+   "hue": 3.47,
+   "light": 0.868,
+   "chroma": 0.1122
+  },
+  "Penguin Series Design::Culture Against Man::Jules Henry": {
+   "id": "CRVI000453",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000453.jpg",
+   "original_px": [
+    1148,
+    1804
+   ],
+   "original_bytes": 75866,
+   "identity": "Penguin Series Design::Culture Against Man::Jules Henry",
+   "maker": "Derek Birdsall",
+   "title": "Culture Against Man",
+   "subtitle": "Cover for Jules Henry · Penguin Education",
+   "year": "1972",
+   "verified_against": "Penguin Series Design (penguinseriesdesign.com). Designer credited as Derek Birdsall: Derek Birdsall / Omnific, art-directing the whole Penguin Education category from 1972.",
+   "source_page": "https://penguinseriesdesign.com/2023/12/17/derek-birdsalls-education/",
+   "notes": [
+    "Photographed on a plain ground by the blog's author; the image is the book object, not a flat scan."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/penguin/img/henry_culture-against-man_penguin-education.jpg",
+   "source_px": [
+    1148,
+    1804
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Derek Birdsall"
+    },
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "client",
+     "v": "Penguin"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Penguin Series Design (penguinseriesdesign.com). Designer credited as Derek Birdsall: Derek Birdsall / Omnific, art-directing the whole Penguin Education category from 1972.",
+   "hue": 44.23,
+   "light": 0.831,
+   "chroma": 0.1934
+  },
+  "Penguin Series Design::Brideshead Revisited::Evelyn Waugh": {
+   "id": "CRVI000454",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000454.jpg",
+   "original_px": [
+    1134,
+    1631
+   ],
+   "original_bytes": 116806,
+   "identity": "Penguin Series Design::Brideshead Revisited::Evelyn Waugh",
+   "maker": "Unknown",
+   "title": "Brideshead Revisited",
+   "subtitle": "Cover for Evelyn Waugh · Penguin",
+   "year": "",
+   "verified_against": "Penguin Series Design (penguinseriesdesign.com). No designer is credited for this cover on the blog and none is claimed here.",
+   "source_page": "https://penguinseriesdesign.com/wp-content/uploads/2022/11/brideshead-revisited_waugh_penguin.jpg",
+   "notes": [
+    "Photographed on a plain ground by the blog's author; the image is the book object, not a flat scan."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/penguin/img/brideshead-revisited_waugh_penguin.jpg",
+   "source_px": [
+    1134,
+    1631
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "client",
+     "v": "Penguin"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Penguin Series Design (penguinseriesdesign.com). No designer is credited for this cover on the blog and none is claimed here.",
+   "hue": 43.48,
+   "light": 0.7568,
+   "chroma": 0.5868
+  },
+  "Penguin Series Design::Billion Dollar Brain::Len Deighton": {
+   "id": "CRVI000455",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000455.jpg",
+   "original_px": [
+    1109,
+    1701
+   ],
+   "original_bytes": 146057,
+   "identity": "Penguin Series Design::Billion Dollar Brain::Len Deighton",
+   "maker": "Jim Stoddart",
+   "title": "Billion Dollar Brain",
+   "subtitle": "Cover for Len Deighton · Penguin",
+   "year": "2021",
+   "verified_against": "Penguin Series Design (penguinseriesdesign.com). Designer credited as Jim Stoddart: the post's opening credit: 'Cover design by Jim Stoddart, 2021'.",
+   "source_page": "https://penguinseriesdesign.com/2025/07/21/stoddart-designs-deighton/",
+   "notes": [
+    "Photographed on a plain ground by the blog's author; the image is the book object, not a flat scan."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/penguin/img/8917.jpg",
+   "source_px": [
+    1109,
+    1701
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Jim Stoddart"
+    },
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "client",
+     "v": "Penguin"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Penguin Series Design (penguinseriesdesign.com). Designer credited as Jim Stoddart: the post's opening credit: 'Cover design by Jim Stoddart, 2021'.",
+   "hue": 358.27,
+   "light": 0.398,
+   "chroma": 0.1451
+  },
+  "Penguin Series Design::penguin_evelyn_waugh_pinterest::Evelyn Waugh": {
+   "id": "CRVI000456",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000456.jpg",
+   "original_px": [
+    1104,
+    1798
+   ],
+   "original_bytes": 396090,
+   "identity": "Penguin Series Design::penguin_evelyn_waugh_pinterest::Evelyn Waugh",
+   "maker": "Unknown",
+   "title": "Untitled",
+   "subtitle": "Penguin cover for Evelyn Waugh",
+   "year": "",
+   "verified_against": "Penguin Series Design (penguinseriesdesign.com). No designer is credited for this cover on the blog and none is claimed here.",
+   "source_page": "https://i.pinimg.com/736x/1c/df/d2/1cdfd21fd8c7e2767ca6640e1d78e785.jpg",
+   "notes": [
+    "Photographed on a plain ground by the blog's author; the image is the book object, not a flat scan.",
+    "Title unrecorded: this came from a Pinterest image with no page behind it, so the specific Waugh title is not established and the slug was standing in for one. Publisher and author are legible on the cover itself."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/penguin/pin_waugh.jpg",
+   "source_px": [
+    1104,
+    1798
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "client",
+     "v": "Penguin"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Penguin Series Design (penguinseriesdesign.com). No designer is credited for this cover on the blog and none is claimed here.",
+   "hue": 43.06,
+   "light": 0.6186,
+   "chroma": 0.9647
+  },
+  "PGDA::JFK and LBJ::Janet Halverson": {
+   "id": "CRVI000457",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000457.jpg",
+   "original_px": [
+    2880,
+    2880
+   ],
+   "original_bytes": 609921,
+   "identity": "PGDA::JFK and LBJ::Janet Halverson",
+   "maker": "Janet Halverson",
+   "title": "JFK and LBJ",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "People's Graphic Design Archive item 10282, 'JFK and LBJ'. The archive's own asset filename is JanetHalverson_12.jpg, attributing it to Janet Halverson.",
+   "source_page": "https://peoplesgdarchive.org/item/10282/jfk-and-lbj",
+   "notes": [
+    "Held at 2880x2880, the largest size PGDA serves that is a genuine scan. Its path template also offers 5760x5760, but a detail test against the 1440 version scored 1.08 where a real master scores 1.15 or better — that file is an upscale, not a better scan, so it was not taken."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/penguin/pgda_jfk.jpg",
+   "source_px": [
+    2880,
+    2880
+   ],
+   "colors": [
+    "orange",
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Janet Halverson"
+    },
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "People's Graphic Design Archive item 10282, 'JFK and LBJ'. The archive's own asset filename is JanetHalverson_12.jpg, attributing it to Janet Halverson.",
+   "hue": 32.33,
+   "light": 0.2304,
+   "chroma": 0.2481
+  },
+  "Penguin Series Design::Operation Pax::Michael Innes": {
+   "id": "CRVI000458",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000458.jpg",
+   "original_px": [
+    572,
+    913
+   ],
+   "original_bytes": 160561,
+   "identity": "Penguin Series Design::Operation Pax::Michael Innes",
+   "maker": "Alan Aldridge",
+   "title": "Operation Pax",
+   "subtitle": "Cover for Michael Innes · Penguin Crime",
+   "year": "",
+   "verified_against": "Penguin Series Design, its Alan Aldridge crime-covers post. The blog's own filename for this image credits the covers to Aldridge.",
+   "source_page": "https://penguinseriesdesign.com/2025/01/27/alan-aldridge-crimes/penguin_operation-pax-by_hamlet-revengee-by-michael-innes_covers-by-aldridge/",
+   "notes": [
+    "Cut from a two-book photograph on the blog; the other cover in the frame is a separate record or was not requested."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/penguin/split/penguin_operation-pax-by_hamlet-revengee-by-michael-innes_co_L.jpg",
+   "source_px": [
+    572,
+    913
+   ],
+   "colors": [
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Alan Aldridge"
+    },
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "client",
+     "v": "Penguin"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Penguin Series Design, its Alan Aldridge crime-covers post. The blog's own filename for this image credits the covers to Aldridge.",
+   "hue": 114.3,
+   "light": 0.5309,
+   "chroma": 0.774
+  },
+  "Penguin Series Design::Hamlet, Revenge!::Michael Innes": {
+   "id": "CRVI000459",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000459.jpg",
+   "original_px": [
+    568,
+    917
+   ],
+   "original_bytes": 196939,
+   "identity": "Penguin Series Design::Hamlet, Revenge!::Michael Innes",
+   "maker": "Alan Aldridge",
+   "title": "Hamlet, Revenge!",
+   "subtitle": "Cover for Michael Innes · Penguin Crime",
+   "year": "",
+   "verified_against": "Penguin Series Design, its Alan Aldridge crime-covers post. The blog's own filename for this image credits the covers to Aldridge.",
+   "source_page": "https://penguinseriesdesign.com/2025/01/27/alan-aldridge-crimes/penguin_operation-pax-by_hamlet-revengee-by-michael-innes_covers-by-aldridge/",
+   "notes": [
+    "Cut from a two-book photograph on the blog; the other cover in the frame is a separate record or was not requested."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/penguin/split/penguin_operation-pax-by_hamlet-revengee-by-michael-innes_co_R.jpg",
+   "source_px": [
+    568,
+    917
+   ],
+   "colors": [
+    "green",
+    "pink"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Alan Aldridge"
+    },
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "client",
+     "v": "Penguin"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Penguin Series Design, its Alan Aldridge crime-covers post. The blog's own filename for this image credits the covers to Aldridge.",
+   "hue": 120.09,
+   "light": 0.5553,
+   "chroma": 0.8674
+  },
+  "Penguin Series Design::Suspicious Circumstances::Patrick Quentin": {
+   "id": "CRVI000460",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000460.jpg",
+   "original_px": [
+    571,
+    908
+   ],
+   "original_bytes": 226476,
+   "identity": "Penguin Series Design::Suspicious Circumstances::Patrick Quentin",
+   "maker": "Alan Aldridge",
+   "title": "Suspicious Circumstances",
+   "subtitle": "Cover for Patrick Quentin · Penguin Crime",
+   "year": "",
+   "verified_against": "Penguin Series Design, its Alan Aldridge crime-covers post. The blog's own filename for this image credits the covers to Aldridge.",
+   "source_page": "https://penguinseriesdesign.com/2025/01/27/alan-aldridge-crimes/penguin_corpse-at-the-carnival_suspicious-circumstances_covers-by-aldridge/",
+   "notes": [
+    "Cut from a two-book photograph on the blog; the other cover in the frame is a separate record or was not requested."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/penguin/split/penguin_corpse-at-the-carnival_suspicious-circumstances_cove_R.jpg",
+   "source_px": [
+    571,
+    908
+   ],
+   "colors": [
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Alan Aldridge"
+    },
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "client",
+     "v": "Penguin"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Penguin Series Design, its Alan Aldridge crime-covers post. The blog's own filename for this image credits the covers to Aldridge.",
+   "hue": 118.43,
+   "light": 0.5351,
+   "chroma": 0.7881
   }
  }
 }
