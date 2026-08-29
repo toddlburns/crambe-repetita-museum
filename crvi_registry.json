@@ -1,5 +1,5 @@
 {
- "next": 465,
+ "next": 466,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -24885,6 +24885,65 @@
    "hue": 5.1,
    "light": 0.8291,
    "chroma": 0.1509
+  },
+  "Bloomberg Businessweek::Easy Target": {
+   "id": "CRVI000465",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000465.jpg",
+   "original_px": [
+    387,
+    516
+   ],
+   "original_bytes": 29668,
+   "identity": "Bloomberg Businessweek::Easy Target",
+   "maker": "Unknown",
+   "title": "Easy Target",
+   "subtitle": "Bloomberg Businessweek, 17 March 2014",
+   "year": "2014",
+   "verified_against": "Bloomberg's own issue index lists 14_12 as 'The Epic Hack — March 17, 2014 Issue', the Target credit-card breach story, which is this cover. The cover itself carries the line 'Exclusive: The biggest hack in retail history could have been prevented. So why didn't the company act?'",
+   "source_page": "https://www.bloomberg.com/magazine/businessweek/14_12",
+   "notes": [
+    "⚠️ NO DESIGNER IS NAMED, deliberately. Bloomberg published a 'how we made it' piece for this exact cover, but the live page is behind a bot check and the Wayback copy preserved only the stub, so the credits could not be read. March 2014 is also precisely when Businessweek's creative direction was changing hands from Richard Turley to Rob Vargas, with Tracy Ma as deputy creative director — so attributing it to any of the three would be a guess dressed as a credit.",
+    "The printed cover line is 'Easy Target'; Bloomberg's index titles the issue 'The Epic Hack'. The cover line is recorded because the cover is the object.",
+    "Held at 387x516 — Todd's Google search thumbnail. No larger copy was found; Bloomberg's issue pages expose interior spreads rather than the cover asset."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/t4.jpg",
+   "source_px": [
+    387,
+    516
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Bloomberg Businessweek"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "technology"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Bloomberg's own issue index lists 14_12 as 'The Epic Hack — March 17, 2014 Issue', the Target credit-card breach story, which is this cover. The cover itself carries the line 'Exclusive: The biggest hack in retail history could have been prevented. So why didn't the company act?'",
+   "hue": 355.43,
+   "light": 0.6864,
+   "chroma": 0.3501
   }
  }
 }

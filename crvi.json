@@ -21180,6 +21180,52 @@
    ],
    "hue": 5.1,
    "light": 0.8291
+  },
+  {
+   "id": "CRVI000465",
+   "source_url": "https://www.bloomberg.com/magazine/businessweek/14_12",
+   "animated": false,
+   "thumb": "thumbs/CRVI000465.jpg",
+   "source_label": "",
+   "image": "images/CRVI000465.jpg",
+   "original": "originals/CRVI000465.jpg",
+   "original_px": [
+    387,
+    516
+   ],
+   "original_bytes": 29668,
+   "maker": "Unknown",
+   "title": "Easy Target",
+   "subtitle": "Bloomberg Businessweek, 17 March 2014",
+   "year": "2014",
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Bloomberg Businessweek"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "technology"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 355.43,
+   "light": 0.6864
   }
  ]
 }
