@@ -29273,10 +29273,10 @@
    "minted": "2026-08-26",
    "original_file": "originals/CRVI000536.jpg",
    "original_px": [
-    1170,
-    2171
+    1104,
+    1267
    ],
-   "original_bytes": 254479,
+   "original_bytes": 136775,
    "identity": "ASME::The New York Times Magazine::The Age of Ishiguro",
    "maker": "Gail Bichler",
    "title": "The Age of Ishiguro",
@@ -29287,7 +29287,8 @@
    "notes": [
     "ASME award: Finalist.",
     "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
-    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine."
+    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine.",
+    "⚠️ Re-cropped 2026-08-29: the ASME caption had been left baked into the image. The crop rule took the LOWEST award word on the screenshot, which assumed one entry per shot — this one has a second entry below, so that word belonged to a different cover's caption and this cover's caption stayed inside the frame. Re-cut by choosing the candidate that yields a magazine-shaped crop, then trimming the page margins."
    ],
    "label": "",
    "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2022/IMG_5263.jpg",
@@ -29332,8 +29333,8 @@
    "published": true,
    "verification": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: The New York Times Magazine · \"The Age of Ishiguro,\" February 28, 2021 · Jake Silverstein, Editor · Gail Bichler, Designer · Kathy Ryan, Photography Editor · Jack Davison, Photographer · FINALIST · NYLON",
    "hue": null,
-   "light": 0.6961,
-   "chroma": 0.0136
+   "light": 0.4881,
+   "chroma": 0.0116
   },
   "ASME::The New York Times Magazine::How America Spends": {
    "id": "CRVI000537",
