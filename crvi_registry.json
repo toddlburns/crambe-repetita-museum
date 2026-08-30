@@ -1,5 +1,5 @@
 {
- "next": 693,
+ "next": 710,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -20502,29 +20502,27 @@
    "minted": "2026-08-26",
    "original_file": "originals/CRVI000395.jpg",
    "original_px": [
-    1500,
-    1500
+    2362,
+    2306
    ],
-   "original_bytes": 430123,
+   "original_bytes": 2132209,
    "identity": "ele-king sweep::House Definitive::IMG_4342_1",
    "maker": "Herbie Mann",
    "title": "Bird In A Silver Cage",
    "subtitle": "Designer unknown · Atlantic",
    "year": "1976",
    "label": "Atlantic",
-   "verified_against": "Read off HOUSE definitive 1974-2014 (西村公輝+三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Herbie Mann / Bird In a Silver Cage (1976).",
+   "verified_against": "Read off HOUSE definitive 1974-2014 (西村公輝+三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. The artwork here is a photograph of the physical Atlantic sleeve from a marketplace listing, and it matches that identification: Herbie Mann / Bird In A Silver Cage, Atlantic, 1976.",
    "notes": [
-    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
+    "Artwork replaced 2026-08-30. The record previously carried a 1500px iTunes image; this is a photograph of an actual Atlantic sleeve at 2362px, deskewed with a perspective transform and cropped to the jacket, so the museum now holds the object rather than the storefront's rendering of it.",
+    "It is a photograph of a used copy, not a scan of a mint one: the jacket's worn right edge and corner knocks are visible, and the light is the seller's, not neutral.",
+    "The full-size file was taken from the image host directly rather than the padded 1000px preview that the listing page links, which is why it is larger than the picture the listing shows.",
     "Designer unrecorded: these ele-king guides credit the music, never the packaging."
    ],
-   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4342_1.jpg",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/crvi395_cropped.jpg",
    "source_px": [
-    1500,
-    1500
-   ],
-   "colors": [
-    "orange",
-    "black"
+    2362,
+    2306
    ],
    "tags": [
     {
@@ -20546,10 +20544,14 @@
    ],
    "identity_established": true,
    "published": true,
-   "verification": "Read off HOUSE definitive 1974-2014 (西村公輝+三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Herbie Mann / Bird In a Silver Cage (1976).",
-   "hue": 29.06,
-   "light": 0.1517,
-   "chroma": 0.1653
+   "verification": "Read off HOUSE definitive 1974-2014 (西村公輝+三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. The artwork here is a photograph of the physical Atlantic sleeve from a marketplace listing, and it matches that identification: Herbie Mann / Bird In A Silver Cage, Atlantic, 1976.",
+   "hue": 222.43,
+   "light": 0.2817,
+   "chroma": 0.4248,
+   "colors": [
+    "blue",
+    "orange"
+   ]
   },
   "ele-king sweep::House Definitive::IMG_4357_1": {
    "id": "CRVI000396",
@@ -21010,7 +21012,8 @@
    "notes": [
     "Title from iTunes; the caption read 'First If You Please'.",
     "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
-    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging.",
+    "DELETED from the museum on 2026-08-30. The record is kept so CRVI000404 stays provably retired and is never reissued."
    ],
    "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4389_1.jpg",
    "source_px": [
@@ -21039,11 +21042,13 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "Read off HOUSE definitive 1974-2014 (西村公輝+三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Los Updates / Los Updates First If You Please (2008).",
    "hue": 233.99,
    "light": 0.5313,
-   "chroma": 0.1464
+   "chroma": 0.1464,
+   "deleted": true,
+   "deleted_on": "2026-08-30"
   },
   "ele-king sweep::House Definitive::IMG_4393_1": {
    "id": "CRVI000405",
@@ -38462,6 +38467,1023 @@
    "hue": 42.02,
    "light": 0.4842,
    "chroma": 0.8662
+  },
+  "deadlypreygallery.com::willy-wonka-and-the-chocolate-factory-high-quality-print-stoger": {
+   "id": "CRVI000693",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000693.jpg",
+   "original_px": [
+    1613,
+    2425
+   ],
+   "original_bytes": 1656592,
+   "identity": "deadlypreygallery.com::willy-wonka-and-the-chocolate-factory-high-quality-print-stoger",
+   "maker": "Salvation",
+   "title": "Willy Wonka and the Chocolate Factory",
+   "subtitle": "Hand-painted Ghanaian film poster",
+   "source_url": "https://deadly-prey-gallery.myshopify.com/products/willy-wonka-and-the-chocolate-factory-high-quality-print-stoger",
+   "verified_against": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"WILLY WONKA AND THE CHOCOLATE FACTORY (High Quality Print) - Stoger\" and describes it: Wonka not included 😂 The great Ghanaian artist Salvation’s beautiful version of the classic film as a $25 print!",
+   "notes": [
+    "Hand-painted poster in the tradition of Ghana's mobile cinema banners, which were painted on recycled flour sacks to advertise travelling video screenings. Deadly Prey Gallery commissions new work from these painters, so this is a contemporary painting in that tradition rather than a poster recovered from the video-club circuit; several of the films it depicts never played there.",
+    "The image is the gallery's reproduction of the original painting, cropped here to the painted area — their print carries the gallery's logo and the artist's stamp on the white margin below, which are not part of the painting.",
+    "No date is recorded. The gallery gives none and none is legible on the painting, so the year is left blank rather than inferred from the film's release.",
+    "⚠️ The gallery's product TITLE credits \"Stoger\", but its description credits \"the great Ghanaian artist Salvation\" and the stamp at the foot of the painting reads SALVATION ART TESHIE. Two signals agree against the title, so Salvation is recorded as the painter and the discrepancy is left on the record rather than resolved silently."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/cropped/willy-wonka-and-the-chocolate-factory-high-qu__0.jpg",
+   "source_px": [
+    1613,
+    2425
+   ],
+   "colors": [
+    "red",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Salvation"
+    },
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "Ghana"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"WILLY WONKA AND THE CHOCOLATE FACTORY (High Quality Print) - Stoger\" and describes it: Wonka not included 😂 The great Ghanaian artist Salvation’s beautiful version of the classic film as a $25 print!",
+   "hue": 358.54,
+   "light": 0.4064,
+   "chroma": 0.6636
+  },
+  "deadlypreygallery.com::vertigo-high-quality-print-heavy-j": {
+   "id": "CRVI000694",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000694.jpg",
+   "original_px": [
+    1069,
+    1715
+   ],
+   "original_bytes": 548899,
+   "identity": "deadlypreygallery.com::vertigo-high-quality-print-heavy-j",
+   "maker": "Heavy J",
+   "title": "Vertigo",
+   "subtitle": "Hand-painted Ghanaian film poster",
+   "source_url": "https://deadly-prey-gallery.myshopify.com/products/vertigo-high-quality-print-heavy-j",
+   "verified_against": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"VERTIGO (High Quality Print) - Heavy J\" and describes it: But, only one is a wanderer, two together are always going somewhere, with their heads cut off. Best ever rendition of Hitchcock’s Vertigo painted by the legendary Ghanaian artist Heavy J!",
+   "notes": [
+    "Hand-painted poster in the tradition of Ghana's mobile cinema banners, which were painted on recycled flour sacks to advertise travelling video screenings. Deadly Prey Gallery commissions new work from these painters, so this is a contemporary painting in that tradition rather than a poster recovered from the video-club circuit; several of the films it depicts never played there.",
+    "The image is the gallery's reproduction of the original painting, cropped here to the painted area — their print carries the gallery's logo and the artist's stamp on the white margin below, which are not part of the painting.",
+    "No date is recorded. The gallery gives none and none is legible on the painting, so the year is left blank rather than inferred from the film's release."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/cropped/vertigo-high-quality-print-heavy-j__0.jpg",
+   "source_px": [
+    1069,
+    1715
+   ],
+   "colors": [
+    "red",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Heavy J"
+    },
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "Ghana"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"VERTIGO (High Quality Print) - Heavy J\" and describes it: But, only one is a wanderer, two together are always going somewhere, with their heads cut off. Best ever rendition of Hitchcock’s Vertigo painted by the legendary Ghanaian artist Heavy J!",
+   "hue": 356.55,
+   "light": 0.4915,
+   "chroma": 0.5012
+  },
+  "deadlypreygallery.com::the-royal-tenenbaums-high-quality-print-c-a-wisely": {
+   "id": "CRVI000695",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000695.jpg",
+   "original_px": [
+    1456,
+    2188
+   ],
+   "original_bytes": 1425542,
+   "identity": "deadlypreygallery.com::the-royal-tenenbaums-high-quality-print-c-a-wisely",
+   "maker": "C.A. Wisely",
+   "title": "The Royal Tenenbaums",
+   "subtitle": "Hand-painted Ghanaian film poster",
+   "source_url": "https://deadly-prey-gallery.myshopify.com/products/the-royal-tenenbaums-high-quality-print-c-a-wisely",
+   "verified_against": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"THE ROYAL TENENBAUMS (High Quality Print) - C.A. Wisely\" and describes it: The great Ghanaian artist C.A. Wisely’s impeccable version of The Royal Tenenbaums by Wes Anderson is finally available as a $25 print 😎",
+   "notes": [
+    "Hand-painted poster in the tradition of Ghana's mobile cinema banners, which were painted on recycled flour sacks to advertise travelling video screenings. Deadly Prey Gallery commissions new work from these painters, so this is a contemporary painting in that tradition rather than a poster recovered from the video-club circuit; several of the films it depicts never played there.",
+    "The image is the gallery's reproduction of the original painting, cropped here to the painted area — their print carries the gallery's logo and the artist's stamp on the white margin below, which are not part of the painting.",
+    "No date is recorded. The gallery gives none and none is legible on the painting, so the year is left blank rather than inferred from the film's release."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/cropped/the-royal-tenenbaums-high-quality-print-c-a-w__0.jpg",
+   "source_px": [
+    1456,
+    2188
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "C.A. Wisely"
+    },
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "Ghana"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"THE ROYAL TENENBAUMS (High Quality Print) - C.A. Wisely\" and describes it: The great Ghanaian artist C.A. Wisely’s impeccable version of The Royal Tenenbaums by Wes Anderson is finally available as a $25 print 😎",
+   "hue": 358.8,
+   "light": 0.5631,
+   "chroma": 0.6697
+  },
+  "deadlypreygallery.com::the-harder-they-come-high-quality-print-farkira": {
+   "id": "CRVI000696",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000696.jpg",
+   "original_px": [
+    1429,
+    2109
+   ],
+   "original_bytes": 1552809,
+   "identity": "deadlypreygallery.com::the-harder-they-come-high-quality-print-farkira",
+   "maker": "Farkira",
+   "title": "The Harder They Come",
+   "subtitle": "Hand-painted Ghanaian film poster",
+   "source_url": "https://deadly-prey-gallery.myshopify.com/products/the-harder-they-come-high-quality-print-farkira",
+   "verified_against": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"THE HARDER THEY COME (High Quality Print) - Farkira\" and describes it: Rebel with a cause 🇯🇲 The legendary Jimmy Cliff in Farkira’s own rough n’ rugged version of The Harder They Come!!! This one is very special to us. Available for the first time as a $25 print.",
+   "notes": [
+    "Hand-painted poster in the tradition of Ghana's mobile cinema banners, which were painted on recycled flour sacks to advertise travelling video screenings. Deadly Prey Gallery commissions new work from these painters, so this is a contemporary painting in that tradition rather than a poster recovered from the video-club circuit; several of the films it depicts never played there.",
+    "The image is the gallery's reproduction of the original painting, cropped here to the painted area — their print carries the gallery's logo and the artist's stamp on the white margin below, which are not part of the painting.",
+    "No date is recorded. The gallery gives none and none is legible on the painting, so the year is left blank rather than inferred from the film's release."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/cropped/the-harder-they-come-high-quality-print-farki__0.jpg",
+   "source_px": [
+    1429,
+    2109
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Farkira"
+    },
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "Ghana"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"THE HARDER THEY COME (High Quality Print) - Farkira\" and describes it: Rebel with a cause 🇯🇲 The legendary Jimmy Cliff in Farkira’s own rough n’ rugged version of The Harder They Come!!! This one is very special to us. Available for the first time as a $25 print.",
+   "hue": 359.51,
+   "light": 0.4732,
+   "chroma": 0.6458
+  },
+  "deadlypreygallery.com::suspiria-high-quality-print-c-a-wisely": {
+   "id": "CRVI000697",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000697.jpg",
+   "original_px": [
+    1605,
+    2403
+   ],
+   "original_bytes": 1996341,
+   "identity": "deadlypreygallery.com::suspiria-high-quality-print-c-a-wisely",
+   "maker": "C.A. Wisely",
+   "title": "Suspiria",
+   "subtitle": "Hand-painted Ghanaian film poster",
+   "source_url": "https://deadly-prey-gallery.myshopify.com/products/suspiria-high-quality-print-c-a-wisely",
+   "verified_against": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"SUSPIRIA (High Quality Print) - C.A. Wisely\" and describes it: Bad luck isn’t brought by broken mirrors, but by broken minds 🦚 The great Ghanaian artist C.A. Wisely’s beautiful, extra horrific version of Dario Argento’s Suspiria is finally available in a $25 print version!",
+   "notes": [
+    "Hand-painted poster in the tradition of Ghana's mobile cinema banners, which were painted on recycled flour sacks to advertise travelling video screenings. Deadly Prey Gallery commissions new work from these painters, so this is a contemporary painting in that tradition rather than a poster recovered from the video-club circuit; several of the films it depicts never played there.",
+    "The image is the gallery's reproduction of the original painting, cropped here to the painted area — their print carries the gallery's logo and the artist's stamp on the white margin below, which are not part of the painting.",
+    "No date is recorded. The gallery gives none and none is legible on the painting, so the year is left blank rather than inferred from the film's release."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/cropped/suspiria-high-quality-print-c-a-wisely__0.jpg",
+   "source_px": [
+    1605,
+    2403
+   ],
+   "colors": [
+    "red",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "C.A. Wisely"
+    },
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "Ghana"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"SUSPIRIA (High Quality Print) - C.A. Wisely\" and describes it: Bad luck isn’t brought by broken mirrors, but by broken minds 🦚 The great Ghanaian artist C.A. Wisely’s beautiful, extra horrific version of Dario Argento’s Suspiria is finally available in a $25 print version!",
+   "hue": 358.07,
+   "light": 0.5861,
+   "chroma": 0.7695
+  },
+  "deadlypreygallery.com::tampopo-high-quality-print-heavy-j": {
+   "id": "CRVI000698",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000698.jpg",
+   "original_px": [
+    1474,
+    1940
+   ],
+   "original_bytes": 1280275,
+   "identity": "deadlypreygallery.com::tampopo-high-quality-print-heavy-j",
+   "maker": "Heavy J",
+   "title": "Tampopo",
+   "subtitle": "Hand-painted Ghanaian film poster",
+   "source_url": "https://deadly-prey-gallery.myshopify.com/products/tampopo-high-quality-print-heavy-j",
+   "verified_against": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"TAMPOPO (High Quality Print) - Heavy J\" and describes it: Our infamous Tampopo print is now available for the first time in a $25 version! Originally painted by the great Ghanaian artist Heavy J 🍜",
+   "notes": [
+    "Hand-painted poster in the tradition of Ghana's mobile cinema banners, which were painted on recycled flour sacks to advertise travelling video screenings. Deadly Prey Gallery commissions new work from these painters, so this is a contemporary painting in that tradition rather than a poster recovered from the video-club circuit; several of the films it depicts never played there.",
+    "The image is the gallery's reproduction of the original painting, cropped here to the painted area — their print carries the gallery's logo and the artist's stamp on the white margin below, which are not part of the painting.",
+    "No date is recorded. The gallery gives none and none is legible on the painting, so the year is left blank rather than inferred from the film's release."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/cropped/tampopo-high-quality-print-heavy-j__0.jpg",
+   "source_px": [
+    1474,
+    1940
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Heavy J"
+    },
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "Ghana"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"TAMPOPO (High Quality Print) - Heavy J\" and describes it: Our infamous Tampopo print is now available for the first time in a $25 version! Originally painted by the great Ghanaian artist Heavy J 🍜",
+   "hue": 14.48,
+   "light": 0.5948,
+   "chroma": 0.8049
+  },
+  "deadlypreygallery.com::stop-making-sense-high-quality-print-mr-nana-agyq": {
+   "id": "CRVI000699",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000699.jpg",
+   "original_px": [
+    1599,
+    2426
+   ],
+   "original_bytes": 1456572,
+   "identity": "deadlypreygallery.com::stop-making-sense-high-quality-print-mr-nana-agyq",
+   "maker": "Mr. Nana Agyq",
+   "title": "Stop Making Sense",
+   "subtitle": "Hand-painted Ghanaian film poster",
+   "source_url": "https://deadly-prey-gallery.myshopify.com/products/stop-making-sense-high-quality-print-mr-nana-agyq",
+   "verified_against": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"STOP MAKING SENSE (High Quality Print) - Mr. Nana Agyq\" and describes it: I’ve got a tape I want to play… The great Ghanaian artist Mr. Nana Agyq’s already classic version of The Talking Heads movie Stop Making Sense is finally available as a $25 print! Our most popular work of all time, scroll to see a shot of the artist with his original painting 🥇",
+   "notes": [
+    "Hand-painted poster in the tradition of Ghana's mobile cinema banners, which were painted on recycled flour sacks to advertise travelling video screenings. Deadly Prey Gallery commissions new work from these painters, so this is a contemporary painting in that tradition rather than a poster recovered from the video-club circuit; several of the films it depicts never played there.",
+    "The image is the gallery's reproduction of the original painting, cropped here to the painted area — their print carries the gallery's logo and the artist's stamp on the white margin below, which are not part of the painting.",
+    "No date is recorded. The gallery gives none and none is legible on the painting, so the year is left blank rather than inferred from the film's release.",
+    "The gallery calls this its most popular work of all time."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/cropped/stop-making-sense-high-quality-print-mr-nana-__0.jpg",
+   "source_px": [
+    1599,
+    2426
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Mr. Nana Agyq"
+    },
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "Ghana"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    },
+    {
+     "k": "subject",
+     "v": "music"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"STOP MAKING SENSE (High Quality Print) - Mr. Nana Agyq\" and describes it: I’ve got a tape I want to play… The great Ghanaian artist Mr. Nana Agyq’s already classic version of The Talking Heads movie Stop Making Sense is finally available as a $25 print! Our most popular work of all time, scroll to see a shot of the artist with his original painting 🥇",
+   "hue": 6.63,
+   "light": 0.4676,
+   "chroma": 0.5097
+  },
+  "deadlypreygallery.com::sister-act-limited-edition-archival-giclee-print-from-static-medium-by-heavy-j": {
+   "id": "CRVI000700",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000700.jpg",
+   "original_px": [
+    2110,
+    3066
+   ],
+   "original_bytes": 1772826,
+   "identity": "deadlypreygallery.com::sister-act-limited-edition-archival-giclee-print-from-static-medium-by-heavy-j",
+   "maker": "Heavy J",
+   "title": "Sister Act",
+   "subtitle": "Hand-painted Ghanaian film poster",
+   "source_url": "https://deadly-prey-gallery.myshopify.com/products/sister-act-limited-edition-archival-giclee-print-from-static-medium-by-heavy-j",
+   "verified_against": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"Sister Act - Limited Edition Archival Giclée Print from Static Medium by Heavy J\" and describes it: Some sort of demented hold spirit is running strong through this poster 😂 Originally painted by the great Ghanaian artist Heavy J, this one is very special as Sister Act is long beloved in Ghana since its release in 1992. One of our most wild posters of all time, we‘re so excited to release this it ",
+   "notes": [
+    "Hand-painted poster in the tradition of Ghana's mobile cinema banners, which were painted on recycled flour sacks to advertise travelling video screenings. Deadly Prey Gallery commissions new work from these painters, so this is a contemporary painting in that tradition rather than a poster recovered from the video-club circuit; several of the films it depicts never played there.",
+    "This one is sold as a limited archival giclee, and the gallery has no flat reproduction of it — the only whole view is a photograph of the print held up against a wall. The image here is that photograph, squared up by a perspective transform and cropped to the painted area, so it is a picture of a print of the painting and its colour is the colour of that room's light.",
+    "No date is recorded. The gallery gives none and none is legible on the painting, so the year is left blank rather than inferred from the film's release.",
+    "The gallery notes that Sister Act \"is long beloved in Ghana since its release in 1992\". That is the film's date, not the painting's, and is not used to date this object."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/cropped/sister-act-limited-edition-archival-giclee-pr__0.jpg",
+   "source_px": [
+    2110,
+    3066
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Heavy J"
+    },
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "Ghana"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"Sister Act - Limited Edition Archival Giclée Print from Static Medium by Heavy J\" and describes it: Some sort of demented hold spirit is running strong through this poster 😂 Originally painted by the great Ghanaian artist Heavy J, this one is very special as Sister Act is long beloved in Ghana since its release in 1992. One of our most wild posters of all time, we‘re so excited to release this it",
+   "hue": 6.69,
+   "light": 0.4533,
+   "chroma": 0.58
+  },
+  "deadlypreygallery.com::seven-samurai-high-quality-print-c-a-wisely": {
+   "id": "CRVI000701",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000701.jpg",
+   "original_px": [
+    1803,
+    2681
+   ],
+   "original_bytes": 2192585,
+   "identity": "deadlypreygallery.com::seven-samurai-high-quality-print-c-a-wisely",
+   "maker": "C.A. Wisely",
+   "title": "Seven Samurai",
+   "subtitle": "Hand-painted Ghanaian film poster",
+   "source_url": "https://deadly-prey-gallery.myshopify.com/products/seven-samurai-high-quality-print-c-a-wisely",
+   "verified_against": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"SEVEN SAMURAI (High Quality Print) - C.A. Wisely\" and describes it: Seven Samurai 🔥 Originally painted by the great Ghanaian artist C.A. Wisely, it’s our very first Kurosawa interpretation!",
+   "notes": [
+    "Hand-painted poster in the tradition of Ghana's mobile cinema banners, which were painted on recycled flour sacks to advertise travelling video screenings. Deadly Prey Gallery commissions new work from these painters, so this is a contemporary painting in that tradition rather than a poster recovered from the video-club circuit; several of the films it depicts never played there.",
+    "The image is the gallery's reproduction of the original painting, cropped here to the painted area — their print carries the gallery's logo and the artist's stamp on the white margin below, which are not part of the painting.",
+    "No date is recorded. The gallery gives none and none is legible on the painting, so the year is left blank rather than inferred from the film's release."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/cropped/seven-samurai-high-quality-print-c-a-wisely__0.jpg",
+   "source_px": [
+    1803,
+    2681
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "C.A. Wisely"
+    },
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "Ghana"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"SEVEN SAMURAI (High Quality Print) - C.A. Wisely\" and describes it: Seven Samurai 🔥 Originally painted by the great Ghanaian artist C.A. Wisely, it’s our very first Kurosawa interpretation!",
+   "hue": 357.12,
+   "light": 0.5897,
+   "chroma": 0.687
+  },
+  "deadlypreygallery.com::raising-arizona-high-quality-print-heavy-j": {
+   "id": "CRVI000702",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000702.jpg",
+   "original_px": [
+    1381,
+    2138
+   ],
+   "original_bytes": 1426447,
+   "identity": "deadlypreygallery.com::raising-arizona-high-quality-print-heavy-j",
+   "maker": "Heavy J",
+   "title": "Raising Arizona",
+   "subtitle": "Hand-painted Ghanaian film poster",
+   "source_url": "https://deadly-prey-gallery.myshopify.com/products/raising-arizona-high-quality-print-heavy-j",
+   "verified_against": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"RAISING ARIZONA (High Quality Print) - Heavy J\" and describes it: The great Ghanaian artist Heavy J’s killer Randall Tex version of Raising Arizona is finally available as a $25 print 🔥",
+   "notes": [
+    "Hand-painted poster in the tradition of Ghana's mobile cinema banners, which were painted on recycled flour sacks to advertise travelling video screenings. Deadly Prey Gallery commissions new work from these painters, so this is a contemporary painting in that tradition rather than a poster recovered from the video-club circuit; several of the films it depicts never played there.",
+    "The image is the gallery's reproduction of the original painting, cropped here to the painted area — their print carries the gallery's logo and the artist's stamp on the white margin below, which are not part of the painting.",
+    "No date is recorded. The gallery gives none and none is legible on the painting, so the year is left blank rather than inferred from the film's release."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/cropped/raising-arizona-high-quality-print-heavy-j__0.jpg",
+   "source_px": [
+    1381,
+    2138
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Heavy J"
+    },
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "Ghana"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"RAISING ARIZONA (High Quality Print) - Heavy J\" and describes it: The great Ghanaian artist Heavy J’s killer Randall Tex version of Raising Arizona is finally available as a $25 print 🔥",
+   "hue": 8.48,
+   "light": 0.4631,
+   "chroma": 0.7551
+  },
+  "deadlypreygallery.com::pi-high-quality-print-c-a-wisely": {
+   "id": "CRVI000703",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000703.jpg",
+   "original_px": [
+    1244,
+    1855
+   ],
+   "original_bytes": 878650,
+   "identity": "deadlypreygallery.com::pi-high-quality-print-c-a-wisely",
+   "maker": "C.A. Wisely",
+   "title": "Pi",
+   "subtitle": "Hand-painted Ghanaian film poster",
+   "source_url": "https://deadly-prey-gallery.myshopify.com/products/pi-high-quality-print-c-a-wisely",
+   "verified_against": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"PI (High Quality Print) - C.A. Wisely\" and describes it: Rabbi Cohen is definitely not f’n around!!! Hard to believe Darren Aronofsky’s remarkable film Pi is 25 years old this month 🖤 To celebrate we’ve released this incredible print of the great Ghanaian artist C.A. Wisely’s original painting.",
+   "notes": [
+    "Hand-painted poster in the tradition of Ghana's mobile cinema banners, which were painted on recycled flour sacks to advertise travelling video screenings. Deadly Prey Gallery commissions new work from these painters, so this is a contemporary painting in that tradition rather than a poster recovered from the video-club circuit; several of the films it depicts never played there.",
+    "The image is the gallery's reproduction of the original painting, cropped here to the painted area — their print carries the gallery's logo and the artist's stamp on the white margin below, which are not part of the painting.",
+    "No date is recorded. The gallery gives none and none is legible on the painting, so the year is left blank rather than inferred from the film's release.",
+    "Released by the gallery to mark 25 years since Aronofsky's film, which dates the print rather than the painting."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/cropped/pi-high-quality-print-c-a-wisely__0.jpg",
+   "source_px": [
+    1244,
+    1855
+   ],
+   "colors": [
+    "pink"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "C.A. Wisely"
+    },
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "Ghana"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"PI (High Quality Print) - C.A. Wisely\" and describes it: Rabbi Cohen is definitely not f’n around!!! Hard to believe Darren Aronofsky’s remarkable film Pi is 25 years old this month 🖤 To celebrate we’ve released this incredible print of the great Ghanaian artist C.A. Wisely’s original painting.",
+   "hue": 344.92,
+   "light": 0.391,
+   "chroma": 0.1264
+  },
+  "deadlypreygallery.com::oppenheimer-limited-edition-archival-giclee-print-from-static-medium-by-magasco": {
+   "id": "CRVI000704",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000704.jpg",
+   "original_px": [
+    2018,
+    2890
+   ],
+   "original_bytes": 1718746,
+   "identity": "deadlypreygallery.com::oppenheimer-limited-edition-archival-giclee-print-from-static-medium-by-magasco",
+   "maker": "Farkira",
+   "title": "Oppenheimer",
+   "subtitle": "Hand-painted Ghanaian film poster",
+   "source_url": "https://deadly-prey-gallery.myshopify.com/products/oppenheimer-limited-edition-archival-giclee-print-from-static-medium-by-magasco",
+   "verified_against": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"Oppenheimer - Limited Edition Archival Giclée Print from Static Medium by Farkira\" and describes it: This haunting, demonic version of Oppenheimer is our 102nd limited edition archival print release with Static Medium! Originally painted by the great Ghanaian artist Farkira, scroll left to see a photo of him at his studio in Accra 🇬🇭 Here’s some details on the nicest prints in existence:",
+   "notes": [
+    "Hand-painted poster in the tradition of Ghana's mobile cinema banners, which were painted on recycled flour sacks to advertise travelling video screenings. Deadly Prey Gallery commissions new work from these painters, so this is a contemporary painting in that tradition rather than a poster recovered from the video-club circuit; several of the films it depicts never played there.",
+    "This one is sold as a limited archival giclee, and the gallery has no flat reproduction of it — the only whole view is a photograph of the print held up against a wall. The image here is that photograph, squared up by a perspective transform and cropped to the painted area, so it is a picture of a print of the painting and its colour is the colour of that room's light.",
+    "No date is recorded. The gallery gives none and none is legible on the painting, so the year is left blank rather than inferred from the film's release.",
+    "The gallery credits Farkira and shows a photograph of him at his studio in Accra. Its own URL still ends 'by-magasco', an earlier attribution it appears to have corrected in the title and text but not the handle; the identity key here follows the URL because that is what the link resolves to."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/cropped/oppenheimer-limited-edition-archival-giclee-p__0.jpg",
+   "source_px": [
+    2018,
+    2890
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Farkira"
+    },
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "Ghana"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"Oppenheimer - Limited Edition Archival Giclée Print from Static Medium by Farkira\" and describes it: This haunting, demonic version of Oppenheimer is our 102nd limited edition archival print release with Static Medium! Originally painted by the great Ghanaian artist Farkira, scroll left to see a photo of him at his studio in Accra 🇬🇭 Here’s some details on the nicest prints in existence:",
+   "hue": 25.09,
+   "light": 0.4605,
+   "chroma": 0.7211
+  },
+  "deadlypreygallery.com::pee-wee-s-big-adventure-high-quality-print-heavy-j-1": {
+   "id": "CRVI000705",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000705.jpg",
+   "original_px": [
+    1615,
+    2117
+   ],
+   "original_bytes": 1473591,
+   "identity": "deadlypreygallery.com::pee-wee-s-big-adventure-high-quality-print-heavy-j-1",
+   "maker": "Heavy J",
+   "title": "Pee-Wee's Big Adventure",
+   "subtitle": "Hand-painted Ghanaian film poster",
+   "source_url": "https://deadly-prey-gallery.myshopify.com/products/pee-wee-s-big-adventure-high-quality-print-heavy-j-1",
+   "verified_against": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"PEE-WEE’S BIG ADVENTURE (High Quality Print) - Heavy J\" and describes it: Shortly before the death of the legendary actor Paul Reubens, our friend the great Ghanaian artist Heavy J made a remarkable painting of Pee-wee’s Big Adventure. Before today it was only available in the larger, pricier archival print, so we are very proud to present it in this lovely $25 version!",
+   "notes": [
+    "Hand-painted poster in the tradition of Ghana's mobile cinema banners, which were painted on recycled flour sacks to advertise travelling video screenings. Deadly Prey Gallery commissions new work from these painters, so this is a contemporary painting in that tradition rather than a poster recovered from the video-club circuit; several of the films it depicts never played there.",
+    "The image is the gallery's reproduction of the original painting, cropped here to the painted area — their print carries the gallery's logo and the artist's stamp on the white margin below, which are not part of the painting.",
+    "No date is recorded. The gallery gives none and none is legible on the painting, so the year is left blank rather than inferred from the film's release.",
+    "The gallery says Heavy J made the painting shortly before the actor Paul Reubens died, which places it around 2023. That is the gallery's phrasing rather than a date it states, so the year is left unset."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/cropped/pee-wee-s-big-adventure-high-quality-print-he__0.jpg",
+   "source_px": [
+    1615,
+    2117
+   ],
+   "colors": [
+    "red",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Heavy J"
+    },
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "Ghana"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"PEE-WEE’S BIG ADVENTURE (High Quality Print) - Heavy J\" and describes it: Shortly before the death of the legendary actor Paul Reubens, our friend the great Ghanaian artist Heavy J made a remarkable painting of Pee-wee’s Big Adventure. Before today it was only available in the larger, pricier archival print, so we are very proud to present it in this lovely $25 version!",
+   "hue": 201.55,
+   "light": 0.6411,
+   "chroma": 0.7803
+  },
+  "deadlypreygallery.com::my-neighbor-totoro-limited-edition-archival-giclee-print-from-static-medium-by-c-a-wisely-version-2": {
+   "id": "CRVI000706",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000706.jpg",
+   "original_px": [
+    790,
+    1132
+   ],
+   "original_bytes": 435970,
+   "identity": "deadlypreygallery.com::my-neighbor-totoro-limited-edition-archival-giclee-print-from-static-medium-by-c-a-wisely-version-2",
+   "maker": "C.A. Wisely",
+   "title": "My Neighbor Totoro",
+   "subtitle": "Hand-painted Ghanaian film poster",
+   "source_url": "https://deadly-prey-gallery.myshopify.com/products/my-neighbor-totoro-limited-edition-archival-giclee-print-from-static-medium-by-c-a-wisely-version-2",
+   "verified_against": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"My Neighbor Totoro - Limited Edition Archival Giclée Print from Static Medium by C.A. Wisely (Version 2)\" and describes it: Totoro parties go hard 🤪 The great Ghanaian artist C.A. Wisely took this classic Miyazaki film to a place we did not expect!!! Over the past couple months several artists in Accra have tried their hand at reinterpreting movie posters from the king of Japanese animation and we’re so happy they did. P",
+   "notes": [
+    "Hand-painted poster in the tradition of Ghana's mobile cinema banners, which were painted on recycled flour sacks to advertise travelling video screenings. Deadly Prey Gallery commissions new work from these painters, so this is a contemporary painting in that tradition rather than a poster recovered from the video-club circuit; several of the films it depicts never played there.",
+    "This one is sold as a limited archival giclee, and the gallery has no flat reproduction of it — the only whole view is a photograph of the print held up against a wall. The image here is that photograph, squared up by a perspective transform and cropped to the painted area, so it is a picture of a print of the painting and its colour is the colour of that room's light.",
+    "No date is recorded. The gallery gives none and none is legible on the painting, so the year is left blank rather than inferred from the film's release.",
+    "The gallery calls this Version 2 and says several Accra painters reinterpreted Miyazaki posters over the same couple of months, so more than one painting of this subject exists."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/cropped/my-neighbor-totoro-limited-edition-archival-g__0.jpg",
+   "source_px": [
+    790,
+    1132
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "C.A. Wisely"
+    },
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "Ghana"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"My Neighbor Totoro - Limited Edition Archival Giclée Print from Static Medium by C.A. Wisely (Version 2)\" and describes it: Totoro parties go hard 🤪 The great Ghanaian artist C.A. Wisely took this classic Miyazaki film to a place we did not expect!!! Over the past couple months several artists in Accra have tried their hand at reinterpreting movie posters from the king of Japanese animation and we’re so happy they did. P",
+   "hue": 212.74,
+   "light": 0.425,
+   "chroma": 0.7486
+  },
+  "deadlypreygallery.com::la-haine-high-quality-print-c-a-wisely": {
+   "id": "CRVI000707",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000707.jpg",
+   "original_px": [
+    1778,
+    2640
+   ],
+   "original_bytes": 1768519,
+   "identity": "deadlypreygallery.com::la-haine-high-quality-print-c-a-wisely",
+   "maker": "C.A. Wisely",
+   "title": "La Haine",
+   "subtitle": "Hand-painted Ghanaian film poster",
+   "source_url": "https://deadly-prey-gallery.myshopify.com/products/la-haine-high-quality-print-c-a-wisely",
+   "verified_against": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"LA HAINE (High Quality Print) - C.A. Wisely\" and describes it: This beautiful La Haine version painted by the great Ghanaian artist C.A. Wisely has been a fan favorite for years!! This not only speaks volumes to the underground esteel of this great film by Mathieu Kassovitz, but also the exquisite artistry of the painter. We’re so happy to make it available aga",
+   "notes": [
+    "Hand-painted poster in the tradition of Ghana's mobile cinema banners, which were painted on recycled flour sacks to advertise travelling video screenings. Deadly Prey Gallery commissions new work from these painters, so this is a contemporary painting in that tradition rather than a poster recovered from the video-club circuit; several of the films it depicts never played there.",
+    "The image is the gallery's reproduction of the original painting, cropped here to the painted area — their print carries the gallery's logo and the artist's stamp on the white margin below, which are not part of the painting.",
+    "No date is recorded. The gallery gives none and none is legible on the painting, so the year is left blank rather than inferred from the film's release."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/cropped/la-haine-high-quality-print-c-a-wisely__0.jpg",
+   "source_px": [
+    1778,
+    2640
+   ],
+   "colors": [
+    "yellow",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "C.A. Wisely"
+    },
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "Ghana"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"LA HAINE (High Quality Print) - C.A. Wisely\" and describes it: This beautiful La Haine version painted by the great Ghanaian artist C.A. Wisely has been a fan favorite for years!! This not only speaks volumes to the underground esteel of this great film by Mathieu Kassovitz, but also the exquisite artistry of the painter. We’re so happy to make it available aga",
+   "hue": 54.64,
+   "light": 0.3824,
+   "chroma": 0.2318
+  },
+  "deadlypreygallery.com::heat-high-quality-print-c-a-wisely": {
+   "id": "CRVI000708",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000708.jpg",
+   "original_px": [
+    1423,
+    2124
+   ],
+   "original_bytes": 1462763,
+   "identity": "deadlypreygallery.com::heat-high-quality-print-c-a-wisely",
+   "maker": "C.A. Wisely",
+   "title": "Heat",
+   "subtitle": "Hand-painted Ghanaian film poster",
+   "source_url": "https://deadly-prey-gallery.myshopify.com/products/heat-high-quality-print-c-a-wisely",
+   "verified_against": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"HEAT (High Quality Print) - C.A. Wisely\" and describes it: The great Ghanaian artist C.A. Wisely’s unreal version of Heat is finally available as a $25 print 🔥",
+   "notes": [
+    "Hand-painted poster in the tradition of Ghana's mobile cinema banners, which were painted on recycled flour sacks to advertise travelling video screenings. Deadly Prey Gallery commissions new work from these painters, so this is a contemporary painting in that tradition rather than a poster recovered from the video-club circuit; several of the films it depicts never played there.",
+    "The image is the gallery's reproduction of the original painting, cropped here to the painted area — their print carries the gallery's logo and the artist's stamp on the white margin below, which are not part of the painting.",
+    "No date is recorded. The gallery gives none and none is legible on the painting, so the year is left blank rather than inferred from the film's release."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/cropped/heat-high-quality-print-c-a-wisely__0.jpg",
+   "source_px": [
+    1423,
+    2124
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "C.A. Wisely"
+    },
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "Ghana"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"HEAT (High Quality Print) - C.A. Wisely\" and describes it: The great Ghanaian artist C.A. Wisely’s unreal version of Heat is finally available as a $25 print 🔥",
+   "hue": 355.52,
+   "light": 0.5074,
+   "chroma": 0.6576
+  },
+  "deadlypreygallery.com::i-think-you-should-leave-high-quality-print-heavy-j": {
+   "id": "CRVI000709",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000709.jpg",
+   "original_px": [
+    1599,
+    2108
+   ],
+   "original_bytes": 1448051,
+   "identity": "deadlypreygallery.com::i-think-you-should-leave-high-quality-print-heavy-j",
+   "maker": "Heavy J",
+   "title": "I Think You Should Leave",
+   "subtitle": "Hand-painted Ghanaian film poster",
+   "source_url": "https://deadly-prey-gallery.myshopify.com/products/i-think-you-should-leave-high-quality-print-heavy-j",
+   "verified_against": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"I THINK YOU SHOULD LEAVE (High Quality Print) - Heavy J\" and describes it: A complicated design like this for 25 bucks out the door!?! Believe it 😎 The great Tim Robinson & the great Sam Richardson in I Think You Should Leave by the great Ghanaian artist Heavy! Available for the first time in this open edition $25 print version.",
+   "notes": [
+    "Hand-painted poster in the tradition of Ghana's mobile cinema banners, which were painted on recycled flour sacks to advertise travelling video screenings. Deadly Prey Gallery commissions new work from these painters, so this is a contemporary painting in that tradition rather than a poster recovered from the video-club circuit; several of the films it depicts never played there.",
+    "The image is the gallery's reproduction of the original painting, cropped here to the painted area — their print carries the gallery's logo and the artist's stamp on the white margin below, which are not part of the painting.",
+    "No date is recorded. The gallery gives none and none is legible on the painting, so the year is left blank rather than inferred from the film's release."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/cropped/i-think-you-should-leave-high-quality-print-h__0.jpg",
+   "source_px": [
+    1599,
+    2108
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Heavy J"
+    },
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "Ghana"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    },
+    {
+     "k": "subject",
+     "v": "television"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"I THINK YOU SHOULD LEAVE (High Quality Print) - Heavy J\" and describes it: A complicated design like this for 25 bucks out the door!?! Believe it 😎 The great Tim Robinson & the great Sam Richardson in I Think You Should Leave by the great Ghanaian artist Heavy! Available for the first time in this open edition $25 print version.",
+   "hue": 7.61,
+   "light": 0.5893,
+   "chroma": 0.7912
   }
  }
 }
