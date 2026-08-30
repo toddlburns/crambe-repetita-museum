@@ -1,5 +1,5 @@
 {
- "next": 665,
+ "next": 681,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -36671,6 +36671,968 @@
    "hue": null,
    "light": 0.2243,
    "chroma": 0.0939
+  },
+  "asme.media::2020::gq::the long adolescence of lucas hedges": {
+   "id": "CRVI000665",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000665.jpg",
+   "original_px": [
+    1105,
+    751
+   ],
+   "original_bytes": 396731,
+   "identity": "asme.media::2020::gq::the long adolescence of lucas hedges",
+   "maker": "Ryan McGinley",
+   "title": "The Long Adolescence of Lucas Hedges",
+   "subtitle": "GQ, March 2019",
+   "year": "2019",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2020, which lists it as finalist: GQ, \" The Long Adolescence of Lucas Hedges ,\" March 2019 (Will Welch, Editor in Chief; Ryan McGinley, Photographer)",
+   "source_url": "https://www.asme.media/winners-and-finalists-2020",
+   "notes": [
+    "ASME Best Cover Contest 2020 — finalist.",
+    "Cropped out of a screenshot of the ASME results page.",
+    "Editors-in-chief listed by ASME are omitted from the maker line; design, illustration and photography credits are kept."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme2/IMG_5305.jpg",
+   "source_px": [
+    1105,
+    751
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "photographer",
+     "v": "Ryan McGinley"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "GQ"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2020, which lists it as finalist: GQ, \" The Long Adolescence of Lucas Hedges ,\" March 2019 (Will Welch, Editor in Chief; Ryan McGinley, Photographer)",
+   "hue": 209.37,
+   "light": 0.5684,
+   "chroma": 0.5909
+  },
+  "asme.media::2020::aarp the magazine::inside the social security phone scam": {
+   "id": "CRVI000666",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000666.jpg",
+   "original_px": [
+    800,
+    582
+   ],
+   "original_bytes": 179456,
+   "identity": "asme.media::2020::aarp the magazine::inside the social security phone scam",
+   "maker": "Lesley Q. Palmer, Katrina Zook, Dan Saelinger",
+   "title": "Inside the Social Security Phone Scam",
+   "subtitle": "AARP The Magazine, April/May 2019",
+   "year": "2019",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2020, which lists it as finalist: AARP The Magazine, \" Inside the Social Security Phone Scam ,\" April/May 2019 (Robert Love, Editor in Chief; Lesley Q. Palmer, Art Director; Katrina Zook, Photo Editor; Dan Saelinger, Photographer)",
+   "source_url": "https://www.asme.media/winners-and-finalists-2020",
+   "notes": [
+    "ASME Best Cover Contest 2020 — finalist.",
+    "Cropped out of a screenshot of the ASME results page.",
+    "Editors-in-chief listed by ASME are omitted from the maker line; design, illustration and photography credits are kept."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme2/IMG_5306.jpg",
+   "source_px": [
+    800,
+    582
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "art director",
+     "v": "Lesley Q. Palmer"
+    },
+    {
+     "k": "art director",
+     "v": "Katrina Zook"
+    },
+    {
+     "k": "photographer",
+     "v": "Dan Saelinger"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "AARP The Magazine"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2020, which lists it as finalist: AARP The Magazine, \" Inside the Social Security Phone Scam ,\" April/May 2019 (Robert Love, Editor in Chief; Lesley Q. Palmer, Art Director; Katrina Zook, Photo Editor; Dan Saelinger, Photographer)",
+   "hue": 205.46,
+   "light": 0.5813,
+   "chroma": 0.6928
+  },
+  "asme.media::2020::gq::how i broke my smartphone addiction": {
+   "id": "CRVI000667",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000667.jpg",
+   "original_px": [
+    1106,
+    618
+   ],
+   "original_bytes": 173661,
+   "identity": "asme.media::2020::gq::how i broke my smartphone addiction",
+   "maker": "Simon Abranowicz",
+   "title": "How I Broke My Smartphone Addiction",
+   "subtitle": "GQ, November 27, 2019",
+   "year": "2019",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2020, which lists it as finalist: GQ, \" How I Broke My Smartphone Addiction ,\" November 27, 2019 (Will Welch, Editor in Chief; Simon Abranowicz, Illustrator)",
+   "source_url": "https://www.asme.media/winners-and-finalists-2020",
+   "notes": [
+    "ASME Best Cover Contest 2020 — finalist.",
+    "Cropped out of a screenshot of the ASME results page.",
+    "Editors-in-chief listed by ASME are omitted from the maker line; design, illustration and photography credits are kept."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme2/IMG_5307.jpg",
+   "source_px": [
+    1106,
+    618
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "illustrator",
+     "v": "Simon Abranowicz"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "GQ"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2020, which lists it as finalist: GQ, \" How I Broke My Smartphone Addiction ,\" November 27, 2019 (Will Welch, Editor in Chief; Simon Abranowicz, Illustrator)",
+   "hue": 204.94,
+   "light": 0.6539,
+   "chroma": 0.9316
+  },
+  "asme.media::2020::the atlantic::how to stop a civil war": {
+   "id": "CRVI000668",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000668.jpg",
+   "original_px": [
+    1104,
+    1472
+   ],
+   "original_bytes": 189399,
+   "identity": "asme.media::2020::the atlantic::how to stop a civil war",
+   "maker": "Sam Kaplan, Brian Byrne",
+   "title": "How to Stop a Civil War",
+   "subtitle": "The Atlantic, December 2019",
+   "year": "2019",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2020, which lists it as finalist: The Atlantic, \"How to Stop a Civil War,\" December 2019 (Jeffrey Goldberg, Editor in Chief; Sam Kaplan, Photographer; Brian Byrne, Stylist)",
+   "source_url": "https://www.asme.media/winners-and-finalists-2020",
+   "notes": [
+    "ASME Best Cover Contest 2020 — finalist.",
+    "Cropped out of a screenshot of the ASME results page.",
+    "Editors-in-chief listed by ASME are omitted from the maker line; design, illustration and photography credits are kept."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme2/IMG_5308.jpg",
+   "source_px": [
+    1104,
+    1472
+   ],
+   "colors": [
+    "red",
+    "blue",
+    "white"
+   ],
+   "tags": [
+    {
+     "k": "photographer",
+     "v": "Sam Kaplan"
+    },
+    {
+     "k": "designer",
+     "v": "Brian Byrne"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The Atlantic"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2020, which lists it as finalist: The Atlantic, \"How to Stop a Civil War,\" December 2019 (Jeffrey Goldberg, Editor in Chief; Sam Kaplan, Photographer; Brian Byrne, Stylist)",
+   "hue": 358.91,
+   "light": 0.8278,
+   "chroma": 0.2018
+  },
+  "asme.media::2020::bloomberg businessweek::hong kongs countdown to 2047": {
+   "id": "CRVI000669",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000669.jpg",
+   "original_px": [
+    1104,
+    1472
+   ],
+   "original_bytes": 434105,
+   "identity": "asme.media::2020::bloomberg businessweek::hong kongs countdown to 2047",
+   "maker": "Unknown",
+   "title": "Hong Kong's Countdown to 2047",
+   "subtitle": "Bloomberg Businessweek, August 19, 2019",
+   "year": "2019",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2020, which lists it as finalist: Bloomberg Businessweek, \"Hong Kong's Countdown to 2047,\" August 19, 2019 (Joel Weber, Editor)",
+   "source_url": "https://www.asme.media/winners-and-finalists-2020",
+   "notes": [
+    "ASME Best Cover Contest 2020 — finalist.",
+    "Cropped out of a screenshot of the ASME results page.",
+    "Editors-in-chief listed by ASME are omitted from the maker line; design, illustration and photography credits are kept."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme2/IMG_5309.jpg",
+   "source_px": [
+    1104,
+    1472
+   ],
+   "colors": [
+    "blue",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Bloomberg Businessweek"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2020, which lists it as finalist: Bloomberg Businessweek, \"Hong Kong's Countdown to 2047,\" August 19, 2019 (Joel Weber, Editor)",
+   "hue": 214.49,
+   "light": 0.3578,
+   "chroma": 0.6418
+  },
+  "asme.media::2020::the new york times magazine::boeing": {
+   "id": "CRVI000670",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000670.jpg",
+   "original_px": [
+    1104,
+    1343
+   ],
+   "original_bytes": 141781,
+   "identity": "asme.media::2020::the new york times magazine::boeing",
+   "maker": "Gail Bichler, Matt Dorfman",
+   "title": "Boeing",
+   "subtitle": "The New York Times Magazine, September 22, 2019",
+   "year": "2019",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2020, which lists it as finalist: The New York Times Magazine, \"Boeing,\" September 22, 2019 (Jake Silverstein, Editor in Chief; Gail Bichler, Design Director; Matt Dorfman, Illustrator)",
+   "source_url": "https://www.asme.media/winners-and-finalists-2020",
+   "notes": [
+    "ASME Best Cover Contest 2020 — finalist.",
+    "Cropped out of a screenshot of the ASME results page.",
+    "Editors-in-chief listed by ASME are omitted from the maker line; design, illustration and photography credits are kept."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme2/IMG_5310.jpg",
+   "source_px": [
+    1104,
+    1343
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "art director",
+     "v": "Gail Bichler"
+    },
+    {
+     "k": "illustrator",
+     "v": "Matt Dorfman"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New York Times Magazine"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2020, which lists it as finalist: The New York Times Magazine, \"Boeing,\" September 22, 2019 (Jake Silverstein, Editor in Chief; Gail Bichler, Design Director; Matt Dorfman, Illustrator)",
+   "hue": null,
+   "light": 0.7148,
+   "chroma": 0.0044
+  },
+  "asme.media::2020::the new york times magazine::madonna at 60": {
+   "id": "CRVI000671",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000671.jpg",
+   "original_px": [
+    1104,
+    1343
+   ],
+   "original_bytes": 299343,
+   "identity": "asme.media::2020::the new york times magazine::madonna at 60",
+   "maker": "Gail Bichler, Kathy Ryan, JR",
+   "title": "Madonna at 60",
+   "subtitle": "The New York Times Magazine, June 9, 2019",
+   "year": "2019",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2020, which lists it as joint winner: The New York Times Magazine, \"Madonna at 60,\" June 9, 2019 (Jake Silverstein, Editor in Chief; Gail Bichler, Design Director; Kathy Ryan, Director of Photographer; JR, Photographer)",
+   "source_url": "https://www.asme.media/winners-and-finalists-2020",
+   "notes": [
+    "ASME Best Cover Contest 2020 — joint winner.",
+    "Cropped out of a screenshot of the ASME results page.",
+    "Editors-in-chief listed by ASME are omitted from the maker line; design, illustration and photography credits are kept."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme2/IMG_5311.jpg",
+   "source_px": [
+    1104,
+    1343
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "photographer",
+     "v": "JR"
+    },
+    {
+     "k": "art director",
+     "v": "Gail Bichler"
+    },
+    {
+     "k": "photographer",
+     "v": "Kathy Ryan"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New York Times Magazine"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2020, which lists it as joint winner: The New York Times Magazine, \"Madonna at 60,\" June 9, 2019 (Jake Silverstein, Editor in Chief; Gail Bichler, Design Director; Kathy Ryan, Director of Photographer; JR, Photographer)",
+   "hue": null,
+   "light": 0.5361,
+   "chroma": 0.0071
+  },
+  "asme.media::2020::wsj magazine::the innovators issue::ethan james green": {
+   "id": "CRVI000672",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000672.jpg",
+   "original_px": [
+    1104,
+    1232
+   ],
+   "original_bytes": 395412,
+   "identity": "asme.media::2020::wsj magazine::the innovators issue::ethan james green",
+   "maker": "Magnus Berger, Jennifer Pastore, Ethan James Green",
+   "title": "The Innovators Issue",
+   "subtitle": "WSJ. Magazine, November 2019",
+   "year": "2019",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2020, which lists it as joint winner: WSJ. Magazine, \"The Innovators Issue,\" November 2019 (Kristina O'Neill, Editor in Chief; Magnus Berger, Creative Director; Jennifer Pastore, Executive Photography Director; Ethan James Green, Photographer)",
+   "source_url": "https://www.asme.media/winners-and-finalists-2020",
+   "notes": [
+    "ASME Best Cover Contest 2020 — joint winner.",
+    "Cropped out of a screenshot of the ASME results page.",
+    "Editors-in-chief listed by ASME are omitted from the maker line; design, illustration and photography credits are kept."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme2/IMG_5312.jpg",
+   "source_px": [
+    1104,
+    1232
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "art director",
+     "v": "Magnus Berger"
+    },
+    {
+     "k": "art director",
+     "v": "Jennifer Pastore"
+    },
+    {
+     "k": "photographer",
+     "v": "Ethan James Green"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "WSJ. Magazine"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2020, which lists it as joint winner: WSJ. Magazine, \"The Innovators Issue,\" November 2019 (Kristina O'Neill, Editor in Chief; Magnus Berger, Creative Director; Jennifer Pastore, Executive Photography Director; Ethan James Green, Photographer)",
+   "hue": 22.44,
+   "light": 0.4059,
+   "chroma": 0.287
+  },
+  "asme.media::2020::gq::the new masculinity issue": {
+   "id": "CRVI000673",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000673.jpg",
+   "original_px": [
+    1104,
+    1501
+   ],
+   "original_bytes": 463384,
+   "identity": "asme.media::2020::gq::the new masculinity issue",
+   "maker": "Rob Vargas, Alicia Tatone, Micaiah Carter",
+   "title": "The New Masculinity Issue",
+   "subtitle": "GQ, November 2019",
+   "year": "2019",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2020, which lists it as finalist: GQ, \"The New Masculinity Issue,\" November 2019 (Will Welch, Editor in Chief; Rob Vargas, Designer; Alicia Tatone, Illustrator; Micaiah Carter, Photographer)",
+   "source_url": "https://www.asme.media/winners-and-finalists-2020",
+   "notes": [
+    "ASME Best Cover Contest 2020 — finalist.",
+    "Cropped out of a screenshot of the ASME results page.",
+    "Editors-in-chief listed by ASME are omitted from the maker line; design, illustration and photography credits are kept."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme2/IMG_5313.jpg",
+   "source_px": [
+    1104,
+    1501
+   ],
+   "colors": [
+    "orange",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Rob Vargas"
+    },
+    {
+     "k": "illustrator",
+     "v": "Alicia Tatone"
+    },
+    {
+     "k": "photographer",
+     "v": "Micaiah Carter"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "GQ"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2020, which lists it as finalist: GQ, \"The New Masculinity Issue,\" November 2019 (Will Welch, Editor in Chief; Rob Vargas, Designer; Alicia Tatone, Illustrator; Micaiah Carter, Photographer)",
+   "hue": 42.08,
+   "light": 0.6475,
+   "chroma": 0.4994
+  },
+  "asme.media::2020::wsj magazine::the innovators issue::campbell addy": {
+   "id": "CRVI000674",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000674.jpg",
+   "original_px": [
+    1104,
+    1285
+   ],
+   "original_bytes": 382408,
+   "identity": "asme.media::2020::wsj magazine::the innovators issue::campbell addy",
+   "maker": "Magnus Berger, Jennifer Pastore, Campbell Addy",
+   "title": "The Innovators Issue",
+   "subtitle": "WSJ. Magazine, November 2019",
+   "year": "2019",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2020, which lists it as finalist: WSJ. Magazine, \"The Innovators Issue,\" November 2019 (Kristina O'Neill, Editor in Chief; Magnus Berger, Creative Director; Jennifer Pastore, Executive Photography Director; Campbell Addy, Photographer)",
+   "source_url": "https://www.asme.media/winners-and-finalists-2020",
+   "notes": [
+    "ASME Best Cover Contest 2020 — finalist.",
+    "Cropped out of a screenshot of the ASME results page.",
+    "Editors-in-chief listed by ASME are omitted from the maker line; design, illustration and photography credits are kept."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme2/IMG_5314.jpg",
+   "source_px": [
+    1104,
+    1285
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "art director",
+     "v": "Magnus Berger"
+    },
+    {
+     "k": "art director",
+     "v": "Jennifer Pastore"
+    },
+    {
+     "k": "photographer",
+     "v": "Campbell Addy"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "WSJ. Magazine"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2020, which lists it as finalist: WSJ. Magazine, \"The Innovators Issue,\" November 2019 (Kristina O'Neill, Editor in Chief; Magnus Berger, Creative Director; Jennifer Pastore, Executive Photography Director; Campbell Addy, Photographer)",
+   "hue": 17.18,
+   "light": 0.4367,
+   "chroma": 0.488
+  },
+  "asme.media::2020::bloomberg businessweek::the apology machine": {
+   "id": "CRVI000675",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000675.jpg",
+   "original_px": [
+    1104,
+    1472
+   ],
+   "original_bytes": 468350,
+   "identity": "asme.media::2020::bloomberg businessweek::the apology machine",
+   "maker": "Unknown",
+   "title": "The Apology Machine",
+   "subtitle": "Bloomberg Businessweek, March 18, 2019",
+   "year": "2019",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2020, which lists it as finalist: Bloomberg Businessweek, \"The Apology Machine,\" March 18, 2019 (Joel Weber, Editor)",
+   "source_url": "https://www.asme.media/winners-and-finalists-2020",
+   "notes": [
+    "ASME Best Cover Contest 2020 — finalist.",
+    "Cropped out of a screenshot of the ASME results page.",
+    "Editors-in-chief listed by ASME are omitted from the maker line; design, illustration and photography credits are kept."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme2/IMG_5315.jpg",
+   "source_px": [
+    1104,
+    1472
+   ],
+   "colors": [
+    "orange",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Bloomberg Businessweek"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2020, which lists it as finalist: Bloomberg Businessweek, \"The Apology Machine,\" March 18, 2019 (Joel Weber, Editor)",
+   "hue": 25.03,
+   "light": 0.2989,
+   "chroma": 0.5234
+  },
+  "asme.media::2020::new york::the golden age of pods": {
+   "id": "CRVI000676",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000676.jpg",
+   "original_px": [
+    969,
+    1314
+   ],
+   "original_bytes": 397688,
+   "identity": "asme.media::2020::new york::the golden age of pods",
+   "maker": "Tom Alberty, Bobby Doherty",
+   "title": "The Golden Age of Pods",
+   "subtitle": "New York, March 18-31, 2019",
+   "year": "2019",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2020, which lists it as finalist: New York, \"The Golden Age of Pods,\" March 18-31, 2019 (David Haskell, Editor in Chief; Tom Alberty, Designer; Bobby Doherty, Photographer)",
+   "source_url": "https://www.asme.media/winners-and-finalists-2020",
+   "notes": [
+    "ASME Best Cover Contest 2020 — finalist.",
+    "Cropped out of a screenshot of the ASME results page.",
+    "Editors-in-chief listed by ASME are omitted from the maker line; design, illustration and photography credits are kept."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme2/IMG_5316.jpg",
+   "source_px": [
+    969,
+    1314
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Tom Alberty"
+    },
+    {
+     "k": "photographer",
+     "v": "Bobby Doherty"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2020, which lists it as finalist: New York, \"The Golden Age of Pods,\" March 18-31, 2019 (David Haskell, Editor in Chief; Tom Alberty, Designer; Bobby Doherty, Photographer)",
+   "hue": 13.51,
+   "light": 0.6256,
+   "chroma": 0.4273
+  },
+  "asme.media::2020::new york::what instagram did to me": {
+   "id": "CRVI000677",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000677.jpg",
+   "original_px": [
+    1104,
+    1472
+   ],
+   "original_bytes": 428569,
+   "identity": "asme.media::2020::new york::what instagram did to me",
+   "maker": "Tom Alberty, Eva O'Leary",
+   "title": "What Instagram Did to Me",
+   "subtitle": "New York, September 16-29, 2019",
+   "year": "2019",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2020, which lists it as finalist: New York, \"What Instagram Did to Me,\" September 16-29, 2019 (David Haskell, Editor in Chief; Tom Alberty, Designer; Eva O’Leary, Photographer)",
+   "source_url": "https://www.asme.media/winners-and-finalists-2020",
+   "notes": [
+    "ASME Best Cover Contest 2020 — finalist.",
+    "Cropped out of a screenshot of the ASME results page.",
+    "Editors-in-chief listed by ASME are omitted from the maker line; design, illustration and photography credits are kept."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme2/IMG_5317.jpg",
+   "source_px": [
+    1104,
+    1472
+   ],
+   "colors": [
+    "orange",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Tom Alberty"
+    },
+    {
+     "k": "photographer",
+     "v": "Eva O'Leary"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2020, which lists it as finalist: New York, \"What Instagram Did to Me,\" September 16-29, 2019 (David Haskell, Editor in Chief; Tom Alberty, Designer; Eva O’Leary, Photographer)",
+   "hue": 22.95,
+   "light": 0.6935,
+   "chroma": 0.8632
+  },
+  "asme.media::2020::the new york times magazine::the tech  design issue": {
+   "id": "CRVI000678",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000678.jpg",
+   "original_px": [
+    1106,
+    1384
+   ],
+   "original_bytes": 501938,
+   "identity": "asme.media::2020::the new york times magazine::the tech  design issue",
+   "maker": "Gail Bichler, Kathy Ryan, Maurizio Cattelan, Pierpaolo Ferrari",
+   "title": "The Tech & Design Issue",
+   "subtitle": "The New York Times Magazine, November 17, 2019",
+   "year": "2019",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2020, which lists it as finalist: The New York Times Magazine, \"The Tech & Design Issue,\" November 17, 2019 (Jake Silverstein, Editor in Chief; Gail Bichler, Design Director; Kathy Ryan, Director of Photography; Maurizio Cattelan and Pierpaolo Ferrari, Photo Illustration)",
+   "source_url": "https://www.asme.media/winners-and-finalists-2020",
+   "notes": [
+    "ASME Best Cover Contest 2020 — finalist.",
+    "Cropped out of a screenshot of the ASME results page.",
+    "Editors-in-chief listed by ASME are omitted from the maker line; design, illustration and photography credits are kept."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme2/IMG_5318.jpg",
+   "source_px": [
+    1106,
+    1384
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "art director",
+     "v": "Gail Bichler"
+    },
+    {
+     "k": "art director",
+     "v": "Kathy Ryan"
+    },
+    {
+     "k": "illustrator",
+     "v": "Maurizio Cattelan"
+    },
+    {
+     "k": "illustrator",
+     "v": "Pierpaolo Ferrari"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New York Times Magazine"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2020, which lists it as finalist: The New York Times Magazine, \"The Tech & Design Issue,\" November 17, 2019 (Jake Silverstein, Editor in Chief; Gail Bichler, Design Director; Kathy Ryan, Director of Photography; Maurizio Cattelan and Pierpaolo Ferrari, Photo Illustration)",
+   "hue": 208.35,
+   "light": 0.5111,
+   "chroma": 0.7421
+  },
+  "asme.media::2020::vanity fair::for the love of lupita nyongo": {
+   "id": "CRVI000679",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000679.jpg",
+   "original_px": [
+    1108,
+    1552
+   ],
+   "original_bytes": 480823,
+   "identity": "asme.media::2020::vanity fair::for the love of lupita nyongo",
+   "maker": "Jackie Nickerson",
+   "title": "For the Love of Lupita Nyong'o",
+   "subtitle": "Vanity Fair, October 2019",
+   "year": "2019",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2020, which lists it as winner and readers' choice: Vanity Fair, \"For the Love of Lupita Nyong'o,\" October 2019 (Radhika Jones, Editor in Chief; Jackie Nickerson, Photographer)",
+   "source_url": "https://www.asme.media/winners-and-finalists-2020",
+   "notes": [
+    "ASME Best Cover Contest 2020 — winner and readers' choice.",
+    "Cropped out of a screenshot of the ASME results page.",
+    "Editors-in-chief listed by ASME are omitted from the maker line; design, illustration and photography credits are kept."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme2/IMG_5321.jpg",
+   "source_px": [
+    1108,
+    1552
+   ],
+   "colors": [
+    "green",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "photographer",
+     "v": "Jackie Nickerson"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Vanity Fair"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2020, which lists it as winner and readers' choice: Vanity Fair, \"For the Love of Lupita Nyong'o,\" October 2019 (Radhika Jones, Editor in Chief; Jackie Nickerson, Photographer)",
+   "hue": 73.85,
+   "light": 0.5182,
+   "chroma": 0.9023
+  },
+  "asme.media::2020::wsj magazine::the sistine chapel": {
+   "id": "CRVI000680",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000680.jpg",
+   "original_px": [
+    1104,
+    1285
+   ],
+   "original_bytes": 692793,
+   "identity": "asme.media::2020::wsj magazine::the sistine chapel",
+   "maker": "Magnus Berger, Esmé René, Robert Polidori",
+   "title": "The Sistine Chapel",
+   "subtitle": "WSJ. Magazine, April 2019",
+   "year": "2019",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2020, which lists it as finalist: WSJ. Magazine, \"The Sistine Chapel,\" April 2019 (Kristina O'Neill, Editor in Chief; Magnus Berger, Creative Director; Esmé René, Contributing Photo Director; Robert Polidori, Photographer)",
+   "source_url": "https://www.asme.media/winners-and-finalists-2020",
+   "notes": [
+    "ASME Best Cover Contest 2020 — finalist.",
+    "Cropped out of a screenshot of the ASME results page.",
+    "Editors-in-chief listed by ASME are omitted from the maker line; design, illustration and photography credits are kept."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme2/IMG_5323.jpg",
+   "source_px": [
+    1104,
+    1285
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "art director",
+     "v": "Magnus Berger"
+    },
+    {
+     "k": "art director",
+     "v": "Esmé René"
+    },
+    {
+     "k": "photographer",
+     "v": "Robert Polidori"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "WSJ. Magazine"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2020, which lists it as finalist: WSJ. Magazine, \"The Sistine Chapel,\" April 2019 (Kristina O'Neill, Editor in Chief; Magnus Berger, Creative Director; Esmé René, Contributing Photo Director; Robert Polidori, Photographer)",
+   "hue": 29.19,
+   "light": 0.4468,
+   "chroma": 0.4295
   }
  }
 }
