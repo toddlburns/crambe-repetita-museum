@@ -1,5 +1,5 @@
 {
- "next": 614,
+ "next": 665,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -26141,9 +26141,9 @@
    "original_file": "originals/CRVI000486.jpg",
    "original_px": [
     1170,
-    1440
+    1393
    ],
-   "original_bytes": 269002,
+   "original_bytes": 261839,
    "identity": "ASME 2025::The New York Times Magazine::The Olympics Issue",
    "maker": "Philip Montgomery",
    "title": "The Olympics Issue",
@@ -26154,13 +26154,14 @@
    "notes": [
     "ASME award: Finalist.",
     "Cropped from Todd's screenshot of the ASME listing to the cover alone — the awards caption beneath it is not part of the object, though its credits are what this record is built from.",
-    "⚠️ The 2025 contest was the last: ASME discontinued the Best Cover Contest after it."
+    "⚠️ The 2025 contest was the last: ASME discontinued the Best Cover Contest after it.",
+    "Re-cropped 2026-08-29: the original capture included the Safari address bar at the top of the screenshot."
    ],
    "label": "",
-   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers/IMG_5213.jpg",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/fixchrome/CRVI000486.jpg",
    "source_px": [
     1170,
-    1440
+    1393
    ],
    "colors": [
     "neutral"
@@ -26191,8 +26192,8 @@
    "published": true,
    "verification": "American Society of Magazine Editors, Best Cover Contest 2025 (Finalist). ASME's own listing reads: The New York Times Magazine “The Olympics Issue,” July 28, 2024 Philip Montgomery, Photographer",
    "hue": null,
-   "light": 0.5881,
-   "chroma": 0.0266
+   "light": 0.6,
+   "chroma": 0.0271
   },
   "ASME 2025::The New York Times for Kids::The Games Issue": {
    "id": "CRVI000487",
@@ -26680,9 +26681,9 @@
    "original_file": "originals/CRVI000495.jpg",
    "original_px": [
     1170,
-    1652
+    1605
    ],
-   "original_bytes": 646540,
+   "original_bytes": 640084,
    "identity": "ASME::Vanity Fair::Pattern Player",
    "maker": "Justin Patrick Long",
    "title": "Pattern Player",
@@ -26693,13 +26694,14 @@
    "notes": [
     "ASME award: Finalist.",
     "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
-    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine."
+    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine.",
+    "Re-cropped 2026-08-29: the original capture included the Safari address bar at the top of the screenshot."
    ],
    "label": "",
-   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2021/IMG_5222.jpg",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/fixchrome/CRVI000495.jpg",
    "source_px": [
     1170,
-    1652
+    1605
    ],
    "colors": [
     "red",
@@ -26738,9 +26740,9 @@
    "identity_established": true,
    "published": true,
    "verification": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: Vanity Fair · \"Pattern Player,\" October 2020 · Radhika Jones, Editor in Chief · Justin Patrick Long, Designer · Tara Johnson, Photography Editor · Hassan Hajjaj, Photographer",
-   "hue": 348.68,
-   "light": 0.5638,
-   "chroma": 0.601
+   "hue": 348.94,
+   "light": 0.5737,
+   "chroma": 0.6169
   },
   "ASME::Bloomberg Businessweek::Is Google Hurting Small Business?": {
    "id": "CRVI000496",
@@ -27497,9 +27499,9 @@
    "original_file": "originals/CRVI000508.jpg",
    "original_px": [
     1170,
-    1685
+    1638
    ],
-   "original_bytes": 332487,
+   "original_bytes": 325918,
    "identity": "ASME::Variety::IMG_5237",
    "maker": "Raul Aguila",
    "title": "Wild About Harry",
@@ -27511,13 +27513,14 @@
     "ASME award: Finalist.",
     "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
     "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine.",
-    "Title recovered by hand from the caption."
+    "Title recovered by hand from the caption.",
+    "Re-cropped 2026-08-29: the original capture included the Safari address bar at the top of the screenshot."
    ],
    "label": "",
-   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2021/IMG_5237.jpg",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/fixchrome/CRVI000508.jpg",
    "source_px": [
     1170,
-    1685
+    1638
    ],
    "colors": [
     "orange",
@@ -27556,9 +27559,9 @@
    "identity_established": true,
    "published": true,
    "verification": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: Variety · \"Wild About Harry, December 2, 2020 · Claudia Eller, Editor in Chief · Raul Aguila, Designer · Jennifer Dorn, Photography Editor · Parker Woods, Photographer",
-   "hue": 214.32,
-   "light": 0.765,
-   "chroma": 0.3254
+   "hue": 214.26,
+   "light": 0.7802,
+   "chroma": 0.3368
   },
   "Bloomberg Businessweek::Anthony Fauci spread (7 Dec 2020)": {
    "id": "CRVI000509",
@@ -28965,9 +28968,9 @@
    "original_file": "originals/CRVI000531.jpg",
    "original_px": [
     1170,
-    1678
+    1601
    ],
-   "original_bytes": 403744,
+   "original_bytes": 379252,
    "identity": "ASME::New York::The Lunacy of Text-Based Therapy",
    "maker": "Unknown",
    "title": "The Lunacy of Text-Based Therapy",
@@ -28979,13 +28982,14 @@
     "ASME award: Winner.",
     "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
     "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine.",
-    "⚠️ No design credit could be parsed from the caption; none is claimed."
+    "⚠️ No design credit could be parsed from the caption; none is claimed.",
+    "Re-cropped 2026-08-29: the original capture included the Safari address bar at the top of the screenshot."
    ],
    "label": "",
-   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2022/IMG_5258.jpg",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/fixchrome/CRVI000531.jpg",
    "source_px": [
     1170,
-    1678
+    1601
    ],
    "colors": [
     "cyan",
@@ -29013,9 +29017,9 @@
    "identity_established": true,
    "published": true,
    "verification": "American Society of Magazine Editors Best Cover Contest (Winner). Credits read from ASME's own caption beneath the cover: New York · \"The Lunacy of Text-Based Therapy,\" March · 29-April 11, 2021 · David Haskell, Editor in Chief · - · 20",
-   "hue": 196.63,
-   "light": 0.8815,
-   "chroma": 0.1929
+   "hue": 196.16,
+   "light": 0.8814,
+   "chroma": 0.1973
   },
   "ASME::New York::3 Wednesdays in America": {
    "id": "CRVI000532",
@@ -33842,6 +33846,2831 @@
    "hue": 229.83,
    "light": 0.307,
    "chroma": 0.9524
+  },
+  "asme.media::2019::the new yorker::welcome to congress": {
+   "id": "CRVI000614",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000614.png",
+   "original_px": [
+    499,
+    680
+   ],
+   "original_bytes": 400112,
+   "identity": "asme.media::2019::the new yorker::welcome to congress",
+   "maker": "Barry Blitt",
+   "title": "Welcome to Congress",
+   "subtitle": "The New Yorker, November 19 2018",
+   "year": "2018",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2019, which lists it as finalist: The New Yorker, \"Welcome to Congress,\" November 19 (Barry Blitt, Illustrator). The citation gives no year; the 2019 contest honours covers published in 2018.",
+   "source_url": "https://www.asme.media/winners-and-finalists-2019",
+   "notes": [
+    "ASME Best Cover Contest 2019 — finalist.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/00.png",
+   "source_px": [
+    499,
+    680
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "illustrator",
+     "v": "Barry Blitt"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New Yorker"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2019, which lists it as finalist: The New Yorker, \"Welcome to Congress,\" November 19 (Barry Blitt, Illustrator). The citation gives no year; the 2019 contest honours covers published in 2018.",
+   "hue": 42.66,
+   "light": 0.8113,
+   "chroma": 0.2094
+  },
+  "asme.media::2019::time::stormy": {
+   "id": "CRVI000615",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000615.png",
+   "original_px": [
+    499,
+    660
+   ],
+   "original_bytes": 323471,
+   "identity": "asme.media::2019::time::stormy",
+   "maker": "D.W. Pine, Tim O'Brien",
+   "title": "Stormy",
+   "subtitle": "TIME, April 23 2018",
+   "year": "2018",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2019, which lists it as finalist: TIME, \"Stormy,\" April 23 (D.W. Pine, Designer; Tim O'Brien, Illustrator). The citation gives no year; the 2019 contest honours covers published in 2018.",
+   "source_url": "https://www.asme.media/winners-and-finalists-2019",
+   "notes": [
+    "ASME Best Cover Contest 2019 — finalist.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/01.png",
+   "source_px": [
+    499,
+    660
+   ],
+   "colors": [
+    "red",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "D.W. Pine"
+    },
+    {
+     "k": "illustrator",
+     "v": "Tim O'Brien"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "TIME"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2019, which lists it as finalist: TIME, \"Stormy,\" April 23 (D.W. Pine, Designer; Tim O'Brien, Illustrator). The citation gives no year; the 2019 contest honours covers published in 2018.",
+   "hue": 4.87,
+   "light": 0.406,
+   "chroma": 0.2777
+  },
+  "asme.media::2019::the new yorker::golden opportunity": {
+   "id": "CRVI000616",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000616.png",
+   "original_px": [
+    499,
+    680
+   ],
+   "original_bytes": 351140,
+   "identity": "asme.media::2019::the new yorker::golden opportunity",
+   "maker": "Chris Ware",
+   "title": "Golden Opportunity",
+   "subtitle": "The New Yorker, March 5 2018",
+   "year": "2018",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2019, which lists it as finalist: The New Yorker, \"Golden Opportunity,\" March 5 (Chris Ware, Illustrator). The citation gives no year; the 2019 contest honours covers published in 2018.",
+   "source_url": "https://www.asme.media/winners-and-finalists-2019",
+   "notes": [
+    "ASME Best Cover Contest 2019 — finalist.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/02.png",
+   "source_px": [
+    499,
+    680
+   ],
+   "colors": [
+    "blue",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "illustrator",
+     "v": "Chris Ware"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New Yorker"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2019, which lists it as finalist: The New Yorker, \"Golden Opportunity,\" March 5 (Chris Ware, Illustrator). The citation gives no year; the 2019 contest honours covers published in 2018.",
+   "hue": 357.44,
+   "light": 0.557,
+   "chroma": 0.1653
+  },
+  "asme.media::2019::bloomberg businessweek::big changes at the top": {
+   "id": "CRVI000617",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000617.png",
+   "original_px": [
+    380,
+    646
+   ],
+   "original_bytes": 129267,
+   "identity": "asme.media::2019::bloomberg businessweek::big changes at the top",
+   "maker": "Nejc Prah, Simon Dawson/Bloomberg",
+   "title": "Big Changes at the Top",
+   "subtitle": "Bloomberg Businessweek, March 19 2018",
+   "year": "2018",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2019, which lists it as finalist: Bloomberg Businessweek, \"Big Changes at the Top,\" March 19 (Nejc Prah, Designer; Simon Dawson/Bloomberg, Photographer). The citation gives no year; the 2019 contest honours covers published in 2018.",
+   "source_url": "https://www.asme.media/winners-and-finalists-2019",
+   "notes": [
+    "ASME Best Cover Contest 2019 — finalist.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/03.png",
+   "source_px": [
+    380,
+    646
+   ],
+   "colors": [
+    "orange",
+    "white"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Nejc Prah"
+    },
+    {
+     "k": "photographer",
+     "v": "Simon Dawson/Bloomberg"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Bloomberg Businessweek"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2019, which lists it as finalist: Bloomberg Businessweek, \"Big Changes at the Top,\" March 19 (Nejc Prah, Designer; Simon Dawson/Bloomberg, Photographer). The citation gives no year; the 2019 contest honours covers published in 2018.",
+   "hue": 24.03,
+   "light": 0.8736,
+   "chroma": 0.1572
+  },
+  "asme.media::2019::the california sunday magazine::a kingdom from dust": {
+   "id": "CRVI000618",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000618.png",
+   "original_px": [
+    499,
+    655
+   ],
+   "original_bytes": 504941,
+   "identity": "asme.media::2019::the california sunday magazine::a kingdom from dust",
+   "maker": "Leo Jung, Trent Davis Bailey",
+   "title": "A Kingdom From Dust",
+   "subtitle": "The California Sunday Magazine, February 4 2018",
+   "year": "2018",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2019, which lists it as finalist: The California Sunday Magazine, \"A Kingdom From Dust,\" February 4 (Leo Jung, Designer; Trent Davis Bailey, Photographer). The citation gives no year; the 2019 contest honours covers published in 2018.",
+   "source_url": "https://www.asme.media/winners-and-finalists-2019",
+   "notes": [
+    "ASME Best Cover Contest 2019 — finalist.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/04.png",
+   "source_px": [
+    499,
+    655
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Leo Jung"
+    },
+    {
+     "k": "photographer",
+     "v": "Trent Davis Bailey"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The California Sunday Magazine"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2019, which lists it as finalist: The California Sunday Magazine, \"A Kingdom From Dust,\" February 4 (Leo Jung, Designer; Trent Davis Bailey, Photographer). The citation gives no year; the 2019 contest honours covers published in 2018.",
+   "hue": 35.68,
+   "light": 0.3927,
+   "chroma": 0.7635
+  },
+  "asme.media::2019::the new york times magazine::is google too powerful": {
+   "id": "CRVI000619",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000619.png",
+   "original_px": [
+    498,
+    607
+   ],
+   "original_bytes": 143690,
+   "identity": "asme.media::2019::the new york times magazine::is google too powerful",
+   "maker": "Gail Bichler",
+   "title": "Is Google Too Powerful?",
+   "subtitle": "The New York Times Magazine, February 25 2018",
+   "year": "2018",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2019, which lists it as finalist: The New York Times Magazine, \"Is Google Too Powerful?,\" February 25 (Gail Bichler, Designer). The citation gives no year; the 2019 contest honours covers published in 2018.",
+   "source_url": "https://www.asme.media/winners-and-finalists-2019",
+   "notes": [
+    "ASME Best Cover Contest 2019 — finalist.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/05.png",
+   "source_px": [
+    498,
+    607
+   ],
+   "colors": [
+    "red",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Gail Bichler"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New York Times Magazine"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2019, which lists it as finalist: The New York Times Magazine, \"Is Google Too Powerful?,\" February 25 (Gail Bichler, Designer). The citation gives no year; the 2019 contest honours covers published in 2018.",
+   "hue": 5.04,
+   "light": 0.7552,
+   "chroma": 0.506
+  },
+  "asme.media::2019::the washington post magazine::wake up and dream": {
+   "id": "CRVI000620",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000620.png",
+   "original_px": [
+    499,
+    680
+   ],
+   "original_bytes": 486199,
+   "identity": "asme.media::2019::the washington post magazine::wake up and dream",
+   "maker": "Beth Broadwater, Juco",
+   "title": "Wake Up and Dream",
+   "subtitle": "The Washington Post Magazine, April 29 2018",
+   "year": "2018",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2019, which lists it as finalist: The Washington Post Magazine, \"Wake Up and Dream,\" April 29 (Beth Broadwater, Designer; Juco, Photographer). The citation gives no year; the 2019 contest honours covers published in 2018.",
+   "source_url": "https://www.asme.media/winners-and-finalists-2019",
+   "notes": [
+    "ASME Best Cover Contest 2019 — finalist.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/06.png",
+   "source_px": [
+    499,
+    680
+   ],
+   "colors": [
+    "cyan",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Beth Broadwater"
+    },
+    {
+     "k": "photographer",
+     "v": "Juco"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The Washington Post Magazine"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2019, which lists it as finalist: The Washington Post Magazine, \"Wake Up and Dream,\" April 29 (Beth Broadwater, Designer; Juco, Photographer). The citation gives no year; the 2019 contest honours covers published in 2018.",
+   "hue": 184.56,
+   "light": 0.6312,
+   "chroma": 0.7994
+  },
+  "asme.media::2019::wired::the mutant future of food": {
+   "id": "CRVI000621",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000621.png",
+   "original_px": [
+    499,
+    687
+   ],
+   "original_bytes": 337655,
+   "identity": "asme.media::2019::wired::the mutant future of food",
+   "maker": "Maurizio Di Iorio",
+   "title": "The Mutant Future of Food",
+   "subtitle": "WIRED, August 2018",
+   "year": "2018",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2019, which lists it as finalist: WIRED, \"The Mutant Future of Food,\" August (Maurizio Di Iorio, Photographer). The citation gives no year; the 2019 contest honours covers published in 2018.",
+   "source_url": "https://www.asme.media/winners-and-finalists-2019",
+   "notes": [
+    "ASME Best Cover Contest 2019 — finalist.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/07.png",
+   "source_px": [
+    499,
+    687
+   ],
+   "colors": [
+    "red",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "photographer",
+     "v": "Maurizio Di Iorio"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "WIRED"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2019, which lists it as finalist: WIRED, \"The Mutant Future of Food,\" August (Maurizio Di Iorio, Photographer). The citation gives no year; the 2019 contest honours covers published in 2018.",
+   "hue": 55.06,
+   "light": 0.524,
+   "chroma": 0.9118
+  },
+  "asme.media::2019::time out new york::the sex issue": {
+   "id": "CRVI000622",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000622.png",
+   "original_px": [
+    499,
+    675
+   ],
+   "original_bytes": 209593,
+   "identity": "asme.media::2019::time out new york::the sex issue",
+   "maker": "Tom Hislop, Stephen Meierding",
+   "title": "The Sex Issue",
+   "subtitle": "Time Out New York, January 31-February 6 2018",
+   "year": "2018",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2019, which lists it as finalist: Time Out New York, \"The Sex Issue,\" January 31-February 6 (Tom Hislop, Creative Director; Stephen Meierding, Photographer). The citation gives no year; the 2019 contest honours covers published in 2018.",
+   "source_url": "https://www.asme.media/winners-and-finalists-2019",
+   "notes": [
+    "ASME Best Cover Contest 2019 — finalist.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/08.png",
+   "source_px": [
+    499,
+    675
+   ],
+   "colors": [
+    "pink",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "art director",
+     "v": "Tom Hislop"
+    },
+    {
+     "k": "photographer",
+     "v": "Stephen Meierding"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Time Out New York"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2019, which lists it as finalist: Time Out New York, \"The Sex Issue,\" January 31-February 6 (Tom Hislop, Creative Director; Stephen Meierding, Photographer). The citation gives no year; the 2019 contest honours covers published in 2018.",
+   "hue": 334.78,
+   "light": 0.74,
+   "chroma": 0.8958
+  },
+  "asme.media::2019::vice::burnout and escapism": {
+   "id": "CRVI000623",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000623.png",
+   "original_px": [
+    599,
+    750
+   ],
+   "original_bytes": 778435,
+   "identity": "asme.media::2019::vice::burnout and escapism",
+   "maker": "Lia Kantrowitz, Kitron Neuschatz, Elizabeth Renstrom",
+   "title": "Burnout and Escapism",
+   "subtitle": "VICE, December 2018",
+   "year": "2018",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2019, which lists it as readers' choice: VICE, \"Burnout and Escapism,\" December (Lia Kantrowitz and Kitron Neuschatz, Designers and Illustrators; Elizabeth Renstrom, Photographer). The citation gives no year; the 2019 contest honours covers published in 2018.",
+   "source_url": "https://www.asme.media/winners-and-finalists-2019",
+   "notes": [
+    "ASME Best Cover Contest 2019 — readers' choice.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/09.png",
+   "source_px": [
+    599,
+    750
+   ],
+   "colors": [
+    "orange",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Lia Kantrowitz"
+    },
+    {
+     "k": "illustrator",
+     "v": "Lia Kantrowitz"
+    },
+    {
+     "k": "designer",
+     "v": "Kitron Neuschatz"
+    },
+    {
+     "k": "illustrator",
+     "v": "Kitron Neuschatz"
+    },
+    {
+     "k": "photographer",
+     "v": "Elizabeth Renstrom"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "VICE"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2019, which lists it as readers' choice: VICE, \"Burnout and Escapism,\" December (Lia Kantrowitz and Kitron Neuschatz, Designers and Illustrators; Elizabeth Renstrom, Photographer). The citation gives no year; the 2019 contest honours covers published in 2018.",
+   "hue": 31.88,
+   "light": 0.4681,
+   "chroma": 0.9052
+  },
+  "asme.media::2018::the new yorker::blowhard": {
+   "id": "CRVI000624",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000624.png",
+   "original_px": [
+    599,
+    819
+   ],
+   "original_bytes": 221602,
+   "identity": "asme.media::2018::the new yorker::blowhard",
+   "maker": "David Plunkert",
+   "title": "Blowhard",
+   "subtitle": "The New Yorker, August 28, 2017",
+   "year": "2017",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2018, which lists it as winner: The New Yorker, \"Blowhard,\" August 28, 2017 (David Plunkert, Illustrator)",
+   "source_url": "https://www.asme.media/winners-and-finalists-2018",
+   "notes": [
+    "ASME Best Cover Contest 2018 — winner.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/10.png",
+   "source_px": [
+    599,
+    819
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "illustrator",
+     "v": "David Plunkert"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New Yorker"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2018, which lists it as winner: The New Yorker, \"Blowhard,\" August 28, 2017 (David Plunkert, Illustrator)",
+   "hue": 16.09,
+   "light": 0.4318,
+   "chroma": 0.8233
+  },
+  "asme.media::2018::new york::david letterman returns": {
+   "id": "CRVI000625",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000625.png",
+   "original_px": [
+    599,
+    805
+   ],
+   "original_bytes": 735101,
+   "identity": "asme.media::2018::new york::david letterman returns",
+   "maker": "Jody Quon, Christopher Anderson",
+   "title": "David Letterman Returns",
+   "subtitle": "New York, March 6-19, 2017",
+   "year": "2017",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2018, which lists it as winner: New York, \"David Letterman Returns,\" March 6-19, 2017 Thomas Alberty, Desginer (Jody Quon, Photography Director; Christopher Anderson, Photographer)",
+   "source_url": "https://www.asme.media/winners-and-finalists-2018",
+   "notes": [
+    "ASME Best Cover Contest 2018 — winner.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/11.png",
+   "source_px": [
+    599,
+    805
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "art director",
+     "v": "Jody Quon"
+    },
+    {
+     "k": "photographer",
+     "v": "Christopher Anderson"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2018, which lists it as winner: New York, \"David Letterman Returns,\" March 6-19, 2017 Thomas Alberty, Desginer (Jody Quon, Photography Director; Christopher Anderson, Photographer)",
+   "hue": 27.48,
+   "light": 0.6505,
+   "chroma": 0.3028
+  },
+  "asme.media::2018::esquire::make america happy again": {
+   "id": "CRVI000626",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000626.png",
+   "original_px": [
+    499,
+    691
+   ],
+   "original_bytes": 487446,
+   "identity": "asme.media::2018::esquire::make america happy again",
+   "maker": "Anton Ioukhnovets, Mario Sorrenti",
+   "title": "Make America Happy Again",
+   "subtitle": "Esquire, February 2017",
+   "year": "2017",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2018, which lists it as finalist: Esquire, \"Make America Happy Again,\" February 2017 (Anton Ioukhnovets, Design Director; Mario Sorrenti, Photographer)",
+   "source_url": "https://www.asme.media/winners-and-finalists-2018",
+   "notes": [
+    "ASME Best Cover Contest 2018 — finalist.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/12.png",
+   "source_px": [
+    499,
+    691
+   ],
+   "colors": [
+    "cyan",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "art director",
+     "v": "Anton Ioukhnovets"
+    },
+    {
+     "k": "photographer",
+     "v": "Mario Sorrenti"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Esquire"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2018, which lists it as finalist: Esquire, \"Make America Happy Again,\" February 2017 (Anton Ioukhnovets, Design Director; Mario Sorrenti, Photographer)",
+   "hue": 200.38,
+   "light": 0.4992,
+   "chroma": 0.8255
+  },
+  "asme.media::2018::bloomberg businessweek::its not easy being mark zuckerberg right now": {
+   "id": "CRVI000627",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000627.png",
+   "original_px": [
+    499,
+    666
+   ],
+   "original_bytes": 259951,
+   "identity": "asme.media::2018::bloomberg businessweek::its not easy being mark zuckerberg right now",
+   "maker": "Unknown",
+   "title": "It's Not Easy Being Mark Zuckerberg Right Now",
+   "subtitle": "Bloomberg Businessweek, September 25, 2017",
+   "year": "2017",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2018, which lists it as finalist: Bloomberg Businessweek, \"It's Not Easy Being Mark Zuckerberg Right Now,\" September 25, 2017 (no individual credits listed)",
+   "source_url": "https://www.asme.media/winners-and-finalists-2018",
+   "notes": [
+    "ASME Best Cover Contest 2018 — finalist.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/13.png",
+   "source_px": [
+    499,
+    666
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Bloomberg Businessweek"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2018, which lists it as finalist: Bloomberg Businessweek, \"It's Not Easy Being Mark Zuckerberg Right Now,\" September 25, 2017 (no individual credits listed)",
+   "hue": null,
+   "light": 0.3624,
+   "chroma": 0.0
+  },
+  "asme.media::2018::the new yorker::eustace vladimirovich tilley": {
+   "id": "CRVI000628",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000628.png",
+   "original_px": [
+    599,
+    819
+   ],
+   "original_bytes": 715458,
+   "identity": "asme.media::2018::the new yorker::eustace vladimirovich tilley",
+   "maker": "Barry Blitt",
+   "title": "Eustace Vladimirovich Tilley",
+   "subtitle": "The New Yorker, March 6, 2017",
+   "year": "2017",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2018, which lists it as winner: The New Yorker, \"Eustace Vladimirovich Tilley,\" March 6, 2017 (Barry Blitt, Illustrator)",
+   "source_url": "https://www.asme.media/winners-and-finalists-2018",
+   "notes": [
+    "ASME Best Cover Contest 2018 — winner.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/14.png",
+   "source_px": [
+    599,
+    819
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "illustrator",
+     "v": "Barry Blitt"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New Yorker"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2018, which lists it as winner: The New Yorker, \"Eustace Vladimirovich Tilley,\" March 6, 2017 (Barry Blitt, Illustrator)",
+   "hue": 25.96,
+   "light": 0.7407,
+   "chroma": 0.5619
+  },
+  "asme.media::2018::harpers magazine::who owns black pain": {
+   "id": "CRVI000629",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000629.png",
+   "original_px": [
+    447,
+    648
+   ],
+   "original_bytes": 207748,
+   "identity": "asme.media::2018::harpers magazine::who owns black pain",
+   "maker": "Chin Wang, Hank Willis Thomas in collaboration with Sanford Biggers",
+   "title": "Who Owns Black Pain?",
+   "subtitle": "Harper's Magazine, July 2017",
+   "year": "2017",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2018, which lists it as finalist: Harper's Magazine, \"Who Owns Black Pain?,\" July 2017 (Chin Wang, Creative Director; Hank Willis Thomas in collaboration with Sanford Biggers, Photographers)",
+   "source_url": "https://www.asme.media/winners-and-finalists-2018",
+   "notes": [
+    "ASME Best Cover Contest 2018 — finalist.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/15.png",
+   "source_px": [
+    447,
+    648
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "art director",
+     "v": "Chin Wang"
+    },
+    {
+     "k": "photographer",
+     "v": "Hank Willis Thomas in collaboration with Sanford Biggers"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Harper's Magazine"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2018, which lists it as finalist: Harper's Magazine, \"Who Owns Black Pain?,\" July 2017 (Chin Wang, Creative Director; Hank Willis Thomas in collaboration with Sanford Biggers, Photographers)",
+   "hue": null,
+   "light": 0.796,
+   "chroma": 0.0054
+  },
+  "asme.media::2018::time::dear washington we need to rebuild can you get your act together": {
+   "id": "CRVI000630",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000630.png",
+   "original_px": [
+    499,
+    698
+   ],
+   "original_bytes": 302346,
+   "identity": "asme.media::2018::time::dear washington we need to rebuild can you get your act together",
+   "maker": "D.W. Pine, Peter Greenwood",
+   "title": "Dear Washington, We Need to Rebuild. Can You Get Your Act Together?",
+   "subtitle": "TIME, April 10, 2017",
+   "year": "2017",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2018, which lists it as finalist: TIME, \"Dear Washington, We Need to Rebuild. Can You Get Your Act Together?,\" April 10, 2017 (D.W. Pine, Creative Director; Peter Greenwood, Illustrator)",
+   "source_url": "https://www.asme.media/winners-and-finalists-2018",
+   "notes": [
+    "ASME Best Cover Contest 2018 — finalist.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/16.png",
+   "source_px": [
+    499,
+    698
+   ],
+   "colors": [
+    "red",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "art director",
+     "v": "D.W. Pine"
+    },
+    {
+     "k": "illustrator",
+     "v": "Peter Greenwood"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "TIME"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2018, which lists it as finalist: TIME, \"Dear Washington, We Need to Rebuild. Can You Get Your Act Together?,\" April 10, 2017 (D.W. Pine, Creative Director; Peter Greenwood, Illustrator)",
+   "hue": 6.13,
+   "light": 0.5383,
+   "chroma": 0.6945
+  },
+  "asme.media::2018::wired::what lies ahead": {
+   "id": "CRVI000631",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000631.png",
+   "original_px": [
+    499,
+    688
+   ],
+   "original_bytes": 144067,
+   "identity": "asme.media::2018::wired::what lies ahead",
+   "maker": "Unknown",
+   "title": "What Lies Ahead",
+   "subtitle": "WIRED, February 2017 Most Controversial",
+   "year": "2017",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2018, which lists it as finalist: WIRED, \"What Lies Ahead,\" February 2017 Most Controversial (no individual credits listed)",
+   "source_url": "https://www.asme.media/winners-and-finalists-2018",
+   "notes": [
+    "ASME Best Cover Contest 2018 — finalist.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/17.png",
+   "source_px": [
+    499,
+    688
+   ],
+   "colors": [
+    "cyan",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "WIRED"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2018, which lists it as finalist: WIRED, \"What Lies Ahead,\" February 2017 Most Controversial (no individual credits listed)",
+   "hue": 355.9,
+   "light": 0.4462,
+   "chroma": 0.7261
+  },
+  "asme.media::2018::newsweek::pop go the weasels": {
+   "id": "CRVI000632",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000632.png",
+   "original_px": [
+    499,
+    646
+   ],
+   "original_bytes": 363046,
+   "identity": "asme.media::2018::newsweek::pop go the weasels",
+   "maker": "Michael Goesele, Justin Metz",
+   "title": "Pop Go the Weasels",
+   "subtitle": "Newsweek, November 17, 2017",
+   "year": "2017",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2018, which lists it as finalist: Newsweek, \"Pop Go the Weasels,\" November 17, 2017 (Michael Goesele, Designer; Justin Metz, Illustrator)",
+   "source_url": "https://www.asme.media/winners-and-finalists-2018",
+   "notes": [
+    "ASME Best Cover Contest 2018 — finalist.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/18.png",
+   "source_px": [
+    499,
+    646
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Michael Goesele"
+    },
+    {
+     "k": "illustrator",
+     "v": "Justin Metz"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Newsweek"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2018, which lists it as finalist: Newsweek, \"Pop Go the Weasels,\" November 17, 2017 (Michael Goesele, Designer; Justin Metz, Illustrator)",
+   "hue": 8.48,
+   "light": 0.7282,
+   "chroma": 0.4659
+  },
+  "asme.media::2017::time::total meltdown": {
+   "id": "CRVI000633",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000633.png",
+   "original_px": [
+    599,
+    800
+   ],
+   "original_bytes": 109378,
+   "identity": "asme.media::2017::time::total meltdown",
+   "maker": "D.W. Pine, Edel Rodriguez",
+   "title": "Total Meltdown",
+   "subtitle": "TIME, October 24 2016",
+   "year": "2016",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2017, which lists it as winner: TIME, \"Total Meltdown,\" October 24 (D.W. Pine, Creative Director; Edel Rodriguez, Illustrator). The citation gives no year; the 2017 contest honours covers published in 2016.",
+   "source_url": "https://www.asme.media/winners-and-finalists-2017",
+   "notes": [
+    "ASME Best Cover Contest 2017 — winner.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/19.png",
+   "source_px": [
+    599,
+    800
+   ],
+   "colors": [
+    "red",
+    "orange",
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "art director",
+     "v": "D.W. Pine"
+    },
+    {
+     "k": "illustrator",
+     "v": "Edel Rodriguez"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "TIME"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2017, which lists it as winner: TIME, \"Total Meltdown,\" October 24 (D.W. Pine, Creative Director; Edel Rodriguez, Illustrator). The citation gives no year; the 2017 contest honours covers published in 2016.",
+   "hue": 5.0,
+   "light": 0.1995,
+   "chroma": 0.3038
+  },
+  "asme.media::2017::new york::single women": {
+   "id": "CRVI000634",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000634.png",
+   "original_px": [
+    597,
+    781
+   ],
+   "original_bytes": 427638,
+   "identity": "asme.media::2017::new york::single women",
+   "maker": "Unknown",
+   "title": "Single Women",
+   "subtitle": "New York, February 22-March 6 2016",
+   "year": "2016",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2017, which lists it as winner: New York, \"Single Women,\" February 22-March 6 (no individual credits listed). The citation gives no year; the 2017 contest honours covers published in 2016.",
+   "source_url": "https://www.asme.media/winners-and-finalists-2017",
+   "notes": [
+    "ASME Best Cover Contest 2017 — winner.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/20.png",
+   "source_px": [
+    597,
+    781
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2017, which lists it as winner: New York, \"Single Women,\" February 22-March 6 (no individual credits listed). The citation gives no year; the 2017 contest honours covers published in 2016.",
+   "hue": 24.28,
+   "light": 0.8119,
+   "chroma": 0.3949
+  },
+  "asme.media::2017::the new yorker::anything but that": {
+   "id": "CRVI000635",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000635.png",
+   "original_px": [
+    599,
+    841
+   ],
+   "original_bytes": 981211,
+   "identity": "asme.media::2017::the new yorker::anything but that",
+   "maker": "Barry Blitt",
+   "title": "Anything But That",
+   "subtitle": "The New Yorker, November 14 2016",
+   "year": "2016",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2017, which lists it as readers' choice: The New Yorker, \"Anything But That,\" November 14 (Barry Blitt, Illustrator). The citation gives no year; the 2017 contest honours covers published in 2016.",
+   "source_url": "https://www.asme.media/winners-and-finalists-2017",
+   "notes": [
+    "ASME Best Cover Contest 2017 — readers' choice.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/21.png",
+   "source_px": [
+    599,
+    841
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "illustrator",
+     "v": "Barry Blitt"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New Yorker"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2017, which lists it as readers' choice: The New Yorker, \"Anything But That,\" November 14 (Barry Blitt, Illustrator). The citation gives no year; the 2017 contest honours covers published in 2016.",
+   "hue": 53.33,
+   "light": 0.6833,
+   "chroma": 0.3145
+  },
+  "asme.media::2017::bloomberg businessweek::uniteds quest to be less awful": {
+   "id": "CRVI000636",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000636.png",
+   "original_px": [
+    599,
+    800
+   ],
+   "original_bytes": 480794,
+   "identity": "asme.media::2017::bloomberg businessweek::uniteds quest to be less awful",
+   "maker": "Vasilis Papadrosos, Peter Jablokow",
+   "title": "United's Quest to Be Less Awful",
+   "subtitle": "Bloomberg Businessweek, January 18-24 READER'S CHOICE Chicagoly \"Addicted to the Internet,\" Fall 2016",
+   "year": "2016",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2017, which lists it as winner: Bloomberg Businessweek, \"United's Quest to Be Less Awful,\" January 18-24 READER'S CHOICE Chicagoly \"Addicted to the Internet,\" Fall (Vasilis Papadrosos, Designer; Peter Jablokow, Illustrator). The citation gives no year; the 2017 contest honours covers published in 2016.",
+   "source_url": "https://www.asme.media/winners-and-finalists-2017",
+   "notes": [
+    "ASME Best Cover Contest 2017 — winner.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/22.png",
+   "source_px": [
+    599,
+    800
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Vasilis Papadrosos"
+    },
+    {
+     "k": "illustrator",
+     "v": "Peter Jablokow"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Bloomberg Businessweek"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2017, which lists it as winner: Bloomberg Businessweek, \"United's Quest to Be Less Awful,\" January 18-24 READER'S CHOICE Chicagoly \"Addicted to the Internet,\" Fall (Vasilis Papadrosos, Designer; Peter Jablokow, Illustrator). The citation gives no year; the 2017 contest honours covers published in 2016.",
+   "hue": 212.25,
+   "light": 0.659,
+   "chroma": 0.3792
+  },
+  "asme.media::2017::bloomberg businessweek::yahoos 8 billion black hole": {
+   "id": "CRVI000637",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000637.png",
+   "original_px": [
+    499,
+    666
+   ],
+   "original_bytes": 252250,
+   "identity": "asme.media::2017::bloomberg businessweek::yahoos 8 billion black hole",
+   "maker": "Unknown",
+   "title": "Yahoo's $8 Billion Black Hole",
+   "subtitle": "Bloomberg Businessweek, May 2-8 2016",
+   "year": "2016",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2017, which lists it as finalist: Bloomberg Businessweek, \"Yahoo's $8 Billion Black Hole,\" May 2-8 (no individual credits listed). The citation gives no year; the 2017 contest honours covers published in 2016.",
+   "source_url": "https://www.asme.media/winners-and-finalists-2017",
+   "notes": [
+    "ASME Best Cover Contest 2017 — finalist.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/23.png",
+   "source_px": [
+    499,
+    666
+   ],
+   "colors": [
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Bloomberg Businessweek"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2017, which lists it as finalist: Bloomberg Businessweek, \"Yahoo's $8 Billion Black Hole,\" May 2-8 (no individual credits listed). The citation gives no year; the 2017 contest honours covers published in 2016.",
+   "hue": 55.05,
+   "light": 0.5971,
+   "chroma": 0.9017
+  },
+  "asme.media::2017::the new yorker::take the l train": {
+   "id": "CRVI000638",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000638.png",
+   "original_px": [
+    599,
+    816
+   ],
+   "original_bytes": 418836,
+   "identity": "asme.media::2017::the new yorker::take the l train",
+   "maker": "Tomer Hanuka",
+   "title": "Take the L Train",
+   "subtitle": "The New Yorker, April 11 2016",
+   "year": "2016",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2017, which lists it as winner: The New Yorker, \"Take the L Train,\" April 11 (Tomer Hanuka, Illustrator). The citation gives no year; the 2017 contest honours covers published in 2016.",
+   "source_url": "https://www.asme.media/winners-and-finalists-2017",
+   "notes": [
+    "ASME Best Cover Contest 2017 — winner.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/24.png",
+   "source_px": [
+    599,
+    816
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "illustrator",
+     "v": "Tomer Hanuka"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New Yorker"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2017, which lists it as winner: The New Yorker, \"Take the L Train,\" April 11 (Tomer Hanuka, Illustrator). The citation gives no year; the 2017 contest honours covers published in 2016.",
+   "hue": 29.76,
+   "light": 0.5251,
+   "chroma": 0.6182
+  },
+  "asme.media::2017::vice::march": {
+   "id": "CRVI000639",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000639.png",
+   "original_px": [
+    599,
+    778
+   ],
+   "original_bytes": 800006,
+   "identity": "asme.media::2017::vice::march",
+   "maker": "Maurizio Cattelan, Pierpaolo Ferrari",
+   "title": "VICE, March",
+   "subtitle": "VICE, March 2016",
+   "year": "2016",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2017, which lists it as readers' choice: VICE, March (Maurizio Cattelan, Artist; Pierpaolo Ferrari, Photographer). The citation gives no year; the 2017 contest honours covers published in 2016.",
+   "source_url": "https://www.asme.media/winners-and-finalists-2017",
+   "notes": [
+    "ASME Best Cover Contest 2017 — readers' choice.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/25.png",
+   "source_px": [
+    599,
+    778
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Maurizio Cattelan"
+    },
+    {
+     "k": "photographer",
+     "v": "Pierpaolo Ferrari"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "VICE"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2017, which lists it as readers' choice: VICE, March (Maurizio Cattelan, Artist; Pierpaolo Ferrari, Photographer). The citation gives no year; the 2017 contest honours covers published in 2016.",
+   "hue": 204.91,
+   "light": 0.407,
+   "chroma": 0.777
+  },
+  "asme.media::2017::bon appetit::eat like a local": {
+   "id": "CRVI000640",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000640.png",
+   "original_px": [
+    498,
+    666
+   ],
+   "original_bytes": 337210,
+   "identity": "asme.media::2017::bon appetit::eat like a local",
+   "maker": "Alexander Grossman, Alex Lau, Elizabeth Cecil, Wilfred Hisashi",
+   "title": "Eat Like a Local",
+   "subtitle": "Bon Appétit, May 2016",
+   "year": "2016",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2017, which lists it as finalist: Bon Appétit, \"Eat Like a Local,\" May (Alexander Grossman, Designer; Alex Lau, Elizabeth Cecil and Wilfred Hisashi, Photographers). The citation gives no year; the 2017 contest honours covers published in 2016.",
+   "source_url": "https://www.asme.media/winners-and-finalists-2017",
+   "notes": [
+    "ASME Best Cover Contest 2017 — finalist.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/26.png",
+   "source_px": [
+    498,
+    666
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Alexander Grossman"
+    },
+    {
+     "k": "photographer",
+     "v": "Alex Lau"
+    },
+    {
+     "k": "photographer",
+     "v": "Elizabeth Cecil"
+    },
+    {
+     "k": "photographer",
+     "v": "Wilfred Hisashi"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Bon Appétit"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2017, which lists it as finalist: Bon Appétit, \"Eat Like a Local,\" May (Alexander Grossman, Designer; Alex Lau, Elizabeth Cecil and Wilfred Hisashi, Photographers). The citation gives no year; the 2017 contest honours covers published in 2016.",
+   "hue": 353.96,
+   "light": 0.7375,
+   "chroma": 0.3584
+  },
+  "asme.media::2017::the new yorker::commencement": {
+   "id": "CRVI000641",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000641.png",
+   "original_px": [
+    599,
+    819
+   ],
+   "original_bytes": 589633,
+   "identity": "asme.media::2017::the new yorker::commencement",
+   "maker": "R. Kikuo Johnson",
+   "title": "Commencement",
+   "subtitle": "The New Yorker, May 30 2016",
+   "year": "2016",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2017, which lists it as winner: The New Yorker, \"Commencement,\" May 30 (R. Kikuo Johnson, Illustrator). The citation gives no year; the 2017 contest honours covers published in 2016.",
+   "source_url": "https://www.asme.media/winners-and-finalists-2017",
+   "notes": [
+    "ASME Best Cover Contest 2017 — winner.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/27.png",
+   "source_px": [
+    599,
+    819
+   ],
+   "colors": [
+    "green",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "illustrator",
+     "v": "R. Kikuo Johnson"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New Yorker"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2017, which lists it as winner: The New Yorker, \"Commencement,\" May 30 (R. Kikuo Johnson, Illustrator). The citation gives no year; the 2017 contest honours covers published in 2016.",
+   "hue": 57.36,
+   "light": 0.5475,
+   "chroma": 0.3218
+  },
+  "asme.media::2017::tablet magazine::yentl 4eva": {
+   "id": "CRVI000642",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000642.png",
+   "original_px": [
+    599,
+    780
+   ],
+   "original_bytes": 673019,
+   "identity": "asme.media::2017::tablet magazine::yentl 4eva",
+   "maker": "Luke Hayman, Shigeto Akiyama, Annabel Mehran",
+   "title": "Yentl 4Eva",
+   "subtitle": "Tablet Magazine, Fall 2016",
+   "year": "2016",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2017, which lists it as readers' choice: Tablet Magazine, \"Yentl 4Eva,\" Fall (Luke Hayman and Shigeto Akiyama (Pentagram), Designers; Annabel Mehran, Photographer). The citation gives no year; the 2017 contest honours covers published in 2016.",
+   "source_url": "https://www.asme.media/winners-and-finalists-2017",
+   "notes": [
+    "ASME Best Cover Contest 2017 — readers' choice.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/28.png",
+   "source_px": [
+    599,
+    780
+   ],
+   "colors": [
+    "green",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Luke Hayman"
+    },
+    {
+     "k": "designer",
+     "v": "Shigeto Akiyama"
+    },
+    {
+     "k": "photographer",
+     "v": "Annabel Mehran"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Tablet Magazine"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2017, which lists it as readers' choice: Tablet Magazine, \"Yentl 4Eva,\" Fall (Luke Hayman and Shigeto Akiyama (Pentagram), Designers; Annabel Mehran, Photographer). The citation gives no year; the 2017 contest honours covers published in 2016.",
+   "hue": 71.61,
+   "light": 0.3284,
+   "chroma": 0.4302
+  },
+  "asme.media::2017::espn the magazine::the genius of bill belichick": {
+   "id": "CRVI000643",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000643.png",
+   "original_px": [
+    499,
+    600
+   ],
+   "original_bytes": 447886,
+   "identity": "asme.media::2017::espn the magazine::the genius of bill belichick",
+   "maker": "Chin Wang, Javier Jaen",
+   "title": "The Genius of Bill Belichick",
+   "subtitle": "ESPN The Magazine, October 17 2016",
+   "year": "2016",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2017, which lists it as finalist: ESPN The Magazine, \"The Genius of Bill Belichick,\" October 17 (Chin Wang, Creative Director; Javier Jaen, Illustrator). The citation gives no year; the 2017 contest honours covers published in 2016.",
+   "source_url": "https://www.asme.media/winners-and-finalists-2017",
+   "notes": [
+    "ASME Best Cover Contest 2017 — finalist.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/29.png",
+   "source_px": [
+    499,
+    600
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "art director",
+     "v": "Chin Wang"
+    },
+    {
+     "k": "illustrator",
+     "v": "Javier Jaen"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "ESPN The Magazine"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2017, which lists it as finalist: ESPN The Magazine, \"The Genius of Bill Belichick,\" October 17 (Chin Wang, Creative Director; Javier Jaen, Illustrator). The citation gives no year; the 2017 contest honours covers published in 2016.",
+   "hue": 32.72,
+   "light": 0.3695,
+   "chroma": 0.3562
+  },
+  "asme.media::2017::wired::the end of code": {
+   "id": "CRVI000644",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000644.png",
+   "original_px": [
+    499,
+    705
+   ],
+   "original_bytes": 74909,
+   "identity": "asme.media::2017::wired::the end of code",
+   "maker": "Billy Sorrentino",
+   "title": "The End of Code",
+   "subtitle": "WIRED, June 2016",
+   "year": "2016",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2017, which lists it as finalist: WIRED, \"The End of Code,\" June (Billy Sorrentino, Designer). The citation gives no year; the 2017 contest honours covers published in 2016.",
+   "source_url": "https://www.asme.media/winners-and-finalists-2017",
+   "notes": [
+    "ASME Best Cover Contest 2017 — finalist.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/30.png",
+   "source_px": [
+    499,
+    705
+   ],
+   "colors": [
+    "red",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Billy Sorrentino"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "WIRED"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2017, which lists it as finalist: WIRED, \"The End of Code,\" June (Billy Sorrentino, Designer). The citation gives no year; the 2017 contest honours covers published in 2016.",
+   "hue": 5.0,
+   "light": 0.5544,
+   "chroma": 0.9479
+  },
+  "asme.media::2016::bloomberg businessweek::if you cant read that youd better read this": {
+   "id": "CRVI000645",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000645.png",
+   "original_px": [
+    498,
+    666
+   ],
+   "original_bytes": 70324,
+   "identity": "asme.media::2016::bloomberg businessweek::if you cant read that youd better read this",
+   "maker": "Robert Vargas",
+   "title": "If You Can't Read That, You'd Better Read This",
+   "subtitle": "Bloomberg Businessweek, June 15–28 2015",
+   "year": "2015",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2016, which lists it as finalist: Bloomberg Businessweek, \"If You Can't Read That, You'd Better Read This, \" June 15–28 (Robert Vargas, Designer). The citation gives no year; the 2016 contest honours covers published in 2015.",
+   "source_url": "https://www.asme.media/winners-and-finalists-2016",
+   "notes": [
+    "ASME Best Cover Contest 2016 — finalist.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/31.png",
+   "source_px": [
+    498,
+    666
+   ],
+   "colors": [
+    "white"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Robert Vargas"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Bloomberg Businessweek"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2016, which lists it as finalist: Bloomberg Businessweek, \"If You Can't Read That, You'd Better Read This, \" June 15–28 (Robert Vargas, Designer). The citation gives no year; the 2016 contest honours covers published in 2015.",
+   "hue": null,
+   "light": 0.9627,
+   "chroma": 0.0
+  },
+  "asme.media::2016::the chronicle review::the isolated black professor": {
+   "id": "CRVI000646",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000646.png",
+   "original_px": [
+    499,
+    667
+   ],
+   "original_bytes": 379204,
+   "identity": "asme.media::2016::the chronicle review::the isolated black professor",
+   "maker": "Scott Seymour, Kevin Val Aelst, Rose Engelland",
+   "title": "The Isolated Black Professor",
+   "subtitle": "The Chronicle Review, January 30 2015",
+   "year": "2015",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2016, which lists it as finalist: The Chronicle Review, \"The Isolated Black Professor,\" January 30 (Scott Seymour, Senior Art Director; Kevin Val Aelst, Illustrator; Rose Engelland, Photo Editor). The citation gives no year; the 2016 contest honours covers published in 2015.",
+   "source_url": "https://www.asme.media/winners-and-finalists-2016",
+   "notes": [
+    "ASME Best Cover Contest 2016 — finalist.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/32.png",
+   "source_px": [
+    499,
+    667
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "art director",
+     "v": "Scott Seymour"
+    },
+    {
+     "k": "illustrator",
+     "v": "Kevin Val Aelst"
+    },
+    {
+     "k": "art director",
+     "v": "Rose Engelland"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The Chronicle Review"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2016, which lists it as finalist: The Chronicle Review, \"The Isolated Black Professor,\" January 30 (Scott Seymour, Senior Art Director; Kevin Val Aelst, Illustrator; Rose Engelland, Photo Editor). The citation gives no year; the 2016 contest honours covers published in 2015.",
+   "hue": 204.76,
+   "light": 0.6438,
+   "chroma": 0.9072
+  },
+  "asme.media::2016::the new yorker::90th anniversary eustace tilley": {
+   "id": "CRVI000647",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000647.png",
+   "original_px": [
+    499,
+    683
+   ],
+   "original_bytes": 479755,
+   "identity": "asme.media::2016::the new yorker::90th anniversary eustace tilley",
+   "maker": "Françoise Mouly, Kadir Nelson",
+   "title": "90th Anniversary [Eustace Tilley]",
+   "subtitle": "The New Yorker, February 23 2015",
+   "year": "2015",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2016, which lists it as finalist: The New Yorker, \"90th Anniversary [Eustace Tilley], \" February 23 (Françoise Mouly, Designer; Kadir Nelson, Illustrator). The citation gives no year; the 2016 contest honours covers published in 2015.",
+   "source_url": "https://www.asme.media/winners-and-finalists-2016",
+   "notes": [
+    "ASME Best Cover Contest 2016 — finalist.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/33.png",
+   "source_px": [
+    499,
+    683
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Françoise Mouly"
+    },
+    {
+     "k": "illustrator",
+     "v": "Kadir Nelson"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New Yorker"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2016, which lists it as finalist: The New Yorker, \"90th Anniversary [Eustace Tilley], \" February 23 (Françoise Mouly, Designer; Kadir Nelson, Illustrator). The citation gives no year; the 2016 contest honours covers published in 2015.",
+   "hue": 204.99,
+   "light": 0.4006,
+   "chroma": 0.8242
+  },
+  "asme.media::2016::wired::sex in the digital age": {
+   "id": "CRVI000648",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000648.png",
+   "original_px": [
+    499,
+    667
+   ],
+   "original_bytes": 45745,
+   "identity": "asme.media::2016::wired::sex in the digital age",
+   "maker": "Billy Sorrentino",
+   "title": "Sex in the Digital Age",
+   "subtitle": "WIRED, March 2015",
+   "year": "2015",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2016, which lists it as finalist: WIRED, \"Sex in the Digital Age, \" March (Billy Sorrentino, Designer). The citation gives no year; the 2016 contest honours covers published in 2015.",
+   "source_url": "https://www.asme.media/winners-and-finalists-2016",
+   "notes": [
+    "ASME Best Cover Contest 2016 — finalist.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/34.png",
+   "source_px": [
+    499,
+    667
+   ],
+   "colors": [
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Billy Sorrentino"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "WIRED"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2016, which lists it as finalist: WIRED, \"Sex in the Digital Age, \" March (Billy Sorrentino, Designer). The citation gives no year; the 2016 contest honours covers published in 2015.",
+   "hue": 65.0,
+   "light": 0.6085,
+   "chroma": 0.9378
+  },
+  "asme.media::2015::new york::speaking emoji": {
+   "id": "CRVI000649",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000649.png",
+   "original_px": [
+    495,
+    637
+   ],
+   "original_bytes": 153575,
+   "identity": "asme.media::2015::new york::speaking emoji",
+   "maker": "Unknown",
+   "title": "Speaking Emoji",
+   "subtitle": "New York, November 17-23, 2014",
+   "year": "2014",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2015, which lists it as finalist: New York, \"Speaking Emoji,\" November 17-23, 2014 Family and Home (no individual credits listed)",
+   "source_url": "https://www.asme.media/winners-and-finalists-2015",
+   "notes": [
+    "ASME Best Cover Contest 2015 — finalist.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/35.png",
+   "source_px": [
+    495,
+    637
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2015, which lists it as finalist: New York, \"Speaking Emoji,\" November 17-23, 2014 Family and Home (no individual credits listed)",
+   "hue": 52.44,
+   "light": 0.7575,
+   "chroma": 0.5493
+  },
+  "asme.media::2015::new york::health": {
+   "id": "CRVI000650",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000650.png",
+   "original_px": [
+    599,
+    819
+   ],
+   "original_bytes": 845056,
+   "identity": "asme.media::2015::new york::health",
+   "maker": "Unknown",
+   "title": "Health",
+   "subtitle": "New York, June 9-15, 2014",
+   "year": "2014",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2015, which lists it as winner: New York, \"Health,\" June 9-15, 2014 (no individual credits listed)",
+   "source_url": "https://www.asme.media/winners-and-finalists-2015",
+   "notes": [
+    "ASME Best Cover Contest 2015 — winner.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/36.png",
+   "source_px": [
+    599,
+    819
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2015, which lists it as winner: New York, \"Health,\" June 9-15, 2014 (no individual credits listed)",
+   "hue": 16.3,
+   "light": 0.6402,
+   "chroma": 0.7733
+  },
+  "asme.media::2015::kinfolk::the home issue": {
+   "id": "CRVI000651",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000651.png",
+   "original_px": [
+    499,
+    588
+   ],
+   "original_bytes": 269233,
+   "identity": "asme.media::2015::kinfolk::the home issue",
+   "maker": "Unknown",
+   "title": "The Home Issue",
+   "subtitle": "Kinfolk, Spring 2014 Brainiest",
+   "year": "2014",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2015, which lists it as finalist: Kinfolk, \"The Home Issue,\" Spring 2014 Brainiest (no individual credits listed)",
+   "source_url": "https://www.asme.media/winners-and-finalists-2015",
+   "notes": [
+    "ASME Best Cover Contest 2015 — finalist.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/37.png",
+   "source_px": [
+    499,
+    588
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Kinfolk"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2015, which lists it as finalist: Kinfolk, \"The Home Issue,\" Spring 2014 Brainiest (no individual credits listed)",
+   "hue": 25.86,
+   "light": 0.7116,
+   "chroma": 0.3357
+  },
+  "asme.media::2015::bloomberg businessweek::coke finally admits it has a fat problemand a plan to fix it": {
+   "id": "CRVI000652",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000652.png",
+   "original_px": [
+    560,
+    760
+   ],
+   "original_bytes": 355264,
+   "identity": "asme.media::2015::bloomberg businessweek::coke finally admits it has a fat problemand a plan to fix it",
+   "maker": "Unknown",
+   "title": "Coke Finally Admits It Has a Fat Problem--And a Plan to Fix It",
+   "subtitle": "Bloomberg Businessweek, August 4-10, 2014",
+   "year": "2014",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2015, which lists it as winner: Bloomberg Businessweek, \"Coke Finally Admits It Has a Fat Problem--And a Plan to Fix It,\" August 4-10, 2014 Justin Metz, illustrator (no individual credits listed)",
+   "source_url": "https://www.asme.media/winners-and-finalists-2015",
+   "notes": [
+    "ASME Best Cover Contest 2015 — winner.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/38.png",
+   "source_px": [
+    560,
+    760
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Bloomberg Businessweek"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2015, which lists it as winner: Bloomberg Businessweek, \"Coke Finally Admits It Has a Fat Problem--And a Plan to Fix It,\" August 4-10, 2014 Justin Metz, illustrator (no individual credits listed)",
+   "hue": 9.65,
+   "light": 0.6755,
+   "chroma": 0.3663
+  },
+  "asme.media::2015::vice::the wall street issue": {
+   "id": "CRVI000653",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000653.png",
+   "original_px": [
+    599,
+    778
+   ],
+   "original_bytes": 487257,
+   "identity": "asme.media::2015::vice::the wall street issue",
+   "maker": "Cover by Michael Marcelle",
+   "title": "The Wall Street Issue",
+   "subtitle": "Vice, December 2014",
+   "year": "2014",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2015, which lists it as winner: Vice, \"The Wall Street Issue,\" December 2014 (Cover by Michael Marcelle)",
+   "source_url": "https://www.asme.media/winners-and-finalists-2015",
+   "notes": [
+    "ASME Best Cover Contest 2015 — winner.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/39.png",
+   "source_px": [
+    599,
+    778
+   ],
+   "colors": [
+    "orange",
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Cover by Michael Marcelle"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Vice"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2015, which lists it as winner: Vice, \"The Wall Street Issue,\" December 2014 (Cover by Michael Marcelle)",
+   "hue": 33.69,
+   "light": 0.1551,
+   "chroma": 0.1719
+  },
+  "asme.media::2015::vice::coral": {
+   "id": "CRVI000654",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000654.png",
+   "original_px": [
+    499,
+    649
+   ],
+   "original_bytes": 625171,
+   "identity": "asme.media::2015::vice::coral",
+   "maker": "Unknown",
+   "title": "Coral",
+   "subtitle": "Vice, August 2014 Lifestyle",
+   "year": "2014",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2015, which lists it as finalist: Vice, \"Coral,\" August 2014 Lifestyle (no individual credits listed)",
+   "source_url": "https://www.asme.media/winners-and-finalists-2015",
+   "notes": [
+    "ASME Best Cover Contest 2015 — finalist.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/40.png",
+   "source_px": [
+    499,
+    649
+   ],
+   "colors": [
+    "green",
+    "purple"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Vice"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2015, which lists it as finalist: Vice, \"Coral,\" August 2014 Lifestyle (no individual credits listed)",
+   "hue": 103.67,
+   "light": 0.2433,
+   "chroma": 0.8874
+  },
+  "asme.media::2015::vice::the photo issue": {
+   "id": "CRVI000655",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000655.png",
+   "original_px": [
+    499,
+    627
+   ],
+   "original_bytes": 302860,
+   "identity": "asme.media::2015::vice::the photo issue",
+   "maker": "Unknown",
+   "title": "The Photo Issue",
+   "subtitle": "VICE, July 2014 Brainiest",
+   "year": "2014",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2015, which lists it as finalist: VICE, \"The Photo Issue,\" July 2014 Brainiest (no individual credits listed)",
+   "source_url": "https://www.asme.media/winners-and-finalists-2015",
+   "notes": [
+    "ASME Best Cover Contest 2015 — finalist.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/41.png",
+   "source_px": [
+    499,
+    627
+   ],
+   "colors": [
+    "red",
+    "pink"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "VICE"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2015, which lists it as finalist: VICE, \"The Photo Issue,\" July 2014 Brainiest (no individual credits listed)",
+   "hue": 346.14,
+   "light": 0.7323,
+   "chroma": 0.746
+  },
+  "asme.media::2014::bloomberg businessweek::how blackberry became a relic": {
+   "id": "CRVI000656",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000656.png",
+   "original_px": [
+    599,
+    800
+   ],
+   "original_bytes": 396039,
+   "identity": "asme.media::2014::bloomberg businessweek::how blackberry became a relic",
+   "maker": "Unknown",
+   "title": "How Blackberry Became a Relic",
+   "subtitle": "Bloomberg Businessweek, December 9–1 Photographs from various museums and art libraries 2013",
+   "year": "2013",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2014, which lists it as winner: Bloomberg Businessweek, \"How Blackberry Became a Relic,\" December 9–1 Photographs from various museums and art libraries (no individual credits listed). The citation gives no year; the 2014 contest honours covers published in 2013.",
+   "source_url": "https://www.asme.media/winners-and-finalists-2014",
+   "notes": [
+    "ASME Best Cover Contest 2014 — winner.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/42.png",
+   "source_px": [
+    599,
+    800
+   ],
+   "colors": [
+    "orange",
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Bloomberg Businessweek"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2014, which lists it as winner: Bloomberg Businessweek, \"How Blackberry Became a Relic,\" December 9–1 Photographs from various museums and art libraries (no individual credits listed). The citation gives no year; the 2014 contest honours covers published in 2013.",
+   "hue": 26.94,
+   "light": 0.2224,
+   "chroma": 0.1243
+  },
+  "asme.media::2014::bloomberg businessweek::the surprising sophistication of twitter": {
+   "id": "CRVI000657",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000657.png",
+   "original_px": [
+    599,
+    800
+   ],
+   "original_bytes": 549080,
+   "identity": "asme.media::2014::bloomberg businessweek::the surprising sophistication of twitter",
+   "maker": "David Parkins",
+   "title": "The Surprising Sophistication of Twitter",
+   "subtitle": "Bloomberg Businessweek, November 11–17 2013",
+   "year": "2013",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2014, which lists it as winner: Bloomberg Businessweek, \"The Surprising Sophistication of Twitter,\" November 11–17 (David Parkins, illustration). The citation gives no year; the 2014 contest honours covers published in 2013.",
+   "source_url": "https://www.asme.media/winners-and-finalists-2014",
+   "notes": [
+    "ASME Best Cover Contest 2014 — winner.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/43.png",
+   "source_px": [
+    599,
+    800
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "illustrator",
+     "v": "David Parkins"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Bloomberg Businessweek"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2014, which lists it as winner: Bloomberg Businessweek, \"The Surprising Sophistication of Twitter,\" November 11–17 (David Parkins, illustration). The citation gives no year; the 2014 contest honours covers published in 2013.",
+   "hue": 43.52,
+   "light": 0.7125,
+   "chroma": 0.8035
+  },
+  "asme.media::2013::the new york times magazine::jerry seinfeld is 58 rich beyond imagination and still working": {
+   "id": "CRVI000658",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000658.png",
+   "original_px": [
+    599,
+    730
+   ],
+   "original_bytes": 698932,
+   "identity": "asme.media::2013::the new york times magazine::jerry seinfeld is 58 rich beyond imagination and still working",
+   "maker": "Unknown",
+   "title": "Jerry Seinfeld Is 58, Rich Beyond Imagination and Still Working",
+   "subtitle": "The New York Times Magazine, December 23, 2012",
+   "year": "2012",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2013, which lists it as winner: The New York Times Magazine, \"Jerry Seinfeld Is 58, Rich Beyond Imagination and Still Working,\" December 23, 2012 (no individual credits listed)",
+   "source_url": "https://www.asme.media/winners-and-finalists-2013",
+   "notes": [
+    "ASME Best Cover Contest 2013 — winner.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/44.png",
+   "source_px": [
+    599,
+    730
+   ],
+   "colors": [
+    "cyan",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New York Times Magazine"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2013, which lists it as winner: The New York Times Magazine, \"Jerry Seinfeld Is 58, Rich Beyond Imagination and Still Working,\" December 23, 2012 (no individual credits listed)",
+   "hue": 185.17,
+   "light": 0.5676,
+   "chroma": 0.6743
+  },
+  "asme.media::2013::bloomberg businessweek::bang head here": {
+   "id": "CRVI000659",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000659.png",
+   "original_px": [
+    599,
+    800
+   ],
+   "original_bytes": 123558,
+   "identity": "asme.media::2013::bloomberg businessweek::bang head here",
+   "maker": "Unknown",
+   "title": "Bang Head Here",
+   "subtitle": "Bloomberg Businessweek, May 28–June 3, 2012",
+   "year": "2012",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2013, which lists it as winner: Bloomberg Businessweek, \"Bang Head Here,\" May 28–June 3, 2012 (no individual credits listed)",
+   "source_url": "https://www.asme.media/winners-and-finalists-2013",
+   "notes": [
+    "ASME Best Cover Contest 2013 — winner.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/45.png",
+   "source_px": [
+    599,
+    800
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Bloomberg Businessweek"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2013, which lists it as winner: Bloomberg Businessweek, \"Bang Head Here,\" May 28–June 3, 2012 (no individual credits listed)",
+   "hue": 25.07,
+   "light": 0.4725,
+   "chroma": 0.6487
+  },
+  "asme.media::2013::new york::how to make it in the art world": {
+   "id": "CRVI000660",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000660.png",
+   "original_px": [
+    399,
+    563
+   ],
+   "original_bytes": 265664,
+   "identity": "asme.media::2013::new york::how to make it in the art world",
+   "maker": "Unknown",
+   "title": "How to Make It in the Art World",
+   "subtitle": "New York, April 30, 2012",
+   "year": "2012",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2013, which lists it as finalist: New York, \"How to Make It in the Art World,\" April 30, 2012 Most Delicious (no individual credits listed)",
+   "source_url": "https://www.asme.media/winners-and-finalists-2013",
+   "notes": [
+    "ASME Best Cover Contest 2013 — finalist.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/46.png",
+   "source_px": [
+    399,
+    563
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2013, which lists it as finalist: New York, \"How to Make It in the Art World,\" April 30, 2012 Most Delicious (no individual credits listed)",
+   "hue": 23.47,
+   "light": 0.7592,
+   "chroma": 0.1353
+  },
+  "asme.media::2009::the new york times magazine::may 24 2009 fashion  beauty": {
+   "id": "CRVI000661",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000661.png",
+   "original_px": [
+    377,
+    460
+   ],
+   "original_bytes": 224934,
+   "identity": "asme.media::2009::the new york times magazine::may 24 2009 fashion  beauty",
+   "maker": "Unknown",
+   "title": "The New York Times Magazine, May 24, 2009",
+   "subtitle": "The New York Times Magazine, May 24, 2009",
+   "year": "2009",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2009, which lists it as finalist: The New York Times Magazine, May 24, 2009 Fashion & Beauty (no individual credits listed)",
+   "source_url": "https://www.asme.media/winners-and-finalists-2009",
+   "notes": [
+    "ASME Best Cover Contest 2009 — finalist.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/47.png",
+   "source_px": [
+    377,
+    460
+   ],
+   "colors": [
+    "blue",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New York Times Magazine"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2009, which lists it as finalist: The New York Times Magazine, May 24, 2009 Fashion & Beauty (no individual credits listed)",
+   "hue": 202.84,
+   "light": 0.6151,
+   "chroma": 0.7223
+  },
+  "asme.media::2009::the new yorker::may 11 2009 sports  fitness": {
+   "id": "CRVI000662",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000662.png",
+   "original_px": [
+    345,
+    460
+   ],
+   "original_bytes": 227941,
+   "identity": "asme.media::2009::the new yorker::may 11 2009 sports  fitness",
+   "maker": "Unknown",
+   "title": "The New Yorker, May 11, 2009",
+   "subtitle": "The New Yorker, May 11, 2009",
+   "year": "2009",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2009, which lists it as finalist: The New Yorker, May 11, 2009 Sports & Fitness (no individual credits listed)",
+   "source_url": "https://www.asme.media/winners-and-finalists-2009",
+   "notes": [
+    "ASME Best Cover Contest 2009 — finalist.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/48.png",
+   "source_px": [
+    345,
+    460
+   ],
+   "colors": [
+    "orange",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New Yorker"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2009, which lists it as finalist: The New Yorker, May 11, 2009 Sports & Fitness (no individual credits listed)",
+   "hue": 36.47,
+   "light": 0.5935,
+   "chroma": 0.3135
+  },
+  "asme.media::2008::new york::march 24 2008": {
+   "id": "CRVI000663",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000663.png",
+   "original_px": [
+    397,
+    544
+   ],
+   "original_bytes": 202367,
+   "identity": "asme.media::2008::new york::march 24 2008",
+   "maker": "Unknown",
+   "title": "New York, March 24, 2008",
+   "subtitle": "New York, March 24, 2008",
+   "year": "2008",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2008, which lists it as winner: New York, March 24, 2008 (no individual credits listed)",
+   "source_url": "https://www.asme.media/winners-and-finalists-2008",
+   "notes": [
+    "ASME Best Cover Contest 2008 — winner.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/49.png",
+   "source_px": [
+    397,
+    544
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2008, which lists it as winner: New York, March 24, 2008 (no individual credits listed)",
+   "hue": 354.28,
+   "light": 0.6408,
+   "chroma": 0.1367
+  },
+  "asme.media::2007::the new yorker::april 9 2007": {
+   "id": "CRVI000664",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000664.png",
+   "original_px": [
+    397,
+    544
+   ],
+   "original_bytes": 211272,
+   "identity": "asme.media::2007::the new yorker::april 9 2007",
+   "maker": "Unknown",
+   "title": "The New Yorker, April 9, 2007",
+   "subtitle": "The New Yorker, April 9, 2007",
+   "year": "2007",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2007, which lists it as winner: The New Yorker, April 9, 2007 (no individual credits listed)",
+   "source_url": "https://www.asme.media/winners-and-finalists-2007",
+   "notes": [
+    "ASME Best Cover Contest 2007 — winner.",
+    "Cropped out of a screenshot of the ASME results page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/50.png",
+   "source_px": [
+    397,
+    544
+   ],
+   "colors": [
+    "yellow",
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New Yorker"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2007, which lists it as winner: The New Yorker, April 9, 2007 (no individual credits listed)",
+   "hue": null,
+   "light": 0.2243,
+   "chroma": 0.0939
   }
  }
 }

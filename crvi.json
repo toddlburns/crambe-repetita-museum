@@ -22201,9 +22201,9 @@
    "original": "originals/CRVI000486.jpg",
    "original_px": [
     1170,
-    1440
+    1393
    ],
-   "original_bytes": 269002,
+   "original_bytes": 261839,
    "maker": "Philip Montgomery",
    "title": "The Olympics Issue",
    "subtitle": "The New York Times Magazine, July 28, 2024",
@@ -22235,7 +22235,7 @@
     }
    ],
    "hue": null,
-   "light": 0.5881
+   "light": 0.6
   },
   {
    "id": "CRVI000487",
@@ -22627,9 +22627,9 @@
    "original": "originals/CRVI000495.jpg",
    "original_px": [
     1170,
-    1652
+    1605
    ],
-   "original_bytes": 646540,
+   "original_bytes": 640084,
    "maker": "Justin Patrick Long",
    "title": "Pattern Player",
    "subtitle": "Vanity Fair, October 2020",
@@ -22672,8 +22672,8 @@
      "v": "green"
     }
    ],
-   "hue": 348.68,
-   "light": 0.5638
+   "hue": 348.94,
+   "light": 0.5737
   },
   {
    "id": "CRVI000496",
@@ -23289,9 +23289,9 @@
    "original": "originals/CRVI000508.jpg",
    "original_px": [
     1170,
-    1685
+    1638
    ],
-   "original_bytes": 332487,
+   "original_bytes": 325918,
    "maker": "Raul Aguila",
    "title": "Wild About Harry",
    "subtitle": "Variety, December 2, 2020",
@@ -23334,8 +23334,8 @@
      "v": "blue"
     }
    ],
-   "hue": 214.32,
-   "light": 0.765
+   "hue": 214.26,
+   "light": 0.7802
   },
   {
    "id": "CRVI000509",
@@ -24503,9 +24503,9 @@
    "original": "originals/CRVI000531.jpg",
    "original_px": [
     1170,
-    1678
+    1601
    ],
-   "original_bytes": 403744,
+   "original_bytes": 379252,
    "maker": "Unknown",
    "title": "The Lunacy of Text-Based Therapy",
    "subtitle": "New York, March 29-April 11, 2021",
@@ -24540,8 +24540,8 @@
      "v": "white"
     }
    ],
-   "hue": 196.63,
-   "light": 0.8815
+   "hue": 196.16,
+   "light": 0.8814
   },
   {
    "id": "CRVI000532",
@@ -28598,6 +28598,2336 @@
    ],
    "hue": 229.83,
    "light": 0.307
+  },
+  {
+   "id": "CRVI000614",
+   "source_url": "https://www.asme.media/winners-and-finalists-2019",
+   "animated": false,
+   "thumb": "thumbs/CRVI000614.jpg",
+   "source_label": "",
+   "image": "images/CRVI000614.jpg",
+   "original": "originals/CRVI000614.png",
+   "original_px": [
+    499,
+    680
+   ],
+   "original_bytes": 400112,
+   "maker": "Barry Blitt",
+   "title": "Welcome to Congress",
+   "subtitle": "The New Yorker, November 19 2018",
+   "year": "2018",
+   "tags": [
+    {
+     "k": "illustrator",
+     "v": "Barry Blitt"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New Yorker"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 42.66,
+   "light": 0.8113
+  },
+  {
+   "id": "CRVI000615",
+   "source_url": "https://www.asme.media/winners-and-finalists-2019",
+   "animated": false,
+   "thumb": "thumbs/CRVI000615.jpg",
+   "source_label": "",
+   "image": "images/CRVI000615.jpg",
+   "original": "originals/CRVI000615.png",
+   "original_px": [
+    499,
+    660
+   ],
+   "original_bytes": 323471,
+   "maker": "D.W. Pine, Tim O'Brien",
+   "title": "Stormy",
+   "subtitle": "TIME, April 23 2018",
+   "year": "2018",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "D.W. Pine"
+    },
+    {
+     "k": "illustrator",
+     "v": "Tim O'Brien"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "TIME"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 4.87,
+   "light": 0.406
+  },
+  {
+   "id": "CRVI000616",
+   "source_url": "https://www.asme.media/winners-and-finalists-2019",
+   "animated": false,
+   "thumb": "thumbs/CRVI000616.jpg",
+   "source_label": "",
+   "image": "images/CRVI000616.jpg",
+   "original": "originals/CRVI000616.png",
+   "original_px": [
+    499,
+    680
+   ],
+   "original_bytes": 351140,
+   "maker": "Chris Ware",
+   "title": "Golden Opportunity",
+   "subtitle": "The New Yorker, March 5 2018",
+   "year": "2018",
+   "tags": [
+    {
+     "k": "illustrator",
+     "v": "Chris Ware"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New Yorker"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 357.44,
+   "light": 0.557
+  },
+  {
+   "id": "CRVI000617",
+   "source_url": "https://www.asme.media/winners-and-finalists-2019",
+   "animated": false,
+   "thumb": "thumbs/CRVI000617.jpg",
+   "source_label": "",
+   "image": "images/CRVI000617.jpg",
+   "original": "originals/CRVI000617.png",
+   "original_px": [
+    380,
+    646
+   ],
+   "original_bytes": 129267,
+   "maker": "Nejc Prah, Simon Dawson/Bloomberg",
+   "title": "Big Changes at the Top",
+   "subtitle": "Bloomberg Businessweek, March 19 2018",
+   "year": "2018",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Nejc Prah"
+    },
+    {
+     "k": "photographer",
+     "v": "Simon Dawson/Bloomberg"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Bloomberg Businessweek"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "white"
+    }
+   ],
+   "hue": 24.03,
+   "light": 0.8736
+  },
+  {
+   "id": "CRVI000618",
+   "source_url": "https://www.asme.media/winners-and-finalists-2019",
+   "animated": false,
+   "thumb": "thumbs/CRVI000618.jpg",
+   "source_label": "",
+   "image": "images/CRVI000618.jpg",
+   "original": "originals/CRVI000618.png",
+   "original_px": [
+    499,
+    655
+   ],
+   "original_bytes": 504941,
+   "maker": "Leo Jung, Trent Davis Bailey",
+   "title": "A Kingdom From Dust",
+   "subtitle": "The California Sunday Magazine, February 4 2018",
+   "year": "2018",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Leo Jung"
+    },
+    {
+     "k": "photographer",
+     "v": "Trent Davis Bailey"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The California Sunday Magazine"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 35.68,
+   "light": 0.3927
+  },
+  {
+   "id": "CRVI000619",
+   "source_url": "https://www.asme.media/winners-and-finalists-2019",
+   "animated": false,
+   "thumb": "thumbs/CRVI000619.jpg",
+   "source_label": "",
+   "image": "images/CRVI000619.jpg",
+   "original": "originals/CRVI000619.png",
+   "original_px": [
+    498,
+    607
+   ],
+   "original_bytes": 143690,
+   "maker": "Gail Bichler",
+   "title": "Is Google Too Powerful?",
+   "subtitle": "The New York Times Magazine, February 25 2018",
+   "year": "2018",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Gail Bichler"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New York Times Magazine"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 5.04,
+   "light": 0.7552
+  },
+  {
+   "id": "CRVI000620",
+   "source_url": "https://www.asme.media/winners-and-finalists-2019",
+   "animated": false,
+   "thumb": "thumbs/CRVI000620.jpg",
+   "source_label": "",
+   "image": "images/CRVI000620.jpg",
+   "original": "originals/CRVI000620.png",
+   "original_px": [
+    499,
+    680
+   ],
+   "original_bytes": 486199,
+   "maker": "Beth Broadwater, Juco",
+   "title": "Wake Up and Dream",
+   "subtitle": "The Washington Post Magazine, April 29 2018",
+   "year": "2018",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Beth Broadwater"
+    },
+    {
+     "k": "photographer",
+     "v": "Juco"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The Washington Post Magazine"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 184.56,
+   "light": 0.6312
+  },
+  {
+   "id": "CRVI000621",
+   "source_url": "https://www.asme.media/winners-and-finalists-2019",
+   "animated": false,
+   "thumb": "thumbs/CRVI000621.jpg",
+   "source_label": "",
+   "image": "images/CRVI000621.jpg",
+   "original": "originals/CRVI000621.png",
+   "original_px": [
+    499,
+    687
+   ],
+   "original_bytes": 337655,
+   "maker": "Maurizio Di Iorio",
+   "title": "The Mutant Future of Food",
+   "subtitle": "WIRED, August 2018",
+   "year": "2018",
+   "tags": [
+    {
+     "k": "photographer",
+     "v": "Maurizio Di Iorio"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "WIRED"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 55.06,
+   "light": 0.524
+  },
+  {
+   "id": "CRVI000622",
+   "source_url": "https://www.asme.media/winners-and-finalists-2019",
+   "animated": false,
+   "thumb": "thumbs/CRVI000622.jpg",
+   "source_label": "",
+   "image": "images/CRVI000622.jpg",
+   "original": "originals/CRVI000622.png",
+   "original_px": [
+    499,
+    675
+   ],
+   "original_bytes": 209593,
+   "maker": "Tom Hislop, Stephen Meierding",
+   "title": "The Sex Issue",
+   "subtitle": "Time Out New York, January 31-February 6 2018",
+   "year": "2018",
+   "tags": [
+    {
+     "k": "art director",
+     "v": "Tom Hislop"
+    },
+    {
+     "k": "photographer",
+     "v": "Stephen Meierding"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Time Out New York"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 334.78,
+   "light": 0.74
+  },
+  {
+   "id": "CRVI000623",
+   "source_url": "https://www.asme.media/winners-and-finalists-2019",
+   "animated": false,
+   "thumb": "thumbs/CRVI000623.jpg",
+   "source_label": "",
+   "image": "images/CRVI000623.jpg",
+   "original": "originals/CRVI000623.png",
+   "original_px": [
+    599,
+    750
+   ],
+   "original_bytes": 778435,
+   "maker": "Lia Kantrowitz, Kitron Neuschatz, Elizabeth Renstrom",
+   "title": "Burnout and Escapism",
+   "subtitle": "VICE, December 2018",
+   "year": "2018",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Lia Kantrowitz"
+    },
+    {
+     "k": "illustrator",
+     "v": "Lia Kantrowitz"
+    },
+    {
+     "k": "designer",
+     "v": "Kitron Neuschatz"
+    },
+    {
+     "k": "illustrator",
+     "v": "Kitron Neuschatz"
+    },
+    {
+     "k": "photographer",
+     "v": "Elizabeth Renstrom"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "VICE"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 31.88,
+   "light": 0.4681
+  },
+  {
+   "id": "CRVI000624",
+   "source_url": "https://www.asme.media/winners-and-finalists-2018",
+   "animated": false,
+   "thumb": "thumbs/CRVI000624.jpg",
+   "source_label": "",
+   "image": "images/CRVI000624.jpg",
+   "original": "originals/CRVI000624.png",
+   "original_px": [
+    599,
+    819
+   ],
+   "original_bytes": 221602,
+   "maker": "David Plunkert",
+   "title": "Blowhard",
+   "subtitle": "The New Yorker, August 28, 2017",
+   "year": "2017",
+   "tags": [
+    {
+     "k": "illustrator",
+     "v": "David Plunkert"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New Yorker"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 16.09,
+   "light": 0.4318
+  },
+  {
+   "id": "CRVI000625",
+   "source_url": "https://www.asme.media/winners-and-finalists-2018",
+   "animated": false,
+   "thumb": "thumbs/CRVI000625.jpg",
+   "source_label": "",
+   "image": "images/CRVI000625.jpg",
+   "original": "originals/CRVI000625.png",
+   "original_px": [
+    599,
+    805
+   ],
+   "original_bytes": 735101,
+   "maker": "Jody Quon, Christopher Anderson",
+   "title": "David Letterman Returns",
+   "subtitle": "New York, March 6-19, 2017",
+   "year": "2017",
+   "tags": [
+    {
+     "k": "art director",
+     "v": "Jody Quon"
+    },
+    {
+     "k": "photographer",
+     "v": "Christopher Anderson"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 27.48,
+   "light": 0.6505
+  },
+  {
+   "id": "CRVI000626",
+   "source_url": "https://www.asme.media/winners-and-finalists-2018",
+   "animated": false,
+   "thumb": "thumbs/CRVI000626.jpg",
+   "source_label": "",
+   "image": "images/CRVI000626.jpg",
+   "original": "originals/CRVI000626.png",
+   "original_px": [
+    499,
+    691
+   ],
+   "original_bytes": 487446,
+   "maker": "Anton Ioukhnovets, Mario Sorrenti",
+   "title": "Make America Happy Again",
+   "subtitle": "Esquire, February 2017",
+   "year": "2017",
+   "tags": [
+    {
+     "k": "art director",
+     "v": "Anton Ioukhnovets"
+    },
+    {
+     "k": "photographer",
+     "v": "Mario Sorrenti"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Esquire"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 200.38,
+   "light": 0.4992
+  },
+  {
+   "id": "CRVI000627",
+   "source_url": "https://www.asme.media/winners-and-finalists-2018",
+   "animated": false,
+   "thumb": "thumbs/CRVI000627.jpg",
+   "source_label": "",
+   "image": "images/CRVI000627.jpg",
+   "original": "originals/CRVI000627.png",
+   "original_px": [
+    499,
+    666
+   ],
+   "original_bytes": 259951,
+   "maker": "Unknown",
+   "title": "It's Not Easy Being Mark Zuckerberg Right Now",
+   "subtitle": "Bloomberg Businessweek, September 25, 2017",
+   "year": "2017",
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Bloomberg Businessweek"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "neutral"
+    }
+   ],
+   "hue": null,
+   "light": 0.3624
+  },
+  {
+   "id": "CRVI000628",
+   "source_url": "https://www.asme.media/winners-and-finalists-2018",
+   "animated": false,
+   "thumb": "thumbs/CRVI000628.jpg",
+   "source_label": "",
+   "image": "images/CRVI000628.jpg",
+   "original": "originals/CRVI000628.png",
+   "original_px": [
+    599,
+    819
+   ],
+   "original_bytes": 715458,
+   "maker": "Barry Blitt",
+   "title": "Eustace Vladimirovich Tilley",
+   "subtitle": "The New Yorker, March 6, 2017",
+   "year": "2017",
+   "tags": [
+    {
+     "k": "illustrator",
+     "v": "Barry Blitt"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New Yorker"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 25.96,
+   "light": 0.7407
+  },
+  {
+   "id": "CRVI000629",
+   "source_url": "https://www.asme.media/winners-and-finalists-2018",
+   "animated": false,
+   "thumb": "thumbs/CRVI000629.jpg",
+   "source_label": "",
+   "image": "images/CRVI000629.jpg",
+   "original": "originals/CRVI000629.png",
+   "original_px": [
+    447,
+    648
+   ],
+   "original_bytes": 207748,
+   "maker": "Chin Wang, Hank Willis Thomas in collaboration with Sanford Biggers",
+   "title": "Who Owns Black Pain?",
+   "subtitle": "Harper's Magazine, July 2017",
+   "year": "2017",
+   "tags": [
+    {
+     "k": "art director",
+     "v": "Chin Wang"
+    },
+    {
+     "k": "photographer",
+     "v": "Hank Willis Thomas in collaboration with Sanford Biggers"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Harper's Magazine"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "neutral"
+    }
+   ],
+   "hue": null,
+   "light": 0.796
+  },
+  {
+   "id": "CRVI000630",
+   "source_url": "https://www.asme.media/winners-and-finalists-2018",
+   "animated": false,
+   "thumb": "thumbs/CRVI000630.jpg",
+   "source_label": "",
+   "image": "images/CRVI000630.jpg",
+   "original": "originals/CRVI000630.png",
+   "original_px": [
+    499,
+    698
+   ],
+   "original_bytes": 302346,
+   "maker": "D.W. Pine, Peter Greenwood",
+   "title": "Dear Washington, We Need to Rebuild. Can You Get Your Act Together?",
+   "subtitle": "TIME, April 10, 2017",
+   "year": "2017",
+   "tags": [
+    {
+     "k": "art director",
+     "v": "D.W. Pine"
+    },
+    {
+     "k": "illustrator",
+     "v": "Peter Greenwood"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "TIME"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 6.13,
+   "light": 0.5383
+  },
+  {
+   "id": "CRVI000631",
+   "source_url": "https://www.asme.media/winners-and-finalists-2018",
+   "animated": false,
+   "thumb": "thumbs/CRVI000631.jpg",
+   "source_label": "",
+   "image": "images/CRVI000631.jpg",
+   "original": "originals/CRVI000631.png",
+   "original_px": [
+    499,
+    688
+   ],
+   "original_bytes": 144067,
+   "maker": "Unknown",
+   "title": "What Lies Ahead",
+   "subtitle": "WIRED, February 2017 Most Controversial",
+   "year": "2017",
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "WIRED"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 355.9,
+   "light": 0.4462
+  },
+  {
+   "id": "CRVI000632",
+   "source_url": "https://www.asme.media/winners-and-finalists-2018",
+   "animated": false,
+   "thumb": "thumbs/CRVI000632.jpg",
+   "source_label": "",
+   "image": "images/CRVI000632.jpg",
+   "original": "originals/CRVI000632.png",
+   "original_px": [
+    499,
+    646
+   ],
+   "original_bytes": 363046,
+   "maker": "Michael Goesele, Justin Metz",
+   "title": "Pop Go the Weasels",
+   "subtitle": "Newsweek, November 17, 2017",
+   "year": "2017",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Michael Goesele"
+    },
+    {
+     "k": "illustrator",
+     "v": "Justin Metz"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Newsweek"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 8.48,
+   "light": 0.7282
+  },
+  {
+   "id": "CRVI000633",
+   "source_url": "https://www.asme.media/winners-and-finalists-2017",
+   "animated": false,
+   "thumb": "thumbs/CRVI000633.jpg",
+   "source_label": "",
+   "image": "images/CRVI000633.jpg",
+   "original": "originals/CRVI000633.png",
+   "original_px": [
+    599,
+    800
+   ],
+   "original_bytes": 109378,
+   "maker": "D.W. Pine, Edel Rodriguez",
+   "title": "Total Meltdown",
+   "subtitle": "TIME, October 24 2016",
+   "year": "2016",
+   "tags": [
+    {
+     "k": "art director",
+     "v": "D.W. Pine"
+    },
+    {
+     "k": "illustrator",
+     "v": "Edel Rodriguez"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "TIME"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "black"
+    }
+   ],
+   "hue": 5.0,
+   "light": 0.1995
+  },
+  {
+   "id": "CRVI000634",
+   "source_url": "https://www.asme.media/winners-and-finalists-2017",
+   "animated": false,
+   "thumb": "thumbs/CRVI000634.jpg",
+   "source_label": "",
+   "image": "images/CRVI000634.jpg",
+   "original": "originals/CRVI000634.png",
+   "original_px": [
+    597,
+    781
+   ],
+   "original_bytes": 427638,
+   "maker": "Unknown",
+   "title": "Single Women",
+   "subtitle": "New York, February 22-March 6 2016",
+   "year": "2016",
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 24.28,
+   "light": 0.8119
+  },
+  {
+   "id": "CRVI000635",
+   "source_url": "https://www.asme.media/winners-and-finalists-2017",
+   "animated": false,
+   "thumb": "thumbs/CRVI000635.jpg",
+   "source_label": "",
+   "image": "images/CRVI000635.jpg",
+   "original": "originals/CRVI000635.png",
+   "original_px": [
+    599,
+    841
+   ],
+   "original_bytes": 981211,
+   "maker": "Barry Blitt",
+   "title": "Anything But That",
+   "subtitle": "The New Yorker, November 14 2016",
+   "year": "2016",
+   "tags": [
+    {
+     "k": "illustrator",
+     "v": "Barry Blitt"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New Yorker"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 53.33,
+   "light": 0.6833
+  },
+  {
+   "id": "CRVI000636",
+   "source_url": "https://www.asme.media/winners-and-finalists-2017",
+   "animated": false,
+   "thumb": "thumbs/CRVI000636.jpg",
+   "source_label": "",
+   "image": "images/CRVI000636.jpg",
+   "original": "originals/CRVI000636.png",
+   "original_px": [
+    599,
+    800
+   ],
+   "original_bytes": 480794,
+   "maker": "Vasilis Papadrosos, Peter Jablokow",
+   "title": "United's Quest to Be Less Awful",
+   "subtitle": "Bloomberg Businessweek, January 18-24 READER'S CHOICE Chicagoly \"Addicted to the Internet,\" Fall 2016",
+   "year": "2016",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Vasilis Papadrosos"
+    },
+    {
+     "k": "illustrator",
+     "v": "Peter Jablokow"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Bloomberg Businessweek"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 212.25,
+   "light": 0.659
+  },
+  {
+   "id": "CRVI000637",
+   "source_url": "https://www.asme.media/winners-and-finalists-2017",
+   "animated": false,
+   "thumb": "thumbs/CRVI000637.jpg",
+   "source_label": "",
+   "image": "images/CRVI000637.jpg",
+   "original": "originals/CRVI000637.png",
+   "original_px": [
+    499,
+    666
+   ],
+   "original_bytes": 252250,
+   "maker": "Unknown",
+   "title": "Yahoo's $8 Billion Black Hole",
+   "subtitle": "Bloomberg Businessweek, May 2-8 2016",
+   "year": "2016",
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Bloomberg Businessweek"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 55.05,
+   "light": 0.5971
+  },
+  {
+   "id": "CRVI000638",
+   "source_url": "https://www.asme.media/winners-and-finalists-2017",
+   "animated": false,
+   "thumb": "thumbs/CRVI000638.jpg",
+   "source_label": "",
+   "image": "images/CRVI000638.jpg",
+   "original": "originals/CRVI000638.png",
+   "original_px": [
+    599,
+    816
+   ],
+   "original_bytes": 418836,
+   "maker": "Tomer Hanuka",
+   "title": "Take the L Train",
+   "subtitle": "The New Yorker, April 11 2016",
+   "year": "2016",
+   "tags": [
+    {
+     "k": "illustrator",
+     "v": "Tomer Hanuka"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New Yorker"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 29.76,
+   "light": 0.5251
+  },
+  {
+   "id": "CRVI000639",
+   "source_url": "https://www.asme.media/winners-and-finalists-2017",
+   "animated": false,
+   "thumb": "thumbs/CRVI000639.jpg",
+   "source_label": "",
+   "image": "images/CRVI000639.jpg",
+   "original": "originals/CRVI000639.png",
+   "original_px": [
+    599,
+    778
+   ],
+   "original_bytes": 800006,
+   "maker": "Maurizio Cattelan, Pierpaolo Ferrari",
+   "title": "VICE, March",
+   "subtitle": "VICE, March 2016",
+   "year": "2016",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Maurizio Cattelan"
+    },
+    {
+     "k": "photographer",
+     "v": "Pierpaolo Ferrari"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "VICE"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 204.91,
+   "light": 0.407
+  },
+  {
+   "id": "CRVI000640",
+   "source_url": "https://www.asme.media/winners-and-finalists-2017",
+   "animated": false,
+   "thumb": "thumbs/CRVI000640.jpg",
+   "source_label": "",
+   "image": "images/CRVI000640.jpg",
+   "original": "originals/CRVI000640.png",
+   "original_px": [
+    498,
+    666
+   ],
+   "original_bytes": 337210,
+   "maker": "Alexander Grossman, Alex Lau, Elizabeth Cecil, Wilfred Hisashi",
+   "title": "Eat Like a Local",
+   "subtitle": "Bon Appétit, May 2016",
+   "year": "2016",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Alexander Grossman"
+    },
+    {
+     "k": "photographer",
+     "v": "Alex Lau"
+    },
+    {
+     "k": "photographer",
+     "v": "Elizabeth Cecil"
+    },
+    {
+     "k": "photographer",
+     "v": "Wilfred Hisashi"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Bon Appétit"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 353.96,
+   "light": 0.7375
+  },
+  {
+   "id": "CRVI000641",
+   "source_url": "https://www.asme.media/winners-and-finalists-2017",
+   "animated": false,
+   "thumb": "thumbs/CRVI000641.jpg",
+   "source_label": "",
+   "image": "images/CRVI000641.jpg",
+   "original": "originals/CRVI000641.png",
+   "original_px": [
+    599,
+    819
+   ],
+   "original_bytes": 589633,
+   "maker": "R. Kikuo Johnson",
+   "title": "Commencement",
+   "subtitle": "The New Yorker, May 30 2016",
+   "year": "2016",
+   "tags": [
+    {
+     "k": "illustrator",
+     "v": "R. Kikuo Johnson"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New Yorker"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 57.36,
+   "light": 0.5475
+  },
+  {
+   "id": "CRVI000642",
+   "source_url": "https://www.asme.media/winners-and-finalists-2017",
+   "animated": false,
+   "thumb": "thumbs/CRVI000642.jpg",
+   "source_label": "",
+   "image": "images/CRVI000642.jpg",
+   "original": "originals/CRVI000642.png",
+   "original_px": [
+    599,
+    780
+   ],
+   "original_bytes": 673019,
+   "maker": "Luke Hayman, Shigeto Akiyama, Annabel Mehran",
+   "title": "Yentl 4Eva",
+   "subtitle": "Tablet Magazine, Fall 2016",
+   "year": "2016",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Luke Hayman"
+    },
+    {
+     "k": "designer",
+     "v": "Shigeto Akiyama"
+    },
+    {
+     "k": "photographer",
+     "v": "Annabel Mehran"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Tablet Magazine"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 71.61,
+   "light": 0.3284
+  },
+  {
+   "id": "CRVI000643",
+   "source_url": "https://www.asme.media/winners-and-finalists-2017",
+   "animated": false,
+   "thumb": "thumbs/CRVI000643.jpg",
+   "source_label": "",
+   "image": "images/CRVI000643.jpg",
+   "original": "originals/CRVI000643.png",
+   "original_px": [
+    499,
+    600
+   ],
+   "original_bytes": 447886,
+   "maker": "Chin Wang, Javier Jaen",
+   "title": "The Genius of Bill Belichick",
+   "subtitle": "ESPN The Magazine, October 17 2016",
+   "year": "2016",
+   "tags": [
+    {
+     "k": "art director",
+     "v": "Chin Wang"
+    },
+    {
+     "k": "illustrator",
+     "v": "Javier Jaen"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "ESPN The Magazine"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 32.72,
+   "light": 0.3695
+  },
+  {
+   "id": "CRVI000644",
+   "source_url": "https://www.asme.media/winners-and-finalists-2017",
+   "animated": false,
+   "thumb": "thumbs/CRVI000644.jpg",
+   "source_label": "",
+   "image": "images/CRVI000644.jpg",
+   "original": "originals/CRVI000644.png",
+   "original_px": [
+    499,
+    705
+   ],
+   "original_bytes": 74909,
+   "maker": "Billy Sorrentino",
+   "title": "The End of Code",
+   "subtitle": "WIRED, June 2016",
+   "year": "2016",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Billy Sorrentino"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "WIRED"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 5.0,
+   "light": 0.5544
+  },
+  {
+   "id": "CRVI000645",
+   "source_url": "https://www.asme.media/winners-and-finalists-2016",
+   "animated": false,
+   "thumb": "thumbs/CRVI000645.jpg",
+   "source_label": "",
+   "image": "images/CRVI000645.jpg",
+   "original": "originals/CRVI000645.png",
+   "original_px": [
+    498,
+    666
+   ],
+   "original_bytes": 70324,
+   "maker": "Robert Vargas",
+   "title": "If You Can't Read That, You'd Better Read This",
+   "subtitle": "Bloomberg Businessweek, June 15–28 2015",
+   "year": "2015",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Robert Vargas"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Bloomberg Businessweek"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "white"
+    }
+   ],
+   "hue": null,
+   "light": 0.9627
+  },
+  {
+   "id": "CRVI000646",
+   "source_url": "https://www.asme.media/winners-and-finalists-2016",
+   "animated": false,
+   "thumb": "thumbs/CRVI000646.jpg",
+   "source_label": "",
+   "image": "images/CRVI000646.jpg",
+   "original": "originals/CRVI000646.png",
+   "original_px": [
+    499,
+    667
+   ],
+   "original_bytes": 379204,
+   "maker": "Scott Seymour, Kevin Val Aelst, Rose Engelland",
+   "title": "The Isolated Black Professor",
+   "subtitle": "The Chronicle Review, January 30 2015",
+   "year": "2015",
+   "tags": [
+    {
+     "k": "art director",
+     "v": "Scott Seymour"
+    },
+    {
+     "k": "illustrator",
+     "v": "Kevin Val Aelst"
+    },
+    {
+     "k": "art director",
+     "v": "Rose Engelland"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The Chronicle Review"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 204.76,
+   "light": 0.6438
+  },
+  {
+   "id": "CRVI000647",
+   "source_url": "https://www.asme.media/winners-and-finalists-2016",
+   "animated": false,
+   "thumb": "thumbs/CRVI000647.jpg",
+   "source_label": "",
+   "image": "images/CRVI000647.jpg",
+   "original": "originals/CRVI000647.png",
+   "original_px": [
+    499,
+    683
+   ],
+   "original_bytes": 479755,
+   "maker": "Françoise Mouly, Kadir Nelson",
+   "title": "90th Anniversary [Eustace Tilley]",
+   "subtitle": "The New Yorker, February 23 2015",
+   "year": "2015",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Françoise Mouly"
+    },
+    {
+     "k": "illustrator",
+     "v": "Kadir Nelson"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New Yorker"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 204.99,
+   "light": 0.4006
+  },
+  {
+   "id": "CRVI000648",
+   "source_url": "https://www.asme.media/winners-and-finalists-2016",
+   "animated": false,
+   "thumb": "thumbs/CRVI000648.jpg",
+   "source_label": "",
+   "image": "images/CRVI000648.jpg",
+   "original": "originals/CRVI000648.png",
+   "original_px": [
+    499,
+    667
+   ],
+   "original_bytes": 45745,
+   "maker": "Billy Sorrentino",
+   "title": "Sex in the Digital Age",
+   "subtitle": "WIRED, March 2015",
+   "year": "2015",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Billy Sorrentino"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "WIRED"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 65.0,
+   "light": 0.6085
+  },
+  {
+   "id": "CRVI000649",
+   "source_url": "https://www.asme.media/winners-and-finalists-2015",
+   "animated": false,
+   "thumb": "thumbs/CRVI000649.jpg",
+   "source_label": "",
+   "image": "images/CRVI000649.jpg",
+   "original": "originals/CRVI000649.png",
+   "original_px": [
+    495,
+    637
+   ],
+   "original_bytes": 153575,
+   "maker": "Unknown",
+   "title": "Speaking Emoji",
+   "subtitle": "New York, November 17-23, 2014",
+   "year": "2014",
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 52.44,
+   "light": 0.7575
+  },
+  {
+   "id": "CRVI000650",
+   "source_url": "https://www.asme.media/winners-and-finalists-2015",
+   "animated": false,
+   "thumb": "thumbs/CRVI000650.jpg",
+   "source_label": "",
+   "image": "images/CRVI000650.jpg",
+   "original": "originals/CRVI000650.png",
+   "original_px": [
+    599,
+    819
+   ],
+   "original_bytes": 845056,
+   "maker": "Unknown",
+   "title": "Health",
+   "subtitle": "New York, June 9-15, 2014",
+   "year": "2014",
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 16.3,
+   "light": 0.6402
+  },
+  {
+   "id": "CRVI000651",
+   "source_url": "https://www.asme.media/winners-and-finalists-2015",
+   "animated": false,
+   "thumb": "thumbs/CRVI000651.jpg",
+   "source_label": "",
+   "image": "images/CRVI000651.jpg",
+   "original": "originals/CRVI000651.png",
+   "original_px": [
+    499,
+    588
+   ],
+   "original_bytes": 269233,
+   "maker": "Unknown",
+   "title": "The Home Issue",
+   "subtitle": "Kinfolk, Spring 2014 Brainiest",
+   "year": "2014",
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Kinfolk"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 25.86,
+   "light": 0.7116
+  },
+  {
+   "id": "CRVI000652",
+   "source_url": "https://www.asme.media/winners-and-finalists-2015",
+   "animated": false,
+   "thumb": "thumbs/CRVI000652.jpg",
+   "source_label": "",
+   "image": "images/CRVI000652.jpg",
+   "original": "originals/CRVI000652.png",
+   "original_px": [
+    560,
+    760
+   ],
+   "original_bytes": 355264,
+   "maker": "Unknown",
+   "title": "Coke Finally Admits It Has a Fat Problem--And a Plan to Fix It",
+   "subtitle": "Bloomberg Businessweek, August 4-10, 2014",
+   "year": "2014",
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Bloomberg Businessweek"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 9.65,
+   "light": 0.6755
+  },
+  {
+   "id": "CRVI000653",
+   "source_url": "https://www.asme.media/winners-and-finalists-2015",
+   "animated": false,
+   "thumb": "thumbs/CRVI000653.jpg",
+   "source_label": "",
+   "image": "images/CRVI000653.jpg",
+   "original": "originals/CRVI000653.png",
+   "original_px": [
+    599,
+    778
+   ],
+   "original_bytes": 487257,
+   "maker": "Cover by Michael Marcelle",
+   "title": "The Wall Street Issue",
+   "subtitle": "Vice, December 2014",
+   "year": "2014",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Cover by Michael Marcelle"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Vice"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "black"
+    }
+   ],
+   "hue": 33.69,
+   "light": 0.1551
+  },
+  {
+   "id": "CRVI000654",
+   "source_url": "https://www.asme.media/winners-and-finalists-2015",
+   "animated": false,
+   "thumb": "thumbs/CRVI000654.jpg",
+   "source_label": "",
+   "image": "images/CRVI000654.jpg",
+   "original": "originals/CRVI000654.png",
+   "original_px": [
+    499,
+    649
+   ],
+   "original_bytes": 625171,
+   "maker": "Unknown",
+   "title": "Coral",
+   "subtitle": "Vice, August 2014 Lifestyle",
+   "year": "2014",
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Vice"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "purple"
+    }
+   ],
+   "hue": 103.67,
+   "light": 0.2433
+  },
+  {
+   "id": "CRVI000655",
+   "source_url": "https://www.asme.media/winners-and-finalists-2015",
+   "animated": false,
+   "thumb": "thumbs/CRVI000655.jpg",
+   "source_label": "",
+   "image": "images/CRVI000655.jpg",
+   "original": "originals/CRVI000655.png",
+   "original_px": [
+    499,
+    627
+   ],
+   "original_bytes": 302860,
+   "maker": "Unknown",
+   "title": "The Photo Issue",
+   "subtitle": "VICE, July 2014 Brainiest",
+   "year": "2014",
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "VICE"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    }
+   ],
+   "hue": 346.14,
+   "light": 0.7323
+  },
+  {
+   "id": "CRVI000656",
+   "source_url": "https://www.asme.media/winners-and-finalists-2014",
+   "animated": false,
+   "thumb": "thumbs/CRVI000656.jpg",
+   "source_label": "",
+   "image": "images/CRVI000656.jpg",
+   "original": "originals/CRVI000656.png",
+   "original_px": [
+    599,
+    800
+   ],
+   "original_bytes": 396039,
+   "maker": "Unknown",
+   "title": "How Blackberry Became a Relic",
+   "subtitle": "Bloomberg Businessweek, December 9–1 Photographs from various museums and art libraries 2013",
+   "year": "2013",
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Bloomberg Businessweek"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "black"
+    }
+   ],
+   "hue": 26.94,
+   "light": 0.2224
+  },
+  {
+   "id": "CRVI000657",
+   "source_url": "https://www.asme.media/winners-and-finalists-2014",
+   "animated": false,
+   "thumb": "thumbs/CRVI000657.jpg",
+   "source_label": "",
+   "image": "images/CRVI000657.jpg",
+   "original": "originals/CRVI000657.png",
+   "original_px": [
+    599,
+    800
+   ],
+   "original_bytes": 549080,
+   "maker": "David Parkins",
+   "title": "The Surprising Sophistication of Twitter",
+   "subtitle": "Bloomberg Businessweek, November 11–17 2013",
+   "year": "2013",
+   "tags": [
+    {
+     "k": "illustrator",
+     "v": "David Parkins"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Bloomberg Businessweek"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 43.52,
+   "light": 0.7125
+  },
+  {
+   "id": "CRVI000658",
+   "source_url": "https://www.asme.media/winners-and-finalists-2013",
+   "animated": false,
+   "thumb": "thumbs/CRVI000658.jpg",
+   "source_label": "",
+   "image": "images/CRVI000658.jpg",
+   "original": "originals/CRVI000658.png",
+   "original_px": [
+    599,
+    730
+   ],
+   "original_bytes": 698932,
+   "maker": "Unknown",
+   "title": "Jerry Seinfeld Is 58, Rich Beyond Imagination and Still Working",
+   "subtitle": "The New York Times Magazine, December 23, 2012",
+   "year": "2012",
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New York Times Magazine"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 185.17,
+   "light": 0.5676
+  },
+  {
+   "id": "CRVI000659",
+   "source_url": "https://www.asme.media/winners-and-finalists-2013",
+   "animated": false,
+   "thumb": "thumbs/CRVI000659.jpg",
+   "source_label": "",
+   "image": "images/CRVI000659.jpg",
+   "original": "originals/CRVI000659.png",
+   "original_px": [
+    599,
+    800
+   ],
+   "original_bytes": 123558,
+   "maker": "Unknown",
+   "title": "Bang Head Here",
+   "subtitle": "Bloomberg Businessweek, May 28–June 3, 2012",
+   "year": "2012",
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Bloomberg Businessweek"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 25.07,
+   "light": 0.4725
+  },
+  {
+   "id": "CRVI000660",
+   "source_url": "https://www.asme.media/winners-and-finalists-2013",
+   "animated": false,
+   "thumb": "thumbs/CRVI000660.jpg",
+   "source_label": "",
+   "image": "images/CRVI000660.jpg",
+   "original": "originals/CRVI000660.png",
+   "original_px": [
+    399,
+    563
+   ],
+   "original_bytes": 265664,
+   "maker": "Unknown",
+   "title": "How to Make It in the Art World",
+   "subtitle": "New York, April 30, 2012",
+   "year": "2012",
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 23.47,
+   "light": 0.7592
+  },
+  {
+   "id": "CRVI000661",
+   "source_url": "https://www.asme.media/winners-and-finalists-2009",
+   "animated": false,
+   "thumb": "thumbs/CRVI000661.jpg",
+   "source_label": "",
+   "image": "images/CRVI000661.jpg",
+   "original": "originals/CRVI000661.png",
+   "original_px": [
+    377,
+    460
+   ],
+   "original_bytes": 224934,
+   "maker": "Unknown",
+   "title": "The New York Times Magazine, May 24, 2009",
+   "subtitle": "The New York Times Magazine, May 24, 2009",
+   "year": "2009",
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New York Times Magazine"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 202.84,
+   "light": 0.6151
+  },
+  {
+   "id": "CRVI000662",
+   "source_url": "https://www.asme.media/winners-and-finalists-2009",
+   "animated": false,
+   "thumb": "thumbs/CRVI000662.jpg",
+   "source_label": "",
+   "image": "images/CRVI000662.jpg",
+   "original": "originals/CRVI000662.png",
+   "original_px": [
+    345,
+    460
+   ],
+   "original_bytes": 227941,
+   "maker": "Unknown",
+   "title": "The New Yorker, May 11, 2009",
+   "subtitle": "The New Yorker, May 11, 2009",
+   "year": "2009",
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New Yorker"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 36.47,
+   "light": 0.5935
+  },
+  {
+   "id": "CRVI000663",
+   "source_url": "https://www.asme.media/winners-and-finalists-2008",
+   "animated": false,
+   "thumb": "thumbs/CRVI000663.jpg",
+   "source_label": "",
+   "image": "images/CRVI000663.jpg",
+   "original": "originals/CRVI000663.png",
+   "original_px": [
+    397,
+    544
+   ],
+   "original_bytes": 202367,
+   "maker": "Unknown",
+   "title": "New York, March 24, 2008",
+   "subtitle": "New York, March 24, 2008",
+   "year": "2008",
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    },
+    {
+     "k": "color",
+     "v": "neutral"
+    }
+   ],
+   "hue": 354.28,
+   "light": 0.6408
+  },
+  {
+   "id": "CRVI000664",
+   "source_url": "https://www.asme.media/winners-and-finalists-2007",
+   "animated": false,
+   "thumb": "thumbs/CRVI000664.jpg",
+   "source_label": "",
+   "image": "images/CRVI000664.jpg",
+   "original": "originals/CRVI000664.png",
+   "original_px": [
+    397,
+    544
+   ],
+   "original_bytes": 211272,
+   "maker": "Unknown",
+   "title": "The New Yorker, April 9, 2007",
+   "subtitle": "The New Yorker, April 9, 2007",
+   "year": "2007",
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New Yorker"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "black"
+    }
+   ],
+   "hue": null,
+   "light": 0.2243
   }
  ]
 }
