@@ -1,5 +1,5 @@
 {
- "next": 572,
+ "next": 585,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -18205,29 +18205,29 @@
    "minted": "2026-08-26",
    "original_file": "originals/CRVI000353.jpg",
    "original_px": [
-    1542,
-    1400
+    1200,
+    1200
    ],
-   "original_bytes": 199709,
+   "original_bytes": 136730,
    "identity": "ele-king sweep::Soul Definitive::IMG_4740_1",
    "maker": "Betty Davis",
    "title": "Betty Davis",
    "subtitle": "Designer unknown · Just Sunshine",
    "year": "1973",
    "label": "Just Sunshine",
-   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Betty Davis / Betty Davis (1973).",
+   "verified_against": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop. Artwork replaced 2026-08-29 with the full square sleeve.",
    "notes": [
-    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
-    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+    "Designer unrecorded: these ele-king guides credit the music, never the packaging.",
+    "Artwork replaced 2026-08-29 at Todd's request with a full, square 1200×1200 sleeve; the previous file was a 1542×1400 crop."
    ],
-   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4740_1.jpg",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/betty.jpg",
    "source_px": [
-    1542,
-    1400
+    1200,
+    1200
    ],
    "colors": [
-    "orange",
-    "red"
+    "red",
+    "orange"
    ],
    "tags": [
     {
@@ -18249,10 +18249,10 @@
    ],
    "identity_established": true,
    "published": true,
-   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Betty Davis / Betty Davis (1973).",
-   "hue": 23.36,
-   "light": 0.3763,
-   "chroma": 0.4037
+   "verification": "Read off SOUL definitive 1956-2016 (河地依子, ele-king books) and confirmed by Todd against his own crop. Artwork replaced 2026-08-29 with the full square sleeve.",
+   "hue": 5.98,
+   "light": 0.4112,
+   "chroma": 0.19
   },
   "ele-king sweep::Soul Definitive::IMG_4741_1": {
    "id": "CRVI000354",
@@ -31550,6 +31550,713 @@
    "hue": 204.45,
    "light": 0.7422,
    "chroma": 0.5572
+  },
+  "alvinlustig.com::nc20-monday-night": {
+   "id": "CRVI000572",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000572.jpg",
+   "original_px": [
+    1052,
+    1600
+   ],
+   "original_bytes": 656845,
+   "identity": "alvinlustig.com::nc20-monday-night",
+   "title": "Monday Night",
+   "subtitle": "Kay Boyle · New Directions, New Classics NC20",
+   "year": "1947",
+   "verified_against": "The Alvin Lustig estate catalogue at alvinlustig.com, which captions this exact image with title, author, publisher, series number and year.",
+   "maker": "Alvin Lustig",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/lustig/est/nc20-monday-night.jpg",
+   "source_px": [
+    1052,
+    1600
+   ],
+   "colors": [
+    "cyan",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "client",
+     "v": "New Directions"
+    },
+    {
+     "k": "subject",
+     "v": "Kay Boyle"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    },
+    {
+     "k": "designer",
+     "v": "Alvin Lustig"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Alvin Lustig estate catalogue at alvinlustig.com, which captions this exact image with title, author, publisher, series number and year.",
+   "hue": 197.65,
+   "light": 0.5637,
+   "chroma": 0.346
+  },
+  "alvinlustig.com::nc3-three-lives": {
+   "id": "CRVI000573",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000573.jpg",
+   "original_px": [
+    1106,
+    1600
+   ],
+   "original_bytes": 335138,
+   "identity": "alvinlustig.com::nc3-three-lives",
+   "title": "Three Lives",
+   "subtitle": "Gertrude Stein · New Directions, New Classics NC3",
+   "year": "1945",
+   "verified_against": "The Alvin Lustig estate catalogue at alvinlustig.com, which captions this exact image with title, author, publisher, series number and year.",
+   "maker": "Alvin Lustig",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/lustig/est/nc3-three-lives.jpg",
+   "source_px": [
+    1106,
+    1600
+   ],
+   "colors": [
+    "green",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "client",
+     "v": "New Directions"
+    },
+    {
+     "k": "subject",
+     "v": "Gertrude Stein"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    },
+    {
+     "k": "designer",
+     "v": "Alvin Lustig"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Alvin Lustig estate catalogue at alvinlustig.com, which captions this exact image with title, author, publisher, series number and year.",
+   "hue": 146.67,
+   "light": 0.6699,
+   "chroma": 0.8562
+  },
+  "alvinlustig.com::nc5-room-view": {
+   "id": "CRVI000574",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000574.jpg",
+   "original_px": [
+    1087,
+    1600
+   ],
+   "original_bytes": 241965,
+   "identity": "alvinlustig.com::nc5-room-view",
+   "title": "A Room with a View",
+   "subtitle": "E M Forster · New Directions, New Classics NC5",
+   "year": "1943",
+   "verified_against": "The Alvin Lustig estate catalogue at alvinlustig.com, which captions this exact image with title, author, publisher, series number and year.",
+   "maker": "Alvin Lustig",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/lustig/est/nc5-room-view.jpg",
+   "source_px": [
+    1087,
+    1600
+   ],
+   "colors": [
+    "green",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "client",
+     "v": "New Directions"
+    },
+    {
+     "k": "subject",
+     "v": "E M Forster"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    },
+    {
+     "k": "designer",
+     "v": "Alvin Lustig"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Alvin Lustig estate catalogue at alvinlustig.com, which captions this exact image with title, author, publisher, series number and year.",
+   "hue": 74.88,
+   "light": 0.3882,
+   "chroma": 0.775
+  },
+  "alvinlustig.com::nc22-ezra-pound": {
+   "id": "CRVI000575",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000575.jpg",
+   "original_px": [
+    1104,
+    1600
+   ],
+   "original_bytes": 558237,
+   "identity": "alvinlustig.com::nc22-ezra-pound",
+   "title": "Selected Poems",
+   "subtitle": "Ezra Pound · New Directions, New Classics NC22",
+   "year": "1949",
+   "verified_against": "The Alvin Lustig estate catalogue at alvinlustig.com, which captions this exact image with title, author, publisher, series number and year.",
+   "maker": "Alvin Lustig",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/lustig/est/nc22-ezra-pound.jpg",
+   "source_px": [
+    1104,
+    1600
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "client",
+     "v": "New Directions"
+    },
+    {
+     "k": "subject",
+     "v": "Ezra Pound"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    },
+    {
+     "k": "designer",
+     "v": "Alvin Lustig"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Alvin Lustig estate catalogue at alvinlustig.com, which captions this exact image with title, author, publisher, series number and year.",
+   "hue": 5.86,
+   "light": 0.6151,
+   "chroma": 0.8199
+  },
+  "alvinlustig.com::nc14-illuminations": {
+   "id": "CRVI000576",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000576.jpg",
+   "original_px": [
+    1002,
+    1600
+   ],
+   "original_bytes": 220752,
+   "identity": "alvinlustig.com::nc14-illuminations",
+   "title": "Illuminations",
+   "subtitle": "Arthur Rimbaud · New Directions, New Classics NC14",
+   "year": "1945",
+   "verified_against": "The Alvin Lustig estate catalogue at alvinlustig.com, which captions this exact image with title, author, publisher, series number and year.",
+   "maker": "Alvin Lustig",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/lustig/est/nc14-illuminations.jpg",
+   "source_px": [
+    1002,
+    1600
+   ],
+   "colors": [
+    "red",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "client",
+     "v": "New Directions"
+    },
+    {
+     "k": "subject",
+     "v": "Arthur Rimbaud"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    },
+    {
+     "k": "designer",
+     "v": "Alvin Lustig"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Alvin Lustig estate catalogue at alvinlustig.com, which captions this exact image with title, author, publisher, series number and year.",
+   "hue": 5.54,
+   "light": 0.5803,
+   "chroma": 0.9991
+  },
+  "alvinlustig.com::nc8-handful": {
+   "id": "CRVI000577",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000577.jpg",
+   "original_px": [
+    1086,
+    1600
+   ],
+   "original_bytes": 440777,
+   "identity": "alvinlustig.com::nc8-handful",
+   "title": "A Handful of Dust",
+   "subtitle": "Evelyn Waugh · New Directions, New Classics NC8",
+   "year": "1945",
+   "verified_against": "The Alvin Lustig estate catalogue at alvinlustig.com, which captions this exact image with title, author, publisher, series number and year.",
+   "maker": "Alvin Lustig",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/lustig/est/nc8-handful.jpg",
+   "source_px": [
+    1086,
+    1600
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "client",
+     "v": "New Directions"
+    },
+    {
+     "k": "subject",
+     "v": "Evelyn Waugh"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    },
+    {
+     "k": "designer",
+     "v": "Alvin Lustig"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Alvin Lustig estate catalogue at alvinlustig.com, which captions this exact image with title, author, publisher, series number and year.",
+   "hue": 34.96,
+   "light": 0.4185,
+   "chroma": 0.837
+  },
+  "alvinlustig.com::nc9-great-gatsby": {
+   "id": "CRVI000578",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000578.jpg",
+   "original_px": [
+    1058,
+    1600
+   ],
+   "original_bytes": 232722,
+   "identity": "alvinlustig.com::nc9-great-gatsby",
+   "title": "The Great Gatsby",
+   "subtitle": "F. Scott Fitzgerald · New Directions, New Classics NC9",
+   "year": "1945",
+   "verified_against": "The Alvin Lustig estate catalogue at alvinlustig.com, which captions this exact image with title, author, publisher, series number and year.",
+   "maker": "Alvin Lustig",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/lustig/est/nc9-great-gatsby.jpg",
+   "source_px": [
+    1058,
+    1600
+   ],
+   "colors": [
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "client",
+     "v": "New Directions"
+    },
+    {
+     "k": "subject",
+     "v": "F. Scott Fitzgerald"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    },
+    {
+     "k": "designer",
+     "v": "Alvin Lustig"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Alvin Lustig estate catalogue at alvinlustig.com, which captions this exact image with title, author, publisher, series number and year.",
+   "hue": 54.97,
+   "light": 0.4652,
+   "chroma": 0.8966
+  },
+  "alvinlustig.com::nd-WilliamsStreetcar": {
+   "id": "CRVI000579",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000579.jpg",
+   "original_px": [
+    1064,
+    1600
+   ],
+   "original_bytes": 279498,
+   "identity": "alvinlustig.com::nd-WilliamsStreetcar",
+   "title": "A Streetcar Named Desire",
+   "subtitle": "Tennessee Williams · New Directions",
+   "year": "1947",
+   "verified_against": "The Alvin Lustig estate catalogue at alvinlustig.com, which captions this exact image with title, author, publisher, series number and year.",
+   "maker": "Alvin Lustig",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/lustig/est/nd-WilliamsStreetcar.jpg",
+   "source_px": [
+    1064,
+    1600
+   ],
+   "colors": [
+    "pink",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "client",
+     "v": "New Directions"
+    },
+    {
+     "k": "subject",
+     "v": "Tennessee Williams"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    },
+    {
+     "k": "designer",
+     "v": "Alvin Lustig"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Alvin Lustig estate catalogue at alvinlustig.com, which captions this exact image with title, author, publisher, series number and year.",
+   "hue": 315.28,
+   "light": 0.6532,
+   "chroma": 0.8685
+  },
+  "alvinlustig.com::mag-staff3": {
+   "id": "CRVI000580",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000580.jpg",
+   "original_px": [
+    1267,
+    1600
+   ],
+   "original_bytes": 325337,
+   "identity": "alvinlustig.com::mag-staff3",
+   "title": "Staff",
+   "subtitle": "Look magazine staff publication · cover dated 3·28·44",
+   "year": "1944–45",
+   "notes": [
+    "The estate catalogue dates this image 1944–45; the cover itself carries the date 3 · 28 · 44."
+   ],
+   "verified_against": "The Alvin Lustig estate catalogue at alvinlustig.com, which captions this exact image with title, author, publisher, series number and year.",
+   "maker": "Alvin Lustig",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/lustig/est/mag-staff3.jpg",
+   "source_px": [
+    1267,
+    1600
+   ],
+   "colors": [
+    "red",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Look"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    },
+    {
+     "k": "designer",
+     "v": "Alvin Lustig"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Alvin Lustig estate catalogue at alvinlustig.com, which captions this exact image with title, author, publisher, series number and year.",
+   "hue": 4.33,
+   "light": 0.479,
+   "chroma": 0.9295
+  },
+  "alvinlustig.com::eph-23rd-beverly-hills-high": {
+   "id": "CRVI000581",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000581.jpg",
+   "original_px": [
+    1614,
+    1600
+   ],
+   "original_bytes": 266115,
+   "identity": "alvinlustig.com::eph-23rd-beverly-hills-high",
+   "title": "Twenty-Third Commencement",
+   "subtitle": "Beverly Hills High School",
+   "year": "1940",
+   "notes": [
+    "Year follows the estate catalogue, which also records the Twenty-Second Commencement as 1939. Cooper Hewitt, which holds a copy (letterpress on heavy paper, acquired 2002), dates it 1939.",
+    "Built entirely from standard typographic shapes and rules — Lustig's 1939 specimen sheet states that in these designs 'no cuts or drawings' were used."
+   ],
+   "verified_against": "The Alvin Lustig estate catalogue at alvinlustig.com, which captions this exact image with title, author, publisher, series number and year.",
+   "maker": "Alvin Lustig",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/lustig/est/eph-23rdBeverly-Hills-High.jpg",
+   "source_px": [
+    1614,
+    1600
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "client",
+     "v": "Beverly Hills High School"
+    },
+    {
+     "k": "location",
+     "v": "Los Angeles"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    },
+    {
+     "k": "designer",
+     "v": "Alvin Lustig"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Alvin Lustig estate catalogue at alvinlustig.com, which captions this exact image with title, author, publisher, series number and year.",
+   "hue": 15.24,
+   "light": 0.739,
+   "chroma": 0.6962
+  },
+  "alvinlustig.com::bro-worldinventor": {
+   "id": "CRVI000582",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000582.jpg",
+   "original_px": [
+    2350,
+    3000
+   ],
+   "original_bytes": 309684,
+   "identity": "alvinlustig.com::bro-worldinventor",
+   "title": "World Inventors Exposition",
+   "year": "1947",
+   "verified_against": "The Alvin Lustig estate catalogue at alvinlustig.com captions this design 'World Inventors Exposition, 1947'. Image is the Smithsonian Archives of American Art scan from the Alvin Lustig papers (AAA_lustalvi_22631).",
+   "source_url": "https://ids.si.edu/ids/deliveryService?id=AAA-AAA_lustalvi_22631&max_w=3000",
+   "maker": "Alvin Lustig",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/lustig/si_3000.jpg",
+   "source_px": [
+    2350,
+    3000
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    },
+    {
+     "k": "designer",
+     "v": "Alvin Lustig"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Alvin Lustig estate catalogue at alvinlustig.com captions this design 'World Inventors Exposition, 1947'. Image is the Smithsonian Archives of American Art scan from the Alvin Lustig papers (AAA_lustalvi_22631).",
+   "hue": 43.86,
+   "light": 0.4704,
+   "chroma": 0.749
+  },
+  "loc.gov::cph.3f03737": {
+   "id": "CRVI000583",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000583.jpg",
+   "original_px": [
+    2515,
+    3045
+   ],
+   "original_bytes": 1710574,
+   "identity": "loc.gov::cph.3f03737",
+   "maker": "Artist unknown",
+   "title": "A Christmas Carol",
+   "subtitle": "Federal Theatre for Youth · Works Progress Administration in Ohio",
+   "year": "between 1936 and 1941",
+   "verified_against": "Library of Congress, Prints & Photographs Division, WPA Poster Collection — call number POS - WPA - OH .01 .C57, no. 1 (A size), digital id cph.3f03737. Also reproduced in 'Posters for the People' as 'A Christmas Carol, artist unknown, Ohio, ca. 1936–39, silkscreen on board'.",
+   "source_url": "https://www.loc.gov/pictures/item/92500648/",
+   "notes": [
+    "Cropped from the Library of Congress colour film copy slide (2775×4096) to the poster itself.",
+    "LOC records no designer. 'Posters for the People' likewise gives the artist as unknown."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/xmascarol_crop.jpg",
+   "source_px": [
+    2515,
+    3045
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "theatre poster"
+    },
+    {
+     "k": "client",
+     "v": "Federal Theatre Project"
+    },
+    {
+     "k": "location",
+     "v": "Ohio"
+    },
+    {
+     "k": "medium",
+     "v": "silkscreen"
+    },
+    {
+     "k": "decade",
+     "v": "1930s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Library of Congress, Prints & Photographs Division, WPA Poster Collection — call number POS - WPA - OH .01 .C57, no. 1 (A size), digital id cph.3f03737. Also reproduced in 'Posters for the People' as 'A Christmas Carol, artist unknown, Ohio, ca. 1936–39, silkscreen on board'.",
+   "hue": 8.23,
+   "light": 0.6092,
+   "chroma": 0.6281
+  },
+  "loc.gov::ppmsca.31218": {
+   "id": "CRVI000584",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000584.jpg",
+   "original_px": [
+    4347,
+    6764
+   ],
+   "original_bytes": 5874339,
+   "identity": "loc.gov::ppmsca.31218",
+   "maker": "Irving Spellings",
+   "title": "…one-third of a nation…",
+   "subtitle": "A Living Newspaper about housing · Adelphi Theatre, New York",
+   "year": "between 1936 and 1939",
+   "verified_against": "Library of Congress, Prints & Photographs Division, WPA Poster Collection — call number POS - WPA - NY .S58, no. 1 (B size), dated on the verso Jan 5 1939. 'Posters for the People' credits the design to Irving Spellings, matching the LOC call number's .S58 designer cutter.",
+   "source_url": "https://www.loc.gov/pictures/item/95509661/",
+   "notes": [
+    "Library of Congress master scan, 4347×6764, already trimmed to the poster."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/onethird_loc.jpg",
+   "source_px": [
+    4347,
+    6764
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Irving Spellings"
+    },
+    {
+     "k": "type",
+     "v": "theatre poster"
+    },
+    {
+     "k": "client",
+     "v": "Federal Theatre Project"
+    },
+    {
+     "k": "location",
+     "v": "New York"
+    },
+    {
+     "k": "medium",
+     "v": "silkscreen"
+    },
+    {
+     "k": "decade",
+     "v": "1930s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Library of Congress, Prints & Photographs Division, WPA Poster Collection — call number POS - WPA - NY .S58, no. 1 (B size), dated on the verso Jan 5 1939. 'Posters for the People' credits the design to Irving Spellings, matching the LOC call number's .S58 designer cutter.",
+   "hue": 6.28,
+   "light": 0.2355,
+   "chroma": 0.2937
   }
  }
 }

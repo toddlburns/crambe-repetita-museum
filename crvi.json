@@ -16090,10 +16090,10 @@
    "image": "images/CRVI000353.jpg",
    "original": "originals/CRVI000353.jpg",
    "original_px": [
-    1542,
-    1400
+    1200,
+    1200
    ],
-   "original_bytes": 199709,
+   "original_bytes": 136730,
    "maker": "Betty Davis",
    "title": "Betty Davis",
    "subtitle": "Designer unknown · Just Sunshine",
@@ -16117,15 +16117,15 @@
     },
     {
      "k": "color",
-     "v": "orange"
+     "v": "red"
     },
     {
      "k": "color",
-     "v": "red"
+     "v": "orange"
     }
    ],
-   "hue": 23.36,
-   "light": 0.3763
+   "hue": 5.98,
+   "light": 0.4112
   },
   {
    "id": "CRVI000354",
@@ -26642,6 +26642,636 @@
    ],
    "hue": 204.45,
    "light": 0.7422
+  },
+  {
+   "id": "CRVI000572",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000572.jpg",
+   "source_label": "",
+   "image": "images/CRVI000572.jpg",
+   "original": "originals/CRVI000572.jpg",
+   "original_px": [
+    1052,
+    1600
+   ],
+   "original_bytes": 656845,
+   "maker": "Alvin Lustig",
+   "title": "Monday Night",
+   "subtitle": "Kay Boyle · New Directions, New Classics NC20",
+   "year": "1947",
+   "tags": [
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "client",
+     "v": "New Directions"
+    },
+    {
+     "k": "subject",
+     "v": "Kay Boyle"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    },
+    {
+     "k": "designer",
+     "v": "Alvin Lustig"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 197.65,
+   "light": 0.5637
+  },
+  {
+   "id": "CRVI000573",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000573.jpg",
+   "source_label": "",
+   "image": "images/CRVI000573.jpg",
+   "original": "originals/CRVI000573.jpg",
+   "original_px": [
+    1106,
+    1600
+   ],
+   "original_bytes": 335138,
+   "maker": "Alvin Lustig",
+   "title": "Three Lives",
+   "subtitle": "Gertrude Stein · New Directions, New Classics NC3",
+   "year": "1945",
+   "tags": [
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "client",
+     "v": "New Directions"
+    },
+    {
+     "k": "subject",
+     "v": "Gertrude Stein"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    },
+    {
+     "k": "designer",
+     "v": "Alvin Lustig"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 146.67,
+   "light": 0.6699
+  },
+  {
+   "id": "CRVI000574",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000574.jpg",
+   "source_label": "",
+   "image": "images/CRVI000574.jpg",
+   "original": "originals/CRVI000574.jpg",
+   "original_px": [
+    1087,
+    1600
+   ],
+   "original_bytes": 241965,
+   "maker": "Alvin Lustig",
+   "title": "A Room with a View",
+   "subtitle": "E M Forster · New Directions, New Classics NC5",
+   "year": "1943",
+   "tags": [
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "client",
+     "v": "New Directions"
+    },
+    {
+     "k": "subject",
+     "v": "E M Forster"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    },
+    {
+     "k": "designer",
+     "v": "Alvin Lustig"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 74.88,
+   "light": 0.3882
+  },
+  {
+   "id": "CRVI000575",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000575.jpg",
+   "source_label": "",
+   "image": "images/CRVI000575.jpg",
+   "original": "originals/CRVI000575.jpg",
+   "original_px": [
+    1104,
+    1600
+   ],
+   "original_bytes": 558237,
+   "maker": "Alvin Lustig",
+   "title": "Selected Poems",
+   "subtitle": "Ezra Pound · New Directions, New Classics NC22",
+   "year": "1949",
+   "tags": [
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "client",
+     "v": "New Directions"
+    },
+    {
+     "k": "subject",
+     "v": "Ezra Pound"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    },
+    {
+     "k": "designer",
+     "v": "Alvin Lustig"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 5.86,
+   "light": 0.6151
+  },
+  {
+   "id": "CRVI000576",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000576.jpg",
+   "source_label": "",
+   "image": "images/CRVI000576.jpg",
+   "original": "originals/CRVI000576.jpg",
+   "original_px": [
+    1002,
+    1600
+   ],
+   "original_bytes": 220752,
+   "maker": "Alvin Lustig",
+   "title": "Illuminations",
+   "subtitle": "Arthur Rimbaud · New Directions, New Classics NC14",
+   "year": "1945",
+   "tags": [
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "client",
+     "v": "New Directions"
+    },
+    {
+     "k": "subject",
+     "v": "Arthur Rimbaud"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    },
+    {
+     "k": "designer",
+     "v": "Alvin Lustig"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 5.54,
+   "light": 0.5803
+  },
+  {
+   "id": "CRVI000577",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000577.jpg",
+   "source_label": "",
+   "image": "images/CRVI000577.jpg",
+   "original": "originals/CRVI000577.jpg",
+   "original_px": [
+    1086,
+    1600
+   ],
+   "original_bytes": 440777,
+   "maker": "Alvin Lustig",
+   "title": "A Handful of Dust",
+   "subtitle": "Evelyn Waugh · New Directions, New Classics NC8",
+   "year": "1945",
+   "tags": [
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "client",
+     "v": "New Directions"
+    },
+    {
+     "k": "subject",
+     "v": "Evelyn Waugh"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    },
+    {
+     "k": "designer",
+     "v": "Alvin Lustig"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 34.96,
+   "light": 0.4185
+  },
+  {
+   "id": "CRVI000578",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000578.jpg",
+   "source_label": "",
+   "image": "images/CRVI000578.jpg",
+   "original": "originals/CRVI000578.jpg",
+   "original_px": [
+    1058,
+    1600
+   ],
+   "original_bytes": 232722,
+   "maker": "Alvin Lustig",
+   "title": "The Great Gatsby",
+   "subtitle": "F. Scott Fitzgerald · New Directions, New Classics NC9",
+   "year": "1945",
+   "tags": [
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "client",
+     "v": "New Directions"
+    },
+    {
+     "k": "subject",
+     "v": "F. Scott Fitzgerald"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    },
+    {
+     "k": "designer",
+     "v": "Alvin Lustig"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 54.97,
+   "light": 0.4652
+  },
+  {
+   "id": "CRVI000579",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000579.jpg",
+   "source_label": "",
+   "image": "images/CRVI000579.jpg",
+   "original": "originals/CRVI000579.jpg",
+   "original_px": [
+    1064,
+    1600
+   ],
+   "original_bytes": 279498,
+   "maker": "Alvin Lustig",
+   "title": "A Streetcar Named Desire",
+   "subtitle": "Tennessee Williams · New Directions",
+   "year": "1947",
+   "tags": [
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "client",
+     "v": "New Directions"
+    },
+    {
+     "k": "subject",
+     "v": "Tennessee Williams"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    },
+    {
+     "k": "designer",
+     "v": "Alvin Lustig"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 315.28,
+   "light": 0.6532
+  },
+  {
+   "id": "CRVI000580",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000580.jpg",
+   "source_label": "",
+   "image": "images/CRVI000580.jpg",
+   "original": "originals/CRVI000580.jpg",
+   "original_px": [
+    1267,
+    1600
+   ],
+   "original_bytes": 325337,
+   "maker": "Alvin Lustig",
+   "title": "Staff",
+   "subtitle": "Look magazine staff publication · cover dated 3·28·44",
+   "year": "1944–45",
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Look"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    },
+    {
+     "k": "designer",
+     "v": "Alvin Lustig"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 4.33,
+   "light": 0.479
+  },
+  {
+   "id": "CRVI000581",
+   "source_url": "",
+   "animated": false,
+   "thumb": "thumbs/CRVI000581.jpg",
+   "source_label": "",
+   "image": "images/CRVI000581.jpg",
+   "original": "originals/CRVI000581.jpg",
+   "original_px": [
+    1614,
+    1600
+   ],
+   "original_bytes": 266115,
+   "maker": "Alvin Lustig",
+   "title": "Twenty-Third Commencement",
+   "subtitle": "Beverly Hills High School",
+   "year": "1940",
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "client",
+     "v": "Beverly Hills High School"
+    },
+    {
+     "k": "location",
+     "v": "Los Angeles"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    },
+    {
+     "k": "designer",
+     "v": "Alvin Lustig"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 15.24,
+   "light": 0.739
+  },
+  {
+   "id": "CRVI000582",
+   "source_url": "https://ids.si.edu/ids/deliveryService?id=AAA-AAA_lustalvi_22631&max_w=3000",
+   "animated": false,
+   "thumb": "thumbs/CRVI000582.jpg",
+   "source_label": "",
+   "image": "images/CRVI000582.jpg",
+   "original": "originals/CRVI000582.jpg",
+   "original_px": [
+    2350,
+    3000
+   ],
+   "original_bytes": 309684,
+   "maker": "Alvin Lustig",
+   "title": "World Inventors Exposition",
+   "subtitle": "",
+   "year": "1947",
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    },
+    {
+     "k": "designer",
+     "v": "Alvin Lustig"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 43.86,
+   "light": 0.4704
+  },
+  {
+   "id": "CRVI000583",
+   "source_url": "https://www.loc.gov/pictures/item/92500648/",
+   "animated": false,
+   "thumb": "thumbs/CRVI000583.jpg",
+   "source_label": "",
+   "image": "images/CRVI000583.jpg",
+   "original": "originals/CRVI000583.jpg",
+   "original_px": [
+    2515,
+    3045
+   ],
+   "original_bytes": 1710574,
+   "maker": "Artist unknown",
+   "title": "A Christmas Carol",
+   "subtitle": "Federal Theatre for Youth · Works Progress Administration in Ohio",
+   "year": "between 1936 and 1941",
+   "tags": [
+    {
+     "k": "type",
+     "v": "theatre poster"
+    },
+    {
+     "k": "client",
+     "v": "Federal Theatre Project"
+    },
+    {
+     "k": "location",
+     "v": "Ohio"
+    },
+    {
+     "k": "medium",
+     "v": "silkscreen"
+    },
+    {
+     "k": "decade",
+     "v": "1930s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 8.23,
+   "light": 0.6092
+  },
+  {
+   "id": "CRVI000584",
+   "source_url": "https://www.loc.gov/pictures/item/95509661/",
+   "animated": false,
+   "thumb": "thumbs/CRVI000584.jpg",
+   "source_label": "",
+   "image": "images/CRVI000584.jpg",
+   "original": "originals/CRVI000584.jpg",
+   "original_px": [
+    4347,
+    6764
+   ],
+   "original_bytes": 5874339,
+   "maker": "Irving Spellings",
+   "title": "…one-third of a nation…",
+   "subtitle": "A Living Newspaper about housing · Adelphi Theatre, New York",
+   "year": "between 1936 and 1939",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Irving Spellings"
+    },
+    {
+     "k": "type",
+     "v": "theatre poster"
+    },
+    {
+     "k": "client",
+     "v": "Federal Theatre Project"
+    },
+    {
+     "k": "location",
+     "v": "New York"
+    },
+    {
+     "k": "medium",
+     "v": "silkscreen"
+    },
+    {
+     "k": "decade",
+     "v": "1930s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 6.28,
+   "light": 0.2355
   }
  ]
 }
