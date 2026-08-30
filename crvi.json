@@ -31724,6 +31724,60 @@
    ],
    "hue": 29.19,
    "light": 0.4468
+  },
+  {
+   "id": "CRVI000681",
+   "source_url": "https://deadly-prey-gallery.myshopify.com/products/akira-high-quality-print-heavy-j",
+   "animated": false,
+   "thumb": "thumbs/CRVI000681.jpg",
+   "source_label": "",
+   "image": "images/CRVI000681.jpg",
+   "original": "originals/CRVI000681.jpg",
+   "original_px": [
+    1438,
+    1838
+   ],
+   "original_bytes": 1134783,
+   "maker": "Heavy J",
+   "title": "Akira",
+   "subtitle": "Hand-painted Ghanaian mobile cinema poster",
+   "year": "",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Heavy J"
+    },
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "Ghana"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    },
+    {
+     "k": "subject",
+     "v": "science fiction"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 4.11,
+   "light": 0.516
   }
  ]
 }

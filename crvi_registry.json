@@ -1,5 +1,5 @@
 {
- "next": 681,
+ "next": 682,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -37634,6 +37634,70 @@
    "hue": 29.19,
    "light": 0.4468,
    "chroma": 0.4295
+  },
+  "deadlypreygallery.com::akira::heavy-j": {
+   "id": "CRVI000681",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000681.jpg",
+   "original_px": [
+    1438,
+    1838
+   ],
+   "original_bytes": 1134783,
+   "identity": "deadlypreygallery.com::akira::heavy-j",
+   "maker": "Heavy J",
+   "title": "Akira",
+   "subtitle": "Hand-painted Ghanaian mobile cinema poster",
+   "year": "",
+   "verified_against": "Deadly Prey Gallery, the Chicago dealer that works directly with these painters, lists this as \"AKIRA (High Quality Print) - Heavy J\" and describes it as \"the legendary Ghanaian artist Heavy J's incredible version of classic animated Japanese film Akira\", printed from the original painting at approximately 14 x 20.5 inches.",
+   "source_url": "https://deadly-prey-gallery.myshopify.com/products/akira-high-quality-print-heavy-j",
+   "notes": [
+    "Ghanaian mobile cinema poster: painted by hand to advertise a travelling video screening of the 1988 anime Akira. The painting carries the lettering \"Manso Video Mamobi\" — Mamobi is a neighbourhood of Accra — alongside the artist's stamp at lower left.",
+    "No date is recorded. The gallery gives none, and none is legible on the painting, so the year is left blank rather than inferred from the film's 1988 release.",
+    "The image is Deadly Prey Gallery's reproduction of the original painting, cropped to the painted area; their print carries the gallery's own logo and the artist's stamp on the white margin below, which are not part of the painting."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/akira_crop.jpg",
+   "source_px": [
+    1438,
+    1838
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Heavy J"
+    },
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "Ghana"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    },
+    {
+     "k": "subject",
+     "v": "science fiction"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Deadly Prey Gallery, the Chicago dealer that works directly with these painters, lists this as \"AKIRA (High Quality Print) - Heavy J\" and describes it as \"the legendary Ghanaian artist Heavy J's incredible version of classic animated Japanese film Akira\", printed from the original painting at approximately 14 x 20.5 inches.",
+   "hue": 4.11,
+   "light": 0.516,
+   "chroma": 0.7508
   }
  }
 }
