@@ -21654,10 +21654,10 @@
    "image": "images/CRVI000475.jpg",
    "original": "originals/CRVI000475.jpg",
    "original_px": [
-    1170,
-    1542
+    1181,
+    1575
    ],
-   "original_bytes": 492285,
+   "original_bytes": 517271,
    "maker": "Justin Metz",
    "title": "The Atlantic, October 2024",
    "subtitle": "The Atlantic October",
@@ -21692,8 +21692,8 @@
      "v": "red"
     }
    ],
-   "hue": 6.48,
-   "light": 0.2862
+   "hue": 3.19,
+   "light": 0.2081
   },
   {
    "id": "CRVI000476",
@@ -21704,10 +21704,10 @@
    "image": "images/CRVI000476.jpg",
    "original": "originals/CRVI000476.jpg",
    "original_px": [
-    1170,
-    1419
+    1315,
+    1600
    ],
-   "original_bytes": 245649,
+   "original_bytes": 267292,
    "maker": "Mark Harris",
    "title": "Whitewash",
    "subtitle": "The New York Times Magazine, March 17, 2024",
@@ -21739,7 +21739,7 @@
     }
    ],
    "hue": null,
-   "light": 0.805
+   "light": 0.7922
   },
   {
    "id": "CRVI000477",
@@ -21750,10 +21750,10 @@
    "image": "images/CRVI000477.jpg",
    "original": "originals/CRVI000477.jpg",
    "original_px": [
-    1170,
-    1518
+    1199,
+    1600
    ],
-   "original_bytes": 401233,
+   "original_bytes": 409591,
    "maker": "Justin Metz",
    "title": "The Centre Cannot Hold",
    "subtitle": "The Economist, June 29-July 5, 2024",
@@ -21792,8 +21792,8 @@
      "v": "red"
     }
    ],
-   "hue": 208.66,
-   "light": 0.5671
+   "hue": 205.1,
+   "light": 0.5167
   },
   {
    "id": "CRVI000478",
@@ -21804,10 +21804,10 @@
    "image": "images/CRVI000478.jpg",
    "original": "originals/CRVI000478.jpg",
    "original_px": [
-    1170,
-    1508
+    1219,
+    1600
    ],
-   "original_bytes": 486311,
+   "original_bytes": 548631,
    "maker": "Tim O'Brien",
    "title": "American Oligarchy",
    "subtitle": "Mother Jones, January + February 2024",
@@ -21839,11 +21839,11 @@
     },
     {
      "k": "color",
-     "v": "red"
+     "v": "pink"
     }
    ],
-   "hue": 323.11,
-   "light": 0.5346
+   "hue": 215.84,
+   "light": 0.4843
   },
   {
    "id": "CRVI000479",
@@ -21854,10 +21854,10 @@
    "image": "images/CRVI000479.jpg",
    "original": "originals/CRVI000479.jpg",
    "original_px": [
-    1170,
-    1525
+    1200,
+    1600
    ],
-   "original_bytes": 356820,
+   "original_bytes": 353284,
    "maker": "Martin Schoeller",
    "title": "The Health Issue",
    "subtitle": "New York, July 15-28, 2024",
@@ -21892,8 +21892,8 @@
      "v": "orange"
     }
    ],
-   "hue": 13.46,
-   "light": 0.7707
+   "hue": 12.57,
+   "light": 0.7513
   },
   {
    "id": "CRVI000480",
@@ -21904,10 +21904,10 @@
    "image": "images/CRVI000480.jpg",
    "original": "originals/CRVI000480.jpg",
    "original_px": [
-    1170,
-    1441
+    1285,
+    1600
    ],
-   "original_bytes": 95963,
+   "original_bytes": 77349,
    "maker": "Alex Merto",
    "title": "The Retirement Issue",
    "subtitle": "The New York Times Magazine, May 12, 2024",
@@ -21939,7 +21939,7 @@
     }
    ],
    "hue": null,
-   "light": 0.6354
+   "light": 0.5914
   },
   {
    "id": "CRVI000481",
@@ -21950,10 +21950,10 @@
    "image": "images/CRVI000481.jpg",
    "original": "originals/CRVI000481.jpg",
    "original_px": [
-    1170,
-    1510
+    1200,
+    1600
    ],
-   "original_bytes": 303325,
+   "original_bytes": 279143,
    "maker": "Unknown",
    "title": "The Power Issue",
    "subtitle": "New York, October 21-November 3, 2024",
@@ -21978,14 +21978,10 @@
     {
      "k": "color",
      "v": "red"
-    },
-    {
-     "k": "color",
-     "v": "cyan"
     }
    ],
-   "hue": null,
-   "light": 0.6104
+   "hue": 353.35,
+   "light": 0.5764
   },
   {
    "id": "CRVI000482",
@@ -21996,10 +21992,10 @@
    "image": "images/CRVI000482.jpg",
    "original": "originals/CRVI000482.jpg",
    "original_px": [
-    1170,
-    1526
+    1199,
+    1600
    ],
-   "original_bytes": 164056,
+   "original_bytes": 128093,
    "maker": "Graeme James",
    "title": "War and AI",
    "subtitle": "The Economist, June 22-28, 2024",
@@ -22034,8 +22030,8 @@
      "v": "red"
     }
    ],
-   "hue": 5.09,
-   "light": 0.5396
+   "hue": 4.0,
+   "light": 0.5023
   },
   {
    "id": "CRVI000483",
@@ -22046,10 +22042,10 @@
    "image": "images/CRVI000483.jpg",
    "original": "originals/CRVI000483.jpg",
    "original_px": [
-    1170,
-    1394
+    1315,
+    1600
    ],
-   "original_bytes": 299421,
+   "original_bytes": 351121,
    "maker": "Bobby Doherty",
    "title": "Why Pants Are Blowing Up",
    "subtitle": "The New York Times Magazine, March 3, 2024",
@@ -22084,8 +22080,8 @@
      "v": "blue"
     }
    ],
-   "hue": 337.76,
-   "light": 0.4648
+   "hue": 336.36,
+   "light": 0.4172
   },
   {
    "id": "CRVI000484",
@@ -22096,10 +22092,10 @@
    "image": "images/CRVI000484.jpg",
    "original": "originals/CRVI000484.jpg",
    "original_px": [
-    1170,
-    1395
+    1324,
+    1600
    ],
-   "original_bytes": 267238,
+   "original_bytes": 305072,
    "maker": "Anna Devís",
    "title": "The Hotel Issue",
    "subtitle": "VIRTUOSO, July/August 2024",
@@ -22134,8 +22130,8 @@
      "v": "green"
     }
    ],
-   "hue": 84.69,
-   "light": 0.7583
+   "hue": 87.23,
+   "light": 0.7084
   },
   {
    "id": "CRVI000485",
@@ -22146,10 +22142,10 @@
    "image": "images/CRVI000485.jpg",
    "original": "originals/CRVI000485.jpg",
    "original_px": [
-    1170,
-    1530
+    1199,
+    1600
    ],
-   "original_bytes": 538950,
+   "original_bytes": 658443,
    "maker": "Javier Jaen",
    "title": "Gen Z: Reasons to Be Cheerful",
    "subtitle": "The Economist, April 20-26, 2024",
@@ -22188,8 +22184,8 @@
      "v": "orange"
     }
    ],
-   "hue": 7.33,
-   "light": 0.5395
+   "hue": 359.03,
+   "light": 0.5014
   },
   {
    "id": "CRVI000486",
@@ -22200,10 +22196,10 @@
    "image": "images/CRVI000486.jpg",
    "original": "originals/CRVI000486.jpg",
    "original_px": [
-    1170,
-    1393
+    1315,
+    1600
    ],
-   "original_bytes": 261839,
+   "original_bytes": 269686,
    "maker": "Philip Montgomery",
    "title": "The Olympics Issue",
    "subtitle": "The New York Times Magazine, July 28, 2024",
@@ -22235,7 +22231,7 @@
     }
    ],
    "hue": null,
-   "light": 0.6
+   "light": 0.5571
   },
   {
    "id": "CRVI000487",
@@ -22246,10 +22242,10 @@
    "image": "images/CRVI000487.jpg",
    "original": "originals/CRVI000487.jpg",
    "original_px": [
-    1170,
-    2041
+    887,
+    1600
    ],
-   "original_bytes": 1099353,
+   "original_bytes": 683990,
    "maker": "CSA Design/CSA Images",
    "title": "The Games Issue",
    "subtitle": "The New York Times for Kids, December 29, 2024",
@@ -22280,8 +22276,8 @@
      "v": "red"
     }
    ],
-   "hue": 4.99,
-   "light": 0.7841
+   "hue": 355.45,
+   "light": 0.7725
   },
   {
    "id": "CRVI000488",
@@ -22292,10 +22288,10 @@
    "image": "images/CRVI000488.jpg",
    "original": "originals/CRVI000488.jpg",
    "original_px": [
-    1170,
-    1503
+    1200,
+    1600
    ],
-   "original_bytes": 541353,
+   "original_bytes": 541644,
    "maker": "Stella Ragas",
    "title": "The Takeover",
    "subtitle": "New York, May 6-19, 2024",
@@ -22324,10 +22320,14 @@
     {
      "k": "color",
      "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
     }
    ],
-   "hue": 15.49,
-   "light": 0.3432
+   "hue": 15.29,
+   "light": 0.2889
   },
   {
    "id": "CRVI000489",
@@ -22338,10 +22338,10 @@
    "image": "images/CRVI000489.jpg",
    "original": "originals/CRVI000489.jpg",
    "original_px": [
-    1170,
-    1581
+    1177,
+    1600
    ],
-   "original_bytes": 539173,
+   "original_bytes": 491305,
    "maker": "R. Kikuo Johnson",
    "title": "The Robots Are Coming",
    "subtitle": "MIT Technology Review, May/June 2024",
@@ -22369,15 +22369,15 @@
     },
     {
      "k": "color",
-     "v": "blue"
+     "v": "cyan"
     },
     {
      "k": "color",
-     "v": "cyan"
+     "v": "blue"
     }
    ],
-   "hue": 203.54,
-   "light": 0.6901
+   "hue": 197.26,
+   "light": 0.6517
   },
   {
    "id": "CRVI000490",
@@ -22388,10 +22388,10 @@
    "image": "images/CRVI000490.jpg",
    "original": "originals/CRVI000490.jpg",
    "original_px": [
-    1170,
-    1534
+    1200,
+    1600
    ],
-   "original_bytes": 142512,
+   "original_bytes": 108801,
    "maker": "Unknown",
    "title": "The Psychic Toll of a Dead-Even Race",
    "subtitle": "New York, November 4-17, 2024",
@@ -22419,7 +22419,7 @@
     }
    ],
    "hue": null,
-   "light": 0.9477
+   "light": 0.9529
   },
   {
    "id": "CRVI000491",
@@ -22430,10 +22430,10 @@
    "image": "images/CRVI000491.jpg",
    "original": "originals/CRVI000491.jpg",
    "original_px": [
-    1170,
-    1537
+    1200,
+    1600
    ],
-   "original_bytes": 332227,
+   "original_bytes": 311616,
    "maker": "Matt Huynh",
    "title": "If Trump Wins",
    "subtitle": "The Atlantic, January/February 2024",
@@ -22464,8 +22464,8 @@
      "v": "red"
     }
    ],
-   "hue": 13.94,
-   "light": 0.5807
+   "hue": 7.5,
+   "light": 0.5015
   },
   {
    "id": "CRVI000492",
@@ -22476,10 +22476,10 @@
    "image": "images/CRVI000492.jpg",
    "original": "originals/CRVI000492.jpg",
    "original_px": [
-    1170,
-    1547
+    864,
+    1151
    ],
-   "original_bytes": 687343,
+   "original_bytes": 457682,
    "maker": "Joe Darrow",
    "title": "Sign Here, My Stallion",
    "subtitle": "New York, July 1-14, 2024",
@@ -22522,8 +22522,8 @@
      "v": "orange"
     }
    ],
-   "hue": 245.28,
-   "light": 0.5655
+   "hue": 245.37,
+   "light": 0.5215
   },
   {
    "id": "CRVI000493",
@@ -22534,10 +22534,10 @@
    "image": "images/CRVI000493.jpg",
    "original": "originals/CRVI000493.jpg",
    "original_px": [
-    1170,
-    1969
+    886,
+    1600
    ],
-   "original_bytes": 622787,
+   "original_bytes": 384064,
    "maker": "Bill Mayer",
    "title": "When Pets Escape: The Great Goldfish Invasion",
    "subtitle": "The New York Times for Kids, January 28, 2024",
@@ -22566,10 +22566,14 @@
     {
      "k": "color",
      "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
     }
    ],
-   "hue": 26.74,
-   "light": 0.6128
+   "hue": 26.85,
+   "light": 0.5833
   },
   {
    "id": "CRVI000494",
@@ -22580,10 +22584,10 @@
    "image": "images/CRVI000494.jpg",
    "original": "originals/CRVI000494.jpg",
    "original_px": [
-    1170,
-    1392
+    1315,
+    1600
    ],
-   "original_bytes": 677583,
+   "original_bytes": 838861,
    "maker": "Armando Veve",
    "title": "Sting Theory",
    "subtitle": "The New York Times Magazine, November 17, 2024",
@@ -22612,10 +22616,14 @@
     {
      "k": "color",
      "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
     }
    ],
-   "hue": 36.83,
-   "light": 0.6648
+   "hue": 38.13,
+   "light": 0.6298
   },
   {
    "id": "CRVI000495",
@@ -22626,10 +22634,10 @@
    "image": "images/CRVI000495.jpg",
    "original": "originals/CRVI000495.jpg",
    "original_px": [
-    1170,
-    1605
+    884,
+    1200
    ],
-   "original_bytes": 640084,
+   "original_bytes": 393062,
    "maker": "Justin Patrick Long",
    "title": "Pattern Player",
    "subtitle": "Vanity Fair, October 2020",
@@ -22672,8 +22680,8 @@
      "v": "green"
     }
    ],
-   "hue": 348.94,
-   "light": 0.5737
+   "hue": 349.2,
+   "light": 0.518
   },
   {
    "id": "CRVI000496",
@@ -22684,10 +22692,10 @@
    "image": "images/CRVI000496.jpg",
    "original": "originals/CRVI000496.jpg",
    "original_px": [
-    1170,
-    1528
+    1200,
+    1600
    ],
-   "original_bytes": 417241,
+   "original_bytes": 445522,
    "maker": "Chris Nosenzo",
    "title": "Is Google Hurting Small Business?",
    "subtitle": "Bloomberg Businessweek, August 10, 2020",
@@ -22726,8 +22734,8 @@
      "v": "green"
     }
    ],
-   "hue": 187.87,
-   "light": 0.5734
+   "hue": 144.69,
+   "light": 0.485
   },
   {
    "id": "CRVI000497",
@@ -22738,10 +22746,10 @@
    "image": "images/CRVI000497.jpg",
    "original": "originals/CRVI000497.jpg",
    "original_px": [
-    1170,
-    1513
+    1195,
+    1600
    ],
-   "original_bytes": 559701,
+   "original_bytes": 584401,
    "maker": "Maili Holiman",
    "title": "TikTok's Evolution of Digital Blackface",
    "subtitle": "WIRED, September 2020",
@@ -22776,8 +22784,8 @@
      "v": "red"
     }
    ],
-   "hue": 342.31,
-   "light": 0.7728
+   "hue": 343.77,
+   "light": 0.7658
   },
   {
    "id": "CRVI000498",
@@ -22788,10 +22796,10 @@
    "image": "images/CRVI000498.jpg",
    "original": "originals/CRVI000498.jpg",
    "original_px": [
-    1170,
-    615
+    1600,
+    826
    ],
-   "original_bytes": 197332,
+   "original_bytes": 316186,
    "maker": "Unknown",
    "title": "Bodies in Motion",
    "subtitle": "National Geographic, May 2020",
@@ -22819,7 +22827,7 @@
     }
    ],
    "hue": null,
-   "light": 0.8023
+   "light": 0.7752
   },
   {
    "id": "CRVI000499",
@@ -22830,10 +22838,10 @@
    "image": "images/CRVI000499.jpg",
    "original": "originals/CRVI000499.jpg",
    "original_px": [
-    1170,
-    1475
+    1219,
+    1600
    ],
-   "original_bytes": 720402,
+   "original_bytes": 783274,
    "maker": "Leo Jung",
    "title": "The Longest Walk to America",
    "subtitle": "The California Sunday Magazine, April 2020",
@@ -22872,8 +22880,8 @@
      "v": "green"
     }
    ],
-   "hue": 29.52,
-   "light": 0.3327
+   "hue": 28.97,
+   "light": 0.2754
   },
   {
    "id": "CRVI000500",
@@ -22884,10 +22892,10 @@
    "image": "images/CRVI000500.jpg",
    "original": "originals/CRVI000500.jpg",
    "original_px": [
-    1170,
-    1566
+    1172,
+    1600
    ],
-   "original_bytes": 473641,
+   "original_bytes": 424161,
    "maker": "Adrian Tomine",
    "title": "Love Life",
    "subtitle": "The New Yorker, December 7, 2020",
@@ -22918,8 +22926,8 @@
      "v": "orange"
     }
    ],
-   "hue": 36.68,
-   "light": 0.6126
+   "hue": 35.99,
+   "light": 0.572
   },
   {
    "id": "CRVI000501",
@@ -22930,10 +22938,10 @@
    "image": "images/CRVI000501.jpg",
    "original": "originals/CRVI000501.jpg",
    "original_px": [
-    1170,
-    1527
+    1219,
+    1600
    ],
-   "original_bytes": 485617,
+   "original_bytes": 494808,
    "maker": "Leo Jung",
    "title": "The Lucrative, Largely Unregulated, and Widely Misunderstood World of Vaping",
    "subtitle": "The California Sunday Magazine, February 2, 2020",
@@ -22968,8 +22976,8 @@
      "v": "neutral"
     }
    ],
-   "hue": 24.95,
-   "light": 0.4139
+   "hue": 62.89,
+   "light": 0.3448
   },
   {
    "id": "CRVI000502",
@@ -22980,10 +22988,10 @@
    "image": "images/CRVI000502.jpg",
    "original": "originals/CRVI000502.jpg",
    "original_px": [
-    1170,
-    1553
+    1200,
+    1600
    ],
-   "original_bytes": 485313,
+   "original_bytes": 372632,
    "maker": "Peter Herbert",
    "title": "The World at a Crossroads",
    "subtitle": "Fortune, August/September 2020",
@@ -23023,7 +23031,7 @@
     }
    ],
    "hue": null,
-   "light": 0.8875
+   "light": 0.8736
   },
   {
    "id": "CRVI000503",
@@ -23034,10 +23042,10 @@
    "image": "images/CRVI000503.jpg",
    "original": "originals/CRVI000503.jpg",
    "original_px": [
-    1170,
-    1499
+    1238,
+    1600
    ],
-   "original_bytes": 565785,
+   "original_bytes": 649816,
    "maker": "Unknown",
    "title": "The Year of the Taco",
    "subtitle": "Texas Monthly, November 2020",
@@ -23068,8 +23076,8 @@
      "v": "orange"
     }
    ],
-   "hue": 33.66,
-   "light": 0.5986
+   "hue": 34.05,
+   "light": 0.5393
   },
   {
    "id": "CRVI000504",
@@ -23080,10 +23088,10 @@
    "image": "images/CRVI000504.jpg",
    "original": "originals/CRVI000504.jpg",
    "original_px": [
-    1170,
-    1471
+    1242,
+    1600
    ],
-   "original_bytes": 650247,
+   "original_bytes": 645811,
    "maker": "Stephen Skalocky",
    "title": "Empty Arena",
    "subtitle": "Sports Illustrated, April 2020",
@@ -23118,8 +23126,8 @@
      "v": "blue"
     }
    ],
-   "hue": 226.06,
-   "light": 0.365
+   "hue": 227.45,
+   "light": 0.3221
   },
   {
    "id": "CRVI000505",
@@ -23130,10 +23138,10 @@
    "image": "images/CRVI000505.jpg",
    "original": "originals/CRVI000505.jpg",
    "original_px": [
-    1170,
-    1399
+    1315,
+    1600
    ],
-   "original_bytes": 600000,
+   "original_bytes": 652758,
    "maker": "Gail Bichler",
    "title": "What We've Learned in Quarantine",
    "subtitle": "The New York Times Magazine, May 24, 2020",
@@ -23169,7 +23177,7 @@
     }
    ],
    "hue": null,
-   "light": 0.8252
+   "light": 0.8057
   },
   {
    "id": "CRVI000506",
@@ -23180,10 +23188,10 @@
    "image": "images/CRVI000506.jpg",
    "original": "originals/CRVI000506.jpg",
    "original_px": [
-    1170,
-    1558
+    1177,
+    1600
    ],
-   "original_bytes": 246175,
+   "original_bytes": 204666,
    "maker": "Justin Patrick Long",
    "title": "The Great Fire",
    "subtitle": "Vanity Fair, September 2020",
@@ -23218,8 +23226,8 @@
      "v": "cyan"
     }
    ],
-   "hue": 179.55,
-   "light": 0.5922
+   "hue": 175.4,
+   "light": 0.5737
   },
   {
    "id": "CRVI000507",
@@ -23230,10 +23238,10 @@
    "image": "images/CRVI000507.jpg",
    "original": "originals/CRVI000507.jpg",
    "original_px": [
-    1170,
-    1432
+    1277,
+    1600
    ],
-   "original_bytes": 595532,
+   "original_bytes": 705327,
    "maker": "Oliver Shaw",
    "title": "The Stupid Issue",
    "subtitle": "VICE, March 2020",
@@ -23270,14 +23278,10 @@
     {
      "k": "color",
      "v": "orange"
-    },
-    {
-     "k": "color",
-     "v": "blue"
     }
    ],
-   "hue": 34.91,
-   "light": 0.6772
+   "hue": 34.67,
+   "light": 0.6405
   },
   {
    "id": "CRVI000508",
@@ -23288,10 +23292,10 @@
    "image": "images/CRVI000508.jpg",
    "original": "originals/CRVI000508.jpg",
    "original_px": [
-    1170,
-    1638
+    1237,
+    1600
    ],
-   "original_bytes": 325918,
+   "original_bytes": 286801,
    "maker": "Raul Aguila",
    "title": "Wild About Harry",
    "subtitle": "Variety, December 2, 2020",
@@ -23334,8 +23338,8 @@
      "v": "blue"
     }
    ],
-   "hue": 214.26,
-   "light": 0.7802
+   "hue": 213.32,
+   "light": 0.7325
   },
   {
    "id": "CRVI000509",
@@ -23520,10 +23524,10 @@
    "image": "images/CRVI000512.jpg",
    "original": "originals/CRVI000512.jpg",
    "original_px": [
-    1170,
-    1585
+    1200,
+    1600
    ],
-   "original_bytes": 385981,
+   "original_bytes": 333041,
    "maker": "D.W. Pine",
    "title": "Unprecedented.",
    "subtitle": "TIME, April 24/May 1, 2023",
@@ -23555,15 +23559,15 @@
     },
     {
      "k": "color",
-     "v": "red"
+     "v": "orange"
     },
     {
      "k": "color",
-     "v": "orange"
+     "v": "red"
     }
    ],
-   "hue": 5.0,
-   "light": 0.3285
+   "hue": 8.7,
+   "light": 0.2195
   },
   {
    "id": "CRVI000513",
@@ -23574,10 +23578,10 @@
    "image": "images/CRVI000513.jpg",
    "original": "originals/CRVI000513.jpg",
    "original_px": [
-    1170,
-    1608
+    1200,
+    1600
    ],
-   "original_bytes": 277078,
+   "original_bytes": 231181,
    "maker": "Oliver Munday",
    "title": "The Choice Is Between Freedom and Fear",
    "subtitle": "The Atlantic, June 2023",
@@ -23616,8 +23620,8 @@
      "v": "blue"
     }
    ],
-   "hue": 55.09,
-   "light": 0.5527
+   "hue": 55.08,
+   "light": 0.4828
   },
   {
    "id": "CRVI000514",
@@ -23628,10 +23632,10 @@
    "image": "images/CRVI000514.jpg",
    "original": "originals/CRVI000514.jpg",
    "original_px": [
-    1170,
-    1697
+    1200,
+    1600
    ],
-   "original_bytes": 657085,
+   "original_bytes": 611040,
    "maker": "Chris Nosenzo",
    "title": "Will It Ever End?",
    "subtitle": "Bloomberg Businessweek, February 20, 2023",
@@ -23666,8 +23670,8 @@
      "v": "orange"
     }
    ],
-   "hue": 39.76,
-   "light": 0.4631
+   "hue": 39.75,
+   "light": 0.3453
   },
   {
    "id": "CRVI000515",
@@ -23678,10 +23682,10 @@
    "image": "images/CRVI000515.jpg",
    "original": "originals/CRVI000515.jpg",
    "original_px": [
-    1170,
-    1631
+    1240,
+    1550
    ],
-   "original_bytes": 845795,
+   "original_bytes": 867521,
    "maker": "Gian Gisiger",
    "title": "NewJeans",
    "subtitle": "Highsnobiety",
@@ -23721,11 +23725,11 @@
     },
     {
      "k": "color",
-     "v": "cyan"
+     "v": "red"
     }
    ],
-   "hue": 202.54,
-   "light": 0.556
+   "hue": 202.28,
+   "light": 0.4457
   },
   {
    "id": "CRVI000516",
@@ -23736,10 +23740,10 @@
    "image": "images/CRVI000516.jpg",
    "original": "originals/CRVI000516.jpg",
    "original_px": [
-    1170,
-    1576
+    1200,
+    1600
    ],
-   "original_bytes": 584539,
+   "original_bytes": 554925,
    "maker": "Unknown",
    "title": "Erykah the Almighty",
    "subtitle": "The Cut, September 11-24, 2023",
@@ -23766,8 +23770,8 @@
      "v": "orange"
     }
    ],
-   "hue": 18.73,
-   "light": 0.5725
+   "hue": 18.63,
+   "light": 0.526
   },
   {
    "id": "CRVI000517",
@@ -23778,10 +23782,10 @@
    "image": "images/CRVI000517.jpg",
    "original": "originals/CRVI000517.jpg",
    "original_px": [
-    1170,
-    1554
+    1231,
+    1600
    ],
-   "original_bytes": 448104,
+   "original_bytes": 387170,
    "maker": "Peter B. Cury",
    "title": "Adele!",
    "subtitle": "The Hollywood Reporter, December 7, 2023",
@@ -23814,10 +23818,14 @@
     {
      "k": "color",
      "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
     }
    ],
    "hue": 355.18,
-   "light": 0.6039
+   "light": 0.5467
   },
   {
    "id": "CRVI000518",
@@ -23828,10 +23836,10 @@
    "image": "images/CRVI000518.jpg",
    "original": "originals/CRVI000518.jpg",
    "original_px": [
-    1170,
-    1457
+    1315,
+    1600
    ],
-   "original_bytes": 326647,
+   "original_bytes": 339182,
    "maker": "Gail Bichler",
    "title": "What Was Twitter, Anyway?",
    "subtitle": "The New York Times Magazine, April 23, 2023",
@@ -23870,8 +23878,8 @@
      "v": "white"
     }
    ],
-   "hue": 32.46,
-   "light": 0.8559
+   "hue": 32.07,
+   "light": 0.8351
   },
   {
    "id": "CRVI000519",
@@ -23882,10 +23890,10 @@
    "image": "images/CRVI000519.jpg",
    "original": "originals/CRVI000519.jpg",
    "original_px": [
-    1170,
-    1612
+    1177,
+    1600
    ],
-   "original_bytes": 312945,
+   "original_bytes": 230234,
    "maker": "Unknown",
    "title": "Al Is Coming for the Classroom.",
    "subtitle": "MIT Technology Review",
@@ -23908,8 +23916,8 @@
      "v": "pink"
     }
    ],
-   "hue": 335.07,
-   "light": 0.6698
+   "hue": 335.12,
+   "light": 0.6254
   },
   {
    "id": "CRVI000520",
@@ -23920,10 +23928,10 @@
    "image": "images/CRVI000520.jpg",
    "original": "originals/CRVI000520.jpg",
    "original_px": [
-    1170,
-    1520
+    1217,
+    1600
    ],
-   "original_bytes": 229208,
+   "original_bytes": 167026,
    "maker": "Matt Withers",
    "title": "Goldman Sags",
    "subtitle": "The Economist, January 28-February 3, 2023",
@@ -23958,8 +23966,8 @@
      "v": "blue"
     }
    ],
-   "hue": 46.6,
-   "light": 0.784
+   "hue": 47.38,
+   "light": 0.7602
   },
   {
    "id": "CRVI000521",
@@ -23970,10 +23978,10 @@
    "image": "images/CRVI000521.jpg",
    "original": "originals/CRVI000521.jpg",
    "original_px": [
-    1170,
-    1617
+    1177,
+    1600
    ],
-   "original_bytes": 558558,
+   "original_bytes": 534945,
    "maker": "Robert Vargas",
    "title": "Pharrell Descends on Paris",
    "subtitle": "GQ, September 2023",
@@ -24016,8 +24024,8 @@
      "v": "red"
     }
    ],
-   "hue": 215.17,
-   "light": 0.5768
+   "hue": 214.87,
+   "light": 0.5179
   },
   {
    "id": "CRVI000522",
@@ -24028,10 +24036,10 @@
    "image": "images/CRVI000522.jpg",
    "original": "originals/CRVI000522.jpg",
    "original_px": [
-    1170,
-    1454
+    1281,
+    1600
    ],
-   "original_bytes": 778500,
+   "original_bytes": 814229,
    "maker": "Gian Gisiger",
    "title": "AȘAP Rocky",
    "subtitle": "Highsnobiety",
@@ -24074,8 +24082,8 @@
      "v": "red"
     }
    ],
-   "hue": 32.37,
-   "light": 0.4281
+   "hue": 32.47,
+   "light": 0.363
   },
   {
    "id": "CRVI000523",
@@ -24086,10 +24094,10 @@
    "image": "images/CRVI000523.jpg",
    "original": "originals/CRVI000523.jpg",
    "original_px": [
-    1170,
-    1609
+    1177,
+    1600
    ],
-   "original_bytes": 685409,
+   "original_bytes": 638664,
    "maker": "Unknown",
    "title": "It's Good to Be Bad Bunny",
    "subtitle": "Vanity Fair",
@@ -24116,8 +24124,8 @@
      "v": "orange"
     }
    ],
-   "hue": 56.24,
-   "light": 0.4586
+   "hue": 56.29,
+   "light": 0.3865
   },
   {
    "id": "CRVI000524",
@@ -24128,10 +24136,10 @@
    "image": "images/CRVI000524.jpg",
    "original": "originals/CRVI000524.jpg",
    "original_px": [
-    1170,
-    1594
+    1231,
+    1600
    ],
-   "original_bytes": 425185,
+   "original_bytes": 392553,
    "maker": "Cian Browne",
    "title": "Taylor Russell",
    "subtitle": "W, January 2023",
@@ -24174,8 +24182,8 @@
      "v": "red"
     }
    ],
-   "hue": 25.6,
-   "light": 0.3227
+   "hue": 25.74,
+   "light": 0.2041
   },
   {
    "id": "CRVI000525",
@@ -24186,10 +24194,10 @@
    "image": "images/CRVI000525.jpg",
    "original": "originals/CRVI000525.jpg",
    "original_px": [
-    1170,
-    1543
+    1200,
+    1600
    ],
-   "original_bytes": 258455,
+   "original_bytes": 207174,
    "maker": "Tom Alberty",
    "title": "Bon Appétit",
    "subtitle": "New York, February 27-March 12, 2023",
@@ -24221,7 +24229,7 @@
     }
    ],
    "hue": 355.27,
-   "light": 0.5259
+   "light": 0.4745
   },
   {
    "id": "CRVI000526",
@@ -24232,10 +24240,10 @@
    "image": "images/CRVI000526.jpg",
    "original": "originals/CRVI000526.jpg",
    "original_px": [
-    1170,
-    1513
+    1324,
+    1600
    ],
-   "original_bytes": 626198,
+   "original_bytes": 685570,
    "maker": "Cindy Wehling",
    "title": "Reemergence",
    "subtitle": "High Country News, May 2023",
@@ -24274,8 +24282,8 @@
      "v": "orange"
     }
    ],
-   "hue": 132.53,
-   "light": 0.3151
+   "hue": 132.33,
+   "light": 0.179
   },
   {
    "id": "CRVI000527",
@@ -24286,10 +24294,10 @@
    "image": "images/CRVI000527.jpg",
    "original": "originals/CRVI000527.jpg",
    "original_px": [
-    1170,
-    1549
+    1238,
+    1600
    ],
-   "original_bytes": 122205,
+   "original_bytes": 94464,
    "maker": "Haley Kluge",
    "title": "No Words. What the Writers Strike Means for Hollywood",
    "subtitle": "Variety, May 3, 2023",
@@ -24321,7 +24329,7 @@
     }
    ],
    "hue": null,
-   "light": 0.9586
+   "light": 0.9632
   },
   {
    "id": "CRVI000528",
@@ -24332,10 +24340,10 @@
    "image": "images/CRVI000528.jpg",
    "original": "originals/CRVI000528.jpg",
    "original_px": [
-    1170,
-    1506
+    1315,
+    1600
    ],
-   "original_bytes": 300056,
+   "original_bytes": 282869,
    "maker": "Gail Bichler",
    "title": "Should You Be in Therapy?",
    "subtitle": "The New York Times Magazine, May 21, 2023",
@@ -24378,8 +24386,8 @@
      "v": "red"
     }
    ],
-   "hue": 32.79,
-   "light": 0.8597
+   "hue": 33.01,
+   "light": 0.8339
   },
   {
    "id": "CRVI000529",
@@ -24390,10 +24398,10 @@
    "image": "images/CRVI000529.jpg",
    "original": "originals/CRVI000529.jpg",
    "original_px": [
-    1170,
-    1616
+    1274,
+    1600
    ],
-   "original_bytes": 349082,
+   "original_bytes": 317980,
    "maker": "Robert Vargas",
    "title": "André 3000 Is Back!",
    "subtitle": "GQ, November 2023",
@@ -24436,8 +24444,8 @@
      "v": "pink"
     }
    ],
-   "hue": 325.34,
-   "light": 0.6376
+   "hue": 325.42,
+   "light": 0.5539
   },
   {
    "id": "CRVI000530",
@@ -24448,10 +24456,10 @@
    "image": "images/CRVI000530.jpg",
    "original": "originals/CRVI000530.jpg",
    "original_px": [
-    1170,
-    1682
+    1200,
+    1600
    ],
-   "original_bytes": 997016,
+   "original_bytes": 903789,
    "maker": "Tom Alberty",
    "title": "Worth Less",
    "subtitle": "New York, July 17-30, 2023",
@@ -24487,11 +24495,11 @@
     },
     {
      "k": "color",
-     "v": "yellow"
+     "v": "red"
     }
    ],
-   "hue": 44.16,
-   "light": 0.6099
+   "hue": 43.86,
+   "light": 0.5284
   },
   {
    "id": "CRVI000531",
@@ -24502,10 +24510,10 @@
    "image": "images/CRVI000531.jpg",
    "original": "originals/CRVI000531.jpg",
    "original_px": [
-    1170,
-    1601
+    1200,
+    1600
    ],
-   "original_bytes": 379252,
+   "original_bytes": 361916,
    "maker": "Unknown",
    "title": "The Lunacy of Text-Based Therapy",
    "subtitle": "New York, March 29-April 11, 2021",
@@ -24540,8 +24548,8 @@
      "v": "white"
     }
    ],
-   "hue": 196.16,
-   "light": 0.8814
+   "hue": 196.58,
+   "light": 0.8637
   },
   {
    "id": "CRVI000532",
@@ -24552,10 +24560,10 @@
    "image": "images/CRVI000532.jpg",
    "original": "originals/CRVI000532.jpg",
    "original_px": [
-    1170,
-    1634
+    1200,
+    1600
    ],
-   "original_bytes": 249242,
+   "original_bytes": 185565,
    "maker": "Thomas Alberty",
    "title": "3 Wednesdays in America",
    "subtitle": "New York, January 18-31, 2021",
@@ -24587,7 +24595,7 @@
     }
    ],
    "hue": null,
-   "light": 0.4809
+   "light": 0.3885
   },
   {
    "id": "CRVI000533",
@@ -24598,10 +24606,10 @@
    "image": "images/CRVI000533.jpg",
    "original": "originals/CRVI000533.jpg",
    "original_px": [
-    1170,
-    1419
+    1303,
+    1600
    ],
-   "original_bytes": 808339,
+   "original_bytes": 974098,
    "maker": "Gail Bichler",
    "title": "The American Abyss",
    "subtitle": "The New York Times Magazine, January 17, 2021",
@@ -24638,14 +24646,10 @@
     {
      "k": "color",
      "v": "orange"
-    },
-    {
-     "k": "color",
-     "v": "red"
     }
    ],
-   "hue": 22.95,
-   "light": 0.4471
+   "hue": 353.88,
+   "light": 0.3895
   },
   {
    "id": "CRVI000534",
@@ -24656,10 +24660,10 @@
    "image": "images/CRVI000534.jpg",
    "original": "originals/CRVI000534.jpg",
    "original_px": [
-    1170,
-    1544
+    1200,
+    1600
    ],
-   "original_bytes": 352302,
+   "original_bytes": 357542,
    "maker": "D.W. Pine",
    "title": "Delete 'Facebook'?",
    "subtitle": "TIME, October 25-November 1, 2021",
@@ -24691,11 +24695,11 @@
     },
     {
      "k": "color",
-     "v": "red"
+     "v": "cyan"
     }
    ],
-   "hue": 4.96,
-   "light": 0.6167
+   "hue": 4.86,
+   "light": 0.6374
   },
   {
    "id": "CRVI000535",
@@ -24706,10 +24710,10 @@
    "image": "images/CRVI000535.jpg",
    "original": "originals/CRVI000535.jpg",
    "original_px": [
-    1170,
-    1537
+    1200,
+    1600
    ],
-   "original_bytes": 389343,
+   "original_bytes": 365690,
    "maker": "Chris Nosenzo",
    "title": "Lupin and the Art of the Steal",
    "subtitle": "Bloomberg Businessweek, July 5, 2021",
@@ -24745,7 +24749,7 @@
     }
    ],
    "hue": null,
-   "light": 0.2847
+   "light": 0.2093
   },
   {
    "id": "CRVI000536",
@@ -24756,10 +24760,10 @@
    "image": "images/CRVI000536.jpg",
    "original": "originals/CRVI000536.jpg",
    "original_px": [
-    1104,
-    1267
+    1303,
+    1600
    ],
-   "original_bytes": 136775,
+   "original_bytes": 142497,
    "maker": "Gail Bichler",
    "title": "The Age of Ishiguro",
    "subtitle": "The New York Times Magazine, February 28, 2021",
@@ -24799,7 +24803,7 @@
     }
    ],
    "hue": null,
-   "light": 0.4881
+   "light": 0.5145
   },
   {
    "id": "CRVI000537",
@@ -24810,10 +24814,10 @@
    "image": "images/CRVI000537.jpg",
    "original": "originals/CRVI000537.jpg",
    "original_px": [
-    1170,
-    1445
+    1303,
+    1600
    ],
-   "original_bytes": 246681,
+   "original_bytes": 260703,
    "maker": "Gail Bichler",
    "title": "How America Spends",
    "subtitle": "The New York Times Magazine, May 23, 2021",
@@ -24852,8 +24856,8 @@
      "v": "yellow"
     }
    ],
-   "hue": 54.88,
-   "light": 0.7273
+   "hue": 54.95,
+   "light": 0.6593
   },
   {
    "id": "CRVI000538",
@@ -24864,10 +24868,10 @@
    "image": "images/CRVI000538.jpg",
    "original": "originals/CRVI000538.jpg",
    "original_px": [
-    1170,
-    1552
+    1200,
+    1600
    ],
-   "original_bytes": 262718,
+   "original_bytes": 238857,
    "maker": "Chris Nosenzo",
    "title": "How to Lose $20 Billion* in 2 Days",
    "subtitle": "Bloomberg Businessweek, April 12, 2021",
@@ -24906,8 +24910,8 @@
      "v": "red"
     }
    ],
-   "hue": 5.17,
-   "light": 0.6402
+   "hue": 355.31,
+   "light": 0.5909
   },
   {
    "id": "CRVI000539",
@@ -24918,10 +24922,10 @@
    "image": "images/CRVI000539.jpg",
    "original": "originals/CRVI000539.jpg",
    "original_px": [
-    1170,
-    1556
+    1199,
+    1600
    ],
-   "original_bytes": 404628,
+   "original_bytes": 394424,
    "maker": "Peter Herbert",
    "title": "Fortune 500",
    "subtitle": "Fortune, June/July 2021",
@@ -24960,8 +24964,8 @@
      "v": "green"
     }
    ],
-   "hue": 184.59,
-   "light": 0.6031
+   "hue": 184.21,
+   "light": 0.532
   },
   {
    "id": "CRVI000540",
@@ -24972,10 +24976,10 @@
    "image": "images/CRVI000540.jpg",
    "original": "originals/CRVI000540.jpg",
    "original_px": [
-    1170,
-    1547
+    1200,
+    1600
    ],
-   "original_bytes": 226033,
+   "original_bytes": 209464,
    "maker": "QuickHoney",
    "title": "Can I SPAC My Stonks With NFTs?",
    "subtitle": "New York, April 12- 25, 2021",
@@ -25003,11 +25007,11 @@
     },
     {
      "k": "color",
-     "v": "white"
+     "v": "orange"
     }
    ],
    "hue": null,
-   "light": 0.7545
+   "light": 0.7265
   },
   {
    "id": "CRVI000541",
@@ -25018,10 +25022,10 @@
    "image": "images/CRVI000541.jpg",
    "original": "originals/CRVI000541.jpg",
    "original_px": [
-    1170,
-    1536
+    1200,
+    1600
    ],
-   "original_bytes": 540121,
+   "original_bytes": 509882,
    "maker": "Agnethe Glatved",
    "title": "Current Mood: Resilient",
    "subtitle": "Parents, March 2021",
@@ -25060,8 +25064,8 @@
      "v": "yellow"
     }
    ],
-   "hue": 35.21,
-   "light": 0.733
+   "hue": 44.54,
+   "light": 0.6999
   },
   {
    "id": "CRVI000542",
@@ -25072,10 +25076,10 @@
    "image": "images/CRVI000542.jpg",
    "original": "originals/CRVI000542.jpg",
    "original_px": [
-    1170,
-    1624
+    1140,
+    1600
    ],
-   "original_bytes": 500611,
+   "original_bytes": 428040,
    "maker": "Nathalie Kirsheh",
    "title": "The Best of Global Beauty",
    "subtitle": "Allure, May 2021",
@@ -25112,14 +25116,10 @@
     {
      "k": "color",
      "v": "orange"
-    },
-    {
-     "k": "color",
-     "v": "yellow"
     }
    ],
-   "hue": 32.96,
-   "light": 0.6924
+   "hue": 32.99,
+   "light": 0.6548
   },
   {
    "id": "CRVI000543",
@@ -25130,10 +25130,10 @@
    "image": "images/CRVI000543.jpg",
    "original": "originals/CRVI000543.jpg",
    "original_px": [
-    1170,
-    1527
+    1219,
+    1600
    ],
-   "original_bytes": 408134,
+   "original_bytes": 427270,
    "maker": "Bobby Doherty",
    "title": "New Yawk Style",
    "subtitle": "New York, March 1-14, 2021",
@@ -25168,8 +25168,8 @@
      "v": "white"
     }
    ],
-   "hue": 25.95,
-   "light": 0.8502
+   "hue": 51.63,
+   "light": 0.8299
   },
   {
    "id": "CRVI000544",
@@ -25180,10 +25180,10 @@
    "image": "images/CRVI000544.jpg",
    "original": "originals/CRVI000544.jpg",
    "original_px": [
-    1170,
-    1477
+    1172,
+    1600
    ],
-   "original_bytes": 327440,
+   "original_bytes": 276742,
    "maker": "Unknown",
    "title": "Composed",
    "subtitle": "The New Yorker, September 27, 2021",
@@ -25207,11 +25207,11 @@
     },
     {
      "k": "color",
-     "v": "yellow"
+     "v": "orange"
     }
    ],
-   "hue": 45.06,
-   "light": 0.5801
+   "hue": 45.0,
+   "light": 0.5575
   },
   {
    "id": "CRVI000545",
@@ -25222,10 +25222,10 @@
    "image": "images/CRVI000545.jpg",
    "original": "originals/CRVI000545.jpg",
    "original_px": [
-    1170,
-    1504
+    1214,
+    1600
    ],
-   "original_bytes": 593955,
+   "original_bytes": 742226,
    "maker": "James Van Fleteren",
    "title": "Build a Better Breakfast Sandwich",
    "subtitle": "EatingWell, May 2021",
@@ -25257,15 +25257,15 @@
     },
     {
      "k": "color",
-     "v": "orange"
+     "v": "red"
     },
     {
      "k": "color",
-     "v": "red"
+     "v": "orange"
     }
    ],
-   "hue": 16.45,
-   "light": 0.6621
+   "hue": 13.65,
+   "light": 0.6119
   },
   {
    "id": "CRVI000546",
@@ -25276,10 +25276,10 @@
    "image": "images/CRVI000546.jpg",
    "original": "originals/CRVI000546.jpg",
    "original_px": [
-    1170,
-    1472
+    1238,
+    1600
    ],
-   "original_bytes": 874336,
+   "original_bytes": 977092,
    "maker": "Emily Kimbro",
    "title": "The 50 Best BBQ Joints",
    "subtitle": "Texas Monthly, November 2021",
@@ -25322,8 +25322,8 @@
      "v": "orange"
     }
    ],
-   "hue": 8.93,
-   "light": 0.4367
+   "hue": 7.18,
+   "light": 0.386
   },
   {
    "id": "CRVI000547",
@@ -25334,10 +25334,10 @@
    "image": "images/CRVI000547.jpg",
    "original": "originals/CRVI000547.jpg",
    "original_px": [
-    1170,
-    1496
+    1200,
+    1600
    ],
-   "original_bytes": 234789,
+   "original_bytes": 228195,
    "maker": "Oliver Munday",
    "title": "Who Killed America's Newspapers?",
    "subtitle": "The Atlantic, November 2021",
@@ -25369,15 +25369,15 @@
     },
     {
      "k": "color",
-     "v": "blue"
+     "v": "green"
     },
     {
      "k": "color",
      "v": "red"
     }
    ],
-   "hue": 5.04,
-   "light": 0.8873
+   "hue": 2.42,
+   "light": 0.8799
   },
   {
    "id": "CRVI000548",
@@ -25388,10 +25388,10 @@
    "image": "images/CRVI000548.jpg",
    "original": "originals/CRVI000548.jpg",
    "original_px": [
-    1170,
-    1454
+    1080,
+    1350
    ],
-   "original_bytes": 473224,
+   "original_bytes": 419617,
    "maker": "Nia Lawrence",
    "title": "Rihanna + Lorna Simpson",
    "subtitle": "ESSENCE, January/February 2021",
@@ -25422,8 +25422,8 @@
      "v": "orange"
     }
    ],
-   "hue": 35.02,
-   "light": 0.7302
+   "hue": 40.57,
+   "light": 0.6986
   },
   {
    "id": "CRVI000549",
@@ -25434,10 +25434,10 @@
    "image": "images/CRVI000549.jpg",
    "original": "originals/CRVI000549.jpg",
    "original_px": [
-    1170,
-    1423
+    1303,
+    1600
    ],
-   "original_bytes": 842534,
+   "original_bytes": 1034182,
    "maker": "Gail Bichler",
    "title": "The Passion of Questlove",
    "subtitle": "The New York Times Magazine, October 17, 2021",
@@ -25474,10 +25474,14 @@
     {
      "k": "color",
      "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "blue"
     }
    ],
-   "hue": 96.51,
-   "light": 0.439
+   "hue": 89.2,
+   "light": 0.3787
   },
   {
    "id": "CRVI000550",
@@ -25488,10 +25492,10 @@
    "image": "images/CRVI000550.jpg",
    "original": "originals/CRVI000550.jpg",
    "original_px": [
-    1170,
-    1526
+    1200,
+    1600
    ],
-   "original_bytes": 526447,
+   "original_bytes": 548654,
    "maker": "D.W. Pine",
    "title": "Day One.",
    "subtitle": "TIME, February 1-8, 2021",
@@ -25530,8 +25534,8 @@
      "v": "red"
     }
    ],
-   "hue": 7.78,
-   "light": 0.5172
+   "hue": 6.14,
+   "light": 0.4203
   },
   {
    "id": "CRVI000551",
@@ -25542,10 +25546,10 @@
    "image": "images/CRVI000551.jpg",
    "original": "originals/CRVI000551.jpg",
    "original_px": [
-    1116,
-    1524
+    1200,
+    1600
    ],
-   "original_bytes": 654219,
+   "original_bytes": 648343,
    "maker": "Thomas Alberty",
    "title": "The Pleasures of Outdoor Dining",
    "subtitle": "New York, October 24- November 6, 2022",
@@ -25582,14 +25586,10 @@
     {
      "k": "color",
      "v": "orange"
-    },
-    {
-     "k": "color",
-     "v": "red"
     }
    ],
-   "hue": 34.24,
-   "light": 0.314
+   "hue": 34.34,
+   "light": 0.2845
   },
   {
    "id": "CRVI000552",
@@ -25600,10 +25600,10 @@
    "image": "images/CRVI000552.jpg",
    "original": "originals/CRVI000552.jpg",
    "original_px": [
-    1116,
-    1516
+    1200,
+    1600
    ],
-   "original_bytes": 240428,
+   "original_bytes": 203910,
    "maker": "Thomas Alberty",
    "title": "This Magazine Can Help You Get an Abortion",
    "subtitle": "New York, May 23-June 5, 2022",
@@ -25642,8 +25642,8 @@
      "v": "yellow"
     }
    ],
-   "hue": 355.87,
-   "light": 0.6333
+   "hue": 355.59,
+   "light": 0.6209
   },
   {
    "id": "CRVI000553",
@@ -25654,10 +25654,10 @@
    "image": "images/CRVI000553.jpg",
    "original": "originals/CRVI000553.jpg",
    "original_px": [
-    1104,
-    1493
+    1217,
+    1600
    ],
-   "original_bytes": 238147,
+   "original_bytes": 283811,
    "maker": "Graeme James",
    "title": "The Horror Ahead",
    "subtitle": "The Economist, March 5-11, 2022",
@@ -25696,8 +25696,8 @@
      "v": "blue"
     }
    ],
-   "hue": 54.64,
-   "light": 0.4503
+   "hue": 54.74,
+   "light": 0.4374
   },
   {
    "id": "CRVI000554",
@@ -25708,10 +25708,10 @@
    "image": "images/CRVI000554.jpg",
    "original": "originals/CRVI000554.jpg",
    "original_px": [
-    1066,
-    1561
+    1200,
+    1600
    ],
-   "original_bytes": 572631,
+   "original_bytes": 537231,
    "maker": "Thomas Alberty",
    "title": "She Has Her Mother's Eyes. And Agent.",
    "subtitle": "New York, December 19, 2022",
@@ -25746,8 +25746,8 @@
      "v": "red"
     }
    ],
-   "hue": 14.96,
-   "light": 0.7369
+   "hue": 15.11,
+   "light": 0.7339
   },
   {
    "id": "CRVI000555",
@@ -25758,10 +25758,10 @@
    "image": "images/CRVI000555.jpg",
    "original": "originals/CRVI000555.jpg",
    "original_px": [
-    1116,
-    1426
+    1293,
+    1600
    ],
-   "original_bytes": 698555,
+   "original_bytes": 849969,
    "maker": "Gail Bichler",
    "title": "Great Performers: Featuring Michelle Yeoh",
    "subtitle": "The New York Times Magazine, December 11, 2022",
@@ -25804,8 +25804,8 @@
      "v": "yellow"
     }
    ],
-   "hue": 94.13,
-   "light": 0.5075
+   "hue": 94.19,
+   "light": 0.4821
   },
   {
    "id": "CRVI000556",
@@ -25816,10 +25816,10 @@
    "image": "images/CRVI000556.jpg",
    "original": "originals/CRVI000556.jpg",
    "original_px": [
-    1110,
-    1446
+    1294,
+    1600
    ],
-   "original_bytes": 175655,
+   "original_bytes": 166873,
    "maker": "Gail Bichler",
    "title": "The Future of Work When No One Wants to Work",
    "subtitle": "The New York Times Magazine, February 20, 2022",
@@ -25858,8 +25858,8 @@
      "v": "white"
     }
    ],
-   "hue": 344.46,
-   "light": 0.9254
+   "hue": 344.49,
+   "light": 0.9301
   },
   {
    "id": "CRVI000557",
@@ -25870,10 +25870,10 @@
    "image": "images/CRVI000557.jpg",
    "original": "originals/CRVI000557.jpg",
    "original_px": [
-    1104,
-    1559
+    1200,
+    1600
    ],
-   "original_bytes": 351304,
+   "original_bytes": 302785,
    "maker": "Somnath Bhatt",
    "title": "The Baristas' Rebellion",
    "subtitle": "Bloomberg Businessweek, May 16, 2022",
@@ -25916,8 +25916,8 @@
      "v": "green"
     }
    ],
-   "hue": 164.76,
-   "light": 0.4333
+   "hue": 164.73,
+   "light": 0.4003
   },
   {
    "id": "CRVI000558",
@@ -25928,10 +25928,10 @@
    "image": "images/CRVI000558.jpg",
    "original": "originals/CRVI000558.jpg",
    "original_px": [
-    1116,
-    1519
+    1217,
+    1600
    ],
-   "original_bytes": 626594,
+   "original_bytes": 630664,
    "maker": "Ricardo Rey",
    "title": "The Fed That Failed",
    "subtitle": "The Economist, April 23-29, 2022",
@@ -25966,8 +25966,8 @@
      "v": "red"
     }
    ],
-   "hue": 65.24,
-   "light": 0.7296
+   "hue": 65.28,
+   "light": 0.7158
   },
   {
    "id": "CRVI000559",
@@ -25978,10 +25978,10 @@
    "image": "images/CRVI000559.jpg",
    "original": "originals/CRVI000559.jpg",
    "original_px": [
-    1104,
-    1428
+    1374,
+    1600
    ],
-   "original_bytes": 413726,
+   "original_bytes": 480751,
    "maker": "Tanya Moskowitz",
    "title": "The Innovators Issue",
    "subtitle": "WSJ. Magazine, November 2022",
@@ -26021,7 +26021,7 @@
     }
    ],
    "hue": null,
-   "light": 0.5828
+   "light": 0.2663
   },
   {
    "id": "CRVI000560",
@@ -26035,7 +26035,7 @@
     1200,
     1575
    ],
-   "original_bytes": 589376,
+   "original_bytes": 451299,
    "maker": "Lisa Sheehan",
    "title": "Blood Sport",
    "subtitle": "Mother Jones, November + December 2022",
@@ -26070,7 +26070,7 @@
      "v": "orange"
     }
    ],
-   "hue": 218.4,
+   "hue": 218.35,
    "light": 0.2409
   },
   {
@@ -26082,10 +26082,10 @@
    "image": "images/CRVI000561.jpg",
    "original": "originals/CRVI000561.jpg",
    "original_px": [
-    1104,
-    1385
+    1324,
+    1600
    ],
-   "original_bytes": 356564,
+   "original_bytes": 367696,
    "maker": "Marshall Mckinney",
    "title": "Saving the Wild South",
    "subtitle": "Garden & Gun, October/November 2022",
@@ -26128,8 +26128,8 @@
      "v": "red"
     }
    ],
-   "hue": 214.99,
-   "light": 0.6766
+   "hue": 215.0,
+   "light": 0.6655
   },
   {
    "id": "CRVI000562",
@@ -26140,10 +26140,10 @@
    "image": "images/CRVI000562.jpg",
    "original": "originals/CRVI000562.jpg",
    "original_px": [
-    1116,
-    1465
+    1231,
+    1600
    ],
-   "original_bytes": 582712,
+   "original_bytes": 624056,
    "maker": "Cian Browne",
    "title": "Zendaya",
    "subtitle": "W",
@@ -26186,8 +26186,8 @@
      "v": "orange"
     }
    ],
-   "hue": 193.87,
-   "light": 0.3349
+   "hue": 193.63,
+   "light": 0.3151
   },
   {
    "id": "CRVI000563",
@@ -26198,10 +26198,10 @@
    "image": "images/CRVI000563.jpg",
    "original": "originals/CRVI000563.jpg",
    "original_px": [
-    1104,
-    1629
+    1172,
+    1600
    ],
-   "original_bytes": 473781,
+   "original_bytes": 445594,
    "maker": "Kadir Nelson",
    "title": "High Style",
    "subtitle": "The New Yorker, February 14 and 21, 2022",
@@ -26236,8 +26236,8 @@
      "v": "cyan"
     }
    ],
-   "hue": 17.96,
-   "light": 0.559
+   "hue": 17.87,
+   "light": 0.524
   },
   {
    "id": "CRVI000564",
@@ -26248,10 +26248,10 @@
    "image": "images/CRVI000564.jpg",
    "original": "originals/CRVI000564.jpg",
    "original_px": [
-    1116,
-    1474
+    1324,
+    1600
    ],
-   "original_bytes": 1072177,
+   "original_bytes": 1102512,
    "maker": "Thandiwe Muriu",
    "title": "Global Cool",
    "subtitle": "Virtuoso, September/October 2022",
@@ -26286,8 +26286,8 @@
      "v": "cyan"
     }
    ],
-   "hue": 30.8,
-   "light": 0.5287
+   "hue": 30.82,
+   "light": 0.474
   },
   {
    "id": "CRVI000565",
@@ -26298,10 +26298,10 @@
    "image": "images/CRVI000565.jpg",
    "original": "originals/CRVI000565.jpg",
    "original_px": [
-    1114,
-    1478
+    1224,
+    1600
    ],
-   "original_bytes": 901832,
+   "original_bytes": 999142,
    "maker": "Thomas Alberty",
    "title": "Reasons to Love New York",
    "subtitle": "New York, December 5-18, 2022",
@@ -26345,7 +26345,7 @@
     }
    ],
    "hue": 25.09,
-   "light": 0.4449
+   "light": 0.4275
   },
   {
    "id": "CRVI000566",
@@ -26356,10 +26356,10 @@
    "image": "images/CRVI000566.jpg",
    "original": "originals/CRVI000566.jpg",
    "original_px": [
-    1104,
-    1452
+    1217,
+    1600
    ],
-   "original_bytes": 258458,
+   "original_bytes": 236023,
    "maker": "Graeme James",
    "title": "The Coming Food Catastrophe",
    "subtitle": "The Economist, May 21-27, 2022",
@@ -26398,7 +26398,7 @@
      "v": "red"
     }
    ],
-   "hue": 194.95,
+   "hue": 194.98,
    "light": 0.5092
   },
   {
@@ -26410,10 +26410,10 @@
    "image": "images/CRVI000567.jpg",
    "original": "originals/CRVI000567.jpg",
    "original_px": [
-    1116,
-    1544
+    1177,
+    1600
    ],
-   "original_bytes": 378680,
+   "original_bytes": 306441,
    "maker": "Kenneth Kajoranta",
    "title": "Beyond the Binary",
    "subtitle": "MIT Technology Review, September/October 2022",
@@ -26444,8 +26444,8 @@
      "v": "neutral"
     }
    ],
-   "hue": 357.1,
-   "light": 0.5863
+   "hue": 357.25,
+   "light": 0.57
   },
   {
    "id": "CRVI000568",
@@ -26456,10 +26456,10 @@
    "image": "images/CRVI000568.jpg",
    "original": "originals/CRVI000568.jpg",
    "original_px": [
-    1104,
-    1428
+    1293,
+    1600
    ],
-   "original_bytes": 752739,
+   "original_bytes": 912506,
    "maker": "Gail Bichler",
    "title": "The New York Issue",
    "subtitle": "The New York Times Magazine, June 5, 2022",
@@ -26490,8 +26490,8 @@
      "v": "orange"
     }
    ],
-   "hue": 34.75,
-   "light": 0.5831
+   "hue": 34.71,
+   "light": 0.5656
   },
   {
    "id": "CRVI000569",
@@ -26502,10 +26502,10 @@
    "image": "images/CRVI000569.jpg",
    "original": "originals/CRVI000569.jpg",
    "original_px": [
-    1104,
-    1565
+    1172,
+    1600
    ],
-   "original_bytes": 638718,
+   "original_bytes": 587617,
    "maker": "Anita Kunz",
    "title": "No Photos, Please!",
    "subtitle": "The New Yorker, August 29, 2022",
@@ -26540,8 +26540,8 @@
      "v": "red"
     }
    ],
-   "hue": 24.91,
-   "light": 0.418
+   "hue": 24.85,
+   "light": 0.3966
   },
   {
    "id": "CRVI000570",
@@ -26552,10 +26552,10 @@
    "image": "images/CRVI000570.jpg",
    "original": "originals/CRVI000570.jpg",
    "original_px": [
-    1104,
-    1437
+    1295,
+    1600
    ],
-   "original_bytes": 380535,
+   "original_bytes": 395992,
    "maker": "Gail Bichler",
    "title": "Boxed In",
    "subtitle": "The New York Times Magazine, December 4, 2022",
@@ -26590,8 +26590,8 @@
      "v": "orange"
     }
    ],
-   "hue": 25.01,
-   "light": 0.4214
+   "hue": 25.36,
+   "light": 0.3807
   },
   {
    "id": "CRVI000571",
