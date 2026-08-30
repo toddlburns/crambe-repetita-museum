@@ -26032,10 +26032,10 @@
    "image": "images/CRVI000560.jpg",
    "original": "originals/CRVI000560.jpg",
    "original_px": [
-    1116,
-    1229
+    1200,
+    1575
    ],
-   "original_bytes": 426385,
+   "original_bytes": 589376,
    "maker": "Lisa Sheehan",
    "title": "Blood Sport",
    "subtitle": "Mother Jones, November + December 2022",
@@ -26071,7 +26071,7 @@
     }
    ],
    "hue": 218.4,
-   "light": 0.255
+   "light": 0.2409
   },
   {
    "id": "CRVI000561",
@@ -28839,17 +28839,17 @@
   },
   {
    "id": "CRVI000619",
-   "source_url": "https://www.asme.media/winners-and-finalists-2019",
+   "source_url": "https://www.nytimes.com/2018/02/23/magazine/behind-the-cover-2-25-18.html",
    "animated": false,
    "thumb": "thumbs/CRVI000619.jpg",
    "source_label": "",
    "image": "images/CRVI000619.jpg",
-   "original": "originals/CRVI000619.png",
+   "original": "originals/CRVI000619.jpg",
    "original_px": [
-    498,
-    607
+    1683,
+    2048
    ],
-   "original_bytes": 143690,
+   "original_bytes": 190128,
    "maker": "Gail Bichler",
    "title": "Is Google Too Powerful?",
    "subtitle": "The New York Times Magazine, February 25 2018",
@@ -28880,8 +28880,8 @@
      "v": "blue"
     }
    ],
-   "hue": 5.04,
-   "light": 0.7552
+   "hue": 4.79,
+   "light": 0.7443
   },
   {
    "id": "CRVI000620",

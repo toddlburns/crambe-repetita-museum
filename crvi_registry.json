@@ -30811,10 +30811,10 @@
    "minted": "2026-08-26",
    "original_file": "originals/CRVI000560.jpg",
    "original_px": [
-    1116,
-    1229
+    1200,
+    1575
    ],
-   "original_bytes": 426385,
+   "original_bytes": 589376,
    "identity": "ASME::Mother Jones::Blood Sport",
    "maker": "Lisa Sheehan",
    "title": "Blood Sport",
@@ -30824,14 +30824,14 @@
    "source_page": "https://asme.memberclicks.net/past-winners-and-finalists",
    "notes": [
     "ASME award: Readers' Choice.",
-    "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
-    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine."
+    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine.",
+    "Artwork replaced 2026-08-29 with ASME's own 1200x1575 file for this cover; the previous image was a screenshot crop that cut the top off the Mother Jones masthead."
    ],
    "label": "",
-   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2023/IMG_5290.jpg",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/mj_asme.jpg",
    "source_px": [
-    1116,
-    1229
+    1200,
+    1575
    ],
    "colors": [
     "blue",
@@ -30863,8 +30863,9 @@
    "published": true,
    "verification": "American Society of Magazine Editors Best Cover Contest (Readers' Choice). Credits read from ASME's own caption beneath the cover: Mother Jones · \"Blood Sport,\" November + December 2022 · Clara Jeffery, Editor in Chief · Adam Vieyra and Grace Molteni, Designers · Lisa Sheehan, Illustrator · MAKE THE PERFECT · VIVIAN HOWARD · A FLY FISHERMAN'S",
    "hue": 218.4,
-   "light": 0.255,
-   "chroma": 0.5385
+   "light": 0.2409,
+   "chroma": 0.5129,
+   "source_url": "https://asme.memberclicks.net/asme-best-cover-contest-winners-and-finalists-2023"
   },
   "ASME::Garden & Gun::Saving the Wild South": {
    "id": "CRVI000561",
@@ -34136,28 +34137,28 @@
   "asme.media::2019::the new york times magazine::is google too powerful": {
    "id": "CRVI000619",
    "minted": "2026-08-26",
-   "original_file": "originals/CRVI000619.png",
+   "original_file": "originals/CRVI000619.jpg",
    "original_px": [
-    498,
-    607
+    1683,
+    2048
    ],
-   "original_bytes": 143690,
+   "original_bytes": 190128,
    "identity": "asme.media::2019::the new york times magazine::is google too powerful",
    "maker": "Gail Bichler",
    "title": "Is Google Too Powerful?",
    "subtitle": "The New York Times Magazine, February 25 2018",
    "year": "2018",
-   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2019, which lists it as finalist: The New York Times Magazine, \"Is Google Too Powerful?,\" February 25 (Gail Bichler, Designer). The citation gives no year; the 2019 contest honours covers published in 2018.",
-   "source_url": "https://www.asme.media/winners-and-finalists-2019",
+   "verified_against": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2019, which lists it as finalist: The New York Times Magazine, \"Is Google Too Powerful?,\" February 25 (Gail Bichler, Designer). The citation gives no year; the 2019 contest honours covers published in 2018. The New York Times' own 'Behind the Cover: 2.25.18' page carries this cover and quotes design director Gail Bichler on it.",
+   "source_url": "https://www.nytimes.com/2018/02/23/magazine/behind-the-cover-2-25-18.html",
    "notes": [
     "ASME Best Cover Contest 2019 — finalist.",
-    "Cropped out of a screenshot of the ASME results page."
+    "Artwork replaced 2026-08-29 with The New York Times' own 1683x2048 reproduction from its 'Behind the Cover: 2.25.18' page, in place of the 498x607 crop taken from the ASME screenshot."
    ],
    "label": "",
-   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/asme/05.png",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/google_cover.jpg",
    "source_px": [
-    498,
-    607
+    1683,
+    2048
    ],
    "colors": [
     "red",
@@ -34183,10 +34184,10 @@
    ],
    "identity_established": true,
    "published": true,
-   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2019, which lists it as finalist: The New York Times Magazine, \"Is Google Too Powerful?,\" February 25 (Gail Bichler, Designer). The citation gives no year; the 2019 contest honours covers published in 2018.",
-   "hue": 5.04,
-   "light": 0.7552,
-   "chroma": 0.506
+   "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2019, which lists it as finalist: The New York Times Magazine, \"Is Google Too Powerful?,\" February 25 (Gail Bichler, Designer). The citation gives no year; the 2019 contest honours covers published in 2018. The New York Times' own 'Behind the Cover: 2.25.18' page carries this cover and quotes design director Gail Bichler on it.",
+   "hue": 4.79,
+   "light": 0.7443,
+   "chroma": 0.5026
   },
   "asme.media::2019::the washington post magazine::wake up and dream": {
    "id": "CRVI000620",

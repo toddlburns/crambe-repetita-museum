@@ -43,10 +43,17 @@ The spec needs: `identity`, `image` (URL or local path), `maker`, `title`, `year
 Then rebuild and publish:
 
 ```bash
+python3 thumbs.py              # 600px grid thumbnails — REQUIRED, see below
 python3 crvi_hue.py --write    # dominant-hue keys, for colour-grouped tag pages
 python3 build.py               # renders every item and tag page
 git add -A && git commit && git push
 ```
+
+⚠️ **`thumbs.py` is not optional and nothing else calls it.** `payload.py` points every grid tile at
+`thumbs/<id>.jpg` unconditionally, so an item added without a thumbnail renders as a broken image on
+the home page and on every tag page it belongs to — while `crvi_add.py`, `crvi_hue.py` and `build.py`
+all report success. That happened on 2026-08-29 to 109 items added across one session. Run it after
+every add, and after replacing any item's artwork (delete that item's stale thumb first).
 
 `crvi_add.py` rewrites `crvi.json` itself, so a single add doesn't need the bulk builder.
 
