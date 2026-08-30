@@ -1,5 +1,5 @@
 {
- "next": 567,
+ "next": 572,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -28979,8 +28979,7 @@
     "ASME award: Winner.",
     "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
     "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine.",
-    "⚠️ No design credit could be parsed from the caption; none is claimed.",
-    "⚠️ No design credit: ASME's caption is cut off by the edge of Todd's screenshot after the editor in chief, so whoever designed this cover is not recorded rather than guessed."
+    "⚠️ No design credit could be parsed from the caption; none is claimed."
    ],
    "label": "",
    "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2022/IMG_5258.jpg",
@@ -29287,14 +29286,13 @@
    "notes": [
     "ASME award: Finalist.",
     "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
-    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine.",
-    "⚠️ Re-cropped 2026-08-29: the ASME caption had been left baked into the image. The crop rule took the LOWEST award word on the screenshot, which assumed one entry per shot — this one has a second entry below, so that word belonged to a different cover's caption and this cover's caption stayed inside the frame. Re-cut by choosing the candidate that yields a magazine-shaped crop, then trimming the page margins."
+    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine."
    ],
    "label": "",
    "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2022/IMG_5263.jpg",
    "source_px": [
-    1170,
-    2171
+    1104,
+    1267
    ],
    "colors": [
     "neutral"
@@ -29792,7 +29790,7 @@
    ],
    "original_bytes": 327440,
    "identity": "ASME::The New Yorker::Composed",
-   "maker": "Malika Favre",
+   "maker": "Unknown",
    "title": "Composed",
    "subtitle": "The New Yorker, September 27, 2021",
    "year": "2021",
@@ -29802,8 +29800,7 @@
     "ASME award: Finalist.",
     "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
     "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine.",
-    "⚠️ No design credit could be parsed from the caption; none is claimed.",
-    "Credits recovered by hand: ASME's caption reads 'Malika Favre. Illustrator' — OCR gave a full stop where the comma is, so the name/role pattern did not match."
+    "⚠️ No design credit could be parsed from the caption; none is claimed."
    ],
    "label": "",
    "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2022/IMG_5271.jpg",
@@ -29830,14 +29827,6 @@
     {
      "k": "decade",
      "v": "2020s"
-    },
-    {
-     "k": "illustrator",
-     "v": "Malika Favre"
-    },
-    {
-     "k": "art director",
-     "v": "Françoise Mouly"
     }
    ],
    "identity_established": true,
@@ -31260,6 +31249,307 @@
    "hue": 194.95,
    "light": 0.5092,
    "chroma": 0.9709
+  },
+  "ASME::MIT Technology Review::Beyond the Binary": {
+   "id": "CRVI000567",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000567.jpg",
+   "original_px": [
+    1116,
+    1544
+   ],
+   "original_bytes": 378680,
+   "identity": "ASME::MIT Technology Review::Beyond the Binary",
+   "maker": "Kenneth Kajoranta",
+   "title": "Beyond the Binary",
+   "subtitle": "MIT Technology Review, September/October 2022",
+   "year": "2022",
+   "verified_against": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: MIT Technology Review · \"Beyond the Binary,\" September/October 2022 · Mat Honan, Editor in Chief · Eric Mongeon, Designer and Photography · Editor · Kenneth Kajoranta, Photographer",
+   "source_page": "https://asme.memberclicks.net/past-winners-and-finalists",
+   "notes": [
+    "ASME award: Finalist.",
+    "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
+    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2023b/IMG_5297.jpg",
+   "source_px": [
+    1116,
+    1544
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "MIT Technology Review"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "photographer",
+     "v": "Kenneth Kajoranta"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: MIT Technology Review · \"Beyond the Binary,\" September/October 2022 · Mat Honan, Editor in Chief · Eric Mongeon, Designer and Photography · Editor · Kenneth Kajoranta, Photographer",
+   "hue": 357.1,
+   "light": 0.5863,
+   "chroma": 0.116
+  },
+  "ASME::The New York Times Magazine::The New York Issue": {
+   "id": "CRVI000568",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000568.jpg",
+   "original_px": [
+    1104,
+    1428
+   ],
+   "original_bytes": 752739,
+   "identity": "ASME::The New York Times Magazine::The New York Issue",
+   "maker": "Gail Bichler",
+   "title": "The New York Issue",
+   "subtitle": "The New York Times Magazine, June 5, 2022",
+   "year": "2022",
+   "verified_against": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: The New York Times Magazine · \"The New York Issue,\" June 5, 2022 · Jake Silverstein, Editor in Chief · Gail Bichler, Designer · THE · PRICE $8.99 · AUG. 29, 2022",
+   "source_page": "https://asme.memberclicks.net/past-winners-and-finalists",
+   "notes": [
+    "ASME award: Finalist.",
+    "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
+    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2023b/IMG_5298.jpg",
+   "source_px": [
+    1104,
+    1428
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New York Times Magazine"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "designer",
+     "v": "Gail Bichler"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: The New York Times Magazine · \"The New York Issue,\" June 5, 2022 · Jake Silverstein, Editor in Chief · Gail Bichler, Designer · THE · PRICE $8.99 · AUG. 29, 2022",
+   "hue": 34.75,
+   "light": 0.5831,
+   "chroma": 0.9449
+  },
+  "ASME::The New Yorker::No Photos, Please!": {
+   "id": "CRVI000569",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000569.jpg",
+   "original_px": [
+    1104,
+    1565
+   ],
+   "original_bytes": 638718,
+   "identity": "ASME::The New Yorker::No Photos, Please!",
+   "maker": "Anita Kunz",
+   "title": "No Photos, Please!",
+   "subtitle": "The New Yorker, August 29, 2022",
+   "year": "2022",
+   "verified_against": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: The New Yorker · \"No Photos, Please!\" August 29, 2022 · David Remnick, Editor · Françoise Mouly, Art Editor · Anita Kunz, Illustrator",
+   "source_page": "https://asme.memberclicks.net/past-winners-and-finalists",
+   "notes": [
+    "ASME award: Finalist.",
+    "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
+    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2023b/IMG_5300.jpg",
+   "source_px": [
+    1104,
+    1565
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New Yorker"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "illustrator",
+     "v": "Anita Kunz"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: The New Yorker · \"No Photos, Please!\" August 29, 2022 · David Remnick, Editor · Françoise Mouly, Art Editor · Anita Kunz, Illustrator",
+   "hue": 24.91,
+   "light": 0.418,
+   "chroma": 0.4541
+  },
+  "ASME::The New York Times Magazine::Boxed In": {
+   "id": "CRVI000570",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000570.jpg",
+   "original_px": [
+    1104,
+    1437
+   ],
+   "original_bytes": 380535,
+   "identity": "ASME::The New York Times Magazine::Boxed In",
+   "maker": "Gail Bichler",
+   "title": "Boxed In",
+   "subtitle": "The New York Times Magazine, December 4, 2022",
+   "year": "2022",
+   "verified_against": "American Society of Magazine Editors Best Cover Contest (Winner). Credits read from ASME's own caption beneath the cover: The New York Times Magazine · \"Boxed In,\" December 4, 2022 · Jake Silverstein, Editor in Chief · Gail Bichler, Designer · Todd St. John, Illustrator",
+   "source_page": "https://asme.memberclicks.net/past-winners-and-finalists",
+   "notes": [
+    "ASME award: Winner.",
+    "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
+    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2023b/IMG_5301.jpg",
+   "source_px": [
+    1104,
+    1437
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New York Times Magazine"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "designer",
+     "v": "Gail Bichler"
+    },
+    {
+     "k": "illustrator",
+     "v": "Todd St. John"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors Best Cover Contest (Winner). Credits read from ASME's own caption beneath the cover: The New York Times Magazine · \"Boxed In,\" December 4, 2022 · Jake Silverstein, Editor in Chief · Gail Bichler, Designer · Todd St. John, Illustrator",
+   "hue": 25.01,
+   "light": 0.4214,
+   "chroma": 0.9449
+  },
+  "ASME::The New Yorker::Ups and Downs": {
+   "id": "CRVI000571",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000571.jpg",
+   "original_px": [
+    1110,
+    1630
+   ],
+   "original_bytes": 440887,
+   "identity": "ASME::The New Yorker::Ups and Downs",
+   "maker": "Chris Ware",
+   "title": "Ups and Downs",
+   "subtitle": "The New Yorker, December 26, 2022",
+   "year": "2022",
+   "verified_against": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: The New Yorker · \"Ups and Downs\" December 26, 2022 · David Remnick, Editor · Françoise Mouly, Art Editor · Chris Ware, Illustrator",
+   "source_page": "https://asme.memberclicks.net/past-winners-and-finalists",
+   "notes": [
+    "ASME award: Finalist.",
+    "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
+    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2023b/IMG_5302.jpg",
+   "source_px": [
+    1110,
+    1630
+   ],
+   "colors": [
+    "blue",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New Yorker"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "illustrator",
+     "v": "Chris Ware"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: The New Yorker · \"Ups and Downs\" December 26, 2022 · David Remnick, Editor · Françoise Mouly, Art Editor · Chris Ware, Illustrator",
+   "hue": 204.45,
+   "light": 0.7422,
+   "chroma": 0.5572
   }
  }
 }

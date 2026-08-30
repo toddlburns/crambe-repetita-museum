@@ -25184,7 +25184,7 @@
     1477
    ],
    "original_bytes": 327440,
-   "maker": "Malika Favre",
+   "maker": "Unknown",
    "title": "Composed",
    "subtitle": "The New Yorker, September 27, 2021",
    "year": "2021",
@@ -25204,14 +25204,6 @@
     {
      "k": "decade",
      "v": "2020s"
-    },
-    {
-     "k": "illustrator",
-     "v": "Malika Favre"
-    },
-    {
-     "k": "art director",
-     "v": "Françoise Mouly"
     },
     {
      "k": "color",
@@ -26408,6 +26400,248 @@
    ],
    "hue": 194.95,
    "light": 0.5092
+  },
+  {
+   "id": "CRVI000567",
+   "source_url": "https://asme.memberclicks.net/past-winners-and-finalists",
+   "animated": false,
+   "thumb": "thumbs/CRVI000567.jpg",
+   "source_label": "",
+   "image": "images/CRVI000567.jpg",
+   "original": "originals/CRVI000567.jpg",
+   "original_px": [
+    1116,
+    1544
+   ],
+   "original_bytes": 378680,
+   "maker": "Kenneth Kajoranta",
+   "title": "Beyond the Binary",
+   "subtitle": "MIT Technology Review, September/October 2022",
+   "year": "2022",
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "MIT Technology Review"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "photographer",
+     "v": "Kenneth Kajoranta"
+    },
+    {
+     "k": "color",
+     "v": "neutral"
+    }
+   ],
+   "hue": 357.1,
+   "light": 0.5863
+  },
+  {
+   "id": "CRVI000568",
+   "source_url": "https://asme.memberclicks.net/past-winners-and-finalists",
+   "animated": false,
+   "thumb": "thumbs/CRVI000568.jpg",
+   "source_label": "",
+   "image": "images/CRVI000568.jpg",
+   "original": "originals/CRVI000568.jpg",
+   "original_px": [
+    1104,
+    1428
+   ],
+   "original_bytes": 752739,
+   "maker": "Gail Bichler",
+   "title": "The New York Issue",
+   "subtitle": "The New York Times Magazine, June 5, 2022",
+   "year": "2022",
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New York Times Magazine"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "designer",
+     "v": "Gail Bichler"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 34.75,
+   "light": 0.5831
+  },
+  {
+   "id": "CRVI000569",
+   "source_url": "https://asme.memberclicks.net/past-winners-and-finalists",
+   "animated": false,
+   "thumb": "thumbs/CRVI000569.jpg",
+   "source_label": "",
+   "image": "images/CRVI000569.jpg",
+   "original": "originals/CRVI000569.jpg",
+   "original_px": [
+    1104,
+    1565
+   ],
+   "original_bytes": 638718,
+   "maker": "Anita Kunz",
+   "title": "No Photos, Please!",
+   "subtitle": "The New Yorker, August 29, 2022",
+   "year": "2022",
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New Yorker"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "illustrator",
+     "v": "Anita Kunz"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 24.91,
+   "light": 0.418
+  },
+  {
+   "id": "CRVI000570",
+   "source_url": "https://asme.memberclicks.net/past-winners-and-finalists",
+   "animated": false,
+   "thumb": "thumbs/CRVI000570.jpg",
+   "source_label": "",
+   "image": "images/CRVI000570.jpg",
+   "original": "originals/CRVI000570.jpg",
+   "original_px": [
+    1104,
+    1437
+   ],
+   "original_bytes": 380535,
+   "maker": "Gail Bichler",
+   "title": "Boxed In",
+   "subtitle": "The New York Times Magazine, December 4, 2022",
+   "year": "2022",
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New York Times Magazine"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "designer",
+     "v": "Gail Bichler"
+    },
+    {
+     "k": "illustrator",
+     "v": "Todd St. John"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 25.01,
+   "light": 0.4214
+  },
+  {
+   "id": "CRVI000571",
+   "source_url": "https://asme.memberclicks.net/past-winners-and-finalists",
+   "animated": false,
+   "thumb": "thumbs/CRVI000571.jpg",
+   "source_label": "",
+   "image": "images/CRVI000571.jpg",
+   "original": "originals/CRVI000571.jpg",
+   "original_px": [
+    1110,
+    1630
+   ],
+   "original_bytes": 440887,
+   "maker": "Chris Ware",
+   "title": "Ups and Downs",
+   "subtitle": "The New Yorker, December 26, 2022",
+   "year": "2022",
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New Yorker"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "illustrator",
+     "v": "Chris Ware"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 204.45,
+   "light": 0.7422
   }
  ]
 }
