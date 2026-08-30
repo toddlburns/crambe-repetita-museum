@@ -1,5 +1,5 @@
 {
- "next": 551,
+ "next": 567,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -30232,6 +30232,1034 @@
    "hue": 7.78,
    "light": 0.5172,
    "chroma": 0.7345
+  },
+  "ASME::New York::The Pleasures of Outdoor Dining": {
+   "id": "CRVI000551",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000551.jpg",
+   "original_px": [
+    1116,
+    1524
+   ],
+   "original_bytes": 654219,
+   "identity": "ASME::New York::The Pleasures of Outdoor Dining",
+   "maker": "Thomas Alberty",
+   "title": "The Pleasures of Outdoor Dining",
+   "subtitle": "New York, October 24- November 6, 2022",
+   "year": "2022",
+   "verified_against": "American Society of Magazine Editors Best Cover Contest (Winner). Credits read from ASME's own caption beneath the cover: New York · \"The Pleasures of Outdoor Dining,\" October · 24- November 6, 2022 · David Haskell, Editor in Chief · Thomas Alberty, Designer · Jody Quon, Photography Editor · Beth Sacca, Photographer",
+   "source_page": "https://asme.memberclicks.net/past-winners-and-finalists",
+   "notes": [
+    "ASME award: Winner.",
+    "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
+    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2023/IMG_5280.jpg",
+   "source_px": [
+    1116,
+    1524
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "designer",
+     "v": "Thomas Alberty"
+    },
+    {
+     "k": "photographer",
+     "v": "Jody Quon"
+    },
+    {
+     "k": "photographer",
+     "v": "Beth Sacca"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors Best Cover Contest (Winner). Credits read from ASME's own caption beneath the cover: New York · \"The Pleasures of Outdoor Dining,\" October · 24- November 6, 2022 · David Haskell, Editor in Chief · Thomas Alberty, Designer · Jody Quon, Photography Editor · Beth Sacca, Photographer",
+   "hue": 34.24,
+   "light": 0.314,
+   "chroma": 0.3172
+  },
+  "ASME::New York::This Magazine Can Help You Get an Abortion": {
+   "id": "CRVI000552",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000552.jpg",
+   "original_px": [
+    1116,
+    1516
+   ],
+   "original_bytes": 240428,
+   "identity": "ASME::New York::This Magazine Can Help You Get an Abortion",
+   "maker": "Thomas Alberty",
+   "title": "This Magazine Can Help You Get an Abortion",
+   "subtitle": "New York, May 23-June 5, 2022",
+   "year": "2022",
+   "verified_against": "American Society of Magazine Editors Best Cover Contest (Winner). Credits read from ASME's own caption beneath the cover: New York · \"This Magazine Can Help You Get an · Abortion,\" May 23-June 5, 2022 · David Haskell, Editor in Chief · Thomas Alberty, Designer · Jody Quon, Photography Editor",
+   "source_page": "https://asme.memberclicks.net/past-winners-and-finalists",
+   "notes": [
+    "ASME award: Winner.",
+    "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
+    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2023/IMG_5281.jpg",
+   "source_px": [
+    1116,
+    1516
+   ],
+   "colors": [
+    "red",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "designer",
+     "v": "Thomas Alberty"
+    },
+    {
+     "k": "photographer",
+     "v": "Jody Quon"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors Best Cover Contest (Winner). Credits read from ASME's own caption beneath the cover: New York · \"This Magazine Can Help You Get an · Abortion,\" May 23-June 5, 2022 · David Haskell, Editor in Chief · Thomas Alberty, Designer · Jody Quon, Photography Editor",
+   "hue": 355.87,
+   "light": 0.6333,
+   "chroma": 0.9804
+  },
+  "ASME::The Economist::The Horror Ahead": {
+   "id": "CRVI000553",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000553.jpg",
+   "original_px": [
+    1104,
+    1493
+   ],
+   "original_bytes": 238147,
+   "identity": "ASME::The Economist::The Horror Ahead",
+   "maker": "Graeme James",
+   "title": "The Horror Ahead",
+   "subtitle": "The Economist, March 5-11, 2022",
+   "year": "2022",
+   "verified_against": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: The Economist · \"The Horror Ahead,\" March 5-11, 2022 · Zanny Minton Beddoes, Editor in Chief · Graeme James, Designer · Andrea Ucini, Illustrator",
+   "source_page": "https://asme.memberclicks.net/past-winners-and-finalists",
+   "notes": [
+    "ASME award: Finalist.",
+    "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
+    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2023/IMG_5282.jpg",
+   "source_px": [
+    1104,
+    1493
+   ],
+   "colors": [
+    "yellow",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The Economist"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "designer",
+     "v": "Graeme James"
+    },
+    {
+     "k": "illustrator",
+     "v": "Andrea Ucini"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: The Economist · \"The Horror Ahead,\" March 5-11, 2022 · Zanny Minton Beddoes, Editor in Chief · Graeme James, Designer · Andrea Ucini, Illustrator",
+   "hue": 54.64,
+   "light": 0.4503,
+   "chroma": 0.9819
+  },
+  "ASME::New York::She Has Her Mother's Eyes. And Agent.": {
+   "id": "CRVI000554",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000554.jpg",
+   "original_px": [
+    1066,
+    1561
+   ],
+   "original_bytes": 572631,
+   "identity": "ASME::New York::She Has Her Mother's Eyes. And Agent.",
+   "maker": "Thomas Alberty",
+   "title": "She Has Her Mother's Eyes. And Agent.",
+   "subtitle": "New York, December 19, 2022",
+   "year": "2022",
+   "verified_against": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: New York · \"She Has Her Mother's Eyes. And · Agent.\" December 19, 2022- January 1, 2023 · David Haskell, Editor in Chief · Thomas Alberty, Designer · +",
+   "source_page": "https://asme.memberclicks.net/past-winners-and-finalists",
+   "notes": [
+    "ASME award: Finalist.",
+    "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
+    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2023/IMG_5283.jpg",
+   "source_px": [
+    1066,
+    1561
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "designer",
+     "v": "Thomas Alberty"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: New York · \"She Has Her Mother's Eyes. And · Agent.\" December 19, 2022- January 1, 2023 · David Haskell, Editor in Chief · Thomas Alberty, Designer · +",
+   "hue": 14.96,
+   "light": 0.7369,
+   "chroma": 0.2807
+  },
+  "ASME::The New York Times Magazine::Great Performers: Featuring Michelle Yeoh": {
+   "id": "CRVI000555",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000555.jpg",
+   "original_px": [
+    1116,
+    1426
+   ],
+   "original_bytes": 698555,
+   "identity": "ASME::The New York Times Magazine::Great Performers: Featuring Michelle Yeoh",
+   "maker": "Gail Bichler",
+   "title": "Great Performers: Featuring Michelle Yeoh",
+   "subtitle": "The New York Times Magazine, December 11, 2022",
+   "year": "2022",
+   "verified_against": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: The New York Times Magazine · \"Great Performers: Featuring Michelle · Yeoh,\" December 11, 2022 · Jake Silverstein, Editor in Chief · Gail Bichler, Designer · Kathy Ryan, Photography Editor · Ryan McGinley, Photographer",
+   "source_page": "https://asme.memberclicks.net/past-winners-and-finalists",
+   "notes": [
+    "ASME award: Finalist.",
+    "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
+    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2023/IMG_5285.jpg",
+   "source_px": [
+    1116,
+    1426
+   ],
+   "colors": [
+    "green",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New York Times Magazine"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "designer",
+     "v": "Gail Bichler"
+    },
+    {
+     "k": "photographer",
+     "v": "Kathy Ryan"
+    },
+    {
+     "k": "photographer",
+     "v": "Ryan McGinley"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: The New York Times Magazine · \"Great Performers: Featuring Michelle · Yeoh,\" December 11, 2022 · Jake Silverstein, Editor in Chief · Gail Bichler, Designer · Kathy Ryan, Photography Editor · Ryan McGinley, Photographer",
+   "hue": 94.13,
+   "light": 0.5075,
+   "chroma": 0.9608
+  },
+  "ASME::The New York Times Magazine::The Future of Work When No One Wants to Work": {
+   "id": "CRVI000556",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000556.jpg",
+   "original_px": [
+    1110,
+    1446
+   ],
+   "original_bytes": 175655,
+   "identity": "ASME::The New York Times Magazine::The Future of Work When No One Wants to Work",
+   "maker": "Gail Bichler",
+   "title": "The Future of Work When No One Wants to Work",
+   "subtitle": "The New York Times Magazine, February 20, 2022",
+   "year": "2022",
+   "verified_against": "American Society of Magazine Editors Best Cover Contest (Winner). Credits read from ASME's own caption beneath the cover: The New York Times Magazine · \"The Future of Work When No One Wants to · Work,\" February 20, 2022 · Jake Silverstein, Editor in Chief · Gail Bichler, Designer",
+   "source_page": "https://asme.memberclicks.net/past-winners-and-finalists",
+   "notes": [
+    "ASME award: Winner.",
+    "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
+    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2023/IMG_5286.jpg",
+   "source_px": [
+    1110,
+    1446
+   ],
+   "colors": [
+    "yellow",
+    "pink",
+    "white"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New York Times Magazine"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "designer",
+     "v": "Gail Bichler"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors Best Cover Contest (Winner). Credits read from ASME's own caption beneath the cover: The New York Times Magazine · \"The Future of Work When No One Wants to · Work,\" February 20, 2022 · Jake Silverstein, Editor in Chief · Gail Bichler, Designer",
+   "hue": 344.46,
+   "light": 0.9254,
+   "chroma": 0.1801
+  },
+  "ASME::Bloomberg Businessweek::The Baristas' Rebellion": {
+   "id": "CRVI000557",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000557.jpg",
+   "original_px": [
+    1104,
+    1559
+   ],
+   "original_bytes": 351304,
+   "identity": "ASME::Bloomberg Businessweek::The Baristas' Rebellion",
+   "maker": "Somnath Bhatt",
+   "title": "The Baristas' Rebellion",
+   "subtitle": "Bloomberg Businessweek, May 16, 2022",
+   "year": "2022",
+   "verified_against": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: Bloomberg Businessweek · \"The Baristas' Rebellion,\" May 16, 2022 · Joel Weber, Editor in Chief · Somnath Bhatt, Designer · Donna Cohen, Photography Editor · Sarah Anne Ward, Photographer",
+   "source_page": "https://asme.memberclicks.net/past-winners-and-finalists",
+   "notes": [
+    "ASME award: Finalist.",
+    "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
+    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2023/IMG_5287.jpg",
+   "source_px": [
+    1104,
+    1559
+   ],
+   "colors": [
+    "cyan",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Bloomberg Businessweek"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "designer",
+     "v": "Somnath Bhatt"
+    },
+    {
+     "k": "photographer",
+     "v": "Donna Cohen"
+    },
+    {
+     "k": "photographer",
+     "v": "Sarah Anne Ward"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: Bloomberg Businessweek · \"The Baristas' Rebellion,\" May 16, 2022 · Joel Weber, Editor in Chief · Somnath Bhatt, Designer · Donna Cohen, Photography Editor · Sarah Anne Ward, Photographer",
+   "hue": 164.76,
+   "light": 0.4333,
+   "chroma": 0.9172
+  },
+  "ASME::The Economist::The Fed That Failed": {
+   "id": "CRVI000558",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000558.jpg",
+   "original_px": [
+    1116,
+    1519
+   ],
+   "original_bytes": 626594,
+   "identity": "ASME::The Economist::The Fed That Failed",
+   "maker": "Ricardo Rey",
+   "title": "The Fed That Failed",
+   "subtitle": "The Economist, April 23-29, 2022",
+   "year": "2022",
+   "verified_against": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: The Economist · \"The Fed That Failed,\" April 23-29, 2022 · Zanny Minton Beddoes, Editor in Chief · Graeme James, Matt Withers and Stephen · Petch, Designers · Ricardo Rey, Illustrator",
+   "source_page": "https://asme.memberclicks.net/past-winners-and-finalists",
+   "notes": [
+    "ASME award: Finalist.",
+    "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
+    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2023/IMG_5288.jpg",
+   "source_px": [
+    1116,
+    1519
+   ],
+   "colors": [
+    "yellow",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The Economist"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "illustrator",
+     "v": "Ricardo Rey"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: The Economist · \"The Fed That Failed,\" April 23-29, 2022 · Zanny Minton Beddoes, Editor in Chief · Graeme James, Matt Withers and Stephen · Petch, Designers · Ricardo Rey, Illustrator",
+   "hue": 65.24,
+   "light": 0.7296,
+   "chroma": 0.4721
+  },
+  "ASME::WSJ. Magazine::The Innovators Issue": {
+   "id": "CRVI000559",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000559.jpg",
+   "original_px": [
+    1104,
+    1428
+   ],
+   "original_bytes": 413726,
+   "identity": "ASME::WSJ. Magazine::The Innovators Issue",
+   "maker": "Tanya Moskowitz",
+   "title": "The Innovators Issue",
+   "subtitle": "WSJ. Magazine, November 2022",
+   "year": "2022",
+   "verified_against": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: WSJ. Magazine · \"The Innovators Issue,\" November 2022 · Kristina O'Neill, Editor in Chief · Tanya Moskowitz, Designer · Jennifer Pastore, Photography Editor · Alasdair McClellan, Photographer",
+   "source_page": "https://asme.memberclicks.net/past-winners-and-finalists",
+   "notes": [
+    "ASME award: Finalist.",
+    "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
+    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2023/IMG_5289.jpg",
+   "source_px": [
+    1104,
+    1428
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "WSJ. Magazine"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "designer",
+     "v": "Tanya Moskowitz"
+    },
+    {
+     "k": "photographer",
+     "v": "Jennifer Pastore"
+    },
+    {
+     "k": "photographer",
+     "v": "Alasdair McClellan"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: WSJ. Magazine · \"The Innovators Issue,\" November 2022 · Kristina O'Neill, Editor in Chief · Tanya Moskowitz, Designer · Jennifer Pastore, Photography Editor · Alasdair McClellan, Photographer",
+   "hue": null,
+   "light": 0.5828,
+   "chroma": 0.0
+  },
+  "ASME::Mother Jones::Blood Sport": {
+   "id": "CRVI000560",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000560.jpg",
+   "original_px": [
+    1116,
+    1229
+   ],
+   "original_bytes": 426385,
+   "identity": "ASME::Mother Jones::Blood Sport",
+   "maker": "Lisa Sheehan",
+   "title": "Blood Sport",
+   "subtitle": "Mother Jones, November + December 2022",
+   "year": "2022",
+   "verified_against": "American Society of Magazine Editors Best Cover Contest (Readers' Choice). Credits read from ASME's own caption beneath the cover: Mother Jones · \"Blood Sport,\" November + December 2022 · Clara Jeffery, Editor in Chief · Adam Vieyra and Grace Molteni, Designers · Lisa Sheehan, Illustrator · MAKE THE PERFECT · VIVIAN HOWARD · A FLY FISHERMAN'S",
+   "source_page": "https://asme.memberclicks.net/past-winners-and-finalists",
+   "notes": [
+    "ASME award: Readers' Choice.",
+    "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
+    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2023/IMG_5290.jpg",
+   "source_px": [
+    1116,
+    1229
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Mother Jones"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "illustrator",
+     "v": "Lisa Sheehan"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors Best Cover Contest (Readers' Choice). Credits read from ASME's own caption beneath the cover: Mother Jones · \"Blood Sport,\" November + December 2022 · Clara Jeffery, Editor in Chief · Adam Vieyra and Grace Molteni, Designers · Lisa Sheehan, Illustrator · MAKE THE PERFECT · VIVIAN HOWARD · A FLY FISHERMAN'S",
+   "hue": 218.4,
+   "light": 0.255,
+   "chroma": 0.5385
+  },
+  "ASME::Garden & Gun::Saving the Wild South": {
+   "id": "CRVI000561",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000561.jpg",
+   "original_px": [
+    1104,
+    1385
+   ],
+   "original_bytes": 356564,
+   "identity": "ASME::Garden & Gun::Saving the Wild South",
+   "maker": "Marshall Mckinney",
+   "title": "Saving the Wild South",
+   "subtitle": "Garden & Gun, October/November 2022",
+   "year": "2022",
+   "verified_against": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: Garden & Gun · \"Saving the Wild South,\" October/November · 2022 · David DiBenedetto, Editor in Chief · Marshall Mckinney, Designer · Maggie Kennedy, Photography Editor · Kelley Luikey, Photographer",
+   "source_page": "https://asme.memberclicks.net/past-winners-and-finalists",
+   "notes": [
+    "ASME award: Finalist.",
+    "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
+    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2023/IMG_5291.jpg",
+   "source_px": [
+    1104,
+    1385
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Garden & Gun"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "designer",
+     "v": "Marshall Mckinney"
+    },
+    {
+     "k": "photographer",
+     "v": "Maggie Kennedy"
+    },
+    {
+     "k": "photographer",
+     "v": "Kelley Luikey"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: Garden & Gun · \"Saving the Wild South,\" October/November · 2022 · David DiBenedetto, Editor in Chief · Marshall Mckinney, Designer · Maggie Kennedy, Photography Editor · Kelley Luikey, Photographer",
+   "hue": 214.99,
+   "light": 0.6766,
+   "chroma": 0.8948
+  },
+  "ASME::W::Zendaya": {
+   "id": "CRVI000562",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000562.jpg",
+   "original_px": [
+    1116,
+    1465
+   ],
+   "original_bytes": 582712,
+   "identity": "ASME::W::Zendaya",
+   "maker": "Cian Browne",
+   "title": "Zendaya",
+   "subtitle": "W",
+   "year": "2022",
+   "verified_against": "American Society of Magazine Editors Best Cover Contest (Winner). Credits read from ASME's own caption beneath the cover: W · \"Zendaya,\" Volume 2, The Directors Issue · 2022 · Sara Moonves, Editor in Chief · Cian Browne, Designer · Alexandra Ben-Gurion, Photography Editor · Jack Davison, Photographer · Directed by Denis Villeneuve",
+   "source_page": "https://asme.memberclicks.net/past-winners-and-finalists",
+   "notes": [
+    "ASME award: Winner.",
+    "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
+    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2023/IMG_5292.jpg",
+   "source_px": [
+    1116,
+    1465
+   ],
+   "colors": [
+    "cyan",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "W"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "designer",
+     "v": "Cian Browne"
+    },
+    {
+     "k": "photographer",
+     "v": "Alexandra Ben-Gurion"
+    },
+    {
+     "k": "photographer",
+     "v": "Jack Davison"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors Best Cover Contest (Winner). Credits read from ASME's own caption beneath the cover: W · \"Zendaya,\" Volume 2, The Directors Issue · 2022 · Sara Moonves, Editor in Chief · Cian Browne, Designer · Alexandra Ben-Gurion, Photography Editor · Jack Davison, Photographer · Directed by Denis Villeneuve",
+   "hue": 193.87,
+   "light": 0.3349,
+   "chroma": 0.3725
+  },
+  "ASME::The New Yorker::High Style": {
+   "id": "CRVI000563",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000563.jpg",
+   "original_px": [
+    1104,
+    1629
+   ],
+   "original_bytes": 473781,
+   "identity": "ASME::The New Yorker::High Style",
+   "maker": "Kadir Nelson",
+   "title": "High Style",
+   "subtitle": "The New Yorker, February 14 and 21, 2022",
+   "year": "2022",
+   "verified_against": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: The New Yorker · \"High Style\" February 14 and 21, 2022 · David Remnick, Editor · Françoise Mouly, Art Editor · Kadir Nelson, Illustrator",
+   "source_page": "https://asme.memberclicks.net/past-winners-and-finalists",
+   "notes": [
+    "ASME award: Finalist.",
+    "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
+    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2023/IMG_5293.jpg",
+   "source_px": [
+    1104,
+    1629
+   ],
+   "colors": [
+    "orange",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New Yorker"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "illustrator",
+     "v": "Kadir Nelson"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors Best Cover Contest (Finalist). Credits read from ASME's own caption beneath the cover: The New Yorker · \"High Style\" February 14 and 21, 2022 · David Remnick, Editor · Françoise Mouly, Art Editor · Kadir Nelson, Illustrator",
+   "hue": 17.96,
+   "light": 0.559,
+   "chroma": 0.8017
+  },
+  "ASME::Virtuoso::Global Cool": {
+   "id": "CRVI000564",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000564.jpg",
+   "original_px": [
+    1116,
+    1474
+   ],
+   "original_bytes": 1072177,
+   "identity": "ASME::Virtuoso::Global Cool",
+   "maker": "Thandiwe Muriu",
+   "title": "Global Cool",
+   "subtitle": "Virtuoso, September/October 2022",
+   "year": "2022",
+   "verified_against": "American Society of Magazine Editors Best Cover Contest (Readers' Choice). Credits read from ASME's own caption beneath the cover: Virtuoso · \"Global Cool,\" September/October 2022 · Marika Cain, Editorial Director · Melanie Fowler and Korena Bolding Sinnett, · Designers · Thandiwe Muriu, Photographer",
+   "source_page": "https://asme.memberclicks.net/past-winners-and-finalists",
+   "notes": [
+    "ASME award: Readers' Choice.",
+    "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
+    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2023/IMG_5294.jpg",
+   "source_px": [
+    1116,
+    1474
+   ],
+   "colors": [
+    "orange",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "Virtuoso"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "photographer",
+     "v": "Thandiwe Muriu"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors Best Cover Contest (Readers' Choice). Credits read from ASME's own caption beneath the cover: Virtuoso · \"Global Cool,\" September/October 2022 · Marika Cain, Editorial Director · Melanie Fowler and Korena Bolding Sinnett, · Designers · Thandiwe Muriu, Photographer",
+   "hue": 30.8,
+   "light": 0.5287,
+   "chroma": 0.6565
+  },
+  "ASME::New York::Reasons to Love New York": {
+   "id": "CRVI000565",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000565.jpg",
+   "original_px": [
+    1114,
+    1478
+   ],
+   "original_bytes": 901832,
+   "identity": "ASME::New York::Reasons to Love New York",
+   "maker": "Thomas Alberty",
+   "title": "Reasons to Love New York",
+   "subtitle": "New York, December 5-18, 2022",
+   "year": "2022",
+   "verified_against": "American Society of Magazine Editors Best Cover Contest (Winner). Credits read from ASME's own caption beneath the cover: New York · \"Reasons to Love New York,\" December 5-18, · 2022 · David Haskell, Editor in Chief · Thomas Alberty, Designer · Jody Quon, Photography Editor · Pelle Cass, Photographer",
+   "source_page": "https://asme.memberclicks.net/past-winners-and-finalists",
+   "notes": [
+    "ASME award: Winner.",
+    "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
+    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2023/IMG_5295.jpg",
+   "source_px": [
+    1114,
+    1478
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "designer",
+     "v": "Thomas Alberty"
+    },
+    {
+     "k": "photographer",
+     "v": "Jody Quon"
+    },
+    {
+     "k": "photographer",
+     "v": "Pelle Cass"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors Best Cover Contest (Winner). Credits read from ASME's own caption beneath the cover: New York · \"Reasons to Love New York,\" December 5-18, · 2022 · David Haskell, Editor in Chief · Thomas Alberty, Designer · Jody Quon, Photography Editor · Pelle Cass, Photographer",
+   "hue": 25.09,
+   "light": 0.4449,
+   "chroma": 0.2428
+  },
+  "ASME::The Economist::The Coming Food Catastrophe": {
+   "id": "CRVI000566",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000566.jpg",
+   "original_px": [
+    1104,
+    1452
+   ],
+   "original_bytes": 258458,
+   "identity": "ASME::The Economist::The Coming Food Catastrophe",
+   "maker": "Graeme James",
+   "title": "The Coming Food Catastrophe",
+   "subtitle": "The Economist, May 21-27, 2022",
+   "year": "2022",
+   "verified_against": "American Society of Magazine Editors Best Cover Contest (Winner). Credits read from ASME's own caption beneath the cover: The Economist · \"The Coming Food Catastrophe,\" May 21-27, · 2022 · Zanny Minton Beddoes, Editor in Chief · Graeme James, Designer · Ricardo Rey, Illustrator",
+   "source_page": "https://asme.memberclicks.net/past-winners-and-finalists",
+   "notes": [
+    "ASME award: Winner.",
+    "Cropped from Todd's screenshot to the cover alone; the awards caption beneath it is not part of the object, but its credits are what this record is built from.",
+    "Editors in chief are named in ASME's caption but not tagged here — the archive records who MADE the cover, not who ran the magazine."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/71d8e558-0bff-474b-a3f2-f5cc18ea4fa4/scratchpad/asme/covers2023/IMG_5296.jpg",
+   "source_px": [
+    1104,
+    1452
+   ],
+   "colors": [
+    "cyan",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The Economist"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "designer",
+     "v": "Graeme James"
+    },
+    {
+     "k": "illustrator",
+     "v": "Ricardo Rey"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "American Society of Magazine Editors Best Cover Contest (Winner). Credits read from ASME's own caption beneath the cover: The Economist · \"The Coming Food Catastrophe,\" May 21-27, · 2022 · Zanny Minton Beddoes, Editor in Chief · Graeme James, Designer · Ricardo Rey, Illustrator",
+   "hue": 194.95,
+   "light": 0.5092,
+   "chroma": 0.9709
   }
  }
 }
