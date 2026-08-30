@@ -1,5 +1,5 @@
 {
- "next": 585,
+ "next": 614,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -32257,6 +32257,1591 @@
    "hue": 6.28,
    "light": 0.2355,
    "chroma": 0.2937
+  },
+  "books.google.com::new-york::1968-11-04": {
+   "id": "CRVI000585",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000585.jpg",
+   "original_px": [
+    1845,
+    2500
+   ],
+   "original_bytes": 497774,
+   "identity": "books.google.com::new-york::1968-11-04",
+   "maker": "Unknown",
+   "title": "The Future of the Democratic Party",
+   "subtitle": "New York, November 4, 1968",
+   "year": "1968",
+   "verified_against": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it November 4, 1968 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "source_url": "https://books.google.com/books?id=7-ICAAAAMBAJ&source=gbs_all_issues_r",
+   "notes": [
+    "Scanned from the bound issue in Google Books' free New York Magazine archive (1968–1997), fetched at the largest size that service returns.",
+    "Google has painted a white rectangle over the bottom-right corner of the scanned copy, where a subscriber mailing label sat. That blank is in the source, not in the printed cover."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/coversz/hires/new-york_1968-11-04__23-1.jpg",
+   "source_px": [
+    1845,
+    2500
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "location",
+     "v": "New York"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it November 4, 1968 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "hue": 52.36,
+   "light": 0.6521,
+   "chroma": 0.8394
+  },
+  "books.google.com::new-york::1969-02-24": {
+   "id": "CRVI000586",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000586.jpg",
+   "original_px": [
+    1857,
+    2500
+   ],
+   "original_bytes": 402169,
+   "identity": "books.google.com::new-york::1969-02-24",
+   "maker": "Unknown",
+   "title": "This Machine Swallows Buses While Going 60 mph",
+   "subtitle": "New York, February 24, 1969",
+   "year": "1969",
+   "verified_against": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it February 24, 1969 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "source_url": "https://books.google.com/books?id=7-ICAAAAMBAJ&source=gbs_all_issues_r",
+   "notes": [
+    "Scanned from the bound issue in Google Books' free New York Magazine archive (1968–1997), fetched at the largest size that service returns.",
+    "Google has painted a white rectangle over the bottom-right corner of the scanned copy, where a subscriber mailing label sat. That blank is in the source, not in the printed cover."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/coversz/hires/new-york_1969-02-24__36-2.jpg",
+   "source_px": [
+    1857,
+    2500
+   ],
+   "colors": [
+    "yellow",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "location",
+     "v": "New York"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it February 24, 1969 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "hue": 15.63,
+   "light": 0.8223,
+   "chroma": 0.3205
+  },
+  "books.google.com::new-york::1969-09-01": {
+   "id": "CRVI000587",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000587.jpg",
+   "original_px": [
+    1866,
+    2500
+   ],
+   "original_bytes": 471281,
+   "identity": "books.google.com::new-york::1969-09-01",
+   "maker": "Unknown",
+   "title": "Mastering the Expense Account Diet",
+   "subtitle": "New York, September 1, 1969",
+   "year": "1969",
+   "verified_against": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it September 1, 1969 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "source_url": "https://books.google.com/books?id=7-ICAAAAMBAJ&source=gbs_all_issues_r",
+   "notes": [
+    "Scanned from the bound issue in Google Books' free New York Magazine archive (1968–1997), fetched at the largest size that service returns.",
+    "Google has painted a white rectangle over the bottom-right corner of the scanned copy, where a subscriber mailing label sat. That blank is in the source, not in the printed cover."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/coversz/hires/new-york_1969-09-01__55-5.jpg",
+   "source_px": [
+    1866,
+    2500
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "location",
+     "v": "New York"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it September 1, 1969 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "hue": 8.23,
+   "light": 0.4553,
+   "chroma": 0.5688
+  },
+  "books.google.com::new-york::1970-05-18": {
+   "id": "CRVI000588",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000588.jpg",
+   "original_px": [
+    1838,
+    2500
+   ],
+   "original_bytes": 413399,
+   "identity": "books.google.com::new-york::1970-05-18",
+   "maker": "Unknown",
+   "title": "The Men of Women's Liberation Have Learned Not to Laugh",
+   "subtitle": "New York, May 18, 1970",
+   "year": "1970",
+   "verified_against": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it May 18, 1970 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "source_url": "https://books.google.com/books?id=7-ICAAAAMBAJ&source=gbs_all_issues_r",
+   "notes": [
+    "Scanned from the bound issue in Google Books' free New York Magazine archive (1968–1997), fetched at the largest size that service returns.",
+    "Google has painted a white rectangle over the bottom-right corner of the scanned copy, where a subscriber mailing label sat. That blank is in the source, not in the printed cover."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/coversz/hires/new-york_1970-05-18__71-3.jpg",
+   "source_px": [
+    1838,
+    2500
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "New York"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it May 18, 1970 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "hue": 26.44,
+   "light": 0.7029,
+   "chroma": 0.5936
+  },
+  "books.google.com::new-york::1970-06-15": {
+   "id": "CRVI000589",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000589.jpg",
+   "original_px": [
+    1845,
+    2500
+   ],
+   "original_bytes": 839836,
+   "identity": "books.google.com::new-york::1970-06-15",
+   "maker": "Unknown",
+   "title": "Subway Roulette: The Game Is Getting Dangerous",
+   "subtitle": "New York, June 15, 1970",
+   "year": "1970",
+   "verified_against": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it June 15, 1970 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "source_url": "https://books.google.com/books?id=7-ICAAAAMBAJ&source=gbs_all_issues_r",
+   "notes": [
+    "Scanned from the bound issue in Google Books' free New York Magazine archive (1968–1997), fetched at the largest size that service returns.",
+    "Google has painted a white rectangle over the bottom-right corner of the scanned copy, where a subscriber mailing label sat. That blank is in the source, not in the printed cover.",
+    "The illustration is signed 'Lewis' at lower right. The full name is not recorded here because no source for it was checked."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/coversz/hires/new-york_1970-06-15__73-8.jpg",
+   "source_px": [
+    1845,
+    2500
+   ],
+   "colors": [
+    "yellow",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "New York"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it June 15, 1970 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "hue": 60.64,
+   "light": 0.6404,
+   "chroma": 0.4842
+  },
+  "books.google.com::new-york::1971-01-18": {
+   "id": "CRVI000590",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000590.jpg",
+   "original_px": [
+    1865,
+    2500
+   ],
+   "original_bytes": 452316,
+   "identity": "books.google.com::new-york::1971-01-18",
+   "maker": "Unknown",
+   "title": "Diary of a Suburban Rabbi",
+   "subtitle": "New York, January 18, 1971",
+   "year": "1971",
+   "verified_against": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it January 18, 1971 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "source_url": "https://books.google.com/books?id=7-ICAAAAMBAJ&source=gbs_all_issues_r",
+   "notes": [
+    "Scanned from the bound issue in Google Books' free New York Magazine archive (1968–1997), fetched at the largest size that service returns.",
+    "Google has painted a white rectangle over the bottom-right corner of the scanned copy, where a subscriber mailing label sat. That blank is in the source, not in the printed cover."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/coversz/hires/new-york_1971-01-18__89-5.jpg",
+   "source_px": [
+    1865,
+    2500
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "New York"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it January 18, 1971 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "hue": 217.91,
+   "light": 0.5012,
+   "chroma": 0.2952
+  },
+  "books.google.com::new-york::1971-02-08": {
+   "id": "CRVI000591",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000591.jpg",
+   "original_px": [
+    1857,
+    2500
+   ],
+   "original_bytes": 401482,
+   "identity": "books.google.com::new-york::1971-02-08",
+   "maker": "Unknown",
+   "title": "Doctor Feelgood, You Make Me Feel So Good. Are You Sure It's All Right?",
+   "subtitle": "New York, February 8, 1971",
+   "year": "1971",
+   "verified_against": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it February 8, 1971 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "source_url": "https://books.google.com/books?id=7-ICAAAAMBAJ&source=gbs_all_issues_r",
+   "notes": [
+    "Scanned from the bound issue in Google Books' free New York Magazine archive (1968–1997), fetched at the largest size that service returns.",
+    "Google has painted a white rectangle over the bottom-right corner of the scanned copy, where a subscriber mailing label sat. That blank is in the source, not in the printed cover."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/coversz/hires/new-york_1971-02-08__91-2.jpg",
+   "source_px": [
+    1857,
+    2500
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "New York"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it February 8, 1971 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "hue": 25.0,
+   "light": 0.8108,
+   "chroma": 0.156
+  },
+  "books.google.com::new-york::1971-03-29": {
+   "id": "CRVI000592",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000592.jpg",
+   "original_px": [
+    1845,
+    2500
+   ],
+   "original_bytes": 522290,
+   "identity": "books.google.com::new-york::1971-03-29",
+   "maker": "Unknown",
+   "title": "Can Anybody Handle the Soaring Costs of Private Schools?",
+   "subtitle": "New York, March 29, 1971",
+   "year": "1971",
+   "verified_against": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it March 29, 1971 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "source_url": "https://books.google.com/books?id=7-ICAAAAMBAJ&source=gbs_all_issues_r",
+   "notes": [
+    "Scanned from the bound issue in Google Books' free New York Magazine archive (1968–1997), fetched at the largest size that service returns.",
+    "Google has painted a white rectangle over the bottom-right corner of the scanned copy, where a subscriber mailing label sat. That blank is in the source, not in the printed cover."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/coversz/hires/new-york_1971-03-29__96-3.jpg",
+   "source_px": [
+    1845,
+    2500
+   ],
+   "colors": [
+    "orange",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "New York"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it March 29, 1971 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "hue": 26.97,
+   "light": 0.7305,
+   "chroma": 0.382
+  },
+  "books.google.com::new-york::1971-11-08": {
+   "id": "CRVI000593",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000593.jpg",
+   "original_px": [
+    1859,
+    2500
+   ],
+   "original_bytes": 676739,
+   "identity": "books.google.com::new-york::1971-11-08",
+   "maker": "Unknown",
+   "title": "Some Thoughtful Parents Care Enough About Their Kids' Education to Send Them to Public Schools",
+   "subtitle": "New York, November 8, 1971",
+   "year": "1971",
+   "verified_against": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it November 8, 1971 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "source_url": "https://books.google.com/books?id=7-ICAAAAMBAJ&source=gbs_all_issues_r",
+   "notes": [
+    "Scanned from the bound issue in Google Books' free New York Magazine archive (1968–1997), fetched at the largest size that service returns.",
+    "Google has painted a white rectangle over the bottom-right corner of the scanned copy, where a subscriber mailing label sat. That blank is in the source, not in the printed cover."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/coversz/hires/new-york_1971-11-08__109-3.jpg",
+   "source_px": [
+    1859,
+    2500
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "New York"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it November 8, 1971 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "hue": 41.05,
+   "light": 0.5994,
+   "chroma": 0.5632
+  },
+  "books.google.com::new-york::1972-01-24": {
+   "id": "CRVI000594",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000594.jpg",
+   "original_px": [
+    1876,
+    2500
+   ],
+   "original_bytes": 6399892,
+   "identity": "books.google.com::new-york::1972-01-24",
+   "maker": "Unknown",
+   "title": "Money Advisor: How to Borrow Money… Cleverly",
+   "subtitle": "New York, January 24, 1972",
+   "year": "1972",
+   "verified_against": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it January 24, 1972 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "source_url": "https://books.google.com/books?id=7-ICAAAAMBAJ&source=gbs_all_issues_r",
+   "notes": [
+    "Scanned from the bound issue in Google Books' free New York Magazine archive (1968–1997), fetched at the largest size that service returns.",
+    "Google has painted a white rectangle over the bottom-right corner of the scanned copy, where a subscriber mailing label sat. That blank is in the source, not in the printed cover."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/coversz/hires/new-york_1972-01-24__117-9.jpg",
+   "source_px": [
+    1876,
+    2500
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "New York"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it January 24, 1972 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "hue": 24.96,
+   "light": 0.5711,
+   "chroma": 0.6539
+  },
+  "books.google.com::new-york::1972-06-26": {
+   "id": "CRVI000595",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000595.jpg",
+   "original_px": [
+    1849,
+    2500
+   ],
+   "original_bytes": 6036593,
+   "identity": "books.google.com::new-york::1972-06-26",
+   "maker": "Unknown",
+   "title": "TV vs. the Pols: Who's Using Whom?",
+   "subtitle": "New York, June 26, 1972",
+   "year": "1972",
+   "verified_against": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it June 26, 1972 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "source_url": "https://books.google.com/books?id=7-ICAAAAMBAJ&source=gbs_all_issues_r",
+   "notes": [
+    "Scanned from the bound issue in Google Books' free New York Magazine archive (1968–1997), fetched at the largest size that service returns.",
+    "Google has painted a white rectangle over the bottom-right corner of the scanned copy, where a subscriber mailing label sat. That blank is in the source, not in the printed cover."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/coversz/hires/new-york_1972-06-26__130-6.jpg",
+   "source_px": [
+    1849,
+    2500
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "New York"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it June 26, 1972 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "hue": 22.28,
+   "light": 0.5082,
+   "chroma": 0.5388
+  },
+  "books.google.com::new-york::1973-06-25": {
+   "id": "CRVI000596",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000596.jpg",
+   "original_px": [
+    1866,
+    2500
+   ],
+   "original_bytes": 515003,
+   "identity": "books.google.com::new-york::1973-06-25",
+   "maker": "Unknown",
+   "title": "Special 16-Page Section for New York Kids",
+   "subtitle": "New York, June 25, 1973",
+   "year": "1973",
+   "verified_against": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it June 25, 1973 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "source_url": "https://books.google.com/books?id=7-ICAAAAMBAJ&source=gbs_all_issues_r",
+   "notes": [
+    "Scanned from the bound issue in Google Books' free New York Magazine archive (1968–1997), fetched at the largest size that service returns."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/coversz/hires/new-york_1973-06-25__156-4.jpg",
+   "source_px": [
+    1866,
+    2500
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "New York"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it June 25, 1973 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "hue": 40.49,
+   "light": 0.5153,
+   "chroma": 0.7361
+  },
+  "books.google.com::new-york::1976-05-03": {
+   "id": "CRVI000597",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000597.jpg",
+   "original_px": [
+    1881,
+    2500
+   ],
+   "original_bytes": 5006912,
+   "identity": "books.google.com::new-york::1976-05-03",
+   "maker": "Unknown",
+   "title": "Why Everybody's Talking About Gossip",
+   "subtitle": "New York, May 3, 1976",
+   "year": "1976",
+   "verified_against": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it May 3, 1976 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "source_url": "https://books.google.com/books?id=7-ICAAAAMBAJ&source=gbs_all_issues_r",
+   "notes": [
+    "Scanned from the bound issue in Google Books' free New York Magazine archive (1968–1997), fetched at the largest size that service returns."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/coversz/hires/new-york_1976-05-03__234-6.jpg",
+   "source_px": [
+    1881,
+    2500
+   ],
+   "colors": [
+    "yellow",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "New York"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it May 3, 1976 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "hue": 169.33,
+   "light": 0.6999,
+   "chroma": 0.5092
+  },
+  "books.google.com::new-york::1977-06-20": {
+   "id": "CRVI000598",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000598.jpg",
+   "original_px": [
+    1874,
+    2500
+   ],
+   "original_bytes": 6027343,
+   "identity": "books.google.com::new-york::1977-06-20",
+   "maker": "Unknown",
+   "title": "We Have Seen the Future and It's New Jersey",
+   "subtitle": "New York, June 20, 1977",
+   "year": "1977",
+   "verified_against": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it June 20, 1977 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "source_url": "https://books.google.com/books?id=7-ICAAAAMBAJ&source=gbs_all_issues_r",
+   "notes": [
+    "Scanned from the bound issue in Google Books' free New York Magazine archive (1968–1997), fetched at the largest size that service returns."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/coversz/hires/new-york_1977-06-20__270-5.jpg",
+   "source_px": [
+    1874,
+    2500
+   ],
+   "colors": [
+    "blue",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "New York"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it June 20, 1977 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "hue": 211.91,
+   "light": 0.668,
+   "chroma": 0.7703
+  },
+  "books.google.com::new-york::1977-12-26": {
+   "id": "CRVI000599",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000599.jpg",
+   "original_px": [
+    1868,
+    2500
+   ],
+   "original_bytes": 4689222,
+   "identity": "books.google.com::new-york::1977-12-26",
+   "maker": "Unknown",
+   "title": "1977: It All Happened Here. Where Else?",
+   "subtitle": "New York, December 26, 1977",
+   "year": "1977",
+   "verified_against": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it December 26, 1977 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "source_url": "https://books.google.com/books?id=7-ICAAAAMBAJ&source=gbs_all_issues_r",
+   "notes": [
+    "Scanned from the bound issue in Google Books' free New York Magazine archive (1968–1997), fetched at the largest size that service returns."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/coversz/hires/new-york_1977-12-26__286-7.jpg",
+   "source_px": [
+    1868,
+    2500
+   ],
+   "colors": [
+    "yellow",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "New York"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it December 26, 1977 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "hue": 12.35,
+   "light": 0.8024,
+   "chroma": 0.3194
+  },
+  "books.google.com::new-york::1979-05-07": {
+   "id": "CRVI000600",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000600.jpg",
+   "original_px": [
+    1857,
+    2500
+   ],
+   "original_bytes": 5861605,
+   "identity": "books.google.com::new-york::1979-05-07",
+   "maker": "Unknown",
+   "title": "When Was the Last Time You Called Your Mother?",
+   "subtitle": "New York, May 7, 1979",
+   "year": "1979",
+   "verified_against": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it May 7, 1979 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "source_url": "https://books.google.com/books?id=7-ICAAAAMBAJ&source=gbs_all_issues_r",
+   "notes": [
+    "Scanned from the bound issue in Google Books' free New York Magazine archive (1968–1997), fetched at the largest size that service returns."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/coversz/hires/new-york_1979-05-07__318-5.jpg",
+   "source_px": [
+    1857,
+    2500
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "New York"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it May 7, 1979 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "hue": 13.2,
+   "light": 0.4605,
+   "chroma": 0.22
+  },
+  "books.google.com::new-york::1979-10-22": {
+   "id": "CRVI000601",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000601.jpg",
+   "original_px": [
+    1826,
+    2500
+   ],
+   "original_bytes": 545859,
+   "identity": "books.google.com::new-york::1979-10-22",
+   "maker": "Unknown",
+   "title": "Replacing the Irreplaceable",
+   "subtitle": "New York, October 22, 1979",
+   "year": "1979",
+   "verified_against": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it October 22, 1979 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "source_url": "https://books.google.com/books?id=7-ICAAAAMBAJ&source=gbs_all_issues_r",
+   "notes": [
+    "Scanned from the bound issue in Google Books' free New York Magazine archive (1968–1997), fetched at the largest size that service returns."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/coversz/hires/new-york_1979-10-22__336-1.jpg",
+   "source_px": [
+    1826,
+    2500
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "New York"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it October 22, 1979 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "hue": 14.01,
+   "light": 0.7491,
+   "chroma": 0.6891
+  },
+  "books.google.com::new-york::1984-01-09": {
+   "id": "CRVI000602",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000602.jpg",
+   "original_px": [
+    1857,
+    2500
+   ],
+   "original_bytes": 6912563,
+   "identity": "books.google.com::new-york::1984-01-09",
+   "maker": "Unknown",
+   "title": "Living With the Computer",
+   "subtitle": "New York, January 9, 1984",
+   "year": "1984",
+   "verified_against": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it January 9, 1984 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "source_url": "https://books.google.com/books?id=7-ICAAAAMBAJ&source=gbs_all_issues_r",
+   "notes": [
+    "Scanned from the bound issue in Google Books' free New York Magazine archive (1968–1997), fetched at the largest size that service returns."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/coversz/hires/new-york_1984-01-09__520-7.jpg",
+   "source_px": [
+    1857,
+    2500
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "location",
+     "v": "New York"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it January 9, 1984 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "hue": 23.52,
+   "light": 0.4916,
+   "chroma": 0.7673
+  },
+  "books.google.com::new-york::1984-04-23": {
+   "id": "CRVI000603",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000603.jpg",
+   "original_px": [
+    1862,
+    2500
+   ],
+   "original_bytes": 6228423,
+   "identity": "books.google.com::new-york::1984-04-23",
+   "maker": "Unknown",
+   "title": "Your Telephone Survival Guide",
+   "subtitle": "New York, April 23, 1984",
+   "year": "1984",
+   "verified_against": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it April 23, 1984 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "source_url": "https://books.google.com/books?id=7-ICAAAAMBAJ&source=gbs_all_issues_r",
+   "notes": [
+    "Scanned from the bound issue in Google Books' free New York Magazine archive (1968–1997), fetched at the largest size that service returns."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/coversz/hires/new-york_1984-04-23__533-8.jpg",
+   "source_px": [
+    1862,
+    2500
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "location",
+     "v": "New York"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it April 23, 1984 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "hue": 37.1,
+   "light": 0.5976,
+   "chroma": 0.7572
+  },
+  "books.google.com::new-york::1986-02-03": {
+   "id": "CRVI000604",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000604.jpg",
+   "original_px": [
+    1821,
+    2500
+   ],
+   "original_bytes": 9119087,
+   "identity": "books.google.com::new-york::1986-02-03",
+   "maker": "Unknown",
+   "title": "Dan on the Run",
+   "subtitle": "New York, February 3, 1986",
+   "year": "1986",
+   "verified_against": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it February 3, 1986 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "source_url": "https://books.google.com/books?id=7-ICAAAAMBAJ&source=gbs_all_issues_r",
+   "notes": [
+    "Scanned from the bound issue in Google Books' free New York Magazine archive (1968–1997), fetched at the largest size that service returns."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/coversz/hires/new-york_1986-02-03__610-6.jpg",
+   "source_px": [
+    1821,
+    2500
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "location",
+     "v": "New York"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it February 3, 1986 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "hue": 213.78,
+   "light": 0.5628,
+   "chroma": 0.5249
+  },
+  "books.google.com::new-york::1986-03-31": {
+   "id": "CRVI000605",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000605.jpg",
+   "original_px": [
+    1826,
+    2500
+   ],
+   "original_bytes": 7568746,
+   "identity": "books.google.com::new-york::1986-03-31",
+   "maker": "Unknown",
+   "title": "What Would Freud Think?",
+   "subtitle": "New York, March 31, 1986",
+   "year": "1986",
+   "verified_against": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it March 31, 1986 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "source_url": "https://books.google.com/books?id=7-ICAAAAMBAJ&source=gbs_all_issues_r",
+   "notes": [
+    "Scanned from the bound issue in Google Books' free New York Magazine archive (1968–1997), fetched at the largest size that service returns."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/coversz/hires/new-york_1986-03-31__617-4.jpg",
+   "source_px": [
+    1826,
+    2500
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "location",
+     "v": "New York"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it March 31, 1986 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "hue": 14.3,
+   "light": 0.6882,
+   "chroma": 0.5983
+  },
+  "books.google.com::new-york::1987-12-14": {
+   "id": "CRVI000606",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000606.jpg",
+   "original_px": [
+    1851,
+    2500
+   ],
+   "original_bytes": 5118499,
+   "identity": "books.google.com::new-york::1987-12-14",
+   "maker": "Unknown",
+   "title": "Manners for the '80s",
+   "subtitle": "New York, December 14, 1987",
+   "year": "1987",
+   "verified_against": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it December 14, 1987 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "source_url": "https://books.google.com/books?id=7-ICAAAAMBAJ&source=gbs_all_issues_r",
+   "notes": [
+    "Scanned from the bound issue in Google Books' free New York Magazine archive (1968–1997), fetched at the largest size that service returns."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/coversz/hires/new-york_1987-12-14__698-9.jpg",
+   "source_px": [
+    1851,
+    2500
+   ],
+   "colors": [
+    "blue",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "location",
+     "v": "New York"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it December 14, 1987 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "hue": 237.83,
+   "light": 0.7415,
+   "chroma": 0.433
+  },
+  "books.google.com::new-york::1989-04-17": {
+   "id": "CRVI000607",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000607.jpg",
+   "original_px": [
+    1862,
+    2500
+   ],
+   "original_bytes": 4368365,
+   "identity": "books.google.com::new-york::1989-04-17",
+   "maker": "Unknown",
+   "title": "Spying on Spy",
+   "subtitle": "New York, April 17, 1989",
+   "year": "1989",
+   "verified_against": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it April 17, 1989 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "source_url": "https://books.google.com/books?id=7-ICAAAAMBAJ&source=gbs_all_issues_r",
+   "notes": [
+    "Scanned from the bound issue in Google Books' free New York Magazine archive (1968–1997), fetched at the largest size that service returns."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/coversz/hires/new-york_1989-04-17__759-1.jpg",
+   "source_px": [
+    1862,
+    2500
+   ],
+   "colors": [
+    "blue",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "location",
+     "v": "New York"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it April 17, 1989 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "hue": 15.41,
+   "light": 0.7038,
+   "chroma": 0.2406
+  },
+  "books.google.com::new-york::1995-04-24": {
+   "id": "CRVI000608",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000608.jpg",
+   "original_px": [
+    1893,
+    2500
+   ],
+   "original_bytes": 6760261,
+   "identity": "books.google.com::new-york::1995-04-24",
+   "maker": "Unknown",
+   "title": "Is Your Cat Contemplating Suicide?",
+   "subtitle": "New York, April 24, 1995",
+   "year": "1995",
+   "verified_against": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it April 24, 1995 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "source_url": "https://books.google.com/books?id=7-ICAAAAMBAJ&source=gbs_all_issues_r",
+   "notes": [
+    "Scanned from the bound issue in Google Books' free New York Magazine archive (1968–1997), fetched at the largest size that service returns."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/coversz/hires/new-york_1995-04-24__999-7.jpg",
+   "source_px": [
+    1893,
+    2500
+   ],
+   "colors": [
+    "green",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "location",
+     "v": "New York"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it April 24, 1995 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "hue": 74.22,
+   "light": 0.4613,
+   "chroma": 0.6119
+  },
+  "books.google.com::new-york::1995-07-24": {
+   "id": "CRVI000609",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000609.jpg",
+   "original_px": [
+    1858,
+    2500
+   ],
+   "original_bytes": 523500,
+   "identity": "books.google.com::new-york::1995-07-24",
+   "maker": "Unknown",
+   "title": "First, We Kill All the Computers",
+   "subtitle": "New York, July 24, 1995",
+   "year": "1995",
+   "verified_against": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it July 24, 1995 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "source_url": "https://books.google.com/books?id=7-ICAAAAMBAJ&source=gbs_all_issues_r",
+   "notes": [
+    "Scanned from the bound issue in Google Books' free New York Magazine archive (1968–1997), fetched at the largest size that service returns."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/coversz/hires/new-york_1995-07-24__1010-6.jpg",
+   "source_px": [
+    1858,
+    2500
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "location",
+     "v": "New York"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it July 24, 1995 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "hue": 43.5,
+   "light": 0.5776,
+   "chroma": 0.688
+  },
+  "books.google.com::new-york::1996-03-04": {
+   "id": "CRVI000610",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000610.jpg",
+   "original_px": [
+    1875,
+    2500
+   ],
+   "original_bytes": 5577461,
+   "identity": "books.google.com::new-york::1996-03-04",
+   "maker": "Unknown",
+   "title": "The Coming Republican Crack-Up",
+   "subtitle": "New York, March 4, 1996",
+   "year": "1996",
+   "verified_against": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it March 4, 1996 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "source_url": "https://books.google.com/books?id=7-ICAAAAMBAJ&source=gbs_all_issues_r",
+   "notes": [
+    "Scanned from the bound issue in Google Books' free New York Magazine archive (1968–1997), fetched at the largest size that service returns."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/coversz/hires/new-york_1996-03-04__1040-5.jpg",
+   "source_px": [
+    1875,
+    2500
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "location",
+     "v": "New York"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it March 4, 1996 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "hue": null,
+   "light": 0.4531,
+   "chroma": 0.0704
+  },
+  "books.google.com::new-york::1996-10-14": {
+   "id": "CRVI000611",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000611.jpg",
+   "original_px": [
+    1897,
+    2500
+   ],
+   "original_bytes": 252325,
+   "identity": "books.google.com::new-york::1996-10-14",
+   "maker": "Unknown",
+   "title": "Suddenly, Everything Is Stainless Steel.",
+   "subtitle": "New York, October 14, 1996",
+   "year": "1996",
+   "verified_against": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it October 14, 1996 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "source_url": "https://books.google.com/books?id=7-ICAAAAMBAJ&source=gbs_all_issues_r",
+   "notes": [
+    "Scanned from the bound issue in Google Books' free New York Magazine archive (1968–1997), fetched at the largest size that service returns."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/coversz/hires/new-york_1996-10-14__1071-6.jpg",
+   "source_px": [
+    1897,
+    2500
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "location",
+     "v": "New York"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it October 14, 1996 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "hue": null,
+   "light": 0.6642,
+   "chroma": 0.0104
+  },
+  "books.google.com::new-york::1997-10-20": {
+   "id": "CRVI000612",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000612.jpg",
+   "original_px": [
+    1862,
+    2500
+   ],
+   "original_bytes": 6762992,
+   "identity": "books.google.com::new-york::1997-10-20",
+   "maker": "Unknown",
+   "title": "Scenes From New York's Therapy Crisis",
+   "subtitle": "New York, October 20, 1997",
+   "year": "1997",
+   "verified_against": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it October 20, 1997 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "source_url": "https://books.google.com/books?id=7-ICAAAAMBAJ&source=gbs_all_issues_r",
+   "notes": [
+    "Scanned from the bound issue in Google Books' free New York Magazine archive (1968–1997), fetched at the largest size that service returns."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/coversz/hires/new-york_1997-10-20__1120-1.jpg",
+   "source_px": [
+    1862,
+    2500
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "location",
+     "v": "New York"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The scanned issue itself, in Google Books' free New York Magazine archive — the volume record dates it October 20, 1997 and the cover carries that date in the masthead rule. coverbrowser.com's New York index independently lists the same issue on the same date. Cover line read off the artwork; no designer or illustrator credit was found, so none is claimed.",
+   "hue": 16.17,
+   "light": 0.4171,
+   "chroma": 0.5754
+  },
+  "moma.org::152.1977": {
+   "id": "CRVI000613",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000613.jpg",
+   "original_px": [
+    1309,
+    2000
+   ],
+   "original_bytes": 406137,
+   "identity": "moma.org::152.1977",
+   "maker": "Ivan Chermayeff, Thomas Geismar",
+   "title": "Whitney Museum of American Art, 75th & Madison, Open Free Tuesday Evenings",
+   "subtitle": "Lithograph, 116.8 × 76.1 cm",
+   "year": "1977",
+   "verified_against": "Museum of Modern Art collection record, object number 152.1977, Department of Architecture and Design: 'Ivan Chermayeff, Thomas Geismar. Whitney Museum of American Art, 75th & Madison, Open Free Tuesday Evenings. 1977. Lithograph, 46 x 29 15/16\" (116.8 x 76.1 cm). Gift of the designers.'",
+   "source_url": "https://www.moma.org/collection/works/5314",
+   "notes": [
+    "Image is MoMA's own 2000px reproduction, the largest that service returns."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/whitney.jpg",
+   "source_px": [
+    1309,
+    2000
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Ivan Chermayeff"
+    },
+    {
+     "k": "designer",
+     "v": "Thomas Geismar"
+    },
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "client",
+     "v": "Whitney Museum of American Art"
+    },
+    {
+     "k": "medium",
+     "v": "lithograph"
+    },
+    {
+     "k": "location",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Museum of Modern Art collection record, object number 152.1977, Department of Architecture and Design: 'Ivan Chermayeff, Thomas Geismar. Whitney Museum of American Art, 75th & Madison, Open Free Tuesday Evenings. 1977. Lithograph, 46 x 29 15/16\" (116.8 x 76.1 cm). Gift of the designers.'",
+   "hue": 229.83,
+   "light": 0.307,
+   "chroma": 0.9524
   }
  }
 }
