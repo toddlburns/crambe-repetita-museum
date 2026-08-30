@@ -254,12 +254,78 @@ def slug(s):
     return re.sub(r"^-|-$", "", re.sub(r"[^a-z0-9]+", "-", str(s).lower()))
 
 
+# ── the gate ────────────────────────────────────────────────────────────────────────────────
+# Todd, 2026-08-30: the museum comes off the front of the personal site and moves behind a
+# password, reachable from the links page.
+#
+# ⚠️ THIS IS OBSCURITY, NOT PRIVACY, AND IT CANNOT BE MADE INTO PRIVACY HERE. The repository is
+# public and GitHub Pages serves every file at a guessable URL, so the password below is readable
+# in view-source and `images/CRVI000001.jpg` is fetchable without ever meeting the gate. It stops
+# a casual visitor and it stops the site being browsable from the homepage; it stops nothing else.
+# Real access control needs a host that can refuse the request — the Cloudflare Pages + Access
+# move is the planned answer. Until then, do not put anything here that must not be seen.
+#
+# The `noindex` meta and robots.txt do more real work than the gate: they keep the archive out of
+# search results, which is how a stranger would actually arrive.
+#
+# ⚠️ THE GATE IS AN OVERLAY. IT MUST NOT WRAP OR HIDE THE PAGE. The first attempt put the body in
+# a `display:none` div and revealed it after login — which silently broke /all/ and every tag
+# page: 692 cells laid out and not one thumbnail loaded, because Chrome will not start a
+# `loading="lazy"` image that was parsed inside a hidden subtree. An opaque fixed overlay leaves
+# layout, the html>body>.item height chain, and lazy loading completely untouched, and covers just
+# as much as display:none did. Do not "simplify" this back into a wrapper.
+GATE_PW = "racine456"
+
+# Runs in <head>, before the body is parsed, so an already-authorised visitor never sees the gate
+# paint at all and a stranger never sees the museum behind it.
+GATE_HEAD_JS = ("try{if(localStorage.getItem('crvi_auth')==='1')"
+                "document.documentElement.className+=' crvi-ok';}catch(e){}")
+
+GATE_STYLE = """
+html:not(.crvi-ok){overflow:hidden}
+html.crvi-ok #crvi-gate{display:none}
+#crvi-gate{position:fixed;inset:0;z-index:2147483647;background:var(--paper);
+ display:flex;align-items:center;justify-content:center}
+#crvi-gate form{display:flex;align-items:center;gap:6px}
+#crvi-gate input{font:12px/1 var(--mono);letter-spacing:.06em;width:150px;padding:7px 8px;
+ color:var(--ink);background:var(--paper);border:1px solid var(--rule);border-radius:0;outline:none}
+#crvi-gate input:focus{border-color:var(--ink)}
+#crvi-gate input::placeholder{color:var(--mute);letter-spacing:.06em}
+#crvi-gate button{font:12px/1 var(--sans);padding:7px 12px;color:var(--ink);background:var(--paper);
+ border:1px solid var(--rule);border-radius:0;cursor:pointer}
+#crvi-gate button:hover{border-color:var(--ink)}
+#crvi-gate.bad input,#crvi-gate.bad input::placeholder{border-color:var(--ink);color:var(--ink)}
+"""
+
+GATE_BODY = ('<div id="crvi-gate"><form id="crvi-form" autocomplete="off">'
+             '<input type="password" id="crvi-pw" placeholder="password" '
+             'autocomplete="off" spellcheck="false" autofocus>'
+             '<button type="submit">enter</button></form></div>')
+
+# localStorage, not sessionStorage: the archive is 700 pages and items open in new tabs.
+# sessionStorage (what the links page uses) would re-prompt on every one of them.
+GATE_JS = """
+(function(){var K='crvi_auth',PW='%s',h=document.documentElement;
+if(h.className.indexOf('crvi-ok')>-1)return;
+var g=document.getElementById('crvi-gate'),i=document.getElementById('crvi-pw');
+document.getElementById('crvi-form').addEventListener('submit',function(e){e.preventDefault();
+if(i.value===PW){try{localStorage.setItem(K,'1');}catch(e){}h.className+=' crvi-ok';}
+else{i.value='';g.classList.add('bad');i.focus();}});
+i.focus();})();
+""" % GATE_PW
+
+
 def page(title, body, depth):
     up = "../" * depth
     return (f'<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">'
             f'<meta name="viewport" content="width=device-width,initial-scale=1">'
+            f'<meta name="robots" content="noindex,nofollow">'
             f'<title>{esc(title)}</title>'
-            f'<link rel="stylesheet" href="{up}style.css"></head><body>{body}</body></html>')
+            f'<script>{GATE_HEAD_JS}</script>'
+            f'<link rel="stylesheet" href="{up}style.css">'
+            f'<style>{GATE_STYLE}</style></head>'
+            f'<body>{GATE_BODY}{body}'
+            f'<script>{GATE_JS}</script></body></html>')
 
 
 def work_line(it, up):
@@ -475,6 +541,7 @@ is misidentified, please get in touch: it will be fixed and the correction noted
     # ---- the front door lands on the first item ----
     open(os.path.join(HERE, "index.html"), "w").write(
         '<!DOCTYPE html><html><head><meta charset="utf-8">'
+        '<meta name="robots" content="noindex,nofollow">'
         f'<meta http-equiv="refresh" content="0; url={items[0]["id"]}/">'
         f'<link rel="canonical" href="{items[0]["id"]}/">'
         '<title>Crambe Repetita Museum</title></head>'

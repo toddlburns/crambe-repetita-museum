@@ -1,0 +1,5 @@
+# The museum is not public any more (2026-08-30). It sits behind a password on the links page.
+# The gate is client-side and cannot stop a crawler on its own, so the real work of keeping this
+# archive out of search results is done here and by the noindex meta build.py puts on every page.
+User-agent: *
+Disallow: /
