@@ -17129,25 +17129,29 @@
   },
   {
    "id": "CRVI000376",
-   "source_url": "",
+   "source_url": "https://www.corticalart.com/product/amm-ammmusic/",
    "animated": false,
    "thumb": "thumbs/CRVI000376.jpg",
    "source_label": "",
    "image": "images/CRVI000376.jpg",
    "original": "originals/CRVI000376.jpg",
    "original_px": [
-    620,
-    620
+    1417,
+    1417
    ],
-   "original_bytes": 101243,
+   "original_bytes": 901033,
    "maker": "AMM",
-   "title": "AMMMusic 1966",
-   "subtitle": "Designer unknown · Elektra",
+   "title": "AMMMusic",
+   "subtitle": "Designed by Keith Rowe · Elektra",
    "year": "1967",
    "tags": [
     {
      "k": "artist",
      "v": "AMM"
+    },
+    {
+     "k": "designer",
+     "v": "Keith Rowe"
     },
     {
      "k": "type",
@@ -17166,8 +17170,8 @@
      "v": "yellow"
     }
    ],
-   "hue": 54.15,
-   "light": 0.5475
+   "hue": 55.13,
+   "light": 0.6907
   },
   {
    "id": "CRVI000377",

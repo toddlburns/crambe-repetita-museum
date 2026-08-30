@@ -19468,34 +19468,36 @@
    "minted": "2026-08-26",
    "original_file": "originals/CRVI000376.jpg",
    "original_px": [
-    620,
-    620
+    1417,
+    1417
    ],
-   "original_bytes": 101243,
+   "original_bytes": 901033,
    "identity": "ele-king sweep::Ambient Definitive::IMG_4254_1",
    "maker": "AMM",
-   "title": "AMMMusic 1966",
-   "subtitle": "Designer unknown · Elektra",
+   "title": "AMMMusic",
+   "subtitle": "Designed by Keith Rowe · Elektra",
    "year": "1967",
    "label": "Elektra",
-   "verified_against": "Read off AMBIENT definitive 1958-2013 (三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as AMM / AMMMusic 1966 (1966).",
+   "verified_against": "The original Elektra sleeve (EUK-256, 1967), taken from Black Truffle's 2016 exact-replica reissue BT018 as listed by Corticalart — formerly Metamkine, Bordeaux — whose copy credits \"Keith Rowe's beautiful pop art cover\".",
    "notes": [
-    "Title from iTunes; the caption read 'Ammmusic'.",
-    "⚠️ iTunes serves today's catalogue, so this artwork may be a later edition than the pressing the book describes. Todd checked it against his own crop.",
-    "Designer unrecorded: these ele-king guides credit the music, never the packaging."
+    "Artwork replaced 2026-08-30. Until then this record carried an iTunes image of the later Matchless 'AMMMusic 1966' edition — a square crop of a Riviera Plaza sign and the truck's AMM panel. The warning already on this record, that iTunes serves today's catalogue rather than the pressing the book describes, turned out to be exactly right.",
+    "The file is Black Truffle's 2016 exact-replica reissue of the Elektra sleeve (BT018, replica sleeve by Stephen O'Malley), so it reproduces the 1967 artwork rather than being a scan of an original pressing.",
+    "Title corrected with the artwork: 'AMMMusic 1966' is the later reissue's title, while the sleeve now shown reads AMMMUSIC.",
+    "Keith Rowe played in AMM and painted; the ele-king guide this item came from credits the music and never the packaging, so the designer had been recorded as unknown."
    ],
-   "source_image": "/Users/todd/Desktop/Graphic Design/_catalog/itunes_sweep/IMG_4254_1.jpg",
+   "source_image": "https://www.corticalart.com/wp-content/uploads/2023/05/BT018.jpg",
    "source_px": [
-    620,
-    620
-   ],
-   "colors": [
-    "yellow"
+    1417,
+    1417
    ],
    "tags": [
     {
      "k": "artist",
      "v": "AMM"
+    },
+    {
+     "k": "designer",
+     "v": "Keith Rowe"
     },
     {
      "k": "type",
@@ -19512,10 +19514,14 @@
    ],
    "identity_established": true,
    "published": true,
-   "verification": "Read off AMBIENT definitive 1958-2013 (三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as AMM / AMMMusic 1966 (1966).",
-   "hue": 54.15,
-   "light": 0.5475,
-   "chroma": 0.6057
+   "verification": "The original Elektra sleeve (EUK-256, 1967), taken from Black Truffle's 2016 exact-replica reissue BT018 as listed by Corticalart — formerly Metamkine, Bordeaux — whose copy credits \"Keith Rowe's beautiful pop art cover\".",
+   "hue": 55.13,
+   "light": 0.6907,
+   "chroma": 0.3744,
+   "source_url": "https://www.corticalart.com/product/amm-ammmusic/",
+   "colors": [
+    "yellow"
+   ]
   },
   "ele-king sweep::Ambient Definitive::IMG_4255_1": {
    "id": "CRVI000377",
