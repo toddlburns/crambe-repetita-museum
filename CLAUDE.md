@@ -25,8 +25,16 @@ derivative. An item may set `display` to override what the page loads (alpha PNG
 GIFs). Animated items point `display` at the original — re-encoding a GIF only degrades it, and a
 byte-identical second copy wastes the Pages budget.
 
-**Size budget.** GitHub Pages caps a published site at 1 GB. Currently ~390 MB, mostly held originals.
-Check before bulk-adding anything large.
+**Size budget.** GitHub Pages caps a published site at 1 GB and **that cap cannot be raised on any
+plan** — Free, Pro and Enterprise all get 1 GB. The repository is bigger than the site it publishes:
+`.github/workflows/pages.yml` builds the site with `.github/prune_unserved_originals.py`, which omits
+every original that no page actually links. The originals stay in the repo, byte-for-byte; they just
+do not ride along to the CDN.
+
+As of 2026-08-30: repository ~940 MB, **published site ~350 MB** (26 animated GIFs are the only
+originals served, at 106 MB; the other 667 were 591 MB of files no visitor ever requested). Each Pages
+run prints the live figure to the job summary and warns past 900 MB, so check a recent run rather than
+trusting this line. Still measure before bulk-adding: images/ and thumbs/ are published in full.
 
 ## Adding an item
 
