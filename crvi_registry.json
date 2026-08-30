@@ -1,5 +1,5 @@
 {
- "next": 682,
+ "next": 693,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -37740,9 +37740,10 @@
    "verified_against": "Deadly Prey Gallery, the Chicago dealer that works directly with these painters, lists this as \"AKIRA (High Quality Print) - Heavy J\" and describes it as \"the legendary Ghanaian artist Heavy J's incredible version of classic animated Japanese film Akira\", printed from the original painting at approximately 14 x 20.5 inches.",
    "source_url": "https://deadly-prey-gallery.myshopify.com/products/akira-high-quality-print-heavy-j",
    "notes": [
-    "Ghanaian mobile cinema poster: painted by hand to advertise a travelling video screening of the 1988 anime Akira. The painting carries the lettering \"Manso Video Mamobi\" — Mamobi is a neighbourhood of Accra — alongside the artist's stamp at lower left.",
-    "No date is recorded. The gallery gives none, and none is legible on the painting, so the year is left blank rather than inferred from the film's 1988 release.",
-    "The image is Deadly Prey Gallery's reproduction of the original painting, cropped to the painted area; their print carries the gallery's own logo and the artist's stamp on the white margin below, which are not part of the painting."
+    "Hand-painted poster in the tradition of Ghana's mobile cinema banners, which were painted on recycled flour sacks to advertise travelling video screenings. Deadly Prey Gallery commissions new work from these painters, so this is a painting in that tradition; the gallery does not say it was used on the video-club circuit, and this record does not claim it was.",
+    "The painting carries the lettering \"Manso Video Mamobi\" — Mamobi is a neighbourhood of Accra — alongside the artist's stamp at lower left.",
+    "No date is recorded. The gallery gives none and none is legible on the painting, so the year is left blank rather than inferred from the film's 1988 release.",
+    "The image is the gallery's reproduction of the original painting, cropped to the painted area — their print carries the gallery's logo and the artist's stamp on the white margin below, which are not part of the painting."
    ],
    "label": "",
    "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/akira_crop.jpg",
@@ -37786,6 +37787,675 @@
    "hue": 4.11,
    "light": 0.516,
    "chroma": 0.7508
+  },
+  "deadlypreygallery.com::gummo-high-quality-print-mr-nana-agyq": {
+   "id": "CRVI000682",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000682.jpg",
+   "original_px": [
+    1092,
+    1600
+   ],
+   "original_bytes": 451684,
+   "identity": "deadlypreygallery.com::gummo-high-quality-print-mr-nana-agyq",
+   "maker": "Mr. Nana Agyq",
+   "title": "Gummo",
+   "subtitle": "Hand-painted Ghanaian film poster · after the film by Harmony Korine",
+   "year": "",
+   "verified_against": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"GUMMO (High Quality Print) - Mr. Nana Agyq\" and describes it as: Originally painted by the great Ghanaian artist Mr. Nana Agyq, this is our second adaptation of Bunny Boy, the classic character in Harmony Korine’s masterpiece Gummo.",
+   "source_url": "https://deadly-prey-gallery.myshopify.com/products/gummo-high-quality-print-mr-nana-agyq",
+   "notes": [
+    "Hand-painted poster in the tradition of Ghana's mobile cinema banners, which were painted on recycled flour sacks to advertise travelling video screenings. Deadly Prey Gallery commissions new work from these painters, so this is a contemporary painting in that tradition rather than a poster recovered from the video-club circuit; several of the films it depicts never played there.",
+    "The image is the gallery's reproduction of the original painting, cropped to the painted area — their print carries the gallery's logo and the artist's stamp on the margin below, which are not part of the painting. Held at 1600px, the size the archive displays.",
+    "The gallery calls this its 'second adaptation' of the Bunny Boy character, so more than one painting of this subject exists.",
+    "No date is recorded. The gallery gives none and none is legible on the painting, so the year is left blank rather than inferred from the film's release."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/dp/gummo-high-quality-print-mr-nana-agyq.jpg",
+   "source_px": [
+    1092,
+    1600
+   ],
+   "colors": [
+    "green",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Mr. Nana Agyq"
+    },
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "Ghana"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"GUMMO (High Quality Print) - Mr. Nana Agyq\" and describes it as: Originally painted by the great Ghanaian artist Mr. Nana Agyq, this is our second adaptation of Bunny Boy, the classic character in Harmony Korine’s masterpiece Gummo.",
+   "hue": 16.67,
+   "light": 0.4807,
+   "chroma": 0.7844
+  },
+  "deadlypreygallery.com::groundhog-day-high-quality-print-c-a-wisely": {
+   "id": "CRVI000683",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000683.jpg",
+   "original_px": [
+    1077,
+    1600
+   ],
+   "original_bytes": 752036,
+   "identity": "deadlypreygallery.com::groundhog-day-high-quality-print-c-a-wisely",
+   "maker": "C.A. Wisely",
+   "title": "Groundhog Day",
+   "subtitle": "Hand-painted Ghanaian film poster",
+   "year": "2021",
+   "verified_against": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"GROUNDHOG DAY (High Quality Print) - C.A. Wisely\" and describes it as: Perhaps the best of all time?!? Groundhog Day was originally painted by the great Ghanaian artist C.A. Wisely in early 2021 🐐",
+   "source_url": "https://deadly-prey-gallery.myshopify.com/products/groundhog-day-high-quality-print-c-a-wisely",
+   "notes": [
+    "Hand-painted poster in the tradition of Ghana's mobile cinema banners, which were painted on recycled flour sacks to advertise travelling video screenings. Deadly Prey Gallery commissions new work from these painters, so this is a contemporary painting in that tradition rather than a poster recovered from the video-club circuit; several of the films it depicts never played there.",
+    "The image is the gallery's reproduction of the original painting, cropped to the painted area — their print carries the gallery's logo and the artist's stamp on the margin below, which are not part of the painting. Held at 1600px, the size the archive displays.",
+    "Deadly Prey Gallery dates the painting to early 2021."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/dp/groundhog-day-high-quality-print-c-a-wisely.jpg",
+   "source_px": [
+    1077,
+    1600
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "C.A. Wisely"
+    },
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "Ghana"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"GROUNDHOG DAY (High Quality Print) - C.A. Wisely\" and describes it as: Perhaps the best of all time?!? Groundhog Day was originally painted by the great Ghanaian artist C.A. Wisely in early 2021 🐐",
+   "hue": 357.08,
+   "light": 0.5096,
+   "chroma": 0.8023
+  },
+  "deadlypreygallery.com::ghost-world-high-quality-print-c-a-wisely": {
+   "id": "CRVI000684",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000684.jpg",
+   "original_px": [
+    1070,
+    1600
+   ],
+   "original_bytes": 564518,
+   "identity": "deadlypreygallery.com::ghost-world-high-quality-print-c-a-wisely",
+   "maker": "C.A. Wisely",
+   "title": "Ghost World",
+   "subtitle": "Hand-painted Ghanaian film poster",
+   "year": "",
+   "verified_against": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"GHOST WORLD (High Quality Print) - C.A. Wisely\" and describes it as: The great Ghanaian artist C.A. Wisely’s beautiful version of Ghost World is finally available as a $25 print 👻",
+   "source_url": "https://deadly-prey-gallery.myshopify.com/products/ghost-world-high-quality-print-c-a-wisely",
+   "notes": [
+    "Hand-painted poster in the tradition of Ghana's mobile cinema banners, which were painted on recycled flour sacks to advertise travelling video screenings. Deadly Prey Gallery commissions new work from these painters, so this is a contemporary painting in that tradition rather than a poster recovered from the video-club circuit; several of the films it depicts never played there.",
+    "The image is the gallery's reproduction of the original painting, cropped to the painted area — their print carries the gallery's logo and the artist's stamp on the margin below, which are not part of the painting. Held at 1600px, the size the archive displays.",
+    "No date is recorded. The gallery gives none and none is legible on the painting, so the year is left blank rather than inferred from the film's release."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/dp/ghost-world-high-quality-print-c-a-wisely.jpg",
+   "source_px": [
+    1070,
+    1600
+   ],
+   "colors": [
+    "red",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "C.A. Wisely"
+    },
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "Ghana"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"GHOST WORLD (High Quality Print) - C.A. Wisely\" and describes it as: The great Ghanaian artist C.A. Wisely’s beautiful version of Ghost World is finally available as a $25 print 👻",
+   "hue": 3.57,
+   "light": 0.5476,
+   "chroma": 0.71
+  },
+  "deadlypreygallery.com::fargo-high-quality-print-c-a-wisely": {
+   "id": "CRVI000685",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000685.jpg",
+   "original_px": [
+    1066,
+    1600
+   ],
+   "original_bytes": 638154,
+   "identity": "deadlypreygallery.com::fargo-high-quality-print-c-a-wisely",
+   "maker": "C.A. Wisely",
+   "title": "Fargo",
+   "subtitle": "Hand-painted Ghanaian film poster · after the film by Joel and Ethan Coen",
+   "year": "",
+   "verified_against": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"FARGO (High Quality Print) - C.A. Wisely\" and describes it as: The great Ghanaian artist C.A. Wisely recently painted his own wild version of the classic Coen Bros film Fargo with astounding results 🥶 Here it is as a $25 print for the first time!",
+   "source_url": "https://deadly-prey-gallery.myshopify.com/products/fargo-high-quality-print-c-a-wisely",
+   "notes": [
+    "Hand-painted poster in the tradition of Ghana's mobile cinema banners, which were painted on recycled flour sacks to advertise travelling video screenings. Deadly Prey Gallery commissions new work from these painters, so this is a contemporary painting in that tradition rather than a poster recovered from the video-club circuit; several of the films it depicts never played there.",
+    "The image is the gallery's reproduction of the original painting, cropped to the painted area — their print carries the gallery's logo and the artist's stamp on the margin below, which are not part of the painting. Held at 1600px, the size the archive displays.",
+    "No date is recorded. The gallery gives none and none is legible on the painting, so the year is left blank rather than inferred from the film's release."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/dp/fargo-high-quality-print-c-a-wisely.jpg",
+   "source_px": [
+    1066,
+    1600
+   ],
+   "colors": [
+    "red",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "C.A. Wisely"
+    },
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "Ghana"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"FARGO (High Quality Print) - C.A. Wisely\" and describes it as: The great Ghanaian artist C.A. Wisely recently painted his own wild version of the classic Coen Bros film Fargo with astounding results 🥶 Here it is as a $25 print for the first time!",
+   "hue": 356.61,
+   "light": 0.5992,
+   "chroma": 0.6169
+  },
+  "deadlypreygallery.com::fantastic-planet-high-quality-print-leonardo": {
+   "id": "CRVI000686",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000686.jpg",
+   "original_px": [
+    1068,
+    1600
+   ],
+   "original_bytes": 639649,
+   "identity": "deadlypreygallery.com::fantastic-planet-high-quality-print-leonardo",
+   "maker": "Leonardo",
+   "title": "Fantastic Planet",
+   "subtitle": "Hand-painted Ghanaian film poster · after the film by René Laloux",
+   "year": "",
+   "verified_against": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"FANTASTIC PLANET (High Quality Print) - Leonardo\" and describes it as: The late great Ghanaian artist Leonardo’s version of the Fantastic Planet is truly a unique piece of art for the ages. The French / Czech feature by Rene Laloux from 1973 won a special jury award at Cannes back then because no one had ever seen such a unique animated film! We’re in the the business of making art that’s disconnected and often stranger than the original feature, but honestly Fantastic Planet is so perfect and surreal naturally that it’s almost impossible to outdo the original 😆 How happy we are to offer Leonardo’s beautiful interpretation as a $25 print for the first time!",
+   "source_url": "https://deadly-prey-gallery.myshopify.com/products/fantastic-planet-high-quality-print-leonardo",
+   "notes": [
+    "Hand-painted poster in the tradition of Ghana's mobile cinema banners, which were painted on recycled flour sacks to advertise travelling video screenings. Deadly Prey Gallery commissions new work from these painters, so this is a contemporary painting in that tradition rather than a poster recovered from the video-club circuit; several of the films it depicts never played there.",
+    "The image is the gallery's reproduction of the original painting, cropped to the painted area — their print carries the gallery's logo and the artist's stamp on the margin below, which are not part of the painting. Held at 1600px, the size the archive displays.",
+    "The gallery describes Leonardo as 'the late great Ghanaian artist'.",
+    "The film is Rene Laloux's 1973 French-Czech animation La Planete sauvage.",
+    "No date is recorded. The gallery gives none and none is legible on the painting, so the year is left blank rather than inferred from the film's release."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/dp/fantastic-planet-high-quality-print-leonardo.jpg",
+   "source_px": [
+    1068,
+    1600
+   ],
+   "colors": [
+    "orange",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Leonardo"
+    },
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "Ghana"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"FANTASTIC PLANET (High Quality Print) - Leonardo\" and describes it as: The late great Ghanaian artist Leonardo’s version of the Fantastic Planet is truly a unique piece of art for the ages. The French / Czech feature by Rene Laloux from 1973 won a special jury award at Cannes back then because no one had ever seen such a unique animated film! We’re in the the business of making art that’s disconnected and often stranger than the original feature, but honestly Fantastic Planet is so perfect and surreal naturally that it’s almost impossible to outdo the original 😆 How happy we are to offer Leonardo’s beautiful interpretation as a $25 print for the first time!",
+   "hue": 42.44,
+   "light": 0.5716,
+   "chroma": 0.8843
+  },
+  "deadlypreygallery.com::blue-velvet-high-quality-print-heavy-j": {
+   "id": "CRVI000687",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000687.jpg",
+   "original_px": [
+    1051,
+    1600
+   ],
+   "original_bytes": 653311,
+   "identity": "deadlypreygallery.com::blue-velvet-high-quality-print-heavy-j",
+   "maker": "Heavy J",
+   "title": "Blue Velvet",
+   "subtitle": "Hand-painted Ghanaian film poster · after the film by David Lynch",
+   "year": "",
+   "verified_against": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"BLUE VELVET (High Quality Print) - Heavy J\" and describes it as: What kind of beer do you like? 🍻 The great Ghanaian artist Heavy J made the most beautiful painting of this classic David Lynch a few years ago 🌹 An all time favorite for sure, it’s finally available as a $25 print!!",
+   "source_url": "https://deadly-prey-gallery.myshopify.com/products/blue-velvet-high-quality-print-heavy-j",
+   "notes": [
+    "Hand-painted poster in the tradition of Ghana's mobile cinema banners, which were painted on recycled flour sacks to advertise travelling video screenings. Deadly Prey Gallery commissions new work from these painters, so this is a contemporary painting in that tradition rather than a poster recovered from the video-club circuit; several of the films it depicts never played there.",
+    "The image is the gallery's reproduction of the original painting, cropped to the painted area — their print carries the gallery's logo and the artist's stamp on the margin below, which are not part of the painting. Held at 1600px, the size the archive displays.",
+    "No date is recorded. The gallery gives none and none is legible on the painting, so the year is left blank rather than inferred from the film's release."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/dp/blue-velvet-high-quality-print-heavy-j.jpg",
+   "source_px": [
+    1051,
+    1600
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Heavy J"
+    },
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "Ghana"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"BLUE VELVET (High Quality Print) - Heavy J\" and describes it as: What kind of beer do you like? 🍻 The great Ghanaian artist Heavy J made the most beautiful painting of this classic David Lynch a few years ago 🌹 An all time favorite for sure, it’s finally available as a $25 print!!",
+   "hue": 204.6,
+   "light": 0.4909,
+   "chroma": 0.6833
+  },
+  "deadlypreygallery.com::best-in-show-high-quality-print-farkira": {
+   "id": "CRVI000688",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000688.jpg",
+   "original_px": [
+    1093,
+    1600
+   ],
+   "original_bytes": 654274,
+   "identity": "deadlypreygallery.com::best-in-show-high-quality-print-farkira",
+   "maker": "Farkira",
+   "title": "Best in Show",
+   "subtitle": "Hand-painted Ghanaian film poster",
+   "year": "",
+   "verified_against": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"BEST IN SHOW (High Quality Print) - Farkira\" and describes it as: Our wild version of Best in Show originally painted by the great Ghanaian artist Farkira 🐶",
+   "source_url": "https://deadly-prey-gallery.myshopify.com/products/best-in-show-high-quality-print-farkira",
+   "notes": [
+    "Hand-painted poster in the tradition of Ghana's mobile cinema banners, which were painted on recycled flour sacks to advertise travelling video screenings. Deadly Prey Gallery commissions new work from these painters, so this is a contemporary painting in that tradition rather than a poster recovered from the video-club circuit; several of the films it depicts never played there.",
+    "The image is the gallery's reproduction of the original painting, cropped to the painted area — their print carries the gallery's logo and the artist's stamp on the margin below, which are not part of the painting. Held at 1600px, the size the archive displays.",
+    "No date is recorded. The gallery gives none and none is legible on the painting, so the year is left blank rather than inferred from the film's release."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/dp/best-in-show-high-quality-print-farkira.jpg",
+   "source_px": [
+    1093,
+    1600
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Farkira"
+    },
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "Ghana"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"BEST IN SHOW (High Quality Print) - Farkira\" and describes it as: Our wild version of Best in Show originally painted by the great Ghanaian artist Farkira 🐶",
+   "hue": 193.87,
+   "light": 0.603,
+   "chroma": 0.837
+  },
+  "deadlypreygallery.com::barton-fink-high-quality-print-c-a-wisely": {
+   "id": "CRVI000689",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000689.jpg",
+   "original_px": [
+    1066,
+    1600
+   ],
+   "original_bytes": 597403,
+   "identity": "deadlypreygallery.com::barton-fink-high-quality-print-c-a-wisely",
+   "maker": "C.A. Wisely",
+   "title": "Barton Fink",
+   "subtitle": "Hand-painted Ghanaian film poster · after the film by Joel and Ethan Coen",
+   "year": "",
+   "verified_against": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"BARTON FINK (High Quality Print) - C.A. Wisely\" and describes it as: Everything going on here is the best thing we’ve ever seen 🔥 Love this early Coen brothers film, especially the Steve Buscemi neck stretching scene! Originally painted by the great Ghanaian artist C.A. Wisely.",
+   "source_url": "https://deadly-prey-gallery.myshopify.com/products/barton-fink-high-quality-print-c-a-wisely",
+   "notes": [
+    "Hand-painted poster in the tradition of Ghana's mobile cinema banners, which were painted on recycled flour sacks to advertise travelling video screenings. Deadly Prey Gallery commissions new work from these painters, so this is a contemporary painting in that tradition rather than a poster recovered from the video-club circuit; several of the films it depicts never played there.",
+    "The image is the gallery's reproduction of the original painting, cropped to the painted area — their print carries the gallery's logo and the artist's stamp on the margin below, which are not part of the painting. Held at 1600px, the size the archive displays.",
+    "No date is recorded. The gallery gives none and none is legible on the painting, so the year is left blank rather than inferred from the film's release."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/dp/barton-fink-high-quality-print-c-a-wisely.jpg",
+   "source_px": [
+    1066,
+    1600
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "C.A. Wisely"
+    },
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "Ghana"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"BARTON FINK (High Quality Print) - C.A. Wisely\" and describes it as: Everything going on here is the best thing we’ve ever seen 🔥 Love this early Coen brothers film, especially the Steve Buscemi neck stretching scene! Originally painted by the great Ghanaian artist C.A. Wisely.",
+   "hue": 353.34,
+   "light": 0.5307,
+   "chroma": 0.8269
+  },
+  "deadlypreygallery.com::battle-royale-high-quality-print-heavy-j-octopus": {
+   "id": "CRVI000690",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000690.jpg",
+   "original_px": [
+    1223,
+    1600
+   ],
+   "original_bytes": 733400,
+   "identity": "deadlypreygallery.com::battle-royale-high-quality-print-heavy-j-octopus",
+   "maker": "Heavy J",
+   "title": "Battle Royale",
+   "subtitle": "Hand-painted Ghanaian film poster",
+   "year": "",
+   "verified_against": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"Battle Royale (High Quality Print) - Heavy J - Octopus\" and describes it as: These tattoo flash / back piece inspired paintings from the artists in Ghana have become more and more popular over the years, so we thought it time to release even more as prints ! Here’s a wild new Battle Royale version originally painted by the great Ghanaian artist Heavy J.",
+   "source_url": "https://deadly-prey-gallery.myshopify.com/products/battle-royale-high-quality-print-heavy-j-octopus",
+   "notes": [
+    "Hand-painted poster in the tradition of Ghana's mobile cinema banners, which were painted on recycled flour sacks to advertise travelling video screenings. Deadly Prey Gallery commissions new work from these painters, so this is a contemporary painting in that tradition rather than a poster recovered from the video-club circuit; several of the films it depicts never played there.",
+    "The image is the gallery's reproduction of the original painting, cropped to the painted area — their print carries the gallery's logo and the artist's stamp on the margin below, which are not part of the painting. Held at 1600px, the size the archive displays.",
+    "One of what the gallery calls the artists' 'tattoo flash / back piece inspired paintings'. The print measures 14 x 20 in rather than the 14 x 22 of the others.",
+    "No date is recorded. The gallery gives none and none is legible on the painting, so the year is left blank rather than inferred from the film's release."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/dp/battle-royale-high-quality-print-heavy-j-octopus.jpg",
+   "source_px": [
+    1223,
+    1600
+   ],
+   "colors": [
+    "red",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Heavy J"
+    },
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "Ghana"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"Battle Royale (High Quality Print) - Heavy J - Octopus\" and describes it as: These tattoo flash / back piece inspired paintings from the artists in Ghana have become more and more popular over the years, so we thought it time to release even more as prints ! Here’s a wild new Battle Royale version originally painted by the great Ghanaian artist Heavy J.",
+   "hue": 6.17,
+   "light": 0.6263,
+   "chroma": 0.8683
+  },
+  "deadlypreygallery.com::austin-powers-in-goldmember-high-quality-print-mr-nana-agyq": {
+   "id": "CRVI000691",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000691.jpg",
+   "original_px": [
+    1042,
+    1600
+   ],
+   "original_bytes": 475546,
+   "identity": "deadlypreygallery.com::austin-powers-in-goldmember-high-quality-print-mr-nana-agyq",
+   "maker": "Mr. Nana Agyq",
+   "title": "Austin Powers in Goldmember",
+   "subtitle": "Hand-painted Ghanaian film poster",
+   "year": "",
+   "verified_against": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"AUSTIN POWERS IN GOLDMEMBER (High Quality Print) - Mr. Nana Agyq\" and describes it as: The great Ghanaian artist Mr. Nana Agyq’s splash-worthy version of Goldmember is finally available as a $25 print 💦",
+   "source_url": "https://deadly-prey-gallery.myshopify.com/products/austin-powers-in-goldmember-high-quality-print-mr-nana-agyq",
+   "notes": [
+    "Hand-painted poster in the tradition of Ghana's mobile cinema banners, which were painted on recycled flour sacks to advertise travelling video screenings. Deadly Prey Gallery commissions new work from these painters, so this is a contemporary painting in that tradition rather than a poster recovered from the video-club circuit; several of the films it depicts never played there.",
+    "The image is the gallery's reproduction of the original painting, cropped to the painted area — their print carries the gallery's logo and the artist's stamp on the margin below, which are not part of the painting. Held at 1600px, the size the archive displays.",
+    "No date is recorded. The gallery gives none and none is legible on the painting, so the year is left blank rather than inferred from the film's release."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/dp/austin-powers-in-goldmember-high-quality-print-mr-nana-agyq.jpg",
+   "source_px": [
+    1042,
+    1600
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Mr. Nana Agyq"
+    },
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "Ghana"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"AUSTIN POWERS IN GOLDMEMBER (High Quality Print) - Mr. Nana Agyq\" and describes it as: The great Ghanaian artist Mr. Nana Agyq’s splash-worthy version of Goldmember is finally available as a $25 print 💦",
+   "hue": 16.19,
+   "light": 0.6046,
+   "chroma": 0.9095
+  },
+  "deadlypreygallery.com::air-bud-high-quality-print-stoger": {
+   "id": "CRVI000692",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000692.jpg",
+   "original_px": [
+    1078,
+    1600
+   ],
+   "original_bytes": 529538,
+   "identity": "deadlypreygallery.com::air-bud-high-quality-print-stoger",
+   "maker": "Stoger",
+   "title": "Air Bud",
+   "subtitle": "Hand-painted Ghanaian film poster",
+   "year": "",
+   "verified_against": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"AIR BUD (High Quality Print) - Stoger\" and describes it as: We are huge hoops fans over here at DPG, so we decided to create an ongoing project with the artists in Ghana called Deadly Prey Bball 🏀 Happy to present the great Ghanaian artist Stoger’s version of Air Bud, originally painted for Odd Obsession Movies!",
+   "source_url": "https://deadly-prey-gallery.myshopify.com/products/air-bud-high-quality-print-stoger",
+   "notes": [
+    "Hand-painted poster in the tradition of Ghana's mobile cinema banners, which were painted on recycled flour sacks to advertise travelling video screenings. Deadly Prey Gallery commissions new work from these painters, so this is a contemporary painting in that tradition rather than a poster recovered from the video-club circuit; several of the films it depicts never played there.",
+    "The image is the gallery's reproduction of the original painting, cropped to the painted area — their print carries the gallery's logo and the artist's stamp on the margin below, which are not part of the painting. Held at 1600px, the size the archive displays.",
+    "Painted for Odd Obsession Movies, a Chicago video store, as part of the gallery's 'Deadly Prey Bball' series — which is why the lettering names a Chicago shop rather than a Ghanaian video club.",
+    "No date is recorded. The gallery gives none and none is legible on the painting, so the year is left blank rather than inferred from the film's release."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/3f2c4222-2776-4b6e-9290-1b13a6523eaa/scratchpad/dp/air-bud-high-quality-print-stoger.jpg",
+   "source_px": [
+    1078,
+    1600
+   ],
+   "colors": [
+    "cyan",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Stoger"
+    },
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "Ghana"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"AIR BUD (High Quality Print) - Stoger\" and describes it as: We are huge hoops fans over here at DPG, so we decided to create an ongoing project with the artists in Ghana called Deadly Prey Bball 🏀 Happy to present the great Ghanaian artist Stoger’s version of Air Bud, originally painted for Odd Obsession Movies!",
+   "hue": 42.02,
+   "light": 0.4842,
+   "chroma": 0.8662
   }
  }
 }
