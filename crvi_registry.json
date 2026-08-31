@@ -1,5 +1,5 @@
 {
- "next": 721,
+ "next": 745,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -40167,6 +40167,1176 @@
    "hue": null,
    "light": 0.6398,
    "chroma": 0.0769
+  },
+  "robertbeatty::ziemba-true-romantic": {
+   "id": "CRVI000721",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000721.jpg",
+   "original_px": [
+    1000,
+    1000
+   ],
+   "original_bytes": 896386,
+   "identity": "robertbeatty::ziemba-true-romantic",
+   "maker": "Ziemba",
+   "title": "True Romantic",
+   "subtitle": "Designed by Robert Beatty · Sister Polygon Records",
+   "source_url": "https://www.stereogum.com/",
+   "verified_against": "Ziemba's True Romantic (Sister Polygon Records, 2020), whose artwork is credited to Robert Beatty in contemporary coverage of the release; Beatty also posted an animated version of this cover himself.",
+   "notes": [
+    "Held at 1000px, taken from the image host directly rather than the 710px copy the article displays."
+   ],
+   "year": "2020",
+   "label": "Sister Polygon Records",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/rb2_final/ziemba-true-romantic.jpg",
+   "source_px": [
+    1000,
+    1000
+   ],
+   "colors": [
+    "pink",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Ziemba"
+    },
+    {
+     "k": "designer",
+     "v": "Robert Beatty"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Sister Polygon Records"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Ziemba's True Romantic (Sister Polygon Records, 2020), whose artwork is credited to Robert Beatty in contemporary coverage of the release; Beatty also posted an animated version of this cover himself.",
+   "hue": 224.14,
+   "light": 0.8233,
+   "chroma": 0.3913
+  },
+  "robertbeatty::oh-sees-a-weird-exits": {
+   "id": "CRVI000722",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000722.jpg",
+   "original_px": [
+    1200,
+    1200
+   ],
+   "original_bytes": 576056,
+   "identity": "robertbeatty::oh-sees-a-weird-exits",
+   "maker": "Oh Sees",
+   "title": "A Weird Exits",
+   "subtitle": "Designed by Robert Beatty",
+   "source_url": "https://eyeondesign.aiga.org/the-joy-of-robert-beattys-pre-digital-graphic-art/",
+   "verified_against": "Robert Beatty's own portfolio, which carries this under a project page for Thee Oh Sees' A Weird Exits. Confirmed by matching this file against the copy on his site — they are the same image.",
+   "notes": [
+    "Identified by perceptual hash against Beatty's own site rather than by its filename alone."
+   ],
+   "year": "2016",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/rb2_final/oh-sees-a-weird-exits.jpg",
+   "source_px": [
+    1200,
+    1200
+   ],
+   "colors": [
+    "pink",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Oh Sees"
+    },
+    {
+     "k": "designer",
+     "v": "Robert Beatty"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Robert Beatty's own portfolio, which carries this under a project page for Thee Oh Sees' A Weird Exits. Confirmed by matching this file against the copy on his site — they are the same image.",
+   "hue": 333.99,
+   "light": 0.3322,
+   "chroma": 0.5036
+  },
+  "robertbeatty::burning-star-core-challenger": {
+   "id": "CRVI000723",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000723.jpg",
+   "original_px": [
+    999,
+    999
+   ],
+   "original_bytes": 620557,
+   "identity": "robertbeatty::burning-star-core-challenger",
+   "maker": "Burning Star Core",
+   "title": "Challenger",
+   "subtitle": "Front cover · designed by Robert Beatty",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Robert_Beatty,_artwork_for_Burning_Star_Core,_Challenger,_front.jpg",
+   "verified_against": "Wikimedia Commons, where the file is titled \"Robert Beatty, artwork for Burning Star Core, Challenger, front\".",
+   "notes": [
+    "Cropped by one pixel on the top and right edges, which carried a thin white rule that was part of the scan, not the artwork.",
+    "No year is recorded: the Commons file gives none and none is legible in the artwork."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/rb2_final/burning-star-core-challenger.jpg",
+   "source_px": [
+    999,
+    999
+   ],
+   "colors": [
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Burning Star Core"
+    },
+    {
+     "k": "designer",
+     "v": "Robert Beatty"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons, where the file is titled \"Robert Beatty, artwork for Burning Star Core, Challenger, front\".",
+   "hue": 45.2,
+   "light": 0.1976,
+   "chroma": 0.1045
+  },
+  "robertbeatty::forma-physicalist": {
+   "id": "CRVI000724",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000724.jpg",
+   "original_px": [
+    1400,
+    1400
+   ],
+   "original_bytes": 1775544,
+   "identity": "robertbeatty::forma-physicalist",
+   "maker": "Forma",
+   "title": "Physicalist",
+   "subtitle": "Designed by Robert Beatty",
+   "source_url": "https://www.robertbeattyart.com/",
+   "verified_against": "Robert Beatty's own site: the file is served from his Cargo payload and is named Forma-Physicalist-1400px.jpg.",
+   "notes": [
+    "Held at the full 1400px his site publishes, rather than the 1340px cropped variant the page displays."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/rb2_final/forma-physicalist.jpg",
+   "source_px": [
+    1400,
+    1400
+   ],
+   "colors": [
+    "pink",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Forma"
+    },
+    {
+     "k": "designer",
+     "v": "Robert Beatty"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Robert Beatty's own site: the file is served from his Cargo payload and is named Forma-Physicalist-1400px.jpg.",
+   "hue": 345.21,
+   "light": 0.48,
+   "chroma": 0.995
+  },
+  "robertbeatty::the-weeknd-dawn-fm": {
+   "id": "CRVI000725",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000725.jpg",
+   "original_px": [
+    1600,
+    1600
+   ],
+   "original_bytes": 288101,
+   "identity": "robertbeatty::the-weeknd-dawn-fm",
+   "maker": "The Weeknd",
+   "title": "Dawn FM",
+   "subtitle": "Designed by Robert Beatty",
+   "source_url": "https://edwin-europe.com/",
+   "verified_against": "Published by Edwin Europe as \"the-weeknd-robert-beatty-artwork\", crediting Beatty with this Dawn FM artwork.",
+   "notes": [
+    "⚠️ Dawn FM's standard cover is a photograph of the artist; this is Beatty's separate artwork for the record. The source names him but does not say which edition or format it was used on, and that is not claimed here."
+   ],
+   "year": "2022",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/rb2_final/the-weeknd-dawn-fm.jpg",
+   "source_px": [
+    1600,
+    1600
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "The Weeknd"
+    },
+    {
+     "k": "designer",
+     "v": "Robert Beatty"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published by Edwin Europe as \"the-weeknd-robert-beatty-artwork\", crediting Beatty with this Dawn FM artwork.",
+   "hue": 14.77,
+   "light": 0.3781,
+   "chroma": 0.9263
+  },
+  "robertbeatty::magic-opn-front-cover": {
+   "id": "CRVI000726",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000726.png",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 11052027,
+   "identity": "robertbeatty::magic-opn-front-cover",
+   "maker": "Oneohtrix Point Never",
+   "title": "Magic Oneohtrix Point Never",
+   "subtitle": "Front cover · designed by Robert Beatty · Warp Records",
+   "source_url": "https://www.robertbeattyart.com/Magic-Oneohtrix-Point-Never",
+   "verified_against": "Robert Beatty's own portfolio, where the file is published as Magic-Oneohtrix-Point-Never-3000px-RGB.png on his project page for the record.",
+   "notes": [
+    "The front cover, completing the record already held here as its back cover and insert panels A, B and C.",
+    "3000px from the artist's own file — the largest of any item in this group."
+   ],
+   "year": "2020",
+   "label": "Warp Records",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/rb2_final/magic-opn-front-cover.png",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Oneohtrix Point Never"
+    },
+    {
+     "k": "designer",
+     "v": "Robert Beatty"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Warp Records"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Robert Beatty's own portfolio, where the file is published as Magic-Oneohtrix-Point-Never-3000px-RGB.png on his project page for the record.",
+   "hue": null,
+   "light": 0.5163,
+   "chroma": 0.047
+  },
+  "robertbeatty::raglani-husk-front": {
+   "id": "CRVI000727",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000727.jpg",
+   "original_px": [
+    1200,
+    1200
+   ],
+   "original_bytes": 1177572,
+   "identity": "robertbeatty::raglani-husk-front",
+   "maker": "Raglani",
+   "title": "Husk",
+   "subtitle": "Front cover · designed by Robert Beatty",
+   "source_url": "https://eyeondesign.aiga.org/the-joy-of-robert-beattys-pre-digital-graphic-art/",
+   "verified_against": "AIGA Eye on Design's feature on Robert Beatty's pre-digital graphic art, which reproduces both faces of Raglani's Husk.",
+   "notes": [
+    "Held at 1200px, the full size the magazine publishes, rather than the 1024px copy shown on the page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/rb2_final/raglani-husk-front.jpg",
+   "source_px": [
+    1200,
+    1200
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Raglani"
+    },
+    {
+     "k": "designer",
+     "v": "Robert Beatty"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "AIGA Eye on Design's feature on Robert Beatty's pre-digital graphic art, which reproduces both faces of Raglani's Husk.",
+   "hue": 37.53,
+   "light": 0.4336,
+   "chroma": 0.8881
+  },
+  "robertbeatty::raglani-husk-back": {
+   "id": "CRVI000728",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000728.jpg",
+   "original_px": [
+    1200,
+    1200
+   ],
+   "original_bytes": 279269,
+   "identity": "robertbeatty::raglani-husk-back",
+   "maker": "Raglani",
+   "title": "Husk",
+   "subtitle": "Back cover · designed by Robert Beatty",
+   "source_url": "https://eyeondesign.aiga.org/the-joy-of-robert-beattys-pre-digital-graphic-art/",
+   "verified_against": "AIGA Eye on Design's feature on Robert Beatty's pre-digital graphic art, which reproduces both faces of Raglani's Husk.",
+   "notes": [
+    "The back cover, held alongside the front."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/rb2_final/raglani-husk-back.jpg",
+   "source_px": [
+    1200,
+    1200
+   ],
+   "colors": [
+    "orange",
+    "yellow",
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Raglani"
+    },
+    {
+     "k": "designer",
+     "v": "Robert Beatty"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "AIGA Eye on Design's feature on Robert Beatty's pre-digital graphic art, which reproduces both faces of Raglani's Husk.",
+   "hue": 38.95,
+   "light": 0.1404,
+   "chroma": 0.2306
+  },
+  "robertbeatty::floodgate-companion-spread-09": {
+   "id": "CRVI000729",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000729.jpg",
+   "original_px": [
+    1600,
+    1117
+   ],
+   "original_bytes": 257104,
+   "identity": "robertbeatty::floodgate-companion-spread-09",
+   "maker": "Robert Beatty",
+   "title": "Floodgate Companion",
+   "subtitle": "Spread · self-published",
+   "source_url": "https://eyeondesign.aiga.org/the-joy-of-robert-beattys-pre-digital-graphic-art/",
+   "verified_against": "Robert Beatty's own portfolio, which carries a Floodgate Companion project page. Confirmed by matching this file against the copy on his site — they are the same image.",
+   "notes": [
+    "Beatty's own publication rather than a commission. Identified by perceptual hash against his site.",
+    "Held at 1600px rather than the 1024px copy the magazine's page displays."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/rb2_final/floodgate-companion-spread-09.jpg",
+   "source_px": [
+    1600,
+    1117
+   ],
+   "colors": [
+    "cyan",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Robert Beatty"
+    },
+    {
+     "k": "artist",
+     "v": "Robert Beatty"
+    },
+    {
+     "k": "type",
+     "v": "magazine spread"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Robert Beatty's own portfolio, which carries a Floodgate Companion project page. Confirmed by matching this file against the copy on his site — they are the same image.",
+   "hue": 174.89,
+   "light": 0.5792,
+   "chroma": 0.8373
+  },
+  "robertbeatty::floodgate-companion-spread-13": {
+   "id": "CRVI000730",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000730.jpg",
+   "original_px": [
+    1600,
+    1117
+   ],
+   "original_bytes": 221440,
+   "identity": "robertbeatty::floodgate-companion-spread-13",
+   "maker": "Robert Beatty",
+   "title": "Floodgate Companion",
+   "subtitle": "Spread · self-published",
+   "source_url": "https://eyeondesign.aiga.org/the-joy-of-robert-beattys-pre-digital-graphic-art/",
+   "verified_against": "Robert Beatty's own portfolio, which carries a Floodgate Companion project page. Confirmed by matching this file against the copy on his site — they are the same image.",
+   "notes": [
+    "A second spread from the same publication."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/rb2_final/floodgate-companion-spread-13.jpg",
+   "source_px": [
+    1600,
+    1117
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Robert Beatty"
+    },
+    {
+     "k": "artist",
+     "v": "Robert Beatty"
+    },
+    {
+     "k": "type",
+     "v": "magazine spread"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Robert Beatty's own portfolio, which carries a Floodgate Companion project page. Confirmed by matching this file against the copy on his site — they are the same image.",
+   "hue": 13.99,
+   "light": 0.5538,
+   "chroma": 0.5942
+  },
+  "robertbeatty::icon10-illustration": {
+   "id": "CRVI000731",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000731.jpg",
+   "original_px": [
+    1173,
+    1500
+   ],
+   "original_bytes": 2021825,
+   "identity": "robertbeatty::icon10-illustration",
+   "maker": "Robert Beatty",
+   "title": "Untitled",
+   "subtitle": "Illustration",
+   "source_url": "https://icon10.theillustrationconference.org/",
+   "verified_against": "Published by ICON10, the Illustration Conference, as Beatty_art.jpg alongside his appearance there in 2018.",
+   "notes": [
+    "No title is recorded. The conference published the artwork without naming it, so it is held as Untitled rather than given a name it was never published under."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/rb2_final/beatty-icon10.jpg",
+   "source_px": [
+    1173,
+    1500
+   ],
+   "colors": [
+    "green",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Robert Beatty"
+    },
+    {
+     "k": "artist",
+     "v": "Robert Beatty"
+    },
+    {
+     "k": "type",
+     "v": "illustration"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published by ICON10, the Illustration Conference, as Beatty_art.jpg alongside his appearance there in 2018.",
+   "hue": 117.18,
+   "light": 0.4467,
+   "chroma": 0.8436
+  },
+  "trendland::robert-beatty-2016::plate-01": {
+   "id": "CRVI000732",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000732.jpg",
+   "original_px": [
+    800,
+    800
+   ],
+   "original_bytes": 230663,
+   "identity": "trendland::robert-beatty-2016::plate-01",
+   "maker": "Robert Beatty",
+   "title": "Untitled",
+   "subtitle": "Album cover · artist and title unrecorded · Trendland plate 01",
+   "source_url": "https://trendland.com/airbrushed-album-covers-by-robert-beatty/",
+   "verified_against": "Trendland's 2016 feature \"Airbrushed Album Covers by Robert Beatty\", which attributes the whole set to him.",
+   "notes": [
+    "⚠️ NEITHER THE RECORDING ARTIST NOR THE TITLE IS KNOWN. Trendland presents these as Beatty's album covers but captions none of them, and this one did not match anything on Beatty's own portfolio when every project page there was hashed against it. It is held as Untitled rather than guessed at.",
+    "Trendland published the set in June 2016, so the work is no later than that; no year is claimed."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/rb2_final/trendland-01.jpg",
+   "source_px": [
+    800,
+    800
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Robert Beatty"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Trendland's 2016 feature \"Airbrushed Album Covers by Robert Beatty\", which attributes the whole set to him.",
+   "hue": 35.01,
+   "light": 0.7005,
+   "chroma": 0.8874
+  },
+  "trendland::robert-beatty-2016::plate-02": {
+   "id": "CRVI000733",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000733.jpg",
+   "original_px": [
+    800,
+    800
+   ],
+   "original_bytes": 154847,
+   "identity": "trendland::robert-beatty-2016::plate-02",
+   "maker": "Robert Beatty",
+   "title": "Untitled",
+   "subtitle": "Album cover · artist and title unrecorded · Trendland plate 02",
+   "source_url": "https://trendland.com/airbrushed-album-covers-by-robert-beatty/",
+   "verified_against": "Trendland's 2016 feature \"Airbrushed Album Covers by Robert Beatty\", which attributes the whole set to him.",
+   "notes": [
+    "⚠️ NEITHER THE RECORDING ARTIST NOR THE TITLE IS KNOWN. Trendland presents these as Beatty's album covers but captions none of them, and this one did not match anything on Beatty's own portfolio when every project page there was hashed against it. It is held as Untitled rather than guessed at.",
+    "Trendland published the set in June 2016, so the work is no later than that; no year is claimed."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/rb2_final/trendland-02.jpg",
+   "source_px": [
+    800,
+    800
+   ],
+   "colors": [
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Robert Beatty"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Trendland's 2016 feature \"Airbrushed Album Covers by Robert Beatty\", which attributes the whole set to him.",
+   "hue": 45.84,
+   "light": 0.8558,
+   "chroma": 0.9548
+  },
+  "trendland::robert-beatty-2016::plate-03": {
+   "id": "CRVI000734",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000734.jpg",
+   "original_px": [
+    800,
+    800
+   ],
+   "original_bytes": 131957,
+   "identity": "trendland::robert-beatty-2016::plate-03",
+   "maker": "Robert Beatty",
+   "title": "Untitled",
+   "subtitle": "Album cover · artist and title unrecorded · Trendland plate 03",
+   "source_url": "https://trendland.com/airbrushed-album-covers-by-robert-beatty/",
+   "verified_against": "Trendland's 2016 feature \"Airbrushed Album Covers by Robert Beatty\", which attributes the whole set to him.",
+   "notes": [
+    "⚠️ NEITHER THE RECORDING ARTIST NOR THE TITLE IS KNOWN. Trendland presents these as Beatty's album covers but captions none of them, and this one did not match anything on Beatty's own portfolio when every project page there was hashed against it. It is held as Untitled rather than guessed at.",
+    "Trendland published the set in June 2016, so the work is no later than that; no year is claimed."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/rb2_final/trendland-03.jpg",
+   "source_px": [
+    800,
+    800
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Robert Beatty"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Trendland's 2016 feature \"Airbrushed Album Covers by Robert Beatty\", which attributes the whole set to him.",
+   "hue": 5.27,
+   "light": 0.8064,
+   "chroma": 0.887
+  },
+  "trendland::robert-beatty-2016::plate-04": {
+   "id": "CRVI000735",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000735.jpg",
+   "original_px": [
+    800,
+    800
+   ],
+   "original_bytes": 200349,
+   "identity": "trendland::robert-beatty-2016::plate-04",
+   "maker": "Robert Beatty",
+   "title": "Untitled",
+   "subtitle": "Album cover · artist and title unrecorded · Trendland plate 04",
+   "source_url": "https://trendland.com/airbrushed-album-covers-by-robert-beatty/",
+   "verified_against": "Trendland's 2016 feature \"Airbrushed Album Covers by Robert Beatty\", which attributes the whole set to him.",
+   "notes": [
+    "⚠️ NEITHER THE RECORDING ARTIST NOR THE TITLE IS KNOWN. Trendland presents these as Beatty's album covers but captions none of them, and this one did not match anything on Beatty's own portfolio when every project page there was hashed against it. It is held as Untitled rather than guessed at.",
+    "Trendland published the set in June 2016, so the work is no later than that; no year is claimed."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/rb2_final/trendland-04.jpg",
+   "source_px": [
+    800,
+    800
+   ],
+   "colors": [
+    "green",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Robert Beatty"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Trendland's 2016 feature \"Airbrushed Album Covers by Robert Beatty\", which attributes the whole set to him.",
+   "hue": 101.58,
+   "light": 0.7751,
+   "chroma": 0.9298
+  },
+  "trendland::robert-beatty-2016::plate-05": {
+   "id": "CRVI000736",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000736.jpg",
+   "original_px": [
+    800,
+    800
+   ],
+   "original_bytes": 296885,
+   "identity": "trendland::robert-beatty-2016::plate-05",
+   "maker": "Robert Beatty",
+   "title": "Untitled",
+   "subtitle": "Album cover · artist and title unrecorded · Trendland plate 05",
+   "source_url": "https://trendland.com/airbrushed-album-covers-by-robert-beatty/",
+   "verified_against": "Trendland's 2016 feature \"Airbrushed Album Covers by Robert Beatty\", which attributes the whole set to him.",
+   "notes": [
+    "⚠️ NEITHER THE RECORDING ARTIST NOR THE TITLE IS KNOWN. Trendland presents these as Beatty's album covers but captions none of them, and this one did not match anything on Beatty's own portfolio when every project page there was hashed against it. It is held as Untitled rather than guessed at.",
+    "Trendland published the set in June 2016, so the work is no later than that; no year is claimed."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/rb2_final/trendland-05.jpg",
+   "source_px": [
+    800,
+    800
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Robert Beatty"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Trendland's 2016 feature \"Airbrushed Album Covers by Robert Beatty\", which attributes the whole set to him.",
+   "hue": 26.99,
+   "light": 0.5301,
+   "chroma": 0.9936
+  },
+  "trendland::robert-beatty-2016::plate-06": {
+   "id": "CRVI000737",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000737.jpg",
+   "original_px": [
+    1250,
+    1436
+   ],
+   "original_bytes": 540574,
+   "identity": "trendland::robert-beatty-2016::plate-06",
+   "maker": "Robert Beatty",
+   "title": "Untitled",
+   "subtitle": "Album cover · artist and title unrecorded · Trendland plate 06",
+   "source_url": "https://trendland.com/airbrushed-album-covers-by-robert-beatty/",
+   "verified_against": "Trendland's 2016 feature \"Airbrushed Album Covers by Robert Beatty\", which attributes the whole set to him.",
+   "notes": [
+    "⚠️ NEITHER THE RECORDING ARTIST NOR THE TITLE IS KNOWN. Trendland presents these as Beatty's album covers but captions none of them, and this one did not match anything on Beatty's own portfolio when every project page there was hashed against it. It is held as Untitled rather than guessed at.",
+    "Trendland published the set in June 2016, so the work is no later than that; no year is claimed."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/rb2_final/trendland-06.jpg",
+   "source_px": [
+    1250,
+    1436
+   ],
+   "colors": [
+    "orange",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Robert Beatty"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Trendland's 2016 feature \"Airbrushed Album Covers by Robert Beatty\", which attributes the whole set to him.",
+   "hue": 16.76,
+   "light": 0.8009,
+   "chroma": 0.4074
+  },
+  "trendland::robert-beatty-2016::plate-07": {
+   "id": "CRVI000738",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000738.jpg",
+   "original_px": [
+    800,
+    1200
+   ],
+   "original_bytes": 568817,
+   "identity": "trendland::robert-beatty-2016::plate-07",
+   "maker": "Robert Beatty",
+   "title": "Untitled",
+   "subtitle": "Album cover · artist and title unrecorded · Trendland plate 07",
+   "source_url": "https://trendland.com/airbrushed-album-covers-by-robert-beatty/",
+   "verified_against": "Trendland's 2016 feature \"Airbrushed Album Covers by Robert Beatty\", which attributes the whole set to him.",
+   "notes": [
+    "⚠️ NEITHER THE RECORDING ARTIST NOR THE TITLE IS KNOWN. Trendland presents these as Beatty's album covers but captions none of them, and this one did not match anything on Beatty's own portfolio when every project page there was hashed against it. It is held as Untitled rather than guessed at.",
+    "Trendland published the set in June 2016, so the work is no later than that; no year is claimed."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/rb2_final/trendland-07.jpg",
+   "source_px": [
+    800,
+    1200
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Robert Beatty"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Trendland's 2016 feature \"Airbrushed Album Covers by Robert Beatty\", which attributes the whole set to him.",
+   "hue": 43.31,
+   "light": 0.2607,
+   "chroma": 0.5443
+  },
+  "trendland::robert-beatty-2016::plate-10": {
+   "id": "CRVI000739",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000739.jpg",
+   "original_px": [
+    1200,
+    1315
+   ],
+   "original_bytes": 700668,
+   "identity": "trendland::robert-beatty-2016::plate-10",
+   "maker": "Robert Beatty",
+   "title": "Untitled",
+   "subtitle": "Album cover · artist and title unrecorded · Trendland plate 10",
+   "source_url": "https://trendland.com/airbrushed-album-covers-by-robert-beatty/",
+   "verified_against": "Trendland's 2016 feature \"Airbrushed Album Covers by Robert Beatty\", which attributes the whole set to him.",
+   "notes": [
+    "⚠️ NEITHER THE RECORDING ARTIST NOR THE TITLE IS KNOWN. Trendland presents these as Beatty's album covers but captions none of them, and this one did not match anything on Beatty's own portfolio when every project page there was hashed against it. It is held as Untitled rather than guessed at.",
+    "Trendland published the set in June 2016, so the work is no later than that; no year is claimed."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/rb2_final/trendland-10.jpg",
+   "source_px": [
+    1200,
+    1315
+   ],
+   "colors": [
+    "pink",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Robert Beatty"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Trendland's 2016 feature \"Airbrushed Album Covers by Robert Beatty\", which attributes the whole set to him.",
+   "hue": 349.1,
+   "light": 0.5554,
+   "chroma": 0.9016
+  },
+  "trendland::robert-beatty-2016::plate-11": {
+   "id": "CRVI000740",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000740.jpg",
+   "original_px": [
+    800,
+    800
+   ],
+   "original_bytes": 279738,
+   "identity": "trendland::robert-beatty-2016::plate-11",
+   "maker": "Robert Beatty",
+   "title": "Untitled",
+   "subtitle": "Album cover · artist and title unrecorded · Trendland plate 11",
+   "source_url": "https://trendland.com/airbrushed-album-covers-by-robert-beatty/",
+   "verified_against": "Trendland's 2016 feature \"Airbrushed Album Covers by Robert Beatty\", which attributes the whole set to him.",
+   "notes": [
+    "⚠️ NEITHER THE RECORDING ARTIST NOR THE TITLE IS KNOWN. Trendland presents these as Beatty's album covers but captions none of them, and this one did not match anything on Beatty's own portfolio when every project page there was hashed against it. It is held as Untitled rather than guessed at.",
+    "Trendland published the set in June 2016, so the work is no later than that; no year is claimed."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/rb2_final/trendland-11.jpg",
+   "source_px": [
+    800,
+    800
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Robert Beatty"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Trendland's 2016 feature \"Airbrushed Album Covers by Robert Beatty\", which attributes the whole set to him.",
+   "hue": 31.92,
+   "light": 0.5223,
+   "chroma": 0.9371
+  },
+  "trendland::robert-beatty-2016::plate-12": {
+   "id": "CRVI000741",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000741.jpg",
+   "original_px": [
+    1200,
+    922
+   ],
+   "original_bytes": 455210,
+   "identity": "trendland::robert-beatty-2016::plate-12",
+   "maker": "Robert Beatty",
+   "title": "Untitled",
+   "subtitle": "Album cover · artist and title unrecorded · Trendland plate 12",
+   "source_url": "https://trendland.com/airbrushed-album-covers-by-robert-beatty/",
+   "verified_against": "Trendland's 2016 feature \"Airbrushed Album Covers by Robert Beatty\", which attributes the whole set to him.",
+   "notes": [
+    "⚠️ NEITHER THE RECORDING ARTIST NOR THE TITLE IS KNOWN. Trendland presents these as Beatty's album covers but captions none of them, and this one did not match anything on Beatty's own portfolio when every project page there was hashed against it. It is held as Untitled rather than guessed at.",
+    "Trendland published the set in June 2016, so the work is no later than that; no year is claimed."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/rb2_final/trendland-12.jpg",
+   "source_px": [
+    1200,
+    922
+   ],
+   "colors": [
+    "pink",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Robert Beatty"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Trendland's 2016 feature \"Airbrushed Album Covers by Robert Beatty\", which attributes the whole set to him.",
+   "hue": 322.26,
+   "light": 0.6703,
+   "chroma": 0.7529
+  },
+  "trendland::george-greaves::bridge": {
+   "id": "CRVI000742",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000742.jpg",
+   "original_px": [
+    1112,
+    1600
+   ],
+   "original_bytes": 307240,
+   "identity": "trendland::george-greaves::bridge",
+   "maker": "George Greaves",
+   "title": "Untitled",
+   "subtitle": "Illustration",
+   "source_url": "https://trendland.com/george-greaves-surrealist-illustrations/",
+   "verified_against": "Trendland's feature on George Greaves' surrealist illustrations. Greaves is a Bristol-based British illustrator, a graduate of the University of Westminster, who co-founded Printed Goods with his twin brother Raphael.",
+   "notes": [
+    "⚠️ NOT A ROBERT BEATTY WORK. This arrived among a run of Beatty images but is by George Greaves, and is attributed here to him.",
+    "No title is recorded; Trendland captions none of the set.",
+    "Trendland's upload path dates this file to February 2017."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/rb2_final/greaves-bridge.jpg",
+   "source_px": [
+    1112,
+    1600
+   ],
+   "colors": [
+    "cyan",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "illustrator",
+     "v": "George Greaves"
+    },
+    {
+     "k": "type",
+     "v": "illustration"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Trendland's feature on George Greaves' surrealist illustrations. Greaves is a Bristol-based British illustrator, a graduate of the University of Westminster, who co-founded Printed Goods with his twin brother Raphael.",
+   "hue": 184.5,
+   "light": 0.2861,
+   "chroma": 0.9385
+  },
+  "trendland::george-greaves::window": {
+   "id": "CRVI000743",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000743.jpg",
+   "original_px": [
+    810,
+    1116
+   ],
+   "original_bytes": 232504,
+   "identity": "trendland::george-greaves::window",
+   "maker": "George Greaves",
+   "title": "Untitled",
+   "subtitle": "Illustration",
+   "source_url": "https://trendland.com/george-greaves-surrealist-illustrations/",
+   "verified_against": "Trendland's feature on George Greaves' surrealist illustrations. Greaves is a Bristol-based British illustrator, a graduate of the University of Westminster, who co-founded Printed Goods with his twin brother Raphael.",
+   "notes": [
+    "⚠️ NOT A ROBERT BEATTY WORK. This arrived among a run of Beatty images but is by George Greaves, and is attributed here to him.",
+    "No title is recorded; Trendland captions none of the set.",
+    "Cropped from a two-up image at Todd's request — this is the right-hand plate of the pair. Trendland's upload path dates the file to February 2021."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/rb2_final/greaves-window.jpg",
+   "source_px": [
+    810,
+    1116
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "illustrator",
+     "v": "George Greaves"
+    },
+    {
+     "k": "type",
+     "v": "illustration"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Trendland's feature on George Greaves' surrealist illustrations. Greaves is a Bristol-based British illustrator, a graduate of the University of Westminster, who co-founded Printed Goods with his twin brother Raphael.",
+   "hue": 35.3,
+   "light": 0.8007,
+   "chroma": 0.6132
+  },
+  "aiga::keedy-cranbrook-fiber": {
+   "id": "CRVI000744",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000744.jpg",
+   "original_px": [
+    2000,
+    2515
+   ],
+   "original_bytes": 1417841,
+   "identity": "aiga::keedy-cranbrook-fiber",
+   "maker": "Jeffery Keedy",
+   "title": "Cranbrook Graduate Studies in Fiber",
+   "subtitle": "Poster",
+   "source_url": "https://eyeondesign.aiga.org/",
+   "verified_against": "AIGA Eye on Design, which publishes the file as \"Keedy-Jeffery_Cranbrook-Graduate-Studies-in-Fiber\", naming both the designer and the work.",
+   "notes": [
+    "⚠️ NOT A ROBERT BEATTY WORK. It arrived in the same batch but is by the American designer Jeffery Keedy.",
+    "Held at 2000px, the full size AIGA publishes, rather than the 814px copy their page displays.",
+    "No year is recorded. AIGA's filename gives none and none is claimed here."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/rb2_final/keedy-cranbrook-fiber.jpg",
+   "source_px": [
+    2000,
+    2515
+   ],
+   "colors": [
+    "orange",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Jeffery Keedy"
+    },
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "client",
+     "v": "Cranbrook Academy of Art"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "AIGA Eye on Design, which publishes the file as \"Keedy-Jeffery_Cranbrook-Graduate-Studies-in-Fiber\", naming both the designer and the work.",
+   "hue": 43.92,
+   "light": 0.6271,
+   "chroma": 0.9889
   }
  }
 }
