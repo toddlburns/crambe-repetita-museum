@@ -1,5 +1,5 @@
 {
- "next": 710,
+ "next": 721,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -39546,6 +39546,627 @@
    "hue": null,
    "light": 0.1501,
    "chroma": 0.0907
+  },
+  "robertbeatty::tame-impala-currents": {
+   "id": "CRVI000710",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000710.webp",
+   "original_px": [
+    2008,
+    2008
+   ],
+   "original_bytes": 1915960,
+   "identity": "robertbeatty::tame-impala-currents",
+   "maker": "Tame Impala",
+   "title": "Currents",
+   "subtitle": "Designed by Robert Beatty · Modular Recordings",
+   "year": "2015",
+   "source_url": "https://www.itsnicethat.com/features/robert-beatty-illustration-spotlight-200726",
+   "verified_against": "It's Nice That's July 2026 feature on Robert Beatty, which reproduces the work and captions it \"Robert Beatty: Currents (Copyright © Tame Impala, 2015)\". Beatty's authorship of the Currents artwork is separately well documented, including his own interview about it for Vice's Creators.",
+   "notes": [
+    "Part of the Currents campaign artwork Beatty made for Tame Impala in 2015 — the album cover and a run of single covers sharing one visual system: a field of fine parallel lines bent around a solid form, as if the object were disturbing the surface it sits on.",
+    "Taken from It's Nice That's own reproduction at 2008px. Apple Music serves this cover too but only at 1500px, so the magazine's file is the better one here — the reverse of the usual case."
+   ],
+   "label": "Modular Recordings",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/rb_final/currents.webp",
+   "source_px": [
+    2008,
+    2008
+   ],
+   "colors": [
+    "purple"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Tame Impala"
+    },
+    {
+     "k": "designer",
+     "v": "Robert Beatty"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Modular Recordings"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "It's Nice That's July 2026 feature on Robert Beatty, which reproduces the work and captions it \"Robert Beatty: Currents (Copyright © Tame Impala, 2015)\". Beatty's authorship of the Currents artwork is separately well documented, including his own interview about it for Vice's Creators.",
+   "hue": 274.77,
+   "light": 0.3288,
+   "chroma": 0.1619
+  },
+  "robertbeatty::tame-impala-disciples": {
+   "id": "CRVI000711",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000711.jpg",
+   "original_px": [
+    1250,
+    1250
+   ],
+   "original_bytes": 1231386,
+   "identity": "robertbeatty::tame-impala-disciples",
+   "maker": "Tame Impala",
+   "title": "Disciples",
+   "subtitle": "Designed by Robert Beatty",
+   "year": "2015",
+   "source_url": "https://www.itsnicethat.com/features/robert-beatty-illustration-spotlight-200726",
+   "verified_against": "It's Nice That's July 2026 feature on Robert Beatty, which reproduces the work and captions it \"Robert Beatty: Disciples (Copyright © Tame Impala, 2015)\". The artwork here is the released single cover, from the Cover Art Archive entry for the MusicBrainz release group for Disciples (2015-05-01).",
+   "notes": [
+    "Part of the Currents campaign artwork Beatty made for Tame Impala in 2015 — the album cover and a run of single covers sharing one visual system: a field of fine parallel lines bent around a solid form, as if the object were disturbing the surface it sits on.",
+    "The single is not on Apple Music or Deezer as its own release, so the cover came from the Cover Art Archive at 1250px rather than a streaming service."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/rb_final/disciples.jpg",
+   "source_px": [
+    1250,
+    1250
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Tame Impala"
+    },
+    {
+     "k": "designer",
+     "v": "Robert Beatty"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "It's Nice That's July 2026 feature on Robert Beatty, which reproduces the work and captions it \"Robert Beatty: Disciples (Copyright © Tame Impala, 2015)\". The artwork here is the released single cover, from the Cover Art Archive entry for the MusicBrainz release group for Disciples (2015-05-01).",
+   "hue": 15.01,
+   "light": 0.3921,
+   "chroma": 0.9701
+  },
+  "robertbeatty::tame-impala-eventually": {
+   "id": "CRVI000712",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000712.jpg",
+   "original_px": [
+    800,
+    800
+   ],
+   "original_bytes": 169864,
+   "identity": "robertbeatty::tame-impala-eventually",
+   "maker": "Tame Impala",
+   "title": "Eventually",
+   "subtitle": "Designed by Robert Beatty",
+   "year": "2015",
+   "source_url": "https://www.itsnicethat.com/features/robert-beatty-illustration-spotlight-200726",
+   "verified_against": "It's Nice That's July 2026 feature on Robert Beatty, which reproduces the work and captions it \"Robert Beatty: Eventually (Copyright © Tame Impala, 2015)\". The artwork here is the released single cover, from the Cover Art Archive entry for the MusicBrainz release group for Eventually (2015-05-08).",
+   "notes": [
+    "Part of the Currents campaign artwork Beatty made for Tame Impala in 2015 — the album cover and a run of single covers sharing one visual system: a field of fine parallel lines bent around a solid form, as if the object were disturbing the surface it sits on.",
+    "⚠️ THE SMALLEST FILE IN THIS GROUP, at 800px. The single is on neither Apple Music nor Deezer as its own release, the Cover Art Archive holds only this size, and It's Nice That's own copy would not load. Worth replacing if a larger one ever turns up."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/rb_final/eventually.jpg",
+   "source_px": [
+    800,
+    800
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Tame Impala"
+    },
+    {
+     "k": "designer",
+     "v": "Robert Beatty"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "It's Nice That's July 2026 feature on Robert Beatty, which reproduces the work and captions it \"Robert Beatty: Eventually (Copyright © Tame Impala, 2015)\". The artwork here is the released single cover, from the Cover Art Archive entry for the MusicBrainz release group for Eventually (2015-05-08).",
+   "hue": 206.2,
+   "light": 0.3835,
+   "chroma": 0.8145
+  },
+  "robertbeatty::helado-negro-last-sound-on-earth": {
+   "id": "CRVI000713",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000713.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 3547271,
+   "identity": "robertbeatty::helado-negro-last-sound-on-earth",
+   "maker": "Helado Negro",
+   "title": "The Last Sound On Earth",
+   "subtitle": "Designed by Robert Beatty",
+   "year": "2025",
+   "source_url": "https://www.itsnicethat.com/features/robert-beatty-illustration-spotlight-200726",
+   "verified_against": "It's Nice That's July 2026 feature on Robert Beatty, which reproduces the work and captions it \"Robert Beatty: The Last Sound On Earth (Copyright © Helado Negro, 2025)\". Apple Music lists The Last Sound On Earth - EP, released 7 November 2025, with this artwork.",
+   "notes": [
+    "Held at 3000px from Apple Music, which is larger than the magazine's own 2880px reproduction."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/rb_final/last-sound-on-earth.jpg",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Helado Negro"
+    },
+    {
+     "k": "designer",
+     "v": "Robert Beatty"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "It's Nice That's July 2026 feature on Robert Beatty, which reproduces the work and captions it \"Robert Beatty: The Last Sound On Earth (Copyright © Helado Negro, 2025)\". Apple Music lists The Last Sound On Earth - EP, released 7 November 2025, with this artwork.",
+   "hue": 6.42,
+   "light": 0.5748,
+   "chroma": 0.7677
+  },
+  "robertbeatty::3-day-gallon-ahem": {
+   "id": "CRVI000714",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000714.webp",
+   "original_px": [
+    2493,
+    3468
+   ],
+   "original_bytes": 1325346,
+   "identity": "robertbeatty::3-day-gallon-ahem",
+   "maker": "Robert Beatty",
+   "title": "3 Day Gallon",
+   "subtitle": "Ahem Editions print",
+   "year": "2026",
+   "source_url": "https://www.itsnicethat.com/features/robert-beatty-illustration-spotlight-200726",
+   "verified_against": "It's Nice That's July 2026 feature on Robert Beatty, which reproduces the work and captions it \"Robert Beatty: 3 Day Gallon (Ahem Editions) (Copyright © Robert Beatty, 2026)\".",
+   "notes": [
+    "Beatty's own work rather than a commission, published through Ahem Editions, the imprint he runs.",
+    "The reproduction is of a folded sheet and the fold is visible down the centre — that is the object, not a fault in the file."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/rb_final/3-day-gallon.webp",
+   "source_px": [
+    2493,
+    3468
+   ],
+   "colors": [
+    "orange",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Robert Beatty"
+    },
+    {
+     "k": "artist",
+     "v": "Robert Beatty"
+    },
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "It's Nice That's July 2026 feature on Robert Beatty, which reproduces the work and captions it \"Robert Beatty: 3 Day Gallon (Ahem Editions) (Copyright © Robert Beatty, 2026)\".",
+   "hue": 42.68,
+   "light": 0.6625,
+   "chroma": 0.7237
+  },
+  "robertbeatty::hunx-walk-out-on-this-world": {
+   "id": "CRVI000715",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000715.webp",
+   "original_px": [
+    2880,
+    2880
+   ],
+   "original_bytes": 1960866,
+   "identity": "robertbeatty::hunx-walk-out-on-this-world",
+   "maker": "Hunx And His Punx",
+   "title": "Walk Out On This World",
+   "subtitle": "Designed by Robert Beatty",
+   "year": "2025",
+   "source_url": "https://www.itsnicethat.com/features/robert-beatty-illustration-spotlight-200726",
+   "verified_against": "It's Nice That's July 2026 feature on Robert Beatty, which reproduces the work and captions it \"Robert Beatty: Walk Out On This World (Copyright © Hunx And His Punx, 2025)\".",
+   "notes": [
+    "Not on Apple Music or Deezer under this title, so the magazine's reproduction is the only source found; it is held at 2880px."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/rb_final/walk-out-on-this-world.webp",
+   "source_px": [
+    2880,
+    2880
+   ],
+   "colors": [
+    "red",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Hunx And His Punx"
+    },
+    {
+     "k": "designer",
+     "v": "Robert Beatty"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "It's Nice That's July 2026 feature on Robert Beatty, which reproduces the work and captions it \"Robert Beatty: Walk Out On This World (Copyright © Hunx And His Punx, 2025)\".",
+   "hue": 9.91,
+   "light": 0.3436,
+   "chroma": 0.6359
+  },
+  "robertbeatty::thee-oh-sees-joe-westerland": {
+   "id": "CRVI000716",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000716.webp",
+   "original_px": [
+    2880,
+    2880
+   ],
+   "original_bytes": 2065368,
+   "identity": "robertbeatty::thee-oh-sees-joe-westerland",
+   "maker": "Thee Oh Sees",
+   "title": "Joe Westerland",
+   "subtitle": "Designed by Robert Beatty",
+   "year": "2025",
+   "source_url": "https://www.itsnicethat.com/features/robert-beatty-illustration-spotlight-200726",
+   "verified_against": "It's Nice That's July 2026 feature on Robert Beatty, which reproduces the work and captions it \"Robert Beatty: Joe Westerland (Copyright © Thee Oh Sees, 2025)\".",
+   "notes": [
+    "⚠️ THE TITLE IS THE MAGAZINE'S AND IS NOT CORROBORATED. It's Nice That captions this 'Joe Westerland' and names Thee Oh Sees, and its file is named Joe-Westerland-3k.png, but no Thee Oh Sees release by that name could be found — their 2025 album is Abomination Revealed at Last, which is not on Apple Music to compare artwork against. 'Joe Westerland' may be the work's title, a person, or the magazine's error. What is recorded here is exactly what the caption says and no more; do not harden it without a source.",
+    "The type is recorded as album cover on the strength of the Thee Oh Sees credit alone. If the title resolves to something else, that tag may need to change with it."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/rb_final/joe-westerland.webp",
+   "source_px": [
+    2880,
+    2880
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Thee Oh Sees"
+    },
+    {
+     "k": "designer",
+     "v": "Robert Beatty"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "It's Nice That's July 2026 feature on Robert Beatty, which reproduces the work and captions it \"Robert Beatty: Joe Westerland (Copyright © Thee Oh Sees, 2025)\".",
+   "hue": 30.98,
+   "light": 0.6935,
+   "chroma": 0.8184
+  },
+  "robertbeatty::magic-opn-back-cover": {
+   "id": "CRVI000717",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000717.png",
+   "original_px": [
+    2500,
+    2500
+   ],
+   "original_bytes": 11884837,
+   "identity": "robertbeatty::magic-opn-back-cover",
+   "maker": "Oneohtrix Point Never",
+   "title": "Magic Oneohtrix Point Never",
+   "subtitle": "Back cover · designed by Robert Beatty · Warp Records",
+   "year": "2020",
+   "source_url": "https://www.robertbeattyart.com/Magic-Oneohtrix-Point-Never",
+   "verified_against": "Robert Beatty's own portfolio at robertbeattyart.com, where the file is published as MOPN-Back-cover-2500px.png on his Magic Oneohtrix Point Never project page. It's Nice That's July 2026 feature reproduces the same image and captions it to him.",
+   "notes": [
+    "From the artist's own site rather than the magazine. It's Nice That serves a 2880px copy, but Beatty's own file is named 2500px and is 2500px, so the magazine's larger version is an upscale of this.",
+    "This is the back cover. The album's front is a different image again — black and white concentric hexagons with an iridescent smear — which is not held here."
+   ],
+   "label": "Warp Records",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/rb_final/mopn-back-cover.png",
+   "source_px": [
+    2500,
+    2500
+   ],
+   "colors": [
+    "green",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Oneohtrix Point Never"
+    },
+    {
+     "k": "designer",
+     "v": "Robert Beatty"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Warp Records"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Robert Beatty's own portfolio at robertbeattyart.com, where the file is published as MOPN-Back-cover-2500px.png on his Magic Oneohtrix Point Never project page. It's Nice That's July 2026 feature reproduces the same image and captions it to him.",
+   "hue": 110.59,
+   "light": 0.449,
+   "chroma": 0.9836
+  },
+  "robertbeatty::magic-opn-insert-a": {
+   "id": "CRVI000718",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000718.png",
+   "original_px": [
+    1200,
+    1200
+   ],
+   "original_bytes": 2640610,
+   "identity": "robertbeatty::magic-opn-insert-a",
+   "maker": "Oneohtrix Point Never",
+   "title": "Magic Oneohtrix Point Never",
+   "subtitle": "Insert panel A · designed by Robert Beatty · Warp Records",
+   "year": "2020",
+   "source_url": "https://www.robertbeattyart.com/Magic-Oneohtrix-Point-Never",
+   "verified_against": "Robert Beatty's own portfolio at robertbeattyart.com, where the file is published as MAGICOPN-InsertA.png on his Magic Oneohtrix Point Never project page.",
+   "notes": [
+    "One panel of the record's insert. Beatty published panels 1 and A-D; A, B and C are held here.",
+    "1200px is the largest size the artist posted, and It's Nice That did not reproduce these panels at all, so this is the best available."
+   ],
+   "label": "Warp Records",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/rb_final/mopn-insert-a.png",
+   "source_px": [
+    1200,
+    1200
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Oneohtrix Point Never"
+    },
+    {
+     "k": "designer",
+     "v": "Robert Beatty"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Warp Records"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Robert Beatty's own portfolio at robertbeattyart.com, where the file is published as MAGICOPN-InsertA.png on his Magic Oneohtrix Point Never project page.",
+   "hue": 54.81,
+   "light": 0.4521,
+   "chroma": 0.5097
+  },
+  "robertbeatty::magic-opn-insert-b": {
+   "id": "CRVI000719",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000719.png",
+   "original_px": [
+    1200,
+    1200
+   ],
+   "original_bytes": 2680827,
+   "identity": "robertbeatty::magic-opn-insert-b",
+   "maker": "Oneohtrix Point Never",
+   "title": "Magic Oneohtrix Point Never",
+   "subtitle": "Insert panel B · designed by Robert Beatty · Warp Records",
+   "year": "2020",
+   "source_url": "https://www.robertbeattyart.com/Magic-Oneohtrix-Point-Never",
+   "verified_against": "Robert Beatty's own portfolio at robertbeattyart.com, where the file is published as MAGICOPN-InsertB.png on his Magic Oneohtrix Point Never project page.",
+   "notes": [
+    "One panel of the record's insert. Beatty published panels 1 and A-D; A, B and C are held here.",
+    "1200px is the largest size the artist posted, and It's Nice That did not reproduce these panels at all, so this is the best available."
+   ],
+   "label": "Warp Records",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/rb_final/mopn-insert-b.png",
+   "source_px": [
+    1200,
+    1200
+   ],
+   "colors": [
+    "green",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Oneohtrix Point Never"
+    },
+    {
+     "k": "designer",
+     "v": "Robert Beatty"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Warp Records"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Robert Beatty's own portfolio at robertbeattyart.com, where the file is published as MAGICOPN-InsertB.png on his Magic Oneohtrix Point Never project page.",
+   "hue": 115.38,
+   "light": 0.5285,
+   "chroma": 0.5177
+  },
+  "robertbeatty::magic-opn-insert-c": {
+   "id": "CRVI000720",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000720.png",
+   "original_px": [
+    1200,
+    1200
+   ],
+   "original_bytes": 2425446,
+   "identity": "robertbeatty::magic-opn-insert-c",
+   "maker": "Oneohtrix Point Never",
+   "title": "Magic Oneohtrix Point Never",
+   "subtitle": "Insert panel C · designed by Robert Beatty · Warp Records",
+   "year": "2020",
+   "source_url": "https://www.robertbeattyart.com/Magic-Oneohtrix-Point-Never",
+   "verified_against": "Robert Beatty's own portfolio at robertbeattyart.com, where the file is published as MAGICOPN-InsertC.png on his Magic Oneohtrix Point Never project page.",
+   "notes": [
+    "One panel of the record's insert. Beatty published panels 1 and A-D; A, B and C are held here.",
+    "1200px is the largest size the artist posted, and It's Nice That did not reproduce these panels at all, so this is the best available."
+   ],
+   "label": "Warp Records",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/rb_final/mopn-insert-c.png",
+   "source_px": [
+    1200,
+    1200
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Oneohtrix Point Never"
+    },
+    {
+     "k": "designer",
+     "v": "Robert Beatty"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Warp Records"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Robert Beatty's own portfolio at robertbeattyart.com, where the file is published as MAGICOPN-InsertC.png on his Magic Oneohtrix Point Never project page.",
+   "hue": null,
+   "light": 0.6398,
+   "chroma": 0.0769
   }
  }
 }
