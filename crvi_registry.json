@@ -41556,11 +41556,12 @@
    "identity_established": true,
    "published": false,
    "verification": "It's Nice That's feature \"Sam Wenc's handmade album covers for independent music prove the importance of doing it yourself\", which reproduces the work and captions it \"Sam Wenc: Yo La Tengo: Old Joy (Copyright © Sam Wenc, 2026)\".",
-   "hue": 40.67,
-   "light": 0.6823,
-   "chroma": 0.4853,
+   "hue": 199.31,
+   "light": 0.2148,
+   "chroma": 0.4995,
    "deleted": true,
-   "deleted_on": "2026-08-30"
+   "deleted_on": "2026-08-30",
+   "number_reused": true
   },
   "samwenc::old-joy-soundtrack": {
    "id": "CRVI000749",
@@ -41617,11 +41618,12 @@
    "identity_established": true,
    "published": false,
    "verification": "It's Nice That's feature \"Sam Wenc's handmade album covers for independent music prove the importance of doing it yourself\", which reproduces the work and captions it \"Sam Wenc: Yo La Tengo: Old Joy (Copyright © Sam Wenc, 2026)\".",
-   "hue": 28.95,
-   "light": 0.4348,
-   "chroma": 0.3949,
+   "hue": 43.82,
+   "light": 0.4772,
+   "chroma": 0.5199,
    "deleted": true,
-   "deleted_on": "2026-08-30"
+   "deleted_on": "2026-08-30",
+   "number_reused": true
   },
   "samwenc::arvo-part": {
    "id": "CRVI000750",
@@ -41912,6 +41914,134 @@
    "hue": 348.3,
    "light": 0.6469,
    "chroma": 0.9627
+  },
+  "davidpelham::stapledon-sirius": {
+   "id": "CRVI000748",
+   "minted": "2026-08-27",
+   "reused": true,
+   "previously": {
+    "identity": "samwenc::old-joy-poster",
+    "maker": "Yo La Tengo",
+    "title": "Old Joy",
+    "deleted_on": "2026-08-30"
+   },
+   "original_file": "originals/CRVI000748.jpg",
+   "original_px": [
+    720,
+    1152
+   ],
+   "original_bytes": 639622,
+   "identity": "davidpelham::stapledon-sirius",
+   "maker": "Olaf Stapledon",
+   "title": "Sirius",
+   "year": "1972",
+   "subtitle": "Designed by David Pelham · Penguin Science Fiction",
+   "label": "Penguin Books",
+   "source_url": "https://retrobookcovers.com/sirius-by-olaf-stapledon/",
+   "verified_against": "Retro Book Covers' page for this edition, which states that it was published by Penguin Books in 1972 as Penguin's second edition of Sirius, released alongside several other Stapledon titles, and that all of them carry covers by David Pelham — art director at Penguin from 1968 to 1979.",
+   "notes": [
+    "The whole cover, not the crop it is usually seen as. Todd first sent the detail — the wired dog's head alone — and asked for the cover it came from; this is it, with the type and the purple circuit board of bones running along the foot.",
+    "The subject explains the wiring: Stapledon's 1944 novel is about a dog given human intelligence by experiment.",
+    "Held at 720px, the largest the source publishes. Below what the archive displays, and worth replacing if a bigger scan turns up."
+   ],
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/add2/pelham-sirius.jpg",
+   "source_px": [
+    720,
+    1152
+   ],
+   "colors": [
+    "pink",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Olaf Stapledon"
+    },
+    {
+     "k": "designer",
+     "v": "David Pelham"
+    },
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "label",
+     "v": "Penguin Books"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Retro Book Covers' page for this edition, which states that it was published by Penguin Books in 1972 as Penguin's second edition of Sirius, released alongside several other Stapledon titles, and that all of them carry covers by David Pelham — art director at Penguin from 1968 to 1979.",
+   "hue": 199.31,
+   "light": 0.2148,
+   "chroma": 0.4995
+  },
+  "jimcherry::mondo-face": {
+   "id": "CRVI000749",
+   "minted": "2026-08-27",
+   "reused": true,
+   "previously": {
+    "identity": "samwenc::old-joy-soundtrack",
+    "maker": "Yo La Tengo",
+    "title": "Old Joy",
+    "deleted_on": "2026-08-30"
+   },
+   "original_file": "originals/CRVI000749.jpg",
+   "original_px": [
+    2550,
+    3509
+   ],
+   "original_bytes": 5400345,
+   "identity": "jimcherry::mondo-face",
+   "maker": "Jim Cherry",
+   "title": "Mondo Face",
+   "subtitle": "Airbrush illustration",
+   "source_url": "https://www.jimcherry.com/",
+   "verified_against": "Jim Cherry's own portfolio at jimcherry.com, where the file is published as Mondo_Face_1018.jpg. Cherry is the American airbrush illustrator who painted the cover of Yello's Claro Que Si (1981), and has worked for Nike, Volkswagen, GQ, MTV and The New York Times.",
+   "notes": [
+    "From the artist's own site at 2550x3509 — the full master, not a web copy.",
+    "Todd knew him as \"a guy named Cherry that once did a yello album cover\"; the Claro Que Si sleeve is the connection, and it is how the attribution here was established."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/add2/cherry-mondo-face.jpg",
+   "source_px": [
+    2550,
+    3509
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "illustrator",
+     "v": "Jim Cherry"
+    },
+    {
+     "k": "artist",
+     "v": "Jim Cherry"
+    },
+    {
+     "k": "type",
+     "v": "illustration"
+    },
+    {
+     "k": "medium",
+     "v": "airbrush"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Jim Cherry's own portfolio at jimcherry.com, where the file is published as Mondo_Face_1018.jpg. Cherry is the American airbrush illustrator who painted the cover of Yello's Claro Que Si (1981), and has worked for Nike, Volkswagen, GQ, MTV and The New York Times.",
+   "hue": 43.82,
+   "light": 0.4772,
+   "chroma": 0.5199
   }
  }
 }

@@ -35559,6 +35559,104 @@
    "light": 0.6152
   },
   {
+   "id": "CRVI000748",
+   "source_url": "https://retrobookcovers.com/sirius-by-olaf-stapledon/",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI000748.jpg",
+   "source_label": "",
+   "image": "images/CRVI000748.jpg",
+   "original": "originals/CRVI000748.jpg",
+   "original_px": [
+    720,
+    1152
+   ],
+   "original_bytes": 639622,
+   "maker": "Olaf Stapledon",
+   "title": "Sirius",
+   "subtitle": "Designed by David Pelham · Penguin Science Fiction",
+   "year": "1972",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Olaf Stapledon"
+    },
+    {
+     "k": "designer",
+     "v": "David Pelham"
+    },
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "label",
+     "v": "Penguin Books"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 199.31,
+   "light": 0.2148
+  },
+  {
+   "id": "CRVI000749",
+   "source_url": "https://www.jimcherry.com/",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI000749.jpg",
+   "source_label": "",
+   "image": "images/CRVI000749.jpg",
+   "original": "originals/CRVI000749.jpg",
+   "original_px": [
+    2550,
+    3509
+   ],
+   "original_bytes": 5400345,
+   "maker": "Jim Cherry",
+   "title": "Mondo Face",
+   "subtitle": "Airbrush illustration",
+   "year": "",
+   "tags": [
+    {
+     "k": "illustrator",
+     "v": "Jim Cherry"
+    },
+    {
+     "k": "artist",
+     "v": "Jim Cherry"
+    },
+    {
+     "k": "type",
+     "v": "illustration"
+    },
+    {
+     "k": "medium",
+     "v": "airbrush"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 43.82,
+   "light": 0.4772
+  },
+  {
    "id": "CRVI000754",
    "source_url": "https://www.itsnicethat.com/news/robert-beatty-away-holiday-campaign-illustration-161120",
    "animated": false,
