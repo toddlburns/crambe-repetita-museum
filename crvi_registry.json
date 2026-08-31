@@ -21044,11 +21044,12 @@
    "identity_established": true,
    "published": false,
    "verification": "Read off HOUSE definitive 1974-2014 (西村公輝+三田格, ele-king books) and confirmed by Todd against his own crop in the iTunes check page. iTunes returns it as Los Updates / Los Updates First If You Please (2008).",
-   "hue": 233.99,
-   "light": 0.5313,
-   "chroma": 0.1464,
+   "hue": null,
+   "light": 0.1501,
+   "chroma": 0.0907,
    "deleted": true,
-   "deleted_on": "2026-08-30"
+   "deleted_on": "2026-08-30",
+   "number_reused": true
   },
   "ele-king sweep::House Definitive::IMG_4393_1": {
    "id": "CRVI000405",
@@ -39484,6 +39485,67 @@
    "hue": 7.61,
    "light": 0.5893,
    "chroma": 0.7912
+  },
+  "x.com::beesandbombs::1283153051898060802": {
+   "id": "CRVI000404",
+   "minted": "2026-08-27",
+   "reused": true,
+   "previously": {
+    "identity": "ele-king sweep::House Definitive::IMG_4389_1",
+    "maker": "Los Updates",
+    "title": "Los Updates First If You Please",
+    "deleted_on": "2026-08-30"
+   },
+   "original_file": "originals/CRVI000404.mp4",
+   "display": "originals/CRVI000404.mp4",
+   "frames": 140,
+   "original_px": [
+    750,
+    750
+   ],
+   "original_bytes": 1267659,
+   "identity": "x.com::beesandbombs::1283153051898060802",
+   "maker": "Dave Whyte",
+   "title": "Untitled",
+   "subtitle": "Animation posted without a title · 750px · 140 frames, 2.8s loop",
+   "year": "2020",
+   "source_url": "https://x.com/beesandbombs/status/1283153051898060802",
+   "verified_against": "Posted 14 July 2020 by @beesandbombs, the account of the animator Dave Whyte, whose own site at beesandbombs.com carries that name. The post is the source and the artist is named by it; the file held here is the video X serves for that post.",
+   "notes": [
+    "⚠️ The artist made this as a GIF and X will not give that GIF back. X re-encodes every uploaded GIF to MP4 and serves only the MP4, so the best file that exists publicly is a video, and that is what the museum holds.",
+    "Re-encoding it back to a GIF would be a copy of a copy and enormous with it: a field of dots this dense defeats GIF's between-frame compression, so a faithful 750px 50fps GIF came to 51 MB, and even a halved 500px 25fps one to 13.5 MB, against 1.3 MB for the video held here. Todd chose to teach the site video rather than degrade the work.",
+    "The first item the archive holds as video rather than GIF. It plays on its own page and, in the grids, lays itself over its still frame on hover — the same bargain the GIFs make, where nothing is fetched until the pointer arrives.",
+    "The whole caption on the post is ':)'. The work is recorded as Untitled rather than given a name it was never published under."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/bb.mp4",
+   "source_px": [
+    750,
+    750
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Dave Whyte"
+    },
+    {
+     "k": "type",
+     "v": "animation"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Posted 14 July 2020 by @beesandbombs, the account of the animator Dave Whyte, whose own site at beesandbombs.com carries that name. The post is the source and the artist is named by it; the file held here is the video X serves for that post.",
+   "hue": null,
+   "light": 0.1501,
+   "chroma": 0.0907
   }
  }
 }

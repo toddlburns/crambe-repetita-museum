@@ -14,7 +14,7 @@ being looked at properly.
 ⚠️ For an animated item this is the FIRST FRAME. The grid shows it as a still and only fetches
 the GIF when hovered — the saving there comes from not setting src at all, not from pausing.
 """
-import json, os, sys
+import json, os, subprocess, sys, tempfile
 from PIL import Image
 
 HERE = os.path.dirname(os.path.realpath(__file__))
@@ -35,12 +35,23 @@ def main(force=False):
         if os.path.exists(dst) and not force:
             skipped += 1
         else:
-            im = Image.open(src)
+            # ⚠️ A VIDEO ITEM HAS NO FRAME PIL CAN READ. Pull the first one with ffmpeg and carry
+            # on through the same sizing path, so a held MP4 gets a grid still exactly like a GIF.
+            tmp = None
+            if src.lower().endswith((".mp4", ".webm")):
+                tmp = tempfile.NamedTemporaryFile(suffix=".png", delete=False).name
+                subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", src,
+                                "-frames:v", "1", tmp], check=True)
+                im = Image.open(tmp)
+            else:
+                im = Image.open(src)
             if getattr(im, "n_frames", 1) > 1:
                 im.seek(0)                       # animated: the still is frame one
             im = im.convert("RGB")
             im.thumbnail((MAX, MAX), Image.LANCZOS)
             im.save(dst, "JPEG", quality=86, optimize=True)
+            if tmp:
+                os.unlink(tmp)
             made += 1
         before += os.path.getsize(src)
         after += os.path.getsize(dst)

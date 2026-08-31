@@ -34,9 +34,20 @@ function stopGif(c){
   im.setAttribute('src',im.dataset.poster);
   delete im.dataset.playing;
 }
+// ⚠️ A VIDEO CANNOT BE SWAPPED INTO AN <img>. Where a gif item just changes src, a video item
+// lays a <video> over its still on hover and takes it away again on leave — same bargain as the
+// gif: nothing is on the wire until the pointer arrives, and a grid is never left all playing.
+function playVid(c){
+  var im=c.querySelector('img.anim'); if(!im) return;
+  var u=im.getAttribute('data-video'); if(!u||c.querySelector('video')) return;
+  var v=document.createElement('video');
+  v.src=u; v.autoplay=true; v.loop=true; v.muted=true; v.playsInline=true;
+  im.parentNode.appendChild(v);
+}
+function stopVid(c){ var v=c.querySelector('video'); if(v) v.parentNode.removeChild(v); }
 document.querySelectorAll('.cell').forEach(function(c){
   c.addEventListener('mouseenter',function(){
-    playGif(c);
+    playGif(c); playVid(c);
     clearTimeout(t);
     t=setTimeout(function(){
       // transform does not change layout, so push the caption below the grown image
@@ -46,7 +57,7 @@ document.querySelectorAll('.cell').forEach(function(c){
     },1000);
   });
   c.addEventListener('mouseleave',function(){
-    stopGif(c);
+    stopGif(c); stopVid(c);
     clearTimeout(t);c.classList.remove('big');c.querySelector('.cap').style.transform='';
   });
 });

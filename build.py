@@ -60,7 +60,7 @@ a{color:inherit;text-decoration:none}
 /* ⚠️ DO NOT WRAP THE IMAGE IN AN ANCHOR. The anchor has no definite height, so the image's
    max-height:100% resolves against `auto` and it renders at natural size — which blew every
    picture past the viewport. The link to the original lives in the corner instead. */
-.stage img{max-width:100%;max-height:100%;object-fit:contain;display:block}
+.stage img,.stage video{max-width:100%;max-height:100%;object-fit:contain;display:block}
 .tags{flex:0 0 auto;display:flex;flex-wrap:wrap;gap:5px 13px;padding:11px 18px 15px;
  border-top:1px solid var(--rule);font-size:11.5px}
 .tags a{color:var(--mute)}
@@ -179,7 +179,11 @@ a{color:inherit;text-decoration:none}
 .grid.small{grid-template-columns:repeat(auto-fill,minmax(64px,1fr));gap:10px;padding:18px 18px 160px}
 @media (max-width:700px){.grid.small{grid-template-columns:repeat(auto-fill,minmax(58px,1fr));gap:8px;padding:14px 14px 100px}}
 .cell{position:relative;cursor:pointer}
-.cell .inner{transition:transform .22s cubic-bezier(.2,.7,.3,1);transform-origin:left top}
+.cell .inner{position:relative;transition:transform .22s cubic-bezier(.2,.7,.3,1);
+ transform-origin:left top}
+/* the hover video sits exactly over the still it replaces, inside .inner so it scales with
+   the tile rather than staying put while the tile grows around it */
+.cell video{position:absolute;inset:0;width:100%;height:100%;display:block;object-fit:cover}
 .cell img{width:100%;display:block;background:var(--paper)}
 .cell .cap{opacity:0;font-size:11px;color:var(--mute);margin-top:6px;line-height:1.45;width:270px;
  transition:opacity .2s ease .05s,transform .22s cubic-bezier(.2,.7,.3,1);
@@ -226,9 +230,20 @@ function stopGif(c){
   im.setAttribute('src',im.dataset.poster);
   delete im.dataset.playing;
 }
+// ⚠️ A VIDEO CANNOT BE SWAPPED INTO AN <img>. Where a gif item just changes src, a video item
+// lays a <video> over its still on hover and takes it away again on leave — same bargain as the
+// gif: nothing is on the wire until the pointer arrives, and a grid is never left all playing.
+function playVid(c){
+  var im=c.querySelector('img.anim'); if(!im) return;
+  var u=im.getAttribute('data-video'); if(!u||c.querySelector('video')) return;
+  var v=document.createElement('video');
+  v.src=u; v.autoplay=true; v.loop=true; v.muted=true; v.playsInline=true;
+  im.parentNode.appendChild(v);
+}
+function stopVid(c){ var v=c.querySelector('video'); if(v) v.parentNode.removeChild(v); }
 document.querySelectorAll('.cell').forEach(function(c){
   c.addEventListener('mouseenter',function(){
-    playGif(c);
+    playGif(c); playVid(c);
     clearTimeout(t);
     t=setTimeout(function(){
       // transform does not change layout, so push the caption below the grown image
@@ -238,7 +253,7 @@ document.querySelectorAll('.cell').forEach(function(c){
     },1000);
   });
   c.addEventListener('mouseleave',function(){
-    stopGif(c);
+    stopGif(c); stopVid(c);
     clearTimeout(t);c.classList.remove('big');c.querySelector('.cap').style.transform='';
   });
 });
@@ -399,7 +414,13 @@ def main():
                           json.dumps(nxt) if nxt else "null")
         # The museum still HOLDS the original in originals/ — it is simply not advertised
         # on the page. Todd: "i don't want this 1500x1500 - 0.4 mb thing in there."
-        stage = f'<img src="../{esc(it["image"])}" alt="{esc(it.get("title"))}">' 
+        # A held video plays on the item page the way a GIF does — no controls, no chrome, just
+        # the loop. muted+playsinline is what lets it autoplay at all on iOS and in Chrome.
+        if it.get("video"):
+            stage = (f'<video src="../{esc(it["image"])}" autoplay loop muted playsinline '
+                     f'poster="../{esc(it["thumb"])}"></video>')
+        else:
+            stage = f'<img src="../{esc(it["image"])}" alt="{esc(it.get("title"))}">' 
         body = (f'<div class="item"><div class="bar">{work_line(it,"../")}'
                 f'<div class="nav">{nav}</div></div>'
                 f'<div class="stage">{stage}</div>'
@@ -526,6 +547,7 @@ is misidentified, please get in touch: it will be fixed and the correction noted
                 f'<a class="cell" href="../../../{it["id"]}/">'
                 f'<div class="inner"><img src="../../../{esc(it["thumb"] or it["image"])}"'
                 + (f' data-gif="../../../{esc(it["image"])}" class="anim"' if it.get("animated") else "")
+                + (f' data-video="../../../{esc(it["image"])}" class="anim"' if it.get("video") else "")
                 + ' loading="lazy" alt=""></div>'
                 f'<div class="cap"><span class="n">{esc(it["id"])}</span>'
                 f'{esc(it.get("maker"))} - {esc(it.get("title"))}<br>{esc(rest)}</div></a>')
@@ -564,6 +586,7 @@ is misidentified, please get in touch: it will be fixed and the correction noted
             f'<a class="cell" href="../{it["id"]}/" data-c="{rank[i]}">'
             f'<div class="inner"><img src="../{esc(it["thumb"] or it["image"])}"'
             + (f' data-gif="../{esc(it["image"])}" class="anim"' if it.get("animated") else "")
+            + (f' data-video="../{esc(it["image"])}" class="anim"' if it.get("video") else "")
             + ' loading="lazy" alt=""></div>'
             f'<div class="cap"><span class="n">{esc(it["id"])}</span>'
             f'{esc(it.get("maker"))} - {esc(it.get("title"))}<br>{esc(rest)}</div></a>')

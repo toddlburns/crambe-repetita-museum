@@ -14,7 +14,7 @@ Usage:
     python3 crvi_add.py item.json
 where item.json carries at least: identity, image (path or url), maker, title, and tags.
 """
-import json, os, re, shutil, sys, urllib.request, collections
+import json, os, re, shutil, subprocess, sys, urllib.request, collections
 import labels
 import payload
 
@@ -59,6 +59,21 @@ def fetch(src, dest):
             open(dest, "wb").write(r.read())
     else:
         shutil.copy2(os.path.expanduser(src), dest)
+
+
+def probe_video(path):
+    """Size and frame count of a held video, via ffprobe. PIL cannot open one."""
+    q = lambda k: subprocess.run(["ffprobe", "-v", "error", "-select_streams", "v:0",
+                                 "-show_entries", "stream=" + k, "-of",
+                                 "default=nw=1:nk=1", path],
+                                capture_output=True, text=True).stdout.strip().split("\n")[0]
+    n = q("nb_frames")
+    return (int(q("width")), int(q("height"))), (int(n) if n.isdigit() else 0)
+
+
+def poster_frame(src, dest):
+    """First frame of a held video, as the grid still and the thing the palette reads."""
+    subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", src, "-frames:v", "1", dest], check=True)
 
 
 def main(spec_path):
@@ -111,15 +126,31 @@ def main(spec_path):
     # whole content is the movement, and nothing would report an error.
     from PIL import Image
     src_ext = os.path.splitext(spec["image"].split("?")[0])[1].lower()
-    if src_ext not in (".jpg", ".jpeg", ".png", ".gif", ".webp"):
+    if src_ext not in (".jpg", ".jpeg", ".png", ".gif", ".webp", ".mp4", ".webm"):
         src_ext = ".jpg"
     orig_path = os.path.join(SITE, "originals", it["id"] + src_ext)
     fetch(spec["image"], orig_path)
-    with Image.open(orig_path) as im0:
-        orig = im0.size
-        animated = getattr(im0, "n_frames", 1) > 1
+    # ⚠️ VIDEO IS THE OTHER KIND OF ANIMATION. X converts every uploaded GIF to MP4 and will not
+    # give the original back, so for work posted there the MP4 *is* the best file that exists.
+    # Re-encoding it to a GIF would be a copy of a copy and, on dense work, vast — the
+    # beesandbombs dot field was 51 MB as a faithful GIF against 1.3 MB as the MP4.
+    video = src_ext in (".mp4", ".webm")
+    if video:
+        orig, nframes = probe_video(orig_path)
+        animated = True
+    else:
+        with Image.open(orig_path) as im0:
+            orig = im0.size
+            animated = getattr(im0, "n_frames", 1) > 1
     it["original_file"] = "originals/" + it["id"] + src_ext
-    if animated:
+    if video:
+        # held whole and played whole, exactly as a GIF is. The poster frame is written only so
+        # the grid has a still and palette() has something it can read.
+        it["display"] = it["original_file"]
+        it["frames"] = nframes
+        dest = os.path.join(SITE, "images", it["id"] + ".jpg")
+        poster_frame(orig_path, dest)
+    elif animated:
         # The object IS the loop: hold it whole and show it whole, no derivative. The display
         # file is the original file — re-encoding only degrades a GIF, and a byte-identical
         # second copy would double the published site for nothing. GitHub Pages caps a site

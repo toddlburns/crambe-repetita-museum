@@ -82,9 +82,16 @@ def build(reg):
         # frame and the GIF is fetched only on hover. Item pages still load the real thing.
         disp = i.get("display") or ("images/" + i["id"] + ".jpg")
         animated = disp.lower().endswith(".gif")
+        # ⚠️ A MOVING ITEM IS NOT ALWAYS A GIF. X re-encodes every GIF anyone uploads to MP4 and
+        # never serves the original back, so a piece that was made as a GIF can only be held as
+        # video. Re-encoding that MP4 into a GIF is a copy of a copy, and for dense work it is
+        # enormous: the beesandbombs field of dots came to 51 MB as a faithful GIF against 1.3 MB
+        # as the MP4. So `video` is a second kind of animation, carried separately.
+        video = disp.lower().endswith((".mp4", ".webm"))
         out.append({"id": i["id"],
                     "source_url": src_url,
                     "animated": animated,
+                    "video": video,
                     "thumb": "thumbs/" + i["id"] + ".jpg",
                     "source_label": i.get("source_label", ""),
                     "image": i.get("display") or ("images/" + i["id"] + ".jpg"),

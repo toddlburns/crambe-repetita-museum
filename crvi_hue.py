@@ -78,8 +78,16 @@ def main(write=False):
     items = sorted(reg["items"].values(), key=lambda x: x["id"])
     done = 0
     for it in items:
-        p = os.path.join(SITE, it["display"]) if it.get("display") \
-            else os.path.join(SITE, "images", it["id"] + ".jpg")
+        # ⚠️ A VIDEO ITEM'S `display` IS AN MP4, WHICH PIL CANNOT OPEN. hue_key() swallows the
+        # failure and returns nothing, so the item would silently drop out of every colour-sorted
+        # tag page instead of erroring. Read its poster frame instead.
+        disp = it.get("display") or ""
+        if disp.lower().endswith((".mp4", ".webm")):
+            p = os.path.join(SITE, "images", it["id"] + ".jpg")
+        elif disp:
+            p = os.path.join(SITE, disp)
+        else:
+            p = os.path.join(SITE, "images", it["id"] + ".jpg")
         if not os.path.exists(p):
             continue
         k = hue_key(p)
