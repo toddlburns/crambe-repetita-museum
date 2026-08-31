@@ -1,5 +1,5 @@
 {
- "next": 745,
+ "next": 755,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -41337,6 +41337,563 @@
    "hue": 43.92,
    "light": 0.6271,
    "chroma": 0.9889
+  },
+  "samwenc::chess-of-the-wind": {
+   "id": "CRVI000745",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000745.png",
+   "original_px": [
+    1180,
+    1834
+   ],
+   "original_bytes": 163138,
+   "identity": "samwenc::chess-of-the-wind",
+   "maker": "Mississippi Records",
+   "title": "Chess Of The Wind",
+   "subtitle": "Screening and soundtrack poster · designed by Sam Wenc",
+   "source_url": "https://www.itsnicethat.com/articles/sam-wenc-lobby-art-editions-illustration-graphic-design-discover-050826",
+   "verified_against": "It's Nice That's feature \"Sam Wenc's handmade album covers for independent music prove the importance of doing it yourself\", which reproduces the work and captions it \"Sam Wenc: Chess Of The Wind (Copyright © Sam Wenc, 2026)\".",
+   "notes": [
+    "Wenc's covers are made by hand rather than composed on screen — the feature's whole argument. The grain, the misregistration and the paper are the work, not artefacts of reproduction.",
+    "The poster itself carries the detail: Mississippi Records presents the film, directed by Mohamed Reza Aslani with a score by Sheida Gharachedaghi, screening at Anthology Film Archives, the Hollywood Theater and Sun Cinema on 7, 10 and 13 June. Its own footline calls the film a \"rarely seen masterpiece of Iranian cinema, banned in 1976 and revived by Martin Scorsese's World Cinema Project\". All of that is read off the artwork, not asserted from elsewhere.",
+    "No year is claimed. The poster gives dates but not a year, and It's Nice That's 2026 copyright line dates the feature rather than the work."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/add_final/wenc-chess-of-the-wind.png",
+   "source_px": [
+    1180,
+    1834
+   ],
+   "colors": [
+    "green",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Sam Wenc"
+    },
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "client",
+     "v": "Mississippi Records"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "It's Nice That's feature \"Sam Wenc's handmade album covers for independent music prove the importance of doing it yourself\", which reproduces the work and captions it \"Sam Wenc: Chess Of The Wind (Copyright © Sam Wenc, 2026)\".",
+   "hue": 134.46,
+   "light": 0.4325,
+   "chroma": 0.8202
+  },
+  "samwenc::emahoy-cover": {
+   "id": "CRVI000746",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000746.png",
+   "original_px": [
+    1164,
+    1164
+   ],
+   "original_bytes": 522524,
+   "identity": "samwenc::emahoy-cover",
+   "maker": "Emahoy Tsege Mariam Gebru",
+   "title": "Emahoy Tsege Mariam Gebru",
+   "subtitle": "Album cover · designed by Sam Wenc",
+   "source_url": "https://www.itsnicethat.com/articles/sam-wenc-lobby-art-editions-illustration-graphic-design-discover-050826",
+   "verified_against": "It's Nice That's feature \"Sam Wenc's handmade album covers for independent music prove the importance of doing it yourself\", which reproduces the work and captions it \"Sam Wenc: Emahoy (Copyright © Sam Wenc, 2026)\".",
+   "notes": [
+    "Wenc's covers are made by hand rather than composed on screen — the feature's whole argument. The grain, the misregistration and the paper are the work, not artefacts of reproduction.",
+    "The cover sets a halftone portrait of the pianist inside a rayed halo above a rank of organ pipes, with her name set twice — in Amharic and in Latin letters. Both scripts are on the artwork itself."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/add_final/wenc-emahoy-cover.png",
+   "source_px": [
+    1164,
+    1164
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Emahoy Tsege Mariam Gebru"
+    },
+    {
+     "k": "designer",
+     "v": "Sam Wenc"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "It's Nice That's feature \"Sam Wenc's handmade album covers for independent music prove the importance of doing it yourself\", which reproduces the work and captions it \"Sam Wenc: Emahoy (Copyright © Sam Wenc, 2026)\".",
+   "hue": 45.67,
+   "light": 0.4383,
+   "chroma": 0.3498
+  },
+  "samwenc::clarity": {
+   "id": "CRVI000747",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000747.jpg",
+   "original_px": [
+    1200,
+    1200
+   ],
+   "original_bytes": 166608,
+   "identity": "samwenc::clarity",
+   "maker": "Unknown",
+   "title": "Clarity",
+   "subtitle": "Designed by Sam Wenc",
+   "source_url": "https://www.itsnicethat.com/articles/sam-wenc-lobby-art-editions-illustration-graphic-design-discover-050826",
+   "verified_against": "It's Nice That's feature \"Sam Wenc's handmade album covers for independent music prove the importance of doing it yourself\", which reproduces the work and captions it \"Sam Wenc: Clarity (Copyright © Sam Wenc, 2026)\".",
+   "notes": [
+    "Wenc's covers are made by hand rather than composed on screen — the feature's whole argument. The grain, the misregistration and the paper are the work, not artefacts of reproduction.",
+    "⚠️ Only the title is known. It's Nice That captions this \"Clarity\" and credits Wenc, but names no artist or release, and nothing on the artwork does either — it is a black card bearing six white loop drawings, photographed on aged paper. Recorded as the caption has it and no further."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/add_final/wenc-clarity.jpg",
+   "source_px": [
+    1200,
+    1200
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Sam Wenc"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "It's Nice That's feature \"Sam Wenc's handmade album covers for independent music prove the importance of doing it yourself\", which reproduces the work and captions it \"Sam Wenc: Clarity (Copyright © Sam Wenc, 2026)\".",
+   "hue": 44.85,
+   "light": 0.6152,
+   "chroma": 0.6674
+  },
+  "samwenc::old-joy-poster": {
+   "id": "CRVI000748",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000748.jpg",
+   "original_px": [
+    2200,
+    3400
+   ],
+   "original_bytes": 2558628,
+   "identity": "samwenc::old-joy-poster",
+   "maker": "Yo La Tengo",
+   "title": "Old Joy",
+   "subtitle": "Film Forum poster · designed by Sam Wenc",
+   "source_url": "https://www.itsnicethat.com/articles/sam-wenc-lobby-art-editions-illustration-graphic-design-discover-050826",
+   "verified_against": "It's Nice That's feature \"Sam Wenc's handmade album covers for independent music prove the importance of doing it yourself\", which reproduces the work and captions it \"Sam Wenc: Yo La Tengo: Old Joy (Copyright © Sam Wenc, 2026)\".",
+   "notes": [
+    "Wenc's covers are made by hand rather than composed on screen — the feature's whole argument. The grain, the misregistration and the paper are the work, not artefacts of reproduction.",
+    "A poster for a Film Forum run of Kelly Reichardt's Old Joy, which Yo La Tengo scored; the screening dates and venue are printed on it. The soundtrack cover for the same release is held here separately."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/add_final/wenc-old-joy-poster.jpg",
+   "source_px": [
+    2200,
+    3400
+   ],
+   "colors": [
+    "orange",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Yo La Tengo"
+    },
+    {
+     "k": "designer",
+     "v": "Sam Wenc"
+    },
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "It's Nice That's feature \"Sam Wenc's handmade album covers for independent music prove the importance of doing it yourself\", which reproduces the work and captions it \"Sam Wenc: Yo La Tengo: Old Joy (Copyright © Sam Wenc, 2026)\".",
+   "hue": 40.67,
+   "light": 0.6823,
+   "chroma": 0.4853
+  },
+  "samwenc::old-joy-soundtrack": {
+   "id": "CRVI000749",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000749.jpeg",
+   "original_px": [
+    1200,
+    1200
+   ],
+   "original_bytes": 253760,
+   "identity": "samwenc::old-joy-soundtrack",
+   "maker": "Yo La Tengo",
+   "title": "Old Joy",
+   "subtitle": "Soundtrack cover · designed by Sam Wenc",
+   "source_url": "https://www.itsnicethat.com/articles/sam-wenc-lobby-art-editions-illustration-graphic-design-discover-050826",
+   "verified_against": "It's Nice That's feature \"Sam Wenc's handmade album covers for independent music prove the importance of doing it yourself\", which reproduces the work and captions it \"Sam Wenc: Yo La Tengo: Old Joy (Copyright © Sam Wenc, 2026)\".",
+   "notes": [
+    "Wenc's covers are made by hand rather than composed on screen — the feature's whole argument. The grain, the misregistration and the paper are the work, not artefacts of reproduction.",
+    "The soundtrack cover, companion to the Film Forum poster also held here. The lettering sits over a photograph of a logged clearing with a tent."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/add_final/wenc-old-joy-soundtrack.jpeg",
+   "source_px": [
+    1200,
+    1200
+   ],
+   "colors": [
+    "green",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Yo La Tengo"
+    },
+    {
+     "k": "designer",
+     "v": "Sam Wenc"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "It's Nice That's feature \"Sam Wenc's handmade album covers for independent music prove the importance of doing it yourself\", which reproduces the work and captions it \"Sam Wenc: Yo La Tengo: Old Joy (Copyright © Sam Wenc, 2026)\".",
+   "hue": 28.95,
+   "light": 0.4348,
+   "chroma": 0.3949
+  },
+  "samwenc::arvo-part": {
+   "id": "CRVI000750",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000750.png",
+   "original_px": [
+    1098,
+    1686
+   ],
+   "original_bytes": 375394,
+   "identity": "samwenc::arvo-part",
+   "maker": "Arvo Pärt",
+   "title": "Arvo Pärt",
+   "subtitle": "Anthology Film Archives poster · designed by Sam Wenc",
+   "source_url": "https://www.itsnicethat.com/articles/sam-wenc-lobby-art-editions-illustration-graphic-design-discover-050826",
+   "verified_against": "It's Nice That's feature \"Sam Wenc's handmade album covers for independent music prove the importance of doing it yourself\", which reproduces the work and captions it \"Sam Wenc: Arvo Part (Copyright © Sam Wenc, 2026)\".",
+   "notes": [
+    "Wenc's covers are made by hand rather than composed on screen — the feature's whole argument. The grain, the misregistration and the paper are the work, not artefacts of reproduction.",
+    "⚠️ It's Nice That's caption spells the composer's name without its diaeresis, as \"Arvo Part\". The poster itself sets it correctly as ARVO PÄRT, which is what is recorded here."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/add_final/wenc-arvo-part.png",
+   "source_px": [
+    1098,
+    1686
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Arvo Pärt"
+    },
+    {
+     "k": "designer",
+     "v": "Sam Wenc"
+    },
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "client",
+     "v": "Anthology Film Archives"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "It's Nice That's feature \"Sam Wenc's handmade album covers for independent music prove the importance of doing it yourself\", which reproduces the work and captions it \"Sam Wenc: Arvo Part (Copyright © Sam Wenc, 2026)\".",
+   "hue": null,
+   "light": 0.3907,
+   "chroma": 0.0011
+  },
+  "samwenc::florry": {
+   "id": "CRVI000751",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000751.png",
+   "original_px": [
+    1490,
+    1494
+   ],
+   "original_bytes": 380966,
+   "identity": "samwenc::florry",
+   "maker": "Florry",
+   "title": "Florry",
+   "subtitle": "Album cover · designed by Sam Wenc",
+   "source_url": "https://www.itsnicethat.com/articles/sam-wenc-lobby-art-editions-illustration-graphic-design-discover-050826",
+   "verified_against": "It's Nice That's feature \"Sam Wenc's handmade album covers for independent music prove the importance of doing it yourself\", which reproduces the work and captions it \"Sam Wenc: Florry (Copyright © Sam Wenc, 2026)\".",
+   "notes": [
+    "Wenc's covers are made by hand rather than composed on screen — the feature's whole argument. The grain, the misregistration and the paper are the work, not artefacts of reproduction.",
+    "The title is the magazine's caption. The artwork's own lettering reads \"SMELLS LIKE… LIVE AS HELL\" over a band photograph, which may be the release title, but the feature does not say so and it is not claimed here."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/add_final/wenc-florry.png",
+   "source_px": [
+    1490,
+    1494
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Florry"
+    },
+    {
+     "k": "designer",
+     "v": "Sam Wenc"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "It's Nice That's feature \"Sam Wenc's handmade album covers for independent music prove the importance of doing it yourself\", which reproduces the work and captions it \"Sam Wenc: Florry (Copyright © Sam Wenc, 2026)\".",
+   "hue": 54.05,
+   "light": 0.4299,
+   "chroma": 0.1621
+  },
+  "samwenc::alick-cover": {
+   "id": "CRVI000752",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000752.png",
+   "original_px": [
+    1252,
+    1246
+   ],
+   "original_bytes": 414664,
+   "identity": "samwenc::alick-cover",
+   "maker": "Alick Nkhata",
+   "title": "Alick",
+   "subtitle": "Cover · designed by Sam Wenc",
+   "source_url": "https://www.itsnicethat.com/articles/sam-wenc-lobby-art-editions-illustration-graphic-design-discover-050826",
+   "verified_against": "It's Nice That's feature \"Sam Wenc's handmade album covers for independent music prove the importance of doing it yourself\", which reproduces the work and captions it \"Sam Wenc: Alick Booklet (Copyright © Sam Wenc, 2026)\".",
+   "notes": [
+    "Wenc's covers are made by hand rather than composed on screen — the feature's whole argument. The grain, the misregistration and the paper are the work, not artefacts of reproduction.",
+    "Captioned only \"Alick\" by the magazine. The accompanying booklet, held here as a separate item, prints the name in full as Alick Nkhata — the Zambian musician — which is where the maker recorded here comes from.",
+    "The cover is a halftone photograph of singers at a microphone against a red repeat pattern."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/add_final/wenc-alick-cover.png",
+   "source_px": [
+    1252,
+    1246
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Alick Nkhata"
+    },
+    {
+     "k": "designer",
+     "v": "Sam Wenc"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "It's Nice That's feature \"Sam Wenc's handmade album covers for independent music prove the importance of doing it yourself\", which reproduces the work and captions it \"Sam Wenc: Alick Booklet (Copyright © Sam Wenc, 2026)\".",
+   "hue": 4.25,
+   "light": 0.4567,
+   "chroma": 0.4009
+  },
+  "samwenc::alick-booklet": {
+   "id": "CRVI000753",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000753.png",
+   "original_px": [
+    2402,
+    1188
+   ],
+   "original_bytes": 788052,
+   "identity": "samwenc::alick-booklet",
+   "maker": "Alick Nkhata",
+   "title": "Alick",
+   "subtitle": "Booklet spread · designed by Sam Wenc",
+   "source_url": "https://www.itsnicethat.com/articles/sam-wenc-lobby-art-editions-illustration-graphic-design-discover-050826",
+   "verified_against": "It's Nice That's feature \"Sam Wenc's handmade album covers for independent music prove the importance of doing it yourself\", which reproduces the work and captions it \"Sam Wenc: Alick Booklet (Copyright © Sam Wenc, 2026)\".",
+   "notes": [
+    "Wenc's covers are made by hand rather than composed on screen — the feature's whole argument. The grain, the misregistration and the paper are the work, not artefacts of reproduction.",
+    "The spread's own headings read \"ALICK NKHATA AND HIS GUITAR\", \"ALICK NKHATA AND THE LUSAKA RADIO BAND\" and \"AFRICAN NATIONALISM AND RESISTANCE\", which is how the artist behind the magazine's bare caption \"Alick\" was established."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/add_final/wenc-alick-booklet.png",
+   "source_px": [
+    2402,
+    1188
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Alick Nkhata"
+    },
+    {
+     "k": "designer",
+     "v": "Sam Wenc"
+    },
+    {
+     "k": "type",
+     "v": "magazine spread"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "It's Nice That's feature \"Sam Wenc's handmade album covers for independent music prove the importance of doing it yourself\", which reproduces the work and captions it \"Sam Wenc: Alick Booklet (Copyright © Sam Wenc, 2026)\".",
+   "hue": 44.86,
+   "light": 0.7023,
+   "chroma": 0.6261
+  },
+  "robertbeatty::away-campaign": {
+   "id": "CRVI000754",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI000754.jpg",
+   "original_px": [
+    2880,
+    2880
+   ],
+   "original_bytes": 981538,
+   "identity": "robertbeatty::away-campaign",
+   "maker": "Away",
+   "title": "Untitled",
+   "subtitle": "Holiday campaign illustration · by Robert Beatty",
+   "source_url": "https://www.itsnicethat.com/news/robert-beatty-away-holiday-campaign-illustration-161120",
+   "verified_against": "It's Nice That's November 2020 report, \"Robert Beatty's campaign for Away depicts the 'sci-fi-like experience of travel amid a pandemic'\", which reproduces the campaign and credits it to him.",
+   "notes": [
+    "One of ten illustrations Beatty made for the luggage brand Away, published November 2020. The others show an escalator watched by floating eyes, a snowbound highway, a subway carriage, a ferry deck and a snow globe; only this one is held here.",
+    "The airbrushed pink cloudscape, the chrome and the rainbow are Beatty's usual register, but the subject is the pandemic: a gloved hand at a sanitiser pump, a wiped tray table, a mask over the seat back.",
+    "No title is recorded — the campaign images are published without individual titles, so it is held as Untitled rather than given a name it never had."
+   ],
+   "year": "2020",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/e7147859-5232-409f-af3d-235bac4bcb44/scratchpad/add_final/beatty-away.jpg",
+   "source_px": [
+    2880,
+    2880
+   ],
+   "colors": [
+    "red",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Robert Beatty"
+    },
+    {
+     "k": "artist",
+     "v": "Robert Beatty"
+    },
+    {
+     "k": "type",
+     "v": "advertising poster"
+    },
+    {
+     "k": "client",
+     "v": "Away"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "It's Nice That's November 2020 report, \"Robert Beatty's campaign for Away depicts the 'sci-fi-like experience of travel amid a pandemic'\", which reproduces the campaign and credits it to him.",
+   "hue": 348.3,
+   "light": 0.6469,
+   "chroma": 0.9627
   }
  }
 }
