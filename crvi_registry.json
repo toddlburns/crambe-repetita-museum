@@ -1,5 +1,5 @@
 {
- "next": 869,
+ "next": 880,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -49445,6 +49445,785 @@
    "hue": 25.2,
    "light": 0.5829,
    "chroma": 0.9997
+  },
+  "johnprovencher::a24-zine-33-yellow-wallpaper-cover": {
+   "id": "CRVI000869",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI000869.jpg",
+   "original_px": [
+    2419,
+    1805
+   ],
+   "original_bytes": 2853024,
+   "identity": "johnprovencher::a24-zine-33-yellow-wallpaper-cover",
+   "maker": "John Provencher",
+   "title": "The Yellow Wallpaper",
+   "year": "2026",
+   "verified_against": "A24’s own shop listing for the object: \"The Yellow Wallpaper Zine by Kane Parsons … Issue 33 traps readers inside ‘The Yellow Wallpaper,’ Charlotte Perkins Gilman’s hallucinatory tale … With an introduction by Backrooms director Kane Parsons … Includes one randomized segment of the Backrooms map and original illustrations by John Provencher.\" Published June 2026. John Provencher’s own portfolio publishes this file under the label \"a24, backrooms zine\".",
+   "notes": [
+    "Front and back covers of A24 Zine issue 33, printed acid green on cream: a Victorian damask worked at the resolution of a broken JPEG, the wallpaper itself coming apart into blocks and dropouts.",
+    "The front sets THE YELLOW WALLPAPER one letter at a time into the pattern, so the words are camouflaged in the thing they name. The back carries the barcode and a line from William Dean Howells: \"Terrible and too wholly dire.\"",
+    "Charlotte Perkins Gilman’s 1892 story, guest-edited by Kane Parsons — the Backrooms creator — whose subject has always been rooms that will not stop repeating."
+   ],
+   "subtitle": "A24 Zine, issue 33 · guest-edited by Kane Parsons",
+   "label": "A24",
+   "source_page": "https://shop.a24films.com/products/the-yellow-wallpaper-zine",
+   "source_image": "/private/tmp/claude-501/-Users-todd/da824709-e6a8-4c72-957e-b57f2643736f/scratchpad/museum_add2/final/P01.jpg",
+   "source_px": [
+    2419,
+    1805
+   ],
+   "colors": [
+    "yellow",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "John Provencher"
+    },
+    {
+     "k": "illustrator",
+     "v": "John Provencher"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "location",
+     "v": "New York"
+    },
+    {
+     "k": "medium",
+     "v": "generative software"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "A24"
+    },
+    {
+     "k": "subject",
+     "v": "horror"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A24’s own shop listing for the object: \"The Yellow Wallpaper Zine by Kane Parsons … Issue 33 traps readers inside ‘The Yellow Wallpaper,’ Charlotte Perkins Gilman’s hallucinatory tale … With an introduction by Backrooms director Kane Parsons … Includes one randomized segment of the Backrooms map and original illustrations by John Provencher.\" Published June 2026. John Provencher’s own portfolio publishes this file under the label \"a24, backrooms zine\".",
+   "hue": 67.33,
+   "light": 0.6003,
+   "chroma": 0.9703
+  },
+  "johnprovencher::a24-zine-33-yellow-wallpaper-spread": {
+   "id": "CRVI000870",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI000870.jpg",
+   "original_px": [
+    1989,
+    1487
+   ],
+   "original_bytes": 1746147,
+   "identity": "johnprovencher::a24-zine-33-yellow-wallpaper-spread",
+   "maker": "John Provencher",
+   "title": "The Yellow Wallpaper",
+   "year": "2026",
+   "verified_against": "A24’s shop listing for A24 Zine issue 33 credits \"original illustrations by John Provencher\"; his own portfolio publishes this file under the label \"a24, backrooms zine\".",
+   "notes": [
+    "An inside spread: a bed dissolving into orange and pink blocks inside a border of shattered ornament, on the same acid green.",
+    "The pattern in Gilman’s story is the thing the narrator reads until it moves. Here the file format does the moving.",
+    "A small inset at lower left keeps one intact scrap of the original engraving, for scale."
+   ],
+   "subtitle": "A24 Zine, issue 33 · inside spread",
+   "label": "A24",
+   "source_page": "https://shop.a24films.com/products/the-yellow-wallpaper-zine",
+   "source_image": "/private/tmp/claude-501/-Users-todd/da824709-e6a8-4c72-957e-b57f2643736f/scratchpad/museum_add2/final/P02.jpg",
+   "source_px": [
+    1989,
+    1487
+   ],
+   "colors": [
+    "green",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "John Provencher"
+    },
+    {
+     "k": "illustrator",
+     "v": "John Provencher"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "location",
+     "v": "New York"
+    },
+    {
+     "k": "medium",
+     "v": "generative software"
+    },
+    {
+     "k": "type",
+     "v": "magazine spread"
+    },
+    {
+     "k": "client",
+     "v": "A24"
+    },
+    {
+     "k": "subject",
+     "v": "horror"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A24’s shop listing for A24 Zine issue 33 credits \"original illustrations by John Provencher\"; his own portfolio publishes this file under the label \"a24, backrooms zine\".",
+   "hue": 73.06,
+   "light": 0.4237,
+   "chroma": 0.9814
+  },
+  "johnprovencher::nyt-magazine-larry-ellison-cover": {
+   "id": "CRVI000871",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI000871.jpg",
+   "original_px": [
+    1565,
+    1954
+   ],
+   "original_bytes": 1378440,
+   "identity": "johnprovencher::nyt-magazine-larry-ellison-cover",
+   "maker": "John Provencher",
+   "title": "Will Larry Ellison Be the Face of the A.I. Bubble?",
+   "year": "2026",
+   "verified_against": "The cover states its own identity: \"The New York Times Magazine, August 16, 2026 … Will Larry Ellison Be the Face of the A.I. Bubble? By Jonathan Mahler, Jim Rutenberg and Kirsten Grind.\" John Provencher’s own portfolio publishes this file under the label \"NYT Magazine cover\".",
+   "notes": [
+    "Larry Ellison’s face built entirely out of green squares and dots on white, half of it already blowing away as loose pixels.",
+    "A halftone made of the wrong dots, at the wrong size — the picture is legible and disintegrating at once, which is the argument the headline is making.",
+    "The masthead is set in grey and lets the face cross it."
+   ],
+   "subtitle": "The New York Times Magazine, August 16, 2026",
+   "label": "The New York Times Magazine",
+   "source_page": "https://johnprovencher.com/",
+   "source_image": "/private/tmp/claude-501/-Users-todd/da824709-e6a8-4c72-957e-b57f2643736f/scratchpad/museum_add2/final/P03.jpg",
+   "source_px": [
+    1565,
+    1954
+   ],
+   "colors": [
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "John Provencher"
+    },
+    {
+     "k": "illustrator",
+     "v": "John Provencher"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "location",
+     "v": "New York"
+    },
+    {
+     "k": "medium",
+     "v": "generative software"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "client",
+     "v": "The New York Times Magazine"
+    },
+    {
+     "k": "subject",
+     "v": "artificial intelligence"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The cover states its own identity: \"The New York Times Magazine, August 16, 2026 … Will Larry Ellison Be the Face of the A.I. Bubble? By Jonathan Mahler, Jim Rutenberg and Kirsten Grind.\" John Provencher’s own portfolio publishes this file under the label \"NYT Magazine cover\".",
+   "hue": 128.67,
+   "light": 0.7243,
+   "chroma": 0.6864
+  },
+  "johnprovencher::nba-x-google": {
+   "id": "CRVI000872",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI000872.jpg",
+   "original_px": [
+    1030,
+    1351
+   ],
+   "original_bytes": 394873,
+   "identity": "johnprovencher::nba-x-google",
+   "maker": "John Provencher",
+   "title": "[NBA × Google]",
+   "year": "",
+   "verified_against": "John Provencher’s own portfolio at johnprovencher.com, where he describes himself as \"an independent artist based in New York City\" whose \"practice explores the generative nature of software as a tool to output works both on/offline,\" and where this file is published under the project label \"nba x google\". Google is listed among his clients on the same page.",
+   "notes": [
+    "A spherical LED display in a lit hall, showing a globe in flat green, blue and red — coastlines rendered as ragged pixel runs, latitude and longitude as thick bands of colour.",
+    "⚠️ Title, date and the exact occasion are not established. The artist’s own site names the client pairing and nothing more, and nothing more is claimed here."
+   ],
+   "subtitle": "Installation for NBA × Google",
+   "source_page": "https://johnprovencher.com/",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/da824709-e6a8-4c72-957e-b57f2643736f/scratchpad/museum_add2/raw/P04.jpg",
+   "source_px": [
+    1030,
+    1351
+   ],
+   "colors": [
+    "green",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "John Provencher"
+    },
+    {
+     "k": "illustrator",
+     "v": "John Provencher"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "location",
+     "v": "New York"
+    },
+    {
+     "k": "medium",
+     "v": "generative software"
+    },
+    {
+     "k": "type",
+     "v": "installation"
+    },
+    {
+     "k": "client",
+     "v": "NBA"
+    },
+    {
+     "k": "client",
+     "v": "Google"
+    },
+    {
+     "k": "subject",
+     "v": "data"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "John Provencher’s own portfolio at johnprovencher.com, where he describes himself as \"an independent artist based in New York City\" whose \"practice explores the generative nature of software as a tool to output works both on/offline,\" and where this file is published under the project label \"nba x google\". Google is listed among his clients on the same page.",
+   "hue": 142.52,
+   "light": 0.2676,
+   "chroma": 0.6597
+  },
+  "johnprovencher::on-clubhouse-paris": {
+   "id": "CRVI000873",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI000873.png",
+   "original_px": [
+    3000,
+    3147
+   ],
+   "original_bytes": 127554,
+   "identity": "johnprovencher::on-clubhouse-paris",
+   "maker": "John Provencher",
+   "title": "[On, Clubhouse Paris]",
+   "year": "",
+   "verified_against": "John Provencher’s own portfolio at johnprovencher.com, where he describes himself as \"an independent artist based in New York City\" whose \"practice explores the generative nature of software as a tool to output works both on/offline,\" and where this file is published under the project label \"on, clubhouse paris\". On is listed first among his clients on the same page.",
+   "notes": [
+    "Orange on black: a runner and a seated figure drawn as a single contour that keeps breaking into dots and steps, framed by an oval of the same broken line.",
+    "Made for the Swiss running brand On’s Paris clubhouse.",
+    "⚠️ Title and date are not established. The artist’s own site names the project and nothing more."
+   ],
+   "subtitle": "On · Clubhouse Paris",
+   "source_page": "https://johnprovencher.com/",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/da824709-e6a8-4c72-957e-b57f2643736f/scratchpad/museum_add2/raw/P05.png",
+   "source_px": [
+    3000,
+    3147
+   ],
+   "colors": [
+    "orange",
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "John Provencher"
+    },
+    {
+     "k": "illustrator",
+     "v": "John Provencher"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "location",
+     "v": "New York"
+    },
+    {
+     "k": "medium",
+     "v": "generative software"
+    },
+    {
+     "k": "type",
+     "v": "identity"
+    },
+    {
+     "k": "client",
+     "v": "On"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "subject",
+     "v": "running"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "John Provencher’s own portfolio at johnprovencher.com, where he describes himself as \"an independent artist based in New York City\" whose \"practice explores the generative nature of software as a tool to output works both on/offline,\" and where this file is published under the project label \"on, clubhouse paris\". On is listed first among his clients on the same page.",
+   "hue": 15.06,
+   "light": 0.1366,
+   "chroma": 0.4419
+  },
+  "johnprovencher::bloomberg-poker": {
+   "id": "CRVI000874",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI000874.png",
+   "original_px": [
+    1578,
+    2200
+   ],
+   "original_bytes": 5235706,
+   "identity": "johnprovencher::bloomberg-poker",
+   "maker": "John Provencher",
+   "title": "The Russian Bot Army That Conquered Online Poker",
+   "year": "2024",
+   "verified_against": "Bloomberg Businessweek published \"The Russian Bot Army That Conquered Online Poker\" by Kit Chellel on 20 September 2024 with illustrations by John Provencher; his own portfolio publishes this file under the label \"bloomberg, poker\".",
+   "notes": [
+    "Two king cards drawn on black in green, red and blue dot-matrix, their faces built out of the same characters as the hand histories running down the margins — \"bet\", \"check\", \"combos\", \"k5o\", \"j7o\", \"all-in\".",
+    "The court cards are made of the log of the machine that beat them.",
+    "For Kit Chellel’s report on the Siberian bot ring that drained online poker."
+   ],
+   "subtitle": "Bloomberg Businessweek, 20 September 2024",
+   "label": "Bloomberg Businessweek",
+   "source_page": "https://johnprovencher.com/",
+   "source_image": "/private/tmp/claude-501/-Users-todd/da824709-e6a8-4c72-957e-b57f2643736f/scratchpad/museum_add2/raw/P06.png",
+   "source_px": [
+    1578,
+    2200
+   ],
+   "colors": [
+    "red",
+    "green",
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "John Provencher"
+    },
+    {
+     "k": "illustrator",
+     "v": "John Provencher"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "location",
+     "v": "New York"
+    },
+    {
+     "k": "medium",
+     "v": "generative software"
+    },
+    {
+     "k": "type",
+     "v": "illustration"
+    },
+    {
+     "k": "client",
+     "v": "Bloomberg Businessweek"
+    },
+    {
+     "k": "subject",
+     "v": "artificial intelligence"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Bloomberg Businessweek published \"The Russian Bot Army That Conquered Online Poker\" by Kit Chellel on 20 September 2024 with illustrations by John Provencher; his own portfolio publishes this file under the label \"bloomberg, poker\".",
+   "hue": 6.54,
+   "light": 0.1224,
+   "chroma": 0.5352
+  },
+  "johnprovencher::bloomberg-weather": {
+   "id": "CRVI000875",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI000875.png",
+   "original_px": [
+    2172,
+    2172
+   ],
+   "original_bytes": 42996,
+   "identity": "johnprovencher::bloomberg-weather",
+   "maker": "John Provencher",
+   "title": "[Bloomberg, weather]",
+   "year": "",
+   "verified_against": "John Provencher’s own portfolio at johnprovencher.com, where he describes himself as \"an independent artist based in New York City\" whose \"practice explores the generative nature of software as a tool to output works both on/offline,\" and where this file is published under the project label \"bloomberg, weather\". Bloomberg Businessweek is listed among his clients on the same page.",
+   "notes": [
+    "The earth rendered in six flat colours — magenta, orange, indigo, yellow — as though the globe were a false-colour satellite composite that had lost its legend, with a small inset chart pinned in the top right corner.",
+    "The background is a fine vertical stripe, the tell of a pixel buffer read the wrong way.",
+    "⚠️ Title and date are not established. The artist’s own site names the project and nothing more."
+   ],
+   "subtitle": "Bloomberg Businessweek",
+   "label": "Bloomberg Businessweek",
+   "source_page": "https://johnprovencher.com/",
+   "source_image": "/private/tmp/claude-501/-Users-todd/da824709-e6a8-4c72-957e-b57f2643736f/scratchpad/museum_add2/raw/P07.png",
+   "source_px": [
+    2172,
+    2172
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "John Provencher"
+    },
+    {
+     "k": "illustrator",
+     "v": "John Provencher"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "location",
+     "v": "New York"
+    },
+    {
+     "k": "medium",
+     "v": "generative software"
+    },
+    {
+     "k": "type",
+     "v": "illustration"
+    },
+    {
+     "k": "client",
+     "v": "Bloomberg Businessweek"
+    },
+    {
+     "k": "subject",
+     "v": "climate"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "John Provencher’s own portfolio at johnprovencher.com, where he describes himself as \"an independent artist based in New York City\" whose \"practice explores the generative nature of software as a tool to output works both on/offline,\" and where this file is published under the project label \"bloomberg, weather\". Bloomberg Businessweek is listed among his clients on the same page.",
+   "hue": 6.32,
+   "light": 0.3926,
+   "chroma": 0.9112
+  },
+  "johnprovencher::bloomberg-tracing-natures-dna": {
+   "id": "CRVI000876",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI000876.jpg",
+   "original_px": [
+    1644,
+    1164
+   ],
+   "original_bytes": 1069470,
+   "identity": "johnprovencher::bloomberg-tracing-natures-dna",
+   "maker": "John Provencher",
+   "title": "Tracing Nature’s DNA",
+   "year": "2023",
+   "verified_against": "The spread carries its own credit: \"By Eric Roston and Natasha White · Illustrations by John Provencher.\" Bloomberg published the feature online in October 2023 as \"Nature’s DNA Detectives\", on startups using eDNA to measure corporate biodiversity impact.",
+   "notes": [
+    "A Businessweek feature opener: a mouse, a butterfly, a leaf and an eel drawn in red and blue dot-matrix, each one tagged with a little black terminal window of green sequence data.",
+    "\"Startups are using cutting-edge science to help big companies measure their biodiversity impact.\" / \"It could be an accountability breakthrough — or the new vanguard of greenwashing.\"",
+    "The animals are printed at the resolution of the data that identifies them."
+   ],
+   "subtitle": "Bloomberg Businessweek, October 2023 · pages 48–49",
+   "label": "Bloomberg Businessweek",
+   "source_page": "https://johnprovencher.com/",
+   "source_image": "/private/tmp/claude-501/-Users-todd/da824709-e6a8-4c72-957e-b57f2643736f/scratchpad/museum_add2/final/P08.jpg",
+   "source_px": [
+    1644,
+    1164
+   ],
+   "colors": [
+    "red",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "John Provencher"
+    },
+    {
+     "k": "illustrator",
+     "v": "John Provencher"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "location",
+     "v": "New York"
+    },
+    {
+     "k": "medium",
+     "v": "generative software"
+    },
+    {
+     "k": "type",
+     "v": "magazine spread"
+    },
+    {
+     "k": "client",
+     "v": "Bloomberg Businessweek"
+    },
+    {
+     "k": "subject",
+     "v": "nature"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The spread carries its own credit: \"By Eric Roston and Natasha White · Illustrations by John Provencher.\" Bloomberg published the feature online in October 2023 as \"Nature’s DNA Detectives\", on startups using eDNA to measure corporate biodiversity impact.",
+   "hue": 5.89,
+   "light": 0.7168,
+   "chroma": 0.4204
+  },
+  "mauricedenis::la-fontaine-terre-latine": {
+   "id": "CRVI000877",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI000877.jpg",
+   "original_px": [
+    2560,
+    1602
+   ],
+   "original_bytes": 710424,
+   "identity": "mauricedenis::la-fontaine-terre-latine",
+   "maker": "Maurice Denis",
+   "title": "La Fontaine",
+   "year": "1906–1908",
+   "verified_against": "The Musée des Beaux-Arts Jules Chéret, Nice, publishes this image with the full caption \"Maurice Denis (1870-1943), La Fontaine, esquisse préparatoire du décor Terre Latine, 1906-1908. Peinture à l’essence sur papier calque collé sur toile, collection particulière © Thomas Hennocque,\" for its exhibition Maurice Denis, années 1920. L’éclat du Midi (8 November 2025 – 10 May 2026).",
+   "notes": [
+    "A preparatory sketch for the Terre Latine decoration: women carrying jars from a fountain under umbrella pines, and at the right three heads and a mandolin, painted in chalky blues and yellows over bare paper.",
+    "Peinture à l’essence on tracing paper laid on canvas — thinned oil, so the ground shows through everywhere and the whole thing reads as a fresco before it is one.",
+    "Private collection. Photograph © Thomas Hennocque. Signed MAV·D at right."
+   ],
+   "subtitle": "Esquisse préparatoire du décor Terre Latine · peinture à l’essence sur papier calque collé sur toile",
+   "source_page": "https://www.musee-beaux-arts-nice.org/en/agenda/maurice-denis-1920s-splendor-of-the-south/",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/da824709-e6a8-4c72-957e-b57f2643736f/scratchpad/museum_add2/raw/Q09.jpg",
+   "source_px": [
+    2560,
+    1602
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Maurice Denis"
+    },
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "medium",
+     "v": "peinture à l’essence"
+    },
+    {
+     "k": "photographer",
+     "v": "Thomas Hennocque"
+    },
+    {
+     "k": "subject",
+     "v": "decoration"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Musée des Beaux-Arts Jules Chéret, Nice, publishes this image with the full caption \"Maurice Denis (1870-1943), La Fontaine, esquisse préparatoire du décor Terre Latine, 1906-1908. Peinture à l’essence sur papier calque collé sur toile, collection particulière © Thomas Hennocque,\" for its exhibition Maurice Denis, années 1920. L’éclat du Midi (8 November 2025 – 10 May 2026).",
+   "hue": 43.8,
+   "light": 0.6272,
+   "chroma": 0.2775
+  },
+  "mauricedenis::annonciation-dassise-1914": {
+   "id": "CRVI000878",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI000878.jpg",
+   "original_px": [
+    1599,
+    1345
+   ],
+   "original_bytes": 327367,
+   "identity": "mauricedenis::annonciation-dassise-1914",
+   "maker": "Maurice Denis",
+   "title": "Annonciation d’Assise",
+   "year": "1914",
+   "verified_against": "La Gazette Drouot, \"Maurice Denis and the revival of painting\" by Sophie Reyssat, 4 February 2021, reporting the sale of 27 January 2021 at Pantin: \"Maurice Denis (1870-1943), Annonciation d’Assise, 1914, huile sur carton signée et datée «MAV.D 1914», étiquette déchirée de la galerie Druet, encadrée, dos parqueté, 54,5 x 72 cm. Adjugé : 89 280 €.\"",
+   "notes": [
+    "A priest in a pink chasuble with two altar boys under a bare pergola, and at the right a woman in white standing among the blossom with her hands together.",
+    "Denis moved the Annunciation to Assisi in the spring of 1914, where he found this pergola above the basilica and the San Francesco gate. The angel is a deacon, the Virgin is dressed as a bride.",
+    "Oil on board, 54.5 × 72 cm, signed and dated MAV·D 1914 at lower right; a torn Galerie Druet label on the back."
+   ],
+   "subtitle": "Huile sur carton · 54,5 × 72 cm",
+   "source_page": "https://www.gazette-drouot.com/en/article/maurice-denis-and-the-revival-of-painting/69883",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/da824709-e6a8-4c72-957e-b57f2643736f/scratchpad/museum_add2/raw/Q10.jpg",
+   "source_px": [
+    1599,
+    1345
+   ],
+   "colors": [
+    "cyan",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Maurice Denis"
+    },
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "medium",
+     "v": "oil on board"
+    },
+    {
+     "k": "subject",
+     "v": "religion"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "La Gazette Drouot, \"Maurice Denis and the revival of painting\" by Sophie Reyssat, 4 February 2021, reporting the sale of 27 January 2021 at Pantin: \"Maurice Denis (1870-1943), Annonciation d’Assise, 1914, huile sur carton signée et datée «MAV.D 1914», étiquette déchirée de la galerie Druet, encadrée, dos parqueté, 54,5 x 72 cm. Adjugé : 89 280 €.\"",
+   "hue": 174.59,
+   "light": 0.5875,
+   "chroma": 0.5598
+  },
+  "mauricedenis::loratorio-pour-leternel-printemps": {
+   "id": "CRVI000879",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI000879.jpg",
+   "original_px": [
+    4096,
+    2920
+   ],
+   "original_bytes": 2358466,
+   "identity": "mauricedenis::loratorio-pour-leternel-printemps",
+   "maker": "Maurice Denis",
+   "title": "L’Oratorio pour « L’Éternel Printemps »",
+   "year": "1904",
+   "verified_against": "Sotheby’s Modern Day Auction, New York, 21 November 2025 (sale N11730): Maurice Denis, L’Oratorio pour \"L’Éternel Printemps\", signed and dated 1904, oil on joined paper laid down on canvas, 56 ⅝ by 79 ⅛ inches (142 by 201 cm), estimate $150,000–250,000. The catalogue records that in 1904 Denis was commissioned to decorate the music room of Curt von Mutzenbecher, director of the Imperial Theatre in Wiesbaden, in an interior by Henry van de Velde, and that the scheme ran to four vertical panels and one rectangular panel, The Oratorio.",
+   "notes": [
+    "Three angels with gilt harps on a pink stair, a choir of more angels climbing away above them, and a hillside of white-robed figures reading in the grass at the left.",
+    "The central panel of a music room: painted for Curt von Mutzenbecher in Wiesbaden, in an interior by Henry van de Velde, on the subject \"the new song will ring out in the eternal summer\".",
+    "Oil on joined paper laid down on canvas, 142 × 201 cm. Acquired from the artist by Ambroise Vollard in 1906 and in his collection until at least 1924."
+   ],
+   "subtitle": "Oil on joined paper laid down on canvas · 142 × 201 cm",
+   "source_page": "https://www.sothebys.com/buy/3521853f-4d76-44d7-8ff5-2d5a014a1f78/lots/b5ca06dd-98c8-4c88-8650-9a459f640e3e",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/da824709-e6a8-4c72-957e-b57f2643736f/scratchpad/museum_add2/raw/Q11.jpg",
+   "source_px": [
+    4096,
+    2920
+   ],
+   "colors": [
+    "orange",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Maurice Denis"
+    },
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "medium",
+     "v": "oil on paper laid on canvas"
+    },
+    {
+     "k": "subject",
+     "v": "music"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Sotheby’s Modern Day Auction, New York, 21 November 2025 (sale N11730): Maurice Denis, L’Oratorio pour \"L’Éternel Printemps\", signed and dated 1904, oil on joined paper laid down on canvas, 56 ⅝ by 79 ⅛ inches (142 by 201 cm), estimate $150,000–250,000. The catalogue records that in 1904 Denis was commissioned to decorate the music room of Curt von Mutzenbecher, director of the Imperial Theatre in Wiesbaden, in an interior by Henry van de Velde, and that the scheme ran to four vertical panels and one rectangular panel, The Oratorio.",
+   "hue": 27.09,
+   "light": 0.6004,
+   "chroma": 0.9169
   }
  }
 }
