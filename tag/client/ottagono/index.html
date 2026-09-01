@@ -1,0 +1,72 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>client: Ottagono — Crambe Repetita Museum</title><script>try{if(localStorage.getItem('crvi_auth')==='1')document.documentElement.className+=' crvi-ok';}catch(e){}</script><link rel="stylesheet" href="../../../style.css"><style>
+html:not(.crvi-ok){overflow:hidden}
+html.crvi-ok #crvi-gate{display:none}
+#crvi-gate{position:fixed;inset:0;z-index:2147483647;background:var(--paper);
+ display:flex;align-items:center;justify-content:center}
+#crvi-gate form{display:flex;align-items:center;gap:6px}
+#crvi-gate input{font:12px/1 var(--mono);letter-spacing:.06em;width:150px;padding:7px 8px;
+ color:var(--ink);background:var(--paper);border:1px solid var(--rule);border-radius:0;outline:none}
+#crvi-gate input:focus{border-color:var(--ink)}
+#crvi-gate input::placeholder{color:var(--mute);letter-spacing:.06em}
+#crvi-gate button{font:12px/1 var(--sans);padding:7px 12px;color:var(--ink);background:var(--paper);
+ border:1px solid var(--rule);border-radius:0;cursor:pointer}
+#crvi-gate button:hover{border-color:var(--ink)}
+#crvi-gate.bad input,#crvi-gate.bad input::placeholder{border-color:var(--ink);color:var(--ink)}
+</style></head><body><div id="crvi-gate"><form id="crvi-form" autocomplete="off"><input type="password" id="crvi-pw" placeholder="password" autocomplete="off" spellcheck="false" autofocus><button type="submit">enter</button></form></div><div class="crumb"><span class="t">CLIENT: OTTAGONO</span><span class="c">7 items</span><a href="../../../tags/">&#8592; all tags</a></div><div class="grid"><a class="cell" href="../../../CRVI000836/"><div class="inner"><img src="../../../thumbs/CRVI000836.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI000836</span>Ottagono - Ottagono 72<br>marzo 1984 · anno 19 · 1984</div></a><a class="cell" href="../../../CRVI000837/"><div class="inner"><img src="../../../thumbs/CRVI000837.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI000837</span>Ottagono - Ottagono 66<br>settembre 1982 · anno 17 · 1982</div></a><a class="cell" href="../../../CRVI000838/"><div class="inner"><img src="../../../thumbs/CRVI000838.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI000838</span>Ottagono - Ottagono 62<br>settembre 1981 · 1981</div></a><a class="cell" href="../../../CRVI000839/"><div class="inner"><img src="../../../thumbs/CRVI000839.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI000839</span>Ottagono - Ottagono 77<br>giugno 1985 · anno 20 · 1985</div></a><a class="cell" href="../../../CRVI000840/"><div class="inner"><img src="../../../thumbs/CRVI000840.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI000840</span>Ottagono - Ottagono 70<br>settembre 1983 · anno 18 · 1983</div></a><a class="cell" href="../../../CRVI000841/"><div class="inner"><img src="../../../thumbs/CRVI000841.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI000841</span>Ottagono - Ottagono 18<br>settembre 1970 · anno 5 · 1970</div></a><a class="cell" href="../../../CRVI000842/"><div class="inner"><img src="../../../thumbs/CRVI000842.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI000842</span>Ottagono - Ottagono 80<br>marzo 1986 · anno 21 · 1986</div></a></div><script>
+var SCALE=3;var t=null;
+// ⚠️ THE GIF IS FETCHED ON HOVER, NOT BEFORE. Setting src is what triggers the download, so a
+// grid cell ships the still poster and only swaps in the animation when the pointer arrives.
+// Pausing or hiding a GIF whose src is already set saves nothing — it is on the wire either way.
+// The poster is kept in data-poster so leaving restores it without a second fetch of anything.
+function playGif(c){
+  var im=c.querySelector('img.anim');
+  if(!im) return;
+  var g=im.getAttribute('data-gif');
+  if(!g||im.dataset.playing) return;
+  im.dataset.poster=im.getAttribute('src');
+  im.dataset.playing='1';
+  im.setAttribute('src',g);
+}
+function stopGif(c){
+  var im=c.querySelector('img.anim');
+  if(!im||!im.dataset.playing) return;
+  // back to the still, so a page full of gifs is not left all animating at once
+  im.setAttribute('src',im.dataset.poster);
+  delete im.dataset.playing;
+}
+// ⚠️ A VIDEO CANNOT BE SWAPPED INTO AN <img>. Where a gif item just changes src, a video item
+// lays a <video> over its still on hover and takes it away again on leave — same bargain as the
+// gif: nothing is on the wire until the pointer arrives, and a grid is never left all playing.
+function playVid(c){
+  var im=c.querySelector('img.anim'); if(!im) return;
+  var u=im.getAttribute('data-video'); if(!u||c.querySelector('video')) return;
+  var v=document.createElement('video');
+  v.src=u; v.autoplay=true; v.loop=true; v.muted=true; v.playsInline=true;
+  im.parentNode.appendChild(v);
+}
+function stopVid(c){ var v=c.querySelector('video'); if(v) v.parentNode.removeChild(v); }
+document.querySelectorAll('.cell').forEach(function(c){
+  c.addEventListener('mouseenter',function(){
+    playGif(c); playVid(c);
+    clearTimeout(t);
+    t=setTimeout(function(){
+      // transform does not change layout, so push the caption below the grown image
+      var im=c.querySelector('img'),cap=c.querySelector('.cap');
+      cap.style.transform='translateY('+im.getBoundingClientRect().height*(SCALE-1)+'px)';
+      c.classList.add('big');
+    },1000);
+  });
+  c.addEventListener('mouseleave',function(){
+    stopGif(c); stopVid(c);
+    clearTimeout(t);c.classList.remove('big');c.querySelector('.cap').style.transform='';
+  });
+});
+</script><script>
+(function(){var K='crvi_auth',PW='racine456',h=document.documentElement;
+if(h.className.indexOf('crvi-ok')>-1)return;
+var g=document.getElementById('crvi-gate'),i=document.getElementById('crvi-pw');
+document.getElementById('crvi-form').addEventListener('submit',function(e){e.preventDefault();
+if(i.value===PW){try{localStorage.setItem(K,'1');}catch(e){}h.className+=' crvi-ok';}
+else{i.value='';g.classList.add('bad');i.focus();}});
+i.focus();})();
+</script></body></html>

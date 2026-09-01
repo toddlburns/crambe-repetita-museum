@@ -88,7 +88,12 @@ def build(reg):
         # enormous: the beesandbombs field of dots came to 51 MB as a faithful GIF against 1.3 MB
         # as the MP4. So `video` is a second kind of animation, carried separately.
         video = disp.lower().endswith((".mp4", ".webm"))
+        # ⚠️ THE PUBLISHING GATE HAS TO SURVIVE THE PAYLOAD. `build.py` filters on
+        # `published`, defaulting a missing key to True — so when this builder dropped the flag,
+        # every HELD item was rendered live anyway and both scripts reported success. Three
+        # unattributed paintings went to the site that way on 2026-09-01. Carry it explicitly.
         out.append({"id": i["id"],
+                    "published": bool(i.get("published", True)),
                     "source_url": src_url,
                     "animated": animated,
                     "video": video,
