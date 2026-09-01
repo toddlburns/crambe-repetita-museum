@@ -87,6 +87,13 @@ what the number used to hold is still recorded.
 `payload.py` is the single builder for `crvi.json`, shared by `crvi_add.py`, `crvi.py` and
 `crvi_delete.py` — deleted items are excluded there, at the one chokepoint every writer passes.
 
+⚠️ **The publishing gate has to survive the payload too.** `build.py` filters on
+`i.get("published", True)`, so a payload that omits the flag renders every HELD item live while
+`crvi_add.py`, `crvi_hue.py` and `build.py` all report success. `payload.py` dropped it for
+months; three unattributed paintings went to the site that way on 2026-09-01 before it was
+caught. It now carries `published` explicitly, and `build.py` prints a line naming every item it
+held back — if that line is missing when you know something is unverified, something is wrong.
+
 ## What lives where
 
 - `crvi_registry.json` · `crvi_add.py` · `crvi_delete.py` · `crvi_hue.py` · `labels.py` ·
