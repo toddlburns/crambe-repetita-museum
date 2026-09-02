@@ -1,5 +1,5 @@
 {
- "next": 1015,
+ "next": 1102,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -57405,6 +57405,4437 @@
    "hue": null,
    "light": 0.8247,
    "chroma": 0.0
+  },
+  "sent-2026-09-01::722f18db3481": {
+   "id": "CRVI001015",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001015.jpg",
+   "original_px": [
+    720,
+    1214
+   ],
+   "original_bytes": 135226,
+   "identity": "sent-2026-09-01::722f18db3481",
+   "maker": "Édouard Manet",
+   "title": "Le Fifre (The Fifer)",
+   "subtitle": "Oil on canvas · Musée d'Orsay, Paris",
+   "year": "1866",
+   "source_url": "https://content3.cdnprado.net/imagenes/Documentos/imgsem/a5/a5c6/a5c68eaa-c38b-4884-b9a5-82b9864eba15/d0fa299c-c286-4506-8218-894d30e06606.jpg",
+   "source_label": "Oil on canvas · Musée d'Orsay, Paris",
+   "verified_against": "Museo Nacional del Prado, exhibition 'Manet en el Prado' (13 October 2003 – 11 January 2004), whose page carries this image: El pífano / Le Fifre, lent by the Musée d'Orsay, Paris. Manet painted it in 1866 after seeing Velázquez at the Prado the previous year; it was refused by the Salon of 1866.",
+   "notes": [
+    "A boy fifer of the Spanish regiment, in red trousers and black tunic, set against a flat grey ground with almost no shadow — the flatness that scandalised the Salon."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/01.jpg",
+   "source_px": [
+    720,
+    1214
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "Paris"
+    },
+    {
+     "k": "decade",
+     "v": "1860s"
+    },
+    {
+     "k": "artist",
+     "v": "Édouard Manet"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Museo Nacional del Prado, exhibition 'Manet en el Prado' (13 October 2003 – 11 January 2004), whose page carries this image: El pífano / Le Fifre, lent by the Musée d'Orsay, Paris. Manet painted it in 1866 after seeing Velázquez at the Prado the previous year; it was refused by the Salon of 1866.",
+   "hue": 5.28,
+   "light": 0.4674,
+   "chroma": 0.1855
+  },
+  "sent-2026-09-01::b1ee6b4e7ed3": {
+   "id": "CRVI001016",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001016.jpg",
+   "original_px": [
+    1280,
+    945
+   ],
+   "original_bytes": 150814,
+   "identity": "sent-2026-09-01::b1ee6b4e7ed3",
+   "maker": "Édouard Manet",
+   "title": "The Melon",
+   "subtitle": "Oil on canvas, 32.6 × 44.1 cm · National Gallery of Victoria, Melbourne",
+   "year": "c. 1880",
+   "source_url": "https://content.ngv.vic.gov.au/retrieve.php?size=1280&type=image&vernonID=4162",
+   "source_label": "Oil on canvas, 32.6 × 44.1 cm · National Gallery of Victoria, Melbourne",
+   "verified_against": "National Gallery of Victoria, Melbourne — Édouard Manet, 'The melon', c. 1880, oil on canvas, 32.6 × 44.1 cm, Felton Bequest, 1926.",
+   "notes": [
+    "A single ribbed melon on a pale cloth against a near-black ground, the stalk still on it."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/02.jpg",
+   "source_px": [
+    1280,
+    945
+   ],
+   "colors": [
+    "yellow",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "Melbourne"
+    },
+    {
+     "k": "subject",
+     "v": "still life"
+    },
+    {
+     "k": "artist",
+     "v": "Édouard Manet"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "National Gallery of Victoria, Melbourne — Édouard Manet, 'The melon', c. 1880, oil on canvas, 32.6 × 44.1 cm, Felton Bequest, 1926.",
+   "hue": 75.57,
+   "light": 0.3167,
+   "chroma": 0.2531
+  },
+  "sent-2026-09-01::8850fc533e2e": {
+   "id": "CRVI001017",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001017.jpg",
+   "original_px": [
+    843,
+    1124
+   ],
+   "original_bytes": 256365,
+   "identity": "sent-2026-09-01::8850fc533e2e",
+   "maker": "Henri Fantin-Latour",
+   "title": "Édouard Manet",
+   "subtitle": "Oil on canvas · Art Institute of Chicago",
+   "year": "1867",
+   "source_url": "https://www.artic.edu/iiif/2/dd4f9115-150c-2f1a-0f37-50899553d6b4/full/843,/0/default.jpg",
+   "source_label": "Oil on canvas · Art Institute of Chicago",
+   "verified_against": "Art Institute of Chicago, 1905.207 — Henri Fantin-Latour, 'Édouard Manet', 1867, oil on canvas, Stickney Fund. Confirmed by querying the Art Institute's public API for the IIIF image id in the source URL.",
+   "notes": [
+    "Manet at 35 in top hat and overcoat, cane in hand, painted by his friend the year of the Exposition Universelle."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/03.jpg",
+   "source_px": [
+    843,
+    1124
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "Chicago"
+    },
+    {
+     "k": "subject",
+     "v": "portrait"
+    },
+    {
+     "k": "decade",
+     "v": "1860s"
+    },
+    {
+     "k": "artist",
+     "v": "Henri Fantin-Latour"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Institute of Chicago, 1905.207 — Henri Fantin-Latour, 'Édouard Manet', 1867, oil on canvas, Stickney Fund. Confirmed by querying the Art Institute's public API for the IIIF image id in the source URL.",
+   "hue": 41.69,
+   "light": 0.2614,
+   "chroma": 0.7065
+  },
+  "sent-2026-09-01::d628ac0d69c5": {
+   "id": "CRVI001018",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001018.jpg",
+   "original_px": [
+    1134,
+    1520
+   ],
+   "original_bytes": 1274707,
+   "identity": "sent-2026-09-01::d628ac0d69c5",
+   "maker": "Édouard Manet",
+   "title": "Portrait of Minnay",
+   "subtitle": "Oil on canvas, 32 × 24 cm · Sold Drouot Estimations, 26 February 2021",
+   "year": "c. 1879",
+   "source_url": "https://medias.gazette-drouot.com/prod/medias/mediatheque/71938.jpg",
+   "source_label": "Oil on canvas, 32 × 24 cm · Sold Drouot Estimations, 26 February 2021",
+   "verified_against": "Drouot Estimations / Gazette Drouot: rediscovered Manet dog portrait, 'Minnay', oil on canvas 32 × 24 cm, sold 26 February 2021 for €520,800 against an estimate of €220,000–280,000. Reproduced in the Rouart–Wildenstein catalogue raisonné (1975) but never before on the market; painted for the daughter of Gautier Lathuille of the Père Lathuille restaurant, and one of eight small dog portraits Manet made between 1875 and 1883.",
+   "notes": [
+    "A shaggy griffon laid in with a few loaded strokes, signed 'manet' at the lower right."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/04.jpg",
+   "source_px": [
+    1134,
+    1520
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "subject",
+     "v": "dog"
+    },
+    {
+     "k": "artist",
+     "v": "Édouard Manet"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Drouot Estimations / Gazette Drouot: rediscovered Manet dog portrait, 'Minnay', oil on canvas 32 × 24 cm, sold 26 February 2021 for €520,800 against an estimate of €220,000–280,000. Reproduced in the Rouart–Wildenstein catalogue raisonné (1975) but never before on the market; painted for the daughter of Gautier Lathuille of the Père Lathuille restaurant, and one of eight small dog portraits Manet made between 1875 and 1883.",
+   "hue": 36.08,
+   "light": 0.5066,
+   "chroma": 0.5879
+  },
+  "sent-2026-09-01::9f71a95462b1": {
+   "id": "CRVI001019",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001019.jpg",
+   "original_px": [
+    964,
+    1241
+   ],
+   "original_bytes": 189259,
+   "identity": "sent-2026-09-01::9f71a95462b1",
+   "maker": "Édouard Manet",
+   "title": "The Spanish Singer",
+   "subtitle": "Oil on canvas, 147.3 × 114.3 cm · The Metropolitan Museum of Art, New York",
+   "year": "1860",
+   "source_url": "https://albertis-window.com/wp-content/uploads/2015/02/Manet-The-Spanish-Singer-1860.jpg",
+   "source_label": "Oil on canvas, 147.3 × 114.3 cm · The Metropolitan Museum of Art, New York",
+   "verified_against": "The Metropolitan Museum of Art, accession 49.58.2 — Édouard Manet, 'The Spanish Singer', 1860, oil on canvas, 147.3 × 114.3 cm, Gift of William Church Osborn, 1949. Manet's first popular success, at the Salon of 1861.",
+   "notes": [
+    "The Met notes the picture gives itself away as studio work: the left-handed singer holds a guitar strung for a right-handed player, fingering it like someone who has not played one."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/05.jpg",
+   "source_px": [
+    964,
+    1241
+   ],
+   "colors": [
+    "purple",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "New York"
+    },
+    {
+     "k": "decade",
+     "v": "1860s"
+    },
+    {
+     "k": "artist",
+     "v": "Édouard Manet"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Metropolitan Museum of Art, accession 49.58.2 — Édouard Manet, 'The Spanish Singer', 1860, oil on canvas, 147.3 × 114.3 cm, Gift of William Church Osborn, 1949. Manet's first popular success, at the Salon of 1861.",
+   "hue": 36.1,
+   "light": 0.2185,
+   "chroma": 0.4831
+  },
+  "sent-2026-09-01::5d3db2c29316": {
+   "id": "CRVI001020",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001020.jpg",
+   "original_px": [
+    1500,
+    1228
+   ],
+   "original_bytes": 391786,
+   "identity": "sent-2026-09-01::5d3db2c29316",
+   "maker": "Gustave Courbet",
+   "title": "Le Désespéré (The Desperate Man)",
+   "subtitle": "Oil on canvas, 45 × 54 cm · Private collection",
+   "year": "1843–1845",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Gustave_Courbet_-_Le_D%C3%A9sesp%C3%A9r%C3%A9_%281843%29.jpg",
+   "source_label": "Oil on canvas, 45 × 54 cm · Private collection",
+   "verified_against": "Musée d'Orsay artwork record 'Autoportrait de l'artiste, dit aussi Désespoir, ou encore Le Désespéré'; oil on canvas 45 × 54 cm, painted between 1843 and 1845, private collection (Conseil Investissement Art BNP Paribas), shown in the Orsay's 2007 Courbet retrospective.",
+   "notes": [
+    "A self-portrait at arm's length: eyes wide, both hands dragging at his own hair."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/06.jpg",
+   "source_px": [
+    1500,
+    1228
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "subject",
+     "v": "self-portrait"
+    },
+    {
+     "k": "decade",
+     "v": "1840s"
+    },
+    {
+     "k": "artist",
+     "v": "Gustave Courbet"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Musée d'Orsay artwork record 'Autoportrait de l'artiste, dit aussi Désespoir, ou encore Le Désespéré'; oil on canvas 45 × 54 cm, painted between 1843 and 1845, private collection (Conseil Investissement Art BNP Paribas), shown in the Orsay's 2007 Courbet retrospective.",
+   "hue": 33.03,
+   "light": 0.4232,
+   "chroma": 0.2986
+  },
+  "sent-2026-09-01::feb0cbed3a73": {
+   "id": "CRVI001021",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001021.jpg",
+   "original_px": [
+    1200,
+    962
+   ],
+   "original_bytes": 206479,
+   "identity": "sent-2026-09-01::feb0cbed3a73",
+   "maker": "Gustave Courbet",
+   "title": "L'Homme blessé (The Wounded Man)",
+   "subtitle": "Oil on canvas, 81.5 × 97.5 cm · Musée d'Orsay, Paris",
+   "year": "1844–1854",
+   "source_url": "https://miro.medium.com/v2/1*yFkH0cTV8GoxDkY0JcaxZg.jpeg",
+   "source_label": "Oil on canvas, 81.5 × 97.5 cm · Musée d'Orsay, Paris",
+   "verified_against": "Musée d'Orsay, 'L'Homme blessé', oil on canvas 81.5 × 97.5 cm, painted between 1844 and 1854. X-rays show the composition first held a woman leaning on his shoulder; before May 1854 Courbet painted her out and added the sword and the bloodstain.",
+   "notes": [
+    "Courbet as his own dying man, propped against a tree — a picture that was a love scene until he wounded it."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/07.jpg",
+   "source_px": [
+    1200,
+    962
+   ],
+   "colors": [
+    "orange",
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "Paris"
+    },
+    {
+     "k": "subject",
+     "v": "self-portrait"
+    },
+    {
+     "k": "decade",
+     "v": "1840s"
+    },
+    {
+     "k": "artist",
+     "v": "Gustave Courbet"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Musée d'Orsay, 'L'Homme blessé', oil on canvas 81.5 × 97.5 cm, painted between 1844 and 1854. X-rays show the composition first held a woman leaning on his shoulder; before May 1854 Courbet painted her out and added the sword and the bloodstain.",
+   "hue": 21.79,
+   "light": 0.1483,
+   "chroma": 0.187
+  },
+  "sent-2026-09-01::0d6016af8c68": {
+   "id": "CRVI001022",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001022.jpg",
+   "original_px": [
+    1920,
+    2417
+   ],
+   "original_bytes": 1013797,
+   "identity": "sent-2026-09-01::0d6016af8c68",
+   "maker": "Gustave Courbet",
+   "title": "Le Fou de peur (The Man Mad with Fear)",
+   "subtitle": "Oil on paper mounted on canvas, 60.5 × 50.5 cm · Nasjonalmuseet, Oslo",
+   "year": "c. 1844–1845",
+   "source_url": "https://www.nrw-tourism.com/images/tUqaF7si5Uo/cb:/g:ce/aHR0cHM6Ly9pbXhwbGF0Zm9ybS1jdXN0LW5ydy5mc24xLnlvdXItb2JqZWN0c3RvcmFnZS5jb20vbWVkaWEvR3VzdGF2ZSBDb3VyYmV0LCBMZSBGb3UgZGUgcGV1ciwgMTg0NF8xLmpwZw",
+   "source_label": "Oil on paper mounted on canvas, 60.5 × 50.5 cm · Nasjonalmuseet, Oslo",
+   "verified_against": "Nasjonalmuseet, Oslo, NG.M.02169 — Gustave Courbet, 'The Man Mad with Fear', oil on paper mounted on canvas, 60.5 × 50.5 cm, c. 1844/1845.",
+   "notes": [
+    "A figure flinging himself off the edge of a rock, mouth open. The museum reads it against the Romantic equation of genius with madness."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/08.jpg",
+   "source_px": [
+    1920,
+    2417
+   ],
+   "colors": [
+    "orange",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "Oslo"
+    },
+    {
+     "k": "subject",
+     "v": "self-portrait"
+    },
+    {
+     "k": "artist",
+     "v": "Gustave Courbet"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Nasjonalmuseet, Oslo, NG.M.02169 — Gustave Courbet, 'The Man Mad with Fear', oil on paper mounted on canvas, 60.5 × 50.5 cm, c. 1844/1845.",
+   "hue": 26.24,
+   "light": 0.338,
+   "chroma": 0.8099
+  },
+  "sent-2026-09-01::8e18fbd6dcea": {
+   "id": "CRVI001023",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001023.jpg",
+   "original_px": [
+    1200,
+    1458
+   ],
+   "original_bytes": 355409,
+   "identity": "sent-2026-09-01::8e18fbd6dcea",
+   "maker": "Gustave Courbet",
+   "title": "L'Homme à la pipe (Self-Portrait, Man with Pipe)",
+   "subtitle": "Oil on canvas, 45.8 × 37.8 cm · Musée Fabre, Montpellier",
+   "year": "c. 1849",
+   "source_url": "https://cdn.sanity.io/images/cxgd3urn/production/de36376a8307eed096f90ad66707161024097b71-948x1152.jpg?w=1200&h=1458&q=85&fit=crop&auto=format",
+   "source_label": "Oil on canvas, 45.8 × 37.8 cm · Musée Fabre, Montpellier",
+   "verified_against": "Musée Fabre, Montpellier — Gustave Courbet, 'L'Homme à la pipe', oil on canvas 45.8 × 37.8 cm, c. 1849. Exhibited at the Salon of 1850, bought by Alfred Bruyas in 1854 and given by him to the museum in 1868; one of the jewels of the Bruyas gallery.",
+   "notes": [
+    "Half-lidded eyes, red lips, a small black pipe. X-rays found a bonnet under the tousled hair."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/09.jpg",
+   "source_px": [
+    1200,
+    1458
+   ],
+   "colors": [
+    "orange",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "Montpellier"
+    },
+    {
+     "k": "subject",
+     "v": "self-portrait"
+    },
+    {
+     "k": "artist",
+     "v": "Gustave Courbet"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Musée Fabre, Montpellier — Gustave Courbet, 'L'Homme à la pipe', oil on canvas 45.8 × 37.8 cm, c. 1849. Exhibited at the Salon of 1850, bought by Alfred Bruyas in 1854 and given by him to the museum in 1868; one of the jewels of the Bruyas gallery.",
+   "hue": 29.32,
+   "light": 0.218,
+   "chroma": 0.9005
+  },
+  "sent-2026-09-01::dbd80d724f76": {
+   "id": "CRVI001024",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001024.jpg",
+   "original_px": [
+    1024,
+    860
+   ],
+   "original_bytes": 174793,
+   "identity": "sent-2026-09-01::dbd80d724f76",
+   "maker": "Gustave Courbet",
+   "title": "Les Demoiselles des bords de la Seine (été)",
+   "subtitle": "Oil on canvas, 174 × 206 cm · Petit Palais, Paris",
+   "year": "1856–1857",
+   "source_url": "https://luxurysplashofart.com/wp-content/uploads/2023/03/Courbet_Demoiselles-1024x860.jpg",
+   "source_label": "Oil on canvas, 174 × 206 cm · Petit Palais, Paris",
+   "verified_against": "Petit Palais, Musée des Beaux-Arts de la Ville de Paris — Gustave Courbet, 'Les Demoiselles des bords de la Seine (été)', oil on canvas 174 × 206 cm, 1856–57, accepted by the Salon jury and shown from 15 June 1857.",
+   "notes": [
+    "Two women asleep in the grass by the water in their own clothes rather than any allegory's — which is what the Salon objected to."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/10.jpg",
+   "source_px": [
+    1024,
+    860
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "Paris"
+    },
+    {
+     "k": "decade",
+     "v": "1850s"
+    },
+    {
+     "k": "artist",
+     "v": "Gustave Courbet"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Petit Palais, Musée des Beaux-Arts de la Ville de Paris — Gustave Courbet, 'Les Demoiselles des bords de la Seine (été)', oil on canvas 174 × 206 cm, 1856–57, accepted by the Salon jury and shown from 15 June 1857.",
+   "hue": 23.33,
+   "light": 0.4314,
+   "chroma": 0.2039
+  },
+  "sent-2026-09-01::b4b507cf0d06": {
+   "id": "CRVI001025",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001025.webp",
+   "original_px": [
+    1615,
+    2000
+   ],
+   "original_bytes": 797490,
+   "identity": "sent-2026-09-01::b4b507cf0d06",
+   "maker": "Gustave Courbet",
+   "title": "La Voyante (La Somnambule)",
+   "subtitle": "Oil on canvas · Musée des Beaux-Arts et d'Archéologie, Besançon",
+   "year": "c. 1865",
+   "source_url": "https://www.arthistoryproject.com/site/assets/files/10631/gustave_courbet-obelisk-art-history.webp",
+   "source_label": "Oil on canvas · Musée des Beaux-Arts et d'Archéologie, Besançon",
+   "verified_against": "Musée des Beaux-Arts et d'Archéologie de Besançon, recorded in the French national Joconde/POP database as 'La Voyante ; La Somnambule (autre titre)'. Sold by Juliette Courbet at the 1881 studio sale to the father of Élisée Cusenier, who bequeathed it to the museum in 1934. The sitter may be Juliette, the painter's youngest sister.",
+   "notes": [
+    "The face lifts out of a dark red ground, eyes open on nothing in particular — a portrait the titles insist is a trance."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/11.webp",
+   "source_px": [
+    1615,
+    2000
+   ],
+   "colors": [
+    "orange",
+    "red",
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "Besançon"
+    },
+    {
+     "k": "subject",
+     "v": "portrait"
+    },
+    {
+     "k": "artist",
+     "v": "Gustave Courbet"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Musée des Beaux-Arts et d'Archéologie de Besançon, recorded in the French national Joconde/POP database as 'La Voyante ; La Somnambule (autre titre)'. Sold by Juliette Courbet at the 1881 studio sale to the father of Élisée Cusenier, who bequeathed it to the museum in 1934. The sitter may be Juliette, the painter's youngest sister.",
+   "hue": 41.79,
+   "light": 0.2229,
+   "chroma": 0.4314
+  },
+  "sent-2026-09-01::e77cd613e2f4": {
+   "id": "CRVI001026",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001026.jpg",
+   "original_px": [
+    1574,
+    2000
+   ],
+   "original_bytes": 1552150,
+   "identity": "sent-2026-09-01::e77cd613e2f4",
+   "maker": "Adrian Ghenie",
+   "title": "The Arrival",
+   "subtitle": "Oil on canvas, 210 × 165 cm",
+   "year": "2014",
+   "source_url": "https://sothebys-com.brightspotcdn.com/a5/08/05/7664e1479b12072437bb97c64018794520b311b323af85a36a3a354743/003l20020-bfrw4-001-wall-web2.jpg",
+   "source_label": "Oil on canvas, 210 × 165 cm",
+   "verified_against": "Two sources agree. Galerie Judin, Berlin (the artist's gallery) catalogues 'The Arrival', 2014, oil on canvas, 210 × 165 cm; Sotheby's London sold a Ghenie 'The Arrival' as lot 5 of the Contemporary Art Evening Auction, 11 February 2020 (sale L20020), which is the sale this image file belongs to. The image's proportions match the catalogued 210 × 165 cm.",
+   "notes": [
+    "A figure in a green coat and hat, face worked into pulp, standing in dense foliage with a yellow suitcase."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/12.jpg",
+   "source_px": [
+    1574,
+    2000
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "artist",
+     "v": "Adrian Ghenie"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Two sources agree. Galerie Judin, Berlin (the artist's gallery) catalogues 'The Arrival', 2014, oil on canvas, 210 × 165 cm; Sotheby's London sold a Ghenie 'The Arrival' as lot 5 of the Contemporary Art Evening Auction, 11 February 2020 (sale L20020), which is the sale this image file belongs to. The image's proportions match the catalogued 210 × 165 cm.",
+   "hue": 25.46,
+   "light": 0.3703,
+   "chroma": 0.4361
+  },
+  "sent-2026-09-01::0dec9515e1f7": {
+   "id": "CRVI001027",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001027.jpg",
+   "original_px": [
+    1987,
+    3000
+   ],
+   "original_bytes": 1706249,
+   "identity": "sent-2026-09-01::0dec9515e1f7",
+   "maker": "Adrian Ghenie",
+   "title": "Charles Darwin as a young man",
+   "subtitle": "Oil on canvas, 49 × 32.5 × 4.5 cm",
+   "year": "2014",
+   "source_url": "https://www.pacegallery.com/media/images/60764.original.jpg",
+   "source_label": "Oil on canvas, 49 × 32.5 × 4.5 cm",
+   "verified_against": "Pace Gallery, from the artist's page: 'Adrian Ghenie, Charles Darwin as a young man, 2014, oil on canvas, 49 cm x 32.5 cm x 4.5 cm unframed, © Adrian Ghenie.'",
+   "notes": [
+    "Darwin before the beard — a pale head scraped and dragged until only the shirt collar holds still."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/13.jpg",
+   "source_px": [
+    1987,
+    3000
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "subject",
+     "v": "portrait"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "artist",
+     "v": "Adrian Ghenie"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Pace Gallery, from the artist's page: 'Adrian Ghenie, Charles Darwin as a young man, 2014, oil on canvas, 49 cm x 32.5 cm x 4.5 cm unframed, © Adrian Ghenie.'",
+   "hue": 40.82,
+   "light": 0.4256,
+   "chroma": 0.4183
+  },
+  "sent-2026-09-01::8a2ed0488b7f": {
+   "id": "CRVI001028",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001028.jpg",
+   "original_px": [
+    4096,
+    5374
+   ],
+   "original_bytes": 4690236,
+   "identity": "sent-2026-09-01::8a2ed0488b7f",
+   "maker": "Adrian Ghenie",
+   "title": "Untitled painting",
+   "subtitle": "Oil on canvas · Sold Sotheby's London",
+   "year": "",
+   "source_url": "https://sothebys-md.brightspotcdn.com/dims4/default/ffde57d/2147483647/strip/true/crop/2000x2624+0+0/resize/4096x5374!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F37%2F60%2Feb3912194627b216b425074448db%2Fl24024-chmwg-t1-02.jpg",
+   "source_label": "Oil on canvas · Sold Sotheby's London",
+   "verified_against": "The artist is established: the image is published by one of Ghenie's own galleries or by the auction house that sold the work. The title, date and dimensions of THIS painting are not established here.",
+   "notes": [
+    "A seated figure on a red chair before a grey screen, trainers on, the body assembled from planes of skin and cloth."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/14.jpg",
+   "source_px": [
+    4096,
+    5374
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Adrian Ghenie"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The artist is established: the image is published by one of Ghenie's own galleries or by the auction house that sold the work. The title, date and dimensions of THIS painting are not established here.",
+   "hue": 42.61,
+   "light": 0.576,
+   "chroma": 0.7719
+  },
+  "sent-2026-09-01::52b8319839c2": {
+   "id": "CRVI001029",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001029.jpg",
+   "original_px": [
+    2000,
+    1647
+   ],
+   "original_bytes": 1236914,
+   "identity": "sent-2026-09-01::52b8319839c2",
+   "maker": "Adrian Ghenie",
+   "title": "Untitled painting",
+   "subtitle": "Oil on canvas · Pace Gallery",
+   "year": "",
+   "source_url": "https://www.pacegallery.com/media/images/76521.width-2000.jpg",
+   "source_label": "Oil on canvas · Pace Gallery",
+   "verified_against": "The artist is established: the image is published by one of Ghenie's own galleries or by the auction house that sold the work. The title, date and dimensions of THIS painting are not established here.",
+   "notes": [
+    "A head turned in profile, built from bands of orange, pink and brown against flat turquoise."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/15.jpg",
+   "source_px": [
+    2000,
+    1647
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Adrian Ghenie"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The artist is established: the image is published by one of Ghenie's own galleries or by the auction house that sold the work. The title, date and dimensions of THIS painting are not established here.",
+   "hue": 218.86,
+   "light": 0.4742,
+   "chroma": 0.4132
+  },
+  "sent-2026-09-01::f93348c85c28": {
+   "id": "CRVI001030",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001030.jpg",
+   "original_px": [
+    4096,
+    4106
+   ],
+   "original_bytes": 4910603,
+   "identity": "sent-2026-09-01::f93348c85c28",
+   "maker": "Adrian Ghenie",
+   "title": "Untitled painting",
+   "subtitle": "Oil on canvas · Sold Sotheby's London",
+   "year": "",
+   "source_url": "https://sothebys-md.brightspotcdn.com/dims4/default/f107b24/2147483647/strip/true/crop/5877x5891+0+0/resize/4096x4106!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2F55%2F1c%2F64f18445414694c3170c681298dd%2Fl25002-chmwf-t1-04.jpg",
+   "source_label": "Oil on canvas · Sold Sotheby's London",
+   "verified_against": "The artist is established: the image is published by one of Ghenie's own galleries or by the auction house that sold the work. The title, date and dimensions of THIS painting are not established here.",
+   "notes": [
+    "A near-square canvas: a head dissolving into ribbons of paint on a blue ground."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/16.jpg",
+   "source_px": [
+    4096,
+    4106
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Adrian Ghenie"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The artist is established: the image is published by one of Ghenie's own galleries or by the auction house that sold the work. The title, date and dimensions of THIS painting are not established here.",
+   "hue": 15.8,
+   "light": 0.6027,
+   "chroma": 0.8104
+  },
+  "sent-2026-09-01::189c842a9264": {
+   "id": "CRVI001031",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001031.jpg",
+   "original_px": [
+    1200,
+    1676
+   ],
+   "original_bytes": 761581,
+   "identity": "sent-2026-09-01::189c842a9264",
+   "maker": "Adrian Ghenie",
+   "title": "Weltwehmut",
+   "subtitle": "Albertina, Vienna · Infinitart Foundation",
+   "year": "2024",
+   "source_url": "https://www.albertina.at/site/assets/files/20824/adrian-ghenie-weltwehmut-2024-c-infinitart-foundation.1200x0.jpg",
+   "source_label": "Albertina, Vienna · Infinitart Foundation",
+   "verified_against": "Albertina, Vienna — the museum publishes this image as 'Adrian Ghenie, Weltwehmut, 2024, © Infinitart Foundation'.",
+   "notes": [
+    "World-weariness as a title, and a figure coming apart at a desk chair to match it."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/17.jpg",
+   "source_px": [
+    1200,
+    1676
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "Vienna"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "artist",
+     "v": "Adrian Ghenie"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Albertina, Vienna — the museum publishes this image as 'Adrian Ghenie, Weltwehmut, 2024, © Infinitart Foundation'.",
+   "hue": 7.24,
+   "light": 0.6393,
+   "chroma": 0.5226
+  },
+  "sent-2026-09-01::348a3259c6ee": {
+   "id": "CRVI001032",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001032.jpg",
+   "original_px": [
+    2957,
+    3543
+   ],
+   "original_bytes": 565053,
+   "identity": "sent-2026-09-01::348a3259c6ee",
+   "maker": "Adrian Ghenie",
+   "title": "Untitled painting",
+   "subtitle": "Published in Flaunt",
+   "year": "",
+   "source_url": "https://cdn.prod.website-files.com/62ee0bbe0c783a903ecc0ddb/654a5f9318eb70fd3e741c1f_189%20FLAUNT%20MAGAZINE%20-%20BESTIES%20ISSUE%20-%20ART%20-%20ADRIAN%20GHENE1.jpg",
+   "source_label": "Published in Flaunt",
+   "verified_against": "The artist is established: the image is published by one of Ghenie's own galleries or by the auction house that sold the work. The title, date and dimensions of THIS painting are not established here.",
+   "notes": [
+    "Two figures on a plinth in a public square, one hoisting the other, both painted as slabs of colour."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/18.jpg",
+   "source_px": [
+    2957,
+    3543
+   ],
+   "colors": [
+    "red",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Adrian Ghenie"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The artist is established: the image is published by one of Ghenie's own galleries or by the auction house that sold the work. The title, date and dimensions of THIS painting are not established here.",
+   "hue": 199.28,
+   "light": 0.5466,
+   "chroma": 0.2133
+  },
+  "sent-2026-09-01::5b2485196d91": {
+   "id": "CRVI001033",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001033.jpg",
+   "original_px": [
+    1024,
+    1307
+   ],
+   "original_bytes": 248170,
+   "identity": "sent-2026-09-01::5b2485196d91",
+   "maker": "Adrian Ghenie",
+   "title": "Untitled painting",
+   "subtitle": "Galerie Judin, Berlin",
+   "year": "",
+   "source_url": "https://www.galeriejudin.com/files/2021/07/agh-079-web-1024x1307.jpg",
+   "source_label": "Galerie Judin, Berlin",
+   "verified_against": "The artist is established: the image is published by one of Ghenie's own galleries or by the auction house that sold the work. The title, date and dimensions of THIS painting are not established here.",
+   "notes": [
+    "A face pulled sideways into brown coils, red at the throat."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/19.jpg",
+   "source_px": [
+    1024,
+    1307
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Adrian Ghenie"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The artist is established: the image is published by one of Ghenie's own galleries or by the auction house that sold the work. The title, date and dimensions of THIS painting are not established here.",
+   "hue": 22.03,
+   "light": 0.3911,
+   "chroma": 0.6219
+  },
+  "sent-2026-09-01::9378ae5602c9": {
+   "id": "CRVI001034",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001034.jpg",
+   "original_px": [
+    1347,
+    1500
+   ],
+   "original_bytes": 1068018,
+   "identity": "sent-2026-09-01::9378ae5602c9",
+   "maker": "Adrian Ghenie",
+   "title": "Untitled painting",
+   "subtitle": "Published in Interview",
+   "year": "",
+   "source_url": "https://www.interviewmagazine.com/wp-content/uploads/2011/11/img-adrian-ghenie-1_104222128637.jpg",
+   "source_label": "Published in Interview",
+   "verified_against": "The artist is established: the image is published by one of Ghenie's own galleries or by the auction house that sold the work. The title, date and dimensions of THIS painting are not established here.",
+   "notes": [
+    "A dark portrait with the face rubbed to a pink smear and a moustache left intact."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/20.jpg",
+   "source_px": [
+    1347,
+    1500
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Adrian Ghenie"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The artist is established: the image is published by one of Ghenie's own galleries or by the auction house that sold the work. The title, date and dimensions of THIS painting are not established here.",
+   "hue": 8.38,
+   "light": 0.4376,
+   "chroma": 0.5092
+  },
+  "sent-2026-09-01::d19a6bfba86c": {
+   "id": "CRVI001035",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001035.jpg",
+   "original_px": [
+    1346,
+    1535
+   ],
+   "original_bytes": 697963,
+   "identity": "sent-2026-09-01::d19a6bfba86c",
+   "maker": "Adrian Ghenie",
+   "title": "The Flirt",
+   "subtitle": "Oil on canvas, 250 × 220 cm · Galerie Judin, Berlin",
+   "year": "2021",
+   "source_url": "https://www.galeriejudin.com/files/2021/06/agh-104-web.jpg",
+   "source_label": "Oil on canvas, 250 × 220 cm · Galerie Judin, Berlin",
+   "verified_against": "Galerie Judin, Berlin, from the artist's page: 'The Flirt, 2021, oil on canvas, 250 × 220 cm.'",
+   "notes": [
+    "Legs, boots and an orange bag in a churn of limbs — a flirtation staged as a collision."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/21.jpg",
+   "source_px": [
+    1346,
+    1535
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "artist",
+     "v": "Adrian Ghenie"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Galerie Judin, Berlin, from the artist's page: 'The Flirt, 2021, oil on canvas, 250 × 220 cm.'",
+   "hue": 24.43,
+   "light": 0.3823,
+   "chroma": 0.1877
+  },
+  "sent-2026-09-01::080aab9db577": {
+   "id": "CRVI001036",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001036.jpg",
+   "original_px": [
+    2536,
+    3200
+   ],
+   "original_bytes": 2902233,
+   "identity": "sent-2026-09-01::080aab9db577",
+   "maker": "Adrian Ghenie",
+   "title": "Untitled painting",
+   "subtitle": "Christie's",
+   "year": "",
+   "source_url": "https://www.christies.com/-/jssmedia/images/features/articles/2022/05/hong-kong-auctions/flesh-and-soul-bacon-ghenie/67247721.jpg?h=3200&iar=0&w=2536&rev=2e8900002ea1421f9c8050f48f521154&hash=b4b3d8e57aeb3d9a37b7a60d0d581b31452d50e2",
+   "source_label": "Christie's",
+   "verified_against": "The artist is established: the image is published by one of Ghenie's own galleries or by the auction house that sold the work. The title, date and dimensions of THIS painting are not established here.",
+   "notes": [
+    "A head in wet ochre and white above a pale collar, from a Christie's feature pairing Ghenie with Francis Bacon."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/22.jpg",
+   "source_px": [
+    2536,
+    3200
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Adrian Ghenie"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The artist is established: the image is published by one of Ghenie's own galleries or by the auction house that sold the work. The title, date and dimensions of THIS painting are not established here.",
+   "hue": 55.82,
+   "light": 0.6961,
+   "chroma": 0.7785
+  },
+  "sent-2026-09-01::d227a07f48ba": {
+   "id": "CRVI001037",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001037.jpg",
+   "original_px": [
+    1300,
+    2000
+   ],
+   "original_bytes": 138058,
+   "identity": "sent-2026-09-01::d227a07f48ba",
+   "maker": "",
+   "title": "Drawing on music staves",
+   "subtitle": "Cooper Hewitt, Smithsonian Design Museum, 1981-29-424",
+   "year": "",
+   "source_url": "https://ids.si.edu/ids/deliveryService?id=CHSDM-1981-29-424MattFlynn",
+   "source_label": "Cooper Hewitt, Smithsonian Design Museum, 1981-29-424",
+   "verified_against": "",
+   "notes": [
+    "A line of dots wandering across ruled music staves, drawn as if the tune were a path.",
+    "Cooper Hewitt, Smithsonian Design Museum, Drawings, Prints and Graphic Design, object 1981-29-424; the image is the museum's own, photographed by Matt Flynn. Neither the designer nor the title could be recovered — the museum's collection site refused automated access."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/23.jpg",
+   "source_px": [
+    1300,
+    2000
+   ],
+   "colors": [
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    }
+   ],
+   "identity_established": false,
+   "published": false,
+   "verification": "",
+   "hue": 53.95,
+   "light": 0.9116,
+   "chroma": 0.735
+  },
+  "sent-2026-09-01::276b9228845d": {
+   "id": "CRVI001038",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001038.jpg",
+   "original_px": [
+    1482,
+    2100
+   ],
+   "original_bytes": 521265,
+   "identity": "sent-2026-09-01::276b9228845d",
+   "maker": "Kiyoshi Awazu",
+   "title": "The Friends",
+   "subtitle": "Offset lithograph, 28½ × 20¼ in. · LACMA, Marc Treib Collection",
+   "year": "1969",
+   "source_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/hyperallergic-newspack-s3-amazonaws-com/uploads/2018/10/m2014_126_282-20160602-access.jpg",
+   "source_label": "Offset lithograph, 28½ × 20¼ in. · LACMA, Marc Treib Collection",
+   "verified_against": "Los Angeles County Museum of Art, Marc Treib Collection, as captioned by Hyperallergic in its report on LACMA's 'Awazu Kiyoshi, Graphic Design: Summoning the Outdated': 'Awazu Kiyoshi, The Friends (1969), offset lithograph, 28 1/2 x 20 1/4 in., Los Angeles County Museum of Art, Marc Treib Collection.'",
+   "notes": [
+    "友よ — a bowler-hatted man whose face is a Union Jack, framed in a border of small painted panels."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/24.jpg",
+   "source_px": [
+    1482,
+    2100
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "artist",
+     "v": "Kiyoshi Awazu"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Los Angeles County Museum of Art, Marc Treib Collection, as captioned by Hyperallergic in its report on LACMA's 'Awazu Kiyoshi, Graphic Design: Summoning the Outdated': 'Awazu Kiyoshi, The Friends (1969), offset lithograph, 28 1/2 x 20 1/4 in., Los Angeles County Museum of Art, Marc Treib Collection.'",
+   "hue": 7.92,
+   "light": 0.4317,
+   "chroma": 0.6272
+  },
+  "sent-2026-09-01::c0e6c858ec84": {
+   "id": "CRVI001039",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001039.jpg",
+   "original_px": [
+    1600,
+    2217
+   ],
+   "original_bytes": 276752,
+   "identity": "sent-2026-09-01::c0e6c858ec84",
+   "maker": "Kiyoshi Awazu",
+   "title": "Untitled poster",
+   "subtitle": "AGI (Alliance Graphique Internationale) member archive",
+   "year": "",
+   "source_url": "https://a-g-i.s3.eu-west-3.amazonaws.com/kiyoshiawazu/_1600xAUTO_crop_center-center_75_none/kanazawa1.jpg",
+   "source_label": "AGI (Alliance Graphique Internationale) member archive",
+   "verified_against": "Kiyoshi Awazu is established as the designer of this run by LACMA, which catalogues two of these posters to him in the Marc Treib Collection, and by the AGI member archive. The title, date and client of THIS poster are not established here.",
+   "notes": [
+    "A vast orange-to-yellow oval head on a field of rainbow contour lines."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/25.jpg",
+   "source_px": [
+    1600,
+    2217
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "artist",
+     "v": "Kiyoshi Awazu"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Kiyoshi Awazu is established as the designer of this run by LACMA, which catalogues two of these posters to him in the Marc Treib Collection, and by the AGI member archive. The title, date and client of THIS poster are not established here.",
+   "hue": 5.41,
+   "light": 0.5226,
+   "chroma": 0.9875
+  },
+  "sent-2026-09-01::eb434e64a159": {
+   "id": "CRVI001040",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001040.jpg",
+   "original_px": [
+    1421,
+    2000
+   ],
+   "original_bytes": 1369282,
+   "identity": "sent-2026-09-01::eb434e64a159",
+   "maker": "Kiyoshi Awazu",
+   "title": "NOH — UCLA Asian Performing Arts Institute",
+   "subtitle": "Poster · The Museum of Modern Art, New York",
+   "year": "1981",
+   "source_url": "https://www.moma.org/media/W1siZiIsIjUyNzIzMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=6a435109afcad769",
+   "source_label": "Poster · The Museum of Modern Art, New York",
+   "verified_against": "Held by the Museum of Modern Art, New York. The poster letters its own occasion: NOH, UCLA Asian Performing Arts Institute, Los Angeles, 1981. Kiyoshi Awazu is established as the designer of this run by LACMA, which catalogues two of these posters to him in the Marc Treib Collection, and by the AGI member archive. The title, date and client of THIS poster are not established here.",
+   "notes": [
+    "A black Noh mask with a green mouth, floating on bands of red and orange contour."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/26.jpg",
+   "source_px": [
+    1421,
+    2000
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "location",
+     "v": "Los Angeles"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "artist",
+     "v": "Kiyoshi Awazu"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Held by the Museum of Modern Art, New York. The poster letters its own occasion: NOH, UCLA Asian Performing Arts Institute, Los Angeles, 1981. Kiyoshi Awazu is established as the designer of this run by LACMA, which catalogues two of these posters to him in the Marc Treib Collection, and by the AGI member archive. The title, date and client of THIS poster are not established here.",
+   "hue": 358.38,
+   "light": 0.2844,
+   "chroma": 0.6417
+  },
+  "sent-2026-09-01::984d680f7b4c": {
+   "id": "CRVI001041",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001041.jpg",
+   "original_px": [
+    1421,
+    2000
+   ],
+   "original_bytes": 963524,
+   "identity": "sent-2026-09-01::984d680f7b4c",
+   "maker": "Kiyoshi Awazu",
+   "title": "Untitled poster",
+   "subtitle": "",
+   "year": "",
+   "source_url": "https://images.squarespace-cdn.com/content/v1/57825361440243db4a4b7830/1596936640439-Q2E24GQXHOBKJIJ75QH7/Kiyoshi+Awazu+Japanese+Design++Graphic+Designer+Painter+Japan+The+Metabolism+Film+Poster+Illustration+Ben+Shahn+Japanese+Art+Japanese+Film+Culture.jpg",
+   "source_label": "supplied by Todd Burns",
+   "verified_against": "Kiyoshi Awazu is established as the designer of this run by LACMA, which catalogues two of these posters to him in the Marc Treib Collection, and by the AGI member archive. The title, date and client of THIS poster are not established here.",
+   "notes": [
+    "Fish, eyes and a crescent moon in a fan of rays, drawn in dense contour bands."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/27.jpg",
+   "source_px": [
+    1421,
+    2000
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "artist",
+     "v": "Kiyoshi Awazu"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Kiyoshi Awazu is established as the designer of this run by LACMA, which catalogues two of these posters to him in the Marc Treib Collection, and by the AGI member archive. The title, date and client of THIS poster are not established here.",
+   "hue": 358.66,
+   "light": 0.4211,
+   "chroma": 0.7643
+  },
+  "sent-2026-09-01::519cb9528dc0": {
+   "id": "CRVI001042",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001042.webp",
+   "original_px": [
+    1629,
+    2329
+   ],
+   "original_bytes": 656030,
+   "identity": "sent-2026-09-01::519cb9528dc0",
+   "maker": "Kiyoshi Awazu",
+   "title": "Poster Nippon",
+   "subtitle": "Screenprint · LACMA, Marc Treib Collection",
+   "year": "1972",
+   "source_url": "https://www-images.lacma.org/s3fs-public/styles/me_full_width_1x/public/primary_image/2019-07/M2014_126_264-20140428.jpg.webp?VersionId=yvT2KRBlcTn4tHyfMcn568gqclRoRYA8&h=30914f02&itok=cW7A1Hsp",
+   "source_label": "Screenprint · LACMA, Marc Treib Collection",
+   "verified_against": "Los Angeles County Museum of Art, M.2014.126.264 — Kiyoshi Awazu, 'Poster Nippon', 1972, screenprint, Marc Treib Collection.",
+   "notes": [
+    "The Japanese archipelago as a contoured relief map at the centre of concentric rainbow rings."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/28.webp",
+   "source_px": [
+    1629,
+    2329
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "artist",
+     "v": "Kiyoshi Awazu"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Los Angeles County Museum of Art, M.2014.126.264 — Kiyoshi Awazu, 'Poster Nippon', 1972, screenprint, Marc Treib Collection.",
+   "hue": 15.82,
+   "light": 0.5325,
+   "chroma": 0.8661
+  },
+  "sent-2026-09-01::74eec8f6f462": {
+   "id": "CRVI001043",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001043.jpg",
+   "original_px": [
+    1300,
+    1844
+   ],
+   "original_bytes": 222114,
+   "identity": "sent-2026-09-01::74eec8f6f462",
+   "maker": "Kiyoshi Awazu",
+   "title": "Contemporary Print Exhibition, 50 Earlham Street Gallery, London",
+   "subtitle": "Poster",
+   "year": "1981",
+   "source_url": "https://timwilliamsfineart.com/wp-content/uploads/2020/03/postersmore010.jpg",
+   "source_label": "Poster",
+   "verified_against": "The poster letters its own occasion in full: 'CONTEMPORARY PRINT EXHIBITION · Kiyoshi AWAZU · Oct 26–Nov 8 · 50 Earlham St. GALLERY in LONDON 1981', naming Awazu as the exhibiting artist on the sheet itself.",
+   "notes": [
+    "Awazu's own London show, announced in his own contour bands."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/29.jpg",
+   "source_px": [
+    1300,
+    1844
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "location",
+     "v": "London"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "artist",
+     "v": "Kiyoshi Awazu"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The poster letters its own occasion in full: 'CONTEMPORARY PRINT EXHIBITION · Kiyoshi AWAZU · Oct 26–Nov 8 · 50 Earlham St. GALLERY in LONDON 1981', naming Awazu as the exhibiting artist on the sheet itself.",
+   "hue": 7.44,
+   "light": 0.2796,
+   "chroma": 0.7634
+  },
+  "sent-2026-09-01::ac992a69b886": {
+   "id": "CRVI001044",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001044.jpg",
+   "original_px": [
+    1250,
+    1762
+   ],
+   "original_bytes": 1472827,
+   "identity": "sent-2026-09-01::ac992a69b886",
+   "maker": "Kiyoshi Awazu",
+   "title": "mano-dharma concert — Takehisa Kosugi",
+   "subtitle": "Poster",
+   "year": "",
+   "source_url": "https://freight.cargo.site/t/original/i/fdc82888c4e787a70e96c7d7486a6dd70dc8a4f8031fe1cee94ebb38f960e310/AWAZU-6_1250.jpg",
+   "source_label": "Poster",
+   "verified_against": "The poster letters its own occasion: 'mano-dharma concert', 小杉武久 (Takehisa Kosugi), マノ・ダルマ・コンサート. Kiyoshi Awazu is established as the designer of this run by LACMA, which catalogues two of these posters to him in the Marc Treib Collection, and by the AGI member archive. The title, date and client of THIS poster are not established here.",
+   "notes": [
+    "A turtle carrying a figure across blue water, inside a tiled and jewelled border."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/30.jpg",
+   "source_px": [
+    1250,
+    1762
+   ],
+   "colors": [
+    "yellow",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "subject",
+     "v": "music"
+    },
+    {
+     "k": "artist",
+     "v": "Kiyoshi Awazu"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The poster letters its own occasion: 'mano-dharma concert', 小杉武久 (Takehisa Kosugi), マノ・ダルマ・コンサート. Kiyoshi Awazu is established as the designer of this run by LACMA, which catalogues two of these posters to him in the Marc Treib Collection, and by the AGI member archive. The title, date and client of THIS poster are not established here.",
+   "hue": 48.17,
+   "light": 0.4339,
+   "chroma": 0.9089
+  },
+  "sent-2026-09-01::7988a10f5f7f": {
+   "id": "CRVI001045",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001045.jpg",
+   "original_px": [
+    1250,
+    1762
+   ],
+   "original_bytes": 1052076,
+   "identity": "sent-2026-09-01::7988a10f5f7f",
+   "maker": "Kiyoshi Awazu",
+   "title": "Untitled poster",
+   "subtitle": "",
+   "year": "",
+   "source_url": "https://freight.cargo.site/t/original/i/67534cc7b373becfb060ab505ab54d4000b7b1a062de4a05b43e6a0f51161cdd/AWAZU-8B_1250.jpg",
+   "source_label": "supplied by Todd Burns",
+   "verified_against": "Kiyoshi Awazu is established as the designer of this run by LACMA, which catalogues two of these posters to him in the Marc Treib Collection, and by the AGI member archive. The title, date and client of THIS poster are not established here.",
+   "notes": [
+    "Bands of red and orange running like strata, with a column of small painted panels down the right edge."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/31.jpg",
+   "source_px": [
+    1250,
+    1762
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "artist",
+     "v": "Kiyoshi Awazu"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Kiyoshi Awazu is established as the designer of this run by LACMA, which catalogues two of these posters to him in the Marc Treib Collection, and by the AGI member archive. The title, date and client of THIS poster are not established here.",
+   "hue": 7.89,
+   "light": 0.4449,
+   "chroma": 0.8418
+  },
+  "sent-2026-09-01::da5cc8ceea91": {
+   "id": "CRVI001046",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001046.jpg",
+   "original_px": [
+    1809,
+    2560
+   ],
+   "original_bytes": 1568296,
+   "identity": "sent-2026-09-01::da5cc8ceea91",
+   "maker": "",
+   "title": "Poster for the 9th Contemporary Japanese Sculpture Exhibition",
+   "subtitle": "Poster",
+   "year": "",
+   "source_url": "https://tab-prod-public.s3.ap-northeast-1.amazonaws.com/asset_files/transferred/images.ctfassets.net/j05yk38inose/74VMHeJKhXxAFGgxmXRxXA/6afdd07cb00d42e17c053f9cdac967e5/cae13d313fca5e50277409b5f3bd3841-scaled.jpeg",
+   "source_label": "Poster",
+   "verified_against": "The poster letters its own occasion: 第9回現代日本彫刻展 (the 9th Contemporary Japanese Sculpture Exhibition), 公募. The designer is NOT established: Kiyoshi Awazu designed posters in this series — LACMA holds his poster for the 5th exhibition, 1973 — but nothing here ties this sheet to him.",
+   "notes": [
+    "Two ridged green landforms facing each other across a red gap, with a white sphere in each."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/32.jpg",
+   "source_px": [
+    1809,
+    2560
+   ],
+   "colors": [
+    "green",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The poster letters its own occasion: 第9回現代日本彫刻展 (the 9th Contemporary Japanese Sculpture Exhibition), 公募. The designer is NOT established: Kiyoshi Awazu designed posters in this series — LACMA holds his poster for the 5th exhibition, 1973 — but nothing here ties this sheet to him.",
+   "hue": 15.97,
+   "light": 0.4348,
+   "chroma": 0.9466
+  },
+  "sent-2026-09-01::c514771cbe8c": {
+   "id": "CRVI001047",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001047.jpg",
+   "original_px": [
+    960,
+    1350
+   ],
+   "original_bytes": 383692,
+   "identity": "sent-2026-09-01::c514771cbe8c",
+   "maker": "",
+   "title": "Japanese poster for Jean-Luc Godard's 'Week End'",
+   "subtitle": "Film poster",
+   "year": "",
+   "source_url": "https://cdn.posteritati.com/posters/000/000/057/501/weekend-md-web.jpg",
+   "source_label": "Film poster",
+   "verified_against": "Posteritati Movie Poster Gallery, from whose stock this image comes: the Japanese poster for Godard's 'Week End' (ウイークエンド, 1967). The designer is NOT established here.",
+   "notes": [
+    "A photographed face over a grid of small colour panels, the title set in a heavy sans across the bottom."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/33.jpg",
+   "source_px": [
+    960,
+    1350
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Posteritati Movie Poster Gallery, from whose stock this image comes: the Japanese poster for Godard's 'Week End' (ウイークエンド, 1967). The designer is NOT established here.",
+   "hue": 14.26,
+   "light": 0.4881,
+   "chroma": 0.7263
+  },
+  "sent-2026-09-01::af6988c0e890": {
+   "id": "CRVI001048",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001048.jpg",
+   "original_px": [
+    848,
+    1200
+   ],
+   "original_bytes": 266249,
+   "identity": "sent-2026-09-01::af6988c0e890",
+   "maker": "",
+   "title": "ANTI-WAR AND LIBERATION poster",
+   "subtitle": "",
+   "year": "",
+   "source_url": "https://pbs.twimg.com/media/Gtu4yMxXsAIMvHq.jpg",
+   "source_label": "supplied by Todd Burns",
+   "verified_against": "",
+   "notes": [
+    "A head made of rainbow rays around a target eye, on flat red.",
+    "Nothing established. The sheet letters itself ANTI-WAR AND LIBERATION; the designer, client and date are unknown, and the image was supplied without a source page."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/34.jpg",
+   "source_px": [
+    848,
+    1200
+   ],
+   "colors": [
+    "red",
+    "pink"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    }
+   ],
+   "identity_established": false,
+   "published": false,
+   "verification": "",
+   "hue": 6.3,
+   "light": 0.4414,
+   "chroma": 0.9854
+  },
+  "sent-2026-09-01::b8ed7773d7f4": {
+   "id": "CRVI001049",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001049.jpg",
+   "original_px": [
+    1422,
+    2000
+   ],
+   "original_bytes": 960849,
+   "identity": "sent-2026-09-01::b8ed7773d7f4",
+   "maker": "Takenobu Igarashi",
+   "title": "EXPO '85 — The International Exposition, Tsukuba, Japan",
+   "subtitle": "Poster · The Museum of Modern Art, New York",
+   "year": "1985",
+   "source_url": "https://www.moma.org/media/W1siZiIsIjUyMTQ1NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=677d83c6bdb262d8",
+   "source_label": "Poster · The Museum of Modern Art, New York",
+   "verified_against": "Held by the Museum of Modern Art, New York. The poster letters its own occasion: 'EXPO '85 — The International Exposition, Tsukuba, Japan, 1985, March–September'. Takenobu Igarashi is established as the designer: the work is held by the Museum of Modern Art or published by the artist's own archive. The title and date of THIS sheet are not established here.",
+   "notes": [
+    "The Expo mark built as an axonometric city of extruded letters, in blue and terracotta."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/35.jpg",
+   "source_px": [
+    1422,
+    2000
+   ],
+   "colors": [
+    "cyan",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "location",
+     "v": "Tsukuba"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "artist",
+     "v": "Takenobu Igarashi"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Held by the Museum of Modern Art, New York. The poster letters its own occasion: 'EXPO '85 — The International Exposition, Tsukuba, Japan, 1985, March–September'. Takenobu Igarashi is established as the designer: the work is held by the Museum of Modern Art or published by the artist's own archive. The title and date of THIS sheet are not established here.",
+   "hue": 185.8,
+   "light": 0.5499,
+   "chroma": 0.847
+  },
+  "sent-2026-09-01::e2ee82eb0f6c": {
+   "id": "CRVI001050",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001050.jpg",
+   "original_px": [
+    1411,
+    2000
+   ],
+   "original_bytes": 305264,
+   "identity": "sent-2026-09-01::e2ee82eb0f6c",
+   "maker": "Takenobu Igarashi",
+   "title": "Takenobu Igarashi Exhibition 2",
+   "subtitle": "Poster · The Museum of Modern Art, New York",
+   "year": "",
+   "source_url": "https://www.moma.org/media/W1siZiIsIjU3Njg0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=62e3bd3977b29600",
+   "source_label": "Poster · The Museum of Modern Art, New York",
+   "verified_against": "Held by the Museum of Modern Art, New York. The poster letters its own occasion: 五十嵐威暢展② — the second Takenobu Igarashi exhibition. Takenobu Igarashi is established as the designer: the work is held by the Museum of Modern Art or published by the artist's own archive. The title and date of THIS sheet are not established here.",
+   "notes": [
+    "A purple wedge and a white extruded 2, casting their shadow on grey."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/36.jpg",
+   "source_px": [
+    1411,
+    2000
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "artist",
+     "v": "Takenobu Igarashi"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Held by the Museum of Modern Art, New York. The poster letters its own occasion: 五十嵐威暢展② — the second Takenobu Igarashi exhibition. Takenobu Igarashi is established as the designer: the work is held by the Museum of Modern Art or published by the artist's own archive. The title and date of THIS sheet are not established here.",
+   "hue": null,
+   "light": 0.5502,
+   "chroma": 0.0647
+  },
+  "sent-2026-09-01::ca22ee1f3722": {
+   "id": "CRVI001051",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001051.jpg",
+   "original_px": [
+    1600,
+    2030
+   ],
+   "original_bytes": 444800,
+   "identity": "sent-2026-09-01::ca22ee1f3722",
+   "maker": "Takenobu Igarashi",
+   "title": "Cover for Graphis 245",
+   "subtitle": "Magazine cover",
+   "year": "",
+   "source_url": "https://igarashiarchive.jp/wp-content/uploads/2023/06/collection_gd17.jpg",
+   "source_label": "Magazine cover",
+   "verified_against": "Published by the Takenobu Igarashi Archive (igarashiarchive.jp) in its graphic design collection. The sheet letters itself 'GRAPHIS 245'.",
+   "notes": [
+    "Blue and pink extruded letterforms on a drafting grid, with a small bronze figure among them."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/37.jpg",
+   "source_px": [
+    1600,
+    2030
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "artist",
+     "v": "Takenobu Igarashi"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published by the Takenobu Igarashi Archive (igarashiarchive.jp) in its graphic design collection. The sheet letters itself 'GRAPHIS 245'.",
+   "hue": 207.07,
+   "light": 0.7783,
+   "chroma": 0.2901
+  },
+  "sent-2026-09-01::4299e986b246": {
+   "id": "CRVI001052",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001052.jpg",
+   "original_px": [
+    2000,
+    1420
+   ],
+   "original_bytes": 923058,
+   "identity": "sent-2026-09-01::4299e986b246",
+   "maker": "Takenobu Igarashi",
+   "title": "Untitled poster",
+   "subtitle": "Poster · The Museum of Modern Art, New York",
+   "year": "",
+   "source_url": "https://www.moma.org/media/W1siZiIsIjIyMTcwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=1a1040b8e6b5301b",
+   "source_label": "Poster · The Museum of Modern Art, New York",
+   "verified_against": "Takenobu Igarashi is established as the designer: the work is held by the Museum of Modern Art or published by the artist's own archive. The title and date of THIS sheet are not established here.",
+   "notes": [
+    "A white gridded slab of letterforms threaded with blue and yellow rods, on warm grey."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/38.jpg",
+   "source_px": [
+    2000,
+    1420
+   ],
+   "colors": [
+    "yellow",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "artist",
+     "v": "Takenobu Igarashi"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Takenobu Igarashi is established as the designer: the work is held by the Museum of Modern Art or published by the artist's own archive. The title and date of THIS sheet are not established here.",
+   "hue": 70.61,
+   "light": 0.6065,
+   "chroma": 0.1054
+  },
+  "sent-2026-09-01::5d24e277fc87": {
+   "id": "CRVI001053",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001053.jpg",
+   "original_px": [
+    2000,
+    1403
+   ],
+   "original_bytes": 379960,
+   "identity": "sent-2026-09-01::5d24e277fc87",
+   "maker": "Takenobu Igarashi",
+   "title": "NOH",
+   "subtitle": "Poster · The Museum of Modern Art, New York",
+   "year": "",
+   "source_url": "https://www.moma.org/media/W1siZiIsIjUyMTM5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=39a81f9fb67fcf04",
+   "source_label": "Poster · The Museum of Modern Art, New York",
+   "verified_against": "Held by the Museum of Modern Art, New York. The sheet letters itself NOH. Takenobu Igarashi is established as the designer: the work is held by the Museum of Modern Art or published by the artist's own archive. The title and date of THIS sheet are not established here.",
+   "notes": [
+    "NOH built as a black axonometric mass, so deep the word almost stops reading."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/39.jpg",
+   "source_px": [
+    2000,
+    1403
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "artist",
+     "v": "Takenobu Igarashi"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Held by the Museum of Modern Art, New York. The sheet letters itself NOH. Takenobu Igarashi is established as the designer: the work is held by the Museum of Modern Art or published by the artist's own archive. The title and date of THIS sheet are not established here.",
+   "hue": null,
+   "light": 0.3883,
+   "chroma": 0.0
+  },
+  "sent-2026-09-01::ab1927b656e2": {
+   "id": "CRVI001054",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001054.jpg",
+   "original_px": [
+    1416,
+    2000
+   ],
+   "original_bytes": 2346644,
+   "identity": "sent-2026-09-01::ab1927b656e2",
+   "maker": "Takenobu Igarashi",
+   "title": "Poster for the 15th Summer Jazz Festival",
+   "subtitle": "Poster",
+   "year": "1983",
+   "source_url": "https://a-g-i.s3.eu-west-3.amazonaws.com/takenobuigarashi/Igarashi_AGI_01_Poster-SummerJazz_1983_15th.jpeg",
+   "source_label": "Poster",
+   "verified_against": "AGI (Alliance Graphique Internationale) member archive for Takenobu Igarashi, which files this sheet as his 1983 poster for the 15th Summer Jazz Festival. The poster letters itself サマージャズ / THE 15th SUMMER JAZZ FESTIVAL.",
+   "notes": [
+    "Ribbed pastel letterforms laid out in axonometric projection, glowing against a mint ground."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/40.jpg",
+   "source_px": [
+    1416,
+    2000
+   ],
+   "colors": [
+    "orange",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "subject",
+     "v": "music"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "artist",
+     "v": "Takenobu Igarashi"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "AGI (Alliance Graphique Internationale) member archive for Takenobu Igarashi, which files this sheet as his 1983 poster for the 15th Summer Jazz Festival. The poster letters itself サマージャズ / THE 15th SUMMER JAZZ FESTIVAL.",
+   "hue": 55.21,
+   "light": 0.7405,
+   "chroma": 0.2303
+  },
+  "sent-2026-09-01::a49784958dcc": {
+   "id": "CRVI001055",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001055.jpg",
+   "original_px": [
+    1600,
+    2264
+   ],
+   "original_bytes": 331710,
+   "identity": "sent-2026-09-01::a49784958dcc",
+   "maker": "Takenobu Igarashi",
+   "title": "Alphabet",
+   "subtitle": "Published by the Takenobu Igarashi Archive",
+   "year": "",
+   "source_url": "https://igarashiarchive.jp/wp-content/uploads/2023/06/collection_gd01.jpg",
+   "source_label": "Published by the Takenobu Igarashi Archive",
+   "verified_against": "Published by the Takenobu Igarashi Archive (igarashiarchive.jp) in its graphic design collection. The title and date of this sheet are not established here.",
+   "notes": [
+    "A full alphabet in pink and lilac extrusions on yellow, each letter a solid seen from one fixed angle."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/41.jpg",
+   "source_px": [
+    1600,
+    2264
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "subject",
+     "v": "typography"
+    },
+    {
+     "k": "artist",
+     "v": "Takenobu Igarashi"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published by the Takenobu Igarashi Archive (igarashiarchive.jp) in its graphic design collection. The title and date of this sheet are not established here.",
+   "hue": 44.59,
+   "light": 0.5551,
+   "chroma": 0.9959
+  },
+  "sent-2026-09-01::101eb2368181": {
+   "id": "CRVI001056",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001056.jpg",
+   "original_px": [
+    754,
+    1008
+   ],
+   "original_bytes": 230097,
+   "identity": "sent-2026-09-01::101eb2368181",
+   "maker": "Takenobu Igarashi",
+   "title": "Cover for IDEA No. 130",
+   "subtitle": "Magazine cover · Seibundo Shinkosha, Tokyo",
+   "year": "1975",
+   "source_url": "https://i.pinimg.com/originals/22/5c/27/225c271e92244ca322e9346f841e264d.jpg",
+   "source_label": "Magazine cover · Seibundo Shinkosha, Tokyo",
+   "verified_against": "The cover carries its own credit: 'TAKENOBU IGARASHI' printed at the lower right, with the masthead アイデア / IDEA 130 / International Advertising Art / 世界のデザイン誌 誠文堂新光社 / 1975.5.",
+   "notes": [
+    "Twenty-six axonometric letters in white and violet on red, several still shown as wireframe."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/42.jpg",
+   "source_px": [
+    754,
+    1008
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "subject",
+     "v": "typography"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "artist",
+     "v": "Takenobu Igarashi"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The cover carries its own credit: 'TAKENOBU IGARASHI' printed at the lower right, with the masthead アイデア / IDEA 130 / International Advertising Art / 世界のデザイン誌 誠文堂新光社 / 1975.5.",
+   "hue": 5.22,
+   "light": 0.5996,
+   "chroma": 0.9151
+  },
+  "sent-2026-09-01::3d74a7b6f39b": {
+   "id": "CRVI001057",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001057.jpg",
+   "original_px": [
+    1200,
+    663
+   ],
+   "original_bytes": 118159,
+   "identity": "sent-2026-09-01::3d74a7b6f39b",
+   "maker": "",
+   "title": "Playing cards",
+   "subtitle": "",
+   "year": "",
+   "source_url": "https://www.wopc.co.uk/images/countries/austria/museum-modern-art-0.jpg",
+   "source_label": "supplied by Todd Burns",
+   "verified_against": "",
+   "notes": [
+    "Three cards — jack of hearts, ten of clubs, nine of hearts — with the pips fanned into curves.",
+    "Nothing established. The image comes from the World of Playing Cards site, filed under Austria and named for a museum of modern art, but neither the designer nor the deck is confirmed."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/43.jpg",
+   "source_px": [
+    1200,
+    663
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    }
+   ],
+   "identity_established": false,
+   "published": false,
+   "verification": "",
+   "hue": 345.45,
+   "light": 0.6924,
+   "chroma": 0.3209
+  },
+  "sent-2026-09-01::ce097d5188f6": {
+   "id": "CRVI001058",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001058.jpg",
+   "original_px": [
+    1000,
+    1500
+   ],
+   "original_bytes": 208677,
+   "identity": "sent-2026-09-01::ce097d5188f6",
+   "maker": "Rick Valicenti",
+   "title": "Show Boat — Lyric Opera of Chicago",
+   "subtitle": "Poster",
+   "year": "",
+   "source_url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2019/12/2a34d8_f2268892969c40dea68d74ade8b434femv2.png?resize=1000%2C1500&quality=80&ssl=1",
+   "source_label": "Poster",
+   "verified_against": "Published by PRINT magazine. The poster letters its own occasion: 'SHOW BOAT — music by Jerome Kern and lyrics by Oscar Hammerstein II, based on the novel Show Boat by Edna Ferber — LYRIC OPERA OF CHICAGO'. Rick Valicenti is named as the designer by the sender; the date is not established here.",
+   "notes": [
+    "SHOW BOAT in red, white and blue ribbon lettering over a pixelated flag."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/44.jpg",
+   "source_px": [
+    1000,
+    1500
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "location",
+     "v": "Chicago"
+    },
+    {
+     "k": "client",
+     "v": "Lyric Opera of Chicago"
+    },
+    {
+     "k": "artist",
+     "v": "Rick Valicenti"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published by PRINT magazine. The poster letters its own occasion: 'SHOW BOAT — music by Jerome Kern and lyrics by Oscar Hammerstein II, based on the novel Show Boat by Edna Ferber — LYRIC OPERA OF CHICAGO'. Rick Valicenti is named as the designer by the sender; the date is not established here.",
+   "hue": 353.64,
+   "light": 0.711,
+   "chroma": 0.5234
+  },
+  "sent-2026-09-01::4be78e34d424": {
+   "id": "CRVI001059",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001059.jpg",
+   "original_px": [
+    1080,
+    1350
+   ],
+   "original_bytes": 2353947,
+   "identity": "sent-2026-09-01::4be78e34d424",
+   "maker": "",
+   "title": "Cosmic painting",
+   "subtitle": "",
+   "year": "",
+   "source_url": "https://freight.cargo.site/t/original/i/5e708e6bdcdfdd7bf0424177716d37660d3863d23a6afb4eea4d04697ac9ee07/swann3.jpg",
+   "source_label": "supplied by Todd Burns",
+   "verified_against": "",
+   "notes": [
+    "A star-filled ellipse floating above blue hills, one bright body at its centre.",
+    "The sender identifies these as work by Ingo Swann (1933–2013), who painted in the cosmic-art genre alongside his remote-viewing work and is collected by the American Visionary Art Museum. No published catalogue entry could be located for THIS painting, so the attribution rests on the sender alone and the record is held rather than published."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/45.jpg",
+   "source_px": [
+    1080,
+    1350
+   ],
+   "colors": [
+    "blue",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    }
+   ],
+   "identity_established": false,
+   "published": false,
+   "verification": "",
+   "hue": 203.77,
+   "light": 0.4003,
+   "chroma": 0.9099
+  },
+  "sent-2026-09-01::323f4f3b3dad": {
+   "id": "CRVI001060",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001060.jpg",
+   "original_px": [
+    1388,
+    1090
+   ],
+   "original_bytes": 1434184,
+   "identity": "sent-2026-09-01::323f4f3b3dad",
+   "maker": "",
+   "title": "Cosmic painting",
+   "subtitle": "",
+   "year": "",
+   "source_url": "https://freight.cargo.site/t/original/i/d5d461d558d298c3862a7a9ca9eb97ba330071270bcd5dfc0cc38a9c594ce2fe/swann-6.jpg",
+   "source_label": "supplied by Todd Burns",
+   "verified_against": "",
+   "notes": [
+    "A classical head on a plinth in a shallow pool, jetting water, under a bruised sky.",
+    "As with the other two in this group, the attribution to Ingo Swann rests on the sender alone; no published catalogue entry was located. Held rather than published."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/46.jpg",
+   "source_px": [
+    1388,
+    1090
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    }
+   ],
+   "identity_established": false,
+   "published": false,
+   "verification": "",
+   "hue": 36.36,
+   "light": 0.3007,
+   "chroma": 0.2185
+  },
+  "sent-2026-09-01::56d2f73b02c5": {
+   "id": "CRVI001061",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001061.jpg",
+   "original_px": [
+    2896,
+    2924
+   ],
+   "original_bytes": 9666396,
+   "identity": "sent-2026-09-01::56d2f73b02c5",
+   "maker": "",
+   "title": "Cosmic painting",
+   "subtitle": "",
+   "year": "",
+   "source_url": "https://freight.cargo.site/t/original/i/62bc214d1285204e3cd02652da79eaedd4f63a7fa462567aaf24e3ee36f51a62/swann-star-1.jpg",
+   "source_label": "supplied by Todd Burns",
+   "verified_against": "",
+   "notes": [
+    "A black spiral galaxy pierced by needles of light around a single yellow sun.",
+    "As with the other two in this group, the attribution to Ingo Swann rests on the sender alone; no published catalogue entry was located. Held rather than published."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/47.jpg",
+   "source_px": [
+    2896,
+    2924
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    }
+   ],
+   "identity_established": false,
+   "published": false,
+   "verification": "",
+   "hue": 36.52,
+   "light": 0.2223,
+   "chroma": 0.2928
+  },
+  "sent-2026-09-01::869eb5f75593": {
+   "id": "CRVI001062",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001062.jpg",
+   "original_px": [
+    1591,
+    2048
+   ],
+   "original_bytes": 950826,
+   "identity": "sent-2026-09-01::869eb5f75593",
+   "maker": "Lezley Saar",
+   "title": "Thérèse Raquin",
+   "subtitle": "From the series Madwoman in the Attic",
+   "year": "2011",
+   "source_url": "https://caamuseum.org/content/3-exhibitions/9-2017/1-lezley-saar-salon-des-refuses/lezley_saar_therese_raquin.jpg",
+   "source_label": "From the series Madwoman in the Attic",
+   "verified_against": "California African American Museum, from whose page for the exhibition 'Lezley Saar: Salon des Refusés' (25 October 2017 – 18 February 2018) this image comes; the file is named for the work. Saar made 'Thérèse Raquin' in 2011 as part of the Madwoman in the Attic series, which takes women from nineteenth-century literature who were called mad.",
+   "notes": [
+    "A figure whose skirts become a root system, with painted vignettes hung around her like planets."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/48.jpg",
+   "source_px": [
+    1591,
+    2048
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "Los Angeles"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "artist",
+     "v": "Lezley Saar"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "California African American Museum, from whose page for the exhibition 'Lezley Saar: Salon des Refusés' (25 October 2017 – 18 February 2018) this image comes; the file is named for the work. Saar made 'Thérèse Raquin' in 2011 as part of the Madwoman in the Attic series, which takes women from nineteenth-century literature who were called mad.",
+   "hue": 23.79,
+   "light": 0.6161,
+   "chroma": 0.4271
+  },
+  "sent-2026-09-01::e405500b2ed6": {
+   "id": "CRVI001063",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001063.jpg",
+   "original_px": [
+    2000,
+    2526
+   ],
+   "original_bytes": 937892,
+   "identity": "sent-2026-09-01::e405500b2ed6",
+   "maker": "Lezley Saar",
+   "title": "The Silent Woman",
+   "subtitle": "Shown in 'Lezley Saar: Salon des Refusés', California African American Museum, 2017–18",
+   "year": "",
+   "source_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/hyperallergic-newspack-s3-amazonaws-com/uploads/2017/06/the-silent-woman.jpg",
+   "source_label": "Shown in 'Lezley Saar: Salon des Refusés', California African American Museum, 2017–18",
+   "verified_against": "Published by Hyperallergic in its coverage of 'Lezley Saar: Salon des Refusés' at the California African American Museum (2017); the file is named for the work. The date is not established here.",
+   "notes": [
+    "A figure in a green coat on a chequered floor, a pentagram at the feet and a squirrel poised on an hourglass."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/49.jpg",
+   "source_px": [
+    2000,
+    2526
+   ],
+   "colors": [
+    "orange",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "Los Angeles"
+    },
+    {
+     "k": "artist",
+     "v": "Lezley Saar"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published by Hyperallergic in its coverage of 'Lezley Saar: Salon des Refusés' at the California African American Museum (2017); the file is named for the work. The date is not established here.",
+   "hue": 31.07,
+   "light": 0.476,
+   "chroma": 0.8127
+  },
+  "sent-2026-09-01::b00bd603f55a": {
+   "id": "CRVI001064",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001064.jpg",
+   "original_px": [
+    987,
+    1357
+   ],
+   "original_bytes": 648206,
+   "identity": "sent-2026-09-01::b00bd603f55a",
+   "maker": "Lezley Saar",
+   "title": "Untitled painting",
+   "subtitle": "Shown in 'Lezley Saar: Salon des Refusés', California African American Museum, 2017–18",
+   "year": "",
+   "source_url": "https://ca-times.brightspotcdn.com/dims4/default/85563cb/2147483647/strip/true/crop/1365x2048+0+0/resize/1200x1800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F71%2Ffe%2F03310f46d9a392d9add1d1741c17%2Fla-not-born-under-a-rhyming-planet-20171105",
+   "source_label": "Shown in 'Lezley Saar: Salon des Refusés', California African American Museum, 2017–18",
+   "verified_against": "Photographed in the exhibition 'Lezley Saar: Salon des Refusés' at the California African American Museum and published by the Los Angeles Times. The title and date are not established here. Cropped to the painting; the installation photograph included the gallery wall.",
+   "notes": [
+    "Two figures adrift in a starfield, one holding a cell as a parasol, standing on a membrane drawn as biology diagram."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/50.jpg",
+   "source_px": [
+    987,
+    1357
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "Los Angeles"
+    },
+    {
+     "k": "artist",
+     "v": "Lezley Saar"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Photographed in the exhibition 'Lezley Saar: Salon des Refusés' at the California African American Museum and published by the Los Angeles Times. The title and date are not established here. Cropped to the painting; the installation photograph included the gallery wall.",
+   "hue": 32.37,
+   "light": 0.2403,
+   "chroma": 0.3156
+  },
+  "sent-2026-09-01::6d0da4fd2144": {
+   "id": "CRVI001065",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001065.jpg",
+   "original_px": [
+    3073,
+    4086
+   ],
+   "original_bytes": 11333373,
+   "identity": "sent-2026-09-01::6d0da4fd2144",
+   "maker": "Lezley Saar",
+   "title": "Cell Realization",
+   "subtitle": "",
+   "year": "",
+   "source_url": "https://images.huffingtonpost.com/2014-10-01-LelzeySaarCellRealization.jpg",
+   "source_label": "supplied by Todd Burns",
+   "verified_against": "Published by HuffPost, whose file is named for the work. The date is not established here.",
+   "notes": [
+    "A crowned figure standing on a cell, lightning and lidded eyes floating around her."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/51.jpg",
+   "source_px": [
+    3073,
+    4086
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "Los Angeles"
+    },
+    {
+     "k": "artist",
+     "v": "Lezley Saar"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published by HuffPost, whose file is named for the work. The date is not established here.",
+   "hue": 212.88,
+   "light": 0.3261,
+   "chroma": 0.9459
+  },
+  "sent-2026-09-01::acf543eb5c36": {
+   "id": "CRVI001066",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001066.webp",
+   "original_px": [
+    1400,
+    1720
+   ],
+   "original_bytes": 407114,
+   "identity": "sent-2026-09-01::acf543eb5c36",
+   "maker": "David Rudnick",
+   "title": "Terrain (front)",
+   "subtitle": "Published by It's Nice That",
+   "year": "",
+   "source_url": "https://admin.itsnicethat.com/images/uPeNQ8S5d7eFhUSVjhMW3PEBjVc=/222325/format-webp%7Cwidth-2880/Terrain_C_F_1400.png",
+   "source_label": "Published by It's Nice That",
+   "verified_against": "It's Nice That, which published this image as part of its feature on David Rudnick's work; the file is named Terrain_C_F.",
+   "notes": [
+    "A lenticular grid over two faces and a CD, with DEPOIS DA TERRA — the Brazilian title of After Earth — set across the foot."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add2/img/01.webp",
+   "source_px": [
+    1400,
+    1720
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "David Rudnick"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "It's Nice That, which published this image as part of its feature on David Rudnick's work; the file is named Terrain_C_F.",
+   "hue": 16.63,
+   "light": 0.2775,
+   "chroma": 0.4979
+  },
+  "sent-2026-09-01::9cb73ded1773": {
+   "id": "CRVI001067",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001067.webp",
+   "original_px": [
+    1400,
+    1720
+   ],
+   "original_bytes": 262962,
+   "identity": "sent-2026-09-01::9cb73ded1773",
+   "maker": "David Rudnick",
+   "title": "Terrain (back)",
+   "subtitle": "Published by It's Nice That",
+   "year": "",
+   "source_url": "https://admin.itsnicethat.com/images/7ny6RBGpU6tmNEH5iBXafziNw3U=/222324/format-webp%7Cwidth-2880/Terrain_C_B_1400.png",
+   "source_label": "Published by It's Nice That",
+   "verified_against": "It's Nice That, which published this image as part of its feature on David Rudnick's work; the file is named Terrain_C_B.",
+   "notes": [
+    "The reverse: a Nokia handset, a shattered disc and calibration marks over a black field."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add2/img/02.webp",
+   "source_px": [
+    1400,
+    1720
+   ],
+   "colors": [
+    "orange",
+    "cyan",
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "David Rudnick"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "It's Nice That, which published this image as part of its feature on David Rudnick's work; the file is named Terrain_C_B.",
+   "hue": 196.26,
+   "light": 0.1899,
+   "chroma": 0.3595
+  },
+  "sent-2026-09-01::c85d6cd90f84": {
+   "id": "CRVI001068",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001068.png",
+   "original_px": [
+    900,
+    1336
+   ],
+   "original_bytes": 1477220,
+   "identity": "sent-2026-09-01::c85d6cd90f84",
+   "maker": "David Rudnick",
+   "title": "Poster for Making Time — Bicep, Avalon, Emerson, Dave P, Z.O.A., S. Vena, Sorted",
+   "subtitle": "Poster · Philadelphia",
+   "year": "2018",
+   "source_url": "https://davidrudnick.org/wp-content/uploads/2018/05/MT_Bicep_Tumblr.png",
+   "source_label": "Poster · Philadelphia",
+   "verified_against": "Published on davidrudnick.org, the designer's own site. The poster letters its own occasion: BICEP / AVALON / EMERSON / DAVE P / Z.O.A. / S. VENA / SORTED, Fri July 21 2018, Making Time.",
+   "notes": [
+    "A figure eaten away to lace, ringed by angular glyph-forms on black."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add2/img/03.png",
+   "source_px": [
+    900,
+    1336
+   ],
+   "colors": [
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "location",
+     "v": "Philadelphia"
+    },
+    {
+     "k": "subject",
+     "v": "music"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "artist",
+     "v": "David Rudnick"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published on davidrudnick.org, the designer's own site. The poster letters its own occasion: BICEP / AVALON / EMERSON / DAVE P / Z.O.A. / S. VENA / SORTED, Fri July 21 2018, Making Time.",
+   "hue": null,
+   "light": 0.1562,
+   "chroma": 0.0001
+  },
+  "sent-2026-09-01::0a3774272f4c": {
+   "id": "CRVI001069",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001069.png",
+   "original_px": [
+    900,
+    1336
+   ],
+   "original_bytes": 1470301,
+   "identity": "sent-2026-09-01::0a3774272f4c",
+   "maker": "David Rudnick",
+   "title": "Poster for Making Time",
+   "subtitle": "Poster · Philadelphia",
+   "year": "",
+   "source_url": "https://davidrudnick.org/wp-content/uploads/2016/01/DIIV_WebF.png",
+   "source_label": "Poster · Philadelphia",
+   "verified_against": "Published on davidrudnick.org, the designer's own site. The poster letters its own occasion: MAKING TIME, Sat May 21, 2F 71A, 1141 W. Girard Avenue, Philadelphia. David Rudnick is established as the designer: the file is published on the designer's own site, davidrudnick.org. The title and date of THIS piece are not established here.",
+   "notes": [
+    "Red, blue and acid-green panels stacked against vertical display type."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add2/img/04.png",
+   "source_px": [
+    900,
+    1336
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "location",
+     "v": "Philadelphia"
+    },
+    {
+     "k": "subject",
+     "v": "music"
+    },
+    {
+     "k": "artist",
+     "v": "David Rudnick"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published on davidrudnick.org, the designer's own site. The poster letters its own occasion: MAKING TIME, Sat May 21, 2F 71A, 1141 W. Girard Avenue, Philadelphia. David Rudnick is established as the designer: the file is published on the designer's own site, davidrudnick.org. The title and date of THIS piece are not established here.",
+   "hue": 209.01,
+   "light": 0.4352,
+   "chroma": 0.4889
+  },
+  "sent-2026-09-01::f6fda9098b93": {
+   "id": "CRVI001070",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001070.png",
+   "original_px": [
+    900,
+    1336
+   ],
+   "original_bytes": 1493045,
+   "identity": "sent-2026-09-01::f6fda9098b93",
+   "maker": "David Rudnick",
+   "title": "Poster for Making Time — Tiga, JDH, Dave P",
+   "subtitle": "Poster · Philadelphia",
+   "year": "2018",
+   "source_url": "https://davidrudnick.org/wp-content/uploads/2018/05/MT_Tiga_Tumblr.png",
+   "source_label": "Poster · Philadelphia",
+   "verified_against": "Published on davidrudnick.org, the designer's own site. The poster letters its own occasion: TIGA / JDH / DAVE P, Friday Nov 09 2018, Making Time.",
+   "notes": [
+    "A face burnt to high-contrast black and white inside a ring of teeth."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add2/img/05.png",
+   "source_px": [
+    900,
+    1336
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "location",
+     "v": "Philadelphia"
+    },
+    {
+     "k": "subject",
+     "v": "music"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "artist",
+     "v": "David Rudnick"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published on davidrudnick.org, the designer's own site. The poster letters its own occasion: TIGA / JDH / DAVE P, Friday Nov 09 2018, Making Time.",
+   "hue": null,
+   "light": 0.2508,
+   "chroma": 0.0002
+  },
+  "sent-2026-09-01::25baff171a7a": {
+   "id": "CRVI001071",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001071.png",
+   "original_px": [
+    900,
+    1336
+   ],
+   "original_bytes": 1742422,
+   "identity": "sent-2026-09-01::25baff171a7a",
+   "maker": "David Rudnick",
+   "title": "Poster for Pure Halloween — Dave P, Zillas on Acid, Greg D, Steve Vena",
+   "subtitle": "Poster",
+   "year": "2017",
+   "source_url": "https://davidrudnick.org/wp-content/uploads/2017/04/Pure2017_R2_tum.png",
+   "source_label": "Poster",
+   "verified_against": "Published on davidrudnick.org, the designer's own site. The poster letters its own occasion: PURE / HALLOWEEN / DAVE P, ZILLAS ON ACID, GREG D, STEVE VENA, Fri Oct 27, Warehouse.",
+   "notes": [
+    "A horse and rider dissolving into static above a black disc."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add2/img/06.png",
+   "source_px": [
+    900,
+    1336
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "subject",
+     "v": "music"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "artist",
+     "v": "David Rudnick"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published on davidrudnick.org, the designer's own site. The poster letters its own occasion: PURE / HALLOWEEN / DAVE P, ZILLAS ON ACID, GREG D, STEVE VENA, Fri Oct 27, Warehouse.",
+   "hue": null,
+   "light": 0.4276,
+   "chroma": 0.0014
+  },
+  "sent-2026-09-01::7cb6a093512f": {
+   "id": "CRVI001072",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001072.jpg",
+   "original_px": [
+    3200,
+    3200
+   ],
+   "original_bytes": 3138030,
+   "identity": "sent-2026-09-01::7cb6a093512f",
+   "maker": "David Rudnick",
+   "title": "Artwork for black midi",
+   "subtitle": "",
+   "year": "",
+   "source_url": "https://preview.redd.it/new-work-by-david-rudnick-for-black-midi-id-be-interested-v0-vt2bio4ubk691.jpg?auto=webp&s=56949b29138f6d1c0e9958e74f8e1ddab94b8fac",
+   "source_label": "supplied by Todd Burns",
+   "verified_against": "The image was circulated as new work by David Rudnick for the band black midi, and the file is named for that. It is the one item in this group not published on the designer's own site, so the attribution is weaker than the rest — recorded as it was received.",
+   "notes": [
+    "A dense painted scene of gold, teal and viscera with a small suited figure at the left edge."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add2/img/07.jpg",
+   "source_px": [
+    3200,
+    3200
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "subject",
+     "v": "music"
+    },
+    {
+     "k": "artist",
+     "v": "David Rudnick"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The image was circulated as new work by David Rudnick for the band black midi, and the file is named for that. It is the one item in this group not published on the designer's own site, so the attribution is weaker than the rest — recorded as it was received.",
+   "hue": 33.87,
+   "light": 0.357,
+   "chroma": 0.7088
+  },
+  "sent-2026-09-01::4e52d38e427f": {
+   "id": "CRVI001073",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001073.jpg",
+   "original_px": [
+    1000,
+    1200
+   ],
+   "original_bytes": 124358,
+   "identity": "sent-2026-09-01::4e52d38e427f",
+   "maker": "Kim Laughton",
+   "title": "Untitled",
+   "subtitle": "Published by Raddlounge",
+   "year": "",
+   "source_url": "https://raddlounge.com/cdn/shop/files/3_f360353e-f7bb-43cc-89ca-d57278691938_1400x.jpg?v=1757839197",
+   "source_label": "Published by Raddlounge",
+   "verified_against": "Published by Raddlounge. Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "notes": [
+    "A figure in an oversized printed T-shirt, arms out, under a shower of red exclamation marks."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add2/img/08.jpg",
+   "source_px": [
+    1000,
+    1200
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "illustration"
+    },
+    {
+     "k": "subject",
+     "v": "3D rendering"
+    },
+    {
+     "k": "artist",
+     "v": "Kim Laughton"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published by Raddlounge. Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "hue": 214.76,
+   "light": 0.6521,
+   "chroma": 0.9688
+  },
+  "sent-2026-09-01::1332d60e9694": {
+   "id": "CRVI001074",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001074.jpg",
+   "original_px": [
+    965,
+    1500
+   ],
+   "original_bytes": 719123,
+   "identity": "sent-2026-09-01::1332d60e9694",
+   "maker": "Kim Laughton",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "source_url": "https://picdit.net/wp-content/uploads/2015/04/kim-laughton3.jpg",
+   "source_label": "supplied by Todd Burns",
+   "verified_against": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "notes": [
+    "A urinal in a purple-lit tiled room, a bright landscape hanging above it like a window."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add2/img/09.jpg",
+   "source_px": [
+    965,
+    1500
+   ],
+   "colors": [
+    "purple",
+    "pink"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "illustration"
+    },
+    {
+     "k": "subject",
+     "v": "3D rendering"
+    },
+    {
+     "k": "artist",
+     "v": "Kim Laughton"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "hue": 285.68,
+   "light": 0.279,
+   "chroma": 0.9344
+  },
+  "sent-2026-09-01::d8f82813fb30": {
+   "id": "CRVI001075",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001075.jpg",
+   "original_px": [
+    1000,
+    1000
+   ],
+   "original_bytes": 211189,
+   "identity": "sent-2026-09-01::d8f82813fb30",
+   "maker": "Kim Laughton",
+   "title": "Untitled",
+   "subtitle": "Cover of DIS Magazine",
+   "year": "",
+   "source_url": "https://dismagazine.com/uploads/2014/03/cover-Edit.jpg",
+   "source_label": "Cover of DIS Magazine",
+   "verified_against": "Cover of DIS Magazine. Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "notes": [
+    "A gilt Guanyin figure lit and rigged as though for a product shoot."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add2/img/10.jpg",
+   "source_px": [
+    1000,
+    1000
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "subject",
+     "v": "3D rendering"
+    },
+    {
+     "k": "artist",
+     "v": "Kim Laughton"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Cover of DIS Magazine. Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "hue": null,
+   "light": 0.6036,
+   "chroma": 0.0839
+  },
+  "sent-2026-09-01::f2c87d22d7bf": {
+   "id": "CRVI001076",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001076.jpg",
+   "original_px": [
+    736,
+    1140
+   ],
+   "original_bytes": 114559,
+   "identity": "sent-2026-09-01::f2c87d22d7bf",
+   "maker": "Kim Laughton",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "source_url": "https://i.pinimg.com/736x/f7/8b/8a/f78b8a82b0072bbc669e79ab5931872f.jpg",
+   "source_label": "supplied by Todd Burns",
+   "verified_against": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "notes": [
+    "A beckoning cat glowing pink at the end of an overgrown corridor."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add2/img/11.jpg",
+   "source_px": [
+    736,
+    1140
+   ],
+   "colors": [
+    "pink",
+    "purple"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "illustration"
+    },
+    {
+     "k": "subject",
+     "v": "3D rendering"
+    },
+    {
+     "k": "artist",
+     "v": "Kim Laughton"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "hue": 315.2,
+   "light": 0.1877,
+   "chroma": 0.7229
+  },
+  "sent-2026-09-01::3959f01c9c38": {
+   "id": "CRVI001077",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001077.jpg",
+   "original_px": [
+    1024,
+    1024
+   ],
+   "original_bytes": 110468,
+   "identity": "sent-2026-09-01::3959f01c9c38",
+   "maker": "Kim Laughton",
+   "title": "Untitled",
+   "subtitle": "Published by Real Life",
+   "year": "",
+   "source_url": "https://reallifemag.com/wp-content/uploads/2016/11/KimLaughton_BrandsAndLovers-1024x1024.jpg",
+   "source_label": "Published by Real Life",
+   "verified_against": "Published by Real Life. Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "notes": [
+    "Brands and Lovers — a shopfront at dusk, red lantern lit, seen through leaves."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add2/img/12.jpg",
+   "source_px": [
+    1024,
+    1024
+   ],
+   "colors": [
+    "pink",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "illustration"
+    },
+    {
+     "k": "subject",
+     "v": "3D rendering"
+    },
+    {
+     "k": "artist",
+     "v": "Kim Laughton"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published by Real Life. Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "hue": 343.1,
+   "light": 0.2201,
+   "chroma": 0.6408
+  },
+  "sent-2026-09-01::0322fccc6072": {
+   "id": "CRVI001078",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001078.jpg",
+   "original_px": [
+    1280,
+    905
+   ],
+   "original_bytes": 381530,
+   "identity": "sent-2026-09-01::0322fccc6072",
+   "maker": "Kim Laughton",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "source_url": "https://37.media.tumblr.com/11a4371df038e270b2d6d0267d363bc0/tumblr_mt2cpmowaQ1rnvvrgo1_1280.jpg",
+   "source_label": "supplied by Todd Burns",
+   "verified_against": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "notes": [
+    "Gold balloons drifting through a white room hung with printed garments and pot plants."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add2/img/13.jpg",
+   "source_px": [
+    1280,
+    905
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "illustration"
+    },
+    {
+     "k": "subject",
+     "v": "3D rendering"
+    },
+    {
+     "k": "artist",
+     "v": "Kim Laughton"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "hue": 46.05,
+   "light": 0.5648,
+   "chroma": 0.2596
+  },
+  "sent-2026-09-01::4922b67075d2": {
+   "id": "CRVI001079",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001079.jpg",
+   "original_px": [
+    1920,
+    2847
+   ],
+   "original_bytes": 1534166,
+   "identity": "sent-2026-09-01::4922b67075d2",
+   "maker": "Kim Laughton",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "source_url": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/cda99075-3924-4be9-b9e3-30447b824761/nakano_year_end/w=1920,quality=90,fit=scale-down",
+   "source_label": "supplied by Todd Burns",
+   "verified_against": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "notes": [
+    "An event poster: 2024.12.30, 中野忘年回避, afterparty at Smith's Open Source — heavysick ZERO, Smith, Open Source, BA Cafe."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add2/img/14.jpg",
+   "source_px": [
+    1920,
+    2847
+   ],
+   "colors": [
+    "red",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "subject",
+     "v": "3D rendering"
+    },
+    {
+     "k": "artist",
+     "v": "Kim Laughton"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "hue": 7.37,
+   "light": 0.5817,
+   "chroma": 0.8768
+  },
+  "sent-2026-09-01::d0e5aa2ebc43": {
+   "id": "CRVI001080",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001080.jpg",
+   "original_px": [
+    1920,
+    3190
+   ],
+   "original_bytes": 1806392,
+   "identity": "sent-2026-09-01::d0e5aa2ebc43",
+   "maker": "Kim Laughton",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "source_url": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/ede2b433-73d0-40ec-ab37-8749e2531757/ko/w=1920,quality=90,fit=scale-down",
+   "source_label": "supplied by Todd Burns",
+   "verified_against": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "notes": [
+    "A symmetrical totem of eyes and desert arches on black."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add2/img/15.jpg",
+   "source_px": [
+    1920,
+    3190
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "illustration"
+    },
+    {
+     "k": "subject",
+     "v": "3D rendering"
+    },
+    {
+     "k": "artist",
+     "v": "Kim Laughton"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "hue": 19.35,
+   "light": 0.2817,
+   "chroma": 0.5314
+  },
+  "sent-2026-09-01::24d73b64a17b": {
+   "id": "CRVI001081",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001081.jpg",
+   "original_px": [
+    1920,
+    2560
+   ],
+   "original_bytes": 878446,
+   "identity": "sent-2026-09-01::24d73b64a17b",
+   "maker": "Kim Laughton",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "source_url": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/f543140d-e6f0-463b-8796-81089239b607/107/w=1920,quality=90,fit=scale-down",
+   "source_label": "supplied by Todd Burns",
+   "verified_against": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "notes": [
+    "A FamilyMart burger display sprouting bottles and two vast eyeballs."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add2/img/16.jpg",
+   "source_px": [
+    1920,
+    2560
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "illustration"
+    },
+    {
+     "k": "subject",
+     "v": "3D rendering"
+    },
+    {
+     "k": "artist",
+     "v": "Kim Laughton"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "hue": 345.45,
+   "light": 0.5433,
+   "chroma": 0.5909
+  },
+  "sent-2026-09-01::df0a2de76491": {
+   "id": "CRVI001082",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001082.jpg",
+   "original_px": [
+    1920,
+    2560
+   ],
+   "original_bytes": 559030,
+   "identity": "sent-2026-09-01::df0a2de76491",
+   "maker": "Kim Laughton",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "source_url": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/e9b0f556-31bd-486c-a4b8-3bb01af4fb34/109/w=1920,quality=90,fit=scale-down",
+   "source_label": "supplied by Todd Burns",
+   "verified_against": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "notes": [
+    "A mask of green eyes and yellow fronds assembled from hardware."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add2/img/17.jpg",
+   "source_px": [
+    1920,
+    2560
+   ],
+   "colors": [
+    "yellow",
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "illustration"
+    },
+    {
+     "k": "subject",
+     "v": "3D rendering"
+    },
+    {
+     "k": "artist",
+     "v": "Kim Laughton"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "hue": 62.13,
+   "light": 0.1184,
+   "chroma": 0.2651
+  },
+  "sent-2026-09-01::e9df78249d8c": {
+   "id": "CRVI001083",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001083.jpg",
+   "original_px": [
+    1920,
+    2559
+   ],
+   "original_bytes": 954380,
+   "identity": "sent-2026-09-01::e9df78249d8c",
+   "maker": "Kim Laughton",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "source_url": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/580d15f6-5dd6-4f6d-9921-65450caa162f/egg/w=1920,quality=90,fit=scale-down",
+   "source_label": "supplied by Todd Burns",
+   "verified_against": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "notes": [
+    "A blue-and-gold Fabergé shell cracked open over a yolk."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add2/img/18.jpg",
+   "source_px": [
+    1920,
+    2559
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "illustration"
+    },
+    {
+     "k": "subject",
+     "v": "3D rendering"
+    },
+    {
+     "k": "artist",
+     "v": "Kim Laughton"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "hue": 215.5,
+   "light": 0.2841,
+   "chroma": 0.4953
+  },
+  "sent-2026-09-01::5f3bb3a72030": {
+   "id": "CRVI001084",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001084.jpg",
+   "original_px": [
+    1920,
+    2880
+   ],
+   "original_bytes": 1067059,
+   "identity": "sent-2026-09-01::5f3bb3a72030",
+   "maker": "Kim Laughton",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "source_url": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/378389c1-69e5-4601-9544-36190ed40bd6/90/w=1920,quality=90,fit=scale-down",
+   "source_label": "supplied by Todd Burns",
+   "verified_against": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "notes": [
+    "A statue of toys and cartoon figures piled into a monument, lit at night."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add2/img/19.jpg",
+   "source_px": [
+    1920,
+    2880
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "illustration"
+    },
+    {
+     "k": "subject",
+     "v": "3D rendering"
+    },
+    {
+     "k": "artist",
+     "v": "Kim Laughton"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "hue": 216.64,
+   "light": 0.1882,
+   "chroma": 0.298
+  },
+  "sent-2026-09-01::5720c085afa5": {
+   "id": "CRVI001085",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001085.jpg",
+   "original_px": [
+    1920,
+    1920
+   ],
+   "original_bytes": 1106273,
+   "identity": "sent-2026-09-01::5720c085afa5",
+   "maker": "Kim Laughton",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "source_url": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/b67e84fc-5183-4057-83b8-8b1ba349427d/familymart/w=1920,quality=90,fit=scale-down",
+   "source_label": "supplied by Todd Burns",
+   "verified_against": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "notes": [
+    "A FamilyMart standing alone at the end of a footpath in open grassland at dusk."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add2/img/20.jpg",
+   "source_px": [
+    1920,
+    1920
+   ],
+   "colors": [
+    "green",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "illustration"
+    },
+    {
+     "k": "subject",
+     "v": "3D rendering"
+    },
+    {
+     "k": "artist",
+     "v": "Kim Laughton"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "hue": 216.87,
+   "light": 0.4535,
+   "chroma": 0.7281
+  },
+  "sent-2026-09-01::08c2026de50d": {
+   "id": "CRVI001086",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001086.jpg",
+   "original_px": [
+    1920,
+    1920
+   ],
+   "original_bytes": 675817,
+   "identity": "sent-2026-09-01::08c2026de50d",
+   "maker": "Kim Laughton",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "source_url": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/f214bad8-465c-4517-9bf0-7869b9cfb634/30/w=1920,quality=90,fit=scale-down",
+   "source_label": "supplied by Todd Burns",
+   "verified_against": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "notes": [
+    "Toothbrushes in a glass of blue water among sweets and leaves."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add2/img/21.jpg",
+   "source_px": [
+    1920,
+    1920
+   ],
+   "colors": [
+    "green",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "illustration"
+    },
+    {
+     "k": "subject",
+     "v": "3D rendering"
+    },
+    {
+     "k": "artist",
+     "v": "Kim Laughton"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "hue": 192.46,
+   "light": 0.4158,
+   "chroma": 0.6932
+  },
+  "sent-2026-09-01::8bfc4d7be58e": {
+   "id": "CRVI001087",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001087.jpg",
+   "original_px": [
+    1920,
+    1920
+   ],
+   "original_bytes": 813643,
+   "identity": "sent-2026-09-01::8bfc4d7be58e",
+   "maker": "Kim Laughton",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "source_url": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/3d42a62b-3b6a-4de6-9421-8dc005944432/colorful/w=1920,quality=90,fit=scale-down",
+   "source_label": "supplied by Todd Burns",
+   "verified_against": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "notes": [
+    "A life-size cut-out of a smiling model propped against a graffitied wall."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add2/img/22.jpg",
+   "source_px": [
+    1920,
+    1920
+   ],
+   "colors": [
+    "red",
+    "pink"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "illustration"
+    },
+    {
+     "k": "subject",
+     "v": "3D rendering"
+    },
+    {
+     "k": "artist",
+     "v": "Kim Laughton"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "hue": 346.19,
+   "light": 0.5112,
+   "chroma": 0.3807
+  },
+  "sent-2026-09-01::2e6bdf67ff26": {
+   "id": "CRVI001088",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001088.jpg",
+   "original_px": [
+    1920,
+    2504
+   ],
+   "original_bytes": 603831,
+   "identity": "sent-2026-09-01::2e6bdf67ff26",
+   "maker": "Kim Laughton",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "source_url": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/069fa760-e208-4231-8b03-353bce893a12/tank/w=1920,quality=90,fit=scale-down",
+   "source_label": "supplied by Todd Burns",
+   "verified_against": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "notes": [
+    "A muscled figurine under a glass dome among a still life of clocks, fruit and pens."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add2/img/23.jpg",
+   "source_px": [
+    1920,
+    2504
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "illustration"
+    },
+    {
+     "k": "subject",
+     "v": "3D rendering"
+    },
+    {
+     "k": "artist",
+     "v": "Kim Laughton"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "hue": 36.81,
+   "light": 0.631,
+   "chroma": 0.3801
+  },
+  "sent-2026-09-01::ca7f3a4ea7e5": {
+   "id": "CRVI001089",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001089.jpg",
+   "original_px": [
+    1920,
+    1920
+   ],
+   "original_bytes": 1007371,
+   "identity": "sent-2026-09-01::ca7f3a4ea7e5",
+   "maker": "Kim Laughton",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "source_url": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/4d48ab72-9594-4162-a07e-71981d640453/high1-6/w=1920,quality=90,fit=scale-down",
+   "source_label": "supplied by Todd Burns",
+   "verified_against": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "notes": [
+    "A washbasin plumbed into a concrete wall beside a cosmetics poster and painted characters."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add2/img/24.jpg",
+   "source_px": [
+    1920,
+    1920
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "illustration"
+    },
+    {
+     "k": "subject",
+     "v": "3D rendering"
+    },
+    {
+     "k": "artist",
+     "v": "Kim Laughton"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "hue": 41.34,
+   "light": 0.541,
+   "chroma": 0.3374
+  },
+  "sent-2026-09-01::72e4ef60daf2": {
+   "id": "CRVI001090",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001090.jpg",
+   "original_px": [
+    1920,
+    2716
+   ],
+   "original_bytes": 1074985,
+   "identity": "sent-2026-09-01::72e4ef60daf2",
+   "maker": "Kim Laughton",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "source_url": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/26faa908-4cb9-42be-b261-880625838c19/isl/w=1920,quality=90,fit=scale-down",
+   "source_label": "supplied by Todd Burns",
+   "verified_against": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "notes": [
+    "A treehouse of flags, dishes and clutter above a meadow, a van parked behind."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add2/img/25.jpg",
+   "source_px": [
+    1920,
+    2716
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "illustration"
+    },
+    {
+     "k": "subject",
+     "v": "3D rendering"
+    },
+    {
+     "k": "artist",
+     "v": "Kim Laughton"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "hue": 212.95,
+   "light": 0.4896,
+   "chroma": 0.6296
+  },
+  "sent-2026-09-01::9696c2611ccc": {
+   "id": "CRVI001091",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001091.jpg",
+   "original_px": [
+    1920,
+    1920
+   ],
+   "original_bytes": 420909,
+   "identity": "sent-2026-09-01::9696c2611ccc",
+   "maker": "Kim Laughton",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "source_url": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/ad8ac4e4-ced2-4666-b80d-768a1251ea1e/fee/w=1920,quality=90,fit=scale-down",
+   "source_label": "supplied by Todd Burns",
+   "verified_against": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "notes": [
+    "Three legs standing in for plant pots on a sheet of crumpled camouflage."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add2/img/26.jpg",
+   "source_px": [
+    1920,
+    1920
+   ],
+   "colors": [
+    "orange",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "illustration"
+    },
+    {
+     "k": "subject",
+     "v": "3D rendering"
+    },
+    {
+     "k": "artist",
+     "v": "Kim Laughton"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "hue": 17.87,
+   "light": 0.7784,
+   "chroma": 0.1482
+  },
+  "sent-2026-09-01::f516e1018ae7": {
+   "id": "CRVI001092",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001092.jpg",
+   "original_px": [
+    1920,
+    1920
+   ],
+   "original_bytes": 1260895,
+   "identity": "sent-2026-09-01::f516e1018ae7",
+   "maker": "Kim Laughton",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "source_url": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/d9c38bdd-ea02-41e0-9c7c-27b45d3dc7a7/shrine_final/w=1920,quality=90,fit=scale-down",
+   "source_label": "supplied by Todd Burns",
+   "verified_against": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "notes": [
+    "A cherub on a stone ball in a shrine of breeze blocks and open flame."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add2/img/27.jpg",
+   "source_px": [
+    1920,
+    1920
+   ],
+   "colors": [
+    "red",
+    "pink"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "illustration"
+    },
+    {
+     "k": "subject",
+     "v": "3D rendering"
+    },
+    {
+     "k": "artist",
+     "v": "Kim Laughton"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "hue": 12.91,
+   "light": 0.375,
+   "chroma": 0.8855
+  },
+  "sent-2026-09-01::5a1742d477c5": {
+   "id": "CRVI001093",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001093.jpg",
+   "original_px": [
+    1920,
+    1920
+   ],
+   "original_bytes": 390455,
+   "identity": "sent-2026-09-01::5a1742d477c5",
+   "maker": "Kim Laughton",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "source_url": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/7124a4d5-4cb5-4821-bfa6-4e24b0b5972a/110/w=1920,quality=90,fit=scale-down",
+   "source_label": "supplied by Todd Burns",
+   "verified_against": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "notes": [
+    "A seahorse underwater towing a small white device."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add2/img/28.jpg",
+   "source_px": [
+    1920,
+    1920
+   ],
+   "colors": [
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "illustration"
+    },
+    {
+     "k": "subject",
+     "v": "3D rendering"
+    },
+    {
+     "k": "artist",
+     "v": "Kim Laughton"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "hue": 194.18,
+   "light": 0.2999,
+   "chroma": 0.9818
+  },
+  "sent-2026-09-01::4c8378cd4010": {
+   "id": "CRVI001094",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001094.jpg",
+   "original_px": [
+    1920,
+    1920
+   ],
+   "original_bytes": 683480,
+   "identity": "sent-2026-09-01::4c8378cd4010",
+   "maker": "Kim Laughton",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "source_url": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/dacb06f2-2c2c-458a-ae0f-9f0f2885a8f6/112/w=1920,quality=90,fit=scale-down",
+   "source_label": "supplied by Todd Burns",
+   "verified_against": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "notes": [
+    "A dung beetle on its ball, a red sale tag stuck to it, at dusk."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add2/img/29.jpg",
+   "source_px": [
+    1920,
+    1920
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "illustration"
+    },
+    {
+     "k": "subject",
+     "v": "3D rendering"
+    },
+    {
+     "k": "artist",
+     "v": "Kim Laughton"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "hue": 219.52,
+   "light": 0.2407,
+   "chroma": 0.594
+  },
+  "sent-2026-09-01::2e5b6bfa2303": {
+   "id": "CRVI001095",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001095.jpg",
+   "original_px": [
+    1920,
+    2715
+   ],
+   "original_bytes": 1713229,
+   "identity": "sent-2026-09-01::2e5b6bfa2303",
+   "maker": "Kim Laughton",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "source_url": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/a11066e8-2263-41f0-aee1-3c67f0191334/94/w=1920,quality=90,fit=scale-down",
+   "source_label": "supplied by Todd Burns",
+   "verified_against": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "notes": [
+    "A rope ladder down into a dug pit, cables running over the lip."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add2/img/30.jpg",
+   "source_px": [
+    1920,
+    2715
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "illustration"
+    },
+    {
+     "k": "subject",
+     "v": "3D rendering"
+    },
+    {
+     "k": "artist",
+     "v": "Kim Laughton"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "hue": 42.29,
+   "light": 0.2287,
+   "chroma": 0.5573
+  },
+  "sent-2026-09-01::d11d15c0a612": {
+   "id": "CRVI001096",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001096.jpg",
+   "original_px": [
+    1920,
+    1920
+   ],
+   "original_bytes": 557440,
+   "identity": "sent-2026-09-01::d11d15c0a612",
+   "maker": "Kim Laughton",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "source_url": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/f6d9a849-7a85-47e2-94d4-e5ec4d3d7af5/85/w=1920,quality=90,fit=scale-down",
+   "source_label": "supplied by Todd Burns",
+   "verified_against": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "notes": [
+    "A lit vitrine standing alone on cracked paving in fog."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add2/img/31.jpg",
+   "source_px": [
+    1920,
+    1920
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "illustration"
+    },
+    {
+     "k": "subject",
+     "v": "3D rendering"
+    },
+    {
+     "k": "artist",
+     "v": "Kim Laughton"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "hue": 224.04,
+   "light": 0.4462,
+   "chroma": 0.5362
+  },
+  "sent-2026-09-01::1119914fc448": {
+   "id": "CRVI001097",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001097.jpg",
+   "original_px": [
+    1920,
+    1920
+   ],
+   "original_bytes": 1393178,
+   "identity": "sent-2026-09-01::1119914fc448",
+   "maker": "Kim Laughton",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "source_url": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/d95b33be-491d-4160-a55d-651756122cdc/high3a/w=1920,quality=90,fit=scale-down",
+   "source_label": "supplied by Todd Burns",
+   "verified_against": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "notes": [
+    "A rolltop bath of pink liquid on red earth, rigged with a generator and a film light."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add2/img/32.jpg",
+   "source_px": [
+    1920,
+    1920
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "illustration"
+    },
+    {
+     "k": "subject",
+     "v": "3D rendering"
+    },
+    {
+     "k": "artist",
+     "v": "Kim Laughton"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "hue": 14.8,
+   "light": 0.2926,
+   "chroma": 0.6966
+  },
+  "sent-2026-09-01::2da6029f73de": {
+   "id": "CRVI001098",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001098.jpg",
+   "original_px": [
+    1920,
+    1920
+   ],
+   "original_bytes": 1048448,
+   "identity": "sent-2026-09-01::2da6029f73de",
+   "maker": "Kim Laughton",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "source_url": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/209f038c-c93a-43b0-9a55-f72cff45ef46/1/w=1920,quality=90,fit=scale-down",
+   "source_label": "supplied by Todd Burns",
+   "verified_against": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "notes": [
+    "A clawfoot bath on a tiled dais in a garden pool, greenery behind."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add2/img/33.jpg",
+   "source_px": [
+    1920,
+    1920
+   ],
+   "colors": [
+    "green",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "illustration"
+    },
+    {
+     "k": "subject",
+     "v": "3D rendering"
+    },
+    {
+     "k": "artist",
+     "v": "Kim Laughton"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "hue": 92.95,
+   "light": 0.4883,
+   "chroma": 0.5709
+  },
+  "sent-2026-09-01::20db2eb56cac": {
+   "id": "CRVI001099",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001099.jpg",
+   "original_px": [
+    1920,
+    1920
+   ],
+   "original_bytes": 721476,
+   "identity": "sent-2026-09-01::20db2eb56cac",
+   "maker": "Kim Laughton",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "source_url": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/7d2d320a-ba1f-4396-8f88-170de327b1ef/2/w=1920,quality=90,fit=scale-down",
+   "source_label": "supplied by Todd Burns",
+   "verified_against": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "notes": [
+    "The same bath against a yellow tarpaulin, blue ducting run into it."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add2/img/34.jpg",
+   "source_px": [
+    1920,
+    1920
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "illustration"
+    },
+    {
+     "k": "subject",
+     "v": "3D rendering"
+    },
+    {
+     "k": "artist",
+     "v": "Kim Laughton"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "hue": 44.17,
+   "light": 0.5572,
+   "chroma": 0.6818
+  },
+  "sent-2026-09-01::015ebe353f59": {
+   "id": "CRVI001100",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001100.jpg",
+   "original_px": [
+    1920,
+    1920
+   ],
+   "original_bytes": 854584,
+   "identity": "sent-2026-09-01::015ebe353f59",
+   "maker": "Kim Laughton",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "source_url": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/c5111bb6-972a-44e3-89f5-3f983b1303a7/3/w=1920,quality=90,fit=scale-down",
+   "source_label": "supplied by Todd Burns",
+   "verified_against": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "notes": [
+    "The same bath on a building site, plywood hoarding and a survey tripod behind."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add2/img/35.jpg",
+   "source_px": [
+    1920,
+    1920
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "illustration"
+    },
+    {
+     "k": "subject",
+     "v": "3D rendering"
+    },
+    {
+     "k": "artist",
+     "v": "Kim Laughton"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "hue": 19.14,
+   "light": 0.618,
+   "chroma": 0.4112
+  },
+  "sent-2026-09-01::510668a7b3f3": {
+   "id": "CRVI001101",
+   "minted": "2026-09-01",
+   "original_file": "originals/CRVI001101.jpg",
+   "original_px": [
+    1920,
+    1920
+   ],
+   "original_bytes": 754115,
+   "identity": "sent-2026-09-01::510668a7b3f3",
+   "maker": "Kim Laughton",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "source_url": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/c5a36ac7-4057-4748-a02a-40777462ae5e/4/w=1920,quality=90,fit=scale-down",
+   "source_label": "supplied by Todd Burns",
+   "verified_against": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "notes": [
+    "The same bath finished, red seal on its side, the dais broken up around it."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add2/img/36.jpg",
+   "source_px": [
+    1920,
+    1920
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "illustration"
+    },
+    {
+     "k": "subject",
+     "v": "3D rendering"
+    },
+    {
+     "k": "artist",
+     "v": "Kim Laughton"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
+   "hue": 25.64,
+   "light": 0.7705,
+   "chroma": 0.3194
   }
  }
 }
