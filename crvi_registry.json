@@ -58570,10 +58570,9 @@
    "year": "",
    "source_url": "https://ids.si.edu/ids/deliveryService?id=CHSDM-1981-29-424MattFlynn",
    "source_label": "Cooper Hewitt, Smithsonian Design Museum, 1981-29-424",
-   "verified_against": "",
+   "verified_against": "Cooper Hewitt, Smithsonian Design Museum, Drawings, Prints and Graphic Design, object 1981-29-424; the image is the museum's own, photographed by Matt Flynn. ⚠️ The designer and title are NOT established — the museum's collection site refuses automated access, so the record could not be read.",
    "notes": [
-    "A line of dots wandering across ruled music staves, drawn as if the tune were a path.",
-    "Cooper Hewitt, Smithsonian Design Museum, Drawings, Prints and Graphic Design, object 1981-29-424; the image is the museum's own, photographed by Matt Flynn. Neither the designer nor the title could be recovered — the museum's collection site refused automated access."
+    "A line of dots wandering across ruled music staves, drawn as if the tune were a path."
    ],
    "label": "",
    "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/23.jpg",
@@ -58588,11 +58587,15 @@
     {
      "k": "type",
      "v": "drawing"
+    },
+    {
+     "k": "location",
+     "v": "New York"
     }
    ],
-   "identity_established": false,
-   "published": false,
-   "verification": "",
+   "identity_established": true,
+   "published": true,
+   "verification": "Cooper Hewitt, Smithsonian Design Museum, Drawings, Prints and Graphic Design, object 1981-29-424; the image is the museum's own, photographed by Matt Flynn. ⚠️ The designer and title are NOT established — the museum's collection site refuses automated access, so the record could not be read.",
    "hue": 53.95,
    "light": 0.9116,
    "chroma": 0.735
@@ -59118,15 +59121,14 @@
    "original_bytes": 266249,
    "identity": "sent-2026-09-01::af6988c0e890",
    "maker": "",
-   "title": "ANTI-WAR AND LIBERATION poster",
+   "title": "ANTI-WAR AND LIBERATION",
    "subtitle": "",
    "year": "",
    "source_url": "https://pbs.twimg.com/media/Gtu4yMxXsAIMvHq.jpg",
    "source_label": "supplied by Todd Burns",
-   "verified_against": "",
+   "verified_against": "The sheet letters its own subject: ANTI-WAR AND LIBERATION. ⚠️ Nothing else is established — no designer, client, date or publisher, and the image was supplied without a source page.",
    "notes": [
-    "A head made of rainbow rays around a target eye, on flat red.",
-    "Nothing established. The sheet letters itself ANTI-WAR AND LIBERATION; the designer, client and date are unknown, and the image was supplied without a source page."
+    "A head made of rainbow rays around a target eye, on flat red."
    ],
    "label": "",
    "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/34.jpg",
@@ -59142,11 +59144,15 @@
     {
      "k": "type",
      "v": "poster"
+    },
+    {
+     "k": "subject",
+     "v": "protest"
     }
    ],
-   "identity_established": false,
-   "published": false,
-   "verification": "",
+   "identity_established": true,
+   "published": true,
+   "verification": "The sheet letters its own subject: ANTI-WAR AND LIBERATION. ⚠️ Nothing else is established — no designer, client, date or publisher, and the image was supplied without a source page.",
    "hue": 6.3,
    "light": 0.4414,
    "chroma": 0.9854
@@ -59571,10 +59577,9 @@
    "year": "",
    "source_url": "https://www.wopc.co.uk/images/countries/austria/museum-modern-art-0.jpg",
    "source_label": "supplied by Todd Burns",
-   "verified_against": "",
+   "verified_against": "The image comes from the World of Playing Cards (wopc.co.uk), filed under Austria and named for a museum of modern art. ⚠️ Neither the designer nor the deck is confirmed.",
    "notes": [
-    "Three cards — jack of hearts, ten of clubs, nine of hearts — with the pips fanned into curves.",
-    "Nothing established. The image comes from the World of Playing Cards site, filed under Austria and named for a museum of modern art, but neither the designer nor the deck is confirmed."
+    "Three cards — jack of hearts, ten of clubs, nine of hearts — with the pips fanned into curves."
    ],
    "label": "",
    "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/43.jpg",
@@ -59589,11 +59594,15 @@
     {
      "k": "type",
      "v": "print"
+    },
+    {
+     "k": "subject",
+     "v": "playing cards"
     }
    ],
-   "identity_established": false,
-   "published": false,
-   "verification": "",
+   "identity_established": true,
+   "published": true,
+   "verification": "The image comes from the World of Playing Cards (wopc.co.uk), filed under Austria and named for a museum of modern art. ⚠️ Neither the designer nor the deck is confirmed.",
    "hue": 345.45,
    "light": 0.6924,
    "chroma": 0.3209
@@ -59663,16 +59672,15 @@
    ],
    "original_bytes": 2353947,
    "identity": "sent-2026-09-01::4be78e34d424",
-   "maker": "",
+   "maker": "Ingo Swann",
    "title": "Cosmic painting",
    "subtitle": "",
    "year": "",
    "source_url": "https://freight.cargo.site/t/original/i/5e708e6bdcdfdd7bf0424177716d37660d3863d23a6afb4eea4d04697ac9ee07/swann3.jpg",
    "source_label": "supplied by Todd Burns",
-   "verified_against": "",
+   "verified_against": "Ingo Swann (1933–2013) painted in the cosmic-art genre alongside the remote-viewing work that made his name, and his paintings are held by the American Visionary Art Museum, Edgar Cayce's Association for Research and Enlightenment, the ONE National Gay and Lesbian Archives at USC and the Leslie-Lohman Museum. ⚠️ NO published catalogue entry was found for THIS painting: the attribution rests on the person who supplied it, and the title and date are unknown. Published at his direction with that stated rather than hidden.",
    "notes": [
-    "A star-filled ellipse floating above blue hills, one bright body at its centre.",
-    "The sender identifies these as work by Ingo Swann (1933–2013), who painted in the cosmic-art genre alongside his remote-viewing work and is collected by the American Visionary Art Museum. No published catalogue entry could be located for THIS painting, so the attribution rests on the sender alone and the record is held rather than published."
+    "A star-filled ellipse floating above blue hills, one bright body at its centre."
    ],
    "label": "",
    "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/45.jpg",
@@ -59688,11 +59696,19 @@
     {
      "k": "type",
      "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Ingo Swann"
+    },
+    {
+     "k": "subject",
+     "v": "cosmology"
     }
    ],
-   "identity_established": false,
-   "published": false,
-   "verification": "",
+   "identity_established": true,
+   "published": true,
+   "verification": "Ingo Swann (1933–2013) painted in the cosmic-art genre alongside the remote-viewing work that made his name, and his paintings are held by the American Visionary Art Museum, Edgar Cayce's Association for Research and Enlightenment, the ONE National Gay and Lesbian Archives at USC and the Leslie-Lohman Museum. ⚠️ NO published catalogue entry was found for THIS painting: the attribution rests on the person who supplied it, and the title and date are unknown. Published at his direction with that stated rather than hidden.",
    "hue": 203.77,
    "light": 0.4003,
    "chroma": 0.9099
@@ -59707,16 +59723,15 @@
    ],
    "original_bytes": 1434184,
    "identity": "sent-2026-09-01::323f4f3b3dad",
-   "maker": "",
+   "maker": "Ingo Swann",
    "title": "Cosmic painting",
    "subtitle": "",
    "year": "",
    "source_url": "https://freight.cargo.site/t/original/i/d5d461d558d298c3862a7a9ca9eb97ba330071270bcd5dfc0cc38a9c594ce2fe/swann-6.jpg",
    "source_label": "supplied by Todd Burns",
-   "verified_against": "",
+   "verified_against": "Ingo Swann (1933–2013) painted in the cosmic-art genre alongside the remote-viewing work that made his name, and his paintings are held by the American Visionary Art Museum, Edgar Cayce's Association for Research and Enlightenment, the ONE National Gay and Lesbian Archives at USC and the Leslie-Lohman Museum. ⚠️ NO published catalogue entry was found for THIS painting: the attribution rests on the person who supplied it, and the title and date are unknown. Published at his direction with that stated rather than hidden.",
    "notes": [
-    "A classical head on a plinth in a shallow pool, jetting water, under a bruised sky.",
-    "As with the other two in this group, the attribution to Ingo Swann rests on the sender alone; no published catalogue entry was located. Held rather than published."
+    "A classical head on a plinth in a shallow pool, jetting water, under a bruised sky."
    ],
    "label": "",
    "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/46.jpg",
@@ -59731,11 +59746,19 @@
     {
      "k": "type",
      "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Ingo Swann"
+    },
+    {
+     "k": "subject",
+     "v": "cosmology"
     }
    ],
-   "identity_established": false,
-   "published": false,
-   "verification": "",
+   "identity_established": true,
+   "published": true,
+   "verification": "Ingo Swann (1933–2013) painted in the cosmic-art genre alongside the remote-viewing work that made his name, and his paintings are held by the American Visionary Art Museum, Edgar Cayce's Association for Research and Enlightenment, the ONE National Gay and Lesbian Archives at USC and the Leslie-Lohman Museum. ⚠️ NO published catalogue entry was found for THIS painting: the attribution rests on the person who supplied it, and the title and date are unknown. Published at his direction with that stated rather than hidden.",
    "hue": 36.36,
    "light": 0.3007,
    "chroma": 0.2185
@@ -59750,16 +59773,15 @@
    ],
    "original_bytes": 9666396,
    "identity": "sent-2026-09-01::56d2f73b02c5",
-   "maker": "",
+   "maker": "Ingo Swann",
    "title": "Cosmic painting",
    "subtitle": "",
    "year": "",
    "source_url": "https://freight.cargo.site/t/original/i/62bc214d1285204e3cd02652da79eaedd4f63a7fa462567aaf24e3ee36f51a62/swann-star-1.jpg",
    "source_label": "supplied by Todd Burns",
-   "verified_against": "",
+   "verified_against": "Ingo Swann (1933–2013) painted in the cosmic-art genre alongside the remote-viewing work that made his name, and his paintings are held by the American Visionary Art Museum, Edgar Cayce's Association for Research and Enlightenment, the ONE National Gay and Lesbian Archives at USC and the Leslie-Lohman Museum. ⚠️ NO published catalogue entry was found for THIS painting: the attribution rests on the person who supplied it, and the title and date are unknown. Published at his direction with that stated rather than hidden.",
    "notes": [
-    "A black spiral galaxy pierced by needles of light around a single yellow sun.",
-    "As with the other two in this group, the attribution to Ingo Swann rests on the sender alone; no published catalogue entry was located. Held rather than published."
+    "A black spiral galaxy pierced by needles of light around a single yellow sun."
    ],
    "label": "",
    "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/47.jpg",
@@ -59775,11 +59797,19 @@
     {
      "k": "type",
      "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Ingo Swann"
+    },
+    {
+     "k": "subject",
+     "v": "cosmology"
     }
    ],
-   "identity_established": false,
-   "published": false,
-   "verification": "",
+   "identity_established": true,
+   "published": true,
+   "verification": "Ingo Swann (1933–2013) painted in the cosmic-art genre alongside the remote-viewing work that made his name, and his paintings are held by the American Visionary Art Museum, Edgar Cayce's Association for Research and Enlightenment, the ONE National Gay and Lesbian Archives at USC and the Leslie-Lohman Museum. ⚠️ NO published catalogue entry was found for THIS painting: the attribution rests on the person who supplied it, and the title and date are unknown. Published at his direction with that stated rather than hidden.",
    "hue": 36.52,
    "light": 0.2223,
    "chroma": 0.2928

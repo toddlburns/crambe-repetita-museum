@@ -50755,7 +50755,7 @@
   },
   {
    "id": "CRVI001037",
-   "published": false,
+   "published": true,
    "source_url": "https://ids.si.edu/ids/deliveryService?id=CHSDM-1981-29-424MattFlynn",
    "animated": false,
    "video": false,
@@ -50777,6 +50777,10 @@
     {
      "k": "type",
      "v": "drawing"
+    },
+    {
+     "k": "location",
+     "v": "New York"
     },
     {
      "k": "color",
@@ -51238,7 +51242,7 @@
   },
   {
    "id": "CRVI001048",
-   "published": false,
+   "published": true,
    "source_url": "https://pbs.twimg.com/media/Gtu4yMxXsAIMvHq.jpg",
    "animated": false,
    "video": false,
@@ -51253,13 +51257,17 @@
    ],
    "original_bytes": 266249,
    "maker": "",
-   "title": "ANTI-WAR AND LIBERATION poster",
+   "title": "ANTI-WAR AND LIBERATION",
    "subtitle": "",
    "year": "",
    "tags": [
     {
      "k": "type",
      "v": "poster"
+    },
+    {
+     "k": "subject",
+     "v": "protest"
     },
     {
      "k": "color",
@@ -51619,7 +51627,7 @@
   },
   {
    "id": "CRVI001057",
-   "published": false,
+   "published": true,
    "source_url": "https://www.wopc.co.uk/images/countries/austria/museum-modern-art-0.jpg",
    "animated": false,
    "video": false,
@@ -51641,6 +51649,10 @@
     {
      "k": "type",
      "v": "print"
+    },
+    {
+     "k": "subject",
+     "v": "playing cards"
     },
     {
      "k": "color",
@@ -51701,7 +51713,7 @@
   },
   {
    "id": "CRVI001059",
-   "published": false,
+   "published": true,
    "source_url": "https://freight.cargo.site/t/original/i/5e708e6bdcdfdd7bf0424177716d37660d3863d23a6afb4eea4d04697ac9ee07/swann3.jpg",
    "animated": false,
    "video": false,
@@ -51715,7 +51727,7 @@
     1350
    ],
    "original_bytes": 2353947,
-   "maker": "",
+   "maker": "Ingo Swann",
    "title": "Cosmic painting",
    "subtitle": "",
    "year": "",
@@ -51723,6 +51735,14 @@
     {
      "k": "type",
      "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Ingo Swann"
+    },
+    {
+     "k": "subject",
+     "v": "cosmology"
     },
     {
      "k": "color",
@@ -51738,7 +51758,7 @@
   },
   {
    "id": "CRVI001060",
-   "published": false,
+   "published": true,
    "source_url": "https://freight.cargo.site/t/original/i/d5d461d558d298c3862a7a9ca9eb97ba330071270bcd5dfc0cc38a9c594ce2fe/swann-6.jpg",
    "animated": false,
    "video": false,
@@ -51752,7 +51772,7 @@
     1090
    ],
    "original_bytes": 1434184,
-   "maker": "",
+   "maker": "Ingo Swann",
    "title": "Cosmic painting",
    "subtitle": "",
    "year": "",
@@ -51760,6 +51780,14 @@
     {
      "k": "type",
      "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Ingo Swann"
+    },
+    {
+     "k": "subject",
+     "v": "cosmology"
     },
     {
      "k": "color",
@@ -51771,7 +51799,7 @@
   },
   {
    "id": "CRVI001061",
-   "published": false,
+   "published": true,
    "source_url": "https://freight.cargo.site/t/original/i/62bc214d1285204e3cd02652da79eaedd4f63a7fa462567aaf24e3ee36f51a62/swann-star-1.jpg",
    "animated": false,
    "video": false,
@@ -51785,7 +51813,7 @@
     2924
    ],
    "original_bytes": 9666396,
-   "maker": "",
+   "maker": "Ingo Swann",
    "title": "Cosmic painting",
    "subtitle": "",
    "year": "",
@@ -51793,6 +51821,14 @@
     {
      "k": "type",
      "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Ingo Swann"
+    },
+    {
+     "k": "subject",
+     "v": "cosmology"
     },
     {
      "k": "color",
