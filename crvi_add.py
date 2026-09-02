@@ -167,7 +167,25 @@ def main(spec_path):
     it["original_px"] = list(orig)
     it["original_bytes"] = os.path.getsize(orig_path)
 
-    it.update({k: v for k, v in spec.items() if k not in ("image", "tags")})
+    # ⚠️ SOME OBJECTS ARE VECTOR AND THE RASTER IS THE REPRODUCTION. The traced trademarks are
+    # drawings, not photographs: the SVG is the real file and the PNG only stands in so the
+    # grid, the hue keys and the item page have something to show. So an item may hold BOTH —
+    # `originals/<id>.svg` beside the raster original — and the item page links the vector.
+    # It is a link on the page on purpose: `.github/prune_unserved_originals.py` keeps exactly
+    # those originals some built HTML points at, so an unlinked SVG would be pruned off the CDN.
+    if spec.get("vector"):
+        vsrc = os.path.expanduser(spec["vector"])
+        if not vsrc.lower().endswith(".svg"):
+            sys.exit(f'vector must be an .svg — got {vsrc}')
+        if not os.path.exists(vsrc):
+            sys.exit(f'vector not found: {vsrc}')
+        vdst = os.path.join(SITE, "originals", it["id"] + ".svg")
+        shutil.copyfile(vsrc, vdst)
+        it["vector_file"] = "originals/" + it["id"] + ".svg"
+        it["vector_bytes"] = os.path.getsize(vdst)
+        print(f'  vector {it["vector_file"]} · {it["vector_bytes"]/1024:.0f} KB')
+
+    it.update({k: v for k, v in spec.items() if k not in ("image", "tags", "vector")})
     it["identity"] = ident
     it["label"], _cat = labels.canon(it.get("label"))   # same canon as the bulk builder
     if _cat: it["catalogue"] = _cat

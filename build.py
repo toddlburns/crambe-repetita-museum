@@ -369,6 +369,13 @@ def work_line(it, up):
                         f'rel="noopener noreferrer">(Source)</a>')
         else:
             bits.append(f'<span class="srcline nourl" title="{esc(src_lab)}">(Source)</span>')
+    # ⚠️ THE VECTOR LINK IS ALSO WHAT KEEPS THE FILE ON THE CDN. The Pages build prunes every
+    # original no page points at, so this href is load-bearing, not decoration — see
+    # `.github/prune_unserved_originals.py`. Only the traced-drawing items carry one.
+    if it.get("vector"):
+        bits.append('<span class="sep srcsep">|||</span>')
+        bits.append(f'<a class="srcline" href="{up}{esc(it["vector"])}" '
+                    f'title="Vector original (SVG)" download>(Vector)</a>')
     bits.append('<label class="infobtn" for="info">'
                 '<span class="a">info</span><span class="b">close</span></label>')
     return "".join(bits)

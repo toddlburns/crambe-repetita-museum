@@ -101,6 +101,7 @@ def build(reg):
                     "source_label": i.get("source_label", ""),
                     "image": i.get("display") or ("images/" + i["id"] + ".jpg"),
                     "original": i.get("original_file") or ("originals/" + i["id"] + ".jpg"),
+                    "vector": i.get("vector_file") or "",
                     "original_px": i.get("original_px"),
                     "original_bytes": i.get("original_bytes"),
                     "maker": maker, "title": title, "subtitle": sub,
