@@ -1,5 +1,5 @@
 {
- "next": 1103,
+ "next": 1105,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -61925,6 +61925,134 @@
    "hue": 25.01,
    "light": 0.5312,
    "chroma": 0.1776
+  },
+  "sent-2026-09-02::17d1d60f2fd4": {
+   "id": "CRVI001103",
+   "minted": "2026-09-02",
+   "original_file": "originals/CRVI001103.jpg",
+   "original_px": [
+    3984,
+    1986
+   ],
+   "original_bytes": 2113270,
+   "identity": "sent-2026-09-02::17d1d60f2fd4",
+   "maker": "Utagawa Yoshifusa",
+   "title": "Kiyomori's Visit to Nunobiki Waterfall: The Ghost of Yoshihira Taking Revenge on Nanba",
+   "subtitle": "Woodblock-printed triptych (nishiki-e), ink and color on paper · Edo period · The Metropolitan Museum of Art, New York",
+   "year": "1856",
+   "source_url": "https://www.metmuseum.org/art/collection/search/63378",
+   "source_label": "The Metropolitan Museum of Art, 2001.715.11a–c",
+   "verified_against": "The Metropolitan Museum of Art, accession 2001.715.11a–c, object 63378 — Utagawa Yoshifusa (Japanese, active 1837–1860), triptych of woodblock prints (nishiki-e), ink and color on paper, vertical ōban, each sheet 36.8 × 24.8 cm, dated 1856, 2nd month; Edo period; Purchase, Arnold Weinstein Gift, 2001. Public domain. Fetched from the Museum's own collection API. The ghost is Minamoto no Yoshihira, known as Akugenta — the name in the form this was sent under.",
+   "notes": [
+    "Akugenta Yoshihira's ghost, in armour, erupting out of a thunderhead above the Nunobiki waterfall and striking Nanba down in a burst of lightning; Taira no Kiyomori and his retinue scatter on the right.",
+    "The whole triptych is cut through by long straight beams of light printed in flat orange, which cross the sheet joins and every figure without regard for either."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add3/yoshifusa.jpg",
+   "source_px": [
+    3984,
+    1986
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "woodblock print"
+    },
+    {
+     "k": "artist",
+     "v": "Utagawa Yoshifusa"
+    },
+    {
+     "k": "decade",
+     "v": "1850s"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "subject",
+     "v": "ghost"
+    },
+    {
+     "k": "medium",
+     "v": "nishiki-e"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Metropolitan Museum of Art, accession 2001.715.11a–c, object 63378 — Utagawa Yoshifusa (Japanese, active 1837–1860), triptych of woodblock prints (nishiki-e), ink and color on paper, vertical ōban, each sheet 36.8 × 24.8 cm, dated 1856, 2nd month; Edo period; Purchase, Arnold Weinstein Gift, 2001. Public domain. Fetched from the Museum's own collection API. The ghost is Minamoto no Yoshihira, known as Akugenta — the name in the form this was sent under.",
+   "hue": 22.71,
+   "light": 0.5445,
+   "chroma": 0.4268
+  },
+  "sent-2026-09-02::248afb96ffbf": {
+   "id": "CRVI001104",
+   "minted": "2026-09-02",
+   "original_file": "originals/CRVI001104.jpg",
+   "original_px": [
+    969,
+    1400
+   ],
+   "original_bytes": 520703,
+   "identity": "sent-2026-09-02::248afb96ffbf",
+   "maker": "Utagawa Yoshifusa",
+   "title": "Two Samurai, from Twenty-four Famous Generals of Kai",
+   "subtitle": "Woodblock print (nishiki-e) · Kai Nijuyon-sho no Uchi",
+   "year": "1843–1845",
+   "source_url": "https://ukiyo-e.org/image/artelino/33061g1",
+   "source_label": "artelino — Japanese Prints, via Ukiyo-e Search",
+   "verified_against": "artelino (Japanese print dealer and auction house), catalogued through Ukiyo-e Search: Utagawa Yoshifusa, 'Two Samurai — 24 Famous Generals of Kai', 1843–45. The dealer's description names the series 'Kai Nijuyon-sho no Uchi' (Twenty-four Famous Generals of Kai) and the two men shown: Tsuchiya Nobuchika and Baba Nobufusa. ⚠️ artelino notes the original auction page is no longer public; the record survives in its archive.",
+   "notes": [
+    "Two of Takeda Shingen's generals in full lamellar armour, one standing with a spear, one crouched below him in a horned helmet — Tsuchiya Nobuchika and Baba Nobufusa.",
+    "The upper third is given over to a block of printed text, so the figures are pushed into the lower two-thirds and read as a single interlocking mass of lacing and pattern."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add3/yoshifusa2.jpg",
+   "source_px": [
+    969,
+    1400
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "woodblock print"
+    },
+    {
+     "k": "artist",
+     "v": "Utagawa Yoshifusa"
+    },
+    {
+     "k": "decade",
+     "v": "1840s"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "subject",
+     "v": "samurai"
+    },
+    {
+     "k": "medium",
+     "v": "nishiki-e"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "artelino (Japanese print dealer and auction house), catalogued through Ukiyo-e Search: Utagawa Yoshifusa, 'Two Samurai — 24 Famous Generals of Kai', 1843–45. The dealer's description names the series 'Kai Nijuyon-sho no Uchi' (Twenty-four Famous Generals of Kai) and the two men shown: Tsuchiya Nobuchika and Baba Nobufusa. ⚠️ artelino notes the original auction page is no longer public; the record survives in its archive.",
+   "hue": 42.53,
+   "light": 0.7372,
+   "chroma": 0.9151
   }
  }
 }

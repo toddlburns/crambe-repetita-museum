@@ -53682,6 +53682,120 @@
    ],
    "hue": 25.01,
    "light": 0.5312
+  },
+  {
+   "id": "CRVI001103",
+   "published": true,
+   "source_url": "https://www.metmuseum.org/art/collection/search/63378",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001103.jpg",
+   "source_label": "The Metropolitan Museum of Art, 2001.715.11a–c",
+   "image": "images/CRVI001103.jpg",
+   "original": "originals/CRVI001103.jpg",
+   "vector": "",
+   "original_px": [
+    3984,
+    1986
+   ],
+   "original_bytes": 2113270,
+   "maker": "Utagawa Yoshifusa",
+   "title": "Kiyomori's Visit to Nunobiki Waterfall: The Ghost of Yoshihira Taking Revenge on Nanba",
+   "subtitle": "Woodblock-printed triptych (nishiki-e), ink and color on paper · Edo period · The Metropolitan Museum of Art, New York",
+   "year": "1856",
+   "tags": [
+    {
+     "k": "type",
+     "v": "woodblock print"
+    },
+    {
+     "k": "artist",
+     "v": "Utagawa Yoshifusa"
+    },
+    {
+     "k": "decade",
+     "v": "1850s"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "subject",
+     "v": "ghost"
+    },
+    {
+     "k": "medium",
+     "v": "nishiki-e"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 22.71,
+   "light": 0.5445
+  },
+  {
+   "id": "CRVI001104",
+   "published": true,
+   "source_url": "https://ukiyo-e.org/image/artelino/33061g1",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001104.jpg",
+   "source_label": "artelino — Japanese Prints, via Ukiyo-e Search",
+   "image": "images/CRVI001104.jpg",
+   "original": "originals/CRVI001104.jpg",
+   "vector": "",
+   "original_px": [
+    969,
+    1400
+   ],
+   "original_bytes": 520703,
+   "maker": "Utagawa Yoshifusa",
+   "title": "Two Samurai, from Twenty-four Famous Generals of Kai",
+   "subtitle": "Woodblock print (nishiki-e) · Kai Nijuyon-sho no Uchi",
+   "year": "1843–1845",
+   "tags": [
+    {
+     "k": "type",
+     "v": "woodblock print"
+    },
+    {
+     "k": "artist",
+     "v": "Utagawa Yoshifusa"
+    },
+    {
+     "k": "decade",
+     "v": "1840s"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "subject",
+     "v": "samurai"
+    },
+    {
+     "k": "medium",
+     "v": "nishiki-e"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 42.53,
+   "light": 0.7372
   }
  ]
 }
