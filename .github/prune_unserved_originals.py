@@ -25,7 +25,21 @@ import json, os, re, sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ORIG = os.path.join(ROOT, "originals")
-ATTR = re.compile(r'(?:src|href)\s*=\s*["\'][^"\']*?originals/([A-Za-z0-9_.\-]+)')
+# ⚠️ MATCH OUR OWN originals/, NOT SOMEBODY ELSE'S. The first version of this pattern looked for
+# the substring "originals/" anywhere inside a src/href, which also matches EXTERNAL urls that
+# happen to contain that path — `https://i.pinimg.com/originals/22/5c/27/....jpg`, cited as an
+# item's source link, made the script demand a file called "22" and fail the whole Pages deploy.
+# So: capture the whole attribute, throw away anything absolute, then read the local path.
+ATTR = re.compile(r'(?:src|href)\s*=\s*["\']([^"\']+)["\']')
+LOCAL = re.compile(r'(?:^|/)originals/([A-Za-z0-9_.\-]+)$')
+
+
+def local_original(url):
+    """The originals/ filename this attribute points at, or None if it is not ours."""
+    if re.match(r'^(?:[a-zA-Z][a-zA-Z0-9+.\-]*:|//)', url):
+        return None                      # absolute: another host's path, never ours
+    m = LOCAL.search(url.split('?')[0].split('#')[0])
+    return m.group(1) if m else None
 
 def keep_set():
     keep = set()
@@ -34,7 +48,9 @@ def keep_set():
         for f in files:
             if f.endswith(".html"):
                 with open(os.path.join(cur, f), encoding="utf-8", errors="ignore") as fh:
-                    keep.update(ATTR.findall(fh.read()))
+                    keep.update(f for f in
+                                (local_original(u) for u in ATTR.findall(fh.read()))
+                                if f)
     payload = os.path.join(ROOT, "crvi.json")
     if os.path.exists(payload):
         data = json.load(open(payload, encoding="utf-8"))
