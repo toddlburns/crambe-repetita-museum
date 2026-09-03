@@ -1,5 +1,5 @@
 {
- "next": 1105,
+ "next": 1107,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -62053,6 +62053,134 @@
    "hue": 42.53,
    "light": 0.7372,
    "chroma": 0.9151
+  },
+  "sent-2026-09-02::5ac483aad515": {
+   "id": "CRVI001105",
+   "minted": "2026-09-02",
+   "original_file": "originals/CRVI001105.jpg",
+   "original_px": [
+    2166,
+    3200
+   ],
+   "original_bytes": 3163070,
+   "identity": "sent-2026-09-02::5ac483aad515",
+   "maker": "Utagawa Kuniyoshi",
+   "title": "Hakumenrōkun Teitenju, from The 108 Heroes of the Popular Suikoden",
+   "subtitle": "Woodblock print (nishiki-e), ōban · Tsūzoku Suikoden gōketsu hyakuhachinin no hitori · Published by Kaga-ya Kichiemon",
+   "year": "c. 1827–1830",
+   "source_url": "https://www.christies.com/img/LotImages/2015/CSK/2015_CSK_10605_0043_000(utagawa_kuniyoshi_7_warrior_prints122415).jpg?mode=max",
+   "source_label": "Christie's South Kensington, sale 10605 (2015), lot 43",
+   "verified_against": "The print names itself: the series cartouche reads 通俗水滸傳豪傑百八人之一個 (Tsūzoku Suikoden gōketsu hyakuhachinin no hitori) and the title cartouche 白面郎君鄭天壽 with furigana はくめんろうくんていてんじゅ — Hakumenrōkun Teitenju, the Chinese hero Zheng Tianshou, 'the Fair-Faced Gentleman'. Signed 一勇齋國芳画 (Ichiyūsai Kuniyoshi ga). The Kuniyoshi Project's catalogue of the series matches the design exactly — 'Hakumenrōkun Teitenju in full armor levering a mass of rock with an iron bar; a flight of arrows descends behind him' (Robinson S2.20, Klompmakers 55) — and gives the series publisher as Kaga-ya Kichiemon, 1827–1830. Toshidama Gallery's listing of the same design dates it 1827 and describes him prying at a cliff fall with an iron bar under poison arrows at an enemy's castle gate. The image file is Christie's own lot photograph, from South Kensington sale 10605 (2015), lot 43 — a group lot of seven Kuniyoshi warrior prints, of which this is the illustrated sheet.",
+   "notes": [
+    "Zheng Tianshou in full Chinese armour on a rock face, levering a boulder loose with a black iron bar while a flight of arrows comes down behind him — the bar cutting the sheet corner to corner as a single black diagonal.",
+    "The one print in the series that made Kuniyoshi's name: begun in 1827, it set off a Suikoden print craze in Edo and never reached its full 108 heroes."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/9f0cf8e5-da9d-4286-ba59-150aac589367/scratchpad/kuniyoshi.jpg",
+   "source_px": [
+    2166,
+    3200
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "woodblock print"
+    },
+    {
+     "k": "artist",
+     "v": "Utagawa Kuniyoshi"
+    },
+    {
+     "k": "decade",
+     "v": "1820s"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "subject",
+     "v": "warrior"
+    },
+    {
+     "k": "medium",
+     "v": "nishiki-e"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The print names itself: the series cartouche reads 通俗水滸傳豪傑百八人之一個 (Tsūzoku Suikoden gōketsu hyakuhachinin no hitori) and the title cartouche 白面郎君鄭天壽 with furigana はくめんろうくんていてんじゅ — Hakumenrōkun Teitenju, the Chinese hero Zheng Tianshou, 'the Fair-Faced Gentleman'. Signed 一勇齋國芳画 (Ichiyūsai Kuniyoshi ga). The Kuniyoshi Project's catalogue of the series matches the design exactly — 'Hakumenrōkun Teitenju in full armor levering a mass of rock with an iron bar; a flight of arrows descends behind him' (Robinson S2.20, Klompmakers 55) — and gives the series publisher as Kaga-ya Kichiemon, 1827–1830. Toshidama Gallery's listing of the same design dates it 1827 and describes him prying at a cliff fall with an iron bar under poison arrows at an enemy's castle gate. The image file is Christie's own lot photograph, from South Kensington sale 10605 (2015), lot 43 — a group lot of seven Kuniyoshi warrior prints, of which this is the illustrated sheet.",
+   "hue": 41.35,
+   "light": 0.523,
+   "chroma": 0.4064
+  },
+  "sent-2026-09-02::74d9702ccd4e": {
+   "id": "CRVI001106",
+   "minted": "2026-09-02",
+   "original_file": "originals/CRVI001106.jpg",
+   "original_px": [
+    730,
+    1102
+   ],
+   "original_bytes": 283942,
+   "identity": "sent-2026-09-02::74d9702ccd4e",
+   "maker": "Utagawa Kuniyoshi",
+   "title": "Kurō Hōgan Yoshitsune at Horikawa (Chapter 31, Makibashira)",
+   "subtitle": "Woodblock print (nishiki-e), ōban · from Genji kumo ukiyo-e awase · Published by Iseya Ichibei",
+   "year": "c. 1845–1846",
+   "source_url": "https://www.viewingjapaneseprints.net/texts/ukiyoe/kuniyoshi.html",
+   "source_label": "Viewing Japanese Prints (John Fiorillo)",
+   "verified_against": "Viewing Japanese Prints, John Fiorillo's Kuniyoshi page, which publishes this exact file (pics/ukiyoe/kuniyoshi_c1845_yoshitsune_730w.jpg) with the caption: 'Utagawa Kuniyoshi: Kurô Hangan Yoshitsune at Horikawa, Chapter 31, Maki-bashira (真木柱, Cypress Pillar). Series: Genji kumo ukiyo-e awase (源氏雲浮世画合) (A Comparison of Floating World Prints with the Cloudy Chapters of Genji), 1845-1846. Woodblock print, ôban nishiki-e. Publisher: Iseya Ichibei (伊勢屋市兵衛), Seal name: hanmoto Iseichi (版元伊勢市).' The print carries the same names itself — the series cartouche 源氏雲浮世画合 on the scroll cover at top right, the chapter title 真木柱 in the poem panel, the yellow figure cartouche 九郎判官義経, and the signature 一勇齋國芳画. Ukiyo-e Search records the same design in the MAK Vienna collection as 'Makibashira, Kuro Hangan Yoshitsune', 1843–1847. The series runs to 60 designs, one for each of the 54 Genji chapters plus six supplements; this is number 31, marked in the lower left margin.",
+   "notes": [
+    "Yoshitsune crouched on the balcony railing at Horikawa, gripping the pink cypress pillar with one hand and an arrow with the other, watching Tosabō Shōshun's banners come up through the mist while arrows land around him.",
+    "The pillar is the pun: makibashira, 'cypress pillar', is the Genji chapter, and the word also carries the poetic sense of great size — so the chapter is matched to the man by grabbing hold of the post.",
+    "A Tenpō-reform-era workaround: with prints of actors and beauties banned, a warrior subject is smuggled in under a Tale of Genji title."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/9f0cf8e5-da9d-4286-ba59-150aac589367/scratchpad/yoshitsune.jpg",
+   "source_px": [
+    730,
+    1102
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "woodblock print"
+    },
+    {
+     "k": "artist",
+     "v": "Utagawa Kuniyoshi"
+    },
+    {
+     "k": "decade",
+     "v": "1840s"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "subject",
+     "v": "samurai"
+    },
+    {
+     "k": "medium",
+     "v": "nishiki-e"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Viewing Japanese Prints, John Fiorillo's Kuniyoshi page, which publishes this exact file (pics/ukiyoe/kuniyoshi_c1845_yoshitsune_730w.jpg) with the caption: 'Utagawa Kuniyoshi: Kurô Hangan Yoshitsune at Horikawa, Chapter 31, Maki-bashira (真木柱, Cypress Pillar). Series: Genji kumo ukiyo-e awase (源氏雲浮世画合) (A Comparison of Floating World Prints with the Cloudy Chapters of Genji), 1845-1846. Woodblock print, ôban nishiki-e. Publisher: Iseya Ichibei (伊勢屋市兵衛), Seal name: hanmoto Iseichi (版元伊勢市).' The print carries the same names itself — the series cartouche 源氏雲浮世画合 on the scroll cover at top right, the chapter title 真木柱 in the poem panel, the yellow figure cartouche 九郎判官義経, and the signature 一勇齋國芳画. Ukiyo-e Search records the same design in the MAK Vienna collection as 'Makibashira, Kuro Hangan Yoshitsune', 1843–1847. The series runs to 60 designs, one for each of the 54 Genji chapters plus six supplements; this is number 31, marked in the lower left margin.",
+   "hue": 34.88,
+   "light": 0.5984,
+   "chroma": 0.6268
   }
  }
 }

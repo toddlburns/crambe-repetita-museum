@@ -53796,6 +53796,116 @@
    ],
    "hue": 42.53,
    "light": 0.7372
+  },
+  {
+   "id": "CRVI001105",
+   "published": true,
+   "source_url": "https://www.christies.com/img/LotImages/2015/CSK/2015_CSK_10605_0043_000(utagawa_kuniyoshi_7_warrior_prints122415).jpg?mode=max",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001105.jpg",
+   "source_label": "Christie's South Kensington, sale 10605 (2015), lot 43",
+   "image": "images/CRVI001105.jpg",
+   "original": "originals/CRVI001105.jpg",
+   "vector": "",
+   "original_px": [
+    2166,
+    3200
+   ],
+   "original_bytes": 3163070,
+   "maker": "Utagawa Kuniyoshi",
+   "title": "Hakumenrōkun Teitenju, from The 108 Heroes of the Popular Suikoden",
+   "subtitle": "Woodblock print (nishiki-e), ōban · Tsūzoku Suikoden gōketsu hyakuhachinin no hitori · Published by Kaga-ya Kichiemon",
+   "year": "c. 1827–1830",
+   "tags": [
+    {
+     "k": "type",
+     "v": "woodblock print"
+    },
+    {
+     "k": "artist",
+     "v": "Utagawa Kuniyoshi"
+    },
+    {
+     "k": "decade",
+     "v": "1820s"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "subject",
+     "v": "warrior"
+    },
+    {
+     "k": "medium",
+     "v": "nishiki-e"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 41.35,
+   "light": 0.523
+  },
+  {
+   "id": "CRVI001106",
+   "published": true,
+   "source_url": "https://www.viewingjapaneseprints.net/texts/ukiyoe/kuniyoshi.html",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001106.jpg",
+   "source_label": "Viewing Japanese Prints (John Fiorillo)",
+   "image": "images/CRVI001106.jpg",
+   "original": "originals/CRVI001106.jpg",
+   "vector": "",
+   "original_px": [
+    730,
+    1102
+   ],
+   "original_bytes": 283942,
+   "maker": "Utagawa Kuniyoshi",
+   "title": "Kurō Hōgan Yoshitsune at Horikawa (Chapter 31, Makibashira)",
+   "subtitle": "Woodblock print (nishiki-e), ōban · from Genji kumo ukiyo-e awase · Published by Iseya Ichibei",
+   "year": "c. 1845–1846",
+   "tags": [
+    {
+     "k": "type",
+     "v": "woodblock print"
+    },
+    {
+     "k": "artist",
+     "v": "Utagawa Kuniyoshi"
+    },
+    {
+     "k": "decade",
+     "v": "1840s"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "subject",
+     "v": "samurai"
+    },
+    {
+     "k": "medium",
+     "v": "nishiki-e"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 34.88,
+   "light": 0.5984
   }
  ]
 }
