@@ -1,5 +1,5 @@
 {
- "next": 1107,
+ "next": 1113,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -62181,6 +62181,389 @@
    "hue": 34.88,
    "light": 0.5984,
    "chroma": 0.6268
+  },
+  "sent-2026-09-02::abe31740bea2": {
+   "id": "CRVI001107",
+   "minted": "2026-09-02",
+   "original_file": "originals/CRVI001107.jpg",
+   "original_px": [
+    3894,
+    2918
+   ],
+   "original_bytes": 2625390,
+   "identity": "sent-2026-09-02::abe31740bea2",
+   "maker": "Martin Wong",
+   "title": "Psychiatrists Testify: Demon Dogs Drive Man to Murder",
+   "subtitle": "Acrylic on canvas, 36 × 48 in · also titled “Demon Dogs Drive Man to Murder”",
+   "year": "1980",
+   "source_url": "https://dza2a2ql7zktf.cloudfront.net/binaries-cdn/dqzqcuqf9/image/fetch/q_auto,dpr_auto,c_fill,f_auto,w_auto/https://d2u3kfwd92fzu7.cloudfront.net/asset/cms/1980_PsychiatristsTestify.jpg?w=3894&h=2918",
+   "source_label": "Martin Wong Foundation / P·P·O·W",
+   "verified_against": "The painting identifies itself: it is lettered PSYCHIATRISTS TESTIFY: across the top and, along the bottom, DEMON DOGS DRIVE MAN TO MURDER by MARTIN WONG · AUGUST 1980 · EUREKA CALIF, with PAINTING FOR THE HEARING IMPAIRED in a cartouche below and a dedication at upper left, THIS PICTURE DEDICATED TO RICHARD BASSETT · REDDING. The Martin Wong Catalogue Raisonné at Stanford University Libraries, published from the Martin Wong Foundation, records it as 'Psychiatrists Testify: Demon Dogs Drive Man to Murder', alternate title 'Demon Dogs Drive Man to Murder', artist Wong, Martin, 1980, 36 x 48 inches, topic 'American Sign Language (fingerspelling), Bricks, and Headlines'. The file is the full 3894 × 2918 asset, fetched past the CDN's resizing layer.",
+   "notes": [
+    "Thirty-two hands in American Sign Language fingerspelling a tabloid headline, cuffed in white shirtsleeves against black, the whole thing framed as a painted brick wall.",
+    "Wong's own subtitle calls it a painting for the hearing impaired — the headline is only legible if you read sign."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/9f0cf8e5-da9d-4286-ba59-150aac589367/scratchpad/std/wong_psych_direct.jpg",
+   "source_px": [
+    3894,
+    2918
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Martin Wong"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "location",
+     "v": "Eureka, California"
+    },
+    {
+     "k": "subject",
+     "v": "sign language"
+    },
+    {
+     "k": "medium",
+     "v": "acrylic"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The painting identifies itself: it is lettered PSYCHIATRISTS TESTIFY: across the top and, along the bottom, DEMON DOGS DRIVE MAN TO MURDER by MARTIN WONG · AUGUST 1980 · EUREKA CALIF, with PAINTING FOR THE HEARING IMPAIRED in a cartouche below and a dedication at upper left, THIS PICTURE DEDICATED TO RICHARD BASSETT · REDDING. The Martin Wong Catalogue Raisonné at Stanford University Libraries, published from the Martin Wong Foundation, records it as 'Psychiatrists Testify: Demon Dogs Drive Man to Murder', alternate title 'Demon Dogs Drive Man to Murder', artist Wong, Martin, 1980, 36 x 48 inches, topic 'American Sign Language (fingerspelling), Bricks, and Headlines'. The file is the full 3894 × 2918 asset, fetched past the CDN's resizing layer.",
+   "hue": 22.15,
+   "light": 0.3346,
+   "chroma": 0.7104
+  },
+  "sent-2026-09-02::40bb8422d767": {
+   "id": "CRVI001108",
+   "minted": "2026-09-02",
+   "original_file": "originals/CRVI001108.jpg",
+   "original_px": [
+    1080,
+    1075
+   ],
+   "original_bytes": 378598,
+   "identity": "sent-2026-09-02::40bb8422d767",
+   "maker": "Martin Wong",
+   "title": "Portrait of Mikey Piñero at Ridge Street and Stanton",
+   "subtitle": "Acrylic on canvas, 72 × 72 in · also titled “La Vera de Nuyorico: Miguel Piñero”",
+   "year": "1985",
+   "source_url": "https://s3.us-east-2.amazonaws.com/the-gram-assets/artwork/Wong.jpg",
+   "source_label": "supplied by Todd Burns",
+   "verified_against": "The Martin Wong Catalogue Raisonné at Stanford University Libraries (druid nz269kb9867), published from the Martin Wong Foundation: title 'Portrait of Mikey Piñero at Ridge Street and Stanton', alternate title 'La Vera de Nuyorico: Miguel Piñero', artist 'Wong, Martin and Miguel Piñero', 1985, 72 x 72 inches, genre 'Portraits and Cityscape', topic 'Lower East Side, Bricks, Eight Balls, Miguel Piñero, Hearts, Guns, and Tools'. Every element of that topic list is present in this image and the canvas is square, matching 72 × 72. ⚠️ Stanford holds a 7200 × 7183 master but hard-caps its IIIF service at 400 pixels, so the best file obtainable here is this 1080 × 1075 one.",
+   "notes": [
+    "Miguel Piñero — poet, playwright, co-founder of the Nuyorican Poets Cafe — asleep at the bottom edge under an orange sky, with an eight ball, a brick heart, a pistol and a bullet strung into constellations above him and named as if they were stars.",
+    "Wong's fingerspelling alphabet runs in gold outline across the black sphere and the tenement skyline, spelling out words the sky diagrams as sound: BANG, ZING, THUD."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/9f0cf8e5-da9d-4286-ba59-150aac589367/scratchpad/std/wong_gram.jpg",
+   "source_px": [
+    1080,
+    1075
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Martin Wong"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "location",
+     "v": "New York"
+    },
+    {
+     "k": "subject",
+     "v": "portrait"
+    },
+    {
+     "k": "subject",
+     "v": "sign language"
+    },
+    {
+     "k": "medium",
+     "v": "acrylic"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Martin Wong Catalogue Raisonné at Stanford University Libraries (druid nz269kb9867), published from the Martin Wong Foundation: title 'Portrait of Mikey Piñero at Ridge Street and Stanton', alternate title 'La Vera de Nuyorico: Miguel Piñero', artist 'Wong, Martin and Miguel Piñero', 1985, 72 x 72 inches, genre 'Portraits and Cityscape', topic 'Lower East Side, Bricks, Eight Balls, Miguel Piñero, Hearts, Guns, and Tools'. Every element of that topic list is present in this image and the canvas is square, matching 72 × 72. ⚠️ Stanford holds a 7200 × 7183 master but hard-caps its IIIF service at 400 pixels, so the best file obtainable here is this 1080 × 1075 one.",
+   "hue": 15.72,
+   "light": 0.3943,
+   "chroma": 0.7035
+  },
+  "sent-2026-09-02::06f671e8b29f": {
+   "id": "CRVI001109",
+   "minted": "2026-09-02",
+   "original_file": "originals/CRVI001109.jpg",
+   "original_px": [
+    1122,
+    1500
+   ],
+   "original_bytes": 593170,
+   "identity": "sent-2026-09-02::06f671e8b29f",
+   "maker": "Constantin Aladjalov",
+   "title": "International Exhibition of Modern Art, arranged by the Société Anonyme for the Brooklyn Museum",
+   "subtitle": "Exhibition catalogue cover · Brooklyn Museum, November–December 1926",
+   "year": "1926",
+   "source_url": "https://monoskop.org/International_Exhibition_of_Modern_Art_Assembled_by_Soci%C3%A9t%C3%A9_Anonyme",
+   "source_label": "Monoskop",
+   "verified_against": "The cover states its own contents: INTERNATIONAL EXIBITION OF MODERN ART arranged by THE SOCIÉTÉ ANONYME for the BROOKLYN MUSEUM, NOVEMBER DECEMBER 1926, and is signed 'aLadjaLov' at lower left. The catalogue is catalogued by the Archives of American Art (Smithsonian), the Brooklyn Museum's own exhibition record, and the National Gallery of Art's 1926 Brooklyn publication; the dealer and library records credit it to Katherine S. Dreier and Constantin Aladjalov. The exhibition ran 19 November 1926 to 10 January 1927. Monoskop's file is the source of this scan.",
+   "notes": [
+    "The word EXIBITION is misspelled on the cover — the missing H was set small and dropped in above the line rather than resetting the type.",
+    "Slabs of photographic grey are laid down like torn paper and the title runs across them on three different diagonals, in red and black, at four or five sizes."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/9f0cf8e5-da9d-4286-ba59-150aac589367/scratchpad/std/societe_anonyme.jpg",
+   "source_px": [
+    1122,
+    1500
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "designer",
+     "v": "Constantin Aladjalov"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "location",
+     "v": "New York"
+    },
+    {
+     "k": "subject",
+     "v": "exhibition"
+    },
+    {
+     "k": "subject",
+     "v": "typography"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The cover states its own contents: INTERNATIONAL EXIBITION OF MODERN ART arranged by THE SOCIÉTÉ ANONYME for the BROOKLYN MUSEUM, NOVEMBER DECEMBER 1926, and is signed 'aLadjaLov' at lower left. The catalogue is catalogued by the Archives of American Art (Smithsonian), the Brooklyn Museum's own exhibition record, and the National Gallery of Art's 1926 Brooklyn publication; the dealer and library records credit it to Katherine S. Dreier and Constantin Aladjalov. The exhibition ran 19 November 1926 to 10 January 1927. Monoskop's file is the source of this scan.",
+   "hue": 21.82,
+   "light": 0.5798,
+   "chroma": 0.549
+  },
+  "sent-2026-09-02::85b422470885": {
+   "id": "CRVI001110",
+   "minted": "2026-09-02",
+   "original_file": "originals/CRVI001110.jpg",
+   "original_px": [
+    1420,
+    2000
+   ],
+   "original_bytes": 498227,
+   "identity": "sent-2026-09-02::85b422470885",
+   "maker": "unattributed",
+   "title": "Grafisk Revy, nummer 19",
+   "subtitle": "Cover, fackteknistkt specialnummer · Bokbinderi-Arbetaren / Svensk Typograftidning",
+   "year": "1965",
+   "source_url": "https://mfg.rokka.io/fe_nuxt_no_crop/variables-w-1204--options-dpr-2/1e1a7ee25fbad528464d07c7f6d76822fa221c6a/image.jpg",
+   "source_label": "Museum für Gestaltung Zürich (museum-gestaltung.ch)",
+   "verified_against": "The cover names everything about itself: 'grafisk revy / fackteknistkt specialnummer' at upper left and 'nummer 19 / 20 november 65 / bokbinderi-arbetaren / svensk typograftidning' at upper right — issue 19 of the Swedish graphic-arts trade journal Grafisk Revy, a technical special number, dated 20 November 1965, published jointly with the bookbinders' and typographers' union papers. The file is served by mfg.rokka.io, the image CDN behind the Museum für Gestaltung Zürich's own site, at its native 1420 × 2000. ⚠️ WHO DESIGNED IT IS NOT ESTABLISHED. The cover carries no designer credit, and the page on museum-gestaltung.ch that publishes this image could not be located, so there is no caption to attribute it from. Recorded as unattributed rather than guessed.",
+   "notes": [
+    "Concentric arcs built entirely out of the words 'grafisk revy' repeated at tiny size — the rings are set type, not drawn, so the black thickens where the letters crowd and opens where they thin.",
+    "A ripple pattern that is also a specimen: the subject of the special issue is printing technique, and the cover is made of the thing it is about."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/9f0cf8e5-da9d-4286-ba59-150aac589367/scratchpad/std/mfg_rokka_1204.jpg",
+   "source_px": [
+    1420,
+    2000
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "location",
+     "v": "Sweden"
+    },
+    {
+     "k": "subject",
+     "v": "typography"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The cover names everything about itself: 'grafisk revy / fackteknistkt specialnummer' at upper left and 'nummer 19 / 20 november 65 / bokbinderi-arbetaren / svensk typograftidning' at upper right — issue 19 of the Swedish graphic-arts trade journal Grafisk Revy, a technical special number, dated 20 November 1965, published jointly with the bookbinders' and typographers' union papers. The file is served by mfg.rokka.io, the image CDN behind the Museum für Gestaltung Zürich's own site, at its native 1420 × 2000. ⚠️ WHO DESIGNED IT IS NOT ESTABLISHED. The cover carries no designer credit, and the page on museum-gestaltung.ch that publishes this image could not be located, so there is no caption to attribute it from. Recorded as unattributed rather than guessed.",
+   "hue": 35.01,
+   "light": 0.8119,
+   "chroma": 0.5325
+  },
+  "sent-2026-09-02::emigre5-mfgz": {
+   "id": "CRVI001111",
+   "minted": "2026-09-02",
+   "original_file": "originals/CRVI001111.png",
+   "original_px": [
+    960,
+    1429
+   ],
+   "original_bytes": 584478,
+   "identity": "sent-2026-09-02::emigre5-mfgz",
+   "maker": "Rudy VanderLans",
+   "title": "Emigre No. 5, Edizione Italo-Francese",
+   "subtitle": "Magazine cover · 43 × 29.1 cm, 30 pages · Emigre Inc., Berkeley",
+   "year": "1986",
+   "source_url": "https://www.emigre.com/Magazine",
+   "source_label": "Emigre Inc.",
+   "verified_against": "Museum für Gestaltung Zürich, Grafiksammlung, object number L EMIG 5 (eMuseum object 100285): 'EMIGRE', Fachzeitschrift Typografie, 1986, No 5, subtitle 'Edizione Italo-Francese', design and publishing Rudy VanderLans (NL, b. 1955), with Marc Susan, Zuzana Licko (US, b. 1961) and Menno Meyjes (NL, b. 1954); publisher Emigre Inc., Berkeley, founded 1984; 43 × 29.1 cm, 30 pages. Todd sent the museum's record; the IMAGE here is the publisher's own cover file from emigre.com at 960 × 1429, which is larger than the museum's 563-pixel photograph of the same issue.",
+   "notes": [
+    "The fifth issue, the Italian-French one, from the two years before Zuzana Licko's bitmap faces made Emigre a type foundry as much as a magazine.",
+    "Oversized at 43 cm tall — the format was chosen because it was what the cheapest available press could run."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/9f0cf8e5-da9d-4286-ba59-150aac589367/scratchpad/up/emigre5.png",
+   "source_px": [
+    960,
+    1429
+   ],
+   "colors": [
+    "green",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "designer",
+     "v": "Rudy VanderLans"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "location",
+     "v": "Berkeley, California"
+    },
+    {
+     "k": "subject",
+     "v": "typography"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Museum für Gestaltung Zürich, Grafiksammlung, object number L EMIG 5 (eMuseum object 100285): 'EMIGRE', Fachzeitschrift Typografie, 1986, No 5, subtitle 'Edizione Italo-Francese', design and publishing Rudy VanderLans (NL, b. 1955), with Marc Susan, Zuzana Licko (US, b. 1961) and Menno Meyjes (NL, b. 1954); publisher Emigre Inc., Berkeley, founded 1984; 43 × 29.1 cm, 30 pages. Todd sent the museum's record; the IMAGE here is the publisher's own cover file from emigre.com at 960 × 1429, which is larger than the museum's 563-pixel photograph of the same issue.",
+   "hue": 153.05,
+   "light": 0.4208,
+   "chroma": 0.8311
+  },
+  "sent-2026-09-02::kunstismen-mfgz": {
+   "id": "CRVI001112",
+   "minted": "2026-09-02",
+   "original_file": "originals/CRVI001112.jpg",
+   "original_px": [
+    905,
+    1151
+   ],
+   "original_bytes": 202149,
+   "identity": "sent-2026-09-02::kunstismen-mfgz",
+   "maker": "El Lissitzky",
+   "title": "Die Kunstismen / Les Ismes de l’Art / The Isms of Art, 1914–1924",
+   "subtitle": "Book cover · edited by El Lissitzky and Hans Arp · Eugen Rentsch, Erlenbach-Zürich",
+   "year": "1925",
+   "source_url": "https://monoskop.org/Die_Kunstismen",
+   "source_label": "Monoskop",
+   "verified_against": "Museum für Gestaltung Zürich, Grafiksammlung (eMuseum object 83768) catalogues the copy Todd sent as 'Die Kunstismen', 1925. The book is one of the most thoroughly documented objects in modern graphic design: edited by El Lissitzky and Hans Arp, published by Eugen Rentsch, Erlenbach-Zürich/Munich/Leipzig, 1925, trilingual German/French/English, with Lissitzky's three-column grid and sans-serif cover. The IMAGE here is Monoskop's scan of the cover at 905 × 1151, larger than the museum's own 563-pixel photograph.",
+   "notes": [
+    "The years 1924 and 1914 set huge in red and black, running backwards down the cover so the survey reads from the present into the past.",
+    "The cover is the argument: three languages in three columns, no ornament, everything ranged left on a grid Lissitzky drew for the book."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/9f0cf8e5-da9d-4286-ba59-150aac589367/scratchpad/up/kunstismen.jpg",
+   "source_px": [
+    905,
+    1151
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "designer",
+     "v": "El Lissitzky"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "subject",
+     "v": "typography"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Museum für Gestaltung Zürich, Grafiksammlung (eMuseum object 83768) catalogues the copy Todd sent as 'Die Kunstismen', 1925. The book is one of the most thoroughly documented objects in modern graphic design: edited by El Lissitzky and Hans Arp, published by Eugen Rentsch, Erlenbach-Zürich/Munich/Leipzig, 1925, trilingual German/French/English, with Lissitzky's three-column grid and sans-serif cover. The IMAGE here is Monoskop's scan of the cover at 905 × 1151, larger than the museum's own 563-pixel photograph.",
+   "hue": 16.09,
+   "light": 0.3912,
+   "chroma": 0.5577
   }
  }
 }
