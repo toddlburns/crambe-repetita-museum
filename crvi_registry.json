@@ -1,5 +1,5 @@
 {
- "next": 1113,
+ "next": 1114,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -62564,6 +62564,69 @@
    "hue": 16.09,
    "light": 0.3912,
    "chroma": 0.5577
+  },
+  "sweep-2026-09-03::werk-1948-ruder": {
+   "id": "CRVI001113",
+   "minted": "2026-09-03",
+   "original_file": "originals/CRVI001113.jpg",
+   "original_px": [
+    1538,
+    2187
+   ],
+   "original_bytes": 192036,
+   "identity": "sweep-2026-09-03::werk-1948-ruder",
+   "maker": "Emil Ruder",
+   "title": "Werk: Schweizer Monatsschrift für Architektur, Kunst & künstlerisches Gewerbe",
+   "subtitle": "Magazine cover · 210 × 297 mm",
+   "year": "1948",
+   "source_url": "https://commons.wikimedia.org/wiki/File:Werk-1948-magazine-cover.jpg",
+   "source_label": "Wikimedia Commons, public domain",
+   "verified_against": "Wikimedia Commons, File:Werk-1948-magazine-cover.jpg, public domain: 'Cover for the Swiss monthly Werk, designed by Emil Ruder, 1948. Original size: 210 x 297 mm (A4).' The uploader's credit names the printed source it was scanned from — the reproduction on p. 39 of 'Ruder Typography – Ruder Philosophy', Lars Müller Publishers, Zurich. ⚠️ SO THIS IS A SCAN OF A REPRODUCTION, not a photograph of the object itself; the colour and paper are the book's, not the 1948 magazine's. Found by sweeping Wikimedia Commons for the designers on the held eMuseum list — it is a different Ruder object from the one Todd sent (the 1964 'moderne französische knüpfteppiche' leaflet), kept because it clears the 800 px floor at 1538 × 2187 where that one did not.",
+   "notes": [
+    "The whole cover is one sentence of the magazine's own subtitle, broken across five lines and ranged left, with only the word werk in red.",
+    "A single heavy black rule runs the full height at the left, holding the type off the edge — the entire design is that bar, the red word, and the line breaks."
+   ],
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/9f0cf8e5-da9d-4286-ba59-150aac589367/scratchpad/up/werk1948.jpg",
+   "source_px": [
+    1538,
+    2187
+   ],
+   "colors": [
+    "white"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "designer",
+     "v": "Emil Ruder"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "subject",
+     "v": "typography"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons, File:Werk-1948-magazine-cover.jpg, public domain: 'Cover for the Swiss monthly Werk, designed by Emil Ruder, 1948. Original size: 210 x 297 mm (A4).' The uploader's credit names the printed source it was scanned from — the reproduction on p. 39 of 'Ruder Typography – Ruder Philosophy', Lars Müller Publishers, Zurich. ⚠️ SO THIS IS A SCAN OF A REPRODUCTION, not a photograph of the object itself; the colour and paper are the book's, not the 1948 magazine's. Found by sweeping Wikimedia Commons for the designers on the held eMuseum list — it is a different Ruder object from the one Todd sent (the 1964 'moderne französische knüpfteppiche' leaflet), kept because it clears the 800 px floor at 1538 × 2187 where that one did not.",
+   "hue": null,
+   "light": 0.9515,
+   "chroma": 0.0047
   }
  }
 }

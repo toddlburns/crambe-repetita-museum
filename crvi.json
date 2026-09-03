@@ -54244,6 +54244,59 @@
    ],
    "hue": 16.09,
    "light": 0.3912
+  },
+  {
+   "id": "CRVI001113",
+   "published": true,
+   "source_url": "https://commons.wikimedia.org/wiki/File:Werk-1948-magazine-cover.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001113.jpg",
+   "source_label": "Wikimedia Commons, public domain",
+   "image": "images/CRVI001113.jpg",
+   "original": "originals/CRVI001113.jpg",
+   "vector": "",
+   "original_px": [
+    1538,
+    2187
+   ],
+   "original_bytes": 192036,
+   "maker": "Emil Ruder",
+   "title": "Werk: Schweizer Monatsschrift für Architektur, Kunst & künstlerisches Gewerbe",
+   "subtitle": "Magazine cover · 210 × 297 mm",
+   "year": "1948",
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "designer",
+     "v": "Emil Ruder"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "subject",
+     "v": "typography"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "color",
+     "v": "white"
+    }
+   ],
+   "hue": null,
+   "light": 0.9515
   }
  ]
 }
