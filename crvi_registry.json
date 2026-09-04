@@ -43956,10 +43956,10 @@
    "minted": "2026-09-01",
    "original_file": "originals/CRVI000781.jpg",
    "original_px": [
-    1605,
-    2000
+    1271,
+    1593
    ],
-   "original_bytes": 891885,
+   "original_bytes": 964347,
    "identity": "brownjohnchermayeffgeismar::pepsi-cola-world-1958",
    "maker": "Robert Brownjohn, Ivan Chermayeff, Thomas Geismar",
    "title": "Artist’s Proof for the cover of Pepsi-Cola World, October 1958",
@@ -43967,19 +43967,19 @@
    "verified_against": "MoMA’s collection record 155351: Robert Brownjohn, Ivan Chermayeff, Thomas Geismar, \"Artist’s Proof for the cover of Pepsi-Cola World, October, 1958,\" 1958, lithograph, 13 × 10 1/2\" (33 × 26.7 cm), gift of Don Goeman.",
    "notes": [
     "A house-organ cover, kept as the proof rather than the printed issue.",
-    "Brownjohn, Chermayeff & Geismar were together for four years; the work from that window is the most restless any of them made."
+    "Brownjohn, Chermayeff & Geismar were together for four years; the work from that window is the most restless any of them made.",
+    "⚠️ Cropped 2026-09-03, on Todd's instruction, to the edge of the blue field. MoMA's file photographs the whole proof sheet, white board and registration marks included; the box taken here is 77, 162 – 1348, 1755 of that 1605 × 2000 frame, so the full sheet is still on the MoMA collection page linked as the source."
    ],
    "subtitle": "Lithograph · 33 × 26.7 cm",
    "source_page": "https://www.moma.org/collection/works/155351",
    "label": "",
    "source_image": "/private/tmp/claude-501/-Users-todd/da824709-e6a8-4c72-957e-b57f2643736f/scratchpad/museum_add/raw/D031.jpg",
    "source_px": [
-    1605,
-    2000
+    1271,
+    1593
    ],
    "colors": [
-    "blue",
-    "orange"
+    "blue"
    ],
    "tags": [
     {
@@ -44018,9 +44018,9 @@
    "identity_established": true,
    "published": true,
    "verification": "MoMA’s collection record 155351: Robert Brownjohn, Ivan Chermayeff, Thomas Geismar, \"Artist’s Proof for the cover of Pepsi-Cola World, October, 1958,\" 1958, lithograph, 13 × 10 1/2\" (33 × 26.7 cm), gift of Don Goeman.",
-   "hue": 206.42,
-   "light": 0.4429,
-   "chroma": 0.7841
+   "hue": 206.26,
+   "light": 0.2109,
+   "chroma": 0.8598
   },
   "ivanchermayeff::the-good-soldier-mobil": {
    "id": "CRVI000782",
@@ -49687,7 +49687,8 @@
    "verified_against": "John Provencher’s own portfolio at johnprovencher.com, where he describes himself as \"an independent artist based in New York City\" whose \"practice explores the generative nature of software as a tool to output works both on/offline,\" and where this file is published under the project label \"nba x google\". Google is listed among his clients on the same page.",
    "notes": [
     "A spherical LED display in a lit hall, showing a globe in flat green, blue and red — coastlines rendered as ragged pixel runs, latitude and longitude as thick bands of colour.",
-    "⚠️ Title, date and the exact occasion are not established. The artist’s own site names the client pairing and nothing more, and nothing more is claimed here."
+    "⚠️ Title, date and the exact occasion are not established. The artist’s own site names the client pairing and nothing more, and nothing more is claimed here.",
+    "DELETED from the museum on 2026-09-03. The record is kept so CRVI000872 stays provably retired and is never reissued."
    ],
    "subtitle": "Installation for NBA × Google",
    "source_page": "https://johnprovencher.com/",
@@ -49740,11 +49741,13 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "John Provencher’s own portfolio at johnprovencher.com, where he describes himself as \"an independent artist based in New York City\" whose \"practice explores the generative nature of software as a tool to output works both on/offline,\" and where this file is published under the project label \"nba x google\". Google is listed among his clients on the same page.",
    "hue": 142.52,
    "light": 0.2676,
-   "chroma": 0.6597
+   "chroma": 0.6597,
+   "deleted": true,
+   "deleted_on": "2026-09-03"
   },
   "johnprovencher::on-clubhouse-paris": {
    "id": "CRVI000873",
@@ -59383,7 +59386,8 @@
    "source_label": "Poster · The Museum of Modern Art, New York",
    "verified_against": "Held by the Museum of Modern Art, New York. The sheet letters itself NOH. Takenobu Igarashi is established as the designer: the work is held by the Museum of Modern Art or published by the artist's own archive. The title and date of THIS sheet are not established here.",
    "notes": [
-    "NOH built as a black axonometric mass, so deep the word almost stops reading."
+    "NOH built as a black axonometric mass, so deep the word almost stops reading.",
+    "DELETED from the museum on 2026-09-03. The record is kept so CRVI001053 stays provably retired and is never reissued."
    ],
    "label": "",
    "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add/img/39.jpg",
@@ -59405,11 +59409,13 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "Held by the Museum of Modern Art, New York. The sheet letters itself NOH. Takenobu Igarashi is established as the designer: the work is held by the Museum of Modern Art or published by the artist's own archive. The title and date of THIS sheet are not established here.",
    "hue": null,
    "light": 0.3883,
-   "chroma": 0.0
+   "chroma": 0.0,
+   "deleted": true,
+   "deleted_on": "2026-09-03"
   },
   "sent-2026-09-01::ab1927b656e2": {
    "id": "CRVI001054",
@@ -60258,7 +60264,8 @@
    "source_label": "Poster · Philadelphia",
    "verified_against": "Published on davidrudnick.org, the designer's own site. The poster letters its own occasion: TIGA / JDH / DAVE P, Friday Nov 09 2018, Making Time.",
    "notes": [
-    "A face burnt to high-contrast black and white inside a ring of teeth."
+    "A face burnt to high-contrast black and white inside a ring of teeth.",
+    "DELETED from the museum on 2026-09-03. The record is kept so CRVI001070 stays provably retired and is never reissued."
    ],
    "label": "",
    "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add2/img/05.png",
@@ -60292,11 +60299,13 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "Published on davidrudnick.org, the designer's own site. The poster letters its own occasion: TIGA / JDH / DAVE P, Friday Nov 09 2018, Making Time.",
    "hue": null,
    "light": 0.2508,
-   "chroma": 0.0002
+   "chroma": 0.0002,
+   "deleted": true,
+   "deleted_on": "2026-09-03"
   },
   "sent-2026-09-01::25baff171a7a": {
    "id": "CRVI001071",
@@ -61691,7 +61700,8 @@
    "source_label": "supplied by Todd Burns",
    "verified_against": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
    "notes": [
-    "A clawfoot bath on a tiled dais in a garden pool, greenery behind."
+    "A clawfoot bath on a tiled dais in a garden pool, greenery behind.",
+    "DELETED from the museum on 2026-09-03. The record is kept so CRVI001098 stays provably retired and is never reissued."
    ],
    "label": "",
    "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add2/img/33.jpg",
@@ -61718,11 +61728,13 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
    "hue": 92.95,
    "light": 0.4883,
-   "chroma": 0.5709
+   "chroma": 0.5709,
+   "deleted": true,
+   "deleted_on": "2026-09-03"
   },
   "sent-2026-09-01::20db2eb56cac": {
    "id": "CRVI001099",
@@ -61844,7 +61856,8 @@
    "source_label": "supplied by Todd Burns",
    "verified_against": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
    "notes": [
-    "The same bath finished, red seal on its side, the dais broken up around it."
+    "The same bath finished, red seal on its side, the dais broken up around it.",
+    "DELETED from the museum on 2026-09-03. The record is kept so CRVI001101 stays provably retired and is never reissued."
    ],
    "label": "",
    "source_image": "/private/tmp/claude-501/-Users-todd/66ace67f-8c98-41eb-bb12-8a4c34ab94ef/scratchpad/add2/img/36.jpg",
@@ -61871,11 +61884,13 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
    "hue": 25.64,
    "light": 0.7705,
-   "chroma": 0.3194
+   "chroma": 0.3194,
+   "deleted": true,
+   "deleted_on": "2026-09-03"
   },
   "sent-2026-09-01::f793cae0ef1f": {
    "id": "CRVI001102",
@@ -62393,10 +62408,10 @@
    "minted": "2026-09-02",
    "original_file": "originals/CRVI001110.jpg",
    "original_px": [
-    1420,
-    2000
+    1196,
+    1702
    ],
-   "original_bytes": 498227,
+   "original_bytes": 793274,
    "identity": "sent-2026-09-02::85b422470885",
    "maker": "unattributed",
    "title": "Grafisk Revy, nummer 19",
@@ -62407,13 +62422,14 @@
    "verified_against": "The cover names everything about itself: 'grafisk revy / fackteknistkt specialnummer' at upper left and 'nummer 19 / 20 november 65 / bokbinderi-arbetaren / svensk typograftidning' at upper right — issue 19 of the Swedish graphic-arts trade journal Grafisk Revy, a technical special number, dated 20 November 1965, published jointly with the bookbinders' and typographers' union papers. The file is served by mfg.rokka.io, the image CDN behind the Museum für Gestaltung Zürich's own site, at its native 1420 × 2000. ⚠️ WHO DESIGNED IT IS NOT ESTABLISHED. The cover carries no designer credit, and the page on museum-gestaltung.ch that publishes this image could not be located, so there is no caption to attribute it from. Recorded as unattributed rather than guessed.",
    "notes": [
     "Concentric arcs built entirely out of the words 'grafisk revy' repeated at tiny size — the rings are set type, not drawn, so the black thickens where the letters crowd and opens where they thin.",
-    "A ripple pattern that is also a specimen: the subject of the special issue is printing technique, and the cover is made of the thing it is about."
+    "A ripple pattern that is also a specimen: the subject of the special issue is printing technique, and the cover is made of the thing it is about.",
+    "⚠️ Cropped 2026-09-03, on Todd's instruction, to the outline of the printed sheet. The file the Museum für Gestaltung's CDN serves is a studio photograph of the magazine lying on a grey ground with its drop shadow; the box taken here is 112, 111 – 1308, 1813 of that 1420 × 2000 frame, so the uncropped photograph is still one fetch away at source_url."
    ],
    "label": "",
    "source_image": "/private/tmp/claude-501/-Users-todd/9f0cf8e5-da9d-4286-ba59-150aac589367/scratchpad/std/mfg_rokka_1204.jpg",
    "source_px": [
-    1420,
-    2000
+    1196,
+    1702
    ],
    "colors": [
     "orange"
@@ -62444,8 +62460,8 @@
    "published": true,
    "verification": "The cover names everything about itself: 'grafisk revy / fackteknistkt specialnummer' at upper left and 'nummer 19 / 20 november 65 / bokbinderi-arbetaren / svensk typograftidning' at upper right — issue 19 of the Swedish graphic-arts trade journal Grafisk Revy, a technical special number, dated 20 November 1965, published jointly with the bookbinders' and typographers' union papers. The file is served by mfg.rokka.io, the image CDN behind the Museum für Gestaltung Zürich's own site, at its native 1420 × 2000. ⚠️ WHO DESIGNED IT IS NOT ESTABLISHED. The cover carries no designer credit, and the page on museum-gestaltung.ch that publishes this image could not be located, so there is no caption to attribute it from. Recorded as unattributed rather than guessed.",
    "hue": 35.01,
-   "light": 0.8119,
-   "chroma": 0.5325
+   "light": 0.7534,
+   "chroma": 0.734
   },
   "sent-2026-09-02::emigre5-mfgz": {
    "id": "CRVI001111",
@@ -62594,7 +62610,8 @@
    "verified_against": "Wikimedia Commons, File:Werk-1948-magazine-cover.jpg, public domain: 'Cover for the Swiss monthly Werk, designed by Emil Ruder, 1948. Original size: 210 x 297 mm (A4).' The uploader's credit names the printed source it was scanned from — the reproduction on p. 39 of 'Ruder Typography – Ruder Philosophy', Lars Müller Publishers, Zurich. ⚠️ SO THIS IS A SCAN OF A REPRODUCTION, not a photograph of the object itself; the colour and paper are the book's, not the 1948 magazine's. Found by sweeping Wikimedia Commons for the designers on the held eMuseum list — it is a different Ruder object from the one Todd sent (the 1964 'moderne französische knüpfteppiche' leaflet), kept because it clears the 800 px floor at 1538 × 2187 where that one did not.",
    "notes": [
     "The whole cover is one sentence of the magazine's own subtitle, broken across five lines and ranged left, with only the word werk in red.",
-    "A single heavy black rule runs the full height at the left, holding the type off the edge — the entire design is that bar, the red word, and the line breaks."
+    "A single heavy black rule runs the full height at the left, holding the type off the edge — the entire design is that bar, the red word, and the line breaks.",
+    "DELETED from the museum on 2026-09-03. The record is kept so CRVI001113 stays provably retired and is never reissued."
    ],
    "label": "",
    "source_image": "/private/tmp/claude-501/-Users-todd/9f0cf8e5-da9d-4286-ba59-150aac589367/scratchpad/up/werk1948.jpg",
@@ -62632,11 +62649,13 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "Wikimedia Commons, File:Werk-1948-magazine-cover.jpg, public domain: 'Cover for the Swiss monthly Werk, designed by Emil Ruder, 1948. Original size: 210 x 297 mm (A4).' The uploader's credit names the printed source it was scanned from — the reproduction on p. 39 of 'Ruder Typography – Ruder Philosophy', Lars Müller Publishers, Zurich. ⚠️ SO THIS IS A SCAN OF A REPRODUCTION, not a photograph of the object itself; the colour and paper are the book's, not the 1948 magazine's. Found by sweeping Wikimedia Commons for the designers on the held eMuseum list — it is a different Ruder object from the one Todd sent (the 1964 'moderne französische knüpfteppiche' leaflet), kept because it clears the 800 px floor at 1538 × 2187 where that one did not.",
    "hue": null,
    "light": 0.9515,
-   "chroma": 0.0047
+   "chroma": 0.0047,
+   "deleted": true,
+   "deleted_on": "2026-09-03"
   },
   "ume cover art 2026-09-03::andrew-hill-andrew-blue-note-bst-84203": {
    "id": "CRVI001114",

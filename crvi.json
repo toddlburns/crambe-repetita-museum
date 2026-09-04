@@ -38869,10 +38869,10 @@
    "original": "originals/CRVI000781.jpg",
    "vector": "",
    "original_px": [
-    1605,
-    2000
+    1271,
+    1593
    ],
-   "original_bytes": 891885,
+   "original_bytes": 964347,
    "maker": "Robert Brownjohn, Ivan Chermayeff, Thomas Geismar",
    "title": "Artist’s Proof for the cover of Pepsi-Cola World, October 1958",
    "subtitle": "Lithograph · 33 × 26.7 cm",
@@ -38913,14 +38913,10 @@
     {
      "k": "color",
      "v": "blue"
-    },
-    {
-     "k": "color",
-     "v": "orange"
     }
    ],
-   "hue": 206.42,
-   "light": 0.4429
+   "hue": 206.26,
+   "light": 0.2109
   },
   {
    "id": "CRVI000782",
@@ -43943,75 +43939,6 @@
    ],
    "hue": 128.67,
    "light": 0.7243
-  },
-  {
-   "id": "CRVI000872",
-   "published": true,
-   "source_url": "https://johnprovencher.com/",
-   "animated": false,
-   "video": false,
-   "thumb": "thumbs/CRVI000872.jpg",
-   "source_label": "",
-   "image": "images/CRVI000872.jpg",
-   "original": "originals/CRVI000872.jpg",
-   "vector": "",
-   "original_px": [
-    1030,
-    1351
-   ],
-   "original_bytes": 394873,
-   "maker": "John Provencher",
-   "title": "[NBA × Google]",
-   "subtitle": "Installation for NBA × Google",
-   "year": "",
-   "tags": [
-    {
-     "k": "artist",
-     "v": "John Provencher"
-    },
-    {
-     "k": "illustrator",
-     "v": "John Provencher"
-    },
-    {
-     "k": "decade",
-     "v": "2020s"
-    },
-    {
-     "k": "location",
-     "v": "New York"
-    },
-    {
-     "k": "medium",
-     "v": "generative software"
-    },
-    {
-     "k": "type",
-     "v": "installation"
-    },
-    {
-     "k": "client",
-     "v": "NBA"
-    },
-    {
-     "k": "client",
-     "v": "Google"
-    },
-    {
-     "k": "subject",
-     "v": "data"
-    },
-    {
-     "k": "color",
-     "v": "green"
-    },
-    {
-     "k": "color",
-     "v": "blue"
-    }
-   ],
-   "hue": 142.52,
-   "light": 0.2676
   },
   {
    "id": "CRVI000873",
@@ -51454,43 +51381,6 @@
    "light": 0.6065
   },
   {
-   "id": "CRVI001053",
-   "published": true,
-   "source_url": "https://www.moma.org/media/W1siZiIsIjUyMTM5MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=39a81f9fb67fcf04",
-   "animated": false,
-   "video": false,
-   "thumb": "thumbs/CRVI001053.jpg",
-   "source_label": "Poster · The Museum of Modern Art, New York",
-   "image": "images/CRVI001053.jpg",
-   "original": "originals/CRVI001053.jpg",
-   "vector": "",
-   "original_px": [
-    2000,
-    1403
-   ],
-   "original_bytes": 379960,
-   "maker": "Takenobu Igarashi",
-   "title": "NOH",
-   "subtitle": "Poster · The Museum of Modern Art, New York",
-   "year": "",
-   "tags": [
-    {
-     "k": "type",
-     "v": "poster"
-    },
-    {
-     "k": "artist",
-     "v": "Takenobu Igarashi"
-    },
-    {
-     "k": "color",
-     "v": "neutral"
-    }
-   ],
-   "hue": null,
-   "light": 0.3883
-  },
-  {
    "id": "CRVI001054",
    "published": true,
    "source_url": "https://a-g-i.s3.eu-west-3.amazonaws.com/takenobuigarashi/Igarashi_AGI_01_Poster-SummerJazz_1983_15th.jpeg",
@@ -52213,55 +52103,6 @@
    ],
    "hue": 209.01,
    "light": 0.4352
-  },
-  {
-   "id": "CRVI001070",
-   "published": true,
-   "source_url": "https://davidrudnick.org/wp-content/uploads/2018/05/MT_Tiga_Tumblr.png",
-   "animated": false,
-   "video": false,
-   "thumb": "thumbs/CRVI001070.jpg",
-   "source_label": "Poster · Philadelphia",
-   "image": "images/CRVI001070.jpg",
-   "original": "originals/CRVI001070.png",
-   "vector": "",
-   "original_px": [
-    900,
-    1336
-   ],
-   "original_bytes": 1493045,
-   "maker": "David Rudnick",
-   "title": "Poster for Making Time — Tiga, JDH, Dave P",
-   "subtitle": "Poster · Philadelphia",
-   "year": "2018",
-   "tags": [
-    {
-     "k": "type",
-     "v": "poster"
-    },
-    {
-     "k": "location",
-     "v": "Philadelphia"
-    },
-    {
-     "k": "subject",
-     "v": "music"
-    },
-    {
-     "k": "decade",
-     "v": "2010s"
-    },
-    {
-     "k": "artist",
-     "v": "David Rudnick"
-    },
-    {
-     "k": "color",
-     "v": "neutral"
-    }
-   ],
-   "hue": null,
-   "light": 0.2508
   },
   {
    "id": "CRVI001071",
@@ -53459,51 +53300,6 @@
    "light": 0.2926
   },
   {
-   "id": "CRVI001098",
-   "published": true,
-   "source_url": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/209f038c-c93a-43b0-9a55-f72cff45ef46/1/w=1920,quality=90,fit=scale-down",
-   "animated": false,
-   "video": false,
-   "thumb": "thumbs/CRVI001098.jpg",
-   "source_label": "supplied by Todd Burns",
-   "image": "images/CRVI001098.jpg",
-   "original": "originals/CRVI001098.jpg",
-   "vector": "",
-   "original_px": [
-    1920,
-    1920
-   ],
-   "original_bytes": 1048448,
-   "maker": "Kim Laughton",
-   "title": "Untitled",
-   "subtitle": "",
-   "year": "",
-   "tags": [
-    {
-     "k": "type",
-     "v": "illustration"
-    },
-    {
-     "k": "subject",
-     "v": "3D rendering"
-    },
-    {
-     "k": "artist",
-     "v": "Kim Laughton"
-    },
-    {
-     "k": "color",
-     "v": "green"
-    },
-    {
-     "k": "color",
-     "v": "orange"
-    }
-   ],
-   "hue": 92.95,
-   "light": 0.4883
-  },
-  {
    "id": "CRVI001099",
    "published": true,
    "source_url": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/7d2d320a-ba1f-4396-8f88-170de327b1ef/2/w=1920,quality=90,fit=scale-down",
@@ -53592,51 +53388,6 @@
    ],
    "hue": 19.14,
    "light": 0.618
-  },
-  {
-   "id": "CRVI001101",
-   "published": true,
-   "source_url": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/c5a36ac7-4057-4748-a02a-40777462ae5e/4/w=1920,quality=90,fit=scale-down",
-   "animated": false,
-   "video": false,
-   "thumb": "thumbs/CRVI001101.jpg",
-   "source_label": "supplied by Todd Burns",
-   "image": "images/CRVI001101.jpg",
-   "original": "originals/CRVI001101.jpg",
-   "vector": "",
-   "original_px": [
-    1920,
-    1920
-   ],
-   "original_bytes": 754115,
-   "maker": "Kim Laughton",
-   "title": "Untitled",
-   "subtitle": "",
-   "year": "",
-   "tags": [
-    {
-     "k": "type",
-     "v": "illustration"
-    },
-    {
-     "k": "subject",
-     "v": "3D rendering"
-    },
-    {
-     "k": "artist",
-     "v": "Kim Laughton"
-    },
-    {
-     "k": "color",
-     "v": "red"
-    },
-    {
-     "k": "color",
-     "v": "orange"
-    }
-   ],
-   "hue": 25.64,
-   "light": 0.7705
   },
   {
    "id": "CRVI001102",
@@ -54098,10 +53849,10 @@
    "original": "originals/CRVI001110.jpg",
    "vector": "",
    "original_px": [
-    1420,
-    2000
+    1196,
+    1702
    ],
-   "original_bytes": 498227,
+   "original_bytes": 793274,
    "maker": "unattributed",
    "title": "Grafisk Revy, nummer 19",
    "subtitle": "Cover, fackteknistkt specialnummer · Bokbinderi-Arbetaren / Svensk Typograftidning",
@@ -54133,7 +53884,7 @@
     }
    ],
    "hue": 35.01,
-   "light": 0.8119
+   "light": 0.7534
   },
   {
    "id": "CRVI001111",
@@ -54248,59 +53999,6 @@
    ],
    "hue": 16.09,
    "light": 0.3912
-  },
-  {
-   "id": "CRVI001113",
-   "published": true,
-   "source_url": "https://commons.wikimedia.org/wiki/File:Werk-1948-magazine-cover.jpg",
-   "animated": false,
-   "video": false,
-   "thumb": "thumbs/CRVI001113.jpg",
-   "source_label": "Wikimedia Commons, public domain",
-   "image": "images/CRVI001113.jpg",
-   "original": "originals/CRVI001113.jpg",
-   "vector": "",
-   "original_px": [
-    1538,
-    2187
-   ],
-   "original_bytes": 192036,
-   "maker": "Emil Ruder",
-   "title": "Werk: Schweizer Monatsschrift für Architektur, Kunst & künstlerisches Gewerbe",
-   "subtitle": "Magazine cover · 210 × 297 mm",
-   "year": "1948",
-   "tags": [
-    {
-     "k": "type",
-     "v": "magazine cover"
-    },
-    {
-     "k": "designer",
-     "v": "Emil Ruder"
-    },
-    {
-     "k": "decade",
-     "v": "1940s"
-    },
-    {
-     "k": "location",
-     "v": "Switzerland"
-    },
-    {
-     "k": "subject",
-     "v": "typography"
-    },
-    {
-     "k": "subject",
-     "v": "architecture"
-    },
-    {
-     "k": "color",
-     "v": "white"
-    }
-   ],
-   "hue": null,
-   "light": 0.9515
   },
   {
    "id": "CRVI001114",

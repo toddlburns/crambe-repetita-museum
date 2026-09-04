@@ -54,8 +54,12 @@ def main(ids, dry=False):
         # the item's own paths first, then the conventional ones as a backstop for strays —
         # deduped, because for most items original_file IS originals/<id>.jpg
         cands, seen = [], set()
+        # ⚠️ THE THUMBNAIL HAS TO GO TOO. `thumbs.py` skips any thumb that already exists, and
+        # deleted numbers ARE reused — so a thumb left behind is served for whatever object is
+        # minted onto that number next, and every script reports success. Found 2026-09-03,
+        # after six deletions left six stale thumbs sitting on numbers queued for reuse.
         for f in (it.get("display"), it.get("original_file"),
-                  f"images/{cid}.jpg", f"originals/{cid}.jpg"):
+                  f"images/{cid}.jpg", f"originals/{cid}.jpg", f"thumbs/{cid}.jpg"):
             if f and f not in seen:
                 seen.add(f); cands.append(f)
         for f in cands:
@@ -89,6 +93,7 @@ def main(ids, dry=False):
              if os.path.exists(os.path.join(HERE, c))
              or os.path.exists(os.path.join(HERE, "images", c + ".jpg"))
              or os.path.exists(os.path.join(HERE, "originals", c + ".jpg"))
+             or os.path.exists(os.path.join(HERE, "thumbs", c + ".jpg"))
              or any(x["id"] == c for x in out)]
     print("verified fully removed" if not stray else f"⚠️ STILL PRESENT: {stray}")
     print("now commit and push")
