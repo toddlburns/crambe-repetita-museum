@@ -72795,17 +72795,17 @@
    ],
    "original_bytes": 702286,
    "identity": "todd sent 2026-09-03 jazz::satchidananda-comics-6-alice-coltrane",
-   "maker": "unattributed",
+   "maker": "Alejandro Torrecilla",
    "title": "Satchidananda Comics #6 — Alice Coltrane",
-   "subtitle": "Artist unidentified",
+   "subtitle": "Illustration by Alejandro Torrecilla · as Torre Pentel",
    "year": "2026",
    "label": "",
    "notes": [
     "A pastiche of a 1970s comic-book cover: a figure seated at a harp on a rocky outcrop against a cosmic field of nebulae and a great eye, drawn in heavy ink line with flat colour and visible halftone.",
     "The masthead is lettered by hand in a swelling display face, with a cover price, an issue number and a date box in the corner exactly where a newsstand comic would carry them.",
-    "⚠️ Published 2026-09-03 with its attribution unresolved, on Todd's instruction. The uncertainty is stated in full on this record rather than hidden by keeping the item off the site."
+    "⚠️ Attributed 2026-09-04, replacing the 'not established' banner this record carried when it went live. An invented cover, not a real comic: there is no Satchidananda Comics and there was no issue 6 — the masthead, the cover price and the date box are all part of the drawing."
    ],
-   "verified_against": "⚠️ NOT ESTABLISHED — PUBLISHED ANYWAY. Todd's instruction, 2026-09-03: publish every held item with or without credits, and say plainly that the answer is not known. So this record is live while its attribution is unresolved, and nothing below should be read as settled. nothing established yet. A contemporary invented comic-book cover, dated January 2026 and sold through giantsizehipcoverus.com, which publishes no artist name anywhere on the site — it has no about page and its only content links are contact and a data-sharing notice. ⚠️ This is somebody's original artwork and it should carry their name; held until it can.",
+   "verified_against": "Alejandro Torrecilla, the Madrid illustrator who works as Torre Pentel. Todd attributed it on 2026-09-04, and it matches his documented practice exactly: Hypebeast's February 2024 feature and DJ Food's piece on the same work describe him redrawing musicians as invented comic-book covers in a Jack Kirby idiom, and note that although the run is mostly rappers he steps outside the genre for jazz figures — Herbie Hancock and Sun Ra are both named. The shop that sells this one, giantsizehipcoverus.com, takes its name from Marvel's Giant-Size titles, and the imprint lettered on the cover itself, SATCHIDANANDA COMICS, is a play on Alice Coltrane's Journey In Satchidananda. ⚠️ WHAT IS NOT PROVEN: the shop publishes no artist name anywhere — it has no about page — and the cover carries no signature that could be read. So the link between this particular cover and Torrecilla rests on Todd's attribution plus the match to a documented practice, not on a printed credit.",
    "source_record": "sent by Todd as an image URL, 2026-09-03",
    "source_url": "https://giantsizehipcoverus.com/cdn/shop/files/WhatsAppImage2026-01-21at5.18.21PM.jpg?v=1769037703",
    "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/jazz2/13.bin",
@@ -72827,16 +72827,25 @@
      "v": "Alice Coltrane"
     },
     {
+     "k": "illustrator",
+     "v": "Alejandro Torrecilla"
+    },
+    {
+     "k": "location",
+     "v": "Spain"
+    },
+    {
      "k": "decade",
      "v": "2020s"
     }
    ],
-   "identity_established": false,
+   "identity_established": true,
    "published": true,
-   "verification": "⚠️ NOT ESTABLISHED — PUBLISHED ANYWAY. Todd's instruction, 2026-09-03: publish every held item with or without credits, and say plainly that the answer is not known. So this record is live while its attribution is unresolved, and nothing below should be read as settled. nothing established yet. A contemporary invented comic-book cover, dated January 2026 and sold through giantsizehipcoverus.com, which publishes no artist name anywhere on the site — it has no about page and its only content links are contact and a data-sharing notice. ⚠️ This is somebody's original artwork and it should carry their name; held until it can.",
+   "verification": "Alejandro Torrecilla, the Madrid illustrator who works as Torre Pentel. Todd attributed it on 2026-09-04, and it matches his documented practice exactly: Hypebeast's February 2024 feature and DJ Food's piece on the same work describe him redrawing musicians as invented comic-book covers in a Jack Kirby idiom, and note that although the run is mostly rappers he steps outside the genre for jazz figures — Herbie Hancock and Sun Ra are both named. The shop that sells this one, giantsizehipcoverus.com, takes its name from Marvel's Giant-Size titles, and the imprint lettered on the cover itself, SATCHIDANANDA COMICS, is a play on Alice Coltrane's Journey In Satchidananda. ⚠️ WHAT IS NOT PROVEN: the shop publishes no artist name anywhere — it has no about page — and the cover carries no signature that could be read. So the link between this particular cover and Torrecilla rests on Todd's attribution plus the match to a documented practice, not on a printed credit.",
    "hue": 45.63,
    "light": 0.2989,
-   "chroma": 0.6389
+   "chroma": 0.6389,
+   "source_page": "https://hypebeast.com/2024/2/pen-paper-hip-hop-collides-with-comic-books-in-alejandro-torrecillas-illustrations"
   },
   "todd sent 2026-09-03 jazz::pharoah-sanders-love-is-here-the-complete-paris-1975-ortf-recordings": {
    "id": "CRVI001258",
@@ -72911,17 +72920,17 @@
    ],
    "original_bytes": 982060,
    "identity": "todd sent 2026-09-03 jazz::pharoah-sanders-in-mirrored-glasses",
-   "maker": "unattributed",
-   "title": "Pharoah Sanders in mirrored glasses",
-   "subtitle": "Photographer unidentified",
-   "year": "",
+   "maker": "Christian Weber",
+   "title": "Pharoah Sanders",
+   "subtitle": "Photograph by Christian Weber · GQ 'Jazz Giants'",
+   "year": "2016",
    "label": "",
    "notes": [
     "A frontal portrait against flat lilac, the sitter in a knitted cap and a heavily textured jacket, with a full white beard.",
     "Round mirrored lenses blow out to pure white where they catch the lights, so the eyes are the brightest thing in the frame and entirely blank.",
-    "⚠️ Published 2026-09-03 with its attribution unresolved, on Todd's instruction. The uncertainty is stated in full on this record rather than hidden by keeping the item off the site."
+    "⚠️ Attributed 2026-09-04, replacing the 'not established' banner this record carried when it went live. The evidence is a session match rather than the same photograph — see the verification. A higher-resolution frame from the same sitting (2048 × 2560) is published by A Photo Editor, but it is a different picture, not a better copy of this one."
    ],
-   "verified_against": "⚠️ NOT ESTABLISHED — PUBLISHED ANYWAY. Todd's instruction, 2026-09-03: publish every held item with or without credits, and say plainly that the answer is not known. So this record is live while its attribution is unresolved, and nothing below should be read as settled. nothing established yet. A late press portrait taken from leguesswho.com, whose news index 404s and whose image path carries no credit. Pictures from this period were made for the Promises campaign and for festival press kits, so a photographer certainly exists on the record somewhere — just not anywhere reachable from what Todd sent.",
+   "verified_against": "Christian Weber, from his GQ 'Jazz Giants' portrait series. Todd attributed it on 2026-09-04 as 'almost certainly' Weber, and the attribution holds up: A Photo Editor's Daily Edit interview with Weber (20 December 2016) publishes his Pharoah Sanders portrait from that series — file GQ_Jazz_Pharoah-Sanders_J1A6691 — and describes the session, down to what was playing while they shot ('Alice Coltrane's Journey In Satchidananda'). Weber gives Irving Penn and Arnold Newman as the reference for the series, which is what the picture looks like. ⚠️ THE IDENTIFICATION IS OF THE SESSION, NOT OF THE FRAME. The image A Photo Editor publishes is a DIFFERENT exposure — portrait format, glasses off. This one is landscape, turned slightly, mirrored glasses on. What matches is everything a session fixes and a frame does not: the same knitted cap down to the fold, the same patterned coat, the same chain and black knit beneath it, the same seamless pale lilac ground, and the same flat frontal key throwing no shadow on the backdrop. Two frames from one sitting.",
    "source_record": "sent by Todd as an image URL, 2026-09-03",
    "source_url": "https://leguesswho.com/media/news/Pharoah%20-%20jazz%20giant.jpg",
    "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/jazz2/16.bin",
@@ -72941,14 +72950,27 @@
     {
      "k": "subject",
      "v": "Pharoah Sanders"
+    },
+    {
+     "k": "photographer",
+     "v": "Christian Weber"
+    },
+    {
+     "k": "client",
+     "v": "GQ"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
     }
    ],
-   "identity_established": false,
+   "identity_established": true,
    "published": true,
-   "verification": "⚠️ NOT ESTABLISHED — PUBLISHED ANYWAY. Todd's instruction, 2026-09-03: publish every held item with or without credits, and say plainly that the answer is not known. So this record is live while its attribution is unresolved, and nothing below should be read as settled. nothing established yet. A late press portrait taken from leguesswho.com, whose news index 404s and whose image path carries no credit. Pictures from this period were made for the Promises campaign and for festival press kits, so a photographer certainly exists on the record somewhere — just not anywhere reachable from what Todd sent.",
+   "verification": "Christian Weber, from his GQ 'Jazz Giants' portrait series. Todd attributed it on 2026-09-04 as 'almost certainly' Weber, and the attribution holds up: A Photo Editor's Daily Edit interview with Weber (20 December 2016) publishes his Pharoah Sanders portrait from that series — file GQ_Jazz_Pharoah-Sanders_J1A6691 — and describes the session, down to what was playing while they shot ('Alice Coltrane's Journey In Satchidananda'). Weber gives Irving Penn and Arnold Newman as the reference for the series, which is what the picture looks like. ⚠️ THE IDENTIFICATION IS OF THE SESSION, NOT OF THE FRAME. The image A Photo Editor publishes is a DIFFERENT exposure — portrait format, glasses off. This one is landscape, turned slightly, mirrored glasses on. What matches is everything a session fixes and a frame does not: the same knitted cap down to the fold, the same patterned coat, the same chain and black knit beneath it, the same seamless pale lilac ground, and the same flat frontal key throwing no shadow on the backdrop. Two frames from one sitting.",
    "hue": 245.98,
    "light": 0.657,
-   "chroma": 0.2634
+   "chroma": 0.2634,
+   "source_page": "https://www.aphotoeditor.com/2016/12/20/the-daily-edit-gq-christian-weber/"
   }
  }
 }

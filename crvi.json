@@ -61596,7 +61596,7 @@
   {
    "id": "CRVI001257",
    "published": true,
-   "source_url": "https://giantsizehipcoverus.com/cdn/shop/files/WhatsAppImage2026-01-21at5.18.21PM.jpg?v=1769037703",
+   "source_url": "https://hypebeast.com/2024/2/pen-paper-hip-hop-collides-with-comic-books-in-alejandro-torrecillas-illustrations",
    "animated": false,
    "video": false,
    "thumb": "thumbs/CRVI001257.jpg",
@@ -61609,9 +61609,9 @@
     2048
    ],
    "original_bytes": 702286,
-   "maker": "unattributed",
+   "maker": "Alejandro Torrecilla",
    "title": "Satchidananda Comics #6 — Alice Coltrane",
-   "subtitle": "Artist unidentified",
+   "subtitle": "Illustration by Alejandro Torrecilla · as Torre Pentel",
    "year": "2026",
    "tags": [
     {
@@ -61621,6 +61621,14 @@
     {
      "k": "subject",
      "v": "Alice Coltrane"
+    },
+    {
+     "k": "illustrator",
+     "v": "Alejandro Torrecilla"
+    },
+    {
+     "k": "location",
+     "v": "Spain"
     },
     {
      "k": "decade",
@@ -61694,7 +61702,7 @@
   {
    "id": "CRVI001259",
    "published": true,
-   "source_url": "https://leguesswho.com/media/news/Pharoah%20-%20jazz%20giant.jpg",
+   "source_url": "https://www.aphotoeditor.com/2016/12/20/the-daily-edit-gq-christian-weber/",
    "animated": false,
    "video": false,
    "thumb": "thumbs/CRVI001259.jpg",
@@ -61707,10 +61715,10 @@
     1236
    ],
    "original_bytes": 982060,
-   "maker": "unattributed",
-   "title": "Pharoah Sanders in mirrored glasses",
-   "subtitle": "Photographer unidentified",
-   "year": "",
+   "maker": "Christian Weber",
+   "title": "Pharoah Sanders",
+   "subtitle": "Photograph by Christian Weber · GQ 'Jazz Giants'",
+   "year": "2016",
    "tags": [
     {
      "k": "type",
@@ -61719,6 +61727,18 @@
     {
      "k": "subject",
      "v": "Pharoah Sanders"
+    },
+    {
+     "k": "photographer",
+     "v": "Christian Weber"
+    },
+    {
+     "k": "client",
+     "v": "GQ"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
     },
     {
      "k": "color",
