@@ -58301,6 +58301,10 @@
      "v": "1970s"
     },
     {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
      "k": "color",
      "v": "red"
     },
@@ -58399,6 +58403,10 @@
      "v": "painting"
     },
     {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
      "k": "color",
      "v": "orange"
     },
@@ -58442,6 +58450,10 @@
     {
      "k": "decade",
      "v": "1980s"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
     },
     {
      "k": "color",
@@ -58534,6 +58546,10 @@
      "v": "painting"
     },
     {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
      "k": "color",
      "v": "red"
     },
@@ -58573,6 +58589,10 @@
     {
      "k": "medium",
      "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
     },
     {
      "k": "color",
@@ -58710,6 +58730,10 @@
      "v": "painting"
     },
     {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
      "k": "color",
      "v": "orange"
     },
@@ -58751,6 +58775,10 @@
      "v": "painting"
     },
     {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
      "k": "color",
      "v": "cyan"
     },
@@ -58790,6 +58818,10 @@
     {
      "k": "medium",
      "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
     },
     {
      "k": "color",
@@ -61011,6 +61043,320 @@
    ],
    "hue": 43.46,
    "light": 0.5281
+  },
+  {
+   "id": "CRVI001248",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001248.jpg",
+   "source_label": "",
+   "image": "images/CRVI001248.jpg",
+   "original": "originals/CRVI001248.jpg",
+   "vector": "",
+   "original_px": [
+    858,
+    536
+   ],
+   "original_bytes": 56632,
+   "maker": "Mati Klarwein",
+   "title": "Untitled",
+   "subtitle": "Painting · plate R02-vol3-15 on the artist's own site",
+   "year": "1983",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 27.11,
+   "light": 0.397
+  },
+  {
+   "id": "CRVI001249",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001249.jpg",
+   "source_label": "",
+   "image": "images/CRVI001249.jpg",
+   "original": "originals/CRVI001249.jpg",
+   "vector": "",
+   "original_px": [
+    709,
+    490
+   ],
+   "original_bytes": 88085,
+   "maker": "Mati Klarwein",
+   "title": "Nativity",
+   "subtitle": "Painting · plate V03-Nativity on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 14.76,
+   "light": 0.4467
+  },
+  {
+   "id": "CRVI001250",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001250.jpg",
+   "source_label": "",
+   "image": "images/CRVI001250.jpg",
+   "original": "originals/CRVI001250.jpg",
+   "vector": "",
+   "original_px": [
+    740,
+    522
+   ],
+   "original_bytes": 235119,
+   "maker": "Mati Klarwein",
+   "title": "Landscape Described",
+   "subtitle": "Painting · plate landscape-described-1963 on the artist's own site",
+   "year": "1963",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 27.71,
+   "light": 0.336
+  },
+  {
+   "id": "CRVI001251",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/4834499",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001251.jpg",
+   "source_label": "",
+   "image": "images/CRVI001251.jpg",
+   "original": "originals/CRVI001251.jpg",
+   "vector": "",
+   "original_px": [
+    600,
+    594
+   ],
+   "original_bytes": 134656,
+   "maker": "Howard Wales & Jerry Garcia",
+   "title": "Hooteroll?",
+   "subtitle": "Painting by Mati Klarwein · Douglas KZ 30859",
+   "year": "1971",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "artist",
+     "v": "Howard Wales"
+    },
+    {
+     "k": "artist",
+     "v": "Jerry Garcia"
+    },
+    {
+     "k": "label",
+     "v": "Douglas"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 55.55,
+   "light": 0.3811
+  },
+  {
+   "id": "CRVI001252",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/9111928",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001252.jpg",
+   "source_label": "",
+   "image": "images/CRVI001252.jpg",
+   "original": "originals/CRVI001252.jpg",
+   "vector": "",
+   "original_px": [
+    600,
+    600
+   ],
+   "original_bytes": 136139,
+   "maker": "Joe Beck",
+   "title": "Beck",
+   "subtitle": "Designed by Bob Ciano, painting by Mati Klarwein · Kudu KU-21 S1",
+   "year": "1975",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "designer",
+     "v": "Bob Ciano"
+    },
+    {
+     "k": "artist",
+     "v": "Joe Beck"
+    },
+    {
+     "k": "label",
+     "v": "Kudu"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 21.75,
+   "light": 0.3814
+  },
+  {
+   "id": "CRVI001253",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/3545949",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001253.jpg",
+   "source_label": "",
+   "image": "images/CRVI001253.jpg",
+   "original": "originals/CRVI001253.jpg",
+   "vector": "",
+   "original_px": [
+    595,
+    599
+   ],
+   "original_bytes": 99575,
+   "maker": "Philippe Entremont, Leonard Bernstein, New York Philharmonic",
+   "title": "Bernstein: The Age of Anxiety",
+   "subtitle": "Painting by Mati Klarwein · Columbia Masterworks MS 6885",
+   "year": "1966",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "artist",
+     "v": "Leonard Bernstein"
+    },
+    {
+     "k": "artist",
+     "v": "Philippe Entremont"
+    },
+    {
+     "k": "artist",
+     "v": "New York Philharmonic"
+    },
+    {
+     "k": "label",
+     "v": "Columbia Masterworks"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "purple"
+    }
+   ],
+   "hue": 25.75,
+   "light": 0.2329
   }
  ]
 }

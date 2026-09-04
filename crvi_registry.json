@@ -1,5 +1,5 @@
 {
- "next": 1248,
+ "next": 1254,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -71375,6 +71375,383 @@
    "hue": 43.46,
    "light": 0.5281,
    "chroma": 0.9677
+  },
+  "todd picked 2026-09-03::r02-vol3-15": {
+   "id": "CRVI001248",
+   "minted": "2026-09-03",
+   "original_file": "originals/CRVI001248.jpg",
+   "original_px": [
+    858,
+    536
+   ],
+   "original_bytes": 56632,
+   "identity": "todd picked 2026-09-03::r02-vol3-15",
+   "maker": "Mati Klarwein",
+   "title": "Untitled",
+   "subtitle": "Painting · plate R02-vol3-15 on the artist's own site",
+   "year": "1983",
+   "label": "",
+   "notes": [
+    "A found amateur self-portrait — a bespectacled painter at his easel, done in careful 1950s studio manner — set beside a second version of itself.",
+    "In the right-hand panel the same head is dragged sideways into horizontal bands, the spectacles smeared across it, while the palette and sleeve below stay untouched.",
+    "⚠️ BELOW THE MUSEUM'S 800 px FLOOR at 536 px on the short edge, and added anyway because Todd picked it out of the under-550 review sheet on 2026-09-03 after being shown exactly how small it is. No larger copy exists: the estate's site is the source, and Artera's apparently bigger files are these same images run through a CDN that upscales without bound."
+   ],
+   "verified_against": "From the artist's own site, matiklarweinart.com, the estate's publication of his work and the source Todd picked this from. ⚠️ The site publishes no titles in its markup, so the title here is the one carried by its own image filename; it gives no medium, and where the filename is only a book-plate reference the work is recorded as Untitled. ⚠️ BELOW THE MUSEUM'S 800 px FLOOR at 536 px on the short edge, and added anyway because Todd picked it out of the under-550 review sheet on 2026-09-03 after being shown exactly how small it is. No larger copy exists: the estate's site is the source, and Artera's apparently bigger files are these same images run through a CDN that upscales without bound.",
+   "source_record": "picked by Todd from matiklarweinart.com, 2026-09-03",
+   "source_url": "https://www.matiklarweinart.com/images/gallery/1301073284R02-vol3-15.jpg",
+   "source_page": "https://www.matiklarweinart.com/artworkgallery.php",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/picks/files/1301073284R02-vol3-15.jpg",
+   "source_px": [
+    858,
+    536
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "From the artist's own site, matiklarweinart.com, the estate's publication of his work and the source Todd picked this from. ⚠️ The site publishes no titles in its markup, so the title here is the one carried by its own image filename; it gives no medium, and where the filename is only a book-plate reference the work is recorded as Untitled. ⚠️ BELOW THE MUSEUM'S 800 px FLOOR at 536 px on the short edge, and added anyway because Todd picked it out of the under-550 review sheet on 2026-09-03 after being shown exactly how small it is. No larger copy exists: the estate's site is the source, and Artera's apparently bigger files are these same images run through a CDN that upscales without bound.",
+   "hue": 27.11,
+   "light": 0.397,
+   "chroma": 0.2393
+  },
+  "todd picked 2026-09-03::v03-nativity": {
+   "id": "CRVI001249",
+   "minted": "2026-09-03",
+   "original_file": "originals/CRVI001249.jpg",
+   "original_px": [
+    709,
+    490
+   ],
+   "original_bytes": 88085,
+   "identity": "todd picked 2026-09-03::v03-nativity",
+   "maker": "Mati Klarwein",
+   "title": "Nativity",
+   "subtitle": "Painting · plate V03-Nativity on the artist's own site",
+   "year": "",
+   "label": "",
+   "notes": [
+    "A seated figure at the centre of a wide panel, flanked by two smaller scenes and backed by a wheel of repeated masked faces on a red and blue ground.",
+    "A mushroom cloud rises at the top right above a burning city, and two geometric mandalas are laid flat into the foreground either side of the figure.",
+    "⚠️ BELOW THE MUSEUM'S 800 px FLOOR at 490 px on the short edge, and added anyway because Todd picked it out of the under-550 review sheet on 2026-09-03 after being shown exactly how small it is. No larger copy exists: the estate's site is the source, and Artera's apparently bigger files are these same images run through a CDN that upscales without bound."
+   ],
+   "verified_against": "From the artist's own site, matiklarweinart.com, the estate's publication of his work and the source Todd picked this from. ⚠️ The site publishes no titles in its markup, so the title here is the one carried by its own image filename; it gives no medium, and where the filename is only a book-plate reference the work is recorded as Untitled. ⚠️ BELOW THE MUSEUM'S 800 px FLOOR at 490 px on the short edge, and added anyway because Todd picked it out of the under-550 review sheet on 2026-09-03 after being shown exactly how small it is. No larger copy exists: the estate's site is the source, and Artera's apparently bigger files are these same images run through a CDN that upscales without bound.",
+   "source_record": "picked by Todd from matiklarweinart.com, 2026-09-03",
+   "source_url": "https://www.matiklarweinart.com/images/gallery/1310077029V03-Nativity.jpg",
+   "source_page": "https://www.matiklarweinart.com/artworkgallery.php",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/picks/files/1310077029V03-Nativity.jpg",
+   "source_px": [
+    709,
+    490
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "From the artist's own site, matiklarweinart.com, the estate's publication of his work and the source Todd picked this from. ⚠️ The site publishes no titles in its markup, so the title here is the one carried by its own image filename; it gives no medium, and where the filename is only a book-plate reference the work is recorded as Untitled. ⚠️ BELOW THE MUSEUM'S 800 px FLOOR at 490 px on the short edge, and added anyway because Todd picked it out of the under-550 review sheet on 2026-09-03 after being shown exactly how small it is. No larger copy exists: the estate's site is the source, and Artera's apparently bigger files are these same images run through a CDN that upscales without bound.",
+   "hue": 14.76,
+   "light": 0.4467,
+   "chroma": 0.8202
+  },
+  "todd picked 2026-09-03::landscape-described-1963": {
+   "id": "CRVI001250",
+   "minted": "2026-09-03",
+   "original_file": "originals/CRVI001250.jpg",
+   "original_px": [
+    740,
+    522
+   ],
+   "original_bytes": 235119,
+   "identity": "todd picked 2026-09-03::landscape-described-1963",
+   "maker": "Mati Klarwein",
+   "title": "Landscape Described",
+   "subtitle": "Painting · plate landscape-described-1963 on the artist's own site",
+   "year": "1963",
+   "label": "",
+   "notes": [
+    "A hillside and a bay built entirely from small separate marks, so the land reads as mosaic before it reads as ground.",
+    "The strokes follow the contours in concentric rings around a rise at the centre, and the only flat passages are the water at the bottom right and a red shape at the lower left.",
+    "⚠️ BELOW THE MUSEUM'S 800 px FLOOR at 522 px on the short edge, and added anyway because Todd picked it out of the under-550 review sheet on 2026-09-03 after being shown exactly how small it is. No larger copy exists: the estate's site is the source, and Artera's apparently bigger files are these same images run through a CDN that upscales without bound."
+   ],
+   "verified_against": "From the artist's own site, matiklarweinart.com, the estate's publication of his work and the source Todd picked this from. ⚠️ The site publishes no titles in its markup, so the title here is the one carried by its own image filename; it gives no medium, and where the filename is only a book-plate reference the work is recorded as Untitled. ⚠️ BELOW THE MUSEUM'S 800 px FLOOR at 522 px on the short edge, and added anyway because Todd picked it out of the under-550 review sheet on 2026-09-03 after being shown exactly how small it is. No larger copy exists: the estate's site is the source, and Artera's apparently bigger files are these same images run through a CDN that upscales without bound.",
+   "source_record": "picked by Todd from matiklarweinart.com, 2026-09-03",
+   "source_url": "https://www.matiklarweinart.com/images/gallery/1346945851landscape-described-1963.jpg",
+   "source_page": "https://www.matiklarweinart.com/artworkgallery.php",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/picks/files/1346945851landscape-described-1963.jpg",
+   "source_px": [
+    740,
+    522
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "From the artist's own site, matiklarweinart.com, the estate's publication of his work and the source Todd picked this from. ⚠️ The site publishes no titles in its markup, so the title here is the one carried by its own image filename; it gives no medium, and where the filename is only a book-plate reference the work is recorded as Untitled. ⚠️ BELOW THE MUSEUM'S 800 px FLOOR at 522 px on the short edge, and added anyway because Todd picked it out of the under-550 review sheet on 2026-09-03 after being shown exactly how small it is. No larger copy exists: the estate's site is the source, and Artera's apparently bigger files are these same images run through a CDN that upscales without bound.",
+   "hue": 27.71,
+   "light": 0.336,
+   "chroma": 0.6714
+  },
+  "todd picked 2026-09-03::howard-wales-jerry-garcia-hooteroll": {
+   "id": "CRVI001251",
+   "minted": "2026-09-03",
+   "original_file": "originals/CRVI001251.jpg",
+   "original_px": [
+    600,
+    594
+   ],
+   "original_bytes": 134656,
+   "identity": "todd picked 2026-09-03::howard-wales-jerry-garcia-hooteroll",
+   "maker": "Howard Wales & Jerry Garcia",
+   "title": "Hooteroll?",
+   "subtitle": "Painting by Mati Klarwein · Douglas KZ 30859",
+   "year": "1971",
+   "label": "Douglas",
+   "catalogue": "KZ 30859",
+   "notes": [
+    "A frontal blonde figure, hair falling in two heavy ropes, inside a pointed arch outlined in red against concentric rings of yellow and blue that radiate to all four corners.",
+    "Lines of pale handwriting run across the skin and hair, and both title and label sit in hand-drawn condensed capitals on the black border.",
+    "⚠️ Below the museum's 800 px floor at 594 px, added on Todd's instruction of 2026-09-03. This is the largest copy found: the artist's own site holds it at only 350 px. ⚠️ The file is Discogs' photograph of a second-hand sleeve, so it carries the copy's wear — cleaner but smaller scans exist."
+   ],
+   "verified_against": "Identified from the artwork, which names the record, and checked against Discogs release 4834499 (Douglas KZ 30859, 1971), which credits the cover painting to Mati Klarwein. Todd asked for a larger file than the 350 px copy on matiklarweinart.com; this is Discogs' 600×594. ⚠️ Below the museum's 800 px floor at 594 px, added on Todd's instruction of 2026-09-03. This is the largest copy found: the artist's own site holds it at only 350 px. ⚠️ The file is Discogs' photograph of a second-hand sleeve, so it carries the copy's wear — cleaner but smaller scans exist.",
+   "source_record": "picked by Todd from matiklarweinart.com; larger file sourced from Discogs, 2026-09-03",
+   "discogs_release": 4834499,
+   "source_page": "https://www.discogs.com/release/4834499",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/picks/files/BIG_B1.jpg",
+   "source_px": [
+    600,
+    594
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "artist",
+     "v": "Howard Wales"
+    },
+    {
+     "k": "artist",
+     "v": "Jerry Garcia"
+    },
+    {
+     "k": "label",
+     "v": "Douglas"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which names the record, and checked against Discogs release 4834499 (Douglas KZ 30859, 1971), which credits the cover painting to Mati Klarwein. Todd asked for a larger file than the 350 px copy on matiklarweinart.com; this is Discogs' 600×594. ⚠️ Below the museum's 800 px floor at 594 px, added on Todd's instruction of 2026-09-03. This is the largest copy found: the artist's own site holds it at only 350 px. ⚠️ The file is Discogs' photograph of a second-hand sleeve, so it carries the copy's wear — cleaner but smaller scans exist.",
+   "hue": 55.55,
+   "light": 0.3811,
+   "chroma": 0.6272
+  },
+  "todd picked 2026-09-03::joe-beck-beck": {
+   "id": "CRVI001252",
+   "minted": "2026-09-03",
+   "original_file": "originals/CRVI001252.jpg",
+   "original_px": [
+    600,
+    600
+   ],
+   "original_bytes": 136139,
+   "identity": "todd picked 2026-09-03::joe-beck-beck",
+   "maker": "Joe Beck",
+   "title": "Beck",
+   "subtitle": "Designed by Bob Ciano, painting by Mati Klarwein · Kudu KU-21 S1",
+   "year": "1975",
+   "label": "Kudu",
+   "catalogue": "KU-21 S1",
+   "notes": [
+    "Two profile heads almost touching at the lips, their colouring exchanged — the left face warm with blue hair, the right face blue with orange hair.",
+    "The painting occupies the lower three-quarters; above it BECK is set in enormous thin white capitals on black, the letters nearly touching the edges.",
+    "⚠️ Below the museum's 800 px floor at 600 px, added on Todd's instruction of 2026-09-03. This is the largest copy found: the artist's own site holds it at only 496 px. ⚠️ The file is Discogs' photograph of a second-hand sleeve, so it carries the copy's wear — cleaner but smaller scans exist."
+   ],
+   "verified_against": "Identified from the artwork, which names the record, and checked against Discogs release 9111928 (Kudu KU-21 S1, 1975), which credits the cover painting to Mati Klarwein and the design to Bob Ciano. Todd asked for a larger file than the 496 px copy on matiklarweinart.com; this is Discogs' 600×600. ⚠️ Below the museum's 800 px floor at 600 px, added on Todd's instruction of 2026-09-03. This is the largest copy found: the artist's own site holds it at only 496 px. ⚠️ The file is Discogs' photograph of a second-hand sleeve, so it carries the copy's wear — cleaner but smaller scans exist.",
+   "source_record": "picked by Todd from matiklarweinart.com; larger file sourced from Discogs, 2026-09-03",
+   "discogs_release": 9111928,
+   "source_page": "https://www.discogs.com/release/9111928",
+   "designers": [
+    "Bob Ciano"
+   ],
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/picks/files/BIG_B2.jpg",
+   "source_px": [
+    600,
+    600
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "designer",
+     "v": "Bob Ciano"
+    },
+    {
+     "k": "artist",
+     "v": "Joe Beck"
+    },
+    {
+     "k": "label",
+     "v": "Kudu"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which names the record, and checked against Discogs release 9111928 (Kudu KU-21 S1, 1975), which credits the cover painting to Mati Klarwein and the design to Bob Ciano. Todd asked for a larger file than the 496 px copy on matiklarweinart.com; this is Discogs' 600×600. ⚠️ Below the museum's 800 px floor at 600 px, added on Todd's instruction of 2026-09-03. This is the largest copy found: the artist's own site holds it at only 496 px. ⚠️ The file is Discogs' photograph of a second-hand sleeve, so it carries the copy's wear — cleaner but smaller scans exist.",
+   "hue": 21.75,
+   "light": 0.3814,
+   "chroma": 0.5173
+  },
+  "todd picked 2026-09-03::philippe-entremont-leonard-bernstein-new-york-philharmonic-bernstein-the-age-of-anxiety": {
+   "id": "CRVI001253",
+   "minted": "2026-09-03",
+   "original_file": "originals/CRVI001253.jpg",
+   "original_px": [
+    595,
+    599
+   ],
+   "original_bytes": 99575,
+   "identity": "todd picked 2026-09-03::philippe-entremont-leonard-bernstein-new-york-philharmonic-bernstein-the-age-of-anxiety",
+   "maker": "Philippe Entremont, Leonard Bernstein, New York Philharmonic",
+   "title": "Bernstein: The Age of Anxiety",
+   "subtitle": "Painting by Mati Klarwein · Columbia Masterworks MS 6885",
+   "year": "1966",
+   "label": "Columbia Masterworks",
+   "catalogue": "MS 6885",
+   "notes": [
+    "A head and shoulders emerging from near-black, the whole silhouette traced by a band of rainbow that separates the figure from the ground.",
+    "Only the face is lit and modelled; everything below the collar is left as flat dark mass, and the type sits in the empty upper third.",
+    "⚠️ Below the museum's 800 px floor at 595 px, added on Todd's instruction of 2026-09-03. This is the largest copy found: the artist's own site holds it at only 460 px. ⚠️ The file is Discogs' photograph of a second-hand sleeve, so it carries the copy's wear — cleaner but smaller scans exist."
+   ],
+   "verified_against": "Identified from the artwork, which names the record, and checked against Discogs release 3545949 (Columbia Masterworks MS 6885, 1966), which credits the cover painting to Mati Klarwein. Todd asked for a larger file than the 460 px copy on matiklarweinart.com; this is Discogs' 595×599. ⚠️ Below the museum's 800 px floor at 595 px, added on Todd's instruction of 2026-09-03. This is the largest copy found: the artist's own site holds it at only 460 px. ⚠️ The file is Discogs' photograph of a second-hand sleeve, so it carries the copy's wear — cleaner but smaller scans exist.",
+   "source_record": "picked by Todd from matiklarweinart.com; larger file sourced from Discogs, 2026-09-03",
+   "discogs_release": 3545949,
+   "source_page": "https://www.discogs.com/release/3545949",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/picks/files/BIG_B3.jpg",
+   "source_px": [
+    595,
+    599
+   ],
+   "colors": [
+    "orange",
+    "purple"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "artist",
+     "v": "Leonard Bernstein"
+    },
+    {
+     "k": "artist",
+     "v": "Philippe Entremont"
+    },
+    {
+     "k": "artist",
+     "v": "New York Philharmonic"
+    },
+    {
+     "k": "label",
+     "v": "Columbia Masterworks"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which names the record, and checked against Discogs release 3545949 (Columbia Masterworks MS 6885, 1966), which credits the cover painting to Mati Klarwein. Todd asked for a larger file than the 460 px copy on matiklarweinart.com; this is Discogs' 595×599. ⚠️ Below the museum's 800 px floor at 595 px, added on Todd's instruction of 2026-09-03. This is the largest copy found: the artist's own site holds it at only 460 px. ⚠️ The file is Discogs' photograph of a second-hand sleeve, so it carries the copy's wear — cleaner but smaller scans exist.",
+   "hue": 25.75,
+   "light": 0.2329,
+   "chroma": 0.4495
   }
  }
 }
