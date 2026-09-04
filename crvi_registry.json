@@ -68175,7 +68175,8 @@
    "label": "",
    "notes": [
     "Two black hands rise into a flat gold disc, each finger tipped with red, with a face looking straight out from between the wrists.",
-    "Three blue-and-red discs stack up the centre line, and the gold is surrounded by dense linear ornament in two different registers, left and right."
+    "Three blue-and-red discs stack up the centre line, and the gold is surrounded by dense linear ornament in two different registers, left and right.",
+    "DELETED from the museum on 2026-09-03. The record is kept so CRVI001191 stays provably retired and is never reissued."
    ],
    "verified_against": "Matched at a perceptual-hash distance of 1 to V15-Blessing(HIGH_RES).jpg on Klarwein's official site. The file held here is the 1920 px version served by Artera, which is larger than the site's own 567 px copy. Matched by perceptual hash against the 135 artworks on Mati Klarwein's official site, matiklarweinart.com — the site publishes no titles in its markup, so the title here is the one carried by its own image filename. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
    "source_record": "sent by Todd as an image URL, 2026-09-03",
@@ -68200,11 +68201,13 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "Matched at a perceptual-hash distance of 1 to V15-Blessing(HIGH_RES).jpg on Klarwein's official site. The file held here is the 1920 px version served by Artera, which is larger than the site's own 567 px copy. Matched by perceptual hash against the 135 artworks on Mati Klarwein's official site, matiklarweinart.com — the site publishes no titles in its markup, so the title here is the one carried by its own image filename. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
    "hue": 42.61,
    "light": 0.5002,
-   "chroma": 0.8849
+   "chroma": 0.8849,
+   "deleted": true,
+   "deleted_on": "2026-09-03"
   },
   "todd sent 2026-09-03::mati-klarwein-jimi-hendrix": {
    "id": "CRVI001192",
@@ -68323,7 +68326,8 @@
    "label": "",
    "notes": [
     "A frontal portrait against black: a woman's face, absolutely symmetrical, inside a mass of black hair painted as interlocking scrolls with the sheen of enamel.",
-    "Three grey spheres sit at her throat above a red field, and the shoulders are drawn as gold outlined wings on bare canvas — line where everything else is modelled."
+    "Three grey spheres sit at her throat above a red field, and the shoulders are drawn as gold outlined wings on bare canvas — line where everything else is modelled.",
+    "DELETED from the museum on 2026-09-03. The record is kept so CRVI001194 stays provably retired and is never reissued."
    ],
    "verified_against": "Matched at a perceptual-hash distance of 0 — an exact match — to V09-Angel-New-York.jpg on Klarwein's official site. The file held here is the 1920 px Artera version. Matched by perceptual hash against the 135 artworks on Mati Klarwein's official site, matiklarweinart.com — the site publishes no titles in its markup, so the title here is the one carried by its own image filename. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
    "source_record": "sent by Todd as an image URL, 2026-09-03",
@@ -68348,11 +68352,13 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "Matched at a perceptual-hash distance of 0 — an exact match — to V09-Angel-New-York.jpg on Klarwein's official site. The file held here is the 1920 px Artera version. Matched by perceptual hash against the 135 artworks on Mati Klarwein's official site, matiklarweinart.com — the site publishes no titles in its markup, so the title here is the one carried by its own image filename. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
    "hue": 34.48,
    "light": 0.1564,
-   "chroma": 0.2447
+   "chroma": 0.2447,
+   "deleted": true,
+   "deleted_on": "2026-09-03"
   },
   "todd sent 2026-09-03::mati-klarwein-bitches-brew": {
    "id": "CRVI001195",
@@ -68459,10 +68465,10 @@
    "minted": "2026-09-03",
    "original_file": "originals/CRVI001197.jpg",
    "original_px": [
-    1906,
-    1920
+    796,
+    802
    ],
-   "original_bytes": 830719,
+   "original_bytes": 201826,
    "identity": "todd sent 2026-09-03::mati-klarwein-alexander-s-dream",
    "maker": "Mati Klarwein",
    "title": "Alexander's Dream",
@@ -68471,15 +68477,16 @@
    "label": "",
    "notes": [
     "A garden at night painted almost entirely in blues, with a lit rectangular tank of water at the centre and a path running back into dense foliage.",
-    "Three pale stalks stand in the foreground, drawn in fine white line over the blue, so they read as diagram rather than plant."
+    "Three pale stalks stand in the foreground, drawn in fine white line over the blue, so they read as diagram rather than plant.",
+    "⚠️ FILE CORRECTED 2026-09-03, same day it was added. The original file here was Artera's 1920 px rendition, which is NOT a master: Artera serves every image through a CDN resizer that upscales without bound — asking it for 8000 px returns 8000 px — and its output downsampled back to the official site's size matches that file, so it was only ever this image enlarged. Replaced with matiklarweinart.com's own file, which is the real one."
    ],
-   "verified_against": "Matched at a perceptual-hash distance of 2 to L10-Alexanders-Dream.jpg on Klarwein's official site. The file held here is the 1920 px Artera version. Matched by perceptual hash against the 135 artworks on Mati Klarwein's official site, matiklarweinart.com — the site publishes no titles in its markup, so the title here is the one carried by its own image filename. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
+   "verified_against": "Matched at a perceptual-hash distance of 2 to L10-Alexanders-Dream.jpg on Klarwein's official site. Matched by perceptual hash against the 135 artworks on Mati Klarwein's official site, matiklarweinart.com — the site publishes no titles in its markup, so the title here is the one carried by its own image filename. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
    "source_record": "sent by Todd as an image URL, 2026-09-03",
-   "source_url": "https://d2w8kbdekdi1gv.cloudfront.net/eyJidWNrZXQiOiAiYXJ0ZXJhLWltYWdlcy1idWNrZXQiLCAia2V5IjogImFydHdvcmtzLzUzYWQzMTc1LWJmMDctNDA5MS1hZWJjLTQ5MjVjMjg1ZmQwNC81M2FkMzE3NS1iZjA3LTQwOTEtYWViYy00OTI1YzI4NWZkMDRfZnVsbC5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsid2lkdGgiOiAxOTIwLCAiaGVpZ2h0IjogMTkyMCwgImZpdCI6ICJpbnNpZGUifX19",
-   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/pasted/24.bin",
+   "source_url": "https://www.matiklarweinart.com/images/gallery/1310091400L10-Alexanders-Dream.jpg",
+   "source_image": "https://www.matiklarweinart.com/images/gallery/1310091400L10-Alexanders-Dream.jpg",
    "source_px": [
-    1906,
-    1920
+    796,
+    802
    ],
    "colors": [
     "cyan",
@@ -68497,20 +68504,20 @@
    ],
    "identity_established": true,
    "published": true,
-   "verification": "Matched at a perceptual-hash distance of 2 to L10-Alexanders-Dream.jpg on Klarwein's official site. The file held here is the 1920 px Artera version. Matched by perceptual hash against the 135 artworks on Mati Klarwein's official site, matiklarweinart.com — the site publishes no titles in its markup, so the title here is the one carried by its own image filename. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
-   "hue": 197.1,
-   "light": 0.44,
-   "chroma": 0.8032
+   "verification": "Matched at a perceptual-hash distance of 2 to L10-Alexanders-Dream.jpg on Klarwein's official site. Matched by perceptual hash against the 135 artworks on Mati Klarwein's official site, matiklarweinart.com — the site publishes no titles in its markup, so the title here is the one carried by its own image filename. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
+   "hue": 197.13,
+   "light": 0.4397,
+   "chroma": 0.8033
   },
   "todd sent 2026-09-03::mati-klarwein-you-re-next": {
    "id": "CRVI001198",
    "minted": "2026-09-03",
    "original_file": "originals/CRVI001198.jpg",
    "original_px": [
-    1911,
-    1920
+    829,
+    833
    ],
-   "original_bytes": 713849,
+   "original_bytes": 180583,
    "identity": "todd sent 2026-09-03::mati-klarwein-you-re-next",
    "maker": "Mati Klarwein",
    "title": "You're Next",
@@ -68519,15 +68526,16 @@
    "label": "",
    "notes": [
     "A valley of terraced water seen from above, the terraces drawn as continuous contour lines that turn the whole landscape into a topographic map.",
-    "A single pale diagonal shaft cuts down from the upper left, the one straight line in a painting made entirely of curves."
+    "A single pale diagonal shaft cuts down from the upper left, the one straight line in a painting made entirely of curves.",
+    "⚠️ FILE CORRECTED 2026-09-03, same day it was added. The original file here was Artera's 1920 px rendition, which is NOT a master: Artera serves every image through a CDN resizer that upscales without bound — asking it for 8000 px returns 8000 px — and its output downsampled back to the official site's size matches that file, so it was only ever this image enlarged. Replaced with matiklarweinart.com's own file, which is the real one."
    ],
-   "verified_against": "Matched at a perceptual-hash distance of 0 — an exact match — to L09-Youre-Next.jpg on Klarwein's official site. The file held here is the 1920 px Artera version. Matched by perceptual hash against the 135 artworks on Mati Klarwein's official site, matiklarweinart.com — the site publishes no titles in its markup, so the title here is the one carried by its own image filename. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
+   "verified_against": "Matched at a perceptual-hash distance of 0 — an exact match — to L09-Youre-Next.jpg on Klarwein's official site. Matched by perceptual hash against the 135 artworks on Mati Klarwein's official site, matiklarweinart.com — the site publishes no titles in its markup, so the title here is the one carried by its own image filename. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
    "source_record": "sent by Todd as an image URL, 2026-09-03",
-   "source_url": "https://d2w8kbdekdi1gv.cloudfront.net/eyJidWNrZXQiOiAiYXJ0ZXJhLWltYWdlcy1idWNrZXQiLCAia2V5IjogImFydHdvcmtzL2U0MjM2NzEwLThhMDUtNDM2Zi1hZWY2LTNjNWM2ZWFiMTk2OC9lNDIzNjcxMC04YTA1LTQzNmYtYWVmNi0zYzVjNmVhYjE5NjhfZnVsbC5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsid2lkdGgiOiAxOTIwLCAiaGVpZ2h0IjogMTkyMCwgImZpdCI6ICJpbnNpZGUifX19",
-   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/pasted/25.bin",
+   "source_url": "https://www.matiklarweinart.com/images/gallery/1310091335L09-Youre-Next.jpg",
+   "source_image": "https://www.matiklarweinart.com/images/gallery/1310091335L09-Youre-Next.jpg",
    "source_px": [
-    1911,
-    1920
+    829,
+    833
    ],
    "colors": [
     "cyan",
@@ -68545,10 +68553,10 @@
    ],
    "identity_established": true,
    "published": true,
-   "verification": "Matched at a perceptual-hash distance of 0 — an exact match — to L09-Youre-Next.jpg on Klarwein's official site. The file held here is the 1920 px Artera version. Matched by perceptual hash against the 135 artworks on Mati Klarwein's official site, matiklarweinart.com — the site publishes no titles in its markup, so the title here is the one carried by its own image filename. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
-   "hue": 197.41,
-   "light": 0.4594,
-   "chroma": 0.5174
+   "verification": "Matched at a perceptual-hash distance of 0 — an exact match — to L09-Youre-Next.jpg on Klarwein's official site. Matched by perceptual hash against the 135 artworks on Mati Klarwein's official site, matiklarweinart.com — the site publishes no titles in its markup, so the title here is the one carried by its own image filename. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
+   "hue": 197.48,
+   "light": 0.4591,
+   "chroma": 0.5199
   }
  }
 }

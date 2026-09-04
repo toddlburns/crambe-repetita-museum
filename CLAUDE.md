@@ -25,6 +25,17 @@ derivative. An item may set `display` to override what the page loads (alpha PNG
 GIFs). Animated items point `display` at the original — re-encoding a GIF only degrades it, and a
 byte-identical second copy wastes the Pages budget.
 
+⚠️ **PIXEL COUNT IS NOT RESOLUTION — beware CDN resizers.** On 2026-09-03 four Klarwein
+paintings were added from Artera's CDN at "1920 px". Artera resizes on demand and upscales
+**without any bound** — ask it for 8000 px and it hands back 8000 px — so those files were the
+artist's own 567–829 px images enlarged, carrying no more detail than the small ones. Three were
+under the 800 px floor in reality while reading as comfortably over it. Two were deleted and two
+replaced with matiklarweinart.com's own files the same day.
+
+To test a suspicious file: shrink it by a factor and enlarge it back. If that round-trip loses
+almost nothing (mean abs difference under ~2/255), the file never held detail at that scale. Or
+just ask the CDN for an absurd size — an honest one caps, a resizer does not.
+
 **Size budget.** GitHub Pages caps a published site at 1 GB and **that cap cannot be raised on any
 plan** — Free, Pro and Enterprise all get 1 GB. The repository is bigger than the site it publishes:
 `.github/workflows/pages.yml` builds the site with `.github/prune_unserved_originals.py`, which omits
