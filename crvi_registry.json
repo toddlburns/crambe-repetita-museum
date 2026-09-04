@@ -68851,10 +68851,10 @@
    "minted": "2026-09-03",
    "original_file": "originals/CRVI001201.jpg",
    "original_px": [
-    600,
-    600
+    2845,
+    2757
    ],
-   "original_bytes": 81755,
+   "original_bytes": 9661064,
    "identity": "todd picked 2026-09-03::b-osibisa",
    "maker": "Osibisa",
    "title": "Heads",
@@ -68864,17 +68864,17 @@
    "notes": [
     "A red horned creature seen side-on against pale blue, its body and trunk built out of seven Black faces of different sizes, each fully modelled.",
     "The white tusks curve out past the edges of the mass, and rows of small dashes run across the sky like a dotted rule.",
-    "⚠️ BELOW THE MUSEUM'S 800 px SHORT-EDGE FLOOR, at 600 px, and added anyway on Todd's explicit instruction of 2026-09-03: he asked for everything above 550 px. The estate's own site is the largest source that exists for this painting — Artera's apparently larger files are the same images run through a CDN resizer that upscales without bound."
+    "⚠️ FILE REPLACED 2026-09-03. It first went in at 600 × 600 from the artist's own site. This is the Cover Art Archive's scan of a 1993 issue at 2845 × 2757 — and it is REAL detail, not a resize: shrinking it fourfold and enlarging it back still loses information, where an upscale would not. A clean scan with a thin white sleeve edge left in; say the word and I'll crop to the printed area."
    ],
-   "verified_against": "From the artist's own site, matiklarweinart.com, which is the estate's publication of his work and the source Todd selected this from. ⚠️ The site publishes NO titles in its markup — its caption fields are empty — so the title here is the one carried by its own image filename, and where that filename is only a book-plate reference the work is recorded as Untitled rather than given a name it may not have. The site gives no years or media either, so none are claimed. ⚠️ BELOW THE MUSEUM'S 800 px SHORT-EDGE FLOOR, at 600 px, and added anyway on Todd's explicit instruction of 2026-09-03: he asked for everything above 550 px. The estate's own site is the largest source that exists for this painting — Artera's apparently larger files are the same images run through a CDN resizer that upscales without bound. The record itself is confirmed by Discogs release 27666630, which credits the artwork to Klarwein.",
+   "verified_against": "From the artist's own site, matiklarweinart.com, which is the estate's publication of his work and the source Todd selected this from. ⚠️ The site publishes NO titles in its markup — its caption fields are empty — so the title here is the one carried by its own image filename, and where that filename is only a book-plate reference the work is recorded as Untitled rather than given a name it may not have. The site gives no years or media either, so none are claimed. ⚠️ FILE REPLACED 2026-09-03. It first went in at 600 × 600 from the artist's own site. This is the Cover Art Archive's scan of a 1993 issue at 2845 × 2757 — and it is REAL detail, not a resize: shrinking it fourfold and enlarging it back still loses information, where an upscale would not. A clean scan with a thin white sleeve edge left in; say the word and I'll crop to the printed area.",
    "source_record": "picked by Todd from matiklarweinart.com, 2026-09-03",
-   "source_url": "https://www.matiklarweinart.com/images/gallery/130252365910B%20osibisa.jpg",
+   "source_url": "https://coverartarchive.org/ (1993 issue scan)",
    "source_page": "https://www.discogs.com/release/27666630",
    "discogs_release": 27666630,
-   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/picks/files/130252365910B_osibisa.jpg",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/picks/files/CAA_96668975.jpg",
    "source_px": [
-    600,
-    600
+    2845,
+    2757
    ],
    "colors": [
     "red",
@@ -68904,10 +68904,10 @@
    ],
    "identity_established": true,
    "published": true,
-   "verification": "From the artist's own site, matiklarweinart.com, which is the estate's publication of his work and the source Todd selected this from. ⚠️ The site publishes NO titles in its markup — its caption fields are empty — so the title here is the one carried by its own image filename, and where that filename is only a book-plate reference the work is recorded as Untitled rather than given a name it may not have. The site gives no years or media either, so none are claimed. ⚠️ BELOW THE MUSEUM'S 800 px SHORT-EDGE FLOOR, at 600 px, and added anyway on Todd's explicit instruction of 2026-09-03: he asked for everything above 550 px. The estate's own site is the largest source that exists for this painting — Artera's apparently larger files are the same images run through a CDN resizer that upscales without bound. The record itself is confirmed by Discogs release 27666630, which credits the artwork to Klarwein.",
-   "hue": 5.94,
-   "light": 0.4426,
-   "chroma": 0.9118
+   "verification": "From the artist's own site, matiklarweinart.com, which is the estate's publication of his work and the source Todd selected this from. ⚠️ The site publishes NO titles in its markup — its caption fields are empty — so the title here is the one carried by its own image filename, and where that filename is only a book-plate reference the work is recorded as Untitled rather than given a name it may not have. The site gives no years or media either, so none are claimed. ⚠️ FILE REPLACED 2026-09-03. It first went in at 600 × 600 from the artist's own site. This is the Cover Art Archive's scan of a 1993 issue at 2845 × 2757 — and it is REAL detail, not a resize: shrinking it fourfold and enlarging it back still loses information, where an upscale would not. A clean scan with a thin white sleeve edge left in; say the word and I'll crop to the printed area.",
+   "hue": 3.94,
+   "light": 0.548,
+   "chroma": 0.8943
   },
   "todd picked 2026-09-03::r16-vol3-56": {
    "id": "CRVI001202",
@@ -69086,7 +69086,8 @@
    "notes": [
     "Two children by a hearth, painted warm and academic — and a military bomber, painted flat and grey, banking through the fireplace with its bomb doors open.",
     "The fire and the burning city inside the grate are the only bright things; the aircraft casts no light at all.",
-    "⚠️ BELOW THE MUSEUM'S 800 px SHORT-EDGE FLOOR, at 651 px, and added anyway on Todd's explicit instruction of 2026-09-03: he asked for everything above 550 px. The estate's own site is the largest source that exists for this painting — Artera's apparently larger files are the same images run through a CDN resizer that upscales without bound."
+    "⚠️ BELOW THE MUSEUM'S 800 px SHORT-EDGE FLOOR, at 651 px, and added anyway on Todd's explicit instruction of 2026-09-03: he asked for everything above 550 px. The estate's own site is the largest source that exists for this painting — Artera's apparently larger files are the same images run through a CDN resizer that upscales without bound.",
+    "DELETED from the museum on 2026-09-03. The record is kept so CRVI001205 stays provably retired and is never reissued."
    ],
    "verified_against": "From the artist's own site, matiklarweinart.com, which is the estate's publication of his work and the source Todd selected this from. ⚠️ The site publishes NO titles in its markup — its caption fields are empty — so the title here is the one carried by its own image filename, and where that filename is only a book-plate reference the work is recorded as Untitled rather than given a name it may not have. The site gives no years or media either, so none are claimed. ⚠️ BELOW THE MUSEUM'S 800 px SHORT-EDGE FLOOR, at 651 px, and added anyway on Todd's explicit instruction of 2026-09-03: he asked for everything above 550 px. The estate's own site is the largest source that exists for this painting — Artera's apparently larger files are the same images run through a CDN resizer that upscales without bound.",
    "source_record": "picked by Todd from matiklarweinart.com, 2026-09-03",
@@ -69116,11 +69117,13 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "From the artist's own site, matiklarweinart.com, which is the estate's publication of his work and the source Todd selected this from. ⚠️ The site publishes NO titles in its markup — its caption fields are empty — so the title here is the one carried by its own image filename, and where that filename is only a book-plate reference the work is recorded as Untitled rather than given a name it may not have. The site gives no years or media either, so none are claimed. ⚠️ BELOW THE MUSEUM'S 800 px SHORT-EDGE FLOOR, at 651 px, and added anyway on Todd's explicit instruction of 2026-09-03: he asked for everything above 550 px. The estate's own site is the largest source that exists for this painting — Artera's apparently larger files are the same images run through a CDN resizer that upscales without bound.",
    "hue": 23.71,
    "light": 0.2442,
-   "chroma": 0.7141
+   "chroma": 0.7141,
+   "deleted": true,
+   "deleted_on": "2026-09-03"
   },
   "todd picked 2026-09-03::r15-vol3-50": {
    "id": "CRVI001206",
@@ -69140,7 +69143,8 @@
    "notes": [
     "A stiff nineteenth-century portrait of a woman in a lace collar, her face ruled over with fine vertical lines like a printing screen.",
     "A grinning bone-white skull with a long snout is grafted onto her hair from the left, and a red slit opens down the centre of her bodice.",
-    "⚠️ BELOW THE MUSEUM'S 800 px SHORT-EDGE FLOOR, at 633 px, and added anyway on Todd's explicit instruction of 2026-09-03: he asked for everything above 550 px. The estate's own site is the largest source that exists for this painting — Artera's apparently larger files are the same images run through a CDN resizer that upscales without bound."
+    "⚠️ BELOW THE MUSEUM'S 800 px SHORT-EDGE FLOOR, at 633 px, and added anyway on Todd's explicit instruction of 2026-09-03: he asked for everything above 550 px. The estate's own site is the largest source that exists for this painting — Artera's apparently larger files are the same images run through a CDN resizer that upscales without bound.",
+    "DELETED from the museum on 2026-09-03. The record is kept so CRVI001206 stays provably retired and is never reissued."
    ],
    "verified_against": "From the artist's own site, matiklarweinart.com, which is the estate's publication of his work and the source Todd selected this from. ⚠️ The site publishes NO titles in its markup — its caption fields are empty — so the title here is the one carried by its own image filename, and where that filename is only a book-plate reference the work is recorded as Untitled rather than given a name it may not have. The site gives no years or media either, so none are claimed. ⚠️ BELOW THE MUSEUM'S 800 px SHORT-EDGE FLOOR, at 633 px, and added anyway on Todd's explicit instruction of 2026-09-03: he asked for everything above 550 px. The estate's own site is the largest source that exists for this painting — Artera's apparently larger files are the same images run through a CDN resizer that upscales without bound.",
    "source_record": "picked by Todd from matiklarweinart.com, 2026-09-03",
@@ -69169,11 +69173,13 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "From the artist's own site, matiklarweinart.com, which is the estate's publication of his work and the source Todd selected this from. ⚠️ The site publishes NO titles in its markup — its caption fields are empty — so the title here is the one carried by its own image filename, and where that filename is only a book-plate reference the work is recorded as Untitled rather than given a name it may not have. The site gives no years or media either, so none are claimed. ⚠️ BELOW THE MUSEUM'S 800 px SHORT-EDGE FLOOR, at 633 px, and added anyway on Todd's explicit instruction of 2026-09-03: he asked for everything above 550 px. The estate's own site is the largest source that exists for this painting — Artera's apparently larger files are the same images run through a CDN resizer that upscales without bound.",
    "hue": 34.4,
    "light": 0.2534,
-   "chroma": 0.5602
+   "chroma": 0.5602,
+   "deleted": true,
+   "deleted_on": "2026-09-03"
   },
   "todd picked 2026-09-03::l06-leh-cest-beau": {
    "id": "CRVI001207",
@@ -69192,7 +69198,8 @@
    "label": "",
    "notes": [
     "A dry hillside with a red fort at the top under a crescent moon, a line of pale seated figures across the middle, and a dark tree burning with three white flames.",
-    "The whole surface is worked in small even touches, so stone, scrub and sky all carry the same granular texture."
+    "The whole surface is worked in small even touches, so stone, scrub and sky all carry the same granular texture.",
+    "DELETED from the museum on 2026-09-03. The record is kept so CRVI001207 stays provably retired and is never reissued."
    ],
    "verified_against": "From the artist's own site, matiklarweinart.com, which is the estate's publication of his work and the source Todd selected this from. ⚠️ The site publishes NO titles in its markup — its caption fields are empty — so the title here is the one carried by its own image filename, and where that filename is only a book-plate reference the work is recorded as Untitled rather than given a name it may not have. The site gives no years or media either, so none are claimed.",
    "source_record": "picked by Todd from matiklarweinart.com, 2026-09-03",
@@ -69222,11 +69229,13 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "From the artist's own site, matiklarweinart.com, which is the estate's publication of his work and the source Todd selected this from. ⚠️ The site publishes NO titles in its markup — its caption fields are empty — so the title here is the one carried by its own image filename, and where that filename is only a book-plate reference the work is recorded as Untitled rather than given a name it may not have. The site gives no years or media either, so none are claimed.",
    "hue": 36.93,
    "light": 0.3521,
-   "chroma": 0.8064
+   "chroma": 0.8064,
+   "deleted": true,
+   "deleted_on": "2026-09-03"
   },
   "todd picked 2026-09-03::l17-aranyanyara": {
    "id": "CRVI001208",
@@ -69245,7 +69254,8 @@
    "label": "",
    "notes": [
     "A ravine wall of dense foliage painted leaf by leaf, dropping into black water at the bottom left, with a spray of pale reeds at the right edge.",
-    "Two small candles burn on a ledge at the centre — the only man-made thing, and almost lost."
+    "Two small candles burn on a ledge at the centre — the only man-made thing, and almost lost.",
+    "DELETED from the museum on 2026-09-03. The record is kept so CRVI001208 stays provably retired and is never reissued."
    ],
    "verified_against": "From the artist's own site, matiklarweinart.com, which is the estate's publication of his work and the source Todd selected this from. ⚠️ The site publishes NO titles in its markup — its caption fields are empty — so the title here is the one carried by its own image filename, and where that filename is only a book-plate reference the work is recorded as Untitled rather than given a name it may not have. The site gives no years or media either, so none are claimed.",
    "source_record": "picked by Todd from matiklarweinart.com, 2026-09-03",
@@ -69275,11 +69285,13 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "From the artist's own site, matiklarweinart.com, which is the estate's publication of his work and the source Todd selected this from. ⚠️ The site publishes NO titles in its markup — its caption fields are empty — so the title here is the one carried by its own image filename, and where that filename is only a book-plate reference the work is recorded as Untitled rather than given a name it may not have. The site gives no years or media either, so none are claimed.",
    "hue": 203.46,
    "light": 0.2578,
-   "chroma": 0.4018
+   "chroma": 0.4018,
+   "deleted": true,
+   "deleted_on": "2026-09-03"
   },
   "todd picked 2026-09-03::l14-coastline": {
    "id": "CRVI001209",
@@ -69298,7 +69310,8 @@
    "label": "",
    "notes": [
     "A rock coast seen from above, divided into three panels by two vertical seams, with deep blue sea filling the bottom left.",
-    "White ruled lines fall through the upper panels like rain drawn with a straightedge, and a small ladder is set into the rock at the right."
+    "White ruled lines fall through the upper panels like rain drawn with a straightedge, and a small ladder is set into the rock at the right.",
+    "DELETED from the museum on 2026-09-03. The record is kept so CRVI001209 stays provably retired and is never reissued."
    ],
    "verified_against": "From the artist's own site, matiklarweinart.com, which is the estate's publication of his work and the source Todd selected this from. ⚠️ The site publishes NO titles in its markup — its caption fields are empty — so the title here is the one carried by its own image filename, and where that filename is only a book-plate reference the work is recorded as Untitled rather than given a name it may not have. The site gives no years or media either, so none are claimed.",
    "source_record": "picked by Todd from matiklarweinart.com, 2026-09-03",
@@ -69328,11 +69341,13 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "From the artist's own site, matiklarweinart.com, which is the estate's publication of his work and the source Todd selected this from. ⚠️ The site publishes NO titles in its markup — its caption fields are empty — so the title here is the one carried by its own image filename, and where that filename is only a book-plate reference the work is recorded as Untitled rather than given a name it may not have. The site gives no years or media either, so none are claimed.",
    "hue": 213.56,
    "light": 0.2549,
-   "chroma": 0.3173
+   "chroma": 0.3173,
+   "deleted": true,
+   "deleted_on": "2026-09-03"
   },
   "todd picked 2026-09-03::l18-symbole-du-jour": {
    "id": "CRVI001210",
@@ -69351,7 +69366,8 @@
    "label": "",
    "notes": [
     "A cut channel of water running back through coarse grass, the near bank sliced clean so the soil profile shows.",
-    "A black palm frond reaches in from the bottom right carrying a small red eye glyph — the only mark in the picture that is a symbol rather than a thing."
+    "A black palm frond reaches in from the bottom right carrying a small red eye glyph — the only mark in the picture that is a symbol rather than a thing.",
+    "DELETED from the museum on 2026-09-03. The record is kept so CRVI001210 stays provably retired and is never reissued."
    ],
    "verified_against": "From the artist's own site, matiklarweinart.com, which is the estate's publication of his work and the source Todd selected this from. ⚠️ The site publishes NO titles in its markup — its caption fields are empty — so the title here is the one carried by its own image filename, and where that filename is only a book-plate reference the work is recorded as Untitled rather than given a name it may not have. The site gives no years or media either, so none are claimed.",
    "source_record": "picked by Todd from matiklarweinart.com, 2026-09-03",
@@ -69381,11 +69397,13 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "From the artist's own site, matiklarweinart.com, which is the estate's publication of his work and the source Todd selected this from. ⚠️ The site publishes NO titles in its markup — its caption fields are empty — so the title here is the one carried by its own image filename, and where that filename is only a book-plate reference the work is recorded as Untitled rather than given a name it may not have. The site gives no years or media either, so none are claimed.",
    "hue": 54.9,
    "light": 0.2553,
-   "chroma": 0.8474
+   "chroma": 0.8474,
+   "deleted": true,
+   "deleted_on": "2026-09-03"
   },
   "todd picked 2026-09-03::l16-milkscape": {
    "id": "CRVI001211",
@@ -69404,7 +69422,8 @@
    "label": "",
    "notes": [
     "An eroded red slope seen from the air, the whole surface built from tiny strokes so it reads as fur or coral rather than rock.",
-    "Pale water channels branch down the middle and the paint stops short of the edges, leaving a gold border with a stepped, torn profile."
+    "Pale water channels branch down the middle and the paint stops short of the edges, leaving a gold border with a stepped, torn profile.",
+    "DELETED from the museum on 2026-09-03. The record is kept so CRVI001211 stays provably retired and is never reissued."
    ],
    "verified_against": "From the artist's own site, matiklarweinart.com, which is the estate's publication of his work and the source Todd selected this from. ⚠️ The site publishes NO titles in its markup — its caption fields are empty — so the title here is the one carried by its own image filename, and where that filename is only a book-plate reference the work is recorded as Untitled rather than given a name it may not have. The site gives no years or media either, so none are claimed.",
    "source_record": "picked by Todd from matiklarweinart.com, 2026-09-03",
@@ -69434,11 +69453,13 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "From the artist's own site, matiklarweinart.com, which is the estate's publication of his work and the source Todd selected this from. ⚠️ The site publishes NO titles in its markup — its caption fields are empty — so the title here is the one carried by its own image filename, and where that filename is only a book-plate reference the work is recorded as Untitled rather than given a name it may not have. The site gives no years or media either, so none are claimed.",
    "hue": 13.73,
    "light": 0.3662,
-   "chroma": 0.8649
+   "chroma": 0.8649,
+   "deleted": true,
+   "deleted_on": "2026-09-03"
   },
   "todd picked 2026-09-03::l13-wet-curve": {
    "id": "CRVI001212",
@@ -69457,7 +69478,8 @@
    "label": "",
    "notes": [
     "A wet road curving away under a black storm cloud, the tarmac holding a long white reflection.",
-    "A thin yellow line is ruled from the bottom left corner up into the cloud, laid flat over the illusion of depth."
+    "A thin yellow line is ruled from the bottom left corner up into the cloud, laid flat over the illusion of depth.",
+    "DELETED from the museum on 2026-09-03. The record is kept so CRVI001212 stays provably retired and is never reissued."
    ],
    "verified_against": "From the artist's own site, matiklarweinart.com, which is the estate's publication of his work and the source Todd selected this from. ⚠️ The site publishes NO titles in its markup — its caption fields are empty — so the title here is the one carried by its own image filename, and where that filename is only a book-plate reference the work is recorded as Untitled rather than given a name it may not have. The site gives no years or media either, so none are claimed.",
    "source_record": "picked by Todd from matiklarweinart.com, 2026-09-03",
@@ -69487,11 +69509,13 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "From the artist's own site, matiklarweinart.com, which is the estate's publication of his work and the source Todd selected this from. ⚠️ The site publishes NO titles in its markup — its caption fields are empty — so the title here is the one carried by its own image filename, and where that filename is only a book-plate reference the work is recorded as Untitled rather than given a name it may not have. The site gives no years or media either, so none are claimed.",
    "hue": 52.09,
    "light": 0.397,
-   "chroma": 0.2031
+   "chroma": 0.2031,
+   "deleted": true,
+   "deleted_on": "2026-09-03"
   },
   "todd picked 2026-09-03::real-estate": {
    "id": "CRVI001213",
@@ -69618,7 +69642,8 @@
    "notes": [
     "A formal garden of palms, clipped blue-green hedges and still rectangular pools, with a stone arch at the centre.",
     "A small fountain in the foreground holds a pale figure curled inside the basin, painted at the scale of an ornament.",
-    "⚠️ BELOW THE MUSEUM'S 800 px SHORT-EDGE FLOOR, at 567 px, and added anyway on Todd's explicit instruction of 2026-09-03: he asked for everything above 550 px. The estate's own site is the largest source that exists for this painting — Artera's apparently larger files are the same images run through a CDN resizer that upscales without bound."
+    "⚠️ BELOW THE MUSEUM'S 800 px SHORT-EDGE FLOOR, at 567 px, and added anyway on Todd's explicit instruction of 2026-09-03: he asked for everything above 550 px. The estate's own site is the largest source that exists for this painting — Artera's apparently larger files are the same images run through a CDN resizer that upscales without bound.",
+    "DELETED from the museum on 2026-09-03. The record is kept so CRVI001215 stays provably retired and is never reissued."
    ],
    "verified_against": "From the artist's own site, matiklarweinart.com, which is the estate's publication of his work and the source Todd selected this from. ⚠️ The site publishes NO titles in its markup — its caption fields are empty — so the title here is the one carried by its own image filename, and where that filename is only a book-plate reference the work is recorded as Untitled rather than given a name it may not have. The site gives no years or media either, so none are claimed. ⚠️ BELOW THE MUSEUM'S 800 px SHORT-EDGE FLOOR, at 567 px, and added anyway on Todd's explicit instruction of 2026-09-03: he asked for everything above 550 px. The estate's own site is the largest source that exists for this painting — Artera's apparently larger files are the same images run through a CDN resizer that upscales without bound.",
    "source_record": "picked by Todd from matiklarweinart.com, 2026-09-03",
@@ -69648,11 +69673,13 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "From the artist's own site, matiklarweinart.com, which is the estate's publication of his work and the source Todd selected this from. ⚠️ The site publishes NO titles in its markup — its caption fields are empty — so the title here is the one carried by its own image filename, and where that filename is only a book-plate reference the work is recorded as Untitled rather than given a name it may not have. The site gives no years or media either, so none are claimed. ⚠️ BELOW THE MUSEUM'S 800 px SHORT-EDGE FLOOR, at 567 px, and added anyway on Todd's explicit instruction of 2026-09-03: he asked for everything above 550 px. The estate's own site is the largest source that exists for this painting — Artera's apparently larger files are the same images run through a CDN resizer that upscales without bound.",
    "hue": 63.94,
    "light": 0.3031,
-   "chroma": 0.6202
+   "chroma": 0.6202,
+   "deleted": true,
+   "deleted_on": "2026-09-03"
   },
   "todd picked 2026-09-03::l19-landing-strip": {
    "id": "CRVI001216",
@@ -69672,7 +69699,8 @@
    "notes": [
     "An aerial view split by a huge dark curved mass on the left, its edge lit gold, against a green field worked in tiny strokes.",
     "White water shapes scatter across the right like a flock, and one thin pole with a small yellow flag lies near the bottom.",
-    "⚠️ BELOW THE MUSEUM'S 800 px SHORT-EDGE FLOOR, at 565 px, and added anyway on Todd's explicit instruction of 2026-09-03: he asked for everything above 550 px. The estate's own site is the largest source that exists for this painting — Artera's apparently larger files are the same images run through a CDN resizer that upscales without bound."
+    "⚠️ BELOW THE MUSEUM'S 800 px SHORT-EDGE FLOOR, at 565 px, and added anyway on Todd's explicit instruction of 2026-09-03: he asked for everything above 550 px. The estate's own site is the largest source that exists for this painting — Artera's apparently larger files are the same images run through a CDN resizer that upscales without bound.",
+    "DELETED from the museum on 2026-09-03. The record is kept so CRVI001216 stays provably retired and is never reissued."
    ],
    "verified_against": "From the artist's own site, matiklarweinart.com, which is the estate's publication of his work and the source Todd selected this from. ⚠️ The site publishes NO titles in its markup — its caption fields are empty — so the title here is the one carried by its own image filename, and where that filename is only a book-plate reference the work is recorded as Untitled rather than given a name it may not have. The site gives no years or media either, so none are claimed. ⚠️ BELOW THE MUSEUM'S 800 px SHORT-EDGE FLOOR, at 565 px, and added anyway on Todd's explicit instruction of 2026-09-03: he asked for everything above 550 px. The estate's own site is the largest source that exists for this painting — Artera's apparently larger files are the same images run through a CDN resizer that upscales without bound.",
    "source_record": "picked by Todd from matiklarweinart.com, 2026-09-03",
@@ -69701,11 +69729,13 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "From the artist's own site, matiklarweinart.com, which is the estate's publication of his work and the source Todd selected this from. ⚠️ The site publishes NO titles in its markup — its caption fields are empty — so the title here is the one carried by its own image filename, and where that filename is only a book-plate reference the work is recorded as Untitled rather than given a name it may not have. The site gives no years or media either, so none are claimed. ⚠️ BELOW THE MUSEUM'S 800 px SHORT-EDGE FLOOR, at 565 px, and added anyway on Todd's explicit instruction of 2026-09-03: he asked for everything above 550 px. The estate's own site is the largest source that exists for this painting — Artera's apparently larger files are the same images run through a CDN resizer that upscales without bound.",
    "hue": 134.06,
    "light": 0.1853,
-   "chroma": 0.655
+   "chroma": 0.655,
+   "deleted": true,
+   "deleted_on": "2026-09-03"
   },
   "todd picked 2026-09-03::p11-vol2-68": {
    "id": "CRVI001217",
@@ -70368,7 +70398,8 @@
    "notes": [
     "A woman's face at the far left, in profile against the sea, with the rest of the canvas given to a wall of flowers painted species by species.",
     "The flowers are not a background: they are at the same focus as the face and take up nine tenths of the picture.",
-    "⚠️ BELOW THE MUSEUM'S 800 px SHORT-EDGE FLOOR, at 567 px, and added anyway on Todd's explicit instruction of 2026-09-03: he asked for everything above 550 px. The estate's own site is the largest source that exists for this painting — Artera's apparently larger files are the same images run through a CDN resizer that upscales without bound."
+    "⚠️ BELOW THE MUSEUM'S 800 px SHORT-EDGE FLOOR, at 567 px, and added anyway on Todd's explicit instruction of 2026-09-03: he asked for everything above 550 px. The estate's own site is the largest source that exists for this painting — Artera's apparently larger files are the same images run through a CDN resizer that upscales without bound.",
+    "DELETED from the museum on 2026-09-03. The record is kept so CRVI001229 stays provably retired and is never reissued."
    ],
    "verified_against": "From the artist's own site, matiklarweinart.com, which is the estate's publication of his work and the source Todd selected this from. ⚠️ The site publishes NO titles in its markup — its caption fields are empty — so the title here is the one carried by its own image filename, and where that filename is only a book-plate reference the work is recorded as Untitled rather than given a name it may not have. The site gives no years or media either, so none are claimed. ⚠️ BELOW THE MUSEUM'S 800 px SHORT-EDGE FLOOR, at 567 px, and added anyway on Todd's explicit instruction of 2026-09-03: he asked for everything above 550 px. The estate's own site is the largest source that exists for this painting — Artera's apparently larger files are the same images run through a CDN resizer that upscales without bound.",
    "source_record": "picked by Todd from matiklarweinart.com, 2026-09-03",
@@ -70398,11 +70429,13 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "From the artist's own site, matiklarweinart.com, which is the estate's publication of his work and the source Todd selected this from. ⚠️ The site publishes NO titles in its markup — its caption fields are empty — so the title here is the one carried by its own image filename, and where that filename is only a book-plate reference the work is recorded as Untitled rather than given a name it may not have. The site gives no years or media either, so none are claimed. ⚠️ BELOW THE MUSEUM'S 800 px SHORT-EDGE FLOOR, at 567 px, and added anyway on Todd's explicit instruction of 2026-09-03: he asked for everything above 550 px. The estate's own site is the largest source that exists for this painting — Artera's apparently larger files are the same images run through a CDN resizer that upscales without bound.",
    "hue": 33.81,
    "light": 0.5116,
-   "chroma": 0.8485
+   "chroma": 0.8485,
+   "deleted": true,
+   "deleted_on": "2026-09-03"
   },
   "todd picked 2026-09-03::p01-50s-self-durer": {
    "id": "CRVI001230",
