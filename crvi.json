@@ -43941,6 +43941,67 @@
    "light": 0.7243
   },
   {
+   "id": "CRVI000872",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/5498327",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI000872.jpg",
+   "source_label": "",
+   "image": "images/CRVI000872.jpg",
+   "original": "originals/CRVI000872.jpg",
+   "vector": "",
+   "original_px": [
+    1016,
+    1024
+   ],
+   "original_bytes": 143834,
+   "maker": "Phil & The Blanks",
+   "title": "Phil & The Blanks",
+   "subtitle": "Designed by Art Hotel, Christopher Whorf, Mac James, photograph by Alec R. Costandinos · Ibis ARC 12510",
+   "year": "1980",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Art Hotel"
+    },
+    {
+     "k": "designer",
+     "v": "Christopher Whorf"
+    },
+    {
+     "k": "designer",
+     "v": "Mac James"
+    },
+    {
+     "k": "photographer",
+     "v": "Alec R. Costandinos"
+    },
+    {
+     "k": "artist",
+     "v": "Phil & The Blanks"
+    },
+    {
+     "k": "label",
+     "v": "Ibis"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": null,
+   "light": 0.4515
+  },
+  {
    "id": "CRVI000873",
    "published": true,
    "source_url": "https://johnprovencher.com/",
@@ -51381,6 +51442,51 @@
    "light": 0.6065
   },
   {
+   "id": "CRVI001053",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/293818",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001053.jpg",
+   "source_label": "",
+   "image": "images/CRVI001053.jpg",
+   "original": "originals/CRVI001053.jpg",
+   "vector": "",
+   "original_px": [
+    1000,
+    1000
+   ],
+   "original_bytes": 171086,
+   "maker": "Yello",
+   "title": "Solid Pleasure",
+   "subtitle": "Designer unrecorded · Ralph Records YL 8059-L",
+   "year": "1980",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Ralph Records"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    }
+   ],
+   "hue": 34.49,
+   "light": 0.3857
+  },
+  {
    "id": "CRVI001054",
    "published": true,
    "source_url": "https://a-g-i.s3.eu-west-3.amazonaws.com/takenobuigarashi/Igarashi_AGI_01_Poster-SummerJazz_1983_15th.jpeg",
@@ -52103,6 +52209,59 @@
    ],
    "hue": 209.01,
    "light": 0.4352
+  },
+  {
+   "id": "CRVI001070",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/1653291",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001070.jpg",
+   "source_label": "",
+   "image": "images/CRVI001070.jpg",
+   "original": "originals/CRVI001070.jpg",
+   "vector": "",
+   "original_px": [
+    1200,
+    1200
+   ],
+   "original_bytes": 407611,
+   "maker": "Lo-Key?",
+   "title": "Where Dey At?",
+   "subtitle": "Designed by Kevin Hosmann, photograph by Eddie Wolfl · Perspective Records 28968 1003 2",
+   "year": "1992",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Kevin Hosmann"
+    },
+    {
+     "k": "photographer",
+     "v": "Eddie Wolfl"
+    },
+    {
+     "k": "label",
+     "v": "Perspective Records"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 324.92,
+   "light": 0.4609
   },
   {
    "id": "CRVI001071",
@@ -53300,6 +53459,47 @@
    "light": 0.2926
   },
   {
+   "id": "CRVI001098",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/86094",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001098.jpg",
+   "source_label": "",
+   "image": "images/CRVI001098.jpg",
+   "original": "originals/CRVI001098.jpg",
+   "vector": "",
+   "original_px": [
+    1000,
+    1000
+   ],
+   "original_bytes": 128727,
+   "maker": "Einstürzende Neubauten",
+   "title": "Kollaps",
+   "subtitle": "Designer unrecorded · ZickZack ZZ 65",
+   "year": "1981",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "ZickZack"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 35.0,
+   "light": 0.5535
+  },
+  {
    "id": "CRVI001099",
    "published": true,
    "source_url": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/7d2d320a-ba1f-4396-8f88-170de327b1ef/2/w=1920,quality=90,fit=scale-down",
@@ -53388,6 +53588,51 @@
    ],
    "hue": 19.14,
    "light": 0.618
+  },
+  {
+   "id": "CRVI001101",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/17785471",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001101.jpg",
+   "source_label": "",
+   "image": "images/CRVI001101.jpg",
+   "original": "originals/CRVI001101.jpg",
+   "vector": "",
+   "original_px": [
+    1176,
+    1176
+   ],
+   "original_bytes": 448299,
+   "maker": "The Chocolate Watchband",
+   "title": "No Way Out",
+   "subtitle": "Designer unrecorded · Tower T-5096",
+   "year": "1967",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Tower"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    }
+   ],
+   "hue": 346.71,
+   "light": 0.5661
   },
   {
    "id": "CRVI001102",
@@ -53999,6 +54244,43 @@
    ],
    "hue": 16.09,
    "light": 0.3912
+  },
+  {
+   "id": "CRVI001113",
+   "published": false,
+   "source_url": "https://www.illustrationhistory.org/images/uploads/Figure_40_-_Olivetti_design.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001113.jpg",
+   "source_label": "",
+   "image": "images/CRVI001113.jpg",
+   "original": "originals/CRVI001113.jpg",
+   "vector": "",
+   "original_px": [
+    900,
+    904
+   ],
+   "original_bytes": 190401,
+   "maker": "unattributed",
+   "title": "Olivetti — cover with geometric panels",
+   "subtitle": "Designer unrecorded",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 9.12,
+   "light": 0.5656
   },
   {
    "id": "CRVI001114",
@@ -57775,6 +58057,739 @@
    ],
    "hue": 48.24,
    "light": 0.5508
+  },
+  {
+   "id": "CRVI001182",
+   "published": false,
+   "source_url": "https://arthive.com/res/media/img/oy1200/work/787/128753@2x.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001182.jpg",
+   "source_label": "",
+   "image": "images/CRVI001182.jpg",
+   "original": "originals/CRVI001182.jpg",
+   "vector": "",
+   "original_px": [
+    1654,
+    2400
+   ],
+   "original_bytes": 1399949,
+   "maker": "unattributed",
+   "title": "Statue of Liberty with Bloomingdale's shopping bags",
+   "subtitle": "Designer unrecorded",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "illustration"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 173.71,
+   "light": 0.5877
+  },
+  {
+   "id": "CRVI001183",
+   "published": false,
+   "source_url": "https://64.media.tumblr.com/94556cac859f10a1705e274c205f49a1/tumblr_nyrjosAqWO1sndzdgo1_1280.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001183.jpg",
+   "source_label": "",
+   "image": "images/CRVI001183.jpg",
+   "original": "originals/CRVI001183.jpg",
+   "vector": "",
+   "original_px": [
+    1216,
+    1600
+   ],
+   "original_bytes": 453335,
+   "maker": "unattributed",
+   "title": "Ravine of faces with a luminous figure",
+   "subtitle": "Painting",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 200.73,
+   "light": 0.2516
+  },
+  {
+   "id": "CRVI001184",
+   "published": false,
+   "source_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiXTBmn80aS_D8OcIwiH3NgT295Ik_LEiqGAvB7AdfOl4GFmIbxN73rtAOlulT8AF0LbMwRCieT7oMVCbSg_ycp-Mfe0J9RmRNkn-5rS71SMnd6TdXfD8bgtrZ-c2yVVrMCyQ2_m_tDxs/s1600/doorofperception.com-robert_venosa-5.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001184.jpg",
+   "source_label": "",
+   "image": "images/CRVI001184.jpg",
+   "original": "originals/CRVI001184.jpg",
+   "vector": "",
+   "original_px": [
+    1600,
+    1019
+   ],
+   "original_bytes": 609431,
+   "maker": "Robert Venosa",
+   "title": "Untitled — luminous tree",
+   "subtitle": "Painting",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 19.1,
+   "light": 0.3221
+  },
+  {
+   "id": "CRVI001185",
+   "published": false,
+   "source_url": "https://i.redd.it/robert-venosa-psychedelics-art-1970s-v0-n18upzyl12kg1.jpg?width=1171&format=pjpg&auto=webp&s=8eff703c92e3033ea3948c1366f1063620ad4ee6",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001185.jpg",
+   "source_label": "",
+   "image": "images/CRVI001185.jpg",
+   "original": "originals/CRVI001185.jpg",
+   "vector": "",
+   "original_px": [
+    1171,
+    1906
+   ],
+   "original_bytes": 506333,
+   "maker": "Robert Venosa",
+   "title": "Untitled — winged flame figure",
+   "subtitle": "Painting",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 356.53,
+   "light": 0.2919
+  },
+  {
+   "id": "CRVI001186",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/386532",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001186.jpg",
+   "source_label": "",
+   "image": "images/CRVI001186.jpg",
+   "original": "originals/CRVI001186.jpg",
+   "vector": "",
+   "original_px": [
+    1024,
+    1024
+   ],
+   "original_bytes": 338525,
+   "maker": "Aïyb Dieng",
+   "title": "Rhythmagick",
+   "subtitle": "Designed by Aldo Sampieri, painting by Mati Klarwein, photograph by Thi-Linh Le · Subharmonic SD7021-2",
+   "year": "1997",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Aldo Sampieri"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "photographer",
+     "v": "Thi-Linh Le"
+    },
+    {
+     "k": "artist",
+     "v": "Aïyb Dieng"
+    },
+    {
+     "k": "label",
+     "v": "Subharmonic"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 40.58,
+   "light": 0.3189
+  },
+  {
+   "id": "CRVI001187",
+   "published": true,
+   "source_url": "https://insheepsclothinghifi.com/wordpress/wp-content/uploads/2025/05/467_1.jpeg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001187.jpg",
+   "source_label": "",
+   "image": "images/CRVI001187.jpg",
+   "original": "originals/CRVI001187.jpg",
+   "vector": "",
+   "original_px": [
+    986,
+    895
+   ],
+   "original_bytes": 1215600,
+   "maker": "Mati Klarwein",
+   "title": "The Last Poets, This Is Madness — back cover painting",
+   "subtitle": "Painting",
+   "year": "1971",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 5.39,
+   "light": 0.2502
+  },
+  {
+   "id": "CRVI001188",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/14868029",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001188.jpg",
+   "source_label": "",
+   "image": "images/CRVI001188.jpg",
+   "original": "originals/CRVI001188.jpg",
+   "vector": "",
+   "original_px": [
+    1200,
+    1200
+   ],
+   "original_bytes": 478880,
+   "maker": "Eric Dolphy",
+   "title": "Iron Man",
+   "subtitle": "Painting by Mati Klarwein, photograph by Don Schlitten · Douglas KZ 30873",
+   "year": "1971",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "photographer",
+     "v": "Don Schlitten"
+    },
+    {
+     "k": "artist",
+     "v": "Eric Dolphy"
+    },
+    {
+     "k": "label",
+     "v": "Douglas"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 345.12,
+   "light": 0.4882
+  },
+  {
+   "id": "CRVI001189",
+   "published": true,
+   "source_url": "https://insheepsclothinghifi.com/wordpress/wp-content/uploads/2025/05/tumblr_pet3nhB7d81qm8507_1280.jpeg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001189.jpg",
+   "source_label": "",
+   "image": "images/CRVI001189.jpg",
+   "original": "originals/CRVI001189.jpg",
+   "vector": "",
+   "original_px": [
+    1000,
+    1032
+   ],
+   "original_bytes": 272600,
+   "maker": "Mati Klarwein",
+   "title": "Soundscape",
+   "subtitle": "Painting",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 33.56,
+   "light": 0.4355
+  },
+  {
+   "id": "CRVI001190",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/images/gallery/camouflage-1985-1987.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001190.jpg",
+   "source_label": "",
+   "image": "images/CRVI001190.jpg",
+   "original": "originals/CRVI001190.jpg",
+   "vector": "",
+   "original_px": [
+    1024,
+    819
+   ],
+   "original_bytes": 332491,
+   "maker": "Mati Klarwein",
+   "title": "Camouflage",
+   "subtitle": "Painting",
+   "year": "1985–1987",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 36.04,
+   "light": 0.3131
+  },
+  {
+   "id": "CRVI001191",
+   "published": true,
+   "source_url": "https://d2w8kbdekdi1gv.cloudfront.net/eyJidWNrZXQiOiAiYXJ0ZXJhLWltYWdlcy1idWNrZXQiLCAia2V5IjogImFydHdvcmtzL2I0ZjMwYzI0LTNiOGYtNDhhMC04MWIyLWY1ZWQ4YzAxODFlMy9iNGYzMGMyNC0zYjhmLTQ4YTAtODFiMi1mNWVkOGMwMTgxZTNfZnVsbC5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsid2lkdGgiOiAxOTIwLCAiaGVpZ2h0IjogMTkyMCwgImZpdCI6ICJpbnNpZGUifX19",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001191.jpg",
+   "source_label": "",
+   "image": "images/CRVI001191.jpg",
+   "original": "originals/CRVI001191.jpg",
+   "vector": "",
+   "original_px": [
+    1920,
+    1920
+   ],
+   "original_bytes": 575016,
+   "maker": "Mati Klarwein",
+   "title": "Blessing",
+   "subtitle": "Painting",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 42.61,
+   "light": 0.5002
+  },
+  {
+   "id": "CRVI001192",
+   "published": true,
+   "source_url": "https://media.gq-magazine.co.uk/photos/5df90c953fb169000854ec07/master/w_1600%2Cc_limit/20191217-mati-klarwein-04.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001192.jpg",
+   "source_label": "",
+   "image": "images/CRVI001192.jpg",
+   "original": "originals/CRVI001192.jpg",
+   "vector": "",
+   "original_px": [
+    1600,
+    1600
+   ],
+   "original_bytes": 929454,
+   "maker": "Mati Klarwein",
+   "title": "Jimi Hendrix",
+   "subtitle": "Painting",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "subject",
+     "v": "Jimi Hendrix"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 5.4,
+   "light": 0.492
+  },
+  {
+   "id": "CRVI001193",
+   "published": true,
+   "source_url": "https://media.mutualart.com/Images//2025_03/03/07/88109069/mati-klarwein-mati-klarwein-02HT9.Jpeg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001193.jpg",
+   "source_label": "",
+   "image": "images/CRVI001193.jpg",
+   "original": "originals/CRVI001193.jpg",
+   "vector": "",
+   "original_px": [
+    1082,
+    2000
+   ],
+   "original_bytes": 1561738,
+   "maker": "Mati Klarwein",
+   "title": "Untitled",
+   "subtitle": "Painting",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 36.27,
+   "light": 0.3318
+  },
+  {
+   "id": "CRVI001194",
+   "published": true,
+   "source_url": "https://d2w8kbdekdi1gv.cloudfront.net/eyJidWNrZXQiOiAiYXJ0ZXJhLWltYWdlcy1idWNrZXQiLCAia2V5IjogImFydHdvcmtzLzQ3OWQ2ZDRmLWQyYTYtNDNiMC04YTFkLTFjODEwZWM3YzEzMy80NzlkNmQ0Zi1kMmE2LTQzYjAtOGExZC0xYzgxMGVjN2MxMzNfZnVsbC5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsid2lkdGgiOiAxOTIwLCAiaGVpZ2h0IjogMTkyMCwgImZpdCI6ICJpbnNpZGUifX19",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001194.jpg",
+   "source_label": "",
+   "image": "images/CRVI001194.jpg",
+   "original": "originals/CRVI001194.jpg",
+   "vector": "",
+   "original_px": [
+    1909,
+    1920
+   ],
+   "original_bytes": 433361,
+   "maker": "Mati Klarwein",
+   "title": "Angel, New York",
+   "subtitle": "Painting",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "black"
+    }
+   ],
+   "hue": 34.48,
+   "light": 0.1564
+  },
+  {
+   "id": "CRVI001195",
+   "published": true,
+   "source_url": "https://media.gq-magazine.co.uk/photos/5df90c2ce2d50100085d4762/16:9/w_2560%2Cc_limit/20191217-mati-klarwein-05.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001195.jpg",
+   "source_label": "",
+   "image": "images/CRVI001195.jpg",
+   "original": "originals/CRVI001195.jpg",
+   "vector": "",
+   "original_px": [
+    2560,
+    1440
+   ],
+   "original_bytes": 799730,
+   "maker": "Mati Klarwein",
+   "title": "Bitches Brew",
+   "subtitle": "Painting",
+   "year": "1969",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 14.39,
+   "light": 0.34
+  },
+  {
+   "id": "CRVI001196",
+   "published": true,
+   "source_url": "https://s.turbifycdn.com/aah/artbook/mati-the-music-52-record-covers-1955-2005-182.gif",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001196.jpg",
+   "source_label": "",
+   "image": "images/CRVI001196.jpg",
+   "original": "originals/CRVI001196.jpg",
+   "vector": "",
+   "original_px": [
+    1000,
+    1000
+   ],
+   "original_bytes": 571227,
+   "maker": "Mati Klarwein",
+   "title": "Time",
+   "subtitle": "Painting",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 45.05,
+   "light": 0.3821
+  },
+  {
+   "id": "CRVI001197",
+   "published": true,
+   "source_url": "https://d2w8kbdekdi1gv.cloudfront.net/eyJidWNrZXQiOiAiYXJ0ZXJhLWltYWdlcy1idWNrZXQiLCAia2V5IjogImFydHdvcmtzLzUzYWQzMTc1LWJmMDctNDA5MS1hZWJjLTQ5MjVjMjg1ZmQwNC81M2FkMzE3NS1iZjA3LTQwOTEtYWViYy00OTI1YzI4NWZkMDRfZnVsbC5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsid2lkdGgiOiAxOTIwLCAiaGVpZ2h0IjogMTkyMCwgImZpdCI6ICJpbnNpZGUifX19",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001197.jpg",
+   "source_label": "",
+   "image": "images/CRVI001197.jpg",
+   "original": "originals/CRVI001197.jpg",
+   "vector": "",
+   "original_px": [
+    1906,
+    1920
+   ],
+   "original_bytes": 830719,
+   "maker": "Mati Klarwein",
+   "title": "Alexander's Dream",
+   "subtitle": "Painting",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 197.1,
+   "light": 0.44
+  },
+  {
+   "id": "CRVI001198",
+   "published": true,
+   "source_url": "https://d2w8kbdekdi1gv.cloudfront.net/eyJidWNrZXQiOiAiYXJ0ZXJhLWltYWdlcy1idWNrZXQiLCAia2V5IjogImFydHdvcmtzL2U0MjM2NzEwLThhMDUtNDM2Zi1hZWY2LTNjNWM2ZWFiMTk2OC9lNDIzNjcxMC04YTA1LTQzNmYtYWVmNi0zYzVjNmVhYjE5NjhfZnVsbC5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsid2lkdGgiOiAxOTIwLCAiaGVpZ2h0IjogMTkyMCwgImZpdCI6ICJpbnNpZGUifX19",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001198.jpg",
+   "source_label": "",
+   "image": "images/CRVI001198.jpg",
+   "original": "originals/CRVI001198.jpg",
+   "vector": "",
+   "original_px": [
+    1911,
+    1920
+   ],
+   "original_bytes": 713849,
+   "maker": "Mati Klarwein",
+   "title": "You're Next",
+   "subtitle": "Painting",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 197.41,
+   "light": 0.4594
   }
  ]
 }

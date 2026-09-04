@@ -1,5 +1,5 @@
 {
- "next": 1182,
+ "next": 1199,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -49743,11 +49743,12 @@
    "identity_established": true,
    "published": false,
    "verification": "John Provencher’s own portfolio at johnprovencher.com, where he describes himself as \"an independent artist based in New York City\" whose \"practice explores the generative nature of software as a tool to output works both on/offline,\" and where this file is published under the project label \"nba x google\". Google is listed among his clients on the same page.",
-   "hue": 142.52,
-   "light": 0.2676,
-   "chroma": 0.6597,
+   "hue": null,
+   "light": 0.4515,
+   "chroma": 0.0394,
    "deleted": true,
-   "deleted_on": "2026-09-03"
+   "deleted_on": "2026-09-03",
+   "number_reused": true
   },
   "johnprovencher::on-clubhouse-paris": {
    "id": "CRVI000873",
@@ -59411,11 +59412,12 @@
    "identity_established": true,
    "published": false,
    "verification": "Held by the Museum of Modern Art, New York. The sheet letters itself NOH. Takenobu Igarashi is established as the designer: the work is held by the Museum of Modern Art or published by the artist's own archive. The title and date of THIS sheet are not established here.",
-   "hue": null,
-   "light": 0.3883,
-   "chroma": 0.0,
+   "hue": 34.49,
+   "light": 0.3857,
+   "chroma": 0.7241,
    "deleted": true,
-   "deleted_on": "2026-09-03"
+   "deleted_on": "2026-09-03",
+   "number_reused": true
   },
   "sent-2026-09-01::ab1927b656e2": {
    "id": "CRVI001054",
@@ -60301,11 +60303,12 @@
    "identity_established": true,
    "published": false,
    "verification": "Published on davidrudnick.org, the designer's own site. The poster letters its own occasion: TIGA / JDH / DAVE P, Friday Nov 09 2018, Making Time.",
-   "hue": null,
-   "light": 0.2508,
-   "chroma": 0.0002,
+   "hue": 324.92,
+   "light": 0.4609,
+   "chroma": 0.5588,
    "deleted": true,
-   "deleted_on": "2026-09-03"
+   "deleted_on": "2026-09-03",
+   "number_reused": true
   },
   "sent-2026-09-01::25baff171a7a": {
    "id": "CRVI001071",
@@ -61730,11 +61733,12 @@
    "identity_established": true,
    "published": false,
    "verification": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
-   "hue": 92.95,
-   "light": 0.4883,
-   "chroma": 0.5709,
+   "hue": 35.0,
+   "light": 0.5535,
+   "chroma": 0.9446,
    "deleted": true,
-   "deleted_on": "2026-09-03"
+   "deleted_on": "2026-09-03",
+   "number_reused": true
   },
   "sent-2026-09-01::20db2eb56cac": {
    "id": "CRVI001099",
@@ -61886,11 +61890,12 @@
    "identity_established": true,
    "published": false,
    "verification": "Kim Laughton is established as an artist by the published record — a British 3D artist and graphic designer who worked a decade in Shanghai and moved to Tokyo at the end of 2022, covered by The Creative Independent and Vice, shown by Jeu de Paume and Komiyama Tokyo, with work for PC Music, Fade to Mind and Hyperdub. THIS image comes from a portfolio the sender identifies as his, and its style matches the pieces in this same set that ARE sourced — the DIS Magazine cover and the Real Life illustration. The title and date are not established here.",
-   "hue": 25.64,
-   "light": 0.7705,
-   "chroma": 0.3194,
+   "hue": 346.71,
+   "light": 0.5661,
+   "chroma": 0.8855,
    "deleted": true,
-   "deleted_on": "2026-09-03"
+   "deleted_on": "2026-09-03",
+   "number_reused": true
   },
   "sent-2026-09-01::f793cae0ef1f": {
    "id": "CRVI001102",
@@ -62651,11 +62656,12 @@
    "identity_established": true,
    "published": false,
    "verification": "Wikimedia Commons, File:Werk-1948-magazine-cover.jpg, public domain: 'Cover for the Swiss monthly Werk, designed by Emil Ruder, 1948. Original size: 210 x 297 mm (A4).' The uploader's credit names the printed source it was scanned from — the reproduction on p. 39 of 'Ruder Typography – Ruder Philosophy', Lars Müller Publishers, Zurich. ⚠️ SO THIS IS A SCAN OF A REPRODUCTION, not a photograph of the object itself; the colour and paper are the book's, not the 1948 magazine's. Found by sweeping Wikimedia Commons for the designers on the held eMuseum list — it is a different Ruder object from the one Todd sent (the 1964 'moderne französische knüpfteppiche' leaflet), kept because it clears the 800 px floor at 1538 × 2187 where that one did not.",
-   "hue": null,
-   "light": 0.9515,
-   "chroma": 0.0047,
+   "hue": 9.12,
+   "light": 0.5656,
+   "chroma": 0.7369,
    "deleted": true,
-   "deleted_on": "2026-09-03"
+   "deleted_on": "2026-09-03",
+   "number_reused": true
   },
   "ume cover art 2026-09-03::andrew-hill-andrew-blue-note-bst-84203": {
    "id": "CRVI001114",
@@ -67287,6 +67293,1262 @@
    "hue": 48.24,
    "light": 0.5508,
    "chroma": 0.7567
+  },
+  "todd sent 2026-09-03::phil-the-blanks-phil-the-blanks": {
+   "id": "CRVI000872",
+   "minted": "2026-09-03",
+   "reused": true,
+   "previously": {
+    "identity": "johnprovencher::nba-x-google",
+    "maker": "John Provencher",
+    "title": "[NBA × Google]",
+    "deleted_on": "2026-09-03"
+   },
+   "original_file": "originals/CRVI000872.jpg",
+   "original_px": [
+    1016,
+    1024
+   ],
+   "original_bytes": 143834,
+   "identity": "todd sent 2026-09-03::phil-the-blanks-phil-the-blanks",
+   "maker": "Phil & The Blanks",
+   "title": "Phil & The Blanks",
+   "subtitle": "Designed by Art Hotel, Christopher Whorf, Mac James, photograph by Alec R. Costandinos · Ibis ARC 12510",
+   "year": "1980",
+   "label": "Ibis",
+   "notes": [
+    "Four identical hooded heads in a black-and-white checkerboard, photographed in a row so the repeat reads as one head smeared sideways.",
+    "The only type is the group's name, hand-lettered in a thin script at the top right, small against a picture that fills the whole square."
+   ],
+   "verified_against": "Identified from the artwork, which reads PHIL AND THE BLANKS, and checked against Discogs release 5498327 (Ibis ARC 12510, 1980). It credits the cover concept to Art Hotel, Christopher Whorf and Mac James, and the photography to Alec R. Costandinos. ⚠️ Discogs styles the group Phil & The Blanks; the sleeve itself sets it as 'Phil and the Blanks'. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
+   "source_record": "sent by Todd as an image URL, 2026-09-03",
+   "source_url": "https://www.vinilica.it/wordpress/wp-content/uploads/2019/06/PhilBlanks_LP01.jpg",
+   "catalogue": "ARC 12510",
+   "designers": [
+    "Art Hotel",
+    "Christopher Whorf",
+    "Mac James"
+   ],
+   "discogs_release": 5498327,
+   "source_page": "https://www.discogs.com/release/5498327",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/pasted/01.bin",
+   "source_px": [
+    1016,
+    1024
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Art Hotel"
+    },
+    {
+     "k": "designer",
+     "v": "Christopher Whorf"
+    },
+    {
+     "k": "designer",
+     "v": "Mac James"
+    },
+    {
+     "k": "photographer",
+     "v": "Alec R. Costandinos"
+    },
+    {
+     "k": "artist",
+     "v": "Phil & The Blanks"
+    },
+    {
+     "k": "label",
+     "v": "Ibis"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which reads PHIL AND THE BLANKS, and checked against Discogs release 5498327 (Ibis ARC 12510, 1980). It credits the cover concept to Art Hotel, Christopher Whorf and Mac James, and the photography to Alec R. Costandinos. ⚠️ Discogs styles the group Phil & The Blanks; the sleeve itself sets it as 'Phil and the Blanks'. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
+   "hue": null,
+   "light": 0.4515,
+   "chroma": 0.0394
+  },
+  "todd sent 2026-09-03::yello-solid-pleasure": {
+   "id": "CRVI001053",
+   "minted": "2026-09-03",
+   "reused": true,
+   "previously": {
+    "identity": "sent-2026-09-01::5d24e277fc87",
+    "maker": "Takenobu Igarashi",
+    "title": "NOH",
+    "deleted_on": "2026-09-03"
+   },
+   "original_file": "originals/CRVI001053.jpg",
+   "original_px": [
+    1000,
+    1000
+   ],
+   "original_bytes": 171086,
+   "identity": "todd sent 2026-09-03::yello-solid-pleasure",
+   "maker": "Yello",
+   "title": "Solid Pleasure",
+   "subtitle": "Designer unrecorded · Ralph Records YL 8059-L",
+   "year": "1980",
+   "label": "Ralph Records",
+   "notes": [
+    "A photographed toy — a pink infant body in a nappy wearing a green bug mask with bulging stalked eyes — cut out and dropped on an orange ground over a fine printed grid.",
+    "The group's name is set in a heavy white sans in the top right corner; the title runs along the very bottom edge, half lost against the figure."
+   ],
+   "verified_against": "Identified from the artwork, which reads YELLO / SOLID PLEASURE, and checked against Discogs release 293818 (Ralph Records YL 8059-L, 1980), the main release of master 35165. ⚠️ It credits only the BACK cover, to Nick Urbaniak. Nobody is credited with the front, so no designer is claimed here. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
+   "source_record": "sent by Todd as an image URL, 2026-09-03",
+   "source_url": "https://m.media-amazon.com/images/I/81I9QcE1yxL._UF1000,1000_QL80_.jpg",
+   "catalogue": "YL 8059-L",
+   "discogs_release": 293818,
+   "source_page": "https://www.discogs.com/release/293818",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/pasted/02.bin",
+   "source_px": [
+    1000,
+    1000
+   ],
+   "colors": [
+    "orange",
+    "pink"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Ralph Records"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which reads YELLO / SOLID PLEASURE, and checked against Discogs release 293818 (Ralph Records YL 8059-L, 1980), the main release of master 35165. ⚠️ It credits only the BACK cover, to Nick Urbaniak. Nobody is credited with the front, so no designer is claimed here. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
+   "hue": 34.49,
+   "light": 0.3857,
+   "chroma": 0.7241
+  },
+  "todd sent 2026-09-03::lo-key-where-dey-at": {
+   "id": "CRVI001070",
+   "minted": "2026-09-03",
+   "reused": true,
+   "previously": {
+    "identity": "sent-2026-09-01::f6fda9098b93",
+    "maker": "David Rudnick",
+    "title": "Poster for Making Time — Tiga, JDH, Dave P",
+    "deleted_on": "2026-09-03"
+   },
+   "original_file": "originals/CRVI001070.jpg",
+   "original_px": [
+    1200,
+    1200
+   ],
+   "original_bytes": 407611,
+   "identity": "todd sent 2026-09-03::lo-key-where-dey-at",
+   "maker": "Lo-Key?",
+   "title": "Where Dey At?",
+   "subtitle": "Designed by Kevin Hosmann, photograph by Eddie Wolfl · Perspective Records 28968 1003 2",
+   "year": "1992",
+   "label": "Perspective Records",
+   "notes": [
+    "A photomontage of the group cut out and layered over street furniture — a STOP sign, an ALL WAY plate, a green street blade — each shot tinted a different flat colour.",
+    "The title sits in a yellow band across the top and the group's name in a red-outlined cartoon logo beneath it, both fighting the collage rather than sitting on it."
+   ],
+   "verified_against": "Identified from the artwork, which reads WHERE DEY AT? / LO-KEY?, and checked against Discogs release 1653291 (Perspective Records 28968 1003 2, 1992). It credits the design to Kevin Hosmann and the photography to Eddie Wolfl. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
+   "source_record": "sent by Todd as an image URL, 2026-09-03",
+   "source_url": "https://cdn-images.dzcdn.net/images/cover/7999d22f782cbbc37e75003ecf4a154d/0x1900-000000-80-0-0.jpg",
+   "catalogue": "28968 1003 2",
+   "designers": [
+    "Kevin Hosmann"
+   ],
+   "discogs_release": 1653291,
+   "source_page": "https://www.discogs.com/release/1653291",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/pasted/03.bin",
+   "source_px": [
+    1200,
+    1200
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Kevin Hosmann"
+    },
+    {
+     "k": "photographer",
+     "v": "Eddie Wolfl"
+    },
+    {
+     "k": "label",
+     "v": "Perspective Records"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which reads WHERE DEY AT? / LO-KEY?, and checked against Discogs release 1653291 (Perspective Records 28968 1003 2, 1992). It credits the design to Kevin Hosmann and the photography to Eddie Wolfl. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
+   "hue": 324.92,
+   "light": 0.4609,
+   "chroma": 0.5588
+  },
+  "todd sent 2026-09-03::einst-rzende-neubauten-kollaps": {
+   "id": "CRVI001098",
+   "minted": "2026-09-03",
+   "reused": true,
+   "previously": {
+    "identity": "sent-2026-09-01::2da6029f73de",
+    "maker": "Kim Laughton",
+    "title": "Untitled",
+    "deleted_on": "2026-09-03"
+   },
+   "original_file": "originals/CRVI001098.jpg",
+   "original_px": [
+    1000,
+    1000
+   ],
+   "original_bytes": 128727,
+   "identity": "todd sent 2026-09-03::einst-rzende-neubauten-kollaps",
+   "maker": "Einstürzende Neubauten",
+   "title": "Kollaps",
+   "subtitle": "Designer unrecorded · ZickZack ZZ 65",
+   "year": "1981",
+   "label": "ZickZack",
+   "notes": [
+    "A single brush-drawn glyph — a circle with a filled centre on a stick body with two hooked arms and a splayed base — alone in the middle of a flat tan ground.",
+    "The band's name is hand-lettered above it in the same brush, letters of uneven width and baseline, so the type and the mark read as one drawing."
+   ],
+   "verified_against": "Identified from the artwork, which reads EINSTÜRZENDE NEUBAUTEN, and checked against Discogs release 86094 (ZickZack ZZ 65, 1981). ⚠️ No pressing checked carries a design credit, so none is claimed — the drawn figure is uncredited on Discogs. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
+   "source_record": "sent by Todd as an image URL, 2026-09-03",
+   "source_url": "https://post-punk.com/wp-content/uploads/2017/10/1000full-kollaps-cover.jpg",
+   "catalogue": "ZZ 65",
+   "discogs_release": 86094,
+   "source_page": "https://www.discogs.com/release/86094",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/pasted/04.bin",
+   "source_px": [
+    1000,
+    1000
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "ZickZack"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which reads EINSTÜRZENDE NEUBAUTEN, and checked against Discogs release 86094 (ZickZack ZZ 65, 1981). ⚠️ No pressing checked carries a design credit, so none is claimed — the drawn figure is uncredited on Discogs. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
+   "hue": 35.0,
+   "light": 0.5535,
+   "chroma": 0.9446
+  },
+  "todd sent 2026-09-03::the-chocolate-watchband-no-way-out": {
+   "id": "CRVI001101",
+   "minted": "2026-09-03",
+   "reused": true,
+   "previously": {
+    "identity": "sent-2026-09-01::510668a7b3f3",
+    "maker": "Kim Laughton",
+    "title": "Untitled",
+    "deleted_on": "2026-09-03"
+   },
+   "original_file": "originals/CRVI001101.jpg",
+   "original_px": [
+    1176,
+    1176
+   ],
+   "original_bytes": 448299,
+   "identity": "todd sent 2026-09-03::the-chocolate-watchband-no-way-out",
+   "maker": "The Chocolate Watchband",
+   "title": "No Way Out",
+   "subtitle": "Designer unrecorded · Tower T-5096",
+   "year": "1967",
+   "label": "Tower",
+   "notes": [
+    "An airbrushed head in profile, hollowed out so the sky and clouds pass through it, with the eyes replaced by two striped roundels.",
+    "The band's own eye-in-a-square logo and the track list are set into the left edge as flat white panels laid over the illustration."
+   ],
+   "verified_against": "Identified from the artwork, which reads CHOCOLATE WATCH BAND / NO WAY OUT, and checked against Discogs release 17785471 (Tower T-5096, 1967). ⚠️ No design credit on any pressing checked, so none is claimed. ⚠️ The file was squared from 1200 × 1176 to 1176 × 1176 on 2026-09-03 — the source scan bleeds to all four edges with no border, so this is a geometric squaring of an LP sleeve, not a crop away from anything. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
+   "source_record": "sent by Todd as an image URL, 2026-09-03",
+   "source_url": "https://media.s-bol.com/rmG53q8mOk2w/GZLR7R5/1200x1176.jpg",
+   "catalogue": "T-5096",
+   "discogs_release": 17785471,
+   "source_page": "https://www.discogs.com/release/17785471",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/pasted/05.bin",
+   "source_px": [
+    1176,
+    1176
+   ],
+   "colors": [
+    "red",
+    "pink"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Tower"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which reads CHOCOLATE WATCH BAND / NO WAY OUT, and checked against Discogs release 17785471 (Tower T-5096, 1967). ⚠️ No design credit on any pressing checked, so none is claimed. ⚠️ The file was squared from 1200 × 1176 to 1176 × 1176 on 2026-09-03 — the source scan bleeds to all four edges with no border, so this is a geometric squaring of an LP sleeve, not a crop away from anything. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
+   "hue": 346.71,
+   "light": 0.5661,
+   "chroma": 0.8855
+  },
+  "todd sent 2026-09-03::unattributed-olivetti-cover-with-geometric-panels": {
+   "id": "CRVI001113",
+   "minted": "2026-09-03",
+   "reused": true,
+   "previously": {
+    "identity": "sweep-2026-09-03::werk-1948-ruder",
+    "maker": "Emil Ruder",
+    "title": "Werk: Schweizer Monatsschrift für Architektur, Kunst & künstlerisches Gewerbe",
+    "deleted_on": "2026-09-03"
+   },
+   "original_file": "originals/CRVI001113.jpg",
+   "original_px": [
+    900,
+    904
+   ],
+   "original_bytes": 190401,
+   "identity": "todd sent 2026-09-03::unattributed-olivetti-cover-with-geometric-panels",
+   "maker": "unattributed",
+   "title": "Olivetti — cover with geometric panels",
+   "subtitle": "Designer unrecorded",
+   "year": "",
+   "label": "",
+   "notes": [
+    "Five vertical panels, each a different flat pattern — half-square triangles, a plain dark bar, stacked diamonds, and two columns of tall triangles.",
+    "Only the word 'olivetti' appears, set small and lower case in white on the one dark panel, which is the only panel with no pattern in it."
+   ],
+   "verified_against": "nothing established yet. The cover carries only the word 'olivetti', and the file is published by illustrationhistory.org as 'Figure 40 - Olivetti design' with no visible caption naming a designer, date or publication. Olivetti's graphics in this period run through Giovanni Pintori, Egidio Bonfante and Marcello Nizzoli among others, and this cover looks like that school — but looking like it is not evidence, and a wrong attribution in an archive outlives whoever wrote it. Held until the source page or an Olivetti archive names it.",
+   "source_record": "sent by Todd as an image URL, 2026-09-03",
+   "source_url": "https://www.illustrationhistory.org/images/uploads/Figure_40_-_Olivetti_design.jpg",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/pasted/06.bin",
+   "source_px": [
+    900,
+    904
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    }
+   ],
+   "identity_established": false,
+   "published": false,
+   "verification": "nothing established yet. The cover carries only the word 'olivetti', and the file is published by illustrationhistory.org as 'Figure 40 - Olivetti design' with no visible caption naming a designer, date or publication. Olivetti's graphics in this period run through Giovanni Pintori, Egidio Bonfante and Marcello Nizzoli among others, and this cover looks like that school — but looking like it is not evidence, and a wrong attribution in an archive outlives whoever wrote it. Held until the source page or an Olivetti archive names it.",
+   "hue": 9.12,
+   "light": 0.5656,
+   "chroma": 0.7369
+  },
+  "todd sent 2026-09-03::unattributed-statue-of-liberty-with-bloomingdale-s-shopping-bags": {
+   "id": "CRVI001182",
+   "minted": "2026-09-03",
+   "original_file": "originals/CRVI001182.jpg",
+   "original_px": [
+    1654,
+    2400
+   ],
+   "original_bytes": 1399949,
+   "identity": "todd sent 2026-09-03::unattributed-statue-of-liberty-with-bloomingdale-s-shopping-bags",
+   "maker": "unattributed",
+   "title": "Statue of Liberty with Bloomingdale's shopping bags",
+   "subtitle": "Designer unrecorded",
+   "year": "",
+   "label": "",
+   "notes": [
+    "The Statue of Liberty drawn as a passenger slumped in the back of a car, surrounded by shopping bags, with the city going past the rear window.",
+    "Coloured pencil over a green underdrawing; the copper of the statue is the only cool colour, and everything she is carrying is warm."
+   ],
+   "verified_against": "nothing established yet. The illustration is unmistakably a Bloomingdale's advertisement — the 'big brown bag' is the store's own — but the file was supplied from an Arthive image path and Arthive returned HTTP 429 to every attempt to read the record behind it, so no artist, date or campaign has been confirmed. Held rather than guessed.",
+   "source_record": "sent by Todd as an image URL, 2026-09-03",
+   "source_url": "https://arthive.com/res/media/img/oy1200/work/787/128753@2x.jpg",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/pasted/07.bin",
+   "source_px": [
+    1654,
+    2400
+   ],
+   "colors": [
+    "cyan",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "illustration"
+    }
+   ],
+   "identity_established": false,
+   "published": false,
+   "verification": "nothing established yet. The illustration is unmistakably a Bloomingdale's advertisement — the 'big brown bag' is the store's own — but the file was supplied from an Arthive image path and Arthive returned HTTP 429 to every attempt to read the record behind it, so no artist, date or campaign has been confirmed. Held rather than guessed.",
+   "hue": 173.71,
+   "light": 0.5877,
+   "chroma": 0.4617
+  },
+  "todd sent 2026-09-03::unattributed-ravine-of-faces-with-a-luminous-figure": {
+   "id": "CRVI001183",
+   "minted": "2026-09-03",
+   "original_file": "originals/CRVI001183.jpg",
+   "original_px": [
+    1216,
+    1600
+   ],
+   "original_bytes": 453335,
+   "identity": "todd sent 2026-09-03::unattributed-ravine-of-faces-with-a-luminous-figure",
+   "maker": "unattributed",
+   "title": "Ravine of faces with a luminous figure",
+   "subtitle": "Painting",
+   "year": "",
+   "label": "",
+   "notes": [
+    "Two cliff walls made entirely of human faces, packed like scree, converging on a narrow gap of blue sky.",
+    "One figure stands in the gorge floor rendered as pure white light, the only thing in the picture that is not a face."
+   ],
+   "verified_against": "nothing established yet. Todd supplied it from a Tumblr CDN url, which carries no post, caption or attribution. It is painted in the Fantastic Realist manner of Ernst Fuchs, Robert Venosa and Mati Klarwein, and it is NOT one of the 135 works on Klarwein's official site — the closest match there is 103 hash-distance away, which is no match at all. Held: the style narrows the field but does not name anybody.",
+   "source_record": "sent by Todd as an image URL, 2026-09-03",
+   "source_url": "https://64.media.tumblr.com/94556cac859f10a1705e274c205f49a1/tumblr_nyrjosAqWO1sndzdgo1_1280.jpg",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/pasted/08.bin",
+   "source_px": [
+    1216,
+    1600
+   ],
+   "colors": [
+    "cyan",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    }
+   ],
+   "identity_established": false,
+   "published": false,
+   "verification": "nothing established yet. Todd supplied it from a Tumblr CDN url, which carries no post, caption or attribution. It is painted in the Fantastic Realist manner of Ernst Fuchs, Robert Venosa and Mati Klarwein, and it is NOT one of the 135 works on Klarwein's official site — the closest match there is 103 hash-distance away, which is no match at all. Held: the style narrows the field but does not name anybody.",
+   "hue": 200.73,
+   "light": 0.2516,
+   "chroma": 0.2224
+  },
+  "todd sent 2026-09-03::robert-venosa-untitled-luminous-tree": {
+   "id": "CRVI001184",
+   "minted": "2026-09-03",
+   "original_file": "originals/CRVI001184.jpg",
+   "original_px": [
+    1600,
+    1019
+   ],
+   "original_bytes": 609431,
+   "identity": "todd sent 2026-09-03::robert-venosa-untitled-luminous-tree",
+   "maker": "Robert Venosa",
+   "title": "Untitled — luminous tree",
+   "subtitle": "Painting",
+   "year": "",
+   "label": "",
+   "notes": [
+    "A single tree filling the frame, its canopy built from thousands of small encrusted forms rather than leaves, lit from a white core at the trunk's crown.",
+    "The ground is a thin band at the bottom and the sky is black, so the tree is the only lit thing in the painting."
+   ],
+   "verified_against": "nothing confirmed. The file is doorofperception.com-robert_venosa-5.jpg, the fifth image in Door of Perception's article 'Robert Venosa: Timeless Vistas of Inner Realities' (August 2016) — so the attribution to Venosa is a strong inference from an article entirely about him. ⚠️ But that article carries NO captions, no alt text and no titles: appearing inside a piece about an artist is not the same as being attributed to them. venosa.com is a Wix site whose gallery publishes no per-image titles either. Held until a dealer or museum listing names it — the Henry Boxer Gallery represents the estate.",
+   "source_record": "sent by Todd as an image URL, 2026-09-03",
+   "source_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiXTBmn80aS_D8OcIwiH3NgT295Ik_LEiqGAvB7AdfOl4GFmIbxN73rtAOlulT8AF0LbMwRCieT7oMVCbSg_ycp-Mfe0J9RmRNkn-5rS71SMnd6TdXfD8bgtrZ-c2yVVrMCyQ2_m_tDxs/s1600/doorofperception.com-robert_venosa-5.jpg",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/pasted/09.bin",
+   "source_px": [
+    1600,
+    1019
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    }
+   ],
+   "identity_established": false,
+   "published": false,
+   "verification": "nothing confirmed. The file is doorofperception.com-robert_venosa-5.jpg, the fifth image in Door of Perception's article 'Robert Venosa: Timeless Vistas of Inner Realities' (August 2016) — so the attribution to Venosa is a strong inference from an article entirely about him. ⚠️ But that article carries NO captions, no alt text and no titles: appearing inside a piece about an artist is not the same as being attributed to them. venosa.com is a Wix site whose gallery publishes no per-image titles either. Held until a dealer or museum listing names it — the Henry Boxer Gallery represents the estate.",
+   "hue": 19.1,
+   "light": 0.3221,
+   "chroma": 0.5801
+  },
+  "todd sent 2026-09-03::robert-venosa-untitled-winged-flame-figure": {
+   "id": "CRVI001185",
+   "minted": "2026-09-03",
+   "original_file": "originals/CRVI001185.jpg",
+   "original_px": [
+    1171,
+    1906
+   ],
+   "original_bytes": 506333,
+   "identity": "todd sent 2026-09-03::robert-venosa-untitled-winged-flame-figure",
+   "maker": "Robert Venosa",
+   "title": "Untitled — winged flame figure",
+   "subtitle": "Painting",
+   "year": "",
+   "label": "",
+   "notes": [
+    "A symmetrical winged form built from interlocking blades of orange and white fire, rising out of a violet ground worked into knotted, bone-like relief.",
+    "The whole picture is mirrored about its vertical axis, so every accident on the left is repeated exactly on the right."
+   ],
+   "verified_against": "nothing confirmed. Supplied from a Reddit image path whose slug reads 'robert-venosa-psychedelics-art-1970s'. ⚠️ A filename is not an attribution — that is exactly how a wrong name gets into an archive — and Reddit is not a source the museum's bar accepts. The painting carries a signature at the lower right which a better reproduction may resolve. Held.",
+   "source_record": "sent by Todd as an image URL, 2026-09-03",
+   "source_url": "https://i.redd.it/robert-venosa-psychedelics-art-1970s-v0-n18upzyl12kg1.jpg?width=1171&format=pjpg&auto=webp&s=8eff703c92e3033ea3948c1366f1063620ad4ee6",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/pasted/10.bin",
+   "source_px": [
+    1171,
+    1906
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    }
+   ],
+   "identity_established": false,
+   "published": false,
+   "verification": "nothing confirmed. Supplied from a Reddit image path whose slug reads 'robert-venosa-psychedelics-art-1970s'. ⚠️ A filename is not an attribution — that is exactly how a wrong name gets into an archive — and Reddit is not a source the museum's bar accepts. The painting carries a signature at the lower right which a better reproduction may resolve. Held.",
+   "hue": 356.53,
+   "light": 0.2919,
+   "chroma": 0.7492
+  },
+  "todd sent 2026-09-03::a-yb-dieng-rhythmagick": {
+   "id": "CRVI001186",
+   "minted": "2026-09-03",
+   "original_file": "originals/CRVI001186.jpg",
+   "original_px": [
+    1024,
+    1024
+   ],
+   "original_bytes": 338525,
+   "identity": "todd sent 2026-09-03::a-yb-dieng-rhythmagick",
+   "maker": "Aïyb Dieng",
+   "title": "Rhythmagick",
+   "subtitle": "Designed by Aldo Sampieri, painting by Mati Klarwein, photograph by Thi-Linh Le · Subharmonic SD7021-2",
+   "year": "1997",
+   "label": "Subharmonic",
+   "notes": [
+    "A painted proscenium: a village gateway of woven fencing opening onto a lit river and a sail, with a fire burning on the lintel.",
+    "A woman's face fills the sky above it inside a flaring orange corona, and the title is set across her throat in a thin spaced serif that the painting almost swallows."
+   ],
+   "verified_against": "Identified from the artwork, which reads AIYB DIENG / RHYTHMAGICK, and checked against Discogs release 386532 (Subharmonic SD7021-2, 1997), which credits the cover painting to Mati Klarwein, the design to Aldo Sampieri and photography to Thi-Linh Le. In Sheep's Clothing's Klarwein feature of 14 May 2025 captions this same image 'Aïyb Dieng and Bill Laswell's Rhythmagick cover by Mati Klarwein'. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
+   "source_record": "sent by Todd as an image URL, 2026-09-03",
+   "source_url": "https://insheepsclothinghifi.com/wordpress/wp-content/uploads/2025/05/a2474781262_10-1024x1024.jpeg",
+   "catalogue": "SD7021-2",
+   "designers": [
+    "Aldo Sampieri"
+   ],
+   "discogs_release": 386532,
+   "source_page": "https://www.discogs.com/release/386532",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/pasted/12.bin",
+   "source_px": [
+    1024,
+    1024
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Aldo Sampieri"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "photographer",
+     "v": "Thi-Linh Le"
+    },
+    {
+     "k": "artist",
+     "v": "Aïyb Dieng"
+    },
+    {
+     "k": "label",
+     "v": "Subharmonic"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which reads AIYB DIENG / RHYTHMAGICK, and checked against Discogs release 386532 (Subharmonic SD7021-2, 1997), which credits the cover painting to Mati Klarwein, the design to Aldo Sampieri and photography to Thi-Linh Le. In Sheep's Clothing's Klarwein feature of 14 May 2025 captions this same image 'Aïyb Dieng and Bill Laswell's Rhythmagick cover by Mati Klarwein'. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
+   "hue": 40.58,
+   "light": 0.3189,
+   "chroma": 0.6098
+  },
+  "todd sent 2026-09-03::mati-klarwein-the-last-poets-this-is-madness-back-cover-painting": {
+   "id": "CRVI001187",
+   "minted": "2026-09-03",
+   "original_file": "originals/CRVI001187.jpg",
+   "original_px": [
+    986,
+    895
+   ],
+   "original_bytes": 1215600,
+   "identity": "todd sent 2026-09-03::mati-klarwein-the-last-poets-this-is-madness-back-cover-painting",
+   "maker": "Mati Klarwein",
+   "title": "The Last Poets, This Is Madness — back cover painting",
+   "subtitle": "Painting",
+   "year": "1971",
+   "label": "",
+   "notes": [
+    "A crowd of figures with drums against a wall of red and orange flame, everything lit as though the fire is the only light source.",
+    "The palette is pushed past naturalism — acid greens and yellows on the clothing against the red — and a face at the right edge is cropped by the frame at twice the scale of the rest."
+   ],
+   "verified_against": "Identified from In Sheep's Clothing's Mati Klarwein feature of 14 May 2025, which publishes this exact file (467_1.jpeg) under the caption 'The Last Poets, ‘This is Madness’ back cover painted by Mati Klarwein.' ⚠️ The front cover of that record is a different Klarwein painting, held on his official site as LAST-POETS-this-is-madness; this is the back. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
+   "source_record": "sent by Todd as an image URL, 2026-09-03",
+   "source_url": "https://insheepsclothinghifi.com/wordpress/wp-content/uploads/2025/05/467_1.jpeg",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/pasted/13.bin",
+   "source_px": [
+    986,
+    895
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from In Sheep's Clothing's Mati Klarwein feature of 14 May 2025, which publishes this exact file (467_1.jpeg) under the caption 'The Last Poets, ‘This is Madness’ back cover painted by Mati Klarwein.' ⚠️ The front cover of that record is a different Klarwein painting, held on his official site as LAST-POETS-this-is-madness; this is the back. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
+   "hue": 5.39,
+   "light": 0.2502,
+   "chroma": 0.6428
+  },
+  "todd sent 2026-09-03::eric-dolphy-iron-man": {
+   "id": "CRVI001188",
+   "minted": "2026-09-03",
+   "original_file": "originals/CRVI001188.jpg",
+   "original_px": [
+    1200,
+    1200
+   ],
+   "original_bytes": 478880,
+   "identity": "todd sent 2026-09-03::eric-dolphy-iron-man",
+   "maker": "Eric Dolphy",
+   "title": "Iron Man",
+   "subtitle": "Painting by Mati Klarwein, photograph by Don Schlitten · Douglas KZ 30873",
+   "year": "1971",
+   "label": "Douglas",
+   "notes": [
+    "A painted mandala of nested triangles and concentric rings in magenta, violet and orange, symmetrical about a vertical axis.",
+    "A photographic portrait of Dolphy holding the bass clarinet is set into the middle of it, small and frontal, so the ornament reads as a shrine around him."
+   ],
+   "verified_against": "Identified from the artwork, which reads ERIC DOLPHY / IRON MAN, and checked against Discogs release 14868029 (Douglas KZ 30873, 1971). It credits the painting to 'Abdul Mati' — Abdul Mati Klarwein, the name he signed in that period — and the photography to Don Schlitten. ⚠️ Recorded in 1963; this sleeve is the 1971 issue. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
+   "source_record": "sent by Todd as an image URL, 2026-09-03",
+   "source_url": "https://insheepsclothinghifi.com/wordpress/wp-content/uploads/2025/05/1200x1200bf-60.jpeg",
+   "catalogue": "KZ 30873",
+   "discogs_release": 14868029,
+   "source_page": "https://www.discogs.com/release/14868029",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/pasted/14.bin",
+   "source_px": [
+    1200,
+    1200
+   ],
+   "colors": [
+    "pink",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "photographer",
+     "v": "Don Schlitten"
+    },
+    {
+     "k": "artist",
+     "v": "Eric Dolphy"
+    },
+    {
+     "k": "label",
+     "v": "Douglas"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which reads ERIC DOLPHY / IRON MAN, and checked against Discogs release 14868029 (Douglas KZ 30873, 1971). It credits the painting to 'Abdul Mati' — Abdul Mati Klarwein, the name he signed in that period — and the photography to Don Schlitten. ⚠️ Recorded in 1963; this sleeve is the 1971 issue. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
+   "hue": 345.12,
+   "light": 0.4882,
+   "chroma": 0.9443
+  },
+  "todd sent 2026-09-03::mati-klarwein-soundscape": {
+   "id": "CRVI001189",
+   "minted": "2026-09-03",
+   "original_file": "originals/CRVI001189.jpg",
+   "original_px": [
+    1000,
+    1032
+   ],
+   "original_bytes": 272600,
+   "identity": "todd sent 2026-09-03::mati-klarwein-soundscape",
+   "maker": "Mati Klarwein",
+   "title": "Soundscape",
+   "subtitle": "Painting",
+   "year": "",
+   "label": "",
+   "notes": [
+    "Terraced paddies drawn as stacked ribbons of water and earth, each terrace holding a mirror-flat sheet of sky.",
+    "Two things refuse the illusion: a hard red vertical bar dropped over the middle distance, and a black-and-white dashed path running up from the bottom edge."
+   ],
+   "verified_against": "Matched at a perceptual-hash distance of 2 to L15-Soundscape.jpg on Klarwein's official site, matiklarweinart.com. In Sheep's Clothing's feature of 14 May 2025 publishes this exact file under the caption 'Jon Hassell's Aka/Darbari/Java: Magic Realism, with artwork by Mati Klarwein', so the painting is Soundscape and the record it was used on is that 1983 Hassell album. ⚠️ The site gives no year for the painting, so none is claimed. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
+   "source_record": "sent by Todd as an image URL, 2026-09-03",
+   "source_url": "https://insheepsclothinghifi.com/wordpress/wp-content/uploads/2025/05/tumblr_pet3nhB7d81qm8507_1280.jpeg",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/pasted/15.bin",
+   "source_px": [
+    1000,
+    1032
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Matched at a perceptual-hash distance of 2 to L15-Soundscape.jpg on Klarwein's official site, matiklarweinart.com. In Sheep's Clothing's feature of 14 May 2025 publishes this exact file under the caption 'Jon Hassell's Aka/Darbari/Java: Magic Realism, with artwork by Mati Klarwein', so the painting is Soundscape and the record it was used on is that 1983 Hassell album. ⚠️ The site gives no year for the painting, so none is claimed. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
+   "hue": 33.56,
+   "light": 0.4355,
+   "chroma": 0.7805
+  },
+  "todd sent 2026-09-03::mati-klarwein-camouflage": {
+   "id": "CRVI001190",
+   "minted": "2026-09-03",
+   "original_file": "originals/CRVI001190.jpg",
+   "original_px": [
+    1024,
+    819
+   ],
+   "original_bytes": 332491,
+   "identity": "todd sent 2026-09-03::mati-klarwein-camouflage",
+   "maker": "Mati Klarwein",
+   "title": "Camouflage",
+   "subtitle": "Painting",
+   "year": "1985–1987",
+   "label": "",
+   "notes": [
+    "An olive grove seen from above, the terraces curving across the whole canvas as bands of red earth, dry gold and green.",
+    "Every tree is painted at the same small scale with the same blue-grey canopy, so the field reads as pattern before it reads as landscape."
+   ],
+   "verified_against": "From Klarwein's official site, matiklarweinart.com, where the file is published as camouflage-1985-1987.jpg — the filename carries both the title and the dates. Matched at a perceptual-hash distance of 5 to the gallery's own L22-camouflage.jpg. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
+   "source_record": "sent by Todd as an image URL, 2026-09-03",
+   "source_url": "https://www.matiklarweinart.com/images/gallery/camouflage-1985-1987.jpg",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/pasted/16.bin",
+   "source_px": [
+    1024,
+    819
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "From Klarwein's official site, matiklarweinart.com, where the file is published as camouflage-1985-1987.jpg — the filename carries both the title and the dates. Matched at a perceptual-hash distance of 5 to the gallery's own L22-camouflage.jpg. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
+   "hue": 36.04,
+   "light": 0.3131,
+   "chroma": 0.5688
+  },
+  "todd sent 2026-09-03::mati-klarwein-blessing": {
+   "id": "CRVI001191",
+   "minted": "2026-09-03",
+   "original_file": "originals/CRVI001191.jpg",
+   "original_px": [
+    1920,
+    1920
+   ],
+   "original_bytes": 575016,
+   "identity": "todd sent 2026-09-03::mati-klarwein-blessing",
+   "maker": "Mati Klarwein",
+   "title": "Blessing",
+   "subtitle": "Painting",
+   "year": "",
+   "label": "",
+   "notes": [
+    "Two black hands rise into a flat gold disc, each finger tipped with red, with a face looking straight out from between the wrists.",
+    "Three blue-and-red discs stack up the centre line, and the gold is surrounded by dense linear ornament in two different registers, left and right."
+   ],
+   "verified_against": "Matched at a perceptual-hash distance of 1 to V15-Blessing(HIGH_RES).jpg on Klarwein's official site. The file held here is the 1920 px version served by Artera, which is larger than the site's own 567 px copy. Matched by perceptual hash against the 135 artworks on Mati Klarwein's official site, matiklarweinart.com — the site publishes no titles in its markup, so the title here is the one carried by its own image filename. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
+   "source_record": "sent by Todd as an image URL, 2026-09-03",
+   "source_url": "https://d2w8kbdekdi1gv.cloudfront.net/eyJidWNrZXQiOiAiYXJ0ZXJhLWltYWdlcy1idWNrZXQiLCAia2V5IjogImFydHdvcmtzL2I0ZjMwYzI0LTNiOGYtNDhhMC04MWIyLWY1ZWQ4YzAxODFlMy9iNGYzMGMyNC0zYjhmLTQ4YTAtODFiMi1mNWVkOGMwMTgxZTNfZnVsbC5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsid2lkdGgiOiAxOTIwLCAiaGVpZ2h0IjogMTkyMCwgImZpdCI6ICJpbnNpZGUifX19",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/pasted/17.bin",
+   "source_px": [
+    1920,
+    1920
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Matched at a perceptual-hash distance of 1 to V15-Blessing(HIGH_RES).jpg on Klarwein's official site. The file held here is the 1920 px version served by Artera, which is larger than the site's own 567 px copy. Matched by perceptual hash against the 135 artworks on Mati Klarwein's official site, matiklarweinart.com — the site publishes no titles in its markup, so the title here is the one carried by its own image filename. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
+   "hue": 42.61,
+   "light": 0.5002,
+   "chroma": 0.8849
+  },
+  "todd sent 2026-09-03::mati-klarwein-jimi-hendrix": {
+   "id": "CRVI001192",
+   "minted": "2026-09-03",
+   "original_file": "originals/CRVI001192.jpg",
+   "original_px": [
+    1600,
+    1600
+   ],
+   "original_bytes": 929454,
+   "identity": "todd sent 2026-09-03::mati-klarwein-jimi-hendrix",
+   "maker": "Mati Klarwein",
+   "title": "Jimi Hendrix",
+   "subtitle": "Painting",
+   "year": "",
+   "label": "",
+   "notes": [
+    "Hendrix laughing, painted from below, with his hair rendered as a field of red and white flame that fills the top half of the canvas.",
+    "He is chest-deep in wet grass painted blade by blade, and a line of mounted figures rides across the bottom right corner at miniature scale."
+   ],
+   "verified_against": "Matched at a perceptual-hash distance of 12 to P13b--Hendrix-Jimi.jpg on Klarwein's official site. The file held here is the 1600 px version published by British GQ with its December 2019 Klarwein feature. Matched by perceptual hash against the 135 artworks on Mati Klarwein's official site, matiklarweinart.com — the site publishes no titles in its markup, so the title here is the one carried by its own image filename. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
+   "source_record": "sent by Todd as an image URL, 2026-09-03",
+   "source_url": "https://media.gq-magazine.co.uk/photos/5df90c953fb169000854ec07/master/w_1600%2Cc_limit/20191217-mati-klarwein-04.jpg",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/pasted/19.bin",
+   "source_px": [
+    1600,
+    1600
+   ],
+   "colors": [
+    "red",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "subject",
+     "v": "Jimi Hendrix"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Matched at a perceptual-hash distance of 12 to P13b--Hendrix-Jimi.jpg on Klarwein's official site. The file held here is the 1600 px version published by British GQ with its December 2019 Klarwein feature. Matched by perceptual hash against the 135 artworks on Mati Klarwein's official site, matiklarweinart.com — the site publishes no titles in its markup, so the title here is the one carried by its own image filename. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
+   "hue": 5.4,
+   "light": 0.492,
+   "chroma": 0.8372
+  },
+  "todd sent 2026-09-03::mati-klarwein-untitled": {
+   "id": "CRVI001193",
+   "minted": "2026-09-03",
+   "original_file": "originals/CRVI001193.jpg",
+   "original_px": [
+    1082,
+    2000
+   ],
+   "original_bytes": 1561738,
+   "identity": "todd sent 2026-09-03::mati-klarwein-untitled",
+   "maker": "Mati Klarwein",
+   "title": "Untitled",
+   "subtitle": "Painting",
+   "year": "",
+   "label": "",
+   "notes": [
+    "A seated figure in an iridescent robe against black, ringed by a full rainbow halo, holding a flame in the raised right hand.",
+    "A band of white lotus flowers burns along the bottom edge, the only place where the painting's fire touches something living."
+   ],
+   "verified_against": "Published by MutualArt as a work by Mati Klarwein and matched at a perceptual-hash distance of 29 to P13-vol2-70.jpg on his official site. ⚠️ NEITHER SOURCE GIVES A TITLE — the site's filename is a book-plate reference, not a name — so it is recorded as Untitled rather than given one. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
+   "source_record": "sent by Todd as an image URL, 2026-09-03",
+   "source_url": "https://media.mutualart.com/Images//2025_03/03/07/88109069/mati-klarwein-mati-klarwein-02HT9.Jpeg",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/pasted/20.bin",
+   "source_px": [
+    1082,
+    2000
+   ],
+   "colors": [
+    "orange",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published by MutualArt as a work by Mati Klarwein and matched at a perceptual-hash distance of 29 to P13-vol2-70.jpg on his official site. ⚠️ NEITHER SOURCE GIVES A TITLE — the site's filename is a book-plate reference, not a name — so it is recorded as Untitled rather than given one. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
+   "hue": 36.27,
+   "light": 0.3318,
+   "chroma": 0.4642
+  },
+  "todd sent 2026-09-03::mati-klarwein-angel-new-york": {
+   "id": "CRVI001194",
+   "minted": "2026-09-03",
+   "original_file": "originals/CRVI001194.jpg",
+   "original_px": [
+    1909,
+    1920
+   ],
+   "original_bytes": 433361,
+   "identity": "todd sent 2026-09-03::mati-klarwein-angel-new-york",
+   "maker": "Mati Klarwein",
+   "title": "Angel, New York",
+   "subtitle": "Painting",
+   "year": "",
+   "label": "",
+   "notes": [
+    "A frontal portrait against black: a woman's face, absolutely symmetrical, inside a mass of black hair painted as interlocking scrolls with the sheen of enamel.",
+    "Three grey spheres sit at her throat above a red field, and the shoulders are drawn as gold outlined wings on bare canvas — line where everything else is modelled."
+   ],
+   "verified_against": "Matched at a perceptual-hash distance of 0 — an exact match — to V09-Angel-New-York.jpg on Klarwein's official site. The file held here is the 1920 px Artera version. Matched by perceptual hash against the 135 artworks on Mati Klarwein's official site, matiklarweinart.com — the site publishes no titles in its markup, so the title here is the one carried by its own image filename. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
+   "source_record": "sent by Todd as an image URL, 2026-09-03",
+   "source_url": "https://d2w8kbdekdi1gv.cloudfront.net/eyJidWNrZXQiOiAiYXJ0ZXJhLWltYWdlcy1idWNrZXQiLCAia2V5IjogImFydHdvcmtzLzQ3OWQ2ZDRmLWQyYTYtNDNiMC04YTFkLTFjODEwZWM3YzEzMy80NzlkNmQ0Zi1kMmE2LTQzYjAtOGExZC0xYzgxMGVjN2MxMzNfZnVsbC5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsid2lkdGgiOiAxOTIwLCAiaGVpZ2h0IjogMTkyMCwgImZpdCI6ICJpbnNpZGUifX19",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/pasted/21.bin",
+   "source_px": [
+    1909,
+    1920
+   ],
+   "colors": [
+    "orange",
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Matched at a perceptual-hash distance of 0 — an exact match — to V09-Angel-New-York.jpg on Klarwein's official site. The file held here is the 1920 px Artera version. Matched by perceptual hash against the 135 artworks on Mati Klarwein's official site, matiklarweinart.com — the site publishes no titles in its markup, so the title here is the one carried by its own image filename. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
+   "hue": 34.48,
+   "light": 0.1564,
+   "chroma": 0.2447
+  },
+  "todd sent 2026-09-03::mati-klarwein-bitches-brew": {
+   "id": "CRVI001195",
+   "minted": "2026-09-03",
+   "original_file": "originals/CRVI001195.jpg",
+   "original_px": [
+    2560,
+    1440
+   ],
+   "original_bytes": 799730,
+   "identity": "todd sent 2026-09-03::mati-klarwein-bitches-brew",
+   "maker": "Mati Klarwein",
+   "title": "Bitches Brew",
+   "subtitle": "Painting",
+   "year": "1969",
+   "label": "",
+   "notes": [
+    "A head split down the centre line, pink and freckled on one side and black on the other, the two halves sharing one profile.",
+    "A hand rises at the left with a flower burning in front of it, and at the right two figures stand on a beach under a wind that is painted as a solid brown mass."
+   ],
+   "verified_against": "The painting made for the sleeve of Miles Davis's Bitches Brew, matched to V21bitches-brew.jpg on Klarwein's official site. ⚠️ The file held here is British GQ's 2560 px reproduction, which is a 16:9 CROP of the painting, not the whole of it — the full work is a double square that wraps the gatefold. Held as the best-resolution copy available, with that limitation on the record. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
+   "source_record": "sent by Todd as an image URL, 2026-09-03",
+   "source_url": "https://media.gq-magazine.co.uk/photos/5df90c2ce2d50100085d4762/16:9/w_2560%2Cc_limit/20191217-mati-klarwein-05.jpg",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/pasted/22.bin",
+   "source_px": [
+    2560,
+    1440
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The painting made for the sleeve of Miles Davis's Bitches Brew, matched to V21bitches-brew.jpg on Klarwein's official site. ⚠️ The file held here is British GQ's 2560 px reproduction, which is a 16:9 CROP of the painting, not the whole of it — the full work is a double square that wraps the gatefold. Held as the best-resolution copy available, with that limitation on the record. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
+   "hue": 14.39,
+   "light": 0.34,
+   "chroma": 0.711
+  },
+  "todd sent 2026-09-03::mati-klarwein-time": {
+   "id": "CRVI001196",
+   "minted": "2026-09-03",
+   "original_file": "originals/CRVI001196.jpg",
+   "original_px": [
+    1000,
+    1000
+   ],
+   "original_bytes": 571227,
+   "identity": "todd sent 2026-09-03::mati-klarwein-time",
+   "maker": "Mati Klarwein",
+   "title": "Time",
+   "subtitle": "Painting",
+   "year": "",
+   "label": "",
+   "notes": [
+    "A gold disc holding a stacked, symmetrical family of figures — a woman at the top, children below her, a bearded figure at the base — against a black ground flecked white.",
+    "Two segmented arms, one blue and one red, reach out to the edges of the canvas, and a rank of small blue and red heads lines the bottom like a keyboard."
+   ],
+   "verified_against": "Matched at a perceptual-hash distance of 29 to V13-Time.jpg on Klarwein's official site. The file held here is the copy published on the page for the book 'Mati: The Music — 52 Record Covers 1955–2005'. Matched by perceptual hash against the 135 artworks on Mati Klarwein's official site, matiklarweinart.com — the site publishes no titles in its markup, so the title here is the one carried by its own image filename. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
+   "source_record": "sent by Todd as an image URL, 2026-09-03",
+   "source_url": "https://s.turbifycdn.com/aah/artbook/mati-the-music-52-record-covers-1955-2005-182.gif",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/pasted/23.bin",
+   "source_px": [
+    1000,
+    1000
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Matched at a perceptual-hash distance of 29 to V13-Time.jpg on Klarwein's official site. The file held here is the copy published on the page for the book 'Mati: The Music — 52 Record Covers 1955–2005'. Matched by perceptual hash against the 135 artworks on Mati Klarwein's official site, matiklarweinart.com — the site publishes no titles in its markup, so the title here is the one carried by its own image filename. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
+   "hue": 45.05,
+   "light": 0.3821,
+   "chroma": 0.6675
+  },
+  "todd sent 2026-09-03::mati-klarwein-alexander-s-dream": {
+   "id": "CRVI001197",
+   "minted": "2026-09-03",
+   "original_file": "originals/CRVI001197.jpg",
+   "original_px": [
+    1906,
+    1920
+   ],
+   "original_bytes": 830719,
+   "identity": "todd sent 2026-09-03::mati-klarwein-alexander-s-dream",
+   "maker": "Mati Klarwein",
+   "title": "Alexander's Dream",
+   "subtitle": "Painting",
+   "year": "",
+   "label": "",
+   "notes": [
+    "A garden at night painted almost entirely in blues, with a lit rectangular tank of water at the centre and a path running back into dense foliage.",
+    "Three pale stalks stand in the foreground, drawn in fine white line over the blue, so they read as diagram rather than plant."
+   ],
+   "verified_against": "Matched at a perceptual-hash distance of 2 to L10-Alexanders-Dream.jpg on Klarwein's official site. The file held here is the 1920 px Artera version. Matched by perceptual hash against the 135 artworks on Mati Klarwein's official site, matiklarweinart.com — the site publishes no titles in its markup, so the title here is the one carried by its own image filename. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
+   "source_record": "sent by Todd as an image URL, 2026-09-03",
+   "source_url": "https://d2w8kbdekdi1gv.cloudfront.net/eyJidWNrZXQiOiAiYXJ0ZXJhLWltYWdlcy1idWNrZXQiLCAia2V5IjogImFydHdvcmtzLzUzYWQzMTc1LWJmMDctNDA5MS1hZWJjLTQ5MjVjMjg1ZmQwNC81M2FkMzE3NS1iZjA3LTQwOTEtYWViYy00OTI1YzI4NWZkMDRfZnVsbC5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsid2lkdGgiOiAxOTIwLCAiaGVpZ2h0IjogMTkyMCwgImZpdCI6ICJpbnNpZGUifX19",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/pasted/24.bin",
+   "source_px": [
+    1906,
+    1920
+   ],
+   "colors": [
+    "cyan",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Matched at a perceptual-hash distance of 2 to L10-Alexanders-Dream.jpg on Klarwein's official site. The file held here is the 1920 px Artera version. Matched by perceptual hash against the 135 artworks on Mati Klarwein's official site, matiklarweinart.com — the site publishes no titles in its markup, so the title here is the one carried by its own image filename. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
+   "hue": 197.1,
+   "light": 0.44,
+   "chroma": 0.8032
+  },
+  "todd sent 2026-09-03::mati-klarwein-you-re-next": {
+   "id": "CRVI001198",
+   "minted": "2026-09-03",
+   "original_file": "originals/CRVI001198.jpg",
+   "original_px": [
+    1911,
+    1920
+   ],
+   "original_bytes": 713849,
+   "identity": "todd sent 2026-09-03::mati-klarwein-you-re-next",
+   "maker": "Mati Klarwein",
+   "title": "You're Next",
+   "subtitle": "Painting",
+   "year": "",
+   "label": "",
+   "notes": [
+    "A valley of terraced water seen from above, the terraces drawn as continuous contour lines that turn the whole landscape into a topographic map.",
+    "A single pale diagonal shaft cuts down from the upper left, the one straight line in a painting made entirely of curves."
+   ],
+   "verified_against": "Matched at a perceptual-hash distance of 0 — an exact match — to L09-Youre-Next.jpg on Klarwein's official site. The file held here is the 1920 px Artera version. Matched by perceptual hash against the 135 artworks on Mati Klarwein's official site, matiklarweinart.com — the site publishes no titles in its markup, so the title here is the one carried by its own image filename. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
+   "source_record": "sent by Todd as an image URL, 2026-09-03",
+   "source_url": "https://d2w8kbdekdi1gv.cloudfront.net/eyJidWNrZXQiOiAiYXJ0ZXJhLWltYWdlcy1idWNrZXQiLCAia2V5IjogImFydHdvcmtzL2U0MjM2NzEwLThhMDUtNDM2Zi1hZWY2LTNjNWM2ZWFiMTk2OC9lNDIzNjcxMC04YTA1LTQzNmYtYWVmNi0zYzVjNmVhYjE5NjhfZnVsbC5qcGciLCAiZWRpdHMiOiB7InJlc2l6ZSI6IHsid2lkdGgiOiAxOTIwLCAiaGVpZ2h0IjogMTkyMCwgImZpdCI6ICJpbnNpZGUifX19",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/pasted/25.bin",
+   "source_px": [
+    1911,
+    1920
+   ],
+   "colors": [
+    "cyan",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Matched at a perceptual-hash distance of 0 — an exact match — to L09-Youre-Next.jpg on Klarwein's official site. The file held here is the 1920 px Artera version. Matched by perceptual hash against the 135 artworks on Mati Klarwein's official site, matiklarweinart.com — the site publishes no titles in its markup, so the title here is the one carried by its own image filename. Supplied by Todd as a bare image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
+   "hue": 197.41,
+   "light": 0.4594,
+   "chroma": 0.5174
   }
  }
 }
