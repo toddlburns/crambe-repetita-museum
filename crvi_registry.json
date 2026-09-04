@@ -1,5 +1,5 @@
 {
- "next": 1254,
+ "next": 1260,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -72627,6 +72627,311 @@
    "hue": 214.88,
    "light": 0.5505,
    "chroma": 0.8402
+  },
+  "todd sent 2026-09-03 jazz::thelonious-monk-at-the-piano": {
+   "id": "CRVI001254",
+   "minted": "2026-09-03",
+   "original_file": "originals/CRVI001254.jpg",
+   "original_px": [
+    2000,
+    2973
+   ],
+   "original_bytes": 688476,
+   "identity": "todd sent 2026-09-03 jazz::thelonious-monk-at-the-piano",
+   "maker": "unattributed",
+   "title": "Thelonious Monk at the piano",
+   "subtitle": "Photographer unidentified",
+   "year": "",
+   "label": "",
+   "notes": [
+    "Monk at an upright in a patterned cap and tweed jacket, lit warm from the left with an audience thrown out of focus behind him.",
+    "Smoke drifts up through the light at the left edge, and the keyboard runs out of the bottom of the frame — the only hard line in a picture otherwise made of haze."
+   ],
+   "verified_against": "nothing established yet. Published by The New Yorker with Richard Brody's piece on Monk, under the file name Brody-Best-of-Thelonious-Monk. ⚠️ The article URL now 404s and no photographer is recoverable from the image path, so nobody is named. Colour transparency work of this kind from the period is often Bob Parent, W. Eugene Smith or Ben Martin — but a plausible shortlist is not an attribution and a wrong one outlives whoever wrote it.",
+   "source_record": "sent by Todd as an image URL, 2026-09-03",
+   "source_url": "https://media.newyorker.com/photos/59096d8b6552fa0be682ffaf/master/w_2560%2Cc_limit/Brody-Best-of-Thelonious-Monk.jpg",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/jazz2/06.bin",
+   "source_px": [
+    2000,
+    2973
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "subject",
+     "v": "Thelonious Monk"
+    }
+   ],
+   "identity_established": false,
+   "published": false,
+   "verification": "nothing established yet. Published by The New Yorker with Richard Brody's piece on Monk, under the file name Brody-Best-of-Thelonious-Monk. ⚠️ The article URL now 404s and no photographer is recoverable from the image path, so nobody is named. Colour transparency work of this kind from the period is often Bob Parent, W. Eugene Smith or Ben Martin — but a plausible shortlist is not an attribution and a wrong one outlives whoever wrote it.",
+   "hue": 21.44,
+   "light": 0.2351,
+   "chroma": 0.2189
+  },
+  "todd sent 2026-09-03 jazz::bill-evans-hands-behind-his-head": {
+   "id": "CRVI001255",
+   "minted": "2026-09-03",
+   "original_file": "originals/CRVI001255.jpg",
+   "original_px": [
+    1600,
+    1600
+   ],
+   "original_bytes": 224968,
+   "identity": "todd sent 2026-09-03 jazz::bill-evans-hands-behind-his-head",
+   "maker": "unattributed",
+   "title": "Bill Evans, hands behind his head",
+   "subtitle": "Photographer unidentified",
+   "year": "",
+   "label": "",
+   "notes": [
+    "A tight black-and-white portrait, both hands raised behind the head, a cigarette held in the mouth and heavy dark-rimmed glasses catching the key light.",
+    "The crop cuts the elbows and the top of the skull, so the frame is filled entirely by face, hands and hair."
+   ],
+   "verified_against": "nothing established yet. Taken from a lohause.com article on Bill Evans; the page could not be reached again (404) and the image path carries no credit. Held rather than guessed.",
+   "source_record": "sent by Todd as an image URL, 2026-09-03",
+   "source_url": "https://lohause.com/cdn/shop/articles/harmonies-in-melancholy-the-legacy-of-bill-evans-548644.jpg?v=1677625633",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/jazz2/08.bin",
+   "source_px": [
+    1600,
+    1600
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "subject",
+     "v": "Bill Evans"
+    }
+   ],
+   "identity_established": false,
+   "published": false,
+   "verification": "nothing established yet. Taken from a lohause.com article on Bill Evans; the page could not be reached again (404) and the image path carries no credit. Held rather than guessed.",
+   "hue": null,
+   "light": 0.4061,
+   "chroma": 0.0
+  },
+  "todd sent 2026-09-03 jazz::alice-coltrane-studio-portrait": {
+   "id": "CRVI001256",
+   "minted": "2026-09-03",
+   "original_file": "originals/CRVI001256.jpg",
+   "original_px": [
+    1508,
+    1516
+   ],
+   "original_bytes": 349739,
+   "identity": "todd sent 2026-09-03 jazz::alice-coltrane-studio-portrait",
+   "maker": "unattributed",
+   "title": "Alice Coltrane, studio portrait",
+   "subtitle": "Photographer unidentified",
+   "year": "",
+   "label": "",
+   "notes": [
+    "A three-quarter studio portrait against seamless grey, the sitter in a plain turtleneck with one hand on the hip, looking down and away from the camera.",
+    "The lighting is flat and even with no shadow on the ground, so the silhouette of the hair reads as the picture's only strong shape."
+   ],
+   "verified_against": "nothing established yet — but more is known here than for the others. The New Yorker published this with 'Alice Coltrane's Devotional Music' (24 April 2017) and credits it to JP Jazz Archive / Redferns via Getty. ⚠️ That names the ARCHIVE holding the picture, not the photographer who took it, so the maker stays unattributed. A Getty search on the archive reference would probably settle it.",
+   "source_record": "sent by Todd as an image URL, 2026-09-03",
+   "source_url": "https://media.newyorker.com/photos/590980088b51cf59fc424569/master/w_2560%2Cc_limit/170424_r29830.jpg",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/jazz2/11.bin",
+   "source_px": [
+    1508,
+    1516
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "subject",
+     "v": "Alice Coltrane"
+    }
+   ],
+   "identity_established": false,
+   "published": false,
+   "verification": "nothing established yet — but more is known here than for the others. The New Yorker published this with 'Alice Coltrane's Devotional Music' (24 April 2017) and credits it to JP Jazz Archive / Redferns via Getty. ⚠️ That names the ARCHIVE holding the picture, not the photographer who took it, so the maker stays unattributed. A Getty search on the archive reference would probably settle it.",
+   "hue": null,
+   "light": 0.4985,
+   "chroma": 0.0
+  },
+  "todd sent 2026-09-03 jazz::satchidananda-comics-6-alice-coltrane": {
+   "id": "CRVI001257",
+   "minted": "2026-09-03",
+   "original_file": "originals/CRVI001257.jpg",
+   "original_px": [
+    1365,
+    2048
+   ],
+   "original_bytes": 702286,
+   "identity": "todd sent 2026-09-03 jazz::satchidananda-comics-6-alice-coltrane",
+   "maker": "unattributed",
+   "title": "Satchidananda Comics #6 — Alice Coltrane",
+   "subtitle": "Artist unidentified",
+   "year": "2026",
+   "label": "",
+   "notes": [
+    "A pastiche of a 1970s comic-book cover: a figure seated at a harp on a rocky outcrop against a cosmic field of nebulae and a great eye, drawn in heavy ink line with flat colour and visible halftone.",
+    "The masthead is lettered by hand in a swelling display face, with a cover price, an issue number and a date box in the corner exactly where a newsstand comic would carry them."
+   ],
+   "verified_against": "nothing established yet. A contemporary invented comic-book cover, dated January 2026 and sold through giantsizehipcoverus.com, which publishes no artist name anywhere on the site — it has no about page and its only content links are contact and a data-sharing notice. ⚠️ This is somebody's original artwork and it should carry their name; held until it can.",
+   "source_record": "sent by Todd as an image URL, 2026-09-03",
+   "source_url": "https://giantsizehipcoverus.com/cdn/shop/files/WhatsAppImage2026-01-21at5.18.21PM.jpg?v=1769037703",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/jazz2/13.bin",
+   "source_px": [
+    1365,
+    2048
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "illustration"
+    },
+    {
+     "k": "subject",
+     "v": "Alice Coltrane"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    }
+   ],
+   "identity_established": false,
+   "published": false,
+   "verification": "nothing established yet. A contemporary invented comic-book cover, dated January 2026 and sold through giantsizehipcoverus.com, which publishes no artist name anywhere on the site — it has no about page and its only content links are contact and a data-sharing notice. ⚠️ This is somebody's original artwork and it should carry their name; held until it can.",
+   "hue": 45.63,
+   "light": 0.2989,
+   "chroma": 0.6389
+  },
+  "todd sent 2026-09-03 jazz::pharoah-sanders-love-is-here-the-complete-paris-1975-ortf-recordings": {
+   "id": "CRVI001258",
+   "minted": "2026-09-03",
+   "original_file": "originals/CRVI001258.jpg",
+   "original_px": [
+    1400,
+    1400
+   ],
+   "original_bytes": 462622,
+   "identity": "todd sent 2026-09-03 jazz::pharoah-sanders-love-is-here-the-complete-paris-1975-ortf-recordings",
+   "maker": "Pharoah Sanders",
+   "title": "Love Is Here: The Complete Paris 1975 ORTF Recordings",
+   "subtitle": "Photograph by Christian Rose · Transcendence Sounds 23040",
+   "year": "2025",
+   "label": "Transcendence Sounds",
+   "notes": [
+    "A live photograph from the 1975 Paris session printed warm and grainy, the player's horn raised so the bell breaks the top of the frame.",
+    "The type sits quietly under it in a plain sans, the long subtitle set small enough that the photograph is never crowded."
+   ],
+   "verified_against": "Identified from the artwork and checked against Discogs release 35024426 (Transcendence Sounds / INA 23040, 2025), which credits the photography to Christian Rose and names no designer, so none is claimed. ⚠️ The URL Todd sent, on jazzmessengers.com, refuses every request with a hard bot-block (HTTP 468); this file is Apple's 1400 px artwork for the same release, which is larger than the blocked copy would have been. Supplied by Todd as an image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
+   "source_record": "sent by Todd as an image URL, 2026-09-03",
+   "source_url": "https://music.apple.com/us/album/love-is-here-the-complete-paris-1975-ortf-recordings/1838728730",
+   "catalogue": "23040",
+   "discogs_release": 35024426,
+   "source_page": "https://www.discogs.com/release/35024426",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/jazz2/14.bin",
+   "source_px": [
+    1400,
+    1400
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "photographer",
+     "v": "Christian Rose"
+    },
+    {
+     "k": "artist",
+     "v": "Pharoah Sanders"
+    },
+    {
+     "k": "label",
+     "v": "Transcendence Sounds"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork and checked against Discogs release 35024426 (Transcendence Sounds / INA 23040, 2025), which credits the photography to Christian Rose and names no designer, so none is claimed. ⚠️ The URL Todd sent, on jazzmessengers.com, refuses every request with a hard bot-block (HTTP 468); this file is Apple's 1400 px artwork for the same release, which is larger than the blocked copy would have been. Supplied by Todd as an image URL on 2026-09-03; the museum holds the fetched file byte for byte in originals/.",
+   "hue": 356.2,
+   "light": 0.3713,
+   "chroma": 0.8147
+  },
+  "todd sent 2026-09-03 jazz::pharoah-sanders-in-mirrored-glasses": {
+   "id": "CRVI001259",
+   "minted": "2026-09-03",
+   "original_file": "originals/CRVI001259.jpg",
+   "original_px": [
+    1682,
+    1236
+   ],
+   "original_bytes": 982060,
+   "identity": "todd sent 2026-09-03 jazz::pharoah-sanders-in-mirrored-glasses",
+   "maker": "unattributed",
+   "title": "Pharoah Sanders in mirrored glasses",
+   "subtitle": "Photographer unidentified",
+   "year": "",
+   "label": "",
+   "notes": [
+    "A frontal portrait against flat lilac, the sitter in a knitted cap and a heavily textured jacket, with a full white beard.",
+    "Round mirrored lenses blow out to pure white where they catch the lights, so the eyes are the brightest thing in the frame and entirely blank."
+   ],
+   "verified_against": "nothing established yet. A late press portrait taken from leguesswho.com, whose news index 404s and whose image path carries no credit. Pictures from this period were made for the Promises campaign and for festival press kits, so a photographer certainly exists on the record somewhere — just not anywhere reachable from what Todd sent.",
+   "source_record": "sent by Todd as an image URL, 2026-09-03",
+   "source_url": "https://leguesswho.com/media/news/Pharoah%20-%20jazz%20giant.jpg",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/jazz2/16.bin",
+   "source_px": [
+    1682,
+    1236
+   ],
+   "colors": [
+    "blue",
+    "purple"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "subject",
+     "v": "Pharoah Sanders"
+    }
+   ],
+   "identity_established": false,
+   "published": false,
+   "verification": "nothing established yet. A late press portrait taken from leguesswho.com, whose news index 404s and whose image path carries no credit. Pictures from this period were made for the Promises campaign and for festival press kits, so a photographer certainly exists on the record somewhere — just not anywhere reachable from what Todd sent.",
+   "hue": 245.98,
+   "light": 0.657,
+   "chroma": 0.2634
   }
  }
 }
