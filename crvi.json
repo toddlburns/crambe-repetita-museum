@@ -58456,6 +58456,51 @@
    "light": 0.3131
   },
   {
+   "id": "CRVI001191",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001191.jpg",
+   "source_label": "",
+   "image": "images/CRVI001191.jpg",
+   "original": "originals/CRVI001191.jpg",
+   "vector": "",
+   "original_px": [
+    567,
+    567
+   ],
+   "original_bytes": 94532,
+   "maker": "Mati Klarwein",
+   "title": "Blessing",
+   "subtitle": "Painting · plate V15-Blessing(HIGH_RES) on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 42.59,
+   "light": 0.5012
+  },
+  {
    "id": "CRVI001192",
    "published": true,
    "source_url": "https://media.gq-magazine.co.uk/photos/5df90c953fb169000854ec07/master/w_1600%2Cc_limit/20191217-mati-klarwein-04.jpg",
@@ -58542,9 +58587,54 @@
    "light": 0.3318
   },
   {
+   "id": "CRVI001194",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001194.jpg",
+   "source_label": "",
+   "image": "images/CRVI001194.jpg",
+   "original": "originals/CRVI001194.jpg",
+   "vector": "",
+   "original_px": [
+    709,
+    713
+   ],
+   "original_bytes": 86335,
+   "maker": "Mati Klarwein",
+   "title": "Angel, New York",
+   "subtitle": "Painting · plate V09-Angel-New-York on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "black"
+    }
+   ],
+   "hue": 34.92,
+   "light": 0.1557
+  },
+  {
    "id": "CRVI001195",
    "published": true,
-   "source_url": "https://media.gq-magazine.co.uk/photos/5df90c2ce2d50100085d4762/16:9/w_2560%2Cc_limit/20191217-mati-klarwein-05.jpg",
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
    "animated": false,
    "video": false,
    "thumb": "thumbs/CRVI001195.jpg",
@@ -58553,18 +58643,22 @@
    "original": "originals/CRVI001195.jpg",
    "vector": "",
    "original_px": [
-    2560,
-    1440
+    2000,
+    1001
    ],
-   "original_bytes": 799730,
+   "original_bytes": 298865,
    "maker": "Mati Klarwein",
    "title": "Bitches Brew",
-   "subtitle": "Painting",
+   "subtitle": "Painting · the whole gatefold work",
    "year": "1969",
    "tags": [
     {
      "k": "type",
      "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
     },
     {
      "k": "medium",
@@ -58583,8 +58677,8 @@
      "v": "yellow"
     }
    ],
-   "hue": 14.39,
-   "light": 0.34
+   "hue": 16.83,
+   "light": 0.3257
   },
   {
    "id": "CRVI001196",
@@ -58708,6 +58802,2215 @@
    ],
    "hue": 197.48,
    "light": 0.4591
+  },
+  {
+   "id": "CRVI001199",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/1556967",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001199.jpg",
+   "source_label": "",
+   "image": "images/CRVI001199.jpg",
+   "original": "originals/CRVI001199.jpg",
+   "vector": "",
+   "original_px": [
+    1351,
+    1359
+   ],
+   "original_bytes": 288003,
+   "maker": "The Last Poets",
+   "title": "This Is Madness",
+   "subtitle": "Painting by Mati Klarwein · Douglas 7",
+   "year": "1971",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "artist",
+     "v": "The Last Poets"
+    },
+    {
+     "k": "label",
+     "v": "Douglas"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 5.36,
+   "light": 0.4845
+  },
+  {
+   "id": "CRVI001200",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/13708825",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001200.jpg",
+   "source_label": "",
+   "image": "images/CRVI001200.jpg",
+   "original": "originals/CRVI001200.jpg",
+   "vector": "",
+   "original_px": [
+    800,
+    800
+   ],
+   "original_bytes": 117694,
+   "maker": "The Last Poets",
+   "title": "Holy Terror",
+   "subtitle": "Painting by Mati Klarwein · Rykodisc RCD 10319",
+   "year": "1993",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "artist",
+     "v": "The Last Poets"
+    },
+    {
+     "k": "label",
+     "v": "Rykodisc"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 15.88,
+   "light": 0.3218
+  },
+  {
+   "id": "CRVI001201",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/27666630",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001201.jpg",
+   "source_label": "",
+   "image": "images/CRVI001201.jpg",
+   "original": "originals/CRVI001201.jpg",
+   "vector": "",
+   "original_px": [
+    600,
+    600
+   ],
+   "original_bytes": 81755,
+   "maker": "Osibisa",
+   "title": "Heads",
+   "subtitle": "Painting by Mati Klarwein · Decca",
+   "year": "1972",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "artist",
+     "v": "Osibisa"
+    },
+    {
+     "k": "label",
+     "v": "Decca"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 5.94,
+   "light": 0.4426
+  },
+  {
+   "id": "CRVI001202",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001202.jpg",
+   "source_label": "",
+   "image": "images/CRVI001202.jpg",
+   "original": "originals/CRVI001202.jpg",
+   "vector": "",
+   "original_px": [
+    866,
+    1089
+   ],
+   "original_bytes": 164126,
+   "maker": "Mati Klarwein",
+   "title": "Untitled",
+   "subtitle": "Painting · plate R16-vol3-56 on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 14.63,
+   "light": 0.3118
+  },
+  {
+   "id": "CRVI001203",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001203.jpg",
+   "source_label": "",
+   "image": "images/CRVI001203.jpg",
+   "original": "originals/CRVI001203.jpg",
+   "vector": "",
+   "original_px": [
+    809,
+    966
+   ],
+   "original_bytes": 130630,
+   "maker": "Mati Klarwein",
+   "title": "Untitled",
+   "subtitle": "Painting · plate R14-vol3-43 on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 35.07,
+   "light": 0.3055
+  },
+  {
+   "id": "CRVI001204",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001204.jpg",
+   "source_label": "",
+   "image": "images/CRVI001204.jpg",
+   "original": "originals/CRVI001204.jpg",
+   "vector": "",
+   "original_px": [
+    767,
+    1017
+   ],
+   "original_bytes": 100491,
+   "maker": "Mati Klarwein",
+   "title": "La Profeta",
+   "subtitle": "Painting · plate R17-vol3-59 on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 31.55,
+   "light": 0.5865
+  },
+  {
+   "id": "CRVI001205",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001205.jpg",
+   "source_label": "",
+   "image": "images/CRVI001205.jpg",
+   "original": "originals/CRVI001205.jpg",
+   "vector": "",
+   "original_px": [
+    651,
+    789
+   ],
+   "original_bytes": 81171,
+   "maker": "Mati Klarwein",
+   "title": "Untitled",
+   "subtitle": "Painting · plate R12-vol3-38 on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 23.71,
+   "light": 0.2442
+  },
+  {
+   "id": "CRVI001206",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001206.jpg",
+   "source_label": "",
+   "image": "images/CRVI001206.jpg",
+   "original": "originals/CRVI001206.jpg",
+   "vector": "",
+   "original_px": [
+    633,
+    767
+   ],
+   "original_bytes": 68127,
+   "maker": "Mati Klarwein",
+   "title": "Untitled",
+   "subtitle": "Painting · plate R15-vol3-50 on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 34.4,
+   "light": 0.2534
+  },
+  {
+   "id": "CRVI001207",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001207.jpg",
+   "source_label": "",
+   "image": "images/CRVI001207.jpg",
+   "original": "originals/CRVI001207.jpg",
+   "vector": "",
+   "original_px": [
+    829,
+    827
+   ],
+   "original_bytes": 203699,
+   "maker": "Mati Klarwein",
+   "title": "Leh C'est Beau",
+   "subtitle": "Painting · plate L06-Leh-Cest-Beau on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 36.93,
+   "light": 0.3521
+  },
+  {
+   "id": "CRVI001208",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001208.jpg",
+   "source_label": "",
+   "image": "images/CRVI001208.jpg",
+   "original": "originals/CRVI001208.jpg",
+   "vector": "",
+   "original_px": [
+    833,
+    827
+   ],
+   "original_bytes": 192422,
+   "maker": "Mati Klarwein",
+   "title": "Aranyanyara",
+   "subtitle": "Painting · plate L17-Aranyanyara on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 203.46,
+   "light": 0.2578
+  },
+  {
+   "id": "CRVI001209",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001209.jpg",
+   "source_label": "",
+   "image": "images/CRVI001209.jpg",
+   "original": "originals/CRVI001209.jpg",
+   "vector": "",
+   "original_px": [
+    819,
+    823
+   ],
+   "original_bytes": 161909,
+   "maker": "Mati Klarwein",
+   "title": "Coastline",
+   "subtitle": "Painting · plate L14-Coastline on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 213.56,
+   "light": 0.2549
+  },
+  {
+   "id": "CRVI001210",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001210.jpg",
+   "source_label": "",
+   "image": "images/CRVI001210.jpg",
+   "original": "originals/CRVI001210.jpg",
+   "vector": "",
+   "original_px": [
+    816,
+    838
+   ],
+   "original_bytes": 197394,
+   "maker": "Mati Klarwein",
+   "title": "Symbole du Jour",
+   "subtitle": "Painting · plate L18-Symbole-du-Jour on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 54.9,
+   "light": 0.2553
+  },
+  {
+   "id": "CRVI001211",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001211.jpg",
+   "source_label": "",
+   "image": "images/CRVI001211.jpg",
+   "original": "originals/CRVI001211.jpg",
+   "vector": "",
+   "original_px": [
+    811,
+    813
+   ],
+   "original_bytes": 191860,
+   "maker": "Mati Klarwein",
+   "title": "Milkscape",
+   "subtitle": "Painting · plate L16-Milkscape on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 13.73,
+   "light": 0.3662
+  },
+  {
+   "id": "CRVI001212",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001212.jpg",
+   "source_label": "",
+   "image": "images/CRVI001212.jpg",
+   "original": "originals/CRVI001212.jpg",
+   "vector": "",
+   "original_px": [
+    821,
+    809
+   ],
+   "original_bytes": 109023,
+   "maker": "Mati Klarwein",
+   "title": "Wet Curve",
+   "subtitle": "Painting · plate L13-Wet-Curve on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 52.09,
+   "light": 0.397
+  },
+  {
+   "id": "CRVI001213",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001213.jpg",
+   "source_label": "",
+   "image": "images/CRVI001213.jpg",
+   "original": "originals/CRVI001213.jpg",
+   "vector": "",
+   "original_px": [
+    763,
+    768
+   ],
+   "original_bytes": 228751,
+   "maker": "Mati Klarwein",
+   "title": "Real Estate",
+   "subtitle": "Painting · plate real estate on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 55.91,
+   "light": 0.1969
+  },
+  {
+   "id": "CRVI001214",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001214.jpg",
+   "source_label": "",
+   "image": "images/CRVI001214.jpg",
+   "original": "originals/CRVI001214.jpg",
+   "vector": "",
+   "original_px": [
+    1121,
+    747
+   ],
+   "original_bytes": 202830,
+   "maker": "Mati Klarwein",
+   "title": "Last Sunset",
+   "subtitle": "Painting · plate L24-last-sunset on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 26.44,
+   "light": 0.2829
+  },
+  {
+   "id": "CRVI001215",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001215.jpg",
+   "source_label": "",
+   "image": "images/CRVI001215.jpg",
+   "original": "originals/CRVI001215.jpg",
+   "vector": "",
+   "original_px": [
+    567,
+    568
+   ],
+   "original_bytes": 93339,
+   "maker": "Mati Klarwein",
+   "title": "Bagdad",
+   "subtitle": "Painting · plate L23-bagdad on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 63.94,
+   "light": 0.3031
+  },
+  {
+   "id": "CRVI001216",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001216.jpg",
+   "source_label": "",
+   "image": "images/CRVI001216.jpg",
+   "original": "originals/CRVI001216.jpg",
+   "vector": "",
+   "original_px": [
+    567,
+    565
+   ],
+   "original_bytes": 77284,
+   "maker": "Mati Klarwein",
+   "title": "Landing Strip",
+   "subtitle": "Painting · plate L19-Landing-Strip on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 134.06,
+   "light": 0.1853
+  },
+  {
+   "id": "CRVI001217",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001217.jpg",
+   "source_label": "",
+   "image": "images/CRVI001217.jpg",
+   "original": "originals/CRVI001217.jpg",
+   "vector": "",
+   "original_px": [
+    908,
+    1088
+   ],
+   "original_bytes": 50355,
+   "maker": "Mati Klarwein",
+   "title": "Untitled",
+   "subtitle": "Painting · plate P11-vol2-68 on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "black"
+    }
+   ],
+   "hue": 354.28,
+   "light": 0.0932
+  },
+  {
+   "id": "CRVI001218",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001218.jpg",
+   "source_label": "",
+   "image": "images/CRVI001218.jpg",
+   "original": "originals/CRVI001218.jpg",
+   "vector": "",
+   "original_px": [
+    846,
+    859
+   ],
+   "original_bytes": 119806,
+   "maker": "Mati Klarwein",
+   "title": "Untitled",
+   "subtitle": "Painting · plate P18-vol2-88 on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 6.38,
+   "light": 0.204
+  },
+  {
+   "id": "CRVI001219",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001219.jpg",
+   "source_label": "",
+   "image": "images/CRVI001219.jpg",
+   "original": "originals/CRVI001219.jpg",
+   "vector": "",
+   "original_px": [
+    842,
+    850
+   ],
+   "original_bytes": 20161,
+   "maker": "Mati Klarwein",
+   "title": "Untitled",
+   "subtitle": "Painting · plate P21-vol2-94 on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": null,
+   "light": 0.415
+  },
+  {
+   "id": "CRVI001220",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001220.jpg",
+   "source_label": "",
+   "image": "images/CRVI001220.jpg",
+   "original": "originals/CRVI001220.jpg",
+   "vector": "",
+   "original_px": [
+    833,
+    825
+   ],
+   "original_bytes": 40566,
+   "maker": "Mati Klarwein",
+   "title": "Untitled",
+   "subtitle": "Painting · plate P22-vol2-96 on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 31.9,
+   "light": 0.753
+  },
+  {
+   "id": "CRVI001221",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001221.jpg",
+   "source_label": "",
+   "image": "images/CRVI001221.jpg",
+   "original": "originals/CRVI001221.jpg",
+   "vector": "",
+   "original_px": [
+    825,
+    830
+   ],
+   "original_bytes": 84307,
+   "maker": "Mati Klarwein",
+   "title": "Untitled",
+   "subtitle": "Painting · plate P19-vol2-90 on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 44.0,
+   "light": 0.2627
+  },
+  {
+   "id": "CRVI001222",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001222.jpg",
+   "source_label": "",
+   "image": "images/CRVI001222.jpg",
+   "original": "originals/CRVI001222.jpg",
+   "vector": "",
+   "original_px": [
+    802,
+    762
+   ],
+   "original_bytes": 78963,
+   "maker": "Mati Klarwein",
+   "title": "Untitled",
+   "subtitle": "Painting · plate P16-vol2-87 on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 5.49,
+   "light": 0.4521
+  },
+  {
+   "id": "CRVI001223",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001223.jpg",
+   "source_label": "",
+   "image": "images/CRVI001223.jpg",
+   "original": "originals/CRVI001223.jpg",
+   "vector": "",
+   "original_px": [
+    761,
+    762
+   ],
+   "original_bytes": 99128,
+   "maker": "Mati Klarwein",
+   "title": "Untitled",
+   "subtitle": "Painting · plate P17-vol2-87 on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 13.79,
+   "light": 0.3201
+  },
+  {
+   "id": "CRVI001224",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001224.jpg",
+   "source_label": "",
+   "image": "images/CRVI001224.jpg",
+   "original": "originals/CRVI001224.jpg",
+   "vector": "",
+   "original_px": [
+    738,
+    930
+   ],
+   "original_bytes": 94458,
+   "maker": "Mati Klarwein",
+   "title": "Untitled",
+   "subtitle": "Painting · plate P06B-vol2-51 on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 16.24,
+   "light": 0.2583
+  },
+  {
+   "id": "CRVI001225",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001225.jpg",
+   "source_label": "",
+   "image": "images/CRVI001225.jpg",
+   "original": "originals/CRVI001225.jpg",
+   "vector": "",
+   "original_px": [
+    734,
+    969
+   ],
+   "original_bytes": 116211,
+   "maker": "Mati Klarwein",
+   "title": "Untitled",
+   "subtitle": "Painting · plate P24-vol2-134 on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 33.21,
+   "light": 0.309
+  },
+  {
+   "id": "CRVI001226",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001226.jpg",
+   "source_label": "",
+   "image": "images/CRVI001226.jpg",
+   "original": "originals/CRVI001226.jpg",
+   "vector": "",
+   "original_px": [
+    727,
+    727
+   ],
+   "original_bytes": 153318,
+   "maker": "Mati Klarwein",
+   "title": "Untitled",
+   "subtitle": "Painting · plate P26-vol2-152 on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 28.22,
+   "light": 0.3384
+  },
+  {
+   "id": "CRVI001227",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001227.jpg",
+   "source_label": "",
+   "image": "images/CRVI001227.jpg",
+   "original": "originals/CRVI001227.jpg",
+   "vector": "",
+   "original_px": [
+    687,
+    834
+   ],
+   "original_bytes": 81117,
+   "maker": "Mati Klarwein",
+   "title": "Untitled",
+   "subtitle": "Painting · plate P12-vol2-69 on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 245.16,
+   "light": 0.2084
+  },
+  {
+   "id": "CRVI001228",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001228.jpg",
+   "source_label": "",
+   "image": "images/CRVI001228.jpg",
+   "original": "originals/CRVI001228.jpg",
+   "vector": "",
+   "original_px": [
+    620,
+    619
+   ],
+   "original_bytes": 94847,
+   "maker": "Mati Klarwein",
+   "title": "Untitled",
+   "subtitle": "Painting · plate P15-vol2-82 on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 23.43,
+   "light": 0.3819
+  },
+  {
+   "id": "CRVI001229",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001229.jpg",
+   "source_label": "",
+   "image": "images/CRVI001229.jpg",
+   "original": "originals/CRVI001229.jpg",
+   "vector": "",
+   "original_px": [
+    567,
+    676
+   ],
+   "original_bytes": 110320,
+   "maker": "Mati Klarwein",
+   "title": "Untitled",
+   "subtitle": "Painting · plate P07-vol2-57 on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 33.81,
+   "light": 0.5116
+  },
+  {
+   "id": "CRVI001230",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001230.jpg",
+   "source_label": "",
+   "image": "images/CRVI001230.jpg",
+   "original": "originals/CRVI001230.jpg",
+   "vector": "",
+   "original_px": [
+    567,
+    914
+   ],
+   "original_bytes": 49203,
+   "maker": "Mati Klarwein",
+   "title": "Self-portrait after Dürer",
+   "subtitle": "Painting · plate P01-50s-self-durer on the artist's own site",
+   "year": "1950s",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "color",
+     "v": "purple"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    }
+   ],
+   "hue": 268.24,
+   "light": 0.8326
+  },
+  {
+   "id": "CRVI001231",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001231.jpg",
+   "source_label": "",
+   "image": "images/CRVI001231.jpg",
+   "original": "originals/CRVI001231.jpg",
+   "vector": "",
+   "original_px": [
+    567,
+    573
+   ],
+   "original_bytes": 80315,
+   "maker": "Mati Klarwein",
+   "title": "Untitled",
+   "subtitle": "Painting · plate P14-vol2-77 on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 23.86,
+   "light": 0.4634
+  },
+  {
+   "id": "CRVI001232",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001232.jpg",
+   "source_label": "",
+   "image": "images/CRVI001232.jpg",
+   "original": "originals/CRVI001232.jpg",
+   "vector": "",
+   "original_px": [
+    1933,
+    997
+   ],
+   "original_bytes": 456657,
+   "maker": "Mati Klarwein",
+   "title": "Crucifixion",
+   "subtitle": "Painting · plate V12-Crucifixion on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 37.4,
+   "light": 0.4606
+  },
+  {
+   "id": "CRVI001233",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001233.jpg",
+   "source_label": "",
+   "image": "images/CRVI001233.jpg",
+   "original": "originals/CRVI001233.jpg",
+   "vector": "",
+   "original_px": [
+    1438,
+    982
+   ],
+   "original_bytes": 388743,
+   "maker": "Mati Klarwein",
+   "title": "Annunciation",
+   "subtitle": "Painting · plate V02-Annunciation4 on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 33.67,
+   "light": 0.4415
+  },
+  {
+   "id": "CRVI001234",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001234.jpg",
+   "source_label": "",
+   "image": "images/CRVI001234.jpg",
+   "original": "originals/CRVI001234.jpg",
+   "vector": "",
+   "original_px": [
+    1417,
+    720
+   ],
+   "original_bytes": 128273,
+   "maker": "Mati Klarwein",
+   "title": "Virgin Mary",
+   "subtitle": "Painting · plate V20-Virgin-Mary on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "purple"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 20.74,
+   "light": 0.2734
+  },
+  {
+   "id": "CRVI001235",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001235.jpg",
+   "source_label": "",
+   "image": "images/CRVI001235.jpg",
+   "original": "originals/CRVI001235.jpg",
+   "vector": "",
+   "original_px": [
+    1417,
+    711
+   ],
+   "original_bytes": 216632,
+   "maker": "Mati Klarwein",
+   "title": "Conceptual Tree",
+   "subtitle": "Painting · plate V19-Conceptual-Tree on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 45.86,
+   "light": 0.3995
+  },
+  {
+   "id": "CRVI001236",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001236.jpg",
+   "source_label": "",
+   "image": "images/CRVI001236.jpg",
+   "original": "originals/CRVI001236.jpg",
+   "vector": "",
+   "original_px": [
+    709,
+    711
+   ],
+   "original_bytes": 81510,
+   "maker": "Mati Klarwein",
+   "title": "Bavarian Angel",
+   "subtitle": "Painting · plate V11-Bavarian-Angel on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 244.6,
+   "light": 0.5577
+  },
+  {
+   "id": "CRVI001237",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001237.jpg",
+   "source_label": "",
+   "image": "images/CRVI001237.jpg",
+   "original": "originals/CRVI001237.jpg",
+   "vector": "",
+   "original_px": [
+    709,
+    726
+   ],
+   "original_bytes": 135461,
+   "maker": "Mati Klarwein",
+   "title": "St John",
+   "subtitle": "Painting · plate V05-St-John-3 on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 44.49,
+   "light": 0.4491
+  },
+  {
+   "id": "CRVI001238",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001238.jpg",
+   "source_label": "",
+   "image": "images/CRVI001238.jpg",
+   "original": "originals/CRVI001238.jpg",
+   "vector": "",
+   "original_px": [
+    709,
+    715
+   ],
+   "original_bytes": 108415,
+   "maker": "Mati Klarwein",
+   "title": "Moses",
+   "subtitle": "Painting · plate V22-Moses on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 5.42,
+   "light": 0.3963
+  },
+  {
+   "id": "CRVI001239",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001239.jpg",
+   "source_label": "",
+   "image": "images/CRVI001239.jpg",
+   "original": "originals/CRVI001239.jpg",
+   "vector": "",
+   "original_px": [
+    709,
+    711
+   ],
+   "original_bytes": 97019,
+   "maker": "Mati Klarwein",
+   "title": "Live",
+   "subtitle": "Painting · plate V23-Live on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 352.79,
+   "light": 0.4717
+  },
+  {
+   "id": "CRVI001240",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001240.jpg",
+   "source_label": "",
+   "image": "images/CRVI001240.jpg",
+   "original": "originals/CRVI001240.jpg",
+   "vector": "",
+   "original_px": [
+    709,
+    714
+   ],
+   "original_bytes": 124255,
+   "maker": "Mati Klarwein",
+   "title": "Daily Miracle",
+   "subtitle": "Painting · plate v30-Daily-Miracle on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "purple"
+    }
+   ],
+   "hue": 224.51,
+   "light": 0.2786
+  },
+  {
+   "id": "CRVI001241",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001241.jpg",
+   "source_label": "",
+   "image": "images/CRVI001241.jpg",
+   "original": "originals/CRVI001241.jpg",
+   "vector": "",
+   "original_px": [
+    709,
+    708
+   ],
+   "original_bytes": 119434,
+   "maker": "Mati Klarwein",
+   "title": "Godmother",
+   "subtitle": "Painting · plate V25-Godmother on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 5.06,
+   "light": 0.4088
+  },
+  {
+   "id": "CRVI001242",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001242.jpg",
+   "source_label": "",
+   "image": "images/CRVI001242.jpg",
+   "original": "originals/CRVI001242.jpg",
+   "vector": "",
+   "original_px": [
+    709,
+    705
+   ],
+   "original_bytes": 99063,
+   "maker": "Mati Klarwein",
+   "title": "Evil",
+   "subtitle": "Painting · plate V24-Evil on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 28.58,
+   "light": 0.4268
+  },
+  {
+   "id": "CRVI001243",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001243.jpg",
+   "source_label": "",
+   "image": "images/CRVI001243.jpg",
+   "original": "originals/CRVI001243.jpg",
+   "vector": "",
+   "original_px": [
+    709,
+    704
+   ],
+   "original_bytes": 83918,
+   "maker": "Mati Klarwein",
+   "title": "Angel, Brazilian",
+   "subtitle": "Painting · plate V10-Angel-Brazilian on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 42.18,
+   "light": 0.486
+  },
+  {
+   "id": "CRVI001244",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001244.jpg",
+   "source_label": "",
+   "image": "images/CRVI001244.jpg",
+   "original": "originals/CRVI001244.jpg",
+   "vector": "",
+   "original_px": [
+    709,
+    698
+   ],
+   "original_bytes": 108390,
+   "maker": "Mati Klarwein",
+   "title": "Grandfather",
+   "subtitle": "Painting · plate V27-Grandfather on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    }
+   ],
+   "hue": 48.79,
+   "light": 0.251
+  },
+  {
+   "id": "CRVI001245",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001245.jpg",
+   "source_label": "",
+   "image": "images/CRVI001245.jpg",
+   "original": "originals/CRVI001245.jpg",
+   "vector": "",
+   "original_px": [
+    680,
+    676
+   ],
+   "original_bytes": 100358,
+   "maker": "Mati Klarwein",
+   "title": "Clone (unfinished)",
+   "subtitle": "Painting · plate V32-clone-unfinished on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 14.52,
+   "light": 0.4371
+  },
+  {
+   "id": "CRVI001246",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001246.jpg",
+   "source_label": "",
+   "image": "images/CRVI001246.jpg",
+   "original": "originals/CRVI001246.jpg",
+   "vector": "",
+   "original_px": [
+    1134,
+    579
+   ],
+   "original_bytes": 180410,
+   "maker": "Mati Klarwein",
+   "title": "Sun & Moon",
+   "subtitle": "Painting · plate V18-Sun-Moon on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 40.88,
+   "light": 0.5883
+  },
+  {
+   "id": "CRVI001247",
+   "published": true,
+   "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001247.jpg",
+   "source_label": "",
+   "image": "images/CRVI001247.jpg",
+   "original": "originals/CRVI001247.jpg",
+   "vector": "",
+   "original_px": [
+    567,
+    565
+   ],
+   "original_bytes": 51350,
+   "maker": "Mati Klarwein",
+   "title": "Timeless",
+   "subtitle": "Painting · plate V14-Timeless on the artist's own site",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "medium",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 43.46,
+   "light": 0.5281
   }
  ]
 }
