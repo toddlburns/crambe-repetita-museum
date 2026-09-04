@@ -59126,6 +59126,438 @@
    "light": 0.5865
   },
   {
+   "id": "CRVI001205",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/3595311",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001205.jpg",
+   "source_label": "",
+   "image": "images/CRVI001205.jpg",
+   "original": "originals/CRVI001205.jpg",
+   "vector": "",
+   "original_px": [
+    1200,
+    1200
+   ],
+   "original_bytes": 1653295,
+   "maker": "Bill Evans Trio",
+   "title": "Portrait In Jazz",
+   "subtitle": "Designed by Harris Lewine, Ken Braren, Paul Bacon, photograph by Melvin Sokolsky · Riverside Records RLP 12-315",
+   "year": "1960",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Harris Lewine"
+    },
+    {
+     "k": "designer",
+     "v": "Ken Braren"
+    },
+    {
+     "k": "designer",
+     "v": "Paul Bacon"
+    },
+    {
+     "k": "photographer",
+     "v": "Melvin Sokolsky"
+    },
+    {
+     "k": "artist",
+     "v": "Bill Evans Trio"
+    },
+    {
+     "k": "label",
+     "v": "Riverside Records"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 35.86,
+   "light": 0.344
+  },
+  {
+   "id": "CRVI001206",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/37025976",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001206.jpg",
+   "source_label": "",
+   "image": "images/CRVI001206.jpg",
+   "original": "originals/CRVI001206.jpg",
+   "vector": "",
+   "original_px": [
+    1000,
+    1000
+   ],
+   "original_bytes": 543119,
+   "maker": "The Jazz Messengers",
+   "title": "The Complete Jazz Messengers At The Cafe Bohemia",
+   "subtitle": "Designed by Reid Miles, photograph by Francis Wolff · Blue Note",
+   "year": "1956",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "photographer",
+     "v": "Francis Wolff"
+    },
+    {
+     "k": "artist",
+     "v": "The Jazz Messengers"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 25.8,
+   "light": 0.6456
+  },
+  {
+   "id": "CRVI001207",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/12414400",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001207.jpg",
+   "source_label": "",
+   "image": "images/CRVI001207.jpg",
+   "original": "originals/CRVI001207.jpg",
+   "vector": "",
+   "original_px": [
+    1000,
+    952
+   ],
+   "original_bytes": 54079,
+   "maker": "Thelonious Monk",
+   "title": "The Complete Riverside Recordings",
+   "subtitle": "Designer unrecorded · Riverside Records RCD-022-2",
+   "year": "1986",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "artist",
+     "v": "Thelonious Monk"
+    },
+    {
+     "k": "label",
+     "v": "Riverside Records"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "color",
+     "v": "neutral"
+    }
+   ],
+   "hue": null,
+   "light": 0.4573
+  },
+  {
+   "id": "CRVI001208",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/2445133",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001208.jpg",
+   "source_label": "",
+   "image": "images/CRVI001208.jpg",
+   "original": "originals/CRVI001208.jpg",
+   "vector": "",
+   "original_px": [
+    1181,
+    1181
+   ],
+   "original_bytes": 161910,
+   "maker": "Cannonball Adderley with Bill Evans",
+   "title": "Know What I Mean?",
+   "subtitle": "Photograph by Michael Cuesta · Riverside Records RLP 433",
+   "year": "1961",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "photographer",
+     "v": "Michael Cuesta"
+    },
+    {
+     "k": "artist",
+     "v": "Cannonball Adderley with Bill Evans"
+    },
+    {
+     "k": "label",
+     "v": "Riverside Records"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 205.21,
+   "light": 0.557
+  },
+  {
+   "id": "CRVI001209",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/8330010",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001209.jpg",
+   "source_label": "",
+   "image": "images/CRVI001209.jpg",
+   "original": "originals/CRVI001209.jpg",
+   "vector": "",
+   "original_px": [
+    1000,
+    1000
+   ],
+   "original_bytes": 275970,
+   "maker": "Sonny Rollins",
+   "title": "The Sound Of Sonny",
+   "subtitle": "Designed by Paul Bacon, photograph by Paul Weller · Riverside Records RLP 12-241",
+   "year": "1957",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Paul Bacon"
+    },
+    {
+     "k": "photographer",
+     "v": "Paul Weller"
+    },
+    {
+     "k": "artist",
+     "v": "Sonny Rollins"
+    },
+    {
+     "k": "label",
+     "v": "Riverside Records"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 12.6,
+   "light": 0.4787
+  },
+  {
+   "id": "CRVI001210",
+   "published": true,
+   "source_url": "https://billevansofficial.com/wp-content/uploads/2025/08/cover.webp",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001210.jpg",
+   "source_label": "",
+   "image": "images/CRVI001210.jpg",
+   "original": "originals/CRVI001210.jpg",
+   "vector": "",
+   "original_px": [
+    2500,
+    2500
+   ],
+   "original_bytes": 158822,
+   "maker": "Bill Evans Trio",
+   "title": "Haunted Heart: The Legendary Riverside Studio Recordings",
+   "subtitle": "Designer unrecorded",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "artist",
+     "v": "Bill Evans Trio"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    }
+   ],
+   "hue": 335.9,
+   "light": 0.6121
+  },
+  {
+   "id": "CRVI001211",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/19235809",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001211.jpg",
+   "source_label": "",
+   "image": "images/CRVI001211.jpg",
+   "original": "originals/CRVI001211.jpg",
+   "vector": "",
+   "original_px": [
+    2000,
+    2000
+   ],
+   "original_bytes": 278937,
+   "maker": "Bill Evans Trio",
+   "title": "On A Friday Evening",
+   "subtitle": "Designed by Christopher Leckie, photograph by Jerome Knill, Phil Bray, Scott Lyons · Craft Recordings CR00301",
+   "year": "2021",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Christopher Leckie"
+    },
+    {
+     "k": "photographer",
+     "v": "Jerome Knill"
+    },
+    {
+     "k": "photographer",
+     "v": "Phil Bray"
+    },
+    {
+     "k": "photographer",
+     "v": "Scott Lyons"
+    },
+    {
+     "k": "artist",
+     "v": "Bill Evans Trio"
+    },
+    {
+     "k": "label",
+     "v": "Craft Recordings"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 25.77,
+   "light": 0.5277
+  },
+  {
+   "id": "CRVI001212",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/3332333",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001212.jpg",
+   "source_label": "",
+   "image": "images/CRVI001212.jpg",
+   "original": "originals/CRVI001212.jpg",
+   "vector": "",
+   "original_px": [
+    1920,
+    1921
+   ],
+   "original_bytes": 2901442,
+   "maker": "Thelonious Monk",
+   "title": "Underground",
+   "subtitle": "Designed by John Berg, Richard Mantel, photograph by Horn/Griner · Columbia CS 9632",
+   "year": "1968",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "John Berg"
+    },
+    {
+     "k": "designer",
+     "v": "Richard Mantel"
+    },
+    {
+     "k": "photographer",
+     "v": "Horn/Griner"
+    },
+    {
+     "k": "artist",
+     "v": "Thelonious Monk"
+    },
+    {
+     "k": "label",
+     "v": "Columbia"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 23.23,
+   "light": 0.3765
+  },
+  {
    "id": "CRVI001213",
    "published": true,
    "source_url": "https://www.matiklarweinart.com/artworkgallery.php",
@@ -59210,6 +59642,124 @@
    ],
    "hue": 26.44,
    "light": 0.2829
+  },
+  {
+   "id": "CRVI001215",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/28134622",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001215.jpg",
+   "source_label": "",
+   "image": "images/CRVI001215.jpg",
+   "original": "originals/CRVI001215.jpg",
+   "vector": "",
+   "original_px": [
+    1000,
+    1000
+   ],
+   "original_bytes": 309934,
+   "maker": "Alice Coltrane With Strings",
+   "title": "World Galaxy",
+   "subtitle": "Designed by Peter Max, photograph by Philip Melnick · Impulse! AS-9218",
+   "year": "1972",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Peter Max"
+    },
+    {
+     "k": "illustrator",
+     "v": "Peter Max"
+    },
+    {
+     "k": "photographer",
+     "v": "Philip Melnick"
+    },
+    {
+     "k": "artist",
+     "v": "Alice Coltrane With Strings"
+    },
+    {
+     "k": "label",
+     "v": "Impulse!"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 195.43,
+   "light": 0.6196
+  },
+  {
+   "id": "CRVI001216",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/12363186",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001216.jpg",
+   "source_label": "",
+   "image": "images/CRVI001216.jpg",
+   "original": "originals/CRVI001216.jpg",
+   "vector": "",
+   "original_px": [
+    1280,
+    1280
+   ],
+   "original_bytes": 64300,
+   "maker": "Pharoah Sanders",
+   "title": "Karma",
+   "subtitle": "Designed by Robert & Barbara Flynn, photograph by Chuck Stewart · Impulse! AS-9181",
+   "year": "1969",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Robert & Barbara Flynn"
+    },
+    {
+     "k": "photographer",
+     "v": "Chuck Stewart"
+    },
+    {
+     "k": "artist",
+     "v": "Pharoah Sanders"
+    },
+    {
+     "k": "label",
+     "v": "Impulse!"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 13.69,
+   "light": 0.2204
   },
   {
    "id": "CRVI001217",
@@ -59750,6 +60300,63 @@
    ],
    "hue": 23.43,
    "light": 0.3819
+  },
+  {
+   "id": "CRVI001229",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/785284",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001229.jpg",
+   "source_label": "",
+   "image": "images/CRVI001229.jpg",
+   "original": "originals/CRVI001229.jpg",
+   "vector": "",
+   "original_px": [
+    1000,
+    912
+   ],
+   "original_bytes": 112533,
+   "maker": "Pharoah Sanders",
+   "title": "Elevation",
+   "subtitle": "Designed by Tim Bryant, artwork by Bodhi Wind · Impulse! AS-9261",
+   "year": "1974",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Tim Bryant"
+    },
+    {
+     "k": "illustrator",
+     "v": "Bodhi Wind"
+    },
+    {
+     "k": "artist",
+     "v": "Pharoah Sanders"
+    },
+    {
+     "k": "label",
+     "v": "Impulse!"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 214.88,
+   "light": 0.5505
   },
   {
    "id": "CRVI001230",
@@ -60708,10 +61315,10 @@
    "original": "originals/CRVI001251.jpg",
    "vector": "",
    "original_px": [
-    600,
-    594
+    1500,
+    1500
    ],
-   "original_bytes": 134656,
+   "original_bytes": 850039,
    "maker": "Howard Wales & Jerry Garcia",
    "title": "Hooteroll?",
    "subtitle": "Painting by Mati Klarwein · Douglas KZ 30859",
@@ -60750,8 +61357,8 @@
      "v": "orange"
     }
    ],
-   "hue": 55.55,
-   "light": 0.3811
+   "hue": 48.22,
+   "light": 0.4058
   },
   {
    "id": "CRVI001252",
@@ -60765,10 +61372,10 @@
    "original": "originals/CRVI001252.jpg",
    "vector": "",
    "original_px": [
-    600,
-    600
+    3000,
+    3000
    ],
-   "original_bytes": 136139,
+   "original_bytes": 4461423,
    "maker": "Joe Beck",
    "title": "Beck",
    "subtitle": "Designed by Bob Ciano, painting by Mati Klarwein · Kudu KU-21 S1",
@@ -60807,8 +61414,8 @@
      "v": "orange"
     }
    ],
-   "hue": 21.75,
-   "light": 0.3814
+   "hue": 16.74,
+   "light": 0.44
   },
   {
    "id": "CRVI001253",
