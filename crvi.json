@@ -7859,10 +7859,10 @@
    "original": "originals/CRVI000155.jpg",
    "vector": "",
    "original_px": [
-    3000,
-    3000
+    5000,
+    5000
    ],
-   "original_bytes": 3358255,
+   "original_bytes": 2044066,
    "maker": "Red Garland Trio",
    "title": "Groovy",
    "subtitle": "Designed by Reid Miles · Prestige 7113",
@@ -7894,7 +7894,7 @@
     }
    ],
    "hue": null,
-   "light": 0.4582
+   "light": 0.4573
   },
   {
    "id": "CRVI000156",
@@ -11219,7 +11219,7 @@
   {
    "id": "CRVI000228",
    "published": true,
-   "source_url": "https://www.discogs.com/release/6861605",
+   "source_url": "https://www.discogs.com/release/30108638",
    "animated": false,
    "video": false,
    "thumb": "thumbs/CRVI000228.jpg",
@@ -11228,22 +11228,26 @@
    "original": "originals/CRVI000228.jpg",
    "vector": "",
    "original_px": [
-    1401,
-    1401
+    5000,
+    5000
    ],
-   "original_bytes": 345376,
+   "original_bytes": 796395,
    "maker": "Us3",
    "title": "Hand On The Torch",
-   "subtitle": "Designer unknown · Blue Note",
+   "subtitle": "Typography by Stylorouge · Blue Note CDP 0777 7 80883 2 5",
    "year": "1993",
    "tags": [
     {
-     "k": "artist",
-     "v": "Us3"
-    },
-    {
      "k": "type",
      "v": "album cover"
+    },
+    {
+     "k": "typographer",
+     "v": "Stylorouge"
+    },
+    {
+     "k": "artist",
+     "v": "Us3"
     },
     {
      "k": "label",
@@ -11262,8 +11266,8 @@
      "v": "blue"
     }
    ],
-   "hue": 42.31,
-   "light": 0.6819
+   "hue": 36.95,
+   "light": 0.6826
   },
   {
    "id": "CRVI000229",
@@ -54297,6 +54301,3782 @@
    ],
    "hue": null,
    "light": 0.9515
+  },
+  {
+   "id": "CRVI001114",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/3473792",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001114.jpg",
+   "source_label": "",
+   "image": "images/CRVI001114.jpg",
+   "original": "originals/CRVI001114.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 2266411,
+   "maker": "Andrew Hill",
+   "title": "Andrew!!!",
+   "subtitle": "Designed by Reid Miles · Blue Note BST 84203",
+   "year": "1968",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "photographer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "artist",
+     "v": "Andrew Hill"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "neutral"
+    }
+   ],
+   "hue": null,
+   "light": 0.5696
+  },
+  {
+   "id": "CRVI001115",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/21318058",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001115.jpg",
+   "source_label": "",
+   "image": "images/CRVI001115.jpg",
+   "original": "originals/CRVI001115.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 1524599,
+   "maker": "Andrew Hill",
+   "title": "Compulsion!!!!!",
+   "subtitle": "Designed by Reid Miles · Blue Note BST 84217",
+   "year": "1967",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "photographer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "artist",
+     "v": "Andrew Hill"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "neutral"
+    }
+   ],
+   "hue": null,
+   "light": 0.451
+  },
+  {
+   "id": "CRVI001116",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/1100954",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001116.jpg",
+   "source_label": "",
+   "image": "images/CRVI001116.jpg",
+   "original": "originals/CRVI001116.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 1218760,
+   "maker": "Andrew Hill",
+   "title": "Judgment!",
+   "subtitle": "Designed by Reid Miles, photograph by Francis Wolff · Blue Note BLP 4159",
+   "year": "1964",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "photographer",
+     "v": "Francis Wolff"
+    },
+    {
+     "k": "artist",
+     "v": "Andrew Hill"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "black"
+    }
+   ],
+   "hue": 195.87,
+   "light": 0.1368
+  },
+  {
+   "id": "CRVI001117",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/2108087",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001117.jpg",
+   "source_label": "",
+   "image": "images/CRVI001117.jpg",
+   "original": "originals/CRVI001117.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 1667007,
+   "maker": "Andrew Hill",
+   "title": "Point Of Departure",
+   "subtitle": "Designed by Reid Miles · Blue Note BLP 4167",
+   "year": "1965",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "photographer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "artist",
+     "v": "Andrew Hill"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 211.74,
+   "light": 0.635
+  },
+  {
+   "id": "CRVI001118",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/1100970",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001118.jpg",
+   "source_label": "",
+   "image": "images/CRVI001118.jpg",
+   "original": "originals/CRVI001118.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 1265965,
+   "maker": "Andrew Hill",
+   "title": "Smoke Stack",
+   "subtitle": "Designed by Reid Miles · Blue Note BLP 4160",
+   "year": "1966",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "photographer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "artist",
+     "v": "Andrew Hill"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 45.25,
+   "light": 0.2959
+  },
+  {
+   "id": "CRVI001119",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/16924914",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001119.jpg",
+   "source_label": "",
+   "image": "images/CRVI001119.jpg",
+   "original": "originals/CRVI001119.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 1838676,
+   "maker": "Art Blakey And The Jazz Messengers",
+   "title": "Moanin'",
+   "subtitle": "Photograph by Buck Hoeffler · Blue Note BLP 4003",
+   "year": "1959",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "photographer",
+     "v": "Buck Hoeffler"
+    },
+    {
+     "k": "artist",
+     "v": "Art Blakey"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 65.19,
+   "light": 0.2794
+  },
+  {
+   "id": "CRVI001120",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/3400249",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001120.jpg",
+   "source_label": "",
+   "image": "images/CRVI001120.jpg",
+   "original": "originals/CRVI001120.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 805977,
+   "maker": "Bobby Hutcherson",
+   "title": "Stick-Up!",
+   "subtitle": "Designed by Reid Miles, photograph by Francis Wolff · Blue Note BST 84244",
+   "year": "1968",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "photographer",
+     "v": "Francis Wolff"
+    },
+    {
+     "k": "artist",
+     "v": "Bobby Hutcherson"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 26.32,
+   "light": 0.6774
+  },
+  {
+   "id": "CRVI001121",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/9982850",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001121.jpg",
+   "source_label": "",
+   "image": "images/CRVI001121.jpg",
+   "original": "originals/CRVI001121.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 787136,
+   "maker": "Lee Konitz, Brad Mehldau, Charlie Haden",
+   "title": "Alone Together",
+   "subtitle": "Designed by Patrick Roques, painting by Kenneth Noland · Blue Note 7243 8 57150 2 0",
+   "year": "1997",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Patrick Roques"
+    },
+    {
+     "k": "illustrator",
+     "v": "Kenneth Noland"
+    },
+    {
+     "k": "artist",
+     "v": "Lee Konitz"
+    },
+    {
+     "k": "artist",
+     "v": "Brad Mehldau"
+    },
+    {
+     "k": "artist",
+     "v": "Charlie Haden"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 354.23,
+   "light": 0.5141
+  },
+  {
+   "id": "CRVI001122",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/16609158",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001122.jpg",
+   "source_label": "",
+   "image": "images/CRVI001122.jpg",
+   "original": "originals/CRVI001122.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 724332,
+   "maker": "Cannonball Adderley",
+   "title": "Somethin' Else",
+   "subtitle": "Designed by Reid Miles, photograph by Francis Wolff · Blue Note BLP 1595",
+   "year": "1958",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "photographer",
+     "v": "Francis Wolff"
+    },
+    {
+     "k": "artist",
+     "v": "Cannonball Adderley"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "color",
+     "v": "black"
+    }
+   ],
+   "hue": 197.57,
+   "light": 0.0897
+  },
+  {
+   "id": "CRVI001123",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/1251632",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001123.jpg",
+   "source_label": "",
+   "image": "images/CRVI001123.jpg",
+   "original": "originals/CRVI001123.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 823523,
+   "maker": "Jackie McLean",
+   "title": "Jacknife",
+   "subtitle": "Designed by Bob Cato, photograph by Raymond Ross · Blue Note BN-LA457-H2",
+   "year": "1975",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Bob Cato"
+    },
+    {
+     "k": "photographer",
+     "v": "Raymond Ross"
+    },
+    {
+     "k": "artist",
+     "v": "Jackie McLean"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 44.87,
+   "light": 0.2592
+  },
+  {
+   "id": "CRVI001124",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/6684228",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001124.jpg",
+   "source_label": "",
+   "image": "images/CRVI001124.jpg",
+   "original": "originals/CRVI001124.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 2671640,
+   "maker": "Dexter Gordon",
+   "title": "Gettin' Around",
+   "subtitle": "Designed by Reid Miles, photograph by Francis Wolff · Blue Note BST 84204",
+   "year": "1965",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "photographer",
+     "v": "Francis Wolff"
+    },
+    {
+     "k": "artist",
+     "v": "Dexter Gordon"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": null,
+   "light": 0.7771
+  },
+  {
+   "id": "CRVI001125",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/3380665",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001125.jpg",
+   "source_label": "",
+   "image": "images/CRVI001125.jpg",
+   "original": "originals/CRVI001125.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 817310,
+   "maker": "Dexter Gordon",
+   "title": "Go",
+   "subtitle": "Designed by Reid Miles, photograph by Francis Wolff · Blue Note BLP 4112",
+   "year": "1962",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "photographer",
+     "v": "Francis Wolff"
+    },
+    {
+     "k": "artist",
+     "v": "Dexter Gordon"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 21.45,
+   "light": 0.7971
+  },
+  {
+   "id": "CRVI001126",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/3380679",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001126.jpg",
+   "source_label": "",
+   "image": "images/CRVI001126.jpg",
+   "original": "originals/CRVI001126.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 1393316,
+   "maker": "Dexter Gordon",
+   "title": "Our Man In Paris",
+   "subtitle": "Designed by Reid Miles, photograph by Francis Wolff · Blue Note BLP 4146",
+   "year": "1963",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "photographer",
+     "v": "Francis Wolff"
+    },
+    {
+     "k": "artist",
+     "v": "Dexter Gordon"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "neutral"
+    }
+   ],
+   "hue": null,
+   "light": 0.598
+  },
+  {
+   "id": "CRVI001127",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/25407472",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001127.jpg",
+   "source_label": "",
+   "image": "images/CRVI001127.jpg",
+   "original": "originals/CRVI001127.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 735141,
+   "maker": "Donald Byrd",
+   "title": "A New Perspective",
+   "subtitle": "Designed by Reid Miles · Blue Note BLP 4124",
+   "year": "1964",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "photographer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "artist",
+     "v": "Donald Byrd"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 68.04,
+   "light": 0.5245
+  },
+  {
+   "id": "CRVI001128",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/12250797",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001128.jpg",
+   "source_label": "",
+   "image": "images/CRVI001128.jpg",
+   "original": "originals/CRVI001128.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 1058337,
+   "maker": "Donald Byrd",
+   "title": "Black Byrd",
+   "subtitle": "Artwork by Eileen Anderson, photograph by Art Hanson · Blue Note BN-LA047-F",
+   "year": "1973",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "illustrator",
+     "v": "Eileen Anderson"
+    },
+    {
+     "k": "photographer",
+     "v": "Art Hanson"
+    },
+    {
+     "k": "artist",
+     "v": "Donald Byrd"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 11.97,
+   "light": 0.5085
+  },
+  {
+   "id": "CRVI001129",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/662848",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001129.jpg",
+   "source_label": "",
+   "image": "images/CRVI001129.jpg",
+   "original": "originals/CRVI001129.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 878570,
+   "maker": "Eric Dolphy",
+   "title": "Out To Lunch!",
+   "subtitle": "Designed by Reid Miles · Blue Note BLP 4163",
+   "year": "1964",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "photographer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "artist",
+     "v": "Eric Dolphy"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 201.6,
+   "light": 0.5483
+  },
+  {
+   "id": "CRVI001130",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/1763491",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001130.jpg",
+   "source_label": "",
+   "image": "images/CRVI001130.jpg",
+   "original": "originals/CRVI001130.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 669103,
+   "maker": "Freddie Hubbard",
+   "title": "Hub-Tones",
+   "subtitle": "Designed by Reid Miles, photograph by Francis Wolff · Blue Note BLP 4115",
+   "year": "1962",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "photographer",
+     "v": "Francis Wolff"
+    },
+    {
+     "k": "artist",
+     "v": "Freddie Hubbard"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 67.49,
+   "light": 0.4427
+  },
+  {
+   "id": "CRVI001131",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/3819527",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001131.jpg",
+   "source_label": "",
+   "image": "images/CRVI001131.jpg",
+   "original": "originals/CRVI001131.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 676021,
+   "maker": "Gene Harris & The Three Sounds",
+   "title": "Live At The 'It Club'",
+   "subtitle": "Designed by Patrick Roques · Blue Note 7243 8 35338",
+   "year": "1996",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Patrick Roques"
+    },
+    {
+     "k": "artist",
+     "v": "Gene Harris & The Three Sounds"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 5.19,
+   "light": 0.5204
+  },
+  {
+   "id": "CRVI001132",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/1073233",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001132.jpg",
+   "source_label": "",
+   "image": "images/CRVI001132.jpg",
+   "original": "originals/CRVI001132.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 2270883,
+   "maker": "Grant Green",
+   "title": "Goin' West",
+   "subtitle": "Designer unrecorded · Blue Note BST 84310",
+   "year": "1969",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "artist",
+     "v": "Grant Green"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 16.87,
+   "light": 0.6704
+  },
+  {
+   "id": "CRVI001133",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/27685797",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001133.jpg",
+   "source_label": "",
+   "image": "images/CRVI001133.jpg",
+   "original": "originals/CRVI001133.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 1044055,
+   "maker": "Grant Green",
+   "title": "Live At The Lighthouse",
+   "subtitle": "Designed by John Van Hamersveld, photograph by Al Vandenberg · Blue Note BN-LA037-G2",
+   "year": "1972",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "John Van Hamersveld"
+    },
+    {
+     "k": "illustrator",
+     "v": "John Van Hamersveld"
+    },
+    {
+     "k": "photographer",
+     "v": "Al Vandenberg"
+    },
+    {
+     "k": "art director",
+     "v": "Norman Seeff"
+    },
+    {
+     "k": "artist",
+     "v": "Grant Green"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 43.32,
+   "light": 0.5482
+  },
+  {
+   "id": "CRVI001134",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/5955059",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001134.jpg",
+   "source_label": "",
+   "image": "images/CRVI001134.jpg",
+   "original": "originals/CRVI001134.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 1306980,
+   "maker": "Grant Green",
+   "title": "Street Of Dreams",
+   "subtitle": "Designed by Reid Miles, photograph by Jim Marshall · Blue Note BST 84253",
+   "year": "1967",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "photographer",
+     "v": "Jim Marshall"
+    },
+    {
+     "k": "artist",
+     "v": "Grant Green"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 196.19,
+   "light": 0.3697
+  },
+  {
+   "id": "CRVI001135",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/10476741",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001135.jpg",
+   "source_label": "",
+   "image": "images/CRVI001135.jpg",
+   "original": "originals/CRVI001135.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 1263279,
+   "maker": "Grant Green",
+   "title": "Sunday Mornin'",
+   "subtitle": "Designed by Reid Miles, photograph by Francis Wolff · Blue Note BLP 4099",
+   "year": "1962",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "photographer",
+     "v": "Francis Wolff"
+    },
+    {
+     "k": "artist",
+     "v": "Grant Green"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 32.78,
+   "light": 0.5726
+  },
+  {
+   "id": "CRVI001136",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/6398396",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001136.jpg",
+   "source_label": "",
+   "image": "images/CRVI001136.jpg",
+   "original": "originals/CRVI001136.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 2335110,
+   "maker": "Grant Green",
+   "title": "Visions",
+   "subtitle": "Designed by Beverly Parker, photograph by Norman Seeff · Blue Note BST-84373",
+   "year": "1971",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Beverly Parker"
+    },
+    {
+     "k": "photographer",
+     "v": "Norman Seeff"
+    },
+    {
+     "k": "artist",
+     "v": "Grant Green"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 73.91,
+   "light": 0.2513
+  },
+  {
+   "id": "CRVI001137",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/1907831",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001137.jpg",
+   "source_label": "",
+   "image": "images/CRVI001137.jpg",
+   "original": "originals/CRVI001137.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 958152,
+   "maker": "Herbie Hancock",
+   "title": "Maiden Voyage",
+   "subtitle": "Designed by Reid Miles · Blue Note BLP 4195",
+   "year": "1965",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "photographer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "artist",
+     "v": "Herbie Hancock"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 65.33,
+   "light": 0.5823
+  },
+  {
+   "id": "CRVI001138",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/1907708",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001138.jpg",
+   "source_label": "",
+   "image": "images/CRVI001138.jpg",
+   "original": "originals/CRVI001138.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 1232792,
+   "maker": "Herbie Hancock",
+   "title": "Takin' Off",
+   "subtitle": "Designed by Reid Miles · Blue Note BLP 4109",
+   "year": "1962",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "photographer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "artist",
+     "v": "Herbie Hancock"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": null,
+   "light": 0.7339
+  },
+  {
+   "id": "CRVI001139",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/12239335",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001139.jpg",
+   "source_label": "",
+   "image": "images/CRVI001139.jpg",
+   "original": "originals/CRVI001139.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 996873,
+   "maker": "The Horace Silver Quintet",
+   "title": "Horace-Scope",
+   "subtitle": "Artwork by Paula Donohue, photograph by Francis Wolff · Blue Note BLP 4042",
+   "year": "1960",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "illustrator",
+     "v": "Paula Donohue"
+    },
+    {
+     "k": "photographer",
+     "v": "Francis Wolff"
+    },
+    {
+     "k": "artist",
+     "v": "Horace Silver"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 55.02,
+   "light": 0.4054
+  },
+  {
+   "id": "CRVI001140",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/499551",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001140.jpg",
+   "source_label": "",
+   "image": "images/CRVI001140.jpg",
+   "original": "originals/CRVI001140.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 498047,
+   "maker": "Horace Silver",
+   "title": "In Pursuit Of The 27th Man",
+   "subtitle": "Photograph by Darnell Mitchell · Blue Note BN-LA054-F",
+   "year": "1973",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "photographer",
+     "v": "Darnell Mitchell"
+    },
+    {
+     "k": "artist",
+     "v": "Horace Silver"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "black"
+    }
+   ],
+   "hue": null,
+   "light": 0.0767
+  },
+  {
+   "id": "CRVI001141",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/33933450",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001141.jpg",
+   "source_label": "",
+   "image": "images/CRVI001141.jpg",
+   "original": "originals/CRVI001141.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 806248,
+   "maker": "Jackie McLean",
+   "title": "Bluesnik",
+   "subtitle": "Designed by Reid Miles, photograph by Francis Wolff · Blue Note BLP 4067",
+   "year": "1962",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "photographer",
+     "v": "Francis Wolff"
+    },
+    {
+     "k": "artist",
+     "v": "Jackie McLean"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 197.83,
+   "light": 0.4128
+  },
+  {
+   "id": "CRVI001142",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/14516067",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001142.jpg",
+   "source_label": "",
+   "image": "images/CRVI001142.jpg",
+   "original": "originals/CRVI001142.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 2567298,
+   "maker": "Jackie McLean",
+   "title": "Demon's Dance",
+   "subtitle": "Designed by Bob Venosa, artwork by Mati Klarwein · Blue Note BST 84345",
+   "year": "1970",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Bob Venosa"
+    },
+    {
+     "k": "illustrator",
+     "v": "Mati Klarwein"
+    },
+    {
+     "k": "artist",
+     "v": "Jackie McLean"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 17.29,
+   "light": 0.4005
+  },
+  {
+   "id": "CRVI001143",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/1189824",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001143.jpg",
+   "source_label": "",
+   "image": "images/CRVI001143.jpg",
+   "original": "originals/CRVI001143.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 651423,
+   "maker": "Jackie McLean",
+   "title": "Destination... Out!",
+   "subtitle": "Designed by Larry Miller, photograph by Francis Wolff · Blue Note BLP 4165",
+   "year": "1964",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Larry Miller"
+    },
+    {
+     "k": "photographer",
+     "v": "Francis Wolff"
+    },
+    {
+     "k": "artist",
+     "v": "Jackie McLean"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "white"
+    }
+   ],
+   "hue": 15.02,
+   "light": 0.8355
+  },
+  {
+   "id": "CRVI001144",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/3376737",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001144.jpg",
+   "source_label": "",
+   "image": "images/CRVI001144.jpg",
+   "original": "originals/CRVI001144.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 1074346,
+   "maker": "Jackie McLean",
+   "title": "It's Time!",
+   "subtitle": "Designed by Reid Miles, photograph by Francis Wolff · Blue Note BLP 4179",
+   "year": "1965",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "photographer",
+     "v": "Francis Wolff"
+    },
+    {
+     "k": "artist",
+     "v": "Jackie McLean"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "neutral"
+    }
+   ],
+   "hue": null,
+   "light": 0.7457
+  },
+  {
+   "id": "CRVI001145",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/3376711",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001145.jpg",
+   "source_label": "",
+   "image": "images/CRVI001145.jpg",
+   "original": "originals/CRVI001145.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 666523,
+   "maker": "Jackie McLean",
+   "title": "Let Freedom Ring",
+   "subtitle": "Designed by Reid Miles, photograph by Francis Wolff · Blue Note BLP 4106",
+   "year": "1963",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "photographer",
+     "v": "Francis Wolff"
+    },
+    {
+     "k": "artist",
+     "v": "Jackie McLean"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "neutral"
+    }
+   ],
+   "hue": null,
+   "light": 0.6389
+  },
+  {
+   "id": "CRVI001146",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/3508606",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001146.jpg",
+   "source_label": "",
+   "image": "images/CRVI001146.jpg",
+   "original": "originals/CRVI001146.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 722333,
+   "maker": "Jackie McLean",
+   "title": "Right Now!",
+   "subtitle": "Designed by Reid Miles, photograph by Francis Wolff · Blue Note BST 84215",
+   "year": "1966",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "photographer",
+     "v": "Francis Wolff"
+    },
+    {
+     "k": "artist",
+     "v": "Jackie McLean"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    }
+   ],
+   "hue": null,
+   "light": 0.5964
+  },
+  {
+   "id": "CRVI001147",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/37996950",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001147.jpg",
+   "source_label": "",
+   "image": "images/CRVI001147.jpg",
+   "original": "originals/CRVI001147.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 686101,
+   "maker": "Jackie McLean",
+   "title": "Vertigo",
+   "subtitle": "Designed by Patrick Roques, photograph by Francis Wolff · Blue Note LT-1085",
+   "year": "2000",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Patrick Roques"
+    },
+    {
+     "k": "photographer",
+     "v": "Francis Wolff"
+    },
+    {
+     "k": "artist",
+     "v": "Jackie McLean"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 355.01,
+   "light": 0.3381
+  },
+  {
+   "id": "CRVI001148",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/31623661",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001148.jpg",
+   "source_label": "",
+   "image": "images/CRVI001148.jpg",
+   "original": "originals/CRVI001148.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 765686,
+   "maker": "Jimmy Smith",
+   "title": "A New Sound... A New Star... Jimmy Smith At The Organ Volume 2",
+   "subtitle": "Designed by Reid Miles, photograph by Francis Wolff · Blue Note BLP 1514",
+   "year": "1956",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "photographer",
+     "v": "Francis Wolff"
+    },
+    {
+     "k": "artist",
+     "v": "Jimmy Smith"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 7.44,
+   "light": 0.3778
+  },
+  {
+   "id": "CRVI001149",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/7216016",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001149.jpg",
+   "source_label": "",
+   "image": "images/CRVI001149.jpg",
+   "original": "originals/CRVI001149.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 839456,
+   "maker": "Jimmy Smith",
+   "title": "A New Sound... A New Star... Jimmy Smith At The Organ Volume 1",
+   "subtitle": "Designed by Reid Miles, photograph by Francis Wolff · Blue Note BLP 1512",
+   "year": "1956",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "photographer",
+     "v": "Francis Wolff"
+    },
+    {
+     "k": "artist",
+     "v": "Jimmy Smith"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 16.66,
+   "light": 0.6222
+  },
+  {
+   "id": "CRVI001150",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/437567",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001150.jpg",
+   "source_label": "",
+   "image": "images/CRVI001150.jpg",
+   "original": "originals/CRVI001150.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 2045710,
+   "maker": "Jimmy Smith & Wes Montgomery",
+   "title": "Jimmy & Wes: The Dynamic Duo",
+   "subtitle": "Designed by Acy Lehman, photograph by Chuck Stewart · Verve Records V6-8678",
+   "year": "1966",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Acy Lehman"
+    },
+    {
+     "k": "photographer",
+     "v": "Chuck Stewart"
+    },
+    {
+     "k": "artist",
+     "v": "Jimmy Smith"
+    },
+    {
+     "k": "artist",
+     "v": "Wes Montgomery"
+    },
+    {
+     "k": "label",
+     "v": "Verve"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 15.4,
+   "light": 0.5081
+  },
+  {
+   "id": "CRVI001151",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/1253305",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001151.jpg",
+   "source_label": "",
+   "image": "images/CRVI001151.jpg",
+   "original": "originals/CRVI001151.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 1532263,
+   "maker": "Jimmy Smith",
+   "title": "Stay Loose... Jimmy Smith Sings Again",
+   "subtitle": "Photograph by Howell Conant · Verve Records V6-8745",
+   "year": "1968",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "photographer",
+     "v": "Howell Conant"
+    },
+    {
+     "k": "art director",
+     "v": "Acy Lehman"
+    },
+    {
+     "k": "artist",
+     "v": "Jimmy Smith"
+    },
+    {
+     "k": "label",
+     "v": "Verve"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 28.38,
+   "light": 0.3482
+  },
+  {
+   "id": "CRVI001152",
+   "published": false,
+   "source_url": "",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001152.jpg",
+   "source_label": "",
+   "image": "images/CRVI001152.jpg",
+   "original": "originals/CRVI001152.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    7569
+   ],
+   "original_bytes": 2319755,
+   "maker": "unattributed",
+   "title": "John Coltrane playing into a dressing-room mirror",
+   "subtitle": "Photographer unidentified",
+   "year": "c. 1964",
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "John Coltrane"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "neutral"
+    }
+   ],
+   "hue": null,
+   "light": 0.473
+  },
+  {
+   "id": "CRVI001153",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/8922419",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001153.jpg",
+   "source_label": "",
+   "image": "images/CRVI001153.jpg",
+   "original": "originals/CRVI001153.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 1458320,
+   "maker": "John Coltrane",
+   "title": "Blue Train",
+   "subtitle": "Designed by Reid Miles, photograph by Francis Wolff · Blue Note BLP 1577",
+   "year": "1958",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "photographer",
+     "v": "Francis Wolff"
+    },
+    {
+     "k": "artist",
+     "v": "John Coltrane"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "black"
+    }
+   ],
+   "hue": 181.35,
+   "light": 0.1028
+  },
+  {
+   "id": "CRVI001154",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/10224960",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001154.jpg",
+   "source_label": "",
+   "image": "images/CRVI001154.jpg",
+   "original": "originals/CRVI001154.jpg",
+   "vector": "",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 582315,
+   "maker": "John Coltrane",
+   "title": "Coltrane",
+   "subtitle": "Designed by Esmond Edwards · Prestige PRLP 7105",
+   "year": "1957",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Esmond Edwards"
+    },
+    {
+     "k": "photographer",
+     "v": "Esmond Edwards"
+    },
+    {
+     "k": "artist",
+     "v": "John Coltrane"
+    },
+    {
+     "k": "label",
+     "v": "Prestige"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 61.89,
+   "light": 0.1903
+  },
+  {
+   "id": "CRVI001155",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/3560084",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001155.jpg",
+   "source_label": "",
+   "image": "images/CRVI001155.jpg",
+   "original": "originals/CRVI001155.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 2538185,
+   "maker": "John Coltrane",
+   "title": "Infinity",
+   "subtitle": "Designed by Richard Taylor, photograph by Chester Sheard · Impulse! AS-9225",
+   "year": "1972",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Richard Taylor"
+    },
+    {
+     "k": "illustrator",
+     "v": "Richard Taylor"
+    },
+    {
+     "k": "photographer",
+     "v": "Chester Sheard"
+    },
+    {
+     "k": "artist",
+     "v": "John Coltrane"
+    },
+    {
+     "k": "label",
+     "v": "Impulse!"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 195.87,
+   "light": 0.4636
+  },
+  {
+   "id": "CRVI001156",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/3175254",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001156.jpg",
+   "source_label": "",
+   "image": "images/CRVI001156.jpg",
+   "original": "originals/CRVI001156.jpg",
+   "vector": "",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 335833,
+   "maker": "Kenny Burrell & John Coltrane",
+   "title": "Kenny Burrell & John Coltrane",
+   "subtitle": "Designed by Don Schlitten, artwork by Stylianos Gianakos · New Jazz NJLP 8276",
+   "year": "1963",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Don Schlitten"
+    },
+    {
+     "k": "illustrator",
+     "v": "Stylianos Gianakos"
+    },
+    {
+     "k": "photographer",
+     "v": "Don Schlitten"
+    },
+    {
+     "k": "artist",
+     "v": "Kenny Burrell"
+    },
+    {
+     "k": "artist",
+     "v": "John Coltrane"
+    },
+    {
+     "k": "label",
+     "v": "New Jazz"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 50.0,
+   "light": 0.3715
+  },
+  {
+   "id": "CRVI001157",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/13564620",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001157.jpg",
+   "source_label": "",
+   "image": "images/CRVI001157.jpg",
+   "original": "originals/CRVI001157.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 1791456,
+   "maker": "John Coltrane, Frank Wess, Paul Quinichette",
+   "title": "Wheelin' & Dealin'",
+   "subtitle": "Designed by Esmond Edwards · Prestige PRLP 7131",
+   "year": "1958",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Esmond Edwards"
+    },
+    {
+     "k": "photographer",
+     "v": "Esmond Edwards"
+    },
+    {
+     "k": "artist",
+     "v": "John Coltrane"
+    },
+    {
+     "k": "artist",
+     "v": "Frank Wess"
+    },
+    {
+     "k": "artist",
+     "v": "Paul Quinichette"
+    },
+    {
+     "k": "label",
+     "v": "Prestige"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "color",
+     "v": "neutral"
+    }
+   ],
+   "hue": null,
+   "light": 0.6885
+  },
+  {
+   "id": "CRVI001158",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/1309399",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001158.jpg",
+   "source_label": "",
+   "image": "images/CRVI001158.jpg",
+   "original": "originals/CRVI001158.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 865434,
+   "maker": "John Scofield",
+   "title": "Hand Jive",
+   "subtitle": "Designed by Mark Larson, photograph by Patti Perret · Blue Note CDP 7243 8 27327 2 3",
+   "year": "1994",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Mark Larson"
+    },
+    {
+     "k": "photographer",
+     "v": "Patti Perret"
+    },
+    {
+     "k": "artist",
+     "v": "John Scofield"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 3.59,
+   "light": 0.3252
+  },
+  {
+   "id": "CRVI001159",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/3386990",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001159.jpg",
+   "source_label": "",
+   "image": "images/CRVI001159.jpg",
+   "original": "originals/CRVI001159.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 1096953,
+   "maker": "Kenny Burrell",
+   "title": "Blue Lights, Volumes 1 & 2",
+   "subtitle": "Designed by Reid Miles, artwork by Andy Warhol · Blue Note BLP 1596",
+   "year": "1958",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "illustrator",
+     "v": "Andy Warhol"
+    },
+    {
+     "k": "artist",
+     "v": "Kenny Burrell"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 199.9,
+   "light": 0.6096
+  },
+  {
+   "id": "CRVI001160",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/16305237",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001160.jpg",
+   "source_label": "",
+   "image": "images/CRVI001160.jpg",
+   "original": "originals/CRVI001160.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 815708,
+   "maker": "Kenny Burrell",
+   "title": "Midnight Blue",
+   "subtitle": "Designed by Reid Miles, photograph by Francis Wolff · Blue Note BLP 4123",
+   "year": "1963",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "photographer",
+     "v": "Francis Wolff"
+    },
+    {
+     "k": "artist",
+     "v": "Kenny Burrell"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    }
+   ],
+   "hue": 205.21,
+   "light": 0.1781
+  },
+  {
+   "id": "CRVI001161",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/2307600",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001161.jpg",
+   "source_label": "",
+   "image": "images/CRVI001161.jpg",
+   "original": "originals/CRVI001161.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 900984,
+   "maker": "Kenny Dorham",
+   "title": "Trompeta Toccata",
+   "subtitle": "Designed by Reid Miles, photograph by Francis Wolff · Blue Note BLP 4181",
+   "year": "1965",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "photographer",
+     "v": "Francis Wolff"
+    },
+    {
+     "k": "artist",
+     "v": "Kenny Dorham"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    }
+   ],
+   "hue": 354.87,
+   "light": 0.7289
+  },
+  {
+   "id": "CRVI001162",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/2212439",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001162.jpg",
+   "source_label": "",
+   "image": "images/CRVI001162.jpg",
+   "original": "originals/CRVI001162.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 735038,
+   "maker": "Kenny Dorham",
+   "title": "Una Mas",
+   "subtitle": "Designed by Reid Miles, photograph by Francis Wolff · Blue Note BLP 4127",
+   "year": "1963",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "photographer",
+     "v": "Francis Wolff"
+    },
+    {
+     "k": "artist",
+     "v": "Kenny Dorham"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "black"
+    }
+   ],
+   "hue": 45.67,
+   "light": 0.1412
+  },
+  {
+   "id": "CRVI001163",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/3120680",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001163.jpg",
+   "source_label": "",
+   "image": "images/CRVI001163.jpg",
+   "original": "originals/CRVI001163.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 562132,
+   "maker": "Larry Young",
+   "title": "Unity",
+   "subtitle": "Designed by Reid Miles · Blue Note BLP 4221",
+   "year": "1966",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "artist",
+     "v": "Larry Young"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "neutral"
+    }
+   ],
+   "hue": null,
+   "light": 0.5931
+  },
+  {
+   "id": "CRVI001164",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/3299040",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001164.jpg",
+   "source_label": "",
+   "image": "images/CRVI001164.jpg",
+   "original": "originals/CRVI001164.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 798814,
+   "maker": "Lee Morgan",
+   "title": "Cornbread",
+   "subtitle": "Designed by Reid Miles, photograph by Francis Wolff · Blue Note BST 84222",
+   "year": "1967",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "photographer",
+     "v": "Francis Wolff"
+    },
+    {
+     "k": "artist",
+     "v": "Lee Morgan"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 14.92,
+   "light": 0.4276
+  },
+  {
+   "id": "CRVI001165",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/579852",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001165.jpg",
+   "source_label": "",
+   "image": "images/CRVI001165.jpg",
+   "original": "originals/CRVI001165.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 860949,
+   "maker": "Lee Morgan",
+   "title": "The Sidewinder",
+   "subtitle": "Designed by Reid Miles, photograph by Francis Wolff · Blue Note BLP 4157",
+   "year": "1964",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "photographer",
+     "v": "Francis Wolff"
+    },
+    {
+     "k": "artist",
+     "v": "Lee Morgan"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 56.12,
+   "light": 0.6061
+  },
+  {
+   "id": "CRVI001166",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/3388506",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001166.jpg",
+   "source_label": "",
+   "image": "images/CRVI001166.jpg",
+   "original": "originals/CRVI001166.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 779347,
+   "maker": "McCoy Tyner",
+   "title": "The Real McCoy",
+   "subtitle": "Designed by Reid Miles, photograph by Francis Wolff · Blue Note BLP 4264",
+   "year": "1967",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "photographer",
+     "v": "Francis Wolff"
+    },
+    {
+     "k": "artist",
+     "v": "McCoy Tyner"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 31.29,
+   "light": 0.5924
+  },
+  {
+   "id": "CRVI001167",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/23579954",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001167.jpg",
+   "source_label": "",
+   "image": "images/CRVI001167.jpg",
+   "original": "originals/CRVI001167.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 607171,
+   "maker": "Michel Petrucciani",
+   "title": "Live",
+   "subtitle": "Designed by Patrick Roques · Blue Note CDP 7 95480 2",
+   "year": "1991",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Patrick Roques"
+    },
+    {
+     "k": "art director",
+     "v": "Carol Friedman"
+    },
+    {
+     "k": "artist",
+     "v": "Michel Petrucciani"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 215.16,
+   "light": 0.4964
+  },
+  {
+   "id": "CRVI001168",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/7147190",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001168.jpg",
+   "source_label": "",
+   "image": "images/CRVI001168.jpg",
+   "original": "originals/CRVI001168.jpg",
+   "vector": "",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 889407,
+   "maker": "Musical Youth",
+   "title": "Pass The Dutchie",
+   "subtitle": "Designer unrecorded · MCA Records YOU 1",
+   "year": "1982",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "artist",
+     "v": "Musical Youth"
+    },
+    {
+     "k": "label",
+     "v": "MCA"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 34.22,
+   "light": 0.7299
+  },
+  {
+   "id": "CRVI001169",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/11330075",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001169.jpg",
+   "source_label": "",
+   "image": "images/CRVI001169.jpg",
+   "original": "originals/CRVI001169.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    4958
+   ],
+   "original_bytes": 733268,
+   "maker": "Oscar Peterson, Milt Jackson, Ray Brown, Louis Hayes",
+   "title": "Reunion Blues",
+   "subtitle": "Designed by Wolfgang Baumann · MPS Records",
+   "year": "1971",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Wolfgang Baumann"
+    },
+    {
+     "k": "artist",
+     "v": "Oscar Peterson"
+    },
+    {
+     "k": "artist",
+     "v": "Milt Jackson"
+    },
+    {
+     "k": "artist",
+     "v": "Ray Brown"
+    },
+    {
+     "k": "artist",
+     "v": "Louis Hayes"
+    },
+    {
+     "k": "label",
+     "v": "MPS"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "black"
+    }
+   ],
+   "hue": 354.49,
+   "light": 0.2181
+  },
+  {
+   "id": "CRVI001170",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/402349",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001170.jpg",
+   "source_label": "",
+   "image": "images/CRVI001170.jpg",
+   "original": "originals/CRVI001170.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 1055619,
+   "maker": "Ronnie Laws",
+   "title": "Pressure Sensitive",
+   "subtitle": "Designed by Bob Cato, artwork by Peter Lloyd · Blue Note BN-LA452-G",
+   "year": "1975",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Bob Cato"
+    },
+    {
+     "k": "illustrator",
+     "v": "Peter Lloyd"
+    },
+    {
+     "k": "artist",
+     "v": "Ronnie Laws"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 15.99,
+   "light": 0.5926
+  },
+  {
+   "id": "CRVI001171",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/6207044",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001171.jpg",
+   "source_label": "",
+   "image": "images/CRVI001171.jpg",
+   "original": "originals/CRVI001171.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 2150170,
+   "maker": "Serge Chaloff",
+   "title": "Blue Serge",
+   "subtitle": "Designer unrecorded · Capitol Records T 742",
+   "year": "1956",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "artist",
+     "v": "Serge Chaloff"
+    },
+    {
+     "k": "label",
+     "v": "Capitol"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 194.73,
+   "light": 0.825
+  },
+  {
+   "id": "CRVI001172",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/4116467",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001172.jpg",
+   "source_label": "",
+   "image": "images/CRVI001172.jpg",
+   "original": "originals/CRVI001172.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 2021072,
+   "maker": "Sonny Clark",
+   "title": "Cool Struttin'",
+   "subtitle": "Designed by Reid Miles, photograph by Francis Wolff · Blue Note BLP 1588",
+   "year": "1958",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "photographer",
+     "v": "Francis Wolff"
+    },
+    {
+     "k": "artist",
+     "v": "Sonny Clark"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 48.62,
+   "light": 0.4375
+  },
+  {
+   "id": "CRVI001173",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/2290029",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001173.jpg",
+   "source_label": "",
+   "image": "images/CRVI001173.jpg",
+   "original": "originals/CRVI001173.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 991430,
+   "maker": "The Who",
+   "title": "A Quick One",
+   "subtitle": "Designed by Alan Aldridge · Reaction 593 002",
+   "year": "1966",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Alan Aldridge"
+    },
+    {
+     "k": "artist",
+     "v": "The Who"
+    },
+    {
+     "k": "label",
+     "v": "Reaction"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "black"
+    }
+   ],
+   "hue": 16.23,
+   "light": 0.1793
+  },
+  {
+   "id": "CRVI001174",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/3340931",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001174.jpg",
+   "source_label": "",
+   "image": "images/CRVI001174.jpg",
+   "original": "originals/CRVI001174.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    4954
+   ],
+   "original_bytes": 811845,
+   "maker": "Thelonious Monk",
+   "title": "At The Five Spot",
+   "subtitle": "Artwork by Phil Carroll, photograph by Jim Marshall · Milestone M-47043",
+   "year": "1977",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "illustrator",
+     "v": "Phil Carroll"
+    },
+    {
+     "k": "photographer",
+     "v": "Jim Marshall"
+    },
+    {
+     "k": "artist",
+     "v": "Thelonious Monk"
+    },
+    {
+     "k": "label",
+     "v": "Milestone"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 33.44,
+   "light": 0.3672
+  },
+  {
+   "id": "CRVI001175",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/7457418",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001175.jpg",
+   "source_label": "",
+   "image": "images/CRVI001175.jpg",
+   "original": "originals/CRVI001175.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 1694211,
+   "maker": "Thelonious Monk",
+   "title": "Thelonious Alone In San Francisco",
+   "subtitle": "Designed by Harris Lewine, Ken Braren, Paul Bacon, photograph by William Claxton · Riverside Records RLP 1158",
+   "year": "1959",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Harris Lewine"
+    },
+    {
+     "k": "designer",
+     "v": "Ken Braren"
+    },
+    {
+     "k": "designer",
+     "v": "Paul Bacon"
+    },
+    {
+     "k": "photographer",
+     "v": "William Claxton"
+    },
+    {
+     "k": "artist",
+     "v": "Thelonious Monk"
+    },
+    {
+     "k": "label",
+     "v": "Riverside"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 54.87,
+   "light": 0.6269
+  },
+  {
+   "id": "CRVI001176",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/3384832",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001176.jpg",
+   "source_label": "",
+   "image": "images/CRVI001176.jpg",
+   "original": "originals/CRVI001176.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 651169,
+   "maker": "Tina Brooks",
+   "title": "True Blue",
+   "subtitle": "Designed by Reid Miles, photograph by Francis Wolff · Blue Note BLP 4041",
+   "year": "1960",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "photographer",
+     "v": "Francis Wolff"
+    },
+    {
+     "k": "artist",
+     "v": "Tina Brooks"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 193.95,
+   "light": 0.7142
+  },
+  {
+   "id": "CRVI001177",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/1773897",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001177.jpg",
+   "source_label": "",
+   "image": "images/CRVI001177.jpg",
+   "original": "originals/CRVI001177.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 881462,
+   "maker": "Wayne Shorter",
+   "title": "Et Cetera",
+   "subtitle": "Designed by Bill Burks, photograph by Don Peterson · Blue Note LT-1056",
+   "year": "1980",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Bill Burks"
+    },
+    {
+     "k": "photographer",
+     "v": "Don Peterson"
+    },
+    {
+     "k": "artist",
+     "v": "Wayne Shorter"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 24.56,
+   "light": 0.7356
+  },
+  {
+   "id": "CRVI001178",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/3159311",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001178.jpg",
+   "source_label": "",
+   "image": "images/CRVI001178.jpg",
+   "original": "originals/CRVI001178.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 1887556,
+   "maker": "Wayne Shorter",
+   "title": "JuJu",
+   "subtitle": "Designed by Reid Miles · Blue Note BLP 4182",
+   "year": "1965",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "photographer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "artist",
+     "v": "Wayne Shorter"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 196.95,
+   "light": 0.5493
+  },
+  {
+   "id": "CRVI001179",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/5965448",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001179.jpg",
+   "source_label": "",
+   "image": "images/CRVI001179.jpg",
+   "original": "originals/CRVI001179.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 1115243,
+   "maker": "Wayne Shorter",
+   "title": "Schizophrenia",
+   "subtitle": "Photograph by John Zoiner · Blue Note BST 84297",
+   "year": "1969",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "photographer",
+     "v": "John Zoiner"
+    },
+    {
+     "k": "artist",
+     "v": "Wayne Shorter"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 131.79,
+   "light": 0.5093
+  },
+  {
+   "id": "CRVI001180",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/1198887",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001180.jpg",
+   "source_label": "",
+   "image": "images/CRVI001180.jpg",
+   "original": "originals/CRVI001180.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 677425,
+   "maker": "Wayne Shorter",
+   "title": "Speak No Evil",
+   "subtitle": "Designed by Reid Miles · Blue Note BLP 4194",
+   "year": "1966",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "photographer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "artist",
+     "v": "Wayne Shorter"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 221.77,
+   "light": 0.4323
+  },
+  {
+   "id": "CRVI001181",
+   "published": true,
+   "source_url": "https://www.discogs.com/release/13016087",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001181.jpg",
+   "source_label": "",
+   "image": "images/CRVI001181.jpg",
+   "original": "originals/CRVI001181.jpg",
+   "vector": "",
+   "original_px": [
+    5000,
+    5000
+   ],
+   "original_bytes": 1227757,
+   "maker": "Wes Montgomery",
+   "title": "So Much Guitar!",
+   "subtitle": "Designed by Ken Deardoff, photograph by Donald Silverstein · Riverside Records RLP 382",
+   "year": "1961",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Ken Deardoff"
+    },
+    {
+     "k": "photographer",
+     "v": "Donald Silverstein"
+    },
+    {
+     "k": "artist",
+     "v": "Wes Montgomery"
+    },
+    {
+     "k": "label",
+     "v": "Riverside"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 48.24,
+   "light": 0.5508
   }
  ]
 }
