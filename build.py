@@ -25,6 +25,28 @@ DATA = os.path.join(HERE, "crvi.json")
 FACET_ORDER = ["designer", "artist", "label", "decade", "color", "type",
                "photographer", "illustrator", "art director", "typographer"]
 
+ORDER_JS = r"""(function(){
+var c=document.getElementById("bycolor"), r=document.getElementById("byrecent");
+var cs=[].slice.call(document.querySelectorAll("#allgrid .cell"));
+var KEY="crviAllOrder";
+function apply(){
+  var mode = c.checked ? "color" : (r.checked ? "recent" : "");
+  cs.forEach(function(el){
+    el.style.order = mode==="color" ? el.dataset.c : (mode==="recent" ? el.dataset.r : "");
+  });
+  try{ localStorage.setItem(KEY, mode); }catch(e){}
+}
+c.addEventListener("change",function(){ if(c.checked) r.checked=false; apply(); });
+r.addEventListener("change",function(){ if(r.checked) c.checked=false; apply(); });
+try{
+  var m=localStorage.getItem(KEY);
+  if(m==="color") c.checked=true;
+  else if(m==="recent") r.checked=true;
+  else if(localStorage.getItem("crviAllByColor")) c.checked=true;
+}catch(e){}
+apply();
+})();"""
+
 CSS = """
 :root{--ink:#111;--paper:#fff;--rule:#e8e8e8;--mute:#8c8c8c;
  --sans:"Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -585,30 +607,35 @@ is misidentified, please get in touch: it will be fixed and the correction noted
     # order and shows how it was built. Colour is still available as a toggle, applied with the
     # CSS `order` property so nothing is re-fetched or moved in the DOM when you switch.
     rank = {idx: n for n, idx in enumerate(color_order(list(range(len(items)))))}
+    # ⚠️ RECENCY IS NOT CRVI ORDER. Retired numbers get reused, so a low number can hold a very
+    # recent addition — CRVI000872 was minted in September between neighbours from August.
+    # Sorting the grid by id would bury today's work in the middle of the archive, so this ranks
+    # on the mint date, newest first, with the id only breaking ties within a single day.
+    recent = sorted(range(len(items)),
+                    key=lambda n: (items[n].get("minted") or "", items[n]["id"]), reverse=True)
+    rrank = {idx: n for n, idx in enumerate(recent)}
     acells = []
     for i in range(len(items)):
         it = items[i]
         rest = " · ".join(filter(None, [it.get("subtitle"), it.get("year")]))
         acells.append(
-            f'<a class="cell" href="../{it["id"]}/" data-c="{rank[i]}">'
+            f'<a class="cell" href="../{it["id"]}/" data-c="{rank[i]}" data-r="{rrank[i]}">'
             f'<div class="inner"><img src="../{esc(it["thumb"] or it["image"])}"'
             + (f' data-gif="../{esc(it["image"])}" class="anim"' if it.get("animated") else "")
             + (f' data-video="../{esc(it["image"])}" class="anim"' if it.get("video") else "")
             + ' loading="lazy" alt=""></div>'
             f'<div class="cap"><span class="n">{esc(it["id"])}</span>'
             f'{esc(it.get("maker"))} - {esc(it.get("title"))}<br>{esc(rest)}</div></a>')
+    # ⚠️ THE TWO ORDERS ARE ALTERNATIVES, NOT LAYERS. Ticking one unticks the other, because a
+    # grid cannot be both grouped by colour and sorted by date. The choice persists, and the old
+    # crviAllByColor key is migrated so anyone who had colour on keeps it.
     abody = ('<div class="crumb"><span class="t">ALL</span>'
              f'<span class="c">{len(items)} items</span>'
              '<label class="ord"><input type="checkbox" id="bycolor"> group by color</label>'
+             '<label class="ord"><input type="checkbox" id="byrecent"> most recent</label>'
              f'<a href="../{items[0]["id"]}/">&#8592; museum</a></div>'
              f'<div class="grid small" id="allgrid">{"".join(acells)}</div>'
-             '<script>(function(){var b=document.getElementById("bycolor");'
-             'var cs=[].slice.call(document.querySelectorAll("#allgrid .cell"));'
-             'function apply(){var on=b.checked;'
-             'cs.forEach(function(c){c.style.order=on?c.dataset.c:"";});'
-             'try{localStorage.setItem("crviAllByColor",on?"1":"");}catch(e){}}'
-             'try{if(localStorage.getItem("crviAllByColor")){b.checked=true;}}catch(e){}'
-             'b.addEventListener("change",apply);apply();})();</script>'
+             '<script>' + ORDER_JS + '</script>'
              f'<script>{JS}</script>')
     os.makedirs(os.path.join(HERE, "all"), exist_ok=True)
     open(os.path.join(HERE, "all", "index.html"), "w").write(

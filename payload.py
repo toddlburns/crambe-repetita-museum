@@ -94,6 +94,12 @@ def build(reg):
         # unattributed paintings went to the site that way on 2026-09-01. Carry it explicitly.
         out.append({"id": i["id"],
                     "published": bool(i.get("published", True)),
+                    # ⚠️ CARRIED SO THE SITE CAN SORT BY RECENCY. CRVI order is NOT date order:
+                    # retired numbers are reused, so CRVI000872 holds something added in September
+                    # while its neighbours are from August. Sorting the grid by id would put
+                    # today's additions in the middle of the archive. The mint date is the only
+                    # honest answer to "what is new".
+                    "minted": i.get("minted", ""),
                     "source_url": src_url,
                     "animated": animated,
                     "video": video,
