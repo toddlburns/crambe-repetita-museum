@@ -1,5 +1,5 @@
 {
- "next": 1322,
+ "next": 1354,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -76935,6 +76935,1602 @@
    "hue": 144.02,
    "light": 0.3283,
    "chroma": 0.7646
+  },
+  "todd sent 2026-09-04::peter-lloyd-the-crack-in-the-sky-by-richard-a-lupoff": {
+   "id": "CRVI001322",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001322.jpg",
+   "original_px": [
+    1248,
+    2096
+   ],
+   "original_bytes": 444653,
+   "identity": "todd sent 2026-09-04::peter-lloyd-the-crack-in-the-sky-by-richard-a-lupoff",
+   "maker": "Peter Lloyd",
+   "title": "The Crack in the Sky, by Richard A. Lupoff",
+   "subtitle": "Illustration by Peter Lloyd · Dell",
+   "year": "1976",
+   "label": "Dell",
+   "notes": [
+    "An airbrushed science-fiction cover: a pale coiled form filling the upper half, a red rocket rising through it, and transparent spheres scattered down to the foot.",
+    "The title is set in red display caps at the top with a line of selling copy above it, and the whole picture is graded from black at the edges to light at the centre."
+   ],
+   "verified_against": "A Dell paperback cover, publisher and series number printed on the spine panel. Attributed to Peter Lloyd from the file's own provenance and consistent with his airbrush work of the period. ⚠️ The sleeve carries no visible signature, so the attribution is the source's, not the object's. From the folder Todd sent on 2026-09-04.",
+   "source_record": "folder 2026-09-04a, sent by Todd",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/peter-lloyd_the-crack-in-the-sky_ny-dell-1976_5419.jpg",
+   "source_px": [
+    1248,
+    2096
+   ],
+   "colors": [
+    "blue",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "illustration"
+    },
+    {
+     "k": "illustrator",
+     "v": "Peter Lloyd"
+    },
+    {
+     "k": "label",
+     "v": "Dell"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A Dell paperback cover, publisher and series number printed on the spine panel. Attributed to Peter Lloyd from the file's own provenance and consistent with his airbrush work of the period. ⚠️ The sleeve carries no visible signature, so the attribution is the source's, not the object's. From the folder Todd sent on 2026-09-04.",
+   "hue": 199.44,
+   "light": 0.4665,
+   "chroma": 0.582
+  },
+  "todd sent 2026-09-04::peter-lloyd-untitled-airbrush-illustration": {
+   "id": "CRVI001323",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001323.jpg",
+   "original_px": [
+    1113,
+    1500
+   ],
+   "original_bytes": 1750587,
+   "identity": "todd sent 2026-09-04::peter-lloyd-untitled-airbrush-illustration",
+   "maker": "Peter Lloyd",
+   "title": "Untitled airbrush illustration",
+   "subtitle": "Illustration by Peter Lloyd",
+   "year": "",
+   "label": "",
+   "notes": [
+    "Figures inside transparent spheres float around a stepped deco structure, everything airbrushed to a high polish with no visible line.",
+    "A red and white target is laid flat on the green ground at the foot, the one hard-edged shape in a picture otherwise built from gradients."
+   ],
+   "verified_against": "Signed LLOYD in the lower right of the artwork itself, which is the strongest source available. ⚠️ No title, date or commission has been established — the file arrived with none. From the folder Todd sent on 2026-09-04.",
+   "source_record": "folder 2026-09-04a, sent by Todd",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/Peter_Lloyd_Education.jpg",
+   "source_px": [
+    1113,
+    1500
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "illustration"
+    },
+    {
+     "k": "illustrator",
+     "v": "Peter Lloyd"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Signed LLOYD in the lower right of the artwork itself, which is the strongest source available. ⚠️ No title, date or commission has been established — the file arrived with none. From the folder Todd sent on 2026-09-04.",
+   "hue": 14.2,
+   "light": 0.4539,
+   "chroma": 0.3894
+  },
+  "todd sent 2026-09-04::peter-lloyd-tron-concept-art-city-grid": {
+   "id": "CRVI001324",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001324.webp",
+   "original_px": [
+    956,
+    1075
+   ],
+   "original_bytes": 212690,
+   "identity": "todd sent 2026-09-04::peter-lloyd-tron-concept-art-city-grid",
+   "maker": "Peter Lloyd",
+   "title": "Tron — concept art, city grid",
+   "subtitle": "Illustration by Peter Lloyd",
+   "year": "1982",
+   "label": "",
+   "notes": [
+    "Towers of blue and black rise from a receding grid, every edge outlined in glowing line as though the architecture were drawn in light.",
+    "A single warm spark of orange crosses the middle distance — the only colour in the picture that is not blue."
+   ],
+   "verified_against": "Concept art for Tron (Disney, 1982), attributed to Peter Lloyd by the file's provenance. ⚠️ Tron's visual development was shared between Syd Mead, Jean Giraud and Peter Lloyd, and the piece carries no signature, so the attribution rests on the source rather than the object. From the folder Todd sent on 2026-09-04.",
+   "source_record": "folder 2026-09-04a, sent by Todd",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/tron-1982-concept-arts-by-peter-lloyd-2-v0-pugwdwx2brih1.webp",
+   "source_px": [
+    956,
+    1075
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "illustration"
+    },
+    {
+     "k": "illustrator",
+     "v": "Peter Lloyd"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Concept art for Tron (Disney, 1982), attributed to Peter Lloyd by the file's provenance. ⚠️ Tron's visual development was shared between Syd Mead, Jean Giraud and Peter Lloyd, and the piece carries no signature, so the attribution rests on the source rather than the object. From the folder Todd sent on 2026-09-04.",
+   "hue": 227.78,
+   "light": 0.2151,
+   "chroma": 0.6337
+  },
+  "todd sent 2026-09-04::unattributed-tron-light-cycles-film-still": {
+   "id": "CRVI001325",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001325.jpg",
+   "original_px": [
+    1600,
+    720
+   ],
+   "original_bytes": 137368,
+   "identity": "todd sent 2026-09-04::unattributed-tron-light-cycles-film-still",
+   "maker": "unattributed",
+   "title": "Tron — light cycles, film still",
+   "subtitle": "Photographer unidentified",
+   "year": "1982",
+   "label": "",
+   "notes": [
+    "Four canopied vehicles in a row, drawn in glowing red and white line against black, their riders visible through the shells.",
+    "The frame is pure horizontal: the machines, their reflections in the floor grid, and nothing else."
+   ],
+   "verified_against": "A frame from Tron (Disney, 1982, directed by Steven Lisberger). ⚠️ A film still, not artwork: the frame is the work of the whole production rather than of any one designer, and no individual is credited here. Kept at Todd's instruction — 'Don't skip the screen caps.' From the folder Todd sent on 2026-09-04.",
+   "source_record": "folder 2026-09-04a, sent by Todd",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/tron-disneyscreencaps.com-5064.jpg",
+   "source_px": [
+    1600,
+    720
+   ],
+   "colors": [
+    "cyan",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A frame from Tron (Disney, 1982, directed by Steven Lisberger). ⚠️ A film still, not artwork: the frame is the work of the whole production rather than of any one designer, and no individual is credited here. Kept at Todd's instruction — 'Don't skip the screen caps.' From the folder Todd sent on 2026-09-04.",
+   "hue": 197.98,
+   "light": 0.1883,
+   "chroma": 0.5269
+  },
+  "todd sent 2026-09-04::unattributed-tron": {
+   "id": "CRVI001326",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001326.jpg",
+   "original_px": [
+    960,
+    1355
+   ],
+   "original_bytes": 223477,
+   "identity": "todd sent 2026-09-04::unattributed-tron",
+   "maker": "unattributed",
+   "title": "Tron",
+   "subtitle": "Maker unidentified",
+   "year": "1982",
+   "label": "",
+   "notes": [
+    "A frontal figure in a glowing circuit suit against black, arms held from the body, the chest disc burning out to white at the centre.",
+    "The title is set at the foot in a chromed face with the tagline above it in small caps."
+   ],
+   "verified_against": "The 1982 theatrical poster for Tron (Disney), which names the film and carries its tagline. ⚠️ No designer or illustrator is established — the poster art has been variously attributed and the file carries no credit, so nobody is named here. From the folder Todd sent on 2026-09-04.",
+   "source_record": "folder 2026-09-04a, sent by Todd",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/tron-md-web.jpg",
+   "source_px": [
+    960,
+    1355
+   ],
+   "colors": [
+    "blue",
+    "red",
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The 1982 theatrical poster for Tron (Disney), which names the film and carries its tagline. ⚠️ No designer or illustrator is established — the poster art has been variously attributed and the file carries no credit, so nobody is named here. From the folder Todd sent on 2026-09-04.",
+   "hue": 214.72,
+   "light": 0.172,
+   "chroma": 0.3332
+  },
+  "todd sent 2026-09-04::peter-lloyd-tron-concept-art-the-solar-sailer": {
+   "id": "CRVI001327",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001327.webp",
+   "original_px": [
+    2910,
+    2133
+   ],
+   "original_bytes": 1288986,
+   "identity": "todd sent 2026-09-04::peter-lloyd-tron-concept-art-the-solar-sailer",
+   "maker": "Peter Lloyd",
+   "title": "Tron — concept art, the Solar Sailer",
+   "subtitle": "Illustration by Peter Lloyd",
+   "year": "1982",
+   "label": "",
+   "notes": [
+    "A slender vessel with fanned translucent sails runs along a beam of yellow light across a violet sea, faceted spheres hanging above and below it.",
+    "The whole image is built from flat geometric facets, so the water reads as a tessellation rather than a surface."
+   ],
+   "verified_against": "Concept art for Tron (Disney, 1982). Same attribution caveat as the other Lloyd concept pieces: the film's visual development was shared with Syd Mead and Jean Giraud and the artwork is unsigned. From the folder Todd sent on 2026-09-04.",
+   "source_record": "folder 2026-09-04a, sent by Todd",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/tron_solar_sailer.webp",
+   "source_px": [
+    2910,
+    2133
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "illustration"
+    },
+    {
+     "k": "illustrator",
+     "v": "Peter Lloyd"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Concept art for Tron (Disney, 1982). Same attribution caveat as the other Lloyd concept pieces: the film's visual development was shared with Syd Mead and Jean Giraud and the artwork is unsigned. From the folder Todd sent on 2026-09-04.",
+   "hue": 223.78,
+   "light": 0.2977,
+   "chroma": 0.7804
+  },
+  "todd sent 2026-09-04::cornelius-cardew-the-scratch-orchestra-the-great-learning": {
+   "id": "CRVI001328",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001328.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 9267264,
+   "identity": "todd sent 2026-09-04::cornelius-cardew-the-scratch-orchestra-the-great-learning",
+   "maker": "Cornelius Cardew / The Scratch Orchestra",
+   "title": "The Great Learning",
+   "subtitle": "Maker unidentified · Deutsche Grammophon",
+   "year": "",
+   "label": "Deutsche Grammophon",
+   "notes": [
+    "A flat blue field with the word avantgarde cut out of it in a heavy rounded face, the letters revealing orange and violet beneath.",
+    "The title sits inside the cut-out in small lower-case type, so the wordmark doubles as the text box."
+   ],
+   "verified_against": "From Deutsche Grammophon's Avant Garde series. ⚠️ No designer is established for this reissue artwork; the file is a production TIFF supplied without credits. From the folder Todd sent on 2026-09-04.",
+   "source_record": "folder 2026-09-04a, sent by Todd",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/Vinyl Cover Avantgarde Serie Batch 2 Cardew.tif",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "artist",
+     "v": "Cornelius Cardew / The Scratch Orchestra"
+    },
+    {
+     "k": "label",
+     "v": "Deutsche Grammophon"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "From Deutsche Grammophon's Avant Garde series. ⚠️ No designer is established for this reissue artwork; the file is a production TIFF supplied without credits. From the folder Todd sent on 2026-09-04.",
+   "hue": 205.09,
+   "light": 0.5291,
+   "chroma": 0.9661
+  },
+  "todd sent 2026-09-04::mauricio-kagel-exotica": {
+   "id": "CRVI001329",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001329.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 13077976,
+   "identity": "todd sent 2026-09-04::mauricio-kagel-exotica",
+   "maker": "Mauricio Kagel",
+   "title": "Exotica",
+   "subtitle": "Maker unidentified · Deutsche Grammophon",
+   "year": "",
+   "label": "Deutsche Grammophon",
+   "notes": [
+    "The same cut-out wordmark on acid green, this time revealing a photograph — a green-painted face and a pair of clasped hands.",
+    "The image is visible only through the letterforms, so the type is doing the cropping."
+   ],
+   "verified_against": "From Deutsche Grammophon's Avant Garde series. ⚠️ No designer established; production TIFF without credits. From the folder Todd sent on 2026-09-04.",
+   "source_record": "folder 2026-09-04a, sent by Todd",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/Vinyl Cover Avantgarde Serie Batch 2 Kagel_ Exotica.tif",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "green",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "artist",
+     "v": "Mauricio Kagel"
+    },
+    {
+     "k": "label",
+     "v": "Deutsche Grammophon"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "From Deutsche Grammophon's Avant Garde series. ⚠️ No designer established; production TIFF without credits. From the folder Todd sent on 2026-09-04.",
+   "hue": 83.62,
+   "light": 0.3693,
+   "chroma": 0.9664
+  },
+  "todd sent 2026-09-04::roland-kayn-cybernetics-iii": {
+   "id": "CRVI001330",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001330.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 9118120,
+   "identity": "todd sent 2026-09-04::roland-kayn-cybernetics-iii",
+   "maker": "Roland Kayn",
+   "title": "Cybernetics III",
+   "subtitle": "Maker unidentified · Deutsche Grammophon",
+   "year": "",
+   "label": "Deutsche Grammophon",
+   "notes": [
+    "The cut-out wordmark again, in navy on magenta, this time filled with nothing but its own flat colour.",
+    "Two lines of title type sit inside the counters of the letters, small enough to be nearly lost."
+   ],
+   "verified_against": "From Deutsche Grammophon's Avant Garde series. ⚠️ No designer established; production TIFF without credits. From the folder Todd sent on 2026-09-04.",
+   "source_record": "folder 2026-09-04a, sent by Todd",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/Vinyl Cover Avantgarde Serie Batch 2 Kayn Cybernetics III.tif",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "pink",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "artist",
+     "v": "Roland Kayn"
+    },
+    {
+     "k": "label",
+     "v": "Deutsche Grammophon"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "From Deutsche Grammophon's Avant Garde series. ⚠️ No designer established; production TIFF without credits. From the folder Todd sent on 2026-09-04.",
+   "hue": 334.96,
+   "light": 0.4072,
+   "chroma": 0.9994
+  },
+  "todd sent 2026-09-04::barney-bubbles-don-t-join": {
+   "id": "CRVI001331",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001331.jpg",
+   "original_px": [
+    580,
+    800
+   ],
+   "original_bytes": 135852,
+   "identity": "todd sent 2026-09-04::barney-bubbles-don-t-join",
+   "maker": "Barney Bubbles",
+   "title": "Don't Join!",
+   "subtitle": "Designed by Barney Bubbles",
+   "year": "",
+   "label": "",
+   "notes": [
+    "A silhouetted soldier in black stands over a bright abstract panel of yellow, magenta and green shapes shattered by white cracks.",
+    "DON'T JOIN! is set in heavy black caps at the top, with the smaller copy running up the left edge of the panel."
+   ],
+   "verified_against": "Barney Bubbles, from the artwork published by his estate. Barney Bubbles, born Colin Fulcher. ⚠️ HE IS NOT CREDITED ON THE RECORD, and that is not an oversight: he never signed his work and insisted on anonymity throughout his career, which is why Discogs carries no design credit for most of these. Discogs lists this one as 'sleeve design, uncredited'. From the folder Todd sent on 2026-09-04.",
+   "source_record": "folder 2026-09-04a, sent by Todd",
+   "designers": [
+    "Barney Bubbles"
+   ],
+   "source_image": "/Users/todd/Desktop/2026-09-04a/BBE-artworks-Dont-Join.jpg",
+   "source_px": [
+    580,
+    800
+   ],
+   "colors": [
+    "yellow",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "designer",
+     "v": "Barney Bubbles"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Barney Bubbles, from the artwork published by his estate. Barney Bubbles, born Colin Fulcher. ⚠️ HE IS NOT CREDITED ON THE RECORD, and that is not an oversight: he never signed his work and insisted on anonymity throughout his career, which is why Discogs carries no design credit for most of these. Discogs lists this one as 'sleeve design, uncredited'. From the folder Todd sent on 2026-09-04.",
+   "hue": 55.19,
+   "light": 0.6318,
+   "chroma": 0.3865
+  },
+  "todd sent 2026-09-04::barney-bubbles-vinyl": {
+   "id": "CRVI001332",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001332.jpg",
+   "original_px": [
+    580,
+    577
+   ],
+   "original_bytes": 44626,
+   "identity": "todd sent 2026-09-04::barney-bubbles-vinyl",
+   "maker": "Barney Bubbles",
+   "title": "Vinyl",
+   "subtitle": "Designed by Barney Bubbles",
+   "year": "",
+   "label": "",
+   "notes": [
+    "The word VINYL built as a solid red slab construction, set on a yellow disc against black, with the letters seen at an angle as though extruded.",
+    "The forms are drawn as blocks with visible depth, so the wordmark reads as an object standing in space."
+   ],
+   "verified_against": "Barney Bubbles, from the artwork published by his estate. Barney Bubbles, born Colin Fulcher. ⚠️ HE IS NOT CREDITED ON THE RECORD, and that is not an oversight: he never signed his work and insisted on anonymity throughout his career, which is why Discogs carries no design credit for most of these. Discogs lists this one as 'sleeve design, uncredited'. From the folder Todd sent on 2026-09-04.",
+   "source_record": "folder 2026-09-04a, sent by Todd",
+   "designers": [
+    "Barney Bubbles"
+   ],
+   "source_image": "/Users/todd/Desktop/2026-09-04a/BBE-artworks-Vinyl-Factory.jpg",
+   "source_px": [
+    580,
+    577
+   ],
+   "colors": [
+    "yellow",
+    "pink",
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "identity"
+    },
+    {
+     "k": "designer",
+     "v": "Barney Bubbles"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Barney Bubbles, from the artwork published by his estate. Barney Bubbles, born Colin Fulcher. ⚠️ HE IS NOT CREDITED ON THE RECORD, and that is not an oversight: he never signed his work and insisted on anonymity throughout his career, which is why Discogs carries no design credit for most of these. Discogs lists this one as 'sleeve design, uncredited'. From the folder Todd sent on 2026-09-04.",
+   "hue": 54.31,
+   "light": 0.1871,
+   "chroma": 0.3838
+  },
+  "todd sent 2026-09-04::the-damned-music-for-pleasure": {
+   "id": "CRVI001333",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001333.jpg",
+   "original_px": [
+    580,
+    592
+   ],
+   "original_bytes": 126385,
+   "identity": "todd sent 2026-09-04::the-damned-music-for-pleasure",
+   "maker": "The Damned",
+   "title": "Music For Pleasure",
+   "subtitle": "Designed by Barney Bubbles · Stiff Records",
+   "year": "1977",
+   "label": "Stiff Records",
+   "notes": [
+    "A dense arrangement of triangles, arcs, zigzags and dotted circles in primary colour on white, in open homage to Kandinsky.",
+    "The title is set in tiny spaced caps along the very bottom edge, almost hidden under the composition."
+   ],
+   "verified_against": "Barney Bubbles, from the artwork published by his estate. Barney Bubbles, born Colin Fulcher. ⚠️ HE IS NOT CREDITED ON THE RECORD, and that is not an oversight: he never signed his work and insisted on anonymity throughout his career, which is why Discogs carries no design credit for most of these. Discogs lists this one as 'sleeve design, uncredited'. The sleeve is his best-known Stiff commission and its debt to Kandinsky is the standard reading. From the folder Todd sent on 2026-09-04.",
+   "source_record": "folder 2026-09-04a, sent by Todd",
+   "designers": [
+    "Barney Bubbles"
+   ],
+   "source_image": "/Users/todd/Desktop/2026-09-04a/BBE-Music-For-Pleasure-copy.jpg",
+   "source_px": [
+    580,
+    592
+   ],
+   "colors": [
+    "yellow",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Barney Bubbles"
+    },
+    {
+     "k": "artist",
+     "v": "The Damned"
+    },
+    {
+     "k": "label",
+     "v": "Stiff Records"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Barney Bubbles, from the artwork published by his estate. Barney Bubbles, born Colin Fulcher. ⚠️ HE IS NOT CREDITED ON THE RECORD, and that is not an oversight: he never signed his work and insisted on anonymity throughout his career, which is why Discogs carries no design credit for most of these. Discogs lists this one as 'sleeve design, uncredited'. The sleeve is his best-known Stiff commission and its debt to Kandinsky is the standard reading. From the folder Todd sent on 2026-09-04.",
+   "hue": 53.96,
+   "light": 0.7375,
+   "chroma": 0.5709
+  },
+  "todd sent 2026-09-04::lynn-goldsmith-gene-simmons": {
+   "id": "CRVI001334",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001334.jpg",
+   "original_px": [
+    2000,
+    1317
+   ],
+   "original_bytes": 809096,
+   "identity": "todd sent 2026-09-04::lynn-goldsmith-gene-simmons",
+   "maker": "Lynn Goldsmith",
+   "title": "Gene Simmons",
+   "subtitle": "Photograph by Lynn Goldsmith",
+   "year": "",
+   "label": "",
+   "notes": [
+    "A man in full stage make-up laughing at the camera while a woman kisses his cheek, shot tight against a plain grey ground.",
+    "The make-up is the only pure black and white in the frame; everything else is mid-grey, so the face reads as graphic and the rest as photographic."
+   ],
+   "verified_against": "Lynn Goldsmith, named in the file itself and consistent with her long body of music portraiture. ⚠️ No date or commission established. From the folder Todd sent on 2026-09-04.",
+   "source_record": "folder 2026-09-04a, sent by Todd",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/6-topshot-goldsmith-gene-and-lynn-topshot.jpg",
+   "source_px": [
+    2000,
+    1317
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "photographer",
+     "v": "Lynn Goldsmith"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Lynn Goldsmith, named in the file itself and consistent with her long body of music portraiture. ⚠️ No date or commission established. From the folder Todd sent on 2026-09-04.",
+   "hue": null,
+   "light": 0.2199,
+   "chroma": 0.0
+  },
+  "todd sent 2026-09-04::lynn-goldsmith-tom-petty": {
+   "id": "CRVI001335",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001335.webp",
+   "original_px": [
+    2000,
+    2659
+   ],
+   "original_bytes": 359238,
+   "identity": "todd sent 2026-09-04::lynn-goldsmith-tom-petty",
+   "maker": "Lynn Goldsmith",
+   "title": "Tom Petty",
+   "subtitle": "Photograph by Lynn Goldsmith",
+   "year": "",
+   "label": "",
+   "notes": [
+    "A figure crouched on his heels against a plain dark ground, a white electric guitar held upright in front of him, chin resting on his hands.",
+    "The lighting is a single soft key from the front, so the whole picture sits in a narrow grey range with the guitar as its brightest object."
+   ],
+   "verified_against": "Lynn Goldsmith, named in the file itself. ⚠️ No date or commission established. From the folder Todd sent on 2026-09-04.",
+   "source_record": "folder 2026-09-04a, sent by Todd",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/tom-petty-lynn-goldsmith-01.webp",
+   "source_px": [
+    2000,
+    2659
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "photographer",
+     "v": "Lynn Goldsmith"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Lynn Goldsmith, named in the file itself. ⚠️ No date or commission established. From the folder Todd sent on 2026-09-04.",
+   "hue": null,
+   "light": 0.1905,
+   "chroma": 0.0
+  },
+  "todd sent 2026-09-04::hawkwind-space-ritual-inner-sleeve": {
+   "id": "CRVI001336",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001336.jpeg",
+   "original_px": [
+    580,
+    574
+   ],
+   "original_bytes": 317230,
+   "identity": "todd sent 2026-09-04::hawkwind-space-ritual-inner-sleeve",
+   "maker": "Hawkwind",
+   "title": "Space Ritual — inner sleeve",
+   "subtitle": "Maker unidentified · United Artists",
+   "year": "1973",
+   "label": "United Artists",
+   "notes": [
+    "A dense field of concentric halftone dots radiating from a central point, printed black on cream.",
+    "A small winged figure stands at the top of the axis, and the dot field bends around it like a gravitational well."
+   ],
+   "verified_against": "An inner-sleeve panel from Hawkwind's Space Ritual (1973), whose packaging was designed by Barney Bubbles. ⚠️ Held at 580 px, below the museum's floor, and no larger copy was found. The Barney Bubbles attribution for the package as a whole is well documented, but this specific panel carries no credit, so he is not named as its author here. From the folder Todd sent on 2026-09-04.",
+   "source_record": "folder 2026-09-04a, sent by Todd",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/BB-Space-Ritual-inner-lower-rightt.jpeg",
+   "source_px": [
+    580,
+    574
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "artist",
+     "v": "Hawkwind"
+    },
+    {
+     "k": "label",
+     "v": "United Artists"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "An inner-sleeve panel from Hawkwind's Space Ritual (1973), whose packaging was designed by Barney Bubbles. ⚠️ Held at 580 px, below the museum's floor, and no larger copy was found. The Barney Bubbles attribution for the package as a whole is well documented, but this specific panel carries no credit, so he is not named as its author here. From the folder Todd sent on 2026-09-04.",
+   "hue": null,
+   "light": 0.3799,
+   "chroma": 0.0991
+  },
+  "todd sent 2026-09-04::hawkwind-x-in-search-of-space": {
+   "id": "CRVI001337",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001337.jpg",
+   "original_px": [
+    1280,
+    1280
+   ],
+   "original_bytes": 270074,
+   "identity": "todd sent 2026-09-04::hawkwind-x-in-search-of-space",
+   "maker": "Hawkwind",
+   "title": "X In Search Of Space",
+   "subtitle": "Maker unidentified · United Artists",
+   "year": "1971",
+   "label": "United Artists",
+   "notes": [
+    "A symmetrical mandala of interlocking angular letterforms in green, violet and orange fills the square, ringed by white stars on black.",
+    "At its centre a small circular panel holds a hawk and a rainbow, so the ornament resolves into an emblem only at the middle."
+   ],
+   "verified_against": "Hawkwind's In Search Of Space (1971), whose packaging is documented as Barney Bubbles's work. ⚠️ Discogs carries no design credit on the pressings checked — consistent with his anonymity — so he is not named in the credit fields, only here. From the folder Todd sent on 2026-09-04.",
+   "source_record": "folder 2026-09-04a, sent by Todd",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/hawkwind-x-in-search1.8ce365c3.avif",
+   "source_px": [
+    1280,
+    1280
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "artist",
+     "v": "Hawkwind"
+    },
+    {
+     "k": "label",
+     "v": "United Artists"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Hawkwind's In Search Of Space (1971), whose packaging is documented as Barney Bubbles's work. ⚠️ Discogs carries no design credit on the pressings checked — consistent with his anonymity — so he is not named in the credit fields, only here. From the folder Todd sent on 2026-09-04.",
+   "hue": 12.99,
+   "light": 0.2538,
+   "chroma": 0.2619
+  },
+  "todd sent 2026-09-04::luc-ferrari-presque-rien-no-1-soci-t-ii": {
+   "id": "CRVI001338",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001338.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 466947,
+   "identity": "todd sent 2026-09-04::luc-ferrari-presque-rien-no-1-soci-t-ii",
+   "maker": "Luc Ferrari",
+   "title": "Presque Rien No. 1 / Société II",
+   "subtitle": "Maker unidentified · Deutsche Grammophon",
+   "year": "",
+   "label": "Deutsche Grammophon",
+   "notes": [
+    "Horizontal bands of green cross a green ground, with the avantgarde wordmark set small at the top right.",
+    "The billing is set in lower case at the left in a plain sans, ranged left over five lines."
+   ],
+   "verified_against": "From Deutsche Grammophon's Avant Garde series. ⚠️ No designer established; production file without credits. From the folder Todd sent on 2026-09-04.",
+   "source_record": "folder 2026-09-04a, sent by Todd",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/00028948647385_CD13_Cvr.jpg",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "artist",
+     "v": "Luc Ferrari"
+    },
+    {
+     "k": "label",
+     "v": "Deutsche Grammophon"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "From Deutsche Grammophon's Avant Garde series. ⚠️ No designer established; production file without credits. From the folder Todd sent on 2026-09-04.",
+   "hue": 144.53,
+   "light": 0.2852,
+   "chroma": 0.9915
+  },
+  "todd sent 2026-09-04::unattributed-dune-a-palace": {
+   "id": "CRVI001339",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001339.jpg",
+   "original_px": [
+    1200,
+    803
+   ],
+   "original_bytes": 145205,
+   "identity": "todd sent 2026-09-04::unattributed-dune-a-palace",
+   "maker": "unattributed",
+   "title": "Dune — a palace",
+   "subtitle": "Maker unidentified",
+   "year": "",
+   "label": "",
+   "notes": [
+    "A vast faceted structure of gold and ochre stands on a terrace, its canopy spreading like an opened fan over a stepped base.",
+    "The sky behind is worked into smoky gold, and the whole thing casts one long hard shadow across the terrace floor.",
+    "⚠️ Published 2026-09-04 with its attribution unresolved. The uncertainty is stated in full on this record rather than hidden by keeping the item off the site."
+   ],
+   "verified_against": "⚠️ NOT ESTABLISHED — PUBLISHED ANYWAY, under Todd's standing instruction of 2026-09-03: publish held items with or without credits and say plainly that the answer is not known. nothing established. Pre-production artwork from Alejandro Jodorowsky's unmade Dune, supplied without a credit. ⚠️ The film's design was shared between Jean Giraud, H.R. Giger and Chris Foss and this is not signed, so nobody is named. Published with the uncertainty stated.",
+   "source_record": "folder 2026-09-04a, sent by Todd",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/1_3OHBjoKNUmNX31Zz8itLAw.jpg",
+   "source_px": [
+    1200,
+    803
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "illustration"
+    }
+   ],
+   "identity_established": false,
+   "published": true,
+   "verification": "⚠️ NOT ESTABLISHED — PUBLISHED ANYWAY, under Todd's standing instruction of 2026-09-03: publish held items with or without credits and say plainly that the answer is not known. nothing established. Pre-production artwork from Alejandro Jodorowsky's unmade Dune, supplied without a credit. ⚠️ The film's design was shared between Jean Giraud, H.R. Giger and Chris Foss and this is not signed, so nobody is named. Published with the uncertainty stated.",
+   "hue": 42.69,
+   "light": 0.3852,
+   "chroma": 0.9409
+  },
+  "todd sent 2026-09-04::chris-foss-dune-a-spacecraft": {
+   "id": "CRVI001340",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001340.jpg",
+   "original_px": [
+    1200,
+    960
+   ],
+   "original_bytes": 209660,
+   "identity": "todd sent 2026-09-04::chris-foss-dune-a-spacecraft",
+   "maker": "Chris Foss",
+   "title": "Dune — a spacecraft",
+   "subtitle": "Illustration by Chris Foss",
+   "year": "",
+   "label": "",
+   "notes": [
+    "A hulking vessel in checkerboard black, yellow and magenta drives across a burning orange sky, lit from a low sun at the left.",
+    "The hull is painted as pattern rather than metal — the markings are the design, and the machinery hangs beneath in pink and gold."
+   ],
+   "verified_against": "Pre-production artwork for Alejandro Jodorowsky's unmade Dune. The bible's own title page, photographed as part of this same batch, credits the film's machines to Christopher Foss, and this is a machine in his manner and palette. ⚠️ The painting is unsigned, so the attribution rests on that credit line plus the style rather than on a signature. From the folder Todd sent on 2026-09-04.",
+   "source_record": "folder 2026-09-04a, sent by Todd",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/1_57ZiSuYmmPDtzh7QJZ0q7Q.jpg",
+   "source_px": [
+    1200,
+    960
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "illustration"
+    },
+    {
+     "k": "illustrator",
+     "v": "Chris Foss"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Pre-production artwork for Alejandro Jodorowsky's unmade Dune. The bible's own title page, photographed as part of this same batch, credits the film's machines to Christopher Foss, and this is a machine in his manner and palette. ⚠️ The painting is unsigned, so the attribution rests on that credit line plus the style rather than on a signature. From the folder Todd sent on 2026-09-04.",
+   "hue": 26.56,
+   "light": 0.2859,
+   "chroma": 0.7611
+  },
+  "todd sent 2026-09-04::unattributed-trust": {
+   "id": "CRVI001341",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001341.webp",
+   "original_px": [
+    961,
+    1199
+   ],
+   "original_bytes": 67562,
+   "identity": "todd sent 2026-09-04::unattributed-trust",
+   "maker": "unattributed",
+   "title": "Trust",
+   "subtitle": "Maker unidentified",
+   "year": "",
+   "label": "",
+   "notes": [
+    "A face dissolved into orange and gold, the eyes and mouth barely holding together against the glare, with glitter scattered across the surface.",
+    "The word trust is drawn across the lower half in a thin gold script, and small flower forms sit at the corners like pins.",
+    "⚠️ Published 2026-09-04 with its attribution unresolved. The uncertainty is stated in full on this record rather than hidden by keeping the item off the site."
+   ],
+   "verified_against": "⚠️ NOT ESTABLISHED — PUBLISHED ANYWAY, under Todd's standing instruction of 2026-09-03: publish held items with or without credits and say plainly that the answer is not known. nothing established. A contemporary digital painting supplied without a credit; the word trust is written into the picture but no signature is legible. Published with the uncertainty stated.",
+   "source_record": "folder 2026-09-04a, sent by Todd",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/292201181_595976212153531_8005996647803731055_n.webp",
+   "source_px": [
+    961,
+    1199
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    }
+   ],
+   "identity_established": false,
+   "published": true,
+   "verification": "⚠️ NOT ESTABLISHED — PUBLISHED ANYWAY, under Todd's standing instruction of 2026-09-03: publish held items with or without credits and say plainly that the answer is not known. nothing established. A contemporary digital painting supplied without a credit; the word trust is written into the picture but no signature is legible. Published with the uncertainty stated.",
+   "hue": 31.02,
+   "light": 0.6018,
+   "chroma": 0.9994
+  },
+  "todd sent 2026-09-04::unattributed-american-jazz-annual-newport-edition": {
+   "id": "CRVI001342",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001342.webp",
+   "original_px": [
+    1946,
+    1557
+   ],
+   "original_bytes": 77658,
+   "identity": "todd sent 2026-09-04::unattributed-american-jazz-annual-newport-edition",
+   "maker": "unattributed",
+   "title": "American Jazz Annual, Newport edition",
+   "subtitle": "Maker unidentified",
+   "year": "1956",
+   "label": "",
+   "notes": [
+    "JAZZ is set in enormous capitals across the top and then shattered — the letters break into vertical bars of red, black and white that rain down the cover.",
+    "Behind the bars a photograph is just visible in cyan, and the masthead line runs small and even across the very top."
+   ],
+   "verified_against": "The cover names itself: american jazz annual / newport edition 1956 / one dollar. ⚠️ No designer is established. Published with the uncertainty stated. From the folder Todd sent on 2026-09-04.",
+   "source_record": "folder 2026-09-04a, sent by Todd",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/AmericanJazzAnnual.webp",
+   "source_px": [
+    1946,
+    1557
+   ],
+   "colors": [
+    "cyan",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The cover names itself: american jazz annual / newport edition 1956 / one dollar. ⚠️ No designer is established. Published with the uncertainty stated. From the folder Todd sent on 2026-09-04.",
+   "hue": 184.97,
+   "light": 0.7518,
+   "chroma": 0.3803
+  },
+  "todd sent 2026-09-04::unattributed-portrait-poster-with-coloured-discs": {
+   "id": "CRVI001343",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001343.jpg",
+   "original_px": [
+    1000,
+    1395
+   ],
+   "original_bytes": 130598,
+   "identity": "todd sent 2026-09-04::unattributed-portrait-poster-with-coloured-discs",
+   "maker": "unattributed",
+   "title": "Portrait poster with coloured discs",
+   "subtitle": "Maker unidentified",
+   "year": "",
+   "label": "",
+   "notes": [
+    "A face in a flat cap rendered in pure black and white with no midtones, the shoulders dissolving into raw white paper.",
+    "A cluster of small red and blue discs carrying words is laid over the chest, the only colour on the sheet.",
+    "⚠️ Published 2026-09-04 with its attribution unresolved. The uncertainty is stated in full on this record rather than hidden by keeping the item off the site."
+   ],
+   "verified_against": "⚠️ NOT ESTABLISHED — PUBLISHED ANYWAY, under Todd's standing instruction of 2026-09-03: publish held items with or without credits and say plainly that the answer is not known. nothing established. A high-contrast screenprinted portrait supplied without a credit or caption. ⚠️ It sits with the Barney Bubbles group in this folder and shares its posterised manner, but sitting beside something is not evidence. Nobody is named. Published with the uncertainty stated.",
+   "source_record": "folder 2026-09-04a, sent by Todd",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/H3383-L408566473.jpg",
+   "source_px": [
+    1000,
+    1395
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    }
+   ],
+   "identity_established": false,
+   "published": true,
+   "verification": "⚠️ NOT ESTABLISHED — PUBLISHED ANYWAY, under Todd's standing instruction of 2026-09-03: publish held items with or without credits and say plainly that the answer is not known. nothing established. A high-contrast screenprinted portrait supplied without a credit or caption. ⚠️ It sits with the Barney Bubbles group in this folder and shares its posterised manner, but sitting beside something is not evidence. Nobody is named. Published with the uncertainty stated.",
+   "hue": 35.15,
+   "light": 0.5293,
+   "chroma": 0.4487
+  },
+  "todd sent 2026-09-04::unattributed-tron-the-solar-sailer-deck-film-still": {
+   "id": "CRVI001344",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001344.webp",
+   "original_px": [
+    1634,
+    742
+   ],
+   "original_bytes": 215426,
+   "identity": "todd sent 2026-09-04::unattributed-tron-the-solar-sailer-deck-film-still",
+   "maker": "unattributed",
+   "title": "Tron — the Solar Sailer deck, film still",
+   "subtitle": "Photographer unidentified",
+   "year": "1982",
+   "label": "",
+   "notes": [
+    "A stepped platform outlined in orange light runs back into a blue grid, two small figures seated at its far end.",
+    "Everything is line — there are no surfaces, only the edges where surfaces would be."
+   ],
+   "verified_against": "A frame from Tron (Disney, 1982, directed by Steven Lisberger). Same footing as the other still: the work of the production, with no individual credited. Kept at Todd's instruction. From the folder Todd sent on 2026-09-04.",
+   "source_record": "folder 2026-09-04a, sent by Todd",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/hy5TVotf_1007202046581gpadd.webp",
+   "source_px": [
+    1634,
+    742
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A frame from Tron (Disney, 1982, directed by Steven Lisberger). Same footing as the other still: the work of the production, with no individual credited. Kept at Todd's instruction. From the folder Todd sent on 2026-09-04.",
+   "hue": 21.47,
+   "light": 0.3083,
+   "chroma": 0.4689
+  },
+  "todd sent 2026-09-04::unattributed-jodorowsky-s-dune": {
+   "id": "CRVI001345",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001345.jpg",
+   "original_px": [
+    960,
+    1439
+   ],
+   "original_bytes": 536248,
+   "identity": "todd sent 2026-09-04::unattributed-jodorowsky-s-dune",
+   "maker": "unattributed",
+   "title": "Jodorowsky's Dune",
+   "subtitle": "Maker unidentified",
+   "year": "2013",
+   "label": "",
+   "notes": [
+    "A hexagonal composition in red, cream and black, packed with figures, worms and machinery in a dense comic-book line.",
+    "The structure is symmetrical and panelled like a page, with the title set across the foot in heavy caps."
+   ],
+   "verified_against": "A poster for the documentary Jodorowsky's Dune (2013). ⚠️ The illustrator is not established from the file, so none is named. From the folder Todd sent on 2026-09-04.",
+   "source_record": "folder 2026-09-04a, sent by Todd",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/jodorowskys-dune-md-web.jpg",
+   "source_px": [
+    960,
+    1439
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A poster for the documentary Jodorowsky's Dune (2013). ⚠️ The illustrator is not established from the file, so none is named. From the folder Todd sent on 2026-09-04.",
+   "hue": 7.81,
+   "light": 0.4772,
+   "chroma": 0.6029
+  },
+  "todd sent 2026-09-04::unattributed-woman-in-a-striped-jumpsuit-on-a-first-aid-box": {
+   "id": "CRVI001346",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001346.jpg",
+   "original_px": [
+    1200,
+    1688
+   ],
+   "original_bytes": 1815957,
+   "identity": "todd sent 2026-09-04::unattributed-woman-in-a-striped-jumpsuit-on-a-first-aid-box",
+   "maker": "unattributed",
+   "title": "Woman in a striped jumpsuit on a first-aid box",
+   "subtitle": "Photographer unidentified",
+   "year": "",
+   "label": "",
+   "notes": [
+    "A figure in a red and white striped jumpsuit sits on a white cube lettered FIRST AID, one leg extended, against seamless black.",
+    "The stripes of the costume, the red belt and the red shoes are the only colour; the box supplies the only straight lines.",
+    "⚠️ Published 2026-09-04 with its attribution unresolved. The uncertainty is stated in full on this record rather than hidden by keeping the item off the site."
+   ],
+   "verified_against": "⚠️ NOT ESTABLISHED — PUBLISHED ANYWAY, under Todd's standing instruction of 2026-09-03: publish held items with or without credits and say plainly that the answer is not known. nothing established. A colour studio portrait supplied without a credit. ⚠️ It arrived alongside two Lynn Goldsmith photographs and is lit and staged much as hers are, but adjacency is not attribution and no photographer is named here. Published with the uncertainty stated.",
+   "source_record": "folder 2026-09-04a, sent by Todd",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/kz5535dfy4gnrg2ord67zoax3fz4-4fab3e849cec2283156455f8f94de7dc.jpg",
+   "source_px": [
+    1200,
+    1688
+   ],
+   "colors": [
+    "red",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    }
+   ],
+   "identity_established": false,
+   "published": true,
+   "verification": "⚠️ NOT ESTABLISHED — PUBLISHED ANYWAY, under Todd's standing instruction of 2026-09-03: publish held items with or without credits and say plainly that the answer is not known. nothing established. A colour studio portrait supplied without a credit. ⚠️ It arrived alongside two Lynn Goldsmith photographs and is lit and staged much as hers are, but adjacency is not attribution and no photographer is named here. Published with the uncertainty stated.",
+   "hue": 1.34,
+   "light": 0.3292,
+   "chroma": 0.4635
+  },
+  "todd sent 2026-09-04::unattributed-tron-concept-art-the-throne": {
+   "id": "CRVI001347",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001347.jpeg",
+   "original_px": [
+    2048,
+    1452
+   ],
+   "original_bytes": 594201,
+   "identity": "todd sent 2026-09-04::unattributed-tron-concept-art-the-throne",
+   "maker": "unattributed",
+   "title": "Tron — concept art, the throne",
+   "subtitle": "Maker unidentified",
+   "year": "1982",
+   "label": "",
+   "notes": [
+    "A figure kneels at the foot of a towering structure of vertical light-bars, a dark shield-shaped form hanging at its summit.",
+    "The scale is set by a second tiny figure at the right; everything is rendered in blue-white line on near-black.",
+    "⚠️ Published 2026-09-04 with its attribution unresolved. The uncertainty is stated in full on this record rather than hidden by keeping the item off the site."
+   ],
+   "verified_against": "⚠️ NOT ESTABLISHED — PUBLISHED ANYWAY, under Todd's standing instruction of 2026-09-03: publish held items with or without credits and say plainly that the answer is not known. nothing established beyond the film. Concept art for Tron (Disney, 1982), supplied without a credit. ⚠️ Syd Mead, Jean Giraud and Peter Lloyd all worked on the film's visual development and this one carries no signature or filename attribution, so nobody is named. Published with the uncertainty stated, per Todd's standing instruction.",
+   "source_record": "folder 2026-09-04a, sent by Todd",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/ldub3qiriqih1.jpeg",
+   "source_px": [
+    2048,
+    1452
+   ],
+   "colors": [
+    "blue",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "illustration"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    }
+   ],
+   "identity_established": false,
+   "published": true,
+   "verification": "⚠️ NOT ESTABLISHED — PUBLISHED ANYWAY, under Todd's standing instruction of 2026-09-03: publish held items with or without credits and say plainly that the answer is not known. nothing established beyond the film. Concept art for Tron (Disney, 1982), supplied without a credit. ⚠️ Syd Mead, Jean Giraud and Peter Lloyd all worked on the film's visual development and this one carries no signature or filename attribution, so nobody is named. Published with the uncertainty stated, per Todd's standing instruction.",
+   "hue": 204.91,
+   "light": 0.3039,
+   "chroma": 0.273
+  },
+  "todd sent 2026-09-04::unattributed-jodorowsky-s-dune-theatrical-poster": {
+   "id": "CRVI001348",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001348.jpg",
+   "original_px": [
+    1382,
+    2048
+   ],
+   "original_bytes": 849368,
+   "identity": "todd sent 2026-09-04::unattributed-jodorowsky-s-dune-theatrical-poster",
+   "maker": "unattributed",
+   "title": "Jodorowsky's Dune — theatrical poster",
+   "subtitle": "Maker unidentified",
+   "year": "2013",
+   "label": "",
+   "notes": [
+    "A stack of production drawings photographed as a pile, with a Chris Foss ship painting on top and the bound bible's spine showing beneath.",
+    "Review quotes run along the top edge and the festival laurels along the foot, framing the artwork like a scrapbook page."
+   ],
+   "verified_against": "The Sony Pictures Classics theatrical poster for Jodorowsky's Dune (2013), whose billing block names the film. ⚠️ No designer is established. From the folder Todd sent on 2026-09-04.",
+   "source_record": "folder 2026-09-04a, sent by Todd",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/MV5BMTU0MzcxMTAxMl5BMl5BanBnXkFtZTgwODMyMTIxMTE@._V1_.jpg",
+   "source_px": [
+    1382,
+    2048
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Sony Pictures Classics theatrical poster for Jodorowsky's Dune (2013), whose billing block names the film. ⚠️ No designer is established. From the folder Todd sent on 2026-09-04.",
+   "hue": 15.53,
+   "light": 0.2611,
+   "chroma": 0.4678
+  },
+  "todd sent 2026-09-04::unattributed-two-figures-one-holding-a-camera": {
+   "id": "CRVI001349",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001349.jpg",
+   "original_px": [
+    1210,
+    1718
+   ],
+   "original_bytes": 222186,
+   "identity": "todd sent 2026-09-04::unattributed-two-figures-one-holding-a-camera",
+   "maker": "unattributed",
+   "title": "Two figures, one holding a camera",
+   "subtitle": "Photographer unidentified",
+   "year": "",
+   "label": "",
+   "notes": [
+    "Two people stand against seamless grey, one in a dark leotard looking straight out, the other in a heavy cardigan raising a small camera to one eye.",
+    "The camera is aimed at the viewer, so the picture contains the act of taking it.",
+    "⚠️ Published 2026-09-04 with its attribution unresolved. The uncertainty is stated in full on this record rather than hidden by keeping the item off the site."
+   ],
+   "verified_against": "⚠️ NOT ESTABLISHED — PUBLISHED ANYWAY, under Todd's standing instruction of 2026-09-03: publish held items with or without credits and say plainly that the answer is not known. nothing established. A black-and-white studio portrait supplied without a credit or caption. ⚠️ No photographer and no sitters are confirmed. Published with the uncertainty stated.",
+   "source_record": "folder 2026-09-04a, sent by Todd",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/original.jpg",
+   "source_px": [
+    1210,
+    1718
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    }
+   ],
+   "identity_established": false,
+   "published": true,
+   "verification": "⚠️ NOT ESTABLISHED — PUBLISHED ANYWAY, under Todd's standing instruction of 2026-09-03: publish held items with or without credits and say plainly that the answer is not known. nothing established. A black-and-white studio portrait supplied without a credit or caption. ⚠️ No photographer and no sitters are confirmed. Published with the uncertainty stated.",
+   "hue": null,
+   "light": 0.3109,
+   "chroma": 0.0
+  },
+  "todd sent 2026-09-04::elvis-costello-the-attractions-almost-blue": {
+   "id": "CRVI001350",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001350.jpg",
+   "original_px": [
+    1997,
+    2000
+   ],
+   "original_bytes": 725976,
+   "identity": "todd sent 2026-09-04::elvis-costello-the-attractions-almost-blue",
+   "maker": "Elvis Costello & The Attractions",
+   "title": "Almost Blue",
+   "subtitle": "Designed by Barney Bubbles, photograph by Keith Morris · F-Beat",
+   "year": "1981",
+   "label": "F-Beat",
+   "notes": [
+    "A torn white strip runs top to bottom of the sleeve, and the word blue is set enormous in aquamarine across the whole square behind it.",
+    "A photograph of the singer sits underneath, one hand across the face and the other holding his glasses, so the type and the tear do most of the hiding."
+   ],
+   "verified_against": "Barney Bubbles, established by a museum: MoMA holds this sleeve in its collection (work 185461) as 'Barney Bubbles (Colin Fulcher), F-Beat Records, album cover for Elvis Costello and the Attractions, Almost Blue, 1981'. Barney Bubbles, born Colin Fulcher. ⚠️ HE IS NOT CREDITED ON THE RECORD, and that is not an oversight: he never signed his work and insisted on anonymity throughout his career, which is why Discogs carries no design credit for most of these. Discogs lists this one as 'sleeve design, uncredited'. Discogs credits the photography to Keith Morris. ⚠️ The design is widely read as an homage to Reid Miles's Midnight Blue for Kenny Burrell — which this museum also holds — and that reading is a reading, not a credit. From the folder Todd sent on 2026-09-04.",
+   "source_record": "folder 2026-09-04a, sent by Todd",
+   "designers": [
+    "Barney Bubbles"
+   ],
+   "source_image": "/Users/todd/Desktop/2026-09-04a/W1siZiIsIjI1MjQ3MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg",
+   "source_px": [
+    1997,
+    2000
+   ],
+   "colors": [
+    "blue",
+    "pink"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Barney Bubbles"
+    },
+    {
+     "k": "photographer",
+     "v": "Keith Morris"
+    },
+    {
+     "k": "artist",
+     "v": "Elvis Costello & The Attractions"
+    },
+    {
+     "k": "label",
+     "v": "F-Beat"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Barney Bubbles, established by a museum: MoMA holds this sleeve in its collection (work 185461) as 'Barney Bubbles (Colin Fulcher), F-Beat Records, album cover for Elvis Costello and the Attractions, Almost Blue, 1981'. Barney Bubbles, born Colin Fulcher. ⚠️ HE IS NOT CREDITED ON THE RECORD, and that is not an oversight: he never signed his work and insisted on anonymity throughout his career, which is why Discogs carries no design credit for most of these. Discogs lists this one as 'sleeve design, uncredited'. Discogs credits the photography to Keith Morris. ⚠️ The design is widely read as an homage to Reid Miles's Midnight Blue for Kenny Burrell — which this museum also holds — and that reading is a reading, not a credit. From the folder Todd sent on 2026-09-04.",
+   "hue": 203.32,
+   "light": 0.4937,
+   "chroma": 0.564
+  },
+  "todd sent 2026-09-04::barney-bubbles-get-happy-promotional-poster": {
+   "id": "CRVI001351",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001351.jpg",
+   "original_px": [
+    1341,
+    2000
+   ],
+   "original_bytes": 449506,
+   "identity": "todd sent 2026-09-04::barney-bubbles-get-happy-promotional-poster",
+   "maker": "Barney Bubbles",
+   "title": "Get Happy!! — promotional poster",
+   "subtitle": "Designed by Barney Bubbles",
+   "year": "1980",
+   "label": "",
+   "notes": [
+    "A field of drop-shaped and lozenge-shaped balloons hangs on strings, each carrying one word in white on black.",
+    "GET HAPPY!! is set behind them in outline, so the balloons obscure the very words the poster is naming."
+   ],
+   "verified_against": "Barney Bubbles, in his F-Beat/Stiff idiom and from the same estate group as the rest. Barney Bubbles, born Colin Fulcher. ⚠️ HE IS NOT CREDITED ON THE RECORD, and that is not an oversight: he never signed his work and insisted on anonymity throughout his career, which is why Discogs carries no design credit for most of these. Discogs lists this one as 'sleeve design, uncredited'. ⚠️ No printed credit exists on the poster, so this rests on provenance and manner. From the folder Todd sent on 2026-09-04.",
+   "source_record": "folder 2026-09-04a, sent by Todd",
+   "designers": [
+    "Barney Bubbles"
+   ],
+   "source_image": "/Users/todd/Desktop/2026-09-04a/W1siZiIsIjI1MTg1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg",
+   "source_px": [
+    1341,
+    2000
+   ],
+   "colors": [
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "designer",
+     "v": "Barney Bubbles"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Barney Bubbles, in his F-Beat/Stiff idiom and from the same estate group as the rest. Barney Bubbles, born Colin Fulcher. ⚠️ HE IS NOT CREDITED ON THE RECORD, and that is not an oversight: he never signed his work and insisted on anonymity throughout his career, which is why Discogs carries no design credit for most of these. Discogs lists this one as 'sleeve design, uncredited'. ⚠️ No printed credit exists on the poster, so this rests on provenance and manner. From the folder Todd sent on 2026-09-04.",
+   "hue": 65.0,
+   "light": 0.7147,
+   "chroma": 0.2025
+  },
+  "todd sent 2026-09-04::barney-bubbles-elvis-costello-portrait-poster": {
+   "id": "CRVI001352",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001352.jpg",
+   "original_px": [
+    1342,
+    2000
+   ],
+   "original_bytes": 471472,
+   "identity": "todd sent 2026-09-04::barney-bubbles-elvis-costello-portrait-poster",
+   "maker": "Barney Bubbles",
+   "title": "Elvis Costello — portrait poster",
+   "subtitle": "Designed by Barney Bubbles",
+   "year": "",
+   "label": "",
+   "notes": [
+    "A high-contrast portrait posterised into flat green, yellow and black, the hands clasped at the bottom of the frame.",
+    "The name is hand-lettered vertically up the right-hand edge in a loose script, the only informal mark on the sheet."
+   ],
+   "verified_against": "Barney Bubbles, from the same estate group. Barney Bubbles, born Colin Fulcher. ⚠️ HE IS NOT CREDITED ON THE RECORD, and that is not an oversight: he never signed his work and insisted on anonymity throughout his career, which is why Discogs carries no design credit for most of these. Discogs lists this one as 'sleeve design, uncredited'. ⚠️ No printed credit; provenance and manner only. From the folder Todd sent on 2026-09-04.",
+   "source_record": "folder 2026-09-04a, sent by Todd",
+   "designers": [
+    "Barney Bubbles"
+   ],
+   "source_image": "/Users/todd/Desktop/2026-09-04a/W1siZiIsIjMwMjM3MSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg",
+   "source_px": [
+    1342,
+    2000
+   ],
+   "colors": [
+    "green",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "designer",
+     "v": "Barney Bubbles"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Barney Bubbles, from the same estate group. Barney Bubbles, born Colin Fulcher. ⚠️ HE IS NOT CREDITED ON THE RECORD, and that is not an oversight: he never signed his work and insisted on anonymity throughout his career, which is why Discogs carries no design credit for most of these. Discogs lists this one as 'sleeve design, uncredited'. ⚠️ No printed credit; provenance and manner only. From the folder Todd sent on 2026-09-04.",
+   "hue": 45.2,
+   "light": 0.3063,
+   "chroma": 0.8338
+  },
+  "todd sent 2026-09-04::elvis-costello-the-attractions-high-fidelity": {
+   "id": "CRVI001353",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001353.jpg",
+   "original_px": [
+    1995,
+    2000
+   ],
+   "original_bytes": 1338679,
+   "identity": "todd sent 2026-09-04::elvis-costello-the-attractions-high-fidelity",
+   "maker": "Elvis Costello & The Attractions",
+   "title": "High Fidelity",
+   "subtitle": "Designed by Barney Bubbles · F-Beat",
+   "year": "1980",
+   "label": "F-Beat",
+   "notes": [
+    "A violet field ruled with concentric white circles like a target or a radar sweep, two dark hourglass forms standing either side of the centre.",
+    "The label is left visible as a yellow disc at the middle, and HIGH FIDELITY is set across the top in a shadowed display face."
+   ],
+   "verified_against": "Barney Bubbles, who designed the F-Beat sleeves of this period. Barney Bubbles, born Colin Fulcher. ⚠️ HE IS NOT CREDITED ON THE RECORD, and that is not an oversight: he never signed his work and insisted on anonymity throughout his career, which is why Discogs carries no design credit for most of these. Discogs lists this one as 'sleeve design, uncredited'. From the folder Todd sent on 2026-09-04.",
+   "source_record": "folder 2026-09-04a, sent by Todd",
+   "designers": [
+    "Barney Bubbles"
+   ],
+   "source_image": "/Users/todd/Desktop/2026-09-04a/W1siZiIsIjMwNTU2MCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg",
+   "source_px": [
+    1995,
+    2000
+   ],
+   "colors": [
+    "blue",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Barney Bubbles"
+    },
+    {
+     "k": "artist",
+     "v": "Elvis Costello & The Attractions"
+    },
+    {
+     "k": "label",
+     "v": "F-Beat"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Barney Bubbles, who designed the F-Beat sleeves of this period. Barney Bubbles, born Colin Fulcher. ⚠️ HE IS NOT CREDITED ON THE RECORD, and that is not an oversight: he never signed his work and insisted on anonymity throughout his career, which is why Discogs carries no design credit for most of these. Discogs lists this one as 'sleeve design, uncredited'. From the folder Todd sent on 2026-09-04.",
+   "hue": 248.7,
+   "light": 0.5132,
+   "chroma": 0.7476
   }
  }
 }
