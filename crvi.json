@@ -73724,6 +73724,330 @@
    "hue": 35.05,
    "light": 0.7982,
    "chroma": 0.8746
+  },
+  {
+   "id": "CRVI001402",
+   "published": true,
+   "minted": "2026-08-26",
+   "punch": 0.1671,
+   "source_url": "https://www.discogs.com/release/3593178",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001402.jpg",
+   "source_label": "",
+   "image": "images/CRVI001402.jpg",
+   "original": "originals/CRVI001402.jpg",
+   "vector": "",
+   "original_px": [
+    1562,
+    1562
+   ],
+   "original_bytes": 1051791,
+   "maker": "Ken Deardoff",
+   "title": "Takin' Care Of Business",
+   "subtitle": "Designed by Ken Deardoff · Charlie Rouse Quintet · Jazzland · 1960",
+   "year": "1960",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Ken Deardoff"
+    },
+    {
+     "k": "photographer",
+     "v": "Lawrence N. Shustak"
+    },
+    {
+     "k": "artist",
+     "v": "Charlie Rouse Quintet"
+    },
+    {
+     "k": "label",
+     "v": "Jazzland"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "subject",
+     "v": "jazz"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 55.41,
+   "light": 0.3349,
+   "chroma": 0.2621
+  },
+  {
+   "id": "CRVI001403",
+   "published": true,
+   "minted": "2026-08-26",
+   "punch": 0.0571,
+   "source_url": "https://whitney.org/collection/works/2160",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001403.jpg",
+   "source_label": "",
+   "image": "images/CRVI001403.jpg",
+   "original": "originals/CRVI001403.jpg",
+   "vector": "",
+   "original_px": [
+    1600,
+    1200
+   ],
+   "original_bytes": 287144,
+   "maker": "Duane Hanson",
+   "title": "Woman with Dog",
+   "subtitle": "Duane Hanson · 1977 · Whitney Museum of American Art",
+   "year": "1977",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Duane Hanson"
+    },
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "the body"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 26.24,
+   "light": 0.6471,
+   "chroma": 0.1781
+  },
+  {
+   "id": "CRVI001404",
+   "published": true,
+   "minted": "2026-08-26",
+   "punch": 0.1165,
+   "source_url": "https://www.psmuseum.org/at-home/art-of-the-week-40",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001404.jpg",
+   "source_label": "",
+   "image": "images/CRVI001404.jpg",
+   "original": "originals/CRVI001404.jpg",
+   "vector": "",
+   "original_px": [
+    1600,
+    1359
+   ],
+   "original_bytes": 144704,
+   "maker": "Duane Hanson",
+   "title": "Old Couple on a Bench",
+   "subtitle": "Duane Hanson · 1995 · polychromed bronze and mixed media",
+   "year": "1995",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Duane Hanson"
+    },
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "the body"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 31.88,
+   "light": 0.5932,
+   "chroma": 0.4233
+  },
+  {
+   "id": "CRVI001405",
+   "published": true,
+   "minted": "2026-08-26",
+   "punch": 0.1228,
+   "source_url": "https://cranbrookartmuseum.org/artwork/duane-hanson-bodybuilder-designed-1989-executed-1992/",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001405.jpg",
+   "source_label": "",
+   "image": "images/CRVI001405.jpg",
+   "original": "originals/CRVI001405.jpg",
+   "vector": "",
+   "original_px": [
+    1125,
+    900
+   ],
+   "original_bytes": 122901,
+   "maker": "Duane Hanson",
+   "title": "Bodybuilder",
+   "subtitle": "Duane Hanson · 1989 · designed 1989, executed 1992 · bronze, polychromed",
+   "year": "1989",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Duane Hanson"
+    },
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "the body"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 209.23,
+   "light": 0.5983,
+   "chroma": 0.5652
+  },
+  {
+   "id": "CRVI001406",
+   "published": true,
+   "minted": "2026-08-26",
+   "punch": 0.1152,
+   "source_url": "https://www.art.salon/artist/duane-hanson",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001406.jpg",
+   "source_label": "",
+   "image": "images/CRVI001406.jpg",
+   "original": "originals/CRVI001406.jpg",
+   "vector": "",
+   "original_px": [
+    2680,
+    4000
+   ],
+   "original_bytes": 641168,
+   "maker": "Duane Hanson",
+   "title": "Baton Twirler",
+   "subtitle": "Duane Hanson · 1971",
+   "year": "1971",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Duane Hanson"
+    },
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "the body"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 33.63,
+   "light": 0.7821,
+   "chroma": 0.3967
+  },
+  {
+   "id": "CRVI001407",
+   "published": true,
+   "minted": "2026-08-26",
+   "punch": 0.1163,
+   "source_url": "https://www.christies.com/en/lot/lot-5595107",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001407.jpg",
+   "source_label": "",
+   "image": "images/CRVI001407.jpg",
+   "original": "originals/CRVI001407.jpg",
+   "vector": "",
+   "original_px": [
+    2855,
+    3200
+   ],
+   "original_bytes": 788396,
+   "maker": "Duane Hanson",
+   "title": "Man on a Bench",
+   "subtitle": "Duane Hanson · ",
+   "year": "",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Duane Hanson"
+    },
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "the body"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 34.96,
+   "light": 0.6656,
+   "chroma": 0.2681
   }
  ]
 }

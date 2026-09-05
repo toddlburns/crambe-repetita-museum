@@ -1,5 +1,5 @@
 {
- "next": 1402,
+ "next": 1408,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -84073,6 +84073,361 @@
    "light": 0.7982,
    "chroma": 0.8746,
    "punch": 0.2698
+  },
+  "todd sent 2026-09-05 b3::deardoff-rouse-takin-care-of-business": {
+   "id": "CRVI001402",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI001402.jpg",
+   "original_px": [
+    1562,
+    1562
+   ],
+   "original_bytes": 1051791,
+   "identity": "todd sent 2026-09-05 b3::deardoff-rouse-takin-care-of-business",
+   "maker": "Ken Deardoff",
+   "title": "Takin' Care Of Business",
+   "year": "1960",
+   "subtitle": "Designed by Ken Deardoff · Charlie Rouse Quintet · Jazzland · 1960",
+   "notes": [
+    "Ragged yellow marks are thrown across a black square like spatter, resolving only just enough to read as letterforms; a small photograph of Rouse in profile sits alone in the top left corner above the credits.",
+    "Jazzland JLP 19. Sidemen listed on the cover: Blue Mitchell, Art Taylor, Walter Bishop, Earl May."
+   ],
+   "verified_against": "Discogs release 3593178 — Charlie Rouse Quintet, Takin' Care Of Business, Jazzland JLP 19, 1960 — carrying the credits 'Design: Ken Deardoff' and 'Photography By: Lawrence N. Shustak'.",
+   "source_page": "https://www.discogs.com/release/3593178",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/b3/raw/08.bin",
+   "source_px": [
+    1562,
+    1562
+   ],
+   "colors": [
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Ken Deardoff"
+    },
+    {
+     "k": "photographer",
+     "v": "Lawrence N. Shustak"
+    },
+    {
+     "k": "artist",
+     "v": "Charlie Rouse Quintet"
+    },
+    {
+     "k": "label",
+     "v": "Jazzland"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "subject",
+     "v": "jazz"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Discogs release 3593178 — Charlie Rouse Quintet, Takin' Care Of Business, Jazzland JLP 19, 1960 — carrying the credits 'Design: Ken Deardoff' and 'Photography By: Lawrence N. Shustak'.",
+   "hue": 55.41,
+   "light": 0.3349,
+   "chroma": 0.2621,
+   "punch": 0.1671
+  },
+  "todd sent 2026-09-05 b3::hanson-woman-with-dog": {
+   "id": "CRVI001403",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI001403.jpg",
+   "original_px": [
+    1600,
+    1200
+   ],
+   "original_bytes": 287144,
+   "identity": "todd sent 2026-09-05 b3::hanson-woman-with-dog",
+   "maker": "Duane Hanson",
+   "title": "Woman with Dog",
+   "year": "1977",
+   "subtitle": "Duane Hanson · 1977 · Whitney Museum of American Art",
+   "notes": [
+    "A seated woman in a printed housedress holds a letter, a small dog asleep on the rug at her feet, the whole group cast from life and dressed in real clothes."
+   ],
+   "verified_against": "Whitney Museum of American Art, accession 78.6a-f — Duane Hanson, Woman with Dog, 1977; acrylic and oil on cast polyvinyl with clothing, hair, eyeglasses, watch, shoes, upholstered wood chair, dog hair, leather collar, woven rug, postcard, letters and envelopes. The accession number appears in the image filename, which ties this file to that record.",
+   "source_page": "https://whitney.org/collection/works/2160",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/b3/raw/12.bin",
+   "source_px": [
+    1600,
+    1200
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Duane Hanson"
+    },
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "the body"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Whitney Museum of American Art, accession 78.6a-f — Duane Hanson, Woman with Dog, 1977; acrylic and oil on cast polyvinyl with clothing, hair, eyeglasses, watch, shoes, upholstered wood chair, dog hair, leather collar, woven rug, postcard, letters and envelopes. The accession number appears in the image filename, which ties this file to that record.",
+   "hue": 26.24,
+   "light": 0.6471,
+   "chroma": 0.1781,
+   "punch": 0.0571
+  },
+  "todd sent 2026-09-05 b3::hanson-old-couple-on-a-bench": {
+   "id": "CRVI001404",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI001404.jpg",
+   "original_px": [
+    1600,
+    1359
+   ],
+   "original_bytes": 144704,
+   "identity": "todd sent 2026-09-05 b3::hanson-old-couple-on-a-bench",
+   "maker": "Duane Hanson",
+   "title": "Old Couple on a Bench",
+   "year": "1995",
+   "subtitle": "Duane Hanson · 1995 · polychromed bronze and mixed media",
+   "notes": [
+    "A man and a woman sit side by side on a low bench, not touching and not looking at one another, his hat resting on his knee."
+   ],
+   "verified_against": "Palm Springs Art Museum — Duane Hanson (American, 1925-1996), Old Couple on a Bench, 1995, polychromed bronze and mixed media with accessories, edition 2/2, 50 x 60 x 40 3/4 inches.",
+   "source_page": "https://www.psmuseum.org/at-home/art-of-the-week-40",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/b3/raw/13.bin",
+   "source_px": [
+    1600,
+    1359
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Duane Hanson"
+    },
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "the body"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Palm Springs Art Museum — Duane Hanson (American, 1925-1996), Old Couple on a Bench, 1995, polychromed bronze and mixed media with accessories, edition 2/2, 50 x 60 x 40 3/4 inches.",
+   "hue": 31.88,
+   "light": 0.5932,
+   "chroma": 0.4233,
+   "punch": 0.1165
+  },
+  "todd sent 2026-09-05 b3::hanson-bodybuilder": {
+   "id": "CRVI001405",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI001405.jpg",
+   "original_px": [
+    1125,
+    900
+   ],
+   "original_bytes": 122901,
+   "identity": "todd sent 2026-09-05 b3::hanson-bodybuilder",
+   "maker": "Duane Hanson",
+   "title": "Bodybuilder",
+   "year": "1989",
+   "subtitle": "Duane Hanson · 1989 · designed 1989, executed 1992 · bronze, polychromed",
+   "notes": [
+    "A bodybuilder sits on the end of a weight bench with a towel over one thigh, the skin painted to look wet with sweat."
+   ],
+   "verified_against": "Cranbrook Art Museum, whose record for the work is titled 'Duane Hanson, Bodybuilder, designed 1989, executed 1992' and states that the model was a young man Hanson met at a health club in Hollywood, Florida, and that the figure was cast in bronze and then painted to imitate skin shiny with perspiration. Hanson took his MFA at Cranbrook in 1951.",
+   "source_page": "https://cranbrookartmuseum.org/artwork/duane-hanson-bodybuilder-designed-1989-executed-1992/",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/b3/raw/15.bin",
+   "source_px": [
+    1125,
+    900
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Duane Hanson"
+    },
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "the body"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Cranbrook Art Museum, whose record for the work is titled 'Duane Hanson, Bodybuilder, designed 1989, executed 1992' and states that the model was a young man Hanson met at a health club in Hollywood, Florida, and that the figure was cast in bronze and then painted to imitate skin shiny with perspiration. Hanson took his MFA at Cranbrook in 1951.",
+   "hue": 209.23,
+   "light": 0.5983,
+   "chroma": 0.5652,
+   "punch": 0.1228
+  },
+  "todd sent 2026-09-05 b3::hanson-baton-twirler": {
+   "id": "CRVI001406",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI001406.jpg",
+   "original_px": [
+    2680,
+    4000
+   ],
+   "original_bytes": 641168,
+   "identity": "todd sent 2026-09-05 b3::hanson-baton-twirler",
+   "maker": "Duane Hanson",
+   "title": "Baton Twirler",
+   "year": "1971",
+   "subtitle": "Duane Hanson · 1971",
+   "notes": [
+    "A twirler in a red and white spangled leotard balances on one leg, the other knee driven up and the baton held overhead."
+   ],
+   "verified_against": "Dated 1971 in the standard listings of Hanson's work. ⚠️ The image comes from art.salon, a commercial art-price site, not from a museum or the estate — a weaker source than the rest of this group, and the date is not confirmed against a collection record.",
+   "source_page": "https://www.art.salon/artist/duane-hanson",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/b3/raw/16.bin",
+   "source_px": [
+    2680,
+    4000
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Duane Hanson"
+    },
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "the body"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Dated 1971 in the standard listings of Hanson's work. ⚠️ The image comes from art.salon, a commercial art-price site, not from a museum or the estate — a weaker source than the rest of this group, and the date is not confirmed against a collection record.",
+   "hue": 33.63,
+   "light": 0.7821,
+   "chroma": 0.3967,
+   "punch": 0.1152
+  },
+  "todd sent 2026-09-05 b3::hanson-man-on-a-bench": {
+   "id": "CRVI001407",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI001407.jpg",
+   "original_px": [
+    2855,
+    3200
+   ],
+   "original_bytes": 788396,
+   "identity": "todd sent 2026-09-05 b3::hanson-man-on-a-bench",
+   "maker": "Duane Hanson",
+   "title": "Man on a Bench",
+   "year": "",
+   "subtitle": "Duane Hanson · ",
+   "notes": [
+    "An elderly man sits alone on a plain wooden bench against a bare wall, hands in his lap, looking at nothing."
+   ],
+   "verified_against": "Christie's, whose lot page for this sculpture is titled 'Duane Hanson (1925-1996), Man on a bench' (Amsterdam, 2012). ⚠️ NO DATE IS RECORDED. The lot page gives the artist and title but I could not establish the year of the work, and none is stated here rather than guessing one from the sale date.",
+   "source_page": "https://www.christies.com/en/lot/lot-5595107",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/b3/raw/17.bin",
+   "source_px": [
+    2855,
+    3200
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Duane Hanson"
+    },
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "the body"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Christie's, whose lot page for this sculpture is titled 'Duane Hanson (1925-1996), Man on a bench' (Amsterdam, 2012). ⚠️ NO DATE IS RECORDED. The lot page gives the artist and title but I could not establish the year of the work, and none is stated here rather than guessing one from the sale date.",
+   "hue": 34.96,
+   "light": 0.6656,
+   "chroma": 0.2681,
+   "punch": 0.1163
   }
  }
 }
