@@ -1,5 +1,5 @@
 {
- "next": 1260,
+ "next": 1298,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -72971,6 +72971,2444 @@
    "light": 0.657,
    "chroma": 0.2634,
    "source_page": "https://www.aphotoeditor.com/2016/12/20/the-daily-edit-gq-christian-weber/"
+  },
+  "todd sent 2026-09-04::john-coltrane-coltrane-s-sound-atlantic-1419": {
+   "id": "CRVI001260",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001260.jpg",
+   "original_px": [
+    1000,
+    1000
+   ],
+   "original_bytes": 337793,
+   "identity": "todd sent 2026-09-04::john-coltrane-coltrane-s-sound-atlantic-1419",
+   "maker": "John Coltrane",
+   "title": "Coltrane's Sound",
+   "subtitle": "Designed by Marvin Israel · Atlantic 1419",
+   "year": "1964",
+   "label": "Atlantic",
+   "catalogue": "1419",
+   "notes": [
+    "A painted head built from thick horizontal strokes of red, green and black over a cream ground, the features emerging only where the paint thins.",
+    "The title is set small and lower case at the top, and the catalogue number is left as bare figures in the lower left — the picture is given the whole square."
+   ],
+   "verified_against": "Identified from the artwork, which names the record and carries the catalogue number Atlantic 1419, and verified by eye against that number; checked against Discogs release 11080786. It credits the cover design to Marvin Israel. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at.",
+   "source_record": "folder 2026-09-04a, sent by Todd; filenames follow dgmono.com catalogue numbering",
+   "designers": [
+    "Marvin Israel"
+   ],
+   "discogs_release": 11080786,
+   "source_page": "https://www.discogs.com/release/11080786",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/A-1419-1-1000x1000.jpg",
+   "source_px": [
+    1000,
+    1000
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Marvin Israel"
+    },
+    {
+     "k": "artist",
+     "v": "John Coltrane"
+    },
+    {
+     "k": "label",
+     "v": "Atlantic"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which names the record and carries the catalogue number Atlantic 1419, and verified by eye against that number; checked against Discogs release 11080786. It credits the cover design to Marvin Israel. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at.",
+   "hue": 44.75,
+   "light": 0.6523,
+   "chroma": 0.6298
+  },
+  "todd sent 2026-09-04::elvin-jones-midnight-walk-atlantic-1485": {
+   "id": "CRVI001261",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001261.jpg",
+   "original_px": [
+    1741,
+    1741
+   ],
+   "original_bytes": 1050434,
+   "identity": "todd sent 2026-09-04::elvin-jones-midnight-walk-atlantic-1485",
+   "maker": "Elvin Jones",
+   "title": "Midnight Walk",
+   "subtitle": "Designed by Marvin Israel, photograph by Lee Tanner · Atlantic 1485",
+   "year": "1967",
+   "label": "Atlantic",
+   "catalogue": "1485",
+   "notes": [
+    "A green-lit stage photograph of the drummer at his kit, the cymbals catching the only hard highlights.",
+    "Two bands of red and yellow zigzag rule cross the image top and bottom, and the type is dropped into the gap between them."
+   ],
+   "verified_against": "Identified from the artwork, which names the record and carries the catalogue number Atlantic 1485, and verified by eye against that number; checked against Discogs release 9869129. It credits the cover design to Marvin Israel; the cover photograph to Lee Tanner. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at.",
+   "source_record": "folder 2026-09-04a, sent by Todd; filenames follow dgmono.com catalogue numbering",
+   "designers": [
+    "Marvin Israel"
+   ],
+   "discogs_release": 9869129,
+   "source_page": "https://www.discogs.com/release/9869129",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/A-1485-1.jpg",
+   "source_px": [
+    1741,
+    1741
+   ],
+   "colors": [
+    "green",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Marvin Israel"
+    },
+    {
+     "k": "photographer",
+     "v": "Lee Tanner"
+    },
+    {
+     "k": "artist",
+     "v": "Elvin Jones"
+    },
+    {
+     "k": "label",
+     "v": "Atlantic"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which names the record and carries the catalogue number Atlantic 1485, and verified by eye against that number; checked against Discogs release 9869129. It credits the cover design to Marvin Israel; the cover photograph to Lee Tanner. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at.",
+   "hue": 161.83,
+   "light": 0.3404,
+   "chroma": 0.7177
+  },
+  "todd sent 2026-09-04::the-teddy-charles-tentet-the-teddy-charles-tentet-atlantic-1229": {
+   "id": "CRVI001262",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001262.jpg",
+   "original_px": [
+    950,
+    950
+   ],
+   "original_bytes": 369932,
+   "identity": "todd sent 2026-09-04::the-teddy-charles-tentet-the-teddy-charles-tentet-atlantic-1229",
+   "maker": "The Teddy Charles Tentet",
+   "title": "The Teddy Charles Tentet",
+   "subtitle": "Designer unrecorded · Atlantic 1229",
+   "year": "1956",
+   "label": "Atlantic",
+   "catalogue": "1229",
+   "notes": [
+    "A nude figure lit through a striped gobo so the body is banded in light and shadow, everything else falling to black.",
+    "ATLANTIC 1229 sits alone in the top right and the title stacks in green at the left, so the picture reads as a photograph first and a sleeve second."
+   ],
+   "verified_against": "Identified from the artwork, which names the record and carries the catalogue number Atlantic 1229, and verified by eye against that number. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at. ⚠️ Not looked up on Discogs — the file carried no catalogue number, and the number here (1229) was read off the sleeve itself. No design or photography credit is claimed.",
+   "source_record": "folder 2026-09-04a, sent by Todd; filenames follow dgmono.com catalogue numbering",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/Atlantic-Teddy-Charles.jpg",
+   "source_px": [
+    950,
+    950
+   ],
+   "colors": [
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "artist",
+     "v": "The Teddy Charles Tentet"
+    },
+    {
+     "k": "label",
+     "v": "Atlantic"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which names the record and carries the catalogue number Atlantic 1229, and verified by eye against that number. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at. ⚠️ Not looked up on Discogs — the file carried no catalogue number, and the number here (1229) was read off the sleeve itself. No design or photography credit is claimed.",
+   "hue": null,
+   "light": 0.1058,
+   "chroma": 0.0436
+  },
+  "todd sent 2026-09-04::curtis-fuller-the-opener-blue-note-1567": {
+   "id": "CRVI001263",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001263.jpg",
+   "original_px": [
+    1100,
+    1100
+   ],
+   "original_bytes": 272942,
+   "identity": "todd sent 2026-09-04::curtis-fuller-the-opener-blue-note-1567",
+   "maker": "Curtis Fuller",
+   "title": "The Opener",
+   "subtitle": "Photograph by Francis Wolff · Blue Note 1567",
+   "year": "1957",
+   "label": "Blue Note",
+   "catalogue": "1567",
+   "notes": [
+    "A trombonist at a microphone in a darkened studio, shot from below with a light stand and a boom left in frame.",
+    "THE OPENER is set in red script-like capitals at the top and the name in heavy white caps along the foot."
+   ],
+   "verified_against": "Identified from the artwork, which names the record and carries the catalogue number Blue Note 1567, and verified by eye against that number; checked against Discogs release 5276234. It credits the cover photograph to Francis Wolff. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at. Discogs credits only the cover photograph, to Francis Wolff, and names no designer.",
+   "source_record": "folder 2026-09-04a, sent by Todd; filenames follow dgmono.com catalogue numbering",
+   "discogs_release": 5276234,
+   "source_page": "https://www.discogs.com/release/5276234",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/Blue-Note-1567.jpg",
+   "source_px": [
+    1100,
+    1100
+   ],
+   "colors": [
+    "yellow",
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "photographer",
+     "v": "Francis Wolff"
+    },
+    {
+     "k": "artist",
+     "v": "Curtis Fuller"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which names the record and carries the catalogue number Blue Note 1567, and verified by eye against that number; checked against Discogs release 5276234. It credits the cover photograph to Francis Wolff. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at. Discogs credits only the cover photograph, to Francis Wolff, and names no designer.",
+   "hue": null,
+   "light": 0.1241,
+   "chroma": 0.0925
+  },
+  "todd sent 2026-09-04::paul-chambers-quartet-bass-on-top-blue-note-1569": {
+   "id": "CRVI001264",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001264.png",
+   "original_px": [
+    1100,
+    1100
+   ],
+   "original_bytes": 2298756,
+   "identity": "todd sent 2026-09-04::paul-chambers-quartet-bass-on-top-blue-note-1569",
+   "maker": "Paul Chambers Quartet",
+   "title": "Bass On Top",
+   "subtitle": "Designed by Harold Feinstein, photograph by Francis Wolff · Blue Note 1569",
+   "year": "1957",
+   "label": "Blue Note",
+   "catalogue": "1569",
+   "notes": [
+    "A bassist at the left, eyes closed, against a repeated grid of the same hand on the fingerboard printed in warm ochre.",
+    "The repeat turns a photograph into a pattern, and the type sits in the one panel of the grid left empty."
+   ],
+   "verified_against": "Identified from the artwork, which names the record and carries the catalogue number Blue Note 1569, and verified by eye against that number; checked against Discogs release 2575964. It credits the cover design to Harold Feinstein; the cover photograph to Francis Wolff. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at.",
+   "source_record": "folder 2026-09-04a, sent by Todd; filenames follow dgmono.com catalogue numbering",
+   "designers": [
+    "Harold Feinstein"
+   ],
+   "discogs_release": 2575964,
+   "source_page": "https://www.discogs.com/release/2575964",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/Blue-Note-1569.png",
+   "source_px": [
+    1100,
+    1100
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Harold Feinstein"
+    },
+    {
+     "k": "photographer",
+     "v": "Francis Wolff"
+    },
+    {
+     "k": "artist",
+     "v": "Paul Chambers Quartet"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which names the record and carries the catalogue number Blue Note 1569, and verified by eye against that number; checked against Discogs release 2575964. It credits the cover design to Harold Feinstein; the cover photograph to Francis Wolff. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at.",
+   "hue": 37.28,
+   "light": 0.2516,
+   "chroma": 0.4856
+  },
+  "todd sent 2026-09-04::donald-byrd-off-to-the-races-blue-note-4007": {
+   "id": "CRVI001265",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001265.jpg",
+   "original_px": [
+    1181,
+    1181
+   ],
+   "original_bytes": 862576,
+   "identity": "todd sent 2026-09-04::donald-byrd-off-to-the-races-blue-note-4007",
+   "maker": "Donald Byrd",
+   "title": "Off To The Races",
+   "subtitle": "Designed by Reid Miles, photograph by Francis Wolff · Blue Note 4007",
+   "year": "1959",
+   "label": "Blue Note",
+   "catalogue": "4007",
+   "notes": [
+    "A man leaning on the bonnet of a Mercedes, the three-pointed star and headlamp filling the bottom of the frame at his scale.",
+    "The type is confined to a band across the top, orange and white, with the catalogue number set as its own line."
+   ],
+   "verified_against": "Identified from the artwork, which names the record and carries the catalogue number Blue Note 4007, and verified by eye against that number; checked against Discogs release 21740209. It credits the cover design to Reid Miles; the cover photograph to Francis Wolff. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at.",
+   "source_record": "folder 2026-09-04a, sent by Todd; filenames follow dgmono.com catalogue numbering",
+   "designers": [
+    "Reid Miles"
+   ],
+   "discogs_release": 21740209,
+   "source_page": "https://www.discogs.com/release/21740209",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/Blue-Note-4007-b.jpg",
+   "source_px": [
+    1181,
+    1181
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "photographer",
+     "v": "Francis Wolff"
+    },
+    {
+     "k": "artist",
+     "v": "Donald Byrd"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which names the record and carries the catalogue number Blue Note 4007, and verified by eye against that number; checked against Discogs release 21740209. It credits the cover design to Reid Miles; the cover photograph to Francis Wolff. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at.",
+   "hue": 25.33,
+   "light": 0.5859,
+   "chroma": 0.4837
+  },
+  "todd sent 2026-09-04::the-horace-silver-quintet-finger-poppin-blue-note-4008": {
+   "id": "CRVI001266",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001266.jpg",
+   "original_px": [
+    1200,
+    1200
+   ],
+   "original_bytes": 592758,
+   "identity": "todd sent 2026-09-04::the-horace-silver-quintet-finger-poppin-blue-note-4008",
+   "maker": "The Horace Silver Quintet",
+   "title": "Finger Poppin'",
+   "subtitle": "Designed by Reid Miles, photograph by Francis Wolff · Blue Note 4008",
+   "year": "1959",
+   "label": "Blue Note",
+   "catalogue": "4008",
+   "notes": [
+    "A man leaning out of a car window laughing, arm raised, shot from the roadside with bare winter trees behind.",
+    "A heavy black band across the top carries the title in orange and white, the two colours splitting the sentence in half."
+   ],
+   "verified_against": "Identified from the artwork, which names the record and carries the catalogue number Blue Note 4008, and verified by eye against that number; checked against Discogs release 12174250. It credits the cover design to Reid Miles; the cover photograph to Francis Wolff. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at.",
+   "source_record": "folder 2026-09-04a, sent by Todd; filenames follow dgmono.com catalogue numbering",
+   "designers": [
+    "Reid Miles"
+   ],
+   "discogs_release": 12174250,
+   "source_page": "https://www.discogs.com/release/12174250",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/Blue-Note-4008.jpg",
+   "source_px": [
+    1200,
+    1200
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "photographer",
+     "v": "Francis Wolff"
+    },
+    {
+     "k": "artist",
+     "v": "The Horace Silver Quintet"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which names the record and carries the catalogue number Blue Note 4008, and verified by eye against that number; checked against Discogs release 12174250. It credits the cover design to Reid Miles; the cover photograph to Francis Wolff. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at.",
+   "hue": null,
+   "light": 0.2357,
+   "chroma": 0.0634
+  },
+  "todd sent 2026-09-04::horace-parlan-quintet-speakin-my-piece-blue-note-4043": {
+   "id": "CRVI001267",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001267.jpg",
+   "original_px": [
+    1200,
+    1200
+   ],
+   "original_bytes": 618003,
+   "identity": "todd sent 2026-09-04::horace-parlan-quintet-speakin-my-piece-blue-note-4043",
+   "maker": "Horace Parlan Quintet",
+   "title": "Speakin' My Piece",
+   "subtitle": "Designed by Reid Miles, photograph by Francis Wolff · Blue Note 4043",
+   "year": "1960",
+   "label": "Blue Note",
+   "catalogue": "4043",
+   "notes": [
+    "Eight black rectangles of uneven height stand in a row like a bar chart, and one of them is a photograph of the pianist instead of a block.",
+    "The type is small and set at the foot in red and black, leaving the top two-thirds to the bars."
+   ],
+   "verified_against": "Identified from the artwork, which names the record and carries the catalogue number Blue Note 4043, and verified by eye against that number; checked against Discogs release 22545932. It credits the cover design to Reid Miles; the cover photograph to Francis Wolff. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at.",
+   "source_record": "folder 2026-09-04a, sent by Todd; filenames follow dgmono.com catalogue numbering",
+   "designers": [
+    "Reid Miles"
+   ],
+   "discogs_release": 22545932,
+   "source_page": "https://www.discogs.com/release/22545932",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/Blue-Note-4043-c.jpg",
+   "source_px": [
+    1200,
+    1200
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "photographer",
+     "v": "Francis Wolff"
+    },
+    {
+     "k": "artist",
+     "v": "Horace Parlan Quintet"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which names the record and carries the catalogue number Blue Note 4043, and verified by eye against that number; checked against Discogs release 22545932. It credits the cover design to Reid Miles; the cover photograph to Francis Wolff. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at.",
+   "hue": null,
+   "light": 0.6516,
+   "chroma": 0.0475
+  },
+  "todd sent 2026-09-04::ike-quebec-it-might-as-well-be-spring-blue-note-4105": {
+   "id": "CRVI001268",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001268.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 359953,
+   "identity": "todd sent 2026-09-04::ike-quebec-it-might-as-well-be-spring-blue-note-4105",
+   "maker": "Ike Quebec",
+   "title": "It Might As Well Be Spring",
+   "subtitle": "Designed by Reid Miles, photograph by Francis Wolff · Blue Note 4105",
+   "year": "1962",
+   "label": "Blue Note",
+   "catalogue": "4105",
+   "notes": [
+    "A man sitting on the grass in a park in dappled light, printed as a green duotone so foliage and figure share one colour.",
+    "The title is set in three weights of green across the middle, and the Blue Note box is dropped into the darkest part of the trees."
+   ],
+   "verified_against": "Identified from the artwork, which names the record and carries the catalogue number Blue Note 4105, and verified by eye against that number; checked against Discogs release 8420652. It credits the cover design to Reid Miles; the cover photograph to Francis Wolff. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at.",
+   "source_record": "folder 2026-09-04a, sent by Todd; filenames follow dgmono.com catalogue numbering",
+   "designers": [
+    "Reid Miles"
+   ],
+   "discogs_release": 8420652,
+   "source_page": "https://www.discogs.com/release/8420652",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/Blue-Note-4105.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "photographer",
+     "v": "Francis Wolff"
+    },
+    {
+     "k": "artist",
+     "v": "Ike Quebec"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which names the record and carries the catalogue number Blue Note 4105, and verified by eye against that number; checked against Discogs release 8420652. It credits the cover design to Reid Miles; the cover photograph to Francis Wolff. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at.",
+   "hue": 114.38,
+   "light": 0.2515,
+   "chroma": 0.5256
+  },
+  "todd sent 2026-09-04::grachan-moncur-iii-evolution-blue-note-4153": {
+   "id": "CRVI001269",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001269.jpg",
+   "original_px": [
+    1100,
+    1100
+   ],
+   "original_bytes": 306590,
+   "identity": "todd sent 2026-09-04::grachan-moncur-iii-evolution-blue-note-4153",
+   "maker": "Grachan Moncur III",
+   "title": "Evolution",
+   "subtitle": "Designed by Reid Miles, photograph by Francis Wolff · Blue Note 4153",
+   "year": "1964",
+   "label": "Blue Note",
+   "catalogue": "4153",
+   "notes": [
+    "A field of magenta halftone dots, coarsened until the dots are shapes in their own right, with one small photograph set into the top right.",
+    "The billing runs in black caps across the top; the dot field takes everything below it."
+   ],
+   "verified_against": "Identified from the artwork, which names the record and carries the catalogue number Blue Note 4153, and verified by eye against that number; checked against Discogs release 2665007. It credits the cover design to Reid Miles; the cover photograph to Francis Wolff. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at.",
+   "source_record": "folder 2026-09-04a, sent by Todd; filenames follow dgmono.com catalogue numbering",
+   "designers": [
+    "Reid Miles"
+   ],
+   "discogs_release": 2665007,
+   "source_page": "https://www.discogs.com/release/2665007",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/Blue-Note-4153.jpg",
+   "source_px": [
+    1100,
+    1100
+   ],
+   "colors": [
+    "red",
+    "pink"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "photographer",
+     "v": "Francis Wolff"
+    },
+    {
+     "k": "artist",
+     "v": "Grachan Moncur III"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which names the record and carries the catalogue number Blue Note 4153, and verified by eye against that number; checked against Discogs release 2665007. It credits the cover design to Reid Miles; the cover photograph to Francis Wolff. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at.",
+   "hue": 346.14,
+   "light": 0.3674,
+   "chroma": 0.9608
+  },
+  "todd sent 2026-09-04::grachan-moncur-iii-some-other-stuff-blue-note-4177": {
+   "id": "CRVI001270",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001270.jpg",
+   "original_px": [
+    1300,
+    1300
+   ],
+   "original_bytes": 302542,
+   "identity": "todd sent 2026-09-04::grachan-moncur-iii-some-other-stuff-blue-note-4177",
+   "maker": "Grachan Moncur III",
+   "title": "Some Other Stuff",
+   "subtitle": "Designed by Reid Miles · Blue Note 4177",
+   "year": "1965",
+   "label": "Blue Note",
+   "catalogue": "4177",
+   "notes": [
+    "A figure walking, photographed at a shutter speed slow enough to smear him into a vertical blur against a pale ground.",
+    "The type is set hard right in blue and black, the only sharp thing on the sleeve."
+   ],
+   "verified_against": "Identified from the artwork, which names the record and carries the catalogue number Blue Note 4177, and verified by eye against that number; checked against Discogs release 24719378. It credits the cover design to Reid Miles; the cover photograph to Reid Miles. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at.",
+   "source_record": "folder 2026-09-04a, sent by Todd; filenames follow dgmono.com catalogue numbering",
+   "designers": [
+    "Reid Miles"
+   ],
+   "discogs_release": 24719378,
+   "source_page": "https://www.discogs.com/release/24719378",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/Blue-Note-4177.jpg",
+   "source_px": [
+    1300,
+    1300
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "photographer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "artist",
+     "v": "Grachan Moncur III"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which names the record and carries the catalogue number Blue Note 4177, and verified by eye against that number; checked against Discogs release 24719378. It credits the cover design to Reid Miles; the cover photograph to Reid Miles. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at.",
+   "hue": 44.54,
+   "light": 0.6577,
+   "chroma": 0.3655
+  },
+  "todd sent 2026-09-04::art-blakey-the-jazz-messengers-indestructible-blue-note-4193": {
+   "id": "CRVI001271",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001271.jpg",
+   "original_px": [
+    1100,
+    1100
+   ],
+   "original_bytes": 1361515,
+   "identity": "todd sent 2026-09-04::art-blakey-the-jazz-messengers-indestructible-blue-note-4193",
+   "maker": "Art Blakey & The Jazz Messengers",
+   "title": "Indestructible",
+   "subtitle": "Designed by Reid Miles, photograph by Francis Wolff · Blue Note 4193",
+   "year": "1966",
+   "label": "Blue Note",
+   "catalogue": "4193",
+   "notes": [
+    "A face in extreme close-up, screened into coarse red and black halftone so it reads as pattern before it reads as a portrait.",
+    "INDESTRUCTIBLE is hand-lettered across the top in a bulging outline face that follows the curve of the head beneath it."
+   ],
+   "verified_against": "Identified from the artwork, which names the record and carries the catalogue number Blue Note 4193, and verified by eye against that number; checked against Discogs release 2585935. It credits the cover design to Reid Miles; the cover photograph to Francis Wolff. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at.",
+   "source_record": "folder 2026-09-04a, sent by Todd; filenames follow dgmono.com catalogue numbering",
+   "designers": [
+    "Reid Miles"
+   ],
+   "discogs_release": 2585935,
+   "source_page": "https://www.discogs.com/release/2585935",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/Blue-Note-4193-b.jpg",
+   "source_px": [
+    1100,
+    1100
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "photographer",
+     "v": "Francis Wolff"
+    },
+    {
+     "k": "artist",
+     "v": "Art Blakey & The Jazz Messengers"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which names the record and carries the catalogue number Blue Note 4193, and verified by eye against that number; checked against Discogs release 2585935. It credits the cover design to Reid Miles; the cover photograph to Francis Wolff. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at.",
+   "hue": 5.34,
+   "light": 0.3167,
+   "chroma": 0.8214
+  },
+  "todd sent 2026-09-04::jimmy-smith-softly-as-a-summer-breeze-blue-note-4200": {
+   "id": "CRVI001272",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001272.jpg",
+   "original_px": [
+    2835,
+    2831
+   ],
+   "original_bytes": 4275400,
+   "identity": "todd sent 2026-09-04::jimmy-smith-softly-as-a-summer-breeze-blue-note-4200",
+   "maker": "Jimmy Smith",
+   "title": "Softly As A Summer Breeze",
+   "subtitle": "Designed by Reid Miles, photograph by Jean-Pierre Leloir · Blue Note 4200",
+   "year": "1965",
+   "label": "Blue Note",
+   "catalogue": "4200",
+   "notes": [
+    "A man smiling under a blue garden umbrella, shot in colour in flat daylight with a shopfront out of focus behind him.",
+    "The type sits in the pale strip of sky at the top, the title in italic lower case and the name in heavy caps."
+   ],
+   "verified_against": "Identified from the artwork, which names the record and carries the catalogue number Blue Note 4200, and verified by eye against that number; checked against Discogs release 28096870. It credits the cover design to Reid Miles; the cover photograph to Jean-Pierre Leloir. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at. ⚠️ FILE UPGRADED. The copy Todd sent was 720 px; this is the Cover Art Archive's 2835 × 2831 scan of the same sleeve, verified as real detail rather than a resize and confirmed by eye.",
+   "source_record": "folder 2026-09-04a, sent by Todd; filenames follow dgmono.com catalogue numbering",
+   "designers": [
+    "Reid Miles"
+   ],
+   "discogs_release": 28096870,
+   "source_page": "https://www.discogs.com/release/28096870",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/rest/BIG_13.jpg",
+   "source_px": [
+    2835,
+    2831
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "photographer",
+     "v": "Jean-Pierre Leloir"
+    },
+    {
+     "k": "artist",
+     "v": "Jimmy Smith"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which names the record and carries the catalogue number Blue Note 4200, and verified by eye against that number; checked against Discogs release 28096870. It credits the cover design to Reid Miles; the cover photograph to Jean-Pierre Leloir. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at. ⚠️ FILE UPGRADED. The copy Todd sent was 720 px; this is the Cover Art Archive's 2835 × 2831 scan of the same sleeve, verified as real detail rather than a resize and confirmed by eye.",
+   "hue": 16.49,
+   "light": 0.4353,
+   "chroma": 0.3022
+  },
+  "todd sent 2026-09-04::thelonious-monk-genius-of-modern-music-volume-1-blue-note-5002": {
+   "id": "CRVI001273",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001273.jpg",
+   "original_px": [
+    1300,
+    1300
+   ],
+   "original_bytes": 600426,
+   "identity": "todd sent 2026-09-04::thelonious-monk-genius-of-modern-music-volume-1-blue-note-5002",
+   "maker": "Thelonious Monk",
+   "title": "Genius Of Modern Music, Volume 1",
+   "subtitle": "Designed by Paul Bacon, photograph by Francis Wolff · Blue Note 5002",
+   "year": "1951",
+   "label": "Blue Note",
+   "catalogue": "5002",
+   "notes": [
+    "A red and black field with a photographic negative of spectacles at the left and a small positive photograph of the pianist at the right.",
+    "The track list is set small and lower case down the left, and the whole thing is signed Bacon in the bottom corner."
+   ],
+   "verified_against": "Identified from the artwork, which names the record and carries the catalogue number Blue Note 5002, and verified by eye against that number; checked against Discogs release 24590129. It credits the cover design to Paul Bacon; the cover photograph to Francis Wolff. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at. The sleeve is signed Bacon in the lower right. Discogs lists the Francis Wolff photograph as uncredited on the record itself.",
+   "source_record": "folder 2026-09-04a, sent by Todd; filenames follow dgmono.com catalogue numbering",
+   "designers": [
+    "Paul Bacon"
+   ],
+   "discogs_release": 24590129,
+   "source_page": "https://www.discogs.com/release/24590129",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/Blue-Note-5002.jpg",
+   "source_px": [
+    1300,
+    1300
+   ],
+   "colors": [
+    "red",
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Paul Bacon"
+    },
+    {
+     "k": "photographer",
+     "v": "Francis Wolff"
+    },
+    {
+     "k": "artist",
+     "v": "Thelonious Monk"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which names the record and carries the catalogue number Blue Note 5002, and verified by eye against that number; checked against Discogs release 24590129. It credits the cover design to Paul Bacon; the cover photograph to Francis Wolff. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at. The sleeve is signed Bacon in the lower right. Discogs lists the Francis Wolff photograph as uncredited on the record itself.",
+   "hue": 344.9,
+   "light": 0.163,
+   "chroma": 0.1604
+  },
+  "todd sent 2026-09-04::fats-navarro-memorial-album-blue-note-5004": {
+   "id": "CRVI001274",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001274.png",
+   "original_px": [
+    1000,
+    1000
+   ],
+   "original_bytes": 553631,
+   "identity": "todd sent 2026-09-04::fats-navarro-memorial-album-blue-note-5004",
+   "maker": "Fats Navarro",
+   "title": "Memorial Album",
+   "subtitle": "Designed by Paul Bacon · Blue Note 5004",
+   "year": "1953",
+   "label": "Blue Note",
+   "catalogue": "5004",
+   "notes": [
+    "A trumpet drawn as a single white outline on flat ochre, filling the left half of the sleeve.",
+    "A small photograph sits in the right half and the title is set in italic lower case beneath it; signed Bacon at the foot."
+   ],
+   "verified_against": "Identified from the artwork, which names the record and carries the catalogue number Blue Note 5004, and verified by eye against that number; checked against Discogs release 20685361. It credits the cover design to Paul Bacon. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at. The sleeve is signed Bacon at the foot of the drawn trumpet.",
+   "source_record": "folder 2026-09-04a, sent by Todd; filenames follow dgmono.com catalogue numbering",
+   "designers": [
+    "Paul Bacon"
+   ],
+   "discogs_release": 20685361,
+   "source_page": "https://www.discogs.com/release/20685361",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/Blue-Note-5004.png",
+   "source_px": [
+    1000,
+    1000
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Paul Bacon"
+    },
+    {
+     "k": "artist",
+     "v": "Fats Navarro"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which names the record and carries the catalogue number Blue Note 5004, and verified by eye against that number; checked against Discogs release 20685361. It credits the cover design to Paul Bacon. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at. The sleeve is signed Bacon at the foot of the drawn trumpet.",
+   "hue": 34.99,
+   "light": 0.3613,
+   "chroma": 0.6833
+  },
+  "todd sent 2026-09-04::howard-mcghee-howard-mcghee-blue-note-5012": {
+   "id": "CRVI001275",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001275.jpg",
+   "original_px": [
+    1100,
+    1100
+   ],
+   "original_bytes": 355274,
+   "identity": "todd sent 2026-09-04::howard-mcghee-howard-mcghee-blue-note-5012",
+   "maker": "Howard McGhee",
+   "title": "Howard McGhee",
+   "subtitle": "Designed by Paul Bacon · Blue Note 5012",
+   "year": "1952",
+   "label": "Blue Note",
+   "catalogue": "5012",
+   "notes": [
+    "A large black circle and a curved orange field, with a photograph of the trumpeter cut into the lower left corner.",
+    "The name is hand-lettered in white script across the black, and the sleeve is signed Paul Bacon at the right."
+   ],
+   "verified_against": "Identified from the artwork, which names the record and carries the catalogue number Blue Note 5012, and verified by eye against that number; checked against Discogs release 7698357. It credits the cover design to Paul Bacon. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at. ⚠️ Discogs carries NO credit for this sleeve. The attribution is read off the object: it is signed Paul Bacon at the right-hand edge. A signature on the artwork is a better source than a database that is silent.",
+   "source_record": "folder 2026-09-04a, sent by Todd; filenames follow dgmono.com catalogue numbering",
+   "designers": [
+    "Paul Bacon"
+   ],
+   "discogs_release": 7698357,
+   "source_page": "https://www.discogs.com/release/7698357",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/Blue-Note-5012.jpg",
+   "source_px": [
+    1100,
+    1100
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Paul Bacon"
+    },
+    {
+     "k": "artist",
+     "v": "Howard McGhee"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which names the record and carries the catalogue number Blue Note 5012, and verified by eye against that number; checked against Discogs release 7698357. It credits the cover design to Paul Bacon. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at. ⚠️ Discogs carries NO credit for this sleeve. The attribution is read off the object: it is signed Paul Bacon at the right-hand edge. A signature on the artwork is a better source than a database that is silent.",
+   "hue": 22.45,
+   "light": 0.4216,
+   "chroma": 0.5982
+  },
+  "todd sent 2026-09-04::gil-mell-quintet-new-faces-new-sounds-blue-note-5020": {
+   "id": "CRVI001276",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001276.jpg",
+   "original_px": [
+    2000,
+    2000
+   ],
+   "original_bytes": 1262536,
+   "identity": "todd sent 2026-09-04::gil-mell-quintet-new-faces-new-sounds-blue-note-5020",
+   "maker": "Gil Mellé Quintet",
+   "title": "New Faces – New Sounds",
+   "subtitle": "Designed by Gil Mellé · Blue Note 5020",
+   "year": "1953",
+   "label": "Blue Note",
+   "catalogue": "5020",
+   "notes": [
+    "A drawn composition of atoms, arrows and orbital diagrams over sheet music, with a cut-out photograph of the saxophonist at the right.",
+    "A large numeral 4 sits at the centre and the track titles run down the left with small triangular bullets."
+   ],
+   "verified_against": "Identified from the artwork, which names the record and carries the catalogue number Blue Note 5020, and verified by eye against that number; checked against Discogs release 22686296. It credits the cover design to Gil Mellé. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at. Mellé designed his own sleeves for Blue Note as well as playing on them.",
+   "source_record": "folder 2026-09-04a, sent by Todd; filenames follow dgmono.com catalogue numbering",
+   "designers": [
+    "Gil Mellé"
+   ],
+   "discogs_release": 22686296,
+   "source_page": "https://www.discogs.com/release/22686296",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/Blue-Note-5020.jpg",
+   "source_px": [
+    2000,
+    2000
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Gil Mellé"
+    },
+    {
+     "k": "artist",
+     "v": "Gil Mellé Quintet"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which names the record and carries the catalogue number Blue Note 5020, and verified by eye against that number; checked against Discogs release 22686296. It credits the cover design to Gil Mellé. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at. Mellé designed his own sleeves for Blue Note as well as playing on them.",
+   "hue": 24.99,
+   "light": 0.4172,
+   "chroma": 0.5831
+  },
+  "todd sent 2026-09-04::george-wallington-and-his-band-george-wallington-showcase-blue-note-5045": {
+   "id": "CRVI001277",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001277.jpg",
+   "original_px": [
+    1100,
+    1100
+   ],
+   "original_bytes": 786864,
+   "identity": "todd sent 2026-09-04::george-wallington-and-his-band-george-wallington-showcase-blue-note-5045",
+   "maker": "George Wallington And His Band",
+   "title": "George Wallington Showcase",
+   "subtitle": "Designed by John Hermansader, photograph by Francis Wolff · Blue Note 5045",
+   "year": "1954",
+   "label": "Blue Note",
+   "catalogue": "5045",
+   "notes": [
+    "A photograph of the pianist smoking at the right, with a large white lens-shaped form drawn across the centre in fine line.",
+    "The type is set in script and caps in the upper left; the sleeve is signed Hermansader and Wolff at the foot."
+   ],
+   "verified_against": "Identified from the artwork, which names the record and carries the catalogue number Blue Note 5045, and verified by eye against that number; checked against Discogs release 7397614. It credits the cover design to John Hermansader; the cover photograph to Francis Wolff. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at. The sleeve is signed Hermansader | Wolff at the foot, which confirms the Discogs credit from the object itself.",
+   "source_record": "folder 2026-09-04a, sent by Todd; filenames follow dgmono.com catalogue numbering",
+   "designers": [
+    "John Hermansader"
+   ],
+   "discogs_release": 7397614,
+   "source_page": "https://www.discogs.com/release/7397614",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/Blue-Note-5045-b.jpg",
+   "source_px": [
+    1100,
+    1100
+   ],
+   "colors": [
+    "cyan",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "John Hermansader"
+    },
+    {
+     "k": "photographer",
+     "v": "Francis Wolff"
+    },
+    {
+     "k": "artist",
+     "v": "George Wallington And His Band"
+    },
+    {
+     "k": "label",
+     "v": "Blue Note"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which names the record and carries the catalogue number Blue Note 5045, and verified by eye against that number; checked against Discogs release 7397614. It credits the cover design to John Hermansader; the cover photograph to Francis Wolff. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at. The sleeve is signed Hermansader | Wolff at the foot, which confirms the Discogs credit from the object itself.",
+   "hue": 184.85,
+   "light": 0.471,
+   "chroma": 0.5231
+  },
+  "todd sent 2026-09-04::the-lawrence-marable-quartet-featuring-james-clay-tenorman-jazz-west-jwlp-8": {
+   "id": "CRVI001278",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001278.png",
+   "original_px": [
+    1100,
+    1100
+   ],
+   "original_bytes": 2004283,
+   "identity": "todd sent 2026-09-04::the-lawrence-marable-quartet-featuring-james-clay-tenorman-jazz-west-jwlp-8",
+   "maker": "The Lawrence Marable Quartet featuring James Clay",
+   "title": "Tenorman",
+   "subtitle": "Designer unrecorded · Jazz West JWLP-8",
+   "year": "1956",
+   "label": "Jazz West",
+   "catalogue": "JWLP-8",
+   "notes": [
+    "A tenor player in profile at the left, close and sharp, with a second musician thrown out of focus behind him.",
+    "The upper strip is white and carries the whole billing, with TENORMAN in heavy black caps at reading size."
+   ],
+   "verified_against": "Identified from the artwork, which names the record and carries the catalogue number Jazz West JWLP-8, and verified by eye against that number. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at. ⚠️ Identified entirely from the sleeve — the file carried no catalogue number and the record is obscure enough that no credits were traced. Designer and photographer both unrecorded.",
+   "source_record": "folder 2026-09-04a, sent by Todd; filenames follow dgmono.com catalogue numbering",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/Jazz-West-Tenorman-e.png",
+   "source_px": [
+    1100,
+    1100
+   ],
+   "colors": [
+    "pink"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "artist",
+     "v": "The Lawrence Marable Quartet featuring James Clay"
+    },
+    {
+     "k": "label",
+     "v": "Jazz West"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which names the record and carries the catalogue number Jazz West JWLP-8, and verified by eye against that number. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at. ⚠️ Identified entirely from the sleeve — the file carried no catalogue number and the record is obscure enough that no credits were traced. Designer and photographer both unrecorded.",
+   "hue": null,
+   "light": 0.4793,
+   "chroma": 0.069
+  },
+  "todd sent 2026-09-04::stan-getz-long-island-sound-new-jazz-8214": {
+   "id": "CRVI001279",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001279.jpg",
+   "original_px": [
+    591,
+    591
+   ],
+   "original_bytes": 152368,
+   "identity": "todd sent 2026-09-04::stan-getz-long-island-sound-new-jazz-8214",
+   "maker": "Stan Getz",
+   "title": "Long Island Sound",
+   "subtitle": "Designer unrecorded · New Jazz 8214",
+   "year": "1959",
+   "label": "New Jazz",
+   "catalogue": "8214",
+   "notes": [
+    "Two moored boats on flat water at dusk, printed as a violet duotone with the reflections running to the bottom edge.",
+    "One line of type across the top does everything: name, title, label and number, set in two weights on a single baseline."
+   ],
+   "verified_against": "Identified from the artwork, which names the record and carries the catalogue number New Jazz 8214, and verified by eye against that number; checked against Discogs release 6489775. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at. ⚠️ No design credit on Discogs. Also the smallest file in this batch at 591 px: nothing larger exists on the Cover Art Archive, which holds it at only 441 px.",
+   "source_record": "folder 2026-09-04a, sent by Todd; filenames follow dgmono.com catalogue numbering",
+   "discogs_release": 6489775,
+   "source_page": "https://www.discogs.com/release/6489775",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/New-Jazz-8214.jpg",
+   "source_px": [
+    591,
+    591
+   ],
+   "colors": [
+    "purple",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "artist",
+     "v": "Stan Getz"
+    },
+    {
+     "k": "label",
+     "v": "New Jazz"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which names the record and carries the catalogue number New Jazz 8214, and verified by eye against that number; checked against Discogs release 6489775. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at. ⚠️ No design credit on Discogs. Also the smallest file in this batch at 591 px: nothing larger exists on the Cover Art Archive, which holds it at only 441 px.",
+   "hue": 255.86,
+   "light": 0.6545,
+   "chroma": 0.808
+  },
+  "todd sent 2026-09-04::teddy-charles-idrees-sulieman-john-jenkins-mal-waldron-coolin-new-jazz-8216": {
+   "id": "CRVI001280",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001280.png",
+   "original_px": [
+    1100,
+    1100
+   ],
+   "original_bytes": 2707865,
+   "identity": "todd sent 2026-09-04::teddy-charles-idrees-sulieman-john-jenkins-mal-waldron-coolin-new-jazz-8216",
+   "maker": "Teddy Charles, Idrees Sulieman, John Jenkins, Mal Waldron",
+   "title": "Coolin'",
+   "subtitle": "Designed by Esmond Edwards · New Jazz 8216",
+   "year": "1959",
+   "label": "New Jazz",
+   "catalogue": "8216",
+   "notes": [
+    "A crowded beach and shallow water photographed from above, printed cyan so the bathers read as scattered marks.",
+    "Four lines of heavy caps fill the top quarter, the names alternating cyan and white."
+   ],
+   "verified_against": "Identified from the artwork, which names the record and carries the catalogue number New Jazz 8216, and verified by eye against that number; checked against Discogs release 5875871. It credits the cover design to Esmond Edwards. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at.",
+   "source_record": "folder 2026-09-04a, sent by Todd; filenames follow dgmono.com catalogue numbering",
+   "designers": [
+    "Esmond Edwards"
+   ],
+   "discogs_release": 5875871,
+   "source_page": "https://www.discogs.com/release/5875871",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/New-Jazz-8216.png",
+   "source_px": [
+    1100,
+    1100
+   ],
+   "colors": [
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Esmond Edwards"
+    },
+    {
+     "k": "artist",
+     "v": "Teddy Charles, Idrees Sulieman, John Jenkins, Mal Waldron"
+    },
+    {
+     "k": "label",
+     "v": "New Jazz"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which names the record and carries the catalogue number New Jazz 8216, and verified by eye against that number; checked against Discogs release 5875871. It credits the cover design to Esmond Edwards. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at.",
+   "hue": 183.9,
+   "light": 0.4148,
+   "chroma": 0.5889
+  },
+  "todd sent 2026-09-04::tommy-flanagan-john-coltrane-kenny-burrell-idrees-sulieman-the-cats-new-jazz-8217": {
+   "id": "CRVI001281",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001281.png",
+   "original_px": [
+    1100,
+    1100
+   ],
+   "original_bytes": 2971472,
+   "identity": "todd sent 2026-09-04::tommy-flanagan-john-coltrane-kenny-burrell-idrees-sulieman-the-cats-new-jazz-8217",
+   "maker": "Tommy Flanagan, John Coltrane, Kenny Burrell, Idrees Sulieman",
+   "title": "The Cats",
+   "subtitle": "Designer unrecorded · New Jazz 8217",
+   "year": "1959",
+   "label": "New Jazz",
+   "catalogue": "8217",
+   "notes": [
+    "Two cats asleep against each other, printed as a magenta duotone and cropped so they fill the left two-thirds.",
+    "A black vertical panel at the right carries the billing, one name per line, in magenta and white."
+   ],
+   "verified_against": "Identified from the artwork, which names the record and carries the catalogue number New Jazz 8217, and verified by eye against that number; checked against Discogs release 4729417. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at. ⚠️ No design credit found on Discogs, so none is claimed.",
+   "source_record": "folder 2026-09-04a, sent by Todd; filenames follow dgmono.com catalogue numbering",
+   "discogs_release": 4729417,
+   "source_page": "https://www.discogs.com/release/4729417",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/New-Jazz-8217.png",
+   "source_px": [
+    1100,
+    1100
+   ],
+   "colors": [
+    "pink"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "artist",
+     "v": "Tommy Flanagan, John Coltrane, Kenny Burrell, Idrees Sulieman"
+    },
+    {
+     "k": "label",
+     "v": "New Jazz"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which names the record and carries the catalogue number New Jazz 8217, and verified by eye against that number; checked against Discogs release 4729417. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at. ⚠️ No design credit found on Discogs, so none is claimed.",
+   "hue": 338.22,
+   "light": 0.2659,
+   "chroma": 0.7608
+  },
+  "todd sent 2026-09-04::gigi-gryce-quintet-saying-somethin-new-jazz-8230": {
+   "id": "CRVI001282",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001282.jpg",
+   "original_px": [
+    600,
+    600
+   ],
+   "original_bytes": 181568,
+   "identity": "todd sent 2026-09-04::gigi-gryce-quintet-saying-somethin-new-jazz-8230",
+   "maker": "Gigi Gryce Quintet",
+   "title": "Saying Somethin'!",
+   "subtitle": "Designed by Esmond Edwards · New Jazz 8230",
+   "year": "1962",
+   "label": "New Jazz",
+   "catalogue": "8230",
+   "notes": [
+    "A portrait in a hat and glasses, three-quarter, printed as a violet duotone with the background dissolving behind him.",
+    "The title is set in white lower case at the top and the name in outlined caps at the left, running down the edge of the face."
+   ],
+   "verified_against": "Identified from the artwork, which names the record and carries the catalogue number New Jazz 8230, and verified by eye against that number; checked against Discogs release 35324632. It credits the cover design to Esmond Edwards. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at. ⚠️ Held at 600 px. iTunes serves this record at 3000 px but with only about 500 px of real detail — an upscale, and worse than what is held here. Rejected on measurement.",
+   "source_record": "folder 2026-09-04a, sent by Todd; filenames follow dgmono.com catalogue numbering",
+   "designers": [
+    "Esmond Edwards"
+   ],
+   "discogs_release": 35324632,
+   "source_page": "https://www.discogs.com/release/35324632",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/New-Jazz-8230.jpg",
+   "source_px": [
+    600,
+    600
+   ],
+   "colors": [
+    "purple",
+    "pink"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Esmond Edwards"
+    },
+    {
+     "k": "artist",
+     "v": "Gigi Gryce Quintet"
+    },
+    {
+     "k": "label",
+     "v": "New Jazz"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which names the record and carries the catalogue number New Jazz 8230, and verified by eye against that number; checked against Discogs release 35324632. It credits the cover design to Esmond Edwards. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at. ⚠️ Held at 600 px. iTunes serves this record at 3000 px but with only about 500 px of real detail — an upscale, and worse than what is held here. Rejected on measurement.",
+   "hue": 269.03,
+   "light": 0.3897,
+   "chroma": 0.5978
+  },
+  "todd sent 2026-09-04::the-modern-jazz-quartet-concorde-prestige-7005": {
+   "id": "CRVI001283",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001283.jpg",
+   "original_px": [
+    1100,
+    1100
+   ],
+   "original_bytes": 677134,
+   "identity": "todd sent 2026-09-04::the-modern-jazz-quartet-concorde-prestige-7005",
+   "maker": "The Modern Jazz Quartet",
+   "title": "Concorde",
+   "subtitle": "Designed by Reid Miles · Prestige 7005",
+   "year": "1955",
+   "label": "Prestige",
+   "catalogue": "7005",
+   "notes": [
+    "The whole square is set type: the words concorde, prestige 7005 and the modern jazz quartet repeated line after line in a typewriter face.",
+    "Three of the lines are printed red and the rest black, so the repetition breaks into a rhythm rather than a block."
+   ],
+   "verified_against": "Identified from the artwork, which names the record and carries the catalogue number Prestige 7005, and verified by eye against that number; checked against Discogs release 4652885. It credits the cover design to Reid Miles. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at.",
+   "source_record": "folder 2026-09-04a, sent by Todd; filenames follow dgmono.com catalogue numbering",
+   "designers": [
+    "Reid Miles"
+   ],
+   "discogs_release": 4652885,
+   "source_page": "https://www.discogs.com/release/4652885",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/Prestige-7005.jpg",
+   "source_px": [
+    1100,
+    1100
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "artist",
+     "v": "The Modern Jazz Quartet"
+    },
+    {
+     "k": "label",
+     "v": "Prestige"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which names the record and carries the catalogue number Prestige 7005, and verified by eye against that number; checked against Discogs release 4652885. It credits the cover design to Reid Miles. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at.",
+   "hue": 5.16,
+   "light": 0.795,
+   "chroma": 0.175
+  },
+  "todd sent 2026-09-04::the-phil-woods-quartet-woodlore-prestige-7018": {
+   "id": "CRVI001284",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001284.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 1367938,
+   "identity": "todd sent 2026-09-04::the-phil-woods-quartet-woodlore-prestige-7018",
+   "maker": "The Phil Woods Quartet",
+   "title": "Woodlore",
+   "subtitle": "Photograph by Bob Weinstock · Prestige 7018",
+   "year": "1956",
+   "label": "Prestige",
+   "catalogue": "7018",
+   "notes": [
+    "A saxophonist in profile lit from one side against black, the horn catching the only bright edge.",
+    "Woodlore is set in a yellow script across the upper left, and the group's name runs vertically up the right margin."
+   ],
+   "verified_against": "Identified from the artwork, which names the record and carries the catalogue number Prestige 7018, and verified by eye against that number; checked against Discogs release 3165158. It credits the cover photograph to Bob Weinstock. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at. Discogs credits the cover photograph to Bob Weinstock, who ran the label, and names no designer.",
+   "source_record": "folder 2026-09-04a, sent by Todd; filenames follow dgmono.com catalogue numbering",
+   "discogs_release": 3165158,
+   "source_page": "https://www.discogs.com/release/3165158",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/Prestige-7018.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "photographer",
+     "v": "Bob Weinstock"
+    },
+    {
+     "k": "artist",
+     "v": "The Phil Woods Quartet"
+    },
+    {
+     "k": "label",
+     "v": "Prestige"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which names the record and carries the catalogue number Prestige 7018, and verified by eye against that number; checked against Discogs release 3165158. It credits the cover photograph to Bob Weinstock. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at. Discogs credits the cover photograph to Bob Weinstock, who ran the label, and names no designer.",
+   "hue": null,
+   "light": 0.0986,
+   "chroma": 0.034
+  },
+  "todd sent 2026-09-04::the-gil-mell-quartet-mell-plays-primitive-modern-prestige-7040": {
+   "id": "CRVI001285",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001285.jpg",
+   "original_px": [
+    590,
+    590
+   ],
+   "original_bytes": 231516,
+   "identity": "todd sent 2026-09-04::the-gil-mell-quartet-mell-plays-primitive-modern-prestige-7040",
+   "maker": "The Gil Mellé Quartet",
+   "title": "Mellé Plays Primitive Modern",
+   "subtitle": "Designer unrecorded · Prestige 7040",
+   "year": "1956",
+   "label": "Prestige",
+   "catalogue": "7040",
+   "notes": [
+    "Scaffolding photographed from below in silhouette against a flat red-orange ground, the poles crossing into an irregular grid.",
+    "MELLE PLAYS is set in outlined caps across the top and PRIMITIVE MODERN in solid black beneath it."
+   ],
+   "verified_against": "Identified from the artwork, which names the record and carries the catalogue number Prestige 7040, and verified by eye against that number; checked against Discogs release 4860446. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at. ⚠️ Held at 590 px on Todd's instruction. A larger file exists but it is a DIFFERENT STATE of the sleeve — the Original Jazz Classics reissue, brighter, badged, and carrying an extra line of type this pressing does not have — and it holds only about 750 px of real detail. Todd: 'Keep my Melle.'",
+   "source_record": "folder 2026-09-04a, sent by Todd; filenames follow dgmono.com catalogue numbering",
+   "discogs_release": 4860446,
+   "source_page": "https://www.discogs.com/release/4860446",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/Prestige-7040.jpg",
+   "source_px": [
+    590,
+    590
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "artist",
+     "v": "The Gil Mellé Quartet"
+    },
+    {
+     "k": "label",
+     "v": "Prestige"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which names the record and carries the catalogue number Prestige 7040, and verified by eye against that number; checked against Discogs release 4860446. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at. ⚠️ Held at 590 px on Todd's instruction. A larger file exists but it is a DIFFERENT STATE of the sleeve — the Original Jazz Classics reissue, brighter, badged, and carrying an extra line of type this pressing does not have — and it holds only about 750 px of real detail. Todd: 'Keep my Melle.'",
+   "hue": 11.35,
+   "light": 0.4153,
+   "chroma": 0.6082
+  },
+  "todd sent 2026-09-04::elmo-hope-sextet-informal-jazz-prestige-7043": {
+   "id": "CRVI001286",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001286.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 440667,
+   "identity": "todd sent 2026-09-04::elmo-hope-sextet-informal-jazz-prestige-7043",
+   "maker": "Elmo Hope Sextet",
+   "title": "Informal Jazz",
+   "subtitle": "Designed by Tom Hannan, photograph by Bob Weinstock · Prestige 7043",
+   "year": "1956",
+   "label": "Prestige",
+   "catalogue": "7043",
+   "notes": [
+    "A river bank and trees printed as a yellow-green duotone, the water taking up the lower half.",
+    "A white band across the foot carries INFORMAL JAZZ in heavy caps with the personnel stacked beneath it."
+   ],
+   "verified_against": "Identified from the artwork, which names the record and carries the catalogue number Prestige 7043, and verified by eye against that number; checked against Discogs release 13976259. It credits the cover design to Tom Hannan; the cover photograph to Bob Weinstock. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at. ⚠️ DISCOGS HAS THE WRONG TITLE. Searching PRLP 7043 returns 'Two Tenors' credited to Hank Mobley and John Coltrane — that is the LATER REISSUE title. The sleeve in front of us reads INFORMAL JAZZ / ELMO HOPE SEXTET, with Donald Byrd, Hank Mobley, John Coltrane, Paul Chambers and 'Philly' Joe Jones. The object is recorded, not the reissue. The credit is read off the sleeve, which is signed WEINSTOCK · HANNAN at the left edge; Discogs' entry for the reissue instead names Reid Miles, and that disagreement is left standing rather than resolved.",
+   "source_record": "folder 2026-09-04a, sent by Todd; filenames follow dgmono.com catalogue numbering",
+   "designers": [
+    "Tom Hannan"
+   ],
+   "discogs_release": 13976259,
+   "source_page": "https://www.discogs.com/release/13976259",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/Prestige-7043.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Tom Hannan"
+    },
+    {
+     "k": "photographer",
+     "v": "Bob Weinstock"
+    },
+    {
+     "k": "artist",
+     "v": "Elmo Hope Sextet"
+    },
+    {
+     "k": "label",
+     "v": "Prestige"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which names the record and carries the catalogue number Prestige 7043, and verified by eye against that number; checked against Discogs release 13976259. It credits the cover design to Tom Hannan; the cover photograph to Bob Weinstock. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at. ⚠️ DISCOGS HAS THE WRONG TITLE. Searching PRLP 7043 returns 'Two Tenors' credited to Hank Mobley and John Coltrane — that is the LATER REISSUE title. The sleeve in front of us reads INFORMAL JAZZ / ELMO HOPE SEXTET, with Donald Byrd, Hank Mobley, John Coltrane, Paul Chambers and 'Philly' Joe Jones. The object is recorded, not the reissue. The credit is read off the sleeve, which is signed WEINSTOCK · HANNAN at the left edge; Discogs' entry for the reissue instead names Reid Miles, and that disagreement is left standing rather than resolved.",
+   "hue": 55.87,
+   "light": 0.507,
+   "chroma": 0.4614
+  },
+  "todd sent 2026-09-04::hank-mobley-mobley-s-message-prestige-7061": {
+   "id": "CRVI001287",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001287.jpg",
+   "original_px": [
+    1567,
+    1567
+   ],
+   "original_bytes": 1953031,
+   "identity": "todd sent 2026-09-04::hank-mobley-mobley-s-message-prestige-7061",
+   "maker": "Hank Mobley",
+   "title": "Mobley's Message",
+   "subtitle": "Designer unrecorded · Prestige 7061",
+   "year": "1957",
+   "label": "Prestige",
+   "catalogue": "7061",
+   "notes": [
+    "Electricity pylons and their cables photographed against a pale sky, drawn out into a shallow diagonal across the sleeve.",
+    "White discs are scattered over the lower half like insulators, and MOBLEYS MESSAGE is set in green and black caps."
+   ],
+   "verified_against": "Identified from the artwork, which names the record and carries the catalogue number Prestige 7061, and verified by eye against that number; checked against Discogs release 4140648. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at. ⚠️ No design credit found on Discogs, so none is claimed.",
+   "source_record": "folder 2026-09-04a, sent by Todd; filenames follow dgmono.com catalogue numbering",
+   "discogs_release": 4140648,
+   "source_page": "https://www.discogs.com/release/4140648",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/Prestige-7061.jpg",
+   "source_px": [
+    1567,
+    1567
+   ],
+   "colors": [
+    "green",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "artist",
+     "v": "Hank Mobley"
+    },
+    {
+     "k": "label",
+     "v": "Prestige"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which names the record and carries the catalogue number Prestige 7061, and verified by eye against that number; checked against Discogs release 4140648. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at. ⚠️ No design credit found on Discogs, so none is claimed.",
+   "hue": 142.45,
+   "light": 0.543,
+   "chroma": 0.3187
+  },
+  "todd sent 2026-09-04::tadd-dameron-with-john-coltrane-mating-call-prestige-7070": {
+   "id": "CRVI001288",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001288.jpg",
+   "original_px": [
+    1060,
+    1060
+   ],
+   "original_bytes": 562188,
+   "identity": "todd sent 2026-09-04::tadd-dameron-with-john-coltrane-mating-call-prestige-7070",
+   "maker": "Tadd Dameron with John Coltrane",
+   "title": "Mating Call",
+   "subtitle": "Designed by Esmond Edwards, Tom Hannan · Prestige 7070",
+   "year": "1957",
+   "label": "Prestige",
+   "catalogue": "7070",
+   "notes": [
+    "Sandpipers on wet sand photographed from above, printed as an ochre duotone, the birds scattered across the whole field.",
+    "The title is set in the white band at the foot with two letters — the D and the C — picked out in yellow."
+   ],
+   "verified_against": "Identified from the artwork, which names the record and carries the catalogue number Prestige 7070, and verified by eye against that number; checked against Discogs release 2922014. It credits the cover design to Esmond Edwards and Tom Hannan. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at. Discogs gives both names under one 'cover' credit without separating who did what.",
+   "source_record": "folder 2026-09-04a, sent by Todd; filenames follow dgmono.com catalogue numbering",
+   "designers": [
+    "Esmond Edwards",
+    "Tom Hannan"
+   ],
+   "discogs_release": 2922014,
+   "source_page": "https://www.discogs.com/release/2922014",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/Prestige-7070.jpg",
+   "source_px": [
+    1060,
+    1060
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Esmond Edwards"
+    },
+    {
+     "k": "designer",
+     "v": "Tom Hannan"
+    },
+    {
+     "k": "artist",
+     "v": "Tadd Dameron with John Coltrane"
+    },
+    {
+     "k": "label",
+     "v": "Prestige"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which names the record and carries the catalogue number Prestige 7070, and verified by eye against that number; checked against Discogs release 2922014. It credits the cover design to Esmond Edwards and Tom Hannan. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at. Discogs gives both names under one 'cover' credit without separating who did what.",
+   "hue": 44.85,
+   "light": 0.599,
+   "chroma": 0.5296
+  },
+  "todd sent 2026-09-04::the-prestige-all-stars-all-day-long-prestige-7081": {
+   "id": "CRVI001289",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001289.png",
+   "original_px": [
+    1100,
+    1100
+   ],
+   "original_bytes": 3180006,
+   "identity": "todd sent 2026-09-04::the-prestige-all-stars-all-day-long-prestige-7081",
+   "maker": "The Prestige All Stars",
+   "title": "All Day Long",
+   "subtitle": "Designer unrecorded · Prestige 7081",
+   "year": "1957",
+   "label": "Prestige",
+   "catalogue": "7081",
+   "notes": [
+    "A suspension bridge photographed across water at dusk, boxed as a white-bordered plate in the middle of a black sleeve.",
+    "The billing is set in a single line of small caps under the plate with ALL DAY LONG in orange beside it."
+   ],
+   "verified_against": "Identified from the artwork, which names the record and carries the catalogue number Prestige 7081, and verified by eye against that number; checked against Discogs release 6672711. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at. ⚠️ No design credit found on Discogs, so none is claimed.",
+   "source_record": "folder 2026-09-04a, sent by Todd; filenames follow dgmono.com catalogue numbering",
+   "discogs_release": 6672711,
+   "source_page": "https://www.discogs.com/release/6672711",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/Prestige-7081.png",
+   "source_px": [
+    1100,
+    1100
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "artist",
+     "v": "The Prestige All Stars"
+    },
+    {
+     "k": "label",
+     "v": "Prestige"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which names the record and carries the catalogue number Prestige 7081, and verified by eye against that number; checked against Discogs release 6672711. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at. ⚠️ No design credit found on Discogs, so none is claimed.",
+   "hue": null,
+   "light": 0.3165,
+   "chroma": 0.0195
+  },
+  "todd sent 2026-09-04::webster-young-for-lady-prestige-7106": {
+   "id": "CRVI001290",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001290.jpeg",
+   "original_px": [
+    2177,
+    2177
+   ],
+   "original_bytes": 2058828,
+   "identity": "todd sent 2026-09-04::webster-young-for-lady-prestige-7106",
+   "maker": "Webster Young",
+   "title": "For Lady",
+   "subtitle": "Designed by Reid Miles, photograph by Esmond Edwards · Prestige 7106",
+   "year": "1957",
+   "label": "Prestige",
+   "catalogue": "7106",
+   "notes": [
+    "A woman in a striped dress walking away down an empty concrete plaza, holding a closed umbrella, seen from behind and small in the frame.",
+    "All the type is in the top left, set in lower case with the title in blue, leaving the emptiness of the plaza untouched."
+   ],
+   "verified_against": "Identified from the artwork, which names the record and carries the catalogue number Prestige 7106, and verified by eye against that number; checked against Discogs release 6176567. It credits the cover design to Reid Miles; the cover photograph to Esmond Edwards. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at.",
+   "source_record": "folder 2026-09-04a, sent by Todd; filenames follow dgmono.com catalogue numbering",
+   "designers": [
+    "Reid Miles"
+   ],
+   "discogs_release": 6176567,
+   "source_page": "https://www.discogs.com/release/6176567",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/Prestige-7106.jpeg",
+   "source_px": [
+    2177,
+    2177
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "photographer",
+     "v": "Esmond Edwards"
+    },
+    {
+     "k": "artist",
+     "v": "Webster Young"
+    },
+    {
+     "k": "label",
+     "v": "Prestige"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which names the record and carries the catalogue number Prestige 7106, and verified by eye against that number; checked against Discogs release 6176567. It credits the cover design to Reid Miles; the cover photograph to Esmond Edwards. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at.",
+   "hue": null,
+   "light": 0.6257,
+   "chroma": 0.045
+  },
+  "todd sent 2026-09-04::phil-woods-gene-quill-sahib-shihab-hal-stein-four-altos-prestige-7116": {
+   "id": "CRVI001291",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001291.png",
+   "original_px": [
+    1182,
+    1182
+   ],
+   "original_bytes": 810600,
+   "identity": "todd sent 2026-09-04::phil-woods-gene-quill-sahib-shihab-hal-stein-four-altos-prestige-7116",
+   "maker": "Phil Woods, Gene Quill, Sahib Shihab, Hal Stein",
+   "title": "Four Altos",
+   "subtitle": "Designed by Reid Miles · Prestige 7116",
+   "year": "1958",
+   "label": "Prestige",
+   "catalogue": "7116",
+   "notes": [
+    "Four birds sitting on telephone wires at the top right, and the wires themselves — five fine ruled lines — sweeping down across an otherwise empty cream field.",
+    "The type sits at the bottom in blue and black, so the whole middle of the sleeve is nothing but lines and space."
+   ],
+   "verified_against": "Identified from the artwork, which names the record and carries the catalogue number Prestige 7116, and verified by eye against that number; checked against Discogs release 5508595. It credits the cover design to Reid Miles. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at.",
+   "source_record": "folder 2026-09-04a, sent by Todd; filenames follow dgmono.com catalogue numbering",
+   "designers": [
+    "Reid Miles"
+   ],
+   "discogs_release": 5508595,
+   "source_page": "https://www.discogs.com/release/5508595",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/Prestige-7116.png",
+   "source_px": [
+    1182,
+    1182
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Reid Miles"
+    },
+    {
+     "k": "artist",
+     "v": "Phil Woods, Gene Quill, Sahib Shihab, Hal Stein"
+    },
+    {
+     "k": "label",
+     "v": "Prestige"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which names the record and carries the catalogue number Prestige 7116, and verified by eye against that number; checked against Discogs release 5508595. It credits the cover design to Reid Miles. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at.",
+   "hue": 43.09,
+   "light": 0.857,
+   "chroma": 0.8304
+  },
+  "todd sent 2026-09-04::herbie-mann-bobby-jaspar-flute-flight-prestige-7124": {
+   "id": "CRVI001292",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001292.png",
+   "original_px": [
+    599,
+    599
+   ],
+   "original_bytes": 346787,
+   "identity": "todd sent 2026-09-04::herbie-mann-bobby-jaspar-flute-flight-prestige-7124",
+   "maker": "Herbie Mann, Bobby Jaspar",
+   "title": "Flute Flight",
+   "subtitle": "Designed by Marc Rice, photograph by Esmond Edwards · Prestige 7124",
+   "year": "1957",
+   "label": "Prestige",
+   "catalogue": "7124",
+   "notes": [
+    "Gulls in flight photographed against black, printed as white shapes so the birds read as brush marks.",
+    "A single line of red caps runs along the foot carrying the title, catalogue number and both names."
+   ],
+   "verified_against": "Identified from the artwork, which names the record and carries the catalogue number Prestige 7124, and verified by eye against that number; checked against Discogs release 5512017. It credits the cover design to Marc Rice; the cover photograph to Esmond Edwards. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at. ⚠️ Held at 599 px. The hunt for something larger returned a 1500 px file that turned out to be Herbie Mann's AFRICAN FLUTE — a different record entirely, matched only because both titles contain the word Flute. The genuine Flute Flight on iTunes is a 3000 px wrapper around roughly 500 px of real detail. Nothing better exists; the near-miss is recorded so nobody repeats it.",
+   "source_record": "folder 2026-09-04a, sent by Todd; filenames follow dgmono.com catalogue numbering",
+   "designers": [
+    "Marc Rice"
+   ],
+   "discogs_release": 5512017,
+   "source_page": "https://www.discogs.com/release/5512017",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/Prestige-7124.png",
+   "source_px": [
+    599,
+    599
+   ],
+   "colors": [
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Marc Rice"
+    },
+    {
+     "k": "photographer",
+     "v": "Esmond Edwards"
+    },
+    {
+     "k": "artist",
+     "v": "Herbie Mann, Bobby Jaspar"
+    },
+    {
+     "k": "label",
+     "v": "Prestige"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which names the record and carries the catalogue number Prestige 7124, and verified by eye against that number; checked against Discogs release 5512017. It credits the cover design to Marc Rice; the cover photograph to Esmond Edwards. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at. ⚠️ Held at 599 px. The hunt for something larger returned a 1500 px file that turned out to be Herbie Mann's AFRICAN FLUTE — a different record entirely, matched only because both titles contain the word Flute. The genuine Flute Flight on iTunes is a 3000 px wrapper around roughly 500 px of real detail. Nothing better exists; the near-miss is recorded so nobody repeats it.",
+   "hue": null,
+   "light": 0.086,
+   "chroma": 0.0364
+  },
+  "todd sent 2026-09-04::the-red-garland-quintet-all-mornin-long-prestige-7130": {
+   "id": "CRVI001293",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001293.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 880473,
+   "identity": "todd sent 2026-09-04::the-red-garland-quintet-all-mornin-long-prestige-7130",
+   "maker": "The Red Garland Quintet",
+   "title": "All Mornin' Long",
+   "subtitle": "Designed by Esmond Edwards · Prestige 7130",
+   "year": "1958",
+   "label": "Prestige",
+   "catalogue": "7130",
+   "notes": [
+    "A city river under snow, bridges receding into haze, printed warm grey on cream.",
+    "The billing sits above the photograph in red and black caps, tight and even, with no rule between type and picture."
+   ],
+   "verified_against": "Identified from the artwork, which names the record and carries the catalogue number Prestige 7130, and verified by eye against that number; checked against Discogs release 14738999. It credits the cover design to Esmond Edwards; the cover photograph to Esmond Edwards. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at.",
+   "source_record": "folder 2026-09-04a, sent by Todd; filenames follow dgmono.com catalogue numbering",
+   "designers": [
+    "Esmond Edwards"
+   ],
+   "discogs_release": 14738999,
+   "source_page": "https://www.discogs.com/release/14738999",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/Prestige-7130.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Esmond Edwards"
+    },
+    {
+     "k": "photographer",
+     "v": "Esmond Edwards"
+    },
+    {
+     "k": "artist",
+     "v": "The Red Garland Quintet"
+    },
+    {
+     "k": "label",
+     "v": "Prestige"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which names the record and carries the catalogue number Prestige 7130, and verified by eye against that number; checked against Discogs release 14738999. It credits the cover design to Esmond Edwards; the cover photograph to Esmond Edwards. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at.",
+   "hue": 47.18,
+   "light": 0.6993,
+   "chroma": 0.5485
+  },
+  "todd sent 2026-09-04::gene-ammons-all-stars-the-big-sound-prestige-7132": {
+   "id": "CRVI001294",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001294.jpg",
+   "original_px": [
+    1401,
+    1420
+   ],
+   "original_bytes": 1042990,
+   "identity": "todd sent 2026-09-04::gene-ammons-all-stars-the-big-sound-prestige-7132",
+   "maker": "Gene Ammons' All Stars",
+   "title": "The Big Sound",
+   "subtitle": "Designer unrecorded · Prestige 7132",
+   "year": "1958",
+   "label": "Prestige",
+   "catalogue": "7132",
+   "notes": [
+    "A flat orange field with THE BIG and SOUND set in enormous black caps at the top and bottom, and the personnel in the gap between them.",
+    "Nothing else is on the sleeve — the size of the two words is the whole design."
+   ],
+   "verified_against": "Identified from the artwork, which names the record and carries the catalogue number Prestige 7132, and verified by eye against that number; checked against Discogs release 2884852. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at. ⚠️ FILE UPGRADED on Todd's instruction ('Add new Ammons'). The copy he sent was 580 px; this is 1401 × 1420 from iTunes. ⚠️ THE TRADE IS VISIBLE: this pressing carries an Original Jazz Classics badge printed into the lower right of the artwork, which the smaller file does not. Bigger, and not quite the sleeve as first designed. No design credit is claimed — Discogs has none.",
+   "source_record": "folder 2026-09-04a, sent by Todd; filenames follow dgmono.com catalogue numbering",
+   "discogs_release": 2884852,
+   "source_page": "https://www.discogs.com/release/2884852",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/rest/BIG_37.jpg",
+   "source_px": [
+    1401,
+    1420
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "artist",
+     "v": "Gene Ammons' All Stars"
+    },
+    {
+     "k": "label",
+     "v": "Prestige"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which names the record and carries the catalogue number Prestige 7132, and verified by eye against that number; checked against Discogs release 2884852. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at. ⚠️ FILE UPGRADED on Todd's instruction ('Add new Ammons'). The copy he sent was 580 px; this is 1401 × 1420 from iTunes. ⚠️ THE TRADE IS VISIBLE: this pressing carries an Original Jazz Classics badge printed into the lower right of the artwork, which the smaller file does not. Bigger, and not quite the sleeve as first designed. No design credit is claimed — Discogs has none.",
+   "hue": 15.49,
+   "light": 0.4207,
+   "chroma": 0.7958
+  },
+  "todd sent 2026-09-04::tommy-flanagan-trio-overseas-prestige-7134": {
+   "id": "CRVI001295",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001295.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 1158228,
+   "identity": "todd sent 2026-09-04::tommy-flanagan-trio-overseas-prestige-7134",
+   "maker": "Tommy Flanagan Trio",
+   "title": "Overseas",
+   "subtitle": "Designed by Esmond Edwards · Prestige 7134",
+   "year": "1958",
+   "label": "Prestige",
+   "catalogue": "7134",
+   "notes": [
+    "A green field filled with rows of the letter C, repeated at a size that turns them into texture.",
+    "TOMMY FLANAGAN OVER is set in white at the top, so the C's complete the title as OVERSEAS by sheer accumulation."
+   ],
+   "verified_against": "Identified from the artwork, which names the record and carries the catalogue number Prestige 7134, and verified by eye against that number; checked against Discogs release 4526028. It credits the cover design to Esmond Edwards. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at.",
+   "source_record": "folder 2026-09-04a, sent by Todd; filenames follow dgmono.com catalogue numbering",
+   "designers": [
+    "Esmond Edwards"
+   ],
+   "discogs_release": 4526028,
+   "source_page": "https://www.discogs.com/release/4526028",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/Prestige-7134.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Esmond Edwards"
+    },
+    {
+     "k": "artist",
+     "v": "Tommy Flanagan Trio"
+    },
+    {
+     "k": "label",
+     "v": "Prestige"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which names the record and carries the catalogue number Prestige 7134, and verified by eye against that number; checked against Discogs release 4526028. It credits the cover design to Esmond Edwards. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at.",
+   "hue": 144.65,
+   "light": 0.2357,
+   "chroma": 0.9398
+  },
+  "todd sent 2026-09-04::red-garland-all-kinds-of-weather-prestige-7148": {
+   "id": "CRVI001296",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001296.png",
+   "original_px": [
+    1100,
+    1100
+   ],
+   "original_bytes": 2450495,
+   "identity": "todd sent 2026-09-04::red-garland-all-kinds-of-weather-prestige-7148",
+   "maker": "Red Garland",
+   "title": "All Kinds Of Weather",
+   "subtitle": "Designer unrecorded · Prestige 7148",
+   "year": "1959",
+   "label": "Prestige",
+   "catalogue": "7148",
+   "notes": [
+    "A photograph of a weather board with printed columns — Cloudy, Clear, Rain — enlarged until the lettering is coarse and grainy.",
+    "The title and name are set over it in teal and white, using the board's own type as the picture."
+   ],
+   "verified_against": "Identified from the artwork, which names the record and carries the catalogue number Prestige 7148, and verified by eye against that number; checked against Discogs release 3328193. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at. ⚠️ No design credit found on Discogs, so none is claimed.",
+   "source_record": "folder 2026-09-04a, sent by Todd; filenames follow dgmono.com catalogue numbering",
+   "discogs_release": 3328193,
+   "source_page": "https://www.discogs.com/release/3328193",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/Prestige-7148.png",
+   "source_px": [
+    1100,
+    1100
+   ],
+   "colors": [
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "artist",
+     "v": "Red Garland"
+    },
+    {
+     "k": "label",
+     "v": "Prestige"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which names the record and carries the catalogue number Prestige 7148, and verified by eye against that number; checked against Discogs release 3328193. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at. ⚠️ No design credit found on Discogs, so none is claimed.",
+   "hue": 168.73,
+   "light": 0.4739,
+   "chroma": 0.5967
+  },
+  "todd sent 2026-09-04::unique-jazz-from-the-westchester-workshop-unique-jazz-unique-lp-103": {
+   "id": "CRVI001297",
+   "minted": "2026-09-04",
+   "original_file": "originals/CRVI001297.jpg",
+   "original_px": [
+    1497,
+    1497
+   ],
+   "original_bytes": 1282371,
+   "identity": "todd sent 2026-09-04::unique-jazz-from-the-westchester-workshop-unique-jazz-unique-lp-103",
+   "maker": "Unique Jazz from the Westchester Workshop",
+   "title": "Unique Jazz",
+   "subtitle": "Designer unrecorded · Unique LP-103",
+   "year": "1957",
+   "label": "Unique",
+   "catalogue": "LP-103",
+   "notes": [
+    "A stage photograph of two horn players lit from the side, printed high-contrast so the background falls away.",
+    "JAZZ is set in enormous outlined caps down the left, filled with red dots, with UNIQUE small above it."
+   ],
+   "verified_against": "Identified from the artwork, which names the record and carries the catalogue number Unique LP-103, and verified by eye against that number. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at. ⚠️ Identified from the sleeve alone; no catalogue lookup was possible and no credits were traced.",
+   "source_record": "folder 2026-09-04a, sent by Todd; filenames follow dgmono.com catalogue numbering",
+   "source_image": "/Users/todd/Desktop/2026-09-04a/Unique-Jazz.jpg",
+   "source_px": [
+    1497,
+    1497
+   ],
+   "colors": [
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "artist",
+     "v": "Unique Jazz from the Westchester Workshop"
+    },
+    {
+     "k": "label",
+     "v": "Unique"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the artwork, which names the record and carries the catalogue number Unique LP-103, and verified by eye against that number. From the folder Todd sent on 2026-09-04, whose files are named by catalogue number in the convention of dgmono.com, the mono-collection database he pointed at. ⚠️ Identified from the sleeve alone; no catalogue lookup was possible and no credits were traced.",
+   "hue": null,
+   "light": 0.2435,
+   "chroma": 0.0488
   }
  }
 }
