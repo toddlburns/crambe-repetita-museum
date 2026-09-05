@@ -47,9 +47,17 @@ def hue_key(path):
     hist = [0.0] * NB
     chroma = 0.0
     light_sum = 0.0
+    # ⚠️ `chroma` below counts pixels that carry ANY tint, and that is not what the eye sees.
+    # A pale wash is chromatic in every pixel and still reads as white: the Chocolate Watch Band
+    # sleeve scored 0.885 there while looking cream. `punch` fixes that by weighting saturation
+    # DOWN as a pixel approaches white or black, so only colour that actually reads counts.
+    # Todd, 2026-09-05: "you're overrating the color sometimes, when actually the true color of
+    # note on something is actually just white."
+    punch_sum = 0.0
     for r, g, b in px:
         h, l, s = colorsys.rgb_to_hls(r / 255, g / 255, b / 255)
         light_sum += l
+        punch_sum += s * (1.0 - abs(2.0 * l - 1.0))
         if l < 0.10 or l > 0.94:      # near-black / near-white carry no usable hue
             continue
         if s < 0.18:                   # too grey to have a hue
@@ -60,8 +68,10 @@ def hue_key(path):
     n = max(1, len(px))
     frac = chroma / n
     light = light_sum / n
+    punch = punch_sum / n
     if frac < 0.10 or max(hist) <= 0:
-        return {"hue": None, "light": round(light, 4), "chroma": round(frac, 4)}
+        return {"hue": None, "light": round(light, 4), "chroma": round(frac, 4),
+                "punch": round(punch, 4)}
     peak = max(range(NB), key=lambda i: hist[i])
     # refine across the peak and its two neighbours, on the circle
     num = den = 0.0
@@ -70,7 +80,8 @@ def hue_key(path):
         ang = math.radians((i * 10 + 5))
         num += hist[i] * math.sin(ang); den += hist[i] * math.cos(ang)
     ang = math.degrees(math.atan2(num, den)) % 360
-    return {"hue": round(ang, 2), "light": round(light, 4), "chroma": round(frac, 4)}
+    return {"hue": round(ang, 2), "light": round(light, 4), "chroma": round(frac, 4),
+            "punch": round(punch, 4)}
 
 
 def main(write=False):
@@ -94,6 +105,7 @@ def main(write=False):
         if not k:
             continue
         it["hue"], it["light"], it["chroma"] = k["hue"], k["light"], k["chroma"]
+        it["punch"] = k["punch"]
         done += 1
     if write:
         json.dump(reg, open(REG, "w"), ensure_ascii=False, indent=1)
@@ -103,7 +115,7 @@ def main(write=False):
         by = {v["id"]: v for v in reg["items"].values()}
         for x in d["items"]:
             s = by.get(x["id"]) or {}
-            x["hue"], x["light"] = s.get("hue"), s.get("light")
+            x["hue"], x["light"], x["punch"] = s.get("hue"), s.get("light"), s.get("punch")
         json.dump(d, open(pj, "w"), ensure_ascii=False, indent=1)
     chrom = [i for i in items if i.get("hue") is not None]
     print(f"{done} items measured · {len(chrom)} have a dominant hue · "

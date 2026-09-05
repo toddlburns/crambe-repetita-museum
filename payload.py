@@ -49,6 +49,12 @@ def build(reg):
                           ("art dir", "art director"), ("type", "typographer")):
                 for n in (i.get("credits") or {}).get(t, []):
                     tags.append({"k": kk, "v": n})
+        # ⚠️ USE `extra_tags`, NEVER `tags`, TO ADD A FACET TO A DERIVED ITEM. The block above only
+        # derives designer/artist/label/decade/type when `tags` is EMPTY, so giving an IDM-book item
+        # a `tags` list containing one new tag silently deletes every derived tag it had. This field
+        # is appended in both shapes and is where cross-cutting facets belong (subject: jazz, 2026-09-04).
+        for t in i.get("extra_tags") or []:
+            tags.append(t)
         for c in i.get("colors", []):
             tags.append({"k": "color", "v": c})
         seen, uniq = set(), []
@@ -100,6 +106,7 @@ def build(reg):
                     # today's additions in the middle of the archive. The mint date is the only
                     # honest answer to "what is new".
                     "minted": i.get("minted", ""),
+                    "punch": i.get("punch"),
                     "source_url": src_url,
                     "animated": animated,
                     "video": video,

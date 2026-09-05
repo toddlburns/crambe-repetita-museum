@@ -561,14 +561,26 @@ is misidentified, please get in touch: it will be fixed and the correction noted
     # rather than being scattered through the colors.
     COLOUR_SORT_MIN = 30
 
+    # ⚠️ HUE ALONE IS NOT ENOUGH, AND `chroma` IS THE WRONG GATE. Sorting by (hue, light) files a
+    # solid orange, a black sleeve and a cream one side by side whenever they share a hue peak:
+    # Galactic Melt, Hot Corner and Please Mr. Postman all sit at hue 5.0. And `chroma` counts any
+    # pixel carrying a tint, so a pale wash scores 0.885 while reading as white. `punch` — mean
+    # saturation weighted DOWN toward white and black, from crvi_hue.py — is what the eye grades on.
+    # Todd chose the arrangement on 2026-09-04: whites first, then the colour wheel, then to black,
+    # one continuous ramp, at the looser 0.20 bar so the coloured run stays long (about a third of
+    # the archive rather than an eighth).
+    PUNCH_BAR = 0.20
+    PALE = 0.62          # a neutral above this leads the ramp; below it, it trails
     def color_order(idxs):
         def key(i):
             it = items[i]
             h = it.get("hue")
             lt = it.get("light") if it.get("light") is not None else 0.5
-            if h is None:
-                return (1, 0.0, lt)
-            return (0, h, lt)
+            p = it.get("punch")
+            if h is None or p is None or p < PUNCH_BAR:
+                # -lt so each neutral band runs light to dark
+                return (0, -lt, 0.0) if lt >= PALE else (2, -lt, 0.0)
+            return (1, h, lt)
         return sorted(idxs, key=key)
 
     for (k, v), idxs in by_tag.items():
