@@ -1,0 +1,72 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>subject: sculpture — Crambe Repetita Museum</title><script>try{if(localStorage.getItem('crvi_auth')==='1')document.documentElement.className+=' crvi-ok';}catch(e){}</script><link rel="stylesheet" href="../../../style.css"><style>
+html:not(.crvi-ok){overflow:hidden}
+html.crvi-ok #crvi-gate{display:none}
+#crvi-gate{position:fixed;inset:0;z-index:2147483647;background:var(--paper);
+ display:flex;align-items:center;justify-content:center}
+#crvi-gate form{display:flex;align-items:center;gap:6px}
+#crvi-gate input{font:12px/1 var(--mono);letter-spacing:.06em;width:150px;padding:7px 8px;
+ color:var(--ink);background:var(--paper);border:1px solid var(--rule);border-radius:0;outline:none}
+#crvi-gate input:focus{border-color:var(--ink)}
+#crvi-gate input::placeholder{color:var(--mute);letter-spacing:.06em}
+#crvi-gate button{font:12px/1 var(--sans);padding:7px 12px;color:var(--ink);background:var(--paper);
+ border:1px solid var(--rule);border-radius:0;cursor:pointer}
+#crvi-gate button:hover{border-color:var(--ink)}
+#crvi-gate.bad input,#crvi-gate.bad input::placeholder{border-color:var(--ink);color:var(--ink)}
+</style></head><body><div id="crvi-gate"><form id="crvi-form" autocomplete="off"><input type="password" id="crvi-pw" placeholder="password" autocomplete="off" spellcheck="false" autofocus><button type="submit">enter</button></form></div><div class="crumb"><span class="t">SUBJECT: SCULPTURE</span><span class="c">4 items</span><a href="../../../tags/">&#8592; all tags</a></div><div class="grid"><a class="cell" href="../../../CRVI001384/"><div class="inner"><img src="../../../thumbs/CRVI001384.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI001384</span>Whitney Museum of American Art - Annual Exhibition 1966: Contemporary Sculpture and Prints<br>Designer unrecorded · Exhibition catalogue · Dec 16, 1966 – Feb 5, 1967 · 1966</div></a><a class="cell" href="../../../CRVI001385/"><div class="inner"><img src="../../../thumbs/CRVI001385.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI001385</span>Whitney Museum of American Art - 1964 Annual Exhibition of Contemporary American Sculpture<br>Designer unrecorded · Exhibition catalogue · Dec 9, 1964 – Jan 31, 1965 · 1964</div></a><a class="cell" href="../../../CRVI001386/"><div class="inner"><img src="../../../thumbs/CRVI001386.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI001386</span>Whitney Museum of American Art - Annual Exhibition 1962: Contemporary Sculpture and Drawings<br>Designer unrecorded · Exhibition catalogue · Dec 12, 1962 – Feb 3, 1963 · 1962</div></a><a class="cell" href="../../../CRVI001387/"><div class="inner"><img src="../../../thumbs/CRVI001387.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI001387</span>Whitney Museum of American Art - Annual Exhibition 1960: Contemporary Sculpture and Drawings<br>Designer unrecorded · Exhibition catalogue · Dec 7, 1960 – Jan 22, 1961 · 1960</div></a></div><script>
+var SCALE=3;var t=null;
+// ⚠️ THE GIF IS FETCHED ON HOVER, NOT BEFORE. Setting src is what triggers the download, so a
+// grid cell ships the still poster and only swaps in the animation when the pointer arrives.
+// Pausing or hiding a GIF whose src is already set saves nothing — it is on the wire either way.
+// The poster is kept in data-poster so leaving restores it without a second fetch of anything.
+function playGif(c){
+  var im=c.querySelector('img.anim');
+  if(!im) return;
+  var g=im.getAttribute('data-gif');
+  if(!g||im.dataset.playing) return;
+  im.dataset.poster=im.getAttribute('src');
+  im.dataset.playing='1';
+  im.setAttribute('src',g);
+}
+function stopGif(c){
+  var im=c.querySelector('img.anim');
+  if(!im||!im.dataset.playing) return;
+  // back to the still, so a page full of gifs is not left all animating at once
+  im.setAttribute('src',im.dataset.poster);
+  delete im.dataset.playing;
+}
+// ⚠️ A VIDEO CANNOT BE SWAPPED INTO AN <img>. Where a gif item just changes src, a video item
+// lays a <video> over its still on hover and takes it away again on leave — same bargain as the
+// gif: nothing is on the wire until the pointer arrives, and a grid is never left all playing.
+function playVid(c){
+  var im=c.querySelector('img.anim'); if(!im) return;
+  var u=im.getAttribute('data-video'); if(!u||c.querySelector('video')) return;
+  var v=document.createElement('video');
+  v.src=u; v.autoplay=true; v.loop=true; v.muted=true; v.playsInline=true;
+  im.parentNode.appendChild(v);
+}
+function stopVid(c){ var v=c.querySelector('video'); if(v) v.parentNode.removeChild(v); }
+document.querySelectorAll('.cell').forEach(function(c){
+  c.addEventListener('mouseenter',function(){
+    playGif(c); playVid(c);
+    clearTimeout(t);
+    t=setTimeout(function(){
+      // transform does not change layout, so push the caption below the grown image
+      var im=c.querySelector('img'),cap=c.querySelector('.cap');
+      cap.style.transform='translateY('+im.getBoundingClientRect().height*(SCALE-1)+'px)';
+      c.classList.add('big');
+    },1000);
+  });
+  c.addEventListener('mouseleave',function(){
+    stopGif(c); stopVid(c);
+    clearTimeout(t);c.classList.remove('big');c.querySelector('.cap').style.transform='';
+  });
+});
+</script><script>
+(function(){var K='crvi_auth',PW='racine456',h=document.documentElement;
+if(h.className.indexOf('crvi-ok')>-1)return;
+var g=document.getElementById('crvi-gate'),i=document.getElementById('crvi-pw');
+document.getElementById('crvi-form').addEventListener('submit',function(e){e.preventDefault();
+if(i.value===PW){try{localStorage.setItem(K,'1');}catch(e){}h.className+=' crvi-ok';}
+else{i.value='';g.classList.add('bad');i.focus();}});
+i.focus();})();
+</script></body></html>

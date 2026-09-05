@@ -1,5 +1,5 @@
 {
- "next": 1382,
+ "next": 1388,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -78549,7 +78549,8 @@
    "label": "",
    "notes": [
     "A pen-and-ink elevation of a vessel: a tall ribbed cone rising from a bulbous body slung between three splayed podded legs, drawn with ruled construction lines still showing.",
-    "A row of human figures is drawn at the base for scale, a few millimetres tall against a machine that fills the sheet — the only indication of how large the thing is meant to be."
+    "A row of human figures is drawn at the base for scale, a few millimetres tall against a machine that fills the sheet — the only indication of how large the thing is meant to be.",
+    "DELETED from the museum on 2026-09-04. The record is kept so CRVI001354 stays provably retired and is never reissued."
    ],
    "verified_against": "A page from the production bible for Alejandro Jodorowsky's unmade Dune — the bound presentation book taken to the studios in 1975. Its own title page, photographed as part of the same set, carries the credit line: MICHEL SEYDOUX PRESENTS / A FILM BY ALEXANDRO JODOROWSKY / BASED ON FRANK HERBERT'S NOVEL / DESIGN BY JEAN GIRAUD / MACHINES BY CHRISTOPHER FOSS. Todd photographed this copy in April 2021 and supplied the file on 2026-09-04; the museum holds it byte for byte. The page is numbered 40 DUNE at the head and captioned in both French and English, VAISSEAU HARKONNEN / HARKONNEN SHIP. ⚠️ THIS PLATE IS NOT SIGNED. The bible's credit line narrows the field to Jean Giraud (Mœbius) for design, Christopher Foss for machines and H.R. Giger for the Harkonnen material — but narrowing is not naming, and no hand is claimed here. Two other plates in this batch ARE signed and are attributed accordingly.",
    "source_record": "Jodorowsky's Dune production bible, photographed by Todd April 2021; folder 2026-09-04a",
@@ -78580,11 +78581,13 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "A page from the production bible for Alejandro Jodorowsky's unmade Dune — the bound presentation book taken to the studios in 1975. Its own title page, photographed as part of the same set, carries the credit line: MICHEL SEYDOUX PRESENTS / A FILM BY ALEXANDRO JODOROWSKY / BASED ON FRANK HERBERT'S NOVEL / DESIGN BY JEAN GIRAUD / MACHINES BY CHRISTOPHER FOSS. Todd photographed this copy in April 2021 and supplied the file on 2026-09-04; the museum holds it byte for byte. The page is numbered 40 DUNE at the head and captioned in both French and English, VAISSEAU HARKONNEN / HARKONNEN SHIP. ⚠️ THIS PLATE IS NOT SIGNED. The bible's credit line narrows the field to Jean Giraud (Mœbius) for design, Christopher Foss for machines and H.R. Giger for the Harkonnen material — but narrowing is not naming, and no hand is claimed here. Two other plates in this batch ARE signed and are attributed accordingly.",
    "hue": null,
    "light": 0.8159,
-   "chroma": 0.0
+   "chroma": 0.0,
+   "deleted": true,
+   "deleted_on": "2026-09-04"
   },
   "todd sent 2026-09-04 dune::dune-production-bible-harkonnen-structure": {
    "id": "CRVI001355",
@@ -78715,7 +78718,8 @@
    "label": "",
    "notes": [
     "An airbrushed three-quarter view of a low open vehicle in black, red and white, its four wheels painted as concentric bullseye targets.",
-    "Two armoured figures ride it, and the whole machine casts one soft shadow on bare paper — there is no ground, no horizon and no setting, only the object and its shadow."
+    "Two armoured figures ride it, and the whole machine casts one soft shadow on bare paper — there is no ground, no horizon and no setting, only the object and its shadow.",
+    "DELETED from the museum on 2026-09-04. The record is kept so CRVI001357 stays provably retired and is never reissued."
    ],
    "verified_against": "A page from the production bible for Alejandro Jodorowsky's unmade Dune — the bound presentation book taken to the studios in 1975. Its own title page, photographed as part of the same set, carries the credit line: MICHEL SEYDOUX PRESENTS / A FILM BY ALEXANDRO JODOROWSKY / BASED ON FRANK HERBERT'S NOVEL / DESIGN BY JEAN GIRAUD / MACHINES BY CHRISTOPHER FOSS. Todd photographed this copy in April 2021 and supplied the file on 2026-09-04; the museum holds it byte for byte. ⚠️ ATTRIBUTED FROM THE OBJECT: the plate carries Chris Foss's boxed red F monogram at the lower left, and the bible's own credit line assigns the machines to Christopher Foss. The two agree, so the attribution rests on the artwork rather than on style.",
    "source_record": "Jodorowsky's Dune production bible, photographed by Todd April 2021; folder 2026-09-04a",
@@ -78751,11 +78755,13 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "A page from the production bible for Alejandro Jodorowsky's unmade Dune — the bound presentation book taken to the studios in 1975. Its own title page, photographed as part of the same set, carries the credit line: MICHEL SEYDOUX PRESENTS / A FILM BY ALEXANDRO JODOROWSKY / BASED ON FRANK HERBERT'S NOVEL / DESIGN BY JEAN GIRAUD / MACHINES BY CHRISTOPHER FOSS. Todd photographed this copy in April 2021 and supplied the file on 2026-09-04; the museum holds it byte for byte. ⚠️ ATTRIBUTED FROM THE OBJECT: the plate carries Chris Foss's boxed red F monogram at the lower left, and the bible's own credit line assigns the machines to Christopher Foss. The two agree, so the attribution rests on the artwork rather than on style.",
    "hue": 7.65,
    "light": 0.7996,
-   "chroma": 0.1401
+   "chroma": 0.1401,
+   "deleted": true,
+   "deleted_on": "2026-09-04"
   },
   "todd picked 2026-09-05::karl-haendel-roses-inverted-and-flipped-2023": {
    "id": "CRVI001358",
@@ -79263,15 +79269,16 @@
    "identity": "todd picked 2026-09-05 dgmono::kenny-burrell-kenny-burrell-blue-note-1543",
    "maker": "Kenny Burrell",
    "title": "Kenny Burrell",
-   "subtitle": "Designer unrecorded · Blue Note 1543",
+   "subtitle": "Cover drawing by Andy Warhol · Blue Note 1543",
    "year": "1957",
    "label": "Blue Note",
    "catalogue": "1543",
    "notes": [
     "A guitarist's hands drawn in a single unbroken ink contour — the neck, the strings, the shirt cuff — with almost no shading and large areas left blank.",
-    "The billing sits in one line of small caps across the top, red and black, leaving the drawing the whole of the rest."
+    "The billing sits in one line of small caps across the top, red and black, leaving the drawing the whole of the rest.",
+    "⚠️ CREDIT CORRECTED 2026-09-05. This record went in reading 'Designer unrecorded' while its own verification text said the sheet is signed Andy Warhol — the attribution was written into the prose and never into the credit fields, so it appeared on no tag page. Todd caught it. Warhol's signature is drawn into the lower centre of the artwork and Discogs credits the cover to him."
    ],
-   "verified_against": "Identified from the artwork, which names the record and carries the catalogue number Blue Note 1543, and verified by eye. Picked by Todd from the Deep Groove Mono collection on 2026-09-05. dgmono.com's collection table is client-rendered, but the site exposes a `records` post type over the WordPress REST API and every record has a server-rendered page carrying its cover at 1500 × 1500 — which is where this file comes from. ⚠️ SIGNED ON THE ARTWORK: Andy Warhol's signature is drawn into the lower centre of the sheet. Discogs credits the cover to him as well, so object and database agree. This is the museum's second Warhol Blue Note sleeve, alongside Blue Lights.",
+   "verified_against": "Identified from the artwork, which names the record and carries the catalogue number Blue Note 1543, and verified by eye. Picked by Todd from the Deep Groove Mono collection on 2026-09-05. dgmono.com's collection table is client-rendered, but the site exposes a `records` post type over the WordPress REST API and every record has a server-rendered page carrying its cover at 1500 × 1500 — which is where this file comes from. ⚠️ SIGNED ON THE ARTWORK: Andy Warhol's signature is drawn into the lower centre of the sheet. Discogs credits the cover to him as well, so object and database agree. This is the museum's second Warhol Blue Note sleeve, alongside Blue Lights. ⚠️ CREDIT CORRECTED 2026-09-05. This record went in reading 'Designer unrecorded' while its own verification text said the sheet is signed Andy Warhol — the attribution was written into the prose and never into the credit fields, so it appeared on no tag page. Todd caught it. Warhol's signature is drawn into the lower centre of the artwork and Discogs credits the cover to him.",
    "source_record": "Deep Groove Mono (dgmono.com), picked by Todd 2026-09-05",
    "source_url": "https://dgmono.com/wp-content/uploads/2026/07/BLP-1543-1a.jpg",
    "source_page": "https://dgmono.com/records/blue-note-1543/",
@@ -79290,6 +79297,10 @@
      "v": "album cover"
     },
     {
+     "k": "illustrator",
+     "v": "Andy Warhol"
+    },
+    {
      "k": "artist",
      "v": "Kenny Burrell"
     },
@@ -79304,10 +79315,13 @@
    ],
    "identity_established": true,
    "published": true,
-   "verification": "Identified from the artwork, which names the record and carries the catalogue number Blue Note 1543, and verified by eye. Picked by Todd from the Deep Groove Mono collection on 2026-09-05. dgmono.com's collection table is client-rendered, but the site exposes a `records` post type over the WordPress REST API and every record has a server-rendered page carrying its cover at 1500 × 1500 — which is where this file comes from. ⚠️ SIGNED ON THE ARTWORK: Andy Warhol's signature is drawn into the lower centre of the sheet. Discogs credits the cover to him as well, so object and database agree. This is the museum's second Warhol Blue Note sleeve, alongside Blue Lights.",
+   "verification": "Identified from the artwork, which names the record and carries the catalogue number Blue Note 1543, and verified by eye. Picked by Todd from the Deep Groove Mono collection on 2026-09-05. dgmono.com's collection table is client-rendered, but the site exposes a `records` post type over the WordPress REST API and every record has a server-rendered page carrying its cover at 1500 × 1500 — which is where this file comes from. ⚠️ SIGNED ON THE ARTWORK: Andy Warhol's signature is drawn into the lower centre of the sheet. Discogs credits the cover to him as well, so object and database agree. This is the museum's second Warhol Blue Note sleeve, alongside Blue Lights. ⚠️ CREDIT CORRECTED 2026-09-05. This record went in reading 'Designer unrecorded' while its own verification text said the sheet is signed Andy Warhol — the attribution was written into the prose and never into the credit fields, so it appeared on no tag page. Todd caught it. Warhol's signature is drawn into the lower centre of the artwork and Discogs credits the cover to him.",
    "hue": null,
    "light": 0.8717,
-   "chroma": 0.0272
+   "chroma": 0.0272,
+   "designers": [
+    "Andy Warhol"
+   ]
   },
   "todd picked 2026-09-05 dgmono::joe-henderson-in-n-out-blue-note-4166": {
    "id": "CRVI001367",
@@ -79636,15 +79650,16 @@
    "identity": "todd picked 2026-09-05 dgmono::eric-dolphy-out-there-new-jazz-8252",
    "maker": "Eric Dolphy",
    "title": "Out There",
-   "subtitle": "Designer unrecorded · New Jazz 8252",
+   "subtitle": "Cover painting by Richard “Prophet” Jennings · New Jazz 8252",
    "year": "1960",
    "label": "New Jazz",
    "catalogue": "8252",
    "notes": [
     "A surreal painted landscape in reds and ochres: a metronome standing on a desert plain, and above it a figure playing cello aboard a winged craft.",
-    "Small objects drift across the sky at different scales, and the horizon is set very low so most of the sleeve is empty sky."
+    "Small objects drift across the sky at different scales, and the horizon is set very low so most of the sleeve is empty sky.",
+    "⚠️ CREDIT CORRECTED 2026-09-05, same fault as CRVI001366: the signature was recorded in prose but not in the credit fields. The painting is signed Prophet at the lower right. Discogs credits the cover to 'Prophet (22)', whose artist record gives the real name as Richard Jennings — so the signature and the database resolve to one person."
    ],
-   "verified_against": "Identified from the artwork, which names the record and carries the catalogue number New Jazz 8252, and verified by eye. Picked by Todd from the Deep Groove Mono collection on 2026-09-05. dgmono.com's collection table is client-rendered, but the site exposes a `records` post type over the WordPress REST API and every record has a server-rendered page carrying its cover at 1500 × 1500 — which is where this file comes from. ⚠️ SIGNED ON THE ARTWORK: the painting carries the signature Prophet at the lower right — Richard 'Prophet' Jennings. Discogs credits the cover to Prophet, so object and database agree.",
+   "verified_against": "Identified from the artwork, which names the record and carries the catalogue number New Jazz 8252, and verified by eye. Picked by Todd from the Deep Groove Mono collection on 2026-09-05. dgmono.com's collection table is client-rendered, but the site exposes a `records` post type over the WordPress REST API and every record has a server-rendered page carrying its cover at 1500 × 1500 — which is where this file comes from. ⚠️ SIGNED ON THE ARTWORK: the painting carries the signature Prophet at the lower right — Richard 'Prophet' Jennings. Discogs credits the cover to Prophet, so object and database agree. ⚠️ CREDIT CORRECTED 2026-09-05, same fault as CRVI001366: the signature was recorded in prose but not in the credit fields. The painting is signed Prophet at the lower right. Discogs credits the cover to 'Prophet (22)', whose artist record gives the real name as Richard Jennings — so the signature and the database resolve to one person.",
    "source_record": "Deep Groove Mono (dgmono.com), picked by Todd 2026-09-05",
    "source_url": "https://dgmono.com/wp-content/uploads/2026/07/NJLP-8252-1.jpg",
    "source_page": "https://dgmono.com/records/new-jazz-8252/",
@@ -79663,6 +79678,10 @@
      "v": "album cover"
     },
     {
+     "k": "illustrator",
+     "v": "Richard “Prophet” Jennings"
+    },
+    {
      "k": "artist",
      "v": "Eric Dolphy"
     },
@@ -79677,10 +79696,13 @@
    ],
    "identity_established": true,
    "published": true,
-   "verification": "Identified from the artwork, which names the record and carries the catalogue number New Jazz 8252, and verified by eye. Picked by Todd from the Deep Groove Mono collection on 2026-09-05. dgmono.com's collection table is client-rendered, but the site exposes a `records` post type over the WordPress REST API and every record has a server-rendered page carrying its cover at 1500 × 1500 — which is where this file comes from. ⚠️ SIGNED ON THE ARTWORK: the painting carries the signature Prophet at the lower right — Richard 'Prophet' Jennings. Discogs credits the cover to Prophet, so object and database agree.",
+   "verification": "Identified from the artwork, which names the record and carries the catalogue number New Jazz 8252, and verified by eye. Picked by Todd from the Deep Groove Mono collection on 2026-09-05. dgmono.com's collection table is client-rendered, but the site exposes a `records` post type over the WordPress REST API and every record has a server-rendered page carrying its cover at 1500 × 1500 — which is where this file comes from. ⚠️ SIGNED ON THE ARTWORK: the painting carries the signature Prophet at the lower right — Richard 'Prophet' Jennings. Discogs credits the cover to Prophet, so object and database agree. ⚠️ CREDIT CORRECTED 2026-09-05, same fault as CRVI001366: the signature was recorded in prose but not in the credit fields. The painting is signed Prophet at the lower right. Discogs credits the cover to 'Prophet (22)', whose artist record gives the real name as Richard Jennings — so the signature and the database resolve to one person.",
    "hue": 17.7,
    "light": 0.3459,
-   "chroma": 0.7938
+   "chroma": 0.7938,
+   "designers": [
+    "Richard “Prophet” Jennings"
+   ]
   },
   "todd picked 2026-09-05 dgmono::max-roach-max-roach-4-at-newport-emarcy-36140": {
    "id": "CRVI001373",
@@ -80247,6 +80269,352 @@
    "hue": 344.77,
    "light": 0.8025,
    "chroma": 0.5605
+  },
+  "todd picked 2026-09-05 whitney::harry-bertoia-untitled-1943": {
+   "id": "CRVI001382",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001382.jpg",
+   "original_px": [
+    1435,
+    1600
+   ],
+   "original_bytes": 601513,
+   "identity": "todd picked 2026-09-05 whitney::harry-bertoia-untitled-1943",
+   "maker": "Harry Bertoia",
+   "title": "Untitled",
+   "subtitle": "Print by Harry Bertoia · c. 1943 · Whitney Museum of American Art",
+   "year": "1943",
+   "label": "",
+   "notes": [
+    "Angular slabs of near-black, bottle green and teal pinwheel around a centre on a burnished grey ground, each plane overlapping the next.",
+    "Three hairline red diagonals are drawn straight across the whole arrangement, and the sheet keeps a wide untrimmed cream margin on all four sides."
+   ],
+   "verified_against": "From the Whitney Museum of American Art's collection pages, whose per-item markup carries the artist, title and date together in one block — parsed from that block rather than from text near the image, which is what produced the original error. Harry Bertoia, Untitled, c. 1943, Whitney collection work 12394. ⚠️ HOW THIS GOT HERE. I harvested Whitney artist page 2648 believing it was Ruth Asawa's and labelled the results Asawa on the sheet Todd picked from. Page 2648 is HARRY BERTOIA — zero mentions of Asawa on it, twenty-one of Bertoia. I guessed the id, got HTTP 200 back and never checked whose page it was; a 404 would have caught me and a wrong-artist 200 did not. Todd chose to keep these anyway, correctly attributed. The attribution below is read from the Whitney's own markup, which names the artist inside each item block.",
+   "source_record": "Whitney Museum of American Art; picked by Todd 2026-09-05",
+   "source_url": "https://whitneymedia.org/assets/artwork/12394/P_99_4_cropped.jpg",
+   "source_page": "https://whitney.org/collection/works/12394",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/five/bert/12394.jpg",
+   "source_px": [
+    1435,
+    1600
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "illustrator",
+     "v": "Harry Bertoia"
+    },
+    {
+     "k": "artist",
+     "v": "Harry Bertoia"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "From the Whitney Museum of American Art's collection pages, whose per-item markup carries the artist, title and date together in one block — parsed from that block rather than from text near the image, which is what produced the original error. Harry Bertoia, Untitled, c. 1943, Whitney collection work 12394. ⚠️ HOW THIS GOT HERE. I harvested Whitney artist page 2648 believing it was Ruth Asawa's and labelled the results Asawa on the sheet Todd picked from. Page 2648 is HARRY BERTOIA — zero mentions of Asawa on it, twenty-one of Bertoia. I guessed the id, got HTTP 200 back and never checked whose page it was; a 404 would have caught me and a wrong-artist 200 did not. Todd chose to keep these anyway, correctly attributed. The attribution below is read from the Whitney's own markup, which names the artist inside each item block."
+  },
+  "todd picked 2026-09-05 whitney::harry-bertoia-untitled-1945": {
+   "id": "CRVI001383",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001383.jpg",
+   "original_px": [
+    1600,
+    1595
+   ],
+   "original_bytes": 749522,
+   "identity": "todd picked 2026-09-05 whitney::harry-bertoia-untitled-1945",
+   "maker": "Harry Bertoia",
+   "title": "Untitled",
+   "subtitle": "Print by Harry Bertoia · c. 1945 · Whitney Museum of American Art",
+   "year": "1945",
+   "label": "",
+   "notes": [
+    "A deep umber field divided into soft rectangular zones, worked so the ink sits like woven cloth rather than flat colour.",
+    "A loose grid of thin black and yellow rules is laid over it, and small squares of hot green and orange-red are set at the intersections like pins holding it down."
+   ],
+   "verified_against": "From the Whitney Museum of American Art's collection pages, whose per-item markup carries the artist, title and date together in one block — parsed from that block rather than from text near the image, which is what produced the original error. Harry Bertoia, Untitled, c. 1945, Whitney collection work 12397. ⚠️ HOW THIS GOT HERE. I harvested Whitney artist page 2648 believing it was Ruth Asawa's and labelled the results Asawa on the sheet Todd picked from. Page 2648 is HARRY BERTOIA — zero mentions of Asawa on it, twenty-one of Bertoia. I guessed the id, got HTTP 200 back and never checked whose page it was; a 404 would have caught me and a wrong-artist 200 did not. Todd chose to keep these anyway, correctly attributed. The attribution below is read from the Whitney's own markup, which names the artist inside each item block.",
+   "source_record": "Whitney Museum of American Art; picked by Todd 2026-09-05",
+   "source_url": "https://whitneymedia.org/assets/artwork/12397/P_99_6_cropped.jpg",
+   "source_page": "https://whitney.org/collection/works/12397",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/five/bert/12397.jpg",
+   "source_px": [
+    1600,
+    1595
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "illustrator",
+     "v": "Harry Bertoia"
+    },
+    {
+     "k": "artist",
+     "v": "Harry Bertoia"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "From the Whitney Museum of American Art's collection pages, whose per-item markup carries the artist, title and date together in one block — parsed from that block rather than from text near the image, which is what produced the original error. Harry Bertoia, Untitled, c. 1945, Whitney collection work 12397. ⚠️ HOW THIS GOT HERE. I harvested Whitney artist page 2648 believing it was Ruth Asawa's and labelled the results Asawa on the sheet Todd picked from. Page 2648 is HARRY BERTOIA — zero mentions of Asawa on it, twenty-one of Bertoia. I guessed the id, got HTTP 200 back and never checked whose page it was; a 404 would have caught me and a wrong-artist 200 did not. Todd chose to keep these anyway, correctly attributed. The attribution below is read from the Whitney's own markup, which names the artist inside each item block."
+  },
+  "todd picked 2026-09-05 whitney::whitney-museum-of-american-art-annual-exhibition-1966-contemporary-sculpture-and-prints-1966": {
+   "id": "CRVI001384",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001384.jpg",
+   "original_px": [
+    2048,
+    2063
+   ],
+   "original_bytes": 824377,
+   "identity": "todd picked 2026-09-05 whitney::whitney-museum-of-american-art-annual-exhibition-1966-contemporary-sculpture-and-prints-1966",
+   "maker": "Whitney Museum of American Art",
+   "title": "Annual Exhibition 1966: Contemporary Sculpture and Prints",
+   "subtitle": "Designer unrecorded · Exhibition catalogue · Dec 16, 1966 – Feb 5, 1967",
+   "year": "1966",
+   "label": "",
+   "notes": [
+    "A folded metal form — one upright hook and one long flat tongue laid on the floor — photographed on cream with the light raking across the polished faces.",
+    "Three lines of red type sit in the upper right, and the sculpture occupies only the lower half, leaving the top of the cover empty."
+   ],
+   "verified_against": "From the Whitney Museum of American Art's exhibition pages. The catalogue cover and the exhibition record sit in the same markup block, so the pairing of cover to exhibition is certain. ⚠️ NO DESIGNER IS CLAIMED — the Whitney does not credit one for these catalogues, and the sculpture reproduced on each cover is likewise unidentified. This one accompanies Annual Exhibition 1966: Contemporary Sculpture and Prints, 16 December 1966 – 5 February 1967. ⚠️ HOW THIS GOT HERE. I harvested Whitney artist page 2648 believing it was Ruth Asawa's and labelled the results Asawa on the sheet Todd picked from. Page 2648 is HARRY BERTOIA — zero mentions of Asawa on it, twenty-one of Bertoia. I guessed the id, got HTTP 200 back and never checked whose page it was; a 404 would have caught me and a wrong-artist 200 did not. Todd chose to keep these anyway, correctly attributed. The attribution below is read from the Whitney's own markup, which names the artist inside each item block.",
+   "source_record": "Whitney Museum of American Art; picked by Todd 2026-09-05",
+   "source_url": "https://whitneymedia.org/assets/image/823082/large_WB10_051_edited_new.jpg",
+   "source_page": "https://whitney.org/exhibitions/annual-1966",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/five/bert/823082.jpg",
+   "source_px": [
+    2048,
+    2063
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "client",
+     "v": "Whitney Museum of American Art"
+    },
+    {
+     "k": "subject",
+     "v": "sculpture"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "From the Whitney Museum of American Art's exhibition pages. The catalogue cover and the exhibition record sit in the same markup block, so the pairing of cover to exhibition is certain. ⚠️ NO DESIGNER IS CLAIMED — the Whitney does not credit one for these catalogues, and the sculpture reproduced on each cover is likewise unidentified. This one accompanies Annual Exhibition 1966: Contemporary Sculpture and Prints, 16 December 1966 – 5 February 1967. ⚠️ HOW THIS GOT HERE. I harvested Whitney artist page 2648 believing it was Ruth Asawa's and labelled the results Asawa on the sheet Todd picked from. Page 2648 is HARRY BERTOIA — zero mentions of Asawa on it, twenty-one of Bertoia. I guessed the id, got HTTP 200 back and never checked whose page it was; a 404 would have caught me and a wrong-artist 200 did not. Todd chose to keep these anyway, correctly attributed. The attribution below is read from the Whitney's own markup, which names the artist inside each item block."
+  },
+  "todd picked 2026-09-05 whitney::whitney-museum-of-american-art-1964-annual-exhibition-of-contemporary-american-sculpture-1964": {
+   "id": "CRVI001385",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001385.jpg",
+   "original_px": [
+    2048,
+    2037
+   ],
+   "original_bytes": 989564,
+   "identity": "todd picked 2026-09-05 whitney::whitney-museum-of-american-art-1964-annual-exhibition-of-contemporary-american-sculpture-1964",
+   "maker": "Whitney Museum of American Art",
+   "title": "1964 Annual Exhibition of Contemporary American Sculpture",
+   "subtitle": "Designer unrecorded · Exhibition catalogue · Dec 9, 1964 – Jan 31, 1965",
+   "year": "1964",
+   "label": "",
+   "notes": [
+    "A dark disc of stone, pierced off-centre and cut into overlapping segments, photographed low on a pale ground.",
+    "The title is set in letterspaced caps across the top with the year at display size, and a single ochre rule runs the full width beneath it."
+   ],
+   "verified_against": "From the Whitney Museum of American Art's exhibition pages. The catalogue cover and the exhibition record sit in the same markup block, so the pairing of cover to exhibition is certain. ⚠️ NO DESIGNER IS CLAIMED — the Whitney does not credit one for these catalogues, and the sculpture reproduced on each cover is likewise unidentified. This one accompanies the 1964 Annual Exhibition of Contemporary American Sculpture, 9 December 1964 – 31 January 1965. ⚠️ HOW THIS GOT HERE. I harvested Whitney artist page 2648 believing it was Ruth Asawa's and labelled the results Asawa on the sheet Todd picked from. Page 2648 is HARRY BERTOIA — zero mentions of Asawa on it, twenty-one of Bertoia. I guessed the id, got HTTP 200 back and never checked whose page it was; a 404 would have caught me and a wrong-artist 200 did not. Todd chose to keep these anyway, correctly attributed. The attribution below is read from the Whitney's own markup, which names the artist inside each item block.",
+   "source_record": "Whitney Museum of American Art; picked by Todd 2026-09-05",
+   "source_url": "https://whitneymedia.org/assets/image/823084/large_WB10_049_edited.jpg",
+   "source_page": "https://whitney.org/exhibitions/annual-1964",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/five/bert/823084.jpg",
+   "source_px": [
+    2048,
+    2037
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "client",
+     "v": "Whitney Museum of American Art"
+    },
+    {
+     "k": "subject",
+     "v": "sculpture"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "From the Whitney Museum of American Art's exhibition pages. The catalogue cover and the exhibition record sit in the same markup block, so the pairing of cover to exhibition is certain. ⚠️ NO DESIGNER IS CLAIMED — the Whitney does not credit one for these catalogues, and the sculpture reproduced on each cover is likewise unidentified. This one accompanies the 1964 Annual Exhibition of Contemporary American Sculpture, 9 December 1964 – 31 January 1965. ⚠️ HOW THIS GOT HERE. I harvested Whitney artist page 2648 believing it was Ruth Asawa's and labelled the results Asawa on the sheet Todd picked from. Page 2648 is HARRY BERTOIA — zero mentions of Asawa on it, twenty-one of Bertoia. I guessed the id, got HTTP 200 back and never checked whose page it was; a 404 would have caught me and a wrong-artist 200 did not. Todd chose to keep these anyway, correctly attributed. The attribution below is read from the Whitney's own markup, which names the artist inside each item block."
+  },
+  "todd picked 2026-09-05 whitney::whitney-museum-of-american-art-annual-exhibition-1962-contemporary-sculpture-and-drawings-1962": {
+   "id": "CRVI001386",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001386.jpg",
+   "original_px": [
+    2048,
+    2043
+   ],
+   "original_bytes": 968528,
+   "identity": "todd picked 2026-09-05 whitney::whitney-museum-of-american-art-annual-exhibition-1962-contemporary-sculpture-and-drawings-1962",
+   "maker": "Whitney Museum of American Art",
+   "title": "Annual Exhibition 1962: Contemporary Sculpture and Drawings",
+   "subtitle": "Designer unrecorded · Exhibition catalogue · Dec 12, 1962 – Feb 3, 1963",
+   "year": "1962",
+   "label": "",
+   "notes": [
+    "A flat black biomorphic form — all lobes and curved notches, cut from sheet — stood upright against white and photographed almost head-on.",
+    "The type is set small and black in the upper right, so the only weight on the cover is the silhouette itself."
+   ],
+   "verified_against": "From the Whitney Museum of American Art's exhibition pages. The catalogue cover and the exhibition record sit in the same markup block, so the pairing of cover to exhibition is certain. ⚠️ NO DESIGNER IS CLAIMED — the Whitney does not credit one for these catalogues, and the sculpture reproduced on each cover is likewise unidentified. This one accompanies Annual Exhibition 1962: Contemporary Sculpture and Drawings, 12 December 1962 – 3 February 1963. ⚠️ HOW THIS GOT HERE. I harvested Whitney artist page 2648 believing it was Ruth Asawa's and labelled the results Asawa on the sheet Todd picked from. Page 2648 is HARRY BERTOIA — zero mentions of Asawa on it, twenty-one of Bertoia. I guessed the id, got HTTP 200 back and never checked whose page it was; a 404 would have caught me and a wrong-artist 200 did not. Todd chose to keep these anyway, correctly attributed. The attribution below is read from the Whitney's own markup, which names the artist inside each item block.",
+   "source_record": "Whitney Museum of American Art; picked by Todd 2026-09-05",
+   "source_url": "https://whitneymedia.org/assets/image/823086/large_WB10_047_edited.jpg",
+   "source_page": "https://whitney.org/exhibitions/annual-1962",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/five/bert/823086.jpg",
+   "source_px": [
+    2048,
+    2043
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "client",
+     "v": "Whitney Museum of American Art"
+    },
+    {
+     "k": "subject",
+     "v": "sculpture"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "From the Whitney Museum of American Art's exhibition pages. The catalogue cover and the exhibition record sit in the same markup block, so the pairing of cover to exhibition is certain. ⚠️ NO DESIGNER IS CLAIMED — the Whitney does not credit one for these catalogues, and the sculpture reproduced on each cover is likewise unidentified. This one accompanies Annual Exhibition 1962: Contemporary Sculpture and Drawings, 12 December 1962 – 3 February 1963. ⚠️ HOW THIS GOT HERE. I harvested Whitney artist page 2648 believing it was Ruth Asawa's and labelled the results Asawa on the sheet Todd picked from. Page 2648 is HARRY BERTOIA — zero mentions of Asawa on it, twenty-one of Bertoia. I guessed the id, got HTTP 200 back and never checked whose page it was; a 404 would have caught me and a wrong-artist 200 did not. Todd chose to keep these anyway, correctly attributed. The attribution below is read from the Whitney's own markup, which names the artist inside each item block."
+  },
+  "todd picked 2026-09-05 whitney::whitney-museum-of-american-art-annual-exhibition-1960-contemporary-sculpture-and-drawings-1960": {
+   "id": "CRVI001387",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001387.jpg",
+   "original_px": [
+    2048,
+    2048
+   ],
+   "original_bytes": 1290128,
+   "identity": "todd picked 2026-09-05 whitney::whitney-museum-of-american-art-annual-exhibition-1960-contemporary-sculpture-and-drawings-1960",
+   "maker": "Whitney Museum of American Art",
+   "title": "Annual Exhibition 1960: Contemporary Sculpture and Drawings",
+   "subtitle": "Designer unrecorded · Exhibition catalogue · Dec 7, 1960 – Jan 22, 1961",
+   "year": "1960",
+   "label": "",
+   "notes": [
+    "A single sculpture of jointed and curved timber photographed against seamless cream, lit so the grain and the bolt heads read clearly.",
+    "Three short lines of red type sit in the upper right corner; nothing else is on the cover, and the object is left floating with its own shadow."
+   ],
+   "verified_against": "From the Whitney Museum of American Art's exhibition pages. The catalogue cover and the exhibition record sit in the same markup block, so the pairing of cover to exhibition is certain. ⚠️ NO DESIGNER IS CLAIMED — the Whitney does not credit one for these catalogues, and the sculpture reproduced on each cover is likewise unidentified. This one accompanies Annual Exhibition 1960: Contemporary Sculpture and Drawings, 7 December 1960 – 22 January 1961. ⚠️ HOW THIS GOT HERE. I harvested Whitney artist page 2648 believing it was Ruth Asawa's and labelled the results Asawa on the sheet Todd picked from. Page 2648 is HARRY BERTOIA — zero mentions of Asawa on it, twenty-one of Bertoia. I guessed the id, got HTTP 200 back and never checked whose page it was; a 404 would have caught me and a wrong-artist 200 did not. Todd chose to keep these anyway, correctly attributed. The attribution below is read from the Whitney's own markup, which names the artist inside each item block.",
+   "source_record": "Whitney Museum of American Art; picked by Todd 2026-09-05",
+   "source_url": "https://whitneymedia.org/assets/image/823088/large_WB10_045_edited_new.jpg",
+   "source_page": "https://whitney.org/exhibitions/annual-1960",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/five/bert/823088.jpg",
+   "source_px": [
+    2048,
+    2048
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "client",
+     "v": "Whitney Museum of American Art"
+    },
+    {
+     "k": "subject",
+     "v": "sculpture"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "From the Whitney Museum of American Art's exhibition pages. The catalogue cover and the exhibition record sit in the same markup block, so the pairing of cover to exhibition is certain. ⚠️ NO DESIGNER IS CLAIMED — the Whitney does not credit one for these catalogues, and the sculpture reproduced on each cover is likewise unidentified. This one accompanies Annual Exhibition 1960: Contemporary Sculpture and Drawings, 7 December 1960 – 22 January 1961. ⚠️ HOW THIS GOT HERE. I harvested Whitney artist page 2648 believing it was Ruth Asawa's and labelled the results Asawa on the sheet Todd picked from. Page 2648 is HARRY BERTOIA — zero mentions of Asawa on it, twenty-one of Bertoia. I guessed the id, got HTTP 200 back and never checked whose page it was; a 404 would have caught me and a wrong-artist 200 did not. Todd chose to keep these anyway, correctly attributed. The attribution below is read from the Whitney's own markup, which names the artist inside each item block."
   }
  }
 }

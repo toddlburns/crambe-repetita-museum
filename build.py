@@ -116,6 +116,16 @@ a{color:inherit;text-decoration:none}
    focusable. */
 .moretoggle{position:absolute;opacity:0;width:1px;height:1px;pointer-events:none}
 .more{display:none}
+.crumb{display:flex;align-items:center;gap:14px;height:38px;padding:0 18px;
+ border-bottom:1px solid var(--rule);font-size:12px}
+.crumb .t{font:600 12px/1 var(--mono);letter-spacing:.06em}
+.crumb .c{color:var(--mute);font:11px var(--mono)}
+.crumb a{margin-left:auto;color:var(--mute);font-size:11.5px}
+.crumb a:hover{color:var(--ink)}
+.crumb .ord{margin-left:16px;color:var(--mute);font:11px var(--mono);cursor:pointer;
+ display:inline-flex;align-items:center;gap:6px;white-space:nowrap}
+.crumb .ord input{accent-color:#111;cursor:pointer}
+
 @media (max-width:700px){
  .facet .list a.small{display:none}
  .moretoggle:checked ~ .col .list a.small{display:flex}
@@ -174,19 +184,16 @@ a{color:inherit;text-decoration:none}
 
  /* ---- header rows break BETWEEN elements, never inside them ----
     "ALL TAGS" was splitting to "ALL / TAGS" and the back link to "back to the / museum". */
- .crumb{height:auto;min-height:38px;flex-wrap:wrap;padding:8px 14px;row-gap:2px}
+ /* ⚠️ These only work because the base .crumb rules now sit ABOVE this media query. They
+    used to sit below it, so `height:38px` beat `height:auto` on equal specificity and the bar
+    stayed locked at one row's height — invisible until a second toggle made it wrap, at which
+    point the content overflowed and the bottom border cut straight through row two. */
+ .crumb{height:auto;min-height:38px;flex-wrap:wrap;padding:8px 14px;row-gap:9px}
  .crumb .t,.crumb .c,.crumb a{white-space:nowrap}
+ /* the two order toggles ride together; only the back link is pushed away */
+ .crumb .ord{margin-left:0}
  .crumb a{margin-left:auto}
 }
-.crumb{display:flex;align-items:center;gap:14px;height:38px;padding:0 18px;
- border-bottom:1px solid var(--rule);font-size:12px}
-.crumb .t{font:600 12px/1 var(--mono);letter-spacing:.06em}
-.crumb .c{color:var(--mute);font:11px var(--mono)}
-.crumb a{margin-left:auto;color:var(--mute);font-size:11.5px}
-.crumb a:hover{color:var(--ink)}
-.crumb .ord{margin-left:16px;color:var(--mute);font:11px var(--mono);cursor:pointer;
- display:inline-flex;align-items:center;gap:6px;white-space:nowrap}
-.crumb .ord input{accent-color:#111;cursor:pointer}
 .rights{max-width:660px}
 .rights h2{font:600 10px/1.4 var(--mono);letter-spacing:.16em;text-transform:uppercase;
  margin:30px 0 8px;color:var(--ink)}
