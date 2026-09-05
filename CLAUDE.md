@@ -32,6 +32,11 @@ artist's own 567–829 px images enlarged, carrying no more detail than the smal
 under the 800 px floor in reality while reading as comfortably over it. Two were deleted and two
 replaced with matiklarweinart.com's own files the same day.
 
+Sanity (`cdn.sanity.io`, used by David Zwirner among others) does the same — `?w=8000` on a
+3000 px asset returns 8000 px. But its URLs carry the TRUE source dimensions in the filename
+(`…-3000x2000.jpg`), so the bare URL is the honest one and you can read real resolution without
+downloading anything. Never pass a `?w=` larger than the number in the filename.
+
 To test a suspicious file: shrink it by a factor and enlarge it back. If that round-trip loses
 almost nothing (mean abs difference under ~2/255), the file never held detail at that scale. Or
 just ask the CDN for an absurd size — an honest one caps, a resizer does not.
