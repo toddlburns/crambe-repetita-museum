@@ -117,6 +117,33 @@ held back — if that line is missing when you know something is unverified, som
 ⚠️ `crvi.py` rebuilds `label` and other fields from its source credit files on every run, so cleaning
 the registry by hand is silently undone next time it runs. Normalisation belongs in `labels.py`.
 
+## Adding a facet to items that already exist
+
+⚠️ **Use `extra_tags`, never `tags`.** `payload.py` derives designer/artist/label/decade/type for the
+IDM-book items **only when `tags` is empty**, so writing a `tags` list onto one of them to add a single
+facet deletes every tag it had — and every script still reports success. `extra_tags` is appended in
+both item shapes. That is how `subject: jazz` was put on 176 album covers on 2026-09-04.
+
+⚠️ **`payload.py` has no `__main__` — running it does nothing.** To rebuild `crvi.json` after editing
+the registry by hand, call it: `python3 -c "import json,payload; payload.write(json.load(open('crvi_registry.json')),'.')"`.
+Then re-run `crvi_hue.py --write`, because the payload rebuild drops the stamped hue values.
+This is the same shape as the deletion trap below: `crvi_hue.py` writes `crvi.json` and so looks like
+it rebuilt it, but it only stamps hue onto whatever is already there. 176 tagged records reached a
+built site as zero tagged records that way, with a clean run every step.
+
+## Colour ordering
+
+Grids of more than 30 items group by colour. The sort key is **not** hue. Hue alone files a solid
+orange, a black sleeve and a cream one together whenever they share a peak — *Galactic Melt*,
+*Hot Corner* and *Please Mr. Postman* all sit at hue 5.0. And `chroma` is the wrong gate: it counts
+any pixel carrying a tint, so a pale wash scores 0.885 while reading as white.
+
+`crvi_hue.py` measures **`punch`** — mean saturation weighted *down* as a pixel approaches white or
+black. `color_order()` in `build.py` gates on it at **0.20** and lays the grid out as one ramp:
+**whites first (light descending), then the colour wheel, then down to black.** Todd chose both the
+threshold and the arrangement on 2026-09-04, wanting a long colour run rather than a short pure one.
+Changing either number changes how 1,647 tag pages scroll — look at a contact sheet before and after.
+
 ## Tag vocabulary
 
 Facets in use: `designer`, `artist`, `label`, `decade`, `color`, `type`, `photographer`, `illustrator`,
