@@ -569,18 +569,30 @@ is misidentified, please get in touch: it will be fixed and the correction noted
     # Todd chose the arrangement on 2026-09-04: whites first, then the colour wheel, then to black,
     # one continuous ramp, at the looser 0.20 bar so the coloured run stays long (about a third of
     # the archive rather than an eighth).
-    PUNCH_BAR = 0.20
-    PALE = 0.62          # a neutral above this leads the ramp; below it, it trails
+    # ⚠️ AND `punch` PENALISES DARKNESS ITSELF, so a deep saturated red scores ~0.15 and looks
+    # neutral to the bar above. 279 dark items that carry real colour — Klarwein's Moses, the
+    # Cieślewicz, the Awazu — were being filed into a grey ramp ordered by lightness alone. Todd,
+    # 2026-09-04: *"still doesn't feel perfect. Especially on the darker side of things."*
+    # So the dark end gets its OWN wheel, gated on `chroma` (which does not care how dark a pixel
+    # is) and running the same direction, so the bright pinks roll straight on into the dark reds
+    # and the ramp lands on dark blues before it reaches the greys.
+    PUNCH_BAR = 0.20     # reads as coloured at all
+    DARK_BAR  = 0.30     # dark, but carries enough colour to be worth grouping by hue
+    PALE      = 0.62     # a neutral above this leads the ramp; below it, it trails
     def color_order(idxs):
         def key(i):
             it = items[i]
             h = it.get("hue")
             lt = it.get("light") if it.get("light") is not None else 0.5
-            p = it.get("punch")
-            if h is None or p is None or p < PUNCH_BAR:
-                # -lt so each neutral band runs light to dark
-                return (0, -lt, 0.0) if lt >= PALE else (2, -lt, 0.0)
-            return (1, h, lt)
+            p = it.get("punch") or 0.0
+            c = it.get("chroma") or 0.0
+            if h is not None and p >= PUNCH_BAR:
+                return (1, h, -lt)                    # the bright wheel, light to dark within a hue
+            if lt >= PALE:
+                return (0, -lt, 0.0)                  # whites lead
+            if h is not None and c >= DARK_BAR:
+                return (2, h, -lt)                    # the dark wheel
+            return (3, -lt, 0.0)                      # true greys, down to black
         return sorted(idxs, key=key)
 
     for (k, v), idxs in by_tag.items():

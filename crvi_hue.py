@@ -115,7 +115,11 @@ def main(write=False):
         by = {v["id"]: v for v in reg["items"].values()}
         for x in d["items"]:
             s = by.get(x["id"]) or {}
-            x["hue"], x["light"], x["punch"] = s.get("hue"), s.get("light"), s.get("punch")
+            # ⚠️ `chroma` HAS TO REACH crvi.json TOO. build.py needs it to order the dark band, and
+            # payload.py does not carry it — so when it was stamped only into the registry, every
+            # dark item read as chroma 0 and the whole dark colour wheel silently collapsed to grey.
+            x["hue"], x["light"] = s.get("hue"), s.get("light")
+            x["punch"], x["chroma"] = s.get("punch"), s.get("chroma")
         json.dump(d, open(pj, "w"), ensure_ascii=False, indent=1)
     chrom = [i for i in items if i.get("hue") is not None]
     print(f"{done} items measured · {len(chrom)} have a dominant hue · "
