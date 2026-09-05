@@ -73032,6 +73032,698 @@
    "hue": null,
    "light": 0.9164,
    "chroma": 0.0519
+  },
+  {
+   "id": "CRVI001389",
+   "published": true,
+   "minted": "2026-08-26",
+   "punch": 0.4375,
+   "source_url": "https://www.discogs.com/release/940131",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001389.jpg",
+   "source_label": "",
+   "image": "images/CRVI001389.jpg",
+   "original": "originals/CRVI001389.jpg",
+   "vector": "",
+   "original_px": [
+    1060,
+    1060
+   ],
+   "original_bytes": 223109,
+   "maker": "Al Hansen",
+   "title": "Joseph Beuys Stuka Dive Bomber Piece & Other Stories",
+   "subtitle": "Al Hansen · Slowscan vol. 20",
+   "year": "2006",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Al Hansen"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Slowscan"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    },
+    {
+     "k": "subject",
+     "v": "Fluxus"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 356.04,
+   "light": 0.5293,
+   "chroma": 0.9206
+  },
+  {
+   "id": "CRVI001390",
+   "published": true,
+   "minted": "2026-08-26",
+   "punch": 0.0946,
+   "source_url": "https://designobserver.com/emmett-mcbain-art-direction-as-social-equity/",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001390.jpg",
+   "source_label": "",
+   "image": "images/CRVI001390.jpg",
+   "original": "originals/CRVI001390.jpg",
+   "vector": "",
+   "original_px": [
+    800,
+    1012
+   ],
+   "original_bytes": 166712,
+   "maker": "Emmett McBain",
+   "title": "True Two",
+   "subtitle": "Emmett McBain · Vince Cullers Advertising for Lorillard · 1968",
+   "year": "1968",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Emmett McBain"
+    },
+    {
+     "k": "type",
+     "v": "advertisement"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "client",
+     "v": "Lorillard Tobacco Company"
+    },
+    {
+     "k": "subject",
+     "v": "advertising"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 14.69,
+   "light": 0.5653,
+   "chroma": 0.2405
+  },
+  {
+   "id": "CRVI001391",
+   "published": true,
+   "minted": "2026-08-26",
+   "punch": 0.0746,
+   "source_url": "https://www.discogs.com/release/3960066",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001391.jpg",
+   "source_label": "",
+   "image": "images/CRVI001391.jpg",
+   "original": "originals/CRVI001391.jpg",
+   "vector": "",
+   "original_px": [
+    1198,
+    1200
+   ],
+   "original_bytes": 337319,
+   "maker": "Emmett McBain",
+   "title": "The Playboy Jazz All-Stars",
+   "subtitle": "Designed by Emmett McBain · Playboy Records · 1957",
+   "year": "1957",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Emmett McBain"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Playboy Records"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "subject",
+     "v": "jazz"
+    },
+    {
+     "k": "subject",
+     "v": "typography"
+    },
+    {
+     "k": "artist",
+     "v": "Various"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 50.86,
+   "light": 0.3653,
+   "chroma": 0.1947
+  },
+  {
+   "id": "CRVI001392",
+   "published": true,
+   "minted": "2026-08-26",
+   "punch": 0.1058,
+   "source_url": "https://www.liledblues.com/",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001392.jpg",
+   "source_label": "",
+   "image": "images/CRVI001392.jpg",
+   "original": "originals/CRVI001392.jpg",
+   "vector": "",
+   "original_px": [
+    2821,
+    4162
+   ],
+   "original_bytes": 1862334,
+   "maker": "Paul Natkin",
+   "title": "Lil' Ed & The Blues Imperials",
+   "subtitle": "Photograph by Paul Natkin",
+   "year": "",
+   "tags": [
+    {
+     "k": "photographer",
+     "v": "Paul Natkin"
+    },
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Lil' Ed & The Blues Imperials"
+    },
+    {
+     "k": "subject",
+     "v": "music"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 7.76,
+   "light": 0.8407,
+   "chroma": 0.3899
+  },
+  {
+   "id": "CRVI001393",
+   "published": true,
+   "minted": "2026-08-26",
+   "punch": 0.1207,
+   "source_url": "https://www.moma.org/collection/works/80419",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001393.jpg",
+   "source_label": "",
+   "image": "images/CRVI001393.jpg",
+   "original": "originals/CRVI001393.jpg",
+   "vector": "",
+   "original_px": [
+    1249,
+    1535
+   ],
+   "original_bytes": 1337010,
+   "maker": "Giorgio de Chirico",
+   "title": "The Song of Love",
+   "subtitle": "Giorgio de Chirico · 1914",
+   "year": "1914",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Giorgio de Chirico"
+    },
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "metaphysical painting"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 210.98,
+   "light": 0.3353,
+   "chroma": 0.4719
+  },
+  {
+   "id": "CRVI001394",
+   "published": true,
+   "minted": "2026-08-26",
+   "punch": 0.1408,
+   "source_url": "https://www.moma.org/collection/works/80589",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001394.jpg",
+   "source_label": "",
+   "image": "images/CRVI001394.jpg",
+   "original": "originals/CRVI001394.jpg",
+   "vector": "",
+   "original_px": [
+    1541,
+    2000
+   ],
+   "original_bytes": 813027,
+   "maker": "Giorgio de Chirico",
+   "title": "The Seer",
+   "subtitle": "Giorgio de Chirico · 1914",
+   "year": "1914",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Giorgio de Chirico"
+    },
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "metaphysical painting"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 35.19,
+   "light": 0.2335,
+   "chroma": 0.6758
+  },
+  {
+   "id": "CRVI001395",
+   "published": true,
+   "minted": "2026-08-26",
+   "punch": 0.1657,
+   "source_url": "https://www.guggenheim-venice.it/en/art/works/the-red-tower/",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001395.jpg",
+   "source_label": "",
+   "image": "images/CRVI001395.jpg",
+   "original": "originals/CRVI001395.jpg",
+   "vector": "",
+   "original_px": [
+    1280,
+    925
+   ],
+   "original_bytes": 481266,
+   "maker": "Giorgio de Chirico",
+   "title": "The Red Tower",
+   "subtitle": "Giorgio de Chirico · 1913",
+   "year": "1913",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Giorgio de Chirico"
+    },
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "metaphysical painting"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 44.18,
+   "light": 0.2185,
+   "chroma": 0.8201
+  },
+  {
+   "id": "CRVI001396",
+   "published": true,
+   "minted": "2026-08-26",
+   "punch": 0.1652,
+   "source_url": "https://www.moma.org/collection/works/78834",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001396.jpg",
+   "source_label": "",
+   "image": "images/CRVI001396.jpg",
+   "original": "originals/CRVI001396.jpg",
+   "vector": "",
+   "original_px": [
+    1634,
+    2000
+   ],
+   "original_bytes": 1037623,
+   "maker": "Giorgio de Chirico",
+   "title": "The Evil Genius of a King",
+   "subtitle": "Giorgio de Chirico · 1914",
+   "year": "1914",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Giorgio de Chirico"
+    },
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "metaphysical painting"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 35.61,
+   "light": 0.3081,
+   "chroma": 0.4813
+  },
+  {
+   "id": "CRVI001397",
+   "published": true,
+   "minted": "2026-08-26",
+   "punch": 0.1813,
+   "source_url": "https://www.moma.org/collection/works/80587",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001397.jpg",
+   "source_label": "",
+   "image": "images/CRVI001397.jpg",
+   "original": "originals/CRVI001397.jpg",
+   "vector": "",
+   "original_px": [
+    1504,
+    2000
+   ],
+   "original_bytes": 609026,
+   "maker": "Giorgio de Chirico",
+   "title": "The Enigma of a Day",
+   "subtitle": "Giorgio de Chirico · 1914",
+   "year": "1914",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Giorgio de Chirico"
+    },
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "metaphysical painting"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 38.8,
+   "light": 0.2415,
+   "chroma": 0.8452
+  },
+  {
+   "id": "CRVI001398",
+   "published": true,
+   "minted": "2026-08-26",
+   "punch": 0.1702,
+   "source_url": "https://www.arthistoryproject.com/artists/giorgio-de-chirico/",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001398.jpg",
+   "source_label": "",
+   "image": "images/CRVI001398.jpg",
+   "original": "originals/CRVI001398.jpg",
+   "vector": "",
+   "original_px": [
+    1943,
+    3000
+   ],
+   "original_bytes": 2139260,
+   "maker": "Giorgio de Chirico",
+   "title": "The Disquieting Muses",
+   "subtitle": "Giorgio de Chirico · 1918",
+   "year": "1918",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Giorgio de Chirico"
+    },
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "metaphysical painting"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 32.36,
+   "light": 0.3445,
+   "chroma": 0.6058
+  },
+  {
+   "id": "CRVI001399",
+   "published": true,
+   "minted": "2026-08-26",
+   "punch": 0.2009,
+   "source_url": "https://www.arthistoryproject.com/artists/giorgio-de-chirico/the-two-masks/",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001399.jpg",
+   "source_label": "",
+   "image": "images/CRVI001399.jpg",
+   "original": "originals/CRVI001399.jpg",
+   "vector": "",
+   "original_px": [
+    1682,
+    2171
+   ],
+   "original_bytes": 374901,
+   "maker": "Giorgio de Chirico",
+   "title": "The Two Masks",
+   "subtitle": "Giorgio de Chirico · 1926",
+   "year": "1926",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Giorgio de Chirico"
+    },
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "subject",
+     "v": "metaphysical painting"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 45.77,
+   "light": 0.4349,
+   "chroma": 0.7773
+  },
+  {
+   "id": "CRVI001400",
+   "published": true,
+   "minted": "2026-08-26",
+   "punch": 0.0,
+   "source_url": "https://hyperallergic.com/lorenza-bottner-requiem-for-the-norm/",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001400.jpg",
+   "source_label": "",
+   "image": "images/CRVI001400.jpg",
+   "original": "originals/CRVI001400.jpg",
+   "vector": "",
+   "original_px": [
+    2000,
+    2667
+   ],
+   "original_bytes": 455604,
+   "maker": "Lorenza Böttner",
+   "title": "Face Art",
+   "subtitle": "Lorenza Böttner · 1983 · black and white photograph",
+   "year": "1983",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Lorenza Böttner"
+    },
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "subject",
+     "v": "self-portrait"
+    },
+    {
+     "k": "subject",
+     "v": "the body"
+    },
+    {
+     "k": "color",
+     "v": "neutral"
+    }
+   ],
+   "hue": null,
+   "light": 0.7972,
+   "chroma": 0.0
+  },
+  {
+   "id": "CRVI001401",
+   "published": true,
+   "minted": "2026-08-26",
+   "punch": 0.2698,
+   "source_url": "https://www.moma.org/collection/works/73676",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001401.jpg",
+   "source_label": "",
+   "image": "images/CRVI001401.jpg",
+   "original": "originals/CRVI001401.jpg",
+   "vector": "",
+   "original_px": [
+    1616,
+    2000
+   ],
+   "original_bytes": 846573,
+   "maker": "Marvin Israel",
+   "title": "Handiwork, from Graphik USA",
+   "subtitle": "Marvin Israel · 1968 · screenprint, one from a portfolio of eight",
+   "year": "1968",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Marvin Israel"
+    },
+    {
+     "k": "artist",
+     "v": "Marvin Israel"
+    },
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "subject",
+     "v": "the body"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 35.05,
+   "light": 0.7982,
+   "chroma": 0.8746
   }
  ]
 }

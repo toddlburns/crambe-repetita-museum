@@ -1,5 +1,5 @@
 {
- "next": 1389,
+ "next": 1402,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -83329,6 +83329,750 @@
    "light": 0.9164,
    "chroma": 0.0519,
    "punch": 0.0102
+  },
+  "todd sent 2026-09-05 batch::al-hansen-stuka-dive-bomber": {
+   "id": "CRVI001389",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI001389.jpg",
+   "original_px": [
+    1060,
+    1060
+   ],
+   "original_bytes": 223109,
+   "identity": "todd sent 2026-09-05 batch::al-hansen-stuka-dive-bomber",
+   "maker": "Al Hansen",
+   "title": "Joseph Beuys Stuka Dive Bomber Piece & Other Stories",
+   "year": "2006",
+   "subtitle": "Al Hansen · Slowscan vol. 20",
+   "notes": [
+    "A red field with a photograph of Al Hansen holding a movie camera to his eye, the title set small and flush left beneath it."
+   ],
+   "verified_against": "Discogs release 940131 — Al Hansen, Joseph Beuys Stuka Dive Bomber Piece & Other Stories, Slowscan / Bonn Kunstverein / Galerie Kolon, 2006. Designer not credited there.",
+   "source_page": "https://www.discogs.com/release/940131",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/pasted2/raw/01.bin",
+   "source_px": [
+    1060,
+    1060
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Al Hansen"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Slowscan"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    },
+    {
+     "k": "subject",
+     "v": "Fluxus"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Discogs release 940131 — Al Hansen, Joseph Beuys Stuka Dive Bomber Piece & Other Stories, Slowscan / Bonn Kunstverein / Galerie Kolon, 2006. Designer not credited there.",
+   "hue": 356.04,
+   "light": 0.5293,
+   "chroma": 0.9206,
+   "punch": 0.4375
+  },
+  "todd sent 2026-09-05 batch::mcbain-true-two": {
+   "id": "CRVI001390",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI001390.jpg",
+   "original_px": [
+    800,
+    1012
+   ],
+   "original_bytes": 166712,
+   "identity": "todd sent 2026-09-05 batch::mcbain-true-two",
+   "maker": "Emmett McBain",
+   "title": "True Two",
+   "year": "1968",
+   "subtitle": "Emmett McBain · Vince Cullers Advertising for Lorillard · 1968",
+   "notes": [
+    "Two women in the same patterned dress stand against matching wallpaper, so figure and ground nearly dissolve into one another; the word True sits heavy across the foot of the page.",
+    "Made at Vince Cullers Advertising, the first Black-owned full-service advertising agency in the United States."
+   ],
+   "verified_against": "Design Observer's feature on Emmett McBain (Invention of Desire item 39565, the number carried in the image filename), which reproduces this True display advertisement for the Lorillard Tobacco Company made at Vince Cullers Advertising, 1968. McBain was the 2017 AIGA Medalist.",
+   "source_page": "https://designobserver.com/emmett-mcbain-art-direction-as-social-equity/",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/pasted2/raw/02.bin",
+   "source_px": [
+    800,
+    1012
+   ],
+   "colors": [
+    "orange",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Emmett McBain"
+    },
+    {
+     "k": "type",
+     "v": "advertisement"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "client",
+     "v": "Lorillard Tobacco Company"
+    },
+    {
+     "k": "subject",
+     "v": "advertising"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Design Observer's feature on Emmett McBain (Invention of Desire item 39565, the number carried in the image filename), which reproduces this True display advertisement for the Lorillard Tobacco Company made at Vince Cullers Advertising, 1968. McBain was the 2017 AIGA Medalist.",
+   "hue": 14.69,
+   "light": 0.5653,
+   "chroma": 0.2405,
+   "punch": 0.0946
+  },
+  "todd sent 2026-09-05 batch::mcbain-playboy-jazz-all-stars": {
+   "id": "CRVI001391",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI001391.jpg",
+   "original_px": [
+    1198,
+    1200
+   ],
+   "original_bytes": 337319,
+   "identity": "todd sent 2026-09-05 batch::mcbain-playboy-jazz-all-stars",
+   "maker": "Emmett McBain",
+   "title": "The Playboy Jazz All-Stars",
+   "year": "1957",
+   "subtitle": "Designed by Emmett McBain · Playboy Records · 1957",
+   "notes": [
+    "Twenty-two names run together without spaces in heavy slab caps across a black square, wrapping mid-word from line to line; each musician's initial is picked out in red, blue, yellow or ochre, which is the only thing separating one name from the next.",
+    "The roster is the magazine's jazz poll: Armstrong, Baker, Brookmeyer, Brown, Brubeck, Desmond, Fitzgerald, Getz, Gillespie, Goodman, Hampton, J.J. Johnson, Kenton, Kessel, Manne, Mulligan, Rogers, Shank, Sinatra, Teagarden, Ventura, Winding."
+   ],
+   "verified_against": "Discogs release 3960066 — The Playboy Jazz All-Stars, Playboy Records, 1957 — which carries the explicit credit 'Design [Album Cover Designed By]: Emmett McBain'. The tracklist artists match every name on the cover, including Charlie Ventura, who appears on Volume 1 but not on Volumes 2 or 3.",
+   "source_page": "https://www.discogs.com/release/3960066",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/pasted2/raw/04.bin",
+   "source_px": [
+    1198,
+    1200
+   ],
+   "colors": [
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Emmett McBain"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Playboy Records"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "subject",
+     "v": "jazz"
+    },
+    {
+     "k": "subject",
+     "v": "typography"
+    },
+    {
+     "k": "artist",
+     "v": "Various"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Discogs release 3960066 — The Playboy Jazz All-Stars, Playboy Records, 1957 — which carries the explicit credit 'Design [Album Cover Designed By]: Emmett McBain'. The tracklist artists match every name on the cover, including Charlie Ventura, who appears on Volume 1 but not on Volumes 2 or 3.",
+   "hue": 50.86,
+   "light": 0.3653,
+   "chroma": 0.1947,
+   "punch": 0.0746
+  },
+  "todd sent 2026-09-05 batch::natkin-lil-ed": {
+   "id": "CRVI001392",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI001392.jpg",
+   "original_px": [
+    2821,
+    4162
+   ],
+   "original_bytes": 1862334,
+   "identity": "todd sent 2026-09-05 batch::natkin-lil-ed",
+   "maker": "Paul Natkin",
+   "title": "Lil' Ed & The Blues Imperials",
+   "year": "",
+   "subtitle": "Photograph by Paul Natkin",
+   "notes": [
+    "Lil' Ed Williams mid-stride in a red suit and fez against a plain ground, the guitar swung out to his left.",
+    "⚠️ The photographer's credit comes from the filename on the band's own website (Lil-Ed-Blues-Imperials-01-Photo-Paul-Natkin.jpg), not from a caption. No date is stated anywhere on the page."
+   ],
+   "verified_against": "The band's official site liledblues.com, whose own filename for this publicity photograph credits Paul Natkin. That is a single credible source for the attribution but a weak one — a filename, not a caption — and it is recorded here as such rather than stated flatly.",
+   "source_page": "https://www.liledblues.com/",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/pasted2/raw/07.bin",
+   "source_px": [
+    2821,
+    4162
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "photographer",
+     "v": "Paul Natkin"
+    },
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Lil' Ed & The Blues Imperials"
+    },
+    {
+     "k": "subject",
+     "v": "music"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The band's official site liledblues.com, whose own filename for this publicity photograph credits Paul Natkin. That is a single credible source for the attribution but a weak one — a filename, not a caption — and it is recorded here as such rather than stated flatly.",
+   "hue": 7.76,
+   "light": 0.8407,
+   "chroma": 0.3899,
+   "punch": 0.1058
+  },
+  "todd sent 2026-09-05 batch::dechirico-song-of-love": {
+   "id": "CRVI001393",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI001393.jpg",
+   "original_px": [
+    1249,
+    1535
+   ],
+   "original_bytes": 1337010,
+   "identity": "todd sent 2026-09-05 batch::dechirico-song-of-love",
+   "maker": "Giorgio de Chirico",
+   "title": "The Song of Love",
+   "year": "1914",
+   "subtitle": "Giorgio de Chirico · 1914",
+   "notes": [
+    "A green ball, a plaster Apollo head and an outsized red rubber glove are pinned to a wall beside an arcade, a locomotive smoking behind it."
+   ],
+   "verified_against": "The Museum of Modern Art, New York, which owns the painting (The Song of Love, Paris, June-July 1914, oil on canvas). Image file from Wikipedia.",
+   "source_page": "https://www.moma.org/collection/works/80419",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/pasted2/raw/09.bin",
+   "source_px": [
+    1249,
+    1535
+   ],
+   "colors": [
+    "yellow",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Giorgio de Chirico"
+    },
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "metaphysical painting"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Museum of Modern Art, New York, which owns the painting (The Song of Love, Paris, June-July 1914, oil on canvas). Image file from Wikipedia.",
+   "hue": 210.98,
+   "light": 0.3353,
+   "chroma": 0.4719,
+   "punch": 0.1207
+  },
+  "todd sent 2026-09-05 batch::dechirico-the-seer": {
+   "id": "CRVI001394",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI001394.jpg",
+   "original_px": [
+    1541,
+    2000
+   ],
+   "original_bytes": 813027,
+   "identity": "todd sent 2026-09-05 batch::dechirico-the-seer",
+   "maker": "Giorgio de Chirico",
+   "title": "The Seer",
+   "year": "1914",
+   "subtitle": "Giorgio de Chirico · 1914",
+   "notes": [
+    "A seated mannequin with a blank ovoid head faces a dark board marked with a perspective diagram; a red-brown leg juts forward on a raked wooden stage."
+   ],
+   "verified_against": "The Museum of Modern Art, work 80589 — Giorgio de Chirico, The Seer, Paris, winter 1914-15. Matched to MoMA's own page by the media identifier carried in the image URL rather than by eye.",
+   "source_page": "https://www.moma.org/collection/works/80589",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/pasted2/raw/11.bin",
+   "source_px": [
+    1541,
+    2000
+   ],
+   "colors": [
+    "orange",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Giorgio de Chirico"
+    },
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "metaphysical painting"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Museum of Modern Art, work 80589 — Giorgio de Chirico, The Seer, Paris, winter 1914-15. Matched to MoMA's own page by the media identifier carried in the image URL rather than by eye.",
+   "hue": 35.19,
+   "light": 0.2335,
+   "chroma": 0.6758,
+   "punch": 0.1408
+  },
+  "todd sent 2026-09-05 batch::dechirico-red-tower": {
+   "id": "CRVI001395",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI001395.jpg",
+   "original_px": [
+    1280,
+    925
+   ],
+   "original_bytes": 481266,
+   "identity": "todd sent 2026-09-05 batch::dechirico-red-tower",
+   "maker": "Giorgio de Chirico",
+   "title": "The Red Tower",
+   "year": "1913",
+   "subtitle": "Giorgio de Chirico · 1913",
+   "notes": [
+    "A cylindrical brick-red tower stands alone in an empty square, an equestrian statue in silhouette to one side, the ground split between raking shadow and hard light."
+   ],
+   "verified_against": "Peggy Guggenheim Collection, Venice — Giorgio de Chirico, The Red Tower (La Tour rouge), 1913, oil on canvas, 73.5 x 100.5 cm, accession 76.2553 PG 64. The accession number appears in the image filename, which is what ties this file to that record.",
+   "source_page": "https://www.guggenheim-venice.it/en/art/works/the-red-tower/",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/pasted2/raw/13.bin",
+   "source_px": [
+    1280,
+    925
+   ],
+   "colors": [
+    "orange",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Giorgio de Chirico"
+    },
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "metaphysical painting"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Peggy Guggenheim Collection, Venice — Giorgio de Chirico, The Red Tower (La Tour rouge), 1913, oil on canvas, 73.5 x 100.5 cm, accession 76.2553 PG 64. The accession number appears in the image filename, which is what ties this file to that record.",
+   "hue": 44.18,
+   "light": 0.2185,
+   "chroma": 0.8201,
+   "punch": 0.1657
+  },
+  "todd sent 2026-09-05 batch::dechirico-evil-genius": {
+   "id": "CRVI001396",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI001396.jpg",
+   "original_px": [
+    1634,
+    2000
+   ],
+   "original_bytes": 1037623,
+   "identity": "todd sent 2026-09-05 batch::dechirico-evil-genius",
+   "maker": "Giorgio de Chirico",
+   "title": "The Evil Genius of a King",
+   "year": "1914",
+   "subtitle": "Giorgio de Chirico · 1914",
+   "notes": [
+    "Painted toys and coloured solids are stacked on a tilted board before a dark red armature, the perspective of each object disagreeing with the next."
+   ],
+   "verified_against": "The Museum of Modern Art, object 112.1936 — Giorgio de Chirico, The Evil Genius of a King, Paris 1914-15, oil on canvas, 61 x 50.2 cm. Matched by the media identifier in the image URL.",
+   "source_page": "https://www.moma.org/collection/works/78834",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/pasted2/raw/16.bin",
+   "source_px": [
+    1634,
+    2000
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Giorgio de Chirico"
+    },
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "metaphysical painting"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Museum of Modern Art, object 112.1936 — Giorgio de Chirico, The Evil Genius of a King, Paris 1914-15, oil on canvas, 61 x 50.2 cm. Matched by the media identifier in the image URL.",
+   "hue": 35.61,
+   "light": 0.3081,
+   "chroma": 0.4813,
+   "punch": 0.1652
+  },
+  "todd sent 2026-09-05 batch::dechirico-enigma-of-a-day": {
+   "id": "CRVI001397",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI001397.jpg",
+   "original_px": [
+    1504,
+    2000
+   ],
+   "original_bytes": 609026,
+   "identity": "todd sent 2026-09-05 batch::dechirico-enigma-of-a-day",
+   "maker": "Giorgio de Chirico",
+   "title": "The Enigma of a Day",
+   "year": "1914",
+   "subtitle": "Giorgio de Chirico · 1914",
+   "notes": [
+    "A statue on a tall plinth stands with its back to the viewer in a long arcaded piazza; two tiny figures throw shadows far across the orange ground and factory chimneys close the horizon."
+   ],
+   "verified_against": "The Museum of Modern Art, object 1211.1979, James Thrall Soby Bequest — Giorgio de Chirico, The Enigma of a Day, Paris, early 1914, oil on canvas, 185.5 x 139.7 cm. Matched by the media identifier in the image URL.",
+   "source_page": "https://www.moma.org/collection/works/80587",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/pasted2/raw/17.bin",
+   "source_px": [
+    1504,
+    2000
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Giorgio de Chirico"
+    },
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "metaphysical painting"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Museum of Modern Art, object 1211.1979, James Thrall Soby Bequest — Giorgio de Chirico, The Enigma of a Day, Paris, early 1914, oil on canvas, 185.5 x 139.7 cm. Matched by the media identifier in the image URL.",
+   "hue": 38.8,
+   "light": 0.2415,
+   "chroma": 0.8452,
+   "punch": 0.1813
+  },
+  "todd sent 2026-09-05 batch::dechirico-disquieting-muses": {
+   "id": "CRVI001398",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI001398.jpg",
+   "original_px": [
+    1943,
+    3000
+   ],
+   "original_bytes": 2139260,
+   "identity": "todd sent 2026-09-05 batch::dechirico-disquieting-muses",
+   "maker": "Giorgio de Chirico",
+   "title": "The Disquieting Muses",
+   "year": "1918",
+   "subtitle": "Giorgio de Chirico · 1918",
+   "notes": [
+    "Two mannequin figures stand on a boarded stage before the Castello Estense at Ferrara, one seated with its head set down beside it, the sky burning green to red behind."
+   ],
+   "verified_against": "Obelisk Art History's record for the painting, whose page and image alt text both name it The Disquieting Muses, Giorgio de Chirico, 1918.",
+   "source_page": "https://www.arthistoryproject.com/artists/giorgio-de-chirico/",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/pasted2/raw/19.bin",
+   "source_px": [
+    1943,
+    3000
+   ],
+   "colors": [
+    "orange",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Giorgio de Chirico"
+    },
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "metaphysical painting"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Obelisk Art History's record for the painting, whose page and image alt text both name it The Disquieting Muses, Giorgio de Chirico, 1918.",
+   "hue": 32.36,
+   "light": 0.3445,
+   "chroma": 0.6058,
+   "punch": 0.1702
+  },
+  "todd sent 2026-09-05 batch::dechirico-two-masks": {
+   "id": "CRVI001399",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI001399.jpg",
+   "original_px": [
+    1682,
+    2171
+   ],
+   "original_bytes": 374901,
+   "identity": "todd sent 2026-09-05 batch::dechirico-two-masks",
+   "maker": "Giorgio de Chirico",
+   "title": "The Two Masks",
+   "year": "1926",
+   "subtitle": "Giorgio de Chirico · 1926",
+   "notes": [
+    "Two heads in profile fill the canvas, one dark and ridged, one blank and pale, with a small architectural fragment wedged between them."
+   ],
+   "verified_against": "Obelisk Art History's page for the work, titled The Two Masks by Giorgio de Chirico and dated 1926.",
+   "source_page": "https://www.arthistoryproject.com/artists/giorgio-de-chirico/the-two-masks/",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/pasted2/raw/25.bin",
+   "source_px": [
+    1682,
+    2171
+   ],
+   "colors": [
+    "yellow",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Giorgio de Chirico"
+    },
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "subject",
+     "v": "metaphysical painting"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Obelisk Art History's page for the work, titled The Two Masks by Giorgio de Chirico and dated 1926.",
+   "hue": 45.77,
+   "light": 0.4349,
+   "chroma": 0.7773,
+   "punch": 0.2009
+  },
+  "todd sent 2026-09-05 batch::boettner-face-art": {
+   "id": "CRVI001400",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI001400.jpg",
+   "original_px": [
+    2000,
+    2667
+   ],
+   "original_bytes": 455604,
+   "identity": "todd sent 2026-09-05 batch::boettner-face-art",
+   "maker": "Lorenza Böttner",
+   "title": "Face Art",
+   "year": "1983",
+   "subtitle": "Lorenza Böttner · 1983 · black and white photograph",
+   "notes": [
+    "A frontal bust-length self-portrait, the face painted with a hard dark chevron running from the brow down over the eyes and cheekbones."
+   ],
+   "verified_against": "Hyperallergic's review of the Böttner exhibition Requiem for the Norm, which captions this photograph 'Lorenza Böttner, \\\"Face Art\\\" (1983), black and white photography'.",
+   "source_page": "https://hyperallergic.com/lorenza-bottner-requiem-for-the-norm/",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/pasted2/raw/27.bin",
+   "source_px": [
+    2000,
+    2667
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Lorenza Böttner"
+    },
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "subject",
+     "v": "self-portrait"
+    },
+    {
+     "k": "subject",
+     "v": "the body"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Hyperallergic's review of the Böttner exhibition Requiem for the Norm, which captions this photograph 'Lorenza Böttner, \\\"Face Art\\\" (1983), black and white photography'.",
+   "hue": null,
+   "light": 0.7972,
+   "chroma": 0.0,
+   "punch": 0.0
+  },
+  "todd sent 2026-09-05 batch::marvin-israel-handiwork": {
+   "id": "CRVI001401",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI001401.jpg",
+   "original_px": [
+    1616,
+    2000
+   ],
+   "original_bytes": 846573,
+   "identity": "todd sent 2026-09-05 batch::marvin-israel-handiwork",
+   "maker": "Marvin Israel",
+   "title": "Handiwork, from Graphik USA",
+   "year": "1968",
+   "subtitle": "Marvin Israel · 1968 · screenprint, one from a portfolio of eight",
+   "notes": [
+    "A hand pushes up through a white scalloped shape on a warm tan ground, a red mouth set where a face would be, with fields of blue and red dots above and below.",
+    "Inscribed in red along the lower edge, 18-100 Handiwork, and signed M Israel 68. Composition and sheet both 75.1 x 60 cm; edition of 100, published by Edition Plus, Baden-Baden."
+   ],
+   "verified_against": "The Museum of Modern Art, object 738.1968.3, John B. Turner Fund — Marvin Israel, Handiwork from Graphik USA, 1968, one from a portfolio of eight screenprints.",
+   "source_page": "https://www.moma.org/collection/works/73676",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/pasted2/raw/28.bin",
+   "source_px": [
+    1616,
+    2000
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Marvin Israel"
+    },
+    {
+     "k": "artist",
+     "v": "Marvin Israel"
+    },
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "subject",
+     "v": "the body"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Museum of Modern Art, object 738.1968.3, John B. Turner Fund — Marvin Israel, Handiwork from Graphik USA, 1968, one from a portfolio of eight screenprints.",
+   "hue": 35.05,
+   "light": 0.7982,
+   "chroma": 0.8746,
+   "punch": 0.2698
   }
  }
 }
