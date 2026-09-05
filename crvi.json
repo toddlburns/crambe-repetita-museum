@@ -74048,6 +74048,402 @@
    "hue": 34.96,
    "light": 0.6656,
    "chroma": 0.2681
+  },
+  {
+   "id": "CRVI001408",
+   "published": true,
+   "minted": "2026-08-26",
+   "punch": 0.4116,
+   "source_url": "https://www.forbes.com/sites/jimclash/2018/08/16/an-interview-with-60s-pop-artist-peter-max/",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001408.jpg",
+   "source_label": "",
+   "image": "images/CRVI001408.jpg",
+   "original": "originals/CRVI001408.jpg",
+   "vector": "",
+   "original_px": [
+    1200,
+    1697
+   ],
+   "original_bytes": 2124360,
+   "maker": "Peter Max",
+   "title": "Different Drummer",
+   "subtitle": "Peter Max · 1960s · poster",
+   "year": "",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Peter Max"
+    },
+    {
+     "k": "designer",
+     "v": "Peter Max"
+    },
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "subject",
+     "v": "psychedelia"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 52.2,
+   "light": 0.5705,
+   "chroma": 0.9069
+  },
+  {
+   "id": "CRVI001409",
+   "published": true,
+   "minted": "2026-08-26",
+   "punch": 0.3795,
+   "source_url": "https://journalpanorama.org/article/psychedelic-patriotism/",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001409.jpg",
+   "source_label": "",
+   "image": "images/CRVI001409.jpg",
+   "original": "originals/CRVI001409.jpg",
+   "vector": "",
+   "original_px": [
+    2560,
+    1686
+   ],
+   "original_bytes": 307509,
+   "maker": "Peter Max",
+   "title": "The American Cosmic Jumper in the Land of Rainbows and Stars",
+   "subtitle": "Peter Max · 1976 · billboard for the GSA Art-in-Architecture Program",
+   "year": "1976",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Peter Max"
+    },
+    {
+     "k": "designer",
+     "v": "Peter Max"
+    },
+    {
+     "k": "type",
+     "v": "billboard"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "client",
+     "v": "General Services Administration"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "psychedelia"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 43.88,
+   "light": 0.522,
+   "chroma": 0.9725
+  },
+  {
+   "id": "CRVI001410",
+   "published": true,
+   "minted": "2026-08-26",
+   "punch": 0.4942,
+   "source_url": "https://journalpanorama.org/article/psychedelic-patriotism/",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001410.jpg",
+   "source_label": "",
+   "image": "images/CRVI001410.jpg",
+   "original": "originals/CRVI001410.jpg",
+   "vector": "",
+   "original_px": [
+    2560,
+    1716
+   ],
+   "original_bytes": 371543,
+   "maker": "Peter Max",
+   "title": "The Color Spectrum of America — Many Faiths",
+   "subtitle": "Peter Max · 1976 · billboard for the GSA Art-in-Architecture Program",
+   "year": "1976",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Peter Max"
+    },
+    {
+     "k": "designer",
+     "v": "Peter Max"
+    },
+    {
+     "k": "type",
+     "v": "billboard"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "client",
+     "v": "General Services Administration"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "psychedelia"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    }
+   ],
+   "hue": 43.46,
+   "light": 0.4355,
+   "chroma": 0.9646
+  },
+  {
+   "id": "CRVI001411",
+   "published": true,
+   "minted": "2026-08-26",
+   "punch": 0.3238,
+   "source_url": "https://www.sfmoma.org/artwork/77.102.25/",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001411.jpg",
+   "source_label": "",
+   "image": "images/CRVI001411.jpg",
+   "original": "originals/CRVI001411.jpg",
+   "vector": "",
+   "original_px": [
+    1738,
+    2560
+   ],
+   "original_bytes": 1236166,
+   "maker": "Robert Rauschenberg",
+   "title": "Banner (Stoned Moon)",
+   "subtitle": "Robert Rauschenberg · 1969 · lithograph, Gemini G.E.L.",
+   "year": "1969",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Robert Rauschenberg"
+    },
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "space"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 204.89,
+   "light": 0.6682,
+   "chroma": 0.8535
+  },
+  {
+   "id": "CRVI001412",
+   "published": true,
+   "minted": "2026-08-26",
+   "punch": 0.1195,
+   "source_url": "https://www.tate.org.uk/art/artworks/de-chirico-the-uncertainty-of-the-poet-t04109",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001412.jpg",
+   "source_label": "",
+   "image": "images/CRVI001412.jpg",
+   "original": "originals/CRVI001412.jpg",
+   "vector": "",
+   "original_px": [
+    1143,
+    1300
+   ],
+   "original_bytes": 290123,
+   "maker": "Giorgio de Chirico",
+   "title": "The Uncertainty of the Poet",
+   "subtitle": "Giorgio de Chirico · 1913 · oil on canvas · Tate",
+   "year": "1913",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Giorgio de Chirico"
+    },
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "metaphysical painting"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 54.05,
+   "light": 0.3758,
+   "chroma": 0.3192
+  },
+  {
+   "id": "CRVI001413",
+   "published": true,
+   "minted": "2026-08-26",
+   "punch": 0.1617,
+   "source_url": "https://www.christies.com/",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001413.jpg",
+   "source_label": "",
+   "image": "images/CRVI001413.jpg",
+   "original": "originals/CRVI001413.jpg",
+   "vector": "",
+   "original_px": [
+    2394,
+    3200
+   ],
+   "original_bytes": 1875212,
+   "maker": "Giorgio de Chirico",
+   "title": "Il continente misterioso",
+   "subtitle": "Giorgio de Chirico · 1968",
+   "year": "1968",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Giorgio de Chirico"
+    },
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "subject",
+     "v": "metaphysical painting"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 35.76,
+   "light": 0.4695,
+   "chroma": 0.6099
+  },
+  {
+   "id": "CRVI001414",
+   "published": true,
+   "minted": "2026-08-26",
+   "punch": 0.2404,
+   "source_url": "https://www.christies.com/",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001414.jpg",
+   "source_label": "",
+   "image": "images/CRVI001414.jpg",
+   "original": "originals/CRVI001414.jpg",
+   "vector": "",
+   "original_px": [
+    2411,
+    3200
+   ],
+   "original_bytes": 2547210,
+   "maker": "Giorgio de Chirico",
+   "title": "Gentiluomo in villeggiatura",
+   "subtitle": "Giorgio de Chirico · date unrecorded",
+   "year": "",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Giorgio de Chirico"
+    },
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "subject",
+     "v": "metaphysical painting"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 39.59,
+   "light": 0.3816,
+   "chroma": 0.792
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "next": 1408,
+ "next": 1415,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -84428,6 +84428,433 @@
    "light": 0.6656,
    "chroma": 0.2681,
    "punch": 0.1163
+  },
+  "todd sent 2026-09-05 b3::petermax-different-drummer": {
+   "id": "CRVI001408",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI001408.jpg",
+   "original_px": [
+    1200,
+    1697
+   ],
+   "original_bytes": 2124360,
+   "identity": "todd sent 2026-09-05 b3::petermax-different-drummer",
+   "maker": "Peter Max",
+   "title": "Different Drummer",
+   "year": "",
+   "subtitle": "Peter Max · 1960s · poster",
+   "notes": [
+    "A figure rides a crescent through a burst of rainbow rays and scattered stars, drawn in heavy black line and filled with flat unmodulated colour.",
+    "Max gave a copy of this poster to Jimi Hendrix, inscribed to him.",
+    "⚠️ NO EXACT YEAR. Peter Max Studio places it in the peak of his 1960s Cosmic Art period but prints no date, so the decade is recorded and the year left empty rather than invented."
+   ],
+   "verified_against": "Peter Max Studio's own store record for Different Drummer, which names the work and places it in his 1960s Cosmic Art period, together with Jim Clash's Forbes interview with Max of 16 August 2018, the article this image file comes from, in which Max describes giving the Different Drummer poster to Jimi Hendrix.",
+   "source_page": "https://www.forbes.com/sites/jimclash/2018/08/16/an-interview-with-60s-pop-artist-peter-max/",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/b3/raw/01.bin",
+   "source_px": [
+    1200,
+    1697
+   ],
+   "colors": [
+    "green",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Peter Max"
+    },
+    {
+     "k": "designer",
+     "v": "Peter Max"
+    },
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "subject",
+     "v": "psychedelia"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Peter Max Studio's own store record for Different Drummer, which names the work and places it in his 1960s Cosmic Art period, together with Jim Clash's Forbes interview with Max of 16 August 2018, the article this image file comes from, in which Max describes giving the Different Drummer poster to Jimi Hendrix.",
+   "hue": 52.2,
+   "light": 0.5705,
+   "chroma": 0.9069,
+   "punch": 0.4116
+  },
+  "todd sent 2026-09-05 b3::petermax-american-cosmic-jumper": {
+   "id": "CRVI001409",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI001409.jpg",
+   "original_px": [
+    2560,
+    1686
+   ],
+   "original_bytes": 307509,
+   "identity": "todd sent 2026-09-05 b3::petermax-american-cosmic-jumper",
+   "maker": "Peter Max",
+   "title": "The American Cosmic Jumper in the Land of Rainbows and Stars",
+   "year": "1976",
+   "subtitle": "Peter Max · 1976 · billboard for the GSA Art-in-Architecture Program",
+   "notes": [
+    "A leaping figure is caught inside a ringed disc of red, green and blue, stars scattered loose across a sand-coloured ground.",
+    "One of seven billboards Max made for the United States Bicentennial, installed at border entry stations."
+   ],
+   "verified_against": "Panorama, the journal of the Association of Historians of American Art, in the article 'Psychedelic Patriotism: Peter Max Sparks a Debate on Modern Representations of America'. The image here is byte-identical to the article's figure (perceptual hash distance 0), which is how it is tied to this caption rather than to any of the other six billboards in the series. Billboard, 4 x 6 ft, GSA Art-in-Architecture Program, released under FOIA 2019-00170; photographed by Page Conservation.",
+   "source_page": "https://journalpanorama.org/article/psychedelic-patriotism/",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/b3/raw/02.bin",
+   "source_px": [
+    2560,
+    1686
+   ],
+   "colors": [
+    "orange",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Peter Max"
+    },
+    {
+     "k": "designer",
+     "v": "Peter Max"
+    },
+    {
+     "k": "type",
+     "v": "billboard"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "client",
+     "v": "General Services Administration"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "psychedelia"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Panorama, the journal of the Association of Historians of American Art, in the article 'Psychedelic Patriotism: Peter Max Sparks a Debate on Modern Representations of America'. The image here is byte-identical to the article's figure (perceptual hash distance 0), which is how it is tied to this caption rather than to any of the other six billboards in the series. Billboard, 4 x 6 ft, GSA Art-in-Architecture Program, released under FOIA 2019-00170; photographed by Page Conservation.",
+   "hue": 43.88,
+   "light": 0.522,
+   "chroma": 0.9725,
+   "punch": 0.3795
+  },
+  "todd sent 2026-09-05 b3::petermax-color-spectrum-many-faiths": {
+   "id": "CRVI001410",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI001410.jpg",
+   "original_px": [
+    2560,
+    1716
+   ],
+   "original_bytes": 371543,
+   "identity": "todd sent 2026-09-05 b3::petermax-color-spectrum-many-faiths",
+   "maker": "Peter Max",
+   "title": "The Color Spectrum of America — Many Faiths",
+   "year": "1976",
+   "subtitle": "Peter Max · 1976 · billboard for the GSA Art-in-Architecture Program",
+   "notes": [
+    "Two mirrored profiles face outward from a central sunburst on a yellow field, flowers opening at either side.",
+    "One of seven billboards Max made for the United States Bicentennial, installed at border entry stations."
+   ],
+   "verified_against": "Panorama, the journal of the Association of Historians of American Art, in the article 'Psychedelic Patriotism: Peter Max Sparks a Debate on Modern Representations of America'. The image here is byte-identical to the article's figure (perceptual hash distance 0), which is how it is tied to this caption rather than to any of the other six billboards in the series. Billboard, 4 x 6 ft, GSA Art-in-Architecture Program, released under FOIA 2019-00170; photographed by Page Conservation.",
+   "source_page": "https://journalpanorama.org/article/psychedelic-patriotism/",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/b3/raw/06.bin",
+   "source_px": [
+    2560,
+    1716
+   ],
+   "colors": [
+    "yellow",
+    "pink"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Peter Max"
+    },
+    {
+     "k": "designer",
+     "v": "Peter Max"
+    },
+    {
+     "k": "type",
+     "v": "billboard"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "client",
+     "v": "General Services Administration"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "psychedelia"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Panorama, the journal of the Association of Historians of American Art, in the article 'Psychedelic Patriotism: Peter Max Sparks a Debate on Modern Representations of America'. The image here is byte-identical to the article's figure (perceptual hash distance 0), which is how it is tied to this caption rather than to any of the other six billboards in the series. Billboard, 4 x 6 ft, GSA Art-in-Architecture Program, released under FOIA 2019-00170; photographed by Page Conservation.",
+   "hue": 43.46,
+   "light": 0.4355,
+   "chroma": 0.9646,
+   "punch": 0.4942
+  },
+  "todd sent 2026-09-05 batch::rauschenberg-banner-stoned-moon": {
+   "id": "CRVI001411",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI001411.jpg",
+   "original_px": [
+    1738,
+    2560
+   ],
+   "original_bytes": 1236166,
+   "identity": "todd sent 2026-09-05 batch::rauschenberg-banner-stoned-moon",
+   "maker": "Robert Rauschenberg",
+   "title": "Banner (Stoned Moon)",
+   "year": "1969",
+   "subtitle": "Robert Rauschenberg · 1969 · lithograph, Gemini G.E.L.",
+   "notes": [
+    "A crate label of stacked oranges sits inside a wash of blue brushwork, a rubber-stamped PREP COMPLETE reading through it at the lower left.",
+    "From the Stoned Moon series of thirty-four lithographs Rauschenberg made after NASA invited him to Cape Canaveral for the Apollo 11 launch in July 1969. Printed at Gemini G.E.L., Los Angeles. 54 1/2 x 36 in.",
+    "Signed in pencil at lower right, RAUSCHENBERG 6/40 69 — which is how the sheet was identified before the accession number was traced."
+   ],
+   "verified_against": "San Francisco Museum of Modern Art, accession 77.102.25 — Robert Rauschenberg, Banner (Stoned Moon), 1969, lithograph, gift of Harry W. and Mary Margaret Anderson. The accession number appears in the image filename, and the file is served from SFMOMA's own CDN.",
+   "source_page": "https://www.sfmoma.org/artwork/77.102.25/",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/pasted2/raw/06.bin",
+   "source_px": [
+    1738,
+    2560
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Robert Rauschenberg"
+    },
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "space"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "San Francisco Museum of Modern Art, accession 77.102.25 — Robert Rauschenberg, Banner (Stoned Moon), 1969, lithograph, gift of Harry W. and Mary Margaret Anderson. The accession number appears in the image filename, and the file is served from SFMOMA's own CDN.",
+   "hue": 204.89,
+   "light": 0.6682,
+   "chroma": 0.8535,
+   "punch": 0.3238
+  },
+  "todd sent 2026-09-05 batch::dechirico-uncertainty-of-the-poet": {
+   "id": "CRVI001412",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI001412.jpg",
+   "original_px": [
+    1143,
+    1300
+   ],
+   "original_bytes": 290123,
+   "identity": "todd sent 2026-09-05 batch::dechirico-uncertainty-of-the-poet",
+   "maker": "Giorgio de Chirico",
+   "title": "The Uncertainty of the Poet",
+   "year": "1913",
+   "subtitle": "Giorgio de Chirico · 1913 · oil on canvas · Tate",
+   "notes": [
+    "A headless plaster torso and a heap of bananas share a raking green plaza, an arcade to the right and a train crossing the wall behind.",
+    "⚠️ The canvas is inscribed lower left 'georgio de Chirico' with the date in Roman numerals, M.CM.XII — 1912. Tate dates the painting 1913. Both are recorded here; de Chirico's own dating of his early canvases is not always consistent with the catalogue.",
+    "This file was recovered after the host returned 403 to a plain request, and the WordPress size suffix was stripped to reach 1143x1300 rather than the 768x873 first offered."
+   ],
+   "verified_against": "Tate, accession T04109 — Giorgio de Chirico, The Uncertainty of the Poet, 1913.",
+   "source_page": "https://www.tate.org.uk/art/artworks/de-chirico-the-uncertainty-of-the-poet-t04109",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/pasted2/raw/26.bin",
+   "source_px": [
+    1143,
+    1300
+   ],
+   "colors": [
+    "yellow",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Giorgio de Chirico"
+    },
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "metaphysical painting"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Tate, accession T04109 — Giorgio de Chirico, The Uncertainty of the Poet, 1913.",
+   "hue": 54.05,
+   "light": 0.3758,
+   "chroma": 0.3192,
+   "punch": 0.1195
+  },
+  "todd sent 2026-09-05 batch::dechirico-continente-misterioso": {
+   "id": "CRVI001413",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI001413.jpg",
+   "original_px": [
+    2394,
+    3200
+   ],
+   "original_bytes": 1875212,
+   "identity": "todd sent 2026-09-05 batch::dechirico-continente-misterioso",
+   "maker": "Giorgio de Chirico",
+   "title": "Il continente misterioso",
+   "year": "1968",
+   "subtitle": "Giorgio de Chirico · 1968",
+   "notes": [
+    "Pale geometric solids and a fragment of coastline map are stacked against timber framing, the whole thing lit like a stage flat.",
+    "⚠️ Weaker sourcing than the museum-held works in this group: the title comes from Christie's own image filename for lot 476 of sale CKS 16933 (2019) and the 1968 date from auction-record aggregators, not from a collection catalogue."
+   ],
+   "verified_against": "Christie's, whose LotImages file for this work names it 'giorgio de chirico il continente misterioso' (2019, sale CKS 16933, lot 476); dated 1968 in auction records. No collection record was located.",
+   "source_page": "https://www.christies.com/",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/pasted2/raw/22.bin",
+   "source_px": [
+    2394,
+    3200
+   ],
+   "colors": [
+    "orange",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Giorgio de Chirico"
+    },
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "subject",
+     "v": "metaphysical painting"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Christie's, whose LotImages file for this work names it 'giorgio de chirico il continente misterioso' (2019, sale CKS 16933, lot 476); dated 1968 in auction records. No collection record was located.",
+   "hue": 35.76,
+   "light": 0.4695,
+   "chroma": 0.6099,
+   "punch": 0.1617
+  },
+  "todd sent 2026-09-05 batch::dechirico-gentiluomo-in-villeggiatura": {
+   "id": "CRVI001414",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI001414.jpg",
+   "original_px": [
+    2411,
+    3200
+   ],
+   "original_bytes": 2547210,
+   "identity": "todd sent 2026-09-05 batch::dechirico-gentiluomo-in-villeggiatura",
+   "maker": "Giorgio de Chirico",
+   "title": "Gentiluomo in villeggiatura",
+   "year": "",
+   "subtitle": "Giorgio de Chirico · date unrecorded",
+   "notes": [
+    "A mannequin figure in a patterned jerkin stands at a white picket fence with a small horse beside it, against a boldly combed ochre ground.",
+    "⚠️ NO DATE ESTABLISHED, and no decade tag is applied for that reason. The title comes from Christie's own image filename for lot 467 of sale CKS 16933 (2019); no collection record was found and no year is stated here rather than inferring one from the sale."
+   ],
+   "verified_against": "Christie's, whose LotImages file for this work names it 'giorgio de chirico gentiluomo in villeggiatura' (2019, sale CKS 16933, lot 467). That is a single source and it establishes artist and title only.",
+   "source_page": "https://www.christies.com/",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/pasted2/raw/12.bin",
+   "source_px": [
+    2411,
+    3200
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Giorgio de Chirico"
+    },
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "subject",
+     "v": "metaphysical painting"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Christie's, whose LotImages file for this work names it 'giorgio de chirico gentiluomo in villeggiatura' (2019, sale CKS 16933, lot 467). That is a single source and it establishes artist and title only.",
+   "hue": 39.59,
+   "light": 0.3816,
+   "chroma": 0.792,
+   "punch": 0.2404
   }
  }
 }
