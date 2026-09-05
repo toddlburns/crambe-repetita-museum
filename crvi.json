@@ -71034,6 +71034,62 @@
    "chroma": 0.7476
   },
   {
+   "id": "CRVI001354",
+   "published": true,
+   "minted": "2026-08-27",
+   "punch": 0.0044,
+   "source_url": "https://www.davidzwirner.com/artworks/ruth-asawa-untitled-s-237-hanging-six-lobed-interlocking-continuous-form--4b3dc",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001354.jpg",
+   "source_label": "",
+   "image": "images/CRVI001354.jpg",
+   "original": "originals/CRVI001354.jpg",
+   "vector": "",
+   "original_px": [
+    2250,
+    3000
+   ],
+   "original_bytes": 370869,
+   "maker": "Ruth Asawa",
+   "title": "Untitled (S.237, Hanging Six-Lobed, Interlocking Continuous Form)",
+   "subtitle": "Ruth Asawa · c. 1958 · hanging sculpture, enameled copper and brass wire",
+   "year": "1958",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Ruth Asawa"
+    },
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "medium",
+     "v": "wire"
+    },
+    {
+     "k": "subject",
+     "v": "sculpture"
+    },
+    {
+     "k": "color",
+     "v": "white"
+    }
+   ],
+   "hue": null,
+   "light": 0.8866,
+   "chroma": 0.0001
+  },
+  {
    "id": "CRVI001355",
    "published": true,
    "minted": "2026-09-04",
@@ -71132,6 +71188,66 @@
    "hue": null,
    "light": 0.7373,
    "chroma": 0.0885
+  },
+  {
+   "id": "CRVI001357",
+   "published": true,
+   "minted": "2026-08-27",
+   "punch": 0.021,
+   "source_url": "https://www.davidzwirner.com/artworks/ruth-asawa-untitled-s-055-hanging-asymmetrical-nine-interlocking-bubbles--9ef2f",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001357.jpg",
+   "source_label": "",
+   "image": "images/CRVI001357.jpg",
+   "original": "originals/CRVI001357.jpg",
+   "vector": "",
+   "original_px": [
+    3000,
+    2250
+   ],
+   "original_bytes": 720155,
+   "maker": "Ruth Asawa",
+   "title": "Untitled (S.055, Hanging Asymmetrical Nine Interlocking Bubbles)",
+   "subtitle": "Ruth Asawa · c. 1955 · hanging sculpture, galvanized steel, enameled copper and brass wire",
+   "year": "1955",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Ruth Asawa"
+    },
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "medium",
+     "v": "wire"
+    },
+    {
+     "k": "subject",
+     "v": "sculpture"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "white"
+    }
+   ],
+   "hue": null,
+   "light": 0.8279,
+   "chroma": 0.0267
   },
   {
    "id": "CRVI001358",
@@ -72852,6 +72968,70 @@
    "hue": 47.71,
    "light": 0.7579,
    "chroma": 0.3836
+  },
+  {
+   "id": "CRVI001388",
+   "published": true,
+   "minted": "2026-08-26",
+   "punch": 0.0102,
+   "source_url": "https://www.glenstone.org/artworks/untitled-s693-hanging-six-lobed-two-part-discontinuous-surface-with-a-sphere-in-the-first-lobe",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001388.jpg",
+   "source_label": "",
+   "image": "images/CRVI001388.jpg",
+   "original": "originals/CRVI001388.jpg",
+   "vector": "",
+   "original_px": [
+    2239,
+    3000
+   ],
+   "original_bytes": 279116,
+   "maker": "Ruth Asawa",
+   "title": "Untitled (S.693, Hanging Six-Lobed, Two-Part, Discontinuous Surface with a Sphere in the First Lobe)",
+   "subtitle": "Ruth Asawa · c. 1956 · hanging sculpture, brass and iron wire · photograph by Dan Bradica",
+   "year": "1956",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Ruth Asawa"
+    },
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "medium",
+     "v": "wire"
+    },
+    {
+     "k": "subject",
+     "v": "sculpture"
+    },
+    {
+     "k": "photographer",
+     "v": "Dan Bradica"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "white"
+    }
+   ],
+   "hue": null,
+   "light": 0.9164,
+   "chroma": 0.0519
   }
  ]
 }

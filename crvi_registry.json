@@ -1,5 +1,5 @@
 {
- "next": 1388,
+ "next": 1389,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -80921,10 +80921,12 @@
    "published": false,
    "verification": "A page from the production bible for Alejandro Jodorowsky's unmade Dune — the bound presentation book taken to the studios in 1975. Its own title page, photographed as part of the same set, carries the credit line: MICHEL SEYDOUX PRESENTS / A FILM BY ALEXANDRO JODOROWSKY / BASED ON FRANK HERBERT'S NOVEL / DESIGN BY JEAN GIRAUD / MACHINES BY CHRISTOPHER FOSS. Todd photographed this copy in April 2021 and supplied the file on 2026-09-04; the museum holds it byte for byte. The page is numbered 40 DUNE at the head and captioned in both French and English, VAISSEAU HARKONNEN / HARKONNEN SHIP. ⚠️ THIS PLATE IS NOT SIGNED. The bible's credit line narrows the field to Jean Giraud (Mœbius) for design, Christopher Foss for machines and H.R. Giger for the Harkonnen material — but narrowing is not naming, and no hand is claimed here. Two other plates in this batch ARE signed and are attributed accordingly.",
    "hue": null,
-   "light": 0.8159,
-   "chroma": 0.0,
+   "light": 0.8866,
+   "chroma": 0.0001,
    "deleted": true,
-   "deleted_on": "2026-09-04"
+   "deleted_on": "2026-09-04",
+   "number_reused": true,
+   "punch": 0.0044
   },
   "todd sent 2026-09-04 dune::dune-production-bible-harkonnen-structure": {
    "id": "CRVI001355",
@@ -81097,11 +81099,13 @@
    "identity_established": true,
    "published": false,
    "verification": "A page from the production bible for Alejandro Jodorowsky's unmade Dune — the bound presentation book taken to the studios in 1975. Its own title page, photographed as part of the same set, carries the credit line: MICHEL SEYDOUX PRESENTS / A FILM BY ALEXANDRO JODOROWSKY / BASED ON FRANK HERBERT'S NOVEL / DESIGN BY JEAN GIRAUD / MACHINES BY CHRISTOPHER FOSS. Todd photographed this copy in April 2021 and supplied the file on 2026-09-04; the museum holds it byte for byte. ⚠️ ATTRIBUTED FROM THE OBJECT: the plate carries Chris Foss's boxed red F monogram at the lower left, and the bible's own credit line assigns the machines to Christopher Foss. The two agree, so the attribution rests on the artwork rather than on style.",
-   "hue": 7.65,
-   "light": 0.7996,
-   "chroma": 0.1401,
+   "hue": null,
+   "light": 0.8279,
+   "chroma": 0.0267,
    "deleted": true,
-   "deleted_on": "2026-09-04"
+   "deleted_on": "2026-09-04",
+   "number_reused": true,
+   "punch": 0.021
   },
   "todd picked 2026-09-05::karl-haendel-roses-inverted-and-flipped-2023": {
    "id": "CRVI001358",
@@ -83111,6 +83115,220 @@
    "light": 0.7579,
    "chroma": 0.3836,
    "punch": 0.0464
+  },
+  "todd picked 2026-09-05 asawa::s-237-hanging-six-lobed-interlocking-continuous-form": {
+   "id": "CRVI001354",
+   "minted": "2026-08-27",
+   "reused": true,
+   "previously": {
+    "identity": "todd sent 2026-09-04 dune::dune-production-bible-p-40-vaisseau-harkonnen-harkonnen-ship",
+    "maker": "unattributed",
+    "title": "Dune production bible, p. 40 — Vaisseau Harkonnen / Harkonnen Ship",
+    "deleted_on": "2026-09-04"
+   },
+   "original_file": "originals/CRVI001354.jpg",
+   "original_px": [
+    2250,
+    3000
+   ],
+   "original_bytes": 370869,
+   "identity": "todd picked 2026-09-05 asawa::s-237-hanging-six-lobed-interlocking-continuous-form",
+   "maker": "Ruth Asawa",
+   "title": "Untitled (S.237, Hanging Six-Lobed, Interlocking Continuous Form)",
+   "year": "1958",
+   "subtitle": "Ruth Asawa · c. 1958 · hanging sculpture, enameled copper and brass wire",
+   "notes": [
+    "Six lobes looped from enameled copper and brass wire, each form continuing into the next without a join, hung so the shadow doubles the drawing on the wall.",
+    "72 x 15 x 15 inches (182.9 x 38.1 x 38.1 cm). Photographer unrecorded by the gallery."
+   ],
+   "verified_against": "David Zwirner, who represents the Estate of Ruth Asawa. The gallery's artwork page gives artist, catalogue-raisonne number S.237, title, date c. 1958, medium and dimensions in one block; inventory ASARU0425.",
+   "source_url": "https://cdn.sanity.io/images/juzvn5an/release-adp/",
+   "source_page": "https://www.davidzwirner.com/artworks/ruth-asawa-untitled-s-237-hanging-six-lobed-interlocking-continuous-form--4b3dc",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/asawa/full/11.jpg",
+   "source_px": [
+    2250,
+    3000
+   ],
+   "colors": [
+    "white"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Ruth Asawa"
+    },
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "medium",
+     "v": "wire"
+    },
+    {
+     "k": "subject",
+     "v": "sculpture"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "David Zwirner, who represents the Estate of Ruth Asawa. The gallery's artwork page gives artist, catalogue-raisonne number S.237, title, date c. 1958, medium and dimensions in one block; inventory ASARU0425.",
+   "hue": null,
+   "light": 0.8866,
+   "chroma": 0.0001,
+   "punch": 0.0044
+  },
+  "todd picked 2026-09-05 asawa::s-055-hanging-asymmetrical-nine-interlocking-bubbles": {
+   "id": "CRVI001357",
+   "minted": "2026-08-27",
+   "reused": true,
+   "previously": {
+    "identity": "todd sent 2026-09-04 dune::dune-production-bible-leto-s-car",
+    "maker": "Chris Foss",
+    "title": "Dune production bible — Leto's Car",
+    "deleted_on": "2026-09-04"
+   },
+   "original_file": "originals/CRVI001357.jpg",
+   "original_px": [
+    3000,
+    2250
+   ],
+   "original_bytes": 720155,
+   "identity": "todd picked 2026-09-05 asawa::s-055-hanging-asymmetrical-nine-interlocking-bubbles",
+   "maker": "Ruth Asawa",
+   "title": "Untitled (S.055, Hanging Asymmetrical Nine Interlocking Bubbles)",
+   "year": "1955",
+   "subtitle": "Ruth Asawa · c. 1955 · hanging sculpture, galvanized steel, enameled copper and brass wire",
+   "notes": [
+    "Nine bubbles of looped wire interlock off-axis, so the mass gathers to one side rather than stacking symmetrically down a single line.",
+    "Galvanized steel, enameled copper and brass wire, 30 x 25 x 16 inches (76.2 x 63.5 x 40.6 cm). Photographer unrecorded by the gallery."
+   ],
+   "verified_against": "David Zwirner, who represents the Estate of Ruth Asawa. The gallery's artwork page gives artist, catalogue-raisonne number S.055, title, date c. 1955, medium and dimensions in one block; inventory ASARU0160.",
+   "source_url": "https://cdn.sanity.io/images/juzvn5an/release-adp/",
+   "source_page": "https://www.davidzwirner.com/artworks/ruth-asawa-untitled-s-055-hanging-asymmetrical-nine-interlocking-bubbles--9ef2f",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/asawa/full/14.jpg",
+   "source_px": [
+    3000,
+    2250
+   ],
+   "colors": [
+    "orange",
+    "white"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Ruth Asawa"
+    },
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "medium",
+     "v": "wire"
+    },
+    {
+     "k": "subject",
+     "v": "sculpture"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "David Zwirner, who represents the Estate of Ruth Asawa. The gallery's artwork page gives artist, catalogue-raisonne number S.055, title, date c. 1955, medium and dimensions in one block; inventory ASARU0160.",
+   "hue": null,
+   "light": 0.8279,
+   "chroma": 0.0267,
+   "punch": 0.021
+  },
+  "todd picked 2026-09-05 asawa::s-693-hanging-six-lobed-two-part": {
+   "id": "CRVI001388",
+   "minted": "2026-08-26",
+   "original_file": "originals/CRVI001388.jpg",
+   "original_px": [
+    2239,
+    3000
+   ],
+   "original_bytes": 279116,
+   "identity": "todd picked 2026-09-05 asawa::s-693-hanging-six-lobed-two-part",
+   "maker": "Ruth Asawa",
+   "title": "Untitled (S.693, Hanging Six-Lobed, Two-Part, Discontinuous Surface with a Sphere in the First Lobe)",
+   "year": "1956",
+   "subtitle": "Ruth Asawa · c. 1956 · hanging sculpture, brass and iron wire · photograph by Dan Bradica",
+   "notes": [
+    "A six-lobed column in brass and iron wire, one sphere suspended inside the top lobe, the lobes swelling and pinching down the length so the interior form reads through the outer surface.",
+    "72 1/4 x 15 x 15 inches (183.5 x 38.1 x 38.1 cm). Collection of Glenstone Museum, Potomac.",
+    "TWO TITLES ARE IN CIRCULATION FOR THIS ONE WORK. Glenstone, which owns it, calls it 'Discontinuous Surface with a Sphere in the First Lobe'; David Zwirner calls it 'Complex Form within a Form with One Suspended Sphere in the Top Lobe'. Same catalogue number S.693, same date, same medium, same dimensions to the millimetre, and the two photographs show the same object lobe for lobe. The owning collection's title is used here and the gallery's is recorded rather than discarded.",
+    "The image is Glenstone's, not the gallery's. Zwirner's own file is 1920x1440 but holds no real detail at that size - halving it and enlarging it back loses 0.48/255 even measured only along the wire, against 12.91 for this one."
+   ],
+   "verified_against": "Glenstone Museum, Potomac, which owns the work; its collection page gives artist, catalogue number S.693, date c. 1956, medium, dimensions and the photographer Dan Bradica. Corroborated by David Zwirner's artwork page for the same catalogue number (inventory ASARU0006), which agrees on date, medium and dimensions while using a different descriptive title.",
+   "source_url": "https://www.glenstone.org/medias/azure-66327.jpg",
+   "source_page": "https://www.glenstone.org/artworks/untitled-s693-hanging-six-lobed-two-part-discontinuous-surface-with-a-sphere-in-the-first-lobe",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/asawa/full/17_glenstone.jpg",
+   "source_px": [
+    2239,
+    3000
+   ],
+   "colors": [
+    "orange",
+    "white"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Ruth Asawa"
+    },
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "medium",
+     "v": "wire"
+    },
+    {
+     "k": "subject",
+     "v": "sculpture"
+    },
+    {
+     "k": "photographer",
+     "v": "Dan Bradica"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Glenstone Museum, Potomac, which owns the work; its collection page gives artist, catalogue number S.693, date c. 1956, medium, dimensions and the photographer Dan Bradica. Corroborated by David Zwirner's artwork page for the same catalogue number (inventory ASARU0006), which agrees on date, medium and dimensions while using a different descriptive title.",
+   "hue": null,
+   "light": 0.9164,
+   "chroma": 0.0519,
+   "punch": 0.0102
   }
  }
 }
