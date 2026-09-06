@@ -89056,9 +89056,11 @@
    "maker": "Max Ernst",
    "title": "Ambiguous Figures (1 copper plate 1 zinc plate 1 rubber cloth)",
    "subtitle": "",
-   "year": "",
+   "year": "1919",
    "verified_against": "WikiArt, under Max Ernst. Signed max ernst within the sheet. The date is not established here.",
-   "notes": [],
+   "notes": [
+    "Date recovered 2026-09-06 from the source's own record — WikiArt's per-work year, or the Wikimedia Commons file's date field — not inferred."
+   ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/85.jpg",
    "source_px": [
@@ -89093,7 +89095,13 @@
    "hue": 216.36,
    "light": 0.6334,
    "chroma": 0.6443,
-   "punch": 0.1825
+   "punch": 0.1825,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Dada"
+    }
+   ]
   },
   "sent-2026-09-05::2391a302e83c": {
    "id": "CRVI001491",
@@ -89237,9 +89245,11 @@
    "maker": "Alexander Rodchenko",
    "title": "Red and Yellow",
    "subtitle": "",
-   "year": "",
+   "year": "1918",
    "verified_against": "WikiArt, under Alexander Rodchenko. The date is not established here.",
-   "notes": [],
+   "notes": [
+    "Date recovered 2026-09-06 from the source's own record — WikiArt's per-work year, or the Wikimedia Commons file's date field — not inferred."
+   ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/091.jpg",
    "source_px": [
@@ -89278,7 +89288,13 @@
    "hue": 358.39,
    "light": 0.3831,
    "chroma": 0.9999,
-   "punch": 0.4972
+   "punch": 0.4972,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Constructivism"
+    }
+   ]
   },
   "sent-2026-09-05::7e0684fa9483": {
    "id": "CRVI001494",
@@ -89928,9 +89944,11 @@
    "maker": "Stanton Macdonald-Wright",
    "title": "Synchromy No. 3",
    "subtitle": "",
-   "year": "",
+   "year": "1917",
    "verified_against": "Wikimedia Commons, from the Google Art Project, as Stanton Macdonald-Wright, Synchromy No. 3. This file is the cropped version. The date is not established here.",
-   "notes": [],
+   "notes": [
+    "Date recovered 2026-09-06 from the source's own record — WikiArt's per-work year, or the Wikimedia Commons file's date field — not inferred."
+   ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/110.jpg",
    "source_px": [
@@ -89969,7 +89987,13 @@
    "hue": 33.85,
    "light": 0.3301,
    "chroma": 0.7943,
-   "punch": 0.2857
+   "punch": 0.2857,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Synchromism"
+    }
+   ]
   },
   "sent-2026-09-05::6def5e30eac6": {
    "id": "CRVI001505",
@@ -90494,9 +90518,11 @@
    "maker": "El Lissitzky",
    "title": "Untitled",
    "subtitle": "",
-   "year": "",
+   "year": "1920",
    "verified_against": "WikiArt, under El Lissitzky as Untitled; the date is not established here.",
-   "notes": [],
+   "notes": [
+    "Date recovered 2026-09-06 from the source's own record — WikiArt's per-work year, or the Wikimedia Commons file's date field — not inferred."
+   ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/119.jpg",
    "source_px": [
@@ -90531,7 +90557,13 @@
    "hue": 36.16,
    "light": 0.7266,
    "chroma": 0.8544,
-   "punch": 0.1473
+   "punch": 0.1473,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Suprematism"
+    }
+   ]
   },
   "sent-2026-09-05::4ab105b15239": {
    "id": "CRVI001514",
@@ -90714,9 +90746,11 @@
    "maker": "Jackson Pollock",
    "title": "Number 19",
    "subtitle": "",
-   "year": "",
+   "year": "1948",
    "verified_against": "WikiArt, under Jackson Pollock as Number 19; the year is not established here.",
-   "notes": [],
+   "notes": [
+    "Date recovered 2026-09-06 from the source's own record — WikiArt's per-work year, or the Wikimedia Commons file's date field — not inferred."
+   ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/123.jpg",
    "source_px": [
@@ -90750,7 +90784,13 @@
    "hue": null,
    "light": 0.5634,
    "chroma": 0.0366,
-   "punch": 0.0268
+   "punch": 0.0268,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Abstract Expressionism"
+    }
+   ]
   },
   "sent-2026-09-05::625ae2f3734f": {
    "id": "CRVI001518",
@@ -91990,9 +92030,11 @@
    "maker": "Jean Charlot",
    "title": "Wisdom of the West",
    "subtitle": "Mural",
-   "year": "",
+   "year": "1967",
    "verified_against": "Wikimedia Commons, as 'Wisdom of the West', by Jean Charlot. The date and location of the mural are not established here.",
-   "notes": [],
+   "notes": [
+    "Date recovered 2026-09-06 from the source's own record — WikiArt's per-work year, or the Wikimedia Commons file's date field — not inferred."
+   ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/144.jpg",
    "source_px": [
@@ -92579,9 +92621,11 @@
    "maker": "Joan Miró",
    "title": "The Vegetable Garden with Donkey",
    "subtitle": "",
-   "year": "",
+   "year": "1918",
    "verified_against": "WikiArt, under Joan Miró; the date is not established here.",
-   "notes": [],
+   "notes": [
+    "Date recovered 2026-09-06 from the source's own record — WikiArt's per-work year, or the Wikimedia Commons file's date field — not inferred."
+   ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/160.jpg",
    "source_px": [
@@ -92820,9 +92864,11 @@
    "maker": "André Masson",
    "title": "L'homme emblématique",
    "subtitle": "",
-   "year": "",
+   "year": "1939",
    "verified_against": "WikiArt, under André Masson; the date is not established here.",
-   "notes": [],
+   "notes": [
+    "Date recovered 2026-09-06 from the source's own record — WikiArt's per-work year, or the Wikimedia Commons file's date field — not inferred."
+   ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/164.jpg",
    "source_px": [
@@ -92857,7 +92903,13 @@
    "hue": 43.59,
    "light": 0.4885,
    "chroma": 0.704,
-   "punch": 0.238
+   "punch": 0.238,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Surrealism"
+    }
+   ]
   },
   "sent-2026-09-05::5eeb0bc5c4f9": {
    "id": "CRVI001554",
@@ -93061,9 +93113,11 @@
    "maker": "Remedios Varo",
    "title": "Creation of the Birds",
    "subtitle": "",
-   "year": "",
+   "year": "1957",
    "verified_against": "WikiArt, under Remedios Varo; the date is not established here.",
-   "notes": [],
+   "notes": [
+    "Date recovered 2026-09-06 from the source's own record — WikiArt's per-work year, or the Wikimedia Commons file's date field — not inferred."
+   ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/168.jpg",
    "source_px": [
@@ -93098,7 +93152,13 @@
    "hue": 15.69,
    "light": 0.3465,
    "chroma": 0.8434,
-   "punch": 0.1973
+   "punch": 0.1973,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Surrealism"
+    }
+   ]
   },
   "sent-2026-09-05::aa8eed6a43c2": {
    "id": "CRVI001558",
@@ -93917,9 +93977,11 @@
    "maker": "Georg Scholz",
    "title": "Industriebauern",
    "subtitle": "",
-   "year": "",
+   "year": "1920",
    "verified_against": "WikiArt, under Georg Scholz as Industriebauern; the date is not established here.",
-   "notes": [],
+   "notes": [
+    "Date recovered 2026-09-06 from the source's own record — WikiArt's per-work year, or the Wikimedia Commons file's date field — not inferred."
+   ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/183.jpg",
    "source_px": [
@@ -93954,7 +94016,13 @@
    "hue": 18.63,
    "light": 0.2693,
    "chroma": 0.5886,
-   "punch": 0.1696
+   "punch": 0.1696,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "New Objectivity"
+    }
+   ]
   },
   "sent-2026-09-05::6c39af3f79c9": {
    "id": "CRVI001573",
@@ -93970,9 +94038,11 @@
    "maker": "Georg Scholz",
    "title": "Street scene with the Upper Silesia plebiscite",
    "subtitle": "",
-   "year": "",
+   "year": "1922",
    "verified_against": "WikiArt, under Georg Scholz. The picture dates itself from within: a poster in the street reads 10.–16. April 1921 and 'Rettet Oberschlesien!' — the campaign around the Upper Silesia plebiscite of March 1921. The painting's own title and date are NOT established here.",
-   "notes": [],
+   "notes": [
+    "Date recovered 2026-09-06 from the source's own record — WikiArt's per-work year, or the Wikimedia Commons file's date field — not inferred."
+   ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/184.jpg",
    "source_px": [
@@ -94007,7 +94077,13 @@
    "hue": 18.16,
    "light": 0.3117,
    "chroma": 0.7316,
-   "punch": 0.1844
+   "punch": 0.1844,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "New Objectivity"
+    }
+   ]
   },
   "sent-2026-09-05::c45ab932c98d": {
    "id": "CRVI001574",
@@ -94754,9 +94830,11 @@
    "maker": "Richard Estes",
    "title": "Bus with Reflection of the Flatiron Building",
    "subtitle": "",
-   "year": "",
+   "year": "1967",
    "verified_against": "WikiArt, under Richard Estes; the date is not established here.",
-   "notes": [],
+   "notes": [
+    "Date recovered 2026-09-06 from the source's own record — WikiArt's per-work year, or the Wikimedia Commons file's date field — not inferred."
+   ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/197.jpg",
    "source_px": [
@@ -94979,9 +95057,11 @@
    "maker": "John Baeder",
    "title": "John's Diner",
    "subtitle": "",
-   "year": "",
+   "year": "2007",
    "verified_against": "Wikimedia Commons, as John's Diner by John Baeder. The date is not established here.",
-   "notes": [],
+   "notes": [
+    "Date recovered 2026-09-06 from the source's own record — WikiArt's per-work year, or the Wikimedia Commons file's date field — not inferred."
+   ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/201.jpg",
    "source_px": [
@@ -95695,10 +95775,11 @@
    "maker": "Albert Dubois-Pillet",
    "title": "Portrait of Monsieur Pool",
    "subtitle": "",
-   "year": "",
+   "year": "1887",
    "verified_against": "Wikimedia Commons, as Albert Dubois-Pillet, Portrait of Monsieur Pool, accession 2002.77, Indianapolis Museum of Art. The date is not established here.",
    "notes": [
-    "Taken from the Commons original at 4433 × 5437 rather than the 835 × 1024 derivative that was sent — the file name of that one ('835px-…') was the clue that a full-size original existed."
+    "Taken from the Commons original at 4433 × 5437 rather than the 835 × 1024 derivative that was sent — the file name of that one ('835px-…') was the clue that a full-size original existed.",
+    "Date recovered 2026-09-06 from the source's own record — WikiArt's per-work year, or the Wikimedia Commons file's date field — not inferred."
    ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/213.jpg",
@@ -95734,7 +95815,13 @@
    "hue": 30.67,
    "light": 0.3191,
    "chroma": 0.2886,
-   "punch": 0.0893
+   "punch": 0.0893,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Pointillism"
+    }
+   ]
   },
   "sent-2026-09-05::72960ef8be47": {
    "id": "CRVI001603",
@@ -96734,9 +96821,11 @@
    "maker": "Georges Lacombe",
    "title": "The Green Wave (Vorhor)",
    "subtitle": "",
-   "year": "",
+   "year": "1896",
    "verified_against": "WikiArt, under Georges Lacombe as The Green Wave (Vorhor); the date is not established here.",
-   "notes": [],
+   "notes": [
+    "Date recovered 2026-09-06 from the source's own record — WikiArt's per-work year, or the Wikimedia Commons file's date field — not inferred."
+   ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/237.jpg",
    "source_px": [
@@ -96771,7 +96860,13 @@
    "hue": 32.44,
    "light": 0.3294,
    "chroma": 0.6339,
-   "punch": 0.1614
+   "punch": 0.1614,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Nabis"
+    }
+   ]
   },
   "sent-2026-09-05::200ef102378d": {
    "id": "CRVI001621",
@@ -97157,9 +97252,11 @@
    "maker": "Georges Braque",
    "title": "Fruit Dish",
    "subtitle": "",
-   "year": "",
+   "year": "1908",
    "verified_against": "WikiArt, under Georges Braque as Fruit Dish; the date is not established here.",
-   "notes": [],
+   "notes": [
+    "Date recovered 2026-09-06 from the source's own record — WikiArt's per-work year, or the Wikimedia Commons file's date field — not inferred."
+   ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/244.jpg",
    "source_px": [
@@ -97194,7 +97291,13 @@
    "hue": 36.08,
    "light": 0.3619,
    "chroma": 0.7982,
-   "punch": 0.2149
+   "punch": 0.2149,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Fauvism"
+    }
+   ]
   },
   "sent-2026-09-05::b2b0a3541db6": {
    "id": "CRVI001628",
@@ -97393,9 +97496,11 @@
    "maker": "Ernst Ludwig Kirchner",
    "title": "Coffee Drinking Women",
    "subtitle": "",
-   "year": "",
+   "year": "1907",
    "verified_against": "WikiArt, under Ernst Ludwig Kirchner; the date is not established here.",
-   "notes": [],
+   "notes": [
+    "Date recovered 2026-09-06 from the source's own record — WikiArt's per-work year, or the Wikimedia Commons file's date field — not inferred."
+   ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/251.jpg",
    "source_px": [
@@ -97430,7 +97535,13 @@
    "hue": 42.96,
    "light": 0.444,
    "chroma": 0.6209,
-   "punch": 0.2955
+   "punch": 0.2955,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Die Brücke"
+    }
+   ]
   },
   "sent-2026-09-05::7c55b33e5af9": {
    "id": "CRVI001632",
@@ -97572,9 +97683,11 @@
    "maker": "Karl Schmidt-Rottluff",
    "title": "Gartenstraße frühmorgens",
    "subtitle": "",
-   "year": "",
+   "year": "1906",
    "verified_against": "WikiArt, under Karl Schmidt-Rottluff; the date is not established here.",
-   "notes": [],
+   "notes": [
+    "Date recovered 2026-09-06 from the source's own record — WikiArt's per-work year, or the Wikimedia Commons file's date field — not inferred."
+   ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/254.jpg",
    "source_px": [
@@ -97609,7 +97722,13 @@
    "hue": 34.87,
    "light": 0.5792,
    "chroma": 0.7974,
-   "punch": 0.2413
+   "punch": 0.2413,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Die Brücke"
+    }
+   ]
   },
   "sent-2026-09-05::d103cb1b7b4e": {
    "id": "CRVI001635",
@@ -97873,10 +97992,11 @@
    "maker": "Emil Nolde",
    "title": "Sea with steamers",
    "subtitle": "",
-   "year": "",
+   "year": "1910",
    "verified_against": "WikiArt, under Emil Nolde; the canvas is signed Emil Nolde at the lower right. The file is one of WikiArt's hash-named images and carries no title — the individual work's title and date are NOT established here.",
    "notes": [
-    "A churning blue-green sea under a dark sky, with steamers on the horizon."
+    "A churning blue-green sea under a dark sky, with steamers on the horizon.",
+    "Date recovered 2026-09-06 from the source's own record — WikiArt's per-work year, or the Wikimedia Commons file's date field — not inferred."
    ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/259.jpg",
@@ -97912,7 +98032,13 @@
    "hue": 203.21,
    "light": 0.3136,
    "chroma": 0.6761,
-   "punch": 0.1821
+   "punch": 0.1821,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Die Brücke"
+    }
+   ]
   },
   "sent-2026-09-05::568a4e0e2e0b": {
    "id": "CRVI001640",
@@ -99122,9 +99248,11 @@
    "maker": "Albert Gleizes",
    "title": "Bermuda",
    "subtitle": "",
-   "year": "",
+   "year": "1917",
    "verified_against": "Wikimedia Commons, as Albert Gleizes, Bermuda, accession A-2002-242, Finnish National Gallery. The date is not established here.",
-   "notes": [],
+   "notes": [
+    "Date recovered 2026-09-06 from the source's own record — WikiArt's per-work year, or the Wikimedia Commons file's date field — not inferred."
+   ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/283.jpg",
    "source_px": [
@@ -99159,7 +99287,13 @@
    "hue": 44.96,
    "light": 0.5565,
    "chroma": 0.3321,
-   "punch": 0.098
+   "punch": 0.098,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Cubism"
+    }
+   ]
   },
   "sent-2026-09-05::a1eda2bf4cd3": {
    "id": "CRVI001661",
@@ -99472,10 +99606,11 @@
    "maker": "Robert Delaunay",
    "title": "Rythme n° 1",
    "subtitle": "",
-   "year": "",
+   "year": "1912",
    "verified_against": "WikiArt, under Robert Delaunay as Rhythm 1; the date is not established here.",
    "notes": [
-    "Two panels of concentric discs, hung as a pair."
+    "Two panels of concentric discs, hung as a pair.",
+    "Date recovered 2026-09-06 from the source's own record — WikiArt's per-work year, or the Wikimedia Commons file's date field — not inferred."
    ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/289.jpg",
@@ -99511,7 +99646,13 @@
    "hue": 14.11,
    "light": 0.4171,
    "chroma": 0.7287,
-   "punch": 0.3202
+   "punch": 0.3202,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Orphism"
+    }
+   ]
   },
   "sent-2026-09-05::2a442ae06f44": {
    "id": "CRVI001667",
@@ -99527,9 +99668,11 @@
    "maker": "Robert Delaunay",
    "title": "Window",
    "subtitle": "",
-   "year": "",
+   "year": "1912",
    "verified_against": "WikiArt, under Robert Delaunay as Window; the date is not established here.",
-   "notes": [],
+   "notes": [
+    "Date recovered 2026-09-06 from the source's own record — WikiArt's per-work year, or the Wikimedia Commons file's date field — not inferred."
+   ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/290.jpg",
    "source_px": [
@@ -99564,7 +99707,13 @@
    "hue": 42.67,
    "light": 0.5285,
    "chroma": 0.7491,
-   "punch": 0.2775
+   "punch": 0.2775,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Orphism"
+    }
+   ]
   },
   "sent-2026-09-05::00a80d0f6968": {
    "id": "CRVI001668",
@@ -100019,9 +100168,11 @@
    "maker": "Giacomo Balla",
    "title": "Self-Portrait",
    "subtitle": "",
-   "year": "",
+   "year": "1902",
    "verified_against": "WikiArt, under Giacomo Balla; the date is not established here.",
-   "notes": [],
+   "notes": [
+    "Date recovered 2026-09-06 from the source's own record — WikiArt's per-work year, or the Wikimedia Commons file's date field — not inferred."
+   ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/305.jpg",
    "source_px": [
@@ -100072,9 +100223,11 @@
    "maker": "Carlo Carrà",
    "title": "Swimmers",
    "subtitle": "",
-   "year": "",
+   "year": "1912",
    "verified_against": "WikiArt, under Carlo Carrà; signed C. Carrà at the lower right. The date is not established here.",
-   "notes": [],
+   "notes": [
+    "Date recovered 2026-09-06 from the source's own record — WikiArt's per-work year, or the Wikimedia Commons file's date field — not inferred."
+   ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/306.jpg",
    "source_px": [
@@ -100109,7 +100262,13 @@
    "hue": 44.48,
    "light": 0.5529,
    "chroma": 0.8451,
-   "punch": 0.3188
+   "punch": 0.3188,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Futurism"
+    }
+   ]
   },
   "sent-2026-09-05::6e4a68f73116": {
    "id": "CRVI001677",
@@ -100255,10 +100414,11 @@
    "maker": "Carlo Carrà",
    "title": "Portrait of Marinetti",
    "subtitle": "",
-   "year": "",
+   "year": "1915",
    "verified_against": "WikiArt, under Carlo Carrà; the date is not established here.",
    "notes": [
-    "Inscribed to Marinetti in the artist's hand across the lower left."
+    "Inscribed to Marinetti in the artist's hand across the lower left.",
+    "Date recovered 2026-09-06 from the source's own record — WikiArt's per-work year, or the Wikimedia Commons file's date field — not inferred."
    ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/309.jpg",
@@ -100294,7 +100454,13 @@
    "hue": 4.29,
    "light": 0.3386,
    "chroma": 0.8431,
-   "punch": 0.2073
+   "punch": 0.2073,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Futurism"
+    }
+   ]
   },
   "sent-2026-09-05::7a455b34251e": {
    "id": "CRVI001680",
@@ -100435,9 +100601,11 @@
    "maker": "Gino Severini",
    "title": "Untitled (Futurist crowd)",
    "subtitle": "",
-   "year": "",
+   "year": "1911",
    "verified_against": "WikiArt, under Gino Severini as Untitled. The individual work's title and date are NOT established here.",
-   "notes": [],
+   "notes": [
+    "Date recovered 2026-09-06 from the source's own record — WikiArt's per-work year, or the Wikimedia Commons file's date field — not inferred."
+   ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/312.jpg",
    "source_px": [
@@ -100472,7 +100640,13 @@
    "hue": 6.2,
    "light": 0.3616,
    "chroma": 0.5237,
-   "punch": 0.1526
+   "punch": 0.1526,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Futurism"
+    }
+   ]
   },
   "sent-2026-09-05::ae2bd7f5ea4d": {
    "id": "CRVI001683",
@@ -100551,9 +100725,11 @@
    "maker": "Gino Severini",
    "title": "Self-Portrait",
    "subtitle": "",
-   "year": "",
+   "year": "1912",
    "verified_against": "WikiArt, under Gino Severini; the date is not established here.",
-   "notes": [],
+   "notes": [
+    "Date recovered 2026-09-06 from the source's own record — WikiArt's per-work year, or the Wikimedia Commons file's date field — not inferred."
+   ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/314.jpg",
    "source_px": [
@@ -100588,7 +100764,13 @@
    "hue": 23.7,
    "light": 0.6245,
    "chroma": 0.5026,
-   "punch": 0.1083
+   "punch": 0.1083,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Futurism"
+    }
+   ]
   },
   "sent-2026-09-05::271d3244df4a": {
    "id": "CRVI001685",
@@ -100604,9 +100786,11 @@
    "maker": "Gino Severini",
    "title": "Dynamism of a Dancer",
    "subtitle": "",
-   "year": "",
+   "year": "1912",
    "verified_against": "WikiArt, under Gino Severini; the date is not established here.",
-   "notes": [],
+   "notes": [
+    "Date recovered 2026-09-06 from the source's own record — WikiArt's per-work year, or the Wikimedia Commons file's date field — not inferred."
+   ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/315.jpg",
    "source_px": [
@@ -100641,7 +100825,13 @@
    "hue": 44.35,
    "light": 0.7553,
    "chroma": 0.3923,
-   "punch": 0.1308
+   "punch": 0.1308,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Futurism"
+    }
+   ]
   },
   "sent-2026-09-05::1b83e55bced8": {
    "id": "CRVI001686",
@@ -100720,9 +100910,11 @@
    "maker": "Luigi Russolo",
    "title": "Autoritratto con teschi",
    "subtitle": "",
-   "year": "",
+   "year": "1908",
    "verified_against": "Wikimedia Commons, as Autoritratto con teschi (Self-portrait with skulls) by Luigi Russolo; the date is not established here.",
-   "notes": [],
+   "notes": [
+    "Date recovered 2026-09-06 from the source's own record — WikiArt's per-work year, or the Wikimedia Commons file's date field — not inferred."
+   ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/317.jpg",
    "source_px": [
@@ -101929,9 +102121,11 @@
    "maker": "August Macke",
    "title": "Tree in the Cornfield",
    "subtitle": "",
-   "year": "",
+   "year": "1907",
    "verified_against": "WikiArt, under August Macke; the date is not established here.",
-   "notes": [],
+   "notes": [
+    "Date recovered 2026-09-06 from the source's own record — WikiArt's per-work year, or the Wikimedia Commons file's date field — not inferred."
+   ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/343.jpg",
    "source_px": [
@@ -101982,9 +102176,11 @@
    "maker": "August Macke",
    "title": "Anglers on the Rhine",
    "subtitle": "",
-   "year": "",
+   "year": "1907",
    "verified_against": "WikiArt, under August Macke; the date is not established here.",
-   "notes": [],
+   "notes": [
+    "Date recovered 2026-09-06 from the source's own record — WikiArt's per-work year, or the Wikimedia Commons file's date field — not inferred."
+   ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/344.jpg",
    "source_px": [
@@ -102802,9 +102998,11 @@
    "maker": "František Kupka",
    "title": "Self-Portrait",
    "subtitle": "",
-   "year": "",
+   "year": "1907",
    "verified_against": "WikiArt, under František Kupka; the date is not established here.",
-   "notes": [],
+   "notes": [
+    "Date recovered 2026-09-06 from the source's own record — WikiArt's per-work year, or the Wikimedia Commons file's date field — not inferred."
+   ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/364.jpg",
    "source_px": [
@@ -102969,9 +103167,11 @@
    "maker": "František Kupka",
    "title": "Disks of Newton (Study for Fugue in Two Colors)",
    "subtitle": "",
-   "year": "",
+   "year": "1911",
    "verified_against": "WikiArt, under František Kupka; the date is not established here.",
-   "notes": [],
+   "notes": [
+    "Date recovered 2026-09-06 from the source's own record — WikiArt's per-work year, or the Wikimedia Commons file's date field — not inferred."
+   ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/367.jpg",
    "source_px": [
@@ -103500,10 +103700,11 @@
    "maker": "Natalia Goncharova",
    "title": "Linen",
    "subtitle": "",
-   "year": "",
+   "year": "1913",
    "verified_against": "Wikimedia Commons, as Natalia Goncharova, Linen. The date is not established here.",
    "notes": [
-    "Cyrillic laundry lettering — ПРАЧЕ, БОТ — cut across the collar and cuffs."
+    "Cyrillic laundry lettering — ПРАЧЕ, БОТ — cut across the collar and cuffs.",
+    "Date recovered 2026-09-06 from the source's own record — WikiArt's per-work year, or the Wikimedia Commons file's date field — not inferred."
    ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/382.jpg",
@@ -103539,7 +103740,13 @@
    "hue": 212.85,
    "light": 0.5664,
    "chroma": 0.5232,
-   "punch": 0.1327
+   "punch": 0.1327,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Rayonism"
+    }
+   ]
   },
   "sent-2026-09-05::e3f6143bde35": {
    "id": "CRVI001735",
@@ -104927,9 +105134,11 @@
    "maker": "Josef Albers",
    "title": "Homage to the Square: Apparition",
    "subtitle": "",
-   "year": "",
+   "year": "1959",
    "verified_against": "WikiArt, under Josef Albers; the date is not established here.",
-   "notes": [],
+   "notes": [
+    "Date recovered 2026-09-06 from the source's own record — WikiArt's per-work year, or the Wikimedia Commons file's date field — not inferred."
+   ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/425.jpg",
    "source_px": [
@@ -104980,9 +105189,11 @@
    "maker": "Josef Albers",
    "title": "Study for Homage to the Square: Beaming",
    "subtitle": "",
-   "year": "",
+   "year": "1963",
    "verified_against": "WikiArt, under Josef Albers; the date is not established here.",
-   "notes": [],
+   "notes": [
+    "Date recovered 2026-09-06 from the source's own record — WikiArt's per-work year, or the Wikimedia Commons file's date field — not inferred."
+   ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/426.jpg",
    "source_px": [
@@ -105033,9 +105244,11 @@
    "maker": "Josef Albers",
    "title": "Study for Homage to the Square: Departing in Yellow",
    "subtitle": "",
-   "year": "",
+   "year": "1964",
    "verified_against": "WikiArt, under Josef Albers; the date is not established here.",
-   "notes": [],
+   "notes": [
+    "Date recovered 2026-09-06 from the source's own record — WikiArt's per-work year, or the Wikimedia Commons file's date field — not inferred."
+   ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/427.jpg",
    "source_px": [
@@ -105085,9 +105298,11 @@
    "maker": "Josef Albers",
    "title": "Red Wall",
    "subtitle": "",
-   "year": "",
+   "year": "1956",
    "verified_against": "WikiArt, under Josef Albers as Red Wall; the date is not established here.",
-   "notes": [],
+   "notes": [
+    "Date recovered 2026-09-06 from the source's own record — WikiArt's per-work year, or the Wikimedia Commons file's date field — not inferred."
+   ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/428.jpg",
    "source_px": [
@@ -107607,10 +107822,11 @@
    "maker": "James Rosenquist",
    "title": "Source for President Elect",
    "subtitle": "",
-   "year": "",
+   "year": "1961",
    "verified_against": "WikiArt, under James Rosenquist as the source collage for President Elect; the date is not established here.",
    "notes": [
-    "Kennedy's face, a slice of cake and a Chevrolet, torn from magazines."
+    "Kennedy's face, a slice of cake and a Chevrolet, torn from magazines.",
+    "Date recovered 2026-09-06 from the source's own record — WikiArt's per-work year, or the Wikimedia Commons file's date field — not inferred."
    ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/509.jpg",
@@ -107646,7 +107862,13 @@
    "hue": 18.51,
    "light": 0.6244,
    "chroma": 0.6008,
-   "punch": 0.2553
+   "punch": 0.2553,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Pop Art"
+    }
+   ]
   },
   "sent-2026-09-05::a82380b5c358": {
    "id": "CRVI001807",
@@ -108788,9 +109010,11 @@
    "maker": "Victor Vasarely",
    "title": "Pal-Ket",
    "subtitle": "",
-   "year": "",
+   "year": "1974",
    "verified_against": "WikiArt, under Victor Vasarely; the date is not established here.",
-   "notes": [],
+   "notes": [
+    "Date recovered 2026-09-06 from the source's own record — WikiArt's per-work year, or the Wikimedia Commons file's date field — not inferred."
+   ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/547.jpg",
    "source_px": [
@@ -110667,10 +110891,11 @@
    "maker": "George Maciunas",
    "title": "An Anthology of Chance Operations",
    "subtitle": "Cover",
-   "year": "",
+   "year": "1963",
    "verified_against": "Wikimedia Commons, as An Anthology of Chance Operations — the La Monte Young and Jackson Mac Low anthology whose cover and typography Maciunas designed, and the publication generally taken as the seed of Fluxus. The date of this edition is not established here.",
    "notes": [
-    "The cover sets its own contents as the design: stories, diagrams, poetry, essays, plans of action, music, dance constructions, mathematics, compositions."
+    "The cover sets its own contents as the design: stories, diagrams, poetry, essays, plans of action, music, dance constructions, mathematics, compositions.",
+    "Date recovered 2026-09-06 from the source's own record — WikiArt's per-work year, or the Wikimedia Commons file's date field — not inferred."
    ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/590.jpg",
@@ -110701,7 +110926,13 @@
    "hue": 25.23,
    "light": 0.4046,
    "chroma": 0.8922,
-   "punch": 0.3049
+   "punch": 0.3049,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Fluxus"
+    }
+   ]
   },
   "sent-2026-09-05::17ca61b70a97": {
    "id": "CRVI001863",
@@ -111153,9 +111384,11 @@
    "maker": "Carl Andre",
    "title": "Belgica Blue Field",
    "subtitle": "",
-   "year": "",
+   "year": "1989",
    "verified_against": "WikiArt, under Carl Andre as Belgica Blue Field; the date is not established here.",
-   "notes": [],
+   "notes": [
+    "Date recovered 2026-09-06 from the source's own record — WikiArt's per-work year, or the Wikimedia Commons file's date field — not inferred."
+   ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/607.jpg",
    "source_px": [
@@ -112382,9 +112615,11 @@
    "maker": "Joseph Kosuth",
    "title": "Five Words in Green Neon",
    "subtitle": "",
-   "year": "",
+   "year": "1965",
    "verified_against": "WikiArt, under Joseph Kosuth; the date is not established here.",
-   "notes": [],
+   "notes": [
+    "Date recovered 2026-09-06 from the source's own record — WikiArt's per-work year, or the Wikimedia Commons file's date field — not inferred."
+   ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/650.jpg",
    "source_px": [
@@ -112422,7 +112657,13 @@
    "hue": 118.52,
    "light": 0.5005,
    "chroma": 1.0,
-   "punch": 0.2422
+   "punch": 0.2422,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Conceptual Art"
+    }
+   ]
   },
   "sent-2026-09-05::e7233c3e3c02": {
    "id": "CRVI001892",
@@ -112438,9 +112679,11 @@
    "maker": "Joseph Kosuth",
    "title": "Four Colors Four Words",
    "subtitle": "",
-   "year": "",
+   "year": "1966",
    "verified_against": "WikiArt, under Joseph Kosuth; the date is not established here.",
-   "notes": [],
+   "notes": [
+    "Date recovered 2026-09-06 from the source's own record — WikiArt's per-work year, or the Wikimedia Commons file's date field — not inferred."
+   ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/651.jpg",
    "source_px": [
@@ -112479,7 +112722,13 @@
    "hue": 8.2,
    "light": 0.2702,
    "chroma": 0.7288,
-   "punch": 0.1752
+   "punch": 0.1752,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Conceptual Art"
+    }
+   ]
   },
   "sent-2026-09-05::f5f4df825c5a": {
    "id": "CRVI001893",
@@ -112606,10 +112855,11 @@
    "maker": "Joseph Kosuth",
    "title": "Text/Context",
    "subtitle": "",
-   "year": "",
+   "year": "1979",
    "verified_against": "WikiArt, under Joseph Kosuth; the date is not established here.",
    "notes": [
-    "Sited as two illuminated billboards above a street."
+    "Sited as two illuminated billboards above a street.",
+    "Date recovered 2026-09-06 from the source's own record — WikiArt's per-work year, or the Wikimedia Commons file's date field — not inferred."
    ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/654.jpg",
@@ -112660,10 +112910,11 @@
    "maker": "Joseph Kosuth",
    "title": "Ex Libris (Wittgenstein's Gift)",
    "subtitle": "",
-   "year": "",
+   "year": "1990",
    "verified_against": "WikiArt, under Joseph Kosuth; the date is not established here.",
    "notes": [
-    "The sheet carries its whole content: 'What you are regarding as a gift is a problem for you to solve. — Wittgenstein'."
+    "The sheet carries its whole content: 'What you are regarding as a gift is a problem for you to solve. — Wittgenstein'.",
+    "Date recovered 2026-09-06 from the source's own record — WikiArt's per-work year, or the Wikimedia Commons file's date field — not inferred."
    ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/655.jpg",
@@ -114976,9 +115227,11 @@
    "maker": "Chris Ofili",
    "title": "Within Reach",
    "subtitle": "",
-   "year": "",
+   "year": "2003",
    "verified_against": "WikiArt, under Chris Ofili as Within Reach; the date is not established here.",
-   "notes": [],
+   "notes": [
+    "Date recovered 2026-09-06 from the source's own record — WikiArt's per-work year, or the Wikimedia Commons file's date field — not inferred."
+   ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/711.jpg",
    "source_px": [
@@ -115013,7 +115266,13 @@
    "hue": 6.34,
    "light": 0.2524,
    "chroma": 0.6451,
-   "punch": 0.1524
+   "punch": 0.1524,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Young British Artists"
+    }
+   ]
   },
   "sent-2026-09-05::91908a843b6b": {
    "id": "CRVI001937",

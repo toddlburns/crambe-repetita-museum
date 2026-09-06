@@ -26,8 +26,8 @@ Anything failing 1 because its date is simply unknown is HELD, not guessed, and
 listed for review. Holding is the whole point: a wrong tag in a browsable
 archive is worse than a missing one, because nobody goes looking for it.
 
-    python3 movements.py --report     # propose and print, change nothing
-    python3 movements.py --apply      # write `movement` extra_tags
+    python3 movement_tags.py --report     # propose and print, change nothing
+    python3 movement_tags.py --apply      # write `movement` extra_tags
 """
 import json
 import os
