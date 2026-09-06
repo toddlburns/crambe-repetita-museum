@@ -1,0 +1,72 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>movement: Bauhaus — Crambe Repetita Museum</title><script>try{if(localStorage.getItem('crvi_auth')==='1')document.documentElement.className+=' crvi-ok';}catch(e){}</script><link rel="stylesheet" href="../../../style.css"><style>
+html:not(.crvi-ok){overflow:hidden}
+html.crvi-ok #crvi-gate{display:none}
+#crvi-gate{position:fixed;inset:0;z-index:2147483647;background:var(--paper);
+ display:flex;align-items:center;justify-content:center}
+#crvi-gate form{display:flex;align-items:center;gap:6px}
+#crvi-gate input{font:12px/1 var(--mono);letter-spacing:.06em;width:150px;padding:7px 8px;
+ color:var(--ink);background:var(--paper);border:1px solid var(--rule);border-radius:0;outline:none}
+#crvi-gate input:focus{border-color:var(--ink)}
+#crvi-gate input::placeholder{color:var(--mute);letter-spacing:.06em}
+#crvi-gate button{font:12px/1 var(--sans);padding:7px 12px;color:var(--ink);background:var(--paper);
+ border:1px solid var(--rule);border-radius:0;cursor:pointer}
+#crvi-gate button:hover{border-color:var(--ink)}
+#crvi-gate.bad input,#crvi-gate.bad input::placeholder{border-color:var(--ink);color:var(--ink)}
+</style></head><body><div id="crvi-gate"><form id="crvi-form" autocomplete="off"><input type="password" id="crvi-pw" placeholder="password" autocomplete="off" spellcheck="false" autofocus><button type="submit">enter</button></form></div><div class="crumb"><span class="t">MOVEMENT: BAUHAUS</span><span class="c">9 items</span><a href="../../../tags/">&#8592; all tags</a></div><div class="grid"><a class="cell" href="../../../CRVI001752/"><div class="inner"><img src="../../../thumbs/CRVI001752.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI001752</span>Walter Gropius - Bauhaus Master Houses, Dessau: isometric site plan<br>1925–1926</div></a><a class="cell" href="../../../CRVI001754/"><div class="inner"><img src="../../../thumbs/CRVI001754.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI001754</span>László Moholy-Nagy - Berlin Radio Tower<br>1928</div></a><a class="cell" href="../../../CRVI001755/"><div class="inner"><img src="../../../thumbs/CRVI001755.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI001755</span>László Moholy-Nagy - Self-Portrait<br>1919</div></a><a class="cell" href="../../../CRVI001756/"><div class="inner"><img src="../../../thumbs/CRVI001756.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI001756</span>László Moholy-Nagy - Pneumatik<br>1924</div></a><a class="cell" href="../../../CRVI001757/"><div class="inner"><img src="../../../thumbs/CRVI001757.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI001757</span>László Moholy-Nagy - Composition A XI<br>1923</div></a><a class="cell" href="../../../CRVI001758/"><div class="inner"><img src="../../../thumbs/CRVI001758.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI001758</span>László Moholy-Nagy - K VII<br>1922</div></a><a class="cell" href="../../../CRVI001763/"><div class="inner"><img src="../../../thumbs/CRVI001763.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI001763</span>Anni Albers - Design for a Jacquard Weaving<br>1926</div></a><a class="cell" href="../../../CRVI001764/"><div class="inner"><img src="../../../thumbs/CRVI001764.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI001764</span>Anni Albers - Design for a Silk Tapestry<br>1926</div></a><a class="cell" href="../../../CRVI001765/"><div class="inner"><img src="../../../thumbs/CRVI001765.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI001765</span>Anni Albers - Design for Wall Hanging<br>1925</div></a></div><script>
+var SCALE=3;var t=null;
+// ⚠️ THE GIF IS FETCHED ON HOVER, NOT BEFORE. Setting src is what triggers the download, so a
+// grid cell ships the still poster and only swaps in the animation when the pointer arrives.
+// Pausing or hiding a GIF whose src is already set saves nothing — it is on the wire either way.
+// The poster is kept in data-poster so leaving restores it without a second fetch of anything.
+function playGif(c){
+  var im=c.querySelector('img.anim');
+  if(!im) return;
+  var g=im.getAttribute('data-gif');
+  if(!g||im.dataset.playing) return;
+  im.dataset.poster=im.getAttribute('src');
+  im.dataset.playing='1';
+  im.setAttribute('src',g);
+}
+function stopGif(c){
+  var im=c.querySelector('img.anim');
+  if(!im||!im.dataset.playing) return;
+  // back to the still, so a page full of gifs is not left all animating at once
+  im.setAttribute('src',im.dataset.poster);
+  delete im.dataset.playing;
+}
+// ⚠️ A VIDEO CANNOT BE SWAPPED INTO AN <img>. Where a gif item just changes src, a video item
+// lays a <video> over its still on hover and takes it away again on leave — same bargain as the
+// gif: nothing is on the wire until the pointer arrives, and a grid is never left all playing.
+function playVid(c){
+  var im=c.querySelector('img.anim'); if(!im) return;
+  var u=im.getAttribute('data-video'); if(!u||c.querySelector('video')) return;
+  var v=document.createElement('video');
+  v.src=u; v.autoplay=true; v.loop=true; v.muted=true; v.playsInline=true;
+  im.parentNode.appendChild(v);
+}
+function stopVid(c){ var v=c.querySelector('video'); if(v) v.parentNode.removeChild(v); }
+document.querySelectorAll('.cell').forEach(function(c){
+  c.addEventListener('mouseenter',function(){
+    playGif(c); playVid(c);
+    clearTimeout(t);
+    t=setTimeout(function(){
+      // transform does not change layout, so push the caption below the grown image
+      var im=c.querySelector('img'),cap=c.querySelector('.cap');
+      cap.style.transform='translateY('+im.getBoundingClientRect().height*(SCALE-1)+'px)';
+      c.classList.add('big');
+    },1000);
+  });
+  c.addEventListener('mouseleave',function(){
+    stopGif(c); stopVid(c);
+    clearTimeout(t);c.classList.remove('big');c.querySelector('.cap').style.transform='';
+  });
+});
+</script><script>
+(function(){var K='crvi_auth',PW='racine456',h=document.documentElement;
+if(h.className.indexOf('crvi-ok')>-1)return;
+var g=document.getElementById('crvi-gate'),i=document.getElementById('crvi-pw');
+document.getElementById('crvi-form').addEventListener('submit',function(e){e.preventDefault();
+if(i.value===PW){try{localStorage.setItem(K,'1');}catch(e){}h.className+=' crvi-ok';}
+else{i.value='';g.classList.add('bad');i.focus();}});
+i.focus();})();
+</script></body></html>

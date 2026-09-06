@@ -87004,7 +87004,13 @@
    "hue": null,
    "light": 0.1626,
    "chroma": 0.0274,
-   "punch": 0.0211
+   "punch": 0.0211,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Memphis"
+    }
+   ]
   },
   "sent-2026-09-05::7a80e0ed2832": {
    "id": "CRVI001454",
@@ -87117,7 +87123,13 @@
    "hue": null,
    "light": 0.4941,
    "chroma": 0.0908,
-   "punch": 0.0544
+   "punch": 0.0544,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Memphis"
+    }
+   ]
   },
   "sent-2026-09-05::1882f1f5645e": {
    "id": "CRVI001456",
@@ -88626,7 +88638,13 @@
    "hue": 44.47,
    "light": 0.7858,
    "chroma": 0.7529,
-   "punch": 0.0675
+   "punch": 0.0675,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Dada"
+    }
+   ]
   },
   "sent-2026-09-05::edb373eca6d7": {
    "id": "CRVI001483",
@@ -88846,7 +88864,13 @@
    "hue": 30.24,
    "light": 0.6878,
    "chroma": 0.5903,
-   "punch": 0.1077
+   "punch": 0.1077,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Dada"
+    }
+   ]
   },
   "sent-2026-09-05::09ff3434436c": {
    "id": "CRVI001487",
@@ -89125,7 +89149,13 @@
    "hue": null,
    "light": 0.7502,
    "chroma": 0.025,
-   "punch": 0.0208
+   "punch": 0.0208,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Dada"
+    }
+   ]
   },
   "sent-2026-09-05::9a5ebc09bfce": {
    "id": "CRVI001492",
@@ -89185,7 +89215,13 @@
    "hue": 54.5,
    "light": 0.5939,
    "chroma": 0.8617,
-   "punch": 0.2132
+   "punch": 0.2132,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Constructivism"
+    }
+   ]
   },
   "sent-2026-09-05::26a3e6a0a001": {
    "id": "CRVI001493",
@@ -89356,7 +89392,13 @@
    "hue": 50.97,
    "light": 0.7645,
    "chroma": 0.9816,
-   "punch": 0.2923
+   "punch": 0.2923,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Constructivism"
+    }
+   ]
   },
   "sent-2026-09-05::b8151ae1379a": {
    "id": "CRVI001496",
@@ -89413,7 +89455,13 @@
    "hue": 37.06,
    "light": 0.8236,
    "chroma": 0.8891,
-   "punch": 0.1047
+   "punch": 0.1047,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Constructivism"
+    }
+   ]
   },
   "sent-2026-09-05::bf555216bfc6": {
    "id": "CRVI001497",
@@ -89470,7 +89518,13 @@
    "hue": 44.92,
    "light": 0.7824,
    "chroma": 0.9779,
-   "punch": 0.2311
+   "punch": 0.2311,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Constructivism"
+    }
+   ]
   },
   "sent-2026-09-05::afead61e4717": {
    "id": "CRVI001498",
@@ -89587,7 +89641,13 @@
    "hue": 194.26,
    "light": 0.5196,
    "chroma": 0.3083,
-   "punch": 0.1771
+   "punch": 0.1771,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Constructivism"
+    }
+   ]
   },
   "sent-2026-09-05::a392ef2db5e6": {
    "id": "CRVI001500",
@@ -89648,7 +89708,13 @@
    "hue": 33.16,
    "light": 0.6538,
    "chroma": 0.7616,
-   "punch": 0.1245
+   "punch": 0.1245,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Constructivism"
+    }
+   ]
   },
   "sent-2026-09-05::87dccc6824c3": {
    "id": "CRVI001501",
@@ -89706,7 +89772,13 @@
    "hue": 34.99,
    "light": 0.6965,
    "chroma": 0.8265,
-   "punch": 0.1744
+   "punch": 0.1744,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Constructivism"
+    }
+   ]
   },
   "sent-2026-09-05::105db672dd0a": {
    "id": "CRVI001502",
@@ -89767,7 +89839,13 @@
    "hue": 32.79,
    "light": 0.4541,
    "chroma": 0.7433,
-   "punch": 0.1775
+   "punch": 0.1775,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Constructivism"
+    }
+   ]
   },
   "sent-2026-09-05::8fb5c7507056": {
    "id": "CRVI001503",
@@ -89828,7 +89906,13 @@
    "hue": 18.73,
    "light": 0.4193,
    "chroma": 0.5768,
-   "punch": 0.2494
+   "punch": 0.2494,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Constructivism"
+    }
+   ]
   },
   "sent-2026-09-05::0cbfd57d3e7b": {
    "id": "CRVI001504",
@@ -89946,7 +90030,13 @@
    "hue": 22.48,
    "light": 0.4574,
    "chroma": 0.4701,
-   "punch": 0.1492
+   "punch": 0.1492,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Synchromism"
+    }
+   ]
   },
   "sent-2026-09-05::c546955260f0": {
    "id": "CRVI001506",
@@ -90007,7 +90097,13 @@
    "hue": 35.02,
    "light": 0.5021,
    "chroma": 0.6937,
-   "punch": 0.2319
+   "punch": 0.2319,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Vorticism"
+    }
+   ]
   },
   "sent-2026-09-05::0c65c5995a21": {
    "id": "CRVI001507",
@@ -90064,7 +90160,13 @@
    "hue": 225.06,
    "light": 0.5848,
    "chroma": 0.663,
-   "punch": 0.151
+   "punch": 0.151,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Vorticism"
+    }
+   ]
   },
   "sent-2026-09-05::972b83dc975e": {
    "id": "CRVI001508",
@@ -90126,7 +90228,13 @@
    "hue": null,
    "light": 0.3802,
    "chroma": 0.0005,
-   "punch": 0.0363
+   "punch": 0.0363,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Vorticism"
+    }
+   ]
   },
   "sent-2026-09-05::1cce8c2c778b": {
    "id": "CRVI001509",
@@ -90182,7 +90290,13 @@
    "hue": 41.12,
    "light": 0.5592,
    "chroma": 0.2894,
-   "punch": 0.1104
+   "punch": 0.1104,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Vorticism"
+    }
+   ]
   },
   "sent-2026-09-05::20f37e441c5d": {
    "id": "CRVI001510",
@@ -90295,7 +90409,13 @@
    "hue": 45.16,
    "light": 0.8042,
    "chroma": 0.1621,
-   "punch": 0.0557
+   "punch": 0.0557,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Suprematism"
+    }
+   ]
   },
   "sent-2026-09-05::f575a23aa1d0": {
    "id": "CRVI001512",
@@ -90352,7 +90472,13 @@
    "hue": 41.67,
    "light": 0.7291,
    "chroma": 0.3982,
-   "punch": 0.062
+   "punch": 0.062,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Suprematism"
+    }
+   ]
   },
   "sent-2026-09-05::6962a3fbe366": {
    "id": "CRVI001513",
@@ -90461,7 +90587,13 @@
    "hue": null,
    "light": 0.2589,
    "chroma": 0.0718,
-   "punch": 0.0289
+   "punch": 0.0289,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Suprematism"
+    }
+   ]
   },
   "sent-2026-09-05::a6b8bc4ee317": {
    "id": "CRVI001515",
@@ -90678,7 +90810,13 @@
    "hue": 57.02,
    "light": 0.3876,
    "chroma": 0.2193,
-   "punch": 0.0256
+   "punch": 0.0256,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Abstract Expressionism"
+    }
+   ]
   },
   "sent-2026-09-05::a3a66beafa56": {
    "id": "CRVI001519",
@@ -90791,7 +90929,13 @@
    "hue": 355.66,
    "light": 0.7622,
    "chroma": 0.9136,
-   "punch": 0.1273
+   "punch": 0.1273,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Abstract Expressionism"
+    }
+   ]
   },
   "sent-2026-09-05::eff21ea58c1a": {
    "id": "CRVI001521",
@@ -90854,7 +90998,13 @@
    "hue": 14.83,
    "light": 0.3504,
    "chroma": 1.0,
-   "punch": 0.2454
+   "punch": 0.2454,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Abstract Expressionism"
+    }
+   ]
   },
   "sent-2026-09-05::a13ded744ff4": {
    "id": "CRVI001522",
@@ -90916,7 +91066,13 @@
    "hue": 45.27,
    "light": 0.6059,
    "chroma": 0.9969,
-   "punch": 0.6801
+   "punch": 0.6801,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Abstract Expressionism"
+    }
+   ]
   },
   "sent-2026-09-05::43f1396b5dda": {
    "id": "CRVI001523",
@@ -90973,7 +91129,13 @@
    "hue": 37.62,
    "light": 0.671,
    "chroma": 0.5298,
-   "punch": 0.1182
+   "punch": 0.1182,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Abstract Expressionism"
+    }
+   ]
   },
   "sent-2026-09-05::24444ecb785a": {
    "id": "CRVI001524",
@@ -91030,7 +91192,13 @@
    "hue": 37.63,
    "light": 0.5544,
    "chroma": 0.7298,
-   "punch": 0.1473
+   "punch": 0.1473,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Abstract Expressionism"
+    }
+   ]
   },
   "sent-2026-09-05::aa61fb24b40b": {
    "id": "CRVI001525",
@@ -91257,7 +91425,13 @@
    "hue": 25.58,
    "light": 0.275,
    "chroma": 0.3376,
-   "punch": 0.0928
+   "punch": 0.0928,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Social Realism"
+    }
+   ]
   },
   "sent-2026-09-05::aceb26bee503": {
    "id": "CRVI001529",
@@ -91425,7 +91599,13 @@
    "hue": 28.45,
    "light": 0.2493,
    "chroma": 0.5603,
-   "punch": 0.1792
+   "punch": 0.1792,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "American Regionalism"
+    }
+   ]
   },
   "sent-2026-09-05::c1f7b7763d09": {
    "id": "CRVI001532",
@@ -91488,7 +91668,13 @@
    "hue": 15.66,
    "light": 0.38,
    "chroma": 0.8508,
-   "punch": 0.2817
+   "punch": 0.2817,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "American Regionalism"
+    }
+   ]
   },
   "sent-2026-09-05::fe55764379dc": {
    "id": "CRVI001533",
@@ -91654,7 +91840,13 @@
    "hue": 35.04,
    "light": 0.5251,
    "chroma": 0.3602,
-   "punch": 0.0579
+   "punch": 0.0579,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Mexican Muralism"
+    }
+   ]
   },
   "sent-2026-09-05::b4f58a6d4f23": {
    "id": "CRVI001536",
@@ -91713,7 +91905,13 @@
    "hue": 36.17,
    "light": 0.4066,
    "chroma": 0.8911,
-   "punch": 0.2775
+   "punch": 0.2775,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Mexican Muralism"
+    }
+   ]
   },
   "sent-2026-09-05::5bc9a9c87b4b": {
    "id": "CRVI001537",
@@ -91770,7 +91968,13 @@
    "hue": 27.54,
    "light": 0.4055,
    "chroma": 0.6435,
-   "punch": 0.2218
+   "punch": 0.2218,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Mexican Muralism"
+    }
+   ]
   },
   "sent-2026-09-05::ceb54f21ef2e": {
    "id": "CRVI001538",
@@ -92353,7 +92557,13 @@
    "hue": 27.61,
    "light": 0.3746,
    "chroma": 0.3845,
-   "punch": 0.1259
+   "punch": 0.1259,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Surrealism"
+    }
+   ]
   },
   "sent-2026-09-05::90bae64d1160": {
    "id": "CRVI001549",
@@ -92463,7 +92673,13 @@
    "hue": 68.69,
    "light": 0.5738,
    "chroma": 0.6778,
-   "punch": 0.1876
+   "punch": 0.1876,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Surrealism"
+    }
+   ]
   },
   "sent-2026-09-05::db72f4c2b868": {
    "id": "CRVI001551",
@@ -92520,7 +92736,13 @@
    "hue": 204.51,
    "light": 0.6251,
    "chroma": 0.4363,
-   "punch": 0.1133
+   "punch": 0.1133,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Surrealism"
+    }
+   ]
   },
   "sent-2026-09-05::3cb53fff21fc": {
    "id": "CRVI001552",
@@ -92576,7 +92798,13 @@
    "hue": null,
    "light": 0.6234,
    "chroma": 0.0875,
-   "punch": 0.054
+   "punch": 0.054,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Surrealism"
+    }
+   ]
   },
   "sent-2026-09-05::9efa8f753a31": {
    "id": "CRVI001553",
@@ -92685,7 +92913,13 @@
    "hue": 35.33,
    "light": 0.4439,
    "chroma": 0.3826,
-   "punch": 0.1301
+   "punch": 0.1301,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Surrealism"
+    }
+   ]
   },
   "sent-2026-09-05::f2d506c9b20b": {
    "id": "CRVI001555",
@@ -92742,7 +92976,13 @@
    "hue": 35.8,
    "light": 0.2769,
    "chroma": 0.9666,
-   "punch": 0.2
+   "punch": 0.2,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Surrealism"
+    }
+   ]
   },
   "sent-2026-09-05::f5ea76f5c6bf": {
    "id": "CRVI001556",
@@ -92799,7 +93039,13 @@
    "hue": 26.25,
    "light": 0.3854,
    "chroma": 0.938,
-   "punch": 0.3081
+   "punch": 0.3081,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Surrealism"
+    }
+   ]
   },
   "sent-2026-09-05::08a2a37dad74": {
    "id": "CRVI001557",
@@ -92909,7 +93155,13 @@
    "hue": 52.67,
    "light": 0.3036,
    "chroma": 0.8443,
-   "punch": 0.1687
+   "punch": 0.1687,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Surrealism"
+    }
+   ]
   },
   "sent-2026-09-05::e843658edcd2": {
    "id": "CRVI001559",
@@ -92965,7 +93217,13 @@
    "hue": 31.91,
    "light": 0.5134,
    "chroma": 0.4999,
-   "punch": 0.1398
+   "punch": 0.1398,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Surrealism"
+    }
+   ]
   },
   "sent-2026-09-05::b7d2f178d6d9": {
    "id": "CRVI001560",
@@ -93022,7 +93280,13 @@
    "hue": 36.42,
    "light": 0.3728,
    "chroma": 0.9282,
-   "punch": 0.2785
+   "punch": 0.2785,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Surrealism"
+    }
+   ]
   },
   "sent-2026-09-05::6c18a64222c6": {
    "id": "CRVI001561",
@@ -93444,7 +93708,13 @@
    "hue": 35.2,
    "light": 0.5344,
    "chroma": 0.5285,
-   "punch": 0.141
+   "punch": 0.141,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "New Objectivity"
+    }
+   ]
   },
   "sent-2026-09-05::3543d05fcabf": {
    "id": "CRVI001569",
@@ -93501,7 +93771,13 @@
    "hue": 24.2,
    "light": 0.6142,
    "chroma": 0.6066,
-   "punch": 0.1716
+   "punch": 0.1716,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "New Objectivity"
+    }
+   ]
   },
   "sent-2026-09-05::0b6bd82ffaea": {
    "id": "CRVI001570",
@@ -93557,7 +93833,13 @@
    "hue": 25.82,
    "light": 0.5778,
    "chroma": 0.8705,
-   "punch": 0.4315
+   "punch": 0.4315,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "New Objectivity"
+    }
+   ]
   },
   "sent-2026-09-05::47dccc97ad36": {
    "id": "CRVI001571",
@@ -93613,7 +93895,13 @@
    "hue": 28.49,
    "light": 0.3357,
    "chroma": 0.4579,
-   "punch": 0.1047
+   "punch": 0.1047,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "New Objectivity"
+    }
+   ]
   },
   "sent-2026-09-05::cab3dcbf864a": {
    "id": "CRVI001572",
@@ -93833,7 +94121,13 @@
    "hue": 24.47,
    "light": 0.3366,
    "chroma": 0.6685,
-   "punch": 0.187
+   "punch": 0.187,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "New Objectivity"
+    }
+   ]
   },
   "sent-2026-09-05::3ccad933a797": {
    "id": "CRVI001576",
@@ -93890,7 +94184,13 @@
    "hue": 62.73,
    "light": 0.4658,
    "chroma": 0.6627,
-   "punch": 0.2239
+   "punch": 0.2239,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Precisionism"
+    }
+   ]
   },
   "sent-2026-09-05::a68ec15a4004": {
    "id": "CRVI001577",
@@ -93948,7 +94248,13 @@
    "hue": 38.83,
    "light": 0.48,
    "chroma": 0.4031,
-   "punch": 0.0724
+   "punch": 0.0724,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Precisionism"
+    }
+   ]
   },
   "sent-2026-09-05::dadd4d162897": {
    "id": "CRVI001578",
@@ -94009,7 +94315,13 @@
    "hue": 64.54,
    "light": 0.7936,
    "chroma": 0.4075,
-   "punch": 0.088
+   "punch": 0.088,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Precisionism"
+    }
+   ]
   },
   "sent-2026-09-05::69240a6bf077": {
    "id": "CRVI001579",
@@ -94070,7 +94382,13 @@
    "hue": 45.7,
    "light": 0.7784,
    "chroma": 0.1455,
-   "punch": 0.043
+   "punch": 0.043,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Precisionism"
+    }
+   ]
   },
   "sent-2026-09-05::08fb1be15459": {
    "id": "CRVI001580",
@@ -94126,7 +94444,13 @@
    "hue": 31.6,
    "light": 0.6903,
    "chroma": 0.3654,
-   "punch": 0.0866
+   "punch": 0.0866,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Precisionism"
+    }
+   ]
   },
   "sent-2026-09-05::2f50ed713340": {
    "id": "CRVI001581",
@@ -94341,7 +94665,13 @@
    "hue": 37.27,
    "light": 0.4785,
    "chroma": 0.8212,
-   "punch": 0.2891
+   "punch": 0.2891,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Precisionism"
+    }
+   ]
   },
   "sent-2026-09-05::cd70ab9898d2": {
    "id": "CRVI001585",
@@ -94402,7 +94732,13 @@
    "hue": 33.16,
    "light": 0.3325,
    "chroma": 0.3727,
-   "punch": 0.1038
+   "punch": 0.1038,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Precisionism"
+    }
+   ]
   },
   "sent-2026-09-05::7b1173b90eaa": {
    "id": "CRVI001586",
@@ -94962,7 +95298,13 @@
    "hue": 352.75,
    "light": 0.4398,
    "chroma": 0.4955,
-   "punch": 0.1698
+   "punch": 0.1698,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Photorealism"
+    }
+   ]
   },
   "sent-2026-09-05::6afc15f7b354": {
    "id": "CRVI001596",
@@ -95022,7 +95364,13 @@
    "hue": 35.38,
    "light": 0.3818,
    "chroma": 0.1682,
-   "punch": 0.0871
+   "punch": 0.0871,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Pointillism"
+    }
+   ]
   },
   "sent-2026-09-05::467727ce7a47": {
    "id": "CRVI001597",
@@ -95201,7 +95549,13 @@
    "hue": 38.73,
    "light": 0.4543,
    "chroma": 0.6103,
-   "punch": 0.1747
+   "punch": 0.1747,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Pointillism"
+    }
+   ]
   },
   "sent-2026-09-05::fe75f67ae9bc": {
    "id": "CRVI001600",
@@ -95257,7 +95611,13 @@
    "hue": null,
    "light": 0.4793,
    "chroma": 0.0009,
-   "punch": 0.0184
+   "punch": 0.0184,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Pointillism"
+    }
+   ]
   },
   "sent-2026-09-05::2d9618d7f5d6": {
    "id": "CRVI001601",
@@ -95313,7 +95673,13 @@
    "hue": 35.0,
    "light": 0.6301,
    "chroma": 0.6096,
-   "punch": 0.1424
+   "punch": 0.1424,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Pointillism"
+    }
+   ]
   },
   "sent-2026-09-05::0a624b369adc": {
    "id": "CRVI001602",
@@ -95696,7 +96062,13 @@
    "hue": 33.12,
    "light": 0.5286,
    "chroma": 0.6311,
-   "punch": 0.1992
+   "punch": 0.1992,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Symbolism"
+    }
+   ]
   },
   "sent-2026-09-05::258cfca7eb46": {
    "id": "CRVI001609",
@@ -96285,7 +96657,13 @@
    "hue": 42.39,
    "light": 0.8114,
    "chroma": 0.916,
-   "punch": 0.098
+   "punch": 0.098,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Nabis"
+    }
+   ]
   },
   "sent-2026-09-05::e55550d2acfc": {
    "id": "CRVI001619",
@@ -96454,7 +96832,13 @@
    "hue": 213.37,
    "light": 0.5279,
    "chroma": 0.7321,
-   "punch": 0.2673
+   "punch": 0.2673,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Nabis"
+    }
+   ]
   },
   "sent-2026-09-05::c9d74f848c3f": {
    "id": "CRVI001622",
@@ -96568,7 +96952,13 @@
    "hue": 41.67,
    "light": 0.4404,
    "chroma": 0.8238,
-   "punch": 0.342
+   "punch": 0.342,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Fauvism"
+    }
+   ]
   },
   "sent-2026-09-05::235be7cb27f6": {
    "id": "CRVI001624",
@@ -96625,7 +97015,13 @@
    "hue": 47.13,
    "light": 0.3648,
    "chroma": 0.4798,
-   "punch": 0.1607
+   "punch": 0.1607,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Fauvism"
+    }
+   ]
   },
   "sent-2026-09-05::4cf86d07838c": {
    "id": "CRVI001625",
@@ -96682,7 +97078,13 @@
    "hue": 34.05,
    "light": 0.3893,
    "chroma": 0.628,
-   "punch": 0.2054
+   "punch": 0.2054,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Fauvism"
+    }
+   ]
   },
   "sent-2026-09-05::eadc4af87977": {
    "id": "CRVI001626",
@@ -96849,7 +97251,13 @@
    "hue": 14.06,
    "light": 0.6348,
    "chroma": 0.8863,
-   "punch": 0.3167
+   "punch": 0.3167,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Fauvism"
+    }
+   ]
   },
   "sent-2026-09-05::5b172e7e8513": {
    "id": "CRVI001629",
@@ -96963,7 +97371,13 @@
    "hue": 33.6,
    "light": 0.3541,
    "chroma": 0.7937,
-   "punch": 0.2359
+   "punch": 0.2359,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Die Brücke"
+    }
+   ]
   },
   "sent-2026-09-05::f5fdb655998f": {
    "id": "CRVI001631",
@@ -97136,7 +97550,13 @@
    "hue": 35.5,
    "light": 0.422,
    "chroma": 0.7729,
-   "punch": 0.3214
+   "punch": 0.3214,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Die Brücke"
+    }
+   ]
   },
   "sent-2026-09-05::e87b8df027ef": {
    "id": "CRVI001634",
@@ -97246,7 +97666,13 @@
    "hue": 7.59,
    "light": 0.2608,
    "chroma": 0.7901,
-   "punch": 0.2464
+   "punch": 0.2464,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Die Brücke"
+    }
+   ]
   },
   "sent-2026-09-05::60154f6ab4b6": {
    "id": "CRVI001636",
@@ -97303,7 +97729,13 @@
    "hue": 46.08,
    "light": 0.4726,
    "chroma": 0.8052,
-   "punch": 0.3217
+   "punch": 0.3217,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Die Brücke"
+    }
+   ]
   },
   "sent-2026-09-05::43b1c55414d2": {
    "id": "CRVI001637",
@@ -97362,7 +97794,13 @@
    "hue": 213.91,
    "light": 0.4834,
    "chroma": 0.861,
-   "punch": 0.3945
+   "punch": 0.3945,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Die Brücke"
+    }
+   ]
   },
   "sent-2026-09-05::9483f96e891d": {
    "id": "CRVI001638",
@@ -97531,7 +97969,13 @@
    "hue": 159.06,
    "light": 0.4005,
    "chroma": 0.9575,
-   "punch": 0.3904
+   "punch": 0.3904,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Die Brücke"
+    }
+   ]
   },
   "sent-2026-09-05::002863a98cac": {
    "id": "CRVI001641",
@@ -97588,7 +98032,13 @@
    "hue": 35.19,
    "light": 0.5449,
    "chroma": 0.8782,
-   "punch": 0.3749
+   "punch": 0.3749,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Die Brücke"
+    }
+   ]
   },
   "sent-2026-09-05::652e39a5e891": {
    "id": "CRVI001642",
@@ -97645,7 +98095,13 @@
    "hue": 46.37,
    "light": 0.368,
    "chroma": 0.5976,
-   "punch": 0.2202
+   "punch": 0.2202,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Die Brücke"
+    }
+   ]
   },
   "sent-2026-09-05::ed57f72cdc78": {
    "id": "CRVI001643",
@@ -97702,7 +98158,13 @@
    "hue": 16.44,
    "light": 0.3455,
    "chroma": 0.8131,
-   "punch": 0.3496
+   "punch": 0.3496,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Die Brücke"
+    }
+   ]
   },
   "sent-2026-09-05::bc64777ffde9": {
    "id": "CRVI001644",
@@ -98082,7 +98544,13 @@
    "hue": 207.39,
    "light": 0.4574,
    "chroma": 0.2113,
-   "punch": 0.0897
+   "punch": 0.0897,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Cubism"
+    }
+   ]
   },
   "sent-2026-09-05::06f56e6edeb4": {
    "id": "CRVI001651",
@@ -98139,7 +98607,13 @@
    "hue": 20.93,
    "light": 0.4361,
    "chroma": 0.3739,
-   "punch": 0.1062
+   "punch": 0.1062,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Cubism"
+    }
+   ]
   },
   "sent-2026-09-05::1216e81168a4": {
    "id": "CRVI001652",
@@ -98196,7 +98670,13 @@
    "hue": 46.45,
    "light": 0.7025,
    "chroma": 0.7197,
-   "punch": 0.1342
+   "punch": 0.1342,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Cubism"
+    }
+   ]
   },
   "sent-2026-09-05::e657d8a2aa10": {
    "id": "CRVI001653",
@@ -98253,7 +98733,13 @@
    "hue": 42.76,
    "light": 0.6044,
    "chroma": 0.2892,
-   "punch": 0.0623
+   "punch": 0.0623,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Cubism"
+    }
+   ]
   },
   "sent-2026-09-05::1bbdb864a6e2": {
    "id": "CRVI001654",
@@ -98309,7 +98795,13 @@
    "hue": 40.29,
    "light": 0.4943,
    "chroma": 0.4106,
-   "punch": 0.1015
+   "punch": 0.1015,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Cubism"
+    }
+   ]
   },
   "sent-2026-09-05::f429354ef243": {
    "id": "CRVI001655",
@@ -98366,7 +98858,13 @@
    "hue": 226.73,
    "light": 0.4684,
    "chroma": 0.3278,
-   "punch": 0.0754
+   "punch": 0.0754,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Cubism"
+    }
+   ]
   },
   "sent-2026-09-05::cfa92c831188": {
    "id": "CRVI001656",
@@ -98423,7 +98921,13 @@
    "hue": 35.74,
    "light": 0.4387,
    "chroma": 0.3497,
-   "punch": 0.0751
+   "punch": 0.0751,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Cubism"
+    }
+   ]
   },
   "sent-2026-09-05::348041934b3f": {
    "id": "CRVI001657",
@@ -98480,7 +98984,13 @@
    "hue": 42.55,
    "light": 0.6568,
    "chroma": 0.7177,
-   "punch": 0.1671
+   "punch": 0.1671,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Cubism"
+    }
+   ]
   },
   "sent-2026-09-05::dc28a5bf539f": {
    "id": "CRVI001658",
@@ -98537,7 +99047,13 @@
    "hue": 243.97,
    "light": 0.4484,
    "chroma": 0.2587,
-   "punch": 0.0838
+   "punch": 0.0838,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Cubism"
+    }
+   ]
   },
   "sent-2026-09-05::86d82cd3e985": {
    "id": "CRVI001659",
@@ -98757,7 +99273,13 @@
    "hue": 33.39,
    "light": 0.3471,
    "chroma": 0.3619,
-   "punch": 0.1328
+   "punch": 0.1328,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Cubism"
+    }
+   ]
   },
   "sent-2026-09-05::a13358ee1dff": {
    "id": "CRVI001663",
@@ -98928,7 +99450,13 @@
    "hue": 30.91,
    "light": 0.4588,
    "chroma": 0.3919,
-   "punch": 0.1125
+   "punch": 0.1125,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Cubism"
+    }
+   ]
   },
   "sent-2026-09-05::a9e8fdb5636c": {
    "id": "CRVI001666",
@@ -99093,7 +99621,13 @@
    "hue": 42.75,
    "light": 0.2732,
    "chroma": 0.5719,
-   "punch": 0.1603
+   "punch": 0.1603,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Cubism"
+    }
+   ]
   },
   "sent-2026-09-05::d4bf16471e99": {
    "id": "CRVI001669",
@@ -99150,7 +99684,13 @@
    "hue": 15.2,
    "light": 0.4654,
    "chroma": 0.3019,
-   "punch": 0.0857
+   "punch": 0.0857,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Cubism"
+    }
+   ]
   },
   "sent-2026-09-05::6d4f80227b53": {
    "id": "CRVI001670",
@@ -99268,7 +99808,13 @@
    "hue": 49.59,
    "light": 0.5622,
    "chroma": 0.8751,
-   "punch": 0.3472
+   "punch": 0.3472,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Futurism"
+    }
+   ]
   },
   "sent-2026-09-05::90aacba93f44": {
    "id": "CRVI001672",
@@ -99325,7 +99871,13 @@
    "hue": 46.99,
    "light": 0.6136,
    "chroma": 0.7005,
-   "punch": 0.2069
+   "punch": 0.2069,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Futurism"
+    }
+   ]
   },
   "sent-2026-09-05::1343efc7c2fd": {
    "id": "CRVI001673",
@@ -99382,7 +99934,13 @@
    "hue": 43.97,
    "light": 0.4211,
    "chroma": 0.725,
-   "punch": 0.1944
+   "punch": 0.1944,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Futurism"
+    }
+   ]
   },
   "sent-2026-09-05::a36c8a6ce389": {
    "id": "CRVI001674",
@@ -99439,7 +99997,13 @@
    "hue": 244.94,
    "light": 0.6587,
    "chroma": 0.285,
-   "punch": 0.046
+   "punch": 0.046,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Futurism"
+    }
+   ]
   },
   "sent-2026-09-05::004317fdd91a": {
    "id": "CRVI001675",
@@ -99602,7 +100166,13 @@
    "hue": 33.86,
    "light": 0.6759,
    "chroma": 0.9792,
-   "punch": 0.3621
+   "punch": 0.3621,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Futurism"
+    }
+   ]
   },
   "sent-2026-09-05::af1c88beb6da": {
    "id": "CRVI001678",
@@ -99663,7 +100233,13 @@
    "hue": 53.86,
    "light": 0.5579,
    "chroma": 0.6516,
-   "punch": 0.1573
+   "punch": 0.1573,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Futurism"
+    }
+   ]
   },
   "sent-2026-09-05::3c0efc6e5cd0": {
    "id": "CRVI001679",
@@ -99774,7 +100350,13 @@
    "hue": 25.03,
    "light": 0.3961,
    "chroma": 0.3113,
-   "punch": 0.1216
+   "punch": 0.1216,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Futurism"
+    }
+   ]
   },
   "sent-2026-09-05::f55ad58d0465": {
    "id": "CRVI001681",
@@ -99831,7 +100413,13 @@
    "hue": 33.97,
    "light": 0.3402,
    "chroma": 0.6732,
-   "punch": 0.2427
+   "punch": 0.2427,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Futurism"
+    }
+   ]
   },
   "sent-2026-09-05::799ff331012c": {
    "id": "CRVI001682",
@@ -99941,7 +100529,13 @@
    "hue": 225.98,
    "light": 0.5839,
    "chroma": 0.6415,
-   "punch": 0.2044
+   "punch": 0.2044,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Futurism"
+    }
+   ]
   },
   "sent-2026-09-05::31027f6940b0": {
    "id": "CRVI001684",
@@ -100104,7 +100698,13 @@
    "hue": 212.65,
    "light": 0.4691,
    "chroma": 0.5701,
-   "punch": 0.1445
+   "punch": 0.1445,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Futurism"
+    }
+   ]
   },
   "sent-2026-09-05::ef5448b0658b": {
    "id": "CRVI001687",
@@ -100213,7 +100813,13 @@
    "hue": 236.72,
    "light": 0.2856,
    "chroma": 0.8106,
-   "punch": 0.1758
+   "punch": 0.1758,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Futurism"
+    }
+   ]
   },
   "sent-2026-09-05::883a8361f3be": {
    "id": "CRVI001689",
@@ -100322,7 +100928,13 @@
    "hue": 8.98,
    "light": 0.3857,
    "chroma": 0.7579,
-   "punch": 0.292
+   "punch": 0.292,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Futurism"
+    }
+   ]
   },
   "sent-2026-09-05::ac984fa5ffca": {
    "id": "CRVI001691",
@@ -100379,7 +100991,13 @@
    "hue": 6.51,
    "light": 0.448,
    "chroma": 0.9233,
-   "punch": 0.4578
+   "punch": 0.4578,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Futurism"
+    }
+   ]
   },
   "sent-2026-09-05::abb785bf23eb": {
    "id": "CRVI001692",
@@ -100440,7 +101058,13 @@
    "hue": 42.05,
    "light": 0.2634,
    "chroma": 0.5922,
-   "punch": 0.1428
+   "punch": 0.1428,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Futurism"
+    }
+   ]
   },
   "sent-2026-09-05::61bcdf67c104": {
    "id": "CRVI001693",
@@ -100496,7 +101120,13 @@
    "hue": 27.73,
    "light": 0.6295,
    "chroma": 0.8575,
-   "punch": 0.2926
+   "punch": 0.2926,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Futurism"
+    }
+   ]
   },
   "sent-2026-09-05::1ae464103219": {
    "id": "CRVI001694",
@@ -100555,7 +101185,13 @@
    "hue": 21.24,
    "light": 0.3635,
    "chroma": 0.9656,
-   "punch": 0.3596
+   "punch": 0.3596,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Futurism"
+    }
+   ]
   },
   "sent-2026-09-05::2588b3480d89": {
    "id": "CRVI001695",
@@ -100780,7 +101416,13 @@
    "hue": 44.62,
    "light": 0.6234,
    "chroma": 1.0,
-   "punch": 0.335
+   "punch": 0.335,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Futurism"
+    }
+   ]
   },
   "sent-2026-09-05::d01b27d32bee": {
    "id": "CRVI001699",
@@ -100837,7 +101479,13 @@
    "hue": 212.16,
    "light": 0.6392,
    "chroma": 0.6935,
-   "punch": 0.2178
+   "punch": 0.2178,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Futurism"
+    }
+   ]
   },
   "sent-2026-09-05::1f583bc9c7fa": {
    "id": "CRVI001700",
@@ -100894,7 +101542,13 @@
    "hue": 207.14,
    "light": 0.4034,
    "chroma": 0.5859,
-   "punch": 0.175
+   "punch": 0.175,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Futurism"
+    }
+   ]
   },
   "sent-2026-09-05::aec8be584e1a": {
    "id": "CRVI001701",
@@ -100950,7 +101604,13 @@
    "hue": 32.93,
    "light": 0.7063,
    "chroma": 0.4998,
-   "punch": 0.085
+   "punch": 0.085,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Futurism"
+    }
+   ]
   },
   "sent-2026-09-05::ff18918249a8": {
    "id": "CRVI001702",
@@ -101007,7 +101667,13 @@
    "hue": 24.78,
    "light": 0.7007,
    "chroma": 0.6445,
-   "punch": 0.1124
+   "punch": 0.1124,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Futurism"
+    }
+   ]
   },
   "sent-2026-09-05::83569270ea1e": {
    "id": "CRVI001703",
@@ -101064,7 +101730,13 @@
    "hue": 152.18,
    "light": 0.2784,
    "chroma": 0.6842,
-   "punch": 0.1012
+   "punch": 0.1012,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Futurism"
+    }
+   ]
   },
   "sent-2026-09-05::4c390fd976d4": {
    "id": "CRVI001704",
@@ -101178,7 +101850,13 @@
    "hue": 6.58,
    "light": 0.4952,
    "chroma": 0.5813,
-   "punch": 0.1909
+   "punch": 0.1909,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Der Blaue Reiter"
+    }
+   ]
   },
   "sent-2026-09-05::1816a07cdc70": {
    "id": "CRVI001706",
@@ -101682,7 +102360,13 @@
    "hue": 15.74,
    "light": 0.398,
    "chroma": 0.6555,
-   "punch": 0.2799
+   "punch": 0.2799,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Der Blaue Reiter"
+    }
+   ]
   },
   "sent-2026-09-05::11e27b36c096": {
    "id": "CRVI001715",
@@ -101739,7 +102423,13 @@
    "hue": 24.46,
    "light": 0.4586,
    "chroma": 0.7718,
-   "punch": 0.2972
+   "punch": 0.2972,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Der Blaue Reiter"
+    }
+   ]
   },
   "sent-2026-09-05::de7bc5dd235c": {
    "id": "CRVI001716",
@@ -102033,7 +102723,13 @@
    "hue": 15.18,
    "light": 0.4185,
    "chroma": 0.5446,
-   "punch": 0.1636
+   "punch": 0.1636,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Orphism"
+    }
+   ]
   },
   "sent-2026-09-05::be3ceed71710": {
    "id": "CRVI001721",
@@ -102367,7 +103063,13 @@
    "hue": 27.39,
    "light": 0.3732,
    "chroma": 0.4029,
-   "punch": 0.1078
+   "punch": 0.1078,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Orphism"
+    }
+   ]
   },
   "sent-2026-09-05::0d15a3917144": {
    "id": "CRVI001727",
@@ -102481,7 +103183,13 @@
    "hue": 226.22,
    "light": 0.4865,
    "chroma": 0.6916,
-   "punch": 0.1518
+   "punch": 0.1518,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Orphism"
+    }
+   ]
   },
   "sent-2026-09-05::adef5d00bcee": {
    "id": "CRVI001729",
@@ -102593,7 +103301,13 @@
    "hue": 36.29,
    "light": 0.5836,
    "chroma": 0.3672,
-   "punch": 0.0845
+   "punch": 0.0845,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Orphism"
+    }
+   ]
   },
   "sent-2026-09-05::4a96d50fbc64": {
    "id": "CRVI001731",
@@ -102764,7 +103478,13 @@
    "hue": 42.5,
    "light": 0.3747,
    "chroma": 0.7525,
-   "punch": 0.4228
+   "punch": 0.4228,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Rayonism"
+    }
+   ]
   },
   "sent-2026-09-05::e71204ca52b1": {
    "id": "CRVI001734",
@@ -103141,7 +103861,13 @@
    "hue": 16.99,
    "light": 0.3448,
    "chroma": 0.4615,
-   "punch": 0.1431
+   "punch": 0.1431,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Vorticism"
+    }
+   ]
   },
   "sent-2026-09-05::7fdb08697074": {
    "id": "CRVI001741",
@@ -103198,7 +103924,13 @@
    "hue": 207.22,
    "light": 0.3494,
    "chroma": 0.7181,
-   "punch": 0.1469
+   "punch": 0.1469,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Vorticism"
+    }
+   ]
   },
   "sent-2026-09-05::c5dbd801cd82": {
    "id": "CRVI001742",
@@ -103368,7 +104100,13 @@
    "hue": null,
    "light": 0.8176,
    "chroma": 0.0778,
-   "punch": 0.0455
+   "punch": 0.0455,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "De Stijl"
+    }
+   ]
   },
   "sent-2026-09-05::1319ce23a371": {
    "id": "CRVI001745",
@@ -103424,7 +104162,13 @@
    "hue": null,
    "light": 0.7319,
    "chroma": 0.0207,
-   "punch": 0.0069
+   "punch": 0.0069,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "De Stijl"
+    }
+   ]
   },
   "sent-2026-09-05::7e385b56088e": {
    "id": "CRVI001746",
@@ -103480,7 +104224,13 @@
    "hue": 5.01,
    "light": 0.7433,
    "chroma": 0.1622,
-   "punch": 0.0699
+   "punch": 0.0699,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "De Stijl"
+    }
+   ]
   },
   "sent-2026-09-05::32098ed0f90e": {
    "id": "CRVI001747",
@@ -103790,7 +104540,13 @@
    "hue": 30.57,
    "light": 0.5519,
    "chroma": 0.5474,
-   "punch": 0.1411
+   "punch": 0.1411,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Bauhaus"
+    }
+   ]
   },
   "sent-2026-09-05::b5591d792126": {
    "id": "CRVI001753",
@@ -103899,7 +104655,13 @@
    "hue": null,
    "light": 0.3688,
    "chroma": 0.016,
-   "punch": 0.0682
+   "punch": 0.0682,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Bauhaus"
+    }
+   ]
   },
   "sent-2026-09-05::95a9e6c67718": {
    "id": "CRVI001755",
@@ -103956,7 +104718,13 @@
    "hue": 215.65,
    "light": 0.5185,
    "chroma": 0.6072,
-   "punch": 0.1932
+   "punch": 0.1932,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Bauhaus"
+    }
+   ]
   },
   "sent-2026-09-05::a6babfb0aa4b": {
    "id": "CRVI001756",
@@ -104013,7 +104781,13 @@
    "hue": 43.38,
    "light": 0.6979,
    "chroma": 0.5988,
-   "punch": 0.1057
+   "punch": 0.1057,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Bauhaus"
+    }
+   ]
   },
   "sent-2026-09-05::403632477384": {
    "id": "CRVI001757",
@@ -104069,7 +104843,13 @@
    "hue": null,
    "light": 0.8232,
    "chroma": 0.0357,
-   "punch": 0.0233
+   "punch": 0.0233,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Bauhaus"
+    }
+   ]
   },
   "sent-2026-09-05::b348819d2f7f": {
    "id": "CRVI001758",
@@ -104125,7 +104905,13 @@
    "hue": 27.48,
    "light": 0.7524,
    "chroma": 0.4133,
-   "punch": 0.0621
+   "punch": 0.0621,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Bauhaus"
+    }
+   ]
   },
   "sent-2026-09-05::9c138e50c092": {
    "id": "CRVI001759",
@@ -104398,7 +105184,13 @@
    "hue": 34.45,
    "light": 0.7,
    "chroma": 0.826,
-   "punch": 0.1596
+   "punch": 0.1596,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Bauhaus"
+    }
+   ]
   },
   "sent-2026-09-05::9a436a648424": {
    "id": "CRVI001764",
@@ -104458,7 +105250,13 @@
    "hue": 35.56,
    "light": 0.5709,
    "chroma": 0.3499,
-   "punch": 0.0967
+   "punch": 0.0967,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Bauhaus"
+    }
+   ]
   },
   "sent-2026-09-05::f07d1e8f3bda": {
    "id": "CRVI001765",
@@ -104519,7 +105317,13 @@
    "hue": 46.53,
    "light": 0.6018,
    "chroma": 0.7743,
-   "punch": 0.2983
+   "punch": 0.2983,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Bauhaus"
+    }
+   ]
   },
   "sent-2026-09-05::f34e459964dc": {
    "id": "CRVI001766",
@@ -104682,7 +105486,13 @@
    "hue": 34.07,
    "light": 0.3747,
    "chroma": 0.3364,
-   "punch": 0.1187
+   "punch": 0.1187,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Purism"
+    }
+   ]
   },
   "sent-2026-09-05::ecb64d238471": {
    "id": "CRVI001769",
@@ -104739,7 +105549,13 @@
    "hue": 32.0,
    "light": 0.5157,
    "chroma": 0.2845,
-   "punch": 0.1447
+   "punch": 0.1447,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Purism"
+    }
+   ]
   },
   "sent-2026-09-05::1a0bea42b0cf": {
    "id": "CRVI001770",
@@ -104948,7 +105764,13 @@
    "hue": 36.28,
    "light": 0.4957,
    "chroma": 0.7633,
-   "punch": 0.3913
+   "punch": 0.3913,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Art Informel"
+    }
+   ]
   },
   "sent-2026-09-05::369e7e6f9912": {
    "id": "CRVI001774",
@@ -105320,7 +106142,13 @@
    "hue": 13.85,
    "light": 0.3466,
    "chroma": 0.8858,
-   "punch": 0.3
+   "punch": 0.3,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Gutai"
+    }
+   ]
   },
   "sent-2026-09-05::1cbc4a434b8c": {
    "id": "CRVI001781",
@@ -105431,7 +106259,13 @@
    "hue": 356.75,
    "light": 0.3785,
    "chroma": 0.9922,
-   "punch": 0.4157
+   "punch": 0.4157,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Gutai"
+    }
+   ]
   },
   "sent-2026-09-05::7232f28f364d": {
    "id": "CRVI001783",
@@ -105863,7 +106697,13 @@
    "hue": 162.86,
    "light": 0.3179,
    "chroma": 0.999,
-   "punch": 0.2532
+   "punch": 0.2532,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Color Field"
+    }
+   ]
   },
   "sent-2026-09-05::01d86385099a": {
    "id": "CRVI001791",
@@ -105974,7 +106814,13 @@
    "hue": 41.71,
    "light": 0.6933,
    "chroma": 0.7851,
-   "punch": 0.2859
+   "punch": 0.2859,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Color Field"
+    }
+   ]
   },
   "sent-2026-09-05::5c5111896931": {
    "id": "CRVI001793",
@@ -106031,7 +106877,13 @@
    "hue": 14.9,
    "light": 0.472,
    "chroma": 0.9536,
-   "punch": 0.342
+   "punch": 0.342,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Color Field"
+    }
+   ]
   },
   "sent-2026-09-05::2ddbaab866ea": {
    "id": "CRVI001794",
@@ -106199,7 +107051,13 @@
    "hue": 207.82,
    "light": 0.2661,
    "chroma": 0.9945,
-   "punch": 0.381
+   "punch": 0.381,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Color Field"
+    }
+   ]
   },
   "sent-2026-09-05::720fd763e29a": {
    "id": "CRVI001797",
@@ -106255,7 +107113,13 @@
    "hue": 26.1,
    "light": 0.3604,
    "chroma": 0.15,
-   "punch": 0.0706
+   "punch": 0.0706,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Neo-Dada"
+    }
+   ]
   },
   "sent-2026-09-05::032149ae8f7b": {
    "id": "CRVI001798",
@@ -106312,7 +107176,13 @@
    "hue": 9.88,
    "light": 0.4065,
    "chroma": 0.7834,
-   "punch": 0.5111
+   "punch": 0.5111,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Neo-Dada"
+    }
+   ]
   },
   "sent-2026-09-05::b98726712b61": {
    "id": "CRVI001799",
@@ -106527,7 +107397,13 @@
    "hue": 40.41,
    "light": 0.4774,
    "chroma": 0.7959,
-   "punch": 0.257
+   "punch": 0.257,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Pop Art"
+    }
+   ]
   },
   "sent-2026-09-05::ad353d16cca3": {
    "id": "CRVI001803",
@@ -106584,7 +107460,13 @@
    "hue": 52.67,
    "light": 0.4862,
    "chroma": 0.2771,
-   "punch": 0.1106
+   "punch": 0.1106,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Pop Art"
+    }
+   ]
   },
   "sent-2026-09-05::38fe97d3758c": {
    "id": "CRVI001804",
@@ -106640,7 +107522,13 @@
    "hue": 30.49,
    "light": 0.7084,
    "chroma": 0.8436,
-   "punch": 0.1686
+   "punch": 0.1686,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Pop Art"
+    }
+   ]
   },
   "sent-2026-09-05::810d525bec89": {
    "id": "CRVI001805",
@@ -106697,7 +107585,13 @@
    "hue": 214.17,
    "light": 0.5554,
    "chroma": 0.7662,
-   "punch": 0.1748
+   "punch": 0.1748,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Pop Art"
+    }
+   ]
   },
   "sent-2026-09-05::99735e4d770d": {
    "id": "CRVI001806",
@@ -106809,7 +107703,13 @@
    "hue": 53.57,
    "light": 0.5084,
    "chroma": 0.5815,
-   "punch": 0.3373
+   "punch": 0.3373,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Pop Art"
+    }
+   ]
   },
   "sent-2026-09-05::bedda58b84f6": {
    "id": "CRVI001808",
@@ -106866,7 +107766,13 @@
    "hue": 205.6,
    "light": 0.6296,
    "chroma": 0.5644,
-   "punch": 0.1705
+   "punch": 0.1705,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Pop Art"
+    }
+   ]
   },
   "sent-2026-09-05::c8ebab1ec618": {
    "id": "CRVI001809",
@@ -106982,7 +107888,13 @@
    "hue": 7.09,
    "light": 0.5019,
    "chroma": 0.9231,
-   "punch": 0.473
+   "punch": 0.473,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Pop Art"
+    }
+   ]
   },
   "sent-2026-09-05::82d51b740003": {
    "id": "CRVI001811",
@@ -107039,7 +107951,13 @@
    "hue": 356.34,
    "light": 0.515,
    "chroma": 0.4844,
-   "punch": 0.2004
+   "punch": 0.2004,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Pop Art"
+    }
+   ]
   },
   "sent-2026-09-05::96a6a73b1b7e": {
    "id": "CRVI001812",
@@ -107096,7 +108014,13 @@
    "hue": 20.58,
    "light": 0.566,
    "chroma": 0.7355,
-   "punch": 0.223
+   "punch": 0.223,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Pop Art"
+    }
+   ]
   },
   "sent-2026-09-05::84bd7d23a0ee": {
    "id": "CRVI001813",
@@ -107155,7 +108079,13 @@
    "hue": 11.26,
    "light": 0.3004,
    "chroma": 0.1322,
-   "punch": 0.0568
+   "punch": 0.0568,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Pop Art"
+    }
+   ]
   },
   "sent-2026-09-05::acb6444f4cd6": {
    "id": "CRVI001814",
@@ -107212,7 +108142,13 @@
    "hue": 43.89,
    "light": 0.6739,
    "chroma": 0.8081,
-   "punch": 0.1881
+   "punch": 0.1881,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Pop Art"
+    }
+   ]
   },
   "sent-2026-09-05::d2bcc4458f8b": {
    "id": "CRVI001815",
@@ -107328,7 +108264,13 @@
    "hue": 13.53,
    "light": 0.304,
    "chroma": 0.4511,
-   "punch": 0.1268
+   "punch": 0.1268,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Pop Art"
+    }
+   ]
   },
   "sent-2026-09-05::a25fa4ed8c79": {
    "id": "CRVI001817",
@@ -107438,7 +108380,13 @@
    "hue": 228.45,
    "light": 0.4651,
    "chroma": 0.578,
-   "punch": 0.1667
+   "punch": 0.1667,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Pop Art"
+    }
+   ]
   },
   "sent-2026-09-05::255452c1cba7": {
    "id": "CRVI001819",
@@ -107654,7 +108602,13 @@
    "hue": 44.81,
    "light": 0.5284,
    "chroma": 0.1742,
-   "punch": 0.1044
+   "punch": 0.1044,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Op Art"
+    }
+   ]
   },
   "sent-2026-09-05::d85de22ac0a8": {
    "id": "CRVI001823",
@@ -107812,7 +108766,13 @@
    "hue": 5.68,
    "light": 0.3828,
    "chroma": 0.9583,
-   "punch": 0.4516
+   "punch": 0.4516,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Op Art"
+    }
+   ]
   },
   "sent-2026-09-05::c2fe2fb150c2": {
    "id": "CRVI001826",
@@ -108083,7 +109043,13 @@
    "hue": 18.33,
    "light": 0.4883,
    "chroma": 0.76,
-   "punch": 0.3654
+   "punch": 0.3654,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Op Art"
+    }
+   ]
   },
   "sent-2026-09-05::672c6e33628b": {
    "id": "CRVI001831",
@@ -108140,7 +109106,13 @@
    "hue": 34.93,
    "light": 0.5524,
    "chroma": 0.9144,
-   "punch": 0.4642
+   "punch": 0.4642,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Op Art"
+    }
+   ]
   },
   "sent-2026-09-05::9022ca560356": {
    "id": "CRVI001832",
@@ -108509,7 +109481,13 @@
    "hue": 12.65,
    "light": 0.5189,
    "chroma": 0.8288,
-   "punch": 0.3336
+   "punch": 0.3336,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Op Art"
+    }
+   ]
   },
   "sent-2026-09-05::b105e3141052": {
    "id": "CRVI001839",
@@ -108836,7 +109814,13 @@
    "hue": null,
    "light": 0.7035,
    "chroma": 0.0,
-   "punch": 0.0144
+   "punch": 0.0144,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Op Art"
+    }
+   ]
   },
   "sent-2026-09-05::857c7b78ed14": {
    "id": "CRVI001845",
@@ -109773,7 +110757,13 @@
    "hue": 35.18,
    "light": 0.814,
    "chroma": 0.9187,
-   "punch": 0.1459
+   "punch": 0.1459,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Minimalism"
+    }
+   ]
   },
   "sent-2026-09-05::03b12dda6ec2": {
    "id": "CRVI001864",
@@ -109829,7 +110819,13 @@
    "hue": 43.61,
    "light": 0.7919,
    "chroma": 0.6733,
-   "punch": 0.1798
+   "punch": 0.1798,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Minimalism"
+    }
+   ]
   },
   "sent-2026-09-05::e85c8817a1cb": {
    "id": "CRVI001865",
@@ -109886,7 +110882,13 @@
    "hue": 186.96,
    "light": 0.7382,
    "chroma": 0.1762,
-   "punch": 0.0671
+   "punch": 0.0671,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Minimalism"
+    }
+   ]
   },
   "sent-2026-09-05::45df8e822328": {
    "id": "CRVI001866",
@@ -109945,7 +110947,13 @@
    "hue": 22.7,
    "light": 0.708,
    "chroma": 0.399,
-   "punch": 0.0969
+   "punch": 0.0969,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Minimalism"
+    }
+   ]
   },
   "sent-2026-09-05::464fda951bd0": {
    "id": "CRVI001867",
@@ -110062,7 +111070,13 @@
    "hue": 32.2,
    "light": 0.436,
    "chroma": 0.1675,
-   "punch": 0.0886
+   "punch": 0.0886,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Minimalism"
+    }
+   ]
   },
   "sent-2026-09-05::ea7d23027e93": {
    "id": "CRVI001869",
@@ -110281,7 +111295,13 @@
    "hue": 45.01,
    "light": 0.8154,
    "chroma": 0.9267,
-   "punch": 0.1624
+   "punch": 0.1624,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Minimalism"
+    }
+   ]
   },
   "sent-2026-09-05::fcc819f170a0": {
    "id": "CRVI001873",
@@ -110337,7 +111357,13 @@
    "hue": 31.04,
    "light": 0.7491,
    "chroma": 1.0,
-   "punch": 0.2751
+   "punch": 0.2751,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Minimalism"
+    }
+   ]
   },
   "sent-2026-09-05::2a48e98c3d36": {
    "id": "CRVI001874",
@@ -110394,7 +111420,13 @@
    "hue": 13.64,
    "light": 0.7112,
    "chroma": 0.9803,
-   "punch": 0.1983
+   "punch": 0.1983,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Minimalism"
+    }
+   ]
   },
   "sent-2026-09-05::48ff2be45cf6": {
    "id": "CRVI001875",
@@ -110451,7 +111483,13 @@
    "hue": 48.62,
    "light": 0.8286,
    "chroma": 0.1612,
-   "punch": 0.0517
+   "punch": 0.0517,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Minimalism"
+    }
+   ]
   },
   "sent-2026-09-05::b560c1f6f5e4": {
    "id": "CRVI001876",
@@ -110565,7 +111603,13 @@
    "hue": 216.63,
    "light": 0.2744,
    "chroma": 1.0,
-   "punch": 0.3231
+   "punch": 0.3231,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Minimalism"
+    }
+   ]
   },
   "sent-2026-09-05::d32c844df17c": {
    "id": "CRVI001878",
@@ -110622,7 +111666,13 @@
    "hue": 54.23,
    "light": 0.3396,
    "chroma": 0.8143,
-   "punch": 0.4038
+   "punch": 0.4038,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Minimalism"
+    }
+   ]
   },
   "sent-2026-09-05::30a898037396": {
    "id": "CRVI001879",
@@ -110678,7 +111728,13 @@
    "hue": null,
    "light": 0.5847,
    "chroma": 0.0342,
-   "punch": 0.0318
+   "punch": 0.0318,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Minimalism"
+    }
+   ]
   },
   "sent-2026-09-05::5759623849f2": {
    "id": "CRVI001880",
@@ -110910,7 +111966,13 @@
    "hue": 24.67,
    "light": 0.5354,
    "chroma": 0.2532,
-   "punch": 0.0915
+   "punch": 0.0915,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Arte Povera"
+    }
+   ]
   },
   "sent-2026-09-05::865c25669b0c": {
    "id": "CRVI001884",
@@ -111025,7 +112087,13 @@
    "hue": null,
    "light": 0.7002,
    "chroma": 0.0589,
-   "punch": 0.037
+   "punch": 0.037,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Arte Povera"
+    }
+   ]
   },
   "sent-2026-09-05::a5d46ab48571": {
    "id": "CRVI001886",
@@ -111686,7 +112754,13 @@
    "hue": 5.03,
    "light": 0.4925,
    "chroma": 0.9836,
-   "punch": 0.6969
+   "punch": 0.6969,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Conceptual Art"
+    }
+   ]
   },
   "sent-2026-09-05::9bcabf60e637": {
    "id": "CRVI001898",
@@ -111742,7 +112816,13 @@
    "hue": null,
    "light": 0.093,
    "chroma": 0.0181,
-   "punch": 0.0125
+   "punch": 0.0125,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Conceptual Art"
+    }
+   ]
   },
   "sent-2026-09-05::56e75ce4c316": {
    "id": "CRVI001899",
@@ -111798,7 +112878,13 @@
    "hue": null,
    "light": 0.2258,
    "chroma": 0.0,
-   "punch": 0.0166
+   "punch": 0.0166,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Conceptual Art"
+    }
+   ]
   },
   "sent-2026-09-05::edfe55ebe7ba": {
    "id": "CRVI001900",
@@ -111854,7 +112940,13 @@
    "hue": 5.02,
    "light": 0.4545,
    "chroma": 0.9812,
-   "punch": 0.6061
+   "punch": 0.6061,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Conceptual Art"
+    }
+   ]
   },
   "sent-2026-09-05::085807f8bd4c": {
    "id": "CRVI001901",
@@ -111961,7 +113053,13 @@
    "hue": 60.62,
    "light": 0.6232,
    "chroma": 0.6227,
-   "punch": 0.0411
+   "punch": 0.0411,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Conceptual Art"
+    }
+   ]
   },
   "sent-2026-09-05::e9ae6f5d7318": {
    "id": "CRVI001903",
@@ -112117,7 +113215,13 @@
    "hue": 26.54,
    "light": 0.707,
    "chroma": 0.659,
-   "punch": 0.0666
+   "punch": 0.0666,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Conceptual Art"
+    }
+   ]
   },
   "sent-2026-09-05::558753824efd": {
    "id": "CRVI001906",
@@ -112227,7 +113331,13 @@
    "hue": 57.15,
    "light": 0.6635,
    "chroma": 0.1675,
-   "punch": 0.0603
+   "punch": 0.0603,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Conceptual Art"
+    }
+   ]
   },
   "sent-2026-09-05::79f8f104ab53": {
    "id": "CRVI001908",
@@ -112286,7 +113396,13 @@
    "hue": 70.71,
    "light": 0.8294,
    "chroma": 0.7832,
-   "punch": 0.0616
+   "punch": 0.0616,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Conceptual Art"
+    }
+   ]
   },
   "sent-2026-09-05::03e16d4fd232": {
    "id": "CRVI001909",
@@ -112523,7 +113639,13 @@
    "hue": null,
    "light": 0.5935,
    "chroma": 0.0962,
-   "punch": 0.0488
+   "punch": 0.0488,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Land Art"
+    }
+   ]
   },
   "sent-2026-09-05::cf2928db9df0": {
    "id": "CRVI001913",
@@ -112918,7 +114040,13 @@
    "hue": 32.02,
    "light": 0.5255,
    "chroma": 0.9756,
-   "punch": 0.2336
+   "punch": 0.2336,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Land Art"
+    }
+   ]
   },
   "sent-2026-09-05::132df9447195": {
    "id": "CRVI001920",
@@ -113193,7 +114321,13 @@
    "hue": 36.87,
    "light": 0.4025,
    "chroma": 0.5004,
-   "punch": 0.1192
+   "punch": 0.1192,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Land Art"
+    }
+   ]
   },
   "sent-2026-09-05::8f2dcc806d19": {
    "id": "CRVI001925",
@@ -113249,7 +114383,13 @@
    "hue": null,
    "light": 0.6876,
    "chroma": 0.0194,
-   "punch": 0.0176
+   "punch": 0.0176,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Neo-Expressionism"
+    }
+   ]
   },
   "sent-2026-09-05::0b0c764aa883": {
    "id": "CRVI001926",
@@ -113418,7 +114558,13 @@
    "hue": 33.75,
    "light": 0.3441,
    "chroma": 0.2519,
-   "punch": 0.0795
+   "punch": 0.0795,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Neo-Expressionism"
+    }
+   ]
   },
   "sent-2026-09-05::f32d118ab073": {
    "id": "CRVI001929",
@@ -113475,7 +114621,13 @@
    "hue": 37.52,
    "light": 0.3364,
    "chroma": 0.2323,
-   "punch": 0.0682
+   "punch": 0.0682,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Neo-Expressionism"
+    }
+   ]
   },
   "sent-2026-09-05::5d8f133a84f1": {
    "id": "CRVI001930",
@@ -113753,7 +114905,13 @@
    "hue": 188.52,
    "light": 0.6364,
    "chroma": 0.1898,
-   "punch": 0.081
+   "punch": 0.081,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Young British Artists"
+    }
+   ]
   },
   "sent-2026-09-05::663c07899c5e": {
    "id": "CRVI001935",
@@ -113912,7 +115070,13 @@
    "hue": 204.78,
    "light": 0.8276,
    "chroma": 0.6237,
-   "punch": 0.108
+   "punch": 0.108,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Young British Artists"
+    }
+   ]
   },
   "sent-2026-09-05::f0e3f863748c": {
    "id": "CRVI001938",
