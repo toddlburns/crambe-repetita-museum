@@ -1,5 +1,5 @@
 {
- "next": 1539,
+ "next": 1603,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -91823,6 +91823,3552 @@
    "light": 0.6402,
    "chroma": 0.828,
    "punch": 0.2726
+  },
+  "sent-2026-09-05::7e393b2d20f5": {
+   "id": "CRVI001539",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001539.jpg",
+   "original_px": [
+    1400,
+    1042
+   ],
+   "original_bytes": 120119,
+   "identity": "sent-2026-09-05::7e393b2d20f5",
+   "source_url": "https://uploads7.wikiart.org/images/jacob-lawrence/bar-and-grill-1941(1).jpg",
+   "maker": "Jacob Lawrence",
+   "title": "Bar and Grill",
+   "subtitle": "",
+   "year": "1941",
+   "verified_against": "WikiArt, under Jacob Lawrence, dated 1941.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/150.jpg",
+   "source_px": [
+    1400,
+    1042
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Jacob Lawrence"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Jacob Lawrence, dated 1941.",
+   "hue": 34.98,
+   "light": 0.4692,
+   "chroma": 0.6466,
+   "punch": 0.3255
+  },
+  "sent-2026-09-05::cda12e1c007f": {
+   "id": "CRVI001540",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001540.jpg",
+   "original_px": [
+    979,
+    1454
+   ],
+   "original_bytes": 244369,
+   "identity": "sent-2026-09-05::cda12e1c007f",
+   "source_url": "https://uploads5.wikiart.org/images/jacob-lawrence/dreams-no-2-1965(1).jpg",
+   "maker": "Jacob Lawrence",
+   "title": "Dreams No. 2",
+   "subtitle": "",
+   "year": "1965",
+   "verified_against": "WikiArt, under Jacob Lawrence, dated 1965.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/151.jpg",
+   "source_px": [
+    979,
+    1454
+   ],
+   "colors": [
+    "green",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Jacob Lawrence"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Jacob Lawrence, dated 1965.",
+   "hue": 358.5,
+   "light": 0.433,
+   "chroma": 0.8756,
+   "punch": 0.2438
+  },
+  "sent-2026-09-05::d26b3ec9aa90": {
+   "id": "CRVI001541",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001541.jpg",
+   "original_px": [
+    1200,
+    1360
+   ],
+   "original_bytes": 335933,
+   "identity": "sent-2026-09-05::d26b3ec9aa90",
+   "source_url": "https://uploads2.wikiart.org/00230/images/archibald-motley/mulatress-with-figurine-and-dutch-seascape.jpg",
+   "maker": "Archibald Motley",
+   "title": "Mulatress with Figurine and Dutch Seascape",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Archibald Motley; the canvas is signed A. J. MOTLEY JR at the lower right. The date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/152.jpg",
+   "source_px": [
+    1200,
+    1360
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Archibald Motley"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Archibald Motley; the canvas is signed A. J. MOTLEY JR at the lower right. The date is not established here.",
+   "hue": 17.88,
+   "light": 0.3323,
+   "chroma": 0.4459,
+   "punch": 0.1664
+  },
+  "sent-2026-09-05::3e9a1f2de68e": {
+   "id": "CRVI001542",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001542.jpg",
+   "original_px": [
+    2400,
+    1582
+   ],
+   "original_bytes": 1727077,
+   "identity": "sent-2026-09-05::3e9a1f2de68e",
+   "source_url": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VET2AGD3CEI63LSZML2EJNJTWA.jpg",
+   "maker": "Palmer Hayden",
+   "title": "Sleeping figure with floating instruments",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Published by The Washington Post. The canvas is signed Palmer Hayden at the lower left, which is what establishes the painter. The title and date are NOT established here.",
+   "notes": [
+    "A man asleep on a bed, a guitar, trumpet, banjo and drum floating above him on a green ground."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/153.jpg",
+   "source_px": [
+    2400,
+    1582
+   ],
+   "colors": [
+    "cyan",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Palmer Hayden"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published by The Washington Post. The canvas is signed Palmer Hayden at the lower left, which is what establishes the painter. The title and date are NOT established here.",
+   "hue": 180.19,
+   "light": 0.2921,
+   "chroma": 0.7057,
+   "punch": 0.1376
+  },
+  "sent-2026-09-05::7793f449ec34": {
+   "id": "CRVI001543",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001543.jpg",
+   "original_px": [
+    1100,
+    1307
+   ],
+   "original_bytes": 245985,
+   "identity": "sent-2026-09-05::7793f449ec34",
+   "source_url": "https://uploads6.wikiart.org/images/william-h-johnson/portrait-of-ilya-bolotowsky-1930(1).jpg",
+   "maker": "William H. Johnson",
+   "title": "Portrait of Ilya Bolotowsky",
+   "subtitle": "",
+   "year": "1930",
+   "verified_against": "WikiArt, under William H. Johnson, dated 1930.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/154.jpg",
+   "source_px": [
+    1100,
+    1307
+   ],
+   "colors": [
+    "blue",
+    "purple"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "William H. Johnson"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1930s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under William H. Johnson, dated 1930.",
+   "hue": 243.2,
+   "light": 0.3292,
+   "chroma": 0.4513,
+   "punch": 0.1248
+  },
+  "sent-2026-09-05::375c93b6ca1d": {
+   "id": "CRVI001544",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001544.jpg",
+   "original_px": [
+    1824,
+    2462
+   ],
+   "original_bytes": 1715770,
+   "identity": "sent-2026-09-05::375c93b6ca1d",
+   "source_url": "https://uploads0.wikiart.org/00315/images/lois-mailou-jones/textile-design.jpg",
+   "maker": "Lois Mailou Jones",
+   "title": "Textile Design",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Lois Mailou Jones as Textile Design; the date is not established here.",
+   "notes": [
+    "Birds of paradise on a yellow ground."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/155.jpg",
+   "source_px": [
+    1824,
+    2462
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Lois Mailou Jones"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Lois Mailou Jones as Textile Design; the date is not established here.",
+   "hue": 40.09,
+   "light": 0.5048,
+   "chroma": 0.8015,
+   "punch": 0.3787
+  },
+  "sent-2026-09-05::40b850bae926": {
+   "id": "CRVI001545",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001545.jpg",
+   "original_px": [
+    1016,
+    1024
+   ],
+   "original_bytes": 198295,
+   "identity": "sent-2026-09-05::40b850bae926",
+   "source_url": "https://fredericmagazine.com/wp-content/uploads/2021/02/jones-5.jpg",
+   "maker": "Lois Mailou Jones",
+   "title": "Composition with African head and figure",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Published under Lois Mailou Jones's name by Frederic Magazine. The title and date are NOT established here.",
+   "notes": [
+    "Taken from the magazine's undecorated original at 1016 × 1024 rather than the 800 × 806 WordPress derivative that was sent."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/156.jpg",
+   "source_px": [
+    1016,
+    1024
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Lois Mailou Jones"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published under Lois Mailou Jones's name by Frederic Magazine. The title and date are NOT established here.",
+   "hue": 22.42,
+   "light": 0.466,
+   "chroma": 0.8242,
+   "punch": 0.2356
+  },
+  "sent-2026-09-05::aa8649c254c7": {
+   "id": "CRVI001546",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001546.jpg",
+   "original_px": [
+    1200,
+    1202
+   ],
+   "original_bytes": 246552,
+   "identity": "sent-2026-09-05::aa8649c254c7",
+   "source_url": "https://dygtyjqp7pi0m.cloudfront.net/i/39147/33633720_1.jpg?v=8D6F1042B805DE0",
+   "maker": "Lois Mailou Jones",
+   "title": "Woman in a turban with masks",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "The canvas is signed Lois M Jones at the upper right. The title, date and the source of this file are NOT established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/157.jpg",
+   "source_px": [
+    1200,
+    1202
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Lois Mailou Jones"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The canvas is signed Lois M Jones at the upper right. The title, date and the source of this file are NOT established here.",
+   "hue": 24.54,
+   "light": 0.4481,
+   "chroma": 0.8747,
+   "punch": 0.3006
+  },
+  "sent-2026-09-05::6238879285db": {
+   "id": "CRVI001547",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001547.jpg",
+   "original_px": [
+    1014,
+    1400
+   ],
+   "original_bytes": 966881,
+   "identity": "sent-2026-09-05::6238879285db",
+   "source_url": "https://awarewomenartists.com/wp-content/uploads/2018/06/lois-mailou-jones_moon-masque_1971_aware_women-artists_artistes-femmes.jpg",
+   "maker": "Lois Mailou Jones",
+   "title": "Moon Masque",
+   "subtitle": "",
+   "year": "1971",
+   "verified_against": "Published as Lois Mailou Jones, Moon Masque, 1971, by AWARE (Archives of Women Artists, Research and Exhibitions); the file name is their own metadata.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/158.jpg",
+   "source_px": [
+    1014,
+    1400
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Lois Mailou Jones"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published as Lois Mailou Jones, Moon Masque, 1971, by AWARE (Archives of Women Artists, Research and Exhibitions); the file name is their own metadata.",
+   "hue": 36.47,
+   "light": 0.4062,
+   "chroma": 0.7769,
+   "punch": 0.3049
+  },
+  "sent-2026-09-05::8995d888f51f": {
+   "id": "CRVI001548",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001548.jpg",
+   "original_px": [
+    843,
+    1284
+   ],
+   "original_bytes": 235554,
+   "identity": "sent-2026-09-05::8995d888f51f",
+   "source_url": "https://www.artic.edu/iiif/2/91e4c46b-9ef3-ca78-148c-86845e457d88/full/843,/0/default.jpg",
+   "maker": "René Magritte",
+   "title": "La durée poignardée (Time Transfixed)",
+   "subtitle": "",
+   "year": "1938",
+   "verified_against": "Art Institute of Chicago, artwork 34181 — the museum's API resolves this image id to René Magritte, La durée poignardée (Time Transfixed), 1938.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/159.jpg",
+   "source_px": [
+    843,
+    1284
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "René Magritte"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "subject",
+     "v": "Surrealism"
+    },
+    {
+     "k": "location",
+     "v": "Belgium"
+    },
+    {
+     "k": "decade",
+     "v": "1930s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Institute of Chicago, artwork 34181 — the museum's API resolves this image id to René Magritte, La durée poignardée (Time Transfixed), 1938.",
+   "hue": 27.61,
+   "light": 0.3746,
+   "chroma": 0.3845,
+   "punch": 0.1259
+  },
+  "sent-2026-09-05::90bae64d1160": {
+   "id": "CRVI001549",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001549.jpg",
+   "original_px": [
+    1700,
+    1599
+   ],
+   "original_bytes": 452446,
+   "identity": "sent-2026-09-05::90bae64d1160",
+   "source_url": "https://uploads4.wikiart.org/images/joan-miro/the-vegetable-garden-with-donkey.jpg",
+   "maker": "Joan Miró",
+   "title": "The Vegetable Garden with Donkey",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Joan Miró; the date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/160.jpg",
+   "source_px": [
+    1700,
+    1599
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Joan Miró"
+    },
+    {
+     "k": "subject",
+     "v": "Surrealism"
+    },
+    {
+     "k": "location",
+     "v": "Spain"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Joan Miró; the date is not established here.",
+   "hue": 28.64,
+   "light": 0.4654,
+   "chroma": 0.7728,
+   "punch": 0.2349
+  },
+  "sent-2026-09-05::79659da1fe85": {
+   "id": "CRVI001550",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001550.jpg",
+   "original_px": [
+    1682,
+    2136
+   ],
+   "original_bytes": 234148,
+   "identity": "sent-2026-09-05::79659da1fe85",
+   "source_url": "https://uploads0.wikiart.org/images/yves-tanguy/through-birds-through-fire-but-not-through-glass-1943.jpg",
+   "maker": "Yves Tanguy",
+   "title": "Through Birds, Through Fire, but Not Through Glass",
+   "subtitle": "",
+   "year": "1943",
+   "verified_against": "WikiArt, under Yves Tanguy, dated 1943.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/161.jpg",
+   "source_px": [
+    1682,
+    2136
+   ],
+   "colors": [
+    "green",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Yves Tanguy"
+    },
+    {
+     "k": "subject",
+     "v": "Surrealism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Yves Tanguy, dated 1943.",
+   "hue": 68.69,
+   "light": 0.5738,
+   "chroma": 0.6778,
+   "punch": 0.1876
+  },
+  "sent-2026-09-05::db72f4c2b868": {
+   "id": "CRVI001551",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001551.jpg",
+   "original_px": [
+    1682,
+    2116
+   ],
+   "original_bytes": 290756,
+   "identity": "sent-2026-09-05::db72f4c2b868",
+   "source_url": "https://uploads1.wikiart.org/images/yves-tanguy/indefined-divisibility-1942.jpg",
+   "maker": "Yves Tanguy",
+   "title": "Indefinite Divisibility",
+   "subtitle": "",
+   "year": "1942",
+   "verified_against": "WikiArt, under Yves Tanguy, dated 1942.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/162.jpg",
+   "source_px": [
+    1682,
+    2116
+   ],
+   "colors": [
+    "cyan",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Yves Tanguy"
+    },
+    {
+     "k": "subject",
+     "v": "Surrealism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Yves Tanguy, dated 1942.",
+   "hue": 204.51,
+   "light": 0.6251,
+   "chroma": 0.4363,
+   "punch": 0.1133
+  },
+  "sent-2026-09-05::3cb53fff21fc": {
+   "id": "CRVI001552",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001552.jpg",
+   "original_px": [
+    843,
+    1057
+   ],
+   "original_bytes": 243257,
+   "identity": "sent-2026-09-05::3cb53fff21fc",
+   "source_url": "https://www.artic.edu/iiif/2/4c57d38e-c3ca-2e57-057d-7a74f4616fb0/full/843,/0/default.jpg",
+   "maker": "Yves Tanguy",
+   "title": "The Rapidity of Sleep",
+   "subtitle": "",
+   "year": "1945",
+   "verified_against": "Art Institute of Chicago, artwork 54745 — the museum's API resolves this image id to Yves Tanguy, The Rapidity of Sleep, 1945.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/163.jpg",
+   "source_px": [
+    843,
+    1057
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Yves Tanguy"
+    },
+    {
+     "k": "subject",
+     "v": "Surrealism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Institute of Chicago, artwork 54745 — the museum's API resolves this image id to Yves Tanguy, The Rapidity of Sleep, 1945.",
+   "hue": null,
+   "light": 0.6234,
+   "chroma": 0.0875,
+   "punch": 0.054
+  },
+  "sent-2026-09-05::9efa8f753a31": {
+   "id": "CRVI001553",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001553.jpg",
+   "original_px": [
+    1200,
+    967
+   ],
+   "original_bytes": 617724,
+   "identity": "sent-2026-09-05::9efa8f753a31",
+   "source_url": "https://uploads4.wikiart.org/images/andre-masson/l-homme-embl-matique.jpg",
+   "maker": "André Masson",
+   "title": "L'homme emblématique",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under André Masson; the date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/164.jpg",
+   "source_px": [
+    1200,
+    967
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "André Masson"
+    },
+    {
+     "k": "subject",
+     "v": "Surrealism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under André Masson; the date is not established here.",
+   "hue": 43.59,
+   "light": 0.4885,
+   "chroma": 0.704,
+   "punch": 0.238
+  },
+  "sent-2026-09-05::5eeb0bc5c4f9": {
+   "id": "CRVI001554",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001554.jpg",
+   "original_px": [
+    3024,
+    4032
+   ],
+   "original_bytes": 2979262,
+   "identity": "sent-2026-09-05::5eeb0bc5c4f9",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Detalle_del_mural_de_Leonora_Carrington%2C_El_mundo_m%C3%A1gico_de_los_mayas%2C_1964.jpg",
+   "maker": "Leonora Carrington",
+   "title": "El mundo mágico de los mayas",
+   "subtitle": "Detail of the mural",
+   "year": "1964",
+   "verified_against": "Wikimedia Commons, as a detail of Leonora Carrington's mural El mundo mágico de los mayas, 1964.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/165.jpg",
+   "source_px": [
+    3024,
+    4032
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Leonora Carrington"
+    },
+    {
+     "k": "subject",
+     "v": "Surrealism"
+    },
+    {
+     "k": "location",
+     "v": "Mexico"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons, as a detail of Leonora Carrington's mural El mundo mágico de los mayas, 1964.",
+   "hue": 35.33,
+   "light": 0.4439,
+   "chroma": 0.3826,
+   "punch": 0.1301
+  },
+  "sent-2026-09-05::f2d506c9b20b": {
+   "id": "CRVI001555",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001555.jpg",
+   "original_px": [
+    843,
+    1158
+   ],
+   "original_bytes": 349959,
+   "identity": "sent-2026-09-05::f2d506c9b20b",
+   "source_url": "https://www.artic.edu/iiif/2/0c54646f-57be-ebb6-923a-77a1cb4885f3/full/843,/0/default.jpg",
+   "maker": "Remedios Varo",
+   "title": "Still Life Reviving (Naturaleza muerta resucitando)",
+   "subtitle": "",
+   "year": "1963",
+   "verified_against": "Art Institute of Chicago, artwork 272394 — the museum's API resolves this image id to Remedios Varo, Still Life Reviving (Naturaleza muerta resucitando), 1963.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/166.jpg",
+   "source_px": [
+    843,
+    1158
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Remedios Varo"
+    },
+    {
+     "k": "subject",
+     "v": "Surrealism"
+    },
+    {
+     "k": "location",
+     "v": "Mexico"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Institute of Chicago, artwork 272394 — the museum's API resolves this image id to Remedios Varo, Still Life Reviving (Naturaleza muerta resucitando), 1963.",
+   "hue": 35.8,
+   "light": 0.2769,
+   "chroma": 0.9666,
+   "punch": 0.2
+  },
+  "sent-2026-09-05::f5ea76f5c6bf": {
+   "id": "CRVI001556",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001556.jpg",
+   "original_px": [
+    821,
+    1000
+   ],
+   "original_bytes": 495281,
+   "identity": "sent-2026-09-05::f5ea76f5c6bf",
+   "source_url": "https://uploads6.wikiart.org/images/remedios-varo/creation-with-astral-rays-1955.jpg",
+   "maker": "Remedios Varo",
+   "title": "Creation with Astral Rays",
+   "subtitle": "",
+   "year": "1955",
+   "verified_against": "WikiArt, under Remedios Varo, dated 1955.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/167.jpg",
+   "source_px": [
+    821,
+    1000
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Remedios Varo"
+    },
+    {
+     "k": "subject",
+     "v": "Surrealism"
+    },
+    {
+     "k": "location",
+     "v": "Mexico"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Remedios Varo, dated 1955.",
+   "hue": 26.25,
+   "light": 0.3854,
+   "chroma": 0.938,
+   "punch": 0.3081
+  },
+  "sent-2026-09-05::08a2a37dad74": {
+   "id": "CRVI001557",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001557.jpg",
+   "original_px": [
+    1070,
+    920
+   ],
+   "original_bytes": 601320,
+   "identity": "sent-2026-09-05::08a2a37dad74",
+   "source_url": "https://uploads6.wikiart.org/images/remedios-varo/creation-of-the-birds.jpg",
+   "maker": "Remedios Varo",
+   "title": "Creation of the Birds",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Remedios Varo; the date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/168.jpg",
+   "source_px": [
+    1070,
+    920
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Remedios Varo"
+    },
+    {
+     "k": "subject",
+     "v": "Surrealism"
+    },
+    {
+     "k": "location",
+     "v": "Mexico"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Remedios Varo; the date is not established here.",
+   "hue": 15.69,
+   "light": 0.3465,
+   "chroma": 0.8434,
+   "punch": 0.1973
+  },
+  "sent-2026-09-05::aa8eed6a43c2": {
+   "id": "CRVI001558",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001558.jpg",
+   "original_px": [
+    2688,
+    3056
+   ],
+   "original_bytes": 4171575,
+   "identity": "sent-2026-09-05::aa8eed6a43c2",
+   "source_url": "https://uploads3.wikiart.org/00437/images/remedios-varo/1955simpat-a-la-rabia-del-gato-painted-in-1955.jpg",
+   "maker": "Remedios Varo",
+   "title": "Simpatía (La rabia del gato)",
+   "subtitle": "",
+   "year": "1955",
+   "verified_against": "WikiArt, under Remedios Varo, dated 1955.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/169.jpg",
+   "source_px": [
+    2688,
+    3056
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Remedios Varo"
+    },
+    {
+     "k": "subject",
+     "v": "Surrealism"
+    },
+    {
+     "k": "location",
+     "v": "Mexico"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Remedios Varo, dated 1955.",
+   "hue": 52.67,
+   "light": 0.3036,
+   "chroma": 0.8443,
+   "punch": 0.1687
+  },
+  "sent-2026-09-05::e843658edcd2": {
+   "id": "CRVI001559",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001559.jpg",
+   "original_px": [
+    1260,
+    1160
+   ],
+   "original_bytes": 739137,
+   "identity": "sent-2026-09-05::e843658edcd2",
+   "source_url": "https://uploads1.wikiart.org/images/dorothea-tanning/voltagem-1942.jpg",
+   "maker": "Dorothea Tanning",
+   "title": "Voltagem",
+   "subtitle": "",
+   "year": "1942",
+   "verified_against": "WikiArt, under Dorothea Tanning, dated 1942.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/170.jpg",
+   "source_px": [
+    1260,
+    1160
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Dorothea Tanning"
+    },
+    {
+     "k": "subject",
+     "v": "Surrealism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Dorothea Tanning, dated 1942.",
+   "hue": 31.91,
+   "light": 0.5134,
+   "chroma": 0.4999,
+   "punch": 0.1398
+  },
+  "sent-2026-09-05::b7d2f178d6d9": {
+   "id": "CRVI001560",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001560.jpg",
+   "original_px": [
+    1600,
+    1162
+   ],
+   "original_bytes": 605372,
+   "identity": "sent-2026-09-05::b7d2f178d6d9",
+   "source_url": "https://i.pinimg.com/originals/53/51/b6/5351b62b9f213e5a8027a9c9bbe6697a.jpg",
+   "maker": "Dorothea Tanning",
+   "title": "Eine Kleine Nachtmusik",
+   "subtitle": "",
+   "year": "1943",
+   "verified_against": "Identified from the painting itself — the green hotel corridor, the two girls, the shredded doll and the giant sunflower on the stair make Eine Kleine Nachtmusik, the picture Tate holds. ⚠️ The FILE, however, came from Pinterest with no provenance at all; the identification is the work's, not the source's.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/171.jpg",
+   "source_px": [
+    1600,
+    1162
+   ],
+   "colors": [
+    "orange",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Dorothea Tanning"
+    },
+    {
+     "k": "subject",
+     "v": "Surrealism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Identified from the painting itself — the green hotel corridor, the two girls, the shredded doll and the giant sunflower on the stair make Eine Kleine Nachtmusik, the picture Tate holds. ⚠️ The FILE, however, came from Pinterest with no provenance at all; the identification is the work's, not the source's.",
+   "hue": 36.42,
+   "light": 0.3728,
+   "chroma": 0.9282,
+   "punch": 0.2785
+  },
+  "sent-2026-09-05::6c18a64222c6": {
+   "id": "CRVI001561",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001561.jpg",
+   "original_px": [
+    1425,
+    2214
+   ],
+   "original_bytes": 413544,
+   "identity": "sent-2026-09-05::6c18a64222c6",
+   "source_url": "https://uploads1.wikiart.org/images/giorgio-de-chirico/melancholy-of-department-1916.jpg",
+   "maker": "Giorgio de Chirico",
+   "title": "Melancholy of Departure",
+   "subtitle": "",
+   "year": "1916",
+   "verified_against": "WikiArt, under Giorgio de Chirico, dated 1916.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/172.jpg",
+   "source_px": [
+    1425,
+    2214
+   ],
+   "colors": [
+    "cyan",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Giorgio de Chirico"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Giorgio de Chirico, dated 1916.",
+   "hue": 195.35,
+   "light": 0.3793,
+   "chroma": 0.572,
+   "punch": 0.1788
+  },
+  "sent-2026-09-05::0d9da4fa9020": {
+   "id": "CRVI001562",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001562.jpg",
+   "original_px": [
+    1642,
+    1847
+   ],
+   "original_bytes": 290339,
+   "identity": "sent-2026-09-05::0d9da4fa9020",
+   "source_url": "https://uploads6.wikiart.org/images/giorgio-de-chirico/the-gentle-afternoon-1916.jpg",
+   "maker": "Giorgio de Chirico",
+   "title": "The Gentle Afternoon",
+   "subtitle": "",
+   "year": "1916",
+   "verified_against": "WikiArt, under Giorgio de Chirico, dated 1916.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/173.jpg",
+   "source_px": [
+    1642,
+    1847
+   ],
+   "colors": [
+    "green",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Giorgio de Chirico"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Giorgio de Chirico, dated 1916.",
+   "hue": 46.27,
+   "light": 0.3478,
+   "chroma": 0.6969,
+   "punch": 0.2153
+  },
+  "sent-2026-09-05::5c11cc75a946": {
+   "id": "CRVI001563",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001563.jpg",
+   "original_px": [
+    1311,
+    1970
+   ],
+   "original_bytes": 277202,
+   "identity": "sent-2026-09-05::5c11cc75a946",
+   "source_url": "https://uploads7.wikiart.org/images/otto-dix/self-portrait-1912.jpg",
+   "maker": "Otto Dix",
+   "title": "Self-Portrait",
+   "subtitle": "",
+   "year": "1912",
+   "verified_against": "WikiArt, under Otto Dix, dated 1912; the panel is inscribed DIX 1912 at the upper left.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/174.jpg",
+   "source_px": [
+    1311,
+    1970
+   ],
+   "colors": [
+    "cyan",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Otto Dix"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Otto Dix, dated 1912; the panel is inscribed DIX 1912 at the upper left.",
+   "hue": 197.83,
+   "light": 0.4332,
+   "chroma": 0.8746,
+   "punch": 0.221
+  },
+  "sent-2026-09-05::5cab119b9fae": {
+   "id": "CRVI001564",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001564.jpg",
+   "original_px": [
+    896,
+    841
+   ],
+   "original_bytes": 829728,
+   "identity": "sent-2026-09-05::5cab119b9fae",
+   "source_url": "https://uploads2.wikiart.org/images/otto-dix/the-street-of-brothels.jpg",
+   "maker": "Otto Dix",
+   "title": "The Street of Brothels",
+   "subtitle": "",
+   "year": "1916",
+   "verified_against": "WikiArt, under Otto Dix; the canvas is inscribed 1916 DIX at the lower left.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/175.jpg",
+   "source_px": [
+    896,
+    841
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Otto Dix"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Otto Dix; the canvas is inscribed 1916 DIX at the lower left.",
+   "hue": 13.55,
+   "light": 0.2569,
+   "chroma": 0.5129,
+   "punch": 0.143
+  },
+  "sent-2026-09-05::de5205b95951": {
+   "id": "CRVI001565",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001565.jpg",
+   "original_px": [
+    1288,
+    1689
+   ],
+   "original_bytes": 432340,
+   "identity": "sent-2026-09-05::de5205b95951",
+   "source_url": "https://uploads1.wikiart.org/images/otto-dix/self-portrait-as-mars.jpg",
+   "maker": "Otto Dix",
+   "title": "Self-Portrait as Mars",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Otto Dix; the date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/176.jpg",
+   "source_px": [
+    1288,
+    1689
+   ],
+   "colors": [
+    "red",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Otto Dix"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Otto Dix; the date is not established here.",
+   "hue": 5.92,
+   "light": 0.3129,
+   "chroma": 0.4725,
+   "punch": 0.1405
+  },
+  "sent-2026-09-05::2177550ec234": {
+   "id": "CRVI001566",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001566.jpg",
+   "original_px": [
+    1117,
+    1431
+   ],
+   "original_bytes": 261989,
+   "identity": "sent-2026-09-05::2177550ec234",
+   "source_url": "https://uploads2.wikiart.org/images/otto-dix/dying-warrior.jpg",
+   "maker": "Otto Dix",
+   "title": "Dying Warrior",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Otto Dix; inscribed DIX at the upper right. The date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/177.jpg",
+   "source_px": [
+    1117,
+    1431
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Otto Dix"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Otto Dix; inscribed DIX at the upper right. The date is not established here.",
+   "hue": 8.99,
+   "light": 0.3811,
+   "chroma": 0.5082,
+   "punch": 0.1518
+  },
+  "sent-2026-09-05::112baf657833": {
+   "id": "CRVI001567",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001567.jpg",
+   "original_px": [
+    3400,
+    2114
+   ],
+   "original_bytes": 1957356,
+   "identity": "sent-2026-09-05::112baf657833",
+   "source_url": "https://openaccess-cdn.clevelandart.org/2013.7/2013.7_print.jpg",
+   "maker": "Max Beckmann",
+   "title": "Perseus's Last Duty",
+   "subtitle": "",
+   "year": "1949",
+   "verified_against": "Cleveland Museum of Art, accession 2013.7 — the museum's own open-access record gives Max Beckmann (German, 1884–1950), Perseus's Last Duty, 1949, oil on canvas.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/178.jpg",
+   "source_px": [
+    3400,
+    2114
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Max Beckmann"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Cleveland Museum of Art, accession 2013.7 — the museum's own open-access record gives Max Beckmann (German, 1884–1950), Perseus's Last Duty, 1949, oil on canvas.",
+   "hue": 8.85,
+   "light": 0.2703,
+   "chroma": 0.259,
+   "punch": 0.0824
+  },
+  "sent-2026-09-05::45197da27611": {
+   "id": "CRVI001568",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001568.jpg",
+   "original_px": [
+    1238,
+    1536
+   ],
+   "original_bytes": 188687,
+   "identity": "sent-2026-09-05::45197da27611",
+   "source_url": "https://uploads5.wikiart.org/images/christian-schad/self-portrait-1927.jpg",
+   "maker": "Christian Schad",
+   "title": "Self-Portrait",
+   "subtitle": "",
+   "year": "1927",
+   "verified_against": "WikiArt, under Christian Schad, dated 1927.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/179.jpg",
+   "source_px": [
+    1238,
+    1536
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Christian Schad"
+    },
+    {
+     "k": "subject",
+     "v": "New Objectivity"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Christian Schad, dated 1927.",
+   "hue": 35.2,
+   "light": 0.5344,
+   "chroma": 0.5285,
+   "punch": 0.141
+  },
+  "sent-2026-09-05::3543d05fcabf": {
+   "id": "CRVI001569",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001569.jpg",
+   "original_px": [
+    1280,
+    1822
+   ],
+   "original_bytes": 985580,
+   "identity": "sent-2026-09-05::3543d05fcabf",
+   "source_url": "https://uploads3.wikiart.org/images/christian-schad/zwei-m-dche-1928.jpg",
+   "maker": "Christian Schad",
+   "title": "Zwei Mädchen",
+   "subtitle": "",
+   "year": "1928",
+   "verified_against": "WikiArt, under Christian Schad, dated 1928.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/180.jpg",
+   "source_px": [
+    1280,
+    1822
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Christian Schad"
+    },
+    {
+     "k": "subject",
+     "v": "New Objectivity"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Christian Schad, dated 1928.",
+   "hue": 24.2,
+   "light": 0.6142,
+   "chroma": 0.6066,
+   "punch": 0.1716
+  },
+  "sent-2026-09-05::0b6bd82ffaea": {
+   "id": "CRVI001570",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001570.jpg",
+   "original_px": [
+    1115,
+    1280
+   ],
+   "original_bytes": 287600,
+   "identity": "sent-2026-09-05::0b6bd82ffaea",
+   "source_url": "https://uploads8.wikiart.org/images/christian-schad/halbakt-1929.jpg",
+   "maker": "Christian Schad",
+   "title": "Halbakt",
+   "subtitle": "",
+   "year": "1929",
+   "verified_against": "WikiArt, under Christian Schad, dated 1929.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/181.jpg",
+   "source_px": [
+    1115,
+    1280
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Christian Schad"
+    },
+    {
+     "k": "subject",
+     "v": "New Objectivity"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Christian Schad, dated 1929.",
+   "hue": 25.82,
+   "light": 0.5778,
+   "chroma": 0.8705,
+   "punch": 0.4315
+  },
+  "sent-2026-09-05::47dccc97ad36": {
+   "id": "CRVI001571",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001571.jpg",
+   "original_px": [
+    1027,
+    1536
+   ],
+   "original_bytes": 109612,
+   "identity": "sent-2026-09-05::47dccc97ad36",
+   "source_url": "https://uploads1.wikiart.org/images/christian-schad/agosta-the-pigeon-chested-man-and-rasha-the-black-dove-1929.jpg",
+   "maker": "Christian Schad",
+   "title": "Agosta the Pigeon-Chested Man and Rasha the Black Dove",
+   "subtitle": "",
+   "year": "1929",
+   "verified_against": "WikiArt, under Christian Schad, dated 1929.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/182.jpg",
+   "source_px": [
+    1027,
+    1536
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Christian Schad"
+    },
+    {
+     "k": "subject",
+     "v": "New Objectivity"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Christian Schad, dated 1929.",
+   "hue": 28.49,
+   "light": 0.3357,
+   "chroma": 0.4579,
+   "punch": 0.1047
+  },
+  "sent-2026-09-05::cab3dcbf864a": {
+   "id": "CRVI001572",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001572.jpg",
+   "original_px": [
+    1111,
+    1600
+   ],
+   "original_bytes": 524054,
+   "identity": "sent-2026-09-05::cab3dcbf864a",
+   "source_url": "https://uploads8.wikiart.org/00469/images/georg-scholz/industriebauern-by-georg-scholz.jpg",
+   "maker": "Georg Scholz",
+   "title": "Industriebauern",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Georg Scholz as Industriebauern; the date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/183.jpg",
+   "source_px": [
+    1111,
+    1600
+   ],
+   "colors": [
+    "orange",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Georg Scholz"
+    },
+    {
+     "k": "subject",
+     "v": "New Objectivity"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Georg Scholz as Industriebauern; the date is not established here.",
+   "hue": 18.63,
+   "light": 0.2693,
+   "chroma": 0.5886,
+   "punch": 0.1696
+  },
+  "sent-2026-09-05::6c39af3f79c9": {
+   "id": "CRVI001573",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001573.jpg",
+   "original_px": [
+    1024,
+    941
+   ],
+   "original_bytes": 148474,
+   "identity": "sent-2026-09-05::6c39af3f79c9",
+   "source_url": "https://uploads7.wikiart.org/00469/images/georg-scholz/4-0.jpg",
+   "maker": "Georg Scholz",
+   "title": "Street scene with the Upper Silesia plebiscite",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Georg Scholz. The picture dates itself from within: a poster in the street reads 10.–16. April 1921 and 'Rettet Oberschlesien!' — the campaign around the Upper Silesia plebiscite of March 1921. The painting's own title and date are NOT established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/184.jpg",
+   "source_px": [
+    1024,
+    941
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Georg Scholz"
+    },
+    {
+     "k": "subject",
+     "v": "New Objectivity"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Georg Scholz. The picture dates itself from within: a poster in the street reads 10.–16. April 1921 and 'Rettet Oberschlesien!' — the campaign around the Upper Silesia plebiscite of March 1921. The painting's own title and date are NOT established here.",
+   "hue": 18.16,
+   "light": 0.3117,
+   "chroma": 0.7316,
+   "punch": 0.1844
+  },
+  "sent-2026-09-05::c45ab932c98d": {
+   "id": "CRVI001574",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001574.jpg",
+   "original_px": [
+    1100,
+    1325
+   ],
+   "original_bytes": 358974,
+   "identity": "sent-2026-09-05::c45ab932c98d",
+   "source_url": "https://uploads8.wikiart.org/00469/images/georg-scholz/georg-scholz-exotische-prinzessin-1919.jpeg",
+   "maker": "Georg Scholz",
+   "title": "Exotische Prinzessin",
+   "subtitle": "",
+   "year": "1919",
+   "verified_against": "WikiArt, under Georg Scholz, dated 1919.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/185.jpg",
+   "source_px": [
+    1100,
+    1325
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Georg Scholz"
+    },
+    {
+     "k": "subject",
+     "v": "New Objectivity"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Georg Scholz, dated 1919.",
+   "hue": 225.25,
+   "light": 0.3624,
+   "chroma": 0.7508,
+   "punch": 0.2905
+  },
+  "sent-2026-09-05::c4f5ca0cc614": {
+   "id": "CRVI001575",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001575.jpg",
+   "original_px": [
+    3250,
+    4076
+   ],
+   "original_bytes": 9259939,
+   "identity": "sent-2026-09-05::c4f5ca0cc614",
+   "source_url": "https://uploads4.wikiart.org/00469/images/georg-scholz/georg-scholz-kakteen-und-semaphore-1923-lwl-museum-m-nster-jm.jpeg",
+   "maker": "Georg Scholz",
+   "title": "Kakteen und Semaphore",
+   "subtitle": "",
+   "year": "1923",
+   "verified_against": "WikiArt, under Georg Scholz, dated 1923 and given as LWL-Museum, Münster.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/186.jpg",
+   "source_px": [
+    3250,
+    4076
+   ],
+   "colors": [
+    "orange",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Georg Scholz"
+    },
+    {
+     "k": "subject",
+     "v": "New Objectivity"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Georg Scholz, dated 1923 and given as LWL-Museum, Münster.",
+   "hue": 24.47,
+   "light": 0.3366,
+   "chroma": 0.6685,
+   "punch": 0.187
+  },
+  "sent-2026-09-05::3ccad933a797": {
+   "id": "CRVI001576",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001576.jpg",
+   "original_px": [
+    843,
+    988
+   ],
+   "original_bytes": 261220,
+   "identity": "sent-2026-09-05::3ccad933a797",
+   "source_url": "https://www.artic.edu/iiif/2/1fa655f4-8fcc-df9f-f32d-6e3e41465186/full/843,/0/default.jpg",
+   "maker": "Charles Sheeler",
+   "title": "The Artist Looks at Nature",
+   "subtitle": "",
+   "year": "1943",
+   "verified_against": "Art Institute of Chicago, artwork 49714 — the museum's API resolves this image id to Charles Sheeler, The Artist Looks at Nature, 1943.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/187.jpg",
+   "source_px": [
+    843,
+    988
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Charles Sheeler"
+    },
+    {
+     "k": "subject",
+     "v": "Precisionism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Institute of Chicago, artwork 49714 — the museum's API resolves this image id to Charles Sheeler, The Artist Looks at Nature, 1943.",
+   "hue": 62.73,
+   "light": 0.4658,
+   "chroma": 0.6627,
+   "punch": 0.2239
+  },
+  "sent-2026-09-05::a68ec15a4004": {
+   "id": "CRVI001577",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001577.jpg",
+   "original_px": [
+    2000,
+    1569
+   ],
+   "original_bytes": 732726,
+   "identity": "sent-2026-09-05::a68ec15a4004",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Self-Portrait%2C_by_Charles_Sheeler%2C_1923.jpg",
+   "maker": "Charles Sheeler",
+   "title": "Self-Portrait",
+   "subtitle": "",
+   "year": "1923",
+   "verified_against": "Wikimedia Commons, as Self-Portrait, by Charles Sheeler, 1923.",
+   "notes": [
+    "The self-portrait is a candlestick telephone against a drawn blind."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/188.jpg",
+   "source_px": [
+    2000,
+    1569
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Charles Sheeler"
+    },
+    {
+     "k": "subject",
+     "v": "Precisionism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons, as Self-Portrait, by Charles Sheeler, 1923.",
+   "hue": 38.83,
+   "light": 0.48,
+   "chroma": 0.4031,
+   "punch": 0.0724
+  },
+  "sent-2026-09-05::dadd4d162897": {
+   "id": "CRVI001578",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001578.jpg",
+   "original_px": [
+    3400,
+    2836
+   ],
+   "original_bytes": 1040103,
+   "identity": "sent-2026-09-05::dadd4d162897",
+   "source_url": "https://openaccess-cdn.clevelandart.org/1930.2162/1930.2162_print.jpg",
+   "maker": "Georgia O'Keeffe",
+   "title": "White Flower",
+   "subtitle": "",
+   "year": "1929",
+   "verified_against": "Cleveland Museum of Art, accession 1930.2162 — the museum's own open-access record gives Georgia O'Keeffe (American, 1887–1986), White Flower, 1929, oil on canvas.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/189.jpg",
+   "source_px": [
+    3400,
+    2836
+   ],
+   "colors": [
+    "yellow",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Georgia O'Keeffe"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "subject",
+     "v": "Precisionism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Cleveland Museum of Art, accession 1930.2162 — the museum's own open-access record gives Georgia O'Keeffe (American, 1887–1986), White Flower, 1929, oil on canvas.",
+   "hue": 64.54,
+   "light": 0.7936,
+   "chroma": 0.4075,
+   "punch": 0.088
+  },
+  "sent-2026-09-05::69240a6bf077": {
+   "id": "CRVI001579",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001579.jpg",
+   "original_px": [
+    2800,
+    3400
+   ],
+   "original_bytes": 6657798,
+   "identity": "sent-2026-09-05::69240a6bf077",
+   "source_url": "https://openaccess-cdn.clevelandart.org/1987.139/1987.139_print.jpg",
+   "maker": "Georgia O'Keeffe",
+   "title": "White Pansy",
+   "subtitle": "",
+   "year": "1927",
+   "verified_against": "Cleveland Museum of Art, accession 1987.139 — the museum's own open-access record gives Georgia O'Keeffe (American, 1887–1986), White Pansy, 1927, oil on canvas.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/190.jpg",
+   "source_px": [
+    2800,
+    3400
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Georgia O'Keeffe"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "subject",
+     "v": "Precisionism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Cleveland Museum of Art, accession 1987.139 — the museum's own open-access record gives Georgia O'Keeffe (American, 1887–1986), White Pansy, 1927, oil on canvas.",
+   "hue": 45.7,
+   "light": 0.7784,
+   "chroma": 0.1455,
+   "punch": 0.043
+  },
+  "sent-2026-09-05::08fb1be15459": {
+   "id": "CRVI001580",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001580.jpg",
+   "original_px": [
+    843,
+    1267
+   ],
+   "original_bytes": 267260,
+   "identity": "sent-2026-09-05::08fb1be15459",
+   "source_url": "https://www.artic.edu/iiif/2/9ae64560-a416-ec19-851a-c76c5ca3c64f/full/843,/0/default.jpg",
+   "maker": "Georgia O'Keeffe",
+   "title": "Cow's Skull with Calico Roses",
+   "subtitle": "",
+   "year": "1931",
+   "verified_against": "Art Institute of Chicago, artwork 61428 — the museum's API resolves this image id to Georgia O'Keeffe, Cow's Skull with Calico Roses, 1931.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/191.jpg",
+   "source_px": [
+    843,
+    1267
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Georgia O'Keeffe"
+    },
+    {
+     "k": "subject",
+     "v": "Precisionism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1930s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Institute of Chicago, artwork 61428 — the museum's API resolves this image id to Georgia O'Keeffe, Cow's Skull with Calico Roses, 1931.",
+   "hue": 31.6,
+   "light": 0.6903,
+   "chroma": 0.3654,
+   "punch": 0.0866
+  },
+  "sent-2026-09-05::2f50ed713340": {
+   "id": "CRVI001581",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001581.jpg",
+   "original_px": [
+    905,
+    1024
+   ],
+   "original_bytes": 180925,
+   "identity": "sent-2026-09-05::2f50ed713340",
+   "source_url": "https://uploads4.wikiart.org/images/ralston-crawford/buckley.jpg",
+   "maker": "Ralston Crawford",
+   "title": "Torn election poster (Buckley)",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Ralston Crawford. The subject dates itself loosely — a torn 'VOTE FOR BUCKLEY JR., CONSERVATIVE PARTY' poster, from William F. Buckley's 1965 New York mayoral run. The photograph's own title and date are NOT established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/192.jpg",
+   "source_px": [
+    905,
+    1024
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Ralston Crawford"
+    },
+    {
+     "k": "photographer",
+     "v": "Ralston Crawford"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Ralston Crawford. The subject dates itself loosely — a torn 'VOTE FOR BUCKLEY JR., CONSERVATIVE PARTY' poster, from William F. Buckley's 1965 New York mayoral run. The photograph's own title and date are NOT established here.",
+   "hue": null,
+   "light": 0.5148,
+   "chroma": 0.0004,
+   "punch": 0.0215
+  },
+  "sent-2026-09-05::4841751db65d": {
+   "id": "CRVI001582",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001582.jpg",
+   "original_px": [
+    1325,
+    1069
+   ],
+   "original_bytes": 119365,
+   "identity": "sent-2026-09-05::4841751db65d",
+   "source_url": "https://4.bp.blogspot.com/-wdxxB12g9to/UbMcDTrCziI/AAAAAAAABno/3AhDSfvhIoo/s1600/1976.133_1a.jpg",
+   "maker": "Ralston Crawford",
+   "title": "Grain elevators",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Reproduced from a museum image file named 1976.133_1a — an accession number — under Ralston Crawford's name. Neither the holding museum, the title nor the date is established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/193.jpg",
+   "source_px": [
+    1325,
+    1069
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Ralston Crawford"
+    },
+    {
+     "k": "subject",
+     "v": "Precisionism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Reproduced from a museum image file named 1976.133_1a — an accession number — under Ralston Crawford's name. Neither the holding museum, the title nor the date is established here.",
+   "hue": 222.86,
+   "light": 0.5384,
+   "chroma": 0.5523,
+   "punch": 0.1728
+  },
+  "sent-2026-09-05::6296688d463a": {
+   "id": "CRVI001583",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001583.jpg",
+   "original_px": [
+    2000,
+    1350
+   ],
+   "original_bytes": 181093,
+   "identity": "sent-2026-09-05::6296688d463a",
+   "source_url": "https://www.art.salon/images/ralston-crawford_overseas-highway_AID154467.jpg?f=grey",
+   "maker": "Ralston Crawford",
+   "title": "Overseas Highway",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Published as Ralston Crawford, Overseas Highway, by art.salon; the file name is their own metadata. The date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/194.jpg",
+   "source_px": [
+    2000,
+    1350
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Ralston Crawford"
+    },
+    {
+     "k": "subject",
+     "v": "Precisionism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published as Ralston Crawford, Overseas Highway, by art.salon; the file name is their own metadata. The date is not established here.",
+   "hue": 215.13,
+   "light": 0.691,
+   "chroma": 0.2849,
+   "punch": 0.0779
+  },
+  "sent-2026-09-05::d7f1b5b8ed43": {
+   "id": "CRVI001584",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001584.jpg",
+   "original_px": [
+    886,
+    1024
+   ],
+   "original_bytes": 387987,
+   "identity": "sent-2026-09-05::d7f1b5b8ed43",
+   "source_url": "https://uploads4.wikiart.org/00123/images/george-ault/mantel-composition-1929.jpg",
+   "maker": "George Ault",
+   "title": "Mantel Composition",
+   "subtitle": "",
+   "year": "1929",
+   "verified_against": "WikiArt, under George Ault, dated 1929; the canvas is signed G. C. Ault '29 at the lower left.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/195.jpg",
+   "source_px": [
+    886,
+    1024
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "George Ault"
+    },
+    {
+     "k": "subject",
+     "v": "Precisionism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under George Ault, dated 1929; the canvas is signed G. C. Ault '29 at the lower left.",
+   "hue": 37.27,
+   "light": 0.4785,
+   "chroma": 0.8212,
+   "punch": 0.2891
+  },
+  "sent-2026-09-05::cd70ab9898d2": {
+   "id": "CRVI001585",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001585.jpg",
+   "original_px": [
+    3400,
+    2709
+   ],
+   "original_bytes": 5799612,
+   "identity": "sent-2026-09-05::cd70ab9898d2",
+   "source_url": "https://openaccess-cdn.clevelandart.org/1926.1664/1926.1664_print.jpg",
+   "maker": "Preston Dickinson",
+   "title": "Still Life",
+   "subtitle": "",
+   "year": "c. 1924",
+   "verified_against": "Cleveland Museum of Art, accession 1926.1664 — the museum's own open-access record gives Preston Dickinson (American, 1891–1930), Still Life, c. 1924, oil on canvas.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/196.jpg",
+   "source_px": [
+    3400,
+    2709
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Preston Dickinson"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "subject",
+     "v": "Precisionism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Cleveland Museum of Art, accession 1926.1664 — the museum's own open-access record gives Preston Dickinson (American, 1891–1930), Still Life, c. 1924, oil on canvas.",
+   "hue": 33.16,
+   "light": 0.3325,
+   "chroma": 0.3727,
+   "punch": 0.1038
+  },
+  "sent-2026-09-05::7b1173b90eaa": {
+   "id": "CRVI001586",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001586.jpg",
+   "original_px": [
+    1072,
+    801
+   ],
+   "original_bytes": 159067,
+   "identity": "sent-2026-09-05::7b1173b90eaa",
+   "source_url": "https://uploads3.wikiart.org/00281/images/richard-estes/estes-bus-with-reflection-of-the-flatiron-building.jpg",
+   "maker": "Richard Estes",
+   "title": "Bus with Reflection of the Flatiron Building",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Richard Estes; the date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/197.jpg",
+   "source_px": [
+    1072,
+    801
+   ],
+   "colors": [
+    "cyan",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Richard Estes"
+    },
+    {
+     "k": "subject",
+     "v": "Photorealism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Richard Estes; the date is not established here.",
+   "hue": 197.74,
+   "light": 0.2731,
+   "chroma": 0.5708,
+   "punch": 0.1157
+  },
+  "sent-2026-09-05::f37effc8faca": {
+   "id": "CRVI001587",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001587.jpg",
+   "original_px": [
+    2246,
+    1482
+   ],
+   "original_bytes": 1186754,
+   "identity": "sent-2026-09-05::f37effc8faca",
+   "source_url": "https://media.mutualart.com/Images/2017_10/26/13/132652003/3806bab9-d91c-4e6e-b4eb-4f8a542b6a30.Jpeg",
+   "maker": "Richard Estes",
+   "title": "Car with reflected buildings",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "MutualArt lists this under Richard Estes. The title and date are NOT established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/198.jpg",
+   "source_px": [
+    2246,
+    1482
+   ],
+   "colors": [
+    "blue",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Richard Estes"
+    },
+    {
+     "k": "subject",
+     "v": "Photorealism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "MutualArt lists this under Richard Estes. The title and date are NOT established here.",
+   "hue": 204.63,
+   "light": 0.3619,
+   "chroma": 0.8385,
+   "punch": 0.3543
+  },
+  "sent-2026-09-05::dd32cc8f63df": {
+   "id": "CRVI001588",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001588.jpg",
+   "original_px": [
+    1729,
+    2783
+   ],
+   "original_bytes": 963247,
+   "identity": "sent-2026-09-05::dd32cc8f63df",
+   "source_url": "https://artlogic-res.cloudinary.com/w_6000,h_6000,c_limit,f_auto,q_auto/artlogicstorage/msfineart/images/view/ca50e1959d628f00f196b0e556af5ef4j/schoelkopfgallery-richard-estes-downtown-reflections-2001.jpg",
+   "maker": "Richard Estes",
+   "title": "Downtown Reflections",
+   "subtitle": "",
+   "year": "2001",
+   "verified_against": "Schoelkopf Gallery, whose file name gives Richard Estes, Downtown Reflections, 2001.",
+   "notes": [
+    "Requested at the CDN's cap rather than the 2400px the link carried: Cloudinary's c_limit caps honestly, and the true master is 1729 × 2783."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/199.jpg",
+   "source_px": [
+    1729,
+    2783
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Richard Estes"
+    },
+    {
+     "k": "subject",
+     "v": "Photorealism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Schoelkopf Gallery, whose file name gives Richard Estes, Downtown Reflections, 2001.",
+   "hue": 354.81,
+   "light": 0.2928,
+   "chroma": 0.2485,
+   "punch": 0.0753
+  },
+  "sent-2026-09-05::5104b0da4074": {
+   "id": "CRVI001589",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001589.jpg",
+   "original_px": [
+    1167,
+    800
+   ],
+   "original_bytes": 246295,
+   "identity": "sent-2026-09-05::5104b0da4074",
+   "source_url": "https://ralphlgoings.com/wp-content/uploads/2012/08/DONUT-1995-30-X-43-12-OIL.jpg",
+   "maker": "Ralph Goings",
+   "title": "Donut",
+   "subtitle": "",
+   "year": "1995",
+   "verified_against": "The artist's own site, ralphlgoings.com, whose file name gives Donut, 1995, 30 × 43½, oil.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/200.jpg",
+   "source_px": [
+    1167,
+    800
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Ralph Goings"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "subject",
+     "v": "Photorealism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The artist's own site, ralphlgoings.com, whose file name gives Donut, 1995, 30 × 43½, oil.",
+   "hue": 26.04,
+   "light": 0.5724,
+   "chroma": 0.5198,
+   "punch": 0.137
+  },
+  "sent-2026-09-05::c6831b1d197d": {
+   "id": "CRVI001590",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001590.jpg",
+   "original_px": [
+    1651,
+    1024
+   ],
+   "original_bytes": 600049,
+   "identity": "sent-2026-09-05::c6831b1d197d",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/John%27s_Diner_by_John_Baeder.jpg",
+   "maker": "John Baeder",
+   "title": "John's Diner",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Wikimedia Commons, as John's Diner by John Baeder. The date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/201.jpg",
+   "source_px": [
+    1651,
+    1024
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "John Baeder"
+    },
+    {
+     "k": "subject",
+     "v": "Photorealism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons, as John's Diner by John Baeder. The date is not established here.",
+   "hue": 208.73,
+   "light": 0.4583,
+   "chroma": 0.2702,
+   "punch": 0.085
+  },
+  "sent-2026-09-05::51ef6f3e8721": {
+   "id": "CRVI001591",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001591.jpg",
+   "original_px": [
+    2048,
+    1526
+   ],
+   "original_bytes": 253018,
+   "identity": "sent-2026-09-05::51ef6f3e8721",
+   "source_url": "https://artlogic-res.cloudinary.com/w_6000,h_6000,c_limit,f_auto,q_auto/artlogicstorage/acagalleries/images/view/fdda0630740995c623103835a9a2ff4aj/acagalleries-john-baeder-red-stripes-2002.jpg",
+   "maker": "John Baeder",
+   "title": "Red Stripes",
+   "subtitle": "",
+   "year": "2002",
+   "verified_against": "ACA Galleries, whose file name gives John Baeder, Red Stripes, 2002.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/202.jpg",
+   "source_px": [
+    2048,
+    1526
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "John Baeder"
+    },
+    {
+     "k": "subject",
+     "v": "Photorealism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "ACA Galleries, whose file name gives John Baeder, Red Stripes, 2002.",
+   "hue": 16.68,
+   "light": 0.6486,
+   "chroma": 0.5227,
+   "punch": 0.1678
+  },
+  "sent-2026-09-05::8f3af0110444": {
+   "id": "CRVI001592",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001592.jpg",
+   "original_px": [
+    3888,
+    2670
+   ],
+   "original_bytes": 920403,
+   "identity": "sent-2026-09-05::8f3af0110444",
+   "source_url": "https://a.1stdibscdn.com/john-baeder-prints-works-on-paper-red-robin-diner_-photorealist-silkscreen-by-john-baeder-for-sale/archivesE/upload/a_466/1522263792869/Baeder_Red_Robin_master.JPG",
+   "maker": "John Baeder",
+   "title": "Red Robin Diner",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "1stdibs dealer listing, as a photorealist silkscreen by John Baeder, Red Robin Diner. The date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/203.jpg",
+   "source_px": [
+    3888,
+    2670
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "John Baeder"
+    },
+    {
+     "k": "medium",
+     "v": "silkscreen"
+    },
+    {
+     "k": "subject",
+     "v": "Photorealism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "1stdibs dealer listing, as a photorealist silkscreen by John Baeder, Red Robin Diner. The date is not established here.",
+   "hue": 17.69,
+   "light": 0.6321,
+   "chroma": 0.1885,
+   "punch": 0.0647
+  },
+  "sent-2026-09-05::ecd3b17a7cee": {
+   "id": "CRVI001593",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001593.jpg",
+   "original_px": [
+    2048,
+    1274
+   ],
+   "original_bytes": 235517,
+   "identity": "sent-2026-09-05::ecd3b17a7cee",
+   "source_url": "https://artlogic-res.cloudinary.com/w_6000,h_6000,c_limit,f_auto,q_auto/artlogicstorage/acagalleries/images/view/aadcb8c3cb8313152a42f4a5a9c85744j/acagalleries-john-baeder-market-tower-2007.jpg",
+   "maker": "John Baeder",
+   "title": "Market Tower",
+   "subtitle": "",
+   "year": "2007",
+   "verified_against": "ACA Galleries, whose file name gives John Baeder, Market Tower, 2007.",
+   "notes": [
+    "Requested at the CDN's cap rather than the 1600px the link carried; the true master is 2048 × 1274."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/204.jpg",
+   "source_px": [
+    2048,
+    1274
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "John Baeder"
+    },
+    {
+     "k": "subject",
+     "v": "Photorealism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "ACA Galleries, whose file name gives John Baeder, Market Tower, 2007.",
+   "hue": 212.63,
+   "light": 0.4851,
+   "chroma": 0.1313,
+   "punch": 0.0736
+  },
+  "sent-2026-09-05::1009a06e6719": {
+   "id": "CRVI001594",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001594.jpg",
+   "original_px": [
+    2648,
+    3579
+   ],
+   "original_bytes": 7345968,
+   "identity": "sent-2026-09-05::1009a06e6719",
+   "source_url": "https://media.mutualart.com/Images/2025_11/28/08/114653540/tom-blackwell-rainbow-74--serie-modified-XKV12.Jpeg",
+   "maker": "Tom Blackwell",
+   "title": "Rainbow '74",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "MutualArt lists this as Tom Blackwell, Rainbow '74. The date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/205.jpg",
+   "source_px": [
+    2648,
+    3579
+   ],
+   "colors": [
+    "green",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Tom Blackwell"
+    },
+    {
+     "k": "subject",
+     "v": "Photorealism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "MutualArt lists this as Tom Blackwell, Rainbow '74. The date is not established here.",
+   "hue": 46.8,
+   "light": 0.3952,
+   "chroma": 0.5777,
+   "punch": 0.2212
+  },
+  "sent-2026-09-05::0304072df0ee": {
+   "id": "CRVI001595",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001595.jpg",
+   "original_px": [
+    1600,
+    1254
+   ],
+   "original_bytes": 1049674,
+   "identity": "sent-2026-09-05::0304072df0ee",
+   "source_url": "https://media.mutualart.com/Images/2025_12/01/14/114898566/tom-blackwell-shatzi-ap-x-9-1978-XPW47.Jpeg",
+   "maker": "Tom Blackwell",
+   "title": "Shatzi",
+   "subtitle": "",
+   "year": "1978",
+   "verified_against": "MutualArt lists this as Tom Blackwell, Shatzi, 1978, artist's proof.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/206.jpg",
+   "source_px": [
+    1600,
+    1254
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Tom Blackwell"
+    },
+    {
+     "k": "subject",
+     "v": "Photorealism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "MutualArt lists this as Tom Blackwell, Shatzi, 1978, artist's proof.",
+   "hue": 352.75,
+   "light": 0.4398,
+   "chroma": 0.4955,
+   "punch": 0.1698
+  },
+  "sent-2026-09-05::6afc15f7b354": {
+   "id": "CRVI001596",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001596.jpg",
+   "original_px": [
+    2607,
+    3400
+   ],
+   "original_bytes": 8893029,
+   "identity": "sent-2026-09-05::6afc15f7b354",
+   "source_url": "https://openaccess-cdn.clevelandart.org/1958.344/1958.344_print.jpg",
+   "maker": "Georges Seurat",
+   "title": "At the Concert Parisien",
+   "subtitle": "",
+   "year": "1887–88",
+   "verified_against": "Cleveland Museum of Art, accession 1958.344 — the museum's own open-access record gives Georges Seurat (French, 1859–1891), At the Concert Parisien, 1887–88, conté crayon heightened with white chalk on cream handmade paper.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/207.jpg",
+   "source_px": [
+    2607,
+    3400
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Georges Seurat"
+    },
+    {
+     "k": "medium",
+     "v": "conté crayon"
+    },
+    {
+     "k": "subject",
+     "v": "Pointillism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1880s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Cleveland Museum of Art, accession 1958.344 — the museum's own open-access record gives Georges Seurat (French, 1859–1891), At the Concert Parisien, 1887–88, conté crayon heightened with white chalk on cream handmade paper.",
+   "hue": 35.38,
+   "light": 0.3818,
+   "chroma": 0.1682,
+   "punch": 0.0871
+  },
+  "sent-2026-09-05::467727ce7a47": {
+   "id": "CRVI001597",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001597.jpg",
+   "original_px": [
+    4000,
+    2593
+   ],
+   "original_bytes": 4084838,
+   "identity": "sent-2026-09-05::467727ce7a47",
+   "source_url": "https://images.metmuseum.org/CRDImages/rl/original/DP-34423-001.jpg",
+   "maker": "Georges Seurat",
+   "title": "The Mower",
+   "subtitle": "",
+   "year": "1881–82",
+   "verified_against": "The Metropolitan Museum of Art, object 459116 — matched by its own image id (CRDImages/rl/DP-34423-001). Oil on wood, Robert Lehman Collection, 1975, which is what the 'rl' in the path denotes.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/208.jpg",
+   "source_px": [
+    4000,
+    2593
+   ],
+   "colors": [
+    "orange",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Georges Seurat"
+    },
+    {
+     "k": "medium",
+     "v": "oil on wood"
+    },
+    {
+     "k": "subject",
+     "v": "Pointillism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1880s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Metropolitan Museum of Art, object 459116 — matched by its own image id (CRDImages/rl/DP-34423-001). Oil on wood, Robert Lehman Collection, 1975, which is what the 'rl' in the path denotes.",
+   "hue": 36.81,
+   "light": 0.3053,
+   "chroma": 0.6485,
+   "punch": 0.1836
+  },
+  "sent-2026-09-05::fa38aa8cfcc5": {
+   "id": "CRVI001598",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001598.jpg",
+   "original_px": [
+    2529,
+    3400
+   ],
+   "original_bytes": 2427128,
+   "identity": "sent-2026-09-05::fa38aa8cfcc5",
+   "source_url": "https://openaccess-cdn.clevelandart.org/1968.257/1968.257_print.jpg",
+   "maker": "Théo van Rysselberghe",
+   "title": "Poster for the Lembrée Gallery",
+   "subtitle": "Poster",
+   "year": "1897",
+   "verified_against": "Cleveland Museum of Art, accession 1968.257 — the museum's own open-access record gives Theo van Rysselberghe (Belgian), Poster for the Lembrée Gallery, 1897, colour lithograph.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/209.jpg",
+   "source_px": [
+    2529,
+    3400
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "designer",
+     "v": "Théo van Rysselberghe"
+    },
+    {
+     "k": "artist",
+     "v": "Théo van Rysselberghe"
+    },
+    {
+     "k": "medium",
+     "v": "colour lithograph"
+    },
+    {
+     "k": "location",
+     "v": "Belgium"
+    },
+    {
+     "k": "decade",
+     "v": "1890s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Cleveland Museum of Art, accession 1968.257 — the museum's own open-access record gives Theo van Rysselberghe (Belgian), Poster for the Lembrée Gallery, 1897, colour lithograph.",
+   "hue": 33.17,
+   "light": 0.5322,
+   "chroma": 0.7069,
+   "punch": 0.225
+  },
+  "sent-2026-09-05::b89bf93b5fb8": {
+   "id": "CRVI001599",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001599.jpg",
+   "original_px": [
+    1280,
+    1006
+   ],
+   "original_bytes": 604602,
+   "identity": "sent-2026-09-05::b89bf93b5fb8",
+   "source_url": "https://uploads7.wikiart.org/images/charles-angrand/the-western-railway-at-its-exit-from-paris-1886.jpg",
+   "maker": "Charles Angrand",
+   "title": "The Western Railway at its Exit from Paris",
+   "subtitle": "",
+   "year": "1886",
+   "verified_against": "WikiArt, under Charles Angrand, dated 1886.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/210.jpg",
+   "source_px": [
+    1280,
+    1006
+   ],
+   "colors": [
+    "green",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Charles Angrand"
+    },
+    {
+     "k": "subject",
+     "v": "Pointillism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1880s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Charles Angrand, dated 1886.",
+   "hue": 38.73,
+   "light": 0.4543,
+   "chroma": 0.6103,
+   "punch": 0.1747
+  },
+  "sent-2026-09-05::fe75f67ae9bc": {
+   "id": "CRVI001600",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001600.jpg",
+   "original_px": [
+    843,
+    1087
+   ],
+   "original_bytes": 563055,
+   "identity": "sent-2026-09-05::fe75f67ae9bc",
+   "source_url": "https://www.artic.edu/iiif/2/3092a9f1-2f9c-3379-1c02-42a7d3f41952/full/843,/0/default.jpg",
+   "maker": "Charles Angrand",
+   "title": "Head of a Child (Emmanuel)",
+   "subtitle": "",
+   "year": "1898",
+   "verified_against": "Art Institute of Chicago, artwork 185811 — the museum's API resolves this image id to Charles Angrand, Head of a Child (Emmanuel), 1898.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/211.jpg",
+   "source_px": [
+    843,
+    1087
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Charles Angrand"
+    },
+    {
+     "k": "subject",
+     "v": "Pointillism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1890s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Institute of Chicago, artwork 185811 — the museum's API resolves this image id to Charles Angrand, Head of a Child (Emmanuel), 1898.",
+   "hue": null,
+   "light": 0.4793,
+   "chroma": 0.0009,
+   "punch": 0.0184
+  },
+  "sent-2026-09-05::2d9618d7f5d6": {
+   "id": "CRVI001601",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001601.jpg",
+   "original_px": [
+    3400,
+    2589
+   ],
+   "original_bytes": 4165150,
+   "identity": "sent-2026-09-05::2d9618d7f5d6",
+   "source_url": "https://openaccess-cdn.clevelandart.org/1999.49/1999.49_print.jpg",
+   "maker": "Charles Angrand",
+   "title": "End of the Harvest",
+   "subtitle": "",
+   "year": "c. 1892–1905",
+   "verified_against": "Cleveland Museum of Art, accession 1999.49 — the museum's own open-access record gives Charles Angrand (French, 1854–1926), End of the Harvest, c. 1892–1905, charcoal on cream laid paper.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/212.jpg",
+   "source_px": [
+    3400,
+    2589
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Charles Angrand"
+    },
+    {
+     "k": "medium",
+     "v": "charcoal"
+    },
+    {
+     "k": "subject",
+     "v": "Pointillism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Cleveland Museum of Art, accession 1999.49 — the museum's own open-access record gives Charles Angrand (French, 1854–1926), End of the Harvest, c. 1892–1905, charcoal on cream laid paper.",
+   "hue": 35.0,
+   "light": 0.6301,
+   "chroma": 0.6096,
+   "punch": 0.1424
+  },
+  "sent-2026-09-05::0a624b369adc": {
+   "id": "CRVI001602",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001602.jpg",
+   "original_px": [
+    4433,
+    5437
+   ],
+   "original_bytes": 12902862,
+   "identity": "sent-2026-09-05::0a624b369adc",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/Albert_Dubois-Pillet_-_Portrait_of_Monsieur_Pool_-_2002.77_-_Indianapolis_Museum_of_Art.jpg",
+   "maker": "Albert Dubois-Pillet",
+   "title": "Portrait of Monsieur Pool",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Wikimedia Commons, as Albert Dubois-Pillet, Portrait of Monsieur Pool, accession 2002.77, Indianapolis Museum of Art. The date is not established here.",
+   "notes": [
+    "Taken from the Commons original at 4433 × 5437 rather than the 835 × 1024 derivative that was sent — the file name of that one ('835px-…') was the clue that a full-size original existed."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/213.jpg",
+   "source_px": [
+    4433,
+    5437
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Albert Dubois-Pillet"
+    },
+    {
+     "k": "subject",
+     "v": "Pointillism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons, as Albert Dubois-Pillet, Portrait of Monsieur Pool, accession 2002.77, Indianapolis Museum of Art. The date is not established here.",
+   "hue": 30.67,
+   "light": 0.3191,
+   "chroma": 0.2886,
+   "punch": 0.0893
   }
  }
 }
