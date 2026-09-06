@@ -1,5 +1,5 @@
 {
- "next": 1863,
+ "next": 1883,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -109718,6 +109718,1143 @@
    "light": 0.4046,
    "chroma": 0.8922,
    "punch": 0.3049
+  },
+  "sent-2026-09-05::17ca61b70a97": {
+   "id": "CRVI001863",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001863.jpg",
+   "original_px": [
+    1200,
+    933
+   ],
+   "original_bytes": 129422,
+   "identity": "sent-2026-09-05::17ca61b70a97",
+   "source_url": "https://uploads3.wikiart.org/00336/images/donald-judd/untitled-drawing-1963.jpg",
+   "maker": "Donald Judd",
+   "title": "Untitled (drawing)",
+   "subtitle": "",
+   "year": "1963",
+   "verified_against": "WikiArt, under Donald Judd, dated 1963.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/600.jpg",
+   "source_px": [
+    1200,
+    933
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Donald Judd"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "subject",
+     "v": "Minimalism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Donald Judd, dated 1963.",
+   "hue": 35.18,
+   "light": 0.814,
+   "chroma": 0.9187,
+   "punch": 0.1459
+  },
+  "sent-2026-09-05::03b12dda6ec2": {
+   "id": "CRVI001864",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001864.jpg",
+   "original_px": [
+    2000,
+    1600
+   ],
+   "original_bytes": 374415,
+   "identity": "sent-2026-09-05::03b12dda6ec2",
+   "source_url": "https://uploads4.wikiart.org/00336/images/donald-judd/untitled-1968.jpg",
+   "maker": "Donald Judd",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "1968",
+   "verified_against": "WikiArt, under Donald Judd, dated 1968.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/601.jpg",
+   "source_px": [
+    2000,
+    1600
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Donald Judd"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "subject",
+     "v": "Minimalism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Donald Judd, dated 1968.",
+   "hue": 43.61,
+   "light": 0.7919,
+   "chroma": 0.6733,
+   "punch": 0.1798
+  },
+  "sent-2026-09-05::e85c8817a1cb": {
+   "id": "CRVI001865",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001865.jpg",
+   "original_px": [
+    2000,
+    1202
+   ],
+   "original_bytes": 159769,
+   "identity": "sent-2026-09-05::e85c8817a1cb",
+   "source_url": "https://uploads4.wikiart.org/00336/images/donald-judd/untitled-1966.jpg",
+   "maker": "Donald Judd",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "1966",
+   "verified_against": "WikiArt, under Donald Judd, dated 1966.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/602.jpg",
+   "source_px": [
+    2000,
+    1202
+   ],
+   "colors": [
+    "cyan",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Donald Judd"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "subject",
+     "v": "Minimalism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Donald Judd, dated 1966.",
+   "hue": 186.96,
+   "light": 0.7382,
+   "chroma": 0.1762,
+   "punch": 0.0671
+  },
+  "sent-2026-09-05::45df8e822328": {
+   "id": "CRVI001866",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001866.jpg",
+   "original_px": [
+    870,
+    2089
+   ],
+   "original_bytes": 213019,
+   "identity": "sent-2026-09-05::45df8e822328",
+   "source_url": "https://uploads6.wikiart.org/00336/images/donald-judd/untitled-1969-2.jpg",
+   "maker": "Donald Judd",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "1969",
+   "verified_against": "WikiArt, under Donald Judd, dated 1969.",
+   "notes": [
+    "The copper stack, cantilevered off the wall."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/603.jpg",
+   "source_px": [
+    870,
+    2089
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Donald Judd"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "subject",
+     "v": "Minimalism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Donald Judd, dated 1969.",
+   "hue": 22.7,
+   "light": 0.708,
+   "chroma": 0.399,
+   "punch": 0.0969
+  },
+  "sent-2026-09-05::464fda951bd0": {
+   "id": "CRVI001867",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001867.jpg",
+   "original_px": [
+    2223,
+    1673
+   ],
+   "original_bytes": 621496,
+   "identity": "sent-2026-09-05::464fda951bd0",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Dan_flavin_untitled.jpg",
+   "maker": "Dan Flavin",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Wikimedia Commons, under Dan Flavin. The date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/604.jpg",
+   "source_px": [
+    2223,
+    1673
+   ],
+   "colors": [
+    "yellow",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Dan Flavin"
+    },
+    {
+     "k": "medium",
+     "v": "fluorescent light"
+    },
+    {
+     "k": "subject",
+     "v": "Minimalism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons, under Dan Flavin. The date is not established here.",
+   "hue": 56.52,
+   "light": 0.2791,
+   "chroma": 0.9292,
+   "punch": 0.3568
+  },
+  "sent-2026-09-05::a8639ec0cb12": {
+   "id": "CRVI001868",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001868.jpg",
+   "original_px": [
+    843,
+    843
+   ],
+   "original_bytes": 107057,
+   "identity": "sent-2026-09-05::a8639ec0cb12",
+   "source_url": "https://www.artic.edu/iiif/2/4bcf1a79-5886-b16e-b0ce-ecb16ebf002f/full/843,/0/default.jpg",
+   "maker": "Dan Flavin",
+   "title": "\"monument\" for V. Tatlin",
+   "subtitle": "",
+   "year": "1964",
+   "verified_against": "Art Institute of Chicago, artwork 52310 — the museum's API resolves this image id to Dan Flavin, \"monument\" for V. Tatlin, 1964.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/605.jpg",
+   "source_px": [
+    843,
+    843
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Dan Flavin"
+    },
+    {
+     "k": "medium",
+     "v": "fluorescent light"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "subject",
+     "v": "Minimalism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Institute of Chicago, artwork 52310 — the museum's API resolves this image id to Dan Flavin, \"monument\" for V. Tatlin, 1964.",
+   "hue": 32.2,
+   "light": 0.436,
+   "chroma": 0.1675,
+   "punch": 0.0886
+  },
+  "sent-2026-09-05::ea7d23027e93": {
+   "id": "CRVI001869",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001869.jpg",
+   "original_px": [
+    4947,
+    3298
+   ],
+   "original_bytes": 8242214,
+   "identity": "sent-2026-09-05::ea7d23027e93",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Dan_Flavin%2C_Untitled_%28to_Don_Judd%2C_Colorist%29_1%E2%80%935_%281987%29%2C_Tate_Modern%2C_London%2C_UK.jpg",
+   "maker": "Dan Flavin",
+   "title": "Untitled (to Don Judd, Colorist) 1–5",
+   "subtitle": "",
+   "year": "1987",
+   "verified_against": "Wikimedia Commons, whose file record gives Dan Flavin, Untitled (to Don Judd, Colorist) 1–5, 1987, Tate Modern, London.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/606.jpg",
+   "source_px": [
+    4947,
+    3298
+   ],
+   "colors": [
+    "pink",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Dan Flavin"
+    },
+    {
+     "k": "medium",
+     "v": "fluorescent light"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "subject",
+     "v": "Minimalism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons, whose file record gives Dan Flavin, Untitled (to Don Judd, Colorist) 1–5, 1987, Tate Modern, London.",
+   "hue": 345.11,
+   "light": 0.2666,
+   "chroma": 0.9359,
+   "punch": 0.2616
+  },
+  "sent-2026-09-05::46755a8df629": {
+   "id": "CRVI001870",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001870.jpg",
+   "original_px": [
+    804,
+    1024
+   ],
+   "original_bytes": 54891,
+   "identity": "sent-2026-09-05::46755a8df629",
+   "source_url": "https://uploads0.wikiart.org/images/carl-andre/belgica-blue-field.jpg",
+   "maker": "Carl Andre",
+   "title": "Belgica Blue Field",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Carl Andre as Belgica Blue Field; the date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/607.jpg",
+   "source_px": [
+    804,
+    1024
+   ],
+   "colors": [
+    "white"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Carl Andre"
+    },
+    {
+     "k": "subject",
+     "v": "Minimalism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Carl Andre as Belgica Blue Field; the date is not established here.",
+   "hue": null,
+   "light": 0.9562,
+   "chroma": 0.0,
+   "punch": 0.0017
+  },
+  "sent-2026-09-05::d8438693d4a7": {
+   "id": "CRVI001871",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001871.jpg",
+   "original_px": [
+    2048,
+    2044
+   ],
+   "original_bytes": 2772778,
+   "identity": "sent-2026-09-05::d8438693d4a7",
+   "source_url": "https://whitneymedia.org/assets/artwork/10072/95_167_cropped.jpg",
+   "maker": "Unidentified",
+   "title": "Wave composition",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "A Whitney Museum of American Art asset (accession 95.167 is carried in the file name, 95_167_cropped). The artist is NOT established here — the accession number is all the file gives, and no object record was reached.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/608.jpg",
+   "source_px": [
+    2048,
+    2044
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "subject",
+     "v": "Minimalism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A Whitney Museum of American Art asset (accession 95.167 is carried in the file name, 95_167_cropped). The artist is NOT established here — the accession number is all the file gives, and no object record was reached.",
+   "hue": 44.31,
+   "light": 0.4395,
+   "chroma": 0.6255,
+   "punch": 0.2108
+  },
+  "sent-2026-09-05::b99fbb286737": {
+   "id": "CRVI001872",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001872.jpg",
+   "original_px": [
+    1116,
+    1385
+   ],
+   "original_bytes": 1738402,
+   "identity": "sent-2026-09-05::b99fbb286737",
+   "source_url": "https://uploads8.wikiart.org/images/agnes-martin/aspiration-1960.jpg",
+   "maker": "Agnes Martin",
+   "title": "Aspiration",
+   "subtitle": "",
+   "year": "1960",
+   "verified_against": "WikiArt, under Agnes Martin, dated 1960.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/609.jpg",
+   "source_px": [
+    1116,
+    1385
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Agnes Martin"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "subject",
+     "v": "Minimalism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Agnes Martin, dated 1960.",
+   "hue": 45.01,
+   "light": 0.8154,
+   "chroma": 0.9267,
+   "punch": 0.1624
+  },
+  "sent-2026-09-05::fcc819f170a0": {
+   "id": "CRVI001873",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001873.jpg",
+   "original_px": [
+    816,
+    810
+   ],
+   "original_bytes": 88985,
+   "identity": "sent-2026-09-05::fcc819f170a0",
+   "source_url": "https://uploads1.wikiart.org/images/agnes-martin/untitled-white-flower-1961.jpg",
+   "maker": "Agnes Martin",
+   "title": "Untitled (White Flower)",
+   "subtitle": "",
+   "year": "1961",
+   "verified_against": "WikiArt, under Agnes Martin, dated 1961.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/610.jpg",
+   "source_px": [
+    816,
+    810
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Agnes Martin"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "subject",
+     "v": "Minimalism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Agnes Martin, dated 1961.",
+   "hue": 31.04,
+   "light": 0.7491,
+   "chroma": 1.0,
+   "punch": 0.2751
+  },
+  "sent-2026-09-05::2a48e98c3d36": {
+   "id": "CRVI001874",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001874.jpg",
+   "original_px": [
+    1500,
+    1487
+   ],
+   "original_bytes": 219271,
+   "identity": "sent-2026-09-05::2a48e98c3d36",
+   "source_url": "https://uploads6.wikiart.org/images/agnes-martin/untitled-1963.jpg",
+   "maker": "Agnes Martin",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "1963",
+   "verified_against": "WikiArt, under Agnes Martin, dated 1963.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/611.jpg",
+   "source_px": [
+    1500,
+    1487
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Agnes Martin"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "subject",
+     "v": "Minimalism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Agnes Martin, dated 1963.",
+   "hue": 13.64,
+   "light": 0.7112,
+   "chroma": 0.9803,
+   "punch": 0.1983
+  },
+  "sent-2026-09-05::48ff2be45cf6": {
+   "id": "CRVI001875",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001875.jpg",
+   "original_px": [
+    843,
+    845
+   ],
+   "original_bytes": 180628,
+   "identity": "sent-2026-09-05::48ff2be45cf6",
+   "source_url": "https://www.artic.edu/iiif/2/5e5f226d-ca7b-b75f-3679-83ecf82d2983/full/843,/0/default.jpg",
+   "maker": "Agnes Martin",
+   "title": "Untitled #12",
+   "subtitle": "",
+   "year": "1977",
+   "verified_against": "Art Institute of Chicago, artwork 89403 — the museum's API resolves this image id to Agnes Martin, Untitled #12, 1977.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/612.jpg",
+   "source_px": [
+    843,
+    845
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Agnes Martin"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "subject",
+     "v": "Minimalism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Institute of Chicago, artwork 89403 — the museum's API resolves this image id to Agnes Martin, Untitled #12, 1977.",
+   "hue": 48.62,
+   "light": 0.8286,
+   "chroma": 0.1612,
+   "punch": 0.0517
+  },
+  "sent-2026-09-05::b560c1f6f5e4": {
+   "id": "CRVI001876",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001876.jpg",
+   "original_px": [
+    904,
+    1024
+   ],
+   "original_bytes": 141031,
+   "identity": "sent-2026-09-05::b560c1f6f5e4",
+   "source_url": "https://uploads2.wikiart.org/images/frank-stella/jill-1959.jpg",
+   "maker": "Frank Stella",
+   "title": "Jill",
+   "subtitle": "",
+   "year": "1959",
+   "verified_against": "WikiArt, under Frank Stella, dated 1959.",
+   "notes": [
+    "One of the Black Paintings — pinstripes left as bare canvas."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/613.jpg",
+   "source_px": [
+    904,
+    1024
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Frank Stella"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "subject",
+     "v": "Minimalism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Frank Stella, dated 1959.",
+   "hue": null,
+   "light": 0.2054,
+   "chroma": 0.0665,
+   "punch": 0.0522
+  },
+  "sent-2026-09-05::74c00a0b3979": {
+   "id": "CRVI001877",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001877.jpg",
+   "original_px": [
+    993,
+    1024
+   ],
+   "original_bytes": 164701,
+   "identity": "sent-2026-09-05::74c00a0b3979",
+   "source_url": "https://uploads2.wikiart.org/images/frank-stella/hampton-roads-1961.jpg",
+   "maker": "Frank Stella",
+   "title": "Hampton Roads",
+   "subtitle": "",
+   "year": "1961",
+   "verified_against": "WikiArt, under Frank Stella, dated 1961.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/614.jpg",
+   "source_px": [
+    993,
+    1024
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Frank Stella"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "subject",
+     "v": "Minimalism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Frank Stella, dated 1961.",
+   "hue": 216.63,
+   "light": 0.2744,
+   "chroma": 1.0,
+   "punch": 0.3231
+  },
+  "sent-2026-09-05::d32c844df17c": {
+   "id": "CRVI001878",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001878.jpg",
+   "original_px": [
+    1493,
+    1500
+   ],
+   "original_bytes": 236886,
+   "identity": "sent-2026-09-05::d32c844df17c",
+   "source_url": "https://uploads8.wikiart.org/images/frank-stella/gran-cairo-1962.jpg",
+   "maker": "Frank Stella",
+   "title": "Gran Cairo",
+   "subtitle": "",
+   "year": "1962",
+   "verified_against": "WikiArt, under Frank Stella, dated 1962.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/615.jpg",
+   "source_px": [
+    1493,
+    1500
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Frank Stella"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "subject",
+     "v": "Minimalism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Frank Stella, dated 1962.",
+   "hue": 54.23,
+   "light": 0.3396,
+   "chroma": 0.8143,
+   "punch": 0.4038
+  },
+  "sent-2026-09-05::30a898037396": {
+   "id": "CRVI001879",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001879.jpg",
+   "original_px": [
+    1199,
+    1536
+   ],
+   "original_bytes": 152599,
+   "identity": "sent-2026-09-05::30a898037396",
+   "source_url": "https://uploads4.wikiart.org/images/larry-bell/untitled-1962.jpg",
+   "maker": "Larry Bell",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "1962",
+   "verified_against": "WikiArt, under Larry Bell, dated 1962.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/616.jpg",
+   "source_px": [
+    1199,
+    1536
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Larry Bell"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "subject",
+     "v": "Minimalism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Larry Bell, dated 1962.",
+   "hue": null,
+   "light": 0.5847,
+   "chroma": 0.0342,
+   "punch": 0.0318
+  },
+  "sent-2026-09-05::5759623849f2": {
+   "id": "CRVI001880",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001880.jpg",
+   "original_px": [
+    2160,
+    1620
+   ],
+   "original_bytes": 2147185,
+   "identity": "sent-2026-09-05::5759623849f2",
+   "source_url": "https://img.artlogic.net/w_6000,h_6000,c_limit/exhibit-e/555f2a8acfaf3429568b4568/c45ca15f9c630629d829b32facb212b3.jpeg",
+   "maker": "Larry Bell",
+   "title": "Glass installation",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "A gallery installation view served from Artlogic under Larry Bell's name. The individual work's title and date are NOT established here.",
+   "notes": [
+    "Requested at the CDN's cap rather than the 2020px the link carried; Artlogic's c_limit caps honestly and the master is 2160 × 1620."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/617.jpg",
+   "source_px": [
+    2160,
+    1620
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Larry Bell"
+    },
+    {
+     "k": "medium",
+     "v": "coated glass"
+    },
+    {
+     "k": "subject",
+     "v": "Minimalism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A gallery installation view served from Artlogic under Larry Bell's name. The individual work's title and date are NOT established here.",
+   "hue": 232.84,
+   "light": 0.6171,
+   "chroma": 0.4973,
+   "punch": 0.2214
+  },
+  "sent-2026-09-05::0d393074cad8": {
+   "id": "CRVI001881",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001881.jpg",
+   "original_px": [
+    2100,
+    1575
+   ],
+   "original_bytes": 570730,
+   "identity": "sent-2026-09-05::0d393074cad8",
+   "source_url": "https://phxart.org/wp-content/uploads/2024/02/BELL192_Bell_Untitled_2-x-3_2021_view-51.jpg",
+   "maker": "Larry Bell",
+   "title": "Untitled 2 x 3",
+   "subtitle": "",
+   "year": "2021",
+   "verified_against": "Phoenix Art Museum, whose file name gives Bell, Untitled 2 x 3, 2021, installation view 51.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/618.jpg",
+   "source_px": [
+    2100,
+    1575
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Larry Bell"
+    },
+    {
+     "k": "medium",
+     "v": "coated glass"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "subject",
+     "v": "Minimalism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Phoenix Art Museum, whose file name gives Bell, Untitled 2 x 3, 2021, installation view 51.",
+   "hue": 47.92,
+   "light": 0.7677,
+   "chroma": 0.19,
+   "punch": 0.0561
+  },
+  "sent-2026-09-05::fc1876d8c6ff": {
+   "id": "CRVI001882",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001882.jpg",
+   "original_px": [
+    1260,
+    842
+   ],
+   "original_bytes": 158043,
+   "identity": "sent-2026-09-05::fc1876d8c6ff",
+   "source_url": "https://jonathangriffin.org/wp-content/uploads/2022/06/https-d1e00ek4ebabms.cloudfront.net-production-8f13c6db-03d6-4d8f-b24c-ac06ab7f07e4.jpg",
+   "maker": "Larry Bell",
+   "title": "Glass installation",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "An installation view published under Larry Bell's name. Coated glass panels in red and blue, out of doors. The individual work's title and date are NOT established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/619.jpg",
+   "source_px": [
+    1260,
+    842
+   ],
+   "colors": [
+    "red",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Larry Bell"
+    },
+    {
+     "k": "medium",
+     "v": "coated glass"
+    },
+    {
+     "k": "subject",
+     "v": "Minimalism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "An installation view published under Larry Bell's name. Coated glass panels in red and blue, out of doors. The individual work's title and date are NOT established here.",
+   "hue": 205.49,
+   "light": 0.4707,
+   "chroma": 0.7483,
+   "punch": 0.3735
   }
  }
 }
