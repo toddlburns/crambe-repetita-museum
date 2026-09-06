@@ -1,5 +1,5 @@
 {
- "next": 2186,
+ "next": 2198,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -127991,6 +127991,637 @@
    "light": 0.7667,
    "chroma": 0.2937,
    "punch": 0.1641
+  },
+  "sent-2026-09-05::10743a41231c": {
+   "id": "CRVI002186",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002186.jpg",
+   "original_px": [
+    1504,
+    1304
+   ],
+   "original_bytes": 253320,
+   "identity": "sent-2026-09-05::10743a41231c",
+   "source_url": "https://uploads1.wikiart.org/images/rene-magritte/nocturne-1925(1).jpg",
+   "maker": "René Magritte",
+   "title": "Nocturne",
+   "subtitle": "",
+   "year": "1925",
+   "verified_against": "WikiArt, under René Magritte, dated 1925.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1120.jpg",
+   "source_px": [
+    1504,
+    1304
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "René Magritte"
+    },
+    {
+     "k": "location",
+     "v": "Belgium"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under René Magritte, dated 1925.",
+   "hue": 211.81,
+   "light": 0.3268,
+   "chroma": 0.9038,
+   "punch": 0.2085
+  },
+  "sent-2026-09-05::de2033b46bf2": {
+   "id": "CRVI002187",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002187.jpg",
+   "original_px": [
+    1187,
+    1579
+   ],
+   "original_bytes": 294765,
+   "identity": "sent-2026-09-05::de2033b46bf2",
+   "source_url": "https://uploads1.wikiart.org/images/rene-magritte/midnight-marriage-1926(1).jpg",
+   "maker": "René Magritte",
+   "title": "Midnight Marriage",
+   "subtitle": "",
+   "year": "1926",
+   "verified_against": "WikiArt, under René Magritte, dated 1926.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1121.jpg",
+   "source_px": [
+    1187,
+    1579
+   ],
+   "colors": [
+    "blue",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "René Magritte"
+    },
+    {
+     "k": "location",
+     "v": "Belgium"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under René Magritte, dated 1926.",
+   "hue": 187.49,
+   "light": 0.5166,
+   "chroma": 0.369,
+   "punch": 0.086
+  },
+  "sent-2026-09-05::b9772098629a": {
+   "id": "CRVI002188",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002188.jpg",
+   "original_px": [
+    1084,
+    1261
+   ],
+   "original_bytes": 203440,
+   "identity": "sent-2026-09-05::b9772098629a",
+   "source_url": "https://uploads2.wikiart.org/images/rene-magritte/the-face-of-genius-1926(1).jpg",
+   "maker": "René Magritte",
+   "title": "The Face of Genius",
+   "subtitle": "",
+   "year": "1926",
+   "verified_against": "WikiArt, under René Magritte, dated 1926.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1122.jpg",
+   "source_px": [
+    1084,
+    1261
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "René Magritte"
+    },
+    {
+     "k": "location",
+     "v": "Belgium"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under René Magritte, dated 1926.",
+   "hue": 23.39,
+   "light": 0.4077,
+   "chroma": 0.2321,
+   "punch": 0.0697
+  },
+  "sent-2026-09-05::242f4843fe99": {
+   "id": "CRVI002189",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002189.jpg",
+   "original_px": [
+    1481,
+    1884
+   ],
+   "original_bytes": 332966,
+   "identity": "sent-2026-09-05::242f4843fe99",
+   "source_url": "https://uploads6.wikiart.org/images/rene-magritte/the-difficult-crossing-1926(1).jpg",
+   "maker": "René Magritte",
+   "title": "The Difficult Crossing",
+   "subtitle": "",
+   "year": "1926",
+   "verified_against": "WikiArt, under René Magritte, dated 1926.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1123.jpg",
+   "source_px": [
+    1481,
+    1884
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "René Magritte"
+    },
+    {
+     "k": "location",
+     "v": "Belgium"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under René Magritte, dated 1926.",
+   "hue": 18.34,
+   "light": 0.5083,
+   "chroma": 0.5591,
+   "punch": 0.1628
+  },
+  "sent-2026-09-05::b0a3848e8c85": {
+   "id": "CRVI002190",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002190.jpg",
+   "original_px": [
+    1435,
+    1968
+   ],
+   "original_bytes": 390125,
+   "identity": "sent-2026-09-05::b0a3848e8c85",
+   "source_url": "https://uploads3.wikiart.org/images/rene-magritte/the-dawn-of-cayenne-1926(1).jpg",
+   "maker": "René Magritte",
+   "title": "The Dawn of Cayenne",
+   "subtitle": "",
+   "year": "1926",
+   "verified_against": "WikiArt, under René Magritte, dated 1926.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1124.jpg",
+   "source_px": [
+    1435,
+    1968
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "René Magritte"
+    },
+    {
+     "k": "location",
+     "v": "Belgium"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under René Magritte, dated 1926.",
+   "hue": 38.83,
+   "light": 0.5394,
+   "chroma": 0.1508,
+   "punch": 0.0838
+  },
+  "sent-2026-09-05::cbf1b7ba39b6": {
+   "id": "CRVI002191",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002191.jpg",
+   "original_px": [
+    809,
+    1070
+   ],
+   "original_bytes": 150443,
+   "identity": "sent-2026-09-05::cbf1b7ba39b6",
+   "source_url": "https://uploads6.wikiart.org/images/georges-braque/castle-at-la-roche-guyon-1909.jpg",
+   "maker": "Georges Braque",
+   "title": "Castle at La Roche-Guyon",
+   "subtitle": "",
+   "year": "1909",
+   "verified_against": "WikiArt, under Georges Braque, dated 1909.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1125.jpg",
+   "source_px": [
+    809,
+    1070
+   ],
+   "colors": [
+    "orange",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Georges Braque"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Georges Braque, dated 1909.",
+   "hue": 39.87,
+   "light": 0.5398,
+   "chroma": 0.7365,
+   "punch": 0.2113
+  },
+  "sent-2026-09-05::0a6c12693e73": {
+   "id": "CRVI002192",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002192.jpg",
+   "original_px": [
+    1010,
+    1013
+   ],
+   "original_bytes": 466903,
+   "identity": "sent-2026-09-05::0a6c12693e73",
+   "source_url": "https://uploads0.wikiart.org/images/georges-braque/harbor-in-normandy-1909.jpg",
+   "maker": "Georges Braque",
+   "title": "Harbor in Normandy",
+   "subtitle": "",
+   "year": "1909",
+   "verified_against": "WikiArt, under Georges Braque, dated 1909.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1126.jpg",
+   "source_px": [
+    1010,
+    1013
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Georges Braque"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Georges Braque, dated 1909.",
+   "hue": 31.87,
+   "light": 0.3835,
+   "chroma": 0.7149,
+   "punch": 0.2486
+  },
+  "sent-2026-09-05::234c5e3e4a65": {
+   "id": "CRVI002193",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002193.jpg",
+   "original_px": [
+    904,
+    1123
+   ],
+   "original_bytes": 150854,
+   "identity": "sent-2026-09-05::234c5e3e4a65",
+   "source_url": "https://uploads4.wikiart.org/images/georges-braque/violin-and-candlestick-1910.jpg",
+   "maker": "Georges Braque",
+   "title": "Violin and Candlestick",
+   "subtitle": "",
+   "year": "1910",
+   "verified_against": "WikiArt, under Georges Braque, dated 1910.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1127.jpg",
+   "source_px": [
+    904,
+    1123
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Georges Braque"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Georges Braque, dated 1910.",
+   "hue": 41.66,
+   "light": 0.3958,
+   "chroma": 0.6856,
+   "punch": 0.1625
+  },
+  "sent-2026-09-05::4645ac86302c": {
+   "id": "CRVI002194",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002194.jpg",
+   "original_px": [
+    1251,
+    1716
+   ],
+   "original_bytes": 486697,
+   "identity": "sent-2026-09-05::4645ac86302c",
+   "source_url": "https://uploads3.wikiart.org/images/georges-braque/still-life-with-bottle-of-bass-1914.jpg",
+   "maker": "Georges Braque",
+   "title": "Still Life with Bottle of Bass",
+   "subtitle": "",
+   "year": "1914",
+   "verified_against": "WikiArt, under Georges Braque, dated 1914.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1128.jpg",
+   "source_px": [
+    1251,
+    1716
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Georges Braque"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Georges Braque, dated 1914.",
+   "hue": 31.77,
+   "light": 0.6131,
+   "chroma": 0.2062,
+   "punch": 0.0752
+  },
+  "sent-2026-09-05::af4b1e889fa3": {
+   "id": "CRVI002195",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002195.jpg",
+   "original_px": [
+    1573,
+    2454
+   ],
+   "original_bytes": 614828,
+   "identity": "sent-2026-09-05::af4b1e889fa3",
+   "source_url": "https://uploads7.wikiart.org/images/pablo-picasso/the-barefoot-girl-1895.jpg",
+   "maker": "Pablo Picasso",
+   "title": "The Barefoot Girl",
+   "subtitle": "",
+   "year": "1895",
+   "verified_against": "WikiArt, under Pablo Picasso, dated 1895.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1129.jpg",
+   "source_px": [
+    1573,
+    2454
+   ],
+   "colors": [
+    "cyan",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Pablo Picasso"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1890s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Pablo Picasso, dated 1895.",
+   "hue": 14.7,
+   "light": 0.3211,
+   "chroma": 0.7757,
+   "punch": 0.1742
+  },
+  "sent-2026-09-05::d986c5fea13d": {
+   "id": "CRVI002196",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002196.jpg",
+   "original_px": [
+    1479,
+    2025
+   ],
+   "original_bytes": 618931,
+   "identity": "sent-2026-09-05::d986c5fea13d",
+   "source_url": "https://uploads1.wikiart.org/images/pablo-picasso/academical-study.jpg",
+   "maker": "Pablo Picasso",
+   "title": "Academical Study",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Pablo Picasso; the date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1130.jpg",
+   "source_px": [
+    1479,
+    2025
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Pablo Picasso"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Pablo Picasso; the date is not established here.",
+   "hue": 44.85,
+   "light": 0.3963,
+   "chroma": 0.2128,
+   "punch": 0.0911
+  },
+  "sent-2026-09-05::339de357ed71": {
+   "id": "CRVI002197",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002197.jpg",
+   "original_px": [
+    1280,
+    1042
+   ],
+   "original_bytes": 568258,
+   "identity": "sent-2026-09-05::339de357ed71",
+   "source_url": "https://uploads2.wikiart.org/images/pablo-picasso/pierrot-and-colombina-1900.jpg",
+   "maker": "Pablo Picasso",
+   "title": "Pierrot and Colombina",
+   "subtitle": "",
+   "year": "1900",
+   "verified_against": "WikiArt, under Pablo Picasso, dated 1900.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1131.jpg",
+   "source_px": [
+    1280,
+    1042
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Pablo Picasso"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Pablo Picasso, dated 1900.",
+   "hue": 7.98,
+   "light": 0.2139,
+   "chroma": 0.4074,
+   "punch": 0.1004
   }
  }
 }

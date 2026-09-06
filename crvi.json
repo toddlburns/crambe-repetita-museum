@@ -115348,6 +115348,622 @@
    "hue": 29.4,
    "light": 0.7667,
    "chroma": 0.2937
+  },
+  {
+   "id": "CRVI002186",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.2085,
+   "source_url": "https://uploads1.wikiart.org/images/rene-magritte/nocturne-1925(1).jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002186.jpg",
+   "source_label": "",
+   "image": "images/CRVI002186.jpg",
+   "original": "originals/CRVI002186.jpg",
+   "vector": "",
+   "original_px": [
+    1504,
+    1304
+   ],
+   "original_bytes": 253320,
+   "maker": "René Magritte",
+   "title": "Nocturne",
+   "subtitle": "",
+   "year": "1925",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "René Magritte"
+    },
+    {
+     "k": "location",
+     "v": "Belgium"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 211.81,
+   "light": 0.3268,
+   "chroma": 0.9038
+  },
+  {
+   "id": "CRVI002187",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.086,
+   "source_url": "https://uploads1.wikiart.org/images/rene-magritte/midnight-marriage-1926(1).jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002187.jpg",
+   "source_label": "",
+   "image": "images/CRVI002187.jpg",
+   "original": "originals/CRVI002187.jpg",
+   "vector": "",
+   "original_px": [
+    1187,
+    1579
+   ],
+   "original_bytes": 294765,
+   "maker": "René Magritte",
+   "title": "Midnight Marriage",
+   "subtitle": "",
+   "year": "1926",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "René Magritte"
+    },
+    {
+     "k": "location",
+     "v": "Belgium"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 187.49,
+   "light": 0.5166,
+   "chroma": 0.369
+  },
+  {
+   "id": "CRVI002188",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.0697,
+   "source_url": "https://uploads2.wikiart.org/images/rene-magritte/the-face-of-genius-1926(1).jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002188.jpg",
+   "source_label": "",
+   "image": "images/CRVI002188.jpg",
+   "original": "originals/CRVI002188.jpg",
+   "vector": "",
+   "original_px": [
+    1084,
+    1261
+   ],
+   "original_bytes": 203440,
+   "maker": "René Magritte",
+   "title": "The Face of Genius",
+   "subtitle": "",
+   "year": "1926",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "René Magritte"
+    },
+    {
+     "k": "location",
+     "v": "Belgium"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 23.39,
+   "light": 0.4077,
+   "chroma": 0.2321
+  },
+  {
+   "id": "CRVI002189",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1628,
+   "source_url": "https://uploads6.wikiart.org/images/rene-magritte/the-difficult-crossing-1926(1).jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002189.jpg",
+   "source_label": "",
+   "image": "images/CRVI002189.jpg",
+   "original": "originals/CRVI002189.jpg",
+   "vector": "",
+   "original_px": [
+    1481,
+    1884
+   ],
+   "original_bytes": 332966,
+   "maker": "René Magritte",
+   "title": "The Difficult Crossing",
+   "subtitle": "",
+   "year": "1926",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "René Magritte"
+    },
+    {
+     "k": "location",
+     "v": "Belgium"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 18.34,
+   "light": 0.5083,
+   "chroma": 0.5591
+  },
+  {
+   "id": "CRVI002190",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.0838,
+   "source_url": "https://uploads3.wikiart.org/images/rene-magritte/the-dawn-of-cayenne-1926(1).jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002190.jpg",
+   "source_label": "",
+   "image": "images/CRVI002190.jpg",
+   "original": "originals/CRVI002190.jpg",
+   "vector": "",
+   "original_px": [
+    1435,
+    1968
+   ],
+   "original_bytes": 390125,
+   "maker": "René Magritte",
+   "title": "The Dawn of Cayenne",
+   "subtitle": "",
+   "year": "1926",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "René Magritte"
+    },
+    {
+     "k": "location",
+     "v": "Belgium"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 38.83,
+   "light": 0.5394,
+   "chroma": 0.1508
+  },
+  {
+   "id": "CRVI002191",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.2113,
+   "source_url": "https://uploads6.wikiart.org/images/georges-braque/castle-at-la-roche-guyon-1909.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002191.jpg",
+   "source_label": "",
+   "image": "images/CRVI002191.jpg",
+   "original": "originals/CRVI002191.jpg",
+   "vector": "",
+   "original_px": [
+    809,
+    1070
+   ],
+   "original_bytes": 150443,
+   "maker": "Georges Braque",
+   "title": "Castle at La Roche-Guyon",
+   "subtitle": "",
+   "year": "1909",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Georges Braque"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 39.87,
+   "light": 0.5398,
+   "chroma": 0.7365
+  },
+  {
+   "id": "CRVI002192",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.2486,
+   "source_url": "https://uploads0.wikiart.org/images/georges-braque/harbor-in-normandy-1909.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002192.jpg",
+   "source_label": "",
+   "image": "images/CRVI002192.jpg",
+   "original": "originals/CRVI002192.jpg",
+   "vector": "",
+   "original_px": [
+    1010,
+    1013
+   ],
+   "original_bytes": 466903,
+   "maker": "Georges Braque",
+   "title": "Harbor in Normandy",
+   "subtitle": "",
+   "year": "1909",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Georges Braque"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 31.87,
+   "light": 0.3835,
+   "chroma": 0.7149
+  },
+  {
+   "id": "CRVI002193",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1625,
+   "source_url": "https://uploads4.wikiart.org/images/georges-braque/violin-and-candlestick-1910.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002193.jpg",
+   "source_label": "",
+   "image": "images/CRVI002193.jpg",
+   "original": "originals/CRVI002193.jpg",
+   "vector": "",
+   "original_px": [
+    904,
+    1123
+   ],
+   "original_bytes": 150854,
+   "maker": "Georges Braque",
+   "title": "Violin and Candlestick",
+   "subtitle": "",
+   "year": "1910",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Georges Braque"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 41.66,
+   "light": 0.3958,
+   "chroma": 0.6856
+  },
+  {
+   "id": "CRVI002194",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.0752,
+   "source_url": "https://uploads3.wikiart.org/images/georges-braque/still-life-with-bottle-of-bass-1914.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002194.jpg",
+   "source_label": "",
+   "image": "images/CRVI002194.jpg",
+   "original": "originals/CRVI002194.jpg",
+   "vector": "",
+   "original_px": [
+    1251,
+    1716
+   ],
+   "original_bytes": 486697,
+   "maker": "Georges Braque",
+   "title": "Still Life with Bottle of Bass",
+   "subtitle": "",
+   "year": "1914",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Georges Braque"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 31.77,
+   "light": 0.6131,
+   "chroma": 0.2062
+  },
+  {
+   "id": "CRVI002195",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1742,
+   "source_url": "https://uploads7.wikiart.org/images/pablo-picasso/the-barefoot-girl-1895.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002195.jpg",
+   "source_label": "",
+   "image": "images/CRVI002195.jpg",
+   "original": "originals/CRVI002195.jpg",
+   "vector": "",
+   "original_px": [
+    1573,
+    2454
+   ],
+   "original_bytes": 614828,
+   "maker": "Pablo Picasso",
+   "title": "The Barefoot Girl",
+   "subtitle": "",
+   "year": "1895",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Pablo Picasso"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1890s"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 14.7,
+   "light": 0.3211,
+   "chroma": 0.7757
+  },
+  {
+   "id": "CRVI002196",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.0911,
+   "source_url": "https://uploads1.wikiart.org/images/pablo-picasso/academical-study.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002196.jpg",
+   "source_label": "",
+   "image": "images/CRVI002196.jpg",
+   "original": "originals/CRVI002196.jpg",
+   "vector": "",
+   "original_px": [
+    1479,
+    2025
+   ],
+   "original_bytes": 618931,
+   "maker": "Pablo Picasso",
+   "title": "Academical Study",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Pablo Picasso"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 44.85,
+   "light": 0.3963,
+   "chroma": 0.2128
+  },
+  {
+   "id": "CRVI002197",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1004,
+   "source_url": "https://uploads2.wikiart.org/images/pablo-picasso/pierrot-and-colombina-1900.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002197.jpg",
+   "source_label": "",
+   "image": "images/CRVI002197.jpg",
+   "original": "originals/CRVI002197.jpg",
+   "vector": "",
+   "original_px": [
+    1280,
+    1042
+   ],
+   "original_bytes": 568258,
+   "maker": "Pablo Picasso",
+   "title": "Pierrot and Colombina",
+   "subtitle": "",
+   "year": "1900",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Pablo Picasso"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 7.98,
+   "light": 0.2139,
+   "chroma": 0.4074
   }
  ]
 }
