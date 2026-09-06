@@ -1,5 +1,5 @@
 {
- "next": 1742,
+ "next": 1744,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -103199,6 +103199,120 @@
    "light": 0.3494,
    "chroma": 0.7181,
    "punch": 0.1469
+  },
+  "sent-2026-09-05::c5dbd801cd82": {
+   "id": "CRVI001742",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001742.jpg",
+   "original_px": [
+    994,
+    1260
+   ],
+   "original_bytes": 312224,
+   "identity": "sent-2026-09-05::c5dbd801cd82",
+   "source_url": "https://www.meisterdrucke.fr/kunstwerke/1260px/Rudolf_Schlichter_-_Sie_starb_daran_-_(MeisterDrucke-1670794).jpg",
+   "maker": "Rudolf Schlichter",
+   "title": "Sie starb daran",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Reproduced by Meisterdrucke as Rudolf Schlichter, Sie starb daran; the sheet is signed R. Schlichter at the lower right. The date is not established here.",
+   "notes": [
+    "A woman dead on a flowering field, a man kneeling over her, and behind them a rank of figures in surgical whites and gas masks under an explosion.",
+    "⚠️ A print-shop reproduction, the same class of source that supplied an under-floor Waterhouse earlier. This one measures 994 × 1260 and clears the floor; asking the same site for 2000px returns nothing, and Commons holds no alternative. A better scan should replace it if one appears."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/400.jpg",
+   "source_px": [
+    994,
+    1260
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Rudolf Schlichter"
+    },
+    {
+     "k": "subject",
+     "v": "New Objectivity"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Reproduced by Meisterdrucke as Rudolf Schlichter, Sie starb daran; the sheet is signed R. Schlichter at the lower right. The date is not established here.",
+   "hue": 32.55,
+   "light": 0.5088,
+   "chroma": 0.3566,
+   "punch": 0.1139
+  },
+  "sent-2026-09-05::414f0633664b": {
+   "id": "CRVI001743",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001743.jpg",
+   "original_px": [
+    1100,
+    1636
+   ],
+   "original_bytes": 223555,
+   "identity": "sent-2026-09-05::414f0633664b",
+   "source_url": "https://www.tallengestore.com/cdn/shop/products/Rudolf_Schlichter_-_Lady_with_a_Red_Scarf_1_8a79ea13-e5ec-4807-8feb-65cdde8c3312.jpg?v=1570165991",
+   "maker": "Rudolf Schlichter",
+   "title": "Lady with a Red Scarf",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Reproduced by Tallenge as Rudolf Schlichter, Lady with a Red Scarf; the canvas is signed R. Schlichter at the lower right. The date is not established here.",
+   "notes": [
+    "Checked for a larger file: the Shopify CDN caps at this size rather than upscaling, and no bigger copy was found."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/401.jpg",
+   "source_px": [
+    1100,
+    1636
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "artist",
+     "v": "Rudolf Schlichter"
+    },
+    {
+     "k": "subject",
+     "v": "New Objectivity"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Reproduced by Tallenge as Rudolf Schlichter, Lady with a Red Scarf; the canvas is signed R. Schlichter at the lower right. The date is not established here.",
+   "hue": 6.19,
+   "light": 0.3436,
+   "chroma": 0.7028,
+   "punch": 0.2527
   }
  }
 }

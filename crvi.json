@@ -92128,6 +92128,110 @@
    "hue": 207.22,
    "light": 0.3494,
    "chroma": 0.7181
+  },
+  {
+   "id": "CRVI001742",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1139,
+   "source_url": "https://www.meisterdrucke.fr/kunstwerke/1260px/Rudolf_Schlichter_-_Sie_starb_daran_-_(MeisterDrucke-1670794).jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001742.jpg",
+   "source_label": "",
+   "image": "images/CRVI001742.jpg",
+   "original": "originals/CRVI001742.jpg",
+   "vector": "",
+   "original_px": [
+    994,
+    1260
+   ],
+   "original_bytes": 312224,
+   "maker": "Rudolf Schlichter",
+   "title": "Sie starb daran",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Rudolf Schlichter"
+    },
+    {
+     "k": "subject",
+     "v": "New Objectivity"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 32.55,
+   "light": 0.5088,
+   "chroma": 0.3566
+  },
+  {
+   "id": "CRVI001743",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.2527,
+   "source_url": "https://www.tallengestore.com/cdn/shop/products/Rudolf_Schlichter_-_Lady_with_a_Red_Scarf_1_8a79ea13-e5ec-4807-8feb-65cdde8c3312.jpg?v=1570165991",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001743.jpg",
+   "source_label": "",
+   "image": "images/CRVI001743.jpg",
+   "original": "originals/CRVI001743.jpg",
+   "vector": "",
+   "original_px": [
+    1100,
+    1636
+   ],
+   "original_bytes": 223555,
+   "maker": "Rudolf Schlichter",
+   "title": "Lady with a Red Scarf",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "artist",
+     "v": "Rudolf Schlichter"
+    },
+    {
+     "k": "subject",
+     "v": "New Objectivity"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 6.19,
+   "light": 0.3436,
+   "chroma": 0.7028
   }
  ]
 }
