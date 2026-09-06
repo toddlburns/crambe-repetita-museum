@@ -1,5 +1,5 @@
 {
- "next": 1883,
+ "next": 1891,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -110855,6 +110855,450 @@
    "light": 0.4707,
    "chroma": 0.7483,
    "punch": 0.3735
+  },
+  "sent-2026-09-05::6826f71ba21f": {
+   "id": "CRVI001883",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001883.jpg",
+   "original_px": [
+    1536,
+    1206
+   ],
+   "original_bytes": 208377,
+   "identity": "sent-2026-09-05::6826f71ba21f",
+   "source_url": "https://uploads8.wikiart.org/images/michelangelo-pistoletto/venus-of-the-rags-1967.jpg",
+   "maker": "Michelangelo Pistoletto",
+   "title": "Venus of the Rags",
+   "subtitle": "",
+   "year": "1967",
+   "verified_against": "WikiArt, under Michelangelo Pistoletto, dated 1967.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/630.jpg",
+   "source_px": [
+    1536,
+    1206
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Michelangelo Pistoletto"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "subject",
+     "v": "Arte Povera"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Michelangelo Pistoletto, dated 1967.",
+   "hue": 24.67,
+   "light": 0.5354,
+   "chroma": 0.2532,
+   "punch": 0.0915
+  },
+  "sent-2026-09-05::865c25669b0c": {
+   "id": "CRVI001884",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001884.jpg",
+   "original_px": [
+    843,
+    1455
+   ],
+   "original_bytes": 271530,
+   "identity": "sent-2026-09-05::865c25669b0c",
+   "source_url": "https://www.artic.edu/iiif/2/9f973239-42e4-8c35-a11d-cd4b60b48dfb/full/843,/0/default.jpg",
+   "maker": "Michelangelo Pistoletto",
+   "title": "Girl Drawing",
+   "subtitle": "",
+   "year": "1979",
+   "verified_against": "Art Institute of Chicago, artwork 202469 — the museum's API resolves this image id to Michelangelo Pistoletto, Girl Drawing, 1979.",
+   "notes": [
+    "A mirror painting: the polished steel takes in the room and the viewer standing in it."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/631.jpg",
+   "source_px": [
+    843,
+    1455
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Michelangelo Pistoletto"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "subject",
+     "v": "Arte Povera"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Institute of Chicago, artwork 202469 — the museum's API resolves this image id to Michelangelo Pistoletto, Girl Drawing, 1979.",
+   "hue": 35.4,
+   "light": 0.7789,
+   "chroma": 0.1435,
+   "punch": 0.0484
+  },
+  "sent-2026-09-05::46dac87c8c29": {
+   "id": "CRVI001885",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001885.jpg",
+   "original_px": [
+    1280,
+    1614
+   ],
+   "original_bytes": 196777,
+   "identity": "sent-2026-09-05::46dac87c8c29",
+   "source_url": "https://uploads2.wikiart.org/images/michelangelo-pistoletto/deposizione-1973.jpg",
+   "maker": "Michelangelo Pistoletto",
+   "title": "Deposizione",
+   "subtitle": "",
+   "year": "1973",
+   "verified_against": "WikiArt, under Michelangelo Pistoletto, dated 1973.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/632.jpg",
+   "source_px": [
+    1280,
+    1614
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Michelangelo Pistoletto"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "subject",
+     "v": "Arte Povera"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Michelangelo Pistoletto, dated 1973.",
+   "hue": null,
+   "light": 0.7002,
+   "chroma": 0.0589,
+   "punch": 0.037
+  },
+  "sent-2026-09-05::a5d46ab48571": {
+   "id": "CRVI001886",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001886.jpg",
+   "original_px": [
+    1196,
+    1536
+   ],
+   "original_bytes": 71128,
+   "identity": "sent-2026-09-05::a5d46ab48571",
+   "source_url": "https://uploads1.wikiart.org/images/michelangelo-pistoletto/standing-man-mirror-painting-1962.jpg",
+   "maker": "Michelangelo Pistoletto",
+   "title": "Standing Man (mirror painting)",
+   "subtitle": "",
+   "year": "1962",
+   "verified_against": "WikiArt, under Michelangelo Pistoletto, dated 1962.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/633.jpg",
+   "source_px": [
+    1196,
+    1536
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Michelangelo Pistoletto"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "subject",
+     "v": "Arte Povera"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Michelangelo Pistoletto, dated 1962.",
+   "hue": null,
+   "light": 0.6697,
+   "chroma": 0.0499,
+   "punch": 0.0536
+  },
+  "sent-2026-09-05::51316e3c0862": {
+   "id": "CRVI001887",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001887.jpg",
+   "original_px": [
+    3991,
+    2784
+   ],
+   "original_bytes": 3678832,
+   "identity": "sent-2026-09-05::51316e3c0862",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Exposici%C3%B3n_de_Mario_Merz-Palacio_de_Vel%C3%A1zquez_%286%29.jpg",
+   "maker": "Mario Merz",
+   "title": "Installation view, Palacio de Velázquez, Madrid",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Wikimedia Commons, whose file record gives an exhibition of Mario Merz at the Palacio de Velázquez, Madrid. Merz made the WORK — a neon text across a glass and brushwood construction on stacked newspapers; the photographer of this view is not named, and neither is dated here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/634.jpg",
+   "source_px": [
+    3991,
+    2784
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Mario Merz"
+    },
+    {
+     "k": "subject",
+     "v": "Arte Povera"
+    },
+    {
+     "k": "subject",
+     "v": "exhibition"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons, whose file record gives an exhibition of Mario Merz at the Palacio de Velázquez, Madrid. Merz made the WORK — a neon text across a glass and brushwood construction on stacked newspapers; the photographer of this view is not named, and neither is dated here.",
+   "hue": 19.21,
+   "light": 0.426,
+   "chroma": 0.4656,
+   "punch": 0.1784
+  },
+  "sent-2026-09-05::2b37b37fc089": {
+   "id": "CRVI001888",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001888.jpg",
+   "original_px": [
+    1999,
+    1317
+   ],
+   "original_bytes": 676749,
+   "identity": "sent-2026-09-05::2b37b37fc089",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Alighiero_Boetti_Torino_1940_%E2%80%93_Roma_1994_Collezione_Privata.jpg",
+   "maker": "Alighiero Boetti",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Wikimedia Commons, whose file name gives Alighiero Boetti (Torino 1940 – Roma 1994) and a private collection. The individual work's title and date are NOT established here.",
+   "notes": [
+    "Ranks of repeated letters in red and white, one small dark form breaking the field at the foot."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/635.jpg",
+   "source_px": [
+    1999,
+    1317
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Alighiero Boetti"
+    },
+    {
+     "k": "subject",
+     "v": "Arte Povera"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons, whose file name gives Alighiero Boetti (Torino 1940 – Roma 1994) and a private collection. The individual work's title and date are NOT established here.",
+   "hue": 354.42,
+   "light": 0.5915,
+   "chroma": 0.4747,
+   "punch": 0.1533
+  },
+  "sent-2026-09-05::b769097d60fb": {
+   "id": "CRVI001889",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001889.jpg",
+   "original_px": [
+    1844,
+    2430
+   ],
+   "original_bytes": 1591367,
+   "identity": "sent-2026-09-05::b769097d60fb",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Der_Himmel_%C3%BCber_%28Alighiero_Boetti%29.jpg",
+   "maker": "Alighiero Boetti",
+   "title": "Der Himmel über",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Wikimedia Commons, as 'Der Himmel über' by Alighiero Boetti. The date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/636.jpg",
+   "source_px": [
+    1844,
+    2430
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Alighiero Boetti"
+    },
+    {
+     "k": "subject",
+     "v": "Arte Povera"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons, as 'Der Himmel über' by Alighiero Boetti. The date is not established here.",
+   "hue": null,
+   "light": 0.9005,
+   "chroma": 0.0777,
+   "punch": 0.0192
+  },
+  "sent-2026-09-05::14c4a2a4f3b6": {
+   "id": "CRVI001890",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001890.jpg",
+   "original_px": [
+    1600,
+    1566
+   ],
+   "original_bytes": 855334,
+   "identity": "sent-2026-09-05::14c4a2a4f3b6",
+   "source_url": "https://1.bp.blogspot.com/-lQlkNFk8Duo/Vh0_AIjof-I/AAAAAAAAMkw/0O2EbLPj8aM/s1600/613.jpg",
+   "maker": "Alighiero Boetti",
+   "title": "Embroidered word square",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "⚠️ Published on a blog with no caption — the file name is only a number. The object is one of Boetti's embroidered arazzi: a square grid of letters in coloured thread spelling a phrase around the border, begun with OGGI IL PRIMO GIORNO. The attribution rests on that form and on the batch it arrived in, NOT on the source. Title and date unestablished.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/637.jpg",
+   "source_px": [
+    1600,
+    1566
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "textile"
+    },
+    {
+     "k": "artist",
+     "v": "Alighiero Boetti"
+    },
+    {
+     "k": "subject",
+     "v": "Arte Povera"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ Published on a blog with no caption — the file name is only a number. The object is one of Boetti's embroidered arazzi: a square grid of letters in coloured thread spelling a phrase around the border, begun with OGGI IL PRIMO GIORNO. The attribution rests on that form and on the batch it arrived in, NOT on the source. Title and date unestablished.",
+   "hue": 356.01,
+   "light": 0.473,
+   "chroma": 0.9018,
+   "punch": 0.3884
   }
  }
 }
