@@ -110052,6 +110052,574 @@
    "hue": 27.45,
    "light": 0.4194,
    "chroma": 0.2444
+  },
+  {
+   "id": "CRVI002079",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.0536,
+   "source_url": "https://moranmorangallery.com/wp-content/uploads/2023/06/LFRT-Game-Ampersand-2015-photo-Joshua-White-image-01.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002079.jpg",
+   "source_label": "",
+   "image": "images/CRVI002079.jpg",
+   "original": "originals/CRVI002079.jpg",
+   "vector": "",
+   "original_px": [
+    1500,
+    1200
+   ],
+   "original_bytes": 416529,
+   "maker": "Lizzie Fitch and Ryan Trecartin",
+   "title": "Game Ampersand",
+   "subtitle": "",
+   "year": "2015",
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Lizzie Fitch"
+    },
+    {
+     "k": "artist",
+     "v": "Ryan Trecartin"
+    },
+    {
+     "k": "photographer",
+     "v": "Joshua White"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 33.16,
+   "light": 0.6993,
+   "chroma": 0.1633
+  },
+  {
+   "id": "CRVI002080",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1957,
+   "source_url": "https://www.afmuseet.no/content/uploads/sites/3/2023/03/Fitch_Trecartin_web_Christian_Oen-24-7.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002080.jpg",
+   "source_label": "",
+   "image": "images/CRVI002080.jpg",
+   "original": "originals/CRVI002080.jpg",
+   "vector": "",
+   "original_px": [
+    2048,
+    1365
+   ],
+   "original_bytes": 525759,
+   "maker": "Lizzie Fitch and Ryan Trecartin",
+   "title": "Installation view",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Lizzie Fitch"
+    },
+    {
+     "k": "artist",
+     "v": "Ryan Trecartin"
+    },
+    {
+     "k": "photographer",
+     "v": "Christian Øen"
+    },
+    {
+     "k": "subject",
+     "v": "exhibition"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 214.64,
+   "light": 0.5457,
+   "chroma": 0.6582
+  },
+  {
+   "id": "CRVI002081",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1548,
+   "source_url": "https://media.hauserwirth.com/transform/6b7d1abc-f82d-4e63-afd4-519091a9c491/HENRO-inst-542-2025-005B",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002081.jpg",
+   "source_label": "",
+   "image": "images/CRVI002081.jpg",
+   "original": "originals/CRVI002081.jpg",
+   "vector": "",
+   "original_px": [
+    2500,
+    1820
+   ],
+   "original_bytes": 396927,
+   "maker": "Camille Henrot",
+   "title": "Installation view",
+   "subtitle": "",
+   "year": "2025",
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Camille Henrot"
+    },
+    {
+     "k": "subject",
+     "v": "exhibition"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 191.28,
+   "light": 0.5888,
+   "chroma": 0.3809
+  },
+  {
+   "id": "CRVI002082",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.3251,
+   "source_url": "https://uploads1.wikiart.org/00333/images/hito-steyerl/liquidity-inc-2014.png",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002082.jpg",
+   "source_label": "",
+   "image": "images/CRVI002082.jpg",
+   "original": "originals/CRVI002082.jpg",
+   "vector": "",
+   "original_px": [
+    1263,
+    824
+   ],
+   "original_bytes": 207840,
+   "maker": "Hito Steyerl",
+   "title": "Liquidity Inc.",
+   "subtitle": "",
+   "year": "2014",
+   "tags": [
+    {
+     "k": "type",
+     "v": "video"
+    },
+    {
+     "k": "artist",
+     "v": "Hito Steyerl"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 196.35,
+   "light": 0.4415,
+   "chroma": 0.7617
+  },
+  {
+   "id": "CRVI002083",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1716,
+   "source_url": "https://img.artlogic.net/w_6000,h_6000,c_limit/exhibit-e/556d89b2cfaf3421548b4568/651c2dbec8bfdaf8e2d6b59040800c42.jpeg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002083.jpg",
+   "source_label": "",
+   "image": "images/CRVI002083.jpg",
+   "original": "originals/CRVI002083.jpg",
+   "vector": "",
+   "original_px": [
+    2200,
+    1649
+   ],
+   "original_bytes": 2112347,
+   "maker": "Unidentified",
+   "title": "Light installation with suspended lamps",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    }
+   ],
+   "hue": 347.05,
+   "light": 0.297,
+   "chroma": 0.6792
+  },
+  {
+   "id": "CRVI002084",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.2326,
+   "source_url": "https://img.artlogic.net/w_6000,h_6000,c_limit/exhibit-e/556d89b2cfaf3421548b4568/e59486cd86c283642bcfa6f6b477b283.jpeg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002084.jpg",
+   "source_label": "",
+   "image": "images/CRVI002084.jpg",
+   "original": "originals/CRVI002084.jpg",
+   "vector": "",
+   "original_px": [
+    2200,
+    1467
+   ],
+   "original_bytes": 2339338,
+   "maker": "Unidentified",
+   "title": "Light installation, gallery view",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    },
+    {
+     "k": "color",
+     "v": "purple"
+    }
+   ],
+   "hue": 285.59,
+   "light": 0.3548,
+   "chroma": 0.9513
+  },
+  {
+   "id": "CRVI002085",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1263,
+   "source_url": "https://uploads8.wikiart.org/00126/images/volfgang-tilmans/tumblr-nvtla1gqan1qdsei8o1-1280.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002085.jpg",
+   "source_label": "",
+   "image": "images/CRVI002085.jpg",
+   "original": "originals/CRVI002085.jpg",
+   "vector": "",
+   "original_px": [
+    1000,
+    1338
+   ],
+   "original_bytes": 385733,
+   "maker": "Wolfgang Tillmans",
+   "title": "Portrait with guitar",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Wolfgang Tillmans"
+    },
+    {
+     "k": "photographer",
+     "v": "Wolfgang Tillmans"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 26.35,
+   "light": 0.6807,
+   "chroma": 0.3508
+  },
+  {
+   "id": "CRVI002086",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.5826,
+   "source_url": "https://www.artic.edu/iiif/2/00c608ce-91b0-e893-8ee1-3d6fc7d806c6/full/843,/0/default.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002086.jpg",
+   "source_label": "",
+   "image": "images/CRVI002086.jpg",
+   "original": "originals/CRVI002086.jpg",
+   "vector": "",
+   "original_px": [
+    843,
+    1329
+   ],
+   "original_bytes": 699039,
+   "maker": "Andreas Gursky",
+   "title": "Shanghai",
+   "subtitle": "",
+   "year": "2000",
+   "tags": [
+    {
+     "k": "decade",
+     "v": "2000s"
+    },
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Andreas Gursky"
+    },
+    {
+     "k": "photographer",
+     "v": "Andreas Gursky"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 44.36,
+   "light": 0.4873,
+   "chroma": 0.9904
+  },
+  {
+   "id": "CRVI002087",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.156,
+   "source_url": "https://www.designboom.com/wp-content/uploads/2013/07/andreas-gursky-national-art-center-designboom-09.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002087.jpg",
+   "source_label": "",
+   "image": "images/CRVI002087.jpg",
+   "original": "originals/CRVI002087.jpg",
+   "vector": "",
+   "original_px": [
+    818,
+    1203
+   ],
+   "original_bytes": 474377,
+   "maker": "Andreas Gursky",
+   "title": "Pyongyang",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Andreas Gursky"
+    },
+    {
+     "k": "photographer",
+     "v": "Andreas Gursky"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 356.66,
+   "light": 0.3313,
+   "chroma": 0.5749
+  },
+  {
+   "id": "CRVI002088",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.0965,
+   "source_url": "https://www.designboom.com/wp-content/uploads/2013/07/andreas-gursky-national-art-center-designboom-02.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002088.jpg",
+   "source_label": "",
+   "image": "images/CRVI002088.jpg",
+   "original": "originals/CRVI002088.jpg",
+   "vector": "",
+   "original_px": [
+    818,
+    1162
+   ],
+   "original_bytes": 256730,
+   "maker": "Andreas Gursky",
+   "title": "Bahrain I",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Andreas Gursky"
+    },
+    {
+     "k": "photographer",
+     "v": "Andreas Gursky"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 39.29,
+   "light": 0.635,
+   "chroma": 0.4509
+  },
+  {
+   "id": "CRVI002089",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.4342,
+   "source_url": "https://www.xibtmagazine.com/wp-content/uploads/2018/10/Andreas-Gursky-Times-Square-New-York-1997.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002089.jpg",
+   "source_label": "",
+   "image": "images/CRVI002089.jpg",
+   "original": "originals/CRVI002089.jpg",
+   "vector": "",
+   "original_px": [
+    1500,
+    1046
+   ],
+   "original_bytes": 1030101,
+   "maker": "Andreas Gursky",
+   "title": "Times Square, New York",
+   "subtitle": "",
+   "year": "1997",
+   "tags": [
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Andreas Gursky"
+    },
+    {
+     "k": "photographer",
+     "v": "Andreas Gursky"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 38.04,
+   "light": 0.4136,
+   "chroma": 0.9367
   }
  ]
 }

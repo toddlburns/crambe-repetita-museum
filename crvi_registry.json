@@ -1,5 +1,5 @@
 {
- "next": 2079,
+ "next": 2090,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -122477,6 +122477,595 @@
    "light": 0.4194,
    "chroma": 0.2444,
    "punch": 0.0979
+  },
+  "sent-2026-09-05::46d5908dd175": {
+   "id": "CRVI002079",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002079.jpg",
+   "original_px": [
+    1500,
+    1200
+   ],
+   "original_bytes": 416529,
+   "identity": "sent-2026-09-05::46d5908dd175",
+   "source_url": "https://moranmorangallery.com/wp-content/uploads/2023/06/LFRT-Game-Ampersand-2015-photo-Joshua-White-image-01.jpg",
+   "maker": "Lizzie Fitch and Ryan Trecartin",
+   "title": "Game Ampersand",
+   "subtitle": "",
+   "year": "2015",
+   "verified_against": "Moran Moran, whose file name gives it in full: LFRT — Lizzie Fitch / Ryan Trecartin — Game Ampersand, 2015, photo Joshua White. ⚠️ Filed under BOTH names: 'LFRT' is the collaboration, not Trecartin alone.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/0990.jpg",
+   "source_px": [
+    1500,
+    1200
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Lizzie Fitch"
+    },
+    {
+     "k": "artist",
+     "v": "Ryan Trecartin"
+    },
+    {
+     "k": "photographer",
+     "v": "Joshua White"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Moran Moran, whose file name gives it in full: LFRT — Lizzie Fitch / Ryan Trecartin — Game Ampersand, 2015, photo Joshua White. ⚠️ Filed under BOTH names: 'LFRT' is the collaboration, not Trecartin alone.",
+   "hue": 33.16,
+   "light": 0.6993,
+   "chroma": 0.1633,
+   "punch": 0.0536
+  },
+  "sent-2026-09-05::cbc3b97008ed": {
+   "id": "CRVI002080",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002080.jpg",
+   "original_px": [
+    2048,
+    1365
+   ],
+   "original_bytes": 525759,
+   "identity": "sent-2026-09-05::cbc3b97008ed",
+   "source_url": "https://www.afmuseet.no/content/uploads/sites/3/2023/03/Fitch_Trecartin_web_Christian_Oen-24-7.jpg",
+   "maker": "Lizzie Fitch and Ryan Trecartin",
+   "title": "Installation view",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Astrup Fearnley Museet, whose file name gives Fitch, Trecartin and the photographer Christian Øen. The individual work's title and date are NOT established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/0991.jpg",
+   "source_px": [
+    2048,
+    1365
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Lizzie Fitch"
+    },
+    {
+     "k": "artist",
+     "v": "Ryan Trecartin"
+    },
+    {
+     "k": "photographer",
+     "v": "Christian Øen"
+    },
+    {
+     "k": "subject",
+     "v": "exhibition"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Astrup Fearnley Museet, whose file name gives Fitch, Trecartin and the photographer Christian Øen. The individual work's title and date are NOT established here.",
+   "hue": 214.64,
+   "light": 0.5457,
+   "chroma": 0.6582,
+   "punch": 0.1957
+  },
+  "sent-2026-09-05::c1933e62cdb4": {
+   "id": "CRVI002081",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002081.jpg",
+   "original_px": [
+    2500,
+    1820
+   ],
+   "original_bytes": 396927,
+   "identity": "sent-2026-09-05::c1933e62cdb4",
+   "source_url": "https://media.hauserwirth.com/transform/6b7d1abc-f82d-4e63-afd4-519091a9c491/HENRO-inst-542-2025-005B",
+   "maker": "Camille Henrot",
+   "title": "Installation view",
+   "subtitle": "",
+   "year": "2025",
+   "verified_against": "Hauser & Wirth's media server, whose file name gives HENRO — Camille Henrot — and marks it an installation shot from 2025. The individual work's title is NOT established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/0992.jpg",
+   "source_px": [
+    2500,
+    1820
+   ],
+   "colors": [
+    "green",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Camille Henrot"
+    },
+    {
+     "k": "subject",
+     "v": "exhibition"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Hauser & Wirth's media server, whose file name gives HENRO — Camille Henrot — and marks it an installation shot from 2025. The individual work's title is NOT established here.",
+   "hue": 191.28,
+   "light": 0.5888,
+   "chroma": 0.3809,
+   "punch": 0.1548
+  },
+  "sent-2026-09-05::0b9734646528": {
+   "id": "CRVI002082",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002082.jpg",
+   "original_px": [
+    1263,
+    824
+   ],
+   "original_bytes": 207840,
+   "identity": "sent-2026-09-05::0b9734646528",
+   "source_url": "https://uploads1.wikiart.org/00333/images/hito-steyerl/liquidity-inc-2014.png",
+   "maker": "Hito Steyerl",
+   "title": "Liquidity Inc.",
+   "subtitle": "",
+   "year": "2014",
+   "verified_against": "WikiArt, under Hito Steyerl, dated 2014.",
+   "notes": [
+    "A still: a television weather graphic with a balaclava'd figure standing in for the forecaster."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/0993.jpg",
+   "source_px": [
+    1263,
+    824
+   ],
+   "colors": [
+    "cyan",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "video"
+    },
+    {
+     "k": "artist",
+     "v": "Hito Steyerl"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Hito Steyerl, dated 2014.",
+   "hue": 196.35,
+   "light": 0.4415,
+   "chroma": 0.7617,
+   "punch": 0.3251
+  },
+  "sent-2026-09-05::7b7ef07fcced": {
+   "id": "CRVI002083",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002083.jpg",
+   "original_px": [
+    2200,
+    1649
+   ],
+   "original_bytes": 2112347,
+   "identity": "sent-2026-09-05::7b7ef07fcced",
+   "source_url": "https://img.artlogic.net/w_6000,h_6000,c_limit/exhibit-e/556d89b2cfaf3421548b4568/651c2dbec8bfdaf8e2d6b59040800c42.jpeg",
+   "maker": "Unidentified",
+   "title": "Light installation with suspended lamps",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "A gallery asset served from Artlogic whose URL carries no artist name. Maker, title and date unestablished.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/0994.jpg",
+   "source_px": [
+    2200,
+    1649
+   ],
+   "colors": [
+    "blue",
+    "pink"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A gallery asset served from Artlogic whose URL carries no artist name. Maker, title and date unestablished.",
+   "hue": 347.05,
+   "light": 0.297,
+   "chroma": 0.6792,
+   "punch": 0.1716
+  },
+  "sent-2026-09-05::11e194725b1c": {
+   "id": "CRVI002084",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002084.jpg",
+   "original_px": [
+    2200,
+    1467
+   ],
+   "original_bytes": 2339338,
+   "identity": "sent-2026-09-05::11e194725b1c",
+   "source_url": "https://img.artlogic.net/w_6000,h_6000,c_limit/exhibit-e/556d89b2cfaf3421548b4568/e59486cd86c283642bcfa6f6b477b283.jpeg",
+   "maker": "Unidentified",
+   "title": "Light installation, gallery view",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "A gallery asset served from Artlogic whose URL carries no artist name. Maker, title and date unestablished.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/0995.jpg",
+   "source_px": [
+    2200,
+    1467
+   ],
+   "colors": [
+    "pink",
+    "purple"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A gallery asset served from Artlogic whose URL carries no artist name. Maker, title and date unestablished.",
+   "hue": 285.59,
+   "light": 0.3548,
+   "chroma": 0.9513,
+   "punch": 0.2326
+  },
+  "sent-2026-09-05::4498811e1a31": {
+   "id": "CRVI002085",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002085.jpg",
+   "original_px": [
+    1000,
+    1338
+   ],
+   "original_bytes": 385733,
+   "identity": "sent-2026-09-05::4498811e1a31",
+   "source_url": "https://uploads8.wikiart.org/00126/images/volfgang-tilmans/tumblr-nvtla1gqan1qdsei8o1-1280.jpg",
+   "maker": "Wolfgang Tillmans",
+   "title": "Portrait with guitar",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Wolfgang Tillmans (filed there as 'volfgang-tilmans', a transliteration of the Russian spelling). The individual work's title and date are NOT established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/0996.jpg",
+   "source_px": [
+    1000,
+    1338
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Wolfgang Tillmans"
+    },
+    {
+     "k": "photographer",
+     "v": "Wolfgang Tillmans"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Wolfgang Tillmans (filed there as 'volfgang-tilmans', a transliteration of the Russian spelling). The individual work's title and date are NOT established here.",
+   "hue": 26.35,
+   "light": 0.6807,
+   "chroma": 0.3508,
+   "punch": 0.1263
+  },
+  "sent-2026-09-05::9fd29bb21e54": {
+   "id": "CRVI002086",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002086.jpg",
+   "original_px": [
+    843,
+    1329
+   ],
+   "original_bytes": 699039,
+   "identity": "sent-2026-09-05::9fd29bb21e54",
+   "source_url": "https://www.artic.edu/iiif/2/00c608ce-91b0-e893-8ee1-3d6fc7d806c6/full/843,/0/default.jpg",
+   "maker": "Andreas Gursky",
+   "title": "Shanghai",
+   "subtitle": "",
+   "year": "2000",
+   "verified_against": "Art Institute of Chicago, artwork 157154 — the museum's API resolves this image id to Andreas Gursky, Shanghai, 2000.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/0997.jpg",
+   "source_px": [
+    843,
+    1329
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "decade",
+     "v": "2000s"
+    },
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Andreas Gursky"
+    },
+    {
+     "k": "photographer",
+     "v": "Andreas Gursky"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Institute of Chicago, artwork 157154 — the museum's API resolves this image id to Andreas Gursky, Shanghai, 2000.",
+   "hue": 44.36,
+   "light": 0.4873,
+   "chroma": 0.9904,
+   "punch": 0.5826
+  },
+  "sent-2026-09-05::eb2f7bc72e61": {
+   "id": "CRVI002087",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002087.jpg",
+   "original_px": [
+    818,
+    1203
+   ],
+   "original_bytes": 474377,
+   "identity": "sent-2026-09-05::eb2f7bc72e61",
+   "source_url": "https://www.designboom.com/wp-content/uploads/2013/07/andreas-gursky-national-art-center-designboom-09.jpg",
+   "maker": "Andreas Gursky",
+   "title": "Pyongyang",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Designboom, from its coverage of Gursky at the National Art Center, Tokyo. The mass games in Pyongyang. The individual work's title and date are NOT established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/0998.jpg",
+   "source_px": [
+    818,
+    1203
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Andreas Gursky"
+    },
+    {
+     "k": "photographer",
+     "v": "Andreas Gursky"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Designboom, from its coverage of Gursky at the National Art Center, Tokyo. The mass games in Pyongyang. The individual work's title and date are NOT established here.",
+   "hue": 356.66,
+   "light": 0.3313,
+   "chroma": 0.5749,
+   "punch": 0.156
+  },
+  "sent-2026-09-05::c03e4c565299": {
+   "id": "CRVI002088",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002088.jpg",
+   "original_px": [
+    818,
+    1162
+   ],
+   "original_bytes": 256730,
+   "identity": "sent-2026-09-05::c03e4c565299",
+   "source_url": "https://www.designboom.com/wp-content/uploads/2013/07/andreas-gursky-national-art-center-designboom-02.jpg",
+   "maker": "Andreas Gursky",
+   "title": "Bahrain I",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Designboom, from its coverage of Gursky at the National Art Center, Tokyo. The Bahrain Grand Prix circuit seen from the air. The individual work's title and date are NOT established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/0999.jpg",
+   "source_px": [
+    818,
+    1162
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Andreas Gursky"
+    },
+    {
+     "k": "photographer",
+     "v": "Andreas Gursky"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Designboom, from its coverage of Gursky at the National Art Center, Tokyo. The Bahrain Grand Prix circuit seen from the air. The individual work's title and date are NOT established here.",
+   "hue": 39.29,
+   "light": 0.635,
+   "chroma": 0.4509,
+   "punch": 0.0965
+  },
+  "sent-2026-09-05::e6c5ee17c95e": {
+   "id": "CRVI002089",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002089.jpg",
+   "original_px": [
+    1500,
+    1046
+   ],
+   "original_bytes": 1030101,
+   "identity": "sent-2026-09-05::e6c5ee17c95e",
+   "source_url": "https://www.xibtmagazine.com/wp-content/uploads/2018/10/Andreas-Gursky-Times-Square-New-York-1997.jpg",
+   "maker": "Andreas Gursky",
+   "title": "Times Square, New York",
+   "subtitle": "",
+   "year": "1997",
+   "verified_against": "XIBT Magazine, whose file name gives it in full: Andreas Gursky, Times Square, New York, 1997.",
+   "notes": [
+    "The atrium of the Marriott Marquis, not the street."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1000.jpg",
+   "source_px": [
+    1500,
+    1046
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Andreas Gursky"
+    },
+    {
+     "k": "photographer",
+     "v": "Andreas Gursky"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "XIBT Magazine, whose file name gives it in full: Andreas Gursky, Times Square, New York, 1997.",
+   "hue": 38.04,
+   "light": 0.4136,
+   "chroma": 0.9367,
+   "punch": 0.4342
   }
  }
 }
