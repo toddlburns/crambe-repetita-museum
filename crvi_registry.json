@@ -1,5 +1,5 @@
 {
- "next": 1819,
+ "next": 1863,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -107439,6 +107439,2285 @@
    "light": 0.4651,
    "chroma": 0.578,
    "punch": 0.1667
+  },
+  "sent-2026-09-05::255452c1cba7": {
+   "id": "CRVI001819",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001819.jpg",
+   "original_px": [
+    2048,
+    1536
+   ],
+   "original_bytes": 894674,
+   "identity": "sent-2026-09-05::255452c1cba7",
+   "source_url": "https://pbs.twimg.com/media/DG0B-lvUQAAzS5n.jpg:large",
+   "maker": "Unidentified",
+   "title": "Wave pattern in black and white",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "An image with no artist named anywhere in its URL or file name. Op Art in manner and arriving in a batch of it, but painter, title and date are all unestablished. Posted to Twitter, which carries no provenance at all.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/540.jpg",
+   "source_px": [
+    2048,
+    1536
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "subject",
+     "v": "Op Art"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "An image with no artist named anywhere in its URL or file name. Op Art in manner and arriving in a batch of it, but painter, title and date are all unestablished. Posted to Twitter, which carries no provenance at all.",
+   "hue": null,
+   "light": 0.5299,
+   "chroma": 0.0481,
+   "punch": 0.0707
+  },
+  "sent-2026-09-05::05f3c5c8db17": {
+   "id": "CRVI001820",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001820.jpg",
+   "original_px": [
+    1200,
+    1200
+   ],
+   "original_bytes": 70510,
+   "identity": "sent-2026-09-05::05f3c5c8db17",
+   "source_url": "https://cdn.thecollector.com/wp-content/uploads/2022/02/bridget-riley-movement-op-art.jpg?width=1400&quality=55",
+   "maker": "Bridget Riley",
+   "title": "Movement in Squares",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Published by The Collector under Bridget Riley's name; the file name gives both the artist and the work. The date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/541.jpg",
+   "source_px": [
+    1200,
+    1200
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Bridget Riley"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "subject",
+     "v": "Op Art"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published by The Collector under Bridget Riley's name; the file name gives both the artist and the work. The date is not established here.",
+   "hue": null,
+   "light": 0.5014,
+   "chroma": 0.0221,
+   "punch": 0.0143
+  },
+  "sent-2026-09-05::0c8fa8ca91b7": {
+   "id": "CRVI001821",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001821.jpg",
+   "original_px": [
+    1251,
+    1001
+   ],
+   "original_bytes": 82422,
+   "identity": "sent-2026-09-05::0c8fa8ca91b7",
+   "source_url": "https://cdn.sanity.io/images/dqllnil6/production/0755cdda52345364fd72db322540320f5a973ad6-1251x1001.jpg",
+   "maker": "Bridget Riley",
+   "title": "Chevron composition",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "A gallery image served from Sanity's CDN under Riley's name. The title and date are not established here.",
+   "notes": [
+    "⚠️ THE LINK ASKED FOR AN UPSCALE. It carried ?w=3840 and duly returned 3840 × 3073 — but Sanity's URLs carry the TRUE source size in the file name, and this one says 1251x1001. The 3840px file was interpolated from that. The museum holds the honest 1251 × 1001 instead. Never pass a ?w= larger than the number in a Sanity file name."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/542.jpg",
+   "source_px": [
+    1251,
+    1001
+   ],
+   "colors": [
+    "yellow",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Bridget Riley"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "subject",
+     "v": "Op Art"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A gallery image served from Sanity's CDN under Riley's name. The title and date are not established here.",
+   "hue": null,
+   "light": 0.7839,
+   "chroma": 0.0011,
+   "punch": 0.0067
+  },
+  "sent-2026-09-05::9f9aaede0396": {
+   "id": "CRVI001822",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001822.jpg",
+   "original_px": [
+    1728,
+    1920
+   ],
+   "original_bytes": 2575110,
+   "identity": "sent-2026-09-05::9f9aaede0396",
+   "source_url": "https://bridget-riley.publications.britishart.yale.edu/img/figures/RS01.png",
+   "maker": "Bridget Riley",
+   "title": "The Responsive Eye",
+   "subtitle": "",
+   "year": "1965",
+   "verified_against": "From the Bridget Riley catalogue raisonné published by the Yale Center for British Art. The sheet letters its own occasion — THE RESPONSIVE EYE — the Museum of Modern Art exhibition of 1965 that made Op Art public.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/543.jpg",
+   "source_px": [
+    1728,
+    1920
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "artist",
+     "v": "Bridget Riley"
+    },
+    {
+     "k": "designer",
+     "v": "Bridget Riley"
+    },
+    {
+     "k": "subject",
+     "v": "Op Art"
+    },
+    {
+     "k": "subject",
+     "v": "exhibition"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "From the Bridget Riley catalogue raisonné published by the Yale Center for British Art. The sheet letters its own occasion — THE RESPONSIVE EYE — the Museum of Modern Art exhibition of 1965 that made Op Art public.",
+   "hue": 44.81,
+   "light": 0.5284,
+   "chroma": 0.1742,
+   "punch": 0.1044
+  },
+  "sent-2026-09-05::d85de22ac0a8": {
+   "id": "CRVI001823",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001823.jpg",
+   "original_px": [
+    1536,
+    1106
+   ],
+   "original_bytes": 151097,
+   "identity": "sent-2026-09-05::d85de22ac0a8",
+   "source_url": "https://i.pinimg.com/originals/16/b7/68/16b76893edec5d4788087a348378e252.jpg",
+   "maker": "Unidentified",
+   "title": "Coloured rhomboid composition",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "An image with no artist named anywhere in its URL or file name. Op Art in manner and arriving in a batch of it, but painter, title and date are all unestablished. A Pinterest file with no provenance.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/544.jpg",
+   "source_px": [
+    1536,
+    1106
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "subject",
+     "v": "Op Art"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "An image with no artist named anywhere in its URL or file name. Op Art in manner and arriving in a batch of it, but painter, title and date are all unestablished. A Pinterest file with no provenance.",
+   "hue": 214.95,
+   "light": 0.4816,
+   "chroma": 0.9474,
+   "punch": 0.403
+  },
+  "sent-2026-09-05::554aff6bfb43": {
+   "id": "CRVI001824",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001824.jpg",
+   "original_px": [
+    843,
+    930
+   ],
+   "original_bytes": 209836,
+   "identity": "sent-2026-09-05::554aff6bfb43",
+   "source_url": "https://www.artic.edu/iiif/2/7a8d4264-5306-a4f9-49b0-1b995827cb9f/full/843,/0/default.jpg",
+   "maker": "Victor Vasarely",
+   "title": "Zèbres",
+   "subtitle": "",
+   "year": "1959",
+   "verified_against": "Art Institute of Chicago, artwork 59973 — the museum's API resolves this image id to Victor de Vasarely, Zebres, 1959.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/545.jpg",
+   "source_px": [
+    843,
+    930
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Victor Vasarely"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "subject",
+     "v": "Op Art"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Institute of Chicago, artwork 59973 — the museum's API resolves this image id to Victor de Vasarely, Zebres, 1959.",
+   "hue": 34.92,
+   "light": 0.482,
+   "chroma": 0.4724,
+   "punch": 0.1388
+  },
+  "sent-2026-09-05::5a0d3f9d4428": {
+   "id": "CRVI001825",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001825.jpg",
+   "original_px": [
+    1826,
+    2000
+   ],
+   "original_bytes": 746452,
+   "identity": "sent-2026-09-05::5a0d3f9d4428",
+   "source_url": "https://uploads0.wikiart.org/images/victor-vasarely/keiho-c1-1963.jpg",
+   "maker": "Victor Vasarely",
+   "title": "Keiho-C1",
+   "subtitle": "",
+   "year": "1963",
+   "verified_against": "WikiArt, under Victor Vasarely, dated 1963.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/546.jpg",
+   "source_px": [
+    1826,
+    2000
+   ],
+   "colors": [
+    "red",
+    "pink"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Victor Vasarely"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "subject",
+     "v": "Op Art"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Victor Vasarely, dated 1963.",
+   "hue": 5.68,
+   "light": 0.3828,
+   "chroma": 0.9583,
+   "punch": 0.4516
+  },
+  "sent-2026-09-05::c2fe2fb150c2": {
+   "id": "CRVI001826",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001826.jpg",
+   "original_px": [
+    2008,
+    2004
+   ],
+   "original_bytes": 507597,
+   "identity": "sent-2026-09-05::c2fe2fb150c2",
+   "source_url": "https://uploads7.wikiart.org/00219/images/victor-vasarely/victor-vasarely-pal-ket.Jpg",
+   "maker": "Victor Vasarely",
+   "title": "Pal-Ket",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Victor Vasarely; the date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/547.jpg",
+   "source_px": [
+    2008,
+    2004
+   ],
+   "colors": [
+    "blue",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Victor Vasarely"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "subject",
+     "v": "Op Art"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Victor Vasarely; the date is not established here.",
+   "hue": 223.98,
+   "light": 0.3813,
+   "chroma": 0.8539,
+   "punch": 0.2506
+  },
+  "sent-2026-09-05::3fb6a65a1f2d": {
+   "id": "CRVI001827",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001827.jpg",
+   "original_px": [
+    994,
+    1024
+   ],
+   "original_bytes": 240154,
+   "identity": "sent-2026-09-05::3fb6a65a1f2d",
+   "source_url": "https://www.parkwestgallery.com/wp-content/uploads/2020/12/l07812_sinlag-ii-blue-w-red_vasarely-jpg.jpg",
+   "maker": "Victor Vasarely",
+   "title": "Sinlag II (Blue with Red)",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Park West Gallery, whose file name gives Vasarely and the title Sinlag II, blue with red. The date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/548.jpg",
+   "source_px": [
+    994,
+    1024
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Victor Vasarely"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "subject",
+     "v": "Op Art"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Park West Gallery, whose file name gives Vasarely and the title Sinlag II, blue with red. The date is not established here.",
+   "hue": 3.29,
+   "light": 0.3839,
+   "chroma": 0.9905,
+   "punch": 0.375
+  },
+  "sent-2026-09-05::31548c400344": {
+   "id": "CRVI001828",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001828.jpg",
+   "original_px": [
+    1068,
+    1129
+   ],
+   "original_bytes": 169174,
+   "identity": "sent-2026-09-05::31548c400344",
+   "source_url": "https://cdn.thecollector.com/wp-content/uploads/2023/05/victor-vasarely-ot-geometric-painting-1945-1068x1129.jpg",
+   "maker": "Victor Vasarely",
+   "title": "Geometric composition",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Published by The Collector under Vasarely's name. ⚠️ Its file name says 1945, but the picture is a dotted volumetric cube of the kind Vasarely made from the 1960s on, decades after that date. The year is therefore NOT recorded here rather than repeated.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/549.jpg",
+   "source_px": [
+    1068,
+    1129
+   ],
+   "colors": [
+    "red",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Victor Vasarely"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "subject",
+     "v": "Op Art"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published by The Collector under Vasarely's name. ⚠️ Its file name says 1945, but the picture is a dotted volumetric cube of the kind Vasarely made from the 1960s on, decades after that date. The year is therefore NOT recorded here rather than repeated.",
+   "hue": 6.26,
+   "light": 0.2463,
+   "chroma": 0.4216,
+   "punch": 0.1308
+  },
+  "sent-2026-09-05::56dcf69ad252": {
+   "id": "CRVI001829",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001829.jpg",
+   "original_px": [
+    1006,
+    1006
+   ],
+   "original_bytes": 137884,
+   "identity": "sent-2026-09-05::56dcf69ad252",
+   "source_url": "https://cdn.thecollector.com/wp-content/uploads/2023/05/vega-anneaux-victor-vasarely-op-art.jpg",
+   "maker": "Victor Vasarely",
+   "title": "Vega-Anneaux",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Published by The Collector, whose file name gives Vasarely and the Vega series title Anneaux. The date is not established here.",
+   "notes": [
+    "Taken at the site's own size, 1006 × 1006, rather than the 800 × 800 the link's ?width=800 requested."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/550.jpg",
+   "source_px": [
+    1006,
+    1006
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Victor Vasarely"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "subject",
+     "v": "Op Art"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published by The Collector, whose file name gives Vasarely and the Vega series title Anneaux. The date is not established here.",
+   "hue": 23.44,
+   "light": 0.4726,
+   "chroma": 0.5308,
+   "punch": 0.1957
+  },
+  "sent-2026-09-05::d0451bd35f7a": {
+   "id": "CRVI001830",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001830.jpg",
+   "original_px": [
+    900,
+    903
+   ],
+   "original_bytes": 140747,
+   "identity": "sent-2026-09-05::d0451bd35f7a",
+   "source_url": "https://uploads2.wikiart.org/images/richard-anuszkiewicz/the-fourth-of-the-three-1963.jpg",
+   "maker": "Richard Anuszkiewicz",
+   "title": "The Fourth of the Three",
+   "subtitle": "",
+   "year": "1963",
+   "verified_against": "WikiArt, under Richard Anuszkiewicz, dated 1963.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/551.jpg",
+   "source_px": [
+    900,
+    903
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Richard Anuszkiewicz"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "subject",
+     "v": "Op Art"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Richard Anuszkiewicz, dated 1963.",
+   "hue": 18.33,
+   "light": 0.4883,
+   "chroma": 0.76,
+   "punch": 0.3654
+  },
+  "sent-2026-09-05::672c6e33628b": {
+   "id": "CRVI001831",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001831.jpg",
+   "original_px": [
+    900,
+    898
+   ],
+   "original_bytes": 134666,
+   "identity": "sent-2026-09-05::672c6e33628b",
+   "source_url": "https://uploads2.wikiart.org/images/richard-anuszkiewicz/grand-treasure-1968.jpg",
+   "maker": "Richard Anuszkiewicz",
+   "title": "Grand Treasure",
+   "subtitle": "",
+   "year": "1968",
+   "verified_against": "WikiArt, under Richard Anuszkiewicz, dated 1968.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/552.jpg",
+   "source_px": [
+    900,
+    898
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Richard Anuszkiewicz"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "subject",
+     "v": "Op Art"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Richard Anuszkiewicz, dated 1968.",
+   "hue": 34.93,
+   "light": 0.5524,
+   "chroma": 0.9144,
+   "punch": 0.4642
+  },
+  "sent-2026-09-05::9022ca560356": {
+   "id": "CRVI001832",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001832.jpg",
+   "original_px": [
+    843,
+    1067
+   ],
+   "original_bytes": 201657,
+   "identity": "sent-2026-09-05::9022ca560356",
+   "source_url": "https://www.artic.edu/iiif/2/a935c5f0-6e26-0b56-067b-0db0326a8baa/full/843,/0/default.jpg",
+   "maker": "Richard Anuszkiewicz",
+   "title": "Red, White and Blue, from 1776 USA 1976: Bicentennial Prints",
+   "subtitle": "",
+   "year": "1975",
+   "verified_against": "Art Institute of Chicago, artwork 94098 — the museum's API resolves this image id to Richard Anuszkiewicz, Red, White and Blue, from 1776 USA 1976: Bicentennial Prints, 1975.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/553.jpg",
+   "source_px": [
+    843,
+    1067
+   ],
+   "colors": [
+    "red",
+    "pink"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Richard Anuszkiewicz"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "subject",
+     "v": "Op Art"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Institute of Chicago, artwork 94098 — the museum's API resolves this image id to Richard Anuszkiewicz, Red, White and Blue, from 1776 USA 1976: Bicentennial Prints, 1975.",
+   "hue": 358.62,
+   "light": 0.5908,
+   "chroma": 0.7806,
+   "punch": 0.381
+  },
+  "sent-2026-09-05::0886c101f7de": {
+   "id": "CRVI001833",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001833.jpg",
+   "original_px": [
+    900,
+    920
+   ],
+   "original_bytes": 81410,
+   "identity": "sent-2026-09-05::0886c101f7de",
+   "source_url": "https://uploads7.wikiart.org/images/richard-anuszkiewicz/marriage-of-reds-and-oranges-1992.jpg",
+   "maker": "Richard Anuszkiewicz",
+   "title": "Marriage of Reds and Oranges",
+   "subtitle": "",
+   "year": "1992",
+   "verified_against": "WikiArt, under Richard Anuszkiewicz, dated 1992; signed ANUSZKIEWICZ 1992 at the lower right.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/554.jpg",
+   "source_px": [
+    900,
+    920
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Richard Anuszkiewicz"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "subject",
+     "v": "Op Art"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Richard Anuszkiewicz, dated 1992; signed ANUSZKIEWICZ 1992 at the lower right.",
+   "hue": 235.35,
+   "light": 0.3365,
+   "chroma": 0.9785,
+   "punch": 0.3884
+  },
+  "sent-2026-09-05::a25db3ed8b42": {
+   "id": "CRVI001834",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001834.jpg",
+   "original_px": [
+    900,
+    966
+   ],
+   "original_bytes": 60055,
+   "identity": "sent-2026-09-05::a25db3ed8b42",
+   "source_url": "https://uploads7.wikiart.org/images/richard-anuszkiewicz/spring-mix-2000.jpg",
+   "maker": "Richard Anuszkiewicz",
+   "title": "Spring Mix",
+   "subtitle": "",
+   "year": "2000",
+   "verified_against": "WikiArt, under Richard Anuszkiewicz, dated 2000. ⚠️ Note the object is a free-standing construction of overlapping red and yellow frames, not the flat painting the name might suggest; the attribution rests on WikiArt's filing alone.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/555.jpg",
+   "source_px": [
+    900,
+    966
+   ],
+   "colors": [
+    "blue",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Richard Anuszkiewicz"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    },
+    {
+     "k": "subject",
+     "v": "Op Art"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Richard Anuszkiewicz, dated 2000. ⚠️ Note the object is a free-standing construction of overlapping red and yellow frames, not the flat painting the name might suggest; the attribution rests on WikiArt's filing alone.",
+   "hue": 217.18,
+   "light": 0.8403,
+   "chroma": 0.4119,
+   "punch": 0.0882
+  },
+  "sent-2026-09-05::48b47c2b5032": {
+   "id": "CRVI001835",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001835.jpg",
+   "original_px": [
+    2688,
+    2688
+   ],
+   "original_bytes": 560108,
+   "identity": "sent-2026-09-05::48b47c2b5032",
+   "source_url": "https://a.1stdibscdn.com/archivesE/upload/366869/f_56379031499097255113/6R1A3430_master.jpg",
+   "maker": "Unidentified",
+   "title": "Striped composition",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "An image with no artist named anywhere in its URL or file name. Op Art in manner and arriving in a batch of it, but painter, title and date are all unestablished. A 1stdibs dealer listing whose URL carries no artist name.",
+   "notes": [
+    "Taken from the dealer's master file at 2688 × 2688 rather than the 960 × 960 the link's ?width=960 requested."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/556.jpg",
+   "source_px": [
+    2688,
+    2688
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "subject",
+     "v": "Op Art"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "An image with no artist named anywhere in its URL or file name. Op Art in manner and arriving in a batch of it, but painter, title and date are all unestablished. A 1stdibs dealer listing whose URL carries no artist name.",
+   "hue": 25.4,
+   "light": 0.5517,
+   "chroma": 0.7038,
+   "punch": 0.2389
+  },
+  "sent-2026-09-05::607aa8daab95": {
+   "id": "CRVI001836",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001836.jpg",
+   "original_px": [
+    4270,
+    4134
+   ],
+   "original_bytes": 2744140,
+   "identity": "sent-2026-09-05::607aa8daab95",
+   "source_url": "https://i.pinimg.com/originals/16/5c/8e/165c8e61e39311762ef09d15062ceb66.jpg",
+   "maker": "Unidentified",
+   "title": "Vertical stripe composition",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "An image with no artist named anywhere in its URL or file name. Op Art in manner and arriving in a batch of it, but painter, title and date are all unestablished. A Pinterest file with no provenance.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/557.jpg",
+   "source_px": [
+    4270,
+    4134
+   ],
+   "colors": [
+    "green",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "subject",
+     "v": "Op Art"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "An image with no artist named anywhere in its URL or file name. Op Art in manner and arriving in a batch of it, but painter, title and date are all unestablished. A Pinterest file with no provenance.",
+   "hue": 104.7,
+   "light": 0.4546,
+   "chroma": 0.9336,
+   "punch": 0.5562
+  },
+  "sent-2026-09-05::a01a69830e6a": {
+   "id": "CRVI001837",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001837.jpg",
+   "original_px": [
+    2000,
+    2000
+   ],
+   "original_bytes": 621201,
+   "identity": "sent-2026-09-05::a01a69830e6a",
+   "source_url": "https://files.ocula.com/anzax/a1/a16392af-f3c3-49e5-9050-bff3f77efc56_2000_2000.jpg",
+   "maker": "Unidentified",
+   "title": "Vertical stripe relief",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "An image with no artist named anywhere in its URL or file name. Op Art in manner and arriving in a batch of it, but painter, title and date are all unestablished. An Ocula gallery asset whose URL carries no artist name.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/558.jpg",
+   "source_px": [
+    2000,
+    2000
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "subject",
+     "v": "Op Art"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "An image with no artist named anywhere in its URL or file name. Op Art in manner and arriving in a batch of it, but painter, title and date are all unestablished. An Ocula gallery asset whose URL carries no artist name.",
+   "hue": 4.9,
+   "light": 0.4077,
+   "chroma": 0.7258,
+   "punch": 0.197
+  },
+  "sent-2026-09-05::dd67042d6789": {
+   "id": "CRVI001838",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001838.jpg",
+   "original_px": [
+    800,
+    800
+   ],
+   "original_bytes": 201921,
+   "identity": "sent-2026-09-05::dd67042d6789",
+   "source_url": "https://www.frenchartcollection.com/4227-thickbox_default/carlos-cruz-diez-serigraphie-originale-couleur-additive-1970.jpg",
+   "maker": "Carlos Cruz-Diez",
+   "title": "Couleur additive",
+   "subtitle": "",
+   "year": "1970",
+   "verified_against": "French Art Collection, whose file name gives Carlos Cruz-Diez, sérigraphie originale, Couleur Additive, 1970.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/559.jpg",
+   "source_px": [
+    800,
+    800
+   ],
+   "colors": [
+    "red",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Carlos Cruz-Diez"
+    },
+    {
+     "k": "medium",
+     "v": "serigraph"
+    },
+    {
+     "k": "location",
+     "v": "Venezuela"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "subject",
+     "v": "Op Art"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "French Art Collection, whose file name gives Carlos Cruz-Diez, sérigraphie originale, Couleur Additive, 1970.",
+   "hue": 12.65,
+   "light": 0.5189,
+   "chroma": 0.8288,
+   "punch": 0.3336
+  },
+  "sent-2026-09-05::b105e3141052": {
+   "id": "CRVI001839",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001839.jpg",
+   "display": "originals/CRVI001839.jpg",
+   "frames": 2,
+   "original_px": [
+    2278,
+    2269
+   ],
+   "original_bytes": 2439615,
+   "identity": "sent-2026-09-05::b105e3141052",
+   "source_url": "https://images.composition.gallery/59364/carlos-cruz-diez-chromointerference-la-difference-signed-card-mixed-media-available-for-sale-on-composition-gallery1705587210-28728.jpg",
+   "maker": "Carlos Cruz-Diez",
+   "title": "Chromointerférence",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Composition Gallery, whose file name gives Cruz-Diez and Chromointerference. The date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/560.jpg",
+   "source_px": [
+    2278,
+    2269
+   ],
+   "colors": [
+    "green",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Carlos Cruz-Diez"
+    },
+    {
+     "k": "location",
+     "v": "Venezuela"
+    },
+    {
+     "k": "subject",
+     "v": "Op Art"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Composition Gallery, whose file name gives Cruz-Diez and Chromointerference. The date is not established here.",
+   "hue": 181.74,
+   "light": 0.4917,
+   "chroma": 0.4853,
+   "punch": 0.1147
+  },
+  "sent-2026-09-05::646299f6a8c4": {
+   "id": "CRVI001840",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001840.jpg",
+   "original_px": [
+    1600,
+    1598
+   ],
+   "original_bytes": 345097,
+   "identity": "sent-2026-09-05::646299f6a8c4",
+   "source_url": "https://a.1stdibscdn.com/carlos-cruz-diez-prints-works-on-paper-miercoles-from-the-serie-semana-portfolio-op-art-lithograph-by-carlos-cruz-diez-for-sale/a_466/1761317228014/Cruz_Diez_Wednesday_master.jpg",
+   "maker": "Carlos Cruz-Diez",
+   "title": "Miércoles, from Serie Semana",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "1stdibs dealer listing, whose file name gives Carlos Cruz-Diez, Miércoles from the Serie Semana portfolio, lithograph. The date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/561.jpg",
+   "source_px": [
+    1600,
+    1598
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Carlos Cruz-Diez"
+    },
+    {
+     "k": "medium",
+     "v": "lithograph"
+    },
+    {
+     "k": "location",
+     "v": "Venezuela"
+    },
+    {
+     "k": "subject",
+     "v": "Op Art"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "1stdibs dealer listing, whose file name gives Carlos Cruz-Diez, Miércoles from the Serie Semana portfolio, lithograph. The date is not established here.",
+   "hue": 38.67,
+   "light": 0.5814,
+   "chroma": 0.6609,
+   "punch": 0.1575
+  },
+  "sent-2026-09-05::8b625fca4801": {
+   "id": "CRVI001841",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001841.jpg",
+   "original_px": [
+    2000,
+    1997
+   ],
+   "original_bytes": 1416437,
+   "identity": "sent-2026-09-05::8b625fca4801",
+   "source_url": "https://i.pinimg.com/originals/5d/7a/14/5d7a14f2e582565b008d6330afe1c431.jpg",
+   "maker": "Unidentified",
+   "title": "Concentric dotted composition",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "An image with no artist named anywhere in its URL or file name. Op Art in manner and arriving in a batch of it, but painter, title and date are all unestablished. A Pinterest file with no provenance.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/562.jpg",
+   "source_px": [
+    2000,
+    1997
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "subject",
+     "v": "Op Art"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "An image with no artist named anywhere in its URL or file name. Op Art in manner and arriving in a batch of it, but painter, title and date are all unestablished. A Pinterest file with no provenance.",
+   "hue": 25.48,
+   "light": 0.2062,
+   "chroma": 0.8327,
+   "punch": 0.1612
+  },
+  "sent-2026-09-05::297f2bec9a90": {
+   "id": "CRVI001842",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001842.jpg",
+   "original_px": [
+    1011,
+    1011
+   ],
+   "original_bytes": 33700,
+   "identity": "sent-2026-09-05::297f2bec9a90",
+   "source_url": "https://uploads7.wikiart.org/images/francois-morellet/bleu-vert-jaune-orange-1954.jpg",
+   "maker": "François Morellet",
+   "title": "Bleu, vert, jaune, orange",
+   "subtitle": "",
+   "year": "1954",
+   "verified_against": "WikiArt, under François Morellet, dated 1954.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/563.jpg",
+   "source_px": [
+    1011,
+    1011
+   ],
+   "colors": [
+    "green",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "François Morellet"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "subject",
+     "v": "Op Art"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under François Morellet, dated 1954.",
+   "hue": 94.62,
+   "light": 0.717,
+   "chroma": 0.2955,
+   "punch": 0.1725
+  },
+  "sent-2026-09-05::fdc578ac78d4": {
+   "id": "CRVI001843",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001843.jpg",
+   "original_px": [
+    1536,
+    1536
+   ],
+   "original_bytes": 157234,
+   "identity": "sent-2026-09-05::fdc578ac78d4",
+   "source_url": "https://uploads6.wikiart.org/images/francois-morellet/two-warps-and-wefts-of-short-lines-0-90-1956.jpg",
+   "maker": "François Morellet",
+   "title": "Two Warps and Wefts of Short Lines 0°–90°",
+   "subtitle": "",
+   "year": "1956",
+   "verified_against": "WikiArt, under François Morellet, dated 1956.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/564.jpg",
+   "source_px": [
+    1536,
+    1536
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "François Morellet"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "subject",
+     "v": "Op Art"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under François Morellet, dated 1956.",
+   "hue": 46.67,
+   "light": 0.9321,
+   "chroma": 0.4591,
+   "punch": 0.0787
+  },
+  "sent-2026-09-05::f7dd14f34f96": {
+   "id": "CRVI001844",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001844.jpg",
+   "original_px": [
+    843,
+    840
+   ],
+   "original_bytes": 527193,
+   "identity": "sent-2026-09-05::f7dd14f34f96",
+   "source_url": "https://www.artic.edu/iiif/2/82571dae-03d3-3c8e-20a1-7c4b5b688ba6/full/843,/0/default.jpg",
+   "maker": "François Morellet",
+   "title": "Trames",
+   "subtitle": "",
+   "year": "1965",
+   "verified_against": "Art Institute of Chicago, artwork 229638 — the museum's API resolves this image id to François Morellet, Trames, 1965.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/565.jpg",
+   "source_px": [
+    843,
+    840
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "François Morellet"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "subject",
+     "v": "Op Art"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Institute of Chicago, artwork 229638 — the museum's API resolves this image id to François Morellet, Trames, 1965.",
+   "hue": null,
+   "light": 0.7035,
+   "chroma": 0.0,
+   "punch": 0.0144
+  },
+  "sent-2026-09-05::857c7b78ed14": {
+   "id": "CRVI001845",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001845.jpg",
+   "original_px": [
+    1598,
+    1600
+   ],
+   "original_bytes": 694968,
+   "identity": "sent-2026-09-05::857c7b78ed14",
+   "source_url": "https://www.sangallofineart.it/wp-content/uploads/2020/04/s-l1600-32.jpg",
+   "maker": "Unidentified",
+   "title": "Red and white zigzag composition",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "An image with no artist named anywhere in its URL or file name. Op Art in manner and arriving in a batch of it, but painter, title and date are all unestablished. A dealer image (San Gallo Fine Art) whose file name is only an eBay-style listing number.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/566.jpg",
+   "source_px": [
+    1598,
+    1600
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "subject",
+     "v": "Op Art"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "An image with no artist named anywhere in its URL or file name. Op Art in manner and arriving in a batch of it, but painter, title and date are all unestablished. A dealer image (San Gallo Fine Art) whose file name is only an eBay-style listing number.",
+   "hue": 1.95,
+   "light": 0.6797,
+   "chroma": 0.9469,
+   "punch": 0.2963
+  },
+  "sent-2026-09-05::6862fbbeab20": {
+   "id": "CRVI001846",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001846.jpg",
+   "original_px": [
+    914,
+    1250
+   ],
+   "original_bytes": 552389,
+   "identity": "sent-2026-09-05::6862fbbeab20",
+   "source_url": "https://pictures.abebooks.com/inventory/10552901506.jpg",
+   "maker": "Unidentified",
+   "title": "Red lines on blue",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "An image with no artist named anywhere in its URL or file name. Op Art in manner and arriving in a batch of it, but painter, title and date are all unestablished. An AbeBooks inventory image whose file name is only a stock number.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/567.jpg",
+   "source_px": [
+    914,
+    1250
+   ],
+   "colors": [
+    "cyan",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "subject",
+     "v": "Op Art"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "An image with no artist named anywhere in its URL or file name. Op Art in manner and arriving in a batch of it, but painter, title and date are all unestablished. An AbeBooks inventory image whose file name is only a stock number.",
+   "hue": 195.64,
+   "light": 0.3613,
+   "chroma": 0.6902,
+   "punch": 0.2998
+  },
+  "sent-2026-09-05::a10b5c95c0e6": {
+   "id": "CRVI001847",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001847.jpg",
+   "original_px": [
+    1704,
+    1700
+   ],
+   "original_bytes": 534456,
+   "identity": "sent-2026-09-05::a10b5c95c0e6",
+   "source_url": "https://images.squarespace-cdn.com/content/v1/62dea41f16b40579895e9a3f/1659627848171-ENJ1OZIC6XIIMZQITCNS/Tadasky_G-101.jpg",
+   "maker": "Tadasky",
+   "title": "G-101",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "A gallery asset whose file name gives Tadasky and the work number G-101. The date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/568.jpg",
+   "source_px": [
+    1704,
+    1700
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Tadasky"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "subject",
+     "v": "Op Art"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A gallery asset whose file name gives Tadasky and the work number G-101. The date is not established here.",
+   "hue": 44.0,
+   "light": 0.7756,
+   "chroma": 0.7988,
+   "punch": 0.1603
+  },
+  "sent-2026-09-05::26ccfd5ddf0b": {
+   "id": "CRVI001848",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001848.jpg",
+   "original_px": [
+    1500,
+    1497
+   ],
+   "original_bytes": 635226,
+   "identity": "sent-2026-09-05::26ccfd5ddf0b",
+   "source_url": "https://cdn.desa.pl/filer_public_thumbnails/filer_public/03/fe/03fe21d1-3beb-4f62-a6ff-e0d025e73f0b/113037_004.jpg__1500x1497_subsampling-2.webp",
+   "maker": "Unidentified",
+   "title": "Concentric circle composition",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "An image with no artist named anywhere in its URL or file name. Op Art in manner and arriving in a batch of it, but painter, title and date are all unestablished. A Desa auction-house thumbnail whose file name is only a lot number.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/569.jpg",
+   "source_px": [
+    1500,
+    1497
+   ],
+   "colors": [
+    "red",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "subject",
+     "v": "Op Art"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "An image with no artist named anywhere in its URL or file name. Op Art in manner and arriving in a batch of it, but painter, title and date are all unestablished. A Desa auction-house thumbnail whose file name is only a lot number.",
+   "hue": 56.25,
+   "light": 0.5849,
+   "chroma": 0.6791,
+   "punch": 0.3894
+  },
+  "sent-2026-09-05::aa63d153c1cc": {
+   "id": "CRVI001849",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001849.jpg",
+   "original_px": [
+    2113,
+    2103
+   ],
+   "original_bytes": 1252512,
+   "identity": "sent-2026-09-05::aa63d153c1cc",
+   "source_url": "https://d32dm0rphc51dk.cloudfront.net/oLYiCEyjTXAp0QDz-Cw4jQ/main.jpg",
+   "maker": "Unidentified",
+   "title": "Concentric circle composition",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "An image with no artist named anywhere in its URL or file name. Op Art in manner and arriving in a batch of it, but painter, title and date are all unestablished. An Artsy CDN asset whose URL is an opaque identifier.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/570.jpg",
+   "source_px": [
+    2113,
+    2103
+   ],
+   "colors": [
+    "blue",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "subject",
+     "v": "Op Art"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "An image with no artist named anywhere in its URL or file name. Op Art in manner and arriving in a batch of it, but painter, title and date are all unestablished. An Artsy CDN asset whose URL is an opaque identifier.",
+   "hue": 204.72,
+   "light": 0.5275,
+   "chroma": 0.9408,
+   "punch": 0.4036
+  },
+  "sent-2026-09-05::97108e5e9278": {
+   "id": "CRVI001850",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001850.jpg",
+   "original_px": [
+    1444,
+    1435
+   ],
+   "original_bytes": 809186,
+   "identity": "sent-2026-09-05::97108e5e9278",
+   "source_url": "https://bloximages.newyork1.vip.townnews.com/santafenewmexican.com/content/tncms/assets/v3/editorial/4/c6/4c68961d-0115-5ee3-9990-03f3b86999be/5b7f403881f00.cover.jpg",
+   "maker": "Unidentified",
+   "title": "Concentric circles on black",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "An image with no artist named anywhere in its URL or file name. Op Art in manner and arriving in a batch of it, but painter, title and date are all unestablished. A newspaper asset (The Santa Fe New Mexican) whose file name is only an internal id.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/571.jpg",
+   "source_px": [
+    1444,
+    1435
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "subject",
+     "v": "Op Art"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "An image with no artist named anywhere in its URL or file name. Op Art in manner and arriving in a batch of it, but painter, title and date are all unestablished. A newspaper asset (The Santa Fe New Mexican) whose file name is only an internal id.",
+   "hue": 14.86,
+   "light": 0.349,
+   "chroma": 0.4088,
+   "punch": 0.1489
+  },
+  "sent-2026-09-05::6336b743e1e4": {
+   "id": "CRVI001851",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001851.jpg",
+   "original_px": [
+    1723,
+    1693
+   ],
+   "original_bytes": 1560845,
+   "identity": "sent-2026-09-05::6336b743e1e4",
+   "source_url": "https://images.squarespace-cdn.com/content/v1/62dea41f16b40579895e9a3f/1659627847396-M9WDN1PO1F525IFZBCWA/Tadasky_E-137A.jpg",
+   "maker": "Tadasky",
+   "title": "E-137A",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "A gallery asset whose file name gives Tadasky and the work number E-137A. The date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/572.jpg",
+   "source_px": [
+    1723,
+    1693
+   ],
+   "colors": [
+    "red",
+    "pink"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Tadasky"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "subject",
+     "v": "Op Art"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A gallery asset whose file name gives Tadasky and the work number E-137A. The date is not established here.",
+   "hue": 5.0,
+   "light": 0.3847,
+   "chroma": 0.8655,
+   "punch": 0.2403
+  },
+  "sent-2026-09-05::44a4385931d8": {
+   "id": "CRVI001852",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001852.jpg",
+   "original_px": [
+    2500,
+    2254
+   ],
+   "original_bytes": 3085821,
+   "identity": "sent-2026-09-05::44a4385931d8",
+   "source_url": "https://media.mutualart.com/Images/2021_03/07/17/174242925/248f04ac-b79b-4584-b335-fd64125a35c7.Jpeg",
+   "maker": "Unidentified",
+   "title": "AN ANTHOLOGY",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "A MutualArt lot image whose URL carries no artist name. The words AN ANTHOLOGY are stamped in red across the whole sheet, row after row. Maker, title and date all unestablished.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/580.jpg",
+   "source_px": [
+    2500,
+    2254
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "subject",
+     "v": "Fluxus"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A MutualArt lot image whose URL carries no artist name. The words AN ANTHOLOGY are stamped in red across the whole sheet, row after row. Maker, title and date all unestablished.",
+   "hue": 356.58,
+   "light": 0.4468,
+   "chroma": 0.9999,
+   "punch": 0.7815
+  },
+  "sent-2026-09-05::af5d9f6847a2": {
+   "id": "CRVI001853",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001853.jpg",
+   "original_px": [
+    1486,
+    1920
+   ],
+   "original_bytes": 511896,
+   "identity": "sent-2026-09-05::af5d9f6847a2",
+   "source_url": "https://media.mutualart.com/Images/2021_12/10/13/130100181/f2e8d3fc-f484-4408-9301-9d4eba39cbc9.Jpeg?w=768",
+   "maker": "Ben Vautier",
+   "title": "L'art est inutile / Pas d'art / À bas l'art",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "A MutualArt lot image. The sheet is signed twice within the work — Ben, and Serge III — so it may be a collaboration rather than Vautier alone; the attribution here rests on those signatures, and the title is taken from the lettering the sheet carries. The date is not established.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/581.jpg",
+   "source_px": [
+    1486,
+    1920
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Ben Vautier"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "subject",
+     "v": "Fluxus"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A MutualArt lot image. The sheet is signed twice within the work — Ben, and Serge III — so it may be a collaboration rather than Vautier alone; the attribution here rests on those signatures, and the title is taken from the lettering the sheet carries. The date is not established.",
+   "hue": 44.68,
+   "light": 0.7276,
+   "chroma": 0.9995,
+   "punch": 0.4236
+  },
+  "sent-2026-09-05::19d0826dd118": {
+   "id": "CRVI001854",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001854.jpg",
+   "original_px": [
+    1260,
+    1260
+   ],
+   "original_bytes": 233911,
+   "identity": "sent-2026-09-05::19d0826dd118",
+   "source_url": "https://www.meisterdrucke.us/kunstwerke/1260px/Davis_Lisboa_-_Robert_Filliou_35_2024_(oil_on_linen)_-_(MeisterDrucke-1631240).jpg",
+   "maker": "Davis Lisboa",
+   "title": "Robert Filliou 35",
+   "subtitle": "",
+   "year": "2024",
+   "verified_against": "⚠️ NOT a Fluxus work and not by Filliou. Meisterdrucke's file name gives it in full: Davis Lisboa, Robert Filliou 35, 2024, oil on linen — a CONTEMPORARY portrait OF Filliou, painted half a century after Fluxus.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/582.jpg",
+   "source_px": [
+    1260,
+    1260
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Davis Lisboa"
+    },
+    {
+     "k": "medium",
+     "v": "oil on linen"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ NOT a Fluxus work and not by Filliou. Meisterdrucke's file name gives it in full: Davis Lisboa, Robert Filliou 35, 2024, oil on linen — a CONTEMPORARY portrait OF Filliou, painted half a century after Fluxus.",
+   "hue": 23.87,
+   "light": 0.4707,
+   "chroma": 0.5589,
+   "punch": 0.2658
+  },
+  "sent-2026-09-05::345518f2c731": {
+   "id": "CRVI001855",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001855.jpg",
+   "original_px": [
+    1260,
+    1260
+   ],
+   "original_bytes": 231062,
+   "identity": "sent-2026-09-05::345518f2c731",
+   "source_url": "https://www.meisterdrucke.uk/kunstwerke/1260px/Davis_Lisboa_-_Robert_Filliou_32_2024_(oil_on_linen)_-_(MeisterDrucke-1632435).jpg",
+   "maker": "Davis Lisboa",
+   "title": "Robert Filliou 32",
+   "subtitle": "",
+   "year": "2024",
+   "verified_against": "⚠️ NOT a Fluxus work and not by Filliou. Meisterdrucke's file name gives it in full: Davis Lisboa, Robert Filliou 32, 2024, oil on linen — a CONTEMPORARY portrait OF Filliou.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/583.jpg",
+   "source_px": [
+    1260,
+    1260
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Davis Lisboa"
+    },
+    {
+     "k": "medium",
+     "v": "oil on linen"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ NOT a Fluxus work and not by Filliou. Meisterdrucke's file name gives it in full: Davis Lisboa, Robert Filliou 32, 2024, oil on linen — a CONTEMPORARY portrait OF Filliou.",
+   "hue": 6.92,
+   "light": 0.6052,
+   "chroma": 0.7684,
+   "punch": 0.2705
+  },
+  "sent-2026-09-05::4f271bef546d": {
+   "id": "CRVI001856",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001856.jpg",
+   "original_px": [
+    1406,
+    1074
+   ],
+   "original_bytes": 788074,
+   "identity": "sent-2026-09-05::4f271bef546d",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Maciunas.png",
+   "maker": "Unidentified",
+   "title": "Caricature of a man with a bottle",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Wikimedia Commons, filed as 'Maciunas'. Whether George Maciunas is the draughtsman or the SUBJECT of this caricature is not established, and the file record says nothing further. Left unattributed rather than guessed.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/584.jpg",
+   "source_px": [
+    1406,
+    1074
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "subject",
+     "v": "Fluxus"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons, filed as 'Maciunas'. Whether George Maciunas is the draughtsman or the SUBJECT of this caricature is not established, and the file record says nothing further. Left unattributed rather than guessed.",
+   "hue": 346.89,
+   "light": 0.8064,
+   "chroma": 0.6121,
+   "punch": 0.1317
+  },
+  "sent-2026-09-05::412999de7bd2": {
+   "id": "CRVI001857",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001857.jpg",
+   "original_px": [
+    1998,
+    2000
+   ],
+   "original_bytes": 815126,
+   "identity": "sent-2026-09-05::412999de7bd2",
+   "source_url": "https://www.moma.org/media/W1siZiIsIjMwNDk4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=2e9acb4b6404a002",
+   "maker": "Unidentified",
+   "title": "Lamplit embankment with crowds",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Held by the Museum of Modern Art, New York, whose media server this file comes from. The MoMA media id does not resolve to an artist without the object record, and none was reachable; maker, title and date unestablished.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/585.jpg",
+   "source_px": [
+    1998,
+    2000
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "subject",
+     "v": "Fluxus"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Held by the Museum of Modern Art, New York, whose media server this file comes from. The MoMA media id does not resolve to an artist without the object record, and none was reachable; maker, title and date unestablished.",
+   "hue": null,
+   "light": 0.5108,
+   "chroma": 0.0021,
+   "punch": 0.0158
+  },
+  "sent-2026-09-05::fa7111573083": {
+   "id": "CRVI001858",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001858.jpg",
+   "original_px": [
+    1725,
+    2480
+   ],
+   "original_bytes": 265352,
+   "identity": "sent-2026-09-05::fa7111573083",
+   "source_url": "https://dza2a2ql7zktf.cloudfront.net/binaries-cdn/dqzqcuqf9/image/upload/c_limit,h_6000,q_auto,f_auto/v1572363963/mfp-fe-artworks/dgg9zxweujyfnwgwstd6.jpg",
+   "maker": "Nam June Paik",
+   "title": "Robot with television screens",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "A gallery asset published under Nam June Paik's name. A standing robot built from television cabinets and radio sets on a brass boat-shaped base. The individual work's title and date are NOT established here.",
+   "notes": [
+    "Requested with Cloudinary's c_limit, which caps rather than upscales: 1725 × 2480 against the 1437 × 2066 the link asked for."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/586.jpg",
+   "source_px": [
+    1725,
+    2480
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Nam June Paik"
+    },
+    {
+     "k": "subject",
+     "v": "Fluxus"
+    },
+    {
+     "k": "subject",
+     "v": "television"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A gallery asset published under Nam June Paik's name. A standing robot built from television cabinets and radio sets on a brass boat-shaped base. The individual work's title and date are NOT established here.",
+   "hue": 33.84,
+   "light": 0.666,
+   "chroma": 0.2472,
+   "punch": 0.0599
+  },
+  "sent-2026-09-05::5638f987b6c5": {
+   "id": "CRVI001859",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001859.jpg",
+   "original_px": [
+    1000,
+    1243
+   ],
+   "original_bytes": 266076,
+   "identity": "sent-2026-09-05::5638f987b6c5",
+   "source_url": "https://i.pinimg.com/originals/1f/43/93/1f43930303652585a3b85524b3346c66.png",
+   "maker": "Nam June Paik",
+   "title": "Magnet TV",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "A Pinterest file with no provenance, but the object identifies itself: a 1960s television set with a large horseshoe magnet standing on the cabinet, the magnet's field bending the raster into the blue figure on the screen — Paik's Magnet TV. The date and holding collection are NOT established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/587.jpg",
+   "source_px": [
+    1000,
+    1243
+   ],
+   "colors": [
+    "cyan",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Nam June Paik"
+    },
+    {
+     "k": "subject",
+     "v": "Fluxus"
+    },
+    {
+     "k": "subject",
+     "v": "television"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A Pinterest file with no provenance, but the object identifies itself: a 1960s television set with a large horseshoe magnet standing on the cabinet, the magnet's field bending the raster into the blue figure on the screen — Paik's Magnet TV. The date and holding collection are NOT established here.",
+   "hue": 200.39,
+   "light": 0.6364,
+   "chroma": 0.2048,
+   "punch": 0.0801
+  },
+  "sent-2026-09-05::60340600f17d": {
+   "id": "CRVI001860",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001860.jpg",
+   "original_px": [
+    1129,
+    1440
+   ],
+   "original_bytes": 494634,
+   "identity": "sent-2026-09-05::60340600f17d",
+   "source_url": "https://www.moma.org/media/W1siZiIsIjMzNTk1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MTQ0MFx1MDAzZSJdXQ.jpg?sha=9790846997d1f8ce",
+   "maker": "Unidentified",
+   "title": "Score with painted blots",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Held by the Museum of Modern Art, New York, whose media server this file comes from: printed music staves overlaid with green and black blots. The MoMA media id does not resolve to an artist without the object record; maker, title and date unestablished.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/588.jpg",
+   "source_px": [
+    1129,
+    1440
+   ],
+   "colors": [
+    "yellow",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "subject",
+     "v": "Fluxus"
+    },
+    {
+     "k": "subject",
+     "v": "music"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Held by the Museum of Modern Art, New York, whose media server this file comes from: printed music staves overlaid with green and black blots. The MoMA media id does not resolve to an artist without the object record; maker, title and date unestablished.",
+   "hue": 51.77,
+   "light": 0.7051,
+   "chroma": 0.4266,
+   "punch": 0.0853
+  },
+  "sent-2026-09-05::47b38b646130": {
+   "id": "CRVI001861",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001861.jpg",
+   "original_px": [
+    1755,
+    2000
+   ],
+   "original_bytes": 590205,
+   "identity": "sent-2026-09-05::47b38b646130",
+   "source_url": "https://www.moma.org/media/W1siZiIsIjI2NTgwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=d0898d061d6ed58a",
+   "maker": "Unidentified",
+   "title": "Graphis 118",
+   "subtitle": "",
+   "year": "1962",
+   "verified_against": "Held by the Museum of Modern Art, New York, whose media server this file comes from. The sheet letters its own title and occasion: GRAPHIS 118, Copenhagen, November 1962. The draughtsman is NOT established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/589.jpg",
+   "source_px": [
+    1755,
+    2000
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "subject",
+     "v": "Fluxus"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Held by the Museum of Modern Art, New York, whose media server this file comes from. The sheet letters its own title and occasion: GRAPHIS 118, Copenhagen, November 1962. The draughtsman is NOT established here.",
+   "hue": 39.49,
+   "light": 0.894,
+   "chroma": 0.808,
+   "punch": 0.0632
+  },
+  "sent-2026-09-05::4cea1078a0de": {
+   "id": "CRVI001862",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001862.jpg",
+   "original_px": [
+    1696,
+    1572
+   ],
+   "original_bytes": 941799,
+   "identity": "sent-2026-09-05::4cea1078a0de",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/34/An_Anthology_of_Chance_Operations.jpg",
+   "maker": "George Maciunas",
+   "title": "An Anthology of Chance Operations",
+   "subtitle": "Cover",
+   "year": "",
+   "verified_against": "Wikimedia Commons, as An Anthology of Chance Operations — the La Monte Young and Jackson Mac Low anthology whose cover and typography Maciunas designed, and the publication generally taken as the seed of Fluxus. The date of this edition is not established here.",
+   "notes": [
+    "The cover sets its own contents as the design: stories, diagrams, poetry, essays, plans of action, music, dance constructions, mathematics, compositions."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/590.jpg",
+   "source_px": [
+    1696,
+    1572
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "designer",
+     "v": "George Maciunas"
+    },
+    {
+     "k": "subject",
+     "v": "Fluxus"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons, as An Anthology of Chance Operations — the La Monte Young and Jackson Mac Low anthology whose cover and typography Maciunas designed, and the publication generally taken as the seed of Fluxus. The date of this edition is not established here.",
+   "hue": 25.23,
+   "light": 0.4046,
+   "chroma": 0.8922,
+   "punch": 0.3049
   }
  }
 }
