@@ -1,5 +1,5 @@
 {
- "next": 1744,
+ "next": 1797,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -103313,6 +103313,2893 @@
    "light": 0.3436,
    "chroma": 0.7028,
    "punch": 0.2527
+  },
+  "sent-2026-09-05::f9cf0f7d5b80": {
+   "id": "CRVI001744",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001744.jpg",
+   "original_px": [
+    843,
+    843
+   ],
+   "original_bytes": 64652,
+   "identity": "sent-2026-09-05::f9cf0f7d5b80",
+   "source_url": "https://www.artic.edu/iiif/2/25f660ee-f1db-d13b-42a5-56df97c98ba7/full/843,/0/default.jpg",
+   "maker": "Piet Mondrian",
+   "title": "Lozenge Composition with Yellow, Black, Blue, Red, and Gray",
+   "subtitle": "",
+   "year": "1921",
+   "verified_against": "Art Institute of Chicago, artwork 109819 — the museum's API resolves this image id to Piet Mondrian, Lozenge Composition with Yellow, Black, Blue, Red, and Gray, 1921.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/410.jpg",
+   "source_px": [
+    843,
+    843
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Piet Mondrian"
+    },
+    {
+     "k": "subject",
+     "v": "De Stijl"
+    },
+    {
+     "k": "location",
+     "v": "Netherlands"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Institute of Chicago, artwork 109819 — the museum's API resolves this image id to Piet Mondrian, Lozenge Composition with Yellow, Black, Blue, Red, and Gray, 1921.",
+   "hue": null,
+   "light": 0.8176,
+   "chroma": 0.0778,
+   "punch": 0.0455
+  },
+  "sent-2026-09-05::1319ce23a371": {
+   "id": "CRVI001745",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001745.jpg",
+   "original_px": [
+    843,
+    843
+   ],
+   "original_bytes": 71309,
+   "identity": "sent-2026-09-05::1319ce23a371",
+   "source_url": "https://www.artic.edu/iiif/2/cc7d2ecc-f4ae-393e-7ab0-fe3716f49502/full/843,/0/default.jpg",
+   "maker": "Theo van Doesburg",
+   "title": "Counter-Composition VIII",
+   "subtitle": "",
+   "year": "1924",
+   "verified_against": "Art Institute of Chicago, artwork 64962 — the museum's API resolves this image id to Theo van Doesburg, Counter-Composition VIII, 1924.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/411.jpg",
+   "source_px": [
+    843,
+    843
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Theo van Doesburg"
+    },
+    {
+     "k": "subject",
+     "v": "De Stijl"
+    },
+    {
+     "k": "location",
+     "v": "Netherlands"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Institute of Chicago, artwork 64962 — the museum's API resolves this image id to Theo van Doesburg, Counter-Composition VIII, 1924.",
+   "hue": null,
+   "light": 0.7319,
+   "chroma": 0.0207,
+   "punch": 0.0069
+  },
+  "sent-2026-09-05::7e385b56088e": {
+   "id": "CRVI001746",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001746.jpg",
+   "original_px": [
+    3352,
+    3400
+   ],
+   "original_bytes": 2816565,
+   "identity": "sent-2026-09-05::7e385b56088e",
+   "source_url": "https://openaccess-cdn.clevelandart.org/1967.215/1967.215_print.jpg",
+   "maker": "Piet Mondrian",
+   "title": "Composition with Red, Yellow, and Blue",
+   "subtitle": "",
+   "year": "1927",
+   "verified_against": "Cleveland Museum of Art, accession 1967.215 — Piet Mondrian (Dutch, 1872–1944), Composition with Red, Yellow, and Blue, 1927.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/412.jpg",
+   "source_px": [
+    3352,
+    3400
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Piet Mondrian"
+    },
+    {
+     "k": "subject",
+     "v": "De Stijl"
+    },
+    {
+     "k": "location",
+     "v": "Netherlands"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Cleveland Museum of Art, accession 1967.215 — Piet Mondrian (Dutch, 1872–1944), Composition with Red, Yellow, and Blue, 1927.",
+   "hue": 5.01,
+   "light": 0.7433,
+   "chroma": 0.1622,
+   "punch": 0.0699
+  },
+  "sent-2026-09-05::32098ed0f90e": {
+   "id": "CRVI001747",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001747.jpg",
+   "original_px": [
+    1200,
+    891
+   ],
+   "original_bytes": 99011,
+   "identity": "sent-2026-09-05::32098ed0f90e",
+   "source_url": "https://artmiamimagazine.com/wp-content/uploads/2025/02/Bart-van-der-Leck-1200-80.jpg",
+   "maker": "Bart van der Leck",
+   "title": "Composition",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Published under Bart van der Leck's name by Art Miami Magazine; the file name is their own metadata. The individual work's title and date are NOT established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/413.jpg",
+   "source_px": [
+    1200,
+    891
+   ],
+   "colors": [
+    "blue",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Bart van der Leck"
+    },
+    {
+     "k": "subject",
+     "v": "De Stijl"
+    },
+    {
+     "k": "location",
+     "v": "Netherlands"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published under Bart van der Leck's name by Art Miami Magazine; the file name is their own metadata. The individual work's title and date are NOT established here.",
+   "hue": 52.58,
+   "light": 0.8176,
+   "chroma": 0.3984,
+   "punch": 0.1516
+  },
+  "sent-2026-09-05::7db9d088cc0e": {
+   "id": "CRVI001748",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001748.jpg",
+   "original_px": [
+    3200,
+    2645
+   ],
+   "original_bytes": 172176,
+   "identity": "sent-2026-09-05::7db9d088cc0e",
+   "source_url": "https://www.christies.com/img/LotImages/2013/NYR/2013_NYR_03443_0185_000(georges_vantongerloo_fonction_de_lignes115136).jpg?mode=max",
+   "maker": "Georges Vantongerloo",
+   "title": "Fonction de lignes",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Christie's own lot asset (sale 03443, lot 185, 2013); the file name is Christie's metadata naming Vantongerloo and Fonction de lignes. The date is not established here.",
+   "notes": [
+    "Requested at the CDN's own maximum rather than the 1680×1050 the link asked for: Christie's ?mode=max returns 3200 × 2645, two and a half times the linear resolution."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/414.jpg",
+   "source_px": [
+    3200,
+    2645
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Georges Vantongerloo"
+    },
+    {
+     "k": "subject",
+     "v": "De Stijl"
+    },
+    {
+     "k": "location",
+     "v": "Belgium"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Christie's own lot asset (sale 03443, lot 185, 2013); the file name is Christie's metadata naming Vantongerloo and Fonction de lignes. The date is not established here.",
+   "hue": 44.81,
+   "light": 0.6831,
+   "chroma": 0.8666,
+   "punch": 0.196
+  },
+  "sent-2026-09-05::3ede1ee3f6c6": {
+   "id": "CRVI001749",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001749.jpg",
+   "original_px": [
+    1080,
+    1620
+   ],
+   "original_bytes": 330515,
+   "identity": "sent-2026-09-05::3ede1ee3f6c6",
+   "source_url": "https://i.pinimg.com/originals/4c/b1/22/4cb12285b3a6ec042500cd2b65502582.jpg",
+   "maker": "Unidentified",
+   "title": "Axonometric of a modernist house",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "⚠️ NOT a period drawing, or at least nothing establishes it as one. A Pinterest file with no provenance: a clean axonometric of a De Stijl-ish house, rendered in a way that reads as contemporary digital work rather than a 1920s sheet. Maker, title and date are all unestablished.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/415.jpg",
+   "source_px": [
+    1080,
+    1620
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ NOT a period drawing, or at least nothing establishes it as one. A Pinterest file with no provenance: a clean axonometric of a De Stijl-ish house, rendered in a way that reads as contemporary digital work rather than a 1920s sheet. Maker, title and date are all unestablished.",
+   "hue": 37.31,
+   "light": 0.6319,
+   "chroma": 0.8874,
+   "punch": 0.2781
+  },
+  "sent-2026-09-05::47d8e71d06fe": {
+   "id": "CRVI001750",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001750.jpg",
+   "original_px": [
+    1200,
+    1800
+   ],
+   "original_bytes": 561495,
+   "identity": "sent-2026-09-05::47d8e71d06fe",
+   "source_url": "https://sanderpatelski.com/cdn/shop/products/f458c3fe05f345539b7c735767ce8885_2048x.jpg?v=1619850675",
+   "maker": "Unidentified",
+   "title": "Interior of the Kandinsky/Klee Master House, Dessau",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "⚠️ A CONTEMPORARY illustration, not a period document: a print sold by Sander Patelski, captioned within the sheet as the Kandinsky/Klee Master House, Walter Gropius, Dessau 1926, interior. Gropius designed the BUILDING; he did not make this picture, and its illustrator is not named.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/416.jpg",
+   "source_px": [
+    1200,
+    1800
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ A CONTEMPORARY illustration, not a period document: a print sold by Sander Patelski, captioned within the sheet as the Kandinsky/Klee Master House, Walter Gropius, Dessau 1926, interior. Gropius designed the BUILDING; he did not make this picture, and its illustrator is not named.",
+   "hue": 35.35,
+   "light": 0.634,
+   "chroma": 0.9085,
+   "punch": 0.2573
+  },
+  "sent-2026-09-05::a09056ac0c93": {
+   "id": "CRVI001751",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001751.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 201842,
+   "identity": "sent-2026-09-05::a09056ac0c93",
+   "source_url": "https://i.pinimg.com/originals/26/c4/13/26c41308fccd21f7fac909e096701c49.jpg",
+   "maker": "Unidentified",
+   "title": "Abstract composition after Kandinsky",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "A Pinterest file with no provenance, shown with a printed white border and frame. It is Kandinsky in manner and may well be a reproduction of one, but nothing here establishes which work, or that it is by him rather than after him.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/417.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A Pinterest file with no provenance, shown with a printed white border and frame. It is Kandinsky in manner and may well be a reproduction of one, but nothing here establishes which work, or that it is by him rather than after him.",
+   "hue": 43.3,
+   "light": 0.6235,
+   "chroma": 0.5375,
+   "punch": 0.3024
+  },
+  "sent-2026-09-05::bdc3a155aafc": {
+   "id": "CRVI001752",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001752.jpg",
+   "original_px": [
+    2696,
+    3642
+   ],
+   "original_bytes": 2942058,
+   "identity": "sent-2026-09-05::bdc3a155aafc",
+   "source_url": "https://thecharnelhouse.org/wp-content/uploads/2013/11/walter-gropius-bauhaus-master-houses-dessau-isometric-site-plan-1925-1926-ink-and-gouache-on-tracing-paper-38-x-90-7cm.jpeg",
+   "maker": "Walter Gropius",
+   "title": "Bauhaus Master Houses, Dessau: isometric site plan",
+   "subtitle": "",
+   "year": "1925–1926",
+   "verified_against": "Published by The Charnel-House, whose file name carries the full caption: Walter Gropius, Bauhaus master houses, Dessau, isometric site plan, 1925–1926, ink and gouache on tracing paper, 38 × 90.7 cm. The sheet is lettered MEISTER-DOPPELHÄUSER at the foot.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/418.jpg",
+   "source_px": [
+    2696,
+    3642
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "designer",
+     "v": "Walter Gropius"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    },
+    {
+     "k": "medium",
+     "v": "ink and gouache"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published by The Charnel-House, whose file name carries the full caption: Walter Gropius, Bauhaus master houses, Dessau, isometric site plan, 1925–1926, ink and gouache on tracing paper, 38 × 90.7 cm. The sheet is lettered MEISTER-DOPPELHÄUSER at the foot.",
+   "hue": 30.57,
+   "light": 0.5519,
+   "chroma": 0.5474,
+   "punch": 0.1411
+  },
+  "sent-2026-09-05::b5591d792126": {
+   "id": "CRVI001753",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001753.jpg",
+   "original_px": [
+    1024,
+    1024
+   ],
+   "original_bytes": 123974,
+   "identity": "sent-2026-09-05::b5591d792126",
+   "source_url": "https://www.888decor.com/wp-content/uploads/2023/11/Walter-Gropius-et-le-Bahaus.jpg",
+   "maker": "Unidentified",
+   "title": "The Bauhaus building, Dessau",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "⚠️ A CONTEMPORARY digital illustration of the Dessau Bauhaus, not a period image — flat vector shapes, invented staffage. Published by 888decor, whose file name calls it 'Walter Gropius et le Bahaus' (their spelling). Gropius is the building's architect, NOT the maker of this picture, whose illustrator is not named.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/419.jpg",
+   "source_px": [
+    1024,
+    1024
+   ],
+   "colors": [
+    "orange",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ A CONTEMPORARY digital illustration of the Dessau Bauhaus, not a period image — flat vector shapes, invented staffage. Published by 888decor, whose file name calls it 'Walter Gropius et le Bahaus' (their spelling). Gropius is the building's architect, NOT the maker of this picture, whose illustrator is not named.",
+   "hue": 45.95,
+   "light": 0.5259,
+   "chroma": 0.6479,
+   "punch": 0.2583
+  },
+  "sent-2026-09-05::9e60f6865056": {
+   "id": "CRVI001754",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001754.jpg",
+   "original_px": [
+    843,
+    1191
+   ],
+   "original_bytes": 444542,
+   "identity": "sent-2026-09-05::9e60f6865056",
+   "source_url": "https://www.artic.edu/iiif/2/96034cd3-c30b-d7bd-90f3-03d376bd9a71/full/843,/0/default.jpg",
+   "maker": "László Moholy-Nagy",
+   "title": "Berlin Radio Tower",
+   "subtitle": "",
+   "year": "1928",
+   "verified_against": "Art Institute of Chicago, artwork 55476 — the museum's API resolves this image id to László Moholy-Nagy, Berlin Radio Tower, 1928.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/420.jpg",
+   "source_px": [
+    843,
+    1191
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "László Moholy-Nagy"
+    },
+    {
+     "k": "photographer",
+     "v": "László Moholy-Nagy"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Institute of Chicago, artwork 55476 — the museum's API resolves this image id to László Moholy-Nagy, Berlin Radio Tower, 1928.",
+   "hue": null,
+   "light": 0.3688,
+   "chroma": 0.016,
+   "punch": 0.0682
+  },
+  "sent-2026-09-05::95a9e6c67718": {
+   "id": "CRVI001755",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001755.jpg",
+   "original_px": [
+    1024,
+    1474
+   ],
+   "original_bytes": 245527,
+   "identity": "sent-2026-09-05::95a9e6c67718",
+   "source_url": "https://uploads8.wikiart.org/images/laszlo-moholy-nagy/self-portrait-1919.jpg",
+   "maker": "László Moholy-Nagy",
+   "title": "Self-Portrait",
+   "subtitle": "",
+   "year": "1919",
+   "verified_against": "WikiArt, under László Moholy-Nagy, dated 1919.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/421.jpg",
+   "source_px": [
+    1024,
+    1474
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "László Moholy-Nagy"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under László Moholy-Nagy, dated 1919.",
+   "hue": 215.65,
+   "light": 0.5185,
+   "chroma": 0.6072,
+   "punch": 0.1932
+  },
+  "sent-2026-09-05::a6babfb0aa4b": {
+   "id": "CRVI001756",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001756.jpg",
+   "original_px": [
+    1000,
+    1394
+   ],
+   "original_bytes": 255172,
+   "identity": "sent-2026-09-05::a6babfb0aa4b",
+   "source_url": "https://uploads4.wikiart.org/images/laszlo-moholy-nagy/pneumatik-1924.jpg",
+   "maker": "László Moholy-Nagy",
+   "title": "Pneumatik",
+   "subtitle": "",
+   "year": "1924",
+   "verified_against": "WikiArt, under László Moholy-Nagy, dated 1924; lettered NEUMATIK across the sheet.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/422.jpg",
+   "source_px": [
+    1000,
+    1394
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "László Moholy-Nagy"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under László Moholy-Nagy, dated 1924; lettered NEUMATIK across the sheet.",
+   "hue": 43.38,
+   "light": 0.6979,
+   "chroma": 0.5988,
+   "punch": 0.1057
+  },
+  "sent-2026-09-05::403632477384": {
+   "id": "CRVI001757",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001757.jpg",
+   "original_px": [
+    1200,
+    1065
+   ],
+   "original_bytes": 176890,
+   "identity": "sent-2026-09-05::403632477384",
+   "source_url": "https://uploads2.wikiart.org/images/laszlo-moholy-nagy/composition-a-xi-1923.jpg",
+   "maker": "László Moholy-Nagy",
+   "title": "Composition A XI",
+   "subtitle": "",
+   "year": "1923",
+   "verified_against": "WikiArt, under László Moholy-Nagy, dated 1923.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/423.jpg",
+   "source_px": [
+    1200,
+    1065
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "László Moholy-Nagy"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under László Moholy-Nagy, dated 1923.",
+   "hue": null,
+   "light": 0.8232,
+   "chroma": 0.0357,
+   "punch": 0.0233
+  },
+  "sent-2026-09-05::b348819d2f7f": {
+   "id": "CRVI001758",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001758.jpg",
+   "original_px": [
+    1200,
+    1020
+   ],
+   "original_bytes": 191464,
+   "identity": "sent-2026-09-05::b348819d2f7f",
+   "source_url": "https://uploads0.wikiart.org/images/laszlo-moholy-nagy/k-vii-1922.jpg",
+   "maker": "László Moholy-Nagy",
+   "title": "K VII",
+   "subtitle": "",
+   "year": "1922",
+   "verified_against": "WikiArt, under László Moholy-Nagy, dated 1922.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/424.jpg",
+   "source_px": [
+    1200,
+    1020
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "László Moholy-Nagy"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under László Moholy-Nagy, dated 1922.",
+   "hue": 27.48,
+   "light": 0.7524,
+   "chroma": 0.4133,
+   "punch": 0.0621
+  },
+  "sent-2026-09-05::9c138e50c092": {
+   "id": "CRVI001759",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001759.jpg",
+   "original_px": [
+    870,
+    873
+   ],
+   "original_bytes": 109580,
+   "identity": "sent-2026-09-05::9c138e50c092",
+   "source_url": "https://uploads2.wikiart.org/00305/images/josef-albers/homage-to-the-square-apparition.jpg",
+   "maker": "Josef Albers",
+   "title": "Homage to the Square: Apparition",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Josef Albers; the date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/425.jpg",
+   "source_px": [
+    870,
+    873
+   ],
+   "colors": [
+    "green",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Josef Albers"
+    },
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Josef Albers; the date is not established here.",
+   "hue": 184.43,
+   "light": 0.4138,
+   "chroma": 0.8072,
+   "punch": 0.3129
+  },
+  "sent-2026-09-05::9cee045f28c6": {
+   "id": "CRVI001760",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001760.jpg",
+   "original_px": [
+    800,
+    800
+   ],
+   "original_bytes": 46349,
+   "identity": "sent-2026-09-05::9cee045f28c6",
+   "source_url": "https://uploads0.wikiart.org/00306/images/josef-albers/study-for-homage-to-the-square-beaming.jpg",
+   "maker": "Josef Albers",
+   "title": "Study for Homage to the Square: Beaming",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Josef Albers; the date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/426.jpg",
+   "source_px": [
+    800,
+    800
+   ],
+   "colors": [
+    "cyan",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Josef Albers"
+    },
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Josef Albers; the date is not established here.",
+   "hue": 198.07,
+   "light": 0.3143,
+   "chroma": 0.9748,
+   "punch": 0.4312
+  },
+  "sent-2026-09-05::246322d13fb7": {
+   "id": "CRVI001761",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001761.jpg",
+   "original_px": [
+    1536,
+    1519
+   ],
+   "original_bytes": 193259,
+   "identity": "sent-2026-09-05::246322d13fb7",
+   "source_url": "https://uploads3.wikiart.org/00305/images/josef-albers/study-for-homage-to-the-square-departing-in-yellow.jpg",
+   "maker": "Josef Albers",
+   "title": "Study for Homage to the Square: Departing in Yellow",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Josef Albers; the date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/427.jpg",
+   "source_px": [
+    1536,
+    1519
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Josef Albers"
+    },
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Josef Albers; the date is not established here.",
+   "hue": 40.46,
+   "light": 0.5211,
+   "chroma": 0.9833,
+   "punch": 0.6649
+  },
+  "sent-2026-09-05::30e9fda717a2": {
+   "id": "CRVI001762",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001762.jpg",
+   "original_px": [
+    2749,
+    1901
+   ],
+   "original_bytes": 917756,
+   "identity": "sent-2026-09-05::30e9fda717a2",
+   "source_url": "https://uploads4.wikiart.org/00305/images/josef-albers/2015-par-12358-0121-000-josef-albers-red-wall095718.jpg",
+   "maker": "Josef Albers",
+   "title": "Red Wall",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Josef Albers as Red Wall; the date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/428.jpg",
+   "source_px": [
+    2749,
+    1901
+   ],
+   "colors": [
+    "red",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Josef Albers"
+    },
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Josef Albers as Red Wall; the date is not established here.",
+   "hue": 352.19,
+   "light": 0.3116,
+   "chroma": 0.9348,
+   "punch": 0.2583
+  },
+  "sent-2026-09-05::d54f2ea5b456": {
+   "id": "CRVI001763",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001763.jpg",
+   "original_px": [
+    1919,
+    2320
+   ],
+   "original_bytes": 2981728,
+   "identity": "sent-2026-09-05::d54f2ea5b456",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Anni_Albers_%281899%E2%80%931994%29%2C_Design_for_a_Jacquard_Weaving%2C_1926.jpg",
+   "maker": "Anni Albers",
+   "title": "Design for a Jacquard Weaving",
+   "subtitle": "",
+   "year": "1926",
+   "verified_against": "Wikimedia Commons, as Anni Albers (1899–1994), Design for a Jacquard Weaving, 1926.",
+   "notes": [
+    "Typed on the mount at the foot: Anni Albers III.1926, design for jacquard weaving."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/429.jpg",
+   "source_px": [
+    1919,
+    2320
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "designer",
+     "v": "Anni Albers"
+    },
+    {
+     "k": "artist",
+     "v": "Anni Albers"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons, as Anni Albers (1899–1994), Design for a Jacquard Weaving, 1926.",
+   "hue": 34.45,
+   "light": 0.7,
+   "chroma": 0.826,
+   "punch": 0.1596
+  },
+  "sent-2026-09-05::9a436a648424": {
+   "id": "CRVI001764",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001764.jpg",
+   "original_px": [
+    1539,
+    2321
+   ],
+   "original_bytes": 2584903,
+   "identity": "sent-2026-09-05::9a436a648424",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Anni_Albers_%281899%E2%80%931994%29%2C_Design_for_a_Silk_Tapestry%2C_1926.jpg",
+   "maker": "Anni Albers",
+   "title": "Design for a Silk Tapestry",
+   "subtitle": "",
+   "year": "1926",
+   "verified_against": "Wikimedia Commons, as Anni Albers (1899–1994), Design for a Silk Tapestry, 1926.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/430.jpg",
+   "source_px": [
+    1539,
+    2321
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "designer",
+     "v": "Anni Albers"
+    },
+    {
+     "k": "artist",
+     "v": "Anni Albers"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons, as Anni Albers (1899–1994), Design for a Silk Tapestry, 1926.",
+   "hue": 35.56,
+   "light": 0.5709,
+   "chroma": 0.3499,
+   "punch": 0.0967
+  },
+  "sent-2026-09-05::f07d1e8f3bda": {
+   "id": "CRVI001765",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001765.jpg",
+   "original_px": [
+    1489,
+    1972
+   ],
+   "original_bytes": 2350572,
+   "identity": "sent-2026-09-05::f07d1e8f3bda",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Anni_Albers_%281899%E2%80%931994%29%2C_Design_for_Wall_Hanging%2C_1925.jpg",
+   "maker": "Anni Albers",
+   "title": "Design for Wall Hanging",
+   "subtitle": "",
+   "year": "1925",
+   "verified_against": "Wikimedia Commons, as Anni Albers (1899–1994), Design for Wall Hanging, 1925.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/431.jpg",
+   "source_px": [
+    1489,
+    1972
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "designer",
+     "v": "Anni Albers"
+    },
+    {
+     "k": "artist",
+     "v": "Anni Albers"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons, as Anni Albers (1899–1994), Design for Wall Hanging, 1925.",
+   "hue": 46.53,
+   "light": 0.6018,
+   "chroma": 0.7743,
+   "punch": 0.2983
+  },
+  "sent-2026-09-05::f34e459964dc": {
+   "id": "CRVI001766",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001766.jpg",
+   "original_px": [
+    1280,
+    1806
+   ],
+   "original_bytes": 592257,
+   "identity": "sent-2026-09-05::f34e459964dc",
+   "source_url": "https://www.metalocus.es/sites/default/files/metalocus_oskar-schlemer_13.jpg",
+   "maker": "Oskar Schlemmer",
+   "title": "Costume from the Triadic Ballet",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Published by Metalocus under Oskar Schlemmer's name. Schlemmer designed the COSTUME, for Das Triadische Ballett; this is a modern colour photograph of it — the disc skirt on a wire mannequin against yellow — and the photographer is not named. The date of neither costume nor photograph is established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/432.jpg",
+   "source_px": [
+    1280,
+    1806
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "designer",
+     "v": "Oskar Schlemmer"
+    },
+    {
+     "k": "artist",
+     "v": "Oskar Schlemmer"
+    },
+    {
+     "k": "subject",
+     "v": "performance"
+    },
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published by Metalocus under Oskar Schlemmer's name. Schlemmer designed the COSTUME, for Das Triadische Ballett; this is a modern colour photograph of it — the disc skirt on a wire mannequin against yellow — and the photographer is not named. The date of neither costume nor photograph is established here.",
+   "hue": 45.29,
+   "light": 0.5387,
+   "chroma": 0.9847,
+   "punch": 0.6348
+  },
+  "sent-2026-09-05::ff8aa14952b3": {
+   "id": "CRVI001767",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001767.jpg",
+   "original_px": [
+    960,
+    931
+   ],
+   "original_bytes": 477670,
+   "identity": "sent-2026-09-05::ff8aa14952b3",
+   "source_url": "https://uploads7.wikiart.org/images/johannes-itten/tower-of-fire-parametric-model.jpg",
+   "maker": "Unidentified",
+   "title": "Parametric model after Itten's Tower of Fire",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "⚠️ NOT by Johannes Itten. WikiArt files it under him, but the object is a CONTEMPORARY parametric 3-D model after Itten's Tower of Fire — its own file name says 'parametric model' — smooth-shaded lobes of a kind no 1920 sculpture or drawing takes. Itten is the source of the form; the maker of this image is not named.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/433.jpg",
+   "source_px": [
+    960,
+    931
+   ],
+   "colors": [
+    "blue",
+    "green",
+    "white"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ NOT by Johannes Itten. WikiArt files it under him, but the object is a CONTEMPORARY parametric 3-D model after Itten's Tower of Fire — its own file name says 'parametric model' — smooth-shaded lobes of a kind no 1920 sculpture or drawing takes. Itten is the source of the form; the maker of this image is not named.",
+   "hue": 223.45,
+   "light": 0.7238,
+   "chroma": 0.3909,
+   "punch": 0.0903
+  },
+  "sent-2026-09-05::40312a968620": {
+   "id": "CRVI001768",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001768.jpg",
+   "original_px": [
+    1600,
+    1300
+   ],
+   "original_bytes": 210144,
+   "identity": "sent-2026-09-05::40312a968620",
+   "source_url": "https://uploads8.wikiart.org/images/le-corbusier/still-life-1920.jpg",
+   "maker": "Le Corbusier",
+   "title": "Still Life",
+   "subtitle": "",
+   "year": "1920",
+   "verified_against": "WikiArt, under Le Corbusier, dated 1920 — and the canvas confirms it in his own hand: it is signed 'jeanneret' at the lower left, Charles-Édouard Jeanneret being his real name, which he used on the Purist paintings while reserving Le Corbusier for architecture.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/440.jpg",
+   "source_px": [
+    1600,
+    1300
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Le Corbusier"
+    },
+    {
+     "k": "subject",
+     "v": "Purism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Le Corbusier, dated 1920 — and the canvas confirms it in his own hand: it is signed 'jeanneret' at the lower left, Charles-Édouard Jeanneret being his real name, which he used on the Purist paintings while reserving Le Corbusier for architecture.",
+   "hue": 34.07,
+   "light": 0.3747,
+   "chroma": 0.3364,
+   "punch": 0.1187
+  },
+  "sent-2026-09-05::ecb64d238471": {
+   "id": "CRVI001769",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001769.jpg",
+   "original_px": [
+    843,
+    1072
+   ],
+   "original_bytes": 215427,
+   "identity": "sent-2026-09-05::ecb64d238471",
+   "source_url": "https://www.artic.edu/iiif/2/3b82d9b3-fc9a-1ee3-0f8c-ed351450338d/full/843,/0/default.jpg",
+   "maker": "Amédée Ozenfant",
+   "title": "Landscape (Bordeaux II)",
+   "subtitle": "",
+   "year": "1918",
+   "verified_against": "Art Institute of Chicago, artwork 68407 — the museum's API resolves this image id to Amédée Ozenfant, Landscape (Bordeaux II), 1918. Signed a. Ozenfant 1918 at the lower left.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/441.jpg",
+   "source_px": [
+    843,
+    1072
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Amédée Ozenfant"
+    },
+    {
+     "k": "subject",
+     "v": "Purism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Institute of Chicago, artwork 68407 — the museum's API resolves this image id to Amédée Ozenfant, Landscape (Bordeaux II), 1918. Signed a. Ozenfant 1918 at the lower left.",
+   "hue": 32.0,
+   "light": 0.5157,
+   "chroma": 0.2845,
+   "punch": 0.1447
+  },
+  "sent-2026-09-05::1a0bea42b0cf": {
+   "id": "CRVI001770",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001770.jpg",
+   "original_px": [
+    2500,
+    2848
+   ],
+   "original_bytes": 3044406,
+   "identity": "sent-2026-09-05::1a0bea42b0cf",
+   "source_url": "https://images.squarespace-cdn.com/content/v1/578024a4d482e940edbfd3ea/1474151965906-LAVKEZ4KHA4IND4JACCO/image-asset.jpeg",
+   "maker": "Alfredo Ramos Martínez",
+   "title": "Woman with flowers",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "The canvas is signed Ramos Martinez at the lower right, which is what establishes the painter. The title and date are NOT established here.",
+   "notes": [
+    "A woman holding a basket of calla lilies and roses against a faceted ochre ground.",
+    "Taken at the CDN's full size, 2500 × 2848, rather than the 1500w the link requested — Squarespace's ?format= is a resize parameter and the bare URL is the honest one."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/442.jpg",
+   "source_px": [
+    2500,
+    2848
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Alfredo Ramos Martínez"
+    },
+    {
+     "k": "subject",
+     "v": "Purism"
+    },
+    {
+     "k": "location",
+     "v": "Mexico"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The canvas is signed Ramos Martinez at the lower right, which is what establishes the painter. The title and date are NOT established here.",
+   "hue": 36.2,
+   "light": 0.4773,
+   "chroma": 0.9006,
+   "punch": 0.2858
+  },
+  "sent-2026-09-05::3360322858e0": {
+   "id": "CRVI001771",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001771.jpg",
+   "original_px": [
+    1000,
+    901
+   ],
+   "original_bytes": 187092,
+   "identity": "sent-2026-09-05::3360322858e0",
+   "source_url": "https://image.invaluable.com/housePhotos/shapiroauctions/74/801874/H3884-L419574883.jpg",
+   "maker": "Unidentified",
+   "title": "Figures with a boat",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "An auction-house image (Shapiro Auctions, via Invaluable) with no caption in the URL. Expressionist figures against a bay with a small boat, signed at the lower left in a hand not legible at this size. Painter, title and date all unestablished.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/443.jpg",
+   "source_px": [
+    1000,
+    901
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "An auction-house image (Shapiro Auctions, via Invaluable) with no caption in the URL. Expressionist figures against a bay with a small boat, signed at the lower left in a hand not legible at this size. Painter, title and date all unestablished.",
+   "hue": 34.31,
+   "light": 0.5456,
+   "chroma": 0.5862,
+   "punch": 0.151
+  },
+  "sent-2026-09-05::9f6caf645071": {
+   "id": "CRVI001772",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001772.jpg",
+   "original_px": [
+    1181,
+    1460
+   ],
+   "original_bytes": 406713,
+   "identity": "sent-2026-09-05::9f6caf645071",
+   "source_url": "https://uploads7.wikiart.org/images/georges-mathieu/le-seuil-monotone(1).jpg",
+   "maker": "Georges Mathieu",
+   "title": "Le Seuil monotone",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Georges Mathieu; the date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/444.jpg",
+   "source_px": [
+    1181,
+    1460
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Georges Mathieu"
+    },
+    {
+     "k": "subject",
+     "v": "Art Informel"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Georges Mathieu; the date is not established here.",
+   "hue": 355.44,
+   "light": 0.4431,
+   "chroma": 0.8277,
+   "punch": 0.3019
+  },
+  "sent-2026-09-05::333cd90c6e17": {
+   "id": "CRVI001773",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001773.jpg",
+   "original_px": [
+    1086,
+    1536
+   ],
+   "original_bytes": 204748,
+   "identity": "sent-2026-09-05::333cd90c6e17",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Musicians_1806.jpg",
+   "maker": "Nicolas de Staël",
+   "title": "Musicians",
+   "subtitle": "",
+   "year": "1953",
+   "verified_against": "Wikimedia Commons, whose file record gives Nicolas de Staël, 1953, and credits The Phillips Collection, Washington. Public domain.",
+   "notes": [
+    "Musicians — de Staël's souvenir of the Sidney Bechet concert."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/445.jpg",
+   "source_px": [
+    1086,
+    1536
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Nicolas de Staël"
+    },
+    {
+     "k": "subject",
+     "v": "Art Informel"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons, whose file record gives Nicolas de Staël, 1953, and credits The Phillips Collection, Washington. Public domain.",
+   "hue": 36.28,
+   "light": 0.4957,
+   "chroma": 0.7633,
+   "punch": 0.3913
+  },
+  "sent-2026-09-05::369e7e6f9912": {
+   "id": "CRVI001774",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001774.jpg",
+   "original_px": [
+    900,
+    1121
+   ],
+   "original_bytes": 306173,
+   "identity": "sent-2026-09-05::369e7e6f9912",
+   "source_url": "https://www.japantimes.co.jp/uploads/imported_images/uploads/2016/09/p7-outside-yoshihara-a-20160914.jpg",
+   "maker": "Unidentified",
+   "title": "Figure with rope coils and hose",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Published by The Japan Times in an article on Gutai; the file name refers to Yoshihara but does not attribute the painting, and the canvas is signed in Japanese in a hand not legible at this size. Painter, title and date all unestablished.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/460.jpg",
+   "source_px": [
+    900,
+    1121
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "subject",
+     "v": "Gutai"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published by The Japan Times in an article on Gutai; the file name refers to Yoshihara but does not attribute the painting, and the canvas is signed in Japanese in a hand not legible at this size. Painter, title and date all unestablished.",
+   "hue": 42.33,
+   "light": 0.589,
+   "chroma": 0.6659,
+   "punch": 0.1648
+  },
+  "sent-2026-09-05::52e72175078b": {
+   "id": "CRVI001775",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001775.jpg",
+   "original_px": [
+    2000,
+    1657
+   ],
+   "original_bytes": 860403,
+   "identity": "sent-2026-09-05::52e72175078b",
+   "source_url": "https://sothebys-brightspot-migration.s3.amazonaws.com/69/04/1d/94079eb7d2064ebd3ebbd3ea69f830b6546153dd433b98d3f25210d1b5/1025hk0628-8tjcw.jpg",
+   "maker": "Jirō Yoshihara",
+   "title": "Circle",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "A Sotheby's Hong Kong lot image. ⚠️ The asset path names NO artist — the attribution rests on the form: a single yellow circle laid on a red ground, which is the motif Yoshihara painted almost exclusively from 1962 until his death in 1972. Stated so the basis is visible; the title and date are not established.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/461.jpg",
+   "source_px": [
+    2000,
+    1657
+   ],
+   "colors": [
+    "red",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Jirō Yoshihara"
+    },
+    {
+     "k": "subject",
+     "v": "Gutai"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A Sotheby's Hong Kong lot image. ⚠️ The asset path names NO artist — the attribution rests on the form: a single yellow circle laid on a red ground, which is the motif Yoshihara painted almost exclusively from 1962 until his death in 1972. Stated so the basis is visible; the title and date are not established.",
+   "hue": 5.4,
+   "light": 0.4812,
+   "chroma": 1.0,
+   "punch": 0.6176
+  },
+  "sent-2026-09-05::11b181a96d65": {
+   "id": "CRVI001776",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001776.jpg",
+   "original_px": [
+    1000,
+    1000
+   ],
+   "original_bytes": 286174,
+   "identity": "sent-2026-09-05::11b181a96d65",
+   "source_url": "https://uploads7.wikiart.org/images/kazuo-shiraga/funsyutu-1997.jpg",
+   "maker": "Kazuo Shiraga",
+   "title": "Funsyutu",
+   "subtitle": "",
+   "year": "1997",
+   "verified_against": "WikiArt, under Kazuo Shiraga, dated 1997.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/462.jpg",
+   "source_px": [
+    1000,
+    1000
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Kazuo Shiraga"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "subject",
+     "v": "Gutai"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Kazuo Shiraga, dated 1997.",
+   "hue": 35.78,
+   "light": 0.4947,
+   "chroma": 0.2,
+   "punch": 0.0559
+  },
+  "sent-2026-09-05::7170e47848dd": {
+   "id": "CRVI001777",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001777.jpg",
+   "original_px": [
+    1400,
+    1044
+   ],
+   "original_bytes": 371723,
+   "identity": "sent-2026-09-05::7170e47848dd",
+   "source_url": "https://i.pinimg.com/originals/75/d3/9f/75d39fda3386eae2ca8f8281fda44f9c.jpg",
+   "maker": "Unidentified",
+   "title": "Red impasto composition",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "A Pinterest file with no provenance. Red and black impasto swept in the manner of Shiraga's foot paintings, signed in Japanese at the lower left, but nothing here establishes painter, title or date.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/463.jpg",
+   "source_px": [
+    1400,
+    1044
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "subject",
+     "v": "Gutai"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A Pinterest file with no provenance. Red and black impasto swept in the manner of Shiraga's foot paintings, signed in Japanese at the lower left, but nothing here establishes painter, title or date.",
+   "hue": 4.46,
+   "light": 0.4466,
+   "chroma": 0.9436,
+   "punch": 0.4943
+  },
+  "sent-2026-09-05::bb3ecd51e02f": {
+   "id": "CRVI001778",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001778.jpg",
+   "original_px": [
+    2563,
+    3372
+   ],
+   "original_bytes": 1507350,
+   "identity": "sent-2026-09-05::bb3ecd51e02f",
+   "source_url": "https://i.pinimg.com/originals/d4/9e/24/d49e24052e85acc478a284328c6b6cfb.jpg",
+   "maker": "Unidentified",
+   "title": "Black and yellow impasto composition",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "A Pinterest file with no provenance. Black and yellow impasto with a Japanese signature at the lower right; painter, title and date all unestablished.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/464.jpg",
+   "source_px": [
+    2563,
+    3372
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "subject",
+     "v": "Gutai"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A Pinterest file with no provenance. Black and yellow impasto with a Japanese signature at the lower right; painter, title and date all unestablished.",
+   "hue": 34.12,
+   "light": 0.3921,
+   "chroma": 0.4235,
+   "punch": 0.1172
+  },
+  "sent-2026-09-05::81af0bfa2b40": {
+   "id": "CRVI001779",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001779.jpg",
+   "original_px": [
+    960,
+    941
+   ],
+   "original_bytes": 111631,
+   "identity": "sent-2026-09-05::81af0bfa2b40",
+   "source_url": "https://www.recoursaupoeme.fr/wp-content/uploads/2021/08/saburo-murakami-traverse-les-ecrans-de-papier-lors-de-la-deuxieme-exposition-gutai-presentee-a-tokyo-en-1956.jpg",
+   "maker": "Unidentified",
+   "title": "Saburō Murakami passing through paper screens, 2nd Gutai Exhibition, Tokyo",
+   "subtitle": "",
+   "year": "1956",
+   "verified_against": "Published by Recours au Poème, whose file name gives the event in full: Saburō Murakami passing through the paper screens at the second Gutai exhibition, Tokyo, 1956. Murakami made the WORK; the photographer of this documentation is not named.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/465.jpg",
+   "source_px": [
+    960,
+    941
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Saburō Murakami"
+    },
+    {
+     "k": "subject",
+     "v": "Gutai"
+    },
+    {
+     "k": "subject",
+     "v": "performance"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published by Recours au Poème, whose file name gives the event in full: Saburō Murakami passing through the paper screens at the second Gutai exhibition, Tokyo, 1956. Murakami made the WORK; the photographer of this documentation is not named.",
+   "hue": null,
+   "light": 0.4039,
+   "chroma": 0.0,
+   "punch": 0.0142
+  },
+  "sent-2026-09-05::2831600a0051": {
+   "id": "CRVI001780",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001780.jpg",
+   "original_px": [
+    1000,
+    1283
+   ],
+   "original_bytes": 455682,
+   "identity": "sent-2026-09-05::2831600a0051",
+   "source_url": "https://uploads4.wikiart.org/images/atsuko-tanaka/electric-dress-1956.jpg",
+   "maker": "Atsuko Tanaka",
+   "title": "Electric Dress",
+   "subtitle": "",
+   "year": "1956",
+   "verified_against": "WikiArt, under Atsuko Tanaka, dated 1956.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/466.jpg",
+   "source_px": [
+    1000,
+    1283
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Atsuko Tanaka"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "subject",
+     "v": "Gutai"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Atsuko Tanaka, dated 1956.",
+   "hue": 13.85,
+   "light": 0.3466,
+   "chroma": 0.8858,
+   "punch": 0.3
+  },
+  "sent-2026-09-05::1cbc4a434b8c": {
+   "id": "CRVI001781",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001781.jpg",
+   "original_px": [
+    1045,
+    1200
+   ],
+   "original_bytes": 257680,
+   "identity": "sent-2026-09-05::1cbc4a434b8c",
+   "source_url": "https://www.shozoshimamoto.org/wp-content/uploads/2021/01/Mail-Art-is-a-supranational-peace-movement.jpg",
+   "maker": "Shōzō Shimamoto",
+   "title": "Mail Art is a supranational peace movement",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Published on shozoshimamoto.org, the artist's own site. The date is not established here.",
+   "notes": [
+    "Taken from the site's undecorated original at 1045 × 1200 rather than the 892 × 1024 WordPress derivative that was sent."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/467.jpg",
+   "source_px": [
+    1045,
+    1200
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Shōzō Shimamoto"
+    },
+    {
+     "k": "subject",
+     "v": "Gutai"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published on shozoshimamoto.org, the artist's own site. The date is not established here.",
+   "hue": null,
+   "light": 0.5837,
+   "chroma": 0.0,
+   "punch": 0.0
+  },
+  "sent-2026-09-05::edd91d60c670": {
+   "id": "CRVI001782",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001782.jpg",
+   "original_px": [
+    843,
+    1047
+   ],
+   "original_bytes": 333930,
+   "identity": "sent-2026-09-05::edd91d60c670",
+   "source_url": "https://www.artic.edu/iiif/2/fced132f-6c88-0a32-1308-9aca15c78698/full/843,/0/default.jpg",
+   "maker": "Shōzō Shimamoto",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "1957",
+   "verified_against": "Art Institute of Chicago, artwork 233335 — the museum's API resolves this image id to Shozo Shimamoto, Untitled, 1957.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/468.jpg",
+   "source_px": [
+    843,
+    1047
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Shōzō Shimamoto"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "subject",
+     "v": "Gutai"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Institute of Chicago, artwork 233335 — the museum's API resolves this image id to Shozo Shimamoto, Untitled, 1957.",
+   "hue": 356.75,
+   "light": 0.3785,
+   "chroma": 0.9922,
+   "punch": 0.4157
+  },
+  "sent-2026-09-05::7232f28f364d": {
+   "id": "CRVI001783",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001783.jpg",
+   "original_px": [
+    2834,
+    3200
+   ],
+   "original_bytes": 1710260,
+   "identity": "sent-2026-09-05::7232f28f364d",
+   "source_url": "https://www.christies.com/img/LotImages/2017/HGK/2017_HGK_13268_0464_000(shozo_shimamoto_untitled).jpg",
+   "maker": "Shōzō Shimamoto",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Christie's own lot asset (sale 13268, lot 464, Hong Kong 2017); the file name is Christie's metadata naming Shozo Shimamoto and Untitled. The date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/469.jpg",
+   "source_px": [
+    2834,
+    3200
+   ],
+   "colors": [
+    "yellow",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Shōzō Shimamoto"
+    },
+    {
+     "k": "subject",
+     "v": "Gutai"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Christie's own lot asset (sale 13268, lot 464, Hong Kong 2017); the file name is Christie's metadata naming Shozo Shimamoto and Untitled. The date is not established here.",
+   "hue": 46.34,
+   "light": 0.4213,
+   "chroma": 0.8478,
+   "punch": 0.2956
+  },
+  "sent-2026-09-05::3374a3c4556f": {
+   "id": "CRVI001784",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001784.jpg",
+   "original_px": [
+    2691,
+    2148
+   ],
+   "original_bytes": 1093506,
+   "identity": "sent-2026-09-05::3374a3c4556f",
+   "source_url": "https://www.whitestone-gallery.com/cdn/shop/files/sadamasa-motonaga-0103009597_6e7ea428-7b01-4311-8624-f9b46ddd2dfd.jpg?v=1729233498",
+   "maker": "Sadamasa Motonaga",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "1993",
+   "verified_against": "Whitestone Gallery, whose file name gives Sadamasa Motonaga; the canvas is signed S. motonaga '93 at the lower right, which is where the date comes from. The title is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/470.jpg",
+   "source_px": [
+    2691,
+    2148
+   ],
+   "colors": [
+    "orange",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Sadamasa Motonaga"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "subject",
+     "v": "Gutai"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Whitestone Gallery, whose file name gives Sadamasa Motonaga; the canvas is signed S. motonaga '93 at the lower right, which is where the date comes from. The title is not established here.",
+   "hue": 124.53,
+   "light": 0.2935,
+   "chroma": 0.869,
+   "punch": 0.3645
+  },
+  "sent-2026-09-05::09b109c84b34": {
+   "id": "CRVI001785",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001785.jpg",
+   "original_px": [
+    843,
+    1171
+   ],
+   "original_bytes": 162150,
+   "identity": "sent-2026-09-05::09b109c84b34",
+   "source_url": "https://www.artic.edu/iiif/2/cefb5c01-7634-6349-81a7-ebfac59ec774/full/843,/0/default.jpg",
+   "maker": "Akira Kanayama",
+   "title": "Work",
+   "subtitle": "",
+   "year": "1952",
+   "verified_against": "Art Institute of Chicago, artwork 196082 — the museum's API resolves this image id to Kanayama Akira, Work, 1952.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/471.jpg",
+   "source_px": [
+    843,
+    1171
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Akira Kanayama"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "subject",
+     "v": "Gutai"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Institute of Chicago, artwork 196082 — the museum's API resolves this image id to Kanayama Akira, Work, 1952.",
+   "hue": 27.66,
+   "light": 0.7701,
+   "chroma": 0.9194,
+   "punch": 0.225
+  },
+  "sent-2026-09-05::5d84a8b2c1c8": {
+   "id": "CRVI001786",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001786.jpg",
+   "original_px": [
+    3681,
+    3680
+   ],
+   "original_bytes": 359500,
+   "identity": "sent-2026-09-05::5d84a8b2c1c8",
+   "source_url": "https://www.nicolaskrupp.com/sites/default/files/YamazakiT13718.jpg",
+   "maker": "Tsuruko Yamazaki",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Nicolas Krupp Contemporary Art, whose file name gives Yamazaki. The title and date are not established here.",
+   "notes": [
+    "Poured dye bleeding across the sheet in green, yellow and blue."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/472.jpg",
+   "source_px": [
+    3681,
+    3680
+   ],
+   "colors": [
+    "green",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Tsuruko Yamazaki"
+    },
+    {
+     "k": "subject",
+     "v": "Gutai"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Nicolas Krupp Contemporary Art, whose file name gives Yamazaki. The title and date are not established here.",
+   "hue": 65.29,
+   "light": 0.5682,
+   "chroma": 0.7206,
+   "punch": 0.3573
+  },
+  "sent-2026-09-05::e2a2e32365c4": {
+   "id": "CRVI001787",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001787.jpg",
+   "original_px": [
+    1546,
+    2000
+   ],
+   "original_bytes": 3884958,
+   "identity": "sent-2026-09-05::e2a2e32365c4",
+   "source_url": "https://media.mutualart.com/Images/2015_09/16/10/105456137/2016629f-de4a-45f6-9d6e-37648b10c3b4.Jpeg",
+   "maker": "Unidentified",
+   "title": "Red chevron composition",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "A MutualArt lot image whose URL carries no artist name. A hard-edged red and cream chevron, signed at the lower right in a hand not legible at this size. Painter, title and date all unestablished.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/473.jpg",
+   "source_px": [
+    1546,
+    2000
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "subject",
+     "v": "Gutai"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A MutualArt lot image whose URL carries no artist name. A hard-edged red and cream chevron, signed at the lower right in a hand not legible at this size. Painter, title and date all unestablished.",
+   "hue": 7.24,
+   "light": 0.6223,
+   "chroma": 0.9675,
+   "punch": 0.258
+  },
+  "sent-2026-09-05::4a76904c2273": {
+   "id": "CRVI001788",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001788.jpg",
+   "original_px": [
+    1613,
+    1925
+   ],
+   "original_bytes": 2207063,
+   "identity": "sent-2026-09-05::4a76904c2273",
+   "source_url": "https://media.mutualart.com/Images/2017_10/26/13/132728313/9a1e5f45-4860-4342-9d8f-c03bd5450a77.Jpeg",
+   "maker": "Unidentified",
+   "title": "Sprayed composition",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "A MutualArt lot image whose URL carries no artist name. Pigment blown outward from a single point in black, yellow and red — the manner of Motonaga's air-blown works, but nothing here establishes painter, title or date.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/474.jpg",
+   "source_px": [
+    1613,
+    1925
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "subject",
+     "v": "Gutai"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A MutualArt lot image whose URL carries no artist name. Pigment blown outward from a single point in black, yellow and red — the manner of Motonaga's air-blown works, but nothing here establishes painter, title or date.",
+   "hue": 43.14,
+   "light": 0.6093,
+   "chroma": 0.3423,
+   "punch": 0.1378
+  },
+  "sent-2026-09-05::eed5af2ba82c": {
+   "id": "CRVI001789",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001789.jpg",
+   "original_px": [
+    2304,
+    2999
+   ],
+   "original_bytes": 2457925,
+   "identity": "sent-2026-09-05::eed5af2ba82c",
+   "source_url": "https://www.mcba.ch/wp-content/uploads/2019/07/1966-027_YASHIHARA_num4000_nr-2304x2999.jpg",
+   "maker": "Michio Yoshihara",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Musée cantonal des Beaux-Arts de Lausanne, accession 1966-027 — both the museum and the accession number are carried in the file's own name, along with the surname (spelled YASHIHARA there). Filed under Michio Yoshihara, the Gutai member, rather than his father Jirō: nothing in the file distinguishes them, so treat the given name as the weakest part of this record.",
+   "notes": [
+    "A cone built from thousands of fine coloured lines."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/475.jpg",
+   "source_px": [
+    2304,
+    2999
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Michio Yoshihara"
+    },
+    {
+     "k": "subject",
+     "v": "Gutai"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Musée cantonal des Beaux-Arts de Lausanne, accession 1966-027 — both the museum and the accession number are carried in the file's own name, along with the surname (spelled YASHIHARA there). Filed under Michio Yoshihara, the Gutai member, rather than his father Jirō: nothing in the file distinguishes them, so treat the given name as the weakest part of this record.",
+   "hue": 23.37,
+   "light": 0.7496,
+   "chroma": 0.1622,
+   "punch": 0.0653
+  },
+  "sent-2026-09-05::09f5bb08c8bc": {
+   "id": "CRVI001790",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001790.jpg",
+   "original_px": [
+    3529,
+    4825
+   ],
+   "original_bytes": 2187138,
+   "identity": "sent-2026-09-05::09f5bb08c8bc",
+   "source_url": "https://uploads0.wikiart.org/images/barnett-newman/dionysius-1949.jpg",
+   "maker": "Barnett Newman",
+   "title": "Dionysius",
+   "subtitle": "",
+   "year": "1949",
+   "verified_against": "WikiArt, under Barnett Newman, dated 1949.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/480.jpg",
+   "source_px": [
+    3529,
+    4825
+   ],
+   "colors": [
+    "green",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Barnett Newman"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    },
+    {
+     "k": "subject",
+     "v": "Color Field"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Barnett Newman, dated 1949.",
+   "hue": 162.86,
+   "light": 0.3179,
+   "chroma": 0.999,
+   "punch": 0.2532
+  },
+  "sent-2026-09-05::01d86385099a": {
+   "id": "CRVI001791",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001791.jpg",
+   "original_px": [
+    1280,
+    1152
+   ],
+   "original_bytes": 638730,
+   "identity": "sent-2026-09-05::01d86385099a",
+   "source_url": "https://uploads6.wikiart.org/images/morris-louis/unknown-title.jpg",
+   "maker": "Morris Louis",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Morris Louis, where the file itself is titled 'unknown title'. The individual work's title and date are NOT established here.",
+   "notes": [
+    "Two bundles of poured stripes running the height of the canvas."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/481.jpg",
+   "source_px": [
+    1280,
+    1152
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Morris Louis"
+    },
+    {
+     "k": "subject",
+     "v": "Color Field"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Morris Louis, where the file itself is titled 'unknown title'. The individual work's title and date are NOT established here.",
+   "hue": 37.41,
+   "light": 0.7492,
+   "chroma": 0.9585,
+   "punch": 0.2222
+  },
+  "sent-2026-09-05::b4c8c9ee2cc9": {
+   "id": "CRVI001792",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001792.jpg",
+   "original_px": [
+    912,
+    908
+   ],
+   "original_bytes": 65741,
+   "identity": "sent-2026-09-05::b4c8c9ee2cc9",
+   "source_url": "https://uploads7.wikiart.org/images/kenneth-noland/drought-1962.jpg",
+   "maker": "Kenneth Noland",
+   "title": "Drought",
+   "subtitle": "",
+   "year": "1962",
+   "verified_against": "WikiArt, under Kenneth Noland, dated 1962.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/482.jpg",
+   "source_px": [
+    912,
+    908
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Kenneth Noland"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "subject",
+     "v": "Color Field"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Kenneth Noland, dated 1962.",
+   "hue": 41.71,
+   "light": 0.6933,
+   "chroma": 0.7851,
+   "punch": 0.2859
+  },
+  "sent-2026-09-05::5c5111896931": {
+   "id": "CRVI001793",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001793.jpg",
+   "original_px": [
+    843,
+    1242
+   ],
+   "original_bytes": 173252,
+   "identity": "sent-2026-09-05::5c5111896931",
+   "source_url": "https://www.artic.edu/iiif/2/4046d671-e4ba-a5d4-ca3f-9e1aeed5b21d/full/843,/0/default.jpg",
+   "maker": "Jules Olitski",
+   "title": "Born in Snovsk",
+   "subtitle": "",
+   "year": "1962",
+   "verified_against": "Art Institute of Chicago, artwork 20430 — the museum's API resolves this image id to Jules Olitski, Born in Snovsk, 1962.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/483.jpg",
+   "source_px": [
+    843,
+    1242
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Jules Olitski"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "subject",
+     "v": "Color Field"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Institute of Chicago, artwork 20430 — the museum's API resolves this image id to Jules Olitski, Born in Snovsk, 1962.",
+   "hue": 14.9,
+   "light": 0.472,
+   "chroma": 0.9536,
+   "punch": 0.342
+  },
+  "sent-2026-09-05::2ddbaab866ea": {
+   "id": "CRVI001794",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001794.jpg",
+   "original_px": [
+    1146,
+    1200
+   ],
+   "original_bytes": 771993,
+   "identity": "sent-2026-09-05::2ddbaab866ea",
+   "source_url": "https://artandtheology.org/wp-content/uploads/2022/02/thomas-alma_wind-dancing-with-spring-flowers.jpg",
+   "maker": "Alma Thomas",
+   "title": "Wind Dancing with Spring Flowers",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Published by Art & Theology under Alma Thomas's name with this title in the file name. The date is not established here.",
+   "notes": [
+    "Taken at the site's full size, 1146 × 1200, rather than the 978 × 1024 the link's ?w= and ?h= parameters requested."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/484.jpg",
+   "source_px": [
+    1146,
+    1200
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Alma Thomas"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "subject",
+     "v": "Color Field"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published by Art & Theology under Alma Thomas's name with this title in the file name. The date is not established here.",
+   "hue": 34.6,
+   "light": 0.4699,
+   "chroma": 0.8395,
+   "punch": 0.3458
+  },
+  "sent-2026-09-05::424f0f96a73d": {
+   "id": "CRVI001795",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001795.jpg",
+   "original_px": [
+    2924,
+    3600
+   ],
+   "original_bytes": 2032777,
+   "identity": "sent-2026-09-05::424f0f96a73d",
+   "source_url": "https://d26jxt5097u8sr.cloudfront.net/s3fs-public/2024-02/The-Eclipse.jpg",
+   "maker": "Alma Thomas",
+   "title": "The Eclipse",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Published under the title The Eclipse in the file's own name, signed at the lower right. Alma Thomas's mosaic concentric rings. The date and holding collection are not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/485.jpg",
+   "source_px": [
+    2924,
+    3600
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Alma Thomas"
+    },
+    {
+     "k": "subject",
+     "v": "Color Field"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published under the title The Eclipse in the file's own name, signed at the lower right. Alma Thomas's mosaic concentric rings. The date and holding collection are not established here.",
+   "hue": 51.64,
+   "light": 0.4971,
+   "chroma": 0.9582,
+   "punch": 0.6393
+  },
+  "sent-2026-09-05::09db64e5993d": {
+   "id": "CRVI001796",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001796.jpg",
+   "original_px": [
+    843,
+    958
+   ],
+   "original_bytes": 423235,
+   "identity": "sent-2026-09-05::09db64e5993d",
+   "source_url": "https://www.artic.edu/iiif/2/e966799b-97ee-1cc6-bd2f-a94b4b8bb8f9/full/843,/0/default.jpg",
+   "maker": "Alma Thomas",
+   "title": "Starry Night and the Astronauts",
+   "subtitle": "",
+   "year": "1972",
+   "verified_against": "Art Institute of Chicago, artwork 129884 — the museum's API resolves this image id to Alma Thomas, Starry Night and the Astronauts, 1972.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/486.jpg",
+   "source_px": [
+    843,
+    958
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Alma Thomas"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "subject",
+     "v": "Color Field"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Institute of Chicago, artwork 129884 — the museum's API resolves this image id to Alma Thomas, Starry Night and the Astronauts, 1972.",
+   "hue": 207.82,
+   "light": 0.2661,
+   "chroma": 0.9945,
+   "punch": 0.381
   }
  }
 }

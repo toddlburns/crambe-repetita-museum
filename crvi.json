@@ -92232,6 +92232,2770 @@
    "hue": 6.19,
    "light": 0.3436,
    "chroma": 0.7028
+  },
+  {
+   "id": "CRVI001744",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.0455,
+   "source_url": "https://www.artic.edu/iiif/2/25f660ee-f1db-d13b-42a5-56df97c98ba7/full/843,/0/default.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001744.jpg",
+   "source_label": "",
+   "image": "images/CRVI001744.jpg",
+   "original": "originals/CRVI001744.jpg",
+   "vector": "",
+   "original_px": [
+    843,
+    843
+   ],
+   "original_bytes": 64652,
+   "maker": "Piet Mondrian",
+   "title": "Lozenge Composition with Yellow, Black, Blue, Red, and Gray",
+   "subtitle": "",
+   "year": "1921",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Piet Mondrian"
+    },
+    {
+     "k": "subject",
+     "v": "De Stijl"
+    },
+    {
+     "k": "location",
+     "v": "Netherlands"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "color",
+     "v": "neutral"
+    }
+   ],
+   "hue": null,
+   "light": 0.8176,
+   "chroma": 0.0778
+  },
+  {
+   "id": "CRVI001745",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.0069,
+   "source_url": "https://www.artic.edu/iiif/2/cc7d2ecc-f4ae-393e-7ab0-fe3716f49502/full/843,/0/default.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001745.jpg",
+   "source_label": "",
+   "image": "images/CRVI001745.jpg",
+   "original": "originals/CRVI001745.jpg",
+   "vector": "",
+   "original_px": [
+    843,
+    843
+   ],
+   "original_bytes": 71309,
+   "maker": "Theo van Doesburg",
+   "title": "Counter-Composition VIII",
+   "subtitle": "",
+   "year": "1924",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Theo van Doesburg"
+    },
+    {
+     "k": "subject",
+     "v": "De Stijl"
+    },
+    {
+     "k": "location",
+     "v": "Netherlands"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "color",
+     "v": "neutral"
+    }
+   ],
+   "hue": null,
+   "light": 0.7319,
+   "chroma": 0.0207
+  },
+  {
+   "id": "CRVI001746",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.0699,
+   "source_url": "https://openaccess-cdn.clevelandart.org/1967.215/1967.215_print.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001746.jpg",
+   "source_label": "",
+   "image": "images/CRVI001746.jpg",
+   "original": "originals/CRVI001746.jpg",
+   "vector": "",
+   "original_px": [
+    3352,
+    3400
+   ],
+   "original_bytes": 2816565,
+   "maker": "Piet Mondrian",
+   "title": "Composition with Red, Yellow, and Blue",
+   "subtitle": "",
+   "year": "1927",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Piet Mondrian"
+    },
+    {
+     "k": "subject",
+     "v": "De Stijl"
+    },
+    {
+     "k": "location",
+     "v": "Netherlands"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 5.01,
+   "light": 0.7433,
+   "chroma": 0.1622
+  },
+  {
+   "id": "CRVI001747",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1516,
+   "source_url": "https://artmiamimagazine.com/wp-content/uploads/2025/02/Bart-van-der-Leck-1200-80.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001747.jpg",
+   "source_label": "",
+   "image": "images/CRVI001747.jpg",
+   "original": "originals/CRVI001747.jpg",
+   "vector": "",
+   "original_px": [
+    1200,
+    891
+   ],
+   "original_bytes": 99011,
+   "maker": "Bart van der Leck",
+   "title": "Composition",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Bart van der Leck"
+    },
+    {
+     "k": "subject",
+     "v": "De Stijl"
+    },
+    {
+     "k": "location",
+     "v": "Netherlands"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 52.58,
+   "light": 0.8176,
+   "chroma": 0.3984
+  },
+  {
+   "id": "CRVI001748",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.196,
+   "source_url": "https://www.christies.com/img/LotImages/2013/NYR/2013_NYR_03443_0185_000(georges_vantongerloo_fonction_de_lignes115136).jpg?mode=max",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001748.jpg",
+   "source_label": "",
+   "image": "images/CRVI001748.jpg",
+   "original": "originals/CRVI001748.jpg",
+   "vector": "",
+   "original_px": [
+    3200,
+    2645
+   ],
+   "original_bytes": 172176,
+   "maker": "Georges Vantongerloo",
+   "title": "Fonction de lignes",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Georges Vantongerloo"
+    },
+    {
+     "k": "subject",
+     "v": "De Stijl"
+    },
+    {
+     "k": "location",
+     "v": "Belgium"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 44.81,
+   "light": 0.6831,
+   "chroma": 0.8666
+  },
+  {
+   "id": "CRVI001749",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.2781,
+   "source_url": "https://i.pinimg.com/originals/4c/b1/22/4cb12285b3a6ec042500cd2b65502582.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001749.jpg",
+   "source_label": "",
+   "image": "images/CRVI001749.jpg",
+   "original": "originals/CRVI001749.jpg",
+   "vector": "",
+   "original_px": [
+    1080,
+    1620
+   ],
+   "original_bytes": 330515,
+   "maker": "Unidentified",
+   "title": "Axonometric of a modernist house",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 37.31,
+   "light": 0.6319,
+   "chroma": 0.8874
+  },
+  {
+   "id": "CRVI001750",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.2573,
+   "source_url": "https://sanderpatelski.com/cdn/shop/products/f458c3fe05f345539b7c735767ce8885_2048x.jpg?v=1619850675",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001750.jpg",
+   "source_label": "",
+   "image": "images/CRVI001750.jpg",
+   "original": "originals/CRVI001750.jpg",
+   "vector": "",
+   "original_px": [
+    1200,
+    1800
+   ],
+   "original_bytes": 561495,
+   "maker": "Unidentified",
+   "title": "Interior of the Kandinsky/Klee Master House, Dessau",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 35.35,
+   "light": 0.634,
+   "chroma": 0.9085
+  },
+  {
+   "id": "CRVI001751",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.3024,
+   "source_url": "https://i.pinimg.com/originals/26/c4/13/26c41308fccd21f7fac909e096701c49.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001751.jpg",
+   "source_label": "",
+   "image": "images/CRVI001751.jpg",
+   "original": "originals/CRVI001751.jpg",
+   "vector": "",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 201842,
+   "maker": "Unidentified",
+   "title": "Abstract composition after Kandinsky",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 43.3,
+   "light": 0.6235,
+   "chroma": 0.5375
+  },
+  {
+   "id": "CRVI001752",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1411,
+   "source_url": "https://thecharnelhouse.org/wp-content/uploads/2013/11/walter-gropius-bauhaus-master-houses-dessau-isometric-site-plan-1925-1926-ink-and-gouache-on-tracing-paper-38-x-90-7cm.jpeg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001752.jpg",
+   "source_label": "",
+   "image": "images/CRVI001752.jpg",
+   "original": "originals/CRVI001752.jpg",
+   "vector": "",
+   "original_px": [
+    2696,
+    3642
+   ],
+   "original_bytes": 2942058,
+   "maker": "Walter Gropius",
+   "title": "Bauhaus Master Houses, Dessau: isometric site plan",
+   "subtitle": "",
+   "year": "1925–1926",
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "designer",
+     "v": "Walter Gropius"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    },
+    {
+     "k": "medium",
+     "v": "ink and gouache"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 30.57,
+   "light": 0.5519,
+   "chroma": 0.5474
+  },
+  {
+   "id": "CRVI001753",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.2583,
+   "source_url": "https://www.888decor.com/wp-content/uploads/2023/11/Walter-Gropius-et-le-Bahaus.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001753.jpg",
+   "source_label": "",
+   "image": "images/CRVI001753.jpg",
+   "original": "originals/CRVI001753.jpg",
+   "vector": "",
+   "original_px": [
+    1024,
+    1024
+   ],
+   "original_bytes": 123974,
+   "maker": "Unidentified",
+   "title": "The Bauhaus building, Dessau",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 45.95,
+   "light": 0.5259,
+   "chroma": 0.6479
+  },
+  {
+   "id": "CRVI001754",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.0682,
+   "source_url": "https://www.artic.edu/iiif/2/96034cd3-c30b-d7bd-90f3-03d376bd9a71/full/843,/0/default.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001754.jpg",
+   "source_label": "",
+   "image": "images/CRVI001754.jpg",
+   "original": "originals/CRVI001754.jpg",
+   "vector": "",
+   "original_px": [
+    843,
+    1191
+   ],
+   "original_bytes": 444542,
+   "maker": "László Moholy-Nagy",
+   "title": "Berlin Radio Tower",
+   "subtitle": "",
+   "year": "1928",
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "László Moholy-Nagy"
+    },
+    {
+     "k": "photographer",
+     "v": "László Moholy-Nagy"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": null,
+   "light": 0.3688,
+   "chroma": 0.016
+  },
+  {
+   "id": "CRVI001755",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1932,
+   "source_url": "https://uploads8.wikiart.org/images/laszlo-moholy-nagy/self-portrait-1919.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001755.jpg",
+   "source_label": "",
+   "image": "images/CRVI001755.jpg",
+   "original": "originals/CRVI001755.jpg",
+   "vector": "",
+   "original_px": [
+    1024,
+    1474
+   ],
+   "original_bytes": 245527,
+   "maker": "László Moholy-Nagy",
+   "title": "Self-Portrait",
+   "subtitle": "",
+   "year": "1919",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "László Moholy-Nagy"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 215.65,
+   "light": 0.5185,
+   "chroma": 0.6072
+  },
+  {
+   "id": "CRVI001756",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1057,
+   "source_url": "https://uploads4.wikiart.org/images/laszlo-moholy-nagy/pneumatik-1924.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001756.jpg",
+   "source_label": "",
+   "image": "images/CRVI001756.jpg",
+   "original": "originals/CRVI001756.jpg",
+   "vector": "",
+   "original_px": [
+    1000,
+    1394
+   ],
+   "original_bytes": 255172,
+   "maker": "László Moholy-Nagy",
+   "title": "Pneumatik",
+   "subtitle": "",
+   "year": "1924",
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "László Moholy-Nagy"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 43.38,
+   "light": 0.6979,
+   "chroma": 0.5988
+  },
+  {
+   "id": "CRVI001757",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.0233,
+   "source_url": "https://uploads2.wikiart.org/images/laszlo-moholy-nagy/composition-a-xi-1923.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001757.jpg",
+   "source_label": "",
+   "image": "images/CRVI001757.jpg",
+   "original": "originals/CRVI001757.jpg",
+   "vector": "",
+   "original_px": [
+    1200,
+    1065
+   ],
+   "original_bytes": 176890,
+   "maker": "László Moholy-Nagy",
+   "title": "Composition A XI",
+   "subtitle": "",
+   "year": "1923",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "László Moholy-Nagy"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": null,
+   "light": 0.8232,
+   "chroma": 0.0357
+  },
+  {
+   "id": "CRVI001758",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.0621,
+   "source_url": "https://uploads0.wikiart.org/images/laszlo-moholy-nagy/k-vii-1922.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001758.jpg",
+   "source_label": "",
+   "image": "images/CRVI001758.jpg",
+   "original": "originals/CRVI001758.jpg",
+   "vector": "",
+   "original_px": [
+    1200,
+    1020
+   ],
+   "original_bytes": 191464,
+   "maker": "László Moholy-Nagy",
+   "title": "K VII",
+   "subtitle": "",
+   "year": "1922",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "László Moholy-Nagy"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 27.48,
+   "light": 0.7524,
+   "chroma": 0.4133
+  },
+  {
+   "id": "CRVI001759",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.3129,
+   "source_url": "https://uploads2.wikiart.org/00305/images/josef-albers/homage-to-the-square-apparition.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001759.jpg",
+   "source_label": "",
+   "image": "images/CRVI001759.jpg",
+   "original": "originals/CRVI001759.jpg",
+   "vector": "",
+   "original_px": [
+    870,
+    873
+   ],
+   "original_bytes": 109580,
+   "maker": "Josef Albers",
+   "title": "Homage to the Square: Apparition",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Josef Albers"
+    },
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 184.43,
+   "light": 0.4138,
+   "chroma": 0.8072
+  },
+  {
+   "id": "CRVI001760",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.4312,
+   "source_url": "https://uploads0.wikiart.org/00306/images/josef-albers/study-for-homage-to-the-square-beaming.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001760.jpg",
+   "source_label": "",
+   "image": "images/CRVI001760.jpg",
+   "original": "originals/CRVI001760.jpg",
+   "vector": "",
+   "original_px": [
+    800,
+    800
+   ],
+   "original_bytes": 46349,
+   "maker": "Josef Albers",
+   "title": "Study for Homage to the Square: Beaming",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Josef Albers"
+    },
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 198.07,
+   "light": 0.3143,
+   "chroma": 0.9748
+  },
+  {
+   "id": "CRVI001761",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.6649,
+   "source_url": "https://uploads3.wikiart.org/00305/images/josef-albers/study-for-homage-to-the-square-departing-in-yellow.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001761.jpg",
+   "source_label": "",
+   "image": "images/CRVI001761.jpg",
+   "original": "originals/CRVI001761.jpg",
+   "vector": "",
+   "original_px": [
+    1536,
+    1519
+   ],
+   "original_bytes": 193259,
+   "maker": "Josef Albers",
+   "title": "Study for Homage to the Square: Departing in Yellow",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Josef Albers"
+    },
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 40.46,
+   "light": 0.5211,
+   "chroma": 0.9833
+  },
+  {
+   "id": "CRVI001762",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.2583,
+   "source_url": "https://uploads4.wikiart.org/00305/images/josef-albers/2015-par-12358-0121-000-josef-albers-red-wall095718.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001762.jpg",
+   "source_label": "",
+   "image": "images/CRVI001762.jpg",
+   "original": "originals/CRVI001762.jpg",
+   "vector": "",
+   "original_px": [
+    2749,
+    1901
+   ],
+   "original_bytes": 917756,
+   "maker": "Josef Albers",
+   "title": "Red Wall",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Josef Albers"
+    },
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 352.19,
+   "light": 0.3116,
+   "chroma": 0.9348
+  },
+  {
+   "id": "CRVI001763",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1596,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Anni_Albers_%281899%E2%80%931994%29%2C_Design_for_a_Jacquard_Weaving%2C_1926.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001763.jpg",
+   "source_label": "",
+   "image": "images/CRVI001763.jpg",
+   "original": "originals/CRVI001763.jpg",
+   "vector": "",
+   "original_px": [
+    1919,
+    2320
+   ],
+   "original_bytes": 2981728,
+   "maker": "Anni Albers",
+   "title": "Design for a Jacquard Weaving",
+   "subtitle": "",
+   "year": "1926",
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "designer",
+     "v": "Anni Albers"
+    },
+    {
+     "k": "artist",
+     "v": "Anni Albers"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 34.45,
+   "light": 0.7,
+   "chroma": 0.826
+  },
+  {
+   "id": "CRVI001764",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.0967,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Anni_Albers_%281899%E2%80%931994%29%2C_Design_for_a_Silk_Tapestry%2C_1926.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001764.jpg",
+   "source_label": "",
+   "image": "images/CRVI001764.jpg",
+   "original": "originals/CRVI001764.jpg",
+   "vector": "",
+   "original_px": [
+    1539,
+    2321
+   ],
+   "original_bytes": 2584903,
+   "maker": "Anni Albers",
+   "title": "Design for a Silk Tapestry",
+   "subtitle": "",
+   "year": "1926",
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "designer",
+     "v": "Anni Albers"
+    },
+    {
+     "k": "artist",
+     "v": "Anni Albers"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 35.56,
+   "light": 0.5709,
+   "chroma": 0.3499
+  },
+  {
+   "id": "CRVI001765",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.2983,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Anni_Albers_%281899%E2%80%931994%29%2C_Design_for_Wall_Hanging%2C_1925.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001765.jpg",
+   "source_label": "",
+   "image": "images/CRVI001765.jpg",
+   "original": "originals/CRVI001765.jpg",
+   "vector": "",
+   "original_px": [
+    1489,
+    1972
+   ],
+   "original_bytes": 2350572,
+   "maker": "Anni Albers",
+   "title": "Design for Wall Hanging",
+   "subtitle": "",
+   "year": "1925",
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "designer",
+     "v": "Anni Albers"
+    },
+    {
+     "k": "artist",
+     "v": "Anni Albers"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 46.53,
+   "light": 0.6018,
+   "chroma": 0.7743
+  },
+  {
+   "id": "CRVI001766",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.6348,
+   "source_url": "https://www.metalocus.es/sites/default/files/metalocus_oskar-schlemer_13.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001766.jpg",
+   "source_label": "",
+   "image": "images/CRVI001766.jpg",
+   "original": "originals/CRVI001766.jpg",
+   "vector": "",
+   "original_px": [
+    1280,
+    1806
+   ],
+   "original_bytes": 592257,
+   "maker": "Oskar Schlemmer",
+   "title": "Costume from the Triadic Ballet",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "designer",
+     "v": "Oskar Schlemmer"
+    },
+    {
+     "k": "artist",
+     "v": "Oskar Schlemmer"
+    },
+    {
+     "k": "subject",
+     "v": "performance"
+    },
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 45.29,
+   "light": 0.5387,
+   "chroma": 0.9847
+  },
+  {
+   "id": "CRVI001767",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.0903,
+   "source_url": "https://uploads7.wikiart.org/images/johannes-itten/tower-of-fire-parametric-model.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001767.jpg",
+   "source_label": "",
+   "image": "images/CRVI001767.jpg",
+   "original": "originals/CRVI001767.jpg",
+   "vector": "",
+   "original_px": [
+    960,
+    931
+   ],
+   "original_bytes": 477670,
+   "maker": "Unidentified",
+   "title": "Parametric model after Itten's Tower of Fire",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "white"
+    }
+   ],
+   "hue": 223.45,
+   "light": 0.7238,
+   "chroma": 0.3909
+  },
+  {
+   "id": "CRVI001768",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1187,
+   "source_url": "https://uploads8.wikiart.org/images/le-corbusier/still-life-1920.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001768.jpg",
+   "source_label": "",
+   "image": "images/CRVI001768.jpg",
+   "original": "originals/CRVI001768.jpg",
+   "vector": "",
+   "original_px": [
+    1600,
+    1300
+   ],
+   "original_bytes": 210144,
+   "maker": "Le Corbusier",
+   "title": "Still Life",
+   "subtitle": "",
+   "year": "1920",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Le Corbusier"
+    },
+    {
+     "k": "subject",
+     "v": "Purism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 34.07,
+   "light": 0.3747,
+   "chroma": 0.3364
+  },
+  {
+   "id": "CRVI001769",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1447,
+   "source_url": "https://www.artic.edu/iiif/2/3b82d9b3-fc9a-1ee3-0f8c-ed351450338d/full/843,/0/default.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001769.jpg",
+   "source_label": "",
+   "image": "images/CRVI001769.jpg",
+   "original": "originals/CRVI001769.jpg",
+   "vector": "",
+   "original_px": [
+    843,
+    1072
+   ],
+   "original_bytes": 215427,
+   "maker": "Amédée Ozenfant",
+   "title": "Landscape (Bordeaux II)",
+   "subtitle": "",
+   "year": "1918",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Amédée Ozenfant"
+    },
+    {
+     "k": "subject",
+     "v": "Purism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 32.0,
+   "light": 0.5157,
+   "chroma": 0.2845
+  },
+  {
+   "id": "CRVI001770",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.2858,
+   "source_url": "https://images.squarespace-cdn.com/content/v1/578024a4d482e940edbfd3ea/1474151965906-LAVKEZ4KHA4IND4JACCO/image-asset.jpeg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001770.jpg",
+   "source_label": "",
+   "image": "images/CRVI001770.jpg",
+   "original": "originals/CRVI001770.jpg",
+   "vector": "",
+   "original_px": [
+    2500,
+    2848
+   ],
+   "original_bytes": 3044406,
+   "maker": "Alfredo Ramos Martínez",
+   "title": "Woman with flowers",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Alfredo Ramos Martínez"
+    },
+    {
+     "k": "subject",
+     "v": "Purism"
+    },
+    {
+     "k": "location",
+     "v": "Mexico"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 36.2,
+   "light": 0.4773,
+   "chroma": 0.9006
+  },
+  {
+   "id": "CRVI001771",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.151,
+   "source_url": "https://image.invaluable.com/housePhotos/shapiroauctions/74/801874/H3884-L419574883.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001771.jpg",
+   "source_label": "",
+   "image": "images/CRVI001771.jpg",
+   "original": "originals/CRVI001771.jpg",
+   "vector": "",
+   "original_px": [
+    1000,
+    901
+   ],
+   "original_bytes": 187092,
+   "maker": "Unidentified",
+   "title": "Figures with a boat",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 34.31,
+   "light": 0.5456,
+   "chroma": 0.5862
+  },
+  {
+   "id": "CRVI001772",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.3019,
+   "source_url": "https://uploads7.wikiart.org/images/georges-mathieu/le-seuil-monotone(1).jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001772.jpg",
+   "source_label": "",
+   "image": "images/CRVI001772.jpg",
+   "original": "originals/CRVI001772.jpg",
+   "vector": "",
+   "original_px": [
+    1181,
+    1460
+   ],
+   "original_bytes": 406713,
+   "maker": "Georges Mathieu",
+   "title": "Le Seuil monotone",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Georges Mathieu"
+    },
+    {
+     "k": "subject",
+     "v": "Art Informel"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 355.44,
+   "light": 0.4431,
+   "chroma": 0.8277
+  },
+  {
+   "id": "CRVI001773",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.3913,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Musicians_1806.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001773.jpg",
+   "source_label": "",
+   "image": "images/CRVI001773.jpg",
+   "original": "originals/CRVI001773.jpg",
+   "vector": "",
+   "original_px": [
+    1086,
+    1536
+   ],
+   "original_bytes": 204748,
+   "maker": "Nicolas de Staël",
+   "title": "Musicians",
+   "subtitle": "",
+   "year": "1953",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Nicolas de Staël"
+    },
+    {
+     "k": "subject",
+     "v": "Art Informel"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 36.28,
+   "light": 0.4957,
+   "chroma": 0.7633
+  },
+  {
+   "id": "CRVI001774",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1648,
+   "source_url": "https://www.japantimes.co.jp/uploads/imported_images/uploads/2016/09/p7-outside-yoshihara-a-20160914.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001774.jpg",
+   "source_label": "",
+   "image": "images/CRVI001774.jpg",
+   "original": "originals/CRVI001774.jpg",
+   "vector": "",
+   "original_px": [
+    900,
+    1121
+   ],
+   "original_bytes": 306173,
+   "maker": "Unidentified",
+   "title": "Figure with rope coils and hose",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "subject",
+     "v": "Gutai"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 42.33,
+   "light": 0.589,
+   "chroma": 0.6659
+  },
+  {
+   "id": "CRVI001775",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.6176,
+   "source_url": "https://sothebys-brightspot-migration.s3.amazonaws.com/69/04/1d/94079eb7d2064ebd3ebbd3ea69f830b6546153dd433b98d3f25210d1b5/1025hk0628-8tjcw.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001775.jpg",
+   "source_label": "",
+   "image": "images/CRVI001775.jpg",
+   "original": "originals/CRVI001775.jpg",
+   "vector": "",
+   "original_px": [
+    2000,
+    1657
+   ],
+   "original_bytes": 860403,
+   "maker": "Jirō Yoshihara",
+   "title": "Circle",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Jirō Yoshihara"
+    },
+    {
+     "k": "subject",
+     "v": "Gutai"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 5.4,
+   "light": 0.4812,
+   "chroma": 1.0
+  },
+  {
+   "id": "CRVI001776",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.0559,
+   "source_url": "https://uploads7.wikiart.org/images/kazuo-shiraga/funsyutu-1997.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001776.jpg",
+   "source_label": "",
+   "image": "images/CRVI001776.jpg",
+   "original": "originals/CRVI001776.jpg",
+   "vector": "",
+   "original_px": [
+    1000,
+    1000
+   ],
+   "original_bytes": 286174,
+   "maker": "Kazuo Shiraga",
+   "title": "Funsyutu",
+   "subtitle": "",
+   "year": "1997",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Kazuo Shiraga"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "subject",
+     "v": "Gutai"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 35.78,
+   "light": 0.4947,
+   "chroma": 0.2
+  },
+  {
+   "id": "CRVI001777",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.4943,
+   "source_url": "https://i.pinimg.com/originals/75/d3/9f/75d39fda3386eae2ca8f8281fda44f9c.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001777.jpg",
+   "source_label": "",
+   "image": "images/CRVI001777.jpg",
+   "original": "originals/CRVI001777.jpg",
+   "vector": "",
+   "original_px": [
+    1400,
+    1044
+   ],
+   "original_bytes": 371723,
+   "maker": "Unidentified",
+   "title": "Red impasto composition",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "subject",
+     "v": "Gutai"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 4.46,
+   "light": 0.4466,
+   "chroma": 0.9436
+  },
+  {
+   "id": "CRVI001778",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1172,
+   "source_url": "https://i.pinimg.com/originals/d4/9e/24/d49e24052e85acc478a284328c6b6cfb.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001778.jpg",
+   "source_label": "",
+   "image": "images/CRVI001778.jpg",
+   "original": "originals/CRVI001778.jpg",
+   "vector": "",
+   "original_px": [
+    2563,
+    3372
+   ],
+   "original_bytes": 1507350,
+   "maker": "Unidentified",
+   "title": "Black and yellow impasto composition",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "subject",
+     "v": "Gutai"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 34.12,
+   "light": 0.3921,
+   "chroma": 0.4235
+  },
+  {
+   "id": "CRVI001779",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.0142,
+   "source_url": "https://www.recoursaupoeme.fr/wp-content/uploads/2021/08/saburo-murakami-traverse-les-ecrans-de-papier-lors-de-la-deuxieme-exposition-gutai-presentee-a-tokyo-en-1956.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001779.jpg",
+   "source_label": "",
+   "image": "images/CRVI001779.jpg",
+   "original": "originals/CRVI001779.jpg",
+   "vector": "",
+   "original_px": [
+    960,
+    941
+   ],
+   "original_bytes": 111631,
+   "maker": "Unidentified",
+   "title": "Saburō Murakami passing through paper screens, 2nd Gutai Exhibition, Tokyo",
+   "subtitle": "",
+   "year": "1956",
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Saburō Murakami"
+    },
+    {
+     "k": "subject",
+     "v": "Gutai"
+    },
+    {
+     "k": "subject",
+     "v": "performance"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "color",
+     "v": "neutral"
+    }
+   ],
+   "hue": null,
+   "light": 0.4039,
+   "chroma": 0.0
+  },
+  {
+   "id": "CRVI001780",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.3,
+   "source_url": "https://uploads4.wikiart.org/images/atsuko-tanaka/electric-dress-1956.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001780.jpg",
+   "source_label": "",
+   "image": "images/CRVI001780.jpg",
+   "original": "originals/CRVI001780.jpg",
+   "vector": "",
+   "original_px": [
+    1000,
+    1283
+   ],
+   "original_bytes": 455682,
+   "maker": "Atsuko Tanaka",
+   "title": "Electric Dress",
+   "subtitle": "",
+   "year": "1956",
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Atsuko Tanaka"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "subject",
+     "v": "Gutai"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 13.85,
+   "light": 0.3466,
+   "chroma": 0.8858
+  },
+  {
+   "id": "CRVI001781",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.0,
+   "source_url": "https://www.shozoshimamoto.org/wp-content/uploads/2021/01/Mail-Art-is-a-supranational-peace-movement.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001781.jpg",
+   "source_label": "",
+   "image": "images/CRVI001781.jpg",
+   "original": "originals/CRVI001781.jpg",
+   "vector": "",
+   "original_px": [
+    1045,
+    1200
+   ],
+   "original_bytes": 257680,
+   "maker": "Shōzō Shimamoto",
+   "title": "Mail Art is a supranational peace movement",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Shōzō Shimamoto"
+    },
+    {
+     "k": "subject",
+     "v": "Gutai"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "color",
+     "v": "neutral"
+    }
+   ],
+   "hue": null,
+   "light": 0.5837,
+   "chroma": 0.0
+  },
+  {
+   "id": "CRVI001782",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.4157,
+   "source_url": "https://www.artic.edu/iiif/2/fced132f-6c88-0a32-1308-9aca15c78698/full/843,/0/default.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001782.jpg",
+   "source_label": "",
+   "image": "images/CRVI001782.jpg",
+   "original": "originals/CRVI001782.jpg",
+   "vector": "",
+   "original_px": [
+    843,
+    1047
+   ],
+   "original_bytes": 333930,
+   "maker": "Shōzō Shimamoto",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "1957",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Shōzō Shimamoto"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "subject",
+     "v": "Gutai"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 356.75,
+   "light": 0.3785,
+   "chroma": 0.9922
+  },
+  {
+   "id": "CRVI001783",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.2956,
+   "source_url": "https://www.christies.com/img/LotImages/2017/HGK/2017_HGK_13268_0464_000(shozo_shimamoto_untitled).jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001783.jpg",
+   "source_label": "",
+   "image": "images/CRVI001783.jpg",
+   "original": "originals/CRVI001783.jpg",
+   "vector": "",
+   "original_px": [
+    2834,
+    3200
+   ],
+   "original_bytes": 1710260,
+   "maker": "Shōzō Shimamoto",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Shōzō Shimamoto"
+    },
+    {
+     "k": "subject",
+     "v": "Gutai"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 46.34,
+   "light": 0.4213,
+   "chroma": 0.8478
+  },
+  {
+   "id": "CRVI001784",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.3645,
+   "source_url": "https://www.whitestone-gallery.com/cdn/shop/files/sadamasa-motonaga-0103009597_6e7ea428-7b01-4311-8624-f9b46ddd2dfd.jpg?v=1729233498",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001784.jpg",
+   "source_label": "",
+   "image": "images/CRVI001784.jpg",
+   "original": "originals/CRVI001784.jpg",
+   "vector": "",
+   "original_px": [
+    2691,
+    2148
+   ],
+   "original_bytes": 1093506,
+   "maker": "Sadamasa Motonaga",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "1993",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Sadamasa Motonaga"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "subject",
+     "v": "Gutai"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 124.53,
+   "light": 0.2935,
+   "chroma": 0.869
+  },
+  {
+   "id": "CRVI001785",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.225,
+   "source_url": "https://www.artic.edu/iiif/2/cefb5c01-7634-6349-81a7-ebfac59ec774/full/843,/0/default.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001785.jpg",
+   "source_label": "",
+   "image": "images/CRVI001785.jpg",
+   "original": "originals/CRVI001785.jpg",
+   "vector": "",
+   "original_px": [
+    843,
+    1171
+   ],
+   "original_bytes": 162150,
+   "maker": "Akira Kanayama",
+   "title": "Work",
+   "subtitle": "",
+   "year": "1952",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Akira Kanayama"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "subject",
+     "v": "Gutai"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 27.66,
+   "light": 0.7701,
+   "chroma": 0.9194
+  },
+  {
+   "id": "CRVI001786",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.3573,
+   "source_url": "https://www.nicolaskrupp.com/sites/default/files/YamazakiT13718.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001786.jpg",
+   "source_label": "",
+   "image": "images/CRVI001786.jpg",
+   "original": "originals/CRVI001786.jpg",
+   "vector": "",
+   "original_px": [
+    3681,
+    3680
+   ],
+   "original_bytes": 359500,
+   "maker": "Tsuruko Yamazaki",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Tsuruko Yamazaki"
+    },
+    {
+     "k": "subject",
+     "v": "Gutai"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 65.29,
+   "light": 0.5682,
+   "chroma": 0.7206
+  },
+  {
+   "id": "CRVI001787",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.258,
+   "source_url": "https://media.mutualart.com/Images/2015_09/16/10/105456137/2016629f-de4a-45f6-9d6e-37648b10c3b4.Jpeg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001787.jpg",
+   "source_label": "",
+   "image": "images/CRVI001787.jpg",
+   "original": "originals/CRVI001787.jpg",
+   "vector": "",
+   "original_px": [
+    1546,
+    2000
+   ],
+   "original_bytes": 3884958,
+   "maker": "Unidentified",
+   "title": "Red chevron composition",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "subject",
+     "v": "Gutai"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 7.24,
+   "light": 0.6223,
+   "chroma": 0.9675
+  },
+  {
+   "id": "CRVI001788",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1378,
+   "source_url": "https://media.mutualart.com/Images/2017_10/26/13/132728313/9a1e5f45-4860-4342-9d8f-c03bd5450a77.Jpeg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001788.jpg",
+   "source_label": "",
+   "image": "images/CRVI001788.jpg",
+   "original": "originals/CRVI001788.jpg",
+   "vector": "",
+   "original_px": [
+    1613,
+    1925
+   ],
+   "original_bytes": 2207063,
+   "maker": "Unidentified",
+   "title": "Sprayed composition",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "subject",
+     "v": "Gutai"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 43.14,
+   "light": 0.6093,
+   "chroma": 0.3423
+  },
+  {
+   "id": "CRVI001789",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.0653,
+   "source_url": "https://www.mcba.ch/wp-content/uploads/2019/07/1966-027_YASHIHARA_num4000_nr-2304x2999.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001789.jpg",
+   "source_label": "",
+   "image": "images/CRVI001789.jpg",
+   "original": "originals/CRVI001789.jpg",
+   "vector": "",
+   "original_px": [
+    2304,
+    2999
+   ],
+   "original_bytes": 2457925,
+   "maker": "Michio Yoshihara",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Michio Yoshihara"
+    },
+    {
+     "k": "subject",
+     "v": "Gutai"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 23.37,
+   "light": 0.7496,
+   "chroma": 0.1622
+  },
+  {
+   "id": "CRVI001790",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.2532,
+   "source_url": "https://uploads0.wikiart.org/images/barnett-newman/dionysius-1949.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001790.jpg",
+   "source_label": "",
+   "image": "images/CRVI001790.jpg",
+   "original": "originals/CRVI001790.jpg",
+   "vector": "",
+   "original_px": [
+    3529,
+    4825
+   ],
+   "original_bytes": 2187138,
+   "maker": "Barnett Newman",
+   "title": "Dionysius",
+   "subtitle": "",
+   "year": "1949",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Barnett Newman"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    },
+    {
+     "k": "subject",
+     "v": "Color Field"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 162.86,
+   "light": 0.3179,
+   "chroma": 0.999
+  },
+  {
+   "id": "CRVI001791",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.2222,
+   "source_url": "https://uploads6.wikiart.org/images/morris-louis/unknown-title.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001791.jpg",
+   "source_label": "",
+   "image": "images/CRVI001791.jpg",
+   "original": "originals/CRVI001791.jpg",
+   "vector": "",
+   "original_px": [
+    1280,
+    1152
+   ],
+   "original_bytes": 638730,
+   "maker": "Morris Louis",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Morris Louis"
+    },
+    {
+     "k": "subject",
+     "v": "Color Field"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 37.41,
+   "light": 0.7492,
+   "chroma": 0.9585
+  },
+  {
+   "id": "CRVI001792",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.2859,
+   "source_url": "https://uploads7.wikiart.org/images/kenneth-noland/drought-1962.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001792.jpg",
+   "source_label": "",
+   "image": "images/CRVI001792.jpg",
+   "original": "originals/CRVI001792.jpg",
+   "vector": "",
+   "original_px": [
+    912,
+    908
+   ],
+   "original_bytes": 65741,
+   "maker": "Kenneth Noland",
+   "title": "Drought",
+   "subtitle": "",
+   "year": "1962",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Kenneth Noland"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "subject",
+     "v": "Color Field"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 41.71,
+   "light": 0.6933,
+   "chroma": 0.7851
+  },
+  {
+   "id": "CRVI001793",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.342,
+   "source_url": "https://www.artic.edu/iiif/2/4046d671-e4ba-a5d4-ca3f-9e1aeed5b21d/full/843,/0/default.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001793.jpg",
+   "source_label": "",
+   "image": "images/CRVI001793.jpg",
+   "original": "originals/CRVI001793.jpg",
+   "vector": "",
+   "original_px": [
+    843,
+    1242
+   ],
+   "original_bytes": 173252,
+   "maker": "Jules Olitski",
+   "title": "Born in Snovsk",
+   "subtitle": "",
+   "year": "1962",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Jules Olitski"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "subject",
+     "v": "Color Field"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 14.9,
+   "light": 0.472,
+   "chroma": 0.9536
+  },
+  {
+   "id": "CRVI001794",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.3458,
+   "source_url": "https://artandtheology.org/wp-content/uploads/2022/02/thomas-alma_wind-dancing-with-spring-flowers.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001794.jpg",
+   "source_label": "",
+   "image": "images/CRVI001794.jpg",
+   "original": "originals/CRVI001794.jpg",
+   "vector": "",
+   "original_px": [
+    1146,
+    1200
+   ],
+   "original_bytes": 771993,
+   "maker": "Alma Thomas",
+   "title": "Wind Dancing with Spring Flowers",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Alma Thomas"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "subject",
+     "v": "Color Field"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 34.6,
+   "light": 0.4699,
+   "chroma": 0.8395
+  },
+  {
+   "id": "CRVI001795",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.6393,
+   "source_url": "https://d26jxt5097u8sr.cloudfront.net/s3fs-public/2024-02/The-Eclipse.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001795.jpg",
+   "source_label": "",
+   "image": "images/CRVI001795.jpg",
+   "original": "originals/CRVI001795.jpg",
+   "vector": "",
+   "original_px": [
+    2924,
+    3600
+   ],
+   "original_bytes": 2032777,
+   "maker": "Alma Thomas",
+   "title": "The Eclipse",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Alma Thomas"
+    },
+    {
+     "k": "subject",
+     "v": "Color Field"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 51.64,
+   "light": 0.4971,
+   "chroma": 0.9582
+  },
+  {
+   "id": "CRVI001796",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.381,
+   "source_url": "https://www.artic.edu/iiif/2/e966799b-97ee-1cc6-bd2f-a94b4b8bb8f9/full/843,/0/default.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001796.jpg",
+   "source_label": "",
+   "image": "images/CRVI001796.jpg",
+   "original": "originals/CRVI001796.jpg",
+   "vector": "",
+   "original_px": [
+    843,
+    958
+   ],
+   "original_bytes": 423235,
+   "maker": "Alma Thomas",
+   "title": "Starry Night and the Astronauts",
+   "subtitle": "",
+   "year": "1972",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Alma Thomas"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "subject",
+     "v": "Color Field"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 207.82,
+   "light": 0.2661,
+   "chroma": 0.9945
   }
  ]
 }
