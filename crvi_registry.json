@@ -1,5 +1,5 @@
 {
- "next": 2030,
+ "next": 2049,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -119996,6 +119996,967 @@
    "light": 0.3991,
    "chroma": 0.3972,
    "punch": 0.14
+  },
+  "sent-2026-09-05::79d95ecd95a2": {
+   "id": "CRVI002030",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002030.jpg",
+   "original_px": [
+    880,
+    935
+   ],
+   "original_bytes": 136665,
+   "identity": "sent-2026-09-05::79d95ecd95a2",
+   "source_url": "https://uploads3.wikiart.org/00144/images/dana-schutz/sneeze-2001.jpg",
+   "maker": "Dana Schutz",
+   "title": "Sneeze",
+   "subtitle": "",
+   "year": "2001",
+   "verified_against": "WikiArt, under Dana Schutz, dated 2001.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/900.jpg",
+   "source_px": [
+    880,
+    935
+   ],
+   "colors": [
+    "cyan",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Dana Schutz"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Dana Schutz, dated 2001.",
+   "hue": 186.01,
+   "light": 0.4312,
+   "chroma": 0.9754,
+   "punch": 0.5339
+  },
+  "sent-2026-09-05::6e8b4c603553": {
+   "id": "CRVI002031",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002031.jpg",
+   "original_px": [
+    804,
+    848
+   ],
+   "original_bytes": 633201,
+   "identity": "sent-2026-09-05::6e8b4c603553",
+   "source_url": "https://uploads3.wikiart.org/00144/images/dana-schutz/sneeze-2002.jpg",
+   "maker": "Dana Schutz",
+   "title": "Sneeze",
+   "subtitle": "",
+   "year": "2002",
+   "verified_against": "WikiArt, under Dana Schutz, dated 2002. A second painting of the same subject a year after the first, which is why both are here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/901.jpg",
+   "source_px": [
+    804,
+    848
+   ],
+   "colors": [
+    "green",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Dana Schutz"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Dana Schutz, dated 2002. A second painting of the same subject a year after the first, which is why both are here.",
+   "hue": 36.28,
+   "light": 0.4788,
+   "chroma": 0.8809,
+   "punch": 0.3187
+  },
+  "sent-2026-09-05::e10eb1d3b32e": {
+   "id": "CRVI002032",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002032.jpg",
+   "original_px": [
+    1920,
+    1080
+   ],
+   "original_bytes": 664952,
+   "identity": "sent-2026-09-05::e10eb1d3b32e",
+   "source_url": "https://media.hauserwirth.com/m/31f6a310ba3d1638/original/Nicole-Eisenman_02.jpg",
+   "maker": "Nicole Eisenman",
+   "title": "Beer garden",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Hauser & Wirth's media server, whose file name gives Nicole Eisenman. The individual work's title and date are NOT established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/902.jpg",
+   "source_px": [
+    1920,
+    1080
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Nicole Eisenman"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Hauser & Wirth's media server, whose file name gives Nicole Eisenman. The individual work's title and date are NOT established here.",
+   "hue": 24.96,
+   "light": 0.3549,
+   "chroma": 0.7501,
+   "punch": 0.2357
+  },
+  "sent-2026-09-05::bc1684089b01": {
+   "id": "CRVI002033",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002033.jpg",
+   "original_px": [
+    1350,
+    1800
+   ],
+   "original_bytes": 403268,
+   "identity": "sent-2026-09-05::bc1684089b01",
+   "source_url": "https://artviewer.org/wp-content/uploads/2017/10/Nicole-Eisenman_Dark-Light_2017_Courtesy-The-Ovitz-Family-Collection_Foto-Sophie-Thun-2.jpg",
+   "maker": "Nicole Eisenman",
+   "title": "Dark Light",
+   "subtitle": "",
+   "year": "2017",
+   "verified_against": "Art Viewer, whose file name carries the whole caption: Nicole Eisenman, Dark Light, 2017, courtesy the Ovitz Family Collection, photo Sophie Thun. Eisenman painted it; Thun photographed it.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/903.jpg",
+   "source_px": [
+    1350,
+    1800
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Nicole Eisenman"
+    },
+    {
+     "k": "photographer",
+     "v": "Sophie Thun"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Viewer, whose file name carries the whole caption: Nicole Eisenman, Dark Light, 2017, courtesy the Ovitz Family Collection, photo Sophie Thun. Eisenman painted it; Thun photographed it.",
+   "hue": 63.02,
+   "light": 0.6362,
+   "chroma": 0.3545,
+   "punch": 0.1171
+  },
+  "sent-2026-09-05::0a4d739476c5": {
+   "id": "CRVI002034",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002034.jpg",
+   "original_px": [
+    1000,
+    967
+   ],
+   "original_bytes": 112663,
+   "identity": "sent-2026-09-05::0a4d739476c5",
+   "source_url": "https://art.northwestern.edu/sites/default/files/sillman_2_body.jpg",
+   "maker": "Amy Sillman",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Northwestern University's art department site, whose file name gives Sillman. The individual work's title and date are NOT established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/904.jpg",
+   "source_px": [
+    1000,
+    967
+   ],
+   "colors": [
+    "orange",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Amy Sillman"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Northwestern University's art department site, whose file name gives Sillman. The individual work's title and date are NOT established here.",
+   "hue": 44.77,
+   "light": 0.4825,
+   "chroma": 0.43,
+   "punch": 0.1874
+  },
+  "sent-2026-09-05::c7a7f8c0e73f": {
+   "id": "CRVI002035",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002035.jpg",
+   "original_px": [
+    1546,
+    1784
+   ],
+   "original_bytes": 2788838,
+   "identity": "sent-2026-09-05::c7a7f8c0e73f",
+   "source_url": "https://sothebys-brightspot.s3.amazonaws.com/media-desk/48/8b/2f297a49468e8e19a40a5f0e0e2f/n10371-416-bhr3m-web.jpg",
+   "maker": "Unidentified",
+   "title": "Numbers over a grid",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "A Sotheby's asset whose path is a lot code only. Impasto numerals laid over a painted grid. Maker, title and date all unestablished.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/905.jpg",
+   "source_px": [
+    1546,
+    1784
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A Sotheby's asset whose path is a lot code only. Impasto numerals laid over a painted grid. Maker, title and date all unestablished.",
+   "hue": 195.91,
+   "light": 0.419,
+   "chroma": 0.3689,
+   "punch": 0.1008
+  },
+  "sent-2026-09-05::e82f34dafb87": {
+   "id": "CRVI002036",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002036.jpg",
+   "original_px": [
+    2048,
+    2634
+   ],
+   "original_bytes": 1677245,
+   "identity": "sent-2026-09-05::e82f34dafb87",
+   "source_url": "https://whitneymedia.org/assets/image/819934/large_LO_470_cmyk_color_corrected-Cropped-RGB.jpg",
+   "maker": "Unidentified",
+   "title": "Gestural painting in pink and blue",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "A Whitney Museum of American Art asset whose file name is an internal image number and a colour-correction note. No artist is named in it.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/906.jpg",
+   "source_px": [
+    2048,
+    2634
+   ],
+   "colors": [
+    "red",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A Whitney Museum of American Art asset whose file name is an internal image number and a colour-correction note. No artist is named in it.",
+   "hue": 347.06,
+   "light": 0.6107,
+   "chroma": 0.87,
+   "punch": 0.2109
+  },
+  "sent-2026-09-05::57fa2d0ad53d": {
+   "id": "CRVI002037",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002037.jpg",
+   "original_px": [
+    1800,
+    1354
+   ],
+   "original_bytes": 983093,
+   "identity": "sent-2026-09-05::57fa2d0ad53d",
+   "source_url": "https://artviewer.org/wp-content/uploads/2020/11/Tauba-Auerbach-at-STANDARD-OSLO-Art-Work-5.jpg",
+   "maker": "Tauba Auerbach",
+   "title": "Installation view, STANDARD (OSLO)",
+   "subtitle": "",
+   "year": "2020",
+   "verified_against": "Art Viewer, whose file name gives Tauba Auerbach at STANDARD (OSLO). 2020 is the exhibition's year, from the file's upload path, rather than necessarily the work's.",
+   "notes": [
+    "Taken from the un-suffixed upload at 1800 × 1354 rather than the 1536 × 1155 WordPress derivative the link carried."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/907.jpg",
+   "source_px": [
+    1800,
+    1354
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "subject",
+     "v": "exhibition"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "artist",
+     "v": "Tauba Auerbach"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Viewer, whose file name gives Tauba Auerbach at STANDARD (OSLO). 2020 is the exhibition's year, from the file's upload path, rather than necessarily the work's.",
+   "hue": 47.17,
+   "light": 0.6993,
+   "chroma": 0.2781,
+   "punch": 0.1566
+  },
+  "sent-2026-09-05::77331db6ad7b": {
+   "id": "CRVI002038",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002038.jpg",
+   "original_px": [
+    1440,
+    1920
+   ],
+   "original_bytes": 415785,
+   "identity": "sent-2026-09-05::77331db6ad7b",
+   "source_url": "https://www.epo.org/sites/default/files/styles/original_dimensions/public/2023-08/Auerbach_Tauba_R5B1051_1440x1920%5B1%5D.jpg",
+   "maker": "Tauba Auerbach",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Published by the European Patent Office, whose file name gives Auerbach, Tauba. Black and white shards tiling the whole surface. The individual work's title and date are NOT established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/908.jpg",
+   "source_px": [
+    1440,
+    1920
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Tauba Auerbach"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published by the European Patent Office, whose file name gives Auerbach, Tauba. Black and white shards tiling the whole surface. The individual work's title and date are NOT established here.",
+   "hue": null,
+   "light": 0.508,
+   "chroma": 0.0,
+   "punch": 0.0
+  },
+  "sent-2026-09-05::5d4bffa5ad9e": {
+   "id": "CRVI002039",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002039.jpg",
+   "original_px": [
+    1000,
+    1256
+   ],
+   "original_bytes": 711372,
+   "identity": "sent-2026-09-05::5d4bffa5ad9e",
+   "source_url": "https://www.artnews.com/wp-content/uploads/2021/12/web13.-Tauba-Auerbach_Metamaterial-Slice-Ray.jpg",
+   "maker": "Tauba Auerbach",
+   "title": "Metamaterial Slice Ray",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "ARTnews, whose file name gives Tauba Auerbach and Metamaterial Slice Ray. The date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/909.jpg",
+   "source_px": [
+    1000,
+    1256
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Tauba Auerbach"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "ARTnews, whose file name gives Tauba Auerbach and Metamaterial Slice Ray. The date is not established here.",
+   "hue": 25.12,
+   "light": 0.7357,
+   "chroma": 0.6713,
+   "punch": 0.1815
+  },
+  "sent-2026-09-05::e5dadfe2d66c": {
+   "id": "CRVI002040",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002040.jpg",
+   "original_px": [
+    1600,
+    1200
+   ],
+   "original_bytes": 585046,
+   "identity": "sent-2026-09-05::e5dadfe2d66c",
+   "source_url": "https://dinca.org/wp-content/uploads/2020/07/Extended-Object-Tauba-Auerbach-2018-compressed.jpg",
+   "maker": "Tauba Auerbach",
+   "title": "Extended Object",
+   "subtitle": "",
+   "year": "2018",
+   "verified_against": "Dinca, whose file name gives it in full: Extended Object, Tauba Auerbach, 2018.",
+   "notes": [
+    "Taken from the un-suffixed upload at 1600 × 1200 rather than the 1080 × 810 derivative the link carried."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/910.jpg",
+   "source_px": [
+    1600,
+    1200
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "artist",
+     "v": "Tauba Auerbach"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Dinca, whose file name gives it in full: Extended Object, Tauba Auerbach, 2018.",
+   "hue": 46.66,
+   "light": 0.5798,
+   "chroma": 0.4087,
+   "punch": 0.1495
+  },
+  "sent-2026-09-05::ab381967db7f": {
+   "id": "CRVI002041",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002041.jpg",
+   "original_px": [
+    1200,
+    1600
+   ],
+   "original_bytes": 453513,
+   "identity": "sent-2026-09-05::ab381967db7f",
+   "source_url": "https://www.galleriesnow.net/wp-content/uploads/2023/06/WG5537_RA.jpg",
+   "maker": "Unidentified",
+   "title": "Layered painting in green and yellow",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "A Galleries Now asset whose file name is a stock code only. No artist is named in it.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/911.jpg",
+   "source_px": [
+    1200,
+    1600
+   ],
+   "colors": [
+    "orange",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A Galleries Now asset whose file name is a stock code only. No artist is named in it.",
+   "hue": 42.34,
+   "light": 0.6506,
+   "chroma": 0.4601,
+   "punch": 0.1913
+  },
+  "sent-2026-09-05::058255b06d48": {
+   "id": "CRVI002042",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002042.jpg",
+   "original_px": [
+    1125,
+    1500
+   ],
+   "original_bytes": 735576,
+   "identity": "sent-2026-09-05::058255b06d48",
+   "source_url": "https://media.mutualart.com/Images/2023_02/05/21/214926658/christopher-wool-christopher-wool-felix--GSBVF.Jpeg",
+   "maker": "Christopher Wool",
+   "title": "Felix",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "MutualArt, whose file name gives Christopher Wool and Felix. A stencilled word painting in black on white. The date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/912.jpg",
+   "source_px": [
+    1125,
+    1500
+   ],
+   "colors": [
+    "yellow",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Christopher Wool"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "MutualArt, whose file name gives Christopher Wool and Felix. A stencilled word painting in black on white. The date is not established here.",
+   "hue": null,
+   "light": 0.5315,
+   "chroma": 0.0,
+   "punch": 0.0098
+  },
+  "sent-2026-09-05::4a8fc6923dd3": {
+   "id": "CRVI002043",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002043.jpg",
+   "original_px": [
+    1169,
+    1500
+   ],
+   "original_bytes": 729369,
+   "identity": "sent-2026-09-05::4a8fc6923dd3",
+   "source_url": "https://www.maxhetzler.com/application/files/7616/7992/2183/2010_Untitled__P603___photo__def_image__1500.jpg",
+   "maker": "Christopher Wool",
+   "title": "Untitled (P603)",
+   "subtitle": "",
+   "year": "2010",
+   "verified_against": "Galerie Max Hetzler, which represents Wool; the file name gives 2010 and the work number P603.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/913.jpg",
+   "source_px": [
+    1169,
+    1500
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Christopher Wool"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Galerie Max Hetzler, which represents Wool; the file name gives 2010 and the work number P603.",
+   "hue": 5.72,
+   "light": 0.615,
+   "chroma": 0.1807,
+   "punch": 0.065
+  },
+  "sent-2026-09-05::2ca453b2ecc8": {
+   "id": "CRVI002044",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002044.jpg",
+   "original_px": [
+    1113,
+    1316
+   ],
+   "original_bytes": 268228,
+   "identity": "sent-2026-09-05::2ca453b2ecc8",
+   "source_url": "https://uploads2.wikiart.org/00205/images/jenny-saville/propped-1992.jpg",
+   "maker": "Jenny Saville",
+   "title": "Propped",
+   "subtitle": "",
+   "year": "1992",
+   "verified_against": "WikiArt, under Jenny Saville, dated 1992.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/914.jpg",
+   "source_px": [
+    1113,
+    1316
+   ],
+   "colors": [
+    "orange",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Jenny Saville"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Jenny Saville, dated 1992.",
+   "hue": 22.62,
+   "light": 0.6079,
+   "chroma": 0.2848,
+   "punch": 0.102
+  },
+  "sent-2026-09-05::3e7f983291cc": {
+   "id": "CRVI002045",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002045.jpg",
+   "original_px": [
+    1202,
+    1500
+   ],
+   "original_bytes": 970393,
+   "identity": "sent-2026-09-05::3e7f983291cc",
+   "source_url": "https://awarewomenartists.com/wp-content/uploads/2024/07/saville-jenny-rupture-2020-aware-women-artists-artistes-femmes.jpg",
+   "maker": "Jenny Saville",
+   "title": "Rupture",
+   "subtitle": "",
+   "year": "2020",
+   "verified_against": "AWARE (Archives of Women Artists, Research and Exhibitions), whose file name gives Saville, Jenny, Rupture, 2020.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/915.jpg",
+   "source_px": [
+    1202,
+    1500
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Jenny Saville"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "AWARE (Archives of Women Artists, Research and Exhibitions), whose file name gives Saville, Jenny, Rupture, 2020.",
+   "hue": 2.81,
+   "light": 0.544,
+   "chroma": 0.79,
+   "punch": 0.278
+  },
+  "sent-2026-09-05::213b23d624dc": {
+   "id": "CRVI002046",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002046.jpg",
+   "original_px": [
+    1860,
+    1316
+   ],
+   "original_bytes": 524819,
+   "identity": "sent-2026-09-05::213b23d624dc",
+   "source_url": "https://uploads8.wikiart.org/00205/images/jenny-saville/vis-and-ramin-2018.jpg",
+   "maker": "Jenny Saville",
+   "title": "Vis and Ramin",
+   "subtitle": "",
+   "year": "2018",
+   "verified_against": "WikiArt, under Jenny Saville, dated 2018.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/916.jpg",
+   "source_px": [
+    1860,
+    1316
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Jenny Saville"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Jenny Saville, dated 2018.",
+   "hue": 2.28,
+   "light": 0.5273,
+   "chroma": 0.6636,
+   "punch": 0.1853
+  },
+  "sent-2026-09-05::15b664d1a478": {
+   "id": "CRVI002047",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002047.jpg",
+   "original_px": [
+    1923,
+    2400
+   ],
+   "original_bytes": 2010712,
+   "identity": "sent-2026-09-05::15b664d1a478",
+   "source_url": "https://gagosian.com/media/images/quarterly/interview-jenny-saville-painting-self/Kw6SmxEAPr5m_2400x2400.jpg",
+   "maker": "Jenny Saville",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Gagosian, whose file path gives Jenny Saville. The individual work's title and date are NOT established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/917.jpg",
+   "source_px": [
+    1923,
+    2400
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Jenny Saville"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Gagosian, whose file path gives Jenny Saville. The individual work's title and date are NOT established here.",
+   "hue": 4.29,
+   "light": 0.6196,
+   "chroma": 0.8137,
+   "punch": 0.2537
+  },
+  "sent-2026-09-05::164c073fd803": {
+   "id": "CRVI002048",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002048.jpg",
+   "original_px": [
+    1600,
+    2000
+   ],
+   "original_bytes": 1228309,
+   "identity": "sent-2026-09-05::164c073fd803",
+   "source_url": "https://www.albertina.at/site/assets/files/22059/jenny-saville-gaze-2021-2024-private-collection-_c_-js-bildrecht-foto-prudence-cuming-gagosian-savil_2024_0001.jpg",
+   "maker": "Jenny Saville",
+   "title": "Gaze",
+   "subtitle": "",
+   "year": "2021–2024",
+   "verified_against": "Albertina, whose file name carries the whole caption: Jenny Saville, Gaze, 2021–2024, private collection, © JS / Bildrecht, photo Prudence Cuming, Gagosian.",
+   "notes": [
+    "Taken from the un-suffixed file at 1600 × 2000 rather than the .990x0 derivative the link carried."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/918.jpg",
+   "source_px": [
+    1600,
+    2000
+   ],
+   "colors": [
+    "red",
+    "purple"
+   ],
+   "tags": [
+    {
+     "k": "photographer",
+     "v": "Prudence Cuming"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Jenny Saville"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Albertina, whose file name carries the whole caption: Jenny Saville, Gaze, 2021–2024, private collection, © JS / Bildrecht, photo Prudence Cuming, Gagosian.",
+   "hue": 3.11,
+   "light": 0.5552,
+   "chroma": 0.6962,
+   "punch": 0.1961
   }
  }
 }

@@ -107676,6 +107676,930 @@
    "hue": 45.03,
    "light": 0.3991,
    "chroma": 0.3972
+  },
+  {
+   "id": "CRVI002030",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.5339,
+   "source_url": "https://uploads3.wikiart.org/00144/images/dana-schutz/sneeze-2001.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002030.jpg",
+   "source_label": "",
+   "image": "images/CRVI002030.jpg",
+   "original": "originals/CRVI002030.jpg",
+   "vector": "",
+   "original_px": [
+    880,
+    935
+   ],
+   "original_bytes": 136665,
+   "maker": "Dana Schutz",
+   "title": "Sneeze",
+   "subtitle": "",
+   "year": "2001",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Dana Schutz"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 186.01,
+   "light": 0.4312,
+   "chroma": 0.9754
+  },
+  {
+   "id": "CRVI002031",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.3187,
+   "source_url": "https://uploads3.wikiart.org/00144/images/dana-schutz/sneeze-2002.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002031.jpg",
+   "source_label": "",
+   "image": "images/CRVI002031.jpg",
+   "original": "originals/CRVI002031.jpg",
+   "vector": "",
+   "original_px": [
+    804,
+    848
+   ],
+   "original_bytes": 633201,
+   "maker": "Dana Schutz",
+   "title": "Sneeze",
+   "subtitle": "",
+   "year": "2002",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Dana Schutz"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 36.28,
+   "light": 0.4788,
+   "chroma": 0.8809
+  },
+  {
+   "id": "CRVI002032",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.2357,
+   "source_url": "https://media.hauserwirth.com/m/31f6a310ba3d1638/original/Nicole-Eisenman_02.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002032.jpg",
+   "source_label": "",
+   "image": "images/CRVI002032.jpg",
+   "original": "originals/CRVI002032.jpg",
+   "vector": "",
+   "original_px": [
+    1920,
+    1080
+   ],
+   "original_bytes": 664952,
+   "maker": "Nicole Eisenman",
+   "title": "Beer garden",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Nicole Eisenman"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 24.96,
+   "light": 0.3549,
+   "chroma": 0.7501
+  },
+  {
+   "id": "CRVI002033",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1171,
+   "source_url": "https://artviewer.org/wp-content/uploads/2017/10/Nicole-Eisenman_Dark-Light_2017_Courtesy-The-Ovitz-Family-Collection_Foto-Sophie-Thun-2.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002033.jpg",
+   "source_label": "",
+   "image": "images/CRVI002033.jpg",
+   "original": "originals/CRVI002033.jpg",
+   "vector": "",
+   "original_px": [
+    1350,
+    1800
+   ],
+   "original_bytes": 403268,
+   "maker": "Nicole Eisenman",
+   "title": "Dark Light",
+   "subtitle": "",
+   "year": "2017",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Nicole Eisenman"
+    },
+    {
+     "k": "photographer",
+     "v": "Sophie Thun"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 63.02,
+   "light": 0.6362,
+   "chroma": 0.3545
+  },
+  {
+   "id": "CRVI002034",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1874,
+   "source_url": "https://art.northwestern.edu/sites/default/files/sillman_2_body.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002034.jpg",
+   "source_label": "",
+   "image": "images/CRVI002034.jpg",
+   "original": "originals/CRVI002034.jpg",
+   "vector": "",
+   "original_px": [
+    1000,
+    967
+   ],
+   "original_bytes": 112663,
+   "maker": "Amy Sillman",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Amy Sillman"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 44.77,
+   "light": 0.4825,
+   "chroma": 0.43
+  },
+  {
+   "id": "CRVI002035",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1008,
+   "source_url": "https://sothebys-brightspot.s3.amazonaws.com/media-desk/48/8b/2f297a49468e8e19a40a5f0e0e2f/n10371-416-bhr3m-web.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002035.jpg",
+   "source_label": "",
+   "image": "images/CRVI002035.jpg",
+   "original": "originals/CRVI002035.jpg",
+   "vector": "",
+   "original_px": [
+    1546,
+    1784
+   ],
+   "original_bytes": 2788838,
+   "maker": "Unidentified",
+   "title": "Numbers over a grid",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 195.91,
+   "light": 0.419,
+   "chroma": 0.3689
+  },
+  {
+   "id": "CRVI002036",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.2109,
+   "source_url": "https://whitneymedia.org/assets/image/819934/large_LO_470_cmyk_color_corrected-Cropped-RGB.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002036.jpg",
+   "source_label": "",
+   "image": "images/CRVI002036.jpg",
+   "original": "originals/CRVI002036.jpg",
+   "vector": "",
+   "original_px": [
+    2048,
+    2634
+   ],
+   "original_bytes": 1677245,
+   "maker": "Unidentified",
+   "title": "Gestural painting in pink and blue",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 347.06,
+   "light": 0.6107,
+   "chroma": 0.87
+  },
+  {
+   "id": "CRVI002037",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1566,
+   "source_url": "https://artviewer.org/wp-content/uploads/2020/11/Tauba-Auerbach-at-STANDARD-OSLO-Art-Work-5.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002037.jpg",
+   "source_label": "",
+   "image": "images/CRVI002037.jpg",
+   "original": "originals/CRVI002037.jpg",
+   "vector": "",
+   "original_px": [
+    1800,
+    1354
+   ],
+   "original_bytes": 983093,
+   "maker": "Tauba Auerbach",
+   "title": "Installation view, STANDARD (OSLO)",
+   "subtitle": "",
+   "year": "2020",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "subject",
+     "v": "exhibition"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "artist",
+     "v": "Tauba Auerbach"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 47.17,
+   "light": 0.6993,
+   "chroma": 0.2781
+  },
+  {
+   "id": "CRVI002038",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.0,
+   "source_url": "https://www.epo.org/sites/default/files/styles/original_dimensions/public/2023-08/Auerbach_Tauba_R5B1051_1440x1920%5B1%5D.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002038.jpg",
+   "source_label": "",
+   "image": "images/CRVI002038.jpg",
+   "original": "originals/CRVI002038.jpg",
+   "vector": "",
+   "original_px": [
+    1440,
+    1920
+   ],
+   "original_bytes": 415785,
+   "maker": "Tauba Auerbach",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Tauba Auerbach"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "neutral"
+    }
+   ],
+   "hue": null,
+   "light": 0.508,
+   "chroma": 0.0
+  },
+  {
+   "id": "CRVI002039",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1815,
+   "source_url": "https://www.artnews.com/wp-content/uploads/2021/12/web13.-Tauba-Auerbach_Metamaterial-Slice-Ray.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002039.jpg",
+   "source_label": "",
+   "image": "images/CRVI002039.jpg",
+   "original": "originals/CRVI002039.jpg",
+   "vector": "",
+   "original_px": [
+    1000,
+    1256
+   ],
+   "original_bytes": 711372,
+   "maker": "Tauba Auerbach",
+   "title": "Metamaterial Slice Ray",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Tauba Auerbach"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 25.12,
+   "light": 0.7357,
+   "chroma": 0.6713
+  },
+  {
+   "id": "CRVI002040",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1495,
+   "source_url": "https://dinca.org/wp-content/uploads/2020/07/Extended-Object-Tauba-Auerbach-2018-compressed.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002040.jpg",
+   "source_label": "",
+   "image": "images/CRVI002040.jpg",
+   "original": "originals/CRVI002040.jpg",
+   "vector": "",
+   "original_px": [
+    1600,
+    1200
+   ],
+   "original_bytes": 585046,
+   "maker": "Tauba Auerbach",
+   "title": "Extended Object",
+   "subtitle": "",
+   "year": "2018",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "artist",
+     "v": "Tauba Auerbach"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 46.66,
+   "light": 0.5798,
+   "chroma": 0.4087
+  },
+  {
+   "id": "CRVI002041",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1913,
+   "source_url": "https://www.galleriesnow.net/wp-content/uploads/2023/06/WG5537_RA.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002041.jpg",
+   "source_label": "",
+   "image": "images/CRVI002041.jpg",
+   "original": "originals/CRVI002041.jpg",
+   "vector": "",
+   "original_px": [
+    1200,
+    1600
+   ],
+   "original_bytes": 453513,
+   "maker": "Unidentified",
+   "title": "Layered painting in green and yellow",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 42.34,
+   "light": 0.6506,
+   "chroma": 0.4601
+  },
+  {
+   "id": "CRVI002042",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.0098,
+   "source_url": "https://media.mutualart.com/Images/2023_02/05/21/214926658/christopher-wool-christopher-wool-felix--GSBVF.Jpeg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002042.jpg",
+   "source_label": "",
+   "image": "images/CRVI002042.jpg",
+   "original": "originals/CRVI002042.jpg",
+   "vector": "",
+   "original_px": [
+    1125,
+    1500
+   ],
+   "original_bytes": 735576,
+   "maker": "Christopher Wool",
+   "title": "Felix",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Christopher Wool"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": null,
+   "light": 0.5315,
+   "chroma": 0.0
+  },
+  {
+   "id": "CRVI002043",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.065,
+   "source_url": "https://www.maxhetzler.com/application/files/7616/7992/2183/2010_Untitled__P603___photo__def_image__1500.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002043.jpg",
+   "source_label": "",
+   "image": "images/CRVI002043.jpg",
+   "original": "originals/CRVI002043.jpg",
+   "vector": "",
+   "original_px": [
+    1169,
+    1500
+   ],
+   "original_bytes": 729369,
+   "maker": "Christopher Wool",
+   "title": "Untitled (P603)",
+   "subtitle": "",
+   "year": "2010",
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Christopher Wool"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 5.72,
+   "light": 0.615,
+   "chroma": 0.1807
+  },
+  {
+   "id": "CRVI002044",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.102,
+   "source_url": "https://uploads2.wikiart.org/00205/images/jenny-saville/propped-1992.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002044.jpg",
+   "source_label": "",
+   "image": "images/CRVI002044.jpg",
+   "original": "originals/CRVI002044.jpg",
+   "vector": "",
+   "original_px": [
+    1113,
+    1316
+   ],
+   "original_bytes": 268228,
+   "maker": "Jenny Saville",
+   "title": "Propped",
+   "subtitle": "",
+   "year": "1992",
+   "tags": [
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Jenny Saville"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 22.62,
+   "light": 0.6079,
+   "chroma": 0.2848
+  },
+  {
+   "id": "CRVI002045",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.278,
+   "source_url": "https://awarewomenartists.com/wp-content/uploads/2024/07/saville-jenny-rupture-2020-aware-women-artists-artistes-femmes.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002045.jpg",
+   "source_label": "",
+   "image": "images/CRVI002045.jpg",
+   "original": "originals/CRVI002045.jpg",
+   "vector": "",
+   "original_px": [
+    1202,
+    1500
+   ],
+   "original_bytes": 970393,
+   "maker": "Jenny Saville",
+   "title": "Rupture",
+   "subtitle": "",
+   "year": "2020",
+   "tags": [
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Jenny Saville"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 2.81,
+   "light": 0.544,
+   "chroma": 0.79
+  },
+  {
+   "id": "CRVI002046",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1853,
+   "source_url": "https://uploads8.wikiart.org/00205/images/jenny-saville/vis-and-ramin-2018.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002046.jpg",
+   "source_label": "",
+   "image": "images/CRVI002046.jpg",
+   "original": "originals/CRVI002046.jpg",
+   "vector": "",
+   "original_px": [
+    1860,
+    1316
+   ],
+   "original_bytes": 524819,
+   "maker": "Jenny Saville",
+   "title": "Vis and Ramin",
+   "subtitle": "",
+   "year": "2018",
+   "tags": [
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Jenny Saville"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 2.28,
+   "light": 0.5273,
+   "chroma": 0.6636
+  },
+  {
+   "id": "CRVI002047",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.2537,
+   "source_url": "https://gagosian.com/media/images/quarterly/interview-jenny-saville-painting-self/Kw6SmxEAPr5m_2400x2400.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002047.jpg",
+   "source_label": "",
+   "image": "images/CRVI002047.jpg",
+   "original": "originals/CRVI002047.jpg",
+   "vector": "",
+   "original_px": [
+    1923,
+    2400
+   ],
+   "original_bytes": 2010712,
+   "maker": "Jenny Saville",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Jenny Saville"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 4.29,
+   "light": 0.6196,
+   "chroma": 0.8137
+  },
+  {
+   "id": "CRVI002048",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1961,
+   "source_url": "https://www.albertina.at/site/assets/files/22059/jenny-saville-gaze-2021-2024-private-collection-_c_-js-bildrecht-foto-prudence-cuming-gagosian-savil_2024_0001.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002048.jpg",
+   "source_label": "",
+   "image": "images/CRVI002048.jpg",
+   "original": "originals/CRVI002048.jpg",
+   "vector": "",
+   "original_px": [
+    1600,
+    2000
+   ],
+   "original_bytes": 1228309,
+   "maker": "Jenny Saville",
+   "title": "Gaze",
+   "subtitle": "",
+   "year": "2021–2024",
+   "tags": [
+    {
+     "k": "photographer",
+     "v": "Prudence Cuming"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Jenny Saville"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "purple"
+    }
+   ],
+   "hue": 3.11,
+   "light": 0.5552,
+   "chroma": 0.6962
   }
  ]
 }
