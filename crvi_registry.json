@@ -1,5 +1,5 @@
 {
- "next": 2012,
+ "next": 2030,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -119111,6 +119111,891 @@
    "light": 0.7945,
    "chroma": 0.3993,
    "punch": 0.0874
+  },
+  "sent-2026-09-05::8c0841808984": {
+   "id": "CRVI002012",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002012.jpg",
+   "original_px": [
+    800,
+    800
+   ],
+   "original_bytes": 257049,
+   "identity": "sent-2026-09-05::8c0841808984",
+   "source_url": "https://www.dreamideamachine.com/web/wp-content/uploads/2018/02/041.jpg",
+   "maker": "Kohei Nawa",
+   "title": "PixCell-Deer",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "⚠️ The file name is only '041' and names nobody. The object is a taxidermied deer sheathed in glass beads of varying size — Nawa's PixCell method, and unmistakable as his. The attribution rests on the WORK, not the source. The specific version and date are unestablished.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/870.jpg",
+   "source_px": [
+    800,
+    800
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Kohei Nawa"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ The file name is only '041' and names nobody. The object is a taxidermied deer sheathed in glass beads of varying size — Nawa's PixCell method, and unmistakable as his. The attribution rests on the WORK, not the source. The specific version and date are unestablished.",
+   "hue": 29.04,
+   "light": 0.6353,
+   "chroma": 0.1265,
+   "punch": 0.0464
+  },
+  "sent-2026-09-05::11ef6cbf28f1": {
+   "id": "CRVI002013",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002013.jpg",
+   "original_px": [
+    4535,
+    3401
+   ],
+   "original_bytes": 895195,
+   "identity": "sent-2026-09-05::11ef6cbf28f1",
+   "source_url": "https://cawa.art/wp-content/uploads/2024/08/2-cao-fei-duotopia-2.jpg",
+   "maker": "Cao Fei",
+   "title": "Duotopia",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "CAWA, whose file name gives Cao Fei and Duotopia. The date is not established here.",
+   "notes": [
+    "Taken from the un-suffixed upload at 4535 × 3401. WordPress generates a '-scaled' copy capped at 2560px for large uploads, and the link carried that one."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/871.jpg",
+   "source_px": [
+    4535,
+    3401
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Cao Fei"
+    },
+    {
+     "k": "location",
+     "v": "China"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "CAWA, whose file name gives Cao Fei and Duotopia. The date is not established here.",
+   "hue": 225.68,
+   "light": 0.4908,
+   "chroma": 0.5226,
+   "punch": 0.1627
+  },
+  "sent-2026-09-05::3007298365f7": {
+   "id": "CRVI002014",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002014.jpg",
+   "original_px": [
+    1200,
+    1107
+   ],
+   "original_bytes": 146290,
+   "identity": "sent-2026-09-05::3007298365f7",
+   "source_url": "https://files.ocula.com/anzax/19/1972ca5a-7891-4ec6-9033-07e955cf1273_1200_1107.JPG",
+   "maker": "Unidentified",
+   "title": "Assemblage of painted frames",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "An Ocula gallery asset whose URL carries no artist name. Painted picture frames butted into a single relief. Maker, title and date unestablished.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/872.jpg",
+   "source_px": [
+    1200,
+    1107
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "An Ocula gallery asset whose URL carries no artist name. Painted picture frames butted into a single relief. Maker, title and date unestablished.",
+   "hue": 36.26,
+   "light": 0.6804,
+   "chroma": 0.2457,
+   "punch": 0.1221
+  },
+  "sent-2026-09-05::316d066f07bf": {
+   "id": "CRVI002015",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002015.jpg",
+   "original_px": [
+    2000,
+    1320
+   ],
+   "original_bytes": 2918460,
+   "identity": "sent-2026-09-05::316d066f07bf",
+   "source_url": "https://uploads5.wikiart.org/00166/images/tszen-fanchzhi/12272675285-4d29779f75-o-1.jpg",
+   "maker": "Zeng Fanzhi",
+   "title": "Mask series (watermelon)",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Zeng Fanzhi (filed there as 'tszen-fanchzhi', a transliteration of the Russian spelling). From the Mask series. The individual work's title and date are NOT established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/873.jpg",
+   "source_px": [
+    2000,
+    1320
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Zeng Fanzhi"
+    },
+    {
+     "k": "location",
+     "v": "China"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Zeng Fanzhi (filed there as 'tszen-fanchzhi', a transliteration of the Russian spelling). From the Mask series. The individual work's title and date are NOT established here.",
+   "hue": 7.79,
+   "light": 0.5557,
+   "chroma": 0.7406,
+   "punch": 0.1987
+  },
+  "sent-2026-09-05::5373e0b067e1": {
+   "id": "CRVI002016",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002016.jpg",
+   "original_px": [
+    1200,
+    1199
+   ],
+   "original_bytes": 879906,
+   "identity": "sent-2026-09-05::5373e0b067e1",
+   "source_url": "https://gagosian.com/media/images/quarterly/zeng-fanzhi-van-gogh/ertBh8pqkGYA_1200x1200.jpg",
+   "maker": "Zeng Fanzhi",
+   "title": "Van Gogh",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Gagosian, whose file path gives Zeng Fanzhi and the Van Gogh series. The individual work's number and date are NOT established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/874.jpg",
+   "source_px": [
+    1200,
+    1199
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Zeng Fanzhi"
+    },
+    {
+     "k": "location",
+     "v": "China"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Gagosian, whose file path gives Zeng Fanzhi and the Van Gogh series. The individual work's number and date are NOT established here.",
+   "hue": 14.41,
+   "light": 0.4089,
+   "chroma": 0.8441,
+   "punch": 0.3256
+  },
+  "sent-2026-09-05::22076475b941": {
+   "id": "CRVI002017",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002017.jpg",
+   "original_px": [
+    1440,
+    1441
+   ],
+   "original_bytes": 3167738,
+   "identity": "sent-2026-09-05::22076475b941",
+   "source_url": "https://aca-project.fr/wp-content/uploads/2018/01/Van-Gogh-IV-LR.jpg",
+   "maker": "Zeng Fanzhi",
+   "title": "Van Gogh IV",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "ACA Project, whose file name gives Van Gogh IV. The date is not established here.",
+   "notes": [
+    "Taken from the un-suffixed file at 1440 × 1441 rather than the 1024 × 1024 WordPress derivative the link carried."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/875.jpg",
+   "source_px": [
+    1440,
+    1441
+   ],
+   "colors": [
+    "cyan",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Zeng Fanzhi"
+    },
+    {
+     "k": "location",
+     "v": "China"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "ACA Project, whose file name gives Van Gogh IV. The date is not established here.",
+   "hue": 200.98,
+   "light": 0.4911,
+   "chroma": 0.4731,
+   "punch": 0.1435
+  },
+  "sent-2026-09-05::d5f61effb649": {
+   "id": "CRVI002018",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002018.jpg",
+   "original_px": [
+    1181,
+    951
+   ],
+   "original_bytes": 622589,
+   "identity": "sent-2026-09-05::d5f61effb649",
+   "source_url": "https://www.artdex.com/wp-content/uploads/2018/10/47981_hugex1.jpg",
+   "maker": "Zeng Fanzhi",
+   "title": "Night landscape with the Statue of Liberty",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Published by Artdex in a Zeng Fanzhi context. Thicket-like scribbled brushwork over a night cityscape, which is his later landscape manner — but the file name is only a stock number, so the attribution rests on the work. Title and date unestablished.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/876.jpg",
+   "source_px": [
+    1181,
+    951
+   ],
+   "colors": [
+    "cyan",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Zeng Fanzhi"
+    },
+    {
+     "k": "location",
+     "v": "China"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published by Artdex in a Zeng Fanzhi context. Thicket-like scribbled brushwork over a night cityscape, which is his later landscape manner — but the file name is only a stock number, so the attribution rests on the work. Title and date unestablished.",
+   "hue": 197.79,
+   "light": 0.2618,
+   "chroma": 0.5464,
+   "punch": 0.1827
+  },
+  "sent-2026-09-05::d1fade3d5082": {
+   "id": "CRVI002019",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002019.jpg",
+   "original_px": [
+    4000,
+    3021
+   ],
+   "original_bytes": 1409718,
+   "identity": "sent-2026-09-05::d1fade3d5082",
+   "source_url": "https://publicdelivery.org/wp-content/uploads/2016/12/Zhang-Xioagang-Bloodline-Series-Big-Family-Series-2006-lithograph-105.4x139.7cm.jpg",
+   "maker": "Zhang Xiaogang",
+   "title": "Bloodline Series: Big Family Series",
+   "subtitle": "",
+   "year": "2006",
+   "verified_against": "Public Delivery, whose file name gives it in full: Zhang Xiaogang, Bloodline Series / Big Family Series, 2006, lithograph, 105.4 × 139.7 cm. ⚠️ That file name misspells the surname 'Xioagang'; corrected here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/877.jpg",
+   "source_px": [
+    4000,
+    3021
+   ],
+   "colors": [
+    "cyan",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Zhang Xiaogang"
+    },
+    {
+     "k": "medium",
+     "v": "lithograph"
+    },
+    {
+     "k": "location",
+     "v": "China"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Public Delivery, whose file name gives it in full: Zhang Xiaogang, Bloodline Series / Big Family Series, 2006, lithograph, 105.4 × 139.7 cm. ⚠️ That file name misspells the surname 'Xioagang'; corrected here.",
+   "hue": 2.31,
+   "light": 0.4616,
+   "chroma": 0.1607,
+   "punch": 0.0679
+  },
+  "sent-2026-09-05::345bee891c0a": {
+   "id": "CRVI002020",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002020.jpg",
+   "original_px": [
+    2500,
+    2099
+   ],
+   "original_bytes": 1416081,
+   "identity": "sent-2026-09-05::345bee891c0a",
+   "source_url": "https://publicdelivery.org/wp-content/uploads/2016/12/Zhang-Xioagang-Bloodline-Series-Big-Family-No.-1-150x179m.jpg",
+   "maker": "Zhang Xiaogang",
+   "title": "Bloodline Series: Big Family No. 1",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Public Delivery, whose file name gives Bloodline Series, Big Family No. 1, 150 × 179 cm. The date is not established here. ⚠️ The same file name misspells the surname 'Xioagang'.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/878.jpg",
+   "source_px": [
+    2500,
+    2099
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Zhang Xiaogang"
+    },
+    {
+     "k": "location",
+     "v": "China"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Public Delivery, whose file name gives Bloodline Series, Big Family No. 1, 150 × 179 cm. The date is not established here. ⚠️ The same file name misspells the surname 'Xioagang'.",
+   "hue": 42.09,
+   "light": 0.2921,
+   "chroma": 0.1039,
+   "punch": 0.0679
+  },
+  "sent-2026-09-05::b359785a7182": {
+   "id": "CRVI002021",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002021.jpg",
+   "original_px": [
+    4681,
+    3138
+   ],
+   "original_bytes": 6323567,
+   "identity": "sent-2026-09-05::b359785a7182",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Subodh_gupta%27s_untitled_egg.JPG",
+   "maker": "Subodh Gupta",
+   "title": "Untitled (egg)",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Wikimedia Commons, as Subodh Gupta's untitled egg. An ovoid built from stainless steel kitchen vessels. The date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/879.jpg",
+   "source_px": [
+    4681,
+    3138
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Subodh Gupta"
+    },
+    {
+     "k": "location",
+     "v": "India"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons, as Subodh Gupta's untitled egg. An ovoid built from stainless steel kitchen vessels. The date is not established here.",
+   "hue": 30.27,
+   "light": 0.4306,
+   "chroma": 0.7974,
+   "punch": 0.2005
+  },
+  "sent-2026-09-05::ae3ed0f3b3d9": {
+   "id": "CRVI002022",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002022.jpg",
+   "original_px": [
+    2775,
+    3508
+   ],
+   "original_bytes": 2012130,
+   "identity": "sent-2026-09-05::ae3ed0f3b3d9",
+   "source_url": "https://arnolfini.org.uk/app/uploads/2022/10/KHER-103511-hires.jpg",
+   "maker": "Bharti Kher",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Arnolfini, whose file name gives KHER and marks the file 'hires'. The individual work's title and date are NOT established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/880.jpg",
+   "source_px": [
+    2775,
+    3508
+   ],
+   "colors": [
+    "red",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Bharti Kher"
+    },
+    {
+     "k": "location",
+     "v": "India"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Arnolfini, whose file name gives KHER and marks the file 'hires'. The individual work's title and date are NOT established here.",
+   "hue": 15.7,
+   "light": 0.5636,
+   "chroma": 0.7693,
+   "punch": 0.2452
+  },
+  "sent-2026-09-05::a04f6b851fb3": {
+   "id": "CRVI002023",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002023.jpg",
+   "original_px": [
+    2000,
+    3000
+   ],
+   "original_bytes": 290703,
+   "identity": "sent-2026-09-05::a04f6b851fb3",
+   "source_url": "https://i.pinimg.com/originals/4a/81/29/4a8129263f99fcb432986b5e1db85621.jpg",
+   "maker": "Unidentified",
+   "title": "Melting figure on an office chair",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "A Pinterest file with no provenance. A seated wax figure collapsing as it burns down, in the manner of Urs Fischer's candle sculptures — but nothing here establishes maker, title or date.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/881.jpg",
+   "source_px": [
+    2000,
+    3000
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A Pinterest file with no provenance. A seated wax figure collapsing as it burns down, in the manner of Urs Fischer's candle sculptures — but nothing here establishes maker, title or date.",
+   "hue": null,
+   "light": 0.7596,
+   "chroma": 0.0905,
+   "punch": 0.0366
+  },
+  "sent-2026-09-05::882bbd1f7529": {
+   "id": "CRVI002024",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002024.jpg",
+   "original_px": [
+    1000,
+    1000
+   ],
+   "original_bytes": 788809,
+   "identity": "sent-2026-09-05::882bbd1f7529",
+   "source_url": "https://image.jimcdn.com/app/cms/image/transf/none/path/s1a196fb2dc19a025/image/ibb8e1693a2de1d65/version/1611916706/image.jpg",
+   "maker": "Unidentified",
+   "title": "Pink poured painting",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "A Jimdo CDN asset whose URL is an opaque identifier. Pink pigment poured and dragged down a white ground, framed. Maker, title and date unestablished.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/882.jpg",
+   "source_px": [
+    1000,
+    1000
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A Jimdo CDN asset whose URL is an opaque identifier. Pink pigment poured and dragged down a white ground, framed. Maker, title and date unestablished.",
+   "hue": 9.09,
+   "light": 0.8105,
+   "chroma": 0.4563,
+   "punch": 0.1174
+  },
+  "sent-2026-09-05::8b43975188f9": {
+   "id": "CRVI002025",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002025.jpg",
+   "original_px": [
+    800,
+    956
+   ],
+   "original_bytes": 204442,
+   "identity": "sent-2026-09-05::8b43975188f9",
+   "source_url": "https://uploads1.wikiart.org/00166/images/neo-rauch/mars-2002.jpg",
+   "maker": "Neo Rauch",
+   "title": "Mars",
+   "subtitle": "",
+   "year": "2002",
+   "verified_against": "WikiArt, under Neo Rauch, dated 2002.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/883.jpg",
+   "source_px": [
+    800,
+    956
+   ],
+   "colors": [
+    "yellow",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Neo Rauch"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Neo Rauch, dated 2002.",
+   "hue": 53.88,
+   "light": 0.4873,
+   "chroma": 0.458,
+   "punch": 0.1702
+  },
+  "sent-2026-09-05::e267c8f41904": {
+   "id": "CRVI002026",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002026.jpg",
+   "original_px": [
+    905,
+    1080
+   ],
+   "original_bytes": 363724,
+   "identity": "sent-2026-09-05::e267c8f41904",
+   "source_url": "https://uploads7.wikiart.org/00166/images/neo-rauch/entfaltung-2008.jpg",
+   "maker": "Neo Rauch",
+   "title": "Entfaltung",
+   "subtitle": "",
+   "year": "2008",
+   "verified_against": "WikiArt, under Neo Rauch, dated 2008.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/884.jpg",
+   "source_px": [
+    905,
+    1080
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Neo Rauch"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Neo Rauch, dated 2008.",
+   "hue": 210.99,
+   "light": 0.3064,
+   "chroma": 0.5528,
+   "punch": 0.1473
+  },
+  "sent-2026-09-05::704cb5b09e20": {
+   "id": "CRVI002027",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002027.jpg",
+   "original_px": [
+    800,
+    1055
+   ],
+   "original_bytes": 221450,
+   "identity": "sent-2026-09-05::704cb5b09e20",
+   "source_url": "https://uploads2.wikiart.org/00166/images/neo-rauch/vater-2007.jpg",
+   "maker": "Neo Rauch",
+   "title": "Vater",
+   "subtitle": "",
+   "year": "2007",
+   "verified_against": "WikiArt, under Neo Rauch, dated 2007.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/885.jpg",
+   "source_px": [
+    800,
+    1055
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Neo Rauch"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Neo Rauch, dated 2007.",
+   "hue": 41.48,
+   "light": 0.3679,
+   "chroma": 0.4642,
+   "punch": 0.1241
+  },
+  "sent-2026-09-05::d3242d170ec3": {
+   "id": "CRVI002028",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002028.jpg",
+   "original_px": [
+    1530,
+    1080
+   ],
+   "original_bytes": 457541,
+   "identity": "sent-2026-09-05::d3242d170ec3",
+   "source_url": "https://uploads1.wikiart.org/00166/images/neo-rauch/die-stickerin-2008.jpg",
+   "maker": "Neo Rauch",
+   "title": "Die Stickerin",
+   "subtitle": "",
+   "year": "2008",
+   "verified_against": "WikiArt, under Neo Rauch, dated 2008.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/886.jpg",
+   "source_px": [
+    1530,
+    1080
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Neo Rauch"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Neo Rauch, dated 2008.",
+   "hue": 213.93,
+   "light": 0.2432,
+   "chroma": 0.448,
+   "punch": 0.1017
+  },
+  "sent-2026-09-05::d2692a4f445c": {
+   "id": "CRVI002029",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002029.jpg",
+   "original_px": [
+    851,
+    1200
+   ],
+   "original_bytes": 523540,
+   "identity": "sent-2026-09-05::d2692a4f445c",
+   "source_url": "https://gagosian.com/media/images/exhibitions/2023/rudolf-stingel/68nSvcStdc91_1200x1200.jpg",
+   "maker": "Rudolf Stingel",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "2023",
+   "verified_against": "Gagosian, whose file path gives Rudolf Stingel and the 2023 exhibition it was shown in. The individual work's title is NOT established here, and 2023 is the exhibition's year rather than necessarily the painting's.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/887.jpg",
+   "source_px": [
+    851,
+    1200
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Rudolf Stingel"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Gagosian, whose file path gives Rudolf Stingel and the 2023 exhibition it was shown in. The individual work's title is NOT established here, and 2023 is the exhibition's year rather than necessarily the painting's.",
+   "hue": 45.03,
+   "light": 0.3991,
+   "chroma": 0.3972,
+   "punch": 0.14
   }
  }
 }

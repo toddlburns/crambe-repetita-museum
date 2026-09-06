@@ -106828,6 +106828,854 @@
    "hue": 214.97,
    "light": 0.7945,
    "chroma": 0.3993
+  },
+  {
+   "id": "CRVI002012",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.0464,
+   "source_url": "https://www.dreamideamachine.com/web/wp-content/uploads/2018/02/041.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002012.jpg",
+   "source_label": "",
+   "image": "images/CRVI002012.jpg",
+   "original": "originals/CRVI002012.jpg",
+   "vector": "",
+   "original_px": [
+    800,
+    800
+   ],
+   "original_bytes": 257049,
+   "maker": "Kohei Nawa",
+   "title": "PixCell-Deer",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Kohei Nawa"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 29.04,
+   "light": 0.6353,
+   "chroma": 0.1265
+  },
+  {
+   "id": "CRVI002013",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1627,
+   "source_url": "https://cawa.art/wp-content/uploads/2024/08/2-cao-fei-duotopia-2.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002013.jpg",
+   "source_label": "",
+   "image": "images/CRVI002013.jpg",
+   "original": "originals/CRVI002013.jpg",
+   "vector": "",
+   "original_px": [
+    4535,
+    3401
+   ],
+   "original_bytes": 895195,
+   "maker": "Cao Fei",
+   "title": "Duotopia",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Cao Fei"
+    },
+    {
+     "k": "location",
+     "v": "China"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 225.68,
+   "light": 0.4908,
+   "chroma": 0.5226
+  },
+  {
+   "id": "CRVI002014",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1221,
+   "source_url": "https://files.ocula.com/anzax/19/1972ca5a-7891-4ec6-9033-07e955cf1273_1200_1107.JPG",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002014.jpg",
+   "source_label": "",
+   "image": "images/CRVI002014.jpg",
+   "original": "originals/CRVI002014.jpg",
+   "vector": "",
+   "original_px": [
+    1200,
+    1107
+   ],
+   "original_bytes": 146290,
+   "maker": "Unidentified",
+   "title": "Assemblage of painted frames",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 36.26,
+   "light": 0.6804,
+   "chroma": 0.2457
+  },
+  {
+   "id": "CRVI002015",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1987,
+   "source_url": "https://uploads5.wikiart.org/00166/images/tszen-fanchzhi/12272675285-4d29779f75-o-1.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002015.jpg",
+   "source_label": "",
+   "image": "images/CRVI002015.jpg",
+   "original": "originals/CRVI002015.jpg",
+   "vector": "",
+   "original_px": [
+    2000,
+    1320
+   ],
+   "original_bytes": 2918460,
+   "maker": "Zeng Fanzhi",
+   "title": "Mask series (watermelon)",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Zeng Fanzhi"
+    },
+    {
+     "k": "location",
+     "v": "China"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 7.79,
+   "light": 0.5557,
+   "chroma": 0.7406
+  },
+  {
+   "id": "CRVI002016",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.3256,
+   "source_url": "https://gagosian.com/media/images/quarterly/zeng-fanzhi-van-gogh/ertBh8pqkGYA_1200x1200.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002016.jpg",
+   "source_label": "",
+   "image": "images/CRVI002016.jpg",
+   "original": "originals/CRVI002016.jpg",
+   "vector": "",
+   "original_px": [
+    1200,
+    1199
+   ],
+   "original_bytes": 879906,
+   "maker": "Zeng Fanzhi",
+   "title": "Van Gogh",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Zeng Fanzhi"
+    },
+    {
+     "k": "location",
+     "v": "China"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 14.41,
+   "light": 0.4089,
+   "chroma": 0.8441
+  },
+  {
+   "id": "CRVI002017",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1435,
+   "source_url": "https://aca-project.fr/wp-content/uploads/2018/01/Van-Gogh-IV-LR.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002017.jpg",
+   "source_label": "",
+   "image": "images/CRVI002017.jpg",
+   "original": "originals/CRVI002017.jpg",
+   "vector": "",
+   "original_px": [
+    1440,
+    1441
+   ],
+   "original_bytes": 3167738,
+   "maker": "Zeng Fanzhi",
+   "title": "Van Gogh IV",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Zeng Fanzhi"
+    },
+    {
+     "k": "location",
+     "v": "China"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 200.98,
+   "light": 0.4911,
+   "chroma": 0.4731
+  },
+  {
+   "id": "CRVI002018",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1827,
+   "source_url": "https://www.artdex.com/wp-content/uploads/2018/10/47981_hugex1.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002018.jpg",
+   "source_label": "",
+   "image": "images/CRVI002018.jpg",
+   "original": "originals/CRVI002018.jpg",
+   "vector": "",
+   "original_px": [
+    1181,
+    951
+   ],
+   "original_bytes": 622589,
+   "maker": "Zeng Fanzhi",
+   "title": "Night landscape with the Statue of Liberty",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Zeng Fanzhi"
+    },
+    {
+     "k": "location",
+     "v": "China"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 197.79,
+   "light": 0.2618,
+   "chroma": 0.5464
+  },
+  {
+   "id": "CRVI002019",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.0679,
+   "source_url": "https://publicdelivery.org/wp-content/uploads/2016/12/Zhang-Xioagang-Bloodline-Series-Big-Family-Series-2006-lithograph-105.4x139.7cm.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002019.jpg",
+   "source_label": "",
+   "image": "images/CRVI002019.jpg",
+   "original": "originals/CRVI002019.jpg",
+   "vector": "",
+   "original_px": [
+    4000,
+    3021
+   ],
+   "original_bytes": 1409718,
+   "maker": "Zhang Xiaogang",
+   "title": "Bloodline Series: Big Family Series",
+   "subtitle": "",
+   "year": "2006",
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Zhang Xiaogang"
+    },
+    {
+     "k": "medium",
+     "v": "lithograph"
+    },
+    {
+     "k": "location",
+     "v": "China"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 2.31,
+   "light": 0.4616,
+   "chroma": 0.1607
+  },
+  {
+   "id": "CRVI002020",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.0679,
+   "source_url": "https://publicdelivery.org/wp-content/uploads/2016/12/Zhang-Xioagang-Bloodline-Series-Big-Family-No.-1-150x179m.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002020.jpg",
+   "source_label": "",
+   "image": "images/CRVI002020.jpg",
+   "original": "originals/CRVI002020.jpg",
+   "vector": "",
+   "original_px": [
+    2500,
+    2099
+   ],
+   "original_bytes": 1416081,
+   "maker": "Zhang Xiaogang",
+   "title": "Bloodline Series: Big Family No. 1",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Zhang Xiaogang"
+    },
+    {
+     "k": "location",
+     "v": "China"
+    },
+    {
+     "k": "color",
+     "v": "neutral"
+    }
+   ],
+   "hue": 42.09,
+   "light": 0.2921,
+   "chroma": 0.1039
+  },
+  {
+   "id": "CRVI002021",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.2005,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Subodh_gupta%27s_untitled_egg.JPG",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002021.jpg",
+   "source_label": "",
+   "image": "images/CRVI002021.jpg",
+   "original": "originals/CRVI002021.jpg",
+   "vector": "",
+   "original_px": [
+    4681,
+    3138
+   ],
+   "original_bytes": 6323567,
+   "maker": "Subodh Gupta",
+   "title": "Untitled (egg)",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Subodh Gupta"
+    },
+    {
+     "k": "location",
+     "v": "India"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 30.27,
+   "light": 0.4306,
+   "chroma": 0.7974
+  },
+  {
+   "id": "CRVI002022",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.2452,
+   "source_url": "https://arnolfini.org.uk/app/uploads/2022/10/KHER-103511-hires.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002022.jpg",
+   "source_label": "",
+   "image": "images/CRVI002022.jpg",
+   "original": "originals/CRVI002022.jpg",
+   "vector": "",
+   "original_px": [
+    2775,
+    3508
+   ],
+   "original_bytes": 2012130,
+   "maker": "Bharti Kher",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Bharti Kher"
+    },
+    {
+     "k": "location",
+     "v": "India"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 15.7,
+   "light": 0.5636,
+   "chroma": 0.7693
+  },
+  {
+   "id": "CRVI002023",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.0366,
+   "source_url": "https://i.pinimg.com/originals/4a/81/29/4a8129263f99fcb432986b5e1db85621.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002023.jpg",
+   "source_label": "",
+   "image": "images/CRVI002023.jpg",
+   "original": "originals/CRVI002023.jpg",
+   "vector": "",
+   "original_px": [
+    2000,
+    3000
+   ],
+   "original_bytes": 290703,
+   "maker": "Unidentified",
+   "title": "Melting figure on an office chair",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": null,
+   "light": 0.7596,
+   "chroma": 0.0905
+  },
+  {
+   "id": "CRVI002024",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1174,
+   "source_url": "https://image.jimcdn.com/app/cms/image/transf/none/path/s1a196fb2dc19a025/image/ibb8e1693a2de1d65/version/1611916706/image.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002024.jpg",
+   "source_label": "",
+   "image": "images/CRVI002024.jpg",
+   "original": "originals/CRVI002024.jpg",
+   "vector": "",
+   "original_px": [
+    1000,
+    1000
+   ],
+   "original_bytes": 788809,
+   "maker": "Unidentified",
+   "title": "Pink poured painting",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 9.09,
+   "light": 0.8105,
+   "chroma": 0.4563
+  },
+  {
+   "id": "CRVI002025",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1702,
+   "source_url": "https://uploads1.wikiart.org/00166/images/neo-rauch/mars-2002.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002025.jpg",
+   "source_label": "",
+   "image": "images/CRVI002025.jpg",
+   "original": "originals/CRVI002025.jpg",
+   "vector": "",
+   "original_px": [
+    800,
+    956
+   ],
+   "original_bytes": 204442,
+   "maker": "Neo Rauch",
+   "title": "Mars",
+   "subtitle": "",
+   "year": "2002",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Neo Rauch"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 53.88,
+   "light": 0.4873,
+   "chroma": 0.458
+  },
+  {
+   "id": "CRVI002026",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1473,
+   "source_url": "https://uploads7.wikiart.org/00166/images/neo-rauch/entfaltung-2008.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002026.jpg",
+   "source_label": "",
+   "image": "images/CRVI002026.jpg",
+   "original": "originals/CRVI002026.jpg",
+   "vector": "",
+   "original_px": [
+    905,
+    1080
+   ],
+   "original_bytes": 363724,
+   "maker": "Neo Rauch",
+   "title": "Entfaltung",
+   "subtitle": "",
+   "year": "2008",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Neo Rauch"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 210.99,
+   "light": 0.3064,
+   "chroma": 0.5528
+  },
+  {
+   "id": "CRVI002027",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1241,
+   "source_url": "https://uploads2.wikiart.org/00166/images/neo-rauch/vater-2007.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002027.jpg",
+   "source_label": "",
+   "image": "images/CRVI002027.jpg",
+   "original": "originals/CRVI002027.jpg",
+   "vector": "",
+   "original_px": [
+    800,
+    1055
+   ],
+   "original_bytes": 221450,
+   "maker": "Neo Rauch",
+   "title": "Vater",
+   "subtitle": "",
+   "year": "2007",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Neo Rauch"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 41.48,
+   "light": 0.3679,
+   "chroma": 0.4642
+  },
+  {
+   "id": "CRVI002028",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1017,
+   "source_url": "https://uploads1.wikiart.org/00166/images/neo-rauch/die-stickerin-2008.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002028.jpg",
+   "source_label": "",
+   "image": "images/CRVI002028.jpg",
+   "original": "originals/CRVI002028.jpg",
+   "vector": "",
+   "original_px": [
+    1530,
+    1080
+   ],
+   "original_bytes": 457541,
+   "maker": "Neo Rauch",
+   "title": "Die Stickerin",
+   "subtitle": "",
+   "year": "2008",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Neo Rauch"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 213.93,
+   "light": 0.2432,
+   "chroma": 0.448
+  },
+  {
+   "id": "CRVI002029",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.14,
+   "source_url": "https://gagosian.com/media/images/exhibitions/2023/rudolf-stingel/68nSvcStdc91_1200x1200.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002029.jpg",
+   "source_label": "",
+   "image": "images/CRVI002029.jpg",
+   "original": "originals/CRVI002029.jpg",
+   "vector": "",
+   "original_px": [
+    851,
+    1200
+   ],
+   "original_bytes": 523540,
+   "maker": "Rudolf Stingel",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "2023",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Rudolf Stingel"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 45.03,
+   "light": 0.3991,
+   "chroma": 0.3972
   }
  ]
 }
