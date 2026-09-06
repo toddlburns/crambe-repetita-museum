@@ -1,5 +1,5 @@
 {
- "next": 1647,
+ "next": 1670,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -97865,6 +97865,1292 @@
    "light": 0.3827,
    "chroma": 0.837,
    "punch": 0.2733
+  },
+  "sent-2026-09-05::af8cb79181b2": {
+   "id": "CRVI001647",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001647.jpg",
+   "original_px": [
+    2597,
+    3400
+   ],
+   "original_bytes": 6960148,
+   "identity": "sent-2026-09-05::af8cb79181b2",
+   "source_url": "https://openaccess-cdn.clevelandart.org/1929.889/1929.889_print.jpg",
+   "maker": "Pablo Picasso",
+   "title": "Head of a Woman: Madeleine",
+   "subtitle": "",
+   "year": "1905, printed 1913",
+   "verified_against": "Cleveland Museum of Art, accession 1929.889 — the museum's own open-access record gives Pablo Picasso (Spanish, 1881–1973), Head of a Woman: Madeleine, 1905, printed 1913.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/270.jpg",
+   "source_px": [
+    2597,
+    3400
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Pablo Picasso"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Cleveland Museum of Art, accession 1929.889 — the museum's own open-access record gives Pablo Picasso (Spanish, 1881–1973), Head of a Woman: Madeleine, 1905, printed 1913.",
+   "hue": 42.74,
+   "light": 0.5094,
+   "chroma": 0.1367,
+   "punch": 0.0608
+  },
+  "sent-2026-09-05::0a4700acb77c": {
+   "id": "CRVI001648",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001648.jpg",
+   "original_px": [
+    843,
+    1256
+   ],
+   "original_bytes": 223747,
+   "identity": "sent-2026-09-05::0a4700acb77c",
+   "source_url": "https://www.artic.edu/iiif/2/4e7f3081-179a-af18-8abd-7908a7ae8c4e/full/843,/0/default.jpg",
+   "maker": "Pablo Picasso",
+   "title": "The Old Guitarist",
+   "subtitle": "",
+   "year": "late 1903–early 1904",
+   "verified_against": "Art Institute of Chicago, artwork 28067 — the museum's API resolves this image id to Pablo Picasso, The Old Guitarist, late 1903–early 1904.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/271.jpg",
+   "source_px": [
+    843,
+    1256
+   ],
+   "colors": [
+    "cyan",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Pablo Picasso"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Institute of Chicago, artwork 28067 — the museum's API resolves this image id to Pablo Picasso, The Old Guitarist, late 1903–early 1904.",
+   "hue": 195.69,
+   "light": 0.239,
+   "chroma": 0.5956,
+   "punch": 0.1075
+  },
+  "sent-2026-09-05::cb906d2b4b48": {
+   "id": "CRVI001649",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001649.jpg",
+   "original_px": [
+    2826,
+    3400
+   ],
+   "original_bytes": 4249312,
+   "identity": "sent-2026-09-05::cb906d2b4b48",
+   "source_url": "https://openaccess-cdn.clevelandart.org/1929.888/1929.888_print.jpg",
+   "maker": "Pablo Picasso",
+   "title": "The Frugal Meal",
+   "subtitle": "",
+   "year": "September 1904, printed 1913",
+   "verified_against": "Cleveland Museum of Art, accession 1929.888 — the museum's own open-access record gives Pablo Picasso (Spanish, 1881–1973), The Frugal Meal, September 1904, printed 1913.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/272.jpg",
+   "source_px": [
+    2826,
+    3400
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Pablo Picasso"
+    },
+    {
+     "k": "medium",
+     "v": "etching"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Cleveland Museum of Art, accession 1929.888 — the museum's own open-access record gives Pablo Picasso (Spanish, 1881–1973), The Frugal Meal, September 1904, printed 1913.",
+   "hue": 35.0,
+   "light": 0.5768,
+   "chroma": 0.5696,
+   "punch": 0.1709
+  },
+  "sent-2026-09-05::cc9a2a2167b9": {
+   "id": "CRVI001650",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001650.jpg",
+   "original_px": [
+    843,
+    1077
+   ],
+   "original_bytes": 374522,
+   "identity": "sent-2026-09-05::cc9a2a2167b9",
+   "source_url": "https://www.artic.edu/iiif/2/4f7ccf9f-a8ce-2bd8-2d15-a38b2e6caa7a/full/843,/0/default.jpg",
+   "maker": "Juan Gris",
+   "title": "Portrait of Pablo Picasso",
+   "subtitle": "",
+   "year": "January–February 1912",
+   "verified_against": "Art Institute of Chicago, artwork 8624 — the museum's API resolves this image id to Juan Gris, Portrait of Pablo Picasso, January–February 1912.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/273.jpg",
+   "source_px": [
+    843,
+    1077
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Juan Gris"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "Cubism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Institute of Chicago, artwork 8624 — the museum's API resolves this image id to Juan Gris, Portrait of Pablo Picasso, January–February 1912.",
+   "hue": 207.39,
+   "light": 0.4574,
+   "chroma": 0.2113,
+   "punch": 0.0897
+  },
+  "sent-2026-09-05::06f56e6edeb4": {
+   "id": "CRVI001651",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001651.jpg",
+   "original_px": [
+    1016,
+    1234
+   ],
+   "original_bytes": 376828,
+   "identity": "sent-2026-09-05::06f56e6edeb4",
+   "source_url": "https://uploads3.wikiart.org/images/juan-gris/portrait-of-maurice-raynal-1911.jpg",
+   "maker": "Juan Gris",
+   "title": "Portrait of Maurice Raynal",
+   "subtitle": "",
+   "year": "1911",
+   "verified_against": "WikiArt, under Juan Gris, dated 1911.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/274.jpg",
+   "source_px": [
+    1016,
+    1234
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Juan Gris"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "Cubism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Juan Gris, dated 1911.",
+   "hue": 20.93,
+   "light": 0.4361,
+   "chroma": 0.3739,
+   "punch": 0.1062
+  },
+  "sent-2026-09-05::1216e81168a4": {
+   "id": "CRVI001652",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001652.jpg",
+   "original_px": [
+    899,
+    1170
+   ],
+   "original_bytes": 204257,
+   "identity": "sent-2026-09-05::1216e81168a4",
+   "source_url": "https://uploads6.wikiart.org/images/juan-gris/three-lamps-1911.jpg",
+   "maker": "Juan Gris",
+   "title": "Three Lamps",
+   "subtitle": "",
+   "year": "1911",
+   "verified_against": "WikiArt, under Juan Gris, dated 1911.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/275.jpg",
+   "source_px": [
+    899,
+    1170
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Juan Gris"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "Cubism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Juan Gris, dated 1911.",
+   "hue": 46.45,
+   "light": 0.7025,
+   "chroma": 0.7197,
+   "punch": 0.1342
+  },
+  "sent-2026-09-05::e657d8a2aa10": {
+   "id": "CRVI001653",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001653.jpg",
+   "original_px": [
+    993,
+    1199
+   ],
+   "original_bytes": 264650,
+   "identity": "sent-2026-09-05::e657d8a2aa10",
+   "source_url": "https://uploads3.wikiart.org/images/juan-gris/bottles-and-knife-1912.jpg",
+   "maker": "Juan Gris",
+   "title": "Bottles and Knife",
+   "subtitle": "",
+   "year": "1912",
+   "verified_against": "WikiArt, under Juan Gris, dated 1912.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/276.jpg",
+   "source_px": [
+    993,
+    1199
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Juan Gris"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "Cubism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Juan Gris, dated 1912.",
+   "hue": 42.76,
+   "light": 0.6044,
+   "chroma": 0.2892,
+   "punch": 0.0623
+  },
+  "sent-2026-09-05::1bbdb864a6e2": {
+   "id": "CRVI001654",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001654.jpg",
+   "original_px": [
+    984,
+    1183
+   ],
+   "original_bytes": 394853,
+   "identity": "sent-2026-09-05::1bbdb864a6e2",
+   "source_url": "https://uploads8.wikiart.org/images/juan-gris/portrait-of-the-artist-s-mother-1912.jpg",
+   "maker": "Juan Gris",
+   "title": "Portrait of the Artist's Mother",
+   "subtitle": "",
+   "year": "1912",
+   "verified_against": "WikiArt, under Juan Gris, dated 1912.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/277.jpg",
+   "source_px": [
+    984,
+    1183
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Juan Gris"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "Cubism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Juan Gris, dated 1912.",
+   "hue": 40.29,
+   "light": 0.4943,
+   "chroma": 0.4106,
+   "punch": 0.1015
+  },
+  "sent-2026-09-05::f429354ef243": {
+   "id": "CRVI001655",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001655.jpg",
+   "original_px": [
+    848,
+    1234
+   ],
+   "original_bytes": 328862,
+   "identity": "sent-2026-09-05::f429354ef243",
+   "source_url": "https://uploads4.wikiart.org/images/juan-gris/portrait-of-germaine-raynal-1912.jpg",
+   "maker": "Juan Gris",
+   "title": "Portrait of Germaine Raynal",
+   "subtitle": "",
+   "year": "1912",
+   "verified_against": "WikiArt, under Juan Gris, dated 1912.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/278.jpg",
+   "source_px": [
+    848,
+    1234
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Juan Gris"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "Cubism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Juan Gris, dated 1912.",
+   "hue": 226.73,
+   "light": 0.4684,
+   "chroma": 0.3278,
+   "punch": 0.0754
+  },
+  "sent-2026-09-05::cfa92c831188": {
+   "id": "CRVI001656",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001656.jpg",
+   "original_px": [
+    846,
+    1241
+   ],
+   "original_bytes": 234385,
+   "identity": "sent-2026-09-05::cfa92c831188",
+   "source_url": "https://uploads1.wikiart.org/images/juan-gris/man-in-the-cafe-1912.jpg",
+   "maker": "Juan Gris",
+   "title": "Man in the Café",
+   "subtitle": "",
+   "year": "1912",
+   "verified_against": "WikiArt, under Juan Gris, dated 1912.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/279.jpg",
+   "source_px": [
+    846,
+    1241
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Juan Gris"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "Cubism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Juan Gris, dated 1912.",
+   "hue": 35.74,
+   "light": 0.4387,
+   "chroma": 0.3497,
+   "punch": 0.0751
+  },
+  "sent-2026-09-05::348041934b3f": {
+   "id": "CRVI001657",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001657.jpg",
+   "original_px": [
+    802,
+    1247
+   ],
+   "original_bytes": 295021,
+   "identity": "sent-2026-09-05::348041934b3f",
+   "source_url": "https://uploads2.wikiart.org/images/juan-gris/guitar-and-glass-1912.jpg",
+   "maker": "Juan Gris",
+   "title": "Guitar and Glass",
+   "subtitle": "",
+   "year": "1912",
+   "verified_against": "WikiArt, under Juan Gris, dated 1912.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/280.jpg",
+   "source_px": [
+    802,
+    1247
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Juan Gris"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "Cubism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Juan Gris, dated 1912.",
+   "hue": 42.55,
+   "light": 0.6568,
+   "chroma": 0.7177,
+   "punch": 0.1671
+  },
+  "sent-2026-09-05::dc28a5bf539f": {
+   "id": "CRVI001658",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001658.jpg",
+   "original_px": [
+    1727,
+    2126
+   ],
+   "original_bytes": 3121520,
+   "identity": "sent-2026-09-05::dc28a5bf539f",
+   "source_url": "https://uploads7.wikiart.org/images/albert-gleizes/football-players-1912.jpg",
+   "maker": "Albert Gleizes",
+   "title": "Football Players",
+   "subtitle": "",
+   "year": "1912",
+   "verified_against": "WikiArt, under Albert Gleizes, dated 1912.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/281.jpg",
+   "source_px": [
+    1727,
+    2126
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Albert Gleizes"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "Cubism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Albert Gleizes, dated 1912.",
+   "hue": 243.97,
+   "light": 0.4484,
+   "chroma": 0.2587,
+   "punch": 0.0838
+  },
+  "sent-2026-09-05::86d82cd3e985": {
+   "id": "CRVI001659",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001659.jpg",
+   "original_px": [
+    2100,
+    2744
+   ],
+   "original_bytes": 1029383,
+   "identity": "sent-2026-09-05::86d82cd3e985",
+   "source_url": "https://uploads8.wikiart.org/images/albert-gleizes/on-a-sailboat.jpg",
+   "maker": "Albert Gleizes",
+   "title": "On a Sailboat",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Albert Gleizes; the date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/282.jpg",
+   "source_px": [
+    2100,
+    2744
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Albert Gleizes"
+    },
+    {
+     "k": "subject",
+     "v": "Cubism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Albert Gleizes; the date is not established here.",
+   "hue": 214.92,
+   "light": 0.358,
+   "chroma": 0.7236,
+   "punch": 0.2228
+  },
+  "sent-2026-09-05::ffe5ba387349": {
+   "id": "CRVI001660",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001660.jpg",
+   "original_px": [
+    2008,
+    1575
+   ],
+   "original_bytes": 650064,
+   "identity": "sent-2026-09-05::ffe5ba387349",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Albert_Gleizes_-_Bermuda_-_A-2002-242_-_Finnish_National_Gallery.jpg",
+   "maker": "Albert Gleizes",
+   "title": "Bermuda",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Wikimedia Commons, as Albert Gleizes, Bermuda, accession A-2002-242, Finnish National Gallery. The date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/283.jpg",
+   "source_px": [
+    2008,
+    1575
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Albert Gleizes"
+    },
+    {
+     "k": "subject",
+     "v": "Cubism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons, as Albert Gleizes, Bermuda, accession A-2002-242, Finnish National Gallery. The date is not established here.",
+   "hue": 44.96,
+   "light": 0.5565,
+   "chroma": 0.3321,
+   "punch": 0.098
+  },
+  "sent-2026-09-05::a1eda2bf4cd3": {
+   "id": "CRVI001661",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001661.jpg",
+   "original_px": [
+    820,
+    1004
+   ],
+   "original_bytes": 225945,
+   "identity": "sent-2026-09-05::a1eda2bf4cd3",
+   "source_url": "https://uploads0.wikiart.org/images/jean-metzinger/femme-assise-au-bouquet-de-feuillage-1905.jpg",
+   "maker": "Jean Metzinger",
+   "title": "Femme assise au bouquet de feuillage",
+   "subtitle": "",
+   "year": "1905",
+   "verified_against": "WikiArt, under Jean Metzinger, dated 1905; signed J. Metzinger at the lower left.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/284.jpg",
+   "source_px": [
+    820,
+    1004
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Jean Metzinger"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "subject",
+     "v": "Cubism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Jean Metzinger, dated 1905; signed J. Metzinger at the lower left.",
+   "hue": 42.15,
+   "light": 0.5998,
+   "chroma": 0.8897,
+   "punch": 0.3945
+  },
+  "sent-2026-09-05::b56025ad2a22": {
+   "id": "CRVI001662",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001662.jpg",
+   "original_px": [
+    843,
+    1203
+   ],
+   "original_bytes": 339667,
+   "identity": "sent-2026-09-05::b56025ad2a22",
+   "source_url": "https://www.artic.edu/iiif/2/05bee16c-441b-7cf2-b4c1-3bcb3a3256c5/full/843,/0/default.jpg",
+   "maker": "Jean Metzinger",
+   "title": "Woman with a Fan",
+   "subtitle": "",
+   "year": "1913",
+   "verified_against": "Art Institute of Chicago, artwork 9527 — the museum's API resolves this image id to Jean Metzinger, Woman with a Fan, 1913.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/285.jpg",
+   "source_px": [
+    843,
+    1203
+   ],
+   "colors": [
+    "orange",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Jean Metzinger"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "Cubism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Institute of Chicago, artwork 9527 — the museum's API resolves this image id to Jean Metzinger, Woman with a Fan, 1913.",
+   "hue": 33.39,
+   "light": 0.3471,
+   "chroma": 0.3619,
+   "punch": 0.1328
+  },
+  "sent-2026-09-05::a13358ee1dff": {
+   "id": "CRVI001663",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001663.jpg",
+   "original_px": [
+    843,
+    1181
+   ],
+   "original_bytes": 226034,
+   "identity": "sent-2026-09-05::a13358ee1dff",
+   "source_url": "https://uploads0.wikiart.org/images/jean-metzinger/bacchante-1906.jpg",
+   "maker": "Jean Metzinger",
+   "title": "Bacchante",
+   "subtitle": "",
+   "year": "1906",
+   "verified_against": "WikiArt, under Jean Metzinger, dated 1906.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/286.jpg",
+   "source_px": [
+    843,
+    1181
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Jean Metzinger"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "subject",
+     "v": "Cubism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Jean Metzinger, dated 1906.",
+   "hue": 45.17,
+   "light": 0.5868,
+   "chroma": 0.8325,
+   "punch": 0.3323
+  },
+  "sent-2026-09-05::45ccfa2bc4c9": {
+   "id": "CRVI001664",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001664.jpg",
+   "original_px": [
+    1181,
+    863
+   ],
+   "original_bytes": 214269,
+   "identity": "sent-2026-09-05::45ccfa2bc4c9",
+   "source_url": "https://uploads2.wikiart.org/images/jean-metzinger/petit-port-pecheurs-et-bateaux-au-quai-1906.jpg",
+   "maker": "Jean Metzinger",
+   "title": "Petit port, pêcheurs et bateaux au quai",
+   "subtitle": "",
+   "year": "1906",
+   "verified_against": "WikiArt, under Jean Metzinger, dated 1906.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/287.jpg",
+   "source_px": [
+    1181,
+    863
+   ],
+   "colors": [
+    "yellow",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Jean Metzinger"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "subject",
+     "v": "Cubism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Jean Metzinger, dated 1906.",
+   "hue": 47.24,
+   "light": 0.5933,
+   "chroma": 0.6782,
+   "punch": 0.1936
+  },
+  "sent-2026-09-05::d79f44c985d0": {
+   "id": "CRVI001665",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001665.jpg",
+   "original_px": [
+    843,
+    1059
+   ],
+   "original_bytes": 288983,
+   "identity": "sent-2026-09-05::d79f44c985d0",
+   "source_url": "https://www.artic.edu/iiif/2/8f5f8f8f-8765-b04e-8ffa-f4379d9511f5/full/843,/0/default.jpg",
+   "maker": "Robert Delaunay",
+   "title": "Champs de Mars: The Red Tower",
+   "subtitle": "",
+   "year": "1911/23",
+   "verified_against": "Art Institute of Chicago, artwork 9503 — the museum's API resolves this image id to Robert Delaunay, Champs de Mars: The Red Tower, 1911/23.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/288.jpg",
+   "source_px": [
+    843,
+    1059
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Robert Delaunay"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "Cubism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Institute of Chicago, artwork 9503 — the museum's API resolves this image id to Robert Delaunay, Champs de Mars: The Red Tower, 1911/23.",
+   "hue": 30.91,
+   "light": 0.4588,
+   "chroma": 0.3919,
+   "punch": 0.1125
+  },
+  "sent-2026-09-05::a9e8fdb5636c": {
+   "id": "CRVI001666",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001666.jpg",
+   "original_px": [
+    1600,
+    1569
+   ],
+   "original_bytes": 438514,
+   "identity": "sent-2026-09-05::a9e8fdb5636c",
+   "source_url": "https://uploads4.wikiart.org/images/robert-delaunay/rhythm-1.jpg",
+   "maker": "Robert Delaunay",
+   "title": "Rythme n° 1",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Robert Delaunay as Rhythm 1; the date is not established here.",
+   "notes": [
+    "Two panels of concentric discs, hung as a pair."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/289.jpg",
+   "source_px": [
+    1600,
+    1569
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Robert Delaunay"
+    },
+    {
+     "k": "subject",
+     "v": "Orphism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Robert Delaunay as Rhythm 1; the date is not established here.",
+   "hue": 14.11,
+   "light": 0.4171,
+   "chroma": 0.7287,
+   "punch": 0.3202
+  },
+  "sent-2026-09-05::2a442ae06f44": {
+   "id": "CRVI001667",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001667.jpg",
+   "original_px": [
+    894,
+    1024
+   ],
+   "original_bytes": 129842,
+   "identity": "sent-2026-09-05::2a442ae06f44",
+   "source_url": "https://uploads2.wikiart.org/images/robert-delaunay/window.jpg",
+   "maker": "Robert Delaunay",
+   "title": "Window",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Robert Delaunay as Window; the date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/290.jpg",
+   "source_px": [
+    894,
+    1024
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Robert Delaunay"
+    },
+    {
+     "k": "subject",
+     "v": "Orphism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Robert Delaunay as Window; the date is not established here.",
+   "hue": 42.67,
+   "light": 0.5285,
+   "chroma": 0.7491,
+   "punch": 0.2775
+  },
+  "sent-2026-09-05::00a80d0f6968": {
+   "id": "CRVI001668",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001668.jpg",
+   "original_px": [
+    843,
+    1228
+   ],
+   "original_bytes": 397376,
+   "identity": "sent-2026-09-05::00a80d0f6968",
+   "source_url": "https://www.artic.edu/iiif/2/b4d6fb4f-f982-4ce7-ede8-4358655fe2e6/full/843,/0/default.jpg",
+   "maker": "María Blanchard",
+   "title": "Still Life with a Box of Matches (Nature morte à la boîte d'allumettes)",
+   "subtitle": "",
+   "year": "1918",
+   "verified_against": "Art Institute of Chicago, artwork 265982 — the museum's API resolves this image id to María Blanchard, Still Life with a Box of Matches (Nature morte…), 1918.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/291.jpg",
+   "source_px": [
+    843,
+    1228
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "María Blanchard"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "Cubism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Institute of Chicago, artwork 265982 — the museum's API resolves this image id to María Blanchard, Still Life with a Box of Matches (Nature morte…), 1918.",
+   "hue": 42.75,
+   "light": 0.2732,
+   "chroma": 0.5719,
+   "punch": 0.1603
+  },
+  "sent-2026-09-05::d4bf16471e99": {
+   "id": "CRVI001669",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001669.jpg",
+   "original_px": [
+    1587,
+    2268
+   ],
+   "original_bytes": 437223,
+   "identity": "sent-2026-09-05::d4bf16471e99",
+   "source_url": "https://uploads5.wikiart.org/00334/images/maria-blanchard/la-comulgante-girl-at-her-first-communion-1914.jpg",
+   "maker": "María Blanchard",
+   "title": "La Comulgante (Girl at Her First Communion)",
+   "subtitle": "",
+   "year": "1914",
+   "verified_against": "WikiArt, under María Blanchard, dated 1914.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/292.jpg",
+   "source_px": [
+    1587,
+    2268
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "María Blanchard"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "Cubism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under María Blanchard, dated 1914.",
+   "hue": 15.2,
+   "light": 0.4654,
+   "chroma": 0.3019,
+   "punch": 0.0857
   }
  }
 }
