@@ -22,7 +22,7 @@ DATA = os.path.join(HERE, "crvi.json")
 
 # `medium` was folded into `type` on 2026-08-28 — of 29 medium tags, 28 restated the type
 # beside them. One facet, not two that mostly agree.
-FACET_ORDER = ["designer", "artist", "label", "decade", "color", "type",
+FACET_ORDER = ["designer", "artist", "musician", "label", "decade", "color", "type",
                "photographer", "illustrator", "art director", "typographer"]
 
 ORDER_JS = r"""(function(){

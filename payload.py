@@ -38,7 +38,12 @@ def build(reg):
             for d in i.get("designers", []):
                 tags.append({"k": "designer", "v": d})
             if i.get("artist"):
-                tags.append({"k": "artist", "v": i["artist"]})
+                # ⚠️ `musician`, NOT `artist`. On a record sleeve the performer and the person
+                # who made the picture are never the same relation — across 167 album covers
+                # carrying both, they were never once the same name. Folding them into one
+                # `artist` facet made it mean "made this image" on 657 items and "whose record
+                # this is" on 407, which is two facets wearing one label. Todd, 2026-09-06.
+                tags.append({"k": "musician", "v": i["artist"]})
             if i.get("label"):
                 tags.append({"k": "label", "v": i["label"]})
             d = decade(i.get("year"))
