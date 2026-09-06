@@ -79204,6 +79204,1906 @@
    "hue": 18.73,
    "light": 0.4193,
    "chroma": 0.5768
+  },
+  {
+   "id": "CRVI001504",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.2857,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Stanton_Macdonald-Wright_-_Synchromy_No._3_-_Google_Art_Project_%28cropped%29.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001504.jpg",
+   "source_label": "",
+   "image": "images/CRVI001504.jpg",
+   "original": "originals/CRVI001504.jpg",
+   "vector": "",
+   "original_px": [
+    4415,
+    4559
+   ],
+   "original_bytes": 9350707,
+   "maker": "Stanton Macdonald-Wright",
+   "title": "Synchromy No. 3",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Stanton Macdonald-Wright"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "subject",
+     "v": "Synchromism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 33.85,
+   "light": 0.3301,
+   "chroma": 0.7943
+  },
+  {
+   "id": "CRVI001505",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.1492,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Stanton_Macdonald-Wright%E2%80%94Sunrise_Synchromy_in_Violet%E2%80%941918.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001505.jpg",
+   "source_label": "",
+   "image": "images/CRVI001505.jpg",
+   "original": "originals/CRVI001505.jpg",
+   "vector": "",
+   "original_px": [
+    3780,
+    2492
+   ],
+   "original_bytes": 4848140,
+   "maker": "Stanton Macdonald-Wright",
+   "title": "Sunrise Synchromy in Violet",
+   "subtitle": "",
+   "year": "1918",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Stanton Macdonald-Wright"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "subject",
+     "v": "Synchromism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 22.48,
+   "light": 0.4574,
+   "chroma": 0.4701
+  },
+  {
+   "id": "CRVI001506",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.2319,
+   "source_url": "https://uploads7.wikiart.org/images/wyndham-lewis/workshop-1915.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001506.jpg",
+   "source_label": "",
+   "image": "images/CRVI001506.jpg",
+   "original": "originals/CRVI001506.jpg",
+   "vector": "",
+   "original_px": [
+    858,
+    1088
+   ],
+   "original_bytes": 150308,
+   "maker": "Wyndham Lewis",
+   "title": "Workshop",
+   "subtitle": "",
+   "year": "1915",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Wyndham Lewis"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "subject",
+     "v": "Vorticism"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    }
+   ],
+   "hue": 35.02,
+   "light": 0.5021,
+   "chroma": 0.6937
+  },
+  {
+   "id": "CRVI001507",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.151,
+   "source_url": "https://uploads7.wikiart.org/images/david-bomberg/ju-jitsu-1913.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001507.jpg",
+   "source_label": "",
+   "image": "images/CRVI001507.jpg",
+   "original": "originals/CRVI001507.jpg",
+   "vector": "",
+   "original_px": [
+    850,
+    848
+   ],
+   "original_bytes": 139796,
+   "maker": "David Bomberg",
+   "title": "Ju-Jitsu",
+   "subtitle": "",
+   "year": "1913",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "David Bomberg"
+    },
+    {
+     "k": "subject",
+     "v": "Vorticism"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 225.06,
+   "light": 0.5848,
+   "chroma": 0.663
+  },
+  {
+   "id": "CRVI001508",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.0363,
+   "source_url": "https://openaccess-cdn.clevelandart.org/1987.50/1987.50_print.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001508.jpg",
+   "source_label": "",
+   "image": "images/CRVI001508.jpg",
+   "original": "originals/CRVI001508.jpg",
+   "vector": "",
+   "original_px": [
+    2873,
+    3400
+   ],
+   "original_bytes": 5330272,
+   "maker": "Edward Wadsworth",
+   "title": "Illustration (Typhoon)",
+   "subtitle": "",
+   "year": "1914–1915",
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Edward Wadsworth"
+    },
+    {
+     "k": "medium",
+     "v": "woodcut"
+    },
+    {
+     "k": "subject",
+     "v": "Vorticism"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": null,
+   "light": 0.3802,
+   "chroma": 0.0005
+  },
+  {
+   "id": "CRVI001509",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.1104,
+   "source_url": "https://uploads7.wikiart.org/images/edward-wadsworth/abstract-composition-1915(1).jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001509.jpg",
+   "source_label": "",
+   "image": "images/CRVI001509.jpg",
+   "original": "originals/CRVI001509.jpg",
+   "vector": "",
+   "original_px": [
+    970,
+    1144
+   ],
+   "original_bytes": 87344,
+   "maker": "Edward Wadsworth",
+   "title": "Abstract Composition",
+   "subtitle": "",
+   "year": "1915",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Edward Wadsworth"
+    },
+    {
+     "k": "subject",
+     "v": "Vorticism"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 41.12,
+   "light": 0.5592,
+   "chroma": 0.2894
+  },
+  {
+   "id": "CRVI001510",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.1433,
+   "source_url": "https://media.mutualart.com/Images/2026_01/22/10/118156737/frederick-etchells-vorticist-composition-1C54J.Jpeg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001510.jpg",
+   "source_label": "",
+   "image": "images/CRVI001510.jpg",
+   "original": "originals/CRVI001510.jpg",
+   "vector": "",
+   "original_px": [
+    1138,
+    1500
+   ],
+   "original_bytes": 432185,
+   "maker": "Frederick Etchells",
+   "title": "Vorticist Composition",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Frederick Etchells"
+    },
+    {
+     "k": "subject",
+     "v": "Vorticism"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 36.48,
+   "light": 0.6527,
+   "chroma": 0.784
+  },
+  {
+   "id": "CRVI001511",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.0557,
+   "source_url": "https://www.artic.edu/iiif/2/ea062a80-5e1c-7dbd-398a-eca86c603b00/full/843,/0/default.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001511.jpg",
+   "source_label": "",
+   "image": "images/CRVI001511.jpg",
+   "original": "originals/CRVI001511.jpg",
+   "vector": "",
+   "original_px": [
+    843,
+    1350
+   ],
+   "original_bytes": 269535,
+   "maker": "Kazimir Malevich",
+   "title": "Painterly Realism of a Football Player — Color Masses in the 4th Dimension",
+   "subtitle": "",
+   "year": "Summer/fall 1915",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Kazimir Malevich"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "subject",
+     "v": "Suprematism"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 45.16,
+   "light": 0.8042,
+   "chroma": 0.1621
+  },
+  {
+   "id": "CRVI001512",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.062,
+   "source_url": "https://uploads6.wikiart.org/images/el-lissitzky/proun-30-1920.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001512.jpg",
+   "source_label": "",
+   "image": "images/CRVI001512.jpg",
+   "original": "originals/CRVI001512.jpg",
+   "vector": "",
+   "original_px": [
+    800,
+    1007
+   ],
+   "original_bytes": 274932,
+   "maker": "El Lissitzky",
+   "title": "Proun 30",
+   "subtitle": "",
+   "year": "1920",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "El Lissitzky"
+    },
+    {
+     "k": "subject",
+     "v": "Suprematism"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 41.67,
+   "light": 0.7291,
+   "chroma": 0.3982
+  },
+  {
+   "id": "CRVI001513",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.1473,
+   "source_url": "https://uploads1.wikiart.org/images/el-lissitzky/untitled.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001513.jpg",
+   "source_label": "",
+   "image": "images/CRVI001513.jpg",
+   "original": "originals/CRVI001513.jpg",
+   "vector": "",
+   "original_px": [
+    967,
+    1600
+   ],
+   "original_bytes": 212125,
+   "maker": "El Lissitzky",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "El Lissitzky"
+    },
+    {
+     "k": "subject",
+     "v": "Suprematism"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 36.16,
+   "light": 0.7266,
+   "chroma": 0.8544
+  },
+  {
+   "id": "CRVI001514",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.0289,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Chashnik_Suprematism.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001514.jpg",
+   "source_label": "",
+   "image": "images/CRVI001514.jpg",
+   "original": "originals/CRVI001514.jpg",
+   "vector": "",
+   "original_px": [
+    2243,
+    3176
+   ],
+   "original_bytes": 3518612,
+   "maker": "Ilya Chashnik",
+   "title": "Suprematism",
+   "subtitle": "",
+   "year": "1923",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Ilya Chashnik"
+    },
+    {
+     "k": "subject",
+     "v": "Suprematism"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "color",
+     "v": "neutral"
+    }
+   ],
+   "hue": null,
+   "light": 0.2589,
+   "chroma": 0.0718
+  },
+  {
+   "id": "CRVI001515",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.1681,
+   "source_url": "https://cdn2.oceansbridge.com/2018/02/22175955/Vertical-Axes-in-Movement-Ilya-Chashnik-Oil-Painting.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001515.jpg",
+   "source_label": "",
+   "image": "images/CRVI001515.jpg",
+   "original": "originals/CRVI001515.jpg",
+   "vector": "",
+   "original_px": [
+    800,
+    1765
+   ],
+   "original_bytes": 275368,
+   "maker": "Ilya Chashnik",
+   "title": "Vertical Axes in Movement",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Ilya Chashnik"
+    },
+    {
+     "k": "subject",
+     "v": "Suprematism"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 7.08,
+   "light": 0.2546,
+   "chroma": 0.4589
+  },
+  {
+   "id": "CRVI001516",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.1537,
+   "source_url": "https://p1.liveauctioneers.com/6975/321217/172678375_1_x.jpg?quality=80&version=1709200651",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001516.jpg",
+   "source_label": "",
+   "image": "images/CRVI001516.jpg",
+   "original": "originals/CRVI001516.jpg",
+   "vector": "",
+   "original_px": [
+    1500,
+    2000
+   ],
+   "original_bytes": 165278,
+   "maker": "Ilya Chashnik",
+   "title": "Suprematist composition",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Ilya Chashnik"
+    },
+    {
+     "k": "subject",
+     "v": "Suprematism"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 43.15,
+   "light": 0.7661,
+   "chroma": 0.7769
+  },
+  {
+   "id": "CRVI001517",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.0268,
+   "source_url": "https://uploads8.wikiart.org/00375/images/jackson-pollock/number-19.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001517.jpg",
+   "source_label": "",
+   "image": "images/CRVI001517.jpg",
+   "original": "originals/CRVI001517.jpg",
+   "vector": "",
+   "original_px": [
+    1280,
+    1751
+   ],
+   "original_bytes": 1782337,
+   "maker": "Jackson Pollock",
+   "title": "Number 19",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Jackson Pollock"
+    },
+    {
+     "k": "subject",
+     "v": "Abstract Expressionism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "neutral"
+    }
+   ],
+   "hue": null,
+   "light": 0.5634,
+   "chroma": 0.0366
+  },
+  {
+   "id": "CRVI001518",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.0256,
+   "source_url": "https://uploads2.wikiart.org/images/franz-kline/chief-1950.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001518.jpg",
+   "source_label": "",
+   "image": "images/CRVI001518.jpg",
+   "original": "originals/CRVI001518.jpg",
+   "vector": "",
+   "original_px": [
+    1280,
+    1006
+   ],
+   "original_bytes": 271922,
+   "maker": "Franz Kline",
+   "title": "Chief",
+   "subtitle": "",
+   "year": "1950",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Franz Kline"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "subject",
+     "v": "Abstract Expressionism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 57.02,
+   "light": 0.3876,
+   "chroma": 0.2193
+  },
+  {
+   "id": "CRVI001519",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.6233,
+   "source_url": "https://uploads1.wikiart.org/images/robert-motherwell/open-no-122-in-scarlet-and-blue-1969(1).jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001519.jpg",
+   "source_label": "",
+   "image": "images/CRVI001519.jpg",
+   "original": "originals/CRVI001519.jpg",
+   "vector": "",
+   "original_px": [
+    1032,
+    868
+   ],
+   "original_bytes": 28970,
+   "maker": "Robert Motherwell",
+   "title": "Open No. 122 in Scarlet and Blue",
+   "subtitle": "",
+   "year": "1969",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Robert Motherwell"
+    },
+    {
+     "k": "subject",
+     "v": "Abstract Expressionism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 354.95,
+   "light": 0.5107,
+   "chroma": 1.0
+  },
+  {
+   "id": "CRVI001520",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.1273,
+   "source_url": "https://uploads5.wikiart.org/images/robert-motherwell/from-the-lyric-suite-1965.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001520.jpg",
+   "source_label": "",
+   "image": "images/CRVI001520.jpg",
+   "original": "originals/CRVI001520.jpg",
+   "vector": "",
+   "original_px": [
+    844,
+    1024
+   ],
+   "original_bytes": 514325,
+   "maker": "Robert Motherwell",
+   "title": "From the Lyric Suite",
+   "subtitle": "",
+   "year": "1965",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Robert Motherwell"
+    },
+    {
+     "k": "subject",
+     "v": "Abstract Expressionism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 355.66,
+   "light": 0.7622,
+   "chroma": 0.9136
+  },
+  {
+   "id": "CRVI001521",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.2454,
+   "source_url": "https://uploads0.wikiart.org/images/barnett-newman/onement-i-1948.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001521.jpg",
+   "source_label": "",
+   "image": "images/CRVI001521.jpg",
+   "original": "originals/CRVI001521.jpg",
+   "vector": "",
+   "original_px": [
+    1077,
+    1800
+   ],
+   "original_bytes": 252162,
+   "maker": "Barnett Newman",
+   "title": "Onement I",
+   "subtitle": "",
+   "year": "1948",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Barnett Newman"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "subject",
+     "v": "Abstract Expressionism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 14.83,
+   "light": 0.3504,
+   "chroma": 1.0
+  },
+  {
+   "id": "CRVI001522",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.6801,
+   "source_url": "https://uploads6.wikiart.org/images/barnett-newman/yellow-painting-1949.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001522.jpg",
+   "source_label": "",
+   "image": "images/CRVI001522.jpg",
+   "original": "originals/CRVI001522.jpg",
+   "vector": "",
+   "original_px": [
+    3773,
+    4859
+   ],
+   "original_bytes": 992510,
+   "maker": "Barnett Newman",
+   "title": "Yellow Painting",
+   "subtitle": "",
+   "year": "1949",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Barnett Newman"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "subject",
+     "v": "Abstract Expressionism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 45.27,
+   "light": 0.6059,
+   "chroma": 0.9969
+  },
+  {
+   "id": "CRVI001523",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.1182,
+   "source_url": "https://uploads7.wikiart.org/images/joan-mitchell/untitled-1950.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001523.jpg",
+   "source_label": "",
+   "image": "images/CRVI001523.jpg",
+   "original": "originals/CRVI001523.jpg",
+   "vector": "",
+   "original_px": [
+    881,
+    850
+   ],
+   "original_bytes": 275369,
+   "maker": "Joan Mitchell",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "1950",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Joan Mitchell"
+    },
+    {
+     "k": "subject",
+     "v": "Abstract Expressionism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 37.62,
+   "light": 0.671,
+   "chroma": 0.5298
+  },
+  {
+   "id": "CRVI001524",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.1473,
+   "source_url": "https://uploads7.wikiart.org/images/joan-mitchell/untitled-1956.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001524.jpg",
+   "source_label": "",
+   "image": "images/CRVI001524.jpg",
+   "original": "originals/CRVI001524.jpg",
+   "vector": "",
+   "original_px": [
+    814,
+    850
+   ],
+   "original_bytes": 278874,
+   "maker": "Joan Mitchell",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "1956",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Joan Mitchell"
+    },
+    {
+     "k": "subject",
+     "v": "Abstract Expressionism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 37.63,
+   "light": 0.5544,
+   "chroma": 0.7298
+  },
+  {
+   "id": "CRVI001525",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.0469,
+   "source_url": "https://images.metmuseum.org/CRDImages/ph/original/DP-14185-001.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001525.jpg",
+   "source_label": "",
+   "image": "images/CRVI001525.jpg",
+   "original": "originals/CRVI001525.jpg",
+   "vector": "",
+   "original_px": [
+    4000,
+    3239
+   ],
+   "original_bytes": 3817274,
+   "maker": "Dorothea Lange",
+   "title": "Pea Pickers Line Up on Edge of Field at Weigh Scale, near Calipatria, Imperial Valley, California, February",
+   "subtitle": "",
+   "year": "1939, printed ca. 1972",
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Dorothea Lange"
+    },
+    {
+     "k": "photographer",
+     "v": "Dorothea Lange"
+    },
+    {
+     "k": "medium",
+     "v": "gelatin silver print"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1930s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 24.9,
+   "light": 0.5762,
+   "chroma": 0.1956
+  },
+  {
+   "id": "CRVI001526",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.0533,
+   "source_url": "https://www.artic.edu/iiif/2/d33f38d7-e0fd-17e4-09cd-1cfbbfd2c8b4/full/843,/0/default.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001526.jpg",
+   "source_label": "",
+   "image": "images/CRVI001526.jpg",
+   "original": "originals/CRVI001526.jpg",
+   "vector": "",
+   "original_px": [
+    843,
+    1047
+   ],
+   "original_bytes": 398585,
+   "maker": "Walker Evans",
+   "title": "Alabama Cotton Tenant Farmer's Wife",
+   "subtitle": "",
+   "year": "1936, printed c. 1962",
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Walker Evans"
+    },
+    {
+     "k": "photographer",
+     "v": "Walker Evans"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1930s"
+    },
+    {
+     "k": "color",
+     "v": "neutral"
+    }
+   ],
+   "hue": null,
+   "light": 0.4521,
+   "chroma": 0.0114
+  },
+  {
+   "id": "CRVI001527",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.1539,
+   "source_url": "https://media.mutualart.com/Images/2023_08/17/16/162953292/raphael-soyer-raphael-soyer-D2ZSD.Jpeg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001527.jpg",
+   "source_label": "",
+   "image": "images/CRVI001527.jpg",
+   "original": "originals/CRVI001527.jpg",
+   "vector": "",
+   "original_px": [
+    1518,
+    2000
+   ],
+   "original_bytes": 2069424,
+   "maker": "Raphael Soyer",
+   "title": "Portrait of a pregnant woman",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Raphael Soyer"
+    },
+    {
+     "k": "subject",
+     "v": "Social Realism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 15.67,
+   "light": 0.3026,
+   "chroma": 0.5869
+  },
+  {
+   "id": "CRVI001528",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.0928,
+   "source_url": "https://3.bp.blogspot.com/-bLw5QvyUhuY/T_7s7XN-pbI/AAAAAAAAD1U/PU4hiAfhw_4/s1600/Levine+feast-of-pure-reason.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001528.jpg",
+   "source_label": "",
+   "image": "images/CRVI001528.jpg",
+   "original": "originals/CRVI001528.jpg",
+   "vector": "",
+   "original_px": [
+    910,
+    1064
+   ],
+   "original_bytes": 404310,
+   "maker": "Jack Levine",
+   "title": "The Feast of Pure Reason",
+   "subtitle": "",
+   "year": "1937",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Jack Levine"
+    },
+    {
+     "k": "subject",
+     "v": "Social Realism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1930s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 25.58,
+   "light": 0.275,
+   "chroma": 0.3376
+  },
+  {
+   "id": "CRVI001529",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.2708,
+   "source_url": "https://jacksonpointart.com/wp-content/uploads/2015/09/Levine-The-Arrest-1983.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001529.jpg",
+   "source_label": "",
+   "image": "images/CRVI001529.jpg",
+   "original": "originals/CRVI001529.jpg",
+   "vector": "",
+   "original_px": [
+    1101,
+    971
+   ],
+   "original_bytes": 219256,
+   "maker": "Jack Levine",
+   "title": "The Arrest",
+   "subtitle": "",
+   "year": "1983",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Jack Levine"
+    },
+    {
+     "k": "subject",
+     "v": "Social Realism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 19.13,
+   "light": 0.3541,
+   "chroma": 0.8692
+  },
+  {
+   "id": "CRVI001530",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.2357,
+   "source_url": "https://i.pinimg.com/originals/66/61/f7/6661f7fc460a08f9dd7e3d505445d7bb.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001530.jpg",
+   "source_label": "",
+   "image": "images/CRVI001530.jpg",
+   "original": "originals/CRVI001530.jpg",
+   "vector": "",
+   "original_px": [
+    811,
+    1050
+   ],
+   "original_bytes": 188608,
+   "maker": "Unidentified",
+   "title": "Woman in a hat with a compact mirror",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "subject",
+     "v": "Social Realism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 35.17,
+   "light": 0.3904,
+   "chroma": 0.9001
+  },
+  {
+   "id": "CRVI001531",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.1792,
+   "source_url": "https://uploads0.wikiart.org/images/grant-wood/arnold-comes-of-age-1930(1).jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001531.jpg",
+   "source_label": "",
+   "image": "images/CRVI001531.jpg",
+   "original": "originals/CRVI001531.jpg",
+   "vector": "",
+   "original_px": [
+    1654,
+    2005
+   ],
+   "original_bytes": 809834,
+   "maker": "Grant Wood",
+   "title": "Arnold Comes of Age",
+   "subtitle": "",
+   "year": "1930",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Grant Wood"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "subject",
+     "v": "American Regionalism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1930s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 28.45,
+   "light": 0.2493,
+   "chroma": 0.5603
+  },
+  {
+   "id": "CRVI001532",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.2817,
+   "source_url": "https://gm-piction-live.s3.amazonaws.com/styles/enlargement_4000/s3/assets/0127.2000_HOGUE_LAND_o6.jpg?itok=PdhDY4Tx",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001532.jpg",
+   "source_label": "",
+   "image": "images/CRVI001532.jpg",
+   "original": "originals/CRVI001532.jpg",
+   "vector": "",
+   "original_px": [
+    4000,
+    2784
+   ],
+   "original_bytes": 1360671,
+   "maker": "Alexandre Hogue",
+   "title": "Crucified Land",
+   "subtitle": "",
+   "year": "1939",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Alexandre Hogue"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "subject",
+     "v": "American Regionalism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1930s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 15.66,
+   "light": 0.38,
+   "chroma": 0.8508
+  },
+  {
+   "id": "CRVI001533",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.2526,
+   "source_url": "https://uploads7.wikiart.org/images/diego-rivera/the-adoration-of-the-virgin-1913.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001533.jpg",
+   "source_label": "",
+   "image": "images/CRVI001533.jpg",
+   "original": "originals/CRVI001533.jpg",
+   "vector": "",
+   "original_px": [
+    1608,
+    1993
+   ],
+   "original_bytes": 414366,
+   "maker": "Diego Rivera",
+   "title": "The Adoration of the Virgin",
+   "subtitle": "",
+   "year": "1913",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Diego Rivera"
+    },
+    {
+     "k": "location",
+     "v": "Mexico"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 36.51,
+   "light": 0.4303,
+   "chroma": 0.8096
+  },
+  {
+   "id": "CRVI001534",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.1276,
+   "source_url": "https://uploads6.wikiart.org/images/diego-rivera/portrait-of-ramon-gomez-de-la-serna-1915.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001534.jpg",
+   "source_label": "",
+   "image": "images/CRVI001534.jpg",
+   "original": "originals/CRVI001534.jpg",
+   "vector": "",
+   "original_px": [
+    1148,
+    1433
+   ],
+   "original_bytes": 291158,
+   "maker": "Diego Rivera",
+   "title": "Portrait of Ramón Gómez de la Serna",
+   "subtitle": "",
+   "year": "1915",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Diego Rivera"
+    },
+    {
+     "k": "location",
+     "v": "Mexico"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 44.91,
+   "light": 0.3153,
+   "chroma": 0.5046
+  },
+  {
+   "id": "CRVI001535",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.0579,
+   "source_url": "https://www.artic.edu/iiif/2/f4f9c6e4-1ab5-4a62-a336-8da40e0990f6/full/843,/0/default.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001535.jpg",
+   "source_label": "",
+   "image": "images/CRVI001535.jpg",
+   "original": "originals/CRVI001535.jpg",
+   "vector": "",
+   "original_px": [
+    843,
+    1200
+   ],
+   "original_bytes": 478540,
+   "maker": "David Alfaro Siqueiros",
+   "title": "Self-Portrait",
+   "subtitle": "",
+   "year": "1936",
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "David Alfaro Siqueiros"
+    },
+    {
+     "k": "medium",
+     "v": "lithograph"
+    },
+    {
+     "k": "subject",
+     "v": "Mexican Muralism"
+    },
+    {
+     "k": "location",
+     "v": "Mexico"
+    },
+    {
+     "k": "decade",
+     "v": "1930s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 35.04,
+   "light": 0.5251,
+   "chroma": 0.3602
+  },
+  {
+   "id": "CRVI001536",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.2775,
+   "source_url": "https://uploads3.wikiart.org/images/david-alfaro-siqueiros/self-portrait-1945.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001536.jpg",
+   "source_label": "",
+   "image": "images/CRVI001536.jpg",
+   "original": "originals/CRVI001536.jpg",
+   "vector": "",
+   "original_px": [
+    1067,
+    810
+   ],
+   "original_bytes": 240444,
+   "maker": "David Alfaro Siqueiros",
+   "title": "Self-Portrait (El Coronelazo)",
+   "subtitle": "",
+   "year": "1945",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "David Alfaro Siqueiros"
+    },
+    {
+     "k": "subject",
+     "v": "Mexican Muralism"
+    },
+    {
+     "k": "location",
+     "v": "Mexico"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 36.17,
+   "light": 0.4066,
+   "chroma": 0.8911
+  },
+  {
+   "id": "CRVI001537",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.2218,
+   "source_url": "https://uploads7.wikiart.org/images/david-alfaro-siqueiros/our-present-image-1947.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001537.jpg",
+   "source_label": "",
+   "image": "images/CRVI001537.jpg",
+   "original": "originals/CRVI001537.jpg",
+   "vector": "",
+   "original_px": [
+    925,
+    1218
+   ],
+   "original_bytes": 530611,
+   "maker": "David Alfaro Siqueiros",
+   "title": "Our Present Image",
+   "subtitle": "",
+   "year": "1947",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "David Alfaro Siqueiros"
+    },
+    {
+     "k": "subject",
+     "v": "Mexican Muralism"
+    },
+    {
+     "k": "location",
+     "v": "Mexico"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 27.54,
+   "light": 0.4055,
+   "chroma": 0.6435
+  },
+  {
+   "id": "CRVI001538",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.2726,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/%27Wisdom_of_the_West%27%2C_by_Jean_Charlot.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001538.jpg",
+   "source_label": "",
+   "image": "images/CRVI001538.jpg",
+   "original": "originals/CRVI001538.jpg",
+   "vector": "",
+   "original_px": [
+    2476,
+    1952
+   ],
+   "original_bytes": 1003624,
+   "maker": "Jean Charlot",
+   "title": "Wisdom of the West",
+   "subtitle": "Mural",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Jean Charlot"
+    },
+    {
+     "k": "subject",
+     "v": "Mexican Muralism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 32.0,
+   "light": 0.6402,
+   "chroma": 0.828
   }
  ]
 }

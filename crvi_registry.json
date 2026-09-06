@@ -1,5 +1,5 @@
 {
- "next": 1504,
+ "next": 1539,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -89829,6 +89829,2000 @@
    "light": 0.4193,
    "chroma": 0.5768,
    "punch": 0.2494
+  },
+  "sent-2026-09-05::0cbfd57d3e7b": {
+   "id": "CRVI001504",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001504.jpg",
+   "original_px": [
+    4415,
+    4559
+   ],
+   "original_bytes": 9350707,
+   "identity": "sent-2026-09-05::0cbfd57d3e7b",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Stanton_Macdonald-Wright_-_Synchromy_No._3_-_Google_Art_Project_%28cropped%29.jpg",
+   "maker": "Stanton Macdonald-Wright",
+   "title": "Synchromy No. 3",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Wikimedia Commons, from the Google Art Project, as Stanton Macdonald-Wright, Synchromy No. 3. This file is the cropped version. The date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/110.jpg",
+   "source_px": [
+    4415,
+    4559
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Stanton Macdonald-Wright"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "subject",
+     "v": "Synchromism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons, from the Google Art Project, as Stanton Macdonald-Wright, Synchromy No. 3. This file is the cropped version. The date is not established here.",
+   "hue": 33.85,
+   "light": 0.3301,
+   "chroma": 0.7943,
+   "punch": 0.2857
+  },
+  "sent-2026-09-05::6def5e30eac6": {
+   "id": "CRVI001505",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001505.jpg",
+   "original_px": [
+    3780,
+    2492
+   ],
+   "original_bytes": 4848140,
+   "identity": "sent-2026-09-05::6def5e30eac6",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Stanton_Macdonald-Wright%E2%80%94Sunrise_Synchromy_in_Violet%E2%80%941918.jpg",
+   "maker": "Stanton Macdonald-Wright",
+   "title": "Sunrise Synchromy in Violet",
+   "subtitle": "",
+   "year": "1918",
+   "verified_against": "Wikimedia Commons, as Stanton Macdonald-Wright, Sunrise Synchromy in Violet, 1918.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/111.jpg",
+   "source_px": [
+    3780,
+    2492
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Stanton Macdonald-Wright"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "subject",
+     "v": "Synchromism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons, as Stanton Macdonald-Wright, Sunrise Synchromy in Violet, 1918.",
+   "hue": 22.48,
+   "light": 0.4574,
+   "chroma": 0.4701,
+   "punch": 0.1492
+  },
+  "sent-2026-09-05::c546955260f0": {
+   "id": "CRVI001506",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001506.jpg",
+   "original_px": [
+    858,
+    1088
+   ],
+   "original_bytes": 150308,
+   "identity": "sent-2026-09-05::c546955260f0",
+   "source_url": "https://uploads7.wikiart.org/images/wyndham-lewis/workshop-1915.jpg",
+   "maker": "Wyndham Lewis",
+   "title": "Workshop",
+   "subtitle": "",
+   "year": "1915",
+   "verified_against": "WikiArt, under Wyndham Lewis, dated 1915.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/112.jpg",
+   "source_px": [
+    858,
+    1088
+   ],
+   "colors": [
+    "orange",
+    "pink"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Wyndham Lewis"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "subject",
+     "v": "Vorticism"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Wyndham Lewis, dated 1915.",
+   "hue": 35.02,
+   "light": 0.5021,
+   "chroma": 0.6937,
+   "punch": 0.2319
+  },
+  "sent-2026-09-05::0c65c5995a21": {
+   "id": "CRVI001507",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001507.jpg",
+   "original_px": [
+    850,
+    848
+   ],
+   "original_bytes": 139796,
+   "identity": "sent-2026-09-05::0c65c5995a21",
+   "source_url": "https://uploads7.wikiart.org/images/david-bomberg/ju-jitsu-1913.jpg",
+   "maker": "David Bomberg",
+   "title": "Ju-Jitsu",
+   "subtitle": "",
+   "year": "1913",
+   "verified_against": "WikiArt, under David Bomberg, dated 1913.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/113.jpg",
+   "source_px": [
+    850,
+    848
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "David Bomberg"
+    },
+    {
+     "k": "subject",
+     "v": "Vorticism"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under David Bomberg, dated 1913.",
+   "hue": 225.06,
+   "light": 0.5848,
+   "chroma": 0.663,
+   "punch": 0.151
+  },
+  "sent-2026-09-05::972b83dc975e": {
+   "id": "CRVI001508",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001508.jpg",
+   "original_px": [
+    2873,
+    3400
+   ],
+   "original_bytes": 5330272,
+   "identity": "sent-2026-09-05::972b83dc975e",
+   "source_url": "https://openaccess-cdn.clevelandart.org/1987.50/1987.50_print.jpg",
+   "maker": "Edward Wadsworth",
+   "title": "Illustration (Typhoon)",
+   "subtitle": "",
+   "year": "1914–1915",
+   "verified_against": "Cleveland Museum of Art, accession 1987.50 — the museum's own open-access record gives Edward Alexander Wadsworth (British, 1889–1949), Illustration (Typhoon), 1914–1915, woodcut.",
+   "notes": [
+    "Signed Edward Wadsworth 1915 beneath the block."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/114.jpg",
+   "source_px": [
+    2873,
+    3400
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Edward Wadsworth"
+    },
+    {
+     "k": "medium",
+     "v": "woodcut"
+    },
+    {
+     "k": "subject",
+     "v": "Vorticism"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Cleveland Museum of Art, accession 1987.50 — the museum's own open-access record gives Edward Alexander Wadsworth (British, 1889–1949), Illustration (Typhoon), 1914–1915, woodcut.",
+   "hue": null,
+   "light": 0.3802,
+   "chroma": 0.0005,
+   "punch": 0.0363
+  },
+  "sent-2026-09-05::1cce8c2c778b": {
+   "id": "CRVI001509",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001509.jpg",
+   "original_px": [
+    970,
+    1144
+   ],
+   "original_bytes": 87344,
+   "identity": "sent-2026-09-05::1cce8c2c778b",
+   "source_url": "https://uploads7.wikiart.org/images/edward-wadsworth/abstract-composition-1915(1).jpg",
+   "maker": "Edward Wadsworth",
+   "title": "Abstract Composition",
+   "subtitle": "",
+   "year": "1915",
+   "verified_against": "WikiArt, under Edward Wadsworth, dated 1915.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/115.jpg",
+   "source_px": [
+    970,
+    1144
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Edward Wadsworth"
+    },
+    {
+     "k": "subject",
+     "v": "Vorticism"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Edward Wadsworth, dated 1915.",
+   "hue": 41.12,
+   "light": 0.5592,
+   "chroma": 0.2894,
+   "punch": 0.1104
+  },
+  "sent-2026-09-05::20f37e441c5d": {
+   "id": "CRVI001510",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001510.jpg",
+   "original_px": [
+    1138,
+    1500
+   ],
+   "original_bytes": 432185,
+   "identity": "sent-2026-09-05::20f37e441c5d",
+   "source_url": "https://media.mutualart.com/Images/2026_01/22/10/118156737/frederick-etchells-vorticist-composition-1C54J.Jpeg",
+   "maker": "Frederick Etchells",
+   "title": "Vorticist Composition",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "MutualArt lists this as Frederick Etchells, Vorticist Composition; the sheet is signed Etchells at the lower edge. The date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/116.jpg",
+   "source_px": [
+    1138,
+    1500
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Frederick Etchells"
+    },
+    {
+     "k": "subject",
+     "v": "Vorticism"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "MutualArt lists this as Frederick Etchells, Vorticist Composition; the sheet is signed Etchells at the lower edge. The date is not established here.",
+   "hue": 36.48,
+   "light": 0.6527,
+   "chroma": 0.784,
+   "punch": 0.1433
+  },
+  "sent-2026-09-05::4454c5971bba": {
+   "id": "CRVI001511",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001511.jpg",
+   "original_px": [
+    843,
+    1350
+   ],
+   "original_bytes": 269535,
+   "identity": "sent-2026-09-05::4454c5971bba",
+   "source_url": "https://www.artic.edu/iiif/2/ea062a80-5e1c-7dbd-398a-eca86c603b00/full/843,/0/default.jpg",
+   "maker": "Kazimir Malevich",
+   "title": "Painterly Realism of a Football Player — Color Masses in the 4th Dimension",
+   "subtitle": "",
+   "year": "Summer/fall 1915",
+   "verified_against": "Art Institute of Chicago, artwork 207293 — the museum's API resolves this image id to Kasimir Malevich, Painterly Realism of a Football Player — Color Masses in the 4th Dimension, summer/fall 1915.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/117.jpg",
+   "source_px": [
+    843,
+    1350
+   ],
+   "colors": [
+    "green",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Kazimir Malevich"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "subject",
+     "v": "Suprematism"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Institute of Chicago, artwork 207293 — the museum's API resolves this image id to Kasimir Malevich, Painterly Realism of a Football Player — Color Masses in the 4th Dimension, summer/fall 1915.",
+   "hue": 45.16,
+   "light": 0.8042,
+   "chroma": 0.1621,
+   "punch": 0.0557
+  },
+  "sent-2026-09-05::f575a23aa1d0": {
+   "id": "CRVI001512",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001512.jpg",
+   "original_px": [
+    800,
+    1007
+   ],
+   "original_bytes": 274932,
+   "identity": "sent-2026-09-05::f575a23aa1d0",
+   "source_url": "https://uploads6.wikiart.org/images/el-lissitzky/proun-30-1920.jpg",
+   "maker": "El Lissitzky",
+   "title": "Proun 30",
+   "subtitle": "",
+   "year": "1920",
+   "verified_against": "WikiArt, under El Lissitzky, dated 1920.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/118.jpg",
+   "source_px": [
+    800,
+    1007
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "El Lissitzky"
+    },
+    {
+     "k": "subject",
+     "v": "Suprematism"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under El Lissitzky, dated 1920.",
+   "hue": 41.67,
+   "light": 0.7291,
+   "chroma": 0.3982,
+   "punch": 0.062
+  },
+  "sent-2026-09-05::6962a3fbe366": {
+   "id": "CRVI001513",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001513.jpg",
+   "original_px": [
+    967,
+    1600
+   ],
+   "original_bytes": 212125,
+   "identity": "sent-2026-09-05::6962a3fbe366",
+   "source_url": "https://uploads1.wikiart.org/images/el-lissitzky/untitled.jpg",
+   "maker": "El Lissitzky",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under El Lissitzky as Untitled; the date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/119.jpg",
+   "source_px": [
+    967,
+    1600
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "El Lissitzky"
+    },
+    {
+     "k": "subject",
+     "v": "Suprematism"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under El Lissitzky as Untitled; the date is not established here.",
+   "hue": 36.16,
+   "light": 0.7266,
+   "chroma": 0.8544,
+   "punch": 0.1473
+  },
+  "sent-2026-09-05::4ab105b15239": {
+   "id": "CRVI001514",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001514.jpg",
+   "original_px": [
+    2243,
+    3176
+   ],
+   "original_bytes": 3518612,
+   "identity": "sent-2026-09-05::4ab105b15239",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Chashnik_Suprematism.jpg",
+   "maker": "Ilya Chashnik",
+   "title": "Suprematism",
+   "subtitle": "",
+   "year": "1923",
+   "verified_against": "Wikimedia Commons — the file record gives Ilya Chashnik, «Супрематизм» (Suprematism), 1923, public domain.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/120.jpg",
+   "source_px": [
+    2243,
+    3176
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Ilya Chashnik"
+    },
+    {
+     "k": "subject",
+     "v": "Suprematism"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons — the file record gives Ilya Chashnik, «Супрематизм» (Suprematism), 1923, public domain.",
+   "hue": null,
+   "light": 0.2589,
+   "chroma": 0.0718,
+   "punch": 0.0289
+  },
+  "sent-2026-09-05::a6b8bc4ee317": {
+   "id": "CRVI001515",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001515.jpg",
+   "original_px": [
+    800,
+    1765
+   ],
+   "original_bytes": 275368,
+   "identity": "sent-2026-09-05::a6b8bc4ee317",
+   "source_url": "https://cdn2.oceansbridge.com/2018/02/22175955/Vertical-Axes-in-Movement-Ilya-Chashnik-Oil-Painting.jpg",
+   "maker": "Ilya Chashnik",
+   "title": "Vertical Axes in Movement",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Captioned as Ilya Chashnik, Vertical Axes in Movement, by Oceansbridge — which is a reproduction vendor, not a museum or a dealer in originals. Weaker than the rest of this batch; the date and holding collection are not established.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/121.jpg",
+   "source_px": [
+    800,
+    1765
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Ilya Chashnik"
+    },
+    {
+     "k": "subject",
+     "v": "Suprematism"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Captioned as Ilya Chashnik, Vertical Axes in Movement, by Oceansbridge — which is a reproduction vendor, not a museum or a dealer in originals. Weaker than the rest of this batch; the date and holding collection are not established.",
+   "hue": 7.08,
+   "light": 0.2546,
+   "chroma": 0.4589,
+   "punch": 0.1681
+  },
+  "sent-2026-09-05::cb1da9549f98": {
+   "id": "CRVI001516",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001516.jpg",
+   "original_px": [
+    1500,
+    2000
+   ],
+   "original_bytes": 165278,
+   "identity": "sent-2026-09-05::cb1da9549f98",
+   "source_url": "https://p1.liveauctioneers.com/6975/321217/172678375_1_x.jpg?quality=80&version=1709200651",
+   "maker": "Ilya Chashnik",
+   "title": "Suprematist composition",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "An auction lot image (LiveAuctioneers). The sheet is signed in Cyrillic — ЧАШНИК — at the lower left. The title, date and sale are not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/122.jpg",
+   "source_px": [
+    1500,
+    2000
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Ilya Chashnik"
+    },
+    {
+     "k": "subject",
+     "v": "Suprematism"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "An auction lot image (LiveAuctioneers). The sheet is signed in Cyrillic — ЧАШНИК — at the lower left. The title, date and sale are not established here.",
+   "hue": 43.15,
+   "light": 0.7661,
+   "chroma": 0.7769,
+   "punch": 0.1537
+  },
+  "sent-2026-09-05::a319321e1e7b": {
+   "id": "CRVI001517",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001517.jpg",
+   "original_px": [
+    1280,
+    1751
+   ],
+   "original_bytes": 1782337,
+   "identity": "sent-2026-09-05::a319321e1e7b",
+   "source_url": "https://uploads8.wikiart.org/00375/images/jackson-pollock/number-19.jpg",
+   "maker": "Jackson Pollock",
+   "title": "Number 19",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Jackson Pollock as Number 19; the year is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/123.jpg",
+   "source_px": [
+    1280,
+    1751
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Jackson Pollock"
+    },
+    {
+     "k": "subject",
+     "v": "Abstract Expressionism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Jackson Pollock as Number 19; the year is not established here.",
+   "hue": null,
+   "light": 0.5634,
+   "chroma": 0.0366,
+   "punch": 0.0268
+  },
+  "sent-2026-09-05::625ae2f3734f": {
+   "id": "CRVI001518",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001518.jpg",
+   "original_px": [
+    1280,
+    1006
+   ],
+   "original_bytes": 271922,
+   "identity": "sent-2026-09-05::625ae2f3734f",
+   "source_url": "https://uploads2.wikiart.org/images/franz-kline/chief-1950.jpg",
+   "maker": "Franz Kline",
+   "title": "Chief",
+   "subtitle": "",
+   "year": "1950",
+   "verified_against": "WikiArt, under Franz Kline, dated 1950.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/124.jpg",
+   "source_px": [
+    1280,
+    1006
+   ],
+   "colors": [
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Franz Kline"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "subject",
+     "v": "Abstract Expressionism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Franz Kline, dated 1950.",
+   "hue": 57.02,
+   "light": 0.3876,
+   "chroma": 0.2193,
+   "punch": 0.0256
+  },
+  "sent-2026-09-05::a3a66beafa56": {
+   "id": "CRVI001519",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001519.jpg",
+   "original_px": [
+    1032,
+    868
+   ],
+   "original_bytes": 28970,
+   "identity": "sent-2026-09-05::a3a66beafa56",
+   "source_url": "https://uploads1.wikiart.org/images/robert-motherwell/open-no-122-in-scarlet-and-blue-1969(1).jpg",
+   "maker": "Robert Motherwell",
+   "title": "Open No. 122 in Scarlet and Blue",
+   "subtitle": "",
+   "year": "1969",
+   "verified_against": "WikiArt, under Robert Motherwell, dated 1969.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/125.jpg",
+   "source_px": [
+    1032,
+    868
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Robert Motherwell"
+    },
+    {
+     "k": "subject",
+     "v": "Abstract Expressionism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Robert Motherwell, dated 1969.",
+   "hue": 354.95,
+   "light": 0.5107,
+   "chroma": 1.0,
+   "punch": 0.6233
+  },
+  "sent-2026-09-05::1629f9689dbe": {
+   "id": "CRVI001520",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001520.jpg",
+   "original_px": [
+    844,
+    1024
+   ],
+   "original_bytes": 514325,
+   "identity": "sent-2026-09-05::1629f9689dbe",
+   "source_url": "https://uploads5.wikiart.org/images/robert-motherwell/from-the-lyric-suite-1965.jpg",
+   "maker": "Robert Motherwell",
+   "title": "From the Lyric Suite",
+   "subtitle": "",
+   "year": "1965",
+   "verified_against": "WikiArt, under Robert Motherwell, dated 1965.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/126.jpg",
+   "source_px": [
+    844,
+    1024
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Robert Motherwell"
+    },
+    {
+     "k": "subject",
+     "v": "Abstract Expressionism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Robert Motherwell, dated 1965.",
+   "hue": 355.66,
+   "light": 0.7622,
+   "chroma": 0.9136,
+   "punch": 0.1273
+  },
+  "sent-2026-09-05::eff21ea58c1a": {
+   "id": "CRVI001521",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001521.jpg",
+   "original_px": [
+    1077,
+    1800
+   ],
+   "original_bytes": 252162,
+   "identity": "sent-2026-09-05::eff21ea58c1a",
+   "source_url": "https://uploads0.wikiart.org/images/barnett-newman/onement-i-1948.jpg",
+   "maker": "Barnett Newman",
+   "title": "Onement I",
+   "subtitle": "",
+   "year": "1948",
+   "verified_against": "WikiArt, under Barnett Newman, dated 1948.",
+   "notes": [
+    "The first of the zips."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/127.jpg",
+   "source_px": [
+    1077,
+    1800
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Barnett Newman"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "subject",
+     "v": "Abstract Expressionism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Barnett Newman, dated 1948.",
+   "hue": 14.83,
+   "light": 0.3504,
+   "chroma": 1.0,
+   "punch": 0.2454
+  },
+  "sent-2026-09-05::a13ded744ff4": {
+   "id": "CRVI001522",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001522.jpg",
+   "original_px": [
+    3773,
+    4859
+   ],
+   "original_bytes": 992510,
+   "identity": "sent-2026-09-05::a13ded744ff4",
+   "source_url": "https://uploads6.wikiart.org/images/barnett-newman/yellow-painting-1949.jpg",
+   "maker": "Barnett Newman",
+   "title": "Yellow Painting",
+   "subtitle": "",
+   "year": "1949",
+   "verified_against": "WikiArt, under Barnett Newman, dated 1949.",
+   "notes": [
+    "This file carries almost no high-frequency detail, which on most pictures would mean an upscale. Here it is the painting: a flat yellow field with two vertical zips. Checked at 1:1 before adding."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/128.jpg",
+   "source_px": [
+    3773,
+    4859
+   ],
+   "colors": [
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Barnett Newman"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "subject",
+     "v": "Abstract Expressionism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Barnett Newman, dated 1949.",
+   "hue": 45.27,
+   "light": 0.6059,
+   "chroma": 0.9969,
+   "punch": 0.6801
+  },
+  "sent-2026-09-05::43f1396b5dda": {
+   "id": "CRVI001523",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001523.jpg",
+   "original_px": [
+    881,
+    850
+   ],
+   "original_bytes": 275369,
+   "identity": "sent-2026-09-05::43f1396b5dda",
+   "source_url": "https://uploads7.wikiart.org/images/joan-mitchell/untitled-1950.jpg",
+   "maker": "Joan Mitchell",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "1950",
+   "verified_against": "WikiArt, under Joan Mitchell, dated 1950.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/129.jpg",
+   "source_px": [
+    881,
+    850
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Joan Mitchell"
+    },
+    {
+     "k": "subject",
+     "v": "Abstract Expressionism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Joan Mitchell, dated 1950.",
+   "hue": 37.62,
+   "light": 0.671,
+   "chroma": 0.5298,
+   "punch": 0.1182
+  },
+  "sent-2026-09-05::24444ecb785a": {
+   "id": "CRVI001524",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001524.jpg",
+   "original_px": [
+    814,
+    850
+   ],
+   "original_bytes": 278874,
+   "identity": "sent-2026-09-05::24444ecb785a",
+   "source_url": "https://uploads7.wikiart.org/images/joan-mitchell/untitled-1956.jpg",
+   "maker": "Joan Mitchell",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "1956",
+   "verified_against": "WikiArt, under Joan Mitchell, dated 1956.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/130.jpg",
+   "source_px": [
+    814,
+    850
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Joan Mitchell"
+    },
+    {
+     "k": "subject",
+     "v": "Abstract Expressionism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Joan Mitchell, dated 1956.",
+   "hue": 37.63,
+   "light": 0.5544,
+   "chroma": 0.7298,
+   "punch": 0.1473
+  },
+  "sent-2026-09-05::aa61fb24b40b": {
+   "id": "CRVI001525",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001525.jpg",
+   "original_px": [
+    4000,
+    3239
+   ],
+   "original_bytes": 3817274,
+   "identity": "sent-2026-09-05::aa61fb24b40b",
+   "source_url": "https://images.metmuseum.org/CRDImages/ph/original/DP-14185-001.jpg",
+   "maker": "Dorothea Lange",
+   "title": "Pea Pickers Line Up on Edge of Field at Weigh Scale, near Calipatria, Imperial Valley, California, February",
+   "subtitle": "",
+   "year": "1939, printed ca. 1972",
+   "verified_against": "The Metropolitan Museum of Art, object 260388 — matched by its own image id (CRDImages/ph/DP-14185-001). Gelatin silver print, Gift of Phyllis D. Massar, 1972.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/131.jpg",
+   "source_px": [
+    4000,
+    3239
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Dorothea Lange"
+    },
+    {
+     "k": "photographer",
+     "v": "Dorothea Lange"
+    },
+    {
+     "k": "medium",
+     "v": "gelatin silver print"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1930s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Metropolitan Museum of Art, object 260388 — matched by its own image id (CRDImages/ph/DP-14185-001). Gelatin silver print, Gift of Phyllis D. Massar, 1972.",
+   "hue": 24.9,
+   "light": 0.5762,
+   "chroma": 0.1956,
+   "punch": 0.0469
+  },
+  "sent-2026-09-05::29076e149436": {
+   "id": "CRVI001526",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001526.jpg",
+   "original_px": [
+    843,
+    1047
+   ],
+   "original_bytes": 398585,
+   "identity": "sent-2026-09-05::29076e149436",
+   "source_url": "https://www.artic.edu/iiif/2/d33f38d7-e0fd-17e4-09cd-1cfbbfd2c8b4/full/843,/0/default.jpg",
+   "maker": "Walker Evans",
+   "title": "Alabama Cotton Tenant Farmer's Wife",
+   "subtitle": "",
+   "year": "1936, printed c. 1962",
+   "verified_against": "Art Institute of Chicago, artwork 13720 — the museum's API resolves this image id to Walker Evans, Alabama Cotton Tenant Farmer's Wife, 1936, printed c. 1962.",
+   "notes": [
+    "Allie Mae Burroughs, photographed in Hale County for what became Let Us Now Praise Famous Men."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/132.jpg",
+   "source_px": [
+    843,
+    1047
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Walker Evans"
+    },
+    {
+     "k": "photographer",
+     "v": "Walker Evans"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1930s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Institute of Chicago, artwork 13720 — the museum's API resolves this image id to Walker Evans, Alabama Cotton Tenant Farmer's Wife, 1936, printed c. 1962.",
+   "hue": null,
+   "light": 0.4521,
+   "chroma": 0.0114,
+   "punch": 0.0533
+  },
+  "sent-2026-09-05::d220013424b2": {
+   "id": "CRVI001527",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001527.jpg",
+   "original_px": [
+    1518,
+    2000
+   ],
+   "original_bytes": 2069424,
+   "identity": "sent-2026-09-05::d220013424b2",
+   "source_url": "https://media.mutualart.com/Images/2023_08/17/16/162953292/raphael-soyer-raphael-soyer-D2ZSD.Jpeg",
+   "maker": "Raphael Soyer",
+   "title": "Portrait of a pregnant woman",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "MutualArt lists this under Raphael Soyer, and the canvas is signed RAPHAEL SOYER at the lower right. The title and date are not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/133.jpg",
+   "source_px": [
+    1518,
+    2000
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Raphael Soyer"
+    },
+    {
+     "k": "subject",
+     "v": "Social Realism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "MutualArt lists this under Raphael Soyer, and the canvas is signed RAPHAEL SOYER at the lower right. The title and date are not established here.",
+   "hue": 15.67,
+   "light": 0.3026,
+   "chroma": 0.5869,
+   "punch": 0.1539
+  },
+  "sent-2026-09-05::5adfb5e2d715": {
+   "id": "CRVI001528",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001528.jpg",
+   "original_px": [
+    910,
+    1064
+   ],
+   "original_bytes": 404310,
+   "identity": "sent-2026-09-05::5adfb5e2d715",
+   "source_url": "https://3.bp.blogspot.com/-bLw5QvyUhuY/T_7s7XN-pbI/AAAAAAAAD1U/PU4hiAfhw_4/s1600/Levine+feast-of-pure-reason.jpg",
+   "maker": "Jack Levine",
+   "title": "The Feast of Pure Reason",
+   "subtitle": "",
+   "year": "1937",
+   "verified_against": "Published as Jack Levine's The Feast of Pure Reason; the file name is the publisher's own metadata. Painted for the WPA Federal Art Project in 1937.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/134.jpg",
+   "source_px": [
+    910,
+    1064
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Jack Levine"
+    },
+    {
+     "k": "subject",
+     "v": "Social Realism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1930s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published as Jack Levine's The Feast of Pure Reason; the file name is the publisher's own metadata. Painted for the WPA Federal Art Project in 1937.",
+   "hue": 25.58,
+   "light": 0.275,
+   "chroma": 0.3376,
+   "punch": 0.0928
+  },
+  "sent-2026-09-05::aceb26bee503": {
+   "id": "CRVI001529",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001529.jpg",
+   "original_px": [
+    1101,
+    971
+   ],
+   "original_bytes": 219256,
+   "identity": "sent-2026-09-05::aceb26bee503",
+   "source_url": "https://jacksonpointart.com/wp-content/uploads/2015/09/Levine-The-Arrest-1983.jpg",
+   "maker": "Jack Levine",
+   "title": "The Arrest",
+   "subtitle": "",
+   "year": "1983",
+   "verified_against": "Published as Jack Levine, The Arrest, 1983, by Jackson Point Art; the file name is the publisher's own metadata.",
+   "notes": [
+    "Taken from the site's undecorated original at 1101 × 971 rather than the 1024 × 903 WordPress derivative — the larger file is the real one."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/135.jpg",
+   "source_px": [
+    1101,
+    971
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Jack Levine"
+    },
+    {
+     "k": "subject",
+     "v": "Social Realism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published as Jack Levine, The Arrest, 1983, by Jackson Point Art; the file name is the publisher's own metadata.",
+   "hue": 19.13,
+   "light": 0.3541,
+   "chroma": 0.8692,
+   "punch": 0.2708
+  },
+  "sent-2026-09-05::dc151729da75": {
+   "id": "CRVI001530",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001530.jpg",
+   "original_px": [
+    811,
+    1050
+   ],
+   "original_bytes": 188608,
+   "identity": "sent-2026-09-05::dc151729da75",
+   "source_url": "https://i.pinimg.com/originals/66/61/f7/6661f7fc460a08f9dd7e3d505445d7bb.jpg",
+   "maker": "Unidentified",
+   "title": "Woman in a hat with a compact mirror",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "An American social-realist study of a woman at her compact, loosely brushed in sepia and grey. It reads as Isabel Bishop, whose Union Square women are painted just this way — but the file came from Pinterest with NO provenance, and a style reading is not an attribution. Maker, title and date all unestablished.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/136.jpg",
+   "source_px": [
+    811,
+    1050
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "subject",
+     "v": "Social Realism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "An American social-realist study of a woman at her compact, loosely brushed in sepia and grey. It reads as Isabel Bishop, whose Union Square women are painted just this way — but the file came from Pinterest with NO provenance, and a style reading is not an attribution. Maker, title and date all unestablished.",
+   "hue": 35.17,
+   "light": 0.3904,
+   "chroma": 0.9001,
+   "punch": 0.2357
+  },
+  "sent-2026-09-05::326f66eb50ca": {
+   "id": "CRVI001531",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001531.jpg",
+   "original_px": [
+    1654,
+    2005
+   ],
+   "original_bytes": 809834,
+   "identity": "sent-2026-09-05::326f66eb50ca",
+   "source_url": "https://uploads0.wikiart.org/images/grant-wood/arnold-comes-of-age-1930(1).jpg",
+   "maker": "Grant Wood",
+   "title": "Arnold Comes of Age",
+   "subtitle": "",
+   "year": "1930",
+   "verified_against": "WikiArt, under Grant Wood, dated 1930.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/137.jpg",
+   "source_px": [
+    1654,
+    2005
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Grant Wood"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "subject",
+     "v": "American Regionalism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1930s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Grant Wood, dated 1930.",
+   "hue": 28.45,
+   "light": 0.2493,
+   "chroma": 0.5603,
+   "punch": 0.1792
+  },
+  "sent-2026-09-05::c1f7b7763d09": {
+   "id": "CRVI001532",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001532.jpg",
+   "original_px": [
+    4000,
+    2784
+   ],
+   "original_bytes": 1360671,
+   "identity": "sent-2026-09-05::c1f7b7763d09",
+   "source_url": "https://gm-piction-live.s3.amazonaws.com/styles/enlargement_4000/s3/assets/0127.2000_HOGUE_LAND_o6.jpg?itok=PdhDY4Tx",
+   "maker": "Alexandre Hogue",
+   "title": "Crucified Land",
+   "subtitle": "",
+   "year": "1939",
+   "verified_against": "Gilcrease Museum, Tulsa, object 127.2 — matching this asset's own name, 0127.2000_HOGUE_LAND. Oil on canvas, 106 × 152.1 cm, gift of the Thomas Gilcrease Foundation, 1955. From Hogue's Erosion series on the Dust Bowl; the skeletal plough on the horizon stands in for the crucifix.",
+   "notes": [
+    "⚠️ PIXEL COUNT IS NOT RESOLUTION. This file is served from a CDN path literally named 'enlargement_4000' and it is one: at 1:1 it is smooth and interpolated, with no canvas weave, against a genuine 4000px museum scan that shows grain. It survives a round-trip shrink-and-enlarge almost unchanged. So 4000 × 2784 overstates what is here — the real detail is well below that, and a better scan should replace this if one turns up."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/138.jpg",
+   "source_px": [
+    4000,
+    2784
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Alexandre Hogue"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "subject",
+     "v": "American Regionalism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1930s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Gilcrease Museum, Tulsa, object 127.2 — matching this asset's own name, 0127.2000_HOGUE_LAND. Oil on canvas, 106 × 152.1 cm, gift of the Thomas Gilcrease Foundation, 1955. From Hogue's Erosion series on the Dust Bowl; the skeletal plough on the horizon stands in for the crucifix.",
+   "hue": 15.66,
+   "light": 0.38,
+   "chroma": 0.8508,
+   "punch": 0.2817
+  },
+  "sent-2026-09-05::fe55764379dc": {
+   "id": "CRVI001533",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001533.jpg",
+   "original_px": [
+    1608,
+    1993
+   ],
+   "original_bytes": 414366,
+   "identity": "sent-2026-09-05::fe55764379dc",
+   "source_url": "https://uploads7.wikiart.org/images/diego-rivera/the-adoration-of-the-virgin-1913.jpg",
+   "maker": "Diego Rivera",
+   "title": "The Adoration of the Virgin",
+   "subtitle": "",
+   "year": "1913",
+   "verified_against": "WikiArt, under Diego Rivera, dated 1913.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/139.jpg",
+   "source_px": [
+    1608,
+    1993
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Diego Rivera"
+    },
+    {
+     "k": "location",
+     "v": "Mexico"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Diego Rivera, dated 1913.",
+   "hue": 36.51,
+   "light": 0.4303,
+   "chroma": 0.8096,
+   "punch": 0.2526
+  },
+  "sent-2026-09-05::a39b7567802a": {
+   "id": "CRVI001534",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001534.jpg",
+   "original_px": [
+    1148,
+    1433
+   ],
+   "original_bytes": 291158,
+   "identity": "sent-2026-09-05::a39b7567802a",
+   "source_url": "https://uploads6.wikiart.org/images/diego-rivera/portrait-of-ramon-gomez-de-la-serna-1915.jpg",
+   "maker": "Diego Rivera",
+   "title": "Portrait of Ramón Gómez de la Serna",
+   "subtitle": "",
+   "year": "1915",
+   "verified_against": "WikiArt, under Diego Rivera, dated 1915.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/140.jpg",
+   "source_px": [
+    1148,
+    1433
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Diego Rivera"
+    },
+    {
+     "k": "location",
+     "v": "Mexico"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Diego Rivera, dated 1915.",
+   "hue": 44.91,
+   "light": 0.3153,
+   "chroma": 0.5046,
+   "punch": 0.1276
+  },
+  "sent-2026-09-05::1ea91360baab": {
+   "id": "CRVI001535",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001535.jpg",
+   "original_px": [
+    843,
+    1200
+   ],
+   "original_bytes": 478540,
+   "identity": "sent-2026-09-05::1ea91360baab",
+   "source_url": "https://www.artic.edu/iiif/2/f4f9c6e4-1ab5-4a62-a336-8da40e0990f6/full/843,/0/default.jpg",
+   "maker": "David Alfaro Siqueiros",
+   "title": "Self-Portrait",
+   "subtitle": "",
+   "year": "1936",
+   "verified_against": "Art Institute of Chicago, artwork 16750 — the museum's API resolves this image id to David Alfaro Siqueiros, Self-Portrait, 1936. The sheet is signed and numbered beneath the image.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/141.jpg",
+   "source_px": [
+    843,
+    1200
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "David Alfaro Siqueiros"
+    },
+    {
+     "k": "medium",
+     "v": "lithograph"
+    },
+    {
+     "k": "subject",
+     "v": "Mexican Muralism"
+    },
+    {
+     "k": "location",
+     "v": "Mexico"
+    },
+    {
+     "k": "decade",
+     "v": "1930s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Institute of Chicago, artwork 16750 — the museum's API resolves this image id to David Alfaro Siqueiros, Self-Portrait, 1936. The sheet is signed and numbered beneath the image.",
+   "hue": 35.04,
+   "light": 0.5251,
+   "chroma": 0.3602,
+   "punch": 0.0579
+  },
+  "sent-2026-09-05::b4f58a6d4f23": {
+   "id": "CRVI001536",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001536.jpg",
+   "original_px": [
+    1067,
+    810
+   ],
+   "original_bytes": 240444,
+   "identity": "sent-2026-09-05::b4f58a6d4f23",
+   "source_url": "https://uploads3.wikiart.org/images/david-alfaro-siqueiros/self-portrait-1945.jpg",
+   "maker": "David Alfaro Siqueiros",
+   "title": "Self-Portrait (El Coronelazo)",
+   "subtitle": "",
+   "year": "1945",
+   "verified_against": "WikiArt, under David Alfaro Siqueiros, dated 1945.",
+   "notes": [
+    "The foreshortened hand thrust at the viewer."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/142.jpg",
+   "source_px": [
+    1067,
+    810
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "David Alfaro Siqueiros"
+    },
+    {
+     "k": "subject",
+     "v": "Mexican Muralism"
+    },
+    {
+     "k": "location",
+     "v": "Mexico"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under David Alfaro Siqueiros, dated 1945.",
+   "hue": 36.17,
+   "light": 0.4066,
+   "chroma": 0.8911,
+   "punch": 0.2775
+  },
+  "sent-2026-09-05::5bc9a9c87b4b": {
+   "id": "CRVI001537",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001537.jpg",
+   "original_px": [
+    925,
+    1218
+   ],
+   "original_bytes": 530611,
+   "identity": "sent-2026-09-05::5bc9a9c87b4b",
+   "source_url": "https://uploads7.wikiart.org/images/david-alfaro-siqueiros/our-present-image-1947.jpg",
+   "maker": "David Alfaro Siqueiros",
+   "title": "Our Present Image",
+   "subtitle": "",
+   "year": "1947",
+   "verified_against": "WikiArt, under David Alfaro Siqueiros, dated 1947.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/143.jpg",
+   "source_px": [
+    925,
+    1218
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "David Alfaro Siqueiros"
+    },
+    {
+     "k": "subject",
+     "v": "Mexican Muralism"
+    },
+    {
+     "k": "location",
+     "v": "Mexico"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under David Alfaro Siqueiros, dated 1947.",
+   "hue": 27.54,
+   "light": 0.4055,
+   "chroma": 0.6435,
+   "punch": 0.2218
+  },
+  "sent-2026-09-05::ceb54f21ef2e": {
+   "id": "CRVI001538",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001538.jpg",
+   "original_px": [
+    2476,
+    1952
+   ],
+   "original_bytes": 1003624,
+   "identity": "sent-2026-09-05::ceb54f21ef2e",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/%27Wisdom_of_the_West%27%2C_by_Jean_Charlot.jpg",
+   "maker": "Jean Charlot",
+   "title": "Wisdom of the West",
+   "subtitle": "Mural",
+   "year": "",
+   "verified_against": "Wikimedia Commons, as 'Wisdom of the West', by Jean Charlot. The date and location of the mural are not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/144.jpg",
+   "source_px": [
+    2476,
+    1952
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Jean Charlot"
+    },
+    {
+     "k": "subject",
+     "v": "Mexican Muralism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons, as 'Wisdom of the West', by Jean Charlot. The date and location of the mural are not established here.",
+   "hue": 32.0,
+   "light": 0.6402,
+   "chroma": 0.828,
+   "punch": 0.2726
   }
  }
 }
