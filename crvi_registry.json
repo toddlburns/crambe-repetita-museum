@@ -1,5 +1,5 @@
 {
- "next": 1911,
+ "next": 1925,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -112411,6 +112411,789 @@
    "light": 0.4459,
    "chroma": 0.058,
    "punch": 0.0274
+  },
+  "sent-2026-09-05::b956e8b1ce78": {
+   "id": "CRVI001911",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001911.jpg",
+   "original_px": [
+    800,
+    806
+   ],
+   "original_bytes": 310324,
+   "identity": "sent-2026-09-05::b956e8b1ce78",
+   "source_url": "https://sevenmagicmountains.com/wp-content/uploads/2016/01/F_Michael-Heizer-Rift-1-1968-at-Jean-Dry-Lake-Nevada.jpg",
+   "maker": "Michael Heizer",
+   "title": "Rift #1",
+   "subtitle": "Jean Dry Lake, Nevada",
+   "year": "1968",
+   "verified_against": "Published by Seven Magic Mountains, whose file name gives it in full: Michael Heizer, Rift #1, 1968, at Jean Dry Lake, Nevada. Heizer made the WORK — a zigzag trench cut into the cracked lake bed; the photographer is not named.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/680.jpg",
+   "source_px": [
+    800,
+    806
+   ],
+   "colors": [
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Michael Heizer"
+    },
+    {
+     "k": "subject",
+     "v": "Land Art"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published by Seven Magic Mountains, whose file name gives it in full: Michael Heizer, Rift #1, 1968, at Jean Dry Lake, Nevada. Heizer made the WORK — a zigzag trench cut into the cracked lake bed; the photographer is not named.",
+   "hue": 195.73,
+   "light": 0.548,
+   "chroma": 0.1555,
+   "punch": 0.0785
+  },
+  "sent-2026-09-05::255d9a21ce2a": {
+   "id": "CRVI001912",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001912.jpg",
+   "original_px": [
+    1024,
+    911
+   ],
+   "original_bytes": 107766,
+   "identity": "sent-2026-09-05::255d9a21ce2a",
+   "source_url": "https://uploads5.wikiart.org/images/walter-de-maria/triangle-circle-square-1972.jpg",
+   "maker": "Walter De Maria",
+   "title": "Triangle, Circle, Square",
+   "subtitle": "",
+   "year": "1972",
+   "verified_against": "WikiArt, under Walter De Maria, dated 1972.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/681.jpg",
+   "source_px": [
+    1024,
+    911
+   ],
+   "colors": [
+    "pink",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Walter De Maria"
+    },
+    {
+     "k": "subject",
+     "v": "Land Art"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Walter De Maria, dated 1972.",
+   "hue": null,
+   "light": 0.5935,
+   "chroma": 0.0962,
+   "punch": 0.0488
+  },
+  "sent-2026-09-05::cf2928db9df0": {
+   "id": "CRVI001913",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001913.jpg",
+   "original_px": [
+    1440,
+    1120
+   ],
+   "original_bytes": 86332,
+   "identity": "sent-2026-09-05::cf2928db9df0",
+   "source_url": "https://uploads5.wikiart.org/00211/images/james-turrell/pullen-white-1967-s1-1440x1120-1.jpg",
+   "maker": "James Turrell",
+   "title": "Pullen (White)",
+   "subtitle": "",
+   "year": "1967",
+   "verified_against": "WikiArt, under James Turrell, dated 1967.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/682.jpg",
+   "source_px": [
+    1440,
+    1120
+   ],
+   "colors": [
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "artist",
+     "v": "James Turrell"
+    },
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "medium",
+     "v": "projected light"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under James Turrell, dated 1967.",
+   "hue": null,
+   "light": 0.3252,
+   "chroma": 0.0378,
+   "punch": 0.0321
+  },
+  "sent-2026-09-05::9cb05afcd12d": {
+   "id": "CRVI001914",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001914.jpg",
+   "original_px": [
+    1165,
+    880
+   ],
+   "original_bytes": 66649,
+   "identity": "sent-2026-09-05::9cb05afcd12d",
+   "source_url": "https://uploads8.wikiart.org/00211/images/james-turrell/raethro-red-1968cropped1-1.jpg",
+   "maker": "James Turrell",
+   "title": "Raethro (Red)",
+   "subtitle": "",
+   "year": "1968",
+   "verified_against": "WikiArt, under James Turrell, dated 1968.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/683.jpg",
+   "source_px": [
+    1165,
+    880
+   ],
+   "colors": [
+    "red",
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "artist",
+     "v": "James Turrell"
+    },
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "medium",
+     "v": "projected light"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under James Turrell, dated 1968.",
+   "hue": 3.42,
+   "light": 0.1096,
+   "chroma": 0.3249,
+   "punch": 0.213
+  },
+  "sent-2026-09-05::1a66bc519943": {
+   "id": "CRVI001915",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001915.jpg",
+   "original_px": [
+    1440,
+    2160
+   ],
+   "original_bytes": 225484,
+   "identity": "sent-2026-09-05::1a66bc519943",
+   "source_url": "https://uploads3.wikiart.org/00211/images/james-turrell/juke-green-1968-s1-1440x2160-1.jpg",
+   "maker": "James Turrell",
+   "title": "Juke (Green)",
+   "subtitle": "",
+   "year": "1968",
+   "verified_against": "WikiArt, under James Turrell, dated 1968.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/684.jpg",
+   "source_px": [
+    1440,
+    2160
+   ],
+   "colors": [
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "artist",
+     "v": "James Turrell"
+    },
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "medium",
+     "v": "projected light"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under James Turrell, dated 1968.",
+   "hue": 134.63,
+   "light": 0.1707,
+   "chroma": 0.9786,
+   "punch": 0.1835
+  },
+  "sent-2026-09-05::1714a93b5689": {
+   "id": "CRVI001916",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001916.jpg",
+   "original_px": [
+    1440,
+    2222
+   ],
+   "original_bytes": 381361,
+   "identity": "sent-2026-09-05::1714a93b5689",
+   "source_url": "https://uploads7.wikiart.org/00210/images/james-turrell/raethro-ii-green-19691-1440x2222-1.jpg",
+   "maker": "James Turrell",
+   "title": "Raethro II (Green)",
+   "subtitle": "",
+   "year": "1969",
+   "verified_against": "WikiArt, under James Turrell, dated 1969.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/685.jpg",
+   "source_px": [
+    1440,
+    2222
+   ],
+   "colors": [
+    "pink",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "artist",
+     "v": "James Turrell"
+    },
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "medium",
+     "v": "projected light"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under James Turrell, dated 1969.",
+   "hue": 135.02,
+   "light": 0.2225,
+   "chroma": 0.3635,
+   "punch": 0.1017
+  },
+  "sent-2026-09-05::a9c1418deced": {
+   "id": "CRVI001917",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001917.jpg",
+   "original_px": [
+    1300,
+    1015
+   ],
+   "original_bytes": 83493,
+   "identity": "sent-2026-09-05::a9c1418deced",
+   "source_url": "https://uploads7.wikiart.org/images/james-turrell/acro-red-corner-projection-1968.jpg",
+   "maker": "James Turrell",
+   "title": "Acro (Red)",
+   "subtitle": "Corner projection",
+   "year": "1968",
+   "verified_against": "WikiArt, under James Turrell, dated 1968.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/686.jpg",
+   "source_px": [
+    1300,
+    1015
+   ],
+   "colors": [
+    "red",
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "artist",
+     "v": "James Turrell"
+    },
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "medium",
+     "v": "projected light"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under James Turrell, dated 1968.",
+   "hue": 349.47,
+   "light": 0.1604,
+   "chroma": 0.6585,
+   "punch": 0.2686
+  },
+  "sent-2026-09-05::d4805e86fb4d": {
+   "id": "CRVI001918",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001918.jpg",
+   "original_px": [
+    1440,
+    2091
+   ],
+   "original_bytes": 169553,
+   "identity": "sent-2026-09-05::d4805e86fb4d",
+   "source_url": "https://uploads8.wikiart.org/00211/images/james-turrell/munson-blue-simulation1-1440x2091-1.jpg",
+   "maker": "James Turrell",
+   "title": "Munson (Blue)",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under James Turrell. ⚠️ The file name calls this a SIMULATION, so it may be a rendering of the piece rather than a photograph of it. The date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/687.jpg",
+   "source_px": [
+    1440,
+    2091
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "James Turrell"
+    },
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "medium",
+     "v": "projected light"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under James Turrell. ⚠️ The file name calls this a SIMULATION, so it may be a rendering of the piece rather than a photograph of it. The date is not established here.",
+   "hue": 232.92,
+   "light": 0.3654,
+   "chroma": 0.9422,
+   "punch": 0.2304
+  },
+  "sent-2026-09-05::273d5ad21373": {
+   "id": "CRVI001919",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001919.jpg",
+   "original_px": [
+    1360,
+    2048
+   ],
+   "original_bytes": 455220,
+   "identity": "sent-2026-09-05::273d5ad21373",
+   "source_url": "https://uploads6.wikiart.org/00333/images/ana-mendieta/untitled-fetish-series-iowa-1977.jpg",
+   "maker": "Ana Mendieta",
+   "title": "Untitled (Fetish Series, Iowa)",
+   "subtitle": "",
+   "year": "1977",
+   "verified_against": "WikiArt, under Ana Mendieta, dated 1977, from the Fetish series made in Iowa.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/688.jpg",
+   "source_px": [
+    1360,
+    2048
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "artist",
+     "v": "Ana Mendieta"
+    },
+    {
+     "k": "subject",
+     "v": "Land Art"
+    },
+    {
+     "k": "subject",
+     "v": "performance"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Ana Mendieta, dated 1977, from the Fetish series made in Iowa.",
+   "hue": 32.02,
+   "light": 0.5255,
+   "chroma": 0.9756,
+   "punch": 0.2336
+  },
+  "sent-2026-09-05::132df9447195": {
+   "id": "CRVI001920",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001920.jpg",
+   "original_px": [
+    1500,
+    2000
+   ],
+   "original_bytes": 256178,
+   "identity": "sent-2026-09-05::132df9447195",
+   "source_url": "https://i.etsystatic.com/14675669/r/il/496d13/1915017806/il_fullxfull.1915017806_9pkm.jpg",
+   "maker": "Unidentified",
+   "title": "Woman in white on a green ground",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "An Etsy listing image with no artist named in the URL. ⚠️ It arrived in a batch of Ana Mendieta but is a PAINTING of a standing woman, not one of her earth-body works, and nothing connects it to her. Maker, title and date all unestablished.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/689.jpg",
+   "source_px": [
+    1500,
+    2000
+   ],
+   "colors": [
+    "green",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "An Etsy listing image with no artist named in the URL. ⚠️ It arrived in a batch of Ana Mendieta but is a PAINTING of a standing woman, not one of her earth-body works, and nothing connects it to her. Maker, title and date all unestablished.",
+   "hue": 71.02,
+   "light": 0.742,
+   "chroma": 0.7726,
+   "punch": 0.1337
+  },
+  "sent-2026-09-05::075134312d2e": {
+   "id": "CRVI001921",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001921.jpg",
+   "original_px": [
+    1600,
+    2043
+   ],
+   "original_bytes": 859539,
+   "identity": "sent-2026-09-05::075134312d2e",
+   "source_url": "https://thenewinquiry.com/app/uploads/2014/03/haley-1.jpg",
+   "maker": "Ana Mendieta",
+   "title": "Untitled (Glass on Body Imprints)",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "⚠️ ATTRIBUTED ON THE WORK, NOT THE SOURCE. The file name is only 'haley-1' and names nobody. The image is a face pressed flat against a sheet of glass — Mendieta's Glass on Body Imprints — and it arrived among her work, but the source establishes nothing. Title and date unestablished.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/690.jpg",
+   "source_px": [
+    1600,
+    2043
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Ana Mendieta"
+    },
+    {
+     "k": "subject",
+     "v": "Land Art"
+    },
+    {
+     "k": "subject",
+     "v": "performance"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ ATTRIBUTED ON THE WORK, NOT THE SOURCE. The file name is only 'haley-1' and names nobody. The image is a face pressed flat against a sheet of glass — Mendieta's Glass on Body Imprints — and it arrived among her work, but the source establishes nothing. Title and date unestablished.",
+   "hue": null,
+   "light": 0.6033,
+   "chroma": 0.0,
+   "punch": 0.0298
+  },
+  "sent-2026-09-05::bc1d88f6ee25": {
+   "id": "CRVI001922",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001922.jpg",
+   "original_px": [
+    2560,
+    3729
+   ],
+   "original_bytes": 1131344,
+   "identity": "sent-2026-09-05::bc1d88f6ee25",
+   "source_url": "https://img.huffingtonpost.com/asset/56da1b991e0000950070f52c.jpeg?ops=scalefit_2560",
+   "maker": "Ana Mendieta",
+   "title": "Untitled (earth-body work)",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Published by The Huffington Post under Ana Mendieta's name in an article asset. A figure caked in mud standing at a riverbank. The individual work's title and date are NOT established here.",
+   "notes": [
+    "Taken with the ?ops=scalefit_2560 parameter deliberately KEPT: here the parameter is the larger file (2560 × 3729) and the bare URL serves only 900 × 1311 — the reverse of the usual pattern, so it was checked both ways."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/691.jpg",
+   "source_px": [
+    2560,
+    3729
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Ana Mendieta"
+    },
+    {
+     "k": "subject",
+     "v": "Land Art"
+    },
+    {
+     "k": "subject",
+     "v": "performance"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published by The Huffington Post under Ana Mendieta's name in an article asset. A figure caked in mud standing at a riverbank. The individual work's title and date are NOT established here.",
+   "hue": 25.04,
+   "light": 0.5108,
+   "chroma": 0.3754,
+   "punch": 0.0967
+  },
+  "sent-2026-09-05::4d3c5c1bca35": {
+   "id": "CRVI001923",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001923.jpg",
+   "original_px": [
+    1698,
+    2500
+   ],
+   "original_bytes": 461986,
+   "identity": "sent-2026-09-05::4d3c5c1bca35",
+   "source_url": "https://d32dm0rphc51dk.cloudfront.net/JSVD_mPDHc5DOd2gPyoWHQ/normalized.jpg",
+   "maker": "Ana Mendieta",
+   "title": "Untitled (feather work)",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "An Artsy CDN asset whose URL is an opaque identifier. A figure covered in white feathers, arms outstretched — from Mendieta's early body works, but the source names nobody. Title and date unestablished.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/692.jpg",
+   "source_px": [
+    1698,
+    2500
+   ],
+   "colors": [
+    "yellow",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Ana Mendieta"
+    },
+    {
+     "k": "subject",
+     "v": "Land Art"
+    },
+    {
+     "k": "subject",
+     "v": "performance"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "An Artsy CDN asset whose URL is an opaque identifier. A figure covered in white feathers, arms outstretched — from Mendieta's early body works, but the source names nobody. Title and date unestablished.",
+   "hue": 51.24,
+   "light": 0.3809,
+   "chroma": 0.6589,
+   "punch": 0.1905
+  },
+  "sent-2026-09-05::b06fa4f87cc3": {
+   "id": "CRVI001924",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001924.jpg",
+   "original_px": [
+    802,
+    1200
+   ],
+   "original_bytes": 99582,
+   "identity": "sent-2026-09-05::b06fa4f87cc3",
+   "source_url": "https://cdn.thecollector.com/wp-content/uploads/2023/09/ana-mendieta-imagen-yagul-image-silueta-1973.jpg",
+   "maker": "Ana Mendieta",
+   "title": "Imagen de Yagul",
+   "subtitle": "Silueta series",
+   "year": "1973",
+   "verified_against": "Published by The Collector, whose file name gives Ana Mendieta, Imagen de Yagul, from the Silueta series, 1973.",
+   "notes": [
+    "The body laid in an Oaxacan tomb and covered with white flowers."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/693.jpg",
+   "source_px": [
+    802,
+    1200
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "artist",
+     "v": "Ana Mendieta"
+    },
+    {
+     "k": "subject",
+     "v": "Land Art"
+    },
+    {
+     "k": "subject",
+     "v": "performance"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published by The Collector, whose file name gives Ana Mendieta, Imagen de Yagul, from the Silueta series, 1973.",
+   "hue": 36.87,
+   "light": 0.4025,
+   "chroma": 0.5004,
+   "punch": 0.1192
   }
  }
 }

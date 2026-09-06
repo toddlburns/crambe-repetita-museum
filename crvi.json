@@ -100924,6 +100924,750 @@
    "hue": null,
    "light": 0.4459,
    "chroma": 0.058
+  },
+  {
+   "id": "CRVI001911",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.0785,
+   "source_url": "https://sevenmagicmountains.com/wp-content/uploads/2016/01/F_Michael-Heizer-Rift-1-1968-at-Jean-Dry-Lake-Nevada.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001911.jpg",
+   "source_label": "",
+   "image": "images/CRVI001911.jpg",
+   "original": "originals/CRVI001911.jpg",
+   "vector": "",
+   "original_px": [
+    800,
+    806
+   ],
+   "original_bytes": 310324,
+   "maker": "Michael Heizer",
+   "title": "Rift #1",
+   "subtitle": "Jean Dry Lake, Nevada",
+   "year": "1968",
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Michael Heizer"
+    },
+    {
+     "k": "subject",
+     "v": "Land Art"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 195.73,
+   "light": 0.548,
+   "chroma": 0.1555
+  },
+  {
+   "id": "CRVI001912",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.0488,
+   "source_url": "https://uploads5.wikiart.org/images/walter-de-maria/triangle-circle-square-1972.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001912.jpg",
+   "source_label": "",
+   "image": "images/CRVI001912.jpg",
+   "original": "originals/CRVI001912.jpg",
+   "vector": "",
+   "original_px": [
+    1024,
+    911
+   ],
+   "original_bytes": 107766,
+   "maker": "Walter De Maria",
+   "title": "Triangle, Circle, Square",
+   "subtitle": "",
+   "year": "1972",
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Walter De Maria"
+    },
+    {
+     "k": "subject",
+     "v": "Land Art"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": null,
+   "light": 0.5935,
+   "chroma": 0.0962
+  },
+  {
+   "id": "CRVI001913",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.0321,
+   "source_url": "https://uploads5.wikiart.org/00211/images/james-turrell/pullen-white-1967-s1-1440x1120-1.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001913.jpg",
+   "source_label": "",
+   "image": "images/CRVI001913.jpg",
+   "original": "originals/CRVI001913.jpg",
+   "vector": "",
+   "original_px": [
+    1440,
+    1120
+   ],
+   "original_bytes": 86332,
+   "maker": "James Turrell",
+   "title": "Pullen (White)",
+   "subtitle": "",
+   "year": "1967",
+   "tags": [
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "artist",
+     "v": "James Turrell"
+    },
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "medium",
+     "v": "projected light"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": null,
+   "light": 0.3252,
+   "chroma": 0.0378
+  },
+  {
+   "id": "CRVI001914",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.213,
+   "source_url": "https://uploads8.wikiart.org/00211/images/james-turrell/raethro-red-1968cropped1-1.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001914.jpg",
+   "source_label": "",
+   "image": "images/CRVI001914.jpg",
+   "original": "originals/CRVI001914.jpg",
+   "vector": "",
+   "original_px": [
+    1165,
+    880
+   ],
+   "original_bytes": 66649,
+   "maker": "James Turrell",
+   "title": "Raethro (Red)",
+   "subtitle": "",
+   "year": "1968",
+   "tags": [
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "artist",
+     "v": "James Turrell"
+    },
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "medium",
+     "v": "projected light"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "black"
+    }
+   ],
+   "hue": 3.42,
+   "light": 0.1096,
+   "chroma": 0.3249
+  },
+  {
+   "id": "CRVI001915",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1835,
+   "source_url": "https://uploads3.wikiart.org/00211/images/james-turrell/juke-green-1968-s1-1440x2160-1.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001915.jpg",
+   "source_label": "",
+   "image": "images/CRVI001915.jpg",
+   "original": "originals/CRVI001915.jpg",
+   "vector": "",
+   "original_px": [
+    1440,
+    2160
+   ],
+   "original_bytes": 225484,
+   "maker": "James Turrell",
+   "title": "Juke (Green)",
+   "subtitle": "",
+   "year": "1968",
+   "tags": [
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "artist",
+     "v": "James Turrell"
+    },
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "medium",
+     "v": "projected light"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 134.63,
+   "light": 0.1707,
+   "chroma": 0.9786
+  },
+  {
+   "id": "CRVI001916",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1017,
+   "source_url": "https://uploads7.wikiart.org/00210/images/james-turrell/raethro-ii-green-19691-1440x2222-1.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001916.jpg",
+   "source_label": "",
+   "image": "images/CRVI001916.jpg",
+   "original": "originals/CRVI001916.jpg",
+   "vector": "",
+   "original_px": [
+    1440,
+    2222
+   ],
+   "original_bytes": 381361,
+   "maker": "James Turrell",
+   "title": "Raethro II (Green)",
+   "subtitle": "",
+   "year": "1969",
+   "tags": [
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "artist",
+     "v": "James Turrell"
+    },
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "medium",
+     "v": "projected light"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 135.02,
+   "light": 0.2225,
+   "chroma": 0.3635
+  },
+  {
+   "id": "CRVI001917",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.2686,
+   "source_url": "https://uploads7.wikiart.org/images/james-turrell/acro-red-corner-projection-1968.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001917.jpg",
+   "source_label": "",
+   "image": "images/CRVI001917.jpg",
+   "original": "originals/CRVI001917.jpg",
+   "vector": "",
+   "original_px": [
+    1300,
+    1015
+   ],
+   "original_bytes": 83493,
+   "maker": "James Turrell",
+   "title": "Acro (Red)",
+   "subtitle": "Corner projection",
+   "year": "1968",
+   "tags": [
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "artist",
+     "v": "James Turrell"
+    },
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "medium",
+     "v": "projected light"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "black"
+    }
+   ],
+   "hue": 349.47,
+   "light": 0.1604,
+   "chroma": 0.6585
+  },
+  {
+   "id": "CRVI001918",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.2304,
+   "source_url": "https://uploads8.wikiart.org/00211/images/james-turrell/munson-blue-simulation1-1440x2091-1.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001918.jpg",
+   "source_label": "",
+   "image": "images/CRVI001918.jpg",
+   "original": "originals/CRVI001918.jpg",
+   "vector": "",
+   "original_px": [
+    1440,
+    2091
+   ],
+   "original_bytes": 169553,
+   "maker": "James Turrell",
+   "title": "Munson (Blue)",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "James Turrell"
+    },
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "medium",
+     "v": "projected light"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 232.92,
+   "light": 0.3654,
+   "chroma": 0.9422
+  },
+  {
+   "id": "CRVI001919",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.2336,
+   "source_url": "https://uploads6.wikiart.org/00333/images/ana-mendieta/untitled-fetish-series-iowa-1977.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001919.jpg",
+   "source_label": "",
+   "image": "images/CRVI001919.jpg",
+   "original": "originals/CRVI001919.jpg",
+   "vector": "",
+   "original_px": [
+    1360,
+    2048
+   ],
+   "original_bytes": 455220,
+   "maker": "Ana Mendieta",
+   "title": "Untitled (Fetish Series, Iowa)",
+   "subtitle": "",
+   "year": "1977",
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "artist",
+     "v": "Ana Mendieta"
+    },
+    {
+     "k": "subject",
+     "v": "Land Art"
+    },
+    {
+     "k": "subject",
+     "v": "performance"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 32.02,
+   "light": 0.5255,
+   "chroma": 0.9756
+  },
+  {
+   "id": "CRVI001920",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1337,
+   "source_url": "https://i.etsystatic.com/14675669/r/il/496d13/1915017806/il_fullxfull.1915017806_9pkm.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001920.jpg",
+   "source_label": "",
+   "image": "images/CRVI001920.jpg",
+   "original": "originals/CRVI001920.jpg",
+   "vector": "",
+   "original_px": [
+    1500,
+    2000
+   ],
+   "original_bytes": 256178,
+   "maker": "Unidentified",
+   "title": "Woman in white on a green ground",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 71.02,
+   "light": 0.742,
+   "chroma": 0.7726
+  },
+  {
+   "id": "CRVI001921",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.0298,
+   "source_url": "https://thenewinquiry.com/app/uploads/2014/03/haley-1.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001921.jpg",
+   "source_label": "",
+   "image": "images/CRVI001921.jpg",
+   "original": "originals/CRVI001921.jpg",
+   "vector": "",
+   "original_px": [
+    1600,
+    2043
+   ],
+   "original_bytes": 859539,
+   "maker": "Ana Mendieta",
+   "title": "Untitled (Glass on Body Imprints)",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Ana Mendieta"
+    },
+    {
+     "k": "subject",
+     "v": "Land Art"
+    },
+    {
+     "k": "subject",
+     "v": "performance"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "neutral"
+    }
+   ],
+   "hue": null,
+   "light": 0.6033,
+   "chroma": 0.0
+  },
+  {
+   "id": "CRVI001922",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.0967,
+   "source_url": "https://img.huffingtonpost.com/asset/56da1b991e0000950070f52c.jpeg?ops=scalefit_2560",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001922.jpg",
+   "source_label": "",
+   "image": "images/CRVI001922.jpg",
+   "original": "originals/CRVI001922.jpg",
+   "vector": "",
+   "original_px": [
+    2560,
+    3729
+   ],
+   "original_bytes": 1131344,
+   "maker": "Ana Mendieta",
+   "title": "Untitled (earth-body work)",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Ana Mendieta"
+    },
+    {
+     "k": "subject",
+     "v": "Land Art"
+    },
+    {
+     "k": "subject",
+     "v": "performance"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 25.04,
+   "light": 0.5108,
+   "chroma": 0.3754
+  },
+  {
+   "id": "CRVI001923",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1905,
+   "source_url": "https://d32dm0rphc51dk.cloudfront.net/JSVD_mPDHc5DOd2gPyoWHQ/normalized.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001923.jpg",
+   "source_label": "",
+   "image": "images/CRVI001923.jpg",
+   "original": "originals/CRVI001923.jpg",
+   "vector": "",
+   "original_px": [
+    1698,
+    2500
+   ],
+   "original_bytes": 461986,
+   "maker": "Ana Mendieta",
+   "title": "Untitled (feather work)",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Ana Mendieta"
+    },
+    {
+     "k": "subject",
+     "v": "Land Art"
+    },
+    {
+     "k": "subject",
+     "v": "performance"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 51.24,
+   "light": 0.3809,
+   "chroma": 0.6589
+  },
+  {
+   "id": "CRVI001924",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1192,
+   "source_url": "https://cdn.thecollector.com/wp-content/uploads/2023/09/ana-mendieta-imagen-yagul-image-silueta-1973.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001924.jpg",
+   "source_label": "",
+   "image": "images/CRVI001924.jpg",
+   "original": "originals/CRVI001924.jpg",
+   "vector": "",
+   "original_px": [
+    802,
+    1200
+   ],
+   "original_bytes": 99582,
+   "maker": "Ana Mendieta",
+   "title": "Imagen de Yagul",
+   "subtitle": "Silueta series",
+   "year": "1973",
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "artist",
+     "v": "Ana Mendieta"
+    },
+    {
+     "k": "subject",
+     "v": "Land Art"
+    },
+    {
+     "k": "subject",
+     "v": "performance"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 36.87,
+   "light": 0.4025,
+   "chroma": 0.5004
   }
  ]
 }
