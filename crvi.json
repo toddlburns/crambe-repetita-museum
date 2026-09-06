@@ -74643,7 +74643,7 @@
   },
   {
    "id": "CRVI001418",
-   "published": false,
+   "published": true,
    "minted": "2026-09-05",
    "punch": 0.0756,
    "source_url": "https://media.newyorker.com/photos/6335b42b4e18ec083d4429f5/master/w_2560%2Cc_limit/221010_r41152.jpg",
@@ -74691,7 +74691,7 @@
   },
   {
    "id": "CRVI001419",
-   "published": false,
+   "published": true,
    "minted": "2026-09-05",
    "punch": 0.0868,
    "source_url": "https://sothebys-md.brightspotcdn.com/dims4/default/3469915/2147483647/strip/true/crop/1558x2000+0+0/resize/800x1027!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F60%2Fb1%2Fe18bd9884a469eb692a5eee82fd0%2Fn12062-dfn72-t2-02.jpg",
@@ -74835,7 +74835,7 @@
   },
   {
    "id": "CRVI001422",
-   "published": false,
+   "published": true,
    "minted": "2026-09-05",
    "punch": 0.1954,
    "source_url": "https://the-woods.fr/cdn/shop/collections/d20476dcd542d99e73806b231dae3bbf.jpg?v=1649415120",
@@ -74983,7 +74983,7 @@
   },
   {
    "id": "CRVI001425",
-   "published": false,
+   "published": true,
    "minted": "2026-09-05",
    "punch": 0.2146,
    "source_url": "https://cdn2.oceansbridge.com/2017/09/04154717/Portrait-of-Paul-Signac-Maximilien-Luce-oil-painting.jpg",
@@ -75531,7 +75531,7 @@
   },
   {
    "id": "CRVI001435",
-   "published": false,
+   "published": true,
    "minted": "2026-09-05",
    "punch": 0.1237,
    "source_url": "https://media.houseandgarden.co.uk/photos/618947b0f6acdd8ba4456507/master/w_1600%2Cc_limit/130-1075x.jpg",
@@ -75579,7 +75579,7 @@
   },
   {
    "id": "CRVI001436",
-   "published": false,
+   "published": true,
    "minted": "2026-09-05",
    "punch": 0.1856,
    "source_url": "https://media.houseandgarden.co.uk/photos/6189482c51c95671034bbb43/master/w_1600%2Cc_limit/screen.jpg",
@@ -75735,7 +75735,7 @@
   },
   {
    "id": "CRVI001439",
-   "published": false,
+   "published": true,
    "minted": "2026-09-05",
    "punch": 0.083,
    "source_url": "https://www.theviennasecession.com/wp-content/uploads/2016/01/91381_43a74135ef851a0a_b1.jpg",
@@ -75839,7 +75839,7 @@
   },
   {
    "id": "CRVI001441",
-   "published": false,
+   "published": true,
    "minted": "2026-09-05",
    "punch": 0.2458,
    "source_url": "https://images.squarespace-cdn.com/content/5f958b2581a3b045a227608a/b36dda28-2d32-4e27-b856-29095f520754/future.jpg?format=2500w&content-type=image%2Fjpeg",
@@ -75935,7 +75935,7 @@
   },
   {
    "id": "CRVI001443",
-   "published": false,
+   "published": true,
    "minted": "2026-09-05",
    "punch": 0.178,
    "source_url": "https://www.moma.org/media/W1siZiIsIjUyNDI2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=3e83594cb06efbf9",
@@ -76091,7 +76091,7 @@
   },
   {
    "id": "CRVI001446",
-   "published": false,
+   "published": true,
    "minted": "2026-09-05",
    "punch": 0.0933,
    "source_url": "https://www.theviennasecession.com/wp-content/uploads/2020/05/Secession_Building_Poster_Mockup.jpg",
@@ -76135,7 +76135,7 @@
   },
   {
    "id": "CRVI001447",
-   "published": false,
+   "published": true,
    "minted": "2026-09-05",
    "punch": 0.1111,
    "source_url": "https://assets.st-note.com/img/1761087433-uayeR41kMLDmjlXtQNzrAEo8.png",
@@ -76651,7 +76651,7 @@
   },
   {
    "id": "CRVI001457",
-   "published": false,
+   "published": true,
    "minted": "2026-09-05",
    "punch": 0.1951,
    "source_url": "https://images.metmuseum.org/CRDImages/ep/original/DP169564.jpg",
@@ -77068,6 +77068,2142 @@
    "hue": 212.95,
    "light": 0.4618,
    "chroma": 0.2317
+  },
+  {
+   "id": "CRVI001465",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.1299,
+   "source_url": "https://www.artic.edu/iiif/2/6242ca61-a2f4-d787-6e31-f8488249dab5/full/843,/0/default.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001465.jpg",
+   "source_label": "",
+   "image": "images/CRVI001465.jpg",
+   "original": "originals/CRVI001465.jpg",
+   "vector": "",
+   "original_px": [
+    843,
+    908
+   ],
+   "original_bytes": 207008,
+   "maker": "Simeon Solomon",
+   "title": "Self-Portrait",
+   "subtitle": "",
+   "year": "1860",
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Simeon Solomon"
+    },
+    {
+     "k": "medium",
+     "v": "graphite"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "1860s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 25.32,
+   "light": 0.7514,
+   "chroma": 0.6971
+  },
+  {
+   "id": "CRVI001466",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.1269,
+   "source_url": "https://images.metmuseum.org/CRDImages/dp/original/61HCAT45Ar1.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001466.jpg",
+   "source_label": "",
+   "image": "images/CRVI001466.jpg",
+   "original": "originals/CRVI001466.jpg",
+   "vector": "",
+   "original_px": [
+    1376,
+    1371
+   ],
+   "original_bytes": 533169,
+   "maker": "Unidentified",
+   "title": "Nursery interior with a child in a wicker cradle-cart",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "subject",
+     "v": "illustration"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 53.07,
+   "light": 0.8137,
+   "chroma": 0.4375
+  },
+  {
+   "id": "CRVI001467",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.3312,
+   "source_url": "https://uploads5.wikiart.org/images/albert-joseph-moore/midsummer-1887.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001467.jpg",
+   "source_label": "",
+   "image": "images/CRVI001467.jpg",
+   "original": "originals/CRVI001467.jpg",
+   "vector": "",
+   "original_px": [
+    944,
+    1000
+   ],
+   "original_bytes": 595267,
+   "maker": "Albert Joseph Moore",
+   "title": "Midsummer",
+   "subtitle": "",
+   "year": "1887",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Albert Moore"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "1880s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 19.22,
+   "light": 0.4999,
+   "chroma": 0.7622
+  },
+  {
+   "id": "CRVI001468",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.5521,
+   "source_url": "https://uploads5.wikiart.org/images/albert-joseph-moore/a-reverie-1892.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001468.jpg",
+   "source_label": "",
+   "image": "images/CRVI001468.jpg",
+   "original": "originals/CRVI001468.jpg",
+   "vector": "",
+   "original_px": [
+    1000,
+    1586
+   ],
+   "original_bytes": 304471,
+   "maker": "Albert Joseph Moore",
+   "title": "A Reverie",
+   "subtitle": "",
+   "year": "1892",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Albert Moore"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "1890s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 27.65,
+   "light": 0.5008,
+   "chroma": 1.0
+  },
+  {
+   "id": "CRVI001469",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.3396,
+   "source_url": "https://openaccess-cdn.clevelandart.org/2010.651/2010.651_print.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001469.jpg",
+   "source_label": "",
+   "image": "images/CRVI001469.jpg",
+   "original": "originals/CRVI001469.jpg",
+   "vector": "",
+   "original_px": [
+    2157,
+    3400
+   ],
+   "original_bytes": 2347578,
+   "maker": "Aubrey Beardsley",
+   "title": "Isolde",
+   "subtitle": "",
+   "year": "1895",
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Aubrey Beardsley"
+    },
+    {
+     "k": "illustrator",
+     "v": "Aubrey Beardsley"
+    },
+    {
+     "k": "medium",
+     "v": "colour lithograph"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "1890s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 36.34,
+   "light": 0.743,
+   "chroma": 0.9904
+  },
+  {
+   "id": "CRVI001470",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.0469,
+   "source_url": "https://uploads1.wikiart.org/images/aubrey-beardsley/how-la-beale-isoud-wrote-to-sir-tristram.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001470.jpg",
+   "source_label": "",
+   "image": "images/CRVI001470.jpg",
+   "original": "originals/CRVI001470.jpg",
+   "vector": "",
+   "original_px": [
+    1956,
+    2425
+   ],
+   "original_bytes": 1368683,
+   "maker": "Aubrey Beardsley",
+   "title": "How La Beale Isoud Wrote to Sir Tristram",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Aubrey Beardsley"
+    },
+    {
+     "k": "illustrator",
+     "v": "Aubrey Beardsley"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 55.39,
+   "light": 0.5618,
+   "chroma": 0.1319
+  },
+  {
+   "id": "CRVI001471",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.0467,
+   "source_url": "https://uploads3.wikiart.org/images/aubrey-beardsley/the-climax-1893.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001471.jpg",
+   "source_label": "",
+   "image": "images/CRVI001471.jpg",
+   "original": "originals/CRVI001471.jpg",
+   "vector": "",
+   "original_px": [
+    1983,
+    2656
+   ],
+   "original_bytes": 1523425,
+   "maker": "Aubrey Beardsley",
+   "title": "The Climax",
+   "subtitle": "",
+   "year": "1893",
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Aubrey Beardsley"
+    },
+    {
+     "k": "illustrator",
+     "v": "Aubrey Beardsley"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "1890s"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": null,
+   "light": 0.5528,
+   "chroma": 0.0894
+  },
+  {
+   "id": "CRVI001472",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.1117,
+   "source_url": "https://images.metmuseum.org/CRDImages/ep/original/DP-23236-001.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001472.jpg",
+   "source_label": "",
+   "image": "images/CRVI001472.jpg",
+   "original": "originals/CRVI001472.jpg",
+   "vector": "",
+   "original_px": [
+    4000,
+    3394
+   ],
+   "original_bytes": 3663056,
+   "maker": "Gustave Courbet",
+   "title": "Jo, La Belle Irlandaise",
+   "subtitle": "",
+   "year": "1866",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Gustave Courbet"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1860s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 27.47,
+   "light": 0.1825,
+   "chroma": 0.6467
+  },
+  {
+   "id": "CRVI001473",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.1322,
+   "source_url": "https://openaccess-cdn.clevelandart.org/1944.524/1944.524_print.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001473.jpg",
+   "source_label": "",
+   "image": "images/CRVI001473.jpg",
+   "original": "originals/CRVI001473.jpg",
+   "vector": "",
+   "original_px": [
+    3012,
+    3400
+   ],
+   "original_bytes": 1675848,
+   "maker": "Winslow Homer",
+   "title": "The Brierwood Pipe",
+   "subtitle": "",
+   "year": "1864",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Winslow Homer"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1860s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 22.4,
+   "light": 0.4092,
+   "chroma": 0.6128
+  },
+  {
+   "id": "CRVI001474",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.1427,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/After_sunset_looking_east_dwight_william_tryon.jpeg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001474.jpg",
+   "source_label": "",
+   "image": "images/CRVI001474.jpg",
+   "original": "originals/CRVI001474.jpg",
+   "vector": "",
+   "original_px": [
+    2435,
+    1630
+   ],
+   "original_bytes": 1749424,
+   "maker": "Dwight William Tryon",
+   "title": "After Sunset, Looking East",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Dwight William Tryon"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 44.04,
+   "light": 0.4241,
+   "chroma": 0.4838
+  },
+  {
+   "id": "CRVI001475",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.2329,
+   "source_url": "https://openaccess-cdn.clevelandart.org/1936.19/1936.19_print.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001475.jpg",
+   "source_label": "",
+   "image": "images/CRVI001475.jpg",
+   "original": "originals/CRVI001475.jpg",
+   "vector": "",
+   "original_px": [
+    3400,
+    2733
+   ],
+   "original_bytes": 4141338,
+   "maker": "Paul Cézanne",
+   "title": "The Pigeon Tower at Bellevue",
+   "subtitle": "",
+   "year": "1890",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Paul Cézanne"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1890s"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 194.97,
+   "light": 0.4744,
+   "chroma": 0.7732
+  },
+  {
+   "id": "CRVI001476",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.164,
+   "source_url": "https://openaccess-cdn.clevelandart.org/1947.209/1947.209_print.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001476.jpg",
+   "source_label": "",
+   "image": "images/CRVI001476.jpg",
+   "original": "originals/CRVI001476.jpg",
+   "vector": "",
+   "original_px": [
+    3400,
+    2713
+   ],
+   "original_bytes": 4457387,
+   "maker": "Vincent van Gogh",
+   "title": "The Large Plane Trees (Road Menders at Saint-Rémy)",
+   "subtitle": "",
+   "year": "1889",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Vincent van Gogh"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1880s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 36.98,
+   "light": 0.4223,
+   "chroma": 0.5147
+  },
+  {
+   "id": "CRVI001477",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.3342,
+   "source_url": "https://images.metmuseum.org/CRDImages/ep/original/DT1396.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001477.jpg",
+   "source_label": "",
+   "image": "images/CRVI001477.jpg",
+   "original": "originals/CRVI001477.jpg",
+   "vector": "",
+   "original_px": [
+    2957,
+    3722
+   ],
+   "original_bytes": 3301527,
+   "maker": "Vincent van Gogh",
+   "title": "L'Arlésienne: Madame Joseph-Michel Ginoux (Marie Julien, 1848–1911)",
+   "subtitle": "",
+   "year": "1888–89",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Vincent van Gogh"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1880s"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 44.99,
+   "light": 0.4252,
+   "chroma": 0.7933
+  },
+  {
+   "id": "CRVI001478",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.4638,
+   "source_url": "https://images.metmuseum.org/CRDImages/rl/original/DT3154.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001478.jpg",
+   "source_label": "",
+   "image": "images/CRVI001478.jpg",
+   "original": "originals/CRVI001478.jpg",
+   "vector": "",
+   "original_px": [
+    2987,
+    3721
+   ],
+   "original_bytes": 3686942,
+   "maker": "Vincent van Gogh",
+   "title": "Madame Roulin and Her Baby",
+   "subtitle": "",
+   "year": "1888",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Vincent van Gogh"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1880s"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 44.99,
+   "light": 0.438,
+   "chroma": 0.9666
+  },
+  {
+   "id": "CRVI001479",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.1846,
+   "source_url": "https://images.metmuseum.org/CRDImages/ep/original/DP-19279-001.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001479.jpg",
+   "source_label": "",
+   "image": "images/CRVI001479.jpg",
+   "original": "originals/CRVI001479.jpg",
+   "vector": "",
+   "original_px": [
+    3177,
+    4000
+   ],
+   "original_bytes": 7201472,
+   "maker": "Vincent van Gogh",
+   "title": "La Berceuse (Woman Rocking a Cradle; Augustine-Alix Pellicot Roulin, 1851–1930)",
+   "subtitle": "",
+   "year": "1889",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Vincent van Gogh"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1880s"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 154.1,
+   "light": 0.2,
+   "chroma": 0.8235
+  },
+  {
+   "id": "CRVI001480",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.0899,
+   "source_url": "https://openaccess-cdn.clevelandart.org/1958.54/1958.54_print.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001480.jpg",
+   "source_label": "",
+   "image": "images/CRVI001480.jpg",
+   "original": "originals/CRVI001480.jpg",
+   "vector": "",
+   "original_px": [
+    2578,
+    3400
+   ],
+   "original_bytes": 1612253,
+   "maker": "Henri de Toulouse-Lautrec",
+   "title": "May Belfort",
+   "subtitle": "",
+   "year": "1895",
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Henri de Toulouse-Lautrec"
+    },
+    {
+     "k": "medium",
+     "v": "oil on millboard"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1890s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 17.71,
+   "light": 0.388,
+   "chroma": 0.1694
+  },
+  {
+   "id": "CRVI001481",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.1094,
+   "source_url": "https://openaccess-cdn.clevelandart.org/1949.186/1949.186_print.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001481.jpg",
+   "source_label": "",
+   "image": "images/CRVI001481.jpg",
+   "original": "originals/CRVI001481.jpg",
+   "vector": "",
+   "original_px": [
+    3400,
+    3046
+   ],
+   "original_bytes": 3061492,
+   "maker": "Henri Rousseau",
+   "title": "Fight Between a Tiger and a Buffalo",
+   "subtitle": "",
+   "year": "1908",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Henri Rousseau"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 84.44,
+   "light": 0.2279,
+   "chroma": 0.8088
+  },
+  {
+   "id": "CRVI001482",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.0675,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Dada_-_recueil_litt%C3%A9raire_et_artistique.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001482.jpg",
+   "source_label": "",
+   "image": "images/CRVI001482.jpg",
+   "original": "originals/CRVI001482.jpg",
+   "vector": "",
+   "original_px": [
+    973,
+    1382
+   ],
+   "original_bytes": 335108,
+   "maker": "Francis Picabia",
+   "title": "Dadaphone no. 7",
+   "subtitle": "Cover",
+   "year": "1920",
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "artist",
+     "v": "Francis Picabia"
+    },
+    {
+     "k": "designer",
+     "v": "Francis Picabia"
+    },
+    {
+     "k": "subject",
+     "v": "Dada"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 44.47,
+   "light": 0.7858,
+   "chroma": 0.7529
+  },
+  {
+   "id": "CRVI001483",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.2654,
+   "source_url": "https://i.pinimg.com/originals/f5/a3/b9/f5a3b9d6af293005062980d3e8e85d12.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001483.jpg",
+   "source_label": "",
+   "image": "images/CRVI001483.jpg",
+   "original": "originals/CRVI001483.jpg",
+   "vector": "",
+   "original_px": [
+    1280,
+    1199
+   ],
+   "original_bytes": 383097,
+   "maker": "Hannah Höch",
+   "title": "Collage of eyes in a vase",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "collage"
+    },
+    {
+     "k": "artist",
+     "v": "Hannah Höch"
+    },
+    {
+     "k": "subject",
+     "v": "Dada"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 24.62,
+   "light": 0.578,
+   "chroma": 0.7711
+  },
+  {
+   "id": "CRVI001484",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.2313,
+   "source_url": "https://i.pinimg.com/originals/56/5c/d3/565cd36c03778f7b043d19713089c3ca.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001484.jpg",
+   "source_label": "",
+   "image": "images/CRVI001484.jpg",
+   "original": "originals/CRVI001484.jpg",
+   "vector": "",
+   "original_px": [
+    1671,
+    2000
+   ],
+   "original_bytes": 657597,
+   "maker": "Hannah Höch",
+   "title": "Photomontage with a man holding a white cat",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "collage"
+    },
+    {
+     "k": "artist",
+     "v": "Hannah Höch"
+    },
+    {
+     "k": "subject",
+     "v": "Dada"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 33.99,
+   "light": 0.5881,
+   "chroma": 0.8437
+  },
+  {
+   "id": "CRVI001485",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.2084,
+   "source_url": "https://www.typeroom.eu/assets/original/2020/03/08/Hannah_Hoch_Typeroom2.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001485.jpg",
+   "source_label": "",
+   "image": "images/CRVI001485.jpg",
+   "original": "originals/CRVI001485.jpg",
+   "vector": "",
+   "original_px": [
+    945,
+    1215
+   ],
+   "original_bytes": 577876,
+   "maker": "Hannah Höch",
+   "title": "Photomontage with a child and the letter P",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "collage"
+    },
+    {
+     "k": "artist",
+     "v": "Hannah Höch"
+    },
+    {
+     "k": "subject",
+     "v": "Dada"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 23.76,
+   "light": 0.6254,
+   "chroma": 0.8619
+  },
+  {
+   "id": "CRVI001486",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.1077,
+   "source_url": "https://openaccess-cdn.clevelandart.org/1995.4/1995.4_print.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001486.jpg",
+   "source_label": "",
+   "image": "images/CRVI001486.jpg",
+   "original": "originals/CRVI001486.jpg",
+   "vector": "",
+   "original_px": [
+    2785,
+    3400
+   ],
+   "original_bytes": 2420057,
+   "maker": "Kurt Schwitters",
+   "title": "Merz 3 Portfolio: Plate 1",
+   "subtitle": "",
+   "year": "1923",
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Kurt Schwitters"
+    },
+    {
+     "k": "medium",
+     "v": "lithograph"
+    },
+    {
+     "k": "subject",
+     "v": "Dada"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 30.24,
+   "light": 0.6878,
+   "chroma": 0.5903
+  },
+  {
+   "id": "CRVI001487",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.0222,
+   "source_url": "https://uploads3.wikiart.org/images/man-ray/black-and-white.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001487.jpg",
+   "source_label": "",
+   "image": "images/CRVI001487.jpg",
+   "original": "originals/CRVI001487.jpg",
+   "vector": "",
+   "original_px": [
+    2071,
+    1665
+   ],
+   "original_bytes": 247623,
+   "maker": "Man Ray",
+   "title": "Black and White (Noire et blanche)",
+   "subtitle": "",
+   "year": "1926",
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Man Ray"
+    },
+    {
+     "k": "photographer",
+     "v": "Man Ray"
+    },
+    {
+     "k": "subject",
+     "v": "Surrealism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "color",
+     "v": "neutral"
+    }
+   ],
+   "hue": null,
+   "light": 0.6179,
+   "chroma": 0.0425
+  },
+  {
+   "id": "CRVI001488",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.3679,
+   "source_url": "https://i.pinimg.com/originals/af/3b/f2/af3bf25f4eb55e4b8e7e11392cc66e04.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001488.jpg",
+   "source_label": "",
+   "image": "images/CRVI001488.jpg",
+   "original": "originals/CRVI001488.jpg",
+   "vector": "",
+   "original_px": [
+    1301,
+    1632
+   ],
+   "original_bytes": 427251,
+   "maker": "Unidentified",
+   "title": "Dada photomontage naming Raoul Hausmann",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "collage"
+    },
+    {
+     "k": "subject",
+     "v": "Dada"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 17.41,
+   "light": 0.5316,
+   "chroma": 0.9637
+  },
+  {
+   "id": "CRVI001489",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.234,
+   "source_url": "https://uploads8.wikiart.org/images/max-ernst/self-portrait-1909.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001489.jpg",
+   "source_label": "",
+   "image": "images/CRVI001489.jpg",
+   "original": "originals/CRVI001489.jpg",
+   "vector": "",
+   "original_px": [
+    1331,
+    2234
+   ],
+   "original_bytes": 423987,
+   "maker": "Max Ernst",
+   "title": "Self-Portrait",
+   "subtitle": "",
+   "year": "1909",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Max Ernst"
+    },
+    {
+     "k": "medium",
+     "v": "oil"
+    },
+    {
+     "k": "subject",
+     "v": "Surrealism"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 31.97,
+   "light": 0.4547,
+   "chroma": 0.6508
+  },
+  {
+   "id": "CRVI001490",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.1825,
+   "source_url": "https://uploads5.wikiart.org/images/max-ernst/ambiguous-figures-1-copper-plate-1-zinc-plate-1-rubber-cloth.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001490.jpg",
+   "source_label": "",
+   "image": "images/CRVI001490.jpg",
+   "original": "originals/CRVI001490.jpg",
+   "vector": "",
+   "original_px": [
+    1242,
+    1787
+   ],
+   "original_bytes": 268297,
+   "maker": "Max Ernst",
+   "title": "Ambiguous Figures (1 copper plate 1 zinc plate 1 rubber cloth)",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Max Ernst"
+    },
+    {
+     "k": "subject",
+     "v": "Dada"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 216.36,
+   "light": 0.6334,
+   "chroma": 0.6443
+  },
+  {
+   "id": "CRVI001491",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.0208,
+   "source_url": "https://uploads4.wikiart.org/00439/images/sophie-taeuber-arp/1920head-1920-3.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001491.jpg",
+   "source_label": "",
+   "image": "images/CRVI001491.jpg",
+   "original": "originals/CRVI001491.jpg",
+   "vector": "",
+   "original_px": [
+    1132,
+    1500
+   ],
+   "original_bytes": 119609,
+   "maker": "Sophie Taeuber-Arp",
+   "title": "Dada Head",
+   "subtitle": "",
+   "year": "1920",
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Sophie Taeuber-Arp"
+    },
+    {
+     "k": "subject",
+     "v": "Dada"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "color",
+     "v": "neutral"
+    }
+   ],
+   "hue": null,
+   "light": 0.7502,
+   "chroma": 0.025
+  },
+  {
+   "id": "CRVI001492",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.2132,
+   "source_url": "https://uploads8.wikiart.org/images/alexander-rodchenko/white-circle-1918.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001492.jpg",
+   "source_label": "",
+   "image": "images/CRVI001492.jpg",
+   "original": "originals/CRVI001492.jpg",
+   "vector": "",
+   "original_px": [
+    872,
+    1120
+   ],
+   "original_bytes": 65797,
+   "maker": "Alexander Rodchenko",
+   "title": "White Circle",
+   "subtitle": "",
+   "year": "1918",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Alexander Rodchenko"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "subject",
+     "v": "Constructivism"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 54.5,
+   "light": 0.5939,
+   "chroma": 0.8617
+  },
+  {
+   "id": "CRVI001493",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.4972,
+   "source_url": "https://uploads5.wikiart.org/images/alexander-rodchenko/red-and-yellow.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001493.jpg",
+   "source_label": "",
+   "image": "images/CRVI001493.jpg",
+   "original": "originals/CRVI001493.jpg",
+   "vector": "",
+   "original_px": [
+    1130,
+    1600
+   ],
+   "original_bytes": 182713,
+   "maker": "Alexander Rodchenko",
+   "title": "Red and Yellow",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Alexander Rodchenko"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "subject",
+     "v": "Constructivism"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 358.39,
+   "light": 0.3831,
+   "chroma": 0.9999
+  },
+  {
+   "id": "CRVI001494",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.3008,
+   "source_url": "https://uploads8.wikiart.org/images/alexander-rodchenko/battleship-potemkin-1925-1.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001494.jpg",
+   "source_label": "",
+   "image": "images/CRVI001494.jpg",
+   "original": "originals/CRVI001494.jpg",
+   "vector": "",
+   "original_px": [
+    1500,
+    1043
+   ],
+   "original_bytes": 1716854,
+   "maker": "Alexander Rodchenko",
+   "title": "Battleship Potemkin",
+   "subtitle": "Film poster",
+   "year": "1925",
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "designer",
+     "v": "Alexander Rodchenko"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 357.03,
+   "light": 0.4705,
+   "chroma": 0.7145
+  },
+  {
+   "id": "CRVI001495",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.2923,
+   "source_url": "https://uploads2.wikiart.org/images/el-lissitzky/flying-to-earth-from-a-distance-1920.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001495.jpg",
+   "source_label": "",
+   "image": "images/CRVI001495.jpg",
+   "original": "originals/CRVI001495.jpg",
+   "vector": "",
+   "original_px": [
+    2461,
+    3281
+   ],
+   "original_bytes": 748051,
+   "maker": "El Lissitzky",
+   "title": "Flying to Earth from a Distance",
+   "subtitle": "",
+   "year": "1920",
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "El Lissitzky"
+    },
+    {
+     "k": "subject",
+     "v": "Constructivism"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 50.97,
+   "light": 0.7645,
+   "chroma": 0.9816
+  },
+  {
+   "id": "CRVI001496",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.1047,
+   "source_url": "https://uploads7.wikiart.org/images/el-lissitzky/announcer-1923.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001496.jpg",
+   "source_label": "",
+   "image": "images/CRVI001496.jpg",
+   "original": "originals/CRVI001496.jpg",
+   "vector": "",
+   "original_px": [
+    3250,
+    3804
+   ],
+   "original_bytes": 979017,
+   "maker": "El Lissitzky",
+   "title": "Announcer",
+   "subtitle": "",
+   "year": "1923",
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "El Lissitzky"
+    },
+    {
+     "k": "subject",
+     "v": "Constructivism"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 37.06,
+   "light": 0.8236,
+   "chroma": 0.8891
+  },
+  {
+   "id": "CRVI001497",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.2311,
+   "source_url": "https://uploads5.wikiart.org/images/el-lissitzky/new-man-1923.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001497.jpg",
+   "source_label": "",
+   "image": "images/CRVI001497.jpg",
+   "original": "originals/CRVI001497.jpg",
+   "vector": "",
+   "original_px": [
+    1800,
+    2147
+   ],
+   "original_bytes": 718050,
+   "maker": "El Lissitzky",
+   "title": "New Man",
+   "subtitle": "",
+   "year": "1923",
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "El Lissitzky"
+    },
+    {
+     "k": "subject",
+     "v": "Constructivism"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 44.92,
+   "light": 0.7824,
+   "chroma": 0.9779
+  },
+  {
+   "id": "CRVI001498",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.0453,
+   "source_url": "https://observervoice.com/wp-content/uploads/2023/10/Varvara-Fyodorovna-Stepanova.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001498.jpg",
+   "source_label": "",
+   "image": "images/CRVI001498.jpg",
+   "original": "originals/CRVI001498.jpg",
+   "vector": "",
+   "original_px": [
+    1000,
+    840
+   ],
+   "original_bytes": 60155,
+   "maker": "Varvara Stepanova",
+   "title": "Untitled (figures)",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Varvara Stepanova"
+    },
+    {
+     "k": "subject",
+     "v": "Constructivism"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "color",
+     "v": "neutral"
+    }
+   ],
+   "hue": null,
+   "light": 0.7814,
+   "chroma": 0.0988
+  },
+  {
+   "id": "CRVI001499",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.1771,
+   "source_url": "https://www.artic.edu/iiif/2/7b82f6f9-abab-92aa-269a-47b5d8cb3fe3/full/843,/0/default.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001499.jpg",
+   "source_label": "",
+   "image": "images/CRVI001499.jpg",
+   "original": "originals/CRVI001499.jpg",
+   "vector": "",
+   "original_px": [
+    843,
+    1160
+   ],
+   "original_bytes": 492866,
+   "maker": "Gustav Klutsis",
+   "title": "Postcard Commemorating the Russian All-Union Spartakiada",
+   "subtitle": "",
+   "year": "1928",
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "designer",
+     "v": "Gustav Klutsis"
+    },
+    {
+     "k": "artist",
+     "v": "Gustav Klutsis"
+    },
+    {
+     "k": "medium",
+     "v": "colour lithograph"
+    },
+    {
+     "k": "subject",
+     "v": "Constructivism"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 194.26,
+   "light": 0.5196,
+   "chroma": 0.3083
+  },
+  {
+   "id": "CRVI001500",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.1245,
+   "source_url": "https://i.pinimg.com/originals/ed/14/9f/ed149fd81ab685e4a4dc2e30e29e0eec.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001500.jpg",
+   "source_label": "",
+   "image": "images/CRVI001500.jpg",
+   "original": "originals/CRVI001500.jpg",
+   "vector": "",
+   "original_px": [
+    1280,
+    1916
+   ],
+   "original_bytes": 539749,
+   "maker": "Gustav Klutsis",
+   "title": "Design for a screen-tribune kiosk",
+   "subtitle": "",
+   "year": "1922",
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "designer",
+     "v": "Gustav Klutsis"
+    },
+    {
+     "k": "artist",
+     "v": "Gustav Klutsis"
+    },
+    {
+     "k": "subject",
+     "v": "Constructivism"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 33.16,
+   "light": 0.6538,
+   "chroma": 0.7616
+  },
+  {
+   "id": "CRVI001501",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.1744,
+   "source_url": "https://i0.wp.com/thecharnelhouse.org/wp-content/uploads/2016/10/gustavs-klucis-dynamic-city-19192.jpg?ssl=1",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001501.jpg",
+   "source_label": "",
+   "image": "images/CRVI001501.jpg",
+   "original": "originals/CRVI001501.jpg",
+   "vector": "",
+   "original_px": [
+    1658,
+    1658
+   ],
+   "original_bytes": 1832250,
+   "maker": "Gustav Klutsis",
+   "title": "Dynamic City",
+   "subtitle": "",
+   "year": "1919",
+   "tags": [
+    {
+     "k": "type",
+     "v": "collage"
+    },
+    {
+     "k": "artist",
+     "v": "Gustav Klutsis"
+    },
+    {
+     "k": "subject",
+     "v": "Constructivism"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 34.99,
+   "light": 0.6965,
+   "chroma": 0.8265
+  },
+  {
+   "id": "CRVI001502",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.1775,
+   "source_url": "https://outrejournal.com/wp-content/uploads/2024/10/The-Swallows-Diving-1920-Design-for-Postcard-by-Gustavs-Klutsis.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001502.jpg",
+   "source_label": "",
+   "image": "images/CRVI001502.jpg",
+   "original": "originals/CRVI001502.jpg",
+   "vector": "",
+   "original_px": [
+    1269,
+    2047
+   ],
+   "original_bytes": 783760,
+   "maker": "Gustav Klutsis",
+   "title": "Spartakiada Moskau 1928",
+   "subtitle": "Postcard",
+   "year": "1928",
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "designer",
+     "v": "Gustav Klutsis"
+    },
+    {
+     "k": "artist",
+     "v": "Gustav Klutsis"
+    },
+    {
+     "k": "subject",
+     "v": "Constructivism"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 32.79,
+   "light": 0.4541,
+   "chroma": 0.7433
+  },
+  {
+   "id": "CRVI001503",
+   "published": true,
+   "minted": "2026-09-05",
+   "punch": 0.2494,
+   "source_url": "https://outrejournal.com/wp-content/uploads/2024/10/Without-Heavy-Industry-We-Cannot-Build-Any-Industry-1930-by-Gustav-Klutsis-1060x1536.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001503.jpg",
+   "source_label": "",
+   "image": "images/CRVI001503.jpg",
+   "original": "originals/CRVI001503.jpg",
+   "vector": "",
+   "original_px": [
+    1060,
+    1536
+   ],
+   "original_bytes": 254892,
+   "maker": "Gustav Klutsis",
+   "title": "Without Heavy Industry We Cannot Build Any Industry",
+   "subtitle": "Poster",
+   "year": "1930",
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "designer",
+     "v": "Gustav Klutsis"
+    },
+    {
+     "k": "artist",
+     "v": "Gustav Klutsis"
+    },
+    {
+     "k": "subject",
+     "v": "Constructivism"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "decade",
+     "v": "1930s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 18.73,
+   "light": 0.4193,
+   "chroma": 0.5768
   }
  ]
 }

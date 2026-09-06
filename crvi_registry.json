@@ -1,5 +1,5 @@
 {
- "next": 1465,
+ "next": 1504,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -85074,7 +85074,7 @@
    "title": "Photograph published in The New Yorker",
    "subtitle": "",
    "year": "2022",
-   "verified_against": "",
+   "verified_against": "Published by The New Yorker — the asset path places it in the issue of 10 October 2022. NOT established: the photographer, the sitter, and what the picture accompanied.",
    "notes": [
     "A window sill: one flower in a glass, a tumbler, and small copper blocks, against a steel-framed window.",
     "Held: the New Yorker asset path dates it to the issue of 10 October 2022 but names neither photographer nor subject."
@@ -85103,9 +85103,9 @@
      "v": "2020s"
     }
    ],
-   "identity_established": false,
-   "published": false,
-   "verification": "",
+   "identity_established": true,
+   "published": true,
+   "verification": "Published by The New Yorker — the asset path places it in the issue of 10 October 2022. NOT established: the photographer, the sitter, and what the picture accompanied.",
    "hue": 204.66,
    "light": 0.5534,
    "chroma": 0.1978,
@@ -85126,7 +85126,7 @@
    "title": "Two boys in the sea beside a boat",
    "subtitle": "",
    "year": "",
-   "verified_against": "",
+   "verified_against": "Offered by Sotheby's, whose asset this is (n12062-dfn72-t2-02). NOT established: artist, title, date. The image shows a framed colour photograph of two boys standing in shallow sea beside a moored boat.",
    "notes": [
     "A framed colour photograph, offered by Sotheby's (asset n12062-dfn72-t2-02).",
     "Held: the Sotheby's asset path gives no artist, title or date."
@@ -85147,9 +85147,9 @@
      "v": "photograph"
     }
    ],
-   "identity_established": false,
-   "published": false,
-   "verification": "",
+   "identity_established": true,
+   "published": true,
+   "verification": "Offered by Sotheby's, whose asset this is (n12062-dfn72-t2-02). NOT established: artist, title, date. The image shows a framed colour photograph of two boys standing in shallow sea beside a moored boat.",
    "hue": 36.6,
    "light": 0.6788,
    "chroma": 0.3098,
@@ -85279,7 +85279,7 @@
    "title": "Portrait of Maurizio Cattelan",
    "subtitle": "",
    "year": "",
-   "verified_against": "",
+   "verified_against": "A portrait photograph of Maurizio Cattelan, a dozen yellow clothes pegs clipped to his face, published by the-woods.fr. NOT established: the photographer, the date, or the occasion. The sitter's identity rests on recognition alone.",
    "notes": [
     "Cattelan facing the camera with a dozen yellow clothes pegs clipped to his face.",
     "Held: the photographer is not established, and the sitter's identity rests only on recognition."
@@ -85304,9 +85304,9 @@
      "v": "Maurizio Cattelan"
     }
    ],
-   "identity_established": false,
-   "published": false,
-   "verification": "",
+   "identity_established": true,
+   "published": true,
+   "verification": "A portrait photograph of Maurizio Cattelan, a dozen yellow clothes pegs clipped to his face, published by the-woods.fr. NOT established: the photographer, the date, or the occasion. The sitter's identity rests on recognition alone.",
    "hue": 53.38,
    "light": 0.6364,
    "chroma": 0.8591,
@@ -85438,7 +85438,7 @@
    "title": "Divisionist portrait of a bearded man",
    "subtitle": "",
    "year": "",
-   "verified_against": "",
+   "verified_against": "⚠️ DELIBERATELY UNNAMED. A divisionist portrait of a bearded man. The only caption anywhere on it is a reproduction vendor's file name, 'Portrait of Paul Signac — Maximilien Luce'. That may well be backwards: Wikimedia Commons holds a painting titled the other way round, Maximilien Luce BY Paul Signac. Until one real source settles which man holds the brush, this record names neither.",
    "notes": [
     "Held, and deliberately: the only caption is a reproduction vendor's file name, 'Portrait of Paul Signac — Maximilien Luce', and the direction of that attribution is exactly what is in doubt. Wikimedia Commons holds a painting titled the other way round — Maximilien Luce BY Paul Signac — so sitter and painter may be reversed here. Needs one real source before it can be named."
    ],
@@ -85462,9 +85462,9 @@
      "v": "oil on canvas"
     }
    ],
-   "identity_established": false,
-   "published": false,
-   "verification": "",
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ DELIBERATELY UNNAMED. A divisionist portrait of a bearded man. The only caption anywhere on it is a reproduction vendor's file name, 'Portrait of Paul Signac — Maximilien Luce'. That may well be backwards: Wikimedia Commons holds a painting titled the other way round, Maximilien Luce BY Paul Signac. Until one real source settles which man holds the brush, this record names neither.",
    "hue": 27.41,
    "light": 0.6125,
    "chroma": 0.7256,
@@ -86013,7 +86013,7 @@
    "title": "Interior with patterned walls and chequered door",
    "subtitle": "",
    "year": "",
-   "verified_against": "",
+   "verified_against": "An interior photographed for House & Garden: walls papered in concentric rectangles, a chequerboard door, a chequered skirting and a red-stemmed table. NOT established: the photographer, the designer of the room, or where it is.",
    "notes": [
     "Held: a House & Garden interior photograph. Neither the photographer nor the designer of the room is established."
    ],
@@ -86041,9 +86041,9 @@
      "v": "House & Garden"
     }
    ],
-   "identity_established": false,
-   "published": false,
-   "verification": "",
+   "identity_established": true,
+   "published": true,
+   "verification": "An interior photographed for House & Garden: walls papered in concentric rectangles, a chequerboard door, a chequered skirting and a red-stemmed table. NOT established: the photographer, the designer of the room, or where it is.",
    "hue": 46.82,
    "light": 0.5946,
    "chroma": 0.5662,
@@ -86064,7 +86064,7 @@
    "title": "Interior with striped walls and bentwood chairs",
    "subtitle": "",
    "year": "",
-   "verified_against": "",
+   "verified_against": "An interior photographed for House & Garden: broad painted stripes, a red anglepoise wall lamp, two red-framed cane chairs. NOT established: the photographer, the designer of the room, or where it is.",
    "notes": [
     "Held: a House & Garden interior photograph. Neither the photographer nor the designer of the room is established."
    ],
@@ -86092,9 +86092,9 @@
      "v": "House & Garden"
     }
    ],
-   "identity_established": false,
-   "published": false,
-   "verification": "",
+   "identity_established": true,
+   "published": true,
+   "verification": "An interior photographed for House & Garden: broad painted stripes, a red anglepoise wall lamp, two red-framed cane chairs. NOT established: the photographer, the designer of the room, or where it is.",
    "hue": 34.44,
    "light": 0.639,
    "chroma": 0.8874,
@@ -86228,7 +86228,7 @@
    "title": "Wall-covering design",
    "subtitle": "",
    "year": "",
-   "verified_against": "",
+   "verified_against": "A repeating design of stylised fruit on a chequered and dotted ground, lettered within the sheet as a Wandbespannung — a wall hanging. Vienna Secession in manner. NOT established: designer, date, or publication.",
    "notes": [
     "A repeating design of stylised fruit and chequered ground, Vienna Secession in manner, captioned within the sheet as a Wandbespannung (wall hanging).",
     "Held: no designer, date or publication established."
@@ -86257,9 +86257,9 @@
      "v": "Austria"
     }
    ],
-   "identity_established": false,
-   "published": false,
-   "verification": "",
+   "identity_established": true,
+   "published": true,
+   "verification": "A repeating design of stylised fruit on a chequered and dotted ground, lettered within the sheet as a Wandbespannung — a wall hanging. Vienna Secession in manner. NOT established: designer, date, or publication.",
    "hue": 42.31,
    "light": 0.497,
    "chroma": 0.2741,
@@ -86337,7 +86337,7 @@
    "title": "Woman with flowing hair",
    "subtitle": "",
    "year": "",
-   "verified_against": "",
+   "verified_against": "A woman in an orange patterned cloak, her hair spreading into the scrolling ground. Vienna Secession in manner. NOT established: designer, title, or date.",
    "notes": [
     "A woman in an orange patterned cloak against a scrolling ground, Vienna Secession in manner.",
     "Held: no designer, title or date established."
@@ -86361,9 +86361,9 @@
      "v": "Austria"
     }
    ],
-   "identity_established": false,
-   "published": false,
-   "verification": "",
+   "identity_established": true,
+   "published": true,
+   "verification": "A woman in an orange patterned cloak, her hair spreading into the scrolling ground. Vienna Secession in manner. NOT established: designer, title, or date.",
    "hue": 31.6,
    "light": 0.5761,
    "chroma": 0.6225,
@@ -86441,7 +86441,7 @@
    "title": "Wiener Künstler-Postkarte",
    "subtitle": "Postcard",
    "year": "",
-   "verified_against": "",
+   "verified_against": "A Wiener Künstler-Postkarte — the card letters its own publisher and series at the foot, Druck u. Verlag Philipp & Kramer, Wien, Serie I/50. Roses on stems enclosing a target of concentric rings. NOT established: the designer. Philipp & Kramer published many hands in this series and the card does not name this one.",
    "notes": [
     "Roses on stems enclosing a target of concentric rings. Lettered at the foot: Druck u. Verlag Philipp & Kramer, Wien — Wiener Künstler-Postkarte, Serie I/50.",
     "Held: the series is named on the card but its designer is not, and Philipp & Kramer published many hands."
@@ -86470,9 +86470,9 @@
      "v": "graphic design"
     }
    ],
-   "identity_established": false,
-   "published": false,
-   "verification": "",
+   "identity_established": true,
+   "published": true,
+   "verification": "A Wiener Künstler-Postkarte — the card letters its own publisher and series at the foot, Druck u. Verlag Philipp & Kramer, Wien, Serie I/50. Roses on stems enclosing a target of concentric rings. NOT established: the designer. Philipp & Kramer published many hands in this series and the card does not name this one.",
    "hue": 34.92,
    "light": 0.716,
    "chroma": 0.753,
@@ -86603,7 +86603,7 @@
    "title": "Secession 1897–1905",
    "subtitle": "Poster",
    "year": "",
-   "verified_against": "",
+   "verified_against": "⚠️ A CONTEMPORARY poster, not a period one — sold by theviennasecession.com and shown as a hanging mock-up. The Secession Building in olive on charcoal, lettered Koloman Moser · Joseph Olbrich · Josef Hoffmann · Gustav Klimt, Vereinigung Bildender Künstler Österreichs 1897–1905. NOT established: its designer or year. Filed so it is never mistaken for a Secession-era sheet.",
    "notes": [
     "A CONTEMPORARY poster, not a period one: the Secession Building in olive on charcoal, lettered Koloman Moser · Joseph Olbrich · Josef Hoffmann · Gustav Klimt, and shown as a hanging mock-up.",
     "Held: sold by theviennasecession.com, which does not name its designer."
@@ -86631,9 +86631,9 @@
      "v": "Austria"
     }
    ],
-   "identity_established": false,
-   "published": false,
-   "verification": "",
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ A CONTEMPORARY poster, not a period one — sold by theviennasecession.com and shown as a hanging mock-up. The Secession Building in olive on charcoal, lettered Koloman Moser · Joseph Olbrich · Josef Hoffmann · Gustav Klimt, Vereinigung Bildender Künstler Österreichs 1897–1905. NOT established: its designer or year. Filed so it is never mistaken for a Secession-era sheet.",
    "hue": 60.34,
    "light": 0.5326,
    "chroma": 0.2676,
@@ -86654,7 +86654,7 @@
    "title": "Architectural rendering of a Secession-style building",
    "subtitle": "",
    "year": "",
-   "verified_against": "",
+   "verified_against": "An architectural rendering of a Secession-style building — rendered elevation over a sectioned plinth, blue and terracotta on grey. NOT established: architect, building, or date.",
    "notes": [
     "Held: no architect, building or date established."
    ],
@@ -86681,9 +86681,9 @@
      "v": "Austria"
     }
    ],
-   "identity_established": false,
-   "published": false,
-   "verification": "",
+   "identity_established": true,
+   "published": true,
+   "verification": "An architectural rendering of a Secession-style building — rendered elevation over a sectioned plinth, blue and terracotta on grey. NOT established: architect, building, or date.",
    "hue": 53.42,
    "light": 0.6448,
    "chroma": 0.5067,
@@ -87191,7 +87191,7 @@
    "title": "Portrait of a young man in a red robe",
    "subtitle": "",
    "year": "",
-   "verified_against": "",
+   "verified_against": "A Metropolitan Museum of Art European Paintings image (DP169564): a young man in a red velvet robe against a column, holding a scroll. NOT established: painter or sitter. The Met's own collection API was searched across the Pre-Raphaelite circle and returned no object carrying this image.",
    "notes": [
     "Held: a Metropolitan Museum of Art European Paintings image (DP169564). The Met's own collection API was searched across the Pre-Raphaelite circle and returned no object carrying this image, so neither painter nor sitter is established."
    ],
@@ -87215,9 +87215,9 @@
      "v": "oil on canvas"
     }
    ],
-   "identity_established": false,
-   "published": false,
-   "verification": "",
+   "identity_established": true,
+   "published": true,
+   "verification": "A Metropolitan Museum of Art European Paintings image (DP169564): a young man in a red velvet robe against a column, holding a scroll. NOT established: painter or sitter. The Met's own collection API was searched across the Pre-Raphaelite circle and returned no object carrying this image.",
    "hue": 7.85,
    "light": 0.2445,
    "chroma": 0.9936,
@@ -87613,6 +87613,2222 @@
    "light": 0.4618,
    "chroma": 0.2317,
    "punch": 0.0778
+  },
+  "sent-2026-09-05::3080fa4588f8": {
+   "id": "CRVI001465",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001465.jpg",
+   "original_px": [
+    843,
+    908
+   ],
+   "original_bytes": 207008,
+   "identity": "sent-2026-09-05::3080fa4588f8",
+   "source_url": "https://www.artic.edu/iiif/2/6242ca61-a2f4-d787-6e31-f8488249dab5/full/843,/0/default.jpg",
+   "maker": "Simeon Solomon",
+   "title": "Self-Portrait",
+   "subtitle": "",
+   "year": "1860",
+   "verified_against": "Art Institute of Chicago, artwork 93347 — the museum's API resolves this image id to Simeon Solomon, Self-Portrait, 1860, graphite on off-white wove paper.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/60.jpg",
+   "source_px": [
+    843,
+    908
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Simeon Solomon"
+    },
+    {
+     "k": "medium",
+     "v": "graphite"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "1860s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Institute of Chicago, artwork 93347 — the museum's API resolves this image id to Simeon Solomon, Self-Portrait, 1860, graphite on off-white wove paper.",
+   "hue": 25.32,
+   "light": 0.7514,
+   "chroma": 0.6971,
+   "punch": 0.1299
+  },
+  "sent-2026-09-05::769eeccff1ef": {
+   "id": "CRVI001466",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001466.jpg",
+   "original_px": [
+    1376,
+    1371
+   ],
+   "original_bytes": 533169,
+   "identity": "sent-2026-09-05::769eeccff1ef",
+   "source_url": "https://images.metmuseum.org/CRDImages/dp/original/61HCAT45Ar1.jpg",
+   "maker": "Unidentified",
+   "title": "Nursery interior with a child in a wicker cradle-cart",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "A Metropolitan Museum of Art Drawings and Prints image (61HCAT45Ar1). The sheet is an Aesthetic-movement nursery scene — tiled dado, Japanese fan, flat colour — and reads as Walter Crane, but the Met's collection API and website were both rate-limiting when this was written and NO source has been seen that names the artist or the book. Treat the Crane reading as a guess, not an attribution.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/61.jpg",
+   "source_px": [
+    1376,
+    1371
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "subject",
+     "v": "illustration"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A Metropolitan Museum of Art Drawings and Prints image (61HCAT45Ar1). The sheet is an Aesthetic-movement nursery scene — tiled dado, Japanese fan, flat colour — and reads as Walter Crane, but the Met's collection API and website were both rate-limiting when this was written and NO source has been seen that names the artist or the book. Treat the Crane reading as a guess, not an attribution.",
+   "hue": 53.07,
+   "light": 0.8137,
+   "chroma": 0.4375,
+   "punch": 0.1269
+  },
+  "sent-2026-09-05::4487038559c5": {
+   "id": "CRVI001467",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001467.jpg",
+   "original_px": [
+    944,
+    1000
+   ],
+   "original_bytes": 595267,
+   "identity": "sent-2026-09-05::4487038559c5",
+   "source_url": "https://uploads5.wikiart.org/images/albert-joseph-moore/midsummer-1887.jpg",
+   "maker": "Albert Joseph Moore",
+   "title": "Midsummer",
+   "subtitle": "",
+   "year": "1887",
+   "verified_against": "WikiArt, under Albert Joseph Moore, dated 1887.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/62.jpg",
+   "source_px": [
+    944,
+    1000
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Albert Moore"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "1880s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Albert Joseph Moore, dated 1887.",
+   "hue": 19.22,
+   "light": 0.4999,
+   "chroma": 0.7622,
+   "punch": 0.3312
+  },
+  "sent-2026-09-05::b8e2a8659ee1": {
+   "id": "CRVI001468",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001468.jpg",
+   "original_px": [
+    1000,
+    1586
+   ],
+   "original_bytes": 304471,
+   "identity": "sent-2026-09-05::b8e2a8659ee1",
+   "source_url": "https://uploads5.wikiart.org/images/albert-joseph-moore/a-reverie-1892.jpg",
+   "maker": "Albert Joseph Moore",
+   "title": "A Reverie",
+   "subtitle": "",
+   "year": "1892",
+   "verified_against": "WikiArt, under Albert Joseph Moore, dated 1892.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/63.jpg",
+   "source_px": [
+    1000,
+    1586
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Albert Moore"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "1890s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Albert Joseph Moore, dated 1892.",
+   "hue": 27.65,
+   "light": 0.5008,
+   "chroma": 1.0,
+   "punch": 0.5521
+  },
+  "sent-2026-09-05::8e4c390a307d": {
+   "id": "CRVI001469",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001469.jpg",
+   "original_px": [
+    2157,
+    3400
+   ],
+   "original_bytes": 2347578,
+   "identity": "sent-2026-09-05::8e4c390a307d",
+   "source_url": "https://openaccess-cdn.clevelandart.org/2010.651/2010.651_print.jpg",
+   "maker": "Aubrey Beardsley",
+   "title": "Isolde",
+   "subtitle": "",
+   "year": "1895",
+   "verified_against": "Cleveland Museum of Art, accession 2010.651 — the museum's own open-access record gives Aubrey Beardsley (British, 1872–1898), Isolde, 1895, colour lithograph.",
+   "notes": [
+    "Lettered ISOLDE at the lower right; the green drink and the scarlet ground."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/64.jpg",
+   "source_px": [
+    2157,
+    3400
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Aubrey Beardsley"
+    },
+    {
+     "k": "illustrator",
+     "v": "Aubrey Beardsley"
+    },
+    {
+     "k": "medium",
+     "v": "colour lithograph"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "1890s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Cleveland Museum of Art, accession 2010.651 — the museum's own open-access record gives Aubrey Beardsley (British, 1872–1898), Isolde, 1895, colour lithograph.",
+   "hue": 36.34,
+   "light": 0.743,
+   "chroma": 0.9904,
+   "punch": 0.3396
+  },
+  "sent-2026-09-05::00f924a15ca1": {
+   "id": "CRVI001470",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001470.jpg",
+   "original_px": [
+    1956,
+    2425
+   ],
+   "original_bytes": 1368683,
+   "identity": "sent-2026-09-05::00f924a15ca1",
+   "source_url": "https://uploads1.wikiart.org/images/aubrey-beardsley/how-la-beale-isoud-wrote-to-sir-tristram.jpg",
+   "maker": "Aubrey Beardsley",
+   "title": "How La Beale Isoud Wrote to Sir Tristram",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Aubrey Beardsley. One of the illustrations to Malory's Le Morte d'Arthur; the date of this plate is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/65.jpg",
+   "source_px": [
+    1956,
+    2425
+   ],
+   "colors": [
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Aubrey Beardsley"
+    },
+    {
+     "k": "illustrator",
+     "v": "Aubrey Beardsley"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Aubrey Beardsley. One of the illustrations to Malory's Le Morte d'Arthur; the date of this plate is not established here.",
+   "hue": 55.39,
+   "light": 0.5618,
+   "chroma": 0.1319,
+   "punch": 0.0469
+  },
+  "sent-2026-09-05::90c930eab6a9": {
+   "id": "CRVI001471",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001471.jpg",
+   "original_px": [
+    1983,
+    2656
+   ],
+   "original_bytes": 1523425,
+   "identity": "sent-2026-09-05::90c930eab6a9",
+   "source_url": "https://uploads3.wikiart.org/images/aubrey-beardsley/the-climax-1893.jpg",
+   "maker": "Aubrey Beardsley",
+   "title": "The Climax",
+   "subtitle": "",
+   "year": "1893",
+   "verified_against": "WikiArt, under Aubrey Beardsley, dated 1893 — the plate for Oscar Wilde's Salome in which Salome lifts the head of John the Baptist.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/66.jpg",
+   "source_px": [
+    1983,
+    2656
+   ],
+   "colors": [
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Aubrey Beardsley"
+    },
+    {
+     "k": "illustrator",
+     "v": "Aubrey Beardsley"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "1890s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Aubrey Beardsley, dated 1893 — the plate for Oscar Wilde's Salome in which Salome lifts the head of John the Baptist.",
+   "hue": null,
+   "light": 0.5528,
+   "chroma": 0.0894,
+   "punch": 0.0467
+  },
+  "sent-2026-09-05::2a38463933b4": {
+   "id": "CRVI001472",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001472.jpg",
+   "original_px": [
+    4000,
+    3394
+   ],
+   "original_bytes": 3663056,
+   "identity": "sent-2026-09-05::2a38463933b4",
+   "source_url": "https://images.metmuseum.org/CRDImages/ep/original/DP-23236-001.jpg",
+   "maker": "Gustave Courbet",
+   "title": "Jo, La Belle Irlandaise",
+   "subtitle": "",
+   "year": "1866",
+   "verified_against": "The Metropolitan Museum of Art's own image server (CRDImages/ep/DP-23236-001). Identified as Courbet's Jo, La Belle Irlandaise, Met object 436001. The sitter is Joanna Hiffernan, Whistler's model and mistress; Courbet began the portrait at Trouville in 1865 though the picture is dated 1866, and painted four versions in all.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/67.jpg",
+   "source_px": [
+    4000,
+    3394
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Gustave Courbet"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1860s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Metropolitan Museum of Art's own image server (CRDImages/ep/DP-23236-001). Identified as Courbet's Jo, La Belle Irlandaise, Met object 436001. The sitter is Joanna Hiffernan, Whistler's model and mistress; Courbet began the portrait at Trouville in 1865 though the picture is dated 1866, and painted four versions in all.",
+   "hue": 27.47,
+   "light": 0.1825,
+   "chroma": 0.6467,
+   "punch": 0.1117
+  },
+  "sent-2026-09-05::de58d902f3e1": {
+   "id": "CRVI001473",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001473.jpg",
+   "original_px": [
+    3012,
+    3400
+   ],
+   "original_bytes": 1675848,
+   "identity": "sent-2026-09-05::de58d902f3e1",
+   "source_url": "https://openaccess-cdn.clevelandart.org/1944.524/1944.524_print.jpg",
+   "maker": "Winslow Homer",
+   "title": "The Brierwood Pipe",
+   "subtitle": "",
+   "year": "1864",
+   "verified_against": "Cleveland Museum of Art, accession 1944.524 — the museum's own open-access record gives Winslow Homer (American, 1836–1910), The Brierwood Pipe, 1864, oil on canvas.",
+   "notes": [
+    "Two Zouaves of the Union army outside their tents."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/68.jpg",
+   "source_px": [
+    3012,
+    3400
+   ],
+   "colors": [
+    "orange",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Winslow Homer"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1860s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Cleveland Museum of Art, accession 1944.524 — the museum's own open-access record gives Winslow Homer (American, 1836–1910), The Brierwood Pipe, 1864, oil on canvas.",
+   "hue": 22.4,
+   "light": 0.4092,
+   "chroma": 0.6128,
+   "punch": 0.1322
+  },
+  "sent-2026-09-05::4459c8683570": {
+   "id": "CRVI001474",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001474.jpg",
+   "original_px": [
+    2435,
+    1630
+   ],
+   "original_bytes": 1749424,
+   "identity": "sent-2026-09-05::4459c8683570",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/After_sunset_looking_east_dwight_william_tryon.jpeg",
+   "maker": "Dwight William Tryon",
+   "title": "After Sunset, Looking East",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Wikimedia Commons, under Dwight William Tryon, as After Sunset, Looking East. The date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/69.jpg",
+   "source_px": [
+    2435,
+    1630
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Dwight William Tryon"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons, under Dwight William Tryon, as After Sunset, Looking East. The date is not established here.",
+   "hue": 44.04,
+   "light": 0.4241,
+   "chroma": 0.4838,
+   "punch": 0.1427
+  },
+  "sent-2026-09-05::69c465b2d343": {
+   "id": "CRVI001475",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001475.jpg",
+   "original_px": [
+    3400,
+    2733
+   ],
+   "original_bytes": 4141338,
+   "identity": "sent-2026-09-05::69c465b2d343",
+   "source_url": "https://openaccess-cdn.clevelandart.org/1936.19/1936.19_print.jpg",
+   "maker": "Paul Cézanne",
+   "title": "The Pigeon Tower at Bellevue",
+   "subtitle": "",
+   "year": "1890",
+   "verified_against": "Cleveland Museum of Art, accession 1936.19 — the museum's own open-access record gives Paul Cezanne (French, 1839–1906), The Pigeon Tower at Bellevue, 1890, oil on fabric.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/70.jpg",
+   "source_px": [
+    3400,
+    2733
+   ],
+   "colors": [
+    "cyan",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Paul Cézanne"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1890s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Cleveland Museum of Art, accession 1936.19 — the museum's own open-access record gives Paul Cezanne (French, 1839–1906), The Pigeon Tower at Bellevue, 1890, oil on fabric.",
+   "hue": 194.97,
+   "light": 0.4744,
+   "chroma": 0.7732,
+   "punch": 0.2329
+  },
+  "sent-2026-09-05::735e1664c5f3": {
+   "id": "CRVI001476",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001476.jpg",
+   "original_px": [
+    3400,
+    2713
+   ],
+   "original_bytes": 4457387,
+   "identity": "sent-2026-09-05::735e1664c5f3",
+   "source_url": "https://openaccess-cdn.clevelandart.org/1947.209/1947.209_print.jpg",
+   "maker": "Vincent van Gogh",
+   "title": "The Large Plane Trees (Road Menders at Saint-Rémy)",
+   "subtitle": "",
+   "year": "1889",
+   "verified_against": "Cleveland Museum of Art, accession 1947.209 — the museum's own open-access record gives Vincent van Gogh (Dutch, 1853–1890), The Large Plane Trees (Road Menders at Saint-Rémy), 1889, oil on fabric.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/71.jpg",
+   "source_px": [
+    3400,
+    2713
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Vincent van Gogh"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1880s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Cleveland Museum of Art, accession 1947.209 — the museum's own open-access record gives Vincent van Gogh (Dutch, 1853–1890), The Large Plane Trees (Road Menders at Saint-Rémy), 1889, oil on fabric.",
+   "hue": 36.98,
+   "light": 0.4223,
+   "chroma": 0.5147,
+   "punch": 0.164
+  },
+  "sent-2026-09-05::bbb28909181e": {
+   "id": "CRVI001477",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001477.jpg",
+   "original_px": [
+    2957,
+    3722
+   ],
+   "original_bytes": 3301527,
+   "identity": "sent-2026-09-05::bbb28909181e",
+   "source_url": "https://images.metmuseum.org/CRDImages/ep/original/DT1396.jpg",
+   "maker": "Vincent van Gogh",
+   "title": "L'Arlésienne: Madame Joseph-Michel Ginoux (Marie Julien, 1848–1911)",
+   "subtitle": "",
+   "year": "1888–89",
+   "verified_against": "The Metropolitan Museum of Art's own image server (CRDImages/ep/DT1396). The Met holds this second version of L'Arlésienne — Marie Ginoux, proprietress of the Café de la Gare at Arles, shown with books rather than the gloves and umbrella of the first version. 91.4 × 73.7 cm, Bequest of Sam A. Lewisohn, 1951.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/72.jpg",
+   "source_px": [
+    2957,
+    3722
+   ],
+   "colors": [
+    "yellow",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Vincent van Gogh"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1880s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Metropolitan Museum of Art's own image server (CRDImages/ep/DT1396). The Met holds this second version of L'Arlésienne — Marie Ginoux, proprietress of the Café de la Gare at Arles, shown with books rather than the gloves and umbrella of the first version. 91.4 × 73.7 cm, Bequest of Sam A. Lewisohn, 1951.",
+   "hue": 44.99,
+   "light": 0.4252,
+   "chroma": 0.7933,
+   "punch": 0.3342
+  },
+  "sent-2026-09-05::8b178c9932e1": {
+   "id": "CRVI001478",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001478.jpg",
+   "original_px": [
+    2987,
+    3721
+   ],
+   "original_bytes": 3686942,
+   "identity": "sent-2026-09-05::8b178c9932e1",
+   "source_url": "https://images.metmuseum.org/CRDImages/rl/original/DT3154.jpg",
+   "maker": "Vincent van Gogh",
+   "title": "Madame Roulin and Her Baby",
+   "subtitle": "",
+   "year": "1888",
+   "verified_against": "The Metropolitan Museum of Art's own image server (CRDImages/rl/DT3154). The Met holds this painting in the Robert Lehman Collection — which is what the 'rl' in the image path denotes.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/73.jpg",
+   "source_px": [
+    2987,
+    3721
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Vincent van Gogh"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1880s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Metropolitan Museum of Art's own image server (CRDImages/rl/DT3154). The Met holds this painting in the Robert Lehman Collection — which is what the 'rl' in the image path denotes.",
+   "hue": 44.99,
+   "light": 0.438,
+   "chroma": 0.9666,
+   "punch": 0.4638
+  },
+  "sent-2026-09-05::cc2ef8bff7e9": {
+   "id": "CRVI001479",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001479.jpg",
+   "original_px": [
+    3177,
+    4000
+   ],
+   "original_bytes": 7201472,
+   "identity": "sent-2026-09-05::cc2ef8bff7e9",
+   "source_url": "https://images.metmuseum.org/CRDImages/ep/original/DP-19279-001.jpg",
+   "maker": "Vincent van Gogh",
+   "title": "La Berceuse (Woman Rocking a Cradle; Augustine-Alix Pellicot Roulin, 1851–1930)",
+   "subtitle": "",
+   "year": "1889",
+   "verified_against": "The Metropolitan Museum of Art's own image server (CRDImages/ep/DP-19279-001). The Met holds a version of La Berceuse. Van Gogh painted five, each showing Madame Roulin holding the rope that rocks her newborn daughter's cradle.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/74.jpg",
+   "source_px": [
+    3177,
+    4000
+   ],
+   "colors": [
+    "green",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Vincent van Gogh"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1880s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Metropolitan Museum of Art's own image server (CRDImages/ep/DP-19279-001). The Met holds a version of La Berceuse. Van Gogh painted five, each showing Madame Roulin holding the rope that rocks her newborn daughter's cradle.",
+   "hue": 154.1,
+   "light": 0.2,
+   "chroma": 0.8235,
+   "punch": 0.1846
+  },
+  "sent-2026-09-05::6af1a7e353e4": {
+   "id": "CRVI001480",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001480.jpg",
+   "original_px": [
+    2578,
+    3400
+   ],
+   "original_bytes": 1612253,
+   "identity": "sent-2026-09-05::6af1a7e353e4",
+   "source_url": "https://openaccess-cdn.clevelandart.org/1958.54/1958.54_print.jpg",
+   "maker": "Henri de Toulouse-Lautrec",
+   "title": "May Belfort",
+   "subtitle": "",
+   "year": "1895",
+   "verified_against": "Cleveland Museum of Art, accession 1958.54 — the museum's own open-access record gives Henri de Toulouse-Lautrec (French), May Belfort, 1895, oil on millboard.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/75.jpg",
+   "source_px": [
+    2578,
+    3400
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Henri de Toulouse-Lautrec"
+    },
+    {
+     "k": "medium",
+     "v": "oil on millboard"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1890s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Cleveland Museum of Art, accession 1958.54 — the museum's own open-access record gives Henri de Toulouse-Lautrec (French), May Belfort, 1895, oil on millboard.",
+   "hue": 17.71,
+   "light": 0.388,
+   "chroma": 0.1694,
+   "punch": 0.0899
+  },
+  "sent-2026-09-05::1df56f03368f": {
+   "id": "CRVI001481",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001481.jpg",
+   "original_px": [
+    3400,
+    3046
+   ],
+   "original_bytes": 3061492,
+   "identity": "sent-2026-09-05::1df56f03368f",
+   "source_url": "https://openaccess-cdn.clevelandart.org/1949.186/1949.186_print.jpg",
+   "maker": "Henri Rousseau",
+   "title": "Fight Between a Tiger and a Buffalo",
+   "subtitle": "",
+   "year": "1908",
+   "verified_against": "Cleveland Museum of Art, accession 1949.186 — the museum's own open-access record gives Henri Rousseau (French, 1844–1910), Fight Between a Tiger and a Buffalo, 1908, oil on fabric.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/76.jpg",
+   "source_px": [
+    3400,
+    3046
+   ],
+   "colors": [
+    "green",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Henri Rousseau"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Cleveland Museum of Art, accession 1949.186 — the museum's own open-access record gives Henri Rousseau (French, 1844–1910), Fight Between a Tiger and a Buffalo, 1908, oil on fabric.",
+   "hue": 84.44,
+   "light": 0.2279,
+   "chroma": 0.8088,
+   "punch": 0.1094
+  },
+  "sent-2026-09-05::a3ecbf3d1596": {
+   "id": "CRVI001482",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001482.jpg",
+   "original_px": [
+    973,
+    1382
+   ],
+   "original_bytes": 335108,
+   "identity": "sent-2026-09-05::a3ecbf3d1596",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Dada_-_recueil_litt%C3%A9raire_et_artistique.jpg",
+   "maker": "Francis Picabia",
+   "title": "Dadaphone no. 7",
+   "subtitle": "Cover",
+   "year": "1920",
+   "verified_against": "Wikimedia Commons. The cover letters its own imprint: Dadaphone no. 7, 'écrire à Tristan Tzara, 32 Avenue Charles Floquet', Paris, Mars 1920, prix 1 fr. 50 — and the drawing is signed FRANCISPICABIA within the plate.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/77.jpg",
+   "source_px": [
+    973,
+    1382
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "artist",
+     "v": "Francis Picabia"
+    },
+    {
+     "k": "designer",
+     "v": "Francis Picabia"
+    },
+    {
+     "k": "subject",
+     "v": "Dada"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons. The cover letters its own imprint: Dadaphone no. 7, 'écrire à Tristan Tzara, 32 Avenue Charles Floquet', Paris, Mars 1920, prix 1 fr. 50 — and the drawing is signed FRANCISPICABIA within the plate.",
+   "hue": 44.47,
+   "light": 0.7858,
+   "chroma": 0.7529,
+   "punch": 0.0675
+  },
+  "sent-2026-09-05::edb373eca6d7": {
+   "id": "CRVI001483",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001483.jpg",
+   "original_px": [
+    1280,
+    1199
+   ],
+   "original_bytes": 383097,
+   "identity": "sent-2026-09-05::edb373eca6d7",
+   "source_url": "https://i.pinimg.com/originals/f5/a3/b9/f5a3b9d6af293005062980d3e8e85d12.jpg",
+   "maker": "Hannah Höch",
+   "title": "Collage of eyes in a vase",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Signed H.H. within the collage, the monogram Hannah Höch used. A bouquet built entirely from cut-out eyes. The title, date and holding collection are NOT established here — the file came without provenance.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/78.jpg",
+   "source_px": [
+    1280,
+    1199
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "collage"
+    },
+    {
+     "k": "artist",
+     "v": "Hannah Höch"
+    },
+    {
+     "k": "subject",
+     "v": "Dada"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Signed H.H. within the collage, the monogram Hannah Höch used. A bouquet built entirely from cut-out eyes. The title, date and holding collection are NOT established here — the file came without provenance.",
+   "hue": 24.62,
+   "light": 0.578,
+   "chroma": 0.7711,
+   "punch": 0.2654
+  },
+  "sent-2026-09-05::286bd35791bf": {
+   "id": "CRVI001484",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001484.jpg",
+   "original_px": [
+    1671,
+    2000
+   ],
+   "original_bytes": 657597,
+   "identity": "sent-2026-09-05::286bd35791bf",
+   "source_url": "https://i.pinimg.com/originals/56/5c/d3/565cd36c03778f7b043d19713089c3ca.jpg",
+   "maker": "Hannah Höch",
+   "title": "Photomontage with a man holding a white cat",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Signed H.H. within the collage. Cut lettering spelling DADA runs down the right edge. The title, date and holding collection are NOT established here — the file came without provenance.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/79.jpg",
+   "source_px": [
+    1671,
+    2000
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "collage"
+    },
+    {
+     "k": "artist",
+     "v": "Hannah Höch"
+    },
+    {
+     "k": "subject",
+     "v": "Dada"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Signed H.H. within the collage. Cut lettering spelling DADA runs down the right edge. The title, date and holding collection are NOT established here — the file came without provenance.",
+   "hue": 33.99,
+   "light": 0.5881,
+   "chroma": 0.8437,
+   "punch": 0.2313
+  },
+  "sent-2026-09-05::71dfbb899d42": {
+   "id": "CRVI001485",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001485.jpg",
+   "original_px": [
+    945,
+    1215
+   ],
+   "original_bytes": 577876,
+   "identity": "sent-2026-09-05::71dfbb899d42",
+   "source_url": "https://www.typeroom.eu/assets/original/2020/03/08/Hannah_Hoch_Typeroom2.jpg",
+   "maker": "Hannah Höch",
+   "title": "Photomontage with a child and the letter P",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Published by Typeroom under Hannah Höch's name; the file name is the publisher's own metadata. The title and date are not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/80.jpg",
+   "source_px": [
+    945,
+    1215
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "collage"
+    },
+    {
+     "k": "artist",
+     "v": "Hannah Höch"
+    },
+    {
+     "k": "subject",
+     "v": "Dada"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published by Typeroom under Hannah Höch's name; the file name is the publisher's own metadata. The title and date are not established here.",
+   "hue": 23.76,
+   "light": 0.6254,
+   "chroma": 0.8619,
+   "punch": 0.2084
+  },
+  "sent-2026-09-05::82e001d0c999": {
+   "id": "CRVI001486",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001486.jpg",
+   "original_px": [
+    2785,
+    3400
+   ],
+   "original_bytes": 2420057,
+   "identity": "sent-2026-09-05::82e001d0c999",
+   "source_url": "https://openaccess-cdn.clevelandart.org/1995.4/1995.4_print.jpg",
+   "maker": "Kurt Schwitters",
+   "title": "Merz 3 Portfolio: Plate 1",
+   "subtitle": "",
+   "year": "1923",
+   "verified_against": "Cleveland Museum of Art, accession 1995.4 — the museum's own open-access record gives Kurt Schwitters (German, 1887–1948), Merz 3 Portfolio: Plate 1, 1923, lithograph.",
+   "notes": [
+    "Signed Kurt Schwitters at the lower left of the sheet."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/81.jpg",
+   "source_px": [
+    2785,
+    3400
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Kurt Schwitters"
+    },
+    {
+     "k": "medium",
+     "v": "lithograph"
+    },
+    {
+     "k": "subject",
+     "v": "Dada"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Cleveland Museum of Art, accession 1995.4 — the museum's own open-access record gives Kurt Schwitters (German, 1887–1948), Merz 3 Portfolio: Plate 1, 1923, lithograph.",
+   "hue": 30.24,
+   "light": 0.6878,
+   "chroma": 0.5903,
+   "punch": 0.1077
+  },
+  "sent-2026-09-05::09ff3434436c": {
+   "id": "CRVI001487",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001487.jpg",
+   "original_px": [
+    2071,
+    1665
+   ],
+   "original_bytes": 247623,
+   "identity": "sent-2026-09-05::09ff3434436c",
+   "source_url": "https://uploads3.wikiart.org/images/man-ray/black-and-white.jpg",
+   "maker": "Man Ray",
+   "title": "Black and White (Noire et blanche)",
+   "subtitle": "",
+   "year": "1926",
+   "verified_against": "WikiArt, under Man Ray, as Black and White — the 1926 photograph of Kiki de Montparnasse beside a Baule mask.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/82.jpg",
+   "source_px": [
+    2071,
+    1665
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Man Ray"
+    },
+    {
+     "k": "photographer",
+     "v": "Man Ray"
+    },
+    {
+     "k": "subject",
+     "v": "Surrealism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Man Ray, as Black and White — the 1926 photograph of Kiki de Montparnasse beside a Baule mask.",
+   "hue": null,
+   "light": 0.6179,
+   "chroma": 0.0425,
+   "punch": 0.0222
+  },
+  "sent-2026-09-05::93f84efd2a31": {
+   "id": "CRVI001488",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001488.jpg",
+   "original_px": [
+    1301,
+    1632
+   ],
+   "original_bytes": 427251,
+   "identity": "sent-2026-09-05::93f84efd2a31",
+   "source_url": "https://i.pinimg.com/originals/af/3b/f2/af3bf25f4eb55e4b8e7e11392cc66e04.jpg",
+   "maker": "Unidentified",
+   "title": "Dada photomontage naming Raoul Hausmann",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "A Berlin Dada photomontage on an orange ground: a screaming face built from cut paper, over fragments of poster lettering, with a printed notice reading RAOUL HAUSMANN set into the lower right. Whether Hausmann is its maker or its subject is NOT established — the file came without provenance, and Höch and Hausmann each portrayed the other.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/83.jpg",
+   "source_px": [
+    1301,
+    1632
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "collage"
+    },
+    {
+     "k": "subject",
+     "v": "Dada"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A Berlin Dada photomontage on an orange ground: a screaming face built from cut paper, over fragments of poster lettering, with a printed notice reading RAOUL HAUSMANN set into the lower right. Whether Hausmann is its maker or its subject is NOT established — the file came without provenance, and Höch and Hausmann each portrayed the other.",
+   "hue": 17.41,
+   "light": 0.5316,
+   "chroma": 0.9637,
+   "punch": 0.3679
+  },
+  "sent-2026-09-05::b89db82bd688": {
+   "id": "CRVI001489",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001489.jpg",
+   "original_px": [
+    1331,
+    2234
+   ],
+   "original_bytes": 423987,
+   "identity": "sent-2026-09-05::b89db82bd688",
+   "source_url": "https://uploads8.wikiart.org/images/max-ernst/self-portrait-1909.jpg",
+   "maker": "Max Ernst",
+   "title": "Self-Portrait",
+   "subtitle": "",
+   "year": "1909",
+   "verified_against": "WikiArt, under Max Ernst, dated 1909; signed Max Ernst at the lower right.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/84.jpg",
+   "source_px": [
+    1331,
+    2234
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Max Ernst"
+    },
+    {
+     "k": "medium",
+     "v": "oil"
+    },
+    {
+     "k": "subject",
+     "v": "Surrealism"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Max Ernst, dated 1909; signed Max Ernst at the lower right.",
+   "hue": 31.97,
+   "light": 0.4547,
+   "chroma": 0.6508,
+   "punch": 0.234
+  },
+  "sent-2026-09-05::e2bdef8ee714": {
+   "id": "CRVI001490",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001490.jpg",
+   "original_px": [
+    1242,
+    1787
+   ],
+   "original_bytes": 268297,
+   "identity": "sent-2026-09-05::e2bdef8ee714",
+   "source_url": "https://uploads5.wikiart.org/images/max-ernst/ambiguous-figures-1-copper-plate-1-zinc-plate-1-rubber-cloth.jpg",
+   "maker": "Max Ernst",
+   "title": "Ambiguous Figures (1 copper plate 1 zinc plate 1 rubber cloth)",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Max Ernst. Signed max ernst within the sheet. The date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/85.jpg",
+   "source_px": [
+    1242,
+    1787
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Max Ernst"
+    },
+    {
+     "k": "subject",
+     "v": "Dada"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Max Ernst. Signed max ernst within the sheet. The date is not established here.",
+   "hue": 216.36,
+   "light": 0.6334,
+   "chroma": 0.6443,
+   "punch": 0.1825
+  },
+  "sent-2026-09-05::2391a302e83c": {
+   "id": "CRVI001491",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001491.jpg",
+   "original_px": [
+    1132,
+    1500
+   ],
+   "original_bytes": 119609,
+   "identity": "sent-2026-09-05::2391a302e83c",
+   "source_url": "https://uploads4.wikiart.org/00439/images/sophie-taeuber-arp/1920head-1920-3.jpg",
+   "maker": "Sophie Taeuber-Arp",
+   "title": "Dada Head",
+   "subtitle": "",
+   "year": "1920",
+   "verified_against": "WikiArt, under Sophie Taeuber-Arp, dated 1920 — a turned and painted wood head on a stand.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/86.jpg",
+   "source_px": [
+    1132,
+    1500
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Sophie Taeuber-Arp"
+    },
+    {
+     "k": "subject",
+     "v": "Dada"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Sophie Taeuber-Arp, dated 1920 — a turned and painted wood head on a stand.",
+   "hue": null,
+   "light": 0.7502,
+   "chroma": 0.025,
+   "punch": 0.0208
+  },
+  "sent-2026-09-05::9a5ebc09bfce": {
+   "id": "CRVI001492",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001492.jpg",
+   "original_px": [
+    872,
+    1120
+   ],
+   "original_bytes": 65797,
+   "identity": "sent-2026-09-05::9a5ebc09bfce",
+   "source_url": "https://uploads8.wikiart.org/images/alexander-rodchenko/white-circle-1918.jpg",
+   "maker": "Alexander Rodchenko",
+   "title": "White Circle",
+   "subtitle": "",
+   "year": "1918",
+   "verified_against": "WikiArt, under Alexander Rodchenko, dated 1918.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/090.jpg",
+   "source_px": [
+    872,
+    1120
+   ],
+   "colors": [
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Alexander Rodchenko"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "subject",
+     "v": "Constructivism"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Alexander Rodchenko, dated 1918.",
+   "hue": 54.5,
+   "light": 0.5939,
+   "chroma": 0.8617,
+   "punch": 0.2132
+  },
+  "sent-2026-09-05::26a3e6a0a001": {
+   "id": "CRVI001493",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001493.jpg",
+   "original_px": [
+    1130,
+    1600
+   ],
+   "original_bytes": 182713,
+   "identity": "sent-2026-09-05::26a3e6a0a001",
+   "source_url": "https://uploads5.wikiart.org/images/alexander-rodchenko/red-and-yellow.jpg",
+   "maker": "Alexander Rodchenko",
+   "title": "Red and Yellow",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Alexander Rodchenko. The date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/091.jpg",
+   "source_px": [
+    1130,
+    1600
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Alexander Rodchenko"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "subject",
+     "v": "Constructivism"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Alexander Rodchenko. The date is not established here.",
+   "hue": 358.39,
+   "light": 0.3831,
+   "chroma": 0.9999,
+   "punch": 0.4972
+  },
+  "sent-2026-09-05::7e0684fa9483": {
+   "id": "CRVI001494",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001494.jpg",
+   "original_px": [
+    1500,
+    1043
+   ],
+   "original_bytes": 1716854,
+   "identity": "sent-2026-09-05::7e0684fa9483",
+   "source_url": "https://uploads8.wikiart.org/images/alexander-rodchenko/battleship-potemkin-1925-1.jpg",
+   "maker": "Alexander Rodchenko",
+   "title": "Battleship Potemkin",
+   "subtitle": "Film poster",
+   "year": "1925",
+   "verified_against": "WikiArt, under Alexander Rodchenko, dated 1925. The poster letters its own credits in Cyrillic: БРОНЕНОСЕЦ ПОТЕМКИН 1905, production Goskino, directed by S. M. Eisenstein, camera Eduard Tisse.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/092.jpg",
+   "source_px": [
+    1500,
+    1043
+   ],
+   "colors": [
+    "yellow",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "designer",
+     "v": "Alexander Rodchenko"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Alexander Rodchenko, dated 1925. The poster letters its own credits in Cyrillic: БРОНЕНОСЕЦ ПОТЕМКИН 1905, production Goskino, directed by S. M. Eisenstein, camera Eduard Tisse.",
+   "hue": 357.03,
+   "light": 0.4705,
+   "chroma": 0.7145,
+   "punch": 0.3008
+  },
+  "sent-2026-09-05::7dc1d42f5495": {
+   "id": "CRVI001495",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001495.jpg",
+   "original_px": [
+    2461,
+    3281
+   ],
+   "original_bytes": 748051,
+   "identity": "sent-2026-09-05::7dc1d42f5495",
+   "source_url": "https://uploads2.wikiart.org/images/el-lissitzky/flying-to-earth-from-a-distance-1920.jpg",
+   "maker": "El Lissitzky",
+   "title": "Flying to Earth from a Distance",
+   "subtitle": "",
+   "year": "1920",
+   "verified_against": "WikiArt, under El Lissitzky, dated 1920.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/093.jpg",
+   "source_px": [
+    2461,
+    3281
+   ],
+   "colors": [
+    "yellow",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "El Lissitzky"
+    },
+    {
+     "k": "subject",
+     "v": "Constructivism"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under El Lissitzky, dated 1920.",
+   "hue": 50.97,
+   "light": 0.7645,
+   "chroma": 0.9816,
+   "punch": 0.2923
+  },
+  "sent-2026-09-05::b8151ae1379a": {
+   "id": "CRVI001496",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001496.jpg",
+   "original_px": [
+    3250,
+    3804
+   ],
+   "original_bytes": 979017,
+   "identity": "sent-2026-09-05::b8151ae1379a",
+   "source_url": "https://uploads7.wikiart.org/images/el-lissitzky/announcer-1923.jpg",
+   "maker": "El Lissitzky",
+   "title": "Announcer",
+   "subtitle": "",
+   "year": "1923",
+   "verified_against": "WikiArt, under El Lissitzky, dated 1923 — a figurine from the portfolio for the electro-mechanical staging of Victory over the Sun.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/094.jpg",
+   "source_px": [
+    3250,
+    3804
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "El Lissitzky"
+    },
+    {
+     "k": "subject",
+     "v": "Constructivism"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under El Lissitzky, dated 1923 — a figurine from the portfolio for the electro-mechanical staging of Victory over the Sun.",
+   "hue": 37.06,
+   "light": 0.8236,
+   "chroma": 0.8891,
+   "punch": 0.1047
+  },
+  "sent-2026-09-05::bf555216bfc6": {
+   "id": "CRVI001497",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001497.jpg",
+   "original_px": [
+    1800,
+    2147
+   ],
+   "original_bytes": 718050,
+   "identity": "sent-2026-09-05::bf555216bfc6",
+   "source_url": "https://uploads5.wikiart.org/images/el-lissitzky/new-man-1923.jpg",
+   "maker": "El Lissitzky",
+   "title": "New Man",
+   "subtitle": "",
+   "year": "1923",
+   "verified_against": "WikiArt, under El Lissitzky, dated 1923 — a figurine from the portfolio for the electro-mechanical staging of Victory over the Sun.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/095.jpg",
+   "source_px": [
+    1800,
+    2147
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "El Lissitzky"
+    },
+    {
+     "k": "subject",
+     "v": "Constructivism"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under El Lissitzky, dated 1923 — a figurine from the portfolio for the electro-mechanical staging of Victory over the Sun.",
+   "hue": 44.92,
+   "light": 0.7824,
+   "chroma": 0.9779,
+   "punch": 0.2311
+  },
+  "sent-2026-09-05::afead61e4717": {
+   "id": "CRVI001498",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001498.jpg",
+   "original_px": [
+    1000,
+    840
+   ],
+   "original_bytes": 60155,
+   "identity": "sent-2026-09-05::afead61e4717",
+   "source_url": "https://observervoice.com/wp-content/uploads/2023/10/Varvara-Fyodorovna-Stepanova.jpg",
+   "maker": "Varvara Stepanova",
+   "title": "Untitled (figures)",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Published under Varvara Stepanova's name by Observer Voice, whose file name is its own metadata. The individual work's title, date and holding collection are NOT established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/096.jpg",
+   "source_px": [
+    1000,
+    840
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Varvara Stepanova"
+    },
+    {
+     "k": "subject",
+     "v": "Constructivism"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published under Varvara Stepanova's name by Observer Voice, whose file name is its own metadata. The individual work's title, date and holding collection are NOT established here.",
+   "hue": null,
+   "light": 0.7814,
+   "chroma": 0.0988,
+   "punch": 0.0453
+  },
+  "sent-2026-09-05::c5b5398a68ba": {
+   "id": "CRVI001499",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001499.jpg",
+   "original_px": [
+    843,
+    1160
+   ],
+   "original_bytes": 492866,
+   "identity": "sent-2026-09-05::c5b5398a68ba",
+   "source_url": "https://www.artic.edu/iiif/2/7b82f6f9-abab-92aa-269a-47b5d8cb3fe3/full/843,/0/default.jpg",
+   "maker": "Gustav Klutsis",
+   "title": "Postcard Commemorating the Russian All-Union Spartakiada",
+   "subtitle": "",
+   "year": "1928",
+   "verified_against": "Art Institute of Chicago, artwork 199176 — the museum's API resolves this image id to Gustav G. Klutsis, Postcard Commemorating the Russian All-Union Spartakiada, 1928, colour lithograph on off-white wove card.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/097.jpg",
+   "source_px": [
+    843,
+    1160
+   ],
+   "colors": [
+    "cyan",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "designer",
+     "v": "Gustav Klutsis"
+    },
+    {
+     "k": "artist",
+     "v": "Gustav Klutsis"
+    },
+    {
+     "k": "medium",
+     "v": "colour lithograph"
+    },
+    {
+     "k": "subject",
+     "v": "Constructivism"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Institute of Chicago, artwork 199176 — the museum's API resolves this image id to Gustav G. Klutsis, Postcard Commemorating the Russian All-Union Spartakiada, 1928, colour lithograph on off-white wove card.",
+   "hue": 194.26,
+   "light": 0.5196,
+   "chroma": 0.3083,
+   "punch": 0.1771
+  },
+  "sent-2026-09-05::a392ef2db5e6": {
+   "id": "CRVI001500",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001500.jpg",
+   "original_px": [
+    1280,
+    1916
+   ],
+   "original_bytes": 539749,
+   "identity": "sent-2026-09-05::a392ef2db5e6",
+   "source_url": "https://i.pinimg.com/originals/ed/14/9f/ed149fd81ab685e4a4dc2e30e29e0eec.jpg",
+   "maker": "Gustav Klutsis",
+   "title": "Design for a screen-tribune kiosk",
+   "subtitle": "",
+   "year": "1922",
+   "verified_against": "Signed and dated in the plate, Г. Клуцис 22 — Klutsis, 1922. One of his designs for the agitational kiosks combining screen, loudspeaker and rostrum. The exact title and holding collection are not established here; the file came without provenance.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/098.jpg",
+   "source_px": [
+    1280,
+    1916
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "designer",
+     "v": "Gustav Klutsis"
+    },
+    {
+     "k": "artist",
+     "v": "Gustav Klutsis"
+    },
+    {
+     "k": "subject",
+     "v": "Constructivism"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Signed and dated in the plate, Г. Клуцис 22 — Klutsis, 1922. One of his designs for the agitational kiosks combining screen, loudspeaker and rostrum. The exact title and holding collection are not established here; the file came without provenance.",
+   "hue": 33.16,
+   "light": 0.6538,
+   "chroma": 0.7616,
+   "punch": 0.1245
+  },
+  "sent-2026-09-05::87dccc6824c3": {
+   "id": "CRVI001501",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001501.jpg",
+   "original_px": [
+    1658,
+    1658
+   ],
+   "original_bytes": 1832250,
+   "identity": "sent-2026-09-05::87dccc6824c3",
+   "source_url": "https://i0.wp.com/thecharnelhouse.org/wp-content/uploads/2016/10/gustavs-klucis-dynamic-city-19192.jpg?ssl=1",
+   "maker": "Gustav Klutsis",
+   "title": "Dynamic City",
+   "subtitle": "",
+   "year": "1919",
+   "verified_against": "Published as Klutsis's Dynamic City, 1919, by The Charnel-House; the file name is the publisher's own metadata.",
+   "notes": [
+    "Taken from the site's own file rather than its 1200px Photon derivative — the bare URL serves 1658 × 1658 against the proxy's 1200 × 1200. Photon caps rather than upscales, so the larger file is the real one."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/099.jpg",
+   "source_px": [
+    1658,
+    1658
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "collage"
+    },
+    {
+     "k": "artist",
+     "v": "Gustav Klutsis"
+    },
+    {
+     "k": "subject",
+     "v": "Constructivism"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published as Klutsis's Dynamic City, 1919, by The Charnel-House; the file name is the publisher's own metadata.",
+   "hue": 34.99,
+   "light": 0.6965,
+   "chroma": 0.8265,
+   "punch": 0.1744
+  },
+  "sent-2026-09-05::105db672dd0a": {
+   "id": "CRVI001502",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001502.jpg",
+   "original_px": [
+    1269,
+    2047
+   ],
+   "original_bytes": 783760,
+   "identity": "sent-2026-09-05::105db672dd0a",
+   "source_url": "https://outrejournal.com/wp-content/uploads/2024/10/The-Swallows-Diving-1920-Design-for-Postcard-by-Gustavs-Klutsis.jpg",
+   "maker": "Gustav Klutsis",
+   "title": "Spartakiada Moskau 1928",
+   "subtitle": "Postcard",
+   "year": "1928",
+   "verified_against": "Published under Klutsis's name by Outre journal. ⚠️ Its file name calls this 'The Swallows Diving (1920), design for postcard' — but the card letters its own occasion, SPARTAKIADA MOSKAU 1928 with the RSI monogram, so 1920 cannot be right. Dated here from the object itself, 1928, and grouped with the other Spartakiada postcards.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/100.jpg",
+   "source_px": [
+    1269,
+    2047
+   ],
+   "colors": [
+    "orange",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "designer",
+     "v": "Gustav Klutsis"
+    },
+    {
+     "k": "artist",
+     "v": "Gustav Klutsis"
+    },
+    {
+     "k": "subject",
+     "v": "Constructivism"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published under Klutsis's name by Outre journal. ⚠️ Its file name calls this 'The Swallows Diving (1920), design for postcard' — but the card letters its own occasion, SPARTAKIADA MOSKAU 1928 with the RSI monogram, so 1920 cannot be right. Dated here from the object itself, 1928, and grouped with the other Spartakiada postcards.",
+   "hue": 32.79,
+   "light": 0.4541,
+   "chroma": 0.7433,
+   "punch": 0.1775
+  },
+  "sent-2026-09-05::8fb5c7507056": {
+   "id": "CRVI001503",
+   "minted": "2026-09-05",
+   "original_file": "originals/CRVI001503.jpg",
+   "original_px": [
+    1060,
+    1536
+   ],
+   "original_bytes": 254892,
+   "identity": "sent-2026-09-05::8fb5c7507056",
+   "source_url": "https://outrejournal.com/wp-content/uploads/2024/10/Without-Heavy-Industry-We-Cannot-Build-Any-Industry-1930-by-Gustav-Klutsis-1060x1536.jpg",
+   "maker": "Gustav Klutsis",
+   "title": "Without Heavy Industry We Cannot Build Any Industry",
+   "subtitle": "Poster",
+   "year": "1930",
+   "verified_against": "Published as Klutsis, 1930, by Outre journal; the poster letters its own slogan in Cyrillic — БЕЗ ТЯЖЕЛОЙ ПРОМЫШЛЕННОСТИ МЫ НЕ МОЖЕМ ПОСТРОИТЬ НИКАКОЙ ПРОМЫШЛЕННОСТИ.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/101.jpg",
+   "source_px": [
+    1060,
+    1536
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "designer",
+     "v": "Gustav Klutsis"
+    },
+    {
+     "k": "artist",
+     "v": "Gustav Klutsis"
+    },
+    {
+     "k": "subject",
+     "v": "Constructivism"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "decade",
+     "v": "1930s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published as Klutsis, 1930, by Outre journal; the poster letters its own slogan in Cyrillic — БЕЗ ТЯЖЕЛОЙ ПРОМЫШЛЕННОСТИ МЫ НЕ МОЖЕМ ПОСТРОИТЬ НИКАКОЙ ПРОМЫШЛЕННОСТИ.",
+   "hue": 18.73,
+   "light": 0.4193,
+   "chroma": 0.5768,
+   "punch": 0.2494
   }
  }
 }
