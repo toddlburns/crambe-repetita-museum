@@ -88196,6 +88196,3938 @@
    "hue": 15.2,
    "light": 0.4654,
    "chroma": 0.3019
+  },
+  {
+   "id": "CRVI001670",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.0712,
+   "source_url": "https://images.metmuseum.org/CRDImages/ma/original/LC-1990_38_4-overall-20240701-01.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001670.jpg",
+   "source_label": "",
+   "image": "images/CRVI001670.jpg",
+   "original": "originals/CRVI001670.jpg",
+   "vector": "",
+   "original_px": [
+    4000,
+    3044
+   ],
+   "original_bytes": 14133471,
+   "maker": "Umberto Boccioni",
+   "title": "Self-Portrait",
+   "subtitle": "",
+   "year": "1905",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Umberto Boccioni"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "subject",
+     "v": "Futurism"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 34.27,
+   "light": 0.4457,
+   "chroma": 0.2079
+  },
+  {
+   "id": "CRVI001671",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.3472,
+   "source_url": "https://uploads1.wikiart.org/images/giacomo-balla/iridescent-interpenetration-no-4-study-of-light-1912.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001671.jpg",
+   "source_label": "",
+   "image": "images/CRVI001671.jpg",
+   "original": "originals/CRVI001671.jpg",
+   "vector": "",
+   "original_px": [
+    1197,
+    850
+   ],
+   "original_bytes": 616956,
+   "maker": "Giacomo Balla",
+   "title": "Iridescent Interpenetration No. 4, Study of Light",
+   "subtitle": "",
+   "year": "1912",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Giacomo Balla"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "Futurism"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 49.59,
+   "light": 0.5622,
+   "chroma": 0.8751
+  },
+  {
+   "id": "CRVI001672",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.2069,
+   "source_url": "https://uploads6.wikiart.org/images/giacomo-balla/girl-running-on-a-balcony-1912.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001672.jpg",
+   "source_label": "",
+   "image": "images/CRVI001672.jpg",
+   "original": "originals/CRVI001672.jpg",
+   "vector": "",
+   "original_px": [
+    1402,
+    1416
+   ],
+   "original_bytes": 527494,
+   "maker": "Giacomo Balla",
+   "title": "Girl Running on a Balcony",
+   "subtitle": "",
+   "year": "1912",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Giacomo Balla"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "Futurism"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 46.99,
+   "light": 0.6136,
+   "chroma": 0.7005
+  },
+  {
+   "id": "CRVI001673",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1944,
+   "source_url": "https://uploads2.wikiart.org/images/giacomo-balla/street-light-1909.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001673.jpg",
+   "source_label": "",
+   "image": "images/CRVI001673.jpg",
+   "original": "originals/CRVI001673.jpg",
+   "vector": "",
+   "original_px": [
+    1285,
+    1984
+   ],
+   "original_bytes": 415974,
+   "maker": "Giacomo Balla",
+   "title": "Street Light",
+   "subtitle": "",
+   "year": "1909",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Giacomo Balla"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "subject",
+     "v": "Futurism"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 43.97,
+   "light": 0.4211,
+   "chroma": 0.725
+  },
+  {
+   "id": "CRVI001674",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.046,
+   "source_url": "https://uploads0.wikiart.org/images/giacomo-balla/dynamism-of-a-dog-on-a-leash-1912.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001674.jpg",
+   "source_label": "",
+   "image": "images/CRVI001674.jpg",
+   "original": "originals/CRVI001674.jpg",
+   "vector": "",
+   "original_px": [
+    1388,
+    1184
+   ],
+   "original_bytes": 130483,
+   "maker": "Giacomo Balla",
+   "title": "Dynamism of a Dog on a Leash",
+   "subtitle": "",
+   "year": "1912",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Giacomo Balla"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "Futurism"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 244.94,
+   "light": 0.6587,
+   "chroma": 0.285
+  },
+  {
+   "id": "CRVI001675",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.2367,
+   "source_url": "https://uploads7.wikiart.org/images/giacomo-balla/self-portrait.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001675.jpg",
+   "source_label": "",
+   "image": "images/CRVI001675.jpg",
+   "original": "originals/CRVI001675.jpg",
+   "vector": "",
+   "original_px": [
+    992,
+    1344
+   ],
+   "original_bytes": 464831,
+   "maker": "Giacomo Balla",
+   "title": "Self-Portrait",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Giacomo Balla"
+    },
+    {
+     "k": "subject",
+     "v": "Futurism"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 16.84,
+   "light": 0.5022,
+   "chroma": 0.8226
+  },
+  {
+   "id": "CRVI001676",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.3188,
+   "source_url": "https://uploads0.wikiart.org/images/carlo-carra/swimmers.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001676.jpg",
+   "source_label": "",
+   "image": "images/CRVI001676.jpg",
+   "original": "originals/CRVI001676.jpg",
+   "vector": "",
+   "original_px": [
+    1600,
+    1080
+   ],
+   "original_bytes": 270689,
+   "maker": "Carlo Carrà",
+   "title": "Swimmers",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Carlo Carrà"
+    },
+    {
+     "k": "subject",
+     "v": "Futurism"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 44.48,
+   "light": 0.5529,
+   "chroma": 0.8451
+  },
+  {
+   "id": "CRVI001677",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.3621,
+   "source_url": "https://uploads4.wikiart.org/images/carlo-carra/the-red-horseman-1913.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001677.jpg",
+   "source_label": "",
+   "image": "images/CRVI001677.jpg",
+   "original": "originals/CRVI001677.jpg",
+   "vector": "",
+   "original_px": [
+    1333,
+    978
+   ],
+   "original_bytes": 166915,
+   "maker": "Carlo Carrà",
+   "title": "The Red Horseman",
+   "subtitle": "",
+   "year": "1913",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Carlo Carrà"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "Futurism"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 33.86,
+   "light": 0.6759,
+   "chroma": 0.9792
+  },
+  {
+   "id": "CRVI001678",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1573,
+   "source_url": "https://uploads0.wikiart.org/images/carlo-carra/armtrain.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001678.jpg",
+   "source_label": "",
+   "image": "images/CRVI001678.jpg",
+   "original": "originals/CRVI001678.jpg",
+   "vector": "",
+   "original_px": [
+    804,
+    1060
+   ],
+   "original_bytes": 223792,
+   "maker": "Gino Severini",
+   "title": "Armored Train in Action",
+   "subtitle": "",
+   "year": "1915",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Gino Severini"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "Futurism"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 53.86,
+   "light": 0.5579,
+   "chroma": 0.6516
+  },
+  {
+   "id": "CRVI001679",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.2073,
+   "source_url": "https://uploads4.wikiart.org/images/carlo-carra/portrait-of-marinetti.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001679.jpg",
+   "source_label": "",
+   "image": "images/CRVI001679.jpg",
+   "original": "originals/CRVI001679.jpg",
+   "vector": "",
+   "original_px": [
+    879,
+    1080
+   ],
+   "original_bytes": 225241,
+   "maker": "Carlo Carrà",
+   "title": "Portrait of Marinetti",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Carlo Carrà"
+    },
+    {
+     "k": "subject",
+     "v": "Futurism"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 4.29,
+   "light": 0.3386,
+   "chroma": 0.8431
+  },
+  {
+   "id": "CRVI001680",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1216,
+   "source_url": "https://uploads0.wikiart.org/images/carlo-carra/the-drunken-gentleman-1916.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001680.jpg",
+   "source_label": "",
+   "image": "images/CRVI001680.jpg",
+   "original": "originals/CRVI001680.jpg",
+   "vector": "",
+   "original_px": [
+    1335,
+    1800
+   ],
+   "original_bytes": 253630,
+   "maker": "Carlo Carrà",
+   "title": "The Drunken Gentleman",
+   "subtitle": "",
+   "year": "1916",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Carlo Carrà"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "Futurism"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 25.03,
+   "light": 0.3961,
+   "chroma": 0.3113
+  },
+  {
+   "id": "CRVI001681",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.2427,
+   "source_url": "https://uploads5.wikiart.org/images/carlo-carra/stazione-a-milano-1909.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001681.jpg",
+   "source_label": "",
+   "image": "images/CRVI001681.jpg",
+   "original": "originals/CRVI001681.jpg",
+   "vector": "",
+   "original_px": [
+    1024,
+    897
+   ],
+   "original_bytes": 1923094,
+   "maker": "Carlo Carrà",
+   "title": "Stazione a Milano",
+   "subtitle": "",
+   "year": "1909",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Carlo Carrà"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "subject",
+     "v": "Futurism"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 33.97,
+   "light": 0.3402,
+   "chroma": 0.6732
+  },
+  {
+   "id": "CRVI001682",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1526,
+   "source_url": "https://uploads2.wikiart.org/images/gino-severini/untitled.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001682.jpg",
+   "source_label": "",
+   "image": "images/CRVI001682.jpg",
+   "original": "originals/CRVI001682.jpg",
+   "vector": "",
+   "original_px": [
+    1067,
+    1600
+   ],
+   "original_bytes": 312890,
+   "maker": "Gino Severini",
+   "title": "Untitled (Futurist crowd)",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Gino Severini"
+    },
+    {
+     "k": "subject",
+     "v": "Futurism"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 6.2,
+   "light": 0.3616,
+   "chroma": 0.5237
+  },
+  {
+   "id": "CRVI001683",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.2044,
+   "source_url": "https://uploads7.wikiart.org/images/gino-severini/ballerina-in-blue-1912.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001683.jpg",
+   "source_label": "",
+   "image": "images/CRVI001683.jpg",
+   "original": "originals/CRVI001683.jpg",
+   "vector": "",
+   "original_px": [
+    1139,
+    1500
+   ],
+   "original_bytes": 487053,
+   "maker": "Gino Severini",
+   "title": "Ballerina in Blue",
+   "subtitle": "",
+   "year": "1912",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Gino Severini"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "Futurism"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 225.98,
+   "light": 0.5839,
+   "chroma": 0.6415
+  },
+  {
+   "id": "CRVI001684",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1083,
+   "source_url": "https://uploads7.wikiart.org/images/gino-severini/self-portrait.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001684.jpg",
+   "source_label": "",
+   "image": "images/CRVI001684.jpg",
+   "original": "originals/CRVI001684.jpg",
+   "vector": "",
+   "original_px": [
+    1110,
+    1386
+   ],
+   "original_bytes": 148108,
+   "maker": "Gino Severini",
+   "title": "Self-Portrait",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Gino Severini"
+    },
+    {
+     "k": "subject",
+     "v": "Futurism"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 23.7,
+   "light": 0.6245,
+   "chroma": 0.5026
+  },
+  {
+   "id": "CRVI001685",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1308,
+   "source_url": "https://uploads5.wikiart.org/images/gino-severini/dynamism-of-a-dancer.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001685.jpg",
+   "source_label": "",
+   "image": "images/CRVI001685.jpg",
+   "original": "originals/CRVI001685.jpg",
+   "vector": "",
+   "original_px": [
+    1121,
+    1476
+   ],
+   "original_bytes": 146712,
+   "maker": "Gino Severini",
+   "title": "Dynamism of a Dancer",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Gino Severini"
+    },
+    {
+     "k": "subject",
+     "v": "Futurism"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 44.35,
+   "light": 0.7553,
+   "chroma": 0.3923
+  },
+  {
+   "id": "CRVI001686",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1445,
+   "source_url": "https://uploads0.wikiart.org/images/gino-severini/the-haunting-dancer-1911.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001686.jpg",
+   "source_label": "",
+   "image": "images/CRVI001686.jpg",
+   "original": "originals/CRVI001686.jpg",
+   "vector": "",
+   "original_px": [
+    1124,
+    1524
+   ],
+   "original_bytes": 299833,
+   "maker": "Gino Severini",
+   "title": "The Haunting Dancer",
+   "subtitle": "",
+   "year": "1911",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Gino Severini"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "Futurism"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 212.65,
+   "light": 0.4691,
+   "chroma": 0.5701
+  },
+  {
+   "id": "CRVI001687",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1051,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Autoritratto_con_teschi_by_Luigi_Russolo.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001687.jpg",
+   "source_label": "",
+   "image": "images/CRVI001687.jpg",
+   "original": "originals/CRVI001687.jpg",
+   "vector": "",
+   "original_px": [
+    1050,
+    1470
+   ],
+   "original_bytes": 1429405,
+   "maker": "Luigi Russolo",
+   "title": "Autoritratto con teschi",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Luigi Russolo"
+    },
+    {
+     "k": "subject",
+     "v": "Futurism"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 28.31,
+   "light": 0.201,
+   "chroma": 0.5459
+  },
+  {
+   "id": "CRVI001688",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1758,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Luigi_Russolo_-_Profumo_%281910%29.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001688.jpg",
+   "source_label": "",
+   "image": "images/CRVI001688.jpg",
+   "original": "originals/CRVI001688.jpg",
+   "vector": "",
+   "original_px": [
+    1700,
+    1699
+   ],
+   "original_bytes": 492414,
+   "maker": "Luigi Russolo",
+   "title": "Profumo",
+   "subtitle": "",
+   "year": "1910",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Luigi Russolo"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "Futurism"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 236.72,
+   "light": 0.2856,
+   "chroma": 0.8106
+  },
+  {
+   "id": "CRVI001689",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.0804,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Luigi_Russolo_-_Synth%C3%A8se_plastique_des_mouvements_d%27une_femme.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001689.jpg",
+   "source_label": "",
+   "image": "images/CRVI001689.jpg",
+   "original": "originals/CRVI001689.jpg",
+   "vector": "",
+   "original_px": [
+    2927,
+    3807
+   ],
+   "original_bytes": 4318008,
+   "maker": "Luigi Russolo",
+   "title": "Synthèse plastique des mouvements d'une femme",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Luigi Russolo"
+    },
+    {
+     "k": "subject",
+     "v": "Futurism"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 234.81,
+   "light": 0.2429,
+   "chroma": 0.3545
+  },
+  {
+   "id": "CRVI001690",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.292,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Luigi_Russolo%2C_Chioma_%281910-1911%29.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001690.jpg",
+   "source_label": "",
+   "image": "images/CRVI001690.jpg",
+   "original": "originals/CRVI001690.jpg",
+   "vector": "",
+   "original_px": [
+    1393,
+    2048
+   ],
+   "original_bytes": 1224026,
+   "maker": "Luigi Russolo",
+   "title": "Chioma",
+   "subtitle": "",
+   "year": "1910–1911",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Luigi Russolo"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "Futurism"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 8.98,
+   "light": 0.3857,
+   "chroma": 0.7579
+  },
+  {
+   "id": "CRVI001691",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.4578,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Luigi_Russolo_La_Rivolta_1911.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001691.jpg",
+   "source_label": "",
+   "image": "images/CRVI001691.jpg",
+   "original": "originals/CRVI001691.jpg",
+   "vector": "",
+   "original_px": [
+    1677,
+    1075
+   ],
+   "original_bytes": 1506187,
+   "maker": "Luigi Russolo",
+   "title": "La Rivolta",
+   "subtitle": "",
+   "year": "1911",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Luigi Russolo"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "Futurism"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 6.51,
+   "light": 0.448,
+   "chroma": 0.9233
+  },
+  {
+   "id": "CRVI001692",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1428,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Luigi_Russolo%2C_1911%2C_Souvenir_d%27une_nuit_%28Memories_of_a_Night%29%2C_oil_on_canvas%2C_99_x_99_cm%2C_private_collection.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001692.jpg",
+   "source_label": "",
+   "image": "images/CRVI001692.jpg",
+   "original": "originals/CRVI001692.jpg",
+   "vector": "",
+   "original_px": [
+    988,
+    1024
+   ],
+   "original_bytes": 296834,
+   "maker": "Luigi Russolo",
+   "title": "Souvenir d'une nuit (Memories of a Night)",
+   "subtitle": "",
+   "year": "1911",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Luigi Russolo"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "Futurism"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 42.05,
+   "light": 0.2634,
+   "chroma": 0.5922
+  },
+  {
+   "id": "CRVI001693",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.2926,
+   "source_url": "https://www.artic.edu/iiif/2/2ffb82c0-6252-c97c-d2bc-be8e9987a218/full/843,/0/default.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001693.jpg",
+   "source_label": "",
+   "image": "images/CRVI001693.jpg",
+   "original": "originals/CRVI001693.jpg",
+   "vector": "",
+   "original_px": [
+    843,
+    1220
+   ],
+   "original_bytes": 298884,
+   "maker": "Filippo Tommaso Marinetti",
+   "title": "Les mots en liberté futuristes",
+   "subtitle": "Book",
+   "year": "1919",
+   "tags": [
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "designer",
+     "v": "Filippo Tommaso Marinetti"
+    },
+    {
+     "k": "subject",
+     "v": "Futurism"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 27.73,
+   "light": 0.6295,
+   "chroma": 0.8575
+  },
+  {
+   "id": "CRVI001694",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.3596,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Filippo_Tommaso_Marinetti_-_Parole_in_Liberta_1932_A.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001694.jpg",
+   "source_label": "",
+   "image": "images/CRVI001694.jpg",
+   "original": "originals/CRVI001694.jpg",
+   "vector": "",
+   "original_px": [
+    1870,
+    2000
+   ],
+   "original_bytes": 723739,
+   "maker": "Filippo Tommaso Marinetti",
+   "title": "Parole in libertà",
+   "subtitle": "",
+   "year": "1932",
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "designer",
+     "v": "Filippo Tommaso Marinetti"
+    },
+    {
+     "k": "subject",
+     "v": "Futurism"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "decade",
+     "v": "1930s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 21.24,
+   "light": 0.3635,
+   "chroma": 0.9656
+  },
+  {
+   "id": "CRVI001695",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.0997,
+   "source_url": "https://akirarabelais.com/wp-content/uploads/2022/09/Pannaggi-Treno-in-Corsa.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001695.jpg",
+   "source_label": "",
+   "image": "images/CRVI001695.jpg",
+   "original": "originals/CRVI001695.jpg",
+   "vector": "",
+   "original_px": [
+    1500,
+    1243
+   ],
+   "original_bytes": 599315,
+   "maker": "Ivo Pannaggi",
+   "title": "Treno in corsa",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Ivo Pannaggi"
+    },
+    {
+     "k": "subject",
+     "v": "Futurism"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 2.65,
+   "light": 0.2625,
+   "chroma": 0.3108
+  },
+  {
+   "id": "CRVI001696",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1424,
+   "source_url": "https://www.ilsuperuovo.it/wp-content/uploads/2023/02/326D67E0-7F98-4E2A-872B-594AA2BC3B63.jpeg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001696.jpg",
+   "source_label": "",
+   "image": "images/CRVI001696.jpg",
+   "original": "originals/CRVI001696.jpg",
+   "vector": "",
+   "original_px": [
+    1440,
+    800
+   ],
+   "original_bytes": 145591,
+   "maker": "Natalia Goncharova",
+   "title": "Cyclist",
+   "subtitle": "",
+   "year": "1913",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Natalia Goncharova"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "subject",
+     "v": "Futurism"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 37.27,
+   "light": 0.3536,
+   "chroma": 0.5422
+  },
+  {
+   "id": "CRVI001697",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.2107,
+   "source_url": "https://www.moma.org/media/W1siZiIsIjI5MTA4NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=638f93f7358bbbdb",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001697.jpg",
+   "source_label": "",
+   "image": "images/CRVI001697.jpg",
+   "original": "originals/CRVI001697.jpg",
+   "vector": "",
+   "original_px": [
+    1817,
+    2000
+   ],
+   "original_bytes": 1047300,
+   "maker": "Filippo Tommaso Marinetti",
+   "title": "Parole in libertà: Verbalisation dynamique de la route",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "designer",
+     "v": "Filippo Tommaso Marinetti"
+    },
+    {
+     "k": "subject",
+     "v": "Futurism"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 35.07,
+   "light": 0.6048,
+   "chroma": 0.8811
+  },
+  {
+   "id": "CRVI001698",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.335,
+   "source_url": "https://www.meisterdrucke.uk/kunstwerke/1260px/Filippo_Tommaso_Marinetti_-_Futurism_1932_-_(MeisterDrucke-771843).jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001698.jpg",
+   "source_label": "",
+   "image": "images/CRVI001698.jpg",
+   "original": "originals/CRVI001698.jpg",
+   "vector": "",
+   "original_px": [
+    1260,
+    938
+   ],
+   "original_bytes": 173786,
+   "maker": "Filippo Tommaso Marinetti",
+   "title": "Futurismo",
+   "subtitle": "Poster",
+   "year": "1932",
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "designer",
+     "v": "Filippo Tommaso Marinetti"
+    },
+    {
+     "k": "subject",
+     "v": "Futurism"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "decade",
+     "v": "1930s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 44.62,
+   "light": 0.6234,
+   "chroma": 1.0
+  },
+  {
+   "id": "CRVI001699",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.2178,
+   "source_url": "https://uploads5.wikiart.org/00178/images/benedetta/1923-motorboat-edit-1.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001699.jpg",
+   "source_label": "",
+   "image": "images/CRVI001699.jpg",
+   "original": "originals/CRVI001699.jpg",
+   "vector": "",
+   "original_px": [
+    1584,
+    1005
+   ],
+   "original_bytes": 2289786,
+   "maker": "Benedetta Cappa",
+   "title": "Motorboat",
+   "subtitle": "",
+   "year": "1923",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Benedetta Cappa"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "subject",
+     "v": "Futurism"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 212.16,
+   "light": 0.6392,
+   "chroma": 0.6935
+  },
+  {
+   "id": "CRVI001700",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.175,
+   "source_url": "https://uploads2.wikiart.org/00178/images/benedetta/1924-lights-edit-1.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001700.jpg",
+   "source_label": "",
+   "image": "images/CRVI001700.jpg",
+   "original": "originals/CRVI001700.jpg",
+   "vector": "",
+   "original_px": [
+    1584,
+    1050
+   ],
+   "original_bytes": 2609403,
+   "maker": "Benedetta Cappa",
+   "title": "Lights",
+   "subtitle": "",
+   "year": "1924",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Benedetta Cappa"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "subject",
+     "v": "Futurism"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 207.14,
+   "light": 0.4034,
+   "chroma": 0.5859
+  },
+  {
+   "id": "CRVI001701",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.085,
+   "source_url": "https://uploads1.wikiart.org/00179/images/benedetta/1931-grand-x-edit.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001701.jpg",
+   "source_label": "",
+   "image": "images/CRVI001701.jpg",
+   "original": "originals/CRVI001701.jpg",
+   "vector": "",
+   "original_px": [
+    1068,
+    1584
+   ],
+   "original_bytes": 2127328,
+   "maker": "Benedetta Cappa",
+   "title": "Grand X",
+   "subtitle": "",
+   "year": "1931",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Benedetta Cappa"
+    },
+    {
+     "k": "decade",
+     "v": "1930s"
+    },
+    {
+     "k": "subject",
+     "v": "Futurism"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 32.93,
+   "light": 0.7063,
+   "chroma": 0.4998
+  },
+  {
+   "id": "CRVI001702",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1124,
+   "source_url": "https://uploads0.wikiart.org/00179/images/benedetta/1930-ironia-edit.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001702.jpg",
+   "source_label": "",
+   "image": "images/CRVI001702.jpg",
+   "original": "originals/CRVI001702.jpg",
+   "vector": "",
+   "original_px": [
+    1060,
+    1584
+   ],
+   "original_bytes": 3049002,
+   "maker": "Benedetta Cappa",
+   "title": "Ironia",
+   "subtitle": "",
+   "year": "1930",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Benedetta Cappa"
+    },
+    {
+     "k": "decade",
+     "v": "1930s"
+    },
+    {
+     "k": "subject",
+     "v": "Futurism"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 24.78,
+   "light": 0.7007,
+   "chroma": 0.6445
+  },
+  {
+   "id": "CRVI001703",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1012,
+   "source_url": "https://uploads6.wikiart.org/images/mario-sironi/the-lamp-1919.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001703.jpg",
+   "source_label": "",
+   "image": "images/CRVI001703.jpg",
+   "original": "originals/CRVI001703.jpg",
+   "vector": "",
+   "original_px": [
+    945,
+    1322
+   ],
+   "original_bytes": 308803,
+   "maker": "Mario Sironi",
+   "title": "The Lamp",
+   "subtitle": "",
+   "year": "1919",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Mario Sironi"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "Futurism"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 152.18,
+   "light": 0.2784,
+   "chroma": 0.6842
+  },
+  {
+   "id": "CRVI001704",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.0625,
+   "source_url": "https://uploads7.wikiart.org/images/wassily-kandinsky/couple-riding-1906.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001704.jpg",
+   "source_label": "",
+   "image": "images/CRVI001704.jpg",
+   "original": "originals/CRVI001704.jpg",
+   "vector": "",
+   "original_px": [
+    1063,
+    1140
+   ],
+   "original_bytes": 528129,
+   "maker": "Wassily Kandinsky",
+   "title": "Couple Riding",
+   "subtitle": "",
+   "year": "1906",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Wassily Kandinsky"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "subject",
+     "v": "Der Blaue Reiter"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 206.21,
+   "light": 0.4176,
+   "chroma": 0.1535
+  },
+  {
+   "id": "CRVI001705",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1909,
+   "source_url": "https://www.artic.edu/iiif/2/6829aab0-8d0e-9438-aebf-a1a379572951/full/843,/0/default.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001705.jpg",
+   "source_label": "",
+   "image": "images/CRVI001705.jpg",
+   "original": "originals/CRVI001705.jpg",
+   "vector": "",
+   "original_px": [
+    843,
+    1220
+   ],
+   "original_bytes": 412250,
+   "maker": "Franz Marc",
+   "title": "The Bewitched Mill",
+   "subtitle": "",
+   "year": "1913",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Franz Marc"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "Der Blaue Reiter"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 6.58,
+   "light": 0.4952,
+   "chroma": 0.5813
+  },
+  {
+   "id": "CRVI001706",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.3826,
+   "source_url": "https://uploads1.wikiart.org/images/franz-marc/sheaf-of-grain-1907.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001706.jpg",
+   "source_label": "",
+   "image": "images/CRVI001706.jpg",
+   "original": "originals/CRVI001706.jpg",
+   "vector": "",
+   "original_px": [
+    822,
+    1118
+   ],
+   "original_bytes": 240381,
+   "maker": "Franz Marc",
+   "title": "Sheaf of Grain",
+   "subtitle": "",
+   "year": "1907",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Franz Marc"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "subject",
+     "v": "Der Blaue Reiter"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 51.56,
+   "light": 0.5668,
+   "chroma": 0.8668
+  },
+  {
+   "id": "CRVI001707",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.4865,
+   "source_url": "https://uploads5.wikiart.org/images/august-macke/tree-in-the-cornfield.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001707.jpg",
+   "source_label": "",
+   "image": "images/CRVI001707.jpg",
+   "original": "originals/CRVI001707.jpg",
+   "vector": "",
+   "original_px": [
+    2536,
+    2086
+   ],
+   "original_bytes": 484678,
+   "maker": "August Macke",
+   "title": "Tree in the Cornfield",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "August Macke"
+    },
+    {
+     "k": "subject",
+     "v": "Der Blaue Reiter"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 42.14,
+   "light": 0.5064,
+   "chroma": 0.8545
+  },
+  {
+   "id": "CRVI001708",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1856,
+   "source_url": "https://uploads4.wikiart.org/images/august-macke/anglers-on-the-rhine.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001708.jpg",
+   "source_label": "",
+   "image": "images/CRVI001708.jpg",
+   "original": "originals/CRVI001708.jpg",
+   "vector": "",
+   "original_px": [
+    2536,
+    2065
+   ],
+   "original_bytes": 488957,
+   "maker": "August Macke",
+   "title": "Anglers on the Rhine",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "August Macke"
+    },
+    {
+     "k": "subject",
+     "v": "Der Blaue Reiter"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 77.87,
+   "light": 0.4876,
+   "chroma": 0.9503
+  },
+  {
+   "id": "CRVI001709",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.3171,
+   "source_url": "https://www.artic.edu/iiif/2/d5ed2404-ea30-d3ed-283a-f6e6d27f169d/full/843,/0/default.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001709.jpg",
+   "source_label": "",
+   "image": "images/CRVI001709.jpg",
+   "original": "originals/CRVI001709.jpg",
+   "vector": "",
+   "original_px": [
+    843,
+    903
+   ],
+   "original_bytes": 286234,
+   "maker": "Alexej von Jawlensky",
+   "title": "Girl with the Green Face",
+   "subtitle": "",
+   "year": "1910",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Alexej von Jawlensky"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "Der Blaue Reiter"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 4.68,
+   "light": 0.2765,
+   "chroma": 0.9112
+  },
+  {
+   "id": "CRVI001710",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.2872,
+   "source_url": "https://uploads1.wikiart.org/images/alexej-von-jawlensky/portrait-of-alexander-sakharoff-1909.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001710.jpg",
+   "source_label": "",
+   "image": "images/CRVI001710.jpg",
+   "original": "originals/CRVI001710.jpg",
+   "vector": "",
+   "original_px": [
+    979,
+    1024
+   ],
+   "original_bytes": 314700,
+   "maker": "Alexej von Jawlensky",
+   "title": "Portrait of Alexander Sakharoff",
+   "subtitle": "",
+   "year": "1909",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Alexej von Jawlensky"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "subject",
+     "v": "Der Blaue Reiter"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 14.86,
+   "light": 0.5077,
+   "chroma": 0.7497
+  },
+  {
+   "id": "CRVI001711",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.3948,
+   "source_url": "https://uploads1.wikiart.org/images/alexej-von-jawlensky/the-hunchback-1905.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001711.jpg",
+   "source_label": "",
+   "image": "images/CRVI001711.jpg",
+   "original": "originals/CRVI001711.jpg",
+   "vector": "",
+   "original_px": [
+    978,
+    1024
+   ],
+   "original_bytes": 333383,
+   "maker": "Alexej von Jawlensky",
+   "title": "The Hunchback",
+   "subtitle": "",
+   "year": "1905",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Alexej von Jawlensky"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "subject",
+     "v": "Der Blaue Reiter"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 214.32,
+   "light": 0.3839,
+   "chroma": 0.9345
+  },
+  {
+   "id": "CRVI001712",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.3448,
+   "source_url": "https://uploads1.wikiart.org/images/alexej-von-jawlensky/blaue-vase-mit-orangen-1908.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001712.jpg",
+   "source_label": "",
+   "image": "images/CRVI001712.jpg",
+   "original": "originals/CRVI001712.jpg",
+   "vector": "",
+   "original_px": [
+    1267,
+    1024
+   ],
+   "original_bytes": 344865,
+   "maker": "Alexej von Jawlensky",
+   "title": "Blaue Vase mit Orangen",
+   "subtitle": "",
+   "year": "1908",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Alexej von Jawlensky"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "subject",
+     "v": "Der Blaue Reiter"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 338.98,
+   "light": 0.404,
+   "chroma": 0.9416
+  },
+  {
+   "id": "CRVI001713",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.2491,
+   "source_url": "https://uploads7.wikiart.org/images/alexej-von-jawlensky/bretonische-b-uerin-1905.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001713.jpg",
+   "source_label": "",
+   "image": "images/CRVI001713.jpg",
+   "original": "originals/CRVI001713.jpg",
+   "vector": "",
+   "original_px": [
+    1092,
+    1024
+   ],
+   "original_bytes": 325520,
+   "maker": "Alexej von Jawlensky",
+   "title": "Bretonische Bäuerin",
+   "subtitle": "",
+   "year": "1905",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Alexej von Jawlensky"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "subject",
+     "v": "Der Blaue Reiter"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 6.17,
+   "light": 0.3612,
+   "chroma": 0.7661
+  },
+  {
+   "id": "CRVI001714",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.2799,
+   "source_url": "https://uploads4.wikiart.org/images/heinrich-campendonk/bucolic-landscape-1913.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001714.jpg",
+   "source_label": "",
+   "image": "images/CRVI001714.jpg",
+   "original": "originals/CRVI001714.jpg",
+   "vector": "",
+   "original_px": [
+    1365,
+    1600
+   ],
+   "original_bytes": 444185,
+   "maker": "Heinrich Campendonk",
+   "title": "Bucolic Landscape",
+   "subtitle": "",
+   "year": "1913",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Heinrich Campendonk"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "Der Blaue Reiter"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 15.74,
+   "light": 0.398,
+   "chroma": 0.6555
+  },
+  {
+   "id": "CRVI001715",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.2972,
+   "source_url": "https://uploads4.wikiart.org/images/heinrich-campendonk/stillleben-mit-zwei-k-pfen-1914.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001715.jpg",
+   "source_label": "",
+   "image": "images/CRVI001715.jpg",
+   "original": "originals/CRVI001715.jpg",
+   "vector": "",
+   "original_px": [
+    881,
+    1024
+   ],
+   "original_bytes": 282437,
+   "maker": "Heinrich Campendonk",
+   "title": "Stillleben mit zwei Köpfen",
+   "subtitle": "",
+   "year": "1914",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Heinrich Campendonk"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "Der Blaue Reiter"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 24.46,
+   "light": 0.4586,
+   "chroma": 0.7718
+  },
+  {
+   "id": "CRVI001716",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.3007,
+   "source_url": "https://uploads7.wikiart.org/images/heinrich-campendonk/stillleben-mit-fisch-1916.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001716.jpg",
+   "source_label": "",
+   "image": "images/CRVI001716.jpg",
+   "original": "originals/CRVI001716.jpg",
+   "vector": "",
+   "original_px": [
+    1110,
+    1000
+   ],
+   "original_bytes": 236814,
+   "maker": "Heinrich Campendonk",
+   "title": "Stillleben mit Fisch",
+   "subtitle": "",
+   "year": "1916",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Heinrich Campendonk"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "Der Blaue Reiter"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 34.01,
+   "light": 0.4775,
+   "chroma": 0.9022
+  },
+  {
+   "id": "CRVI001717",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1754,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/60/Prof_Wayupski_Bloch.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001717.jpg",
+   "source_label": "",
+   "image": "images/CRVI001717.jpg",
+   "original": "originals/CRVI001717.jpg",
+   "vector": "",
+   "original_px": [
+    1184,
+    1600
+   ],
+   "original_bytes": 845198,
+   "maker": "Albert Bloch",
+   "title": "Prof. Wayupski's Aerial Stunts",
+   "subtitle": "Comic strip",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Albert Bloch"
+    },
+    {
+     "k": "illustrator",
+     "v": "Albert Bloch"
+    },
+    {
+     "k": "subject",
+     "v": "illustration"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 43.97,
+   "light": 0.6547,
+   "chroma": 0.5589
+  },
+  {
+   "id": "CRVI001718",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1641,
+   "source_url": "https://uploads7.wikiart.org/00328/images/robert-delaunay/robert-delaunay-c-1906-paysage-au-disque-solaire-oil-on-canvas-54-x-46-cm-mus-e-national-d-art.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001718.jpg",
+   "source_label": "",
+   "image": "images/CRVI001718.jpg",
+   "original": "originals/CRVI001718.jpg",
+   "vector": "",
+   "original_px": [
+    2948,
+    3241
+   ],
+   "original_bytes": 6227847,
+   "maker": "Robert Delaunay",
+   "title": "Paysage au disque solaire",
+   "subtitle": "",
+   "year": "c. 1906",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Robert Delaunay"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "subject",
+     "v": "Orphism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    },
+    {
+     "k": "color",
+     "v": "purple"
+    }
+   ],
+   "hue": 347.77,
+   "light": 0.488,
+   "chroma": 0.6294
+  },
+  {
+   "id": "CRVI001719",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1639,
+   "source_url": "https://www.artic.edu/iiif/2/684d3f48-2352-f2d5-ed3c-0f7867853c3f/full/843,/0/default.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001719.jpg",
+   "source_label": "",
+   "image": "images/CRVI001719.jpg",
+   "original": "originals/CRVI001719.jpg",
+   "vector": "",
+   "original_px": [
+    843,
+    1648
+   ],
+   "original_bytes": 552819,
+   "maker": "Sonia Delaunay",
+   "title": "Jazz",
+   "subtitle": "Dress or furnishing fabric",
+   "year": "1977 (designed 1920)",
+   "tags": [
+    {
+     "k": "type",
+     "v": "textile"
+    },
+    {
+     "k": "designer",
+     "v": "Sonia Delaunay"
+    },
+    {
+     "k": "artist",
+     "v": "Sonia Delaunay"
+    },
+    {
+     "k": "subject",
+     "v": "Orphism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 354.69,
+   "light": 0.4773,
+   "chroma": 0.4037
+  },
+  {
+   "id": "CRVI001720",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1636,
+   "source_url": "https://uploads3.wikiart.org/00455/images/sonia-delaunay/1916flamenco-singers-known-as-large-flamenco-1915-16.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001720.jpg",
+   "source_label": "",
+   "image": "images/CRVI001720.jpg",
+   "original": "originals/CRVI001720.jpg",
+   "vector": "",
+   "original_px": [
+    1200,
+    1464
+   ],
+   "original_bytes": 743039,
+   "maker": "Sonia Delaunay",
+   "title": "Flamenco Singers (Large Flamenco)",
+   "subtitle": "",
+   "year": "1915–16",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Sonia Delaunay"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "Orphism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 15.18,
+   "light": 0.4185,
+   "chroma": 0.5446
+  },
+  {
+   "id": "CRVI001721",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.0495,
+   "source_url": "https://uploads8.wikiart.org/images/sonia-delaunay/fashion-illustration-5.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001721.jpg",
+   "source_label": "",
+   "image": "images/CRVI001721.jpg",
+   "original": "originals/CRVI001721.jpg",
+   "vector": "",
+   "original_px": [
+    1550,
+    2200
+   ],
+   "original_bytes": 427484,
+   "maker": "Sonia Delaunay",
+   "title": "Fashion illustration",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "designer",
+     "v": "Sonia Delaunay"
+    },
+    {
+     "k": "artist",
+     "v": "Sonia Delaunay"
+    },
+    {
+     "k": "subject",
+     "v": "Orphism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "white"
+    }
+   ],
+   "hue": 42.4,
+   "light": 0.9234,
+   "chroma": 0.1504
+  },
+  {
+   "id": "CRVI001722",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.5619,
+   "source_url": "https://uploads2.wikiart.org/00427/images/frantisek-kupka/frantisekkupkaselfportrait.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001722.jpg",
+   "source_label": "",
+   "image": "images/CRVI001722.jpg",
+   "original": "originals/CRVI001722.jpg",
+   "vector": "",
+   "original_px": [
+    1800,
+    1888
+   ],
+   "original_bytes": 878236,
+   "maker": "František Kupka",
+   "title": "Self-Portrait",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "František Kupka"
+    },
+    {
+     "k": "subject",
+     "v": "Orphism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 41.95,
+   "light": 0.5519,
+   "chroma": 0.9846
+  },
+  {
+   "id": "CRVI001723",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1076,
+   "source_url": "https://uploads6.wikiart.org/images/frantisek-kupka/self-portrait-with-wife-1908.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001723.jpg",
+   "source_label": "",
+   "image": "images/CRVI001723.jpg",
+   "original": "originals/CRVI001723.jpg",
+   "vector": "",
+   "original_px": [
+    1584,
+    1435
+   ],
+   "original_bytes": 1136725,
+   "maker": "František Kupka",
+   "title": "Self-Portrait with Wife",
+   "subtitle": "",
+   "year": "1908",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "František Kupka"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "subject",
+     "v": "Orphism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 42.1,
+   "light": 0.4494,
+   "chroma": 0.2517
+  },
+  {
+   "id": "CRVI001724",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1108,
+   "source_url": "https://uploads0.wikiart.org/images/frantisek-kupka/autumn-sun-three-goddesses-1906.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001724.jpg",
+   "source_label": "",
+   "image": "images/CRVI001724.jpg",
+   "original": "originals/CRVI001724.jpg",
+   "vector": "",
+   "original_px": [
+    1702,
+    1514
+   ],
+   "original_bytes": 895529,
+   "maker": "František Kupka",
+   "title": "Autumn Sun — Three Goddesses",
+   "subtitle": "",
+   "year": "1906",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "František Kupka"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "subject",
+     "v": "Orphism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 25.08,
+   "light": 0.3042,
+   "chroma": 0.309
+  },
+  {
+   "id": "CRVI001725",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.2771,
+   "source_url": "https://uploads5.wikiart.org/images/frantisek-kupka/disks-of-newton-study-for-fugue-in-two-colors.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001725.jpg",
+   "source_label": "",
+   "image": "images/CRVI001725.jpg",
+   "original": "originals/CRVI001725.jpg",
+   "vector": "",
+   "original_px": [
+    1522,
+    2090
+   ],
+   "original_bytes": 1116058,
+   "maker": "František Kupka",
+   "title": "Disks of Newton (Study for Fugue in Two Colors)",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "František Kupka"
+    },
+    {
+     "k": "subject",
+     "v": "Orphism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 354.03,
+   "light": 0.4636,
+   "chroma": 0.7253
+  },
+  {
+   "id": "CRVI001726",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1078,
+   "source_url": "https://www.artic.edu/iiif/2/567b2141-2556-c195-01fe-b47c6d1a63dc/full/843,/0/default.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001726.jpg",
+   "source_label": "",
+   "image": "images/CRVI001726.jpg",
+   "original": "originals/CRVI001726.jpg",
+   "vector": "",
+   "original_px": [
+    843,
+    1357
+   ],
+   "original_bytes": 600312,
+   "maker": "František Kupka",
+   "title": "Reminiscence of a Cathedral",
+   "subtitle": "",
+   "year": "1920/23",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "František Kupka"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "subject",
+     "v": "Orphism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 27.39,
+   "light": 0.3732,
+   "chroma": 0.4029
+  },
+  {
+   "id": "CRVI001727",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1618,
+   "source_url": "https://uploads8.wikiart.org/images/frantisek-kupka/babylon-1906.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001727.jpg",
+   "source_label": "",
+   "image": "images/CRVI001727.jpg",
+   "original": "originals/CRVI001727.jpg",
+   "vector": "",
+   "original_px": [
+    1705,
+    1120
+   ],
+   "original_bytes": 1090487,
+   "maker": "František Kupka",
+   "title": "Babylon",
+   "subtitle": "",
+   "year": "1906",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "František Kupka"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "subject",
+     "v": "Orphism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 155.47,
+   "light": 0.4467,
+   "chroma": 0.7678
+  },
+  {
+   "id": "CRVI001728",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1518,
+   "source_url": "https://uploads6.wikiart.org/images/patrick-henry-bruce/still-life-1924.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001728.jpg",
+   "source_label": "",
+   "image": "images/CRVI001728.jpg",
+   "original": "originals/CRVI001728.jpg",
+   "vector": "",
+   "original_px": [
+    1500,
+    1186
+   ],
+   "original_bytes": 1003264,
+   "maker": "Patrick Henry Bruce",
+   "title": "Still Life",
+   "subtitle": "",
+   "year": "1924",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Patrick Henry Bruce"
+    },
+    {
+     "k": "subject",
+     "v": "Orphism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    }
+   ],
+   "hue": 226.22,
+   "light": 0.4865,
+   "chroma": 0.6916
+  },
+  {
+   "id": "CRVI001729",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.3865,
+   "source_url": "https://peytonwright.com/wp-content/uploads/2014/01/smwc0034_still_life_with_red_vase-UF.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001729.jpg",
+   "source_label": "",
+   "image": "images/CRVI001729.jpg",
+   "original": "originals/CRVI001729.jpg",
+   "vector": "",
+   "original_px": [
+    953,
+    1139
+   ],
+   "original_bytes": 710236,
+   "maker": "Stanton Macdonald-Wright",
+   "title": "Still Life with Red Vase Synchromy",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Stanton Macdonald-Wright"
+    },
+    {
+     "k": "subject",
+     "v": "Synchromism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 45.73,
+   "light": 0.6503,
+   "chroma": 0.923
+  },
+  {
+   "id": "CRVI001730",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.0845,
+   "source_url": "https://uploads5.wikiart.org/images/arthur-dove/foghorns-1929.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001730.jpg",
+   "source_label": "",
+   "image": "images/CRVI001730.jpg",
+   "original": "originals/CRVI001730.jpg",
+   "vector": "",
+   "original_px": [
+    1500,
+    1025
+   ],
+   "original_bytes": 319737,
+   "maker": "Arthur Dove",
+   "title": "Foghorns",
+   "subtitle": "",
+   "year": "1929",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Arthur Dove"
+    },
+    {
+     "k": "subject",
+     "v": "Orphism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 36.29,
+   "light": 0.5836,
+   "chroma": 0.3672
+  },
+  {
+   "id": "CRVI001731",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.2819,
+   "source_url": "https://uploads0.wikiart.org/images/arthur-dove/sun-1943.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001731.jpg",
+   "source_label": "",
+   "image": "images/CRVI001731.jpg",
+   "original": "originals/CRVI001731.jpg",
+   "vector": "",
+   "original_px": [
+    1280,
+    947
+   ],
+   "original_bytes": 320620,
+   "maker": "Arthur Dove",
+   "title": "Sun",
+   "subtitle": "",
+   "year": "1943",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Arthur Dove"
+    },
+    {
+     "k": "subject",
+     "v": "Orphism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 47.26,
+   "light": 0.3989,
+   "chroma": 0.7825
+  },
+  {
+   "id": "CRVI001732",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.143,
+   "source_url": "https://uploads5.wikiart.org/00124/images/mikhail-larionov/still-life-with-lobster-1907.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001732.jpg",
+   "source_label": "",
+   "image": "images/CRVI001732.jpg",
+   "original": "originals/CRVI001732.jpg",
+   "vector": "",
+   "original_px": [
+    1200,
+    1008
+   ],
+   "original_bytes": 813660,
+   "maker": "Mikhail Larionov",
+   "title": "Still Life with Lobster",
+   "subtitle": "",
+   "year": "1907",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Mikhail Larionov"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "subject",
+     "v": "Rayonism"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 28.16,
+   "light": 0.5131,
+   "chroma": 0.4224
+  },
+  {
+   "id": "CRVI001733",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.4228,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Cats_%28rayist_percep._in_rose%2C_black%2C_and_yellow%29_%28Goncharova%2C_1913%29.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001733.jpg",
+   "source_label": "",
+   "image": "images/CRVI001733.jpg",
+   "original": "originals/CRVI001733.jpg",
+   "vector": "",
+   "original_px": [
+    3864,
+    3892
+   ],
+   "original_bytes": 6898004,
+   "maker": "Natalia Goncharova",
+   "title": "Cats (Rayist Perception in Rose, Black and Yellow)",
+   "subtitle": "",
+   "year": "1913",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Natalia Goncharova"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "Rayonism"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 42.5,
+   "light": 0.3747,
+   "chroma": 0.7525
+  },
+  {
+   "id": "CRVI001734",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1327,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Natalia_Goncharova_Linen.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001734.jpg",
+   "source_label": "",
+   "image": "images/CRVI001734.jpg",
+   "original": "originals/CRVI001734.jpg",
+   "vector": "",
+   "original_px": [
+    3813,
+    4260
+   ],
+   "original_bytes": 10241896,
+   "maker": "Natalia Goncharova",
+   "title": "Linen",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Natalia Goncharova"
+    },
+    {
+     "k": "subject",
+     "v": "Rayonism"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 212.85,
+   "light": 0.5664,
+   "chroma": 0.5232
+  },
+  {
+   "id": "CRVI001735",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.2146,
+   "source_url": "https://www.magnoliabox.com/cdn/shop/products/2597263_1024x1024.jpg?v=1565010492",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001735.jpg",
+   "source_label": "",
+   "image": "images/CRVI001735.jpg",
+   "original": "originals/CRVI001735.jpg",
+   "vector": "",
+   "original_px": [
+    819,
+    1024
+   ],
+   "original_bytes": 212361,
+   "maker": "Unidentified",
+   "title": "Rayonist composition",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "subject",
+     "v": "Rayonism"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 34.69,
+   "light": 0.4574,
+   "chroma": 0.6182
+  },
+  {
+   "id": "CRVI001736",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.2668,
+   "source_url": "https://media.mutualart.com/Images/2025_07/23/10/100753102/mikhail-larionov-le-paon-QCFK2.Jpeg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001736.jpg",
+   "source_label": "",
+   "image": "images/CRVI001736.jpg",
+   "original": "originals/CRVI001736.jpg",
+   "vector": "",
+   "original_px": [
+    2560,
+    4142
+   ],
+   "original_bytes": 2045315,
+   "maker": "Mikhail Larionov",
+   "title": "Le Paon",
+   "subtitle": "Costume design",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Mikhail Larionov"
+    },
+    {
+     "k": "subject",
+     "v": "Rayonism"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 39.58,
+   "light": 0.7026,
+   "chroma": 0.9775
+  },
+  {
+   "id": "CRVI001737",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.3282,
+   "source_url": "https://baiagallery.com/en/wp-content/uploads/Kirill_Zdanevich_24.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001737.jpg",
+   "source_label": "",
+   "image": "images/CRVI001737.jpg",
+   "original": "originals/CRVI001737.jpg",
+   "vector": "",
+   "original_px": [
+    1600,
+    1114
+   ],
+   "original_bytes": 511706,
+   "maker": "Kirill Zdanevich",
+   "title": "Composition with bottle and figures",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Kirill Zdanevich"
+    },
+    {
+     "k": "subject",
+     "v": "Rayonism"
+    },
+    {
+     "k": "location",
+     "v": "Georgia"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 32.33,
+   "light": 0.3924,
+   "chroma": 0.83
+  },
+  {
+   "id": "CRVI001738",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.0907,
+   "source_url": "https://www.geometricae.com/wp-content/uploads/2022/04/Kirill-Zdanevich.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001738.jpg",
+   "source_label": "",
+   "image": "images/CRVI001738.jpg",
+   "original": "originals/CRVI001738.jpg",
+   "vector": "",
+   "original_px": [
+    1400,
+    1780
+   ],
+   "original_bytes": 1976935,
+   "maker": "Kirill Zdanevich",
+   "title": "Composition with Cyrillic lettering",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Kirill Zdanevich"
+    },
+    {
+     "k": "subject",
+     "v": "Rayonism"
+    },
+    {
+     "k": "location",
+     "v": "Georgia"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 20.72,
+   "light": 0.4078,
+   "chroma": 0.2204
+  },
+  {
+   "id": "CRVI001739",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1601,
+   "source_url": "https://macdougallauction.com/image/asset/large/5f31ec4f60291.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001739.jpg",
+   "source_label": "",
+   "image": "images/CRVI001739.jpg",
+   "original": "originals/CRVI001739.jpg",
+   "vector": "",
+   "original_px": [
+    920,
+    1400
+   ],
+   "original_bytes": 174569,
+   "maker": "Ksenia Boguslavskaya",
+   "title": "Costume design: dress of Tver women",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Ksenia Boguslavskaya"
+    },
+    {
+     "k": "medium",
+     "v": "watercolour"
+    },
+    {
+     "k": "subject",
+     "v": "Suprematism"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 34.1,
+   "light": 0.7155,
+   "chroma": 0.8754
+  },
+  {
+   "id": "CRVI001740",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1431,
+   "source_url": "https://uploads1.wikiart.org/images/david-bomberg/in-the-hold-1914.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001740.jpg",
+   "source_label": "",
+   "image": "images/CRVI001740.jpg",
+   "original": "originals/CRVI001740.jpg",
+   "vector": "",
+   "original_px": [
+    1536,
+    1309
+   ],
+   "original_bytes": 244426,
+   "maker": "David Bomberg",
+   "title": "In the Hold",
+   "subtitle": "",
+   "year": "1914",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "artist",
+     "v": "David Bomberg"
+    },
+    {
+     "k": "subject",
+     "v": "Vorticism"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 16.99,
+   "light": 0.3448,
+   "chroma": 0.4615
+  },
+  {
+   "id": "CRVI001741",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1469,
+   "source_url": "https://uploads5.wikiart.org/images/david-bomberg/barges-1919.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001741.jpg",
+   "source_label": "",
+   "image": "images/CRVI001741.jpg",
+   "original": "originals/CRVI001741.jpg",
+   "vector": "",
+   "original_px": [
+    1138,
+    852
+   ],
+   "original_bytes": 219811,
+   "maker": "David Bomberg",
+   "title": "Barges",
+   "subtitle": "",
+   "year": "1919",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "artist",
+     "v": "David Bomberg"
+    },
+    {
+     "k": "subject",
+     "v": "Vorticism"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 207.22,
+   "light": 0.3494,
+   "chroma": 0.7181
   }
  ]
 }
