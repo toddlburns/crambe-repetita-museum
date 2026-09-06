@@ -101668,6 +101668,1134 @@
    "hue": 36.87,
    "light": 0.4025,
    "chroma": 0.5004
+  },
+  {
+   "id": "CRVI001925",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.0176,
+   "source_url": "https://www.artic.edu/iiif/2/211ad926-a23c-4041-2e5a-375069c5540c/full/843,/0/default.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001925.jpg",
+   "source_label": "",
+   "image": "images/CRVI001925.jpg",
+   "original": "originals/CRVI001925.jpg",
+   "vector": "",
+   "original_px": [
+    843,
+    887
+   ],
+   "original_bytes": 174704,
+   "maker": "Anselm Kiefer",
+   "title": "20 Years of Solitude",
+   "subtitle": "",
+   "year": "1993",
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Anselm Kiefer"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "subject",
+     "v": "Neo-Expressionism"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": null,
+   "light": 0.6876,
+   "chroma": 0.0194
+  },
+  {
+   "id": "CRVI001926",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.0965,
+   "source_url": "https://uploads4.wikiart.org/00225/images/anselm-kiefer/winter-landscape-1970.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001926.jpg",
+   "source_label": "",
+   "image": "images/CRVI001926.jpg",
+   "original": "originals/CRVI001926.jpg",
+   "vector": "",
+   "original_px": [
+    1200,
+    1434
+   ],
+   "original_bytes": 559377,
+   "maker": "Anselm Kiefer",
+   "title": "Winter Landscape",
+   "subtitle": "",
+   "year": "1970",
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Anselm Kiefer"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "subject",
+     "v": "Neo-Expressionism"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 37.65,
+   "light": 0.6582,
+   "chroma": 0.5178
+  },
+  {
+   "id": "CRVI001927",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.18,
+   "source_url": "https://uploads0.wikiart.org/00225/images/anselm-kiefer/parsifal-iii-1973.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001927.jpg",
+   "source_label": "",
+   "image": "images/CRVI001927.jpg",
+   "original": "originals/CRVI001927.jpg",
+   "vector": "",
+   "original_px": [
+    1536,
+    1077
+   ],
+   "original_bytes": 410797,
+   "maker": "Anselm Kiefer",
+   "title": "Parsifal III",
+   "subtitle": "",
+   "year": "1973",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Anselm Kiefer"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "subject",
+     "v": "Neo-Expressionism"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 31.49,
+   "light": 0.3222,
+   "chroma": 0.6702
+  },
+  {
+   "id": "CRVI001928",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.0795,
+   "source_url": "https://uploads7.wikiart.org/00225/images/anselm-kiefer/urd-verdandi-skuld-the-norns-1983.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001928.jpg",
+   "source_label": "",
+   "image": "images/CRVI001928.jpg",
+   "original": "originals/CRVI001928.jpg",
+   "vector": "",
+   "original_px": [
+    1042,
+    1536
+   ],
+   "original_bytes": 456538,
+   "maker": "Anselm Kiefer",
+   "title": "Urd, Verdandi, Skuld (The Norns)",
+   "subtitle": "",
+   "year": "1983",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Anselm Kiefer"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "subject",
+     "v": "Neo-Expressionism"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 33.75,
+   "light": 0.3441,
+   "chroma": 0.2519
+  },
+  {
+   "id": "CRVI001929",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.0682,
+   "source_url": "https://uploads5.wikiart.org/00225/images/anselm-kiefer/interior-1981.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001929.jpg",
+   "source_label": "",
+   "image": "images/CRVI001929.jpg",
+   "original": "originals/CRVI001929.jpg",
+   "vector": "",
+   "original_px": [
+    1145,
+    1064
+   ],
+   "original_bytes": 676753,
+   "maker": "Anselm Kiefer",
+   "title": "Interior",
+   "subtitle": "",
+   "year": "1981",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Anselm Kiefer"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "subject",
+     "v": "Neo-Expressionism"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 37.52,
+   "light": 0.3364,
+   "chroma": 0.2323
+  },
+  {
+   "id": "CRVI001930",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1426,
+   "source_url": "https://www.artic.edu/iiif/2/08c08840-0299-48a8-d572-6cea637e531e/full/843,/0/default.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001930.jpg",
+   "source_label": "",
+   "image": "images/CRVI001930.jpg",
+   "original": "originals/CRVI001930.jpg",
+   "vector": "",
+   "original_px": [
+    843,
+    1093
+   ],
+   "original_bytes": 280061,
+   "maker": "Georg Baselitz",
+   "title": "Woodman (Waldarbeiter)",
+   "subtitle": "",
+   "year": "1969",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Georg Baselitz"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "subject",
+     "v": "Neo-Expressionism"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 25.03,
+   "light": 0.4424,
+   "chroma": 0.5121
+  },
+  {
+   "id": "CRVI001931",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.253,
+   "source_url": "https://www.museumtv.art/wp-content/uploads/2021/08/art-in-progress-s1-e13-julian-schnabel612626a9a3273.jpeg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001931.jpg",
+   "source_label": "",
+   "image": "images/CRVI001931.jpg",
+   "original": "originals/CRVI001931.jpg",
+   "vector": "",
+   "original_px": [
+    1920,
+    1080
+   ],
+   "original_bytes": 721295,
+   "maker": "Julian Schnabel",
+   "title": "Plate painting",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Julian Schnabel"
+    },
+    {
+     "k": "subject",
+     "v": "Neo-Expressionism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 9.77,
+   "light": 0.4709,
+   "chroma": 0.8217
+  },
+  {
+   "id": "CRVI001932",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.4324,
+   "source_url": "https://rubinmuseum.org/wp-content/uploads/exhibitions/francesco-clemente/Francisco-Clemente.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001932.jpg",
+   "source_label": "",
+   "image": "images/CRVI001932.jpg",
+   "original": "originals/CRVI001932.jpg",
+   "vector": "",
+   "original_px": [
+    3249,
+    3376
+   ],
+   "original_bytes": 2860454,
+   "maker": "Francesco Clemente",
+   "title": "Hand with a map",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Francesco Clemente"
+    },
+    {
+     "k": "subject",
+     "v": "Neo-Expressionism"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 196.13,
+   "light": 0.5704,
+   "chroma": 0.8575
+  },
+  {
+   "id": "CRVI001933",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.4916,
+   "source_url": "https://ira.usf.edu/GS/artists/chia_sandro/images/Chia-SurprisingNovel-ChapterFour.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001933.jpg",
+   "source_label": "",
+   "image": "images/CRVI001933.jpg",
+   "original": "originals/CRVI001933.jpg",
+   "vector": "",
+   "original_px": [
+    1767,
+    2000
+   ],
+   "original_bytes": 465705,
+   "maker": "Sandro Chia",
+   "title": "Surprising Novel, Chapter Four",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Sandro Chia"
+    },
+    {
+     "k": "subject",
+     "v": "Neo-Expressionism"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 35.35,
+   "light": 0.499,
+   "chroma": 0.8515
+  },
+  {
+   "id": "CRVI001934",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.081,
+   "source_url": "https://uploads6.wikiart.org/00423/images/damien-hirst/damien-hirst-god-alone-knows-2007-sculpture-artwork.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001934.jpg",
+   "source_label": "",
+   "image": "images/CRVI001934.jpg",
+   "original": "originals/CRVI001934.jpg",
+   "vector": "",
+   "original_px": [
+    1200,
+    969
+   ],
+   "original_bytes": 136435,
+   "maker": "Damien Hirst",
+   "title": "God Alone Knows",
+   "subtitle": "",
+   "year": "2007",
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Damien Hirst"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    },
+    {
+     "k": "subject",
+     "v": "Young British Artists"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 188.52,
+   "light": 0.6364,
+   "chroma": 0.1898
+  },
+  {
+   "id": "CRVI001935",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1398,
+   "source_url": "https://i.pinimg.com/originals/7e/5d/8b/7e5d8bf50e2149006abd70f006f96096.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001935.jpg",
+   "source_label": "",
+   "image": "images/CRVI001935.jpg",
+   "original": "originals/CRVI001935.jpg",
+   "vector": "",
+   "original_px": [
+    1440,
+    1923
+   ],
+   "original_bytes": 262187,
+   "maker": "Unidentified",
+   "title": "Stuffed forms on a chair",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "subject",
+     "v": "Young British Artists"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 44.09,
+   "light": 0.7824,
+   "chroma": 0.43
+  },
+  {
+   "id": "CRVI001936",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1524,
+   "source_url": "https://uploads8.wikiart.org/00287/images/chris-ofili/within-reach.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001936.jpg",
+   "source_label": "",
+   "image": "images/CRVI001936.jpg",
+   "original": "originals/CRVI001936.jpg",
+   "vector": "",
+   "original_px": [
+    1280,
+    1711
+   ],
+   "original_bytes": 1106597,
+   "maker": "Chris Ofili",
+   "title": "Within Reach",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Chris Ofili"
+    },
+    {
+     "k": "subject",
+     "v": "Young British Artists"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 6.34,
+   "light": 0.2524,
+   "chroma": 0.6451
+  },
+  {
+   "id": "CRVI001937",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.108,
+   "source_url": "https://uploads3.wikiart.org/images/gary-hume/whistler-1998.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001937.jpg",
+   "source_label": "",
+   "image": "images/CRVI001937.jpg",
+   "original": "originals/CRVI001937.jpg",
+   "vector": "",
+   "original_px": [
+    1264,
+    1536
+   ],
+   "original_bytes": 71766,
+   "maker": "Gary Hume",
+   "title": "Whistler",
+   "subtitle": "",
+   "year": "1998",
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Gary Hume"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "subject",
+     "v": "Young British Artists"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 204.78,
+   "light": 0.8276,
+   "chroma": 0.6237
+  },
+  {
+   "id": "CRVI001938",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.216,
+   "source_url": "https://i.pinimg.com/originals/48/09/76/480976b7453abb63ff8dd8d0b38f5d3d.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001938.jpg",
+   "source_label": "",
+   "image": "images/CRVI001938.jpg",
+   "original": "originals/CRVI001938.jpg",
+   "vector": "",
+   "original_px": [
+    1280,
+    1850
+   ],
+   "original_bytes": 151009,
+   "maker": "Unidentified",
+   "title": "Woman with pink flowers",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "subject",
+     "v": "Young British Artists"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 53.13,
+   "light": 0.5863,
+   "chroma": 0.673
+  },
+  {
+   "id": "CRVI001939",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1522,
+   "source_url": "https://res.cloudinary.com/smimagebank/image/upload/w_6000,c_limit/v1585224347/sprueth_magers_Gary_Hume_One_Eyed_Person_7052.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001939.jpg",
+   "source_label": "",
+   "image": "images/CRVI001939.jpg",
+   "original": "originals/CRVI001939.jpg",
+   "vector": "",
+   "original_px": [
+    1119,
+    1890
+   ],
+   "original_bytes": 108265,
+   "maker": "Gary Hume",
+   "title": "One Eyed Person",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Gary Hume"
+    },
+    {
+     "k": "subject",
+     "v": "Young British Artists"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    }
+   ],
+   "hue": 46.08,
+   "light": 0.6755,
+   "chroma": 0.539
+  },
+  {
+   "id": "CRVI001940",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.0702,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Mat_Collishaw_%27All_Things_Fall%27_%28detail%29%2C_2014-2017.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001940.jpg",
+   "source_label": "",
+   "image": "images/CRVI001940.jpg",
+   "original": "originals/CRVI001940.jpg",
+   "vector": "",
+   "original_px": [
+    1500,
+    1001
+   ],
+   "original_bytes": 367012,
+   "maker": "Mat Collishaw",
+   "title": "All Things Fall",
+   "subtitle": "Detail",
+   "year": "2014–2017",
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Mat Collishaw"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "subject",
+     "v": "Young British Artists"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": null,
+   "light": 0.3641,
+   "chroma": 0.0898
+  },
+  {
+   "id": "CRVI001941",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1488,
+   "source_url": "https://artlogic-res.cloudinary.com/w_3000,h_2000,c_limit,f_auto,fl_lossy,q_auto:best,dpr_2.0/ws-pilarcorrias/usr/exhibitions/images/exhibitions/199/006.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001941.jpg",
+   "source_label": "",
+   "image": "images/CRVI001941.jpg",
+   "original": "originals/CRVI001941.jpg",
+   "vector": "",
+   "original_px": [
+    4286,
+    3229
+   ],
+   "original_bytes": 1506598,
+   "maker": "Unidentified",
+   "title": "Gilded canopy, installation view",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "subject",
+     "v": "Relational Aesthetics"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 39.61,
+   "light": 0.6871,
+   "chroma": 0.4865
+  },
+  {
+   "id": "CRVI001942",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.2712,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Neon_Rhythm_%2851596847603%29.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001942.jpg",
+   "source_label": "",
+   "image": "images/CRVI001942.jpg",
+   "original": "originals/CRVI001942.jpg",
+   "vector": "",
+   "original_px": [
+    6000,
+    4000
+   ],
+   "original_bytes": 20201295,
+   "maker": "Unidentified",
+   "title": "Neon Rhythm",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "medium",
+     "v": "neon"
+    },
+    {
+     "k": "subject",
+     "v": "Relational Aesthetics"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 72.89,
+   "light": 0.2114,
+   "chroma": 0.6595
+  },
+  {
+   "id": "CRVI001943",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1942,
+   "source_url": "https://static01.nyt.com/images/2016/05/18/t-magazine/19tmag-beecroft-slide-JYNC/19tmag-beecroft-slide-JYNC-superJumbo.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001943.jpg",
+   "source_label": "",
+   "image": "images/CRVI001943.jpg",
+   "original": "originals/CRVI001943.jpg",
+   "vector": "",
+   "original_px": [
+    1596,
+    2048
+   ],
+   "original_bytes": 620443,
+   "maker": "Vanessa Beecroft",
+   "title": "Performance, long table",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Vanessa Beecroft"
+    },
+    {
+     "k": "subject",
+     "v": "Relational Aesthetics"
+    },
+    {
+     "k": "subject",
+     "v": "performance"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 20.82,
+   "light": 0.5939,
+   "chroma": 0.5318
+  },
+  {
+   "id": "CRVI001944",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1651,
+   "source_url": "https://static01.nyt.com/images/2016/05/18/t-magazine/19tmag-beecroft-slide-NECG/19tmag-beecroft-slide-NECG-superJumbo.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001944.jpg",
+   "source_label": "",
+   "image": "images/CRVI001944.jpg",
+   "original": "originals/CRVI001944.jpg",
+   "vector": "",
+   "original_px": [
+    2048,
+    1367
+   ],
+   "original_bytes": 442343,
+   "maker": "Vanessa Beecroft",
+   "title": "Performance, seated group",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Vanessa Beecroft"
+    },
+    {
+     "k": "subject",
+     "v": "Relational Aesthetics"
+    },
+    {
+     "k": "subject",
+     "v": "performance"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 21.88,
+   "light": 0.6176,
+   "chroma": 0.6172
+  },
+  {
+   "id": "CRVI001945",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.1022,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Helplessness_%2836879524430%29.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001945.jpg",
+   "source_label": "",
+   "image": "images/CRVI001945.jpg",
+   "original": "originals/CRVI001945.jpg",
+   "vector": "",
+   "original_px": [
+    6000,
+    4000
+   ],
+   "original_bytes": 4439475,
+   "maker": "Unidentified",
+   "title": "Suspended horse",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "subject",
+     "v": "Relational Aesthetics"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 24.93,
+   "light": 0.4998,
+   "chroma": 0.2517
+  },
+  {
+   "id": "CRVI001946",
+   "published": true,
+   "minted": "2026-09-06",
+   "punch": 0.4478,
+   "source_url": "https://s3.amazonaws.com/files.collageplatform.com.prod/image_cache/2020x1160_fit/59c5131c5a4091aa128b4568/0df3545eb6a94ccbe1e728a82c9891af.jpeg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI001946.jpg",
+   "source_label": "",
+   "image": "images/CRVI001946.jpg",
+   "original": "originals/CRVI001946.jpg",
+   "vector": "",
+   "original_px": [
+    1184,
+    1160
+   ],
+   "original_bytes": 1380996,
+   "maker": "Unidentified",
+   "title": "Golden spiral painting",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "subject",
+     "v": "Relational Aesthetics"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 34.99,
+   "light": 0.4938,
+   "chroma": 0.9227
   }
  ]
 }

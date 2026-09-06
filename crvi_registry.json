@@ -1,5 +1,5 @@
 {
- "next": 1925,
+ "next": 1947,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -113194,6 +113194,1182 @@
    "light": 0.4025,
    "chroma": 0.5004,
    "punch": 0.1192
+  },
+  "sent-2026-09-05::8f2dcc806d19": {
+   "id": "CRVI001925",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001925.jpg",
+   "original_px": [
+    843,
+    887
+   ],
+   "original_bytes": 174704,
+   "identity": "sent-2026-09-05::8f2dcc806d19",
+   "source_url": "https://www.artic.edu/iiif/2/211ad926-a23c-4041-2e5a-375069c5540c/full/843,/0/default.jpg",
+   "maker": "Anselm Kiefer",
+   "title": "20 Years of Solitude",
+   "subtitle": "",
+   "year": "1993",
+   "verified_against": "Art Institute of Chicago, artwork 158891 — the museum's API resolves this image id to Anselm Kiefer, 20 Years of Solitude, 1993.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/700.jpg",
+   "source_px": [
+    843,
+    887
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Anselm Kiefer"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "subject",
+     "v": "Neo-Expressionism"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Institute of Chicago, artwork 158891 — the museum's API resolves this image id to Anselm Kiefer, 20 Years of Solitude, 1993.",
+   "hue": null,
+   "light": 0.6876,
+   "chroma": 0.0194,
+   "punch": 0.0176
+  },
+  "sent-2026-09-05::0b0c764aa883": {
+   "id": "CRVI001926",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001926.jpg",
+   "original_px": [
+    1200,
+    1434
+   ],
+   "original_bytes": 559377,
+   "identity": "sent-2026-09-05::0b0c764aa883",
+   "source_url": "https://uploads4.wikiart.org/00225/images/anselm-kiefer/winter-landscape-1970.jpg",
+   "maker": "Anselm Kiefer",
+   "title": "Winter Landscape",
+   "subtitle": "",
+   "year": "1970",
+   "verified_against": "WikiArt, under Anselm Kiefer, dated 1970.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/701.jpg",
+   "source_px": [
+    1200,
+    1434
+   ],
+   "colors": [
+    "orange",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Anselm Kiefer"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "subject",
+     "v": "Neo-Expressionism"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Anselm Kiefer, dated 1970.",
+   "hue": 37.65,
+   "light": 0.6582,
+   "chroma": 0.5178,
+   "punch": 0.0965
+  },
+  "sent-2026-09-05::b3866dc57bfe": {
+   "id": "CRVI001927",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001927.jpg",
+   "original_px": [
+    1536,
+    1077
+   ],
+   "original_bytes": 410797,
+   "identity": "sent-2026-09-05::b3866dc57bfe",
+   "source_url": "https://uploads0.wikiart.org/00225/images/anselm-kiefer/parsifal-iii-1973.jpg",
+   "maker": "Anselm Kiefer",
+   "title": "Parsifal III",
+   "subtitle": "",
+   "year": "1973",
+   "verified_against": "WikiArt, under Anselm Kiefer, dated 1973.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/702.jpg",
+   "source_px": [
+    1536,
+    1077
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Anselm Kiefer"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "subject",
+     "v": "Neo-Expressionism"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Anselm Kiefer, dated 1973.",
+   "hue": 31.49,
+   "light": 0.3222,
+   "chroma": 0.6702,
+   "punch": 0.18
+  },
+  "sent-2026-09-05::22faaca742e8": {
+   "id": "CRVI001928",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001928.jpg",
+   "original_px": [
+    1042,
+    1536
+   ],
+   "original_bytes": 456538,
+   "identity": "sent-2026-09-05::22faaca742e8",
+   "source_url": "https://uploads7.wikiart.org/00225/images/anselm-kiefer/urd-verdandi-skuld-the-norns-1983.jpg",
+   "maker": "Anselm Kiefer",
+   "title": "Urd, Verdandi, Skuld (The Norns)",
+   "subtitle": "",
+   "year": "1983",
+   "verified_against": "WikiArt, under Anselm Kiefer, dated 1983.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/703.jpg",
+   "source_px": [
+    1042,
+    1536
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Anselm Kiefer"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "subject",
+     "v": "Neo-Expressionism"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Anselm Kiefer, dated 1983.",
+   "hue": 33.75,
+   "light": 0.3441,
+   "chroma": 0.2519,
+   "punch": 0.0795
+  },
+  "sent-2026-09-05::f32d118ab073": {
+   "id": "CRVI001929",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001929.jpg",
+   "original_px": [
+    1145,
+    1064
+   ],
+   "original_bytes": 676753,
+   "identity": "sent-2026-09-05::f32d118ab073",
+   "source_url": "https://uploads5.wikiart.org/00225/images/anselm-kiefer/interior-1981.jpg",
+   "maker": "Anselm Kiefer",
+   "title": "Interior",
+   "subtitle": "",
+   "year": "1981",
+   "verified_against": "WikiArt, under Anselm Kiefer, dated 1981.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/704.jpg",
+   "source_px": [
+    1145,
+    1064
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Anselm Kiefer"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "subject",
+     "v": "Neo-Expressionism"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Anselm Kiefer, dated 1981.",
+   "hue": 37.52,
+   "light": 0.3364,
+   "chroma": 0.2323,
+   "punch": 0.0682
+  },
+  "sent-2026-09-05::5d8f133a84f1": {
+   "id": "CRVI001930",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001930.jpg",
+   "original_px": [
+    843,
+    1093
+   ],
+   "original_bytes": 280061,
+   "identity": "sent-2026-09-05::5d8f133a84f1",
+   "source_url": "https://www.artic.edu/iiif/2/08c08840-0299-48a8-d572-6cea637e531e/full/843,/0/default.jpg",
+   "maker": "Georg Baselitz",
+   "title": "Woodman (Waldarbeiter)",
+   "subtitle": "",
+   "year": "1969",
+   "verified_against": "Art Institute of Chicago, artwork 68823 — the museum's API resolves this image id to Georg Baselitz, Woodman (Waldarbeiter), 1969.",
+   "notes": [
+    "The figure inverted, as Baselitz began doing in 1969."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/705.jpg",
+   "source_px": [
+    843,
+    1093
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Georg Baselitz"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "subject",
+     "v": "Neo-Expressionism"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Institute of Chicago, artwork 68823 — the museum's API resolves this image id to Georg Baselitz, Woodman (Waldarbeiter), 1969.",
+   "hue": 25.03,
+   "light": 0.4424,
+   "chroma": 0.5121,
+   "punch": 0.1426
+  },
+  "sent-2026-09-05::6575a02bce23": {
+   "id": "CRVI001931",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001931.jpg",
+   "original_px": [
+    1920,
+    1080
+   ],
+   "original_bytes": 721295,
+   "identity": "sent-2026-09-05::6575a02bce23",
+   "source_url": "https://www.museumtv.art/wp-content/uploads/2021/08/art-in-progress-s1-e13-julian-schnabel612626a9a3273.jpeg",
+   "maker": "Julian Schnabel",
+   "title": "Plate painting",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Published by Museum TV under Julian Schnabel's name, from an episode of Art in Progress. A face built over a ground of smashed crockery. The individual work's title and date are NOT established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/706.jpg",
+   "source_px": [
+    1920,
+    1080
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Julian Schnabel"
+    },
+    {
+     "k": "subject",
+     "v": "Neo-Expressionism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published by Museum TV under Julian Schnabel's name, from an episode of Art in Progress. A face built over a ground of smashed crockery. The individual work's title and date are NOT established here.",
+   "hue": 9.77,
+   "light": 0.4709,
+   "chroma": 0.8217,
+   "punch": 0.253
+  },
+  "sent-2026-09-05::76ef398e6076": {
+   "id": "CRVI001932",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001932.jpg",
+   "original_px": [
+    3249,
+    3376
+   ],
+   "original_bytes": 2860454,
+   "identity": "sent-2026-09-05::76ef398e6076",
+   "source_url": "https://rubinmuseum.org/wp-content/uploads/exhibitions/francesco-clemente/Francisco-Clemente.jpg",
+   "maker": "Francesco Clemente",
+   "title": "Hand with a map",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Rubin Museum of Art, from its Francesco Clemente exhibition — the artist's name is in the file's own path. The individual work's title and date are NOT established here.",
+   "notes": [
+    "Taken from the museum's undecorated original at 3249 × 3376 rather than the 1540 × 1600 WordPress derivative that was sent."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/707.jpg",
+   "source_px": [
+    3249,
+    3376
+   ],
+   "colors": [
+    "cyan",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Francesco Clemente"
+    },
+    {
+     "k": "subject",
+     "v": "Neo-Expressionism"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Rubin Museum of Art, from its Francesco Clemente exhibition — the artist's name is in the file's own path. The individual work's title and date are NOT established here.",
+   "hue": 196.13,
+   "light": 0.5704,
+   "chroma": 0.8575,
+   "punch": 0.4324
+  },
+  "sent-2026-09-05::2274c68cbba9": {
+   "id": "CRVI001933",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001933.jpg",
+   "original_px": [
+    1767,
+    2000
+   ],
+   "original_bytes": 465705,
+   "identity": "sent-2026-09-05::2274c68cbba9",
+   "source_url": "https://ira.usf.edu/GS/artists/chia_sandro/images/Chia-SurprisingNovel-ChapterFour.jpg",
+   "maker": "Sandro Chia",
+   "title": "Surprising Novel, Chapter Four",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Published by the Institute for Research in Art, University of South Florida — Graphicstudio, whose file path gives Sandro Chia and the title. The date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/708.jpg",
+   "source_px": [
+    1767,
+    2000
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Sandro Chia"
+    },
+    {
+     "k": "subject",
+     "v": "Neo-Expressionism"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published by the Institute for Research in Art, University of South Florida — Graphicstudio, whose file path gives Sandro Chia and the title. The date is not established here.",
+   "hue": 35.35,
+   "light": 0.499,
+   "chroma": 0.8515,
+   "punch": 0.4916
+  },
+  "sent-2026-09-05::850e2b044a47": {
+   "id": "CRVI001934",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001934.jpg",
+   "original_px": [
+    1200,
+    969
+   ],
+   "original_bytes": 136435,
+   "identity": "sent-2026-09-05::850e2b044a47",
+   "source_url": "https://uploads6.wikiart.org/00423/images/damien-hirst/damien-hirst-god-alone-knows-2007-sculpture-artwork.jpg",
+   "maker": "Damien Hirst",
+   "title": "God Alone Knows",
+   "subtitle": "",
+   "year": "2007",
+   "verified_against": "WikiArt, under Damien Hirst, dated 2007.",
+   "notes": [
+    "Three flayed sheep in formaldehyde, arranged as a Calvary."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/709.jpg",
+   "source_px": [
+    1200,
+    969
+   ],
+   "colors": [
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Damien Hirst"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    },
+    {
+     "k": "subject",
+     "v": "Young British Artists"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Damien Hirst, dated 2007.",
+   "hue": 188.52,
+   "light": 0.6364,
+   "chroma": 0.1898,
+   "punch": 0.081
+  },
+  "sent-2026-09-05::663c07899c5e": {
+   "id": "CRVI001935",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001935.jpg",
+   "original_px": [
+    1440,
+    1923
+   ],
+   "original_bytes": 262187,
+   "identity": "sent-2026-09-05::663c07899c5e",
+   "source_url": "https://i.pinimg.com/originals/7e/5d/8b/7e5d8bf50e2149006abd70f006f96096.jpg",
+   "maker": "Unidentified",
+   "title": "Stuffed forms on a chair",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "A Pinterest file with no provenance. Stuffed stocking forms slumped over a kitchen chair, in the manner of Sarah Lucas's bunnies — but the source names nobody and resemblance is not attribution.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/710.jpg",
+   "source_px": [
+    1440,
+    1923
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "subject",
+     "v": "Young British Artists"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A Pinterest file with no provenance. Stuffed stocking forms slumped over a kitchen chair, in the manner of Sarah Lucas's bunnies — but the source names nobody and resemblance is not attribution.",
+   "hue": 44.09,
+   "light": 0.7824,
+   "chroma": 0.43,
+   "punch": 0.1398
+  },
+  "sent-2026-09-05::c50c849c742b": {
+   "id": "CRVI001936",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001936.jpg",
+   "original_px": [
+    1280,
+    1711
+   ],
+   "original_bytes": 1106597,
+   "identity": "sent-2026-09-05::c50c849c742b",
+   "source_url": "https://uploads8.wikiart.org/00287/images/chris-ofili/within-reach.jpg",
+   "maker": "Chris Ofili",
+   "title": "Within Reach",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Chris Ofili as Within Reach; the date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/711.jpg",
+   "source_px": [
+    1280,
+    1711
+   ],
+   "colors": [
+    "green",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Chris Ofili"
+    },
+    {
+     "k": "subject",
+     "v": "Young British Artists"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Chris Ofili as Within Reach; the date is not established here.",
+   "hue": 6.34,
+   "light": 0.2524,
+   "chroma": 0.6451,
+   "punch": 0.1524
+  },
+  "sent-2026-09-05::91908a843b6b": {
+   "id": "CRVI001937",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001937.jpg",
+   "original_px": [
+    1264,
+    1536
+   ],
+   "original_bytes": 71766,
+   "identity": "sent-2026-09-05::91908a843b6b",
+   "source_url": "https://uploads3.wikiart.org/images/gary-hume/whistler-1998.jpg",
+   "maker": "Gary Hume",
+   "title": "Whistler",
+   "subtitle": "",
+   "year": "1998",
+   "verified_against": "WikiArt, under Gary Hume, dated 1998.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/712.jpg",
+   "source_px": [
+    1264,
+    1536
+   ],
+   "colors": [
+    "blue",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Gary Hume"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "subject",
+     "v": "Young British Artists"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Gary Hume, dated 1998.",
+   "hue": 204.78,
+   "light": 0.8276,
+   "chroma": 0.6237,
+   "punch": 0.108
+  },
+  "sent-2026-09-05::f0e3f863748c": {
+   "id": "CRVI001938",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001938.jpg",
+   "original_px": [
+    1280,
+    1850
+   ],
+   "original_bytes": 151009,
+   "identity": "sent-2026-09-05::f0e3f863748c",
+   "source_url": "https://i.pinimg.com/originals/48/09/76/480976b7453abb63ff8dd8d0b38f5d3d.jpg",
+   "maker": "Unidentified",
+   "title": "Woman with pink flowers",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "A Pinterest file with no provenance. Flat blocked colour in the manner of Gary Hume, and it arrived among his work, but nothing here establishes maker, title or date.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/713.jpg",
+   "source_px": [
+    1280,
+    1850
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "subject",
+     "v": "Young British Artists"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A Pinterest file with no provenance. Flat blocked colour in the manner of Gary Hume, and it arrived among his work, but nothing here establishes maker, title or date.",
+   "hue": 53.13,
+   "light": 0.5863,
+   "chroma": 0.673,
+   "punch": 0.216
+  },
+  "sent-2026-09-05::c4192b1b8d25": {
+   "id": "CRVI001939",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001939.jpg",
+   "original_px": [
+    1119,
+    1890
+   ],
+   "original_bytes": 108265,
+   "identity": "sent-2026-09-05::c4192b1b8d25",
+   "source_url": "https://res.cloudinary.com/smimagebank/image/upload/w_6000,c_limit/v1585224347/sprueth_magers_Gary_Hume_One_Eyed_Person_7052.jpg",
+   "maker": "Gary Hume",
+   "title": "One Eyed Person",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Sprüth Magers, whose file name gives Gary Hume and the title One Eyed Person. The date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/714.jpg",
+   "source_px": [
+    1119,
+    1890
+   ],
+   "colors": [
+    "yellow",
+    "pink"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Gary Hume"
+    },
+    {
+     "k": "subject",
+     "v": "Young British Artists"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Sprüth Magers, whose file name gives Gary Hume and the title One Eyed Person. The date is not established here.",
+   "hue": 46.08,
+   "light": 0.6755,
+   "chroma": 0.539,
+   "punch": 0.1522
+  },
+  "sent-2026-09-05::9b5908021f29": {
+   "id": "CRVI001940",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001940.jpg",
+   "original_px": [
+    1500,
+    1001
+   ],
+   "original_bytes": 367012,
+   "identity": "sent-2026-09-05::9b5908021f29",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Mat_Collishaw_%27All_Things_Fall%27_%28detail%29%2C_2014-2017.jpg",
+   "maker": "Mat Collishaw",
+   "title": "All Things Fall",
+   "subtitle": "Detail",
+   "year": "2014–2017",
+   "verified_against": "Wikimedia Commons, whose file record gives Mat Collishaw, 'All Things Fall' (detail), 2014–2017.",
+   "notes": [
+    "A zoetrope of the Massacre of the Innocents."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/715.jpg",
+   "source_px": [
+    1500,
+    1001
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Mat Collishaw"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "subject",
+     "v": "Young British Artists"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons, whose file record gives Mat Collishaw, 'All Things Fall' (detail), 2014–2017.",
+   "hue": null,
+   "light": 0.3641,
+   "chroma": 0.0898,
+   "punch": 0.0702
+  },
+  "sent-2026-09-05::92248c8243b8": {
+   "id": "CRVI001941",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001941.jpg",
+   "original_px": [
+    4286,
+    3229
+   ],
+   "original_bytes": 1506598,
+   "identity": "sent-2026-09-05::92248c8243b8",
+   "source_url": "https://artlogic-res.cloudinary.com/w_3000,h_2000,c_limit,f_auto,fl_lossy,q_auto:best,dpr_2.0/ws-pilarcorrias/usr/exhibitions/images/exhibitions/199/006.jpg",
+   "maker": "Unidentified",
+   "title": "Gilded canopy, installation view",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "An exhibition asset served from Artlogic for Pilar Corrias, whose URL carries a gallery and an exhibition number but no artist name. Maker, title and date unestablished.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/716.jpg",
+   "source_px": [
+    4286,
+    3229
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "subject",
+     "v": "Relational Aesthetics"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "An exhibition asset served from Artlogic for Pilar Corrias, whose URL carries a gallery and an exhibition number but no artist name. Maker, title and date unestablished.",
+   "hue": 39.61,
+   "light": 0.6871,
+   "chroma": 0.4865,
+   "punch": 0.1488
+  },
+  "sent-2026-09-05::dedec1c35da6": {
+   "id": "CRVI001942",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001942.jpg",
+   "original_px": [
+    6000,
+    4000
+   ],
+   "original_bytes": 20201295,
+   "identity": "sent-2026-09-05::dedec1c35da6",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/23/Neon_Rhythm_%2851596847603%29.jpg",
+   "maker": "Unidentified",
+   "title": "Neon Rhythm",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Wikimedia Commons, where the file is titled only 'Neon Rhythm'. A long curved wall of green and blue neon tubes. The artist is NOT named in the file record.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/717.jpg",
+   "source_px": [
+    6000,
+    4000
+   ],
+   "colors": [
+    "green",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "medium",
+     "v": "neon"
+    },
+    {
+     "k": "subject",
+     "v": "Relational Aesthetics"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons, where the file is titled only 'Neon Rhythm'. A long curved wall of green and blue neon tubes. The artist is NOT named in the file record.",
+   "hue": 72.89,
+   "light": 0.2114,
+   "chroma": 0.6595,
+   "punch": 0.2712
+  },
+  "sent-2026-09-05::5418112b7707": {
+   "id": "CRVI001943",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001943.jpg",
+   "original_px": [
+    1596,
+    2048
+   ],
+   "original_bytes": 620443,
+   "identity": "sent-2026-09-05::5418112b7707",
+   "source_url": "https://static01.nyt.com/images/2016/05/18/t-magazine/19tmag-beecroft-slide-JYNC/19tmag-beecroft-slide-JYNC-superJumbo.jpg",
+   "maker": "Vanessa Beecroft",
+   "title": "Performance, long table",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "The New York Times T Magazine, 18 May 2016, whose asset path names Beecroft. The individual performance's title and date are NOT established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/718.jpg",
+   "source_px": [
+    1596,
+    2048
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Vanessa Beecroft"
+    },
+    {
+     "k": "subject",
+     "v": "Relational Aesthetics"
+    },
+    {
+     "k": "subject",
+     "v": "performance"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The New York Times T Magazine, 18 May 2016, whose asset path names Beecroft. The individual performance's title and date are NOT established here.",
+   "hue": 20.82,
+   "light": 0.5939,
+   "chroma": 0.5318,
+   "punch": 0.1942
+  },
+  "sent-2026-09-05::e1ac5d60fbcd": {
+   "id": "CRVI001944",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001944.jpg",
+   "original_px": [
+    2048,
+    1367
+   ],
+   "original_bytes": 442343,
+   "identity": "sent-2026-09-05::e1ac5d60fbcd",
+   "source_url": "https://static01.nyt.com/images/2016/05/18/t-magazine/19tmag-beecroft-slide-NECG/19tmag-beecroft-slide-NECG-superJumbo.jpg",
+   "maker": "Vanessa Beecroft",
+   "title": "Performance, seated group",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "The New York Times T Magazine, 18 May 2016, whose asset path names Beecroft. The individual performance's title and date are NOT established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/719.jpg",
+   "source_px": [
+    2048,
+    1367
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Vanessa Beecroft"
+    },
+    {
+     "k": "subject",
+     "v": "Relational Aesthetics"
+    },
+    {
+     "k": "subject",
+     "v": "performance"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The New York Times T Magazine, 18 May 2016, whose asset path names Beecroft. The individual performance's title and date are NOT established here.",
+   "hue": 21.88,
+   "light": 0.6176,
+   "chroma": 0.6172,
+   "punch": 0.1651
+  },
+  "sent-2026-09-05::8afa4659e5c6": {
+   "id": "CRVI001945",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001945.jpg",
+   "original_px": [
+    6000,
+    4000
+   ],
+   "original_bytes": 4439475,
+   "identity": "sent-2026-09-05::8afa4659e5c6",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Helplessness_%2836879524430%29.jpg",
+   "maker": "Unidentified",
+   "title": "Suspended horse",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Wikimedia Commons, where the file is titled only 'Helplessness'. A taxidermied horse hung from a frescoed ceiling — the form Maurizio Cattelan used in Novecento and later works — but the file record names NO artist, so none is recorded.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/720.jpg",
+   "source_px": [
+    6000,
+    4000
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "subject",
+     "v": "Relational Aesthetics"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons, where the file is titled only 'Helplessness'. A taxidermied horse hung from a frescoed ceiling — the form Maurizio Cattelan used in Novecento and later works — but the file record names NO artist, so none is recorded.",
+   "hue": 24.93,
+   "light": 0.4998,
+   "chroma": 0.2517,
+   "punch": 0.1022
+  },
+  "sent-2026-09-05::0d3999ef3c31": {
+   "id": "CRVI001946",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001946.jpg",
+   "original_px": [
+    1184,
+    1160
+   ],
+   "original_bytes": 1380996,
+   "identity": "sent-2026-09-05::0d3999ef3c31",
+   "source_url": "https://s3.amazonaws.com/files.collageplatform.com.prod/image_cache/2020x1160_fit/59c5131c5a4091aa128b4568/0df3545eb6a94ccbe1e728a82c9891af.jpeg",
+   "maker": "Unidentified",
+   "title": "Golden spiral painting",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "A gallery asset served from an S3 image cache whose URL carries no artist name. Maker, title and date unestablished.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/721.jpg",
+   "source_px": [
+    1184,
+    1160
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "subject",
+     "v": "Relational Aesthetics"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A gallery asset served from an S3 image cache whose URL carries no artist name. Maker, title and date unestablished.",
+   "hue": 34.99,
+   "light": 0.4938,
+   "chroma": 0.9227,
+   "punch": 0.4478
   }
  }
 }
