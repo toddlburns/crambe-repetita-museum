@@ -1,5 +1,5 @@
 {
- "next": 1797,
+ "next": 1819,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -106200,6 +106200,1245 @@
    "light": 0.2661,
    "chroma": 0.9945,
    "punch": 0.381
+  },
+  "sent-2026-09-05::720fd763e29a": {
+   "id": "CRVI001797",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001797.jpg",
+   "original_px": [
+    1000,
+    841
+   ],
+   "original_bytes": 475238,
+   "identity": "sent-2026-09-05::720fd763e29a",
+   "source_url": "https://uploads4.wikiart.org/images/robert-rauschenberg/monogram-1955.jpg",
+   "maker": "Robert Rauschenberg",
+   "title": "Monogram",
+   "subtitle": "",
+   "year": "1955",
+   "verified_against": "WikiArt, under Robert Rauschenberg, dated 1955.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/500.jpg",
+   "source_px": [
+    1000,
+    841
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Robert Rauschenberg"
+    },
+    {
+     "k": "subject",
+     "v": "Neo-Dada"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Robert Rauschenberg, dated 1955.",
+   "hue": 26.1,
+   "light": 0.3604,
+   "chroma": 0.15,
+   "punch": 0.0706
+  },
+  "sent-2026-09-05::032149ae8f7b": {
+   "id": "CRVI001798",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001798.jpg",
+   "original_px": [
+    817,
+    1071
+   ],
+   "original_bytes": 113095,
+   "identity": "sent-2026-09-05::032149ae8f7b",
+   "source_url": "https://uploads5.wikiart.org/images/jasper-johns/target-with-plaster-casts-1955.jpg",
+   "maker": "Jasper Johns",
+   "title": "Target with Plaster Casts",
+   "subtitle": "",
+   "year": "1955",
+   "verified_against": "WikiArt, under Jasper Johns, dated 1955.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/501.jpg",
+   "source_px": [
+    817,
+    1071
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Jasper Johns"
+    },
+    {
+     "k": "subject",
+     "v": "Neo-Dada"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Jasper Johns, dated 1955.",
+   "hue": 9.88,
+   "light": 0.4065,
+   "chroma": 0.7834,
+   "punch": 0.5111
+  },
+  "sent-2026-09-05::b98726712b61": {
+   "id": "CRVI001799",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001799.jpg",
+   "original_px": [
+    849,
+    1035
+   ],
+   "original_bytes": 314424,
+   "identity": "sent-2026-09-05::b98726712b61",
+   "source_url": "https://uploads2.wikiart.org/images/jasper-johns/dancers-on-a-plane.jpg",
+   "maker": "Jasper Johns",
+   "title": "Dancers on a Plane",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Jasper Johns; the date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/502.jpg",
+   "source_px": [
+    849,
+    1035
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Jasper Johns"
+    },
+    {
+     "k": "subject",
+     "v": "Neo-Dada"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Jasper Johns; the date is not established here.",
+   "hue": 35.49,
+   "light": 0.6714,
+   "chroma": 0.8502,
+   "punch": 0.3036
+  },
+  "sent-2026-09-05::246df3880a53": {
+   "id": "CRVI001800",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001800.jpg",
+   "original_px": [
+    1338,
+    1600
+   ],
+   "original_bytes": 169572,
+   "identity": "sent-2026-09-05::246df3880a53",
+   "source_url": "https://www.artelista.com/blog/wp-content/uploads/2020/04/yves-klein2.jpg",
+   "maker": "Yves Klein",
+   "title": "Blue sponge sculpture",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Published by Artelista under Yves Klein's name. NOT a work on paper or canvas: a photograph of Klein himself standing in a doorway beside one of his blue sponge sculptures. Klein made the SCULPTURE; the photographer is not named, and neither work is dated here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/503.jpg",
+   "source_px": [
+    1338,
+    1600
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Yves Klein"
+    },
+    {
+     "k": "subject",
+     "v": "Nouveau Réalisme"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published by Artelista under Yves Klein's name. NOT a work on paper or canvas: a photograph of Klein himself standing in a doorway beside one of his blue sponge sculptures. Klein made the SCULPTURE; the photographer is not named, and neither work is dated here.",
+   "hue": 237.03,
+   "light": 0.5988,
+   "chroma": 0.184,
+   "punch": 0.0546
+  },
+  "sent-2026-09-05::c10e8370e7d8": {
+   "id": "CRVI001801",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001801.jpg",
+   "original_px": [
+    1068,
+    1400
+   ],
+   "original_bytes": 233869,
+   "identity": "sent-2026-09-05::c10e8370e7d8",
+   "source_url": "https://uploads2.wikiart.org/images/arman/violins.jpg",
+   "maker": "Arman",
+   "title": "Violins",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Arman as Violins; the date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/504.jpg",
+   "source_px": [
+    1068,
+    1400
+   ],
+   "colors": [
+    "green",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Arman"
+    },
+    {
+     "k": "subject",
+     "v": "Nouveau Réalisme"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Arman as Violins; the date is not established here.",
+   "hue": 37.54,
+   "light": 0.4507,
+   "chroma": 0.8497,
+   "punch": 0.2831
+  },
+  "sent-2026-09-05::15295e0151c0": {
+   "id": "CRVI001802",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001802.jpg",
+   "original_px": [
+    843,
+    1094
+   ],
+   "original_bytes": 288227,
+   "identity": "sent-2026-09-05::15295e0151c0",
+   "source_url": "https://www.artic.edu/iiif/2/97cb5c4b-cce5-c4d8-f303-613ce92832c7/full/843,/0/default.jpg",
+   "maker": "Andy Warhol",
+   "title": "Mao",
+   "subtitle": "",
+   "year": "1972",
+   "verified_against": "Art Institute of Chicago, artwork 47149 — the museum's API resolves this image id to Andy Warhol, Mao, 1972.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/505.jpg",
+   "source_px": [
+    843,
+    1094
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Andy Warhol"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "subject",
+     "v": "Pop Art"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Institute of Chicago, artwork 47149 — the museum's API resolves this image id to Andy Warhol, Mao, 1972.",
+   "hue": 40.41,
+   "light": 0.4774,
+   "chroma": 0.7959,
+   "punch": 0.257
+  },
+  "sent-2026-09-05::ad353d16cca3": {
+   "id": "CRVI001803",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001803.jpg",
+   "original_px": [
+    1063,
+    1275
+   ],
+   "original_bytes": 755395,
+   "identity": "sent-2026-09-05::ad353d16cca3",
+   "source_url": "https://uploads7.wikiart.org/00304/images/roy-lichtenstein/okay-hot-shot-okay-1963.jpg",
+   "maker": "Roy Lichtenstein",
+   "title": "Okay Hot-Shot, Okay!",
+   "subtitle": "",
+   "year": "1963",
+   "verified_against": "WikiArt, under Roy Lichtenstein, dated 1963.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/506.jpg",
+   "source_px": [
+    1063,
+    1275
+   ],
+   "colors": [
+    "red",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Roy Lichtenstein"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "subject",
+     "v": "Pop Art"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Roy Lichtenstein, dated 1963.",
+   "hue": 52.67,
+   "light": 0.4862,
+   "chroma": 0.2771,
+   "punch": 0.1106
+  },
+  "sent-2026-09-05::38fe97d3758c": {
+   "id": "CRVI001804",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001804.jpg",
+   "original_px": [
+    843,
+    1135
+   ],
+   "original_bytes": 453179,
+   "identity": "sent-2026-09-05::38fe97d3758c",
+   "source_url": "https://www.artic.edu/iiif/2/3968921f-222e-37ae-5c53-fafd26a45c7b/full/843,/0/default.jpg",
+   "maker": "Roy Lichtenstein",
+   "title": "Alka Seltzer",
+   "subtitle": "",
+   "year": "1966",
+   "verified_against": "Art Institute of Chicago, artwork 122054 — the museum's API resolves this image id to Roy Lichtenstein, Alka Seltzer, 1966.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/507.jpg",
+   "source_px": [
+    843,
+    1135
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Roy Lichtenstein"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "subject",
+     "v": "Pop Art"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Institute of Chicago, artwork 122054 — the museum's API resolves this image id to Roy Lichtenstein, Alka Seltzer, 1966.",
+   "hue": 30.49,
+   "light": 0.7084,
+   "chroma": 0.8436,
+   "punch": 0.1686
+  },
+  "sent-2026-09-05::810d525bec89": {
+   "id": "CRVI001805",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001805.jpg",
+   "original_px": [
+    1536,
+    1204
+   ],
+   "original_bytes": 614194,
+   "identity": "sent-2026-09-05::810d525bec89",
+   "source_url": "https://uploads0.wikiart.org/00304/images/roy-lichtenstein/brushstroke-1965.jpg",
+   "maker": "Roy Lichtenstein",
+   "title": "Brushstroke",
+   "subtitle": "",
+   "year": "1965",
+   "verified_against": "WikiArt, under Roy Lichtenstein, dated 1965.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/508.jpg",
+   "source_px": [
+    1536,
+    1204
+   ],
+   "colors": [
+    "blue",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Roy Lichtenstein"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "subject",
+     "v": "Pop Art"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Roy Lichtenstein, dated 1965.",
+   "hue": 214.17,
+   "light": 0.5554,
+   "chroma": 0.7662,
+   "punch": 0.1748
+  },
+  "sent-2026-09-05::99735e4d770d": {
+   "id": "CRVI001806",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001806.jpg",
+   "original_px": [
+    1710,
+    1080
+   ],
+   "original_bytes": 280216,
+   "identity": "sent-2026-09-05::99735e4d770d",
+   "source_url": "https://uploads1.wikiart.org/00313/images/james-rosenquist/61-s01-source-for-president-elect5.jpg",
+   "maker": "James Rosenquist",
+   "title": "Source for President Elect",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under James Rosenquist as the source collage for President Elect; the date is not established here.",
+   "notes": [
+    "Kennedy's face, a slice of cake and a Chevrolet, torn from magazines."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/509.jpg",
+   "source_px": [
+    1710,
+    1080
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "collage"
+    },
+    {
+     "k": "artist",
+     "v": "James Rosenquist"
+    },
+    {
+     "k": "subject",
+     "v": "Pop Art"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under James Rosenquist as the source collage for President Elect; the date is not established here.",
+   "hue": 18.51,
+   "light": 0.6244,
+   "chroma": 0.6008,
+   "punch": 0.2553
+  },
+  "sent-2026-09-05::a82380b5c358": {
+   "id": "CRVI001807",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001807.jpg",
+   "original_px": [
+    1280,
+    1155
+   ],
+   "original_bytes": 397766,
+   "identity": "sent-2026-09-05::a82380b5c358",
+   "source_url": "https://uploads4.wikiart.org/images/james-rosenquist/white-bread-1964.jpg",
+   "maker": "James Rosenquist",
+   "title": "White Bread",
+   "subtitle": "",
+   "year": "1964",
+   "verified_against": "WikiArt, under James Rosenquist, dated 1964.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/510.jpg",
+   "source_px": [
+    1280,
+    1155
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "James Rosenquist"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "subject",
+     "v": "Pop Art"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under James Rosenquist, dated 1964.",
+   "hue": 53.57,
+   "light": 0.5084,
+   "chroma": 0.5815,
+   "punch": 0.3373
+  },
+  "sent-2026-09-05::bedda58b84f6": {
+   "id": "CRVI001808",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001808.jpg",
+   "original_px": [
+    1536,
+    1231
+   ],
+   "original_bytes": 87332,
+   "identity": "sent-2026-09-05::bedda58b84f6",
+   "source_url": "https://uploads6.wikiart.org/images/james-rosenquist/silo-1964.jpg",
+   "maker": "James Rosenquist",
+   "title": "Silo",
+   "subtitle": "",
+   "year": "1964",
+   "verified_against": "WikiArt, under James Rosenquist, dated 1964.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/511.jpg",
+   "source_px": [
+    1536,
+    1231
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "James Rosenquist"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "subject",
+     "v": "Pop Art"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under James Rosenquist, dated 1964.",
+   "hue": 205.6,
+   "light": 0.6296,
+   "chroma": 0.5644,
+   "punch": 0.1705
+  },
+  "sent-2026-09-05::c8ebab1ec618": {
+   "id": "CRVI001809",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001809.jpg",
+   "original_px": [
+    1536,
+    986
+   ],
+   "original_bytes": 236347,
+   "identity": "sent-2026-09-05::c8ebab1ec618",
+   "source_url": "https://uploads3.wikiart.org/images/james-rosenquist/space-dust-1989.jpg",
+   "maker": "James Rosenquist",
+   "title": "Space Dust",
+   "subtitle": "",
+   "year": "1989",
+   "verified_against": "WikiArt, under James Rosenquist, dated 1989.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/512.jpg",
+   "source_px": [
+    1536,
+    986
+   ],
+   "colors": [
+    "red",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "James Rosenquist"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "subject",
+     "v": "Pop Art"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under James Rosenquist, dated 1989.",
+   "hue": 4.8,
+   "light": 0.5208,
+   "chroma": 0.5316,
+   "punch": 0.2186
+  },
+  "sent-2026-09-05::6989ef04026b": {
+   "id": "CRVI001810",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001810.jpg",
+   "original_px": [
+    7912,
+    5973
+   ],
+   "original_bytes": 43035215,
+   "identity": "sent-2026-09-05::6989ef04026b",
+   "source_url": "https://www.datocms-assets.com/39109/1610783334-1531430424682695-wesse-1963-0005.jpg",
+   "maker": "Tom Wesselmann",
+   "title": "Still life",
+   "subtitle": "",
+   "year": "1963",
+   "verified_against": "A gallery asset whose file name carries the artist and year — 'wesse-1963'. A Pop still life: apple and orange on a stand, a blue cut-glass shaker, a Volkswagen. The individual work's number and title are NOT established here.",
+   "notes": [
+    "Fetched from the CDN's bare URL at 7912 × 5973 rather than the 1200 × 906 the link's ?w=1200 requested — nearly seven times the linear resolution, and the largest file added in this session."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/513.jpg",
+   "source_px": [
+    7912,
+    5973
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Tom Wesselmann"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "subject",
+     "v": "Pop Art"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A gallery asset whose file name carries the artist and year — 'wesse-1963'. A Pop still life: apple and orange on a stand, a blue cut-glass shaker, a Volkswagen. The individual work's number and title are NOT established here.",
+   "hue": 7.09,
+   "light": 0.5019,
+   "chroma": 0.9231,
+   "punch": 0.473
+  },
+  "sent-2026-09-05::82d51b740003": {
+   "id": "CRVI001811",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001811.jpg",
+   "original_px": [
+    1772,
+    1772
+   ],
+   "original_bytes": 762790,
+   "identity": "sent-2026-09-05::82d51b740003",
+   "source_url": "https://uploads6.wikiart.org/images/richard-hamilton/portrait-of-hugh-gaitskill-as-a-famous-monster-of-filmland-1964.jpg",
+   "maker": "Richard Hamilton",
+   "title": "Portrait of Hugh Gaitskell as a Famous Monster of Filmland",
+   "subtitle": "",
+   "year": "1964",
+   "verified_against": "WikiArt, under Richard Hamilton, dated 1964.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/514.jpg",
+   "source_px": [
+    1772,
+    1772
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Richard Hamilton"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "subject",
+     "v": "Pop Art"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Richard Hamilton, dated 1964.",
+   "hue": 356.34,
+   "light": 0.515,
+   "chroma": 0.4844,
+   "punch": 0.2004
+  },
+  "sent-2026-09-05::96a6a73b1b7e": {
+   "id": "CRVI001812",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001812.jpg",
+   "original_px": [
+    1211,
+    1260
+   ],
+   "original_bytes": 397955,
+   "identity": "sent-2026-09-05::96a6a73b1b7e",
+   "source_url": "https://uploads3.wikiart.org/images/richard-hamilton/http-en-wikipedia-org-wiki-file-hamilton-appealing2-jpg-1956.jpg",
+   "maker": "Richard Hamilton",
+   "title": "Just what is it that makes today's homes so different, so appealing?",
+   "subtitle": "",
+   "year": "1956",
+   "verified_against": "WikiArt, under Richard Hamilton, dated 1956.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/515.jpg",
+   "source_px": [
+    1211,
+    1260
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "collage"
+    },
+    {
+     "k": "artist",
+     "v": "Richard Hamilton"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "subject",
+     "v": "Pop Art"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Richard Hamilton, dated 1956.",
+   "hue": 20.58,
+   "light": 0.566,
+   "chroma": 0.7355,
+   "punch": 0.223
+  },
+  "sent-2026-09-05::84bd7d23a0ee": {
+   "id": "CRVI001813",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001813.jpg",
+   "original_px": [
+    2362,
+    1912
+   ],
+   "original_bytes": 922744,
+   "identity": "sent-2026-09-05::84bd7d23a0ee",
+   "source_url": "https://uploads5.wikiart.org/images/richard-hamilton/swingeing-london-67-f-1969.jpg",
+   "maker": "Richard Hamilton",
+   "title": "Swingeing London 67 (f)",
+   "subtitle": "",
+   "year": "1969",
+   "verified_against": "WikiArt, under Richard Hamilton, dated 1969.",
+   "notes": [
+    "Mick Jagger and Robert Fraser handcuffed in the back of a police van."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/516.jpg",
+   "source_px": [
+    2362,
+    1912
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Richard Hamilton"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "subject",
+     "v": "Pop Art"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Richard Hamilton, dated 1969.",
+   "hue": 11.26,
+   "light": 0.3004,
+   "chroma": 0.1322,
+   "punch": 0.0568
+  },
+  "sent-2026-09-05::acb6444f4cd6": {
+   "id": "CRVI001814",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001814.jpg",
+   "original_px": [
+    980,
+    1536
+   ],
+   "original_bytes": 113665,
+   "identity": "sent-2026-09-05::acb6444f4cd6",
+   "source_url": "https://uploads2.wikiart.org/images/peter-blake/the-beach-boys-1964.jpg",
+   "maker": "Peter Blake",
+   "title": "The Beach Boys",
+   "subtitle": "",
+   "year": "1964",
+   "verified_against": "WikiArt, under Peter Blake, dated 1964.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/517.jpg",
+   "source_px": [
+    980,
+    1536
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Peter Blake"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "subject",
+     "v": "Pop Art"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Peter Blake, dated 1964.",
+   "hue": 43.89,
+   "light": 0.6739,
+   "chroma": 0.8081,
+   "punch": 0.1881
+  },
+  "sent-2026-09-05::d2bcc4458f8b": {
+   "id": "CRVI001815",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001815.jpg",
+   "original_px": [
+    832,
+    1126
+   ],
+   "original_bytes": 173148,
+   "identity": "sent-2026-09-05::d2bcc4458f8b",
+   "source_url": "https://uploads5.wikiart.org/images/eduardo-paolozzi/sack-o-sauce-1948.jpg",
+   "maker": "Eduardo Paolozzi",
+   "title": "Sack-o-Sauce",
+   "subtitle": "",
+   "year": "1948",
+   "verified_against": "WikiArt, under Eduardo Paolozzi, dated 1948.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/518.jpg",
+   "source_px": [
+    832,
+    1126
+   ],
+   "colors": [
+    "yellow",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "collage"
+    },
+    {
+     "k": "artist",
+     "v": "Eduardo Paolozzi"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    },
+    {
+     "k": "subject",
+     "v": "Pop Art"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Eduardo Paolozzi, dated 1948.",
+   "hue": 346.62,
+   "light": 0.5573,
+   "chroma": 0.862,
+   "punch": 0.4331
+  },
+  "sent-2026-09-05::84e4de71780b": {
+   "id": "CRVI001816",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001816.jpg",
+   "original_px": [
+    1000,
+    1027
+   ],
+   "original_bytes": 205172,
+   "identity": "sent-2026-09-05::84e4de71780b",
+   "source_url": "https://uploads4.wikiart.org/images/pauline-boty/colour-her-gone-1962.jpg",
+   "maker": "Pauline Boty",
+   "title": "Colour Her Gone",
+   "subtitle": "",
+   "year": "1962",
+   "verified_against": "WikiArt, under Pauline Boty, dated 1962.",
+   "notes": [
+    "Marilyn Monroe between bands of roses, painted the year she died."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/519.jpg",
+   "source_px": [
+    1000,
+    1027
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Pauline Boty"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "subject",
+     "v": "Pop Art"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Pauline Boty, dated 1962.",
+   "hue": 13.53,
+   "light": 0.304,
+   "chroma": 0.4511,
+   "punch": 0.1268
+  },
+  "sent-2026-09-05::a25fa4ed8c79": {
+   "id": "CRVI001817",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001817.jpg",
+   "original_px": [
+    962,
+    1200
+   ],
+   "original_bytes": 90735,
+   "identity": "sent-2026-09-05::a25fa4ed8c79",
+   "source_url": "https://cdn.thecollector.com/wp-content/uploads/2022/11/pauline-boty-with-love-jean-paul-belmondo.jpg",
+   "maker": "Pauline Boty",
+   "title": "With Love to Jean-Paul Belmondo",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Published by The Collector under Pauline Boty's name with this title in the file name. The date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/520.jpg",
+   "source_px": [
+    962,
+    1200
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Pauline Boty"
+    },
+    {
+     "k": "subject",
+     "v": "Pop Art"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published by The Collector under Pauline Boty's name with this title in the file name. The date is not established here.",
+   "hue": 9.59,
+   "light": 0.4015,
+   "chroma": 0.7567,
+   "punch": 0.6098
+  },
+  "sent-2026-09-05::e0dd6aba94e8": {
+   "id": "CRVI001818",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001818.jpg",
+   "original_px": [
+    1686,
+    2071
+   ],
+   "original_bytes": 2606685,
+   "identity": "sent-2026-09-05::e0dd6aba94e8",
+   "source_url": "https://uploads5.wikiart.org/images/pauline-boty/big-jim-colosimo-1963.jpg",
+   "maker": "Pauline Boty",
+   "title": "Big Jim Colosimo",
+   "subtitle": "",
+   "year": "1963",
+   "verified_against": "WikiArt, under Pauline Boty, dated 1963.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/521.jpg",
+   "source_px": [
+    1686,
+    2071
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Pauline Boty"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "subject",
+     "v": "Pop Art"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Pauline Boty, dated 1963.",
+   "hue": 228.45,
+   "light": 0.4651,
+   "chroma": 0.578,
+   "punch": 0.1667
   }
  }
 }
