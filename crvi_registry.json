@@ -1,5 +1,5 @@
 {
- "next": 1603,
+ "next": 1647,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -95369,6 +95369,2502 @@
    "light": 0.3191,
    "chroma": 0.2886,
    "punch": 0.0893
+  },
+  "sent-2026-09-05::72960ef8be47": {
+   "id": "CRVI001603",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001603.jpg",
+   "original_px": [
+    1754,
+    3756
+   ],
+   "original_bytes": 1084983,
+   "identity": "sent-2026-09-05::72960ef8be47",
+   "source_url": "https://classicprints.com.au/sites/default/files/circe_invidiosa_530x250_Web.jpg",
+   "maker": "John William Waterhouse",
+   "title": "Circe Invidiosa",
+   "subtitle": "",
+   "year": "1892",
+   "verified_against": "Published by Classic Prints under Waterhouse's name; the painting is Circe Invidiosa, 1892, in the Art Gallery of South Australia. ⚠️ Its file name reads '530x250_Web' and would suggest a thumbnail — the file is actually 1754 × 3756. The name lies in the harmless direction, but it is why file names are never trusted here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/220.jpg",
+   "source_px": [
+    1754,
+    3756
+   ],
+   "colors": [
+    "green",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1890s"
+    },
+    {
+     "k": "artist",
+     "v": "John William Waterhouse"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published by Classic Prints under Waterhouse's name; the painting is Circe Invidiosa, 1892, in the Art Gallery of South Australia. ⚠️ Its file name reads '530x250_Web' and would suggest a thumbnail — the file is actually 1754 × 3756. The name lies in the harmless direction, but it is why file names are never trusted here.",
+   "hue": 13.28,
+   "light": 0.3188,
+   "chroma": 0.82,
+   "punch": 0.1732
+  },
+  "sent-2026-09-05::1141260f8896": {
+   "id": "CRVI001604",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001604.jpg",
+   "original_px": [
+    2457,
+    4023
+   ],
+   "original_bytes": 6115687,
+   "identity": "sent-2026-09-05::1141260f8896",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Circe_Offering_the_Cup_to_Odysseus_%282457_x_4023px_ed.%29.jpg",
+   "maker": "John William Waterhouse",
+   "title": "Circe Offering the Cup to Odysseus",
+   "subtitle": "",
+   "year": "1891",
+   "verified_against": "Wikimedia Commons, under Waterhouse. Taken from Commons at 2457 × 4023 rather than the 2077 × 3400 WebP that was sent.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/221.jpg",
+   "source_px": [
+    2457,
+    4023
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1890s"
+    },
+    {
+     "k": "artist",
+     "v": "John William Waterhouse"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons, under Waterhouse. Taken from Commons at 2457 × 4023 rather than the 2077 × 3400 WebP that was sent.",
+   "hue": null,
+   "light": 0.3879,
+   "chroma": 0.0976,
+   "punch": 0.0597
+  },
+  "sent-2026-09-05::72ed3ee2c844": {
+   "id": "CRVI001605",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001605.jpg",
+   "original_px": [
+    1556,
+    2420
+   ],
+   "original_bytes": 780303,
+   "identity": "sent-2026-09-05::72ed3ee2c844",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/49/Waterhouse_-_The_Charmer.jpg",
+   "maker": "John William Waterhouse",
+   "title": "The Charmer",
+   "subtitle": "",
+   "year": "1911",
+   "verified_against": "Wikimedia Commons, under Waterhouse, as The Charmer.",
+   "notes": [
+    "⚠️ Replaced the link that was sent. That one was a print-shop reproduction at 798 × 1260 — a short edge of 798, two pixels under the museum's floor, which is exactly the kind of near-miss that gets waved through. Commons holds it at 1556 × 2420."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/222.jpg",
+   "source_px": [
+    1556,
+    2420
+   ],
+   "colors": [
+    "green",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "artist",
+     "v": "John William Waterhouse"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons, under Waterhouse, as The Charmer.",
+   "hue": 35.39,
+   "light": 0.3112,
+   "chroma": 0.3456,
+   "punch": 0.0906
+  },
+  "sent-2026-09-05::7c3bdb071e93": {
+   "id": "CRVI001606",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001606.jpg",
+   "original_px": [
+    1115,
+    1900
+   ],
+   "original_bytes": 517131,
+   "identity": "sent-2026-09-05::7c3bdb071e93",
+   "source_url": "https://images.stephenongpin.com/magallery/OngpinMedia/Object/John%20William-WATERHOUSE-DayDreams-1912018T17826.jpg?width=1900&height=1900&mode=max&qlt=80&format=jpeg",
+   "maker": "John William Waterhouse",
+   "title": "Day Dreams",
+   "subtitle": "",
+   "year": "1912",
+   "verified_against": "Stephen Ongpin Fine Art, whose own file name gives Waterhouse and Day Dreams. The date is taken from that file name and is not independently established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/223.jpg",
+   "source_px": [
+    1115,
+    1900
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "artist",
+     "v": "John William Waterhouse"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Stephen Ongpin Fine Art, whose own file name gives Waterhouse and Day Dreams. The date is taken from that file name and is not independently established here.",
+   "hue": 34.28,
+   "light": 0.697,
+   "chroma": 0.8497,
+   "punch": 0.15
+  },
+  "sent-2026-09-05::76ccce8fb04f": {
+   "id": "CRVI001607",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001607.jpg",
+   "original_px": [
+    1296,
+    2000
+   ],
+   "original_bytes": 523791,
+   "identity": "sent-2026-09-05::76ccce8fb04f",
+   "source_url": "https://d3tj81smxskx4e.cloudfront.net/N5s4W2ToaWz4Rzb21msf9wAJc9kn4Ej_521YZQMaCEo/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:1197109-11813233_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/MTE5NzEwOS8xMTgx/MzIzM19vcmlnaW5h/bC5qcGc",
+   "maker": "Unidentified",
+   "title": "Woman on marble steps at the water's edge",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "An auction-house CDN image with no caption of any kind — the URL carries only an encoded storage path. A Roman-genre scene: one woman leaning from marble steps to dip a rod in the water, a second standing above her. It reads as Waterhouse and arrived in a batch of his work, but NOTHING here establishes painter, title or date, and resemblance is not attribution.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/224.jpg",
+   "source_px": [
+    1296,
+    2000
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "An auction-house CDN image with no caption of any kind — the URL carries only an encoded storage path. A Roman-genre scene: one woman leaning from marble steps to dip a rod in the water, a second standing above her. It reads as Waterhouse and arrived in a batch of his work, but NOTHING here establishes painter, title or date, and resemblance is not attribution.",
+   "hue": 34.47,
+   "light": 0.4974,
+   "chroma": 0.7488,
+   "punch": 0.1818
+  },
+  "sent-2026-09-05::9bb21f675156": {
+   "id": "CRVI001608",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001608.jpg",
+   "original_px": [
+    5629,
+    4794
+   ],
+   "original_bytes": 8963235,
+   "identity": "sent-2026-09-05::9bb21f675156",
+   "source_url": "https://uploads7.wikiart.org/00328/images/jan-toorop/jan-toorop-novemberzon-1888.jpg",
+   "maker": "Jan Toorop",
+   "title": "Novemberzon",
+   "subtitle": "",
+   "year": "1888",
+   "verified_against": "WikiArt, under Jan Toorop, dated 1888.",
+   "notes": [
+    "The largest file in this batch at 5629 × 4794."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/225.jpg",
+   "source_px": [
+    5629,
+    4794
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Jan Toorop"
+    },
+    {
+     "k": "subject",
+     "v": "Symbolism"
+    },
+    {
+     "k": "location",
+     "v": "Netherlands"
+    },
+    {
+     "k": "decade",
+     "v": "1880s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Jan Toorop, dated 1888.",
+   "hue": 33.12,
+   "light": 0.5286,
+   "chroma": 0.6311,
+   "punch": 0.1992
+  },
+  "sent-2026-09-05::258cfca7eb46": {
+   "id": "CRVI001609",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001609.jpg",
+   "original_px": [
+    1200,
+    866
+   ],
+   "original_bytes": 93484,
+   "identity": "sent-2026-09-05::258cfca7eb46",
+   "source_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP8re2PEPMJeDxFYqrsuyK4TXoL0x8YHqiZKBx8py7wKQROt8GO102g6-Fu0D6zGHVPGqlqg7Ge-b3z4C9XBGbqRqprGl3ybosSlBlX9wd7IS16hU8TQciYcZDICyJOvhlVOfPaZbJ0gqs/s1600/Tom+Blackwell+Howdy.jpg",
+   "maker": "Tom Blackwell",
+   "title": "Howdy",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Published under Tom Blackwell's name with the title Howdy in the file name. The date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/226.jpg",
+   "source_px": [
+    1200,
+    866
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Tom Blackwell"
+    },
+    {
+     "k": "subject",
+     "v": "Photorealism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published under Tom Blackwell's name with the title Howdy in the file name. The date is not established here.",
+   "hue": 212.5,
+   "light": 0.3811,
+   "chroma": 0.37,
+   "punch": 0.1243
+  },
+  "sent-2026-09-05::26c8034715c5": {
+   "id": "CRVI001610",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001610.jpg",
+   "original_px": [
+    2397,
+    3400
+   ],
+   "original_bytes": 2500924,
+   "identity": "sent-2026-09-05::26c8034715c5",
+   "source_url": "https://openaccess-cdn.clevelandart.org/1969.238/1969.238_print.jpg",
+   "maker": "Alphonse Mucha",
+   "title": "Documents Décoratifs: Sweet Peas",
+   "subtitle": "",
+   "year": "1901–2",
+   "verified_against": "Cleveland Museum of Art, accession 1969.238 — the museum's own open-access record gives Alphonse Mucha (Czech, 1860–1939), Documents Decoratifs: Sweet Peas, 1901–2, lithograph.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/227.jpg",
+   "source_px": [
+    2397,
+    3400
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "designer",
+     "v": "Alphonse Mucha"
+    },
+    {
+     "k": "artist",
+     "v": "Alphonse Mucha"
+    },
+    {
+     "k": "medium",
+     "v": "lithograph"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Cleveland Museum of Art, accession 1969.238 — the museum's own open-access record gives Alphonse Mucha (Czech, 1860–1939), Documents Decoratifs: Sweet Peas, 1901–2, lithograph.",
+   "hue": 36.68,
+   "light": 0.6575,
+   "chroma": 0.7434,
+   "punch": 0.1928
+  },
+  "sent-2026-09-05::47f0eb188297": {
+   "id": "CRVI001611",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001611.jpg",
+   "original_px": [
+    2493,
+    3400
+   ],
+   "original_bytes": 4154354,
+   "identity": "sent-2026-09-05::47f0eb188297",
+   "source_url": "https://openaccess-cdn.clevelandart.org/1973.1018/1973.1018_print.jpg",
+   "maker": "Alphonse Mucha",
+   "title": "Lorenzaccio",
+   "subtitle": "Poster",
+   "year": "1896–1900",
+   "verified_against": "Cleveland Museum of Art, accession 1973.1018 — the museum's own open-access record gives Alphonse Mucha (Czech, 1860–1939), Lorenzaccio, 1896–1900, color lithograph.",
+   "notes": [
+    "For Sarah Bernhardt at the Théâtre de la Renaissance, as lettered at the foot of the sheet."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/228.jpg",
+   "source_px": [
+    2493,
+    3400
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "designer",
+     "v": "Alphonse Mucha"
+    },
+    {
+     "k": "artist",
+     "v": "Alphonse Mucha"
+    },
+    {
+     "k": "medium",
+     "v": "colour lithograph"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1890s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Cleveland Museum of Art, accession 1973.1018 — the museum's own open-access record gives Alphonse Mucha (Czech, 1860–1939), Lorenzaccio, 1896–1900, color lithograph.",
+   "hue": 35.43,
+   "light": 0.6678,
+   "chroma": 0.9581,
+   "punch": 0.1816
+  },
+  "sent-2026-09-05::543c98f9fc8f": {
+   "id": "CRVI001612",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001612.jpg",
+   "original_px": [
+    2378,
+    3400
+   ],
+   "original_bytes": 2413193,
+   "identity": "sent-2026-09-05::543c98f9fc8f",
+   "source_url": "https://openaccess-cdn.clevelandart.org/1992.35/1992.35_print.jpg",
+   "maker": "Alphonse Mucha",
+   "title": "Ornament",
+   "subtitle": "",
+   "year": "1901–2",
+   "verified_against": "Cleveland Museum of Art, accession 1992.35 — the museum's own open-access record gives Alphonse Mucha (Czech, 1860–1939), Ornament, 1901–2, metal relief and watercolor.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/229.jpg",
+   "source_px": [
+    2378,
+    3400
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "designer",
+     "v": "Alphonse Mucha"
+    },
+    {
+     "k": "artist",
+     "v": "Alphonse Mucha"
+    },
+    {
+     "k": "medium",
+     "v": "metal relief and watercolour"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Cleveland Museum of Art, accession 1992.35 — the museum's own open-access record gives Alphonse Mucha (Czech, 1860–1939), Ornament, 1901–2, metal relief and watercolor.",
+   "hue": 34.2,
+   "light": 0.7388,
+   "chroma": 0.8059,
+   "punch": 0.1582
+  },
+  "sent-2026-09-05::984e3791463e": {
+   "id": "CRVI001613",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001613.jpg",
+   "original_px": [
+    2606,
+    3400
+   ],
+   "original_bytes": 4912854,
+   "identity": "sent-2026-09-05::984e3791463e",
+   "source_url": "https://openaccess-cdn.clevelandart.org/1977.1018/1977.1018_print.jpg",
+   "maker": "Alphonse Mucha",
+   "title": "Ilsée, Princesse de Tripoli",
+   "subtitle": "",
+   "year": "1897",
+   "verified_against": "Cleveland Museum of Art, accession 1977.1018 — the museum's own open-access record gives Alphonse Mucha (Czech, 1860–1939), Ilsee, Princesse de Tripoli, 1897, color lithograph.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/230.jpg",
+   "source_px": [
+    2606,
+    3400
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "designer",
+     "v": "Alphonse Mucha"
+    },
+    {
+     "k": "artist",
+     "v": "Alphonse Mucha"
+    },
+    {
+     "k": "medium",
+     "v": "colour lithograph"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1890s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Cleveland Museum of Art, accession 1977.1018 — the museum's own open-access record gives Alphonse Mucha (Czech, 1860–1939), Ilsee, Princesse de Tripoli, 1897, color lithograph.",
+   "hue": 36.29,
+   "light": 0.6296,
+   "chroma": 0.4618,
+   "punch": 0.1233
+  },
+  "sent-2026-09-05::f5a325f3fedc": {
+   "id": "CRVI001614",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001614.jpg",
+   "original_px": [
+    2454,
+    3400
+   ],
+   "original_bytes": 2253189,
+   "identity": "sent-2026-09-05::f5a325f3fedc",
+   "source_url": "https://openaccess-cdn.clevelandart.org/1969.239/1969.239_print.jpg",
+   "maker": "Alphonse Mucha",
+   "title": "Documents Décoratifs: Plate 41",
+   "subtitle": "",
+   "year": "1901–2",
+   "verified_against": "Cleveland Museum of Art, accession 1969.239 — the museum's own open-access record gives Alphonse Mucha (Czech, 1860–1939), Documents Decoratifs: Plate 41, 1901–2, lithograph.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/231.jpg",
+   "source_px": [
+    2454,
+    3400
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "designer",
+     "v": "Alphonse Mucha"
+    },
+    {
+     "k": "artist",
+     "v": "Alphonse Mucha"
+    },
+    {
+     "k": "medium",
+     "v": "lithograph"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Cleveland Museum of Art, accession 1969.239 — the museum's own open-access record gives Alphonse Mucha (Czech, 1860–1939), Documents Decoratifs: Plate 41, 1901–2, lithograph.",
+   "hue": 34.82,
+   "light": 0.6957,
+   "chroma": 0.7197,
+   "punch": 0.1632
+  },
+  "sent-2026-09-05::a260e05673e0": {
+   "id": "CRVI001615",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001615.jpg",
+   "original_px": [
+    2876,
+    3877
+   ],
+   "original_bytes": 3740645,
+   "identity": "sent-2026-09-05::a260e05673e0",
+   "source_url": "https://images.metmuseum.org/CRDImages/ep/original/DP243354.jpg",
+   "maker": "Gustav Klimt",
+   "title": "Mäda Primavesi (1903–2000)",
+   "subtitle": "",
+   "year": "1912–13",
+   "verified_against": "The Metropolitan Museum of Art, object 436819 — matched by its own image id (CRDImages/ep/DP243354). Gift of André and Clara Mertens, in memory of her mother, Jenny Pulitzer Steiner, 1964.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/232.jpg",
+   "source_px": [
+    2876,
+    3877
+   ],
+   "colors": [
+    "pink",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Gustav Klimt"
+    },
+    {
+     "k": "medium",
+     "v": "oil on canvas"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Metropolitan Museum of Art, object 436819 — matched by its own image id (CRDImages/ep/DP243354). Gift of André and Clara Mertens, in memory of her mother, Jenny Pulitzer Steiner, 1964.",
+   "hue": 36.01,
+   "light": 0.6408,
+   "chroma": 0.3405,
+   "punch": 0.1048
+  },
+  "sent-2026-09-05::c11f6564d6c1": {
+   "id": "CRVI001616",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001616.jpg",
+   "original_px": [
+    900,
+    1200
+   ],
+   "original_bytes": 795593,
+   "identity": "sent-2026-09-05::c11f6564d6c1",
+   "source_url": "https://uploads5.wikiart.org/images/charles-rennie-mackintosh/d-cor-de-la-salle-manger-house-for-an-art-lover-glasgow-1901-2.jpg",
+   "maker": "Charles Rennie Mackintosh",
+   "title": "Décor de la salle à manger, House for an Art Lover, Glasgow",
+   "subtitle": "",
+   "year": "1901",
+   "verified_against": "WikiArt, under Charles Rennie Mackintosh, dated 1901 — a panel for the dining room of the Haus eines Kunstfreundes competition design.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/233.jpg",
+   "source_px": [
+    900,
+    1200
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "designer",
+     "v": "Charles Rennie Mackintosh"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Charles Rennie Mackintosh, dated 1901 — a panel for the dining room of the Haus eines Kunstfreundes competition design.",
+   "hue": 35.23,
+   "light": 0.4845,
+   "chroma": 0.5438,
+   "punch": 0.0927
+  },
+  "sent-2026-09-05::1cece4fa11f2": {
+   "id": "CRVI001617",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001617.jpg",
+   "original_px": [
+    843,
+    1132
+   ],
+   "original_bytes": 637326,
+   "identity": "sent-2026-09-05::1cece4fa11f2",
+   "source_url": "https://www.artic.edu/iiif/2/119dba14-acf2-cdcd-e9e6-b9cd38bc3aad/full/843,/0/default.jpg",
+   "maker": "Alphonse Mucha",
+   "title": "Zodiaque (La Plume)",
+   "subtitle": "Poster",
+   "year": "1896–97",
+   "verified_against": "Art Institute of Chicago, artwork 111986 — the museum's API resolves this image id to Alphonse Marie Mucha, Zodiaque ('La Plume'), 1896–97.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/234.jpg",
+   "source_px": [
+    843,
+    1132
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "designer",
+     "v": "Alphonse Mucha"
+    },
+    {
+     "k": "artist",
+     "v": "Alphonse Mucha"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1890s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Institute of Chicago, artwork 111986 — the museum's API resolves this image id to Alphonse Marie Mucha, Zodiaque ('La Plume'), 1896–97.",
+   "hue": 34.51,
+   "light": 0.5039,
+   "chroma": 0.9933,
+   "punch": 0.3147
+  },
+  "sent-2026-09-05::a65dbceb78cf": {
+   "id": "CRVI001618",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001618.jpg",
+   "original_px": [
+    2454,
+    3400
+   ],
+   "original_bytes": 2087576,
+   "identity": "sent-2026-09-05::a65dbceb78cf",
+   "source_url": "https://openaccess-cdn.clevelandart.org/2020.150/2020.150_print.jpg",
+   "maker": "Pierre Bonnard",
+   "title": "Family Scene",
+   "subtitle": "",
+   "year": "1893",
+   "verified_against": "Cleveland Museum of Art, accession 2020.150 — the museum's own open-access record gives Pierre Bonnard (French, 1867–1947), Family Scene, 1893, color lithograph on beige wove paper.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/235.jpg",
+   "source_px": [
+    2454,
+    3400
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Pierre Bonnard"
+    },
+    {
+     "k": "medium",
+     "v": "colour lithograph"
+    },
+    {
+     "k": "subject",
+     "v": "Nabis"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1890s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Cleveland Museum of Art, accession 2020.150 — the museum's own open-access record gives Pierre Bonnard (French, 1867–1947), Family Scene, 1893, color lithograph on beige wove paper.",
+   "hue": 42.39,
+   "light": 0.8114,
+   "chroma": 0.916,
+   "punch": 0.098
+  },
+  "sent-2026-09-05::e55550d2acfc": {
+   "id": "CRVI001619",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001619.jpg",
+   "original_px": [
+    1200,
+    901
+   ],
+   "original_bytes": 499848,
+   "identity": "sent-2026-09-05::e55550d2acfc",
+   "source_url": "https://uploads1.wikiart.org/00266/images/paul-ranson/display-image-46.jpg",
+   "maker": "Paul Ranson",
+   "title": "Nude on a patterned ground",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Paul Ranson. The individual work's title and date are NOT established here — the file is one of WikiArt's numbered display images.",
+   "notes": [
+    "A yellow nude kneeling on an orange ground of tulips, serpents and a vase."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/236.jpg",
+   "source_px": [
+    1200,
+    901
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Paul Ranson"
+    },
+    {
+     "k": "subject",
+     "v": "Nabis"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Paul Ranson. The individual work's title and date are NOT established here — the file is one of WikiArt's numbered display images.",
+   "hue": 18.03,
+   "light": 0.3518,
+   "chroma": 0.9701,
+   "punch": 0.5186
+  },
+  "sent-2026-09-05::4154d2d99309": {
+   "id": "CRVI001620",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001620.jpg",
+   "original_px": [
+    1170,
+    1600
+   ],
+   "original_bytes": 320053,
+   "identity": "sent-2026-09-05::4154d2d99309",
+   "source_url": "https://uploads8.wikiart.org/images/georges-lacombe/the-green-wave-vorhor.jpg",
+   "maker": "Georges Lacombe",
+   "title": "The Green Wave (Vorhor)",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Georges Lacombe as The Green Wave (Vorhor); the date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/237.jpg",
+   "source_px": [
+    1170,
+    1600
+   ],
+   "colors": [
+    "orange",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Georges Lacombe"
+    },
+    {
+     "k": "subject",
+     "v": "Nabis"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Georges Lacombe as The Green Wave (Vorhor); the date is not established here.",
+   "hue": 32.44,
+   "light": 0.3294,
+   "chroma": 0.6339,
+   "punch": 0.1614
+  },
+  "sent-2026-09-05::200ef102378d": {
+   "id": "CRVI001621",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001621.jpg",
+   "original_px": [
+    2000,
+    1517
+   ],
+   "original_bytes": 468815,
+   "identity": "sent-2026-09-05::200ef102378d",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Georges_Lacombe-1868-1946-Marine_bleue%2C_Effet_de_vague%2Ccirca_1893%2Cpeinture_%C3%A0_l%27oeuf_sur_toile%2C43x64%2C2_cm%2CMus%C3%A9e_des_Beaux-Arts_de_Rennes.jpg",
+   "maker": "Georges Lacombe",
+   "title": "Marine bleue, Effet de vague",
+   "subtitle": "",
+   "year": "c. 1893",
+   "verified_against": "Wikimedia Commons, whose file record gives Georges Lacombe (1868–1946), Marine bleue, Effet de vague, circa 1893, peinture à l'oeuf sur toile, 43 × 64.2 cm, Musée des Beaux-Arts de Rennes.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/238.jpg",
+   "source_px": [
+    2000,
+    1517
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Georges Lacombe"
+    },
+    {
+     "k": "medium",
+     "v": "egg tempera on canvas"
+    },
+    {
+     "k": "subject",
+     "v": "Nabis"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1890s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons, whose file record gives Georges Lacombe (1868–1946), Marine bleue, Effet de vague, circa 1893, peinture à l'oeuf sur toile, 43 × 64.2 cm, Musée des Beaux-Arts de Rennes.",
+   "hue": 213.37,
+   "light": 0.5279,
+   "chroma": 0.7321,
+   "punch": 0.2673
+  },
+  "sent-2026-09-05::c9d74f848c3f": {
+   "id": "CRVI001622",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001622.jpg",
+   "original_px": [
+    1284,
+    1629
+   ],
+   "original_bytes": 172986,
+   "identity": "sent-2026-09-05::c9d74f848c3f",
+   "source_url": "https://uploads8.wikiart.org/images/andre-derain/ball-of-soldiers-in-suresnes-1903.jpg",
+   "maker": "André Derain",
+   "title": "Ball of Soldiers in Suresnes",
+   "subtitle": "",
+   "year": "1903",
+   "verified_against": "WikiArt, under André Derain, dated 1903.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/239.jpg",
+   "source_px": [
+    1284,
+    1629
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "André Derain"
+    },
+    {
+     "k": "subject",
+     "v": "Fauvism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under André Derain, dated 1903.",
+   "hue": 7.26,
+   "light": 0.3223,
+   "chroma": 0.3798,
+   "punch": 0.1291
+  },
+  "sent-2026-09-05::5e523950d1e7": {
+   "id": "CRVI001623",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001623.jpg",
+   "original_px": [
+    1157,
+    1536
+   ],
+   "original_bytes": 376552,
+   "identity": "sent-2026-09-05::5e523950d1e7",
+   "source_url": "https://uploads2.wikiart.org/00148/images/andre-derain/henri-marisse-1905.jpg",
+   "maker": "André Derain",
+   "title": "Henri Matisse",
+   "subtitle": "",
+   "year": "1905",
+   "verified_against": "WikiArt, under André Derain, dated 1905 — Derain's portrait of Matisse, painted at Collioure. ⚠️ WikiArt's file name misspells the sitter as 'henri-marisse'; the name is corrected here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/240.jpg",
+   "source_px": [
+    1157,
+    1536
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "André Derain"
+    },
+    {
+     "k": "subject",
+     "v": "Fauvism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under André Derain, dated 1905 — Derain's portrait of Matisse, painted at Collioure. ⚠️ WikiArt's file name misspells the sitter as 'henri-marisse'; the name is corrected here.",
+   "hue": 41.67,
+   "light": 0.4404,
+   "chroma": 0.8238,
+   "punch": 0.342
+  },
+  "sent-2026-09-05::235be7cb27f6": {
+   "id": "CRVI001624",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001624.jpg",
+   "original_px": [
+    1511,
+    1072
+   ],
+   "original_bytes": 255898,
+   "identity": "sent-2026-09-05::235be7cb27f6",
+   "source_url": "https://uploads3.wikiart.org/images/andre-derain/still-life-on-the-table-1904.jpg",
+   "maker": "André Derain",
+   "title": "Still Life on the Table",
+   "subtitle": "",
+   "year": "1904",
+   "verified_against": "WikiArt, under André Derain, dated 1904.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/241.jpg",
+   "source_px": [
+    1511,
+    1072
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "André Derain"
+    },
+    {
+     "k": "subject",
+     "v": "Fauvism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under André Derain, dated 1904.",
+   "hue": 47.13,
+   "light": 0.3648,
+   "chroma": 0.4798,
+   "punch": 0.1607
+  },
+  "sent-2026-09-05::4cf86d07838c": {
+   "id": "CRVI001625",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001625.jpg",
+   "original_px": [
+    1023,
+    829
+   ],
+   "original_bytes": 370934,
+   "identity": "sent-2026-09-05::4cf86d07838c",
+   "source_url": "https://uploads3.wikiart.org/images/maurice-de-vlaminck/the-river-seine-at-chatou-1906.jpg",
+   "maker": "Maurice de Vlaminck",
+   "title": "The River Seine at Chatou",
+   "subtitle": "",
+   "year": "1906",
+   "verified_against": "WikiArt, under Maurice de Vlaminck, dated 1906.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/242.jpg",
+   "source_px": [
+    1023,
+    829
+   ],
+   "colors": [
+    "orange",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Maurice de Vlaminck"
+    },
+    {
+     "k": "subject",
+     "v": "Fauvism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Maurice de Vlaminck, dated 1906.",
+   "hue": 34.05,
+   "light": 0.3893,
+   "chroma": 0.628,
+   "punch": 0.2054
+  },
+  "sent-2026-09-05::eadc4af87977": {
+   "id": "CRVI001626",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001626.jpg",
+   "original_px": [
+    1056,
+    1344
+   ],
+   "original_bytes": 587397,
+   "identity": "sent-2026-09-05::eadc4af87977",
+   "source_url": "https://uploads0.wikiart.org/images/raoul-dufy/self-portrait-1899.jpg",
+   "maker": "Raoul Dufy",
+   "title": "Self-Portrait",
+   "subtitle": "",
+   "year": "1899",
+   "verified_against": "WikiArt, under Raoul Dufy, dated 1899.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/243.jpg",
+   "source_px": [
+    1056,
+    1344
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Raoul Dufy"
+    },
+    {
+     "k": "subject",
+     "v": "Fauvism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1890s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Raoul Dufy, dated 1899.",
+   "hue": 40.2,
+   "light": 0.3207,
+   "chroma": 0.911,
+   "punch": 0.2146
+  },
+  "sent-2026-09-05::f19c1c29d4b9": {
+   "id": "CRVI001627",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001627.jpg",
+   "original_px": [
+    1028,
+    847
+   ],
+   "original_bytes": 155478,
+   "identity": "sent-2026-09-05::f19c1c29d4b9",
+   "source_url": "https://uploads5.wikiart.org/images/georges-braque/fruit-dish.jpg",
+   "maker": "Georges Braque",
+   "title": "Fruit Dish",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Georges Braque as Fruit Dish; the date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/244.jpg",
+   "source_px": [
+    1028,
+    847
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Georges Braque"
+    },
+    {
+     "k": "subject",
+     "v": "Fauvism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Georges Braque as Fruit Dish; the date is not established here.",
+   "hue": 36.08,
+   "light": 0.3619,
+   "chroma": 0.7982,
+   "punch": 0.2149
+  },
+  "sent-2026-09-05::b2b0a3541db6": {
+   "id": "CRVI001628",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001628.jpg",
+   "original_px": [
+    808,
+    1000
+   ],
+   "original_bytes": 430220,
+   "identity": "sent-2026-09-05::b2b0a3541db6",
+   "source_url": "https://uploads4.wikiart.org/images/kees-van-dongen/modjesko-opera-singer-1908.jpg",
+   "maker": "Kees van Dongen",
+   "title": "Modjesko, Soprano Singer",
+   "subtitle": "",
+   "year": "1908",
+   "verified_against": "WikiArt, under Kees van Dongen, dated 1908. WikiArt files it as 'opera singer'; the work is generally titled Modjesko, Soprano Singer.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/245.jpg",
+   "source_px": [
+    808,
+    1000
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Kees van Dongen"
+    },
+    {
+     "k": "subject",
+     "v": "Fauvism"
+    },
+    {
+     "k": "location",
+     "v": "Netherlands"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Kees van Dongen, dated 1908. WikiArt files it as 'opera singer'; the work is generally titled Modjesko, Soprano Singer.",
+   "hue": 14.06,
+   "light": 0.6348,
+   "chroma": 0.8863,
+   "punch": 0.3167
+  },
+  "sent-2026-09-05::5b172e7e8513": {
+   "id": "CRVI001629",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001629.jpg",
+   "original_px": [
+    1280,
+    950
+   ],
+   "original_bytes": 437288,
+   "identity": "sent-2026-09-05::5b172e7e8513",
+   "source_url": "https://uploads0.wikiart.org/images/othon-friesz/rocky-coast-1896.jpg",
+   "maker": "Othon Friesz",
+   "title": "Rocky Coast",
+   "subtitle": "",
+   "year": "1896",
+   "verified_against": "WikiArt, under Othon Friesz, dated 1896.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/246.jpg",
+   "source_px": [
+    1280,
+    950
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Othon Friesz"
+    },
+    {
+     "k": "subject",
+     "v": "Fauvism"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1890s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Othon Friesz, dated 1896.",
+   "hue": 26.37,
+   "light": 0.534,
+   "chroma": 0.5802,
+   "punch": 0.1542
+  },
+  "sent-2026-09-05::3bb848bb5590": {
+   "id": "CRVI001630",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001630.jpg",
+   "original_px": [
+    3400,
+    2902
+   ],
+   "original_bytes": 8459592,
+   "identity": "sent-2026-09-05::3bb848bb5590",
+   "source_url": "https://openaccess-cdn.clevelandart.org/1966.49/1966.49_print.jpg",
+   "maker": "Ernst Ludwig Kirchner",
+   "title": "Wrestlers in a Circus",
+   "subtitle": "",
+   "year": "1909",
+   "verified_against": "Cleveland Museum of Art, accession 1966.49 — the museum's own open-access record gives Ernst Ludwig Kirchner (German), Wrestlers in a Circus, 1909, painting.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/250.jpg",
+   "source_px": [
+    3400,
+    2902
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Ernst Ludwig Kirchner"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "subject",
+     "v": "Die Brücke"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Cleveland Museum of Art, accession 1966.49 — the museum's own open-access record gives Ernst Ludwig Kirchner (German), Wrestlers in a Circus, 1909, painting.",
+   "hue": 33.6,
+   "light": 0.3541,
+   "chroma": 0.7937,
+   "punch": 0.2359
+  },
+  "sent-2026-09-05::f5fdb655998f": {
+   "id": "CRVI001631",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001631.jpg",
+   "original_px": [
+    2814,
+    2898
+   ],
+   "original_bytes": 4711480,
+   "identity": "sent-2026-09-05::f5fdb655998f",
+   "source_url": "https://uploads5.wikiart.org/images/ernst-ludwig-kirchner/coffee-drinking-women.jpg",
+   "maker": "Ernst Ludwig Kirchner",
+   "title": "Coffee Drinking Women",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Ernst Ludwig Kirchner; the date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/251.jpg",
+   "source_px": [
+    2814,
+    2898
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Ernst Ludwig Kirchner"
+    },
+    {
+     "k": "subject",
+     "v": "Die Brücke"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Ernst Ludwig Kirchner; the date is not established here.",
+   "hue": 42.96,
+   "light": 0.444,
+   "chroma": 0.6209,
+   "punch": 0.2955
+  },
+  "sent-2026-09-05::7c55b33e5af9": {
+   "id": "CRVI001632",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001632.jpg",
+   "original_px": [
+    3400,
+    3364
+   ],
+   "original_bytes": 8937136,
+   "identity": "sent-2026-09-05::7c55b33e5af9",
+   "source_url": "https://openaccess-cdn.clevelandart.org/1956.297/1956.297_print.jpg",
+   "maker": "Ernst Ludwig Kirchner",
+   "title": "Wehrlin, Facing Front",
+   "subtitle": "",
+   "year": "1924",
+   "verified_against": "Cleveland Museum of Art, accession 1956.297 — the museum's own open-access record gives Ernst Ludwig Kirchner (German), Wehrlin, Facing front, 1924, print.",
+   "notes": [
+    "Signed E. L. Kirchner beneath the block, and inscribed Eigendruck — the artist's own impression."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/252.jpg",
+   "source_px": [
+    3400,
+    3364
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Ernst Ludwig Kirchner"
+    },
+    {
+     "k": "medium",
+     "v": "woodcut"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "subject",
+     "v": "Die Brücke"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Cleveland Museum of Art, accession 1956.297 — the museum's own open-access record gives Ernst Ludwig Kirchner (German), Wehrlin, Facing front, 1924, print.",
+   "hue": 42.19,
+   "light": 0.5473,
+   "chroma": 0.2834,
+   "punch": 0.043
+  },
+  "sent-2026-09-05::d9cb8b430f87": {
+   "id": "CRVI001633",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001633.jpg",
+   "original_px": [
+    1024,
+    854
+   ],
+   "original_bytes": 445612,
+   "identity": "sent-2026-09-05::d9cb8b430f87",
+   "source_url": "https://uploads3.wikiart.org/00219/images/erich-heckel/reclining-woman-1909-1.jpg",
+   "maker": "Erich Heckel",
+   "title": "Reclining Woman",
+   "subtitle": "",
+   "year": "1909",
+   "verified_against": "WikiArt, under Erich Heckel, dated 1909.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/253.jpg",
+   "source_px": [
+    1024,
+    854
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Erich Heckel"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "subject",
+     "v": "Die Brücke"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Erich Heckel, dated 1909.",
+   "hue": 35.5,
+   "light": 0.422,
+   "chroma": 0.7729,
+   "punch": 0.3214
+  },
+  "sent-2026-09-05::e87b8df027ef": {
+   "id": "CRVI001634",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001634.jpg",
+   "original_px": [
+    1990,
+    2000
+   ],
+   "original_bytes": 654614,
+   "identity": "sent-2026-09-05::e87b8df027ef",
+   "source_url": "https://uploads6.wikiart.org/00328/images/karl-schmidt-rottluff/gartenstra-e-fr-hmorgens.jpg",
+   "maker": "Karl Schmidt-Rottluff",
+   "title": "Gartenstraße frühmorgens",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Karl Schmidt-Rottluff; the date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/254.jpg",
+   "source_px": [
+    1990,
+    2000
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Karl Schmidt-Rottluff"
+    },
+    {
+     "k": "subject",
+     "v": "Die Brücke"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Karl Schmidt-Rottluff; the date is not established here.",
+   "hue": 34.87,
+   "light": 0.5792,
+   "chroma": 0.7974,
+   "punch": 0.2413
+  },
+  "sent-2026-09-05::d103cb1b7b4e": {
+   "id": "CRVI001635",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001635.jpg",
+   "original_px": [
+    940,
+    882
+   ],
+   "original_bytes": 265858,
+   "identity": "sent-2026-09-05::d103cb1b7b4e",
+   "source_url": "https://uploads6.wikiart.org/images/emil-nolde/mask-still-life-iii-1911.jpg",
+   "maker": "Emil Nolde",
+   "title": "Mask Still Life III",
+   "subtitle": "",
+   "year": "1911",
+   "verified_against": "WikiArt, under Emil Nolde, dated 1911.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/255.jpg",
+   "source_px": [
+    940,
+    882
+   ],
+   "colors": [
+    "green",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Emil Nolde"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "Die Brücke"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Emil Nolde, dated 1911.",
+   "hue": 7.59,
+   "light": 0.2608,
+   "chroma": 0.7901,
+   "punch": 0.2464
+  },
+  "sent-2026-09-05::60154f6ab4b6": {
+   "id": "CRVI001636",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001636.jpg",
+   "original_px": [
+    1015,
+    826
+   ],
+   "original_bytes": 231550,
+   "identity": "sent-2026-09-05::60154f6ab4b6",
+   "source_url": "https://uploads6.wikiart.org/images/emil-nolde/dance-around-the-golden-calf-1910.jpg",
+   "maker": "Emil Nolde",
+   "title": "Dance Around the Golden Calf",
+   "subtitle": "",
+   "year": "1910",
+   "verified_against": "WikiArt, under Emil Nolde, dated 1910.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/256.jpg",
+   "source_px": [
+    1015,
+    826
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Emil Nolde"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "Die Brücke"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Emil Nolde, dated 1910.",
+   "hue": 46.08,
+   "light": 0.4726,
+   "chroma": 0.8052,
+   "punch": 0.3217
+  },
+  "sent-2026-09-05::43b1c55414d2": {
+   "id": "CRVI001637",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001637.jpg",
+   "original_px": [
+    1376,
+    1963
+   ],
+   "original_bytes": 523900,
+   "identity": "sent-2026-09-05::43b1c55414d2",
+   "source_url": "https://uploads0.wikiart.org/images/emil-nolde/self-portrait-1912.jpg",
+   "maker": "Emil Nolde",
+   "title": "Self-Portrait",
+   "subtitle": "",
+   "year": "1912",
+   "verified_against": "WikiArt, under Emil Nolde, dated 1912; signed E.N. at the lower right.",
+   "notes": [
+    "Todd asked whether a higher-resolution copy existed. It was hunted and the answer is no: 1376 × 1963 is the best available. The larger Nolde self-portraits in circulation — a 3802 × 4250 sheet at Lempertz and a 2504 × 3200 at art.salon — were checked side by side and are DIFFERENT works, both prints, not bigger copies of this watercolour."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/257.jpg",
+   "source_px": [
+    1376,
+    1963
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Emil Nolde"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "Die Brücke"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Emil Nolde, dated 1912; signed E.N. at the lower right.",
+   "hue": 213.91,
+   "light": 0.4834,
+   "chroma": 0.861,
+   "punch": 0.3945
+  },
+  "sent-2026-09-05::9483f96e891d": {
+   "id": "CRVI001638",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001638.jpg",
+   "original_px": [
+    843,
+    1407
+   ],
+   "original_bytes": 784586,
+   "identity": "sent-2026-09-05::9483f96e891d",
+   "source_url": "https://www.artic.edu/iiif/2/60dfae2d-9ab3-f468-a7a6-c00443f35246/full/843,/0/default.jpg",
+   "maker": "Emil Nolde",
+   "title": "Red-Haired Girl",
+   "subtitle": "",
+   "year": "1919",
+   "verified_against": "Art Institute of Chicago, artwork 118978 — the museum's API resolves this image id to Emil Nolde, Red-Haired Girl, 1919.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/258.jpg",
+   "source_px": [
+    843,
+    1407
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Emil Nolde"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "Die Brücke"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Institute of Chicago, artwork 118978 — the museum's API resolves this image id to Emil Nolde, Red-Haired Girl, 1919.",
+   "hue": 15.11,
+   "light": 0.3898,
+   "chroma": 0.8328,
+   "punch": 0.2776
+  },
+  "sent-2026-09-05::cdaef3f7c2e2": {
+   "id": "CRVI001639",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001639.jpg",
+   "original_px": [
+    2009,
+    1600
+   ],
+   "original_bytes": 2223236,
+   "identity": "sent-2026-09-05::cdaef3f7c2e2",
+   "source_url": "https://uploads2.wikiart.org/00192/images/emil-nolde/5b4817c0edc2c90a546a1c8a.jpg",
+   "maker": "Emil Nolde",
+   "title": "Sea with steamers",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Emil Nolde; the canvas is signed Emil Nolde at the lower right. The file is one of WikiArt's hash-named images and carries no title — the individual work's title and date are NOT established here.",
+   "notes": [
+    "A churning blue-green sea under a dark sky, with steamers on the horizon."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/259.jpg",
+   "source_px": [
+    2009,
+    1600
+   ],
+   "colors": [
+    "cyan",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Emil Nolde"
+    },
+    {
+     "k": "subject",
+     "v": "Die Brücke"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Emil Nolde; the canvas is signed Emil Nolde at the lower right. The file is one of WikiArt's hash-named images and carries no title — the individual work's title and date are NOT established here.",
+   "hue": 203.21,
+   "light": 0.3136,
+   "chroma": 0.6761,
+   "punch": 0.1821
+  },
+  "sent-2026-09-05::568a4e0e2e0b": {
+   "id": "CRVI001640",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001640.jpg",
+   "original_px": [
+    843,
+    962
+   ],
+   "original_bytes": 554461,
+   "identity": "sent-2026-09-05::568a4e0e2e0b",
+   "source_url": "https://www.artic.edu/iiif/2/3f34cd5d-6eed-85e9-9665-c9e7ce367952/full/843,/0/default.jpg",
+   "maker": "Max Pechstein",
+   "title": "The Red House",
+   "subtitle": "",
+   "year": "1911",
+   "verified_against": "Art Institute of Chicago, artwork 205573 — the museum's API resolves this image id to Max Pechstein, The Red House, 1911.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/260.jpg",
+   "source_px": [
+    843,
+    962
+   ],
+   "colors": [
+    "green",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Max Pechstein"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "Die Brücke"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Institute of Chicago, artwork 205573 — the museum's API resolves this image id to Max Pechstein, The Red House, 1911.",
+   "hue": 159.06,
+   "light": 0.4005,
+   "chroma": 0.9575,
+   "punch": 0.3904
+  },
+  "sent-2026-09-05::002863a98cac": {
+   "id": "CRVI001641",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001641.jpg",
+   "original_px": [
+    2238,
+    1746
+   ],
+   "original_bytes": 4118709,
+   "identity": "sent-2026-09-05::002863a98cac",
+   "source_url": "https://uploads5.wikiart.org/images/max-pechstein/flusslandschaft-1907.jpg",
+   "maker": "Max Pechstein",
+   "title": "Flusslandschaft",
+   "subtitle": "",
+   "year": "1907",
+   "verified_against": "WikiArt, under Max Pechstein, dated 1907.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/261.jpg",
+   "source_px": [
+    2238,
+    1746
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Max Pechstein"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "subject",
+     "v": "Die Brücke"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Max Pechstein, dated 1907.",
+   "hue": 35.19,
+   "light": 0.5449,
+   "chroma": 0.8782,
+   "punch": 0.3749
+  },
+  "sent-2026-09-05::652e39a5e891": {
+   "id": "CRVI001642",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001642.jpg",
+   "original_px": [
+    1021,
+    1179
+   ],
+   "original_bytes": 414741,
+   "identity": "sent-2026-09-05::652e39a5e891",
+   "source_url": "https://uploads6.wikiart.org/images/max-pechstein/the-masked-woman-1910.jpg",
+   "maker": "Max Pechstein",
+   "title": "The Masked Woman",
+   "subtitle": "",
+   "year": "1910",
+   "verified_against": "WikiArt, under Max Pechstein, dated 1910; signed MPechstein 1910 at the lower right.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/262.jpg",
+   "source_px": [
+    1021,
+    1179
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Max Pechstein"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "Die Brücke"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Max Pechstein, dated 1910; signed MPechstein 1910 at the lower right.",
+   "hue": 46.37,
+   "light": 0.368,
+   "chroma": 0.5976,
+   "punch": 0.2202
+  },
+  "sent-2026-09-05::ed57f72cdc78": {
+   "id": "CRVI001643",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001643.jpg",
+   "original_px": [
+    832,
+    1024
+   ],
+   "original_bytes": 255252,
+   "identity": "sent-2026-09-05::ed57f72cdc78",
+   "source_url": "https://uploads6.wikiart.org/images/max-pechstein/indian-and-woman-1910.jpg",
+   "maker": "Max Pechstein",
+   "title": "Indian and Woman",
+   "subtitle": "",
+   "year": "1910",
+   "verified_against": "WikiArt, under Max Pechstein, dated 1910; monogrammed MP 1910 at the lower left.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/263.jpg",
+   "source_px": [
+    832,
+    1024
+   ],
+   "colors": [
+    "orange",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Max Pechstein"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "subject",
+     "v": "Die Brücke"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Max Pechstein, dated 1910; monogrammed MP 1910 at the lower left.",
+   "hue": 16.44,
+   "light": 0.3455,
+   "chroma": 0.8131,
+   "punch": 0.3496
+  },
+  "sent-2026-09-05::bc64777ffde9": {
+   "id": "CRVI001644",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001644.jpg",
+   "original_px": [
+    1024,
+    859
+   ],
+   "original_bytes": 138709,
+   "identity": "sent-2026-09-05::bc64777ffde9",
+   "source_url": "https://uploads7.wikiart.org/images/cuno-amiet/moonlit-landscape-1904(1).jpg",
+   "maker": "Cuno Amiet",
+   "title": "Moonlit Landscape",
+   "subtitle": "",
+   "year": "1904",
+   "verified_against": "WikiArt, under Cuno Amiet, dated 1904; monogrammed CA at the lower right.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/264.jpg",
+   "source_px": [
+    1024,
+    859
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Cuno Amiet"
+    },
+    {
+     "k": "subject",
+     "v": "Die Brücke"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Cuno Amiet, dated 1904; monogrammed CA at the lower right.",
+   "hue": 224.46,
+   "light": 0.4767,
+   "chroma": 0.9544,
+   "punch": 0.2196
+  },
+  "sent-2026-09-05::4331a022364f": {
+   "id": "CRVI001645",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001645.jpg",
+   "original_px": [
+    1280,
+    847
+   ],
+   "original_bytes": 340620,
+   "identity": "sent-2026-09-05::4331a022364f",
+   "source_url": "https://uploads8.wikiart.org/images/cuno-amiet/blumengarten-1936.jpg",
+   "maker": "Cuno Amiet",
+   "title": "Blumengarten",
+   "subtitle": "",
+   "year": "1936",
+   "verified_against": "WikiArt, under Cuno Amiet, dated 1936; monogrammed CA at the lower right.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/265.jpg",
+   "source_px": [
+    1280,
+    847
+   ],
+   "colors": [
+    "cyan",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Cuno Amiet"
+    },
+    {
+     "k": "subject",
+     "v": "Die Brücke"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "decade",
+     "v": "1930s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Cuno Amiet, dated 1936; monogrammed CA at the lower right.",
+   "hue": 197.99,
+   "light": 0.5332,
+   "chroma": 0.6654,
+   "punch": 0.2112
+  },
+  "sent-2026-09-05::cfbc6345fab8": {
+   "id": "CRVI001646",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001646.jpg",
+   "original_px": [
+    850,
+    891
+   ],
+   "original_bytes": 193708,
+   "identity": "sent-2026-09-05::cfbc6345fab8",
+   "source_url": "https://cdn11.bigcommerce.com/s-r3utmtjwwz/images/stencil/1280w/l/akseli-gallen-kallela-aka-axel-gallen-a_1558577949__37166.original.jpg",
+   "maker": "Akseli Gallen-Kallela",
+   "title": "Head of a man at a blue window",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Published under Akseli Gallen-Kallela's name — the file name gives both that and the earlier form he signed with, Axel Gallén. The canvas carries a handwritten inscription in French at the lower right which is not fully legible here. The title and date are NOT established.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/266.jpg",
+   "source_px": [
+    850,
+    891
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Akseli Gallen-Kallela"
+    },
+    {
+     "k": "location",
+     "v": "Finland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published under Akseli Gallen-Kallela's name — the file name gives both that and the earlier form he signed with, Axel Gallén. The canvas carries a handwritten inscription in French at the lower right which is not fully legible here. The title and date are NOT established.",
+   "hue": 21.77,
+   "light": 0.3827,
+   "chroma": 0.837,
+   "punch": 0.2733
   }
  }
 }
