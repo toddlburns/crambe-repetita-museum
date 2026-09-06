@@ -1,5 +1,5 @@
 {
- "next": 1947,
+ "next": 1958,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -115793,6 +115793,575 @@
    "light": 0.4938,
    "chroma": 0.9227,
    "punch": 0.4478
+  },
+  "sent-2026-09-05::774cb4ef56db": {
+   "id": "CRVI001947",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001947.jpg",
+   "original_px": [
+    6144,
+    4096
+   ],
+   "original_bytes": 6538468,
+   "identity": "sent-2026-09-05::774cb4ef56db",
+   "source_url": "https://publicdelivery.org/wp-content/uploads/2019/07/Ai-Weiwei-Forever-Bicycles-2011-2630-x-353-x-957-cm-installation-view-of-Ai-Weiwei-absent-Taipei-Fine-Arts-Museum-2011-Oct-29-2012-Jan-29.jpg",
+   "maker": "Ai Weiwei",
+   "title": "Forever Bicycles",
+   "subtitle": "",
+   "year": "2011",
+   "verified_against": "Published by Public Delivery, whose file name carries it in full: Ai Weiwei, Forever Bicycles, 2011, 2630 × 353 × 957 cm, installation view of 'Ai Weiwei: absent', Taipei Fine Arts Museum, 29 Oct 2011 – 29 Jan 2012. Ai made the work; the photographer of this view is not named.",
+   "notes": [
+    "Taken from the site's bare original at 6144 × 4096 — the link's '-800x533@2x' derivative served 1600 × 1066, a sixteenth of the pixels."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/740.jpg",
+   "source_px": [
+    6144,
+    4096
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Ai Weiwei"
+    },
+    {
+     "k": "location",
+     "v": "China"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published by Public Delivery, whose file name carries it in full: Ai Weiwei, Forever Bicycles, 2011, 2630 × 353 × 957 cm, installation view of 'Ai Weiwei: absent', Taipei Fine Arts Museum, 29 Oct 2011 – 29 Jan 2012. Ai made the work; the photographer of this view is not named.",
+   "hue": null,
+   "light": 0.5013,
+   "chroma": 0.0034,
+   "punch": 0.022
+  },
+  "sent-2026-09-05::0896e35041f7": {
+   "id": "CRVI001948",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001948.jpg",
+   "original_px": [
+    818,
+    1092
+   ],
+   "original_bytes": 178169,
+   "identity": "sent-2026-09-05::0896e35041f7",
+   "source_url": "https://1.bp.blogspot.com/-CQz3Y3Dta64/UbCaO4TymkI/AAAAAAAAMvk/BJ4M8mQpiFc/s1600/ai-weiwei-german-pavilion-venice-art-biennale-designboom-b.jpg",
+   "maker": "Ai Weiwei",
+   "title": "Installation, German Pavilion, Venice Biennale",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Published under Ai Weiwei's name; the file name gives the German Pavilion at the Venice Art Biennale. Antique stools stacked to the ceiling. The work's title and year are NOT established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/741.jpg",
+   "source_px": [
+    818,
+    1092
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Ai Weiwei"
+    },
+    {
+     "k": "subject",
+     "v": "exhibition"
+    },
+    {
+     "k": "location",
+     "v": "China"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published under Ai Weiwei's name; the file name gives the German Pavilion at the Venice Art Biennale. Antique stools stacked to the ceiling. The work's title and year are NOT established here.",
+   "hue": 32.74,
+   "light": 0.6244,
+   "chroma": 0.1144,
+   "punch": 0.0458
+  },
+  "sent-2026-09-05::14f56b386baf": {
+   "id": "CRVI001949",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001949.jpg",
+   "original_px": [
+    5184,
+    3456
+   ],
+   "original_bytes": 8085260,
+   "identity": "sent-2026-09-05::14f56b386baf",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/CphOperaLamps.jpg",
+   "maker": "Unidentified",
+   "title": "Chandelier, Copenhagen Opera House",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Wikimedia Commons, where the file is titled only 'CphOperaLamps'. The spiral light fittings in the foyer of the Copenhagen Opera House. The Commons record names NO designer, so none is recorded — though the house's lamps are Olafur Eliasson's, and that is worth confirming before naming him here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/742.jpg",
+   "source_px": [
+    5184,
+    3456
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "location",
+     "v": "Denmark"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons, where the file is titled only 'CphOperaLamps'. The spiral light fittings in the foyer of the Copenhagen Opera House. The Commons record names NO designer, so none is recorded — though the house's lamps are Olafur Eliasson's, and that is worth confirming before naming him here.",
+   "hue": 16.38,
+   "light": 0.4764,
+   "chroma": 0.2036,
+   "punch": 0.0897
+  },
+  "sent-2026-09-05::99f335473963": {
+   "id": "CRVI001950",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001950.jpg",
+   "original_px": [
+    1026,
+    1280
+   ],
+   "original_bytes": 390251,
+   "identity": "sent-2026-09-05::99f335473963",
+   "source_url": "https://uploads8.wikiart.org/00114/images/yayoi-kusama/kusama-in-a-foreign-country.jpg",
+   "maker": "Yayoi Kusama",
+   "title": "Kusama in a Foreign Country",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Yayoi Kusama; the date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/743.jpg",
+   "source_px": [
+    1026,
+    1280
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Yayoi Kusama"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Yayoi Kusama; the date is not established here.",
+   "hue": 2.29,
+   "light": 0.5133,
+   "chroma": 0.1281,
+   "punch": 0.0548
+  },
+  "sent-2026-09-05::ecaad226b9f9": {
+   "id": "CRVI001951",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001951.jpg",
+   "original_px": [
+    843,
+    1021
+   ],
+   "original_bytes": 532279,
+   "identity": "sent-2026-09-05::ecaad226b9f9",
+   "source_url": "https://www.artic.edu/iiif/2/de5fffbf-8f53-43e5-cd53-ab4b7b0c70de/full/843,/0/default.jpg",
+   "maker": "Yayoi Kusama",
+   "title": "No. I.Z",
+   "subtitle": "",
+   "year": "1960",
+   "verified_against": "Art Institute of Chicago, artwork 149784 — the museum's API resolves this image id to Yayoi Kusama, No. I.Z, 1960.",
+   "notes": [
+    "An Infinity Net — the red field worked over in small looping strokes."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/744.jpg",
+   "source_px": [
+    843,
+    1021
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Yayoi Kusama"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Institute of Chicago, artwork 149784 — the museum's API resolves this image id to Yayoi Kusama, No. I.Z, 1960.",
+   "hue": 4.94,
+   "light": 0.3327,
+   "chroma": 0.9568,
+   "punch": 0.6076
+  },
+  "sent-2026-09-05::69b56df595c3": {
+   "id": "CRVI001952",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001952.jpg",
+   "original_px": [
+    2048,
+    1365
+   ],
+   "original_bytes": 936753,
+   "identity": "sent-2026-09-05::69b56df595c3",
+   "source_url": "https://static01.nyt.com/images/2026/08/03/multimedia/00Kusama-ADV-bfqv/00Kusama-ADV-bfqv-superJumbo.jpg",
+   "maker": "Unidentified",
+   "title": "Yayoi Kusama before an Infinity Net",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Published by The New York Times, 3 August 2026. NOT a work: a photograph OF Kusama seated in front of one of her red-and-white dot paintings. Kusama made the painting behind her; the photographer is not named here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/745.jpg",
+   "source_px": [
+    2048,
+    1365
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Yayoi Kusama"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published by The New York Times, 3 August 2026. NOT a work: a photograph OF Kusama seated in front of one of her red-and-white dot paintings. Kusama made the painting behind her; the photographer is not named here.",
+   "hue": 5.27,
+   "light": 0.5416,
+   "chroma": 0.9154,
+   "punch": 0.5074
+  },
+  "sent-2026-09-05::4dbcfbffaed6": {
+   "id": "CRVI001953",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001953.jpg",
+   "original_px": [
+    899,
+    1200
+   ],
+   "original_bytes": 160404,
+   "identity": "sent-2026-09-05::4dbcfbffaed6",
+   "source_url": "https://uploads7.wikiart.org/00215/images/marina-abramovic/marina-rest-energy-290.jpg",
+   "maker": "Marina Abramović and Ulay",
+   "title": "Rest Energy",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Marina Abramović, as Rest Energy. ⚠️ The work is a DUET — Abramović holds the bow, Ulay the drawn string and the arrow aimed at her heart — so it is filed under both names rather than hers alone. The date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/746.jpg",
+   "source_px": [
+    899,
+    1200
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Marina Abramović"
+    },
+    {
+     "k": "artist",
+     "v": "Ulay"
+    },
+    {
+     "k": "subject",
+     "v": "performance"
+    },
+    {
+     "k": "location",
+     "v": "Serbia"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Marina Abramović, as Rest Energy. ⚠️ The work is a DUET — Abramović holds the bow, Ulay the drawn string and the arrow aimed at her heart — so it is filed under both names rather than hers alone. The date is not established here.",
+   "hue": null,
+   "light": 0.5401,
+   "chroma": 0.0,
+   "punch": 0.0097
+  },
+  "sent-2026-09-05::6fe5eb5e5d37": {
+   "id": "CRVI001954",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001954.jpg",
+   "original_px": [
+    843,
+    1179
+   ],
+   "original_bytes": 186184,
+   "identity": "sent-2026-09-05::6fe5eb5e5d37",
+   "source_url": "https://www.artic.edu/iiif/2/9a01fcad-75de-8152-ab84-6178d84359b4/full/843,/0/default.jpg",
+   "maker": "Marina Abramović",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "1990",
+   "verified_against": "Art Institute of Chicago, artwork 255410 — the museum's API resolves this image id to Marina Abramovic, Untitled, 1990.",
+   "notes": [
+    "A sheet of looping marks annotated in the artist's hand — obedience, black, snow flakes — and signed lower right."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/747.jpg",
+   "source_px": [
+    843,
+    1179
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Marina Abramović"
+    },
+    {
+     "k": "location",
+     "v": "Serbia"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Institute of Chicago, artwork 255410 — the museum's API resolves this image id to Marina Abramovic, Untitled, 1990.",
+   "hue": 25.05,
+   "light": 0.8318,
+   "chroma": 0.9956,
+   "punch": 0.1713
+  },
+  "sent-2026-09-05::a8ea276e577b": {
+   "id": "CRVI001955",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001955.jpg",
+   "original_px": [
+    800,
+    1067
+   ],
+   "original_bytes": 631801,
+   "identity": "sent-2026-09-05::a8ea276e577b",
+   "source_url": "https://uploads6.wikiart.org/00340/images/takashi-murakami/stew-blue.jpg",
+   "maker": "Takashi Murakami",
+   "title": "Stew Blue",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Takashi Murakami; the date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/748.jpg",
+   "source_px": [
+    800,
+    1067
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Takashi Murakami"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Takashi Murakami; the date is not established here.",
+   "hue": 235.16,
+   "light": 0.7595,
+   "chroma": 0.3513,
+   "punch": 0.0863
+  },
+  "sent-2026-09-05::f556774ed50f": {
+   "id": "CRVI001956",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001956.jpg",
+   "original_px": [
+    1224,
+    1224
+   ],
+   "original_bytes": 266031,
+   "identity": "sent-2026-09-05::f556774ed50f",
+   "source_url": "https://uploads1.wikiart.org/images/takashi-murakami/army-of-mushrooms-2003.jpg",
+   "maker": "Takashi Murakami",
+   "title": "Army of Mushrooms",
+   "subtitle": "",
+   "year": "2003",
+   "verified_against": "WikiArt, under Takashi Murakami, dated 2003.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/749.jpg",
+   "source_px": [
+    1224,
+    1224
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Takashi Murakami"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Takashi Murakami, dated 2003.",
+   "hue": 54.61,
+   "light": 0.8234,
+   "chroma": 0.8139,
+   "punch": 0.1157
+  },
+  "sent-2026-09-05::a22325baf61d": {
+   "id": "CRVI001957",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI001957.jpg",
+   "original_px": [
+    852,
+    1024
+   ],
+   "original_bytes": 326600,
+   "identity": "sent-2026-09-05::a22325baf61d",
+   "source_url": "https://uploads3.wikiart.org/00099/images/kerry-james-marshal/vignette-13-2008.jpg",
+   "maker": "Kerry James Marshall",
+   "title": "Vignette 13",
+   "subtitle": "",
+   "year": "2008",
+   "verified_against": "WikiArt, dated 2008. ⚠️ WikiArt's own path misspells the surname as 'kerry-james-marshal'; corrected here to Marshall.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/750.jpg",
+   "source_px": [
+    852,
+    1024
+   ],
+   "colors": [
+    "blue",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Kerry James Marshall"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, dated 2008. ⚠️ WikiArt's own path misspells the surname as 'kerry-james-marshal'; corrected here to Marshall.",
+   "hue": 204.19,
+   "light": 0.5221,
+   "chroma": 0.8569,
+   "punch": 0.2685
   }
  }
 }
