@@ -1,5 +1,5 @@
 {
- "next": 2090,
+ "next": 2186,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -123066,6 +123066,4931 @@
    "light": 0.4136,
    "chroma": 0.9367,
    "punch": 0.4342
+  },
+  "sent-2026-09-05::6d54c2df11a4": {
+   "id": "CRVI002090",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002090.jpg",
+   "original_px": [
+    806,
+    1069
+   ],
+   "original_bytes": 204836,
+   "identity": "sent-2026-09-05::6d54c2df11a4",
+   "source_url": "https://uploads3.wikiart.org/images/francis-bacon/study-after-velazquez-s-portrait-of-pope-innocent-x(1).jpg",
+   "maker": "Francis Bacon",
+   "title": "Study after Velázquez's Portrait of Pope Innocent X",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Francis Bacon; the date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1010.jpg",
+   "source_px": [
+    806,
+    1069
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Francis Bacon"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Francis Bacon; the date is not established here.",
+   "hue": 40.15,
+   "light": 0.3302,
+   "chroma": 0.4974,
+   "punch": 0.1273
+  },
+  "sent-2026-09-05::0f24e0d6c2c9": {
+   "id": "CRVI002091",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002091.jpg",
+   "original_px": [
+    1897,
+    2489
+   ],
+   "original_bytes": 2139045,
+   "identity": "sent-2026-09-05::0f24e0d6c2c9",
+   "source_url": "https://uploads0.wikiart.org/00286/images/francis-bacon/man-in-blue-vii-1954.jpg",
+   "maker": "Francis Bacon",
+   "title": "Man in Blue VII",
+   "subtitle": "",
+   "year": "1954",
+   "verified_against": "WikiArt, under Francis Bacon, dated 1954.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1011.jpg",
+   "source_px": [
+    1897,
+    2489
+   ],
+   "colors": [
+    "blue",
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Francis Bacon"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Francis Bacon, dated 1954.",
+   "hue": 227.91,
+   "light": 0.1262,
+   "chroma": 0.6545,
+   "punch": 0.057
+  },
+  "sent-2026-09-05::14e3712c3079": {
+   "id": "CRVI002092",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002092.jpg",
+   "original_px": [
+    1003,
+    1142
+   ],
+   "original_bytes": 278795,
+   "identity": "sent-2026-09-05::14e3712c3079",
+   "source_url": "https://uploads7.wikiart.org/images/lucian-freud/portrait-of-a-young-man.jpg",
+   "maker": "Lucian Freud",
+   "title": "Portrait of a Young Man",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Lucian Freud; the date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1012.jpg",
+   "source_px": [
+    1003,
+    1142
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Lucian Freud"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Lucian Freud; the date is not established here.",
+   "hue": 32.41,
+   "light": 0.4257,
+   "chroma": 0.7492,
+   "punch": 0.1675
+  },
+  "sent-2026-09-05::70b58086b864": {
+   "id": "CRVI002093",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002093.jpg",
+   "original_px": [
+    933,
+    921
+   ],
+   "original_bytes": 135521,
+   "identity": "sent-2026-09-05::70b58086b864",
+   "source_url": "https://uploads0.wikiart.org/images/lucian-freud/naked-girl-asleep-ii-1968.jpg",
+   "maker": "Lucian Freud",
+   "title": "Naked Girl Asleep II",
+   "subtitle": "",
+   "year": "1968",
+   "verified_against": "WikiArt, under Lucian Freud, dated 1968.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1013.jpg",
+   "source_px": [
+    933,
+    921
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Lucian Freud"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Lucian Freud, dated 1968.",
+   "hue": 44.17,
+   "light": 0.3561,
+   "chroma": 0.971,
+   "punch": 0.3009
+  },
+  "sent-2026-09-05::890b7bfe7e52": {
+   "id": "CRVI002094",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002094.jpg",
+   "original_px": [
+    1066,
+    1141
+   ],
+   "original_bytes": 253515,
+   "identity": "sent-2026-09-05::890b7bfe7e52",
+   "source_url": "https://uploads8.wikiart.org/images/lucian-freud/portrait-of-christian-berard-1948.jpg",
+   "maker": "Lucian Freud",
+   "title": "Portrait of Christian Bérard",
+   "subtitle": "",
+   "year": "1948",
+   "verified_against": "WikiArt, under Lucian Freud, dated 1948.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1014.jpg",
+   "source_px": [
+    1066,
+    1141
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Lucian Freud"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Lucian Freud, dated 1948.",
+   "hue": 46.64,
+   "light": 0.3531,
+   "chroma": 0.7164,
+   "punch": 0.204
+  },
+  "sent-2026-09-05::42b0b425eeb3": {
+   "id": "CRVI002095",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002095.jpg",
+   "original_px": [
+    1024,
+    1010
+   ],
+   "original_bytes": 813268,
+   "identity": "sent-2026-09-05::42b0b425eeb3",
+   "source_url": "https://uploads5.wikiart.org/images/frank-auerbach/head-of-paula-eyles.jpg",
+   "maker": "Frank Auerbach",
+   "title": "Head of Paula Eyles",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Frank Auerbach; the date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1015.jpg",
+   "source_px": [
+    1024,
+    1010
+   ],
+   "colors": [
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Frank Auerbach"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Frank Auerbach; the date is not established here.",
+   "hue": 57.75,
+   "light": 0.4405,
+   "chroma": 0.1604,
+   "punch": 0.1013
+  },
+  "sent-2026-09-05::d9578a412af5": {
+   "id": "CRVI002096",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002096.jpg",
+   "original_px": [
+    827,
+    1024
+   ],
+   "original_bytes": 1198202,
+   "identity": "sent-2026-09-05::d9578a412af5",
+   "source_url": "https://uploads8.wikiart.org/images/frank-auerbach/head-of-e-o-w.jpg",
+   "maker": "Frank Auerbach",
+   "title": "Head of E.O.W.",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Frank Auerbach; the date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1016.jpg",
+   "source_px": [
+    827,
+    1024
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Frank Auerbach"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Frank Auerbach; the date is not established here.",
+   "hue": 35.52,
+   "light": 0.3999,
+   "chroma": 0.9362,
+   "punch": 0.394
+  },
+  "sent-2026-09-05::2d9d19424e83": {
+   "id": "CRVI002097",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002097.jpg",
+   "original_px": [
+    2025,
+    2454
+   ],
+   "original_bytes": 1487301,
+   "identity": "sent-2026-09-05::2d9d19424e83",
+   "source_url": "https://uploads5.wikiart.org/images/frank-auerbach/head-of-gerda-boehm.jpg",
+   "maker": "Frank Auerbach",
+   "title": "Head of Gerda Boehm",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Frank Auerbach; the date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1017.jpg",
+   "source_px": [
+    2025,
+    2454
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Frank Auerbach"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Frank Auerbach; the date is not established here.",
+   "hue": 40.09,
+   "light": 0.5082,
+   "chroma": 0.8962,
+   "punch": 0.1877
+  },
+  "sent-2026-09-05::d35d3feb44f9": {
+   "id": "CRVI002098",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002098.jpg",
+   "original_px": [
+    1367,
+    1183
+   ],
+   "original_bytes": 509603,
+   "identity": "sent-2026-09-05::d35d3feb44f9",
+   "source_url": "https://artlogic-res.cloudinary.com/w_6000,c_limit,f_auto,q_auto:best/ws-annelyjudafineart/usr/images/artworks/main_image/items/b1/b19a23545f684cf3b5612ee371fd8dcb/lk0507_new.jpg",
+   "maker": "Leon Kossoff",
+   "title": "Swimming pool",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Annely Juda Fine Art, whose file name codes the work 'lk' — Leon Kossoff, whom the gallery represented. The individual work's title and date are NOT established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1018.jpg",
+   "source_px": [
+    1367,
+    1183
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Leon Kossoff"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Annely Juda Fine Art, whose file name codes the work 'lk' — Leon Kossoff, whom the gallery represented. The individual work's title and date are NOT established here.",
+   "hue": 44.75,
+   "light": 0.5055,
+   "chroma": 0.5231,
+   "punch": 0.1695
+  },
+  "sent-2026-09-05::36a24adcd124": {
+   "id": "CRVI002099",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002099.jpg",
+   "original_px": [
+    973,
+    918
+   ],
+   "original_bytes": 254852,
+   "identity": "sent-2026-09-05::36a24adcd124",
+   "source_url": "https://i.pinimg.com/originals/67/50/13/6750136cc6329375af482314c838aaa7.jpg",
+   "maker": "Gilbert & George",
+   "title": "Doubles",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "A Pinterest file with no provenance. The gridded photo-panel format, the suited pair and the word DOUBLES lettered into the lower edge are Gilbert & George's, but the source establishes nothing. Date unestablished.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1019.jpg",
+   "source_px": [
+    973,
+    918
+   ],
+   "colors": [
+    "red",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Gilbert & George"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A Pinterest file with no provenance. The gridded photo-panel format, the suited pair and the word DOUBLES lettered into the lower edge are Gilbert & George's, but the source establishes nothing. Date unestablished.",
+   "hue": 13.63,
+   "light": 0.3781,
+   "chroma": 0.9015,
+   "punch": 0.3736
+  },
+  "sent-2026-09-05::1f66a90fecd1": {
+   "id": "CRVI002100",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002100.jpg",
+   "original_px": [
+    2000,
+    1259
+   ],
+   "original_bytes": 1257003,
+   "identity": "sent-2026-09-05::1f66a90fecd1",
+   "source_url": "https://images.e-flux-systems.com/004337image.jpg,2000x2000",
+   "maker": "Gilbert & George",
+   "title": "Stained-glass panel composition",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "An e-flux asset whose file name is a bare record number. The leaded grid and frontal pair are Gilbert & George's format. The URL carries no artist name — an e-flux record number. The attribution rests on the work and on the batch it arrived in, NOT on the source. Title and date unestablished.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1020.jpg",
+   "source_px": [
+    2000,
+    1259
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Gilbert & George"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "An e-flux asset whose file name is a bare record number. The leaded grid and frontal pair are Gilbert & George's format. The URL carries no artist name — an e-flux record number. The attribution rests on the work and on the batch it arrived in, NOT on the source. Title and date unestablished.",
+   "hue": 355.61,
+   "light": 0.3354,
+   "chroma": 0.4957,
+   "punch": 0.1994
+  },
+  "sent-2026-09-05::c00093bdf55b": {
+   "id": "CRVI002101",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002101.jpg",
+   "original_px": [
+    1024,
+    820
+   ],
+   "original_bytes": 42678,
+   "identity": "sent-2026-09-05::c00093bdf55b",
+   "source_url": "https://uploads4.wikiart.org/00125/images/lucio-fontana/lucio-fontana-concetto-spaziale-attese-d5916660g.jpg",
+   "maker": "Lucio Fontana",
+   "title": "Concetto Spaziale, Attese",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Lucio Fontana; the date is not established here.",
+   "notes": [
+    "Five cuts through a yellow ground."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1021.jpg",
+   "source_px": [
+    1024,
+    820
+   ],
+   "colors": [
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Lucio Fontana"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Lucio Fontana; the date is not established here.",
+   "hue": 46.46,
+   "light": 0.4727,
+   "chroma": 1.0,
+   "punch": 0.9041
+  },
+  "sent-2026-09-05::c40b327ca5e7": {
+   "id": "CRVI002102",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002102.jpg",
+   "original_px": [
+    1152,
+    1000
+   ],
+   "original_bytes": 332078,
+   "identity": "sent-2026-09-05::c40b327ca5e7",
+   "source_url": "https://cultura.biografieonline.it/wp-content/uploads/2013/05/merda-artista-artist-shit-piero-manzoni.png",
+   "maker": "Piero Manzoni",
+   "title": "Merda d'artista (Artist's Shit)",
+   "subtitle": "",
+   "year": "1961",
+   "verified_against": "Published under Piero Manzoni's name; the tin letters its own contents and date — Artist's Shit, contents 30 gr net, freshly preserved, produced and tinned in May 1961.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1022.jpg",
+   "source_px": [
+    1152,
+    1000
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Piero Manzoni"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published under Piero Manzoni's name; the tin letters its own contents and date — Artist's Shit, contents 30 gr net, freshly preserved, produced and tinned in May 1961.",
+   "hue": 38.88,
+   "light": 0.6151,
+   "chroma": 0.53,
+   "punch": 0.2117
+  },
+  "sent-2026-09-05::bd03ecc8cebf": {
+   "id": "CRVI002103",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002103.jpg",
+   "original_px": [
+    1106,
+    994
+   ],
+   "original_bytes": 536174,
+   "identity": "sent-2026-09-05::bd03ecc8cebf",
+   "source_url": "https://uploads2.wikiart.org/00288/images/sigmar-polke/chocolate-painting-schokoladenbild-1964.jpeg",
+   "maker": "Sigmar Polke",
+   "title": "Schokoladenbild (Chocolate Painting)",
+   "subtitle": "",
+   "year": "1964",
+   "verified_against": "WikiArt, under Sigmar Polke, dated 1964.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1023.jpg",
+   "source_px": [
+    1106,
+    994
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Sigmar Polke"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Sigmar Polke, dated 1964.",
+   "hue": 5.0,
+   "light": 0.5964,
+   "chroma": 0.4965,
+   "punch": 0.1209
+  },
+  "sent-2026-09-05::c002c25698fc": {
+   "id": "CRVI002104",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002104.jpg",
+   "original_px": [
+    1106,
+    1088
+   ],
+   "original_bytes": 727814,
+   "identity": "sent-2026-09-05::c002c25698fc",
+   "source_url": "https://uploads5.wikiart.org/00288/images/sigmar-polke/mao-1972.jpg",
+   "maker": "Sigmar Polke",
+   "title": "Mao",
+   "subtitle": "",
+   "year": "1972",
+   "verified_against": "WikiArt, under Sigmar Polke, dated 1972.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1024.jpg",
+   "source_px": [
+    1106,
+    1088
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Sigmar Polke"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Sigmar Polke, dated 1972.",
+   "hue": 357.96,
+   "light": 0.4907,
+   "chroma": 0.5805,
+   "punch": 0.2221
+  },
+  "sent-2026-09-05::470c990cb1a5": {
+   "id": "CRVI002105",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002105.jpg",
+   "original_px": [
+    1280,
+    1553
+   ],
+   "original_bytes": 318511,
+   "identity": "sent-2026-09-05::470c990cb1a5",
+   "source_url": "https://uploads6.wikiart.org/images/martin-kippenberger/untitled-aussen-alster-hotel-1985.jpg",
+   "maker": "Martin Kippenberger",
+   "title": "Untitled (Aussen Alster Hotel)",
+   "subtitle": "",
+   "year": "1985",
+   "verified_against": "WikiArt, under Martin Kippenberger, dated 1985.",
+   "notes": [
+    "Drawn on the hotel's own letterhead, which the sheet still carries."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1025.jpg",
+   "source_px": [
+    1280,
+    1553
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Martin Kippenberger"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Martin Kippenberger, dated 1985.",
+   "hue": 25.5,
+   "light": 0.8645,
+   "chroma": 0.7128,
+   "punch": 0.0761
+  },
+  "sent-2026-09-05::c8e37ddbd09e": {
+   "id": "CRVI002106",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002106.jpg",
+   "original_px": [
+    896,
+    1072
+   ],
+   "original_bytes": 175543,
+   "identity": "sent-2026-09-05::c8e37ddbd09e",
+   "source_url": "https://uploads3.wikiart.org/images/martin-kippenberger/flying-tanga.jpg",
+   "maker": "Martin Kippenberger",
+   "title": "Flying Tanga",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Martin Kippenberger, as Flying Tanga. ⚠️ Worth a second look: the picture is a Chinese soldier drinking Coca-Cola, in the manner of Wang Guangyi's Great Criticism paintings rather than anything typical of Kippenberger. The attribution here is WikiArt's filing and nothing more.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1026.jpg",
+   "source_px": [
+    896,
+    1072
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Martin Kippenberger"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Martin Kippenberger, as Flying Tanga. ⚠️ Worth a second look: the picture is a Chinese soldier drinking Coca-Cola, in the manner of Wang Guangyi's Great Criticism paintings rather than anything typical of Kippenberger. The attribution here is WikiArt's filing and nothing more.",
+   "hue": 222.06,
+   "light": 0.5038,
+   "chroma": 0.3579,
+   "punch": 0.1285
+  },
+  "sent-2026-09-05::91b314cb62d4": {
+   "id": "CRVI002107",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002107.jpg",
+   "original_px": [
+    1280,
+    908
+   ],
+   "original_bytes": 94771,
+   "identity": "sent-2026-09-05::91b314cb62d4",
+   "source_url": "https://uploads4.wikiart.org/images/martin-kippenberger/buchholz-schipper-1990.jpg",
+   "maker": "Martin Kippenberger",
+   "title": "Buchholz & Schipper",
+   "subtitle": "",
+   "year": "1990",
+   "verified_against": "WikiArt, under Martin Kippenberger, dated 1990.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1027.jpg",
+   "source_px": [
+    1280,
+    908
+   ],
+   "colors": [
+    "blue",
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "artist",
+     "v": "Martin Kippenberger"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Martin Kippenberger, dated 1990.",
+   "hue": 175.16,
+   "light": 0.2747,
+   "chroma": 0.6854,
+   "punch": 0.1389
+  },
+  "sent-2026-09-05::b028ccf99ed5": {
+   "id": "CRVI002108",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002108.jpg",
+   "original_px": [
+    3200,
+    2657
+   ],
+   "original_bytes": 915343,
+   "identity": "sent-2026-09-05::b028ccf99ed5",
+   "source_url": "https://www.christies.com/img/LotImages/2014/CKS/2014_CKS_01559_0246_000(martin_kippenberger_untitled064603).jpg?mode=max",
+   "maker": "Martin Kippenberger",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Christie's own lot asset (sale 01559, lot 246, 2014); the file name is Christie's metadata naming Martin Kippenberger. The date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1028.jpg",
+   "source_px": [
+    3200,
+    2657
+   ],
+   "colors": [
+    "cyan",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Martin Kippenberger"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Christie's own lot asset (sale 01559, lot 246, 2014); the file name is Christie's metadata naming Martin Kippenberger. The date is not established here.",
+   "hue": 197.07,
+   "light": 0.5658,
+   "chroma": 0.6445,
+   "punch": 0.1851
+  },
+  "sent-2026-09-05::cd51cf4f1701": {
+   "id": "CRVI002109",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002109.jpg",
+   "original_px": [
+    2612,
+    3200
+   ],
+   "original_bytes": 5838589,
+   "identity": "sent-2026-09-05::cd51cf4f1701",
+   "source_url": "https://media.mutualart.com/Images/2025_12/02/21/115127717/hermann-nitsch-zonder-titel-Y71BC.Jpeg",
+   "maker": "Hermann Nitsch",
+   "title": "Zonder titel",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "MutualArt, whose file name gives Hermann Nitsch and 'zonder titel' — untitled. The date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1029.jpg",
+   "source_px": [
+    2612,
+    3200
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Hermann Nitsch"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "MutualArt, whose file name gives Hermann Nitsch and 'zonder titel' — untitled. The date is not established here.",
+   "hue": 5.89,
+   "light": 0.5729,
+   "chroma": 0.9606,
+   "punch": 0.4597
+  },
+  "sent-2026-09-05::a97a926ba447": {
+   "id": "CRVI002110",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002110.jpg",
+   "original_px": [
+    2000,
+    1551
+   ],
+   "original_bytes": 800175,
+   "identity": "sent-2026-09-05::a97a926ba447",
+   "source_url": "https://www.japantimes.co.jp/uploads/imported_images/uploads/2019/03/p12-larking-boltanski-a-20190306.jpg",
+   "maker": "Christian Boltanski",
+   "title": "Installation with hung clothing",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "The Japan Times, whose file name gives Boltanski. Walls of hung second-hand clothing. The individual work's title and date are NOT established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1030.jpg",
+   "source_px": [
+    2000,
+    1551
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Christian Boltanski"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Japan Times, whose file name gives Boltanski. Walls of hung second-hand clothing. The individual work's title and date are NOT established here.",
+   "hue": 28.05,
+   "light": 0.2652,
+   "chroma": 0.7051,
+   "punch": 0.1548
+  },
+  "sent-2026-09-05::3d6df83c9dbe": {
+   "id": "CRVI002111",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002111.jpg",
+   "original_px": [
+    1553,
+    2000
+   ],
+   "original_bytes": 590659,
+   "identity": "sent-2026-09-05::3d6df83c9dbe",
+   "source_url": "https://www.artchive.com/wp-content/uploads/2024/08/Water-Towers-Bernd-and-Hilla-Becher-1988-.jpg",
+   "maker": "Bernd and Hilla Becher",
+   "title": "Water Towers",
+   "subtitle": "",
+   "year": "1988",
+   "verified_against": "Artchive, whose file name gives it in full: Water Towers, Bernd and Hilla Becher, 1988.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1031.jpg",
+   "source_px": [
+    1553,
+    2000
+   ],
+   "colors": [
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Bernd Becher"
+    },
+    {
+     "k": "artist",
+     "v": "Hilla Becher"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "photographer",
+     "v": "Bernd and Hilla Becher"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Artchive, whose file name gives it in full: Water Towers, Bernd and Hilla Becher, 1988.",
+   "hue": null,
+   "light": 0.7071,
+   "chroma": 0.0011,
+   "punch": 0.0161
+  },
+  "sent-2026-09-05::a2d0d21290e1": {
+   "id": "CRVI002112",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002112.jpg",
+   "original_px": [
+    818,
+    1000
+   ],
+   "original_bytes": 613290,
+   "identity": "sent-2026-09-05::a2d0d21290e1",
+   "source_url": "https://mnwr.pl/wp-content/uploads/2023/04/Roman-Opalka-Z-wnetrza-1969-kwasoryt-MNWr.jpg",
+   "maker": "Roman Opałka",
+   "title": "Z wnętrza",
+   "subtitle": "",
+   "year": "1969",
+   "verified_against": "Muzeum Narodowe we Wrocławiu, whose file name gives it in full: Roman Opałka, Z wnętrza, 1969, kwasoryt (etching), MNWr.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1032.jpg",
+   "source_px": [
+    818,
+    1000
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Roman Opałka"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Muzeum Narodowe we Wrocławiu, whose file name gives it in full: Roman Opałka, Z wnętrza, 1969, kwasoryt (etching), MNWr.",
+   "hue": null,
+   "light": 0.4655,
+   "chroma": 0.0458,
+   "punch": 0.019
+  },
+  "sent-2026-09-05::73e2960e18cb": {
+   "id": "CRVI002113",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002113.jpg",
+   "original_px": [
+    1423,
+    2000
+   ],
+   "original_bytes": 575541,
+   "identity": "sent-2026-09-05::73e2960e18cb",
+   "source_url": "https://image.invaluable.com/housePhotos/Agra/59/779759/H0166-L385130524_original.jpg",
+   "maker": "Tadeusz Kantor",
+   "title": "Still life",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "An Agra auction image (via Invaluable) with no artist in the URL. The URL carries no artist name — an auction lot code. The attribution rests on the work and on the batch it arrived in, NOT on the source. Title and date unestablished.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1033.jpg",
+   "source_px": [
+    1423,
+    2000
+   ],
+   "colors": [
+    "green",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Tadeusz Kantor"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "An Agra auction image (via Invaluable) with no artist in the URL. The URL carries no artist name — an auction lot code. The attribution rests on the work and on the batch it arrived in, NOT on the source. Title and date unestablished.",
+   "hue": 180.91,
+   "light": 0.2591,
+   "chroma": 0.1538,
+   "punch": 0.0612
+  },
+  "sent-2026-09-05::465b8ce95e8d": {
+   "id": "CRVI002114",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002114.jpg",
+   "original_px": [
+    885,
+    1200
+   ],
+   "original_bytes": 841270,
+   "identity": "sent-2026-09-05::465b8ce95e8d",
+   "source_url": "https://artinfo-production.s3.waw.io.cloud.ovh.net/uploads/artwork/image/62997/311.jpg",
+   "maker": "Tadeusz Kantor",
+   "title": "Drawing",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "An Artinfo asset whose file name is a bare record number. The URL carries no artist name — a bare record number. The attribution rests on the work and on the batch it arrived in, NOT on the source. Title and date unestablished.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1034.jpg",
+   "source_px": [
+    885,
+    1200
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Tadeusz Kantor"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "An Artinfo asset whose file name is a bare record number. The URL carries no artist name — a bare record number. The attribution rests on the work and on the batch it arrived in, NOT on the source. Title and date unestablished.",
+   "hue": null,
+   "light": 0.6145,
+   "chroma": 0.0,
+   "punch": 0.0088
+  },
+  "sent-2026-09-05::8030373c7474": {
+   "id": "CRVI002115",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002115.jpg",
+   "original_px": [
+    1500,
+    1181
+   ],
+   "original_bytes": 212468,
+   "identity": "sent-2026-09-05::8030373c7474",
+   "source_url": "https://uploads4.wikiart.org/images/philip-guston/untitled-3.jpg",
+   "maker": "Philip Guston",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Philip Guston; the date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1035.jpg",
+   "source_px": [
+    1500,
+    1181
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Philip Guston"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Philip Guston; the date is not established here.",
+   "hue": 37.33,
+   "light": 0.4775,
+   "chroma": 0.9749,
+   "punch": 0.3213
+  },
+  "sent-2026-09-05::4f195a3fdf1e": {
+   "id": "CRVI002116",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002116.jpg",
+   "original_px": [
+    1097,
+    1400
+   ],
+   "original_bytes": 46906,
+   "identity": "sent-2026-09-05::4f195a3fdf1e",
+   "source_url": "https://uploads5.wikiart.org/images/ellsworth-kelly/blue-on-white-1961.jpg",
+   "maker": "Ellsworth Kelly",
+   "title": "Blue on White",
+   "subtitle": "",
+   "year": "1961",
+   "verified_against": "WikiArt, under Ellsworth Kelly, dated 1961.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1036.jpg",
+   "source_px": [
+    1097,
+    1400
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Ellsworth Kelly"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Ellsworth Kelly, dated 1961.",
+   "hue": 214.99,
+   "light": 0.7168,
+   "chroma": 0.6364,
+   "punch": 0.2685
+  },
+  "sent-2026-09-05::5bd2c665f3cb": {
+   "id": "CRVI002117",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002117.jpg",
+   "original_px": [
+    843,
+    1040
+   ],
+   "original_bytes": 295863,
+   "identity": "sent-2026-09-05::5bd2c665f3cb",
+   "source_url": "https://www.artic.edu/iiif/2/d8ec86ef-8261-e933-857d-b21c7256bac2/full/843,/0/default.jpg",
+   "maker": "Richard Diebenkorn",
+   "title": "Ocean Park #45",
+   "subtitle": "",
+   "year": "1971",
+   "verified_against": "Art Institute of Chicago, artwork 39247 — the museum's API resolves this image id to Richard Diebenkorn, Ocean Park #45, 1971.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1037.jpg",
+   "source_px": [
+    843,
+    1040
+   ],
+   "colors": [
+    "green",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Richard Diebenkorn"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Institute of Chicago, artwork 39247 — the museum's API resolves this image id to Richard Diebenkorn, Ocean Park #45, 1971.",
+   "hue": 98.45,
+   "light": 0.535,
+   "chroma": 0.9287,
+   "punch": 0.3218
+  },
+  "sent-2026-09-05::898ff03b270f": {
+   "id": "CRVI002118",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002118.jpg",
+   "original_px": [
+    1536,
+    1156
+   ],
+   "original_bytes": 158120,
+   "identity": "sent-2026-09-05::898ff03b270f",
+   "source_url": "https://uploads5.wikiart.org/images/eva-hesse/untitled-1965-1.jpg",
+   "maker": "Eva Hesse",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "1965",
+   "verified_against": "WikiArt, under Eva Hesse, dated 1965.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1038.jpg",
+   "source_px": [
+    1536,
+    1156
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Eva Hesse"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Eva Hesse, dated 1965.",
+   "hue": 49.52,
+   "light": 0.8893,
+   "chroma": 0.9185,
+   "punch": 0.0637
+  },
+  "sent-2026-09-05::111c54f6622f": {
+   "id": "CRVI002119",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002119.jpg",
+   "original_px": [
+    843,
+    1181
+   ],
+   "original_bytes": 422837,
+   "identity": "sent-2026-09-05::111c54f6622f",
+   "source_url": "https://www.artic.edu/iiif/2/d82d7e71-2a95-0b05-2bc5-4772d6d9c966/full/843,/0/default.jpg",
+   "maker": "Alice Neel",
+   "title": "Ginny with the Yellow Hat",
+   "subtitle": "",
+   "year": "1971",
+   "verified_against": "Art Institute of Chicago, artwork 134055 — the museum's API resolves this image id to Alice Neel, Ginny with the Yellow Hat, 1971.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1039.jpg",
+   "source_px": [
+    843,
+    1181
+   ],
+   "colors": [
+    "green",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Alice Neel"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Institute of Chicago, artwork 134055 — the museum's API resolves this image id to Alice Neel, Ginny with the Yellow Hat, 1971.",
+   "hue": 43.09,
+   "light": 0.5192,
+   "chroma": 0.41,
+   "punch": 0.0848
+  },
+  "sent-2026-09-05::db82f6449849": {
+   "id": "CRVI002120",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002120.jpg",
+   "original_px": [
+    1416,
+    1536
+   ],
+   "original_bytes": 329313,
+   "identity": "sent-2026-09-05::db82f6449849",
+   "source_url": "https://uploads3.wikiart.org/images/alice-neel/kenneth-dolittle-1931.jpg",
+   "maker": "Alice Neel",
+   "title": "Kenneth Doolittle",
+   "subtitle": "",
+   "year": "1931",
+   "verified_against": "WikiArt, under Alice Neel, dated 1931.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1040.jpg",
+   "source_px": [
+    1416,
+    1536
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Alice Neel"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1930s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Alice Neel, dated 1931.",
+   "hue": 15.32,
+   "light": 0.5332,
+   "chroma": 0.3494,
+   "punch": 0.0849
+  },
+  "sent-2026-09-05::3a3e3a390bb4": {
+   "id": "CRVI002121",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002121.jpg",
+   "original_px": [
+    1480,
+    1536
+   ],
+   "original_bytes": 265739,
+   "identity": "sent-2026-09-05::3a3e3a390bb4",
+   "source_url": "https://uploads3.wikiart.org/images/alice-neel/the-family-john-gruen-jane-wilson-and-julia-1970.jpg",
+   "maker": "Alice Neel",
+   "title": "The Family (John Gruen, Jane Wilson and Julia)",
+   "subtitle": "",
+   "year": "1970",
+   "verified_against": "WikiArt, under Alice Neel, dated 1970.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1041.jpg",
+   "source_px": [
+    1480,
+    1536
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Alice Neel"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Alice Neel, dated 1970.",
+   "hue": 36.33,
+   "light": 0.6217,
+   "chroma": 0.5447,
+   "punch": 0.1512
+  },
+  "sent-2026-09-05::098b061bc77d": {
+   "id": "CRVI002122",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002122.jpg",
+   "original_px": [
+    1536,
+    1336
+   ],
+   "original_bytes": 275953,
+   "identity": "sent-2026-09-05::098b061bc77d",
+   "source_url": "https://uploads8.wikiart.org/images/alice-neel/dominican-boys-on-108th-street-1955.jpg",
+   "maker": "Alice Neel",
+   "title": "Dominican Boys on 108th Street",
+   "subtitle": "",
+   "year": "1955",
+   "verified_against": "WikiArt, under Alice Neel, dated 1955.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1042.jpg",
+   "source_px": [
+    1536,
+    1336
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Alice Neel"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Alice Neel, dated 1955.",
+   "hue": 25.78,
+   "light": 0.3962,
+   "chroma": 0.1356,
+   "punch": 0.065
+  },
+  "sent-2026-09-05::138d1f592771": {
+   "id": "CRVI002123",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002123.jpg",
+   "original_px": [
+    1024,
+    1019
+   ],
+   "original_bytes": 520144,
+   "identity": "sent-2026-09-05::138d1f592771",
+   "source_url": "https://www.craftinamerica.org/wp-content/uploads/2014/07/Dancing-on-the-GWB-copy.jpg",
+   "maker": "Faith Ringgold",
+   "title": "Dancing on the George Washington Bridge",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Craft in America, whose file name gives the title — Dancing on the GWB. A story quilt. The date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1043.jpg",
+   "source_px": [
+    1024,
+    1019
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "textile"
+    },
+    {
+     "k": "artist",
+     "v": "Faith Ringgold"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Craft in America, whose file name gives the title — Dancing on the GWB. A story quilt. The date is not established here.",
+   "hue": 206.59,
+   "light": 0.376,
+   "chroma": 0.5654,
+   "punch": 0.2018
+  },
+  "sent-2026-09-05::adb27c933fc5": {
+   "id": "CRVI002124",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002124.jpg",
+   "original_px": [
+    1250,
+    981
+   ],
+   "original_bytes": 704940,
+   "identity": "sent-2026-09-05::adb27c933fc5",
+   "source_url": "https://www.pafa.org/sites/default/files/artworkpics/2019_18_26_l.jpg",
+   "maker": "Alma Woodsey Thomas",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Pennsylvania Academy of the Fine Arts, whose file name carries its accession number 2019.18.26. The URL carries no artist name — only an accession number. The attribution rests on the work and on the batch it arrived in, NOT on the source. Title and date unestablished.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1044.jpg",
+   "source_px": [
+    1250,
+    981
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Alma Woodsey Thomas"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Pennsylvania Academy of the Fine Arts, whose file name carries its accession number 2019.18.26. The URL carries no artist name — only an accession number. The attribution rests on the work and on the batch it arrived in, NOT on the source. Title and date unestablished.",
+   "hue": 34.13,
+   "light": 0.5792,
+   "chroma": 0.7322,
+   "punch": 0.2697
+  },
+  "sent-2026-09-05::3bcd04d98de8": {
+   "id": "CRVI002125",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002125.jpg",
+   "original_px": [
+    1136,
+    1261
+   ],
+   "original_bytes": 271013,
+   "identity": "sent-2026-09-05::3bcd04d98de8",
+   "source_url": "https://www.moma.org/d/assets/W1siZiIsIjIwMjUvMDMvMjgvNTlsamIyNXVhNF9KV1BMMzAwLmpwZyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA4MCAtcmVzaXplIDExMzZ4MTQyNFx1MDAzZSJdXQ/JWPL300.jpg?sha=d6beb8c26d79d815",
+   "maker": "Jack Whitten",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "A Museum of Modern Art asset. The tesserae-like acrylic slabs are Whitten's method. The URL carries no artist name — a MoMA asset code. The attribution rests on the work and on the batch it arrived in, NOT on the source. Title and date unestablished.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1045.jpg",
+   "source_px": [
+    1136,
+    1261
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Jack Whitten"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A Museum of Modern Art asset. The tesserae-like acrylic slabs are Whitten's method. The URL carries no artist name — a MoMA asset code. The attribution rests on the work and on the batch it arrived in, NOT on the source. Title and date unestablished.",
+   "hue": 43.36,
+   "light": 0.7708,
+   "chroma": 0.3487,
+   "punch": 0.0839
+  },
+  "sent-2026-09-05::84397f69f4de": {
+   "id": "CRVI002126",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002126.jpg",
+   "original_px": [
+    2000,
+    1992
+   ],
+   "original_bytes": 890085,
+   "identity": "sent-2026-09-05::84397f69f4de",
+   "source_url": "https://files.ocula.com/anzax/a3/a3b73f46-2b8b-4bc6-926f-a20159ca6381_2000_1992.jpg",
+   "maker": "Jack Whitten",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "An Ocula gallery asset whose URL is an opaque identifier. The URL carries no artist name — an opaque gallery id. The attribution rests on the work and on the batch it arrived in, NOT on the source. Title and date unestablished.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1046.jpg",
+   "source_px": [
+    2000,
+    1992
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Jack Whitten"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "An Ocula gallery asset whose URL is an opaque identifier. The URL carries no artist name — an opaque gallery id. The attribution rests on the work and on the batch it arrived in, NOT on the source. Title and date unestablished.",
+   "hue": null,
+   "light": 0.4438,
+   "chroma": 0.0329,
+   "punch": 0.0327
+  },
+  "sent-2026-09-05::7dd08e0e86ec": {
+   "id": "CRVI002127",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002127.jpg",
+   "original_px": [
+    1889,
+    1223
+   ],
+   "original_bytes": 400892,
+   "identity": "sent-2026-09-05::7dd08e0e86ec",
+   "source_url": "https://uploads4.wikiart.org/images/bruce-nauman/my-name-as-though-it-were-written-on-the-surface-of-the-moon-1968.jpg",
+   "maker": "Bruce Nauman",
+   "title": "My Name As Though It Were Written on the Surface of the Moon",
+   "subtitle": "",
+   "year": "1968",
+   "verified_against": "WikiArt, under Bruce Nauman, dated 1968.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1047.jpg",
+   "source_px": [
+    1889,
+    1223
+   ],
+   "colors": [
+    "blue",
+    "purple"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Bruce Nauman"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Bruce Nauman, dated 1968.",
+   "hue": 236.27,
+   "light": 0.1851,
+   "chroma": 0.7987,
+   "punch": 0.1521
+  },
+  "sent-2026-09-05::0a4bc8493df5": {
+   "id": "CRVI002128",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002128.jpg",
+   "original_px": [
+    4019,
+    2680
+   ],
+   "original_bytes": 5495584,
+   "identity": "sent-2026-09-05::0a4bc8493df5",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Double_Poke_in_the_Eye_II_%2839384241195%29.jpg",
+   "maker": "Bruce Nauman",
+   "title": "Double Poke in the Eye II",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Wikimedia Commons, as Double Poke in the Eye II. The date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1048.jpg",
+   "source_px": [
+    4019,
+    2680
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Bruce Nauman"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons, as Double Poke in the Eye II. The date is not established here.",
+   "hue": 27.31,
+   "light": 0.2401,
+   "chroma": 0.9422,
+   "punch": 0.3572
+  },
+  "sent-2026-09-05::85ddcdc7282b": {
+   "id": "CRVI002129",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002129.jpg",
+   "original_px": [
+    1500,
+    2084
+   ],
+   "original_bytes": 711842,
+   "identity": "sent-2026-09-05::85ddcdc7282b",
+   "source_url": "https://flash---art.com/wp-content/uploads/2015/10/Schirn_Presse_Kienholz_Ausstellungsansicht_26.jpg",
+   "maker": "Ed Kienholz",
+   "title": "Installation view, Schirn Kunsthalle",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Flash Art, from the Schirn Kunsthalle's Kienholz exhibition — the file name gives Kienholz and marks it an Ausstellungsansicht, an installation view. The individual work's title and date are NOT established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1049.jpg",
+   "source_px": [
+    1500,
+    2084
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Ed Kienholz"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Flash Art, from the Schirn Kunsthalle's Kienholz exhibition — the file name gives Kienholz and marks it an Ausstellungsansicht, an installation view. The individual work's title and date are NOT established here.",
+   "hue": 26.99,
+   "light": 0.4278,
+   "chroma": 0.5216,
+   "punch": 0.1649
+  },
+  "sent-2026-09-05::93d3a3f0e74d": {
+   "id": "CRVI002130",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002130.jpg",
+   "original_px": [
+    812,
+    808
+   ],
+   "original_bytes": 42426,
+   "identity": "sent-2026-09-05::93d3a3f0e74d",
+   "source_url": "https://uploads5.wikiart.org/images/judy-chicago/pasadena-lifesavers-red-5-1970.jpg",
+   "maker": "Judy Chicago",
+   "title": "Pasadena Lifesavers Red #5",
+   "subtitle": "",
+   "year": "1970",
+   "verified_against": "WikiArt, under Judy Chicago, dated 1970.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1050.jpg",
+   "source_px": [
+    812,
+    808
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Judy Chicago"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Judy Chicago, dated 1970.",
+   "hue": 31.76,
+   "light": 0.8143,
+   "chroma": 0.6807,
+   "punch": 0.1438
+  },
+  "sent-2026-09-05::05da197242cc": {
+   "id": "CRVI002131",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002131.jpg",
+   "original_px": [
+    843,
+    840
+   ],
+   "original_bytes": 108511,
+   "identity": "sent-2026-09-05::05da197242cc",
+   "source_url": "https://www.artic.edu/iiif/2/6c86df7d-79d9-dd54-d853-64c45c655d6d/full/843,/0/default.jpg",
+   "maker": "Judy Chicago",
+   "title": "3 Star Cunts",
+   "subtitle": "",
+   "year": "1969",
+   "verified_against": "Art Institute of Chicago, artwork 241656 — the museum's API resolves this image id to Judy Chicago, 3 Star Cunts, 1969.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1051.jpg",
+   "source_px": [
+    843,
+    840
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Judy Chicago"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Institute of Chicago, artwork 241656 — the museum's API resolves this image id to Judy Chicago, 3 Star Cunts, 1969.",
+   "hue": 34.75,
+   "light": 0.8461,
+   "chroma": 0.7573,
+   "punch": 0.1157
+  },
+  "sent-2026-09-05::9021032c2fd4": {
+   "id": "CRVI002132",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002132.jpg",
+   "original_px": [
+    1978,
+    2000
+   ],
+   "original_bytes": 884661,
+   "identity": "sent-2026-09-05::9021032c2fd4",
+   "source_url": "https://www.moma.org/d/assets/W1siZiIsIjIwMTcvMTEvMTQvM2Z4cDM4bjhnXzc3MTJfNTc3NjM0X3NjaG5lZW1hbm4uanBnIl0sWyJwIiwiY29udmVydCIsIi1xdWFsaXR5IDkwIC1yZXNpemUgMjAwMHgyMDAwXHUwMDNlIl1d/7712_577634_schneemann.jpg?sha=a08c6e1e0bc491df",
+   "maker": "Carolee Schneemann",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "A Museum of Modern Art asset whose file name gives 'schneemann'. The individual work's title and date are NOT established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1052.jpg",
+   "source_px": [
+    1978,
+    2000
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Carolee Schneemann"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "photographer",
+     "v": "Carolee Schneemann"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A Museum of Modern Art asset whose file name gives 'schneemann'. The individual work's title and date are NOT established here.",
+   "hue": null,
+   "light": 0.483,
+   "chroma": 0.0,
+   "punch": 0.0029
+  },
+  "sent-2026-09-05::a48afa9c702b": {
+   "id": "CRVI002133",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002133.jpg",
+   "original_px": [
+    1932,
+    2164
+   ],
+   "original_bytes": 1120494,
+   "identity": "sent-2026-09-05::a48afa9c702b",
+   "source_url": "https://img.artlogic.net/w_6000,h_6000,c_limit/exhibit-e/61945b4c94b78824b9217367/b3fd7b61f5b3c421d1bbda80a5ac4cd4.jpeg",
+   "maker": "Carolee Schneemann",
+   "title": "Sequence of falling figures",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "A gallery asset served from Artlogic. The URL carries no artist name — an Artlogic gallery id. The attribution rests on the work and on the batch it arrived in, NOT on the source. Title and date unestablished.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1053.jpg",
+   "source_px": [
+    1932,
+    2164
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Carolee Schneemann"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "photographer",
+     "v": "Carolee Schneemann"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A gallery asset served from Artlogic. The URL carries no artist name — an Artlogic gallery id. The attribution rests on the work and on the batch it arrived in, NOT on the source. Title and date unestablished.",
+   "hue": null,
+   "light": 0.6023,
+   "chroma": 0.0,
+   "punch": 0.0
+  },
+  "sent-2026-09-05::2e5af33d5c28": {
+   "id": "CRVI002134",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002134.jpg",
+   "original_px": [
+    1024,
+    836
+   ],
+   "original_bytes": 272244,
+   "identity": "sent-2026-09-05::2e5af33d5c28",
+   "source_url": "https://static01.nyt.com/images/2015/03/20/arts/20CAROLEESCHEEMANNGALLERY3/20CAROLEESCHEEMANNGALLERY3-jumbo.jpg",
+   "maker": "Carolee Schneemann",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "The New York Times, 20 March 2015, whose asset path names Schneemann. The individual work's title and date are NOT established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1054.jpg",
+   "source_px": [
+    1024,
+    836
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Carolee Schneemann"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The New York Times, 20 March 2015, whose asset path names Schneemann. The individual work's title and date are NOT established here.",
+   "hue": 36.51,
+   "light": 0.5913,
+   "chroma": 0.962,
+   "punch": 0.4184
+  },
+  "sent-2026-09-05::1902fbf516cb": {
+   "id": "CRVI002135",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002135.jpg",
+   "original_px": [
+    1150,
+    1150
+   ],
+   "original_bytes": 89716,
+   "identity": "sent-2026-09-05::1902fbf516cb",
+   "source_url": "https://pulitzerarts.org/wp-content/uploads/2019/10/Hannah-Wilke_AJG-HW-00314.jpg",
+   "maker": "Hannah Wilke",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Pulitzer Arts Foundation, whose file name gives Hannah Wilke and the work number AJG-HW-00314. A folded latex form. The title and date are not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1055.jpg",
+   "source_px": [
+    1150,
+    1150
+   ],
+   "colors": [
+    "red",
+    "white"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Hannah Wilke"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Pulitzer Arts Foundation, whose file name gives Hannah Wilke and the work number AJG-HW-00314. A folded latex form. The title and date are not established here.",
+   "hue": 4.11,
+   "light": 0.7156,
+   "chroma": 0.3547,
+   "punch": 0.0976
+  },
+  "sent-2026-09-05::c53c2c351418": {
+   "id": "CRVI002136",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002136.jpg",
+   "original_px": [
+    2000,
+    1352
+   ],
+   "original_bytes": 160091,
+   "identity": "sent-2026-09-05::c53c2c351418",
+   "source_url": "https://www.blind-magazine.com/wp-content/uploads/2022/04/Hannah-Wilke-art-for-Life-s-Sake-en.jpg",
+   "maker": "Hannah Wilke",
+   "title": "Art for Life's Sake",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Blind Magazine, whose file name gives Hannah Wilke and the exhibition title Art for Life's Sake. NOT a work on its own: a photograph of Wilke standing before a wall of her chewing-gum sculptures. The photographer is not named here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1056.jpg",
+   "source_px": [
+    2000,
+    1352
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Hannah Wilke"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "photographer",
+     "v": "Hannah Wilke"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Blind Magazine, whose file name gives Hannah Wilke and the exhibition title Art for Life's Sake. NOT a work on its own: a photograph of Wilke standing before a wall of her chewing-gum sculptures. The photographer is not named here.",
+   "hue": 18.72,
+   "light": 0.7358,
+   "chroma": 0.1279,
+   "punch": 0.0422
+  },
+  "sent-2026-09-05::ac10f2135810": {
+   "id": "CRVI002137",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002137.jpg",
+   "original_px": [
+    1100,
+    934
+   ],
+   "original_bytes": 494200,
+   "identity": "sent-2026-09-05::ac10f2135810",
+   "source_url": "https://uploads4.wikiart.org/00335/images/martha-rosler/photo-op-from-the-series-bringing-the-war-home-house-beautiful-c-2004-2008.jpg",
+   "maker": "Martha Rosler",
+   "title": "Photo Op, from House Beautiful: Bringing the War Home",
+   "subtitle": "",
+   "year": "c. 2004–2008",
+   "verified_against": "WikiArt, under Martha Rosler, dated c. 2004–2008.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1057.jpg",
+   "source_px": [
+    1100,
+    934
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "collage"
+    },
+    {
+     "k": "artist",
+     "v": "Martha Rosler"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Martha Rosler, dated c. 2004–2008.",
+   "hue": 15.38,
+   "light": 0.5724,
+   "chroma": 0.5284,
+   "punch": 0.1869
+  },
+  "sent-2026-09-05::c8c7bfe6ba79": {
+   "id": "CRVI002138",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002138.jpg",
+   "original_px": [
+    1048,
+    1312
+   ],
+   "original_bytes": 152126,
+   "identity": "sent-2026-09-05::c8c7bfe6ba79",
+   "source_url": "https://uploads1.wikiart.org/00445/images/chris-burden/screenshot-2023-05-17-at-2-51-35-pm.png",
+   "maker": "Chris Burden",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Chris Burden, from a file named only as a screenshot. A small aircraft above a lone figure. The individual work's title and date are NOT established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1058.jpg",
+   "source_px": [
+    1048,
+    1312
+   ],
+   "colors": [
+    "white"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Chris Burden"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "photographer",
+     "v": "Chris Burden"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Chris Burden, from a file named only as a screenshot. A small aircraft above a lone figure. The individual work's title and date are NOT established here.",
+   "hue": null,
+   "light": 0.8833,
+   "chroma": 0.0,
+   "punch": 0.0
+  },
+  "sent-2026-09-05::135d74158556": {
+   "id": "CRVI002139",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002139.jpg",
+   "original_px": [
+    1300,
+    841
+   ],
+   "original_bytes": 422354,
+   "identity": "sent-2026-09-05::135d74158556",
+   "source_url": "https://proyectoidis.org/wp-content/uploads/2013/07/Acconci03.jpg",
+   "maker": "Vito Acconci",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Proyecto IDIS, whose file name gives Acconci. The individual work's title and date are NOT established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1059.jpg",
+   "source_px": [
+    1300,
+    841
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Vito Acconci"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "photographer",
+     "v": "Vito Acconci"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Proyecto IDIS, whose file name gives Acconci. The individual work's title and date are NOT established here.",
+   "hue": null,
+   "light": 0.5663,
+   "chroma": 0.0,
+   "punch": 0.0
+  },
+  "sent-2026-09-05::6baf35660c34": {
+   "id": "CRVI002140",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002140.jpg",
+   "original_px": [
+    1240,
+    1550
+   ],
+   "original_bytes": 72044,
+   "identity": "sent-2026-09-05::6baf35660c34",
+   "source_url": "https://uploads5.wikiart.org/00324/images/matthew-barney/64479168-e9e4-4c5c-8779-9342c479ee50-1632x2040.jpeg",
+   "maker": "Matthew Barney",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Matthew Barney. The individual work's title and date are NOT established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1060.jpg",
+   "source_px": [
+    1240,
+    1550
+   ],
+   "colors": [
+    "cyan",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Matthew Barney"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "photographer",
+     "v": "Matthew Barney"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Matthew Barney. The individual work's title and date are NOT established here.",
+   "hue": 197.8,
+   "light": 0.6397,
+   "chroma": 0.6518,
+   "punch": 0.1959
+  },
+  "sent-2026-09-05::febbd09c882a": {
+   "id": "CRVI002141",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002141.jpg",
+   "original_px": [
+    2000,
+    1334
+   ],
+   "original_bytes": 517037,
+   "identity": "sent-2026-09-05::febbd09c882a",
+   "source_url": "https://www.moma.org/d/c/installation_images/W1siZiIsIjU1MzQ5NiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=4a03298b3f670263",
+   "maker": "Mike Kelley",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "A Museum of Modern Art installation image. Massed stuffed toys, which is Kelley's material. The URL carries no artist name — a MoMA installation-image code. The attribution rests on the work and on the batch it arrived in, NOT on the source. Title and date unestablished.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1061.jpg",
+   "source_px": [
+    2000,
+    1334
+   ],
+   "colors": [
+    "cyan",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Mike Kelley"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A Museum of Modern Art installation image. Massed stuffed toys, which is Kelley's material. The URL carries no artist name — a MoMA installation-image code. The attribution rests on the work and on the batch it arrived in, NOT on the source. Title and date unestablished.",
+   "hue": 34.94,
+   "light": 0.7115,
+   "chroma": 0.4347,
+   "punch": 0.1664
+  },
+  "sent-2026-09-05::3fd366d358d3": {
+   "id": "CRVI002142",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002142.jpg",
+   "original_px": [
+    2450,
+    3000
+   ],
+   "original_bytes": 476877,
+   "identity": "sent-2026-09-05::3fd366d358d3",
+   "source_url": "https://cdn.sanity.io/images/juzvn5an/release-adp/56d9b90cb4f8b171b20e1c190a997ac824e37756-2450x3000.jpg?w=2450",
+   "maker": "Sherrie Levine",
+   "title": "After Mondrian",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "A gallery asset served from Sanity's CDN in an appropriation-art context. ⚠️ The image is a Mondrian composition; whether this is a Mondrian or Levine's re-photograph of one is exactly what the source does not say. Filed under Levine on the batch's logic, which is weaker than usual — worth checking.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1062.jpg",
+   "source_px": [
+    2450,
+    3000
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Sherrie Levine"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A gallery asset served from Sanity's CDN in an appropriation-art context. ⚠️ The image is a Mondrian composition; whether this is a Mondrian or Levine's re-photograph of one is exactly what the source does not say. Filed under Levine on the batch's logic, which is weaker than usual — worth checking.",
+   "hue": 26.45,
+   "light": 0.6561,
+   "chroma": 0.4255,
+   "punch": 0.2508
+  },
+  "sent-2026-09-05::c32705be45d8": {
+   "id": "CRVI002143",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002143.jpg",
+   "original_px": [
+    2000,
+    1300
+   ],
+   "original_bytes": 610124,
+   "identity": "sent-2026-09-05::c32705be45d8",
+   "source_url": "https://uploads6.wikiart.org/images/richard-prince/untitled-cowboy-1989.jpg",
+   "maker": "Richard Prince",
+   "title": "Untitled (Cowboy)",
+   "subtitle": "",
+   "year": "1989",
+   "verified_against": "WikiArt, under Richard Prince, dated 1989.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1063.jpg",
+   "source_px": [
+    2000,
+    1300
+   ],
+   "colors": [
+    "cyan",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Richard Prince"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "photographer",
+     "v": "Richard Prince"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Richard Prince, dated 1989.",
+   "hue": 199.75,
+   "light": 0.5566,
+   "chroma": 0.7778,
+   "punch": 0.2356
+  },
+  "sent-2026-09-05::97edd9c4658b": {
+   "id": "CRVI002144",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002144.jpg",
+   "original_px": [
+    1600,
+    1200
+   ],
+   "original_bytes": 568683,
+   "identity": "sent-2026-09-05::97edd9c4658b",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/de/Richard_Prince_%28Fondation_Fran%C3%A7ois_Pinault%2C_Venise%29_%283739876645%29.jpg",
+   "maker": "Richard Prince",
+   "title": "Untitled (car hood)",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Wikimedia Commons, whose file record places the work at the Fondation François Pinault, Venice, under Richard Prince. The title and date are not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1064.jpg",
+   "source_px": [
+    1600,
+    1200
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Richard Prince"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons, whose file record places the work at the Fondation François Pinault, Venice, under Richard Prince. The title and date are not established here.",
+   "hue": null,
+   "light": 0.3909,
+   "chroma": 0.0955,
+   "punch": 0.0687
+  },
+  "sent-2026-09-05::863836c13c00": {
+   "id": "CRVI002145",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002145.jpg",
+   "original_px": [
+    864,
+    865
+   ],
+   "original_bytes": 147247,
+   "identity": "sent-2026-09-05::863836c13c00",
+   "source_url": "https://art21.org/wp-content/uploads/2017/01/kruger-photo-002-1.jpg",
+   "maker": "Barbara Kruger",
+   "title": "Untitled (I shop therefore I am)",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Art21, whose file name gives Kruger. The sheet letters its own text. The date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1065.jpg",
+   "source_px": [
+    864,
+    865
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Barbara Kruger"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art21, whose file name gives Kruger. The sheet letters its own text. The date is not established here.",
+   "hue": 5.21,
+   "light": 0.4163,
+   "chroma": 0.3498,
+   "punch": 0.2335
+  },
+  "sent-2026-09-05::86d8ba0abe45": {
+   "id": "CRVI002146",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002146.jpg",
+   "original_px": [
+    1000,
+    1423
+   ],
+   "original_bytes": 139450,
+   "identity": "sent-2026-09-05::86d8ba0abe45",
+   "source_url": "https://i.pinimg.com/originals/1e/63/72/1e63720125bbbb77fdd55a882629f94b.jpg",
+   "maker": "Barbara Kruger",
+   "title": "Untitled (The future belongs to those who can see it)",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "A Pinterest file with no provenance; the sheet letters its own text and the Futura-on-red device is Kruger's. Date unestablished.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1066.jpg",
+   "source_px": [
+    1000,
+    1423
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Barbara Kruger"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A Pinterest file with no provenance; the sheet letters its own text and the Futura-on-red device is Kruger's. Date unestablished.",
+   "hue": 355.01,
+   "light": 0.3773,
+   "chroma": 0.3726,
+   "punch": 0.2568
+  },
+  "sent-2026-09-05::5c9a23a8ca9f": {
+   "id": "CRVI002147",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002147.jpg",
+   "original_px": [
+    848,
+    1080
+   ],
+   "original_bytes": 289755,
+   "identity": "sent-2026-09-05::5c9a23a8ca9f",
+   "source_url": "https://i.pinimg.com/originals/6c/bb/6a/6cbb6ac1b4445d78eb54e8e309439fa2.png",
+   "maker": "Barbara Kruger",
+   "title": "Installation with text",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "A Pinterest file with no provenance. A room lined floor to ceiling in Kruger's lettering. Title and date unestablished.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1067.jpg",
+   "source_px": [
+    848,
+    1080
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Barbara Kruger"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A Pinterest file with no provenance. A room lined floor to ceiling in Kruger's lettering. Title and date unestablished.",
+   "hue": 8.32,
+   "light": 0.4684,
+   "chroma": 0.8601,
+   "punch": 0.3053
+  },
+  "sent-2026-09-05::0e9436749ee0": {
+   "id": "CRVI002148",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002148.jpg",
+   "original_px": [
+    2100,
+    1673
+   ],
+   "original_bytes": 866545,
+   "identity": "sent-2026-09-05::0e9436749ee0",
+   "source_url": "https://media.creativeboom.com/88ed7771-2cd6-4258-9d9e-627b0d99d1e7/6b4c31cf1f3f6463ec650790982b09ab2fabb800.jpg",
+   "maker": "Barbara Kruger",
+   "title": "Untitled (You)",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Creative Boom, in a Barbara Kruger context. A room of wall-to-wall text. The individual work's title and date are NOT established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1068.jpg",
+   "source_px": [
+    2100,
+    1673
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Barbara Kruger"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Creative Boom, in a Barbara Kruger context. A room of wall-to-wall text. The individual work's title and date are NOT established here.",
+   "hue": null,
+   "light": 0.6449,
+   "chroma": 0.0,
+   "punch": 0.001
+  },
+  "sent-2026-09-05::a96193184303": {
+   "id": "CRVI002149",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002149.jpg",
+   "original_px": [
+    1919,
+    2774
+   ],
+   "original_bytes": 731973,
+   "identity": "sent-2026-09-05::a96193184303",
+   "source_url": "https://d1tm14lrsghf7q.cloudfront.net/public/media/4535/conversions/231738-cover.jpg",
+   "maker": "Barbara Kruger",
+   "title": "Untitled (You kill time)",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "A CDN asset in a Kruger context; the panel letters its own text. Date unestablished.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1069.jpg",
+   "source_px": [
+    1919,
+    2774
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Barbara Kruger"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A CDN asset in a Kruger context; the panel letters its own text. Date unestablished.",
+   "hue": null,
+   "light": 0.4815,
+   "chroma": 0.0927,
+   "punch": 0.0477
+  },
+  "sent-2026-09-05::cd00b08dbfe2": {
+   "id": "CRVI002150",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002150.jpg",
+   "original_px": [
+    2000,
+    1450
+   ],
+   "original_bytes": 748794,
+   "identity": "sent-2026-09-05::cd00b08dbfe2",
+   "source_url": "https://artblart.com/wp-content/uploads/2017/06/louise-lawler-pollyanna-adjusted-to-fit-distorted-for-the-times-2007_2008_2012-web.jpg",
+   "maker": "Louise Lawler",
+   "title": "Pollyanna (adjusted to fit)",
+   "subtitle": "",
+   "year": "2007/2008/2012",
+   "verified_against": "Artblart, whose file name gives it in full: Louise Lawler, Pollyanna (adjusted to fit, distorted for the times), 2007/2008/2012.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1070.jpg",
+   "source_px": [
+    2000,
+    1450
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Louise Lawler"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    },
+    {
+     "k": "photographer",
+     "v": "Louise Lawler"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Artblart, whose file name gives it in full: Louise Lawler, Pollyanna (adjusted to fit, distorted for the times), 2007/2008/2012.",
+   "hue": 47.31,
+   "light": 0.6059,
+   "chroma": 0.4152,
+   "punch": 0.1162
+  },
+  "sent-2026-09-05::0655e708e262": {
+   "id": "CRVI002151",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002151.jpg",
+   "original_px": [
+    1496,
+    1800
+   ],
+   "original_bytes": 249478,
+   "identity": "sent-2026-09-05::0655e708e262",
+   "source_url": "https://artviewer.org/wp-content/uploads/2017/07/lifeafter1945distorted.jpg",
+   "maker": "Louise Lawler",
+   "title": "Life After 1945 (distorted)",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Art Viewer, whose file name gives 'lifeafter1945distorted' — one of Lawler's distorted stretches. The date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1071.jpg",
+   "source_px": [
+    1496,
+    1800
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Louise Lawler"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "photographer",
+     "v": "Louise Lawler"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Viewer, whose file name gives 'lifeafter1945distorted' — one of Lawler's distorted stretches. The date is not established here.",
+   "hue": 18.25,
+   "light": 0.6636,
+   "chroma": 0.2341,
+   "punch": 0.0871
+  },
+  "sent-2026-09-05::a56f5131eb24": {
+   "id": "CRVI002152",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002152.jpg",
+   "original_px": [
+    1280,
+    1592
+   ],
+   "original_bytes": 398297,
+   "identity": "sent-2026-09-05::a56f5131eb24",
+   "source_url": "https://uploads8.wikiart.org/images/keith-haring/untitled-1982-1.jpg",
+   "maker": "Keith Haring",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "1982",
+   "verified_against": "WikiArt, under Keith Haring, dated 1982.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1072.jpg",
+   "source_px": [
+    1280,
+    1592
+   ],
+   "colors": [
+    "yellow",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Keith Haring"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Keith Haring, dated 1982.",
+   "hue": 56.63,
+   "light": 0.4874,
+   "chroma": 0.9823,
+   "punch": 0.6938
+  },
+  "sent-2026-09-05::9126cd21446b": {
+   "id": "CRVI002153",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002153.jpg",
+   "original_px": [
+    1600,
+    1112
+   ],
+   "original_bytes": 324189,
+   "identity": "sent-2026-09-05::9126cd21446b",
+   "source_url": "https://uploads3.wikiart.org/images/keith-haring/untitled-dance-1987.jpg",
+   "maker": "Keith Haring",
+   "title": "Untitled (Dance)",
+   "subtitle": "",
+   "year": "1987",
+   "verified_against": "WikiArt, under Keith Haring, dated 1987.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1073.jpg",
+   "source_px": [
+    1600,
+    1112
+   ],
+   "colors": [
+    "yellow",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Keith Haring"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Keith Haring, dated 1987.",
+   "hue": 55.63,
+   "light": 0.4582,
+   "chroma": 0.8792,
+   "punch": 0.5757
+  },
+  "sent-2026-09-05::c0f31b8fb034": {
+   "id": "CRVI002154",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002154.jpg",
+   "original_px": [
+    4690,
+    4692
+   ],
+   "original_bytes": 4610287,
+   "identity": "sent-2026-09-05::c0f31b8fb034",
+   "source_url": "https://uploads2.wikiart.org/00159/images/keith-haring/formatfactorykeith-haring2.jpg",
+   "maker": "Keith Haring",
+   "title": "Untitled (Tree of figures)",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Keith Haring; the date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1074.jpg",
+   "source_px": [
+    4690,
+    4692
+   ],
+   "colors": [
+    "cyan",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Keith Haring"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Keith Haring; the date is not established here.",
+   "hue": 185.07,
+   "light": 0.3488,
+   "chroma": 0.9732,
+   "punch": 0.472
+  },
+  "sent-2026-09-05::2e6349dd1891": {
+   "id": "CRVI002155",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002155.jpg",
+   "original_px": [
+    2000,
+    1500
+   ],
+   "original_bytes": 215916,
+   "identity": "sent-2026-09-05::2e6349dd1891",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Untitled%2C_Robert_Gober%2C_Materials_and_Objects%2C_Tate_Modern%2C_London_04.jpg",
+   "maker": "Robert Gober",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Wikimedia Commons, whose file record gives Untitled, Robert Gober, from Materials and Objects at Tate Modern. The date is not established here.",
+   "notes": [
+    "A cast leg emerging from the gallery wall."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1075.jpg",
+   "source_px": [
+    2000,
+    1500
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Robert Gober"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons, whose file record gives Untitled, Robert Gober, from Materials and Objects at Tate Modern. The date is not established here.",
+   "hue": null,
+   "light": 0.5665,
+   "chroma": 0.009,
+   "punch": 0.0679
+  },
+  "sent-2026-09-05::c425f3e8beea": {
+   "id": "CRVI002156",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002156.jpg",
+   "original_px": [
+    1500,
+    841
+   ],
+   "original_bytes": 176041,
+   "identity": "sent-2026-09-05::c425f3e8beea",
+   "source_url": "https://proedu.com/cdn/shop/articles/William_Eggles_2830f48e-42a8-48fd-9b05-af6e58b18963.jpg",
+   "maker": "William Eggleston",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Published in a William Eggleston context by Proedu. The individual work's title and date are NOT established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1076.jpg",
+   "source_px": [
+    1500,
+    841
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "William Eggleston"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "photographer",
+     "v": "William Eggleston"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published in a William Eggleston context by Proedu. The individual work's title and date are NOT established here.",
+   "hue": 14.67,
+   "light": 0.3871,
+   "chroma": 0.7567,
+   "punch": 0.2664
+  },
+  "sent-2026-09-05::401fae21f6f6": {
+   "id": "CRVI002157",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002157.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 233796,
+   "identity": "sent-2026-09-05::401fae21f6f6",
+   "source_url": "https://egglestonartfoundation.org/assets/img/gallery/yellow-building.jpg",
+   "maker": "William Eggleston",
+   "title": "Untitled (yellow building)",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "The Eggleston Artistic Trust's own site. The individual work's title and date are NOT established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1077.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "orange",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "William Eggleston"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "photographer",
+     "v": "William Eggleston"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Eggleston Artistic Trust's own site. The individual work's title and date are NOT established here.",
+   "hue": 43.44,
+   "light": 0.6293,
+   "chroma": 0.7437,
+   "punch": 0.1906
+  },
+  "sent-2026-09-05::5d9fcebf5e0d": {
+   "id": "CRVI002158",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002158.jpg",
+   "original_px": [
+    1342,
+    2000
+   ],
+   "original_bytes": 613217,
+   "identity": "sent-2026-09-05::5d9fcebf5e0d",
+   "source_url": "https://d32dm0rphc51dk.cloudfront.net/GPGlJhIE-QUVxRryJXkPoA/normalized.jpg",
+   "maker": "Nan Goldin",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "An Artsy CDN asset whose URL is an opaque identifier. The URL carries no artist name — an opaque Artsy id. The attribution rests on the work and on the batch it arrived in, NOT on the source. Title and date unestablished.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1078.jpg",
+   "source_px": [
+    1342,
+    2000
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Nan Goldin"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "photographer",
+     "v": "Nan Goldin"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "An Artsy CDN asset whose URL is an opaque identifier. The URL carries no artist name — an opaque Artsy id. The attribution rests on the work and on the batch it arrived in, NOT on the source. Title and date unestablished.",
+   "hue": 34.06,
+   "light": 0.3723,
+   "chroma": 0.7926,
+   "punch": 0.2089
+  },
+  "sent-2026-09-05::58cbe8a4da34": {
+   "id": "CRVI002159",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002159.jpg",
+   "original_px": [
+    3196,
+    3200
+   ],
+   "original_bytes": 2053125,
+   "identity": "sent-2026-09-05::58cbe8a4da34",
+   "source_url": "https://www.christies.com/img/LotImages/2020/NYR/2020_NYR_19581_0108_000(robert_mapplethorpe_irises_1986034628).jpg?mode=max",
+   "maker": "Robert Mapplethorpe",
+   "title": "Irises",
+   "subtitle": "",
+   "year": "1986",
+   "verified_against": "Christie's own lot asset (sale 19581, lot 108, 2020); the file name is Christie's metadata naming Robert Mapplethorpe, Irises, 1986.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1079.jpg",
+   "source_px": [
+    3196,
+    3200
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Robert Mapplethorpe"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "photographer",
+     "v": "Robert Mapplethorpe"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Christie's own lot asset (sale 19581, lot 108, 2020); the file name is Christie's metadata naming Robert Mapplethorpe, Irises, 1986.",
+   "hue": null,
+   "light": 0.4562,
+   "chroma": 0.0,
+   "punch": 0.0096
+  },
+  "sent-2026-09-05::ce6cc5abfb40": {
+   "id": "CRVI002160",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002160.jpg",
+   "original_px": [
+    1400,
+    1398
+   ],
+   "original_bytes": 651738,
+   "identity": "sent-2026-09-05::ce6cc5abfb40",
+   "source_url": "https://www.artgallery.nsw.gov.au/media/thumbnails/uploads/artboards/2017_10/SID59417M.jpg.1400x1400_q85.jpg",
+   "maker": "Robert Mapplethorpe",
+   "title": "Self-portrait",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Art Gallery of New South Wales, whose file name carries its own record number SID59417. The title and date are not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1080.jpg",
+   "source_px": [
+    1400,
+    1398
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Robert Mapplethorpe"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "photographer",
+     "v": "Robert Mapplethorpe"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Gallery of New South Wales, whose file name carries its own record number SID59417. The title and date are not established here.",
+   "hue": null,
+   "light": 0.2585,
+   "chroma": 0.0023,
+   "punch": 0.0097
+  },
+  "sent-2026-09-05::4aa29f3a0340": {
+   "id": "CRVI002161",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002161.jpg",
+   "original_px": [
+    1515,
+    1536
+   ],
+   "original_bytes": 155528,
+   "identity": "sent-2026-09-05::4aa29f3a0340",
+   "source_url": "https://www.dailyartmagazine.com/wp-content/uploads/2023/07/Mapplethorpe-orchid.jpeg",
+   "maker": "Robert Mapplethorpe",
+   "title": "Orchid",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "DailyArt Magazine, whose file name gives Mapplethorpe and the subject. The date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1081.jpg",
+   "source_px": [
+    1515,
+    1536
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Robert Mapplethorpe"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "photographer",
+     "v": "Robert Mapplethorpe"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "DailyArt Magazine, whose file name gives Mapplethorpe and the subject. The date is not established here.",
+   "hue": null,
+   "light": 0.2446,
+   "chroma": 0.0,
+   "punch": 0.0028
+  },
+  "sent-2026-09-05::0aa9fabfb32c": {
+   "id": "CRVI002162",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002162.jpg",
+   "original_px": [
+    2012,
+    2000
+   ],
+   "original_bytes": 908083,
+   "identity": "sent-2026-09-05::0aa9fabfb32c",
+   "source_url": "https://casadaros.net/sites/default/files/magazine_images/3_Schendel_103.224-A1_2_0.jpg",
+   "maker": "Mira Schendel",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Casa Daros, whose file name gives Schendel and the inventory number 103.224-A1. The title and date are not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1082.jpg",
+   "source_px": [
+    2012,
+    2000
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Mira Schendel"
+    },
+    {
+     "k": "location",
+     "v": "Brazil"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Casa Daros, whose file name gives Schendel and the inventory number 103.224-A1. The title and date are not established here.",
+   "hue": 43.81,
+   "light": 0.4436,
+   "chroma": 0.3594,
+   "punch": 0.0973
+  },
+  "sent-2026-09-05::bccc2361cf30": {
+   "id": "CRVI002163",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002163.jpg",
+   "original_px": [
+    994,
+    1825
+   ],
+   "original_bytes": 1293088,
+   "identity": "sent-2026-09-05::bccc2361cf30",
+   "source_url": "https://uploads7.wikiart.org/images/mira-schendel/untitled-1981.jpg",
+   "maker": "Mira Schendel",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "1981",
+   "verified_against": "WikiArt, under Mira Schendel, dated 1981.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1083.jpg",
+   "source_px": [
+    994,
+    1825
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Mira Schendel"
+    },
+    {
+     "k": "location",
+     "v": "Brazil"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Mira Schendel, dated 1981.",
+   "hue": 35.19,
+   "light": 0.4034,
+   "chroma": 0.9986,
+   "punch": 0.5728
+  },
+  "sent-2026-09-05::1b8129a710e9": {
+   "id": "CRVI002164",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002164.jpg",
+   "original_px": [
+    1849,
+    2480
+   ],
+   "original_bytes": 1031150,
+   "identity": "sent-2026-09-05::1b8129a710e9",
+   "source_url": "https://observer.com/wp-content/uploads/sites/2/2023/08/art-gego-sin-titulo-1966.jpg",
+   "maker": "Gego",
+   "title": "Sin título",
+   "subtitle": "",
+   "year": "1966",
+   "verified_against": "The Observer, whose file name gives it in full: Gego, sin título, 1966.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1084.jpg",
+   "source_px": [
+    1849,
+    2480
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Gego"
+    },
+    {
+     "k": "location",
+     "v": "Venezuela"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Observer, whose file name gives it in full: Gego, sin título, 1966.",
+   "hue": 355.58,
+   "light": 0.7484,
+   "chroma": 0.4626,
+   "punch": 0.1176
+  },
+  "sent-2026-09-05::04984df4d07f": {
+   "id": "CRVI002165",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002165.jpg",
+   "original_px": [
+    1170,
+    947
+   ],
+   "original_bytes": 270996,
+   "identity": "sent-2026-09-05::04984df4d07f",
+   "source_url": "https://uploads1.wikiart.org/images/roberto-matta/atlas-de-medication.jpg",
+   "maker": "Roberto Matta",
+   "title": "Atlas de médication",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Roberto Matta. ⚠️ The link as sent had no domain at all — just 'matta/atlas-de-medication.jpg' — and was reconstructed against WikiArt's image hosts until one served it. The date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1085.jpg",
+   "source_px": [
+    1170,
+    947
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Roberto Matta"
+    },
+    {
+     "k": "location",
+     "v": "Chile"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Roberto Matta. ⚠️ The link as sent had no domain at all — just 'matta/atlas-de-medication.jpg' — and was reconstructed against WikiArt's image hosts until one served it. The date is not established here.",
+   "hue": 44.53,
+   "light": 0.51,
+   "chroma": 0.5404,
+   "punch": 0.2156
+  },
+  "sent-2026-09-05::54c06c789f21": {
+   "id": "CRVI002166",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002166.jpg",
+   "original_px": [
+    1000,
+    1304
+   ],
+   "original_bytes": 221963,
+   "identity": "sent-2026-09-05::54c06c789f21",
+   "source_url": "https://uploads4.wikiart.org/images/roberto-matta/pyrocentre.jpg",
+   "maker": "Roberto Matta",
+   "title": "Pyrocentre",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Roberto Matta; the date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1086.jpg",
+   "source_px": [
+    1000,
+    1304
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Roberto Matta"
+    },
+    {
+     "k": "location",
+     "v": "Chile"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Roberto Matta; the date is not established here.",
+   "hue": 207.45,
+   "light": 0.54,
+   "chroma": 0.4291,
+   "punch": 0.1334
+  },
+  "sent-2026-09-05::8cb2f225a58b": {
+   "id": "CRVI002167",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002167.jpg",
+   "original_px": [
+    1772,
+    1360
+   ],
+   "original_bytes": 306187,
+   "identity": "sent-2026-09-05::8cb2f225a58b",
+   "source_url": "https://uploads2.wikiart.org/images/roberto-matta/untitled.jpg",
+   "maker": "Roberto Matta",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Roberto Matta; the date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1087.jpg",
+   "source_px": [
+    1772,
+    1360
+   ],
+   "colors": [
+    "yellow",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Roberto Matta"
+    },
+    {
+     "k": "location",
+     "v": "Chile"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Roberto Matta; the date is not established here.",
+   "hue": 70.7,
+   "light": 0.6236,
+   "chroma": 0.991,
+   "punch": 0.2987
+  },
+  "sent-2026-09-05::2843874ef84b": {
+   "id": "CRVI002168",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002168.jpg",
+   "original_px": [
+    2191,
+    2221
+   ],
+   "original_bytes": 1144003,
+   "identity": "sent-2026-09-05::2843874ef84b",
+   "source_url": "https://uploads7.wikiart.org/images/fernando-botero/the-study-of-vermeer.jpg",
+   "maker": "Fernando Botero",
+   "title": "The Study of Vermeer",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Fernando Botero; the date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1088.jpg",
+   "source_px": [
+    2191,
+    2221
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Fernando Botero"
+    },
+    {
+     "k": "location",
+     "v": "Colombia"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Fernando Botero; the date is not established here.",
+   "hue": 14.51,
+   "light": 0.4668,
+   "chroma": 0.9937,
+   "punch": 0.3325
+  },
+  "sent-2026-09-05::757bc4586a32": {
+   "id": "CRVI002169",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002169.jpg",
+   "original_px": [
+    848,
+    1536
+   ],
+   "original_bytes": 65321,
+   "identity": "sent-2026-09-05::757bc4586a32",
+   "source_url": "https://uploads1.wikiart.org/images/frank-bowling/who-s-afraid-of-barney-newman-1968.jpg",
+   "maker": "Frank Bowling",
+   "title": "Who's Afraid of Barney Newman",
+   "subtitle": "",
+   "year": "1968",
+   "verified_against": "WikiArt, under Frank Bowling, dated 1968.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1089.jpg",
+   "source_px": [
+    848,
+    1536
+   ],
+   "colors": [
+    "red",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Frank Bowling"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Frank Bowling, dated 1968.",
+   "hue": 85.6,
+   "light": 0.4433,
+   "chroma": 0.999,
+   "punch": 0.5065
+  },
+  "sent-2026-09-05::a6dddaa91be2": {
+   "id": "CRVI002170",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002170.jpg",
+   "original_px": [
+    2500,
+    1517
+   ],
+   "original_bytes": 723106,
+   "identity": "sent-2026-09-05::a6dddaa91be2",
+   "source_url": "https://www.wedelart.com/wp-content/uploads/2019/11/1_bowling_flow_with_spencer_i_2012.jpg",
+   "maker": "Frank Bowling",
+   "title": "Flow with Spencer I",
+   "subtitle": "",
+   "year": "2012",
+   "verified_against": "Wedel Art, whose file name gives it in full: Bowling, Flow with Spencer I, 2012.",
+   "notes": [
+    "Taken from the un-suffixed upload rather than the 2048x1243 WordPress derivative the link carried."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1090.jpg",
+   "source_px": [
+    2500,
+    1517
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Frank Bowling"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wedel Art, whose file name gives it in full: Bowling, Flow with Spencer I, 2012.",
+   "hue": 54.09,
+   "light": 0.4998,
+   "chroma": 0.9014,
+   "punch": 0.4038
+  },
+  "sent-2026-09-05::36a720eb7d30": {
+   "id": "CRVI002171",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002171.jpg",
+   "original_px": [
+    1306,
+    1319
+   ],
+   "original_bytes": 503834,
+   "identity": "sent-2026-09-05::36a720eb7d30",
+   "source_url": "https://jnaf.org/wp-content/uploads/2023/01/23-scaled-e1688638364774.jpg",
+   "maker": "Nasreen Mohamedi",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "The Jehangir Nicholson Art Foundation, which holds her work. The individual sheet's title and date are NOT established here.",
+   "notes": [
+    "Taken from a WordPress '-scaled' file; the un-suffixed original was not served."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1091.jpg",
+   "source_px": [
+    1306,
+    1319
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Nasreen Mohamedi"
+    },
+    {
+     "k": "location",
+     "v": "India"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Jehangir Nicholson Art Foundation, which holds her work. The individual sheet's title and date are NOT established here.",
+   "hue": null,
+   "light": 0.716,
+   "chroma": 0.0034,
+   "punch": 0.0371
+  },
+  "sent-2026-09-05::9b1678719b4b": {
+   "id": "CRVI002172",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002172.jpg",
+   "original_px": [
+    1664,
+    1318
+   ],
+   "original_bytes": 538341,
+   "identity": "sent-2026-09-05::9b1678719b4b",
+   "source_url": "https://jnaf.org/wp-content/uploads/2023/01/p1-scaled-e1688641772941.jpg",
+   "maker": "Nasreen Mohamedi",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "The Jehangir Nicholson Art Foundation, which holds her work. The individual work's title and date are NOT established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1092.jpg",
+   "source_px": [
+    1664,
+    1318
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Nasreen Mohamedi"
+    },
+    {
+     "k": "location",
+     "v": "India"
+    },
+    {
+     "k": "photographer",
+     "v": "Nasreen Mohamedi"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Jehangir Nicholson Art Foundation, which holds her work. The individual work's title and date are NOT established here.",
+   "hue": null,
+   "light": 0.5417,
+   "chroma": 0.0004,
+   "punch": 0.0358
+  },
+  "sent-2026-09-05::9a375f65a395": {
+   "id": "CRVI002173",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002173.jpg",
+   "original_px": [
+    2400,
+    1600
+   ],
+   "original_bytes": 766708,
+   "identity": "sent-2026-09-05::9a375f65a395",
+   "source_url": "https://cdn.cahierdeseoul.com/2023/10/Park-Seo-Bo_2.jpg",
+   "maker": "Park Seo-bo",
+   "title": "Écriture",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Cahier de Séoul, whose file name gives Park Seo-Bo. From the Écriture series. The individual work's number and date are NOT established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1093.jpg",
+   "source_px": [
+    2400,
+    1600
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Park Seo-bo"
+    },
+    {
+     "k": "location",
+     "v": "South Korea"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Cahier de Séoul, whose file name gives Park Seo-Bo. From the Écriture series. The individual work's number and date are NOT established here.",
+   "hue": 354.95,
+   "light": 0.4736,
+   "chroma": 0.7656,
+   "punch": 0.4202
+  },
+  "sent-2026-09-05::6a6d572c3780": {
+   "id": "CRVI002174",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002174.jpg",
+   "original_px": [
+    1900,
+    2815
+   ],
+   "original_bytes": 1495798,
+   "identity": "sent-2026-09-05::6a6d572c3780",
+   "source_url": "https://publicdelivery.org/wp-content/uploads/2019/02/Kim-Whanki-25-V-70-173-1970-oil-on-canvas-128-x-87-cm.jpg",
+   "maker": "Kim Whanki",
+   "title": "25-V-70 #173",
+   "subtitle": "",
+   "year": "1970",
+   "verified_against": "Public Delivery, whose file name gives it in full: Kim Whanki, 25-V-70 #173, 1970, oil on canvas, 128 x 87 cm.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1094.jpg",
+   "source_px": [
+    1900,
+    2815
+   ],
+   "colors": [
+    "blue",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Kim Whanki"
+    },
+    {
+     "k": "location",
+     "v": "South Korea"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Public Delivery, whose file name gives it in full: Kim Whanki, 25-V-70 #173, 1970, oil on canvas, 128 x 87 cm.",
+   "hue": 197.78,
+   "light": 0.3409,
+   "chroma": 0.9973,
+   "punch": 0.3015
+  },
+  "sent-2026-09-05::4b3a43bbd0fc": {
+   "id": "CRVI002175",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002175.jpg",
+   "original_px": [
+    1783,
+    2200
+   ],
+   "original_bytes": 2555028,
+   "identity": "sent-2026-09-05::4b3a43bbd0fc",
+   "source_url": "https://img.artlogic.net/w_6000,h_6000,c_limit/exhibit-e/556d89b2cfaf3421548b4568/91f17209ae3f2efcff175e176936cdda.jpeg",
+   "maker": "Yasumasa Morimura",
+   "title": "Self-portrait as a bride",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "A gallery asset served from Artlogic. Morimura's method — the artist staging himself as the subject of a famous picture — and it arrived among his work. The URL carries no artist name — an Artlogic gallery id. The attribution rests on the work and on the batch it arrived in, NOT on the source. Title and date unestablished.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1095.jpg",
+   "source_px": [
+    1783,
+    2200
+   ],
+   "colors": [
+    "yellow",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Yasumasa Morimura"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "photographer",
+     "v": "Yasumasa Morimura"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A gallery asset served from Artlogic. Morimura's method — the artist staging himself as the subject of a famous picture — and it arrived among his work. The URL carries no artist name — an Artlogic gallery id. The attribution rests on the work and on the batch it arrived in, NOT on the source. Title and date unestablished.",
+   "hue": 50.79,
+   "light": 0.6192,
+   "chroma": 0.737,
+   "punch": 0.156
+  },
+  "sent-2026-09-05::564220e47eba": {
+   "id": "CRVI002176",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002176.jpg",
+   "original_px": [
+    1933,
+    2200
+   ],
+   "original_bytes": 1073240,
+   "identity": "sent-2026-09-05::564220e47eba",
+   "source_url": "https://img.artlogic.net/w_6000,h_6000,c_limit/exhibit-e/556d89b2cfaf3421548b4568/9c1f0d251f482559195ab2714befdc4e.jpeg",
+   "maker": "Yasumasa Morimura",
+   "title": "Self-portrait after Vermeer",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "A gallery asset served from Artlogic. Morimura staged as Vermeer's Girl with a Pearl Earring. The URL carries no artist name — an Artlogic gallery id. The attribution rests on the work and on the batch it arrived in, NOT on the source. Title and date unestablished.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1096.jpg",
+   "source_px": [
+    1933,
+    2200
+   ],
+   "colors": [
+    "orange",
+    "blue",
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Yasumasa Morimura"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "photographer",
+     "v": "Yasumasa Morimura"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A gallery asset served from Artlogic. Morimura staged as Vermeer's Girl with a Pearl Earring. The URL carries no artist name — an Artlogic gallery id. The attribution rests on the work and on the batch it arrived in, NOT on the source. Title and date unestablished.",
+   "hue": 35.32,
+   "light": 0.1239,
+   "chroma": 0.2912,
+   "punch": 0.0921
+  },
+  "sent-2026-09-05::98a43a6a437b": {
+   "id": "CRVI002177",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002177.jpg",
+   "original_px": [
+    1991,
+    2445
+   ],
+   "original_bytes": 960156,
+   "identity": "sent-2026-09-05::98a43a6a437b",
+   "source_url": "https://media.mutualart.com/Images/2023_07/02/10/101916300/yasumasa-morimura-self-portrait-as-maril-ENGFV.Jpeg",
+   "maker": "Yasumasa Morimura",
+   "title": "Self-portrait as Marilyn",
+   "subtitle": "",
+   "year": "1995",
+   "verified_against": "MutualArt, whose file name gives Yasumasa Morimura and self-portrait as Marilyn; the print is signed and dated 1995, numbered 20/20.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1097.jpg",
+   "source_px": [
+    1991,
+    2445
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Yasumasa Morimura"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "photographer",
+     "v": "Yasumasa Morimura"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "MutualArt, whose file name gives Yasumasa Morimura and self-portrait as Marilyn; the print is signed and dated 1995, numbered 20/20.",
+   "hue": 17.51,
+   "light": 0.6895,
+   "chroma": 0.8128,
+   "punch": 0.1527
+  },
+  "sent-2026-09-05::1b3eb5b9a8c8": {
+   "id": "CRVI002178",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002178.jpg",
+   "original_px": [
+    1046,
+    1294
+   ],
+   "original_bytes": 1195618,
+   "identity": "sent-2026-09-05::1b3eb5b9a8c8",
+   "source_url": "https://s3.amazonaws.com/files.collageplatform.com.prod/image_cache/1294x1294_fit/556d89b2cfaf3421548b4568/b13f76d6dbfda755621b9e8c7972fa7d.jpeg",
+   "maker": "Yasumasa Morimura",
+   "title": "Self-portrait after Frida Kahlo",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "A gallery asset served from an S3 image cache. The URL carries no artist name — an S3 cache id. The attribution rests on the work and on the batch it arrived in, NOT on the source. Title and date unestablished.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1098.jpg",
+   "source_px": [
+    1046,
+    1294
+   ],
+   "colors": [
+    "orange",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Yasumasa Morimura"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "photographer",
+     "v": "Yasumasa Morimura"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A gallery asset served from an S3 image cache. The URL carries no artist name — an S3 cache id. The attribution rests on the work and on the batch it arrived in, NOT on the source. Title and date unestablished.",
+   "hue": 31.44,
+   "light": 0.4637,
+   "chroma": 0.627,
+   "punch": 0.2304
+  },
+  "sent-2026-09-05::e1cbd526f88c": {
+   "id": "CRVI002179",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002179.jpg",
+   "original_px": [
+    1250,
+    1482
+   ],
+   "original_bytes": 780303,
+   "identity": "sent-2026-09-05::e1cbd526f88c",
+   "source_url": "https://static.wixstatic.com/media/cd0976_4e88623ce2cf49869f19952079019198~mv2.png",
+   "maker": "Yasumasa Morimura",
+   "title": "Self-portrait after David's Napoleon",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "A Wix-hosted gallery asset. The URL carries no artist name — a Wix media id. The attribution rests on the work and on the batch it arrived in, NOT on the source. Title and date unestablished.",
+   "notes": [
+    "Taken from the bare Wix file at 1250x1482. Wix's /v1/fill/ transform UPSCALES, so the requested 980px version was not the honest one and a larger request would have been invented pixels."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1099.jpg",
+   "source_px": [
+    1250,
+    1482
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Yasumasa Morimura"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "photographer",
+     "v": "Yasumasa Morimura"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A Wix-hosted gallery asset. The URL carries no artist name — a Wix media id. The attribution rests on the work and on the batch it arrived in, NOT on the source. Title and date unestablished.",
+   "hue": 24.91,
+   "light": 0.4436,
+   "chroma": 0.4408,
+   "punch": 0.1292
+  },
+  "sent-2026-09-05::cca47593e4f6": {
+   "id": "CRVI002180",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002180.jpg",
+   "original_px": [
+    1378,
+    1723
+   ],
+   "original_bytes": 1099301,
+   "identity": "sent-2026-09-05::cca47593e4f6",
+   "source_url": "https://img.artlogic.net/w_6000,h_6000,c_limit/exhibit-e/556d89b2cfaf3421548b4568/e0e51d0d10851f0540edc7acedd6c86b.jpeg",
+   "maker": "Yasumasa Morimura",
+   "title": "Self-portrait after Velázquez",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "A gallery asset served from Artlogic. The URL carries no artist name — an Artlogic gallery id. The attribution rests on the work and on the batch it arrived in, NOT on the source. Title and date unestablished.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1100.jpg",
+   "source_px": [
+    1378,
+    1723
+   ],
+   "colors": [
+    "orange",
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Yasumasa Morimura"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "photographer",
+     "v": "Yasumasa Morimura"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A gallery asset served from Artlogic. The URL carries no artist name — an Artlogic gallery id. The attribution rests on the work and on the batch it arrived in, NOT on the source. Title and date unestablished.",
+   "hue": 43.92,
+   "light": 0.209,
+   "chroma": 0.5065,
+   "punch": 0.103
+  },
+  "sent-2026-09-05::3e5d4735c733": {
+   "id": "CRVI002181",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002181.jpg",
+   "original_px": [
+    2546,
+    3200
+   ],
+   "original_bytes": 337243,
+   "identity": "sent-2026-09-05::3e5d4735c733",
+   "source_url": "https://www.christies.com/img/LotImages/2013/NYR/2013_NYR_02683_0295_000(zhang_huan_1_2062203).jpg?mode=max",
+   "maker": "Zhang Huan",
+   "title": "1/2",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Christie's own lot asset (sale 02683, lot 295, 2013); the file name is Christie's metadata naming Zhang Huan. The body inscribed with Chinese characters. The date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1101.jpg",
+   "source_px": [
+    2546,
+    3200
+   ],
+   "colors": [
+    "orange",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Zhang Huan"
+    },
+    {
+     "k": "location",
+     "v": "China"
+    },
+    {
+     "k": "photographer",
+     "v": "Zhang Huan"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Christie's own lot asset (sale 02683, lot 295, 2013); the file name is Christie's metadata naming Zhang Huan. The body inscribed with Chinese characters. The date is not established here.",
+   "hue": 26.16,
+   "light": 0.6308,
+   "chroma": 0.371,
+   "punch": 0.1373
+  },
+  "sent-2026-09-05::7d5e1c502c67": {
+   "id": "CRVI002182",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002182.jpg",
+   "original_px": [
+    1495,
+    1000
+   ],
+   "original_bytes": 421860,
+   "identity": "sent-2026-09-05::7d5e1c502c67",
+   "source_url": "https://www.pacegallery.com/media/images/6.original.jpg",
+   "maker": "Zhang Huan",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "A Pace Gallery asset whose file name is only a number. A figure in white before a wall of red scribble. The URL carries no artist name — a bare Pace file number. The attribution rests on the work and on the batch it arrived in, NOT on the source. Title and date unestablished.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1102.jpg",
+   "source_px": [
+    1495,
+    1000
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Zhang Huan"
+    },
+    {
+     "k": "location",
+     "v": "China"
+    },
+    {
+     "k": "photographer",
+     "v": "Zhang Huan"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A Pace Gallery asset whose file name is only a number. A figure in white before a wall of red scribble. The URL carries no artist name — a bare Pace file number. The attribution rests on the work and on the batch it arrived in, NOT on the source. Title and date unestablished.",
+   "hue": 349.26,
+   "light": 0.6791,
+   "chroma": 0.8324,
+   "punch": 0.2031
+  },
+  "sent-2026-09-05::fbeeb2261ef0": {
+   "id": "CRVI002183",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002183.jpg",
+   "original_px": [
+    2554,
+    2560
+   ],
+   "original_bytes": 848192,
+   "identity": "sent-2026-09-05::fbeeb2261ef0",
+   "source_url": "https://i0.wp.com/www.middleeastmonitor.com/wp-content/uploads/2021/12/gen-press-adnan-x.2021.23-scaled.jpg?ssl=1",
+   "maker": "Etel Adnan",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Middle East Monitor, from press material whose file name gives Adnan. The individual work's title and date are NOT established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1103.jpg",
+   "source_px": [
+    2554,
+    2560
+   ],
+   "colors": [
+    "green",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Etel Adnan"
+    },
+    {
+     "k": "location",
+     "v": "Lebanon"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Middle East Monitor, from press material whose file name gives Adnan. The individual work's title and date are NOT established here.",
+   "hue": 54.31,
+   "light": 0.6038,
+   "chroma": 0.9427,
+   "punch": 0.2994
+  },
+  "sent-2026-09-05::ddd2f434dba0": {
+   "id": "CRVI002184",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002184.jpg",
+   "original_px": [
+    840,
+    933
+   ],
+   "original_bytes": 202703,
+   "identity": "sent-2026-09-05::ddd2f434dba0",
+   "source_url": "https://media.mutualart.com/Images/2023_11/21/06/062605044/etel-adnan-equilibre-8KU2K.Jpeg",
+   "maker": "Etel Adnan",
+   "title": "Équilibre",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "MutualArt, whose file name gives Etel Adnan and Équilibre. The date is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1104.jpg",
+   "source_px": [
+    840,
+    933
+   ],
+   "colors": [
+    "orange",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Etel Adnan"
+    },
+    {
+     "k": "location",
+     "v": "Lebanon"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "MutualArt, whose file name gives Etel Adnan and Équilibre. The date is not established here.",
+   "hue": 25.56,
+   "light": 0.6948,
+   "chroma": 0.9371,
+   "punch": 0.2941
+  },
+  "sent-2026-09-05::1fbd652c3ba6": {
+   "id": "CRVI002185",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002185.jpg",
+   "original_px": [
+    4474,
+    4500
+   ],
+   "original_bytes": 4944758,
+   "identity": "sent-2026-09-05::1fbd652c3ba6",
+   "source_url": "https://zuercher-museen.ch/media/0kzfrfdt/laib__06-zikkurat-2000.jpg",
+   "maker": "Wolfgang Laib",
+   "title": "Zikkurat",
+   "subtitle": "",
+   "year": "2000",
+   "verified_against": "Zürcher Museen, whose file name gives it in full: Laib, Zikkurat, 2000.",
+   "notes": [
+    "Beeswax blocks stacked into a ziggurat."
+   ],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1105.jpg",
+   "source_px": [
+    4474,
+    4500
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Wolfgang Laib"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Zürcher Museen, whose file name gives it in full: Laib, Zikkurat, 2000.",
+   "hue": 29.4,
+   "light": 0.7667,
+   "chroma": 0.2937,
+   "punch": 0.1641
   }
  }
 }
