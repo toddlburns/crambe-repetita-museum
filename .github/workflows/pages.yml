@@ -6,9 +6,11 @@
 # remain in the repository untouched — see that script's docstring.
 name: Pages
 
+# ⚠️ NO LONGER FIRES ON PUSH. GitHub Pages caps a published site at 1 GB on every plan and
+# this one reached ~1,105 MB on 2026-09-06, so every automatic run from here would fail. Kept
+# on workflow_dispatch as the rollback path if Cloudflare ever has to be backed out; it will
+# only succeed again if the payload comes back under the cap.
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
 
 permissions:

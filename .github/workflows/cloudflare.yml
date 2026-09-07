@@ -10,9 +10,10 @@
 #   CLOUDFLARE_ACCOUNT_ID  — the account id from the Cloudflare dashboard URL
 name: Cloudflare Pages
 
+# ⚠️ MANUAL UNTIL THE SECRETS EXIST. Flip this back to `push: branches: [main]` the moment
+# CLOUDFLARE_API_TOKEN and CLOUDFLARE_ACCOUNT_ID are set on the repo — until then an automatic
+# run would just fail on every push. Deploys from Todd's Mac go through cloudflare_deploy.py.
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
 
 concurrency:
