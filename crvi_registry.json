@@ -1,5 +1,5 @@
 {
- "next": 2364,
+ "next": 2367,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -78909,7 +78909,8 @@
    "catalogue": "7034",
    "notes": [
     "A man sitting on his heels against a weathered board fence, printed as a yellow-green duotone that flattens him into the boards.",
-    "The billing runs across the top in heavy black caps, with the label line set small and grey above it."
+    "The billing runs across the top in heavy black caps, with the label line set small and grey above it.",
+    "DELETED from the museum on 2026-09-06. The record is kept so CRVI001317 stays provably retired and is never reissued."
    ],
    "verified_against": "Identified from the artwork, which names the record. Checked against Discogs release 19634047. It credits the cover design to Tom Hannan and Bob Weinstock. From the folder Todd sent on 2026-09-04. ⚠️ These are Universal Music production files, whose filenames name a SIDEMAN as often as the leader — the file for Here's Lee Morgan is filed under Art Blakey — so every one was identified from the artwork instead.",
    "source_record": "folder 2026-09-04a, sent by Todd",
@@ -78954,7 +78955,7 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "Identified from the artwork, which names the record. Checked against Discogs release 19634047. It credits the cover design to Tom Hannan and Bob Weinstock. From the folder Todd sent on 2026-09-04. ⚠️ These are Universal Music production files, whose filenames name a SIDEMAN as often as the leader — the file for Here's Lee Morgan is filed under Art Blakey — so every one was identified from the artwork instead.",
    "hue": 64.51,
    "light": 0.4598,
@@ -78965,7 +78966,9 @@
      "k": "subject",
      "v": "jazz"
     }
-   ]
+   ],
+   "deleted": true,
+   "deleted_on": "2026-09-06"
   },
   "todd sent 2026-09-04::tanya-tucker-tnt-mca-records-ay-1104": {
    "id": "CRVI001318",
@@ -80458,7 +80461,7 @@
    ],
    "original_bytes": 1815957,
    "identity": "todd sent 2026-09-04::unattributed-woman-in-a-striped-jumpsuit-on-a-first-aid-box",
-   "maker": "unattributed",
+   "maker": "Lynn Goldsmith",
    "title": "Woman in a striped jumpsuit on a first-aid box",
    "subtitle": "Photographer unidentified",
    "year": "",
@@ -80468,7 +80471,7 @@
     "The stripes of the costume, the red belt and the red shoes are the only colour; the box supplies the only straight lines.",
     "⚠️ Published 2026-09-04 with its attribution unresolved. The uncertainty is stated in full on this record rather than hidden by keeping the item off the site."
    ],
-   "verified_against": "⚠️ NOT ESTABLISHED — PUBLISHED ANYWAY, under Todd's standing instruction of 2026-09-03: publish held items with or without credits and say plainly that the answer is not known. nothing established. A colour studio portrait supplied without a credit. ⚠️ It arrived alongside two Lynn Goldsmith photographs and is lit and staged much as hers are, but adjacency is not attribution and no photographer is named here. Published with the uncertainty stated.",
+   "verified_against": "Identified by Todd, 2026-09-07: \"photographer was lynn goldsmith\". The FILE still establishes nothing — it arrived without credits — so this attribution rests on the collector's identification, not on a source. The sitter remains unidentified and is deliberately not guessed at.",
    "source_record": "folder 2026-09-04a, sent by Todd",
    "source_image": "/Users/todd/Desktop/2026-09-04a/kz5535dfy4gnrg2ord67zoax3fz4-4fab3e849cec2283156455f8f94de7dc.jpg",
    "source_px": [
@@ -80483,6 +80486,10 @@
     {
      "k": "type",
      "v": "photograph"
+    },
+    {
+     "k": "photographer",
+     "v": "Lynn Goldsmith"
     }
    ],
    "identity_established": false,
@@ -80601,7 +80608,7 @@
    "original_bytes": 222186,
    "identity": "todd sent 2026-09-04::unattributed-two-figures-one-holding-a-camera",
    "maker": "unattributed",
-   "title": "Two figures, one holding a camera",
+   "title": "Patti Smith with a camera, and Lynn Goldsmith",
    "subtitle": "Photographer unidentified",
    "year": "",
    "label": "",
@@ -80610,7 +80617,7 @@
     "The camera is aimed at the viewer, so the picture contains the act of taking it.",
     "⚠️ Published 2026-09-04 with its attribution unresolved. The uncertainty is stated in full on this record rather than hidden by keeping the item off the site."
    ],
-   "verified_against": "⚠️ NOT ESTABLISHED — PUBLISHED ANYWAY, under Todd's standing instruction of 2026-09-03: publish held items with or without credits and say plainly that the answer is not known. nothing established. A black-and-white studio portrait supplied without a credit or caption. ⚠️ No photographer and no sitters are confirmed. Published with the uncertainty stated.",
+   "verified_against": "Identified by Todd, 2026-09-07: \"the subject here is patti smith holding camera and lynn goldsmith\". ⚠️ That names the SITTERS, not the maker — and since Goldsmith is IN the frame she is not the photographer of it. The maker therefore stays unattributed rather than being inferred from the other Goldsmith record in this run.",
    "source_record": "folder 2026-09-04a, sent by Todd",
    "source_image": "/Users/todd/Desktop/2026-09-04a/original.jpg",
    "source_px": [
@@ -80624,6 +80631,14 @@
     {
      "k": "type",
      "v": "photograph"
+    },
+    {
+     "k": "subject",
+     "v": "Patti Smith"
+    },
+    {
+     "k": "subject",
+     "v": "Lynn Goldsmith"
     }
    ],
    "identity_established": false,
@@ -137684,6 +137699,150 @@
    "light": 0.5545,
    "chroma": 0.8068,
    "punch": 0.4734
+  },
+  "sent-2026-09-07d::2b99642b7c9d": {
+   "id": "CRVI002364",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002364.jpg",
+   "original_px": [
+    2500,
+    3139
+   ],
+   "original_bytes": 2598037,
+   "identity": "sent-2026-09-07d::2b99642b7c9d",
+   "source_url": "https://images.squarespace-cdn.com/content/v1/56c346b607eaa09d9189a870/c9e03eee-1ec1-491a-b76a-419d7aa8a766/178_Flaunt_Magazine_Digital_Flaunt.com_Web_Considerations3.jpg",
+   "maker": "Tauba Auerbach",
+   "title": "Woven composition in orange and white",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Flaunt Magazine's Tauba Auerbach feature, served from the magazine's Squarespace site (56c346b607eaa09d9189a870) — the same site and same feature as the archive's existing Auerbach record from '...Considerations4.jpg'; this is '...Considerations3.jpg'. ⚠️ The feature establishes the ARTIST. Title and date are not established, and the title given here is descriptive: the dense orange-on-white interlace of her woven/mesh paintings.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img43/01.jpg",
+   "source_px": [
+    2500,
+    3139
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Tauba Auerbach"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Flaunt Magazine's Tauba Auerbach feature, served from the magazine's Squarespace site (56c346b607eaa09d9189a870) — the same site and same feature as the archive's existing Auerbach record from '...Considerations4.jpg'; this is '...Considerations3.jpg'. ⚠️ The feature establishes the ARTIST. Title and date are not established, and the title given here is descriptive: the dense orange-on-white interlace of her woven/mesh paintings.",
+   "hue": 25.05,
+   "light": 0.749,
+   "chroma": 0.6774,
+   "punch": 0.218
+  },
+  "sent-2026-09-07d::be9a052aa9ab": {
+   "id": "CRVI002365",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002365.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 495922,
+   "identity": "sent-2026-09-07d::be9a052aa9ab",
+   "source_url": "https://www.wright20.com/items/index/2000/133_1_mass_modern_july_2013_tauba_auerbach_untitled_the_whole_alphabet_from_the_center_out__wright_auction.jpg?t=1687362157",
+   "maker": "Tauba Auerbach",
+   "title": "Untitled (The Whole Alphabet, From the Center Out)",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Wright, whose lot file names artist, work and sale: 'tauba_auerbach_untitled_the_whole_alphabet_from_the_center_out__wright_auction', Mass Modern, July 2013. The ruled coloured lines radiating from a central point are that work. The source gives no year.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img43/02.jpg",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Tauba Auerbach"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wright, whose lot file names artist, work and sale: 'tauba_auerbach_untitled_the_whole_alphabet_from_the_center_out__wright_auction', Mass Modern, July 2013. The ruled coloured lines radiating from a central point are that work. The source gives no year.",
+   "hue": 54.0,
+   "light": 0.8228,
+   "chroma": 0.1704,
+   "punch": 0.055
+  },
+  "sent-2026-09-07d::d0e76cabecbb": {
+   "id": "CRVI002366",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002366.jpg",
+   "original_px": [
+    1250,
+    1005
+   ],
+   "original_bytes": 1117651,
+   "identity": "sent-2026-09-07d::d0e76cabecbb",
+   "source_url": "https://images.surfacemag.com/app/uploads/2018/06/27212328/Auerbach-Flow.jpg",
+   "maker": "Tauba Auerbach",
+   "title": "Flow",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Surface magazine, whose file names artist and work ('Auerbach-Flow'). Auerbach's marbled / suminagashi surface, red on white, with letterforms surfacing in the swirl. The upload path is dated 2018, which dates the ARTICLE and not necessarily the work, so no year is recorded.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img43/04.jpg",
+   "source_px": [
+    1250,
+    1005
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Tauba Auerbach"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Surface magazine, whose file names artist and work ('Auerbach-Flow'). Auerbach's marbled / suminagashi surface, red on white, with letterforms surfacing in the swirl. The upload path is dated 2018, which dates the ARTICLE and not necessarily the work, so no year is recorded.",
+   "hue": 356.21,
+   "light": 0.5809,
+   "chroma": 0.9974,
+   "punch": 0.3463
   }
  }
 }
