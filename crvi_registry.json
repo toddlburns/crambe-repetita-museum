@@ -1,5 +1,5 @@
 {
- "next": 2367,
+ "next": 2380,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -78957,10 +78957,10 @@
    "identity_established": true,
    "published": false,
    "verification": "Identified from the artwork, which names the record. Checked against Discogs release 19634047. It credits the cover design to Tom Hannan and Bob Weinstock. From the folder Todd sent on 2026-09-04. ⚠️ These are Universal Music production files, whose filenames name a SIDEMAN as often as the leader — the file for Here's Lee Morgan is filed under Art Blakey — so every one was identified from the artwork instead.",
-   "hue": 64.51,
-   "light": 0.4598,
-   "chroma": 0.7462,
-   "punch": 0.2584,
+   "hue": 31.43,
+   "light": 0.4815,
+   "chroma": 0.7129,
+   "punch": 0.1689,
    "extra_tags": [
     {
      "k": "subject",
@@ -78968,7 +78968,8 @@
     }
    ],
    "deleted": true,
-   "deleted_on": "2026-09-06"
+   "deleted_on": "2026-09-06",
+   "number_reused": true
   },
   "todd sent 2026-09-04::tanya-tucker-tnt-mca-records-ay-1104": {
    "id": "CRVI001318",
@@ -137843,6 +137844,663 @@
    "light": 0.5809,
    "chroma": 0.9974,
    "punch": 0.3463
+  },
+  "sent-2026-09-07e::d43d5c3c728e": {
+   "id": "CRVI001317",
+   "minted": "2026-09-07",
+   "reused": true,
+   "previously": {
+    "identity": "todd sent 2026-09-04::miles-davis-and-milt-jackson-quintet-sextet-prestige-7034",
+    "maker": "Miles Davis and Milt Jackson",
+    "title": "Quintet/Sextet",
+    "deleted_on": "2026-09-06"
+   },
+   "original_file": "originals/CRVI001317.jpg",
+   "original_px": [
+    1600,
+    1994
+   ],
+   "original_bytes": 1299333,
+   "identity": "sent-2026-09-07e::d43d5c3c728e",
+   "source_url": "https://assets.vogue.com/photos/5d811330ddd0460009836880/master/w_1600%2Cc_limit/05-john-currin.jpg",
+   "maker": "John Currin",
+   "title": "Couple with a fruited hat",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Vogue, whose file names the artist ('05-john-currin'). ⚠️ Title and date are NOT established; the title here is descriptive — an older man embracing a woman wearing a hat of fruit, a wine glass, playing cards and a snail.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img44/01.jpg",
+   "source_px": [
+    1600,
+    1994
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "John Currin"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Vogue, whose file names the artist ('05-john-currin'). ⚠️ Title and date are NOT established; the title here is descriptive — an older man embracing a woman wearing a hat of fruit, a wine glass, playing cards and a snail.",
+   "hue": 31.43,
+   "light": 0.4815,
+   "chroma": 0.7129,
+   "punch": 0.1689
+  },
+  "sent-2026-09-07e::9a188d6ddb49": {
+   "id": "CRVI002367",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002367.jpg",
+   "original_px": [
+    1024,
+    1280
+   ],
+   "original_bytes": 331285,
+   "identity": "sent-2026-09-07e::9a188d6ddb49",
+   "source_url": "https://phi.ca/uploads/Importation/currin-1024x1280.jpg",
+   "maker": "John Currin",
+   "title": "Rachel in Fur",
+   "subtitle": "",
+   "year": "2002",
+   "verified_against": "The PHI Foundation, Montreal, from its John Currin exhibition — the blonde sitter in a fur collar and oversized sunglasses. ⚠️ Sources give the date as either 2002 or 2003; 2002 is recorded here and the disagreement is noted rather than hidden.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img44/02.jpg",
+   "source_px": [
+    1024,
+    1280
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "John Currin"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The PHI Foundation, Montreal, from its John Currin exhibition — the blonde sitter in a fur collar and oversized sunglasses. ⚠️ Sources give the date as either 2002 or 2003; 2002 is recorded here and the disagreement is noted rather than hidden.",
+   "hue": 33.78,
+   "light": 0.5613,
+   "chroma": 0.5887,
+   "punch": 0.1494
+  },
+  "sent-2026-09-07e::87af9197b753": {
+   "id": "CRVI002368",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002368.jpg",
+   "original_px": [
+    1578,
+    2048
+   ],
+   "original_bytes": 709238,
+   "identity": "sent-2026-09-07e::87af9197b753",
+   "source_url": "https://www.papercitymag.com/wp-content/smush-webp/2019/08/258-4x6-John-Currin-Hot-Pants-2010.jpg.webp",
+   "maker": "John Currin",
+   "title": "Hot Pants",
+   "subtitle": "",
+   "year": "2010",
+   "verified_against": "PaperCity, whose file names artist, work and year: '258-4x6-John-Currin-Hot-Pants-2010'.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img44/03.jpg",
+   "source_px": [
+    1578,
+    2048
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "John Currin"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "PaperCity, whose file names artist, work and year: '258-4x6-John-Currin-Hot-Pants-2010'.",
+   "hue": 27.74,
+   "light": 0.4307,
+   "chroma": 0.6845,
+   "punch": 0.239
+  },
+  "sent-2026-09-07e::2ce82ad38f83": {
+   "id": "CRVI002369",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002369.jpg",
+   "original_px": [
+    2048,
+    1249
+   ],
+   "original_bytes": 717028,
+   "identity": "sent-2026-09-07e::2ce82ad38f83",
+   "source_url": "https://www.1st-art-gallery.com/cdn-cgi/image/format=webp,quality=85/media/wysiwyg/The_Stone_Breakers.png",
+   "maker": "Gustave Courbet",
+   "title": "The Stone Breakers (Les Casseurs de pierres)",
+   "subtitle": "",
+   "year": "1849",
+   "verified_against": "Wikimedia Commons, 'Gustave Courbet 018.jpg', 2048x1249 — the two-figure composition of the 1849 painting, destroyed in the bombing of Dresden in 1945. ⚠️ SOURCE SUBSTITUTED: Todd's link was to 1st-art-gallery.com, a reproduction seller, which returns 403 to every fetch. ⚠️ A larger Commons file, 'Gustave Courbet 040.jpg' (4048x3284), was rejected because it is a DIFFERENT work — the single-figure Stone Breaker.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img44/04.jpg",
+   "source_px": [
+    2048,
+    1249
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Gustave Courbet"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1840s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons, 'Gustave Courbet 018.jpg', 2048x1249 — the two-figure composition of the 1849 painting, destroyed in the bombing of Dresden in 1945. ⚠️ SOURCE SUBSTITUTED: Todd's link was to 1st-art-gallery.com, a reproduction seller, which returns 403 to every fetch. ⚠️ A larger Commons file, 'Gustave Courbet 040.jpg' (4048x3284), was rejected because it is a DIFFERENT work — the single-figure Stone Breaker.",
+   "hue": 41.71,
+   "light": 0.4353,
+   "chroma": 0.3237,
+   "punch": 0.0891
+  },
+  "sent-2026-09-07e::2f8979a30447": {
+   "id": "CRVI002370",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002370.jpg",
+   "original_px": [
+    1054,
+    1500
+   ],
+   "original_bytes": 408127,
+   "identity": "sent-2026-09-07e::2f8979a30447",
+   "source_url": "https://img1.onebid.pl/img/5067/1324319_1b.jpg",
+   "maker": "Unidentified",
+   "title": "Print with framed landscape panels above a figure at a wall",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "⚠️ UNATTRIBUTED. A OneBid (Polish auction) lot image, which names no artist. It arrived inside a Jan Sawka run and it reads like his work, but the source establishes nothing and resemblance is not attribution. Waiting on a name.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img44/05.jpg",
+   "source_px": [
+    1054,
+    1500
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ UNATTRIBUTED. A OneBid (Polish auction) lot image, which names no artist. It arrived inside a Jan Sawka run and it reads like his work, but the source establishes nothing and resemblance is not attribution. Waiting on a name.",
+   "hue": 31.12,
+   "light": 0.4479,
+   "chroma": 0.8438,
+   "punch": 0.2518
+  },
+  "sent-2026-09-07e::38b1f847a485": {
+   "id": "CRVI002371",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002371.jpg",
+   "original_px": [
+    1600,
+    1200
+   ],
+   "original_bytes": 750198,
+   "identity": "sent-2026-09-07e::38b1f847a485",
+   "source_url": "https://img1.onebid.pl/img/6325/1786317_1b.jpg",
+   "maker": "Unidentified",
+   "title": "Two suited figures sharing a red head",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "⚠️ UNATTRIBUTED. A OneBid (Polish auction) lot image, which names no artist. It arrived inside a Jan Sawka run and it reads like his work, but the source establishes nothing and resemblance is not attribution. Waiting on a name.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img44/06.jpg",
+   "source_px": [
+    1600,
+    1200
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ UNATTRIBUTED. A OneBid (Polish auction) lot image, which names no artist. It arrived inside a Jan Sawka run and it reads like his work, but the source establishes nothing and resemblance is not attribution. Waiting on a name.",
+   "hue": 44.93,
+   "light": 0.5708,
+   "chroma": 0.5598,
+   "punch": 0.2174
+  },
+  "sent-2026-09-07e::89c29f84ce97": {
+   "id": "CRVI002372",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002372.jpg",
+   "original_px": [
+    2000,
+    1401
+   ],
+   "original_bytes": 655312,
+   "identity": "sent-2026-09-07e::89c29f84ce97",
+   "source_url": "https://www.moma.org/media/W1siZiIsIjU3OTAzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=2e5e0eaa632e9cfd",
+   "maker": "Jan Sawka",
+   "title": "Crash",
+   "subtitle": "",
+   "year": "1977",
+   "verified_against": "MoMA's own media server. The work is MoMA's Jan Sawka, Crash, 1977, offset lithograph, 26 1/4 x 37 3/4 in. (66.6 x 95.8 cm), gift of the artist — object 8342.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img44/07.jpg",
+   "source_px": [
+    2000,
+    1401
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Jan Sawka"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "MoMA's own media server. The work is MoMA's Jan Sawka, Crash, 1977, offset lithograph, 26 1/4 x 37 3/4 in. (66.6 x 95.8 cm), gift of the artist — object 8342.",
+   "hue": 7.04,
+   "light": 0.2974,
+   "chroma": 0.1488,
+   "punch": 0.073
+  },
+  "sent-2026-09-07e::645ffc950303": {
+   "id": "CRVI002373",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002373.jpg",
+   "original_px": [
+    1389,
+    2000
+   ],
+   "original_bytes": 337333,
+   "identity": "sent-2026-09-07e::645ffc950303",
+   "source_url": "https://www.moma.org/media/W1siZiIsIjUyMDk2NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=bcc115096ea5b030",
+   "maker": "Jan Sawka",
+   "title": "Exodus (poster for STU's premiere of Leszek Moczulski's production)",
+   "subtitle": "",
+   "year": "1974",
+   "verified_against": "MoMA's own media server. The work is MoMA object 8352 — Jan Sawka, Exodus, 1974, offset lithograph, the isolated figure rendered as a burnt match, for Kraków's Teatr STU.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img44/08.jpg",
+   "source_px": [
+    1389,
+    2000
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Jan Sawka"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "MoMA's own media server. The work is MoMA object 8352 — Jan Sawka, Exodus, 1974, offset lithograph, the isolated figure rendered as a burnt match, for Kraków's Teatr STU.",
+   "hue": 5.08,
+   "light": 0.495,
+   "chroma": 0.9764,
+   "punch": 0.6072
+  },
+  "sent-2026-09-07e::6e11d9f294c0": {
+   "id": "CRVI002374",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002374.jpg",
+   "original_px": [
+    4071,
+    4071
+   ],
+   "original_bytes": 1368203,
+   "identity": "sent-2026-09-07e::6e11d9f294c0",
+   "source_url": "https://image.invaluable.com/housePhotos/Hindman/77/730077/H0587-L299675003.jpg",
+   "maker": "Unidentified",
+   "title": "Haloed figure at a table in a pink interior",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "⚠️ UNATTRIBUTED. An Invaluable auction house photo (Hindman), which names no artist. It arrived inside a Jan Sawka run and it reads like his work, but the source establishes nothing and resemblance is not attribution. Waiting on a name.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img44/10.jpg",
+   "source_px": [
+    4071,
+    4071
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ UNATTRIBUTED. An Invaluable auction house photo (Hindman), which names no artist. It arrived inside a Jan Sawka run and it reads like his work, but the source establishes nothing and resemblance is not attribution. Waiting on a name.",
+   "hue": 34.19,
+   "light": 0.668,
+   "chroma": 0.4766,
+   "punch": 0.1595
+  },
+  "sent-2026-09-07e::8c3925b84094": {
+   "id": "CRVI002375",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002375.jpg",
+   "original_px": [
+    2448,
+    3264
+   ],
+   "original_bytes": 1117342,
+   "identity": "sent-2026-09-07e::8c3925b84094",
+   "source_url": "https://letitiamorris.com/wp-content/uploads/2019/10/IMG_3266-e1551495927147.jpg",
+   "maker": "Unidentified",
+   "title": "Reclining striped figure with small watching heads",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "⚠️ UNATTRIBUTED. A personal website (letitiamorris.com), under a camera filename (IMG_3266), which names no artist. It arrived inside a Jan Sawka run and it reads like his work, but the source establishes nothing and resemblance is not attribution. Waiting on a name.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img44/11.jpg",
+   "source_px": [
+    2448,
+    3264
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ UNATTRIBUTED. A personal website (letitiamorris.com), under a camera filename (IMG_3266), which names no artist. It arrived inside a Jan Sawka run and it reads like his work, but the source establishes nothing and resemblance is not attribution. Waiting on a name.",
+   "hue": 346.28,
+   "light": 0.5374,
+   "chroma": 0.6523,
+   "punch": 0.1959
+  },
+  "sent-2026-09-07e::eec7567da979": {
+   "id": "CRVI002376",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002376.jpg",
+   "original_px": [
+    1771,
+    2560
+   ],
+   "original_bytes": 667203,
+   "identity": "sent-2026-09-07e::eec7567da979",
+   "source_url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2017/11/2a34d8_98fc64a7bf874f519ae377c5e68931demv2-scaled.jpg?resize=1000%2C1445&quality=89&ssl=1",
+   "maker": "Unidentified",
+   "title": "Figures at a table before a wall of small panels",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "⚠️ UNATTRIBUTED. PRINT magazine, under an opaque hash filename, which names no artist. It arrived inside a Jan Sawka run and it reads like his work, but the source establishes nothing and resemblance is not attribution. Waiting on a name.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img44/12.jpg",
+   "source_px": [
+    1771,
+    2560
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ UNATTRIBUTED. PRINT magazine, under an opaque hash filename, which names no artist. It arrived inside a Jan Sawka run and it reads like his work, but the source establishes nothing and resemblance is not attribution. Waiting on a name.",
+   "hue": 215.36,
+   "light": 0.3476,
+   "chroma": 0.4019,
+   "punch": 0.1235
+  },
+  "sent-2026-09-07e::11356a7d02ce": {
+   "id": "CRVI002377",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002377.jpg",
+   "original_px": [
+    2000,
+    2929
+   ],
+   "original_bytes": 1657712,
+   "identity": "sent-2026-09-07e::11356a7d02ce",
+   "source_url": "https://artwise.co/cdn/shop/products/CB8986_fa7197f3-4463-4780-ba27-3c6930cfd09a.jpg?crop=center&height=2929&v=1613772305&width=2000",
+   "maker": "Unidentified",
+   "title": "Pyramid of massed figures",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "⚠️ UNATTRIBUTED. A Shopify store (artwise.co), under a product code, which names no artist. It arrived inside a Jan Sawka run and it reads like his work, but the source establishes nothing and resemblance is not attribution. Waiting on a name.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img44/13.jpg",
+   "source_px": [
+    2000,
+    2929
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ UNATTRIBUTED. A Shopify store (artwise.co), under a product code, which names no artist. It arrived inside a Jan Sawka run and it reads like his work, but the source establishes nothing and resemblance is not attribution. Waiting on a name.",
+   "hue": 66.96,
+   "light": 0.7575,
+   "chroma": 0.8755,
+   "punch": 0.1192
+  },
+  "sent-2026-09-07e::710cc92effd4": {
+   "id": "CRVI002378",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002378.jpg",
+   "original_px": [
+    952,
+    1200
+   ],
+   "original_bytes": 466586,
+   "identity": "sent-2026-09-07e::710cc92effd4",
+   "source_url": "https://i.ebayimg.com/images/g/CREAAOSwylRh5xpu/s-l1200.png",
+   "maker": "Unidentified",
+   "title": "Overlapping discs with faces and city names",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "⚠️ UNATTRIBUTED. An eBay listing image, which names no artist. It arrived inside a Jan Sawka run and it reads like his work, but the source establishes nothing and resemblance is not attribution. Waiting on a name.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img44/14.jpg",
+   "source_px": [
+    952,
+    1200
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ UNATTRIBUTED. An eBay listing image, which names no artist. It arrived inside a Jan Sawka run and it reads like his work, but the source establishes nothing and resemblance is not attribution. Waiting on a name.",
+   "hue": 356.84,
+   "light": 0.3196,
+   "chroma": 0.4342,
+   "punch": 0.1609
+  },
+  "sent-2026-09-07e::686d122b3ea8": {
+   "id": "CRVI002379",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002379.jpg",
+   "original_px": [
+    2015,
+    2915
+   ],
+   "original_bytes": 1570542,
+   "identity": "sent-2026-09-07e::686d122b3ea8",
+   "source_url": "https://i.etsystatic.com/20230681/r/il/53180c/3998200829/il_fullxfull.3998200829_6adt.jpg",
+   "maker": "Jan Sawka",
+   "title": "Jan Sawka: Paintings & Constructions (exhibition poster)",
+   "subtitle": "",
+   "year": "1985",
+   "verified_against": "The print itself, which carries the whole record in its own surface: the title 'Jan Sawka', the shows — 'PAINTINGS & CONSTRUCTIONS, SID DEUTSCH GALLERY, 20 WEST 57TH STREET, NEW YORK, MARCH 2-27, 1985' and '& EXHIBITION SPACE AT 112 GREENE, MARCH 5-30, 1985' and '\"A BOOK OF FICTION\" - PRINTS, PRATT MANHATTAN CENTER GALLERY, MARCH 16 - APRIL 13, 1985' — and, in pencil below the sheet, the edition '51/100', the medium 'HANDCOLORED SILKSCREEN' and the signature 'Jan Sawka 1985'. Todd marked the link '(crop)'; the photograph's wooden table and folding ruler are cropped away and the sheet kept whole at 2015x2915.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img44/15.jpg",
+   "source_px": [
+    2015,
+    2915
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Jan Sawka"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The print itself, which carries the whole record in its own surface: the title 'Jan Sawka', the shows — 'PAINTINGS & CONSTRUCTIONS, SID DEUTSCH GALLERY, 20 WEST 57TH STREET, NEW YORK, MARCH 2-27, 1985' and '& EXHIBITION SPACE AT 112 GREENE, MARCH 5-30, 1985' and '\"A BOOK OF FICTION\" - PRINTS, PRATT MANHATTAN CENTER GALLERY, MARCH 16 - APRIL 13, 1985' — and, in pencil below the sheet, the edition '51/100', the medium 'HANDCOLORED SILKSCREEN' and the signature 'Jan Sawka 1985'. Todd marked the link '(crop)'; the photograph's wooden table and folding ruler are cropped away and the sheet kept whole at 2015x2915.",
+   "hue": 21.28,
+   "light": 0.4971,
+   "chroma": 0.8336,
+   "punch": 0.509
   }
  }
 }
