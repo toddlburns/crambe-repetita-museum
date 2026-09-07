@@ -1,5 +1,5 @@
 {
- "next": 2357,
+ "next": 2364,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -136170,11 +136170,11 @@
    "original_bytes": 938483,
    "identity": "sent-2026-09-07::d59fd789ab91",
    "source_url": "https://cdn.sanity.io/images/juzvn5an/release-adp/77c4f9653438c9635398d78950083aa5bdbdeb9c-2346x3000.jpg?w=3840",
-   "maker": "Unidentified",
+   "maker": "Neo Rauch",
    "title": "Framed portrait of a man with a small dark figure",
    "subtitle": "",
    "year": "",
-   "verified_against": "cdn.sanity.io, under a hash, with no caption and no artist named anywhere in the URL. Unattributed. The manner reads as Neo Rauch's earlier portraits, but the source supports no name and resemblance is not attribution.",
+   "verified_against": "Identified by Todd, 2026-09-07, who sent the four item URLs back and said plainly \"This is Neo Rauch\". The record previously stood unattributed because its own source names nobody — that is still true of the source, and the attribution here rests on the collector's identification, not on the file. Original note: cdn.sanity.io, under a hash, with no caption and no artist named anywhere in the URL. Unattributed. The manner reads as Neo Rauch's earlier portraits, but the source supports no name and resemblance is not attribution.",
    "notes": [],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img40/13.jpg",
@@ -136190,11 +136190,19 @@
     {
      "k": "type",
      "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Neo Rauch"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
     }
    ],
    "identity_established": true,
    "published": true,
-   "verification": "cdn.sanity.io, under a hash, with no caption and no artist named anywhere in the URL. Unattributed. The manner reads as Neo Rauch's earlier portraits, but the source supports no name and resemblance is not attribution.",
+   "verification": "Identified by Todd, 2026-09-07, who sent the four item URLs back and said plainly \"This is Neo Rauch\". The record previously stood unattributed because its own source names nobody — that is still true of the source, and the attribution here rests on the collector's identification, not on the file. Original note: cdn.sanity.io, under a hash, with no caption and no artist named anywhere in the URL. Unattributed. The manner reads as Neo Rauch's earlier portraits, but the source supports no name and resemblance is not attribution.",
    "hue": 202.41,
    "light": 0.5252,
    "chroma": 0.4646,
@@ -136211,11 +136219,11 @@
    "original_bytes": 869073,
    "identity": "sent-2026-09-07::7201a46bb85f",
    "source_url": "https://cdn.sanity.io/images/juzvn5an/release-adp/24e215d39832fa3cf1285ea68655662ba9d8297e-3000x2561.jpg?w=3840",
-   "maker": "Unidentified",
+   "maker": "Neo Rauch",
    "title": "Figures in orange and yellow before a lit interior",
    "subtitle": "",
    "year": "",
-   "verified_against": "cdn.sanity.io, same project and same absence — a hash, no caption, no name. Unattributed. The manner reads as Neo Rauch; the source establishes nothing.",
+   "verified_against": "Identified by Todd, 2026-09-07, who sent the four item URLs back and said plainly \"This is Neo Rauch\". The record previously stood unattributed because its own source names nobody — that is still true of the source, and the attribution here rests on the collector's identification, not on the file. Original note: cdn.sanity.io, same project and same absence — a hash, no caption, no name. Unattributed. The manner reads as Neo Rauch; the source establishes nothing.",
    "notes": [],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img40/14.jpg",
@@ -136231,11 +136239,19 @@
     {
      "k": "type",
      "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Neo Rauch"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
     }
    ],
    "identity_established": true,
    "published": true,
-   "verification": "cdn.sanity.io, same project and same absence — a hash, no caption, no name. Unattributed. The manner reads as Neo Rauch; the source establishes nothing.",
+   "verification": "Identified by Todd, 2026-09-07, who sent the four item URLs back and said plainly \"This is Neo Rauch\". The record previously stood unattributed because its own source names nobody — that is still true of the source, and the attribution here rests on the collector's identification, not on the file. Original note: cdn.sanity.io, same project and same absence — a hash, no caption, no name. Unattributed. The manner reads as Neo Rauch; the source establishes nothing.",
    "hue": 14.9,
    "light": 0.5429,
    "chroma": 0.3673,
@@ -136353,11 +136369,11 @@
    "original_bytes": 885326,
    "identity": "sent-2026-09-07::8af6c7eac948",
    "source_url": "https://sothebys-md.brightspotcdn.com/dims4/default/dae2bc5/2147483647/strip/true/crop/4696x5744+0+0/resize/2048x2505!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Ffd%2F6d%2Fa12342f347a5a43dadc75fe02a6d%2Fl25024-9f5dv-t3-02-a-rs.jpg",
-   "maker": "Unidentified",
+   "maker": "Neo Rauch",
    "title": "Large painting of figures at a green and yellow machine",
    "subtitle": "",
    "year": "",
-   "verified_against": "A Sotheby's media file (lot reference l25024) with no catalogue text attached. Unattributed: the manner reads as Neo Rauch, but no lot record was reachable to confirm it, and neither title nor year is established.",
+   "verified_against": "Identified by Todd, 2026-09-07, who sent the four item URLs back and said plainly \"This is Neo Rauch\". The record previously stood unattributed because its own source names nobody — that is still true of the source, and the attribution here rests on the collector's identification, not on the file. Original note: A Sotheby's media file (lot reference l25024) with no catalogue text attached. Unattributed: the manner reads as Neo Rauch, but no lot record was reachable to confirm it, and neither title nor year is established.",
    "notes": [],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img40/17.jpg",
@@ -136373,11 +136389,19 @@
     {
      "k": "type",
      "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Neo Rauch"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
     }
    ],
    "identity_established": true,
    "published": true,
-   "verification": "A Sotheby's media file (lot reference l25024) with no catalogue text attached. Unattributed: the manner reads as Neo Rauch, but no lot record was reachable to confirm it, and neither title nor year is established.",
+   "verification": "Identified by Todd, 2026-09-07, who sent the four item URLs back and said plainly \"This is Neo Rauch\". The record previously stood unattributed because its own source names nobody — that is still true of the source, and the attribution here rests on the collector's identification, not on the file. Original note: A Sotheby's media file (lot reference l25024) with no catalogue text attached. Unattributed: the manner reads as Neo Rauch, but no lot record was reachable to confirm it, and neither title nor year is established.",
    "hue": 53.8,
    "light": 0.623,
    "chroma": 0.3048,
@@ -136394,11 +136418,11 @@
    "original_bytes": 275499,
    "identity": "sent-2026-09-07::13e711807c44",
    "source_url": "https://whitehotmagazine.com/UserFiles/image/0/10/3f78cc19481bfc36f1d6b99506b15c8b.jpg",
-   "maker": "Unidentified",
+   "maker": "Neo Rauch",
    "title": "Figures before a white gabled house",
    "subtitle": "",
    "year": "",
-   "verified_against": "Whitehot Magazine, which serves it under a bare hash filename and no caption. Unattributed; the manner reads as Neo Rauch and nothing in the source says so.",
+   "verified_against": "Identified by Todd, 2026-09-07, who sent the four item URLs back and said plainly \"This is Neo Rauch\". The record previously stood unattributed because its own source names nobody — that is still true of the source, and the attribution here rests on the collector's identification, not on the file. Original note: Whitehot Magazine, which serves it under a bare hash filename and no caption. Unattributed; the manner reads as Neo Rauch and nothing in the source says so.",
    "notes": [],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img40/19.jpg",
@@ -136414,11 +136438,19 @@
     {
      "k": "type",
      "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Neo Rauch"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
     }
    ],
    "identity_established": true,
    "published": true,
-   "verification": "Whitehot Magazine, which serves it under a bare hash filename and no caption. Unattributed; the manner reads as Neo Rauch and nothing in the source says so.",
+   "verification": "Identified by Todd, 2026-09-07, who sent the four item URLs back and said plainly \"This is Neo Rauch\". The record previously stood unattributed because its own source names nobody — that is still true of the source, and the attribution here rests on the collector's identification, not on the file. Original note: Whitehot Magazine, which serves it under a bare hash filename and no caption. Unattributed; the manner reads as Neo Rauch and nothing in the source says so.",
    "hue": 34.31,
    "light": 0.3719,
    "chroma": 0.4609,
@@ -137282,6 +137314,376 @@
    "light": 0.3945,
    "chroma": 0.5492,
    "punch": 0.122
+  },
+  "sent-2026-09-07c::0cef371aab37": {
+   "id": "CRVI002357",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002357.jpg",
+   "original_px": [
+    1700,
+    2048
+   ],
+   "original_bytes": 367412,
+   "identity": "sent-2026-09-07c::0cef371aab37",
+   "source_url": "https://whitneymedia.org/assets/artwork/63584/2020_148_cropped.jpg",
+   "maker": "Amy Sherald",
+   "title": "If You Surrendered to the Air, You Could Ride It",
+   "subtitle": "",
+   "year": "2019",
+   "verified_against": "The Whitney's own media server, and the path names the object: /assets/artwork/63584/ is whitney.org/collection/works/63584 — If You Surrendered to the Air, You Could Ride It, 2019, oil on linen, 130 x 108 in., accession 2020.148, purchased with funds from the Painting and Sculpture Committee. The file name carries the accession too (2020_148).",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img42/01.jpg",
+   "source_px": [
+    1700,
+    2048
+   ],
+   "colors": [
+    "cyan",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Amy Sherald"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Whitney's own media server, and the path names the object: /assets/artwork/63584/ is whitney.org/collection/works/63584 — If You Surrendered to the Air, You Could Ride It, 2019, oil on linen, 130 x 108 in., accession 2020.148, purchased with funds from the Painting and Sculpture Committee. The file name carries the accession too (2020_148).",
+   "hue": 194.92,
+   "light": 0.5159,
+   "chroma": 0.8046,
+   "punch": 0.6178
+  },
+  "sent-2026-09-07c::d8e305d71904": {
+   "id": "CRVI002358",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002358.jpg",
+   "original_px": [
+    2480,
+    2662
+   ],
+   "original_bytes": 3235559,
+   "identity": "sent-2026-09-07c::d8e305d71904",
+   "source_url": "https://www.artpapers.org/wp-content/uploads/2018/07/3_The-Bathers-e1533322638261.jpg",
+   "maker": "Amy Sherald",
+   "title": "The Bathers",
+   "subtitle": "",
+   "year": "2015",
+   "verified_against": "Art Papers, whose file names the work ('3_The-Bathers'). ⚠️ The sent link was the WordPress `-e` edited derivative, 1863x1315, cropped to a landscape band that cuts both figures off at the shins; the unedited original at the same path is 2480x2662 and shows the whole painting. THE UNCROPPED FILE IS WHAT IS HELD HERE. The year is the documented work's, not the source's — Art Papers gives only the title.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img42/02.jpg",
+   "source_px": [
+    2480,
+    2662
+   ],
+   "colors": [
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Amy Sherald"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Papers, whose file names the work ('3_The-Bathers'). ⚠️ The sent link was the WordPress `-e` edited derivative, 1863x1315, cropped to a landscape band that cuts both figures off at the shins; the unedited original at the same path is 2480x2662 and shows the whole painting. THE UNCROPPED FILE IS WHAT IS HELD HERE. The year is the documented work's, not the source's — Art Papers gives only the title.",
+   "hue": 194.95,
+   "light": 0.492,
+   "chroma": 0.8378,
+   "punch": 0.4683
+  },
+  "sent-2026-09-07c::2dc8db520cc6": {
+   "id": "CRVI002359",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002359.jpg",
+   "original_px": [
+    2480,
+    3110
+   ],
+   "original_bytes": 4750944,
+   "identity": "sent-2026-09-07c::2dc8db520cc6",
+   "source_url": "https://www.artpapers.org/wp-content/uploads/2018/07/8_InnocentYou_InnocentMe-e1531326240417.jpg",
+   "maker": "Amy Sherald",
+   "title": "Innocent You, Innocent Me",
+   "subtitle": "",
+   "year": "2016",
+   "verified_against": "Art Papers, whose file names the work ('8_InnocentYou_InnocentMe'). The sent link was again the `-e` derivative, 1595x2000; the original at the same path is 2480x3110 at an IDENTICAL aspect ratio, so this is the same crop and simply larger. The year is the documented work's, not the source's.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img42/03.jpg",
+   "source_px": [
+    2480,
+    3110
+   ],
+   "colors": [
+    "cyan",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Amy Sherald"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Art Papers, whose file names the work ('8_InnocentYou_InnocentMe'). The sent link was again the `-e` derivative, 1595x2000; the original at the same path is 2480x3110 at an IDENTICAL aspect ratio, so this is the same crop and simply larger. The year is the documented work's, not the source's.",
+   "hue": 192.77,
+   "light": 0.5008,
+   "chroma": 0.8468,
+   "punch": 0.4118
+  },
+  "sent-2026-09-07c::3d046cafc9c4": {
+   "id": "CRVI002360",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002360.jpg",
+   "original_px": [
+    1041,
+    1306
+   ],
+   "original_bytes": 859817,
+   "identity": "sent-2026-09-07c::3d046cafc9c4",
+   "source_url": "https://i0.wp.com/www.culturetype.com/wp-content/uploads/2017/11/amy_sherald_exh_pc_337_r.jpg?ssl=1",
+   "maker": "Amy Sherald",
+   "title": "Miss Everything (Unsuppressed Deliverance)",
+   "subtitle": "",
+   "year": "2013",
+   "verified_against": "Culture Type, from an exhibition photograph whose file carries no title (amy_sherald_exh_pc_337_r). Attributed on the WORK: the woman in the navy and polka-dot dress, white gloves, holding the vastly oversized teacup — Sherald's Miss Everything (Unsuppressed Deliverance). The year is the documented work's; this source gives none.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img42/04.jpg",
+   "source_px": [
+    1041,
+    1306
+   ],
+   "colors": [
+    "cyan",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Amy Sherald"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Culture Type, from an exhibition photograph whose file carries no title (amy_sherald_exh_pc_337_r). Attributed on the WORK: the woman in the navy and polka-dot dress, white gloves, holding the vastly oversized teacup — Sherald's Miss Everything (Unsuppressed Deliverance). The year is the documented work's; this source gives none.",
+   "hue": 196.49,
+   "light": 0.4821,
+   "chroma": 0.8665,
+   "punch": 0.2147
+  },
+  "sent-2026-09-07c::c0d552ba51a1": {
+   "id": "CRVI002361",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002361.jpg",
+   "original_px": [
+    1234,
+    2000
+   ],
+   "original_bytes": 212702,
+   "identity": "sent-2026-09-07c::c0d552ba51a1",
+   "source_url": "https://www.artforum.com/wp-content/uploads/2025/07/WMAA90186_2._Trans_Forming_Liberty_2024_hi-res_KB_lpr.jpg",
+   "maker": "Amy Sherald",
+   "title": "Trans Forming Liberty",
+   "subtitle": "",
+   "year": "2024",
+   "verified_against": "Artforum, whose file names the work, its year and the owner: 'WMAA90186_2._Trans_Forming_Liberty_2024_hi-res' — WMAA being the Whitney Museum of American Art.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img42/05.jpg",
+   "source_px": [
+    1234,
+    2000
+   ],
+   "colors": [
+    "pink",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Amy Sherald"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Artforum, whose file names the work, its year and the owner: 'WMAA90186_2._Trans_Forming_Liberty_2024_hi-res' — WMAA being the Whitney Museum of American Art.",
+   "hue": 315.08,
+   "light": 0.6797,
+   "chroma": 0.9148,
+   "punch": 0.2274
+  },
+  "sent-2026-09-07c::535c09bcc533": {
+   "id": "CRVI002362",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002362.jpg",
+   "original_px": [
+    1300,
+    1636
+   ],
+   "original_bytes": 464950,
+   "identity": "sent-2026-09-07c::535c09bcc533",
+   "source_url": "https://mymodernmet.com/wp/wp-content/uploads/2025/02/Amy-Sherald-WMAA86869-As-Soft-as-She-Is.-2022-TIF-JH-lpr.jpg",
+   "maker": "Amy Sherald",
+   "title": "As Soft as She Is…",
+   "subtitle": "",
+   "year": "2022",
+   "verified_against": "My Modern Met, whose file names artist, work, year and owner: 'Amy-Sherald-WMAA86869-As-Soft-as-She-Is.-2022'.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img42/06.jpg",
+   "source_px": [
+    1300,
+    1636
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Amy Sherald"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "My Modern Met, whose file names artist, work, year and owner: 'Amy-Sherald-WMAA86869-As-Soft-as-She-Is.-2022'.",
+   "hue": 11.15,
+   "light": 0.6982,
+   "chroma": 0.687,
+   "punch": 0.2035
+  },
+  "sent-2026-09-07c::98432d48deef": {
+   "id": "CRVI002363",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002363.jpg",
+   "original_px": [
+    2279,
+    2560
+   ],
+   "original_bytes": 1215098,
+   "identity": "sent-2026-09-07c::98432d48deef",
+   "source_url": "https://media.newyorker.com/photos/5d7bcca497788f00095a8329/master/w_1600%2Cc_limit/190923_r35001.jpg",
+   "maker": "Amy Sherald",
+   "title": "Precious jewels by the sea",
+   "subtitle": "",
+   "year": "2019",
+   "verified_against": "The New Yorker, from its September 2019 profile of the artist. The work is documented: Precious jewels by the sea, 2019, nine feet tall, in the collection of Crystal Bridges Museum of American Art — four figures in swimwear with a picnic basket and a red-and-white umbrella, painted from vintage photographs.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img42/07.jpg",
+   "source_px": [
+    2279,
+    2560
+   ],
+   "colors": [
+    "cyan",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Amy Sherald"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The New Yorker, from its September 2019 profile of the artist. The work is documented: Precious jewels by the sea, 2019, nine feet tall, in the collection of Crystal Bridges Museum of American Art — four figures in swimwear with a picnic basket and a red-and-white umbrella, painted from vintage photographs.",
+   "hue": 194.59,
+   "light": 0.5545,
+   "chroma": 0.8068,
+   "punch": 0.4734
   }
  }
 }

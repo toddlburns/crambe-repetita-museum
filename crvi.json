@@ -123107,7 +123107,7 @@
     3000
    ],
    "original_bytes": 938483,
-   "maker": "Unidentified",
+   "maker": "Neo Rauch",
    "title": "Framed portrait of a man with a small dark figure",
    "subtitle": "",
    "year": "",
@@ -123115,6 +123115,14 @@
     {
      "k": "type",
      "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Neo Rauch"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
     },
     {
      "k": "color",
@@ -123147,7 +123155,7 @@
     2561
    ],
    "original_bytes": 869073,
-   "maker": "Unidentified",
+   "maker": "Neo Rauch",
    "title": "Figures in orange and yellow before a lit interior",
    "subtitle": "",
    "year": "",
@@ -123155,6 +123163,14 @@
     {
      "k": "type",
      "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Neo Rauch"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
     },
     {
      "k": "color",
@@ -123283,7 +123299,7 @@
     2505
    ],
    "original_bytes": 885326,
-   "maker": "Unidentified",
+   "maker": "Neo Rauch",
    "title": "Large painting of figures at a green and yellow machine",
    "subtitle": "",
    "year": "",
@@ -123291,6 +123307,14 @@
     {
      "k": "type",
      "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Neo Rauch"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
     },
     {
      "k": "color",
@@ -123323,7 +123347,7 @@
     1400
    ],
    "original_bytes": 275499,
-   "maker": "Unidentified",
+   "maker": "Neo Rauch",
    "title": "Figures before a white gabled house",
    "subtitle": "",
    "year": "",
@@ -123331,6 +123355,14 @@
     {
      "k": "type",
      "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Neo Rauch"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
     },
     {
      "k": "color",
@@ -124180,6 +124212,366 @@
    "hue": 13.2,
    "light": 0.3945,
    "chroma": 0.5492
+  },
+  {
+   "id": "CRVI002357",
+   "published": true,
+   "minted": "2026-09-07",
+   "punch": 0.6178,
+   "source_url": "https://whitneymedia.org/assets/artwork/63584/2020_148_cropped.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002357.jpg",
+   "source_label": "",
+   "image": "images/CRVI002357.jpg",
+   "original": "originals/CRVI002357.jpg",
+   "vector": "",
+   "original_px": [
+    1700,
+    2048
+   ],
+   "original_bytes": 367412,
+   "maker": "Amy Sherald",
+   "title": "If You Surrendered to the Air, You Could Ride It",
+   "subtitle": "",
+   "year": "2019",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Amy Sherald"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 194.92,
+   "light": 0.5159,
+   "chroma": 0.8046
+  },
+  {
+   "id": "CRVI002358",
+   "published": true,
+   "minted": "2026-09-07",
+   "punch": 0.4683,
+   "source_url": "https://www.artpapers.org/wp-content/uploads/2018/07/3_The-Bathers-e1533322638261.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002358.jpg",
+   "source_label": "",
+   "image": "images/CRVI002358.jpg",
+   "original": "originals/CRVI002358.jpg",
+   "vector": "",
+   "original_px": [
+    2480,
+    2662
+   ],
+   "original_bytes": 3235559,
+   "maker": "Amy Sherald",
+   "title": "The Bathers",
+   "subtitle": "",
+   "year": "2015",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Amy Sherald"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 194.95,
+   "light": 0.492,
+   "chroma": 0.8378
+  },
+  {
+   "id": "CRVI002359",
+   "published": true,
+   "minted": "2026-09-07",
+   "punch": 0.4118,
+   "source_url": "https://www.artpapers.org/wp-content/uploads/2018/07/8_InnocentYou_InnocentMe-e1531326240417.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002359.jpg",
+   "source_label": "",
+   "image": "images/CRVI002359.jpg",
+   "original": "originals/CRVI002359.jpg",
+   "vector": "",
+   "original_px": [
+    2480,
+    3110
+   ],
+   "original_bytes": 4750944,
+   "maker": "Amy Sherald",
+   "title": "Innocent You, Innocent Me",
+   "subtitle": "",
+   "year": "2016",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Amy Sherald"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 192.77,
+   "light": 0.5008,
+   "chroma": 0.8468
+  },
+  {
+   "id": "CRVI002360",
+   "published": true,
+   "minted": "2026-09-07",
+   "punch": 0.2147,
+   "source_url": "https://i0.wp.com/www.culturetype.com/wp-content/uploads/2017/11/amy_sherald_exh_pc_337_r.jpg?ssl=1",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002360.jpg",
+   "source_label": "",
+   "image": "images/CRVI002360.jpg",
+   "original": "originals/CRVI002360.jpg",
+   "vector": "",
+   "original_px": [
+    1041,
+    1306
+   ],
+   "original_bytes": 859817,
+   "maker": "Amy Sherald",
+   "title": "Miss Everything (Unsuppressed Deliverance)",
+   "subtitle": "",
+   "year": "2013",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Amy Sherald"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 196.49,
+   "light": 0.4821,
+   "chroma": 0.8665
+  },
+  {
+   "id": "CRVI002361",
+   "published": true,
+   "minted": "2026-09-07",
+   "punch": 0.2274,
+   "source_url": "https://www.artforum.com/wp-content/uploads/2025/07/WMAA90186_2._Trans_Forming_Liberty_2024_hi-res_KB_lpr.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002361.jpg",
+   "source_label": "",
+   "image": "images/CRVI002361.jpg",
+   "original": "originals/CRVI002361.jpg",
+   "vector": "",
+   "original_px": [
+    1234,
+    2000
+   ],
+   "original_bytes": 212702,
+   "maker": "Amy Sherald",
+   "title": "Trans Forming Liberty",
+   "subtitle": "",
+   "year": "2024",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Amy Sherald"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 315.08,
+   "light": 0.6797,
+   "chroma": 0.9148
+  },
+  {
+   "id": "CRVI002362",
+   "published": true,
+   "minted": "2026-09-07",
+   "punch": 0.2035,
+   "source_url": "https://mymodernmet.com/wp/wp-content/uploads/2025/02/Amy-Sherald-WMAA86869-As-Soft-as-She-Is.-2022-TIF-JH-lpr.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002362.jpg",
+   "source_label": "",
+   "image": "images/CRVI002362.jpg",
+   "original": "originals/CRVI002362.jpg",
+   "vector": "",
+   "original_px": [
+    1300,
+    1636
+   ],
+   "original_bytes": 464950,
+   "maker": "Amy Sherald",
+   "title": "As Soft as She Is…",
+   "subtitle": "",
+   "year": "2022",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Amy Sherald"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 11.15,
+   "light": 0.6982,
+   "chroma": 0.687
+  },
+  {
+   "id": "CRVI002363",
+   "published": true,
+   "minted": "2026-09-07",
+   "punch": 0.4734,
+   "source_url": "https://media.newyorker.com/photos/5d7bcca497788f00095a8329/master/w_1600%2Cc_limit/190923_r35001.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002363.jpg",
+   "source_label": "",
+   "image": "images/CRVI002363.jpg",
+   "original": "originals/CRVI002363.jpg",
+   "vector": "",
+   "original_px": [
+    2279,
+    2560
+   ],
+   "original_bytes": 1215098,
+   "maker": "Amy Sherald",
+   "title": "Precious jewels by the sea",
+   "subtitle": "",
+   "year": "2019",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Amy Sherald"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 194.59,
+   "light": 0.5545,
+   "chroma": 0.8068
   }
  ]
 }
