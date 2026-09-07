@@ -17,6 +17,45 @@ The only JS in the build is the hover-grow on tag pages, which is a real interac
 """
 import json, os, re, shutil, sys
 
+from movement_tags import WINDOW as _MOVEMENT_WINDOW
+
+# ── subject × movement: a movement name is a CLAIM, not a subject ───────────────────────────
+# Todd, 2026-09-07. The two facets were rendering the same name twice: every one of the 252
+# items carrying `movement:` also carried `subject:` with the identical value, so each showed
+# `#Bauhaus #Bauhaus` — and 234 FURTHER items showed a bare `subject: <Movement>` for a
+# movement they were proposed for and then held.
+#
+# They were never two facets. `movement_tags.py` reads `subject:` tags whose value is in its
+# WINDOW{} and treats them as claims (see movement_tags.py:119); `movement:` is the verdict.
+# The archive was printing the application form next to the decision.
+#
+# And the held residue does NOT mean what `subject` otherwise means. `subject: Photorealism`
+# without the movement tag is Estes, Goings and Baeder — the actual Photorealists, held on a
+# date window. `subject: Bauhaus` without it is four Albers `Homage to the Square` canvases,
+# held correctly, because he painted them at Yale decades after the Bauhaus closed. Those
+# paintings are not ABOUT the Bauhaus. Saying so was simply false.
+#
+# So movement names are suppressed from `subject` at DISPLAY time only. The claims stay in the
+# registry — that is what movement_tags.py re-reads — so widening a WINDOW still promotes items
+# on the next run, with nothing to re-enter.
+#
+# ⚠️ GATE ON WINDOW MEMBERSHIP, NOT ON "does this item also carry movement:X". The second test
+# fixes only the 252 doubles and leaves the 234 held items still asserting an aboutness nobody
+# intended.
+# ⚠️ Case-insensitive on purpose: `Op Art` (33 items) and `op art` (9) were both live as
+# separate subject values, silently splitting one facet across two spellings.
+# ⚠️ Everything that reads tags for display MUST go through shown_tags() — the item row, the
+# by_tag index behind every /tag/ page, and the /tags/ index. Filter in one and not the others
+# and a tag page exists that nothing links to, or vice versa.
+_MOVEMENT_NAMES = {m.lower() for m in _MOVEMENT_WINDOW}
+
+
+def shown_tags(it):
+    """An item's tags as the site shows them: movement names dropped from `subject`."""
+    return [t for t in it.get("tags", [])
+            if not (t["k"] == "subject" and t["v"].lower() in _MOVEMENT_NAMES)]
+
+
 HERE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(HERE, "crvi.json")
 
@@ -298,65 +337,23 @@ def slug(s):
     return re.sub(r"^-|-$", "", re.sub(r"[^a-z0-9]+", "-", str(s).lower()))
 
 
-# ── the gate ────────────────────────────────────────────────────────────────────────────────
-# Todd, 2026-08-30: the museum comes off the front of the personal site and moves behind a
-# password, reachable from the links page.
+# ── auth ────────────────────────────────────────────────────────────────────────────────────
+# The in-page password gate was removed on 2026-09-07. From 2026-08-30 to then, every page carried
+# an overlay asking for a shared password — obscurity, not privacy: the repo is public, so the
+# password was readable in view-source, and `images/CRVI000001.jpg` was fetchable without ever
+# meeting the gate.
 #
-# ⚠️ THIS IS OBSCURITY, NOT PRIVACY, AND IT CANNOT BE MADE INTO PRIVACY HERE. The repository is
-# public and GitHub Pages serves every file at a guessable URL, so the password below is readable
-# in view-source and `images/CRVI000001.jpg` is fetchable without ever meeting the gate. It stops
-# a casual visitor and it stops the site being browsable from the homepage; it stops nothing else.
-# Real access control needs a host that can refuse the request — the Cloudflare Pages + Access
-# move is the planned answer. Until then, do not put anything here that must not be seen.
+# Cloudflare Access now refuses the request at the edge instead. Self-hosted application on
+# `crambe-repetita-museum.pages.dev` (whole hostname, no path), one Allow policy on
+# todd.burns@gmail.com, one-time PIN by email, 24h session. Static files are covered too — that
+# is the entire point, and it is what the gate could never do.
 #
-# The `noindex` meta and robots.txt do more real work than the gate: they keep the archive out of
-# search results, which is how a stranger would actually arrive.
+# ⚠️ Auth no longer lives in this file. If the archive is ever served from somewhere other than
+# that Pages project, it is UNPROTECTED until an equivalent is set up on the new host. Do not
+# reintroduce a client-side gate as a substitute; it never was one.
 #
-# ⚠️ THE GATE IS AN OVERLAY. IT MUST NOT WRAP OR HIDE THE PAGE. The first attempt put the body in
-# a `display:none` div and revealed it after login — which silently broke /all/ and every tag
-# page: 692 cells laid out and not one thumbnail loaded, because Chrome will not start a
-# `loading="lazy"` image that was parsed inside a hidden subtree. An opaque fixed overlay leaves
-# layout, the html>body>.item height chain, and lazy loading completely untouched, and covers just
-# as much as display:none did. Do not "simplify" this back into a wrapper.
-GATE_PW = "racine456"
-
-# Runs in <head>, before the body is parsed, so an already-authorised visitor never sees the gate
-# paint at all and a stranger never sees the museum behind it.
-GATE_HEAD_JS = ("try{if(localStorage.getItem('crvi_auth')==='1')"
-                "document.documentElement.className+=' crvi-ok';}catch(e){}")
-
-GATE_STYLE = """
-html:not(.crvi-ok){overflow:hidden}
-html.crvi-ok #crvi-gate{display:none}
-#crvi-gate{position:fixed;inset:0;z-index:2147483647;background:var(--paper);
- display:flex;align-items:center;justify-content:center}
-#crvi-gate form{display:flex;align-items:center;gap:6px}
-#crvi-gate input{font:12px/1 var(--mono);letter-spacing:.06em;width:150px;padding:7px 8px;
- color:var(--ink);background:var(--paper);border:1px solid var(--rule);border-radius:0;outline:none}
-#crvi-gate input:focus{border-color:var(--ink)}
-#crvi-gate input::placeholder{color:var(--mute);letter-spacing:.06em}
-#crvi-gate button{font:12px/1 var(--sans);padding:7px 12px;color:var(--ink);background:var(--paper);
- border:1px solid var(--rule);border-radius:0;cursor:pointer}
-#crvi-gate button:hover{border-color:var(--ink)}
-#crvi-gate.bad input,#crvi-gate.bad input::placeholder{border-color:var(--ink);color:var(--ink)}
-"""
-
-GATE_BODY = ('<div id="crvi-gate"><form id="crvi-form" autocomplete="off">'
-             '<input type="password" id="crvi-pw" placeholder="password" '
-             'autocomplete="off" spellcheck="false" autofocus>'
-             '<button type="submit">enter</button></form></div>')
-
-# localStorage, not sessionStorage: the archive is 700 pages and items open in new tabs.
-# sessionStorage (what the links page uses) would re-prompt on every one of them.
-GATE_JS = """
-(function(){var K='crvi_auth',PW='%s',h=document.documentElement;
-if(h.className.indexOf('crvi-ok')>-1)return;
-var g=document.getElementById('crvi-gate'),i=document.getElementById('crvi-pw');
-document.getElementById('crvi-form').addEventListener('submit',function(e){e.preventDefault();
-if(i.value===PW){try{localStorage.setItem(K,'1');}catch(e){}h.className+=' crvi-ok';}
-else{i.value='';g.classList.add('bad');i.focus();}});
-i.focus();})();
-""" % GATE_PW
+# `noindex` below and the repo robots.txt stay — they keep the archive out of search results,
+# which is how a stranger would actually arrive.
 
 
 def page(title, body, depth):
@@ -365,11 +362,8 @@ def page(title, body, depth):
             f'<meta name="viewport" content="width=device-width,initial-scale=1">'
             f'<meta name="robots" content="noindex,nofollow">'
             f'<title>{esc(title)}</title>'
-            f'<script>{GATE_HEAD_JS}</script>'
             f'<link rel="stylesheet" href="{up}style.css">'
-            f'<style>{GATE_STYLE}</style></head>'
-            f'<body>{GATE_BODY}{body}'
-            f'<script>{GATE_JS}</script></body></html>')
+            f'</head><body>{body}</body></html>')
 
 
 def work_line(it, up):
@@ -420,7 +414,7 @@ def main():
     held = [i for i in d["items"] if not i.get("published", True)]
     by_tag = {}
     for i, it in enumerate(items):
-        for t in it.get("tags", []):
+        for t in shown_tags(it):
             by_tag.setdefault((t["k"], t["v"]), []).append(i)
 
     for old in ("tag", "tags"):
@@ -439,7 +433,7 @@ def main():
         nav += f'<a href="../{prev}/" title="Previous">&#8592;</a>' if prev else '<span>&#8592;</span>'
         nav += f'<a href="../{nxt}/" title="Next">&#8594;</a>' if nxt else '<span>&#8594;</span>'
         tags = "".join(f'<a href="../tag/{slug(t["k"])}/{slug(t["v"])}/">#{esc(t["v"])}</a>'
-                       for t in it.get("tags", []))
+                       for t in shown_tags(it))
         tags += '<a class="all" href="../tags/">#alltags</a>'
         # source sits with the tags, at the end, quiet but always present
         # source moved to the top row (see work_line). The bottom right holds the two
