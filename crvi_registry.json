@@ -1,5 +1,5 @@
 {
- "next": 2323,
+ "next": 2357,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -135594,6 +135594,1694 @@
    "light": 0.5417,
    "chroma": 0.9093,
    "punch": 0.1367
+  },
+  "sent-2026-09-07::fd36bdf61ef2": {
+   "id": "CRVI002323",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002323.jpg",
+   "original_px": [
+    1536,
+    1239
+   ],
+   "original_bytes": 144793,
+   "identity": "sent-2026-09-07::fd36bdf61ef2",
+   "source_url": "https://cdn.sanity.io/images/dqllnil6/production/8e63658ba429fa509e32ac597fb89e1999c77d68-1536x1239.jpg?w=3840&q=60&auto=format",
+   "maker": "Ed Ruscha",
+   "title": "Honk",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "cdn.sanity.io, which serves the file under a hash and no caption. Attributed on the WORK: Ruscha's word painting HONK, in yellow on a red and blue ground. It is signed in pencil on the mount below the image, which makes this the print rather than the canvas. Neither the edition nor the year is established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img40/01.jpg",
+   "source_px": [
+    1536,
+    1239
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Ed Ruscha"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "cdn.sanity.io, which serves the file under a hash and no caption. Attributed on the WORK: Ruscha's word painting HONK, in yellow on a red and blue ground. It is signed in pencil on the mount below the image, which makes this the print rather than the canvas. Neither the edition nor the year is established here.",
+   "hue": 345.66,
+   "light": 0.3761,
+   "chroma": 0.9504,
+   "punch": 0.2684
+  },
+  "sent-2026-09-07::e39f929eaea5": {
+   "id": "CRVI002324",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002324.jpg",
+   "original_px": [
+    2000,
+    1285
+   ],
+   "original_bytes": 346562,
+   "identity": "sent-2026-09-07::e39f929eaea5",
+   "source_url": "https://www.moma.org/media/W1siZiIsIjM5Njg3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=09db4f8de4d5ac2f",
+   "maker": "Ed Ruscha",
+   "title": "Standard Station",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "MoMA's own media server (moma.org/media). The work is Ruscha's Standard Station screenprint — the raked canopy, the four pumps, the red band. The media file carries no object record, so the specific edition and year are not established from this source.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img40/02.jpg",
+   "source_px": [
+    2000,
+    1285
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Ed Ruscha"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "MoMA's own media server (moma.org/media). The work is Ruscha's Standard Station screenprint — the raked canopy, the four pumps, the red band. The media file carries no object record, so the specific edition and year are not established from this source.",
+   "hue": 44.24,
+   "light": 0.6719,
+   "chroma": 0.6458,
+   "punch": 0.188
+  },
+  "sent-2026-09-07::487912840a3a": {
+   "id": "CRVI002325",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002325.jpg",
+   "original_px": [
+    2560,
+    3836
+   ],
+   "original_bytes": 3007139,
+   "identity": "sent-2026-09-07::487912840a3a",
+   "source_url": "https://media.gq.com/photos/652846660ac2671467d8b49c/master/w_2560%2Cc_limit/GettyImages-156909840.jpg",
+   "maker": "Unidentified",
+   "title": "Ed Ruscha with a box of daffodils",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "GQ, using Getty Images asset 156909840, which Getty captions as the American pop artist Ed Ruscha holding a box of daffodils outside a florist, c.1970. ⚠️ The PHOTOGRAPHER is not named by either source, so the maker here is unestablished — only the sitter is.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img40/03.jpg",
+   "source_px": [
+    2560,
+    3836
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "subject",
+     "v": "Ed Ruscha"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "GQ, using Getty Images asset 156909840, which Getty captions as the American pop artist Ed Ruscha holding a box of daffodils outside a florist, c.1970. ⚠️ The PHOTOGRAPHER is not named by either source, so the maker here is unestablished — only the sitter is.",
+   "hue": 27.67,
+   "light": 0.4542,
+   "chroma": 0.3852,
+   "punch": 0.1223
+  },
+  "sent-2026-09-07::1df023cca4a6": {
+   "id": "CRVI002326",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002326.jpg",
+   "original_px": [
+    2000,
+    1430
+   ],
+   "original_bytes": 1297003,
+   "identity": "sent-2026-09-07::1df023cca4a6",
+   "source_url": "https://d3tj81smxskx4e.cloudfront.net/mRMkuIZQ0wIYn7Xg0vbSyUOIiNFnfZtd4oPFL0LJBcc/s:2000:2000/rt:fit/sm:1/scp:1/q:75/fn:840261-10241832_fullsize/czM6Ly9hdWt0aW9u/LXByb2R1Y3Rpb24v/aXRlbV9pbWFnZXMv/ODQwMjYxLzEwMjQx/ODMyX29yaWdpbmFs/LmpwZw",
+   "maker": "Ed Ruscha",
+   "title": "The End",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "An auction CDN file with no caption. Attributed on the WORK: 'THE END' set in Gothic type across a snow-capped mountain, which is Ruscha's The End series crossed with his Mountain series (the mountain plays on the Paramount logo). The number within the series and the year are NOT established.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img40/04.jpg",
+   "source_px": [
+    2000,
+    1430
+   ],
+   "colors": [
+    "green",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Ed Ruscha"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "An auction CDN file with no caption. Attributed on the WORK: 'THE END' set in Gothic type across a snow-capped mountain, which is Ruscha's The End series crossed with his Mountain series (the mountain plays on the Paramount logo). The number within the series and the year are NOT established.",
+   "hue": 194.55,
+   "light": 0.4098,
+   "chroma": 0.4891,
+   "punch": 0.1644
+  },
+  "sent-2026-09-07::85c144dc65bd": {
+   "id": "CRVI002327",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002327.jpg",
+   "original_px": [
+    1000,
+    1470
+   ],
+   "original_bytes": 885936,
+   "identity": "sent-2026-09-07::85c144dc65bd",
+   "source_url": "https://media.newyorker.com/photos/59095e4a2179605b11ad51ae/master/w_2560%2Cc_limit/JerryMcMillan_EdRuschaw6books_1970.jpeg",
+   "maker": "Jerry McMillan",
+   "title": "Ed Ruscha with six of his books on his head",
+   "subtitle": "",
+   "year": "1970",
+   "verified_against": "The New Yorker's own file name states all three facts: JerryMcMillan_EdRuschaw6books_1970.jpeg. It is McMillan's well-known 1970 portrait.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img40/05.jpg",
+   "source_px": [
+    1000,
+    1470
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Jerry McMillan"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "photographer",
+     "v": "Jerry McMillan"
+    },
+    {
+     "k": "subject",
+     "v": "Ed Ruscha"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The New Yorker's own file name states all three facts: JerryMcMillan_EdRuschaw6books_1970.jpeg. It is McMillan's well-known 1970 portrait.",
+   "hue": null,
+   "light": 0.3026,
+   "chroma": 0.0,
+   "punch": 0.0
+  },
+  "sent-2026-09-07::812cfe892a2e": {
+   "id": "CRVI002328",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002328.jpg",
+   "original_px": [
+    1200,
+    1281
+   ],
+   "original_bytes": 77127,
+   "identity": "sent-2026-09-07::812cfe892a2e",
+   "source_url": "https://ca-times.brightspotcdn.com/dims4/default/336ba70/2147483647/strip/true/crop/1873x2000+0+0/resize/1200x1281!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F66%2F6e%2F6616f8fe458986497c81e94c5009%2Foof-edward-ruscha-courtesy-the-museum-of-modern-art.jpg",
+   "maker": "Ed Ruscha",
+   "title": "OOF",
+   "subtitle": "",
+   "year": "1962-63",
+   "verified_against": "The Los Angeles Times, whose file names the work and credits the owner: 'oof-edward-ruscha-courtesy-the-museum-of-modern-art'.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img40/06.jpg",
+   "source_px": [
+    1200,
+    1281
+   ],
+   "colors": [
+    "blue",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Ed Ruscha"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Los Angeles Times, whose file names the work and credits the owner: 'oof-edward-ruscha-courtesy-the-museum-of-modern-art'.",
+   "hue": 247.81,
+   "light": 0.3143,
+   "chroma": 0.9396,
+   "punch": 0.2225
+  },
+  "sent-2026-09-07::2602e70ea510": {
+   "id": "CRVI002329",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002329.jpg",
+   "original_px": [
+    1804,
+    2000
+   ],
+   "original_bytes": 691606,
+   "identity": "sent-2026-09-07::2602e70ea510",
+   "source_url": "https://www.moma.org/media/W1siZiIsIjUyOTMwNyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=6ddfdbcac69f549d",
+   "maker": "Ed Ruscha",
+   "title": "Rancho",
+   "subtitle": "",
+   "year": "1968",
+   "verified_against": "MoMA's own media server, and the work is MoMA collection object 102875 — Rancho, 1968, oil on canvas, 152.4 x 137.2 cm, gift of Steven and Alexandra Cohen.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img40/07.jpg",
+   "source_px": [
+    1804,
+    2000
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Ed Ruscha"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "MoMA's own media server, and the work is MoMA collection object 102875 — Rancho, 1968, oil on canvas, 152.4 x 137.2 cm, gift of Steven and Alexandra Cohen.",
+   "hue": 35.82,
+   "light": 0.4657,
+   "chroma": 1.0,
+   "punch": 0.7663
+  },
+  "sent-2026-09-07::eb2b15aae6cb": {
+   "id": "CRVI002330",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002330.jpg",
+   "original_px": [
+    1500,
+    1000
+   ],
+   "original_bytes": 650809,
+   "identity": "sent-2026-09-07::eb2b15aae6cb",
+   "source_url": "https://lamag.com/wp-content/uploads/2024/04/p1964_08_1500x1000px.jpg",
+   "maker": "Ed Ruscha",
+   "title": "Norm's, La Cienega, on Fire",
+   "subtitle": "",
+   "year": "1964",
+   "verified_against": "Los Angeles magazine, whose file is dated in its own name (p1964_08). Attributed on the WORK: the raking NORM'S sign and the burning diner of the 1964 painting.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img40/08.jpg",
+   "source_px": [
+    1500,
+    1000
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Ed Ruscha"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Los Angeles magazine, whose file is dated in its own name (p1964_08). Attributed on the WORK: the raking NORM'S sign and the burning diner of the 1964 painting.",
+   "hue": 225.6,
+   "light": 0.437,
+   "chroma": 0.8524,
+   "punch": 0.2843
+  },
+  "sent-2026-09-07::1487c51a76e6": {
+   "id": "CRVI002331",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002331.jpg",
+   "original_px": [
+    1200,
+    1200
+   ],
+   "original_bytes": 626346,
+   "identity": "sent-2026-09-07::1487c51a76e6",
+   "source_url": "https://i.guim.co.uk/img/media/22a04a98a6160c7cc64664b8c5cff654c19c5bc5/472_0_1853_1112/master/1853.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=716fa1996b4656d719541ad7fa4128d8",
+   "maker": "Ed Ruscha",
+   "title": "Building under a red sky",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "The Guardian, which serves it cropped square from a 1853px master and carries no caption in the file. Attributed on the WORK: Ruscha's flat-perspective building against a saturated sky, with red lettering ending '...T BOY' along the parapet. ⚠️ The TITLE IS NOT ESTABLISHED — the name given here is descriptive, not the artist's.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img40/09.jpg",
+   "source_px": [
+    1200,
+    1200
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Ed Ruscha"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Guardian, which serves it cropped square from a 1853px master and carries no caption in the file. Attributed on the WORK: Ruscha's flat-perspective building against a saturated sky, with red lettering ending '...T BOY' along the parapet. ⚠️ The TITLE IS NOT ESTABLISHED — the name given here is descriptive, not the artist's.",
+   "hue": 4.76,
+   "light": 0.5094,
+   "chroma": 0.6763,
+   "punch": 0.348
+  },
+  "sent-2026-09-07::5a05d05e7dcc": {
+   "id": "CRVI002332",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002332.jpg",
+   "original_px": [
+    1400,
+    2029
+   ],
+   "original_bytes": 591058,
+   "identity": "sent-2026-09-07::5a05d05e7dcc",
+   "source_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/hyperallergic-newspack-s3-amazonaws-com/uploads/2017/01/ruschafjjma22.jpg",
+   "maker": "Ed Ruscha",
+   "title": "Column with Speed Lines",
+   "subtitle": "",
+   "year": "2003",
+   "verified_against": "Hyperallergic, in its report on Ruscha's gift to the University of Oklahoma — the file name carries FJJMA, the Fred Jones Jr. Museum of Art, and the work is their Column with Speed Lines, a 2003 lithograph/screenprint.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img40/10.jpg",
+   "source_px": [
+    1400,
+    2029
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Ed Ruscha"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Hyperallergic, in its report on Ruscha's gift to the University of Oklahoma — the file name carries FJJMA, the Fred Jones Jr. Museum of Art, and the work is their Column with Speed Lines, a 2003 lithograph/screenprint.",
+   "hue": 9.19,
+   "light": 0.6475,
+   "chroma": 0.5794,
+   "punch": 0.1447
+  },
+  "sent-2026-09-07::b239e8e533eb": {
+   "id": "CRVI002333",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002333.jpg",
+   "original_px": [
+    2401,
+    2000
+   ],
+   "original_bytes": 3847402,
+   "identity": "sent-2026-09-07::b239e8e533eb",
+   "source_url": "https://eigen-art.com/media/neorauch_1260_stille_reserve_2024_300x250_8699_u3_web.jpg",
+   "maker": "Neo Rauch",
+   "title": "Stille Reserve",
+   "subtitle": "",
+   "year": "2024",
+   "verified_against": "Galerie EIGEN + ART, Rauch's own gallery, which names the work in the file itself: neorauch_1260_stille_reserve_2024.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img40/12.jpg",
+   "source_px": [
+    2401,
+    2000
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Neo Rauch"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Galerie EIGEN + ART, Rauch's own gallery, which names the work in the file itself: neorauch_1260_stille_reserve_2024.",
+   "hue": 203.73,
+   "light": 0.3253,
+   "chroma": 0.5347,
+   "punch": 0.1195
+  },
+  "sent-2026-09-07::d59fd789ab91": {
+   "id": "CRVI002334",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002334.jpg",
+   "original_px": [
+    2346,
+    3000
+   ],
+   "original_bytes": 938483,
+   "identity": "sent-2026-09-07::d59fd789ab91",
+   "source_url": "https://cdn.sanity.io/images/juzvn5an/release-adp/77c4f9653438c9635398d78950083aa5bdbdeb9c-2346x3000.jpg?w=3840",
+   "maker": "Unidentified",
+   "title": "Framed portrait of a man with a small dark figure",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "cdn.sanity.io, under a hash, with no caption and no artist named anywhere in the URL. Unattributed. The manner reads as Neo Rauch's earlier portraits, but the source supports no name and resemblance is not attribution.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img40/13.jpg",
+   "source_px": [
+    2346,
+    3000
+   ],
+   "colors": [
+    "orange",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "cdn.sanity.io, under a hash, with no caption and no artist named anywhere in the URL. Unattributed. The manner reads as Neo Rauch's earlier portraits, but the source supports no name and resemblance is not attribution.",
+   "hue": 202.41,
+   "light": 0.5252,
+   "chroma": 0.4646,
+   "punch": 0.0997
+  },
+  "sent-2026-09-07::7201a46bb85f": {
+   "id": "CRVI002335",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002335.jpg",
+   "original_px": [
+    3000,
+    2561
+   ],
+   "original_bytes": 869073,
+   "identity": "sent-2026-09-07::7201a46bb85f",
+   "source_url": "https://cdn.sanity.io/images/juzvn5an/release-adp/24e215d39832fa3cf1285ea68655662ba9d8297e-3000x2561.jpg?w=3840",
+   "maker": "Unidentified",
+   "title": "Figures in orange and yellow before a lit interior",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "cdn.sanity.io, same project and same absence — a hash, no caption, no name. Unattributed. The manner reads as Neo Rauch; the source establishes nothing.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img40/14.jpg",
+   "source_px": [
+    3000,
+    2561
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "cdn.sanity.io, same project and same absence — a hash, no caption, no name. Unattributed. The manner reads as Neo Rauch; the source establishes nothing.",
+   "hue": 14.9,
+   "light": 0.5429,
+   "chroma": 0.3673,
+   "punch": 0.1148
+  },
+  "sent-2026-09-07::a2549bde1b88": {
+   "id": "CRVI002336",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002336.jpg",
+   "original_px": [
+    1000,
+    1192
+   ],
+   "original_bytes": 662172,
+   "identity": "sent-2026-09-07::a2549bde1b88",
+   "source_url": "https://backend.artreview.com/wp-content/uploads/2023/10/Der-s%CC%8Cbergang-2018.jpg",
+   "maker": "Neo Rauch",
+   "title": "Der Übergang",
+   "subtitle": "",
+   "year": "2018",
+   "verified_against": "ArtReview, whose file names the work and its year: 'Der-Übergang-2018.jpg'.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img40/15.jpg",
+   "source_px": [
+    1000,
+    1192
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Neo Rauch"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "ArtReview, whose file names the work and its year: 'Der-Übergang-2018.jpg'.",
+   "hue": 211.31,
+   "light": 0.5423,
+   "chroma": 0.8222,
+   "punch": 0.1993
+  },
+  "sent-2026-09-07::64b9e714f261": {
+   "id": "CRVI002337",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002337.jpg",
+   "original_px": [
+    3000,
+    1797
+   ],
+   "original_bytes": 3985260,
+   "identity": "sent-2026-09-07::64b9e714f261",
+   "source_url": "https://elephant.art/wp-content/uploads/2018/11/Rauch-Der-Blaue-Fisch.jpg",
+   "maker": "Neo Rauch",
+   "title": "Der blaue Fisch",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Elephant, whose file names the work: 'Rauch-Der-Blaue-Fisch.jpg'. The year is not given by the source.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img40/16.jpg",
+   "source_px": [
+    3000,
+    1797
+   ],
+   "colors": [
+    "yellow",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Neo Rauch"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Elephant, whose file names the work: 'Rauch-Der-Blaue-Fisch.jpg'. The year is not given by the source.",
+   "hue": 53.77,
+   "light": 0.3814,
+   "chroma": 0.3646,
+   "punch": 0.1108
+  },
+  "sent-2026-09-07::8af6c7eac948": {
+   "id": "CRVI002338",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002338.jpg",
+   "original_px": [
+    2048,
+    2505
+   ],
+   "original_bytes": 885326,
+   "identity": "sent-2026-09-07::8af6c7eac948",
+   "source_url": "https://sothebys-md.brightspotcdn.com/dims4/default/dae2bc5/2147483647/strip/true/crop/4696x5744+0+0/resize/2048x2505!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Ffd%2F6d%2Fa12342f347a5a43dadc75fe02a6d%2Fl25024-9f5dv-t3-02-a-rs.jpg",
+   "maker": "Unidentified",
+   "title": "Large painting of figures at a green and yellow machine",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "A Sotheby's media file (lot reference l25024) with no catalogue text attached. Unattributed: the manner reads as Neo Rauch, but no lot record was reachable to confirm it, and neither title nor year is established.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img40/17.jpg",
+   "source_px": [
+    2048,
+    2505
+   ],
+   "colors": [
+    "yellow",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A Sotheby's media file (lot reference l25024) with no catalogue text attached. Unattributed: the manner reads as Neo Rauch, but no lot record was reachable to confirm it, and neither title nor year is established.",
+   "hue": 53.8,
+   "light": 0.623,
+   "chroma": 0.3048,
+   "punch": 0.1385
+  },
+  "sent-2026-09-07::13e711807c44": {
+   "id": "CRVI002339",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002339.jpg",
+   "original_px": [
+    1178,
+    1400
+   ],
+   "original_bytes": 275499,
+   "identity": "sent-2026-09-07::13e711807c44",
+   "source_url": "https://whitehotmagazine.com/UserFiles/image/0/10/3f78cc19481bfc36f1d6b99506b15c8b.jpg",
+   "maker": "Unidentified",
+   "title": "Figures before a white gabled house",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Whitehot Magazine, which serves it under a bare hash filename and no caption. Unattributed; the manner reads as Neo Rauch and nothing in the source says so.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img40/19.jpg",
+   "source_px": [
+    1178,
+    1400
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Whitehot Magazine, which serves it under a bare hash filename and no caption. Unattributed; the manner reads as Neo Rauch and nothing in the source says so.",
+   "hue": 34.31,
+   "light": 0.3719,
+   "chroma": 0.4609,
+   "punch": 0.1144
+  },
+  "sent-2026-09-07b::517c2f59acf6": {
+   "id": "CRVI002340",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002340.jpg",
+   "original_px": [
+    1419,
+    1890
+   ],
+   "original_bytes": 492552,
+   "identity": "sent-2026-09-07b::517c2f59acf6",
+   "source_url": "https://images.seattletimes.com/wp-content/uploads/2016/04/d1c2b458-faa4-11e5-b5d1-ac966b45c55b.jpg?d=1020x1359",
+   "maker": "Paul McCarthy",
+   "title": "White Snow, wood sculpture",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "The Seattle Times, in its review of 'Paul McCarthy: White Snow, Wood Sculptures' at the Henry Art Gallery, Seattle, April 2016 — black walnut, digitally carved and assembled from many pieces, the series drawn from Schneewittchen and Disney's 1937 film. ⚠️ The EXHIBITION is established; the individual title is not. The show's centrepiece was 'White Snow, Bookends' (2013), but that is a two-part 28-foot work and this is a single mass, so it is NOT named as that here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img41/01.jpg",
+   "source_px": [
+    1419,
+    1890
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Paul McCarthy"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Seattle Times, in its review of 'Paul McCarthy: White Snow, Wood Sculptures' at the Henry Art Gallery, Seattle, April 2016 — black walnut, digitally carved and assembled from many pieces, the series drawn from Schneewittchen and Disney's 1937 film. ⚠️ The EXHIBITION is established; the individual title is not. The show's centrepiece was 'White Snow, Bookends' (2013), but that is a two-part 28-foot work and this is a single mass, so it is NOT named as that here.",
+   "hue": 15.89,
+   "light": 0.6891,
+   "chroma": 0.341,
+   "punch": 0.0952
+  },
+  "sent-2026-09-07b::4357a978aa26": {
+   "id": "CRVI002341",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002341.jpg",
+   "original_px": [
+    1056,
+    1591
+   ],
+   "original_bytes": 152056,
+   "identity": "sent-2026-09-07b::4357a978aa26",
+   "source_url": "https://s3.us-east-1.amazonaws.com/bomb-images/_eightHundred/paul_mccarthy_02_bomb_084.jpg",
+   "maker": "Paul McCarthy",
+   "title": "Figure with rabbit head",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "BOMB magazine, issue 84, whose file names the artist (paul_mccarthy_02_bomb_084). Attributed on the WORK for the rest: a standing figure in a yellow sweater with a plush rabbit head, over coiled tubing. Title and date are not established.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img41/02.jpg",
+   "source_px": [
+    1056,
+    1591
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Paul McCarthy"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "BOMB magazine, issue 84, whose file names the artist (paul_mccarthy_02_bomb_084). Attributed on the WORK for the rest: a standing figure in a yellow sweater with a plush rabbit head, over coiled tubing. Title and date are not established.",
+   "hue": 35.86,
+   "light": 0.5934,
+   "chroma": 0.3171,
+   "punch": 0.1473
+  },
+  "sent-2026-09-07b::c8cfe4df24b4": {
+   "id": "CRVI002342",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002342.jpg",
+   "original_px": [
+    847,
+    943
+   ],
+   "original_bytes": 213128,
+   "identity": "sent-2026-09-07b::c8cfe4df24b4",
+   "source_url": "https://i0.wp.com/needled.wpcomstaging.com/wp-content/uploads/2015/02/rythme1938.jpg?ssl=1",
+   "maker": "Robert Delaunay",
+   "title": "Rythme",
+   "subtitle": "",
+   "year": "1938",
+   "verified_against": "The host names the work in the file itself — 'rythme1938.jpg' — and the picture is the stacked-disc Rythme composition Robert Delaunay painted in 1938.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img41/03.jpg",
+   "source_px": [
+    847,
+    943
+   ],
+   "colors": [
+    "orange",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Robert Delaunay"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1930s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The host names the work in the file itself — 'rythme1938.jpg' — and the picture is the stacked-disc Rythme composition Robert Delaunay painted in 1938.",
+   "hue": 36.38,
+   "light": 0.4055,
+   "chroma": 0.6074,
+   "punch": 0.2506
+  },
+  "sent-2026-09-07b::aa4171851551": {
+   "id": "CRVI002343",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002343.jpg",
+   "original_px": [
+    1896,
+    1280
+   ],
+   "original_bytes": 453168,
+   "identity": "sent-2026-09-07b::aa4171851551",
+   "source_url": "https://images.squarespace-cdn.com/content/v1/5eba6070466679466960f810/c7481e4b-d687-423b-959f-c79368510750/Ses+peintures%2C+ses+objets%2C+ses+tissus+simultan%C3%A9s%2C+ses+modes.jpg",
+   "maker": "Sonia Delaunay",
+   "title": "Plate from 'Ses peintures, ses objets, ses tissus simultanés, ses modes'",
+   "subtitle": "",
+   "year": "1925",
+   "verified_against": "The host names the album in the file: 'Ses peintures, ses objets, ses tissus simultanés, ses modes' — Sonia Delaunay's 1925 pochoir album. The plate carries her signature in the lower right.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img41/04.jpg",
+   "source_px": [
+    1896,
+    1280
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Sonia Delaunay"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The host names the album in the file: 'Ses peintures, ses objets, ses tissus simultanés, ses modes' — Sonia Delaunay's 1925 pochoir album. The plate carries her signature in the lower right.",
+   "hue": 34.93,
+   "light": 0.7534,
+   "chroma": 0.8344,
+   "punch": 0.1857
+  },
+  "sent-2026-09-07b::9a1ac0bfca40": {
+   "id": "CRVI002344",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002344.jpg",
+   "original_px": [
+    1499,
+    1499
+   ],
+   "original_bytes": 1051683,
+   "identity": "sent-2026-09-07b::9a1ac0bfca40",
+   "source_url": "https://cellar-c2.services.clever-cloud.com/medias.piasa.amphibee.fr/images/1799/35_1.jpg",
+   "maker": "Unidentified",
+   "title": "Composition of concentric discs",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "A PIASA auction media file (lot image 1799/35_1) with no catalogue text attached. ⚠️ UNATTRIBUTED ON PURPOSE: the concentric-disc composition is one BOTH Robert and Sonia Delaunay worked in for decades, and the source names neither. Resemblance is not attribution.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img41/05.jpg",
+   "source_px": [
+    1499,
+    1499
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A PIASA auction media file (lot image 1799/35_1) with no catalogue text attached. ⚠️ UNATTRIBUTED ON PURPOSE: the concentric-disc composition is one BOTH Robert and Sonia Delaunay worked in for decades, and the source names neither. Resemblance is not attribution.",
+   "hue": 356.08,
+   "light": 0.6336,
+   "chroma": 0.5579,
+   "punch": 0.2416
+  },
+  "sent-2026-09-07b::eeb92374a132": {
+   "id": "CRVI002345",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002345.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 595066,
+   "identity": "sent-2026-09-07b::eeb92374a132",
+   "source_url": "https://medias.collectorsquare.com/images/products/404772/D1-sonia-delaunay-1885-1979-automne-circa-1965.jpg",
+   "maker": "Sonia Delaunay",
+   "title": "Automne",
+   "subtitle": "",
+   "year": "1965",
+   "verified_against": "Collector Square, whose file names artist, dates and work: 'sonia-delaunay-1885-1979-automne-circa-1965'. The year is the source's 'circa 1965'.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img41/06.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "green",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Sonia Delaunay"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Collector Square, whose file names artist, dates and work: 'sonia-delaunay-1885-1979-automne-circa-1965'. The year is the source's 'circa 1965'.",
+   "hue": 43.87,
+   "light": 0.4671,
+   "chroma": 0.786,
+   "punch": 0.3725
+  },
+  "sent-2026-09-07b::804fb55e4f32": {
+   "id": "CRVI002346",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002346.jpg",
+   "original_px": [
+    2938,
+    4096
+   ],
+   "original_bytes": 4386473,
+   "identity": "sent-2026-09-07b::804fb55e4f32",
+   "source_url": "https://www.guggenheim.org/wp-content/uploads/1931/01/76.2553.101_ph_web-1.jpg",
+   "maker": "René Magritte",
+   "title": "Voice of Space (La voix des airs)",
+   "subtitle": "",
+   "year": "1931",
+   "verified_against": "The Guggenheim's own collection image, accession 76.2553.101 — the Peggy Guggenheim Collection's Magritte, three sleigh-bell spheres over a landscape.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img41/07.jpg",
+   "source_px": [
+    2938,
+    4096
+   ],
+   "colors": [
+    "blue",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "René Magritte"
+    },
+    {
+     "k": "location",
+     "v": "Belgium"
+    },
+    {
+     "k": "decade",
+     "v": "1930s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Guggenheim's own collection image, accession 76.2553.101 — the Peggy Guggenheim Collection's Magritte, three sleigh-bell spheres over a landscape.",
+   "hue": 201.82,
+   "light": 0.4275,
+   "chroma": 0.7669,
+   "punch": 0.2915
+  },
+  "sent-2026-09-07b::461f56ddb907": {
+   "id": "CRVI002347",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002347.jpg",
+   "original_px": [
+    1580,
+    1910
+   ],
+   "original_bytes": 578957,
+   "identity": "sent-2026-09-07b::461f56ddb907",
+   "source_url": "https://arthive.com/res/media/img/oy1000/work/3ff/299075@2x.jpeg",
+   "maker": "René Magritte",
+   "title": "The Art of Living (L'art de vivre)",
+   "subtitle": "",
+   "year": "1967",
+   "verified_against": "Arthive. Attributed on the WORK against the documented painting: the bowler-hatted body in a suit and red tie, the vastly oversized orange head with tiny features, and the band of masonry separating the figure from the rock face behind — L'art de vivre, 1967, 54 x 65 cm.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img41/08.jpg",
+   "source_px": [
+    1580,
+    1910
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "René Magritte"
+    },
+    {
+     "k": "location",
+     "v": "Belgium"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Arthive. Attributed on the WORK against the documented painting: the bowler-hatted body in a suit and red tie, the vastly oversized orange head with tiny features, and the band of masonry separating the figure from the rock face behind — L'art de vivre, 1967, 54 x 65 cm.",
+   "hue": 212.98,
+   "light": 0.3447,
+   "chroma": 0.8022,
+   "punch": 0.3058
+  },
+  "sent-2026-09-07b::f30b8da6f1d1": {
+   "id": "CRVI002348",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002348.jpg",
+   "original_px": [
+    2000,
+    2595
+   ],
+   "original_bytes": 1423590,
+   "identity": "sent-2026-09-07b::f30b8da6f1d1",
+   "source_url": "https://d1hhug17qm51in.cloudfront.net/www-media/2018/08/03171740/Fils_de_lhomme_CR999_ART95114.png",
+   "maker": "René Magritte",
+   "title": "The Son of Man (Le fils de l'homme)",
+   "subtitle": "",
+   "year": "1964",
+   "verified_against": "The host names it in the file: 'Fils_de_lhomme_CR999' — the catalogue raisonné number alongside the title.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img41/09.jpg",
+   "source_px": [
+    2000,
+    2595
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "René Magritte"
+    },
+    {
+     "k": "location",
+     "v": "Belgium"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The host names it in the file: 'Fils_de_lhomme_CR999' — the catalogue raisonné number alongside the title.",
+   "hue": 208.38,
+   "light": 0.5329,
+   "chroma": 0.3124,
+   "punch": 0.0854
+  },
+  "sent-2026-09-07b::aa7da57fb2bd": {
+   "id": "CRVI002349",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002349.jpg",
+   "original_px": [
+    2000,
+    1489
+   ],
+   "original_bytes": 620233,
+   "identity": "sent-2026-09-07b::aa7da57fb2bd",
+   "source_url": "https://www.moma.org/media/W1siZiIsIjIxNTkyMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=8e30b17830fee6ac",
+   "maker": "René Magritte",
+   "title": "The Lovers (Les Amants)",
+   "subtitle": "",
+   "year": "1928",
+   "verified_against": "MoMA's own media server; the work is MoMA's Les Amants of 1928, the two shrouded heads kissing.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img41/10.jpg",
+   "source_px": [
+    2000,
+    1489
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "René Magritte"
+    },
+    {
+     "k": "location",
+     "v": "Belgium"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "MoMA's own media server; the work is MoMA's Les Amants of 1928, the two shrouded heads kissing.",
+   "hue": 17.02,
+   "light": 0.2978,
+   "chroma": 0.1854,
+   "punch": 0.0453
+  },
+  "sent-2026-09-07b::aedf5d6e831d": {
+   "id": "CRVI002350",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002350.jpg",
+   "original_px": [
+    2000,
+    1345
+   ],
+   "original_bytes": 381178,
+   "identity": "sent-2026-09-07b::aedf5d6e831d",
+   "source_url": "https://www.moma.org/media/W1siZiIsIjI2MzUwMSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=5875826ad30e86b4",
+   "maker": "René Magritte",
+   "title": "The False Mirror (Le faux miroir)",
+   "subtitle": "",
+   "year": "1929",
+   "verified_against": "MoMA's own media server; the work is MoMA's Le faux miroir of 1929, the eye whose iris is a clouded sky.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img41/11.jpg",
+   "source_px": [
+    2000,
+    1345
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "René Magritte"
+    },
+    {
+     "k": "location",
+     "v": "Belgium"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "MoMA's own media server; the work is MoMA's Le faux miroir of 1929, the eye whose iris is a clouded sky.",
+   "hue": 35.05,
+   "light": 0.3268,
+   "chroma": 0.3909,
+   "punch": 0.09
+  },
+  "sent-2026-09-07b::52ef720f004b": {
+   "id": "CRVI002351",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002351.jpg",
+   "original_px": [
+    1645,
+    2400
+   ],
+   "original_bytes": 1130874,
+   "identity": "sent-2026-09-07b::52ef720f004b",
+   "source_url": "https://arthive.com/res/media/img/oy1200/work/bdc/53324@2x.jpg",
+   "maker": "René Magritte",
+   "title": "The Therapist (Le thérapeute)",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Arthive. Attributed on the WORK: the seated traveller in a red cape and straw hat whose torso is an open birdcage with doves. ⚠️ Magritte made several versions of Le thérapeute across 1937-1967, so no single year is established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img41/12.jpg",
+   "source_px": [
+    1645,
+    2400
+   ],
+   "colors": [
+    "cyan",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "René Magritte"
+    },
+    {
+     "k": "location",
+     "v": "Belgium"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Arthive. Attributed on the WORK: the seated traveller in a red cape and straw hat whose torso is an open birdcage with doves. ⚠️ Magritte made several versions of Le thérapeute across 1937-1967, so no single year is established here.",
+   "hue": 186.06,
+   "light": 0.4644,
+   "chroma": 0.7744,
+   "punch": 0.2152
+  },
+  "sent-2026-09-07b::71b5ec4bfc7e": {
+   "id": "CRVI002352",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002352.jpg",
+   "original_px": [
+    1440,
+    2560
+   ],
+   "original_bytes": 1076654,
+   "identity": "sent-2026-09-07b::71b5ec4bfc7e",
+   "source_url": "https://fox59.com/wp-content/uploads/sites/21/2024/02/65bd88063dc404.80342704.jpeg?w=1440&h=2560&crop=1",
+   "maker": "René Magritte",
+   "title": "The Intimate Friend (L'ami intime)",
+   "subtitle": "",
+   "year": "1958",
+   "verified_against": "A February 2024 news photograph of the painting ahead of its sale. The work is documented: L'ami intime, 1958 — a bowler-hatted man seen from behind on a stone parapet with a glass of water and a baguette floating at his back — sold at Christie's London on 7 March 2024 for £33.6m, its first time at auction since 1980.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img41/13.jpg",
+   "source_px": [
+    1440,
+    2560
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "René Magritte"
+    },
+    {
+     "k": "location",
+     "v": "Belgium"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A February 2024 news photograph of the painting ahead of its sale. The work is documented: L'ami intime, 1958 — a bowler-hatted man seen from behind on a stone parapet with a glass of water and a baguette floating at his back — sold at Christie's London on 7 March 2024 for £33.6m, its first time at auction since 1980.",
+   "hue": 29.01,
+   "light": 0.4474,
+   "chroma": 0.5038,
+   "punch": 0.0977
+  },
+  "sent-2026-09-07b::740117b306b1": {
+   "id": "CRVI002353",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002353.jpg",
+   "original_px": [
+    3369,
+    4724
+   ],
+   "original_bytes": 10446749,
+   "identity": "sent-2026-09-07b::740117b306b1",
+   "source_url": "https://kmska.be/_next/image?url=https%3A%2F%2Fproductionbackend.kmska.be%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fportrait%2Fpublic%2F2025-11%2FRen%25C3%25A9%2520Magritte%252C%2520La%2520saveur%2520des%2520larmes%252C%2520%25C2%25A9%2520Succession%2520Ren%25C3%25A9%2520Magritte%2520-%2520SABAM%2520Belgium%252C%25202025%252C%2520Private%2520collection.jpg%3Fh%3Dcc7552d5%26itok%3DW-XV4Fcy&w=3840&q=75",
+   "maker": "René Magritte",
+   "title": "The Flavour of Tears (La saveur des larmes)",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "The KMSKA (Royal Museum of Fine Arts Antwerp), whose image URL carries the full caption: 'René Magritte, La saveur des larmes, © Succession René Magritte - SABAM Belgium, 2025, Private collection'. The leaf-bird gnawed by caterpillars. The source gives no year.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img41/14.jpg",
+   "source_px": [
+    3369,
+    4724
+   ],
+   "colors": [
+    "red",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "René Magritte"
+    },
+    {
+     "k": "location",
+     "v": "Belgium"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The KMSKA (Royal Museum of Fine Arts Antwerp), whose image URL carries the full caption: 'René Magritte, La saveur des larmes, © Succession René Magritte - SABAM Belgium, 2025, Private collection'. The leaf-bird gnawed by caterpillars. The source gives no year.",
+   "hue": 4.84,
+   "light": 0.5462,
+   "chroma": 0.727,
+   "punch": 0.2567
+  },
+  "sent-2026-09-07b::d583b1008cb9": {
+   "id": "CRVI002354",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002354.jpg",
+   "original_px": [
+    1208,
+    1600
+   ],
+   "original_bytes": 390088,
+   "identity": "sent-2026-09-07b::d583b1008cb9",
+   "source_url": "https://i.ebayimg.com/images/g/CMgAAOSw93tnpWhv/s-l1200.jpg",
+   "maker": "René Magritte",
+   "title": "Man in a bowler hat with a birdcage",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "An eBay listing image. ⚠️ A MARKETPLACE LISTING IS NOT A SOURCE, and this is recorded as attributed on the WORK, not on the seller: the yellow-lit profile in a bowler hat, the birdcage of doves above it, Magritte's signature legible at the right. Title, date and whether this is the painting or a reproduction of it are all unestablished.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img41/15.jpg",
+   "source_px": [
+    1208,
+    1600
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "René Magritte"
+    },
+    {
+     "k": "location",
+     "v": "Belgium"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "An eBay listing image. ⚠️ A MARKETPLACE LISTING IS NOT A SOURCE, and this is recorded as attributed on the WORK, not on the seller: the yellow-lit profile in a bowler hat, the birdcage of doves above it, Magritte's signature legible at the right. Title, date and whether this is the painting or a reproduction of it are all unestablished.",
+   "hue": 37.59,
+   "light": 0.4879,
+   "chroma": 0.6197,
+   "punch": 0.2093
+  },
+  "sent-2026-09-07b::b84f6a49894d": {
+   "id": "CRVI002355",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002355.jpg",
+   "original_px": [
+    1280,
+    1015
+   ],
+   "original_bytes": 137336,
+   "identity": "sent-2026-09-07b::b84f6a49894d",
+   "source_url": "https://substackcdn.com/image/fetch/$s_!6MCH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0baad9de-effa-4dd3-934a-dc902d2fa5a0_1280x1015.jpeg",
+   "maker": "Unidentified",
+   "title": "Man in a suit with an eye for a head",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "A Substack post, under a hash filename, with no artist named anywhere. ⚠️ UNATTRIBUTED ON PURPOSE: it reads as late Magritte — the suited figure, the parapet, the sea — but a Substack image is not a source, Magritte is among the most pastiched painters alive or dead, and nothing here establishes a hand.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img41/16.jpg",
+   "source_px": [
+    1280,
+    1015
+   ],
+   "colors": [
+    "cyan",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A Substack post, under a hash filename, with no artist named anywhere. ⚠️ UNATTRIBUTED ON PURPOSE: it reads as late Magritte — the suited figure, the parapet, the sea — but a Substack image is not a source, Magritte is among the most pastiched painters alive or dead, and nothing here establishes a hand.",
+   "hue": 194.64,
+   "light": 0.4486,
+   "chroma": 0.5161,
+   "punch": 0.1565
+  },
+  "sent-2026-09-07b::df913ee4fed2": {
+   "id": "CRVI002356",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002356.jpg",
+   "original_px": [
+    2022,
+    2560
+   ],
+   "original_bytes": 1112031,
+   "identity": "sent-2026-09-07b::df913ee4fed2",
+   "source_url": "https://collections-images.lacma.org/images/14200/14200-1-primary.webp",
+   "maker": "René Magritte",
+   "title": "The Liberator (Le Libérateur)",
+   "subtitle": "",
+   "year": "1947",
+   "verified_against": "LACMA's own collection image (object 14200). Attributed on the WORK against LACMA's Magritte: the seated cloaked figure holding a key-shaped sceptre, its face replaced by a tablet bearing a pipe, a key, a glass and a bird, before pale arcaded architecture.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img41/17.jpg",
+   "source_px": [
+    2022,
+    2560
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "René Magritte"
+    },
+    {
+     "k": "location",
+     "v": "Belgium"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "LACMA's own collection image (object 14200). Attributed on the WORK against LACMA's Magritte: the seated cloaked figure holding a key-shaped sceptre, its face replaced by a tablet bearing a pipe, a key, a glass and a bird, before pale arcaded architecture.",
+   "hue": 13.2,
+   "light": 0.3945,
+   "chroma": 0.5492,
+   "punch": 0.122
   }
  }
 }
