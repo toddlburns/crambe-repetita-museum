@@ -1,5 +1,5 @@
 {
- "next": 2380,
+ "next": 2383,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -138020,7 +138020,9 @@
    "subtitle": "",
    "year": "1849",
    "verified_against": "Wikimedia Commons, 'Gustave Courbet 018.jpg', 2048x1249 — the two-figure composition of the 1849 painting, destroyed in the bombing of Dresden in 1945. ⚠️ SOURCE SUBSTITUTED: Todd's link was to 1st-art-gallery.com, a reproduction seller, which returns 403 to every fetch. ⚠️ A larger Commons file, 'Gustave Courbet 040.jpg' (4048x3284), was rejected because it is a DIFFERENT work — the single-figure Stone Breaker.",
-   "notes": [],
+   "notes": [
+    "DELETED from the museum on 2026-09-07. The record is kept so CRVI002369 stays provably retired and is never reissued."
+   ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img44/04.jpg",
    "source_px": [
@@ -138050,12 +138052,14 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "Wikimedia Commons, 'Gustave Courbet 018.jpg', 2048x1249 — the two-figure composition of the 1849 painting, destroyed in the bombing of Dresden in 1945. ⚠️ SOURCE SUBSTITUTED: Todd's link was to 1st-art-gallery.com, a reproduction seller, which returns 403 to every fetch. ⚠️ A larger Commons file, 'Gustave Courbet 040.jpg' (4048x3284), was rejected because it is a DIFFERENT work — the single-figure Stone Breaker.",
    "hue": 41.71,
    "light": 0.4353,
    "chroma": 0.3237,
-   "punch": 0.0891
+   "punch": 0.0891,
+   "deleted": true,
+   "deleted_on": "2026-09-07"
   },
   "sent-2026-09-07e::2f8979a30447": {
    "id": "CRVI002370",
@@ -138068,11 +138072,11 @@
    "original_bytes": 408127,
    "identity": "sent-2026-09-07e::2f8979a30447",
    "source_url": "https://img1.onebid.pl/img/5067/1324319_1b.jpg",
-   "maker": "Unidentified",
+   "maker": "Jan Sawka",
    "title": "Print with framed landscape panels above a figure at a wall",
    "subtitle": "",
    "year": "",
-   "verified_against": "⚠️ UNATTRIBUTED. A OneBid (Polish auction) lot image, which names no artist. It arrived inside a Jan Sawka run and it reads like his work, but the source establishes nothing and resemblance is not attribution. Waiting on a name.",
+   "verified_against": "Identified by Todd, 2026-09-07, who sent the item URLs back naming Jan Sawka. The record went in unattributed because its own source names nobody — still true of the source — so the attribution rests on the collector's identification, not on the file. Title and date remain unestablished. Original note: ⚠️ UNATTRIBUTED. A OneBid (Polish auction) lot image, which names no artist. It arrived inside a Jan Sawka run and it reads like his work, but the source establishes nothing and resemblance is not attribution. Waiting on a name.",
    "notes": [],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img44/05.jpg",
@@ -138088,11 +138092,15 @@
     {
      "k": "type",
      "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Jan Sawka"
     }
    ],
    "identity_established": true,
    "published": true,
-   "verification": "⚠️ UNATTRIBUTED. A OneBid (Polish auction) lot image, which names no artist. It arrived inside a Jan Sawka run and it reads like his work, but the source establishes nothing and resemblance is not attribution. Waiting on a name.",
+   "verification": "Identified by Todd, 2026-09-07, who sent the item URLs back naming Jan Sawka. The record went in unattributed because its own source names nobody — still true of the source — so the attribution rests on the collector's identification, not on the file. Title and date remain unestablished. Original note: ⚠️ UNATTRIBUTED. A OneBid (Polish auction) lot image, which names no artist. It arrived inside a Jan Sawka run and it reads like his work, but the source establishes nothing and resemblance is not attribution. Waiting on a name.",
    "hue": 31.12,
    "light": 0.4479,
    "chroma": 0.8438,
@@ -138109,11 +138117,11 @@
    "original_bytes": 750198,
    "identity": "sent-2026-09-07e::38b1f847a485",
    "source_url": "https://img1.onebid.pl/img/6325/1786317_1b.jpg",
-   "maker": "Unidentified",
+   "maker": "Jan Sawka",
    "title": "Two suited figures sharing a red head",
    "subtitle": "",
    "year": "",
-   "verified_against": "⚠️ UNATTRIBUTED. A OneBid (Polish auction) lot image, which names no artist. It arrived inside a Jan Sawka run and it reads like his work, but the source establishes nothing and resemblance is not attribution. Waiting on a name.",
+   "verified_against": "Identified by Todd, 2026-09-07, who sent the item URLs back naming Jan Sawka. The record went in unattributed because its own source names nobody — still true of the source — so the attribution rests on the collector's identification, not on the file. Title and date remain unestablished. Original note: ⚠️ UNATTRIBUTED. A OneBid (Polish auction) lot image, which names no artist. It arrived inside a Jan Sawka run and it reads like his work, but the source establishes nothing and resemblance is not attribution. Waiting on a name.",
    "notes": [],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img44/06.jpg",
@@ -138129,11 +138137,15 @@
     {
      "k": "type",
      "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Jan Sawka"
     }
    ],
    "identity_established": true,
    "published": true,
-   "verification": "⚠️ UNATTRIBUTED. A OneBid (Polish auction) lot image, which names no artist. It arrived inside a Jan Sawka run and it reads like his work, but the source establishes nothing and resemblance is not attribution. Waiting on a name.",
+   "verification": "Identified by Todd, 2026-09-07, who sent the item URLs back naming Jan Sawka. The record went in unattributed because its own source names nobody — still true of the source — so the attribution rests on the collector's identification, not on the file. Title and date remain unestablished. Original note: ⚠️ UNATTRIBUTED. A OneBid (Polish auction) lot image, which names no artist. It arrived inside a Jan Sawka run and it reads like his work, but the source establishes nothing and resemblance is not attribution. Waiting on a name.",
    "hue": 44.93,
    "light": 0.5708,
    "chroma": 0.5598,
@@ -138255,11 +138267,11 @@
    "original_bytes": 1368203,
    "identity": "sent-2026-09-07e::6e11d9f294c0",
    "source_url": "https://image.invaluable.com/housePhotos/Hindman/77/730077/H0587-L299675003.jpg",
-   "maker": "Unidentified",
+   "maker": "Jan Sawka",
    "title": "Haloed figure at a table in a pink interior",
    "subtitle": "",
    "year": "",
-   "verified_against": "⚠️ UNATTRIBUTED. An Invaluable auction house photo (Hindman), which names no artist. It arrived inside a Jan Sawka run and it reads like his work, but the source establishes nothing and resemblance is not attribution. Waiting on a name.",
+   "verified_against": "Identified by Todd, 2026-09-07, who sent the item URLs back naming Jan Sawka. The record went in unattributed because its own source names nobody — still true of the source — so the attribution rests on the collector's identification, not on the file. Title and date remain unestablished. Original note: ⚠️ UNATTRIBUTED. An Invaluable auction house photo (Hindman), which names no artist. It arrived inside a Jan Sawka run and it reads like his work, but the source establishes nothing and resemblance is not attribution. Waiting on a name.",
    "notes": [],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img44/10.jpg",
@@ -138275,11 +138287,15 @@
     {
      "k": "type",
      "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Jan Sawka"
     }
    ],
    "identity_established": true,
    "published": true,
-   "verification": "⚠️ UNATTRIBUTED. An Invaluable auction house photo (Hindman), which names no artist. It arrived inside a Jan Sawka run and it reads like his work, but the source establishes nothing and resemblance is not attribution. Waiting on a name.",
+   "verification": "Identified by Todd, 2026-09-07, who sent the item URLs back naming Jan Sawka. The record went in unattributed because its own source names nobody — still true of the source — so the attribution rests on the collector's identification, not on the file. Title and date remain unestablished. Original note: ⚠️ UNATTRIBUTED. An Invaluable auction house photo (Hindman), which names no artist. It arrived inside a Jan Sawka run and it reads like his work, but the source establishes nothing and resemblance is not attribution. Waiting on a name.",
    "hue": 34.19,
    "light": 0.668,
    "chroma": 0.4766,
@@ -138296,11 +138312,11 @@
    "original_bytes": 1117342,
    "identity": "sent-2026-09-07e::8c3925b84094",
    "source_url": "https://letitiamorris.com/wp-content/uploads/2019/10/IMG_3266-e1551495927147.jpg",
-   "maker": "Unidentified",
+   "maker": "Jan Sawka",
    "title": "Reclining striped figure with small watching heads",
    "subtitle": "",
    "year": "",
-   "verified_against": "⚠️ UNATTRIBUTED. A personal website (letitiamorris.com), under a camera filename (IMG_3266), which names no artist. It arrived inside a Jan Sawka run and it reads like his work, but the source establishes nothing and resemblance is not attribution. Waiting on a name.",
+   "verified_against": "Identified by Todd, 2026-09-07, who sent the item URLs back naming Jan Sawka. The record went in unattributed because its own source names nobody — still true of the source — so the attribution rests on the collector's identification, not on the file. Title and date remain unestablished. Original note: ⚠️ UNATTRIBUTED. A personal website (letitiamorris.com), under a camera filename (IMG_3266), which names no artist. It arrived inside a Jan Sawka run and it reads like his work, but the source establishes nothing and resemblance is not attribution. Waiting on a name.",
    "notes": [],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img44/11.jpg",
@@ -138316,11 +138332,15 @@
     {
      "k": "type",
      "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Jan Sawka"
     }
    ],
    "identity_established": true,
    "published": true,
-   "verification": "⚠️ UNATTRIBUTED. A personal website (letitiamorris.com), under a camera filename (IMG_3266), which names no artist. It arrived inside a Jan Sawka run and it reads like his work, but the source establishes nothing and resemblance is not attribution. Waiting on a name.",
+   "verification": "Identified by Todd, 2026-09-07, who sent the item URLs back naming Jan Sawka. The record went in unattributed because its own source names nobody — still true of the source — so the attribution rests on the collector's identification, not on the file. Title and date remain unestablished. Original note: ⚠️ UNATTRIBUTED. A personal website (letitiamorris.com), under a camera filename (IMG_3266), which names no artist. It arrived inside a Jan Sawka run and it reads like his work, but the source establishes nothing and resemblance is not attribution. Waiting on a name.",
    "hue": 346.28,
    "light": 0.5374,
    "chroma": 0.6523,
@@ -138337,11 +138357,11 @@
    "original_bytes": 667203,
    "identity": "sent-2026-09-07e::eec7567da979",
    "source_url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2017/11/2a34d8_98fc64a7bf874f519ae377c5e68931demv2-scaled.jpg?resize=1000%2C1445&quality=89&ssl=1",
-   "maker": "Unidentified",
+   "maker": "Jan Sawka",
    "title": "Figures at a table before a wall of small panels",
    "subtitle": "",
    "year": "",
-   "verified_against": "⚠️ UNATTRIBUTED. PRINT magazine, under an opaque hash filename, which names no artist. It arrived inside a Jan Sawka run and it reads like his work, but the source establishes nothing and resemblance is not attribution. Waiting on a name.",
+   "verified_against": "Identified by Todd, 2026-09-07, who sent the item URLs back naming Jan Sawka. The record went in unattributed because its own source names nobody — still true of the source — so the attribution rests on the collector's identification, not on the file. Title and date remain unestablished. Original note: ⚠️ UNATTRIBUTED. PRINT magazine, under an opaque hash filename, which names no artist. It arrived inside a Jan Sawka run and it reads like his work, but the source establishes nothing and resemblance is not attribution. Waiting on a name.",
    "notes": [],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img44/12.jpg",
@@ -138357,11 +138377,15 @@
     {
      "k": "type",
      "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Jan Sawka"
     }
    ],
    "identity_established": true,
    "published": true,
-   "verification": "⚠️ UNATTRIBUTED. PRINT magazine, under an opaque hash filename, which names no artist. It arrived inside a Jan Sawka run and it reads like his work, but the source establishes nothing and resemblance is not attribution. Waiting on a name.",
+   "verification": "Identified by Todd, 2026-09-07, who sent the item URLs back naming Jan Sawka. The record went in unattributed because its own source names nobody — still true of the source — so the attribution rests on the collector's identification, not on the file. Title and date remain unestablished. Original note: ⚠️ UNATTRIBUTED. PRINT magazine, under an opaque hash filename, which names no artist. It arrived inside a Jan Sawka run and it reads like his work, but the source establishes nothing and resemblance is not attribution. Waiting on a name.",
    "hue": 215.36,
    "light": 0.3476,
    "chroma": 0.4019,
@@ -138378,11 +138402,11 @@
    "original_bytes": 1657712,
    "identity": "sent-2026-09-07e::11356a7d02ce",
    "source_url": "https://artwise.co/cdn/shop/products/CB8986_fa7197f3-4463-4780-ba27-3c6930cfd09a.jpg?crop=center&height=2929&v=1613772305&width=2000",
-   "maker": "Unidentified",
+   "maker": "Jan Sawka",
    "title": "Pyramid of massed figures",
    "subtitle": "",
    "year": "",
-   "verified_against": "⚠️ UNATTRIBUTED. A Shopify store (artwise.co), under a product code, which names no artist. It arrived inside a Jan Sawka run and it reads like his work, but the source establishes nothing and resemblance is not attribution. Waiting on a name.",
+   "verified_against": "Identified by Todd, 2026-09-07, who sent the item URLs back naming Jan Sawka. The record went in unattributed because its own source names nobody — still true of the source — so the attribution rests on the collector's identification, not on the file. Title and date remain unestablished. Original note: ⚠️ UNATTRIBUTED. A Shopify store (artwise.co), under a product code, which names no artist. It arrived inside a Jan Sawka run and it reads like his work, but the source establishes nothing and resemblance is not attribution. Waiting on a name.",
    "notes": [],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img44/13.jpg",
@@ -138398,11 +138422,15 @@
     {
      "k": "type",
      "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Jan Sawka"
     }
    ],
    "identity_established": true,
    "published": true,
-   "verification": "⚠️ UNATTRIBUTED. A Shopify store (artwise.co), under a product code, which names no artist. It arrived inside a Jan Sawka run and it reads like his work, but the source establishes nothing and resemblance is not attribution. Waiting on a name.",
+   "verification": "Identified by Todd, 2026-09-07, who sent the item URLs back naming Jan Sawka. The record went in unattributed because its own source names nobody — still true of the source — so the attribution rests on the collector's identification, not on the file. Title and date remain unestablished. Original note: ⚠️ UNATTRIBUTED. A Shopify store (artwise.co), under a product code, which names no artist. It arrived inside a Jan Sawka run and it reads like his work, but the source establishes nothing and resemblance is not attribution. Waiting on a name.",
    "hue": 66.96,
    "light": 0.7575,
    "chroma": 0.8755,
@@ -138419,11 +138447,11 @@
    "original_bytes": 466586,
    "identity": "sent-2026-09-07e::710cc92effd4",
    "source_url": "https://i.ebayimg.com/images/g/CREAAOSwylRh5xpu/s-l1200.png",
-   "maker": "Unidentified",
+   "maker": "Jan Sawka",
    "title": "Overlapping discs with faces and city names",
    "subtitle": "",
    "year": "",
-   "verified_against": "⚠️ UNATTRIBUTED. An eBay listing image, which names no artist. It arrived inside a Jan Sawka run and it reads like his work, but the source establishes nothing and resemblance is not attribution. Waiting on a name.",
+   "verified_against": "Identified by Todd, 2026-09-07, who sent the item URLs back naming Jan Sawka. The record went in unattributed because its own source names nobody — still true of the source — so the attribution rests on the collector's identification, not on the file. Title and date remain unestablished. Original note: ⚠️ UNATTRIBUTED. An eBay listing image, which names no artist. It arrived inside a Jan Sawka run and it reads like his work, but the source establishes nothing and resemblance is not attribution. Waiting on a name.",
    "notes": [],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img44/14.jpg",
@@ -138439,11 +138467,15 @@
     {
      "k": "type",
      "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Jan Sawka"
     }
    ],
    "identity_established": true,
    "published": true,
-   "verification": "⚠️ UNATTRIBUTED. An eBay listing image, which names no artist. It arrived inside a Jan Sawka run and it reads like his work, but the source establishes nothing and resemblance is not attribution. Waiting on a name.",
+   "verification": "Identified by Todd, 2026-09-07, who sent the item URLs back naming Jan Sawka. The record went in unattributed because its own source names nobody — still true of the source — so the attribution rests on the collector's identification, not on the file. Title and date remain unestablished. Original note: ⚠️ UNATTRIBUTED. An eBay listing image, which names no artist. It arrived inside a Jan Sawka run and it reads like his work, but the source establishes nothing and resemblance is not attribution. Waiting on a name.",
    "hue": 356.84,
    "light": 0.3196,
    "chroma": 0.4342,
@@ -138501,6 +138533,165 @@
    "light": 0.4971,
    "chroma": 0.8336,
    "punch": 0.509
+  },
+  "sent-2026-09-07f::cb93e86328d8": {
+   "id": "CRVI002380",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002380.jpg",
+   "original_px": [
+    1342,
+    1820
+   ],
+   "original_bytes": 1406743,
+   "identity": "sent-2026-09-07f::cb93e86328d8",
+   "source_url": "https://arthive.com/res/media/img/oy1000/work/53d/187617@2x.jpg",
+   "maker": "Alan Aldridge",
+   "title": "Head as a glass globe of figures",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Arthive, which serves the file under a numeric id and no caption. The ARTIST is established by Todd, 2026-09-07: \"all ALAN ALDRIDGE\". ⚠️ Title and date are NOT established — the title here is descriptive: a head rendered as a glass globe crowded with small figures, above a blank sheet of paper and a pen.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img45/01.jpg",
+   "source_px": [
+    1342,
+    1820
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Alan Aldridge"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Arthive, which serves the file under a numeric id and no caption. The ARTIST is established by Todd, 2026-09-07: \"all ALAN ALDRIDGE\". ⚠️ Title and date are NOT established — the title here is descriptive: a head rendered as a glass globe crowded with small figures, above a blank sheet of paper and a pen.",
+   "hue": 43.02,
+   "light": 0.3772,
+   "chroma": 0.911,
+   "punch": 0.3272
+  },
+  "sent-2026-09-07f::89f9488a91a7": {
+   "id": "CRVI002381",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002381.jpg",
+   "original_px": [
+    1000,
+    1000
+   ],
+   "original_bytes": 1976271,
+   "identity": "sent-2026-09-07f::89f9488a91a7",
+   "source_url": "https://bestclassicbands.com/wp-content/uploads/2017/02/Elton-John-Captain-Fantastic.jpg",
+   "maker": "Alan Aldridge",
+   "title": "Captain Fantastic and the Brown Dirt Cowboy (album cover)",
+   "subtitle": "",
+   "year": "1975",
+   "verified_against": "The cover itself, which carries its own record: 'CAPTAIN FANTASTIC and the BROWN DIRT COWBOY' and 'ELTON JOHN'. Aldridge's 1975 sleeve for the album. The artist is also named by Todd. ⚠️ The file is 1000x1000 — over the floor but modest for a sleeve, and the host has nothing larger.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img45/02.jpg",
+   "source_px": [
+    1000,
+    1000
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "artist",
+     "v": "Alan Aldridge"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "musician",
+     "v": "Elton John"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The cover itself, which carries its own record: 'CAPTAIN FANTASTIC and the BROWN DIRT COWBOY' and 'ELTON JOHN'. Aldridge's 1975 sleeve for the album. The artist is also named by Todd. ⚠️ The file is 1000x1000 — over the floor but modest for a sleeve, and the host has nothing larger.",
+   "hue": 16.55,
+   "light": 0.3904,
+   "chroma": 0.7541,
+   "punch": 0.2888
+  },
+  "sent-2026-09-07f::17cf90dde07b": {
+   "id": "CRVI002382",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002382.jpg",
+   "original_px": [
+    1554,
+    2400
+   ],
+   "original_bytes": 2116661,
+   "identity": "sent-2026-09-07f::17cf90dde07b",
+   "source_url": "https://arthive.com/res/media/img/oy1200/work/b97/187633@2x.jpg",
+   "maker": "Alan Aldridge",
+   "title": "Head composed of figures",
+   "subtitle": "",
+   "year": "1971",
+   "verified_against": "The PICTURE ITSELF: at the lower right a palette-creature holds up a card lettered in the artist's hand, \"Love from Alan Aldridge 1971\" — read from the file at magnification, not inferred. That establishes both maker and year from the work rather than from Arthive, which serves it under a numeric id with no caption. ⚠️ The title is descriptive, not established.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img45/03.jpg",
+   "source_px": [
+    1554,
+    2400
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Alan Aldridge"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The PICTURE ITSELF: at the lower right a palette-creature holds up a card lettered in the artist's hand, \"Love from Alan Aldridge 1971\" — read from the file at magnification, not inferred. That establishes both maker and year from the work rather than from Arthive, which serves it under a numeric id with no caption. ⚠️ The title is descriptive, not established.",
+   "hue": 14.03,
+   "light": 0.4496,
+   "chroma": 0.9099,
+   "punch": 0.2591
   }
  }
 }
