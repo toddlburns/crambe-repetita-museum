@@ -1,0 +1,40 @@
+# Publishes the museum to Cloudflare Pages.
+#
+# Replaces pages.yml, which could no longer succeed: GitHub Pages caps a published site at
+# 1 GB on every plan and the museum's payload passed it on 2026-09-06 (~1,105 MB). Cloudflare
+# Pages has no size cap; Cloudflare Access in front of it replaces the view-source password
+# with real server-side auth.
+#
+# Needs two repository secrets:
+#   CLOUDFLARE_API_TOKEN   — token with the "Cloudflare Pages: Edit" permission
+#   CLOUDFLARE_ACCOUNT_ID  — the account id from the Cloudflare dashboard URL
+name: Cloudflare Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: cloudflare-pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1          # the history is ~3 GB; the tip is all we publish
+
+      # ⚠️ Safe here and ONLY here: this is a throwaway checkout, and the path is explicit.
+      # The script DELETES from originals/. Every original stays in git regardless.
+      - name: Drop originals the site never serves
+        run: python3 .github/prune_unserved_originals.py "$GITHUB_WORKSPACE"
+
+      - name: Deploy
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy . --project-name=crambe-repetita-museum --branch=main

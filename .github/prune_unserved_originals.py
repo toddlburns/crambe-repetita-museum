@@ -2,8 +2,14 @@
 """Drop the held originals that the published site never serves.
 
 THE MUSEUM STILL HOLDS EVERY ORIGINAL BYTE-FOR-BEYTE — in git, in `originals/`, forever.
-This script runs only inside the Pages build, on the runner's throwaway checkout, and only
-decides what rides along to the CDN. Nothing it deletes leaves the repository.
+This script decides only what rides along to the CDN. Nothing it deletes leaves the repository
+— every original stays in git.
+
+    python3 prune_unserved_originals.py [ROOT]
+
+ROOT defaults to the repo this script sits in, which is right inside CI's throwaway checkout.
+⚠️ Pass it explicitly when pruning a staging copy: this DELETES, and without the argument it
+will delete from the real repository no matter what the working directory is.
 
 Why it exists: GitHub Pages caps a *published site* at 1 GB and that cap cannot be raised on
 any plan. As of 2026-08-30 the site was 937 MB, of which 591 MB was originals that no page
@@ -23,7 +29,15 @@ the keep-set below at the same time.
 """
 import json, os, re, sys
 
-ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+# ⚠️ ROOT USED TO BE DERIVED FROM __file__ ALONE, AND THAT IS A LOADED GUN.
+# This script DELETES from originals/. Deriving the tree it operates on from where the
+# script happens to live means it ignores cwd entirely — so running it against a staging
+# copy still deletes from the real repository. That happened on 2026-09-06: a deploy
+# script staged the site elsewhere, ran this with cwd set to the stage, and lost 2,293
+# originals out of the working tree (recovered from git, which is the only reason this
+# is a footnote and not a disaster). It now takes the tree as an argument.
+ROOT = os.path.abspath(sys.argv[1]) if len(sys.argv) > 1 else \
+    os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ORIG = os.path.join(ROOT, "originals")
 # ⚠️ MATCH OUR OWN originals/, NOT SOMEBODY ELSE'S. The first version of this pattern looked for
 # the substring "originals/" anywhere inside a src/href, which also matches EXTERNAL urls that
