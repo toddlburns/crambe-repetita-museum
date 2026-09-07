@@ -107,9 +107,18 @@ def year_of(item):
 
 
 def claimed(item):
-    """Movement names currently sitting in the item's `subject` tags."""
-    return [t["v"] for t in (item.get("tags") or [])
-            if isinstance(t, dict) and t.get("k") == "subject" and t["v"] in WINDOW]
+    """Movement names sitting in the item's `subject` tags.
+
+    ⚠️ Reads BOTH `tags` and `extra_tags`. A batch added later can only put a
+    subject on an item through `extra_tags` — writing `tags` onto an IDM-book
+    item deletes every tag it derives — so a claim parked there was invisible
+    here and 74 of them silently proposed nothing."""
+    out = []
+    for key in ("tags", "extra_tags"):
+        for t in (item.get(key) or []):
+            if isinstance(t, dict) and t.get("k") == "subject" and t["v"] in WINDOW:
+                out.append(t["v"])
+    return sorted(set(out))
 
 
 def classify(item):
@@ -122,7 +131,11 @@ def classify(item):
 
     for m in claimed(item):
         lo, hi = WINDOW[m]
-        if maker in ("", "Unidentified"):
+        # ⚠️ The registry has FOUR words for "we do not know who made this" —
+        # "", "Unknown", "Unidentified" and "unattributed" — and this test used to
+        # name only two of them, so an unattributed item could still be shown
+        # participating in a movement.
+        if maker.lower() in ("", "unknown", "unidentified", "unattributed"):
             hold.append((m, "maker not established — participation cannot be shown"))
         elif any(p in blob for p in NOT_THE_ART):
             hold.append((m, "the object is a document, reproduction or later restaging"))

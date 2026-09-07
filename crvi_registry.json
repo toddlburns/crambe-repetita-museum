@@ -1,5 +1,5 @@
 {
- "next": 2198,
+ "next": 2323,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -122370,7 +122370,13 @@
    "hue": 44.6,
    "light": 0.6102,
    "chroma": 0.4503,
-   "punch": 0.1016
+   "punch": 0.1016,
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "New Objectivity"
+    }
+   ]
   },
   "sent-2026-09-05::5f9dc62a4696": {
    "id": "CRVI002077",
@@ -128622,6 +128628,6972 @@
    "light": 0.2139,
    "chroma": 0.4074,
    "punch": 0.1004
+  },
+  "sent-2026-09-06::61b374dac4df": {
+   "id": "CRVI002198",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002198.jpg",
+   "original_px": [
+    1477,
+    2114
+   ],
+   "original_bytes": 383131,
+   "identity": "sent-2026-09-06::61b374dac4df",
+   "source_url": "https://uploads6.wikiart.org/images/marcel-duchamp/sad-young-man-in-a-train-1911.jpg",
+   "maker": "Marcel Duchamp",
+   "title": "Sad Young Man on a Train",
+   "subtitle": "",
+   "year": "1911",
+   "verified_against": "WikiArt, under Marcel Duchamp, dated 1911.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1132.jpg",
+   "source_px": [
+    1477,
+    2114
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Marcel Duchamp"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Marcel Duchamp, dated 1911.",
+   "hue": 34.57,
+   "light": 0.3278,
+   "chroma": 0.9514,
+   "punch": 0.2937,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Cubism"
+    },
+    {
+     "k": "movement",
+     "v": "Cubism"
+    }
+   ]
+  },
+  "sent-2026-09-06::b6654057bf4a": {
+   "id": "CRVI002199",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002199.jpg",
+   "original_px": [
+    1617,
+    1490
+   ],
+   "original_bytes": 359429,
+   "identity": "sent-2026-09-06::b6654057bf4a",
+   "source_url": "https://uploads4.wikiart.org/images/marcel-duchamp/king-and-queen-surrounded-by-swift-nudes-1912.jpg",
+   "maker": "Marcel Duchamp",
+   "title": "The King and Queen Surrounded by Swift Nudes",
+   "subtitle": "",
+   "year": "1912",
+   "verified_against": "WikiArt, under Marcel Duchamp, dated 1912.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1133.jpg",
+   "source_px": [
+    1617,
+    1490
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Marcel Duchamp"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Marcel Duchamp, dated 1912.",
+   "hue": 45.7,
+   "light": 0.3974,
+   "chroma": 0.7661,
+   "punch": 0.2475,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Cubism"
+    },
+    {
+     "k": "movement",
+     "v": "Cubism"
+    }
+   ]
+  },
+  "sent-2026-09-06::7e1ca38fc7d5": {
+   "id": "CRVI002200",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002200.jpg",
+   "original_px": [
+    1536,
+    1503
+   ],
+   "original_bytes": 217217,
+   "identity": "sent-2026-09-06::7e1ca38fc7d5",
+   "source_url": "https://uploads4.wikiart.org/00519/images/marcel-duchamp/84262528-10157301007722054-5207618700751929344-n.jpg",
+   "maker": "Marcel Duchamp",
+   "title": "Chocolate Grinder, No. 1",
+   "subtitle": "",
+   "year": "1913",
+   "verified_against": "WikiArt, under Marcel Duchamp, but the file carries only a Facebook photo id and no title. Titled here from the work: the drum on a Louis XV stand, with no thread lines across it, is Chocolate Grinder No. 1 (1913, Philadelphia Museum of Art) and not the threaded No. 2 of 1914. Attributed on the WORK, not the source.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1134.jpg",
+   "source_px": [
+    1536,
+    1503
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Marcel Duchamp"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Marcel Duchamp, but the file carries only a Facebook photo id and no title. Titled here from the work: the drum on a Louis XV stand, with no thread lines across it, is Chocolate Grinder No. 1 (1913, Philadelphia Museum of Art) and not the threaded No. 2 of 1914. Attributed on the WORK, not the source.",
+   "hue": 24.52,
+   "light": 0.3353,
+   "chroma": 0.5774,
+   "punch": 0.1002
+  },
+  "sent-2026-09-06::d3fa4b1addb4": {
+   "id": "CRVI002201",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002201.jpg",
+   "original_px": [
+    1442,
+    1601
+   ],
+   "original_bytes": 269853,
+   "identity": "sent-2026-09-06::d3fa4b1addb4",
+   "source_url": "https://uploads6.wikiart.org/images/marcel-duchamp/transition-of-virgin-into-a-bride-1912.jpg",
+   "maker": "Marcel Duchamp",
+   "title": "The Passage from Virgin to Bride",
+   "subtitle": "",
+   "year": "1912",
+   "verified_against": "WikiArt, under Marcel Duchamp, dated 1912.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1135.jpg",
+   "source_px": [
+    1442,
+    1601
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Marcel Duchamp"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Marcel Duchamp, dated 1912.",
+   "hue": 35.85,
+   "light": 0.4129,
+   "chroma": 0.8918,
+   "punch": 0.3153,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Cubism"
+    },
+    {
+     "k": "movement",
+     "v": "Cubism"
+    }
+   ]
+  },
+  "sent-2026-09-06::38b0a9718d03": {
+   "id": "CRVI002202",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002202.jpg",
+   "original_px": [
+    1512,
+    2472
+   ],
+   "original_bytes": 1163419,
+   "identity": "sent-2026-09-06::38b0a9718d03",
+   "source_url": "https://uploads0.wikiart.org/images/fernand-leger/the-proof-that-the-man-descent-monkey-1915.jpg",
+   "maker": "Fernand Léger",
+   "title": "The Proof that Man Descends from the Monkey",
+   "subtitle": "",
+   "year": "1915",
+   "verified_against": "WikiArt, under Fernand Léger, dated 1915.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1136.jpg",
+   "source_px": [
+    1512,
+    2472
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Fernand Léger"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Fernand Léger, dated 1915.",
+   "hue": 46.14,
+   "light": 0.501,
+   "chroma": 0.5229,
+   "punch": 0.1563,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Cubism"
+    },
+    {
+     "k": "movement",
+     "v": "Cubism"
+    }
+   ]
+  },
+  "sent-2026-09-06::882cc77afcc7": {
+   "id": "CRVI002203",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002203.jpg",
+   "original_px": [
+    1728,
+    2766
+   ],
+   "original_bytes": 1342864,
+   "identity": "sent-2026-09-06::882cc77afcc7",
+   "source_url": "https://uploads3.wikiart.org/images/fernand-leger/the-staircase-1914.jpg",
+   "maker": "Fernand Léger",
+   "title": "The Staircase",
+   "subtitle": "",
+   "year": "1914",
+   "verified_against": "WikiArt, under Fernand Léger, dated 1914.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1137.jpg",
+   "source_px": [
+    1728,
+    2766
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Fernand Léger"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Fernand Léger, dated 1914.",
+   "hue": 52.35,
+   "light": 0.4553,
+   "chroma": 0.2829,
+   "punch": 0.1031,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Cubism"
+    },
+    {
+     "k": "movement",
+     "v": "Cubism"
+    }
+   ]
+  },
+  "sent-2026-09-06::6c94dd423dde": {
+   "id": "CRVI002204",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002204.jpg",
+   "original_px": [
+    2028,
+    2784
+   ],
+   "original_bytes": 1631865,
+   "identity": "sent-2026-09-06::6c94dd423dde",
+   "source_url": "https://uploads5.wikiart.org/images/fernand-leger/houses-in-the-trees-landscape-n-3-1914.jpg",
+   "maker": "Fernand Léger",
+   "title": "Houses in the Trees (Landscape No. 3)",
+   "subtitle": "",
+   "year": "1914",
+   "verified_against": "WikiArt, under Fernand Léger, dated 1914.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1138.jpg",
+   "source_px": [
+    2028,
+    2784
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Fernand Léger"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Fernand Léger, dated 1914.",
+   "hue": 36.25,
+   "light": 0.4483,
+   "chroma": 0.3655,
+   "punch": 0.1128,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Cubism"
+    },
+    {
+     "k": "movement",
+     "v": "Cubism"
+    }
+   ]
+  },
+  "sent-2026-09-06::19fd5ae23375": {
+   "id": "CRVI002205",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002205.jpg",
+   "original_px": [
+    2172,
+    2778
+   ],
+   "original_bytes": 1491440,
+   "identity": "sent-2026-09-06::19fd5ae23375",
+   "source_url": "https://uploads3.wikiart.org/images/fernand-leger/the-staircase-1913.jpg",
+   "maker": "Fernand Léger",
+   "title": "The Staircase",
+   "subtitle": "",
+   "year": "1913",
+   "verified_against": "WikiArt, under Fernand Léger, dated 1913.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1139.jpg",
+   "source_px": [
+    2172,
+    2778
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Fernand Léger"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Fernand Léger, dated 1913.",
+   "hue": 223.84,
+   "light": 0.4647,
+   "chroma": 0.3663,
+   "punch": 0.146,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Cubism"
+    },
+    {
+     "k": "movement",
+     "v": "Cubism"
+    }
+   ]
+  },
+  "sent-2026-09-06::cb89d886ea4d": {
+   "id": "CRVI002206",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002206.jpg",
+   "original_px": [
+    2000,
+    1551
+   ],
+   "original_bytes": 1040160,
+   "identity": "sent-2026-09-06::cb89d886ea4d",
+   "source_url": "https://uploads7.wikiart.org/00504/images/wassily-kandinsky/vassily-kandinsky-light-picture.jpg",
+   "maker": "Wassily Kandinsky",
+   "title": "Light Picture (Helles Bild)",
+   "subtitle": "",
+   "year": "1913",
+   "verified_against": "WikiArt, under Wassily Kandinsky, dated 1913.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1140.jpg",
+   "source_px": [
+    2000,
+    1551
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Wassily Kandinsky"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Wassily Kandinsky, dated 1913.",
+   "hue": 47.02,
+   "light": 0.6453,
+   "chroma": 0.8912,
+   "punch": 0.249,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Der Blaue Reiter"
+    },
+    {
+     "k": "movement",
+     "v": "Der Blaue Reiter"
+    }
+   ]
+  },
+  "sent-2026-09-06::4d993ae14b82": {
+   "id": "CRVI002207",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002207.jpg",
+   "original_px": [
+    1709,
+    1181
+   ],
+   "original_bytes": 331042,
+   "identity": "sent-2026-09-06::4d993ae14b82",
+   "source_url": "https://uploads7.wikiart.org/images/wassily-kandinsky/improvisation-28-second-version-1912.jpg",
+   "maker": "Wassily Kandinsky",
+   "title": "Improvisation 28 (second version)",
+   "subtitle": "",
+   "year": "1912",
+   "verified_against": "WikiArt, under Wassily Kandinsky, dated 1912.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1141.jpg",
+   "source_px": [
+    1709,
+    1181
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Wassily Kandinsky"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Wassily Kandinsky, dated 1912.",
+   "hue": 14.5,
+   "light": 0.4906,
+   "chroma": 0.3801,
+   "punch": 0.1092,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Der Blaue Reiter"
+    },
+    {
+     "k": "movement",
+     "v": "Der Blaue Reiter"
+    }
+   ]
+  },
+  "sent-2026-09-06::8edae893ebbd": {
+   "id": "CRVI002208",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002208.jpg",
+   "original_px": [
+    1063,
+    1102
+   ],
+   "original_bytes": 483834,
+   "identity": "sent-2026-09-06::8edae893ebbd",
+   "source_url": "https://uploads2.wikiart.org/images/wassily-kandinsky/moscow-i-1916.jpg",
+   "maker": "Wassily Kandinsky",
+   "title": "Moscow I",
+   "subtitle": "",
+   "year": "1916",
+   "verified_against": "WikiArt, under Wassily Kandinsky, dated 1916.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1142.jpg",
+   "source_px": [
+    1063,
+    1102
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Wassily Kandinsky"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Wassily Kandinsky, dated 1916.",
+   "hue": 6.51,
+   "light": 0.4293,
+   "chroma": 0.509,
+   "punch": 0.1543,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Der Blaue Reiter"
+    }
+   ]
+  },
+  "sent-2026-09-06::7aeeff808d59": {
+   "id": "CRVI002209",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002209.jpg",
+   "original_px": [
+    1817,
+    1826
+   ],
+   "original_bytes": 1028932,
+   "identity": "sent-2026-09-06::7aeeff808d59",
+   "source_url": "https://uploads4.wikiart.org/images/wassily-kandinsky/improvisation-gorge-1914.jpg",
+   "maker": "Wassily Kandinsky",
+   "title": "Improvisation 'Gorge'",
+   "subtitle": "",
+   "year": "1914",
+   "verified_against": "The plate's own printed caption, legible in the file before cropping: \"11. VASILY KANDINSKY: Improvisation 'Gorge'. 1914. Munich, Städtische Galerie\". Todd marked this link \"(crop)\"; the caption band has been cropped away and the plate kept at 1817x1826.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1143.jpg",
+   "source_px": [
+    1817,
+    1826
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Wassily Kandinsky"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The plate's own printed caption, legible in the file before cropping: \"11. VASILY KANDINSKY: Improvisation 'Gorge'. 1914. Munich, Städtische Galerie\". Todd marked this link \"(crop)\"; the caption band has been cropped away and the plate kept at 1817x1826.",
+   "hue": 46.52,
+   "light": 0.4708,
+   "chroma": 0.5341,
+   "punch": 0.1517,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Der Blaue Reiter"
+    },
+    {
+     "k": "movement",
+     "v": "Der Blaue Reiter"
+    }
+   ]
+  },
+  "sent-2026-09-06::845ad4fd4014": {
+   "id": "CRVI002210",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002210.jpg",
+   "original_px": [
+    1227,
+    874
+   ],
+   "original_bytes": 468751,
+   "identity": "sent-2026-09-06::845ad4fd4014",
+   "source_url": "https://uploads7.wikiart.org/images/piet-mondrian/avond-evening-the-red-tree-1910.jpg",
+   "maker": "Piet Mondrian",
+   "title": "Avond (Evening): The Red Tree",
+   "subtitle": "",
+   "year": "1910",
+   "verified_against": "WikiArt, under Piet Mondrian, dated 1910.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1144.jpg",
+   "source_px": [
+    1227,
+    874
+   ],
+   "colors": [
+    "blue",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Piet Mondrian"
+    },
+    {
+     "k": "location",
+     "v": "Netherlands"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Piet Mondrian, dated 1910.",
+   "hue": 205.97,
+   "light": 0.3783,
+   "chroma": 0.9135,
+   "punch": 0.3369,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "De Stijl"
+    }
+   ]
+  },
+  "sent-2026-09-06::7939e39558b9": {
+   "id": "CRVI002211",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002211.jpg",
+   "original_px": [
+    800,
+    812
+   ],
+   "original_bytes": 65099,
+   "identity": "sent-2026-09-06::7939e39558b9",
+   "source_url": "https://uploads3.wikiart.org/images/piet-mondrian/composition-2-1922.jpg",
+   "maker": "Piet Mondrian",
+   "title": "Composition II",
+   "subtitle": "",
+   "year": "1922",
+   "verified_against": "WikiArt, under Piet Mondrian, dated 1922.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1145.jpg",
+   "source_px": [
+    800,
+    812
+   ],
+   "colors": [
+    "pink",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Piet Mondrian"
+    },
+    {
+     "k": "location",
+     "v": "Netherlands"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Piet Mondrian, dated 1922.",
+   "hue": 53.72,
+   "light": 0.7932,
+   "chroma": 0.2675,
+   "punch": 0.0612,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "De Stijl"
+    },
+    {
+     "k": "movement",
+     "v": "De Stijl"
+    }
+   ]
+  },
+  "sent-2026-09-06::c039368ed593": {
+   "id": "CRVI002212",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002212.jpg",
+   "original_px": [
+    800,
+    800
+   ],
+   "original_bytes": 49201,
+   "identity": "sent-2026-09-06::c039368ed593",
+   "source_url": "https://uploads0.wikiart.org/images/piet-mondrian/lozenge-composition-with-red-gray-blue-yellow-and-black-1925.jpg",
+   "maker": "Piet Mondrian",
+   "title": "Lozenge Composition with Red, Gray, Blue, Yellow and Black",
+   "subtitle": "",
+   "year": "1925",
+   "verified_against": "WikiArt, under Piet Mondrian, dated 1925.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1146.jpg",
+   "source_px": [
+    800,
+    800
+   ],
+   "colors": [
+    "green",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Piet Mondrian"
+    },
+    {
+     "k": "location",
+     "v": "Netherlands"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Piet Mondrian, dated 1925.",
+   "hue": null,
+   "light": 0.8864,
+   "chroma": 0.0448,
+   "punch": 0.0393,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "De Stijl"
+    },
+    {
+     "k": "movement",
+     "v": "De Stijl"
+    }
+   ]
+  },
+  "sent-2026-09-06::674e54d70e65": {
+   "id": "CRVI002213",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002213.jpg",
+   "original_px": [
+    888,
+    901
+   ],
+   "original_bytes": 100626,
+   "identity": "sent-2026-09-06::674e54d70e65",
+   "source_url": "https://uploads3.wikiart.org/images/piet-mondrian/broadway-boogie-woogie-1943.jpg",
+   "maker": "Piet Mondrian",
+   "title": "Broadway Boogie Woogie",
+   "subtitle": "",
+   "year": "1943",
+   "verified_against": "WikiArt, under Piet Mondrian, dated 1943.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1147.jpg",
+   "source_px": [
+    888,
+    901
+   ],
+   "colors": [
+    "yellow",
+    "pink"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Piet Mondrian"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Piet Mondrian, dated 1943.",
+   "hue": 47.23,
+   "light": 0.7641,
+   "chroma": 0.6212,
+   "punch": 0.2637,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "De Stijl"
+    }
+   ]
+  },
+  "sent-2026-09-06::eac43290580a": {
+   "id": "CRVI002214",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002214.jpg",
+   "original_px": [
+    818,
+    850
+   ],
+   "original_bytes": 143185,
+   "identity": "sent-2026-09-06::eac43290580a",
+   "source_url": "https://uploads5.wikiart.org/images/piet-mondrian/new-york-city-i-1942.jpg",
+   "maker": "Piet Mondrian",
+   "title": "New York City I",
+   "subtitle": "",
+   "year": "1942",
+   "verified_against": "WikiArt, under Piet Mondrian, dated 1942.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1148.jpg",
+   "source_px": [
+    818,
+    850
+   ],
+   "colors": [
+    "yellow",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Piet Mondrian"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Piet Mondrian, dated 1942.",
+   "hue": 55.09,
+   "light": 0.7301,
+   "chroma": 0.6818,
+   "punch": 0.3812,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "De Stijl"
+    }
+   ]
+  },
+  "sent-2026-09-06::c316fe2f907f": {
+   "id": "CRVI002215",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002215.jpg",
+   "original_px": [
+    882,
+    968
+   ],
+   "original_bytes": 83969,
+   "identity": "sent-2026-09-06::c316fe2f907f",
+   "source_url": "https://uploads7.wikiart.org/images/piet-mondrian/composition-no-10-1942.jpg",
+   "maker": "Piet Mondrian",
+   "title": "Composition No. 10",
+   "subtitle": "",
+   "year": "1942",
+   "verified_against": "WikiArt, under Piet Mondrian, dated 1942.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1149.jpg",
+   "source_px": [
+    882,
+    968
+   ],
+   "colors": [
+    "pink",
+    "purple"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Piet Mondrian"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Piet Mondrian, dated 1942.",
+   "hue": 305.34,
+   "light": 0.7186,
+   "chroma": 0.4097,
+   "punch": 0.0526,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "De Stijl"
+    }
+   ]
+  },
+  "sent-2026-09-06::ae1b2acb976f": {
+   "id": "CRVI002216",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002216.jpg",
+   "original_px": [
+    2400,
+    2407
+   ],
+   "original_bytes": 966733,
+   "identity": "sent-2026-09-06::ae1b2acb976f",
+   "source_url": "https://i.pinimg.com/originals/98/04/1f/98041fa3fa35b966678cf16de899845e.jpg",
+   "maker": "Josef Albers",
+   "title": "Homage to the Square",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Pinterest, which names nobody. Attributed on the WORK, not the source: three nested squares in the Homage to the Square format Albers painted from 1950 to his death. No specific subtitle, date or collection is established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1150.jpg",
+   "source_px": [
+    2400,
+    2407
+   ],
+   "colors": [
+    "orange",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Josef Albers"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Pinterest, which names nobody. Attributed on the WORK, not the source: three nested squares in the Homage to the Square format Albers painted from 1950 to his death. No specific subtitle, date or collection is established here.",
+   "hue": 19.25,
+   "light": 0.3869,
+   "chroma": 0.9469,
+   "punch": 0.5225
+  },
+  "sent-2026-09-06::dafd3b4da7f0": {
+   "id": "CRVI002217",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002217.jpg",
+   "original_px": [
+    2048,
+    2000
+   ],
+   "original_bytes": 281383,
+   "identity": "sent-2026-09-06::dafd3b4da7f0",
+   "source_url": "https://www.ncag-art-gallery.com/wp-content/uploads/2022/08/DSC_5850-3-1.jpg",
+   "maker": "Josef Albers",
+   "title": "Homage to the Square",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "ncag-art-gallery.com, which serves it under a camera filename (DSC_5850) and no caption. Attributed on the WORK: the Homage to the Square format. Subtitle and date not established.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1151.jpg",
+   "source_px": [
+    2048,
+    2000
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Josef Albers"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "ncag-art-gallery.com, which serves it under a camera filename (DSC_5850) and no caption. Attributed on the WORK: the Homage to the Square format. Subtitle and date not established.",
+   "hue": 40.71,
+   "light": 0.5497,
+   "chroma": 1.0,
+   "punch": 0.6496
+  },
+  "sent-2026-09-06::f1b51261729f": {
+   "id": "CRVI002218",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002218.jpg",
+   "original_px": [
+    3194,
+    3200
+   ],
+   "original_bytes": 372247,
+   "identity": "sent-2026-09-06::f1b51261729f",
+   "source_url": "https://publicdelivery.org/wp-content/uploads/2019/02/Josef-Albers-Study-for-Homage-to-the-Square-Deep-Tune-1963-oil-on-masonite-76.3-x-76.3-cm-30-x-30-in.jpg",
+   "maker": "Josef Albers",
+   "title": "Study for Homage to the Square: Deep Tune",
+   "subtitle": "",
+   "year": "1963",
+   "verified_against": "publicdelivery.org, which names it in the file itself: \"Josef Albers Study for Homage to the Square Deep Tune 1963 oil on masonite 76.3 x 76.3 cm\".",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1152.jpg",
+   "source_px": [
+    3194,
+    3200
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Josef Albers"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "publicdelivery.org, which names it in the file itself: \"Josef Albers Study for Homage to the Square Deep Tune 1963 oil on masonite 76.3 x 76.3 cm\".",
+   "hue": 33.95,
+   "light": 0.3859,
+   "chroma": 0.8264,
+   "punch": 0.3174,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    }
+   ]
+  },
+  "sent-2026-09-06::98fdb7815e53": {
+   "id": "CRVI002219",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002219.jpg",
+   "original_px": [
+    1607,
+    1703
+   ],
+   "original_bytes": 527001,
+   "identity": "sent-2026-09-06::98fdb7815e53",
+   "source_url": "https://www.invaluable.com/blog/wp-content/uploads/sites/77/2025/01/Design-11-25-for-Jaquard.jpg",
+   "maker": "Anni Albers",
+   "title": "Design 11/25 for Jacquard",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Invaluable's own blog essay on Anni Albers, where it is captioned \"Anni Albers – Design 11/25 for Jacquard, Mixed Media on Card, Inscribed and Dated 12/29\", sold via WA Art Auctions in September 2023. ⚠️ Invaluable itself marks the maker as ATTRIBUTED, not certain.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1153.jpg",
+   "source_px": [
+    1607,
+    1703
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Anni Albers"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Invaluable's own blog essay on Anni Albers, where it is captioned \"Anni Albers – Design 11/25 for Jacquard, Mixed Media on Card, Inscribed and Dated 12/29\", sold via WA Art Auctions in September 2023. ⚠️ Invaluable itself marks the maker as ATTRIBUTED, not certain.",
+   "hue": 6.66,
+   "light": 0.5169,
+   "chroma": 0.4451,
+   "punch": 0.1783,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    }
+   ]
+  },
+  "sent-2026-09-06::91fce0ed3473": {
+   "id": "CRVI002220",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002220.jpg",
+   "original_px": [
+    843,
+    1179
+   ],
+   "original_bytes": 132017,
+   "identity": "sent-2026-09-06::91fce0ed3473",
+   "source_url": "https://i.pinimg.com/originals/37/92/ed/3792edf073a7b862c01e8472bfee4816.jpg",
+   "maker": "Anni Albers",
+   "title": "Wall hanging",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Pinterest, which names nobody. Attributed on the WORK, not the source: a Bauhaus-workshop wall hanging in Anni Albers's banded pink/black/orange idiom. ⚠️ Gunta Stölzl and the other Weimar weavers worked in the same idiom, so this attribution is a reading, not a record. No title, date or collection is established.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1154.jpg",
+   "source_px": [
+    843,
+    1179
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "textile"
+    },
+    {
+     "k": "artist",
+     "v": "Anni Albers"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Pinterest, which names nobody. Attributed on the WORK, not the source: a Bauhaus-workshop wall hanging in Anni Albers's banded pink/black/orange idiom. ⚠️ Gunta Stölzl and the other Weimar weavers worked in the same idiom, so this attribution is a reading, not a record. No title, date or collection is established.",
+   "hue": 16.36,
+   "light": 0.4557,
+   "chroma": 0.5574,
+   "punch": 0.2442,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    }
+   ]
+  },
+  "sent-2026-09-06::b6725307ac0b": {
+   "id": "CRVI002221",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002221.jpg",
+   "original_px": [
+    1240,
+    1744
+   ],
+   "original_bytes": 1623660,
+   "identity": "sent-2026-09-06::b6725307ac0b",
+   "source_url": "https://publicdelivery.org/wp-content/uploads/2017/12/Anni-Albers-Design-for-a-1926-Unexecuted-Wallhanging-1926-Gouache-and-pencil-on-reprographic-paper-15-18-x-9-78-inches-38.4-x-25.1-cm.jpg",
+   "maker": "Anni Albers",
+   "title": "Design for a 1926 unexecuted wall hanging",
+   "subtitle": "",
+   "year": "1926",
+   "verified_against": "publicdelivery.org, which names it in the file: \"Anni Albers Design for a 1926 Unexecuted Wallhanging, 1926, Gouache and pencil on reprographic paper, 15 1/8 x 9 7/8 inches\".",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1155.jpg",
+   "source_px": [
+    1240,
+    1744
+   ],
+   "colors": [
+    "red",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Anni Albers"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "publicdelivery.org, which names it in the file: \"Anni Albers Design for a 1926 Unexecuted Wallhanging, 1926, Gouache and pencil on reprographic paper, 15 1/8 x 9 7/8 inches\".",
+   "hue": 6.89,
+   "light": 0.4978,
+   "chroma": 0.4218,
+   "punch": 0.2244,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    },
+    {
+     "k": "movement",
+     "v": "Bauhaus"
+    }
+   ]
+  },
+  "sent-2026-09-06::1c043fcb1ee1": {
+   "id": "CRVI002222",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002222.jpg",
+   "original_px": [
+    2300,
+    3459
+   ],
+   "original_bytes": 2289373,
+   "identity": "sent-2026-09-06::1c043fcb1ee1",
+   "source_url": "https://www.dailyartmagazine.com/wp-content/uploads/2023/01/anni-albers-unfinished-study-scaled.jpg",
+   "maker": "Anni Albers",
+   "title": "Unfinished study",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "DailyArt Magazine, which files it as an unfinished Anni Albers study. No title, date or collection is given there.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1156.jpg",
+   "source_px": [
+    2300,
+    3459
+   ],
+   "colors": [
+    "red",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Anni Albers"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "DailyArt Magazine, which files it as an unfinished Anni Albers study. No title, date or collection is given there.",
+   "hue": 5.51,
+   "light": 0.4676,
+   "chroma": 0.3818,
+   "punch": 0.1508,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    }
+   ]
+  },
+  "sent-2026-09-06::ac6ab4bb00b4": {
+   "id": "CRVI002223",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002223.jpg",
+   "original_px": [
+    1400,
+    1305
+   ],
+   "original_bytes": 869786,
+   "identity": "sent-2026-09-06::ac6ab4bb00b4",
+   "source_url": "https://publicdelivery.org/wp-content/uploads/2018/01/Anni-Albers-Pasture-1958-cotton-394-x-356-cm.jpg",
+   "maker": "Anni Albers",
+   "title": "Pasture",
+   "subtitle": "",
+   "year": "1958",
+   "verified_against": "publicdelivery.org, which names it in the file: \"Anni Albers Pasture 1958 cotton 39.4 x 35.6 cm\".",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1157.jpg",
+   "source_px": [
+    1400,
+    1305
+   ],
+   "colors": [
+    "green",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "textile"
+    },
+    {
+     "k": "artist",
+     "v": "Anni Albers"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "publicdelivery.org, which names it in the file: \"Anni Albers Pasture 1958 cotton 39.4 x 35.6 cm\".",
+   "hue": 84.62,
+   "light": 0.4382,
+   "chroma": 0.9642,
+   "punch": 0.2873,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    }
+   ]
+  },
+  "sent-2026-09-06::7bd123f61706": {
+   "id": "CRVI002224",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002224.jpg",
+   "original_px": [
+    1000,
+    1497
+   ],
+   "original_bytes": 142012,
+   "identity": "sent-2026-09-06::7bd123f61706",
+   "source_url": "https://uploads5.wikiart.org/images/laszlo-moholy-nagy/human-mechanics.jpg",
+   "maker": "László Moholy-Nagy",
+   "title": "Human Mechanics",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under László Moholy-Nagy; the source gives no date.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1158.jpg",
+   "source_px": [
+    1000,
+    1497
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "collage"
+    },
+    {
+     "k": "artist",
+     "v": "László Moholy-Nagy"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under László Moholy-Nagy; the source gives no date.",
+   "hue": 44.61,
+   "light": 0.6217,
+   "chroma": 0.5964,
+   "punch": 0.0829,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    }
+   ]
+  },
+  "sent-2026-09-06::4c380330a6ff": {
+   "id": "CRVI002225",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002225.jpg",
+   "original_px": [
+    1000,
+    1309
+   ],
+   "original_bytes": 340024,
+   "identity": "sent-2026-09-06::4c380330a6ff",
+   "source_url": "https://uploads2.wikiart.org/images/laszlo-moholy-nagy/oskar-schlemmer-in-ascona-1926.jpg",
+   "maker": "László Moholy-Nagy",
+   "title": "Oskar Schlemmer in Ascona",
+   "subtitle": "",
+   "year": "1926",
+   "verified_against": "WikiArt, under László Moholy-Nagy, dated 1926.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1159.jpg",
+   "source_px": [
+    1000,
+    1309
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "László Moholy-Nagy"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "photographer",
+     "v": "László Moholy-Nagy"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under László Moholy-Nagy, dated 1926.",
+   "hue": null,
+   "light": 0.4874,
+   "chroma": 0.0,
+   "punch": 0.0,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    },
+    {
+     "k": "movement",
+     "v": "Bauhaus"
+    }
+   ]
+  },
+  "sent-2026-09-06::374face1fabb": {
+   "id": "CRVI002226",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002226.jpg",
+   "original_px": [
+    1196,
+    1600
+   ],
+   "original_bytes": 140544,
+   "identity": "sent-2026-09-06::374face1fabb",
+   "source_url": "https://uploads0.wikiart.org/images/laszlo-moholy-nagy/xanti-schawinsky-on-a-bauhaus-balcony.jpg",
+   "maker": "László Moholy-Nagy",
+   "title": "Xanti Schawinsky on a Bauhaus Balcony",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under László Moholy-Nagy; the source gives no date.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1160.jpg",
+   "source_px": [
+    1196,
+    1600
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "László Moholy-Nagy"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "photographer",
+     "v": "László Moholy-Nagy"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under László Moholy-Nagy; the source gives no date.",
+   "hue": 42.78,
+   "light": 0.6337,
+   "chroma": 0.1319,
+   "punch": 0.064,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    }
+   ]
+  },
+  "sent-2026-09-06::c27a0814d68f": {
+   "id": "CRVI002227",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002227.jpg",
+   "original_px": [
+    996,
+    1354
+   ],
+   "original_bytes": 108240,
+   "identity": "sent-2026-09-06::c27a0814d68f",
+   "source_url": "https://uploads0.wikiart.org/images/laszlo-moholy-nagy/untitled-9.jpg",
+   "maker": "László Moholy-Nagy",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under László Moholy-Nagy; the source gives no date.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1161.jpg",
+   "source_px": [
+    996,
+    1354
+   ],
+   "colors": [
+    "green",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "collage"
+    },
+    {
+     "k": "artist",
+     "v": "László Moholy-Nagy"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under László Moholy-Nagy; the source gives no date.",
+   "hue": 68.72,
+   "light": 0.8356,
+   "chroma": 0.1663,
+   "punch": 0.0272,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    }
+   ]
+  },
+  "sent-2026-09-06::aaf6b40d1545": {
+   "id": "CRVI002228",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002228.jpg",
+   "original_px": [
+    1400,
+    1109
+   ],
+   "original_bytes": 123139,
+   "identity": "sent-2026-09-06::aaf6b40d1545",
+   "source_url": "https://uploads1.wikiart.org/images/laszlo-moholy-nagy/leuk-5-1946.jpg",
+   "maker": "László Moholy-Nagy",
+   "title": "Leuk 5",
+   "subtitle": "",
+   "year": "1946",
+   "verified_against": "WikiArt, under László Moholy-Nagy, dated 1946.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1162.jpg",
+   "source_px": [
+    1400,
+    1109
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "László Moholy-Nagy"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under László Moholy-Nagy, dated 1946.",
+   "hue": 52.43,
+   "light": 0.6177,
+   "chroma": 0.9582,
+   "punch": 0.4547
+  },
+  "sent-2026-09-06::5d50fe5976a6": {
+   "id": "CRVI002229",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002229.jpg",
+   "original_px": [
+    1246,
+    1600
+   ],
+   "original_bytes": 106610,
+   "identity": "sent-2026-09-06::5d50fe5976a6",
+   "source_url": "https://uploads3.wikiart.org/images/laszlo-moholy-nagy/z-ii.jpg",
+   "maker": "László Moholy-Nagy",
+   "title": "Z II",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under László Moholy-Nagy; the source gives no date.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1163.jpg",
+   "source_px": [
+    1246,
+    1600
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "László Moholy-Nagy"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under László Moholy-Nagy; the source gives no date.",
+   "hue": 36.01,
+   "light": 0.7247,
+   "chroma": 0.8968,
+   "punch": 0.2298,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    }
+   ]
+  },
+  "sent-2026-09-06::6ffde9a0c526": {
+   "id": "CRVI002230",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002230.jpg",
+   "original_px": [
+    2000,
+    1253
+   ],
+   "original_bytes": 387726,
+   "identity": "sent-2026-09-06::6ffde9a0c526",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Bauhausb%C3%BCcher_5_Piet_Mondrian.jpg",
+   "maker": "László Moholy-Nagy",
+   "title": "Bauhausbücher 5: Piet Mondrian, Neue Gestaltung",
+   "subtitle": "",
+   "year": "1925",
+   "verified_against": "Wikimedia Commons, file Bauhausbücher 5 Piet Mondrian.jpg. Moholy-Nagy designed and edited the Bauhausbücher series; the volume itself is Mondrian's text, Albert Langen Verlag, Munich.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1164.jpg",
+   "source_px": [
+    2000,
+    1253
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "artist",
+     "v": "László Moholy-Nagy"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons, file Bauhausbücher 5 Piet Mondrian.jpg. Moholy-Nagy designed and edited the Bauhausbücher series; the volume itself is Mondrian's text, Albert Langen Verlag, Munich.",
+   "hue": 49.64,
+   "light": 0.5046,
+   "chroma": 0.4514,
+   "punch": 0.0665,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    },
+    {
+     "k": "movement",
+     "v": "Bauhaus"
+    }
+   ]
+  },
+  "sent-2026-09-06::c72f0268ce17": {
+   "id": "CRVI002231",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002231.jpg",
+   "original_px": [
+    3105,
+    3919
+   ],
+   "original_bytes": 2431101,
+   "identity": "sent-2026-09-06::c72f0268ce17",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/1928_Schlemmer_Rot_Gegeneinander.jpg",
+   "maker": "Oskar Schlemmer",
+   "title": "Rot gegeneinander",
+   "subtitle": "",
+   "year": "1928",
+   "verified_against": "Wikimedia Commons, file 1928 Schlemmer Rot Gegeneinander.jpg.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1165.jpg",
+   "source_px": [
+    3105,
+    3919
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Oskar Schlemmer"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons, file 1928 Schlemmer Rot Gegeneinander.jpg.",
+   "hue": 36.83,
+   "light": 0.4167,
+   "chroma": 0.989,
+   "punch": 0.278,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    },
+    {
+     "k": "movement",
+     "v": "Bauhaus"
+    }
+   ]
+  },
+  "sent-2026-09-06::bf9323ab1481": {
+   "id": "CRVI002232",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002232.jpg",
+   "original_px": [
+    3892,
+    5110
+   ],
+   "original_bytes": 9978601,
+   "identity": "sent-2026-09-06::bf9323ab1481",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/1930_Schlemmer-Frauenschule.JPG",
+   "maker": "Oskar Schlemmer",
+   "title": "Frauenschule",
+   "subtitle": "",
+   "year": "1930",
+   "verified_against": "Wikimedia Commons, file 1930 Schlemmer-Frauenschule.JPG.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1166.jpg",
+   "source_px": [
+    3892,
+    5110
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Oskar Schlemmer"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "1930s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons, file 1930 Schlemmer-Frauenschule.JPG.",
+   "hue": 27.4,
+   "light": 0.5456,
+   "chroma": 0.8626,
+   "punch": 0.3065,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    },
+    {
+     "k": "movement",
+     "v": "Bauhaus"
+    }
+   ]
+  },
+  "sent-2026-09-06::75eb4c599a99": {
+   "id": "CRVI002233",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002233.jpg",
+   "original_px": [
+    1004,
+    1438
+   ],
+   "original_bytes": 101141,
+   "identity": "sent-2026-09-06::75eb4c599a99",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Oskar_Schlemmer_Bauhausausstellung_1923.jpg",
+   "maker": "Oskar Schlemmer",
+   "title": "Bauhausausstellung 1923",
+   "subtitle": "",
+   "year": "1923",
+   "verified_against": "Wikimedia Commons, file Oskar Schlemmer Bauhausausstellung 1923.jpg.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1167.jpg",
+   "source_px": [
+    1004,
+    1438
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "artist",
+     "v": "Oskar Schlemmer"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons, file Oskar Schlemmer Bauhausausstellung 1923.jpg.",
+   "hue": 47.46,
+   "light": 0.8518,
+   "chroma": 0.6758,
+   "punch": 0.0774,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    },
+    {
+     "k": "movement",
+     "v": "Bauhaus"
+    }
+   ]
+  },
+  "sent-2026-09-06::f259a12951f7": {
+   "id": "CRVI002234",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002234.jpg",
+   "original_px": [
+    3678,
+    2850
+   ],
+   "original_bytes": 5143653,
+   "identity": "sent-2026-09-06::f259a12951f7",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Oscar_schlemmer%2C_danza_bauhaus%2C_danza_coi_pali%2C_1928.jpg",
+   "maker": "Oskar Schlemmer",
+   "title": "Danza coi pali (Stäbetanz)",
+   "subtitle": "",
+   "year": "1928",
+   "verified_against": "Wikimedia Commons, file Oscar schlemmer, danza bauhaus, danza coi pali, 1928.jpg. Commons gives the drawing as Schlemmer's, 1928, in the Museo Nacional Centro de Arte Reina Sofía, Madrid; the photograph of it is by Francesco Bini.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1168.jpg",
+   "source_px": [
+    3678,
+    2850
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Oskar Schlemmer"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "photographer",
+     "v": "Francesco Bini"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons, file Oscar schlemmer, danza bauhaus, danza coi pali, 1928.jpg. Commons gives the drawing as Schlemmer's, 1928, in the Museo Nacional Centro de Arte Reina Sofía, Madrid; the photograph of it is by Francesco Bini.",
+   "hue": 33.49,
+   "light": 0.5876,
+   "chroma": 0.7401,
+   "punch": 0.173,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    }
+   ]
+  },
+  "sent-2026-09-06::94f604730725": {
+   "id": "CRVI002235",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002235.jpg",
+   "original_px": [
+    3084,
+    2000
+   ],
+   "original_bytes": 1077289,
+   "identity": "sent-2026-09-06::94f604730725",
+   "source_url": "https://hips.hearstapps.com/hmg-prod/images/oskar-schlemmer-triadisches-ballett-1536045527.jpg?crop=1xw:1xh;center",
+   "maker": "Oskar Schlemmer",
+   "title": "Das Triadische Ballett — costume group",
+   "subtitle": "",
+   "year": "1926",
+   "verified_against": "Hearst's image CDN, filed as \"oskar schlemmer triadisches ballett\". The costumes are Schlemmer's Triadic Ballet, unmistakably. ⚠️ This is a PHOTOGRAPH of them and the photographer is not named by the source; the usual 1926 group shot is credited to Karl Grill, but that is not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1169.jpg",
+   "source_px": [
+    3084,
+    2000
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Oskar Schlemmer"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Hearst's image CDN, filed as \"oskar schlemmer triadisches ballett\". The costumes are Schlemmer's Triadic Ballet, unmistakably. ⚠️ This is a PHOTOGRAPH of them and the photographer is not named by the source; the usual 1926 group shot is credited to Karl Grill, but that is not established here.",
+   "hue": null,
+   "light": 0.2558,
+   "chroma": 0.0,
+   "punch": 0.0,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    }
+   ]
+  },
+  "sent-2026-09-06::07a06d4defc6": {
+   "id": "CRVI002236",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002236.jpg",
+   "original_px": [
+    1280,
+    1701
+   ],
+   "original_bytes": 604918,
+   "identity": "sent-2026-09-06::07a06d4defc6",
+   "source_url": "https://64.media.tumblr.com/e2c035d4b51a7413304bfdabfbf6f5c4/tumblr_o30hhgsP3u1u5nu6fo4_1280.jpg",
+   "maker": "unattributed",
+   "title": "Bauhaus weaving, banded stripes in blue, apricot and black",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "⚠️ NOT ESTABLISHED. A Tumblr repost with no caption. The object reads as a Weimar/Dessau Bauhaus weaving, but resemblance is not attribution and nobody is named.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1170.jpg",
+   "source_px": [
+    1280,
+    1701
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "textile"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ NOT ESTABLISHED. A Tumblr repost with no caption. The object reads as a Weimar/Dessau Bauhaus weaving, but resemblance is not attribution and nobody is named.",
+   "hue": 33.98,
+   "light": 0.4932,
+   "chroma": 0.5536,
+   "punch": 0.1971,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    }
+   ]
+  },
+  "sent-2026-09-06::39bafc0fcda6": {
+   "id": "CRVI002237",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002237.jpg",
+   "original_px": [
+    1837,
+    2000
+   ],
+   "original_bytes": 600985,
+   "identity": "sent-2026-09-06::39bafc0fcda6",
+   "source_url": "https://i.pinimg.com/originals/98/ea/46/98ea463c51a3c09189a8c726c7a2b7b5.jpg",
+   "maker": "unattributed",
+   "title": "Weaving design on graph paper",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "⚠️ NOT ESTABLISHED. Pinterest, which names nobody. A ruled weaving draft with handwritten notes and initials at lower right, in the Bauhaus workshop manner. No maker, title or date.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1171.jpg",
+   "source_px": [
+    1837,
+    2000
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ NOT ESTABLISHED. Pinterest, which names nobody. A ruled weaving draft with handwritten notes and initials at lower right, in the Bauhaus workshop manner. No maker, title or date.",
+   "hue": 34.99,
+   "light": 0.6834,
+   "chroma": 0.6273,
+   "punch": 0.1426,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    }
+   ]
+  },
+  "sent-2026-09-06::401c884b1cd6": {
+   "id": "CRVI002238",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002238.jpg",
+   "original_px": [
+    942,
+    1252
+   ],
+   "original_bytes": 498736,
+   "identity": "sent-2026-09-06::401c884b1cd6",
+   "source_url": "https://cgitems.co.uk/wp-content/uploads/2026/02/2026-02-22_328504-gunta-stolzl.jpg",
+   "maker": "Gunta Stölzl",
+   "title": "Jacquard weaving",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "cgitems.co.uk, which names Gunta Stölzl in the file itself. No title or date given there.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1172.jpg",
+   "source_px": [
+    942,
+    1252
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "textile"
+    },
+    {
+     "k": "artist",
+     "v": "Gunta Stölzl"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "cgitems.co.uk, which names Gunta Stölzl in the file itself. No title or date given there.",
+   "hue": 2.75,
+   "light": 0.4768,
+   "chroma": 0.7389,
+   "punch": 0.2703,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    }
+   ]
+  },
+  "sent-2026-09-06::69085de14bb6": {
+   "id": "CRVI002239",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002239.jpg",
+   "original_px": [
+    1476,
+    1920
+   ],
+   "original_bytes": 248157,
+   "identity": "sent-2026-09-06::69085de14bb6",
+   "source_url": "https://storage.googleapis.com/whoppah-production/image/67/fe/67fe45ef-5ddf-4971-97d5-01f6e9f449d0/cover-md.jpg",
+   "maker": "Johannes Itten",
+   "title": "Horizontal-Vertical",
+   "subtitle": "",
+   "year": "1915",
+   "verified_against": "Matched against WikiArt's Johannes Itten, *Horizontal Vertical*, 1915 — the two reproductions are the same painting block for block. This copy (Whoppah's, 1476x1920) is much larger than WikiArt's 524x723.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1173.jpg",
+   "source_px": [
+    1476,
+    1920
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Johannes Itten"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Matched against WikiArt's Johannes Itten, *Horizontal Vertical*, 1915 — the two reproductions are the same painting block for block. This copy (Whoppah's, 1476x1920) is much larger than WikiArt's 524x723.",
+   "hue": 358.05,
+   "light": 0.3879,
+   "chroma": 0.6236,
+   "punch": 0.2415,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    }
+   ]
+  },
+  "sent-2026-09-06::0d32c925c15f": {
+   "id": "CRVI002240",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002240.webp",
+   "original_px": [
+    1632,
+    1852
+   ],
+   "original_bytes": 1062510,
+   "identity": "sent-2026-09-06::0d32c925c15f",
+   "source_url": "https://encyclopedia.design/wp-content/uploads/2021/09/Screen-Shot-2021-09-20-at-7.31.30-am-902x1024.png",
+   "maker": "unattributed",
+   "title": "Overlapping concentric colour discs, quartered",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "⚠️ NOT ESTABLISHED — PUBLISHED ANYWAY. encyclopedia.design carries it on a Johannes Itten page, but the work is not in any list of Itten's paintings, and quartered overlapping colour discs are Robert Delaunay's *Formes circulaires* idiom, not Itten's colour-star pedagogy. Rather than repeat a caption I think is wrong or assert a Delaunay I cannot source, the maker is left open.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1174.webp",
+   "source_px": [
+    1632,
+    1852
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ NOT ESTABLISHED — PUBLISHED ANYWAY. encyclopedia.design carries it on a Johannes Itten page, but the work is not in any list of Itten's paintings, and quartered overlapping colour discs are Robert Delaunay's *Formes circulaires* idiom, not Itten's colour-star pedagogy. Rather than repeat a caption I think is wrong or assert a Delaunay I cannot source, the maker is left open.",
+   "hue": 3.95,
+   "light": 0.3127,
+   "chroma": 0.8845,
+   "punch": 0.2833
+  },
+  "sent-2026-09-06::49b205141f33": {
+   "id": "CRVI002241",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002241.jpg",
+   "original_px": [
+    800,
+    1072
+   ],
+   "original_bytes": 507499,
+   "identity": "sent-2026-09-06::49b205141f33",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Johannes_Itten_%28retuschiert%29.jpg",
+   "maker": "unattributed",
+   "title": "Johannes Itten",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Wikimedia Commons, file Johannes Itten (retuschiert).jpg. A retouched portrait photograph OF Itten; Commons names no photographer.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1175.jpg",
+   "source_px": [
+    800,
+    1072
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons, file Johannes Itten (retuschiert).jpg. A retouched portrait photograph OF Itten; Commons names no photographer.",
+   "hue": null,
+   "light": 0.4906,
+   "chroma": 0.0,
+   "punch": 0.0,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    }
+   ]
+  },
+  "sent-2026-09-06::33f4ddbfa1a5": {
+   "id": "CRVI002242",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002242.jpg",
+   "original_px": [
+    1465,
+    2283
+   ],
+   "original_bytes": 341005,
+   "identity": "sent-2026-09-06::33f4ddbfa1a5",
+   "source_url": "https://i.pinimg.com/originals/1e/5f/4f/1e5f4fbd3c8112e74128718aee24dfef.jpg",
+   "maker": "unattributed",
+   "title": "Prismatic composition in pale greens, pinks and yellows",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "⚠️ NOT ESTABLISHED. Pinterest, which names nobody. Sent inside a run of Johannes Itten links, but it matches nothing in Itten's catalogue as published; the crystalline pastel planes read equally as Synchromism or Orphism. Left unnamed rather than guessed.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1176.jpg",
+   "source_px": [
+    1465,
+    2283
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ NOT ESTABLISHED. Pinterest, which names nobody. Sent inside a run of Johannes Itten links, but it matches nothing in Itten's catalogue as published; the crystalline pastel planes read equally as Synchromism or Orphism. Left unnamed rather than guessed.",
+   "hue": 48.08,
+   "light": 0.5447,
+   "chroma": 0.6817,
+   "punch": 0.2089
+  },
+  "sent-2026-09-06::89e11411429c": {
+   "id": "CRVI002243",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002243.jpg",
+   "original_px": [
+    1273,
+    1953
+   ],
+   "original_bytes": 300661,
+   "identity": "sent-2026-09-06::89e11411429c",
+   "source_url": "https://i.pinimg.com/originals/8c/0f/c0/8c0fc0d7155f1cf4d51276a36673cf0c.jpg",
+   "maker": "unattributed",
+   "title": "Johannes Itten in his Mazdaznan robe",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "⚠️ Photographer NOT ESTABLISHED. Pinterest, which names nobody. The sitter is Johannes Itten, in the monk-like robe he wore at the Bauhaus, in front of one of his own star paintings — identified on the WORK, not the source.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1177.jpg",
+   "source_px": [
+    1273,
+    1953
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ Photographer NOT ESTABLISHED. Pinterest, which names nobody. The sitter is Johannes Itten, in the monk-like robe he wore at the Bauhaus, in front of one of his own star paintings — identified on the WORK, not the source.",
+   "hue": null,
+   "light": 0.2306,
+   "chroma": 0.0,
+   "punch": 0.0,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    }
+   ]
+  },
+  "sent-2026-09-06::fe0f4a5e4b99": {
+   "id": "CRVI002244",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002244.jpg",
+   "original_px": [
+    1800,
+    1517
+   ],
+   "original_bytes": 234359,
+   "identity": "sent-2026-09-06::fe0f4a5e4b99",
+   "source_url": "https://i.pinimg.com/originals/bf/06/2f/bf062ffe464f76f5dea3ae9f813d09f1.jpg",
+   "maker": "unattributed",
+   "title": "Bauhaussiedlung Dessau-Törten, axonometric",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "⚠️ Draughtsman NOT ESTABLISHED. Pinterest, which names nobody. The sheet titles itself at lower left: \"bauhaussiedlung dessau-törten\" — the Dessau-Törten housing estate, built to Walter Gropius's design 1926–28. Who drew this sheet is not recorded here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1178.jpg",
+   "source_px": [
+    1800,
+    1517
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ Draughtsman NOT ESTABLISHED. Pinterest, which names nobody. The sheet titles itself at lower left: \"bauhaussiedlung dessau-törten\" — the Dessau-Törten housing estate, built to Walter Gropius's design 1926–28. Who drew this sheet is not recorded here.",
+   "hue": 46.71,
+   "light": 0.7146,
+   "chroma": 0.8111,
+   "punch": 0.1998,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Bauhaus"
+    }
+   ]
+  },
+  "sent-2026-09-06::206a4333316c": {
+   "id": "CRVI002245",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002245.jpg",
+   "original_px": [
+    928,
+    1024
+   ],
+   "original_bytes": 227844,
+   "identity": "sent-2026-09-06::206a4333316c",
+   "source_url": "https://uploads2.wikiart.org/images/mark-rothko/not_detected_242132.jpg",
+   "maker": "Mark Rothko",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Mark Rothko; the source gives no date.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1179.jpg",
+   "source_px": [
+    928,
+    1024
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Mark Rothko"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Mark Rothko; the source gives no date.",
+   "hue": 223.67,
+   "light": 0.4495,
+   "chroma": 0.6777,
+   "punch": 0.3193
+  },
+  "sent-2026-09-06::0705f92f8d5d": {
+   "id": "CRVI002246",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002246.jpg",
+   "original_px": [
+    801,
+    1036
+   ],
+   "original_bytes": 103749,
+   "identity": "sent-2026-09-06::0705f92f8d5d",
+   "source_url": "https://uploads2.wikiart.org/images/mark-rothko/not_detected_242129.jpg",
+   "maker": "Mark Rothko",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Mark Rothko; the source gives no date.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1180.jpg",
+   "source_px": [
+    801,
+    1036
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Mark Rothko"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Mark Rothko; the source gives no date.",
+   "hue": 16.01,
+   "light": 0.4516,
+   "chroma": 1.0,
+   "punch": 0.8587
+  },
+  "sent-2026-09-06::d655d348a2c5": {
+   "id": "CRVI002247",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002247.jpg",
+   "original_px": [
+    1158,
+    1600
+   ],
+   "original_bytes": 186609,
+   "identity": "sent-2026-09-06::d655d348a2c5",
+   "source_url": "https://uploads3.wikiart.org/images/mark-rothko/untitled-12.jpg",
+   "maker": "Mark Rothko",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Mark Rothko; the source gives no date.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1181.jpg",
+   "source_px": [
+    1158,
+    1600
+   ],
+   "colors": [
+    "pink",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Mark Rothko"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Mark Rothko; the source gives no date.",
+   "hue": 5.43,
+   "light": 0.6037,
+   "chroma": 1.0,
+   "punch": 0.7309
+  },
+  "sent-2026-09-06::13e12a257b35": {
+   "id": "CRVI002248",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002248.jpg",
+   "original_px": [
+    2763,
+    4144
+   ],
+   "original_bytes": 4388280,
+   "identity": "sent-2026-09-06::13e12a257b35",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/K%C3%B6ln_%E2%80%93_Dropped_Cone_2016_02.jpg",
+   "maker": "Claes Oldenburg and Coosje van Bruggen",
+   "title": "Dropped Cone",
+   "subtitle": "",
+   "year": "2001",
+   "verified_against": "Wikimedia Commons, file Köln – Dropped Cone 2016 02.jpg. The work sits on the Neumarkt Galerie, Cologne.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1182.jpg",
+   "source_px": [
+    2763,
+    4144
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Claes Oldenburg"
+    },
+    {
+     "k": "artist",
+     "v": "Coosje van Bruggen"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons, file Köln – Dropped Cone 2016 02.jpg. The work sits on the Neumarkt Galerie, Cologne.",
+   "hue": 214.81,
+   "light": 0.7109,
+   "chroma": 0.9174,
+   "punch": 0.1726,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Pop Art"
+    }
+   ]
+  },
+  "sent-2026-09-06::e5a4701be874": {
+   "id": "CRVI002249",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002249.jpg",
+   "original_px": [
+    3264,
+    2448
+   ],
+   "original_bytes": 946086,
+   "identity": "sent-2026-09-06::e5a4701be874",
+   "source_url": "https://i.pinimg.com/originals/b2/22/37/b222377bbd6d933f4a481c113b6ecba6.jpg",
+   "maker": "Claes Oldenburg and Coosje van Bruggen",
+   "title": "Shuttlecocks",
+   "subtitle": "",
+   "year": "1994",
+   "verified_against": "Pinterest, which names nobody. Attributed on the WORK: the Shuttlecocks on the lawn of the Nelson-Atkins Museum of Art, Kansas City, made by Oldenburg and van Bruggen in 1994.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1183.jpg",
+   "source_px": [
+    3264,
+    2448
+   ],
+   "colors": [
+    "blue",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Claes Oldenburg"
+    },
+    {
+     "k": "artist",
+     "v": "Coosje van Bruggen"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Pinterest, which names nobody. Attributed on the WORK: the Shuttlecocks on the lawn of the Nelson-Atkins Museum of Art, Kansas City, made by Oldenburg and van Bruggen in 1994.",
+   "hue": 94.84,
+   "light": 0.3998,
+   "chroma": 0.6462,
+   "punch": 0.1305,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Pop Art"
+    }
+   ]
+  },
+  "sent-2026-09-06::5fd9f3d0eb5e": {
+   "id": "CRVI002250",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002250.jpg",
+   "original_px": [
+    3204,
+    2274
+   ],
+   "original_bytes": 4609307,
+   "identity": "sent-2026-09-06::5fd9f3d0eb5e",
+   "source_url": "https://static-assets.artlogic.net/w_1500,h_1500,c_limit/exhibit-e/5f5a43b313a837455d8b4567/da74c1477de4521e83fbdfaca61f3a51.jpeg",
+   "maker": "unattributed",
+   "title": "A man leaning on Claes Oldenburg's Geometric Mouse",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "⚠️ NOT ESTABLISHED. An Artlogic/exhibit-e asset with no page behind it. The sculpture is Oldenburg's Cor-Ten *Geometric Mouse*, identified on the WORK. Neither the sitter — who may well be Oldenburg himself — nor the photographer is named.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1184.jpg",
+   "source_px": [
+    3204,
+    2274
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ NOT ESTABLISHED. An Artlogic/exhibit-e asset with no page behind it. The sculpture is Oldenburg's Cor-Ten *Geometric Mouse*, identified on the WORK. Neither the sitter — who may well be Oldenburg himself — nor the photographer is named.",
+   "hue": 26.82,
+   "light": 0.309,
+   "chroma": 0.6865,
+   "punch": 0.1697
+  },
+  "sent-2026-09-06::c60e29b6b977": {
+   "id": "CRVI002251",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002251.webp",
+   "original_px": [
+    1200,
+    1200
+   ],
+   "original_bytes": 278876,
+   "identity": "sent-2026-09-06::c60e29b6b977",
+   "source_url": "https://i.guim.co.uk/img/media/41b8b3750a9621cea35e6befeee31538b2a8a2a8/0_0_7791_4675/master/7791.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=55871140189a644a9f2e13effdecac51",
+   "maker": "Claes Oldenburg and Coosje van Bruggen",
+   "title": "Saw, Sawing",
+   "subtitle": "",
+   "year": "1996",
+   "verified_against": "A Guardian press image. Attributed on the WORK: the red saw rising out of the plaza is Oldenburg and van Bruggen's *Saw, Sawing*, 1996, at Tokyo Big Sight. ⚠️ The Guardian's master is 7791x4675 but its signed URL only serves the 1200x1200 square crop; the master returns 401 without the signature, so this is the crop, not the full frame.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1185.webp",
+   "source_px": [
+    1200,
+    1200
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Claes Oldenburg"
+    },
+    {
+     "k": "artist",
+     "v": "Coosje van Bruggen"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A Guardian press image. Attributed on the WORK: the red saw rising out of the plaza is Oldenburg and van Bruggen's *Saw, Sawing*, 1996, at Tokyo Big Sight. ⚠️ The Guardian's master is 7791x4675 but its signed URL only serves the 1200x1200 square crop; the master returns 401 without the signature, so this is the crop, not the full frame.",
+   "hue": 210.1,
+   "light": 0.4954,
+   "chroma": 0.6675,
+   "punch": 0.1632,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Pop Art"
+    }
+   ]
+  },
+  "sent-2026-09-06::26936f00074f": {
+   "id": "CRVI002252",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002252.jpg",
+   "original_px": [
+    1200,
+    1528
+   ],
+   "original_bytes": 270972,
+   "identity": "sent-2026-09-06::26936f00074f",
+   "source_url": "https://portlandartmuseum.org/wp-content/uploads/2020/08/Claes-Oldenburg-Alphabet-Bar-1200.jpg",
+   "maker": "Claes Oldenburg",
+   "title": "Alphabet/Good Humor",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Portland Art Museum, which files it as \"Claes Oldenburg Alphabet Bar\". The drawing is the ice-cream bar built out of letters that Oldenburg called *Alphabet/Good Humor*. No date given at the source.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1186.jpg",
+   "source_px": [
+    1200,
+    1528
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Claes Oldenburg"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Portland Art Museum, which files it as \"Claes Oldenburg Alphabet Bar\". The drawing is the ice-cream bar built out of letters that Oldenburg called *Alphabet/Good Humor*. No date given at the source.",
+   "hue": 30.34,
+   "light": 0.8496,
+   "chroma": 0.9895,
+   "punch": 0.1353,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Pop Art"
+    }
+   ]
+  },
+  "sent-2026-09-06::ee20f1c898e7": {
+   "id": "CRVI002253",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002253.jpg",
+   "original_px": [
+    3922,
+    8192
+   ],
+   "original_bytes": 4265687,
+   "identity": "sent-2026-09-06::ee20f1c898e7",
+   "source_url": "https://walker-web.imgix.net/cms/21_Oldenburg_1966_46_r.jpg",
+   "maker": "Claes Oldenburg",
+   "title": "Shoestring Potatoes Spilling from a Bag",
+   "subtitle": "",
+   "year": "1966",
+   "verified_against": "Walker Art Center, from its own CMS asset 21_Oldenburg_1966_46_r — the Walker's Oldenburg soft sculpture of 1966.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1187.jpg",
+   "source_px": [
+    3922,
+    8192
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Claes Oldenburg"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Walker Art Center, from its own CMS asset 21_Oldenburg_1966_46_r — the Walker's Oldenburg soft sculpture of 1966.",
+   "hue": 41.12,
+   "light": 0.5114,
+   "chroma": 0.2509,
+   "punch": 0.1195,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Pop Art"
+    },
+    {
+     "k": "movement",
+     "v": "Pop Art"
+    }
+   ]
+  },
+  "sent-2026-09-06::c9df3f7b3ac2": {
+   "id": "CRVI002254",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002254.jpg",
+   "original_px": [
+    1200,
+    812
+   ],
+   "original_bytes": 92963,
+   "identity": "sent-2026-09-06::c9df3f7b3ac2",
+   "source_url": "https://cdn.thecollector.com/wp-content/uploads/2023/05/claes-oldenburg-store-photo-1961.jpg",
+   "maker": "unattributed",
+   "title": "Claes Oldenburg in The Store",
+   "subtitle": "",
+   "year": "1961",
+   "verified_against": "⚠️ Photographer NOT ESTABLISHED. The sitter and the room are certain on the WORK: Oldenburg among the plaster reliefs of *The Store*, 107 East Second Street, New York, 1961. ⚠️ SOURCE SWAPPED: the link Todd sent (a Substack CDN copy) was 1024x670, under the museum's 800px floor. The same photograph was found at 1200x812 on thecollector.com and that is the file held here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1188.jpg",
+   "source_px": [
+    1200,
+    812
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ Photographer NOT ESTABLISHED. The sitter and the room are certain on the WORK: Oldenburg among the plaster reliefs of *The Store*, 107 East Second Street, New York, 1961. ⚠️ SOURCE SWAPPED: the link Todd sent (a Substack CDN copy) was 1024x670, under the museum's 800px floor. The same photograph was found at 1200x812 on thecollector.com and that is the file held here.",
+   "hue": 34.47,
+   "light": 0.3483,
+   "chroma": 0.3354,
+   "punch": 0.0758,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Pop Art"
+    }
+   ]
+  },
+  "sent-2026-09-06::5a1860f5b87e": {
+   "id": "CRVI002255",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002255.png",
+   "original_px": [
+    960,
+    1231
+   ],
+   "original_bytes": 1445579,
+   "identity": "sent-2026-09-06::5a1860f5b87e",
+   "source_url": "https://uploads2.wikiart.org/00444/images/andy-warhol/large-superman-small-1-jpg-1.png",
+   "maker": "Andy Warhol",
+   "title": "Superman",
+   "subtitle": "",
+   "year": "1961",
+   "verified_against": "WikiArt, under Andy Warhol, dated 1961.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1189.png",
+   "source_px": [
+    960,
+    1231
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Andy Warhol"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Andy Warhol, dated 1961.",
+   "hue": 21.94,
+   "light": 0.5931,
+   "chroma": 0.6744,
+   "punch": 0.1621,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Pop Art"
+    },
+    {
+     "k": "movement",
+     "v": "Pop Art"
+    }
+   ]
+  },
+  "sent-2026-09-06::9e5c4b42cceb": {
+   "id": "CRVI002256",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002256.jpg",
+   "original_px": [
+    1050,
+    1405
+   ],
+   "original_bytes": 210489,
+   "identity": "sent-2026-09-06::9e5c4b42cceb",
+   "source_url": "https://uploads7.wikiart.org/images/andy-warhol/campbell-s-soup-can-beef.jpg",
+   "maker": "Andy Warhol",
+   "title": "Campbell's Soup Can (Beef Noodle)",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Andy Warhol; the source gives no date.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1190.jpg",
+   "source_px": [
+    1050,
+    1405
+   ],
+   "colors": [
+    "green",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Andy Warhol"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Andy Warhol; the source gives no date.",
+   "hue": 5.92,
+   "light": 0.7579,
+   "chroma": 0.854,
+   "punch": 0.1809,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Pop Art"
+    }
+   ]
+  },
+  "sent-2026-09-06::ec72e3439392": {
+   "id": "CRVI002257",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002257.jpg",
+   "original_px": [
+    1000,
+    847
+   ],
+   "original_bytes": 263804,
+   "identity": "sent-2026-09-06::ec72e3439392",
+   "source_url": "https://uploads7.wikiart.org/00304/images/roy-lichtenstein/yellow-and-red-brushstrokes-1966.jpg",
+   "maker": "Roy Lichtenstein",
+   "title": "Yellow and Red Brushstrokes",
+   "subtitle": "",
+   "year": "1966",
+   "verified_against": "WikiArt, under Roy Lichtenstein, dated 1966.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1191.jpg",
+   "source_px": [
+    1000,
+    847
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Roy Lichtenstein"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Roy Lichtenstein, dated 1966.",
+   "hue": 51.19,
+   "light": 0.4973,
+   "chroma": 0.3756,
+   "punch": 0.196,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Pop Art"
+    },
+    {
+     "k": "movement",
+     "v": "Pop Art"
+    }
+   ]
+  },
+  "sent-2026-09-06::538783f3014c": {
+   "id": "CRVI002258",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002258.jpg",
+   "original_px": [
+    2394,
+    3200
+   ],
+   "original_bytes": 779835,
+   "identity": "sent-2026-09-06::538783f3014c",
+   "source_url": "https://uploads4.wikiart.org/00272/images/roy-lichtenstein/roy-lichtenstein-shipboard-girl.jpg",
+   "maker": "Roy Lichtenstein",
+   "title": "Shipboard Girl",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "WikiArt, under Roy Lichtenstein; the source gives no date.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1192.jpg",
+   "source_px": [
+    2394,
+    3200
+   ],
+   "colors": [
+    "red",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Roy Lichtenstein"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Roy Lichtenstein; the source gives no date.",
+   "hue": 53.52,
+   "light": 0.6074,
+   "chroma": 0.5483,
+   "punch": 0.1696,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Pop Art"
+    }
+   ]
+  },
+  "sent-2026-09-06::e1a3b61242e3": {
+   "id": "CRVI002259",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002259.jpg",
+   "original_px": [
+    3185,
+    2383
+   ],
+   "original_bytes": 2212998,
+   "identity": "sent-2026-09-06::e1a3b61242e3",
+   "source_url": "https://www.artchive.com/wp-content/uploads/2024/08/crying-girl-roy-lichtenstein-1963-scaled.jpg",
+   "maker": "Roy Lichtenstein",
+   "title": "Crying Girl",
+   "subtitle": "",
+   "year": "1963",
+   "verified_against": "Artchive, which names it in the file: \"crying girl roy lichtenstein 1963\".",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1193.jpg",
+   "source_px": [
+    3185,
+    2383
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Roy Lichtenstein"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Artchive, which names it in the file: \"crying girl roy lichtenstein 1963\".",
+   "hue": 54.34,
+   "light": 0.6144,
+   "chroma": 0.8452,
+   "punch": 0.229,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Pop Art"
+    },
+    {
+     "k": "movement",
+     "v": "Pop Art"
+    }
+   ]
+  },
+  "sent-2026-09-06::7e9e3de96444": {
+   "id": "CRVI002260",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002260.jpg",
+   "original_px": [
+    3426,
+    3421
+   ],
+   "original_bytes": 2585436,
+   "identity": "sent-2026-09-06::7e9e3de96444",
+   "source_url": "https://www.plazzart.com/doc/plot/images/lots/20150924_mdv_129/dsc02020.jpg",
+   "maker": "Roy Lichtenstein",
+   "title": "M-Maybe",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Plazzart, from an auction lot photograph (sale of 24 September 2015, lot 129). The image is Lichtenstein's *M-Maybe (A Girl's Picture)*, identified on the WORK — the painting itself is in Museum Ludwig, Cologne, so the lot is a poster or a print. ⚠️ Which is not established.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1194.jpg",
+   "source_px": [
+    3426,
+    3421
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Roy Lichtenstein"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Plazzart, from an auction lot photograph (sale of 24 September 2015, lot 129). The image is Lichtenstein's *M-Maybe (A Girl's Picture)*, identified on the WORK — the painting itself is in Museum Ludwig, Cologne, so the lot is a poster or a print. ⚠️ Which is not established.",
+   "hue": 41.87,
+   "light": 0.4922,
+   "chroma": 0.5313,
+   "punch": 0.2638,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Pop Art"
+    }
+   ]
+  },
+  "sent-2026-09-06::753d7f2a2dcf": {
+   "id": "CRVI002261",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002261.jpg",
+   "original_px": [
+    1200,
+    1197
+   ],
+   "original_bytes": 315915,
+   "identity": "sent-2026-09-06::753d7f2a2dcf",
+   "source_url": "https://cdn.sanity.io/images/dqllnil6/production/d0e2b763b0ead9e27147ca8ff494b237ffc0d670-1200x1197.jpg?w=3840&q=60&auto=format",
+   "maker": "Roy Lichtenstein",
+   "title": "Crying Girl",
+   "subtitle": "",
+   "year": "1964",
+   "verified_against": "A Sanity CDN asset with no page behind it. Attributed on the WORK: the red-ground *Crying Girl* — enamel on steel, 1964 — as distinct from the yellow-ground offset of 1963 also in this batch. ⚠️ Neither medium nor collection is established from the source.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1195.jpg",
+   "source_px": [
+    1200,
+    1197
+   ],
+   "colors": [
+    "yellow",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Roy Lichtenstein"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A Sanity CDN asset with no page behind it. Attributed on the WORK: the red-ground *Crying Girl* — enamel on steel, 1964 — as distinct from the yellow-ground offset of 1963 also in this batch. ⚠️ Neither medium nor collection is established from the source.",
+   "hue": 58.05,
+   "light": 0.4674,
+   "chroma": 0.6334,
+   "punch": 0.2512,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Pop Art"
+    },
+    {
+     "k": "movement",
+     "v": "Pop Art"
+    }
+   ]
+  },
+  "sent-2026-09-06::8d95d61b9934": {
+   "id": "CRVI002262",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002262.png",
+   "original_px": [
+    1000,
+    1281
+   ],
+   "original_bytes": 2508825,
+   "identity": "sent-2026-09-06::8d95d61b9934",
+   "source_url": "https://i.pinimg.com/originals/c4/df/4d/c4df4d0fe0853ee7760b2236b5bc3a6f.png",
+   "maker": "Roy Lichtenstein",
+   "title": "Explosion",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Pinterest, which names nobody. Attributed on the WORK: a signed and numbered Lichtenstein *Explosion* print — the signature and edition number are legible in the lower margin.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1196.png",
+   "source_px": [
+    1000,
+    1281
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Roy Lichtenstein"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Pinterest, which names nobody. Attributed on the WORK: a signed and numbered Lichtenstein *Explosion* print — the signature and edition number are legible in the lower margin.",
+   "hue": 358.38,
+   "light": 0.6648,
+   "chroma": 0.5815,
+   "punch": 0.2044,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Pop Art"
+    }
+   ]
+  },
+  "sent-2026-09-06::bb5d9cfe619c": {
+   "id": "CRVI002263",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002263.jpg",
+   "original_px": [
+    2000,
+    1255
+   ],
+   "original_bytes": 512928,
+   "identity": "sent-2026-09-06::bb5d9cfe619c",
+   "source_url": "https://i.pinimg.com/originals/f4/e3/4b/f4e34bac13d1f2179b3b9e22dbd5b01c.jpg",
+   "maker": "Roy Lichtenstein",
+   "title": "Sunrise",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Pinterest, which names nobody. Attributed on the WORK: Lichtenstein's *Sunrise*, the Ben-Day sun over a blue sea. No date or edition established.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1197.jpg",
+   "source_px": [
+    2000,
+    1255
+   ],
+   "colors": [
+    "red",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Roy Lichtenstein"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Pinterest, which names nobody. Attributed on the WORK: Lichtenstein's *Sunrise*, the Ben-Day sun over a blue sea. No date or edition established.",
+   "hue": 54.98,
+   "light": 0.4936,
+   "chroma": 0.9182,
+   "punch": 0.3222,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Pop Art"
+    }
+   ]
+  },
+  "sent-2026-09-06::d924bc0451d6": {
+   "id": "CRVI002264",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002264.jpg",
+   "original_px": [
+    2400,
+    1501
+   ],
+   "original_bytes": 540388,
+   "identity": "sent-2026-09-06::d924bc0451d6",
+   "source_url": "https://www.christies.com/media-library/images/features/articles/2018/09/04/david-hockney-portrait-of-an-artist-pool-with-two-figures/58207086-bbb-white.jpg",
+   "maker": "David Hockney",
+   "title": "Portrait of an Artist (Pool with Two Figures)",
+   "subtitle": "",
+   "year": "1972",
+   "verified_against": "Christie's own media library, from its feature on the 2018 sale of *Portrait of an Artist (Pool with Two Figures)*, 1972.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1198.jpg",
+   "source_px": [
+    2400,
+    1501
+   ],
+   "colors": [
+    "cyan",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "David Hockney"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Christie's own media library, from its feature on the 2018 sale of *Portrait of an Artist (Pool with Two Figures)*, 1972.",
+   "hue": 190.18,
+   "light": 0.524,
+   "chroma": 0.6457,
+   "punch": 0.2238
+  },
+  "sent-2026-09-06::4c2c4cd9758f": {
+   "id": "CRVI002265",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002265.jpg",
+   "original_px": [
+    2048,
+    1616
+   ],
+   "original_bytes": 721772,
+   "identity": "sent-2026-09-06::4c2c4cd9758f",
+   "source_url": "https://glasgowguardian.co.uk/wp-content/uploads/2024/02/49519426498_1ab8f674d3_k.jpg",
+   "maker": "David Hockney",
+   "title": "Garden",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "The Glasgow Guardian, illustrating a David Hockney exhibition review. Attributed on the WORK: one of Hockney's hot-coloured garden paintings. ⚠️ The exact title and date are not established by the source.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1199.jpg",
+   "source_px": [
+    2048,
+    1616
+   ],
+   "colors": [
+    "green",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "David Hockney"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Glasgow Guardian, illustrating a David Hockney exhibition review. Attributed on the WORK: one of Hockney's hot-coloured garden paintings. ⚠️ The exact title and date are not established by the source.",
+   "hue": 155.42,
+   "light": 0.494,
+   "chroma": 0.9727,
+   "punch": 0.4014
+  },
+  "sent-2026-09-06::7955ff6cc135": {
+   "id": "CRVI002266",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002266.jpg",
+   "original_px": [
+    2364,
+    2364
+   ],
+   "original_bytes": 1735298,
+   "identity": "sent-2026-09-06::7955ff6cc135",
+   "source_url": "https://static.dezeen.com/uploads/2018/08/video-christo-interview-jeanne-claude-artists-installation-wrapped-reichstag-surrounded-islands-floating-piers-landscape-water-art-architecture-movie_dezeen_2364_sq.jpg",
+   "maker": "Christo and Jeanne-Claude",
+   "title": "Wrapped Reichstag",
+   "subtitle": "",
+   "year": "1995",
+   "verified_against": "Dezeen, from its Christo and Jeanne-Claude coverage. The subject is *Wrapped Reichstag*, Berlin, 1971–95. ⚠️ The photographer of this view is not named there.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1200.jpg",
+   "source_px": [
+    2364,
+    2364
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Christo"
+    },
+    {
+     "k": "artist",
+     "v": "Jeanne-Claude"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Dezeen, from its Christo and Jeanne-Claude coverage. The subject is *Wrapped Reichstag*, Berlin, 1971–95. ⚠️ The photographer of this view is not named there.",
+   "hue": 210.69,
+   "light": 0.4162,
+   "chroma": 0.4042,
+   "punch": 0.1679
+  },
+  "sent-2026-09-06::488e9e9411c4": {
+   "id": "CRVI002267",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002267.jpg",
+   "original_px": [
+    1333,
+    1000
+   ],
+   "original_bytes": 925319,
+   "identity": "sent-2026-09-06::488e9e9411c4",
+   "source_url": "https://images.adsttc.com/media/images/651e/8dc3/6fa7/bc5e/a716/24f4/large_jpg/christo-and-jeanne-claudes-larc-de-triomphe-wrapped-to-be-recycled-by-parley-for-the-oceans_8.jpg?1696501194",
+   "maker": "Christo and Jeanne-Claude",
+   "title": "L'Arc de Triomphe, Wrapped",
+   "subtitle": "",
+   "year": "2021",
+   "verified_against": "ArchDaily, from its report on the recycling of *L'Arc de Triomphe, Wrapped*, Paris, 2021. ⚠️ The photographer of this view is not named there.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1201.jpg",
+   "source_px": [
+    1333,
+    1000
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Christo"
+    },
+    {
+     "k": "artist",
+     "v": "Jeanne-Claude"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "ArchDaily, from its report on the recycling of *L'Arc de Triomphe, Wrapped*, Paris, 2021. ⚠️ The photographer of this view is not named there.",
+   "hue": 206.43,
+   "light": 0.6472,
+   "chroma": 0.3907,
+   "punch": 0.099
+  },
+  "sent-2026-09-06::12804011a3c2": {
+   "id": "CRVI002268",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002268.webp",
+   "original_px": [
+    1650,
+    2560
+   ],
+   "original_bytes": 248094,
+   "identity": "sent-2026-09-06::12804011a3c2",
+   "source_url": "https://media.newyorker.com/photos/62a0c039757a4b7dd5ad6185/master/w_2560%2Cc_limit/220620_r40564.jpg",
+   "maker": "unattributed",
+   "title": "Yoko Ono holding a glass sphere",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "⚠️ Photographer NOT ESTABLISHED. The New Yorker's image CDN, from its June 2022 profile of Yoko Ono. The sitter is Ono; the credit line is not reachable from the asset alone.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1202.webp",
+   "source_px": [
+    1650,
+    2560
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ Photographer NOT ESTABLISHED. The New Yorker's image CDN, from its June 2022 profile of Yoko Ono. The sitter is Ono; the credit line is not reachable from the asset alone.",
+   "hue": null,
+   "light": 0.4783,
+   "chroma": 0.0,
+   "punch": 0.0
+  },
+  "sent-2026-09-06::ccd4a49eaf36": {
+   "id": "CRVI002269",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002269.jpg",
+   "original_px": [
+    2400,
+    2130
+   ],
+   "original_bytes": 773019,
+   "identity": "sent-2026-09-06::ccd4a49eaf36",
+   "source_url": "https://gagosian.com/media/images/exhibitions/2022/nam-june-paik-art-in-process-part-two/5GQAkRMdH-FY_2400x2400.jpg",
+   "maker": "Nam June Paik",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "2005",
+   "verified_against": "Gagosian, from *Nam June Paik: Art in Process: Part Two*, Park & 75, New York, 19 July – 26 August 2022. Every work in that show is dated 2005 and made of a vintage television with single-channel video, permanent oil marker and acrylic; several are titled *Untitled*. ⚠️ Which of them this is, is not established.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1203.jpg",
+   "source_px": [
+    2400,
+    2130
+   ],
+   "colors": [
+    "orange",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Nam June Paik"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Gagosian, from *Nam June Paik: Art in Process: Part Two*, Park & 75, New York, 19 July – 26 August 2022. Every work in that show is dated 2005 and made of a vintage television with single-channel video, permanent oil marker and acrylic; several are titled *Untitled*. ⚠️ Which of them this is, is not established.",
+   "hue": 185.23,
+   "light": 0.589,
+   "chroma": 0.3298,
+   "punch": 0.0984
+  },
+  "sent-2026-09-06::d3b46a34408b": {
+   "id": "CRVI002270",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002270.jpg",
+   "original_px": [
+    1400,
+    1419
+   ],
+   "original_bytes": 154989,
+   "identity": "sent-2026-09-06::d3b46a34408b",
+   "source_url": "https://i.pinimg.com/originals/51/af/96/51af96a95108fdb7fd9f4c794d6407d7.jpg",
+   "maker": "Sol LeWitt",
+   "title": "Bands and arcs of colour",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Pinterest, which names nobody. Attributed on the WORK: LeWitt's banded-and-arced colour system, black-bordered, as in the wall drawings and the gouaches after them. No title or date established.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1204.jpg",
+   "source_px": [
+    1400,
+    1419
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Sol LeWitt"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Pinterest, which names nobody. Attributed on the WORK: LeWitt's banded-and-arced colour system, black-bordered, as in the wall drawings and the gouaches after them. No title or date established.",
+   "hue": 47.04,
+   "light": 0.4198,
+   "chroma": 0.7524,
+   "punch": 0.3798,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Minimalism"
+    }
+   ]
+  },
+  "sent-2026-09-06::626003415318": {
+   "id": "CRVI002271",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002271.jpg",
+   "original_px": [
+    1500,
+    1227
+   ],
+   "original_bytes": 1750670,
+   "identity": "sent-2026-09-06::626003415318",
+   "source_url": "https://www.nbmaa.org/images/exhibitions/Strict-Beauty-014.jpg",
+   "maker": "Sol LeWitt",
+   "title": "Forms Derived from a Cube",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "The New Britain Museum of American Art, from its exhibition *Sol LeWitt: Strict Beauty* — the file is one of that show's installation images. Attributed on the WORK for the title: the sheet is a LeWitt cube-derivation print. ⚠️ The exact title and date are not established.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1205.jpg",
+   "source_px": [
+    1500,
+    1227
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Sol LeWitt"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The New Britain Museum of American Art, from its exhibition *Sol LeWitt: Strict Beauty* — the file is one of that show's installation images. Attributed on the WORK for the title: the sheet is a LeWitt cube-derivation print. ⚠️ The exact title and date are not established.",
+   "hue": 46.71,
+   "light": 0.5791,
+   "chroma": 0.5915,
+   "punch": 0.2848,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Minimalism"
+    }
+   ]
+  },
+  "sent-2026-09-06::be494071b3f0": {
+   "id": "CRVI002272",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002272.webp",
+   "original_px": [
+    1600,
+    1596
+   ],
+   "original_bytes": 472852,
+   "identity": "sent-2026-09-06::be494071b3f0",
+   "source_url": "https://www.arthistoryproject.com/site/assets/files/28725/agnes_martin-buds-1959-trivium-art-history-1.webp",
+   "maker": "Agnes Martin",
+   "title": "Buds",
+   "subtitle": "",
+   "year": "1959",
+   "verified_against": "The Art History Project, which names it in the file: \"agnes martin buds 1959\".",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1206.webp",
+   "source_px": [
+    1600,
+    1596
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Agnes Martin"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Art History Project, which names it in the file: \"agnes martin buds 1959\".",
+   "hue": 39.89,
+   "light": 0.6559,
+   "chroma": 0.9996,
+   "punch": 0.3095,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Minimalism"
+    }
+   ]
+  },
+  "sent-2026-09-06::0e3f28f25fa9": {
+   "id": "CRVI002273",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002273.webp",
+   "original_px": [
+    1200,
+    1199
+   ],
+   "original_bytes": 43910,
+   "identity": "sent-2026-09-06::0e3f28f25fa9",
+   "source_url": "https://cdn.thecollector.com/wp-content/uploads/2022/09/agnes-martin-untitled-horizontal-watercolor-1068x1067.jpg",
+   "maker": "Agnes Martin",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "TheCollector, which names it in the file: \"agnes martin untitled horizontal watercolor\". The sheet is signed \"a martin\" at lower right. No date given.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1207.webp",
+   "source_px": [
+    1200,
+    1199
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Agnes Martin"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "TheCollector, which names it in the file: \"agnes martin untitled horizontal watercolor\". The sheet is signed \"a martin\" at lower right. No date given.",
+   "hue": 41.44,
+   "light": 0.8161,
+   "chroma": 1.0,
+   "punch": 0.2517,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Minimalism"
+    }
+   ]
+  },
+  "sent-2026-09-06::05ab8d80406f": {
+   "id": "CRVI002274",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002274.jpg",
+   "original_px": [
+    2000,
+    2007
+   ],
+   "original_bytes": 331657,
+   "identity": "sent-2026-09-06::05ab8d80406f",
+   "source_url": "https://www.pacegallery.com/media/images/34514.width-2000.jpg",
+   "maker": "Agnes Martin",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Pace Gallery's own image library — Pace has represented Martin and her estate. ⚠️ The asset carries no title or date.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1208.jpg",
+   "source_px": [
+    2000,
+    2007
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Agnes Martin"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Pace Gallery's own image library — Pace has represented Martin and her estate. ⚠️ The asset carries no title or date.",
+   "hue": 34.13,
+   "light": 0.752,
+   "chroma": 0.8995,
+   "punch": 0.1561,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Minimalism"
+    }
+   ]
+  },
+  "sent-2026-09-06::ae7c1c6de362": {
+   "id": "CRVI002275",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002275.jpg",
+   "original_px": [
+    2786,
+    3249
+   ],
+   "original_bytes": 1305114,
+   "identity": "sent-2026-09-06::ae7c1c6de362",
+   "source_url": "https://sothebys-brightspot.s3.amazonaws.com/media-desk/38/e9/61efad2f449995357cacdd5268d2/agnesmartinuntitled.jpg",
+   "maker": "Agnes Martin",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Sotheby's own media asset, filed \"agnes martin untitled\". A ruled graphite grid on paper. No date given.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1209.jpg",
+   "source_px": [
+    2786,
+    3249
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Agnes Martin"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Sotheby's own media asset, filed \"agnes martin untitled\". A ruled graphite grid on paper. No date given.",
+   "hue": 34.96,
+   "light": 0.6113,
+   "chroma": 0.9856,
+   "punch": 0.2261,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Minimalism"
+    }
+   ]
+  },
+  "sent-2026-09-06::3288f2d430b2": {
+   "id": "CRVI002276",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002276.jpg",
+   "original_px": [
+    2160,
+    2880
+   ],
+   "original_bytes": 835076,
+   "identity": "sent-2026-09-06::3288f2d430b2",
+   "source_url": "https://i.pinimg.com/originals/be/b3/4a/beb34a150074ef3c07ab1d034cdd55e6.jpg",
+   "maker": "Frank Stella",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "1974",
+   "verified_against": "Pinterest, which names nobody. Attributed on the WORK: the sheet is inscribed \"AP II\" and signed \"F. Stella 74\" in the lower margin.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1210.jpg",
+   "source_px": [
+    2160,
+    2880
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Frank Stella"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Pinterest, which names nobody. Attributed on the WORK: the sheet is inscribed \"AP II\" and signed \"F. Stella 74\" in the lower margin.",
+   "hue": 27.28,
+   "light": 0.5877,
+   "chroma": 0.8048,
+   "punch": 0.3101,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Minimalism"
+    },
+    {
+     "k": "movement",
+     "v": "Minimalism"
+    }
+   ]
+  },
+  "sent-2026-09-06::001836d1f44b": {
+   "id": "CRVI002277",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002277.jpg",
+   "original_px": [
+    2000,
+    2000
+   ],
+   "original_bytes": 977520,
+   "identity": "sent-2026-09-06::001836d1f44b",
+   "source_url": "https://www.ragoarts.com/items/index/2000/297_1_prints_multiples_february_2022_frank_stella_feneralia_from_the_imaginary_places_series__rago_auction.jpg?t=1668131697",
+   "maker": "Frank Stella",
+   "title": "Feneralia, from Imaginary Places",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Rago Arts, which names it in the file: \"frank stella feneralia from the imaginary places series\", from its Prints & Multiples sale of February 2022.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1211.jpg",
+   "source_px": [
+    2000,
+    2000
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Frank Stella"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Rago Arts, which names it in the file: \"frank stella feneralia from the imaginary places series\", from its Prints & Multiples sale of February 2022.",
+   "hue": 37.12,
+   "light": 0.6978,
+   "chroma": 0.6049,
+   "punch": 0.1711,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Minimalism"
+    }
+   ]
+  },
+  "sent-2026-09-06::d98510041063": {
+   "id": "CRVI002278",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002278.jpg",
+   "original_px": [
+    2409,
+    3000
+   ],
+   "original_bytes": 9188702,
+   "identity": "sent-2026-09-06::d98510041063",
+   "source_url": "https://media.creativeboom.com/d74d2301-2ebf-4779-a12d-5b6bd5c3f0ab/b37b98e6469caf0553f8f79cc34e2726c801b54c.jpg",
+   "maker": "Frank Stella",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Creative Boom's image CDN, from its Frank Stella coverage. Attributed on the WORK: the black-ground, French-curve print idiom of Stella's later series. ⚠️ Title and date not established.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1212.jpg",
+   "source_px": [
+    2409,
+    3000
+   ],
+   "colors": [
+    "cyan",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Frank Stella"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Creative Boom's image CDN, from its Frank Stella coverage. Attributed on the WORK: the black-ground, French-curve print idiom of Stella's later series. ⚠️ Title and date not established.",
+   "hue": 188.85,
+   "light": 0.4205,
+   "chroma": 0.445,
+   "punch": 0.1427,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Minimalism"
+    }
+   ]
+  },
+  "sent-2026-09-06::f412b62a7329": {
+   "id": "CRVI002279",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002279.jpg",
+   "original_px": [
+    1585,
+    2000
+   ],
+   "original_bytes": 455043,
+   "identity": "sent-2026-09-06::f412b62a7329",
+   "source_url": "https://i.pinimg.com/originals/68/68/e4/6868e4e8eecb8035a48c84eb71bb22e8.jpg",
+   "maker": "John Baldessari",
+   "title": "Two figures and a blue drawing",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Pinterest, which names nobody. Attributed on the WORK: Baldessari's signature move of stopping out faces with flat coloured discs, over an appropriated black-and-white photograph. ⚠️ Title, date and edition are not established; the title above is descriptive, not the artist's.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1213.jpg",
+   "source_px": [
+    1585,
+    2000
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "John Baldessari"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Pinterest, which names nobody. Attributed on the WORK: Baldessari's signature move of stopping out faces with flat coloured discs, over an appropriated black-and-white photograph. ⚠️ Title, date and edition are not established; the title above is descriptive, not the artist's.",
+   "hue": 213.34,
+   "light": 0.5652,
+   "chroma": 0.19,
+   "punch": 0.1039,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Conceptual Art"
+    }
+   ]
+  },
+  "sent-2026-09-06::7841f0d423aa": {
+   "id": "CRVI002280",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002280.jpg",
+   "original_px": [
+    2500,
+    3080
+   ],
+   "original_bytes": 707706,
+   "identity": "sent-2026-09-06::7841f0d423aa",
+   "source_url": "https://i.pinimg.com/originals/66/88/27/66882760e05ce00fdbd452bfd4814c37.jpg",
+   "maker": "John Baldessari",
+   "title": "Three figures with a framed painting",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Pinterest, which names nobody. Attributed on the WORK: Baldessari's signature move of stopping out faces with flat coloured discs, over an appropriated black-and-white photograph. ⚠️ Title, date and edition are not established; the title above is descriptive, not the artist's.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1214.jpg",
+   "source_px": [
+    2500,
+    3080
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "John Baldessari"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Pinterest, which names nobody. Attributed on the WORK: Baldessari's signature move of stopping out faces with flat coloured discs, over an appropriated black-and-white photograph. ⚠️ Title, date and edition are not established; the title above is descriptive, not the artist's.",
+   "hue": 215.01,
+   "light": 0.5919,
+   "chroma": 0.4624,
+   "punch": 0.2516,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Conceptual Art"
+    }
+   ]
+  },
+  "sent-2026-09-06::535c3f37f345": {
+   "id": "CRVI002281",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002281.jpg",
+   "original_px": [
+    1900,
+    1260
+   ],
+   "original_bytes": 366283,
+   "identity": "sent-2026-09-06::535c3f37f345",
+   "source_url": "https://i.pinimg.com/originals/e8/28/4c/e8284c9176a396eca6bc593139fe31bf.jpg",
+   "maker": "John Baldessari",
+   "title": "Yellow interior with a red squiggle",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Pinterest, which names nobody. Attributed on the WORK: Baldessari's signature move of stopping out faces with flat coloured discs, over an appropriated black-and-white photograph. ⚠️ Title, date and edition are not established; the title above is descriptive, not the artist's.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1215.jpg",
+   "source_px": [
+    1900,
+    1260
+   ],
+   "colors": [
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "John Baldessari"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Pinterest, which names nobody. Attributed on the WORK: Baldessari's signature move of stopping out faces with flat coloured discs, over an appropriated black-and-white photograph. ⚠️ Title, date and edition are not established; the title above is descriptive, not the artist's.",
+   "hue": 54.91,
+   "light": 0.4939,
+   "chroma": 0.5473,
+   "punch": 0.4682,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Conceptual Art"
+    }
+   ]
+  },
+  "sent-2026-09-06::dec334744f47": {
+   "id": "CRVI002282",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002282.jpg",
+   "original_px": [
+    2736,
+    4096
+   ],
+   "original_bytes": 810151,
+   "identity": "sent-2026-09-06::dec334744f47",
+   "source_url": "https://image.invaluable.com/housePhotos/johnmoran/63/744463/H0045-L332204728_original.JPG",
+   "maker": "John Baldessari",
+   "title": "Poster with a green dot",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "John Moran Auctioneers via Invaluable, from its own lot photograph. Attributed on the WORK: a Baldessari dot-over-face composition with playing cards and a blue brushmark. ⚠️ The lot's title and date are not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1216.jpg",
+   "source_px": [
+    2736,
+    4096
+   ],
+   "colors": [
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "John Baldessari"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "John Moran Auctioneers via Invaluable, from its own lot photograph. Attributed on the WORK: a Baldessari dot-over-face composition with playing cards and a blue brushmark. ⚠️ The lot's title and date are not established here.",
+   "hue": 154.94,
+   "light": 0.6013,
+   "chroma": 0.2597,
+   "punch": 0.1533,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Conceptual Art"
+    }
+   ]
+  },
+  "sent-2026-09-06::3bc789466c92": {
+   "id": "CRVI002283",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002283.webp",
+   "original_px": [
+    2560,
+    1976
+   ],
+   "original_bytes": 338452,
+   "identity": "sent-2026-09-06::3bc789466c92",
+   "source_url": "https://i0.wp.com/arteyalgomas.com/wp-content/uploads/2020/04/City-by-MIchael-Heizer..jpg?w=2560&ssl=1",
+   "maker": "Michael Heizer",
+   "title": "City",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "arteyalgomas.com, which names it in the file: \"City by Michael Heizer\". The subject is Heizer's earthwork in Garden Valley, Nevada, begun 1972 and opened 2022. ⚠️ This is a PHOTOGRAPH of it and the photographer is not named.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1217.webp",
+   "source_px": [
+    2560,
+    1976
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Michael Heizer"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "arteyalgomas.com, which names it in the file: \"City by Michael Heizer\". The subject is Heizer's earthwork in Garden Valley, Nevada, begun 1972 and opened 2022. ⚠️ This is a PHOTOGRAPH of it and the photographer is not named.",
+   "hue": 24.56,
+   "light": 0.3362,
+   "chroma": 0.7957,
+   "punch": 0.171,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Land Art"
+    }
+   ]
+  },
+  "sent-2026-09-06::2f7c253e8624": {
+   "id": "CRVI002284",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002284.jpg",
+   "original_px": [
+    1601,
+    3200
+   ],
+   "original_bytes": 383117,
+   "identity": "sent-2026-09-06::2f7c253e8624",
+   "source_url": "https://www.christies.com/img/LotImages/2019/CKS/2019_CKS_18171_0013_000(damien_hirst_saint_sebastian_exquisite_pain).jpg",
+   "maker": "Damien Hirst",
+   "title": "Saint Sebastian, Exquisite Pain",
+   "subtitle": "",
+   "year": "2007",
+   "verified_against": "Christie's own lot image, named in the file: \"damien hirst saint sebastian exquisite pain\" (Christie's London, 2019, lot 13).",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1218.jpg",
+   "source_px": [
+    1601,
+    3200
+   ],
+   "colors": [
+    "cyan",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Damien Hirst"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Christie's own lot image, named in the file: \"damien hirst saint sebastian exquisite pain\" (Christie's London, 2019, lot 13).",
+   "hue": 184.03,
+   "light": 0.6555,
+   "chroma": 0.6274,
+   "punch": 0.1527,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Young British Artists"
+    },
+    {
+     "k": "movement",
+     "v": "Young British Artists"
+    }
+   ]
+  },
+  "sent-2026-09-06::fe325d767745": {
+   "id": "CRVI002285",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002285.webp",
+   "original_px": [
+    1000,
+    1000
+   ],
+   "original_bytes": 48280,
+   "identity": "sent-2026-09-06::fe325d767745",
+   "source_url": "https://zarastro.art/wp-content/uploads/2024/03/hirst.webp",
+   "maker": "Damien Hirst",
+   "title": "The Physical Impossibility of Death in the Mind of Someone Living",
+   "subtitle": "",
+   "year": "1991",
+   "verified_against": "zarastro.art, filed under Damien Hirst. Attributed on the WORK: the tiger shark in formaldehyde in a steel-and-glass vitrine, Hirst's *The Physical Impossibility of Death in the Mind of Someone Living*, 1991.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1219.webp",
+   "source_px": [
+    1000,
+    1000
+   ],
+   "colors": [
+    "cyan",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Damien Hirst"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "zarastro.art, filed under Damien Hirst. Attributed on the WORK: the tiger shark in formaldehyde in a steel-and-glass vitrine, Hirst's *The Physical Impossibility of Death in the Mind of Someone Living*, 1991.",
+   "hue": 173.45,
+   "light": 0.5676,
+   "chroma": 0.6564,
+   "punch": 0.1294,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Young British Artists"
+    },
+    {
+     "k": "movement",
+     "v": "Young British Artists"
+    }
+   ]
+  },
+  "sent-2026-09-06::cc358468597b": {
+   "id": "CRVI002286",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002286.jpg",
+   "original_px": [
+    3000,
+    2250
+   ],
+   "original_bytes": 332606,
+   "identity": "sent-2026-09-06::cc358468597b",
+   "source_url": "https://i.pinimg.com/originals/53/be/70/53be7046926522bdf88c34ecaf31ff82.jpg",
+   "maker": "Damien Hirst",
+   "title": "Mother and Child (Divided)",
+   "subtitle": "",
+   "year": "1993",
+   "verified_against": "Pinterest, which names nobody. Attributed on the WORK: the bisected cow and calf in four formaldehyde tanks, Hirst's *Mother and Child (Divided)*, 1993.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1220.jpg",
+   "source_px": [
+    3000,
+    2250
+   ],
+   "colors": [
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Damien Hirst"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Pinterest, which names nobody. Attributed on the WORK: the bisected cow and calf in four formaldehyde tanks, Hirst's *Mother and Child (Divided)*, 1993.",
+   "hue": 173.27,
+   "light": 0.6373,
+   "chroma": 0.2862,
+   "punch": 0.0927,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Young British Artists"
+    },
+    {
+     "k": "movement",
+     "v": "Young British Artists"
+    }
+   ]
+  },
+  "sent-2026-09-06::e471b98630fc": {
+   "id": "CRVI002287",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002287.jpg",
+   "original_px": [
+    1191,
+    1500
+   ],
+   "original_bytes": 254728,
+   "identity": "sent-2026-09-06::e471b98630fc",
+   "source_url": "https://hammer.ucla.edu/sites/default/files/styles/large/public/migrated-assets/media/exhibitions/2019/Sarah_Lucas/Nature-Abhors-a-Vacuum.jpg.jpeg?itok=kH-2wlNe",
+   "maker": "Sarah Lucas",
+   "title": "Nature Abhors a Vacuum",
+   "subtitle": "",
+   "year": "1998",
+   "verified_against": "The Hammer Museum, from its 2019 exhibition *Sarah Lucas: Au Naturel*, where the file is named \"Nature Abhors a Vacuum\" — the toilet encrusted in cigarettes, 1998.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1221.jpg",
+   "source_px": [
+    1191,
+    1500
+   ],
+   "colors": [
+    "orange",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Sarah Lucas"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Hammer Museum, from its 2019 exhibition *Sarah Lucas: Au Naturel*, where the file is named \"Nature Abhors a Vacuum\" — the toilet encrusted in cigarettes, 1998.",
+   "hue": 29.22,
+   "light": 0.5703,
+   "chroma": 0.2568,
+   "punch": 0.0756,
+   "extra_tags": [
+    {
+     "k": "subject",
+     "v": "Young British Artists"
+    },
+    {
+     "k": "movement",
+     "v": "Young British Artists"
+    }
+   ]
+  },
+  "sent-2026-09-06::e3d2b05a457b": {
+   "id": "CRVI002288",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002288.jpg",
+   "original_px": [
+    1097,
+    850
+   ],
+   "original_bytes": 284949,
+   "identity": "sent-2026-09-06::e3d2b05a457b",
+   "source_url": "https://uploads3.wikiart.org/images/cindy-sherman/untitled-film-still-10-1977.jpg",
+   "maker": "Cindy Sherman",
+   "title": "Untitled Film Still #10",
+   "subtitle": "",
+   "year": "1977",
+   "verified_against": "WikiArt, under Cindy Sherman, as Untitled Film Still #10, dated 1977.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1222.jpg",
+   "source_px": [
+    1097,
+    850
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Cindy Sherman"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "photographer",
+     "v": "Cindy Sherman"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Cindy Sherman, as Untitled Film Still #10, dated 1977.",
+   "hue": null,
+   "light": 0.559,
+   "chroma": 0.0,
+   "punch": 0.019
+  },
+  "sent-2026-09-06::c3b4db8e00f6": {
+   "id": "CRVI002289",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002289.jpg",
+   "original_px": [
+    1082,
+    850
+   ],
+   "original_bytes": 224341,
+   "identity": "sent-2026-09-06::c3b4db8e00f6",
+   "source_url": "https://uploads3.wikiart.org/images/cindy-sherman/untitled-film-still-12-1977.jpg",
+   "maker": "Cindy Sherman",
+   "title": "Untitled Film Still #12",
+   "subtitle": "",
+   "year": "1977",
+   "verified_against": "WikiArt, under Cindy Sherman, as Untitled Film Still #12, dated 1977.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1223.jpg",
+   "source_px": [
+    1082,
+    850
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Cindy Sherman"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "photographer",
+     "v": "Cindy Sherman"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Cindy Sherman, as Untitled Film Still #12, dated 1977.",
+   "hue": null,
+   "light": 0.7291,
+   "chroma": 0.0,
+   "punch": 0.0196
+  },
+  "sent-2026-09-06::79082ba36990": {
+   "id": "CRVI002290",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002290.jpg",
+   "original_px": [
+    1065,
+    850
+   ],
+   "original_bytes": 235678,
+   "identity": "sent-2026-09-06::79082ba36990",
+   "source_url": "https://uploads3.wikiart.org/images/cindy-sherman/untitled-film-still-17-1979.jpg",
+   "maker": "Cindy Sherman",
+   "title": "Untitled Film Still #17",
+   "subtitle": "",
+   "year": "1979",
+   "verified_against": "WikiArt, under Cindy Sherman, as Untitled Film Still #17, dated 1979.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1224.jpg",
+   "source_px": [
+    1065,
+    850
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Cindy Sherman"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "photographer",
+     "v": "Cindy Sherman"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Cindy Sherman, as Untitled Film Still #17, dated 1979.",
+   "hue": null,
+   "light": 0.5759,
+   "chroma": 0.0,
+   "punch": 0.0195
+  },
+  "sent-2026-09-06::bef582a2e8ea": {
+   "id": "CRVI002291",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002291.jpg",
+   "original_px": [
+    1059,
+    850
+   ],
+   "original_bytes": 228000,
+   "identity": "sent-2026-09-06::bef582a2e8ea",
+   "source_url": "https://uploads3.wikiart.org/images/cindy-sherman/untitled-film-still-21-1979.jpg",
+   "maker": "Cindy Sherman",
+   "title": "Untitled Film Still #21",
+   "subtitle": "",
+   "year": "1979",
+   "verified_against": "WikiArt, under Cindy Sherman, as Untitled Film Still #21, dated 1979.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1225.jpg",
+   "source_px": [
+    1059,
+    850
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Cindy Sherman"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "photographer",
+     "v": "Cindy Sherman"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Cindy Sherman, as Untitled Film Still #21, dated 1979.",
+   "hue": null,
+   "light": 0.4691,
+   "chroma": 0.0,
+   "punch": 0.0193
+  },
+  "sent-2026-09-06::29a16403a571": {
+   "id": "CRVI002292",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002292.jpg",
+   "original_px": [
+    1072,
+    850
+   ],
+   "original_bytes": 197591,
+   "identity": "sent-2026-09-06::29a16403a571",
+   "source_url": "https://uploads3.wikiart.org/images/cindy-sherman/untitled-film-still-23-1979.jpg",
+   "maker": "Cindy Sherman",
+   "title": "Untitled Film Still #23",
+   "subtitle": "",
+   "year": "1979",
+   "verified_against": "WikiArt, under Cindy Sherman, as Untitled Film Still #23, dated 1979.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1226.jpg",
+   "source_px": [
+    1072,
+    850
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Cindy Sherman"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "photographer",
+     "v": "Cindy Sherman"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Cindy Sherman, as Untitled Film Still #23, dated 1979.",
+   "hue": null,
+   "light": 0.357,
+   "chroma": 0.0,
+   "punch": 0.0191
+  },
+  "sent-2026-09-06::b49a5acfb635": {
+   "id": "CRVI002293",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002293.jpg",
+   "original_px": [
+    1179,
+    850
+   ],
+   "original_bytes": 281415,
+   "identity": "sent-2026-09-06::b49a5acfb635",
+   "source_url": "https://uploads3.wikiart.org/images/cindy-sherman/untitled-film-still-45-1979.jpg",
+   "maker": "Cindy Sherman",
+   "title": "Untitled Film Still #45",
+   "subtitle": "",
+   "year": "1979",
+   "verified_against": "WikiArt, under Cindy Sherman, as Untitled Film Still #45, dated 1979.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1227.jpg",
+   "source_px": [
+    1179,
+    850
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Cindy Sherman"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "photographer",
+     "v": "Cindy Sherman"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Cindy Sherman, as Untitled Film Still #45, dated 1979.",
+   "hue": null,
+   "light": 0.518,
+   "chroma": 0.0,
+   "punch": 0.0193
+  },
+  "sent-2026-09-06::7ab4acef1e6a": {
+   "id": "CRVI002294",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002294.jpg",
+   "original_px": [
+    1853,
+    2340
+   ],
+   "original_bytes": 702155,
+   "identity": "sent-2026-09-06::7ab4acef1e6a",
+   "source_url": "https://uploads3.wikiart.org/00422/images/jeff-koons/large-banality-e-2013-0072-amore.jpg",
+   "maker": "Jeff Koons",
+   "title": "Amore",
+   "subtitle": "",
+   "year": "1988",
+   "verified_against": "WikiArt, under Jeff Koons, dated 1988.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1228.jpg",
+   "source_px": [
+    1853,
+    2340
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Jeff Koons"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Jeff Koons, dated 1988.",
+   "hue": 36.51,
+   "light": 0.8527,
+   "chroma": 0.4176,
+   "punch": 0.1367
+  },
+  "sent-2026-09-06::f665bde8258c": {
+   "id": "CRVI002295",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002295.jpg",
+   "original_px": [
+    800,
+    1030
+   ],
+   "original_bytes": 234853,
+   "identity": "sent-2026-09-06::f665bde8258c",
+   "source_url": "https://uploads4.wikiart.org/00422/images/jeff-koons/651371.jpg",
+   "maker": "Jeff Koons",
+   "title": "Bear and Policeman",
+   "subtitle": "",
+   "year": "1988",
+   "verified_against": "WikiArt, under Jeff Koons, dated 1988.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1229.jpg",
+   "source_px": [
+    800,
+    1030
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Jeff Koons"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Jeff Koons, dated 1988.",
+   "hue": 27.79,
+   "light": 0.6299,
+   "chroma": 0.2409,
+   "punch": 0.0712
+  },
+  "sent-2026-09-06::4de3c59fb0df": {
+   "id": "CRVI002296",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002296.jpg",
+   "original_px": [
+    1200,
+    836
+   ],
+   "original_bytes": 227822,
+   "identity": "sent-2026-09-06::4de3c59fb0df",
+   "source_url": "https://uploads7.wikiart.org/00422/images/jeff-koons/april26-2018-koons.jpg",
+   "maker": "Jeff Koons",
+   "title": "String of Puppies",
+   "subtitle": "",
+   "year": "1988",
+   "verified_against": "WikiArt, under Jeff Koons, dated 1988.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1230.jpg",
+   "source_px": [
+    1200,
+    836
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Jeff Koons"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Jeff Koons, dated 1988.",
+   "hue": 26.91,
+   "light": 0.5449,
+   "chroma": 0.5151,
+   "punch": 0.2261
+  },
+  "sent-2026-09-06::a2b57ac9b739": {
+   "id": "CRVI002297",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002297.jpg",
+   "original_px": [
+    1260,
+    2340
+   ],
+   "original_bytes": 243792,
+   "identity": "sent-2026-09-06::a2b57ac9b739",
+   "source_url": "https://uploads3.wikiart.org/00423/images/jeff-koons/large-equilibrium-e-2013-0031-one-ball-total-equilibrium-tank-spalding-dr-j-241-series.jpg",
+   "maker": "Jeff Koons",
+   "title": "One Ball Total Equilibrium Tank (Spalding Dr. J 241 Series)",
+   "subtitle": "",
+   "year": "1985",
+   "verified_against": "WikiArt, under Jeff Koons, dated 1985.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1231.jpg",
+   "source_px": [
+    1260,
+    2340
+   ],
+   "colors": [
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Jeff Koons"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Jeff Koons, dated 1985.",
+   "hue": 186.88,
+   "light": 0.8031,
+   "chroma": 0.2712,
+   "punch": 0.0591
+  },
+  "sent-2026-09-06::0b65c347c6fe": {
+   "id": "CRVI002298",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002298.jpg",
+   "original_px": [
+    2019,
+    2048
+   ],
+   "original_bytes": 1623512,
+   "identity": "sent-2026-09-06::0b65c347c6fe",
+   "source_url": "https://static01.nyt.com/images/2016/10/17/t-magazine/marshall-slide-8G7Z/marshall-slide-8G7Z-superJumbo.jpg?quality=75&auto=webp&disable=upscale",
+   "maker": "Kerry James Marshall",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "The New York Times, from a 2016 T Magazine feature on Kerry James Marshall. ⚠️ The title and date of this painting are not established from the asset.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1232.jpg",
+   "source_px": [
+    2019,
+    2048
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Kerry James Marshall"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The New York Times, from a 2016 T Magazine feature on Kerry James Marshall. ⚠️ The title and date of this painting are not established from the asset.",
+   "hue": 196.16,
+   "light": 0.4311,
+   "chroma": 0.4278,
+   "punch": 0.1515
+  },
+  "sent-2026-09-06::c3c165efd8c4": {
+   "id": "CRVI002299",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002299.jpg",
+   "original_px": [
+    1066,
+    1289
+   ],
+   "original_bytes": 1222701,
+   "identity": "sent-2026-09-06::c3c165efd8c4",
+   "source_url": "https://uploads0.wikiart.org/00099/images/kerry-james-marshal/the-academy-2012-acrylic-on-pvc.jpg",
+   "maker": "Kerry James Marshall",
+   "title": "The Academy",
+   "subtitle": "",
+   "year": "2012",
+   "verified_against": "WikiArt, under Kerry James Marshall, filed \"the academy 2012 acrylic on pvc\". ⚠️ WikiArt misspells the artist's surname as \"marshal\" in its own URL; corrected here. The title as given there is *The Academy*, 2012 — recorded as the source has it.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1233.jpg",
+   "source_px": [
+    1066,
+    1289
+   ],
+   "colors": [
+    "red",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Kerry James Marshall"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Kerry James Marshall, filed \"the academy 2012 acrylic on pvc\". ⚠️ WikiArt misspells the artist's surname as \"marshal\" in its own URL; corrected here. The title as given there is *The Academy*, 2012 — recorded as the source has it.",
+   "hue": 359.56,
+   "light": 0.3932,
+   "chroma": 0.2108,
+   "punch": 0.0889
+  },
+  "sent-2026-09-06::6859cb5610b0": {
+   "id": "CRVI002300",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002300.jpg",
+   "original_px": [
+    2000,
+    1666
+   ],
+   "original_bytes": 400358,
+   "identity": "sent-2026-09-06::6859cb5610b0",
+   "source_url": "https://www.thisiscolossal.com/wp-content/uploads/2025/07/marshall-1.jpg",
+   "maker": "Kerry James Marshall",
+   "title": "Untitled (Painter)",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Colossal, from its 2025 Kerry James Marshall coverage. Attributed on the WORK: one of Marshall's Black-painter self-portraits holding an outsized palette. ⚠️ The exact title and date are not established.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1234.jpg",
+   "source_px": [
+    2000,
+    1666
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Kerry James Marshall"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Colossal, from its 2025 Kerry James Marshall coverage. Attributed on the WORK: one of Marshall's Black-painter self-portraits holding an outsized palette. ⚠️ The exact title and date are not established.",
+   "hue": 204.75,
+   "light": 0.4303,
+   "chroma": 0.3032,
+   "punch": 0.0916
+  },
+  "sent-2026-09-06::059db836d3e1": {
+   "id": "CRVI002301",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002301.jpg",
+   "original_px": [
+    2500,
+    2971
+   ],
+   "original_bytes": 3965537,
+   "identity": "sent-2026-09-06::059db836d3e1",
+   "source_url": "https://sothebys-md.brightspotcdn.com/fa/d6/1b0e229f4624b5a263eefee7c903/lot8kerryjamesmarshalluntitledmaskboy.jpg",
+   "maker": "Kerry James Marshall",
+   "title": "Untitled (Mask Boy)",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Sotheby's own lot asset, named in the file: \"lot 8 kerry james marshall untitled mask boy\". No date given there.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1235.jpg",
+   "source_px": [
+    2500,
+    2971
+   ],
+   "colors": [
+    "yellow",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Kerry James Marshall"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Sotheby's own lot asset, named in the file: \"lot 8 kerry james marshall untitled mask boy\". No date given there.",
+   "hue": 156.28,
+   "light": 0.3734,
+   "chroma": 0.6457,
+   "punch": 0.1739
+  },
+  "sent-2026-09-06::54a6a6c9d557": {
+   "id": "CRVI002302",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002302.jpg",
+   "original_px": [
+    2000,
+    1994
+   ],
+   "original_bytes": 597097,
+   "identity": "sent-2026-09-06::54a6a6c9d557",
+   "source_url": "https://image.invaluable.com/housePhotos/swanngalleries/39/797039/H0132-L418489527_original.JPG",
+   "maker": "Carrie Mae Weems",
+   "title": "Untitled (Woman and daughter with makeup)",
+   "subtitle": "",
+   "year": "1990",
+   "verified_against": "Swann Auction Galleries via Invaluable, from its own lot photograph. The image is from Weems's *The Kitchen Table Series*, 1990. ⚠️ The individual plate title is descriptive.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1236.jpg",
+   "source_px": [
+    2000,
+    1994
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Carrie Mae Weems"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "photographer",
+     "v": "Carrie Mae Weems"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Swann Auction Galleries via Invaluable, from its own lot photograph. The image is from Weems's *The Kitchen Table Series*, 1990. ⚠️ The individual plate title is descriptive.",
+   "hue": null,
+   "light": 0.4316,
+   "chroma": 0.0,
+   "punch": 0.0151
+  },
+  "sent-2026-09-06::738fd1301735": {
+   "id": "CRVI002303",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002303.webp",
+   "original_px": [
+    1200,
+    1235
+   ],
+   "original_bytes": 37264,
+   "identity": "sent-2026-09-06::738fd1301735",
+   "source_url": "https://www.artnews.com/wp-content/uploads/2022/04/kitchen_table_woman_standing_alone_01.jpg",
+   "maker": "Carrie Mae Weems",
+   "title": "Untitled (Woman standing alone)",
+   "subtitle": "",
+   "year": "1990",
+   "verified_against": "ARTnews, which names it in the file: \"kitchen table woman standing alone\" — from *The Kitchen Table Series*, 1990.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1237.webp",
+   "source_px": [
+    1200,
+    1235
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Carrie Mae Weems"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "photographer",
+     "v": "Carrie Mae Weems"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "ARTnews, which names it in the file: \"kitchen table woman standing alone\" — from *The Kitchen Table Series*, 1990.",
+   "hue": null,
+   "light": 0.2712,
+   "chroma": 0.0,
+   "punch": 0.0
+  },
+  "sent-2026-09-06::45366b000ff3": {
+   "id": "CRVI002304",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002304.jpg",
+   "original_px": [
+    1979,
+    2048
+   ],
+   "original_bytes": 599688,
+   "identity": "sent-2026-09-06::45366b000ff3",
+   "source_url": "https://static01.nyt.com/images/2012/09/16/arts/16WEEMS2_SPAN/16WEEMS2-superJumbo.jpg",
+   "maker": "Carrie Mae Weems",
+   "title": "Untitled, from The Kitchen Table Series",
+   "subtitle": "",
+   "year": "1990",
+   "verified_against": "The New York Times, from its 2012 coverage of Carrie Mae Weems. ⚠️ The individual plate title is not established.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1238.jpg",
+   "source_px": [
+    1979,
+    2048
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Carrie Mae Weems"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "photographer",
+     "v": "Carrie Mae Weems"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The New York Times, from its 2012 coverage of Carrie Mae Weems. ⚠️ The individual plate title is not established.",
+   "hue": null,
+   "light": 0.3235,
+   "chroma": 0.0003,
+   "punch": 0.0212
+  },
+  "sent-2026-09-06::5ef797344ed7": {
+   "id": "CRVI002305",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002305.jpg",
+   "original_px": [
+    1494,
+    1500
+   ],
+   "original_bytes": 153987,
+   "identity": "sent-2026-09-06::5ef797344ed7",
+   "source_url": "https://smarthistory.org/wp-content/uploads/2020/03/Weems-2011-194-2a-pma.jpg",
+   "maker": "Carrie Mae Weems",
+   "title": "Untitled, from The Kitchen Table Series",
+   "subtitle": "",
+   "year": "1990",
+   "verified_against": "Smarthistory, whose file carries the Philadelphia Museum of Art accession number 2011-194-2a. ⚠️ An accession number does not name a plate title.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1239.jpg",
+   "source_px": [
+    1494,
+    1500
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Carrie Mae Weems"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "photographer",
+     "v": "Carrie Mae Weems"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Smarthistory, whose file carries the Philadelphia Museum of Art accession number 2011-194-2a. ⚠️ An accession number does not name a plate title.",
+   "hue": null,
+   "light": 0.2941,
+   "chroma": 0.0,
+   "punch": 0.02
+  },
+  "sent-2026-09-06::d67ad3ce7a4d": {
+   "id": "CRVI002306",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002306.jpg",
+   "original_px": [
+    1200,
+    1200
+   ],
+   "original_bytes": 236573,
+   "identity": "sent-2026-09-06::d67ad3ce7a4d",
+   "source_url": "https://www.themodern.org/sites/default/files/2024-11/Weems_Woman-Standing_72.jpg",
+   "maker": "Carrie Mae Weems",
+   "title": "Untitled (Woman standing alone)",
+   "subtitle": "",
+   "year": "1990",
+   "verified_against": "The Modern Art Museum of Fort Worth, which names it in the file: \"Weems Woman Standing\" — from *The Kitchen Table Series*, 1990.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1240.jpg",
+   "source_px": [
+    1200,
+    1200
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Carrie Mae Weems"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "photographer",
+     "v": "Carrie Mae Weems"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Modern Art Museum of Fort Worth, which names it in the file: \"Weems Woman Standing\" — from *The Kitchen Table Series*, 1990.",
+   "hue": null,
+   "light": 0.426,
+   "chroma": 0.0,
+   "punch": 0.0136
+  },
+  "sent-2026-09-06::9b84acafc235": {
+   "id": "CRVI002307",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002307.jpg",
+   "original_px": [
+    2929,
+    3000
+   ],
+   "original_bytes": 995023,
+   "identity": "sent-2026-09-06::9b84acafc235",
+   "source_url": "https://cdn.sanity.io/images/476nwnl9/production/b119b7ded24140f5a2507463ba2d3823a005e2cf-2929x3000.jpg?auto=format",
+   "maker": "Carrie Mae Weems",
+   "title": "Untitled, from The Kitchen Table Series",
+   "subtitle": "",
+   "year": "1990",
+   "verified_against": "A Sanity CDN asset with no page behind it. Attributed on the WORK: the lamp, the table and the sitters are Weems's *Kitchen Table Series*, 1990. ⚠️ Plate title not established.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1241.jpg",
+   "source_px": [
+    2929,
+    3000
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Carrie Mae Weems"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "photographer",
+     "v": "Carrie Mae Weems"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A Sanity CDN asset with no page behind it. Attributed on the WORK: the lamp, the table and the sitters are Weems's *Kitchen Table Series*, 1990. ⚠️ Plate title not established.",
+   "hue": null,
+   "light": 0.3613,
+   "chroma": 0.0002,
+   "punch": 0.0318
+  },
+  "sent-2026-09-06::d36503e0e3f9": {
+   "id": "CRVI002308",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002308.webp",
+   "original_px": [
+    1200,
+    1211
+   ],
+   "original_bytes": 156664,
+   "identity": "sent-2026-09-06::d36503e0e3f9",
+   "source_url": "https://images.squarespace-cdn.com/content/v1/5f7655ee6e899c55023d1a55/57297caa-ed2a-49bc-922c-f87524943fbc/Carrie-Mae_Weems-untitiled-kitchen-1200.jpg",
+   "maker": "Carrie Mae Weems",
+   "title": "Untitled, from The Kitchen Table Series",
+   "subtitle": "",
+   "year": "1990",
+   "verified_against": "A Squarespace-hosted asset named \"Carrie-Mae Weems untitled kitchen\". From *The Kitchen Table Series*, 1990. ⚠️ Plate title not established.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1242.webp",
+   "source_px": [
+    1200,
+    1211
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Carrie Mae Weems"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "photographer",
+     "v": "Carrie Mae Weems"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A Squarespace-hosted asset named \"Carrie-Mae Weems untitled kitchen\". From *The Kitchen Table Series*, 1990. ⚠️ Plate title not established.",
+   "hue": null,
+   "light": 0.507,
+   "chroma": 0.0,
+   "punch": 0.0
+  },
+  "sent-2026-09-06::61100d28eaa7": {
+   "id": "CRVI002309",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002309.jpg",
+   "original_px": [
+    802,
+    1200
+   ],
+   "original_bytes": 112732,
+   "identity": "sent-2026-09-06::61100d28eaa7",
+   "source_url": "https://uploads1.wikiart.org/00166/images/neo-rauch/gewitterfront-2016.jpg",
+   "maker": "Neo Rauch",
+   "title": "Gewitterfront",
+   "subtitle": "",
+   "year": "2016",
+   "verified_against": "WikiArt, under Neo Rauch, dated 2016.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1243.jpg",
+   "source_px": [
+    802,
+    1200
+   ],
+   "colors": [
+    "cyan",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Neo Rauch"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Neo Rauch, dated 2016.",
+   "hue": 173.89,
+   "light": 0.2609,
+   "chroma": 0.3886,
+   "punch": 0.1189
+  },
+  "sent-2026-09-06::70aecad04534": {
+   "id": "CRVI002310",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002310.jpg",
+   "original_px": [
+    857,
+    1024
+   ],
+   "original_bytes": 978825,
+   "identity": "sent-2026-09-06::70aecad04534",
+   "source_url": "https://uploads3.wikiart.org/00166/images/neo-rauch/h-ter-der-nacht-2014.jpg",
+   "maker": "Neo Rauch",
+   "title": "Hüter der Nacht",
+   "subtitle": "",
+   "year": "2014",
+   "verified_against": "WikiArt, under Neo Rauch, dated 2014.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1244.jpg",
+   "source_px": [
+    857,
+    1024
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Neo Rauch"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Neo Rauch, dated 2014.",
+   "hue": 26.52,
+   "light": 0.5293,
+   "chroma": 0.5529,
+   "punch": 0.1501
+  },
+  "sent-2026-09-06::12babf379fc9": {
+   "id": "CRVI002311",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002311.jpg",
+   "original_px": [
+    2480,
+    3000
+   ],
+   "original_bytes": 5639818,
+   "identity": "sent-2026-09-06::12babf379fc9",
+   "source_url": "https://uploads3.wikiart.org/00166/images/neo-rauch/ber-den-d-chern-2014.jpg",
+   "maker": "Neo Rauch",
+   "title": "Über den Dächern",
+   "subtitle": "",
+   "year": "2014",
+   "verified_against": "WikiArt, under Neo Rauch, dated 2014.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1245.jpg",
+   "source_px": [
+    2480,
+    3000
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Neo Rauch"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Neo Rauch, dated 2014.",
+   "hue": 5.92,
+   "light": 0.5019,
+   "chroma": 0.7311,
+   "punch": 0.1902
+  },
+  "sent-2026-09-06::2174b13bf428": {
+   "id": "CRVI002312",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002312.jpg",
+   "original_px": [
+    850,
+    1024
+   ],
+   "original_bytes": 892448,
+   "identity": "sent-2026-09-06::2174b13bf428",
+   "source_url": "https://uploads2.wikiart.org/00166/images/neo-rauch/der-felsenwirt-2014.jpg",
+   "maker": "Neo Rauch",
+   "title": "Der Felsenwirt",
+   "subtitle": "",
+   "year": "2014",
+   "verified_against": "WikiArt, under Neo Rauch, dated 2014.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1246.jpg",
+   "source_px": [
+    850,
+    1024
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Neo Rauch"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Neo Rauch, dated 2014.",
+   "hue": 342.37,
+   "light": 0.6069,
+   "chroma": 0.3097,
+   "punch": 0.1165
+  },
+  "sent-2026-09-06::4b3fa48be620": {
+   "id": "CRVI002313",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002313.jpg",
+   "original_px": [
+    1024,
+    849
+   ],
+   "original_bytes": 857183,
+   "identity": "sent-2026-09-06::4b3fa48be620",
+   "source_url": "https://uploads3.wikiart.org/00166/images/neo-rauch/marina-2014.jpg",
+   "maker": "Neo Rauch",
+   "title": "Marina",
+   "subtitle": "",
+   "year": "2014",
+   "verified_against": "WikiArt, under Neo Rauch, dated 2014.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1247.jpg",
+   "source_px": [
+    1024,
+    849
+   ],
+   "colors": [
+    "orange",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Neo Rauch"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt, under Neo Rauch, dated 2014.",
+   "hue": 36.82,
+   "light": 0.555,
+   "chroma": 0.2838,
+   "punch": 0.0967
+  },
+  "sent-2026-09-06::f93c5a8d4be5": {
+   "id": "CRVI002314",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002314.webp",
+   "original_px": [
+    2000,
+    1674
+   ],
+   "original_bytes": 484970,
+   "identity": "sent-2026-09-06::f93c5a8d4be5",
+   "source_url": "https://cdn.i-scmp.com/sites/default/files/d8/images/canvas/2023/12/01/fa744cae-431a-4f70-a0d8-60d3e3a60207_cfece547.jpg",
+   "maker": "Neo Rauch",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "South China Morning Post, from its Neo Rauch coverage. ⚠️ Title and date not established from the asset.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1248.webp",
+   "source_px": [
+    2000,
+    1674
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Neo Rauch"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "South China Morning Post, from its Neo Rauch coverage. ⚠️ Title and date not established from the asset.",
+   "hue": 16.1,
+   "light": 0.3232,
+   "chroma": 0.4876,
+   "punch": 0.1144
+  },
+  "sent-2026-09-06::609d6ee209b9": {
+   "id": "CRVI002315",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002315.jpg",
+   "original_px": [
+    1024,
+    854
+   ],
+   "original_bytes": 229560,
+   "identity": "sent-2026-09-06::609d6ee209b9",
+   "source_url": "https://www.dreamideamachine.com/web/wp-content/uploads/2019/03/0045.jpg",
+   "maker": "Neo Rauch",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "dreamideamachine ART VIEW, from its Neo Rauch coverage. ⚠️ Title and date not established.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1249.jpg",
+   "source_px": [
+    1024,
+    854
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Neo Rauch"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "dreamideamachine ART VIEW, from its Neo Rauch coverage. ⚠️ Title and date not established.",
+   "hue": 27.51,
+   "light": 0.4012,
+   "chroma": 0.4792,
+   "punch": 0.1396
+  },
+  "sent-2026-09-06::7063bf20bde8": {
+   "id": "CRVI002316",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002316.jpg",
+   "original_px": [
+    1024,
+    1001
+   ],
+   "original_bytes": 165606,
+   "identity": "sent-2026-09-06::7063bf20bde8",
+   "source_url": "https://img.welt.de/img/kultur/kunst-und-architektur/mobile156400265/4772507077-ci102l-w1024/Neo-Rauch.jpg",
+   "maker": "Neo Rauch",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Die Welt, which names it in the file: \"Neo-Rauch\". ⚠️ Title and date not established.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1250.jpg",
+   "source_px": [
+    1024,
+    1001
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Neo Rauch"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Die Welt, which names it in the file: \"Neo-Rauch\". ⚠️ Title and date not established.",
+   "hue": 339.24,
+   "light": 0.4066,
+   "chroma": 0.5389,
+   "punch": 0.1807
+  },
+  "sent-2026-09-06::1d3ad2dea945": {
+   "id": "CRVI002317",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002317.jpg",
+   "original_px": [
+    900,
+    1125
+   ],
+   "original_bytes": 193247,
+   "identity": "sent-2026-09-06::1d3ad2dea945",
+   "source_url": "https://i.pinimg.com/originals/eb/11/a6/eb11a64b06a06567506307132fd4c937.jpg",
+   "maker": "Neo Rauch",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Pinterest, which names nobody. Attributed on the WORK: Rauch's Leipzig-school figures in a collapsed stage-space, in his palette. ⚠️ Title and date not established.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1251.jpg",
+   "source_px": [
+    900,
+    1125
+   ],
+   "colors": [
+    "orange",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Neo Rauch"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Pinterest, which names nobody. Attributed on the WORK: Rauch's Leipzig-school figures in a collapsed stage-space, in his palette. ⚠️ Title and date not established.",
+   "hue": 16.05,
+   "light": 0.4057,
+   "chroma": 0.5778,
+   "punch": 0.1453
+  },
+  "sent-2026-09-06::a34c37421e21": {
+   "id": "CRVI002318",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002318.jpg",
+   "original_px": [
+    1000,
+    1282
+   ],
+   "original_bytes": 234373,
+   "identity": "sent-2026-09-06::a34c37421e21",
+   "source_url": "https://dinca.org/wp-content/uploads/2020/07/Tauba-Auerbach-Grain-Fret-Sublimation-2017-compressed.jpg",
+   "maker": "Tauba Auerbach",
+   "title": "Grain – Fret – Sublimation",
+   "subtitle": "",
+   "year": "2017",
+   "verified_against": "dinca.org, which names it in the file: \"Tauba Auerbach Grain Fret Sublimation 2017\".",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1252.jpg",
+   "source_px": [
+    1000,
+    1282
+   ],
+   "colors": [
+    "cyan",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Tauba Auerbach"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "dinca.org, which names it in the file: \"Tauba Auerbach Grain Fret Sublimation 2017\".",
+   "hue": 194.75,
+   "light": 0.767,
+   "chroma": 0.6725,
+   "punch": 0.1755
+  },
+  "sent-2026-09-06::e2c20dd9c630": {
+   "id": "CRVI002319",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002319.webp",
+   "original_px": [
+    2500,
+    1667
+   ],
+   "original_bytes": 692744,
+   "identity": "sent-2026-09-06::e2c20dd9c630",
+   "source_url": "https://images.squarespace-cdn.com/content/v1/56c346b607eaa09d9189a870/52a24523-e1d7-4a69-a9ae-6ffa55fbad51/178_Flaunt_Magazine_Digital_Flaunt.com_Web_Considerations4.jpg",
+   "maker": "Tauba Auerbach",
+   "title": "Marbled composition",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Flaunt Magazine, from its Tauba Auerbach feature. Attributed on the WORK: Auerbach's marbled/suminagashi surfaces. ⚠️ Title and date not established.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1253.webp",
+   "source_px": [
+    2500,
+    1667
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Tauba Auerbach"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Flaunt Magazine, from its Tauba Auerbach feature. Attributed on the WORK: Auerbach's marbled/suminagashi surfaces. ⚠️ Title and date not established.",
+   "hue": 46.13,
+   "light": 0.2712,
+   "chroma": 0.8422,
+   "punch": 0.2701
+  },
+  "sent-2026-09-06::cf25cd5f73b8": {
+   "id": "CRVI002320",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002320.jpg",
+   "original_px": [
+    2853,
+    3706
+   ],
+   "original_bytes": 7944295,
+   "identity": "sent-2026-09-06::cf25cd5f73b8",
+   "source_url": "https://centerforbookarts.org/wp-content/uploads/2021/01/Portrait-scaled.jpg",
+   "maker": "Tauba Auerbach",
+   "title": "Marbled composition",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "The Center for Book Arts, from its Tauba Auerbach material. ⚠️ The file is misleadingly named \"Portrait\"; the image is a marbled sheet, not a portrait. Title and date not established.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1254.jpg",
+   "source_px": [
+    2853,
+    3706
+   ],
+   "colors": [
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Tauba Auerbach"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Center for Book Arts, from its Tauba Auerbach material. ⚠️ The file is misleadingly named \"Portrait\"; the image is a marbled sheet, not a portrait. Title and date not established.",
+   "hue": 54.96,
+   "light": 0.5128,
+   "chroma": 0.7271,
+   "punch": 0.3067
+  },
+  "sent-2026-09-06::c8430809cdfd": {
+   "id": "CRVI002321",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002321.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 1218888,
+   "identity": "sent-2026-09-06::c8430809cdfd",
+   "source_url": "https://media.mutualart.com/Images/2022_11/09/16/161324291/tauba-auerbach-tauba-auerbach---2-3--sig-RP3G7.Jpeg",
+   "maker": "Tauba Auerbach",
+   "title": "[2,3]",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "MutualArt, which names it in the file: \"tauba auerbach - 2,3 - sig\" — the signed pop-up book *[2,3]*. No date given there.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1255.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "multiple"
+    },
+    {
+     "k": "artist",
+     "v": "Tauba Auerbach"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "MutualArt, which names it in the file: \"tauba auerbach - 2,3 - sig\" — the signed pop-up book *[2,3]*. No date given there.",
+   "hue": null,
+   "light": 0.6603,
+   "chroma": 0.0633,
+   "punch": 0.0336
+  },
+  "sent-2026-09-06::342298c5094a": {
+   "id": "CRVI002322",
+   "minted": "2026-09-06",
+   "original_file": "originals/CRVI002322.jpg",
+   "original_px": [
+    1174,
+    1500
+   ],
+   "original_bytes": 110694,
+   "identity": "sent-2026-09-06::342298c5094a",
+   "source_url": "https://thegentlewoman.co.uk/img/b3I0MkNFeVFJdFNkSVJoN0hPd29lQT09/tauba-05.jpg",
+   "maker": "unattributed",
+   "title": "Tauba Auerbach wearing a glass necklace",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "⚠️ Photographer NOT ESTABLISHED. The Gentlewoman, from its Tauba Auerbach profile. The sitter is Auerbach; the credit line is not reachable from the asset.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/1256.jpg",
+   "source_px": [
+    1174,
+    1500
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ Photographer NOT ESTABLISHED. The Gentlewoman, from its Tauba Auerbach profile. The sitter is Auerbach; the credit line is not reachable from the asset.",
+   "hue": 254.55,
+   "light": 0.5417,
+   "chroma": 0.9093,
+   "punch": 0.1367
   }
  }
 }
