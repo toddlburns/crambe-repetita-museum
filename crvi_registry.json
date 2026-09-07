@@ -1,5 +1,5 @@
 {
- "next": 2383,
+ "next": 2397,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -138054,12 +138054,13 @@
    "identity_established": true,
    "published": false,
    "verification": "Wikimedia Commons, 'Gustave Courbet 018.jpg', 2048x1249 — the two-figure composition of the 1849 painting, destroyed in the bombing of Dresden in 1945. ⚠️ SOURCE SUBSTITUTED: Todd's link was to 1st-art-gallery.com, a reproduction seller, which returns 403 to every fetch. ⚠️ A larger Commons file, 'Gustave Courbet 040.jpg' (4048x3284), was rejected because it is a DIFFERENT work — the single-figure Stone Breaker.",
-   "hue": 41.71,
-   "light": 0.4353,
-   "chroma": 0.3237,
-   "punch": 0.0891,
+   "hue": 52.15,
+   "light": 0.6907,
+   "chroma": 0.3068,
+   "punch": 0.0741,
    "deleted": true,
-   "deleted_on": "2026-09-07"
+   "deleted_on": "2026-09-07",
+   "number_reused": true
   },
   "sent-2026-09-07e::2f8979a30447": {
    "id": "CRVI002370",
@@ -138692,6 +138693,896 @@
    "light": 0.4496,
    "chroma": 0.9099,
    "punch": 0.2591
+  },
+  "sent-2026-09-07g::627f3b773910": {
+   "id": "CRVI002369",
+   "minted": "2026-09-07",
+   "reused": true,
+   "previously": {
+    "identity": "sent-2026-09-07e::2ce82ad38f83",
+    "maker": "Gustave Courbet",
+    "title": "The Stone Breakers (Les Casseurs de pierres)",
+    "deleted_on": "2026-09-07"
+   },
+   "original_file": "originals/CRVI002369.jpg",
+   "original_px": [
+    1568,
+    2000
+   ],
+   "original_bytes": 1079099,
+   "identity": "sent-2026-09-07g::627f3b773910",
+   "source_url": "https://www.moma.org/media/W1siZiIsIjMzNTk1NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=eeade9d3198e3b35",
+   "maker": "Dick Higgins",
+   "title": "Symphony #269 from The Thousand Symphonies",
+   "subtitle": "",
+   "year": "1968",
+   "verified_against": "MoMA, object 131646 — 'Dick Higgins. Symphony #269 from The Thousand Symphonies. 1968. Spray paint on three sheets of offset printed musical composition paper. Sheet (each): 22 3/8 x 17 1/2\" (56.8 x 44.5 cm). The Gilbert and Lila Silverman Fluxus Collection Gift. Object number 3502.2008.a-c.' The sent URL IS MoMA's own media file: its base64 path decodes to [[\"f\",\"335954\"],[\"p\",\"convert\",\"-quality 90 -resize 2000x2000>\"]], and file 335954 is the image on that object page. ⚠️ This is ONE of the three sheets — the artist's hand at top left reads 'Symphony #269, First Movement, Allegro' and at top right 'No. 1 / 3'.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img46/01.jpg",
+   "source_px": [
+    1568,
+    2000
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Dick Higgins"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "Fluxus"
+    },
+    {
+     "k": "medium",
+     "v": "spray paint"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "MoMA, object 131646 — 'Dick Higgins. Symphony #269 from The Thousand Symphonies. 1968. Spray paint on three sheets of offset printed musical composition paper. Sheet (each): 22 3/8 x 17 1/2\" (56.8 x 44.5 cm). The Gilbert and Lila Silverman Fluxus Collection Gift. Object number 3502.2008.a-c.' The sent URL IS MoMA's own media file: its base64 path decodes to [[\"f\",\"335954\"],[\"p\",\"convert\",\"-quality 90 -resize 2000x2000>\"]], and file 335954 is the image on that object page. ⚠️ This is ONE of the three sheets — the artist's hand at top left reads 'Symphony #269, First Movement, Allegro' and at top right 'No. 1 / 3'.",
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Fluxus"
+    }
+   ],
+   "hue": 52.15,
+   "light": 0.6907,
+   "chroma": 0.3068,
+   "punch": 0.0741
+  },
+  "sent-2026-09-07g::ae615ff1c665": {
+   "id": "CRVI002383",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002383.jpg",
+   "original_px": [
+    2048,
+    1776
+   ],
+   "original_bytes": 674433,
+   "identity": "sent-2026-09-07g::ae615ff1c665",
+   "source_url": "https://img1.wsimg.com/isteam/ip/5066a8fc-6528-4007-92fd-2578fda82c6a/Hommage%20to%20Africa%201989%20Silkscreen%20on%20Cloth%20%20.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1023,cg:true",
+   "maker": "Dick Higgins",
+   "title": "Hommage to Africa",
+   "subtitle": "",
+   "year": "1989",
+   "verified_against": "dickhiggins.org/prints, the site of the Estate of Dick Higgins, which captions this exact file: 'Dick Higgins, Hommage to Africa, 1989. Screenprint on fabric.' ⚠️ On that site the caption follows its image in the DOM — verified against two figures whose FILENAMES name their own work (Graphis 4.png, Graphis 59.jpg). Upgraded 1023x887 -> 2048x1776 by dropping the isteam transform chain.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img46/02.jpg",
+   "source_px": [
+    2048,
+    1776
+   ],
+   "colors": [
+    "orange",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Dick Higgins"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "map"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "dickhiggins.org/prints, the site of the Estate of Dick Higgins, which captions this exact file: 'Dick Higgins, Hommage to Africa, 1989. Screenprint on fabric.' ⚠️ On that site the caption follows its image in the DOM — verified against two figures whose FILENAMES name their own work (Graphis 4.png, Graphis 59.jpg). Upgraded 1023x887 -> 2048x1776 by dropping the isteam transform chain.",
+   "hue": 31.06,
+   "light": 0.858,
+   "chroma": 0.4863,
+   "punch": 0.0783
+  },
+  "sent-2026-09-07g::e34659125188": {
+   "id": "CRVI002384",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002384.jpg",
+   "original_px": [
+    2000,
+    1988
+   ],
+   "original_bytes": 649561,
+   "identity": "sent-2026-09-07g::e34659125188",
+   "source_url": "https://img1.wsimg.com/isteam/ip/5066a8fc-6528-4007-92fd-2578fda82c6a/cri_000000246538-0001.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1240,cg:true",
+   "maker": "Dick Higgins",
+   "title": "Graphis No. 82",
+   "subtitle": "",
+   "year": "1960",
+   "verified_against": "MoMA, object 127386 — 'Dick Higgins. Graphis No. 82. 1960. Ink on paper. 10 11/16 x 10 15/16\" (27.1 x 27.8 cm). The Gilbert and Lila Silverman Fluxus Collection Gift. Object number 2243.2008.' Todd's link was the Estate's re-upload of MoMA's file cri_000000246538; MoMA's OWN media file 246538 is the same 2000x1988 pixels but 650 KB against GoDaddy's 373 KB, so the file held here is MoMA's. A performance notation, not a picture: 'unsemantic, even choreographic' scripts for theatre.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img46/03.jpg",
+   "source_px": [
+    2000,
+    1988
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Dick Higgins"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "Fluxus"
+    },
+    {
+     "k": "subject",
+     "v": "musical notation"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "MoMA, object 127386 — 'Dick Higgins. Graphis No. 82. 1960. Ink on paper. 10 11/16 x 10 15/16\" (27.1 x 27.8 cm). The Gilbert and Lila Silverman Fluxus Collection Gift. Object number 2243.2008.' Todd's link was the Estate's re-upload of MoMA's file cri_000000246538; MoMA's OWN media file 246538 is the same 2000x1988 pixels but 650 KB against GoDaddy's 373 KB, so the file held here is MoMA's. A performance notation, not a picture: 'unsemantic, even choreographic' scripts for theatre.",
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Fluxus"
+    }
+   ],
+   "hue": 37.08,
+   "light": 0.8049,
+   "chroma": 0.8454,
+   "punch": 0.1019
+  },
+  "sent-2026-09-07g::35344f6ae895": {
+   "id": "CRVI002385",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002385.jpg",
+   "original_px": [
+    1714,
+    1946
+   ],
+   "original_bytes": 1744105,
+   "identity": "sent-2026-09-07g::35344f6ae895",
+   "source_url": "https://arthive.com/res/media/img/oy1000/work/feb/39466@2x.jpg",
+   "maker": "Emil Nolde",
+   "title": "Crucifixion (Kreuzigung), centre panel of The Life of Christ",
+   "subtitle": "",
+   "year": "1912",
+   "verified_against": "Arthive hosts the file under a numeric id; the work is established by its own composition against the published record of the nine-part polyptych Das Leben Christi (1911-12), Nolde Stiftung Seebüll — the central Crucifixion panel, oil on canvas, 220.5 x 193.5 cm. The file's aspect ratio, 0.881, matches the panel's 0.878.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img46/04.jpg",
+   "source_px": [
+    1714,
+    1946
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Emil Nolde"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "subject",
+     "v": "religion"
+    },
+    {
+     "k": "movement",
+     "v": "Expressionism"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Arthive hosts the file under a numeric id; the work is established by its own composition against the published record of the nine-part polyptych Das Leben Christi (1911-12), Nolde Stiftung Seebüll — the central Crucifixion panel, oil on canvas, 220.5 x 193.5 cm. The file's aspect ratio, 0.881, matches the panel's 0.878.",
+   "hue": 9.0,
+   "light": 0.2794,
+   "chroma": 0.7645,
+   "punch": 0.291
+  },
+  "sent-2026-09-07g::5b7711ffffd1": {
+   "id": "CRVI002386",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002386.jpg",
+   "original_px": [
+    3000,
+    2342
+   ],
+   "original_bytes": 3417623,
+   "identity": "sent-2026-09-07g::5b7711ffffd1",
+   "source_url": "https://www.museothyssen.org/sites/default/files/imagen/2025-01/NOLDE%2C%20Emil_Nubes%20rojas_694%20%281983.9%29_visor.jpg",
+   "maker": "Emil Nolde",
+   "title": "Red Clouds (Rote Wolken)",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Museo Nacional Thyssen-Bornemisza, Madrid, inv. 694 (1983.9) — 'Emil Nolde, Red Clouds, watercolour on handmade paper, 34.5 x 44.7 cm', bought from the artist's estate in 1983. ⚠️ The museum records it as UNDATED and says it is not documented; Peter Vergo places the view at Seebüll, where Nolde lived from 1927. No year is asserted here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img46/05.jpg",
+   "source_px": [
+    3000,
+    2342
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Emil Nolde"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "medium",
+     "v": "watercolor"
+    },
+    {
+     "k": "subject",
+     "v": "landscape"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Museo Nacional Thyssen-Bornemisza, Madrid, inv. 694 (1983.9) — 'Emil Nolde, Red Clouds, watercolour on handmade paper, 34.5 x 44.7 cm', bought from the artist's estate in 1983. ⚠️ The museum records it as UNDATED and says it is not documented; Peter Vergo places the view at Seebüll, where Nolde lived from 1927. No year is asserted here.",
+   "hue": 225.21,
+   "light": 0.4557,
+   "chroma": 0.7758,
+   "punch": 0.2624
+  },
+  "sent-2026-09-07g::08f78d52bdce": {
+   "id": "CRVI002387",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002387.jpg",
+   "original_px": [
+    1920,
+    937
+   ],
+   "original_bytes": 359287,
+   "identity": "sent-2026-09-07g::08f78d52bdce",
+   "source_url": "https://www.smb.museum/uploads/tx_smb/exhibitions/exhibition_61296/06_SMB_0419_HBF_Nolde_Brennendes_Gehoefft_web_xl.jpg",
+   "maker": "Emil Nolde",
+   "title": "Brennendes Gehöft (detail)",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Staatliche Museen zu Berlin, from the press material for 'Emil Nolde. Eine deutsche Legende', Hamburger Bahnhof, 2019 (the filename carries the show: SMB_0419_HBF). The work is Nolde's Brennendes Gehöft, undated, Nolde Stiftung Seebüll — one of the Ungemalte Bilder, the watercolours made under the sale-and-exhibition ban of 1941-45. ⚠️ THIS FILE IS A DETAIL, not the picture: a 1920x937 banner crop that cuts into the sheet on all four sides. The only full reproduction found (artinwords.de, credited to the Nolde Stiftung) is 454x600, well under the archive's 800px floor. Kept as a detail and labelled as one.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img46/06.jpg",
+   "source_px": [
+    1920,
+    937
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Emil Nolde"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "medium",
+     "v": "watercolor"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Staatliche Museen zu Berlin, from the press material for 'Emil Nolde. Eine deutsche Legende', Hamburger Bahnhof, 2019 (the filename carries the show: SMB_0419_HBF). The work is Nolde's Brennendes Gehöft, undated, Nolde Stiftung Seebüll — one of the Ungemalte Bilder, the watercolours made under the sale-and-exhibition ban of 1941-45. ⚠️ THIS FILE IS A DETAIL, not the picture: a 1920x937 banner crop that cuts into the sheet on all four sides. The only full reproduction found (artinwords.de, credited to the Nolde Stiftung) is 454x600, well under the archive's 800px floor. Kept as a detail and labelled as one.",
+   "hue": 15.9,
+   "light": 0.3276,
+   "chroma": 0.5581,
+   "punch": 0.187
+  },
+  "sent-2026-09-07g::421430ee7014": {
+   "id": "CRVI002388",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002388.jpg",
+   "original_px": [
+    2000,
+    1752
+   ],
+   "original_bytes": 1906512,
+   "identity": "sent-2026-09-07g::421430ee7014",
+   "source_url": "https://www.dailyartmagazine.com/wp-content/uploads/2024/10/1024px-EmilNolde-Blumengarten_ohne_Figur_1908.jpg",
+   "maker": "Emil Nolde",
+   "title": "Blumengarten, ohne Figur",
+   "subtitle": "",
+   "year": "1908",
+   "verified_against": "Sotheby's London, Impressionist & Modern Art Evening Sale L12002, 6 February 2012, lot 6 — 'Emil Nolde, Blumengarten, ohne Figur, 1908, oil on canvas, 60 by 70 cm', from Ada Nolde to a private Frankfurt collector in 1926 and thence by descent. Listed in Nolde's own 1930 handlist as '1908 Blumengarten, ohne Figur'. Todd's link was dailyartmagazine's 1024x882 copy of a 1024px thumbnail; substituted for Sotheby's own 2000px master (correlation 0.73 against the sent file, same composition, signature 'Nolde' at lower right). ⚠️ Sotheby's pads its images to a 2000x2000 square — the white bands were cropped off, so the file held here is 2000x1752, the canvas and nothing else.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img46/07.jpg",
+   "source_px": [
+    2000,
+    1752
+   ],
+   "colors": [
+    "red",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Emil Nolde"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "subject",
+     "v": "flowers"
+    },
+    {
+     "k": "movement",
+     "v": "Expressionism"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Sotheby's London, Impressionist & Modern Art Evening Sale L12002, 6 February 2012, lot 6 — 'Emil Nolde, Blumengarten, ohne Figur, 1908, oil on canvas, 60 by 70 cm', from Ada Nolde to a private Frankfurt collector in 1926 and thence by descent. Listed in Nolde's own 1930 handlist as '1908 Blumengarten, ohne Figur'. Todd's link was dailyartmagazine's 1024x882 copy of a 1024px thumbnail; substituted for Sotheby's own 2000px master (correlation 0.73 against the sent file, same composition, signature 'Nolde' at lower right). ⚠️ Sotheby's pads its images to a 2000x2000 square — the white bands were cropped off, so the file held here is 2000x1752, the canvas and nothing else.",
+   "hue": 3.6,
+   "light": 0.4927,
+   "chroma": 0.7284,
+   "punch": 0.2336
+  },
+  "sent-2026-09-07g::ff09fe62f268": {
+   "id": "CRVI002389",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002389.jpg",
+   "original_px": [
+    1000,
+    827
+   ],
+   "original_bytes": 248982,
+   "identity": "sent-2026-09-07g::ff09fe62f268",
+   "source_url": "https://i.ebayimg.com/images/g/JjwAAOSw7VhhXLNz/s-l1200.jpg",
+   "maker": "Emil Nolde",
+   "title": "Sea under yellow clouds",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "⚠️ The SPECIFIC WORK IS NOT ESTABLISHED and the title above is descriptive. The file is a bare eBay image with no listing attached. It belongs to Nolde's Herbstmeer (Autumn Sea) group of 1910-11 — thirteen were painted in 1910 alone — and picking a number from the picture would be a guess: two Sotheby's Herbstmeer lots were pixel-correlated against it and scored 0.06 and 0.01, so it is neither of them. The ARTIST rests on Todd's naming (2026-09-07, sent under the heading 'Emil Nolde'), corroborated by a two-word signature in the lower right consistent with his.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img46/08.jpg",
+   "source_px": [
+    1000,
+    827
+   ],
+   "colors": [
+    "cyan",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Emil Nolde"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "subject",
+     "v": "sea"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ The SPECIFIC WORK IS NOT ESTABLISHED and the title above is descriptive. The file is a bare eBay image with no listing attached. It belongs to Nolde's Herbstmeer (Autumn Sea) group of 1910-11 — thirteen were painted in 1910 alone — and picking a number from the picture would be a guess: two Sotheby's Herbstmeer lots were pixel-correlated against it and scored 0.06 and 0.01, so it is neither of them. The ARTIST rests on Todd's naming (2026-09-07, sent under the heading 'Emil Nolde'), corroborated by a two-word signature in the lower right consistent with his.",
+   "hue": 45.81,
+   "light": 0.3909,
+   "chroma": 0.6459,
+   "punch": 0.2525
+  },
+  "sent-2026-09-07g::14c2dbe99c68": {
+   "id": "CRVI002390",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002390.jpg",
+   "original_px": [
+    2490,
+    3200
+   ],
+   "original_bytes": 132958,
+   "identity": "sent-2026-09-07g::14c2dbe99c68",
+   "source_url": "https://publicdelivery.org/wp-content/uploads/2019/07/Bruce-Nauman-Double-Poke-in-the-Eye-II-1985-neon-and-white-aluminum-box-61-x-91.4-x-15.9-cm-24-x-36-x-6-14-in..jpg",
+   "maker": "Bruce Nauman",
+   "title": "Double Poke in the Eye II",
+   "subtitle": "",
+   "year": "1985",
+   "verified_against": "publicdelivery.org, whose filename carries the tombstone, confirmed against the museum record: neon tubing mounted on an aluminium monolith, 24 x 36 x 9 1/4 in. (61 x 91.4 x 23.5 cm), edition of 40 — examples at the Denver Art Museum (2007.22), the Fine Arts Museums of San Francisco (2002.6), Princeton (2012-45) and Tate. Two neon profiles facing each other, four hands between them poking, lit in alternation. ⚠️ The file is soft: a half-scale round trip loses only 0.76/255 across its lit pixels, so its honest detail is about 1245x1600, not the nominal 2490x3200. The best alternative found (Marianne Boesky) is 837x600, under the floor.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img46/09.jpg",
+   "source_px": [
+    2490,
+    3200
+   ],
+   "colors": [
+    "blue",
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Bruce Nauman"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "medium",
+     "v": "neon"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "publicdelivery.org, whose filename carries the tombstone, confirmed against the museum record: neon tubing mounted on an aluminium monolith, 24 x 36 x 9 1/4 in. (61 x 91.4 x 23.5 cm), edition of 40 — examples at the Denver Art Museum (2007.22), the Fine Arts Museums of San Francisco (2002.6), Princeton (2012-45) and Tate. Two neon profiles facing each other, four hands between them poking, lit in alternation. ⚠️ The file is soft: a half-scale round trip loses only 0.76/255 across its lit pixels, so its honest detail is about 1245x1600, not the nominal 2490x3200. The best alternative found (Marianne Boesky) is 837x600, under the floor.",
+   "hue": 224.27,
+   "light": 0.1418,
+   "chroma": 0.2872,
+   "punch": 0.0695
+  },
+  "sent-2026-09-07g::7246bfb63471": {
+   "id": "CRVI002391",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002391.jpg",
+   "original_px": [
+    1283,
+    1920
+   ],
+   "original_bytes": 346183,
+   "identity": "sent-2026-09-07g::7246bfb63471",
+   "source_url": "https://bordercrossingsmag.com/images/made/images/articles/_resized/CO02-BN01-Bruce_Nauman_PV_03_1100_1646_90.jpg",
+   "maker": "Bruce Nauman",
+   "title": "Human Nature/Knows Doesn't Know",
+   "subtitle": "",
+   "year": "1983/1986",
+   "verified_against": "Border Crossings Magazine, which captions this exact file: 'Installation view, \"Bruce Nauman,\" Tate Modern, London. Human Nature/ Knows Doesn't Know, 1983/1986. © Bruce Nauman/ARS, NY, and DACS, London, 2020. Photo: Tate Photography (Matt Greenwood).' The picture spells its own content: HUMAN, ANIMAL and NATURE each twice, against KNOWS/DOESN'T KNOW, CARES/DOESN'T CARE, MATTER/DOESN'T MATTER — no LIFE/DEATH, which is what separates this work from its siblings at LACMA and SFMOMA. ⚠️ This is an INSTALLATION VIEW; the photographer is credited as a separate tag. Upgraded 1100x1646 -> 1283x1920.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img46/10.jpg",
+   "source_px": [
+    1283,
+    1920
+   ],
+   "colors": [
+    "pink",
+    "purple"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Bruce Nauman"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "photographer",
+     "v": "Matt Greenwood"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "medium",
+     "v": "neon"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Border Crossings Magazine, which captions this exact file: 'Installation view, \"Bruce Nauman,\" Tate Modern, London. Human Nature/ Knows Doesn't Know, 1983/1986. © Bruce Nauman/ARS, NY, and DACS, London, 2020. Photo: Tate Photography (Matt Greenwood).' The picture spells its own content: HUMAN, ANIMAL and NATURE each twice, against KNOWS/DOESN'T KNOW, CARES/DOESN'T CARE, MATTER/DOESN'T MATTER — no LIFE/DEATH, which is what separates this work from its siblings at LACMA and SFMOMA. ⚠️ This is an INSTALLATION VIEW; the photographer is credited as a separate tag. Upgraded 1100x1646 -> 1283x1920.",
+   "hue": 25.81,
+   "light": 0.4881,
+   "chroma": 0.4696,
+   "punch": 0.1887
+  },
+  "sent-2026-09-07g::830bf87b63c3": {
+   "id": "CRVI002392",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002392.jpg",
+   "original_px": [
+    3147,
+    2480
+   ],
+   "original_bytes": 8050074,
+   "identity": "sent-2026-09-07g::830bf87b63c3",
+   "source_url": "https://cdn.magasin3.com/uploads/2020/03/3_l1996_bn_03_bruce-nauman_life-death-knows-doesnt-know.jpg",
+   "maker": "Bruce Nauman",
+   "title": "Life Death/Knows Doesn't Know",
+   "subtitle": "",
+   "year": "1983",
+   "verified_against": "Magasin III, Stockholm, whose own artwork page reads 'Bruce Nauman, 1941 / Life Death/Knows Doesn't Know / 1983 / 273,10 x 271,80 cm / Private collection'; the file comes off their CDN named for the 1996 exhibition (l1996_bn_03). The picture confirms it: LIFE, DEATH, LOVE, HATE, PLEASURE, PAIN crossed with KNOWS/DOESN'T KNOW, CARES/DOESN'T CARE, MATTERS/DOESN'T MATTER. SFMOMA holds another example (FC.581.A-P, Fisher Collection). ⚠️ The photograph is cropped — the work is very nearly square and this file is 1.27 wide, so the upper arms of the X run off the top edge.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img46/11.jpg",
+   "source_px": [
+    3147,
+    2480
+   ],
+   "colors": [
+    "orange",
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Bruce Nauman"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "medium",
+     "v": "neon"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Magasin III, Stockholm, whose own artwork page reads 'Bruce Nauman, 1941 / Life Death/Knows Doesn't Know / 1983 / 273,10 x 271,80 cm / Private collection'; the file comes off their CDN named for the 1996 exhibition (l1996_bn_03). The picture confirms it: LIFE, DEATH, LOVE, HATE, PLEASURE, PAIN crossed with KNOWS/DOESN'T KNOW, CARES/DOESN'T CARE, MATTERS/DOESN'T MATTER. SFMOMA holds another example (FC.581.A-P, Fisher Collection). ⚠️ The photograph is cropped — the work is very nearly square and this file is 1.27 wide, so the upper arms of the X run off the top edge.",
+   "hue": 6.27,
+   "light": 0.1417,
+   "chroma": 0.1854,
+   "punch": 0.0474
+  },
+  "sent-2026-09-07g::796c694ab619": {
+   "id": "CRVI002393",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002393.jpg",
+   "original_px": [
+    2623,
+    3000
+   ],
+   "original_bytes": 1184772,
+   "identity": "sent-2026-09-07g::796c694ab619",
+   "source_url": "https://cdn.sanity.io/images/cxgd3urn/production/7198a2f1082f95f8be2751d5d29e661a87504ead-2623x3000.jpg?w=1920&h=2196&q=85&fit=crop&auto=format",
+   "maker": "Bruce Nauman",
+   "title": "One Hundred Live and Die",
+   "subtitle": "",
+   "year": "1984",
+   "verified_against": "The work spells itself — four columns of paired phrases, LIVE AND DIE / DIE AND DIE / SING AND DIE, one hundred of them — and matches the published record: neon tubing with clear glass tubing on metal, 118 x 132 1/4 x 21 in. (299.7 x 335.9 x 53.3 cm), Collection Benesse Holdings, Inc. / Benesse House Museum, Naoshima, as catalogued in Schaulager's press material for 'Bruce Nauman: Disappearing Acts', 2018 (photo credited there to Dorothy Zeidman). ⚠️ The file is a bare cdn.sanity.io asset — no page names it, and the hash is not indexed anywhere, so the identification rests on the picture and the catalogue, not the host. Its filename carries the honest master size (2623x3000); the ?w=1920 on the sent link was a downscale.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img46/12.jpg",
+   "source_px": [
+    2623,
+    3000
+   ],
+   "colors": [
+    "pink",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Bruce Nauman"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "medium",
+     "v": "neon"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The work spells itself — four columns of paired phrases, LIVE AND DIE / DIE AND DIE / SING AND DIE, one hundred of them — and matches the published record: neon tubing with clear glass tubing on metal, 118 x 132 1/4 x 21 in. (299.7 x 335.9 x 53.3 cm), Collection Benesse Holdings, Inc. / Benesse House Museum, Naoshima, as catalogued in Schaulager's press material for 'Bruce Nauman: Disappearing Acts', 2018 (photo credited there to Dorothy Zeidman). ⚠️ The file is a bare cdn.sanity.io asset — no page names it, and the hash is not indexed anywhere, so the identification rests on the picture and the catalogue, not the host. Its filename carries the honest master size (2623x3000); the ?w=1920 on the sent link was a downscale.",
+   "hue": 334.1,
+   "light": 0.3649,
+   "chroma": 0.7728,
+   "punch": 0.2469
+  },
+  "sent-2026-09-07g::eb46f5f94982": {
+   "id": "CRVI002394",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002394.jpg",
+   "original_px": [
+    1707,
+    2560
+   ],
+   "original_bytes": 871978,
+   "identity": "sent-2026-09-07g::eb46f5f94982",
+   "source_url": "https://i0.wp.com/traileoni.it/wp-content/uploads/2022/09/zak-7wBFsHWQDlk-unsplash.jpg?fit=1707%2C2560&ssl=1",
+   "maker": "Zak",
+   "title": "Blue, red and pink abstract artwork",
+   "subtitle": "",
+   "year": "2019",
+   "verified_against": "Unsplash photo 7wBFsHWQDlk, by the photographer who publishes there as Zak (@zaks), published 4 February 2019, shot on a Nikon D3400 and titled by Unsplash 'blue, red and pink abstract artwork'. ⚠️ THIS IS NOT A BRUCE NAUMAN. It arrived inside Todd's Nauman group because an Italian blog (traileoni.it) used it as a decorative header; it is a long-exposure light drawing sold as stock, and nothing in it is by Nauman. Recorded under its real maker so the mistake cannot propagate.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img46/13.jpg",
+   "source_px": [
+    1707,
+    2560
+   ],
+   "colors": [
+    "blue",
+    "pink"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Zak"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "photographer",
+     "v": "Zak"
+    },
+    {
+     "k": "subject",
+     "v": "light"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Unsplash photo 7wBFsHWQDlk, by the photographer who publishes there as Zak (@zaks), published 4 February 2019, shot on a Nikon D3400 and titled by Unsplash 'blue, red and pink abstract artwork'. ⚠️ THIS IS NOT A BRUCE NAUMAN. It arrived inside Todd's Nauman group because an Italian blog (traileoni.it) used it as a decorative header; it is a long-exposure light drawing sold as stock, and nothing in it is by Nauman. Recorded under its real maker so the mistake cannot propagate.",
+   "hue": 223.24,
+   "light": 0.1881,
+   "chroma": 0.7438,
+   "punch": 0.2638
+  },
+  "sent-2026-09-07g::d4d1058b80f5": {
+   "id": "CRVI002395",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002395.jpg",
+   "original_px": [
+    1064,
+    901
+   ],
+   "original_bytes": 91073,
+   "identity": "sent-2026-09-07g::d4d1058b80f5",
+   "source_url": "https://www.artforum.com/wp-content/uploads/2018/09/article00_large-97.jpg",
+   "maker": "Bruce Nauman",
+   "title": "Self-Portrait as a Fountain",
+   "subtitle": "",
+   "year": "1966-67",
+   "verified_against": "Artforum hosts the file; the work is one of Nauman's best-documented — Self-Portrait as a Fountain from the portfolio Eleven Color Photographs, 1966-67, printed 1970, chromogenic print, image 19 1/2 x 23 1/4 in. (49.5 x 59.1 cm), sheet 20 1/16 x 23 15/16 in. — in the Whitney (5714) and the Museum of Contemporary Art Chicago among others. The artist, shirtless, arms spread, spouting an arc of water: a reply to Duchamp's Fountain.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img46/15.jpg",
+   "source_px": [
+    1064,
+    901
+   ],
+   "colors": [
+    "orange",
+    "red",
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Bruce Nauman"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "self-portrait"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Artforum hosts the file; the work is one of Nauman's best-documented — Self-Portrait as a Fountain from the portfolio Eleven Color Photographs, 1966-67, printed 1970, chromogenic print, image 19 1/2 x 23 1/4 in. (49.5 x 59.1 cm), sheet 20 1/16 x 23 15/16 in. — in the Whitney (5714) and the Museum of Contemporary Art Chicago among others. The artist, shirtless, arms spread, spouting an arc of water: a reply to Duchamp's Fountain.",
+   "hue": 17.9,
+   "light": 0.2241,
+   "chroma": 0.2969,
+   "punch": 0.1093
+  },
+  "sent-2026-09-07g::6741ee6cc0ae": {
+   "id": "CRVI002396",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002396.jpg",
+   "original_px": [
+    1630,
+    2048
+   ],
+   "original_bytes": 538253,
+   "identity": "sent-2026-09-07g::6741ee6cc0ae",
+   "source_url": "https://static01.nyt.com/images/2018/06/13/arts/13NAUMAN-INYT1/merlin_138874272_5bf9a50c-006a-4720-9151-fe0546f1496c-superJumbo.jpg",
+   "maker": "Bruce Nauman",
+   "title": "Leaping Foxes",
+   "subtitle": "",
+   "year": "2018",
+   "verified_against": "Schaulager's own press caption for the identical file (pixel correlation 1.000 against cdn.schaulager.org/website/11_nauman-leaping-foxes-2018): 'Bruce Nauman: Disappearing Acts, 17 March to 26 August 2018, Schaulager Münchenstein/Basel, installation view with Bruce Nauman, Leaping Foxes, 2018, Polyurethane foam with steel and wire cables, Emanuel Hoffmann Foundation, gift of the president 2018, on permanent loan to the Öffentliche Kunstsammlung Basel, photo: Tom Bisig, Basel.' ⚠️ An INSTALLATION VIEW; the photographer is tagged separately. The New York Times' superJumbo derivative held here (1630x2048) is larger than Schaulager's own press file (500x629).",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img46/16.jpg",
+   "source_px": [
+    1630,
+    2048
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Bruce Nauman"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "photographer",
+     "v": "Tom Bisig"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "medium",
+     "v": "polyurethane foam"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Schaulager's own press caption for the identical file (pixel correlation 1.000 against cdn.schaulager.org/website/11_nauman-leaping-foxes-2018): 'Bruce Nauman: Disappearing Acts, 17 March to 26 August 2018, Schaulager Münchenstein/Basel, installation view with Bruce Nauman, Leaping Foxes, 2018, Polyurethane foam with steel and wire cables, Emanuel Hoffmann Foundation, gift of the president 2018, on permanent loan to the Öffentliche Kunstsammlung Basel, photo: Tom Bisig, Basel.' ⚠️ An INSTALLATION VIEW; the photographer is tagged separately. The New York Times' superJumbo derivative held here (1630x2048) is larger than Schaulager's own press file (500x629).",
+   "hue": 36.86,
+   "light": 0.3496,
+   "chroma": 0.3552,
+   "punch": 0.0771
   }
  }
 }
