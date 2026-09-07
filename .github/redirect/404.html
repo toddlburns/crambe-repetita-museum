@@ -1,0 +1,33 @@
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8">
+<meta name="robots" content="noindex,nofollow">
+<title>Crambe Repetita Museum has moved</title>
+<style>
+ html{-webkit-text-size-adjust:100%}
+ body{margin:0;min-height:100vh;display:flex;align-items:center;justify-content:center;
+      background:#fff;color:#111;font:16px/1.6 "Times New Roman",Times,serif;padding:2rem}
+ main{max-width:34rem;text-align:center}
+ a{color:#111}
+</style>
+</head><body><main>
+<p>The Crambe Repetita Museum has moved to
+<a id="to" href="https://crambe-repetita-museum.pages.dev/">crambe-repetita-museum.pages.dev</a>.</p>
+<p>Taking you to the same page there&hellip;</p>
+</main>
+<script>
+// GitHub Pages serves this file for every path under /crambe-repetita-museum/ that no longer
+// exists — which, now that the site is two files, is every old item and tag URL. Carry the
+// path across so a bookmark to CRVI001234 still lands on CRVI001234.
+(function () {
+  var NEW = "https://crambe-repetita-museum.pages.dev/";
+  var BASE = "/crambe-repetita-museum/";
+  var p = location.pathname;
+  var rest = p.indexOf(BASE) === 0 ? p.slice(BASE.length) : "";
+  // Never forward a path that tries to climb out of the new origin.
+  if (rest.indexOf("//") === 0 || rest.indexOf("..") !== -1) rest = "";
+  var url = NEW + rest + location.search + location.hash;
+  document.getElementById("to").href = url;
+  location.replace(url);
+})();
+</script>
+</body></html>

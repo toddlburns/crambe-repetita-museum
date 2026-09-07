@@ -1,0 +1,44 @@
+# Leaves a forwarding address at toddlburns.com/crambe-repetita-museum/.
+#
+# The museum moved to Cloudflare Pages on 2026-09-06 because its payload passed GitHub Pages'
+# 1 GB cap. The old deployment stayed live and frozen at 2,197 items, so every existing link and
+# bookmark pointed at a stale archive with nothing saying so. This replaces that site with two
+# files: an index that redirects, and a 404 that GitHub serves for every other path under
+# /crambe-repetita-museum/ and which forwards WITH THE PATH INTACT — so /CRVI001234 still lands
+# on /CRVI001234 at the new host.
+#
+# ⚠️ Deploying this REPLACES the full site that is currently published. pages.yml still exists and
+# can put the whole museum back, but only if the payload is ever under 1 GB again.
+name: Pages redirect
+
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .github/redirect        # two files, not the 1.1 GB museum
+
+      - id: deployment
+        uses: actions/deploy-pages@v4
