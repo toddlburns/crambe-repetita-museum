@@ -144831,10 +144831,10 @@
    "minted": "2026-09-07",
    "original_file": "originals/CRVI002484.jpg",
    "original_px": [
-    2048,
-    2048
+    1857,
+    1848
    ],
-   "original_bytes": 482360,
+   "original_bytes": 1125322,
    "identity": "sent-2026-09-07q::5dd559362c46",
    "source_url": "https://yourvinylshop.com/cdn/shop/files/vintage-vinyl-records-1769_dfa9944c-a502-4bda-9996-c68176d0d538_1200x1200.jpg",
    "maker": "Ray Barretto",
@@ -144842,12 +144842,12 @@
    "subtitle": "",
    "year": "1973",
    "label": "Fania Records",
-   "verified_against": "The sleeve, which prints 'RAY BARRETTO / THE OTHER ROAD' over an airbrushed road running into violet mountains. Discogs: Fania Records SLPF 00448, 1973. ⚠️ No art credit is recorded for it. This file is a 2048px Shopify master from a record shop, not Fania's own.",
+   "verified_against": "The sleeve, which prints 'RAY BARRETTO / THE OTHER ROAD' over an airbrushed road running into violet mountains. Discogs: Fania Records SLPF 00448, 1973. ⚠️ No art credit is recorded for it. This file is a 2048px Shopify master from a record shop, not Fania's own — a photograph of the jacket leaning against a record shelf. ⚠️ CROPPED to the jacket at Todd's instruction (2026-09-07, 'crop this closer'), 2048x2048 -> 1857x1848: the blurred shelf and the wooden surface are gone. The sleeve was found by EDGE ENERGY, not brightness or colour — the background is out of focus and the jacket is not, where a brightness test fails on the dark purple left edge and a colour test fails on the warm wooden table.",
    "notes": [],
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img56/18.jpg",
    "source_px": [
-    2048,
-    2048
+    1857,
+    1848
    ],
    "colors": [
     "red",
@@ -144877,11 +144877,11 @@
    ],
    "identity_established": true,
    "published": true,
-   "verification": "The sleeve, which prints 'RAY BARRETTO / THE OTHER ROAD' over an airbrushed road running into violet mountains. Discogs: Fania Records SLPF 00448, 1973. ⚠️ No art credit is recorded for it. This file is a 2048px Shopify master from a record shop, not Fania's own.",
-   "hue": 6.73,
-   "light": 0.3245,
-   "chroma": 0.6754,
-   "punch": 0.2125
+   "verification": "The sleeve, which prints 'RAY BARRETTO / THE OTHER ROAD' over an airbrushed road running into violet mountains. Discogs: Fania Records SLPF 00448, 1973. ⚠️ No art credit is recorded for it. This file is a 2048px Shopify master from a record shop, not Fania's own — a photograph of the jacket leaning against a record shelf. ⚠️ CROPPED to the jacket at Todd's instruction (2026-09-07, 'crop this closer'), 2048x2048 -> 1857x1848: the blurred shelf and the wooden surface are gone. The sleeve was found by EDGE ENERGY, not brightness or colour — the background is out of focus and the jacket is not, where a brightness test fails on the dark purple left edge and a colour test fails on the warm wooden table.",
+   "hue": 12.56,
+   "light": 0.3409,
+   "chroma": 0.744,
+   "punch": 0.2376
   },
   "sent-2026-09-07q::8d9b7e7bbb3a": {
    "id": "CRVI002485",

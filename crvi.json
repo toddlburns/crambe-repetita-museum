@@ -131257,7 +131257,7 @@
    "id": "CRVI002484",
    "published": true,
    "minted": "2026-09-07",
-   "punch": 0.2125,
+   "punch": 0.2376,
    "source_url": "https://yourvinylshop.com/cdn/shop/files/vintage-vinyl-records-1769_dfa9944c-a502-4bda-9996-c68176d0d538_1200x1200.jpg",
    "animated": false,
    "video": false,
@@ -131267,10 +131267,10 @@
    "original": "originals/CRVI002484.jpg",
    "vector": "",
    "original_px": [
-    2048,
-    2048
+    1857,
+    1848
    ],
-   "original_bytes": 482360,
+   "original_bytes": 1125322,
    "maker": "Ray Barretto",
    "title": "The Other Road",
    "subtitle": "",
@@ -131305,9 +131305,9 @@
      "v": "green"
     }
    ],
-   "hue": 6.73,
-   "light": 0.3245,
-   "chroma": 0.6754
+   "hue": 12.56,
+   "light": 0.3409,
+   "chroma": 0.744
   },
   {
    "id": "CRVI002485",
