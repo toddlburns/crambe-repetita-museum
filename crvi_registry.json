@@ -1,5 +1,5 @@
 {
- "next": 2435,
+ "next": 2468,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -141985,6 +141985,1876 @@
    "light": 0.7943,
    "chroma": 0.2658,
    "punch": 0.095
+  },
+  "sent-2026-09-07m::afa99ee05866": {
+   "id": "CRVI002435",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002435.jpg",
+   "original_px": [
+    1260,
+    840
+   ],
+   "original_bytes": 811609,
+   "identity": "sent-2026-09-07m::afa99ee05866",
+   "source_url": "http://non-format.com/uploads/images/Branding/nyMusikk/H%C3%B8st_2025/h%C3%B8st2025-01.jpg",
+   "source_page": "http://non-format.com/hoest-2025",
+   "maker": "Non-Format",
+   "title": "nyMusikk — Høst 2025",
+   "subtitle": "",
+   "year": "2025",
+   "verified_against": "Non-Format's own project page (non-format.com/hoest-2025), which captions it: 'A5 flyer and poster promoting nyMusikk's høst (autumn) 2025 season of events. Created in partnership with ANTI Oslo.' Filed there under client nyMusikk, 2025, as 'Høst 2025 — A5 flyer'. The sheet shows both sides: an orange front with a cassette photographed above the word HØST built from ruled modular strokes, and a listings back.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img52/01.jpg",
+   "source_px": [
+    1260,
+    840
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "designer",
+     "v": "Non-Format"
+    },
+    {
+     "k": "client",
+     "v": "nyMusikk"
+    },
+    {
+     "k": "location",
+     "v": "Norway"
+    },
+    {
+     "k": "subject",
+     "v": "typography"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Non-Format's own project page (non-format.com/hoest-2025), which captions it: 'A5 flyer and poster promoting nyMusikk's høst (autumn) 2025 season of events. Created in partnership with ANTI Oslo.' Filed there under client nyMusikk, 2025, as 'Høst 2025 — A5 flyer'. The sheet shows both sides: an orange front with a cassette photographed above the word HØST built from ruled modular strokes, and a listings back.",
+   "hue": 22.45,
+   "light": 0.5465,
+   "chroma": 0.6407,
+   "punch": 0.3834
+  },
+  "sent-2026-09-07m::fa8a90c65ff7": {
+   "id": "CRVI002436",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002436.jpg",
+   "original_px": [
+    1260,
+    840
+   ],
+   "original_bytes": 748035,
+   "identity": "sent-2026-09-07m::fa8a90c65ff7",
+   "source_url": "http://non-format.com/uploads/images/Branding/nyMusikk/V%C3%A5r_2025/va%CC%8Ar2025-01.jpg",
+   "source_page": "http://non-format.com/nymusikk-var-2025",
+   "maker": "Non-Format",
+   "title": "nyMusikk — Vår 2025",
+   "subtitle": "",
+   "year": "2025",
+   "verified_against": "Non-Format's own project page (non-format.com/nymusikk-var-2025): 'A5 flyer and poster promoting nyMusikk's vår (spring) season of events. Created in partnership with ANTI Oslo.' Filed under client nyMusikk, 2025, as 'Vår 2025 — A5 flyer'. Front and back: a green, orange and violet gradient illustration of stems and a sun against a listings sheet. ⚠️ The project slug is `nymusikk-var-2025`, not the `Vår_2025` in the image path.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img52/02.jpg",
+   "source_px": [
+    1260,
+    840
+   ],
+   "colors": [
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "designer",
+     "v": "Non-Format"
+    },
+    {
+     "k": "client",
+     "v": "nyMusikk"
+    },
+    {
+     "k": "location",
+     "v": "Norway"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Non-Format's own project page (non-format.com/nymusikk-var-2025): 'A5 flyer and poster promoting nyMusikk's vår (spring) season of events. Created in partnership with ANTI Oslo.' Filed under client nyMusikk, 2025, as 'Vår 2025 — A5 flyer'. Front and back: a green, orange and violet gradient illustration of stems and a sun against a listings sheet. ⚠️ The project slug is `nymusikk-var-2025`, not the `Vår_2025` in the image path.",
+   "hue": 144.42,
+   "light": 0.7526,
+   "chroma": 0.3217,
+   "punch": 0.1153
+  },
+  "sent-2026-09-07m::cfa564d1457c": {
+   "id": "CRVI002437",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002437.jpg",
+   "original_px": [
+    1260,
+    840
+   ],
+   "original_bytes": 631374,
+   "identity": "sent-2026-09-07m::cfa564d1457c",
+   "source_url": "http://non-format.com/uploads/images/Music/Lara_Jones/Dome/dome-01.jpg",
+   "source_page": "http://non-format.com/lara-jones-dome",
+   "maker": "Non-Format",
+   "title": "Lara Jones — Dome",
+   "subtitle": "",
+   "year": "2024",
+   "verified_against": "Non-Format's own project page (non-format.com/lara-jones-dome): 'Cassette packaging for Dome by Lara Jones, released by Lo Recordings as part of their Spaciousness series. Produced in partnership with ANTI, Oslo.' Filed under Lo Recordings, 2024, as 'Music packaging'. The shot shows the J-card and the shell: DOME set as four glyphs on a dark blue-black ground.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img52/03.jpg",
+   "source_px": [
+    1260,
+    840
+   ],
+   "colors": [
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "designer",
+     "v": "Non-Format"
+    },
+    {
+     "k": "musician",
+     "v": "Lara Jones"
+    },
+    {
+     "k": "label",
+     "v": "Lo Recordings"
+    },
+    {
+     "k": "location",
+     "v": "Norway"
+    },
+    {
+     "k": "subject",
+     "v": "typography"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Non-Format's own project page (non-format.com/lara-jones-dome): 'Cassette packaging for Dome by Lara Jones, released by Lo Recordings as part of their Spaciousness series. Produced in partnership with ANTI, Oslo.' Filed under Lo Recordings, 2024, as 'Music packaging'. The shot shows the J-card and the shell: DOME set as four glyphs on a dark blue-black ground.",
+   "hue": 178.65,
+   "light": 0.5805,
+   "chroma": 0.4628,
+   "punch": 0.1736
+  },
+  "sent-2026-09-07m::64eaa39c80ea": {
+   "id": "CRVI002438",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002438.jpg",
+   "original_px": [
+    1260,
+    840
+   ],
+   "original_bytes": 412390,
+   "identity": "sent-2026-09-07m::64eaa39c80ea",
+   "source_url": "http://non-format.com/uploads/images/Music/Francis_Morning/subtle-bodies-01.jpg",
+   "source_page": "http://non-format.com/francis-morning-subtle-bodies",
+   "maker": "Non-Format",
+   "title": "Francis Morning — Subtle Bodies",
+   "subtitle": "",
+   "year": "2024",
+   "verified_against": "Non-Format's own project page (non-format.com/francis-morning-subtle-bodies): 'Cassette packaging for Subtle Bodies by Francis Morning, released by Lo Recordings as part of their Spaciousness series. Cover image by Francis Morning. Created in partnership with ANTI, Oslo.' ⚠️ THE COVER IMAGE IS THE MUSICIAN'S OWN, not Non-Format's — the studio designed the packaging and says so. Both are credited here in their own roles.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img52/04.jpg",
+   "source_px": [
+    1260,
+    840
+   ],
+   "colors": [
+    "cyan",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "designer",
+     "v": "Non-Format"
+    },
+    {
+     "k": "artist",
+     "v": "Francis Morning"
+    },
+    {
+     "k": "musician",
+     "v": "Francis Morning"
+    },
+    {
+     "k": "label",
+     "v": "Lo Recordings"
+    },
+    {
+     "k": "location",
+     "v": "Norway"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Non-Format's own project page (non-format.com/francis-morning-subtle-bodies): 'Cassette packaging for Subtle Bodies by Francis Morning, released by Lo Recordings as part of their Spaciousness series. Cover image by Francis Morning. Created in partnership with ANTI, Oslo.' ⚠️ THE COVER IMAGE IS THE MUSICIAN'S OWN, not Non-Format's — the studio designed the packaging and says so. Both are credited here in their own roles.",
+   "hue": 175.79,
+   "light": 0.7214,
+   "chroma": 0.4606,
+   "punch": 0.1126
+  },
+  "sent-2026-09-07n::8cff60d18877": {
+   "id": "CRVI002439",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002439.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 2308541,
+   "identity": "sent-2026-09-07n::8cff60d18877",
+   "source_url": "https://www.discrepant.net/wp-content/uploads/2019/11/SUC28_TSG_HD.jpg",
+   "maker": "The Aetherius Appreciation Society Presents The Silent Group",
+   "title": "Accelerated Evolution Music",
+   "subtitle": "",
+   "year": "2020",
+   "verified_against": "Discrepant's own file, named for the catalogue number SUC28, which resolves on Discogs to 'The Aetherius Appreciation Society Presents The Silent Group — Accelerated Evolution Music, Sucata Tapes SUC28, 2020', crediting ARTWORK to Zeke Clough. At 3000x3000 it is the largest file in the batch: a night city of ziggurats with a figure firing a syringe-rocket.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img53/01.jpg",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "cyan",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "illustrator",
+     "v": "Zeke Clough"
+    },
+    {
+     "k": "label",
+     "v": "Sucata Tapes"
+    },
+    {
+     "k": "musician",
+     "v": "The Silent Group"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Discrepant's own file, named for the catalogue number SUC28, which resolves on Discogs to 'The Aetherius Appreciation Society Presents The Silent Group — Accelerated Evolution Music, Sucata Tapes SUC28, 2020', crediting ARTWORK to Zeke Clough. At 3000x3000 it is the largest file in the batch: a night city of ziggurats with a figure firing a syringe-rocket.",
+   "hue": 188.79,
+   "light": 0.298,
+   "chroma": 0.3325,
+   "punch": 0.0721
+  },
+  "sent-2026-09-07n::10fec3c98b7d": {
+   "id": "CRVI002440",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002440.jpg",
+   "original_px": [
+    1400,
+    1400
+   ],
+   "original_bytes": 2010307,
+   "identity": "sent-2026-09-07n::10fec3c98b7d",
+   "source_url": "https://freight.cargo.site/t/original/i/14782f830c56801125951c97b6427d2201c503033208a231ba62dc95649340cd/a.jpg",
+   "maker": "Zeke Clough",
+   "title": "Black-and-white boulder of coiled forms",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "⚠️ NOTHING IS ESTABLISHED BUT THE MAKER. The file is a bare Cargo Collective asset under a hash filename with no page text; the drawing carries no lettering. The attribution rests on Todd's grouping, sent 2026-09-07 under 'Zeke Clough', and on the hand — the same dense cross-hatched biomorphic mass as the signed work in this batch. The title is descriptive.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img53/02.jpg",
+   "source_px": [
+    1400,
+    1400
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "illustrator",
+     "v": "Zeke Clough"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ NOTHING IS ESTABLISHED BUT THE MAKER. The file is a bare Cargo Collective asset under a hash filename with no page text; the drawing carries no lettering. The attribution rests on Todd's grouping, sent 2026-09-07 under 'Zeke Clough', and on the hand — the same dense cross-hatched biomorphic mass as the signed work in this batch. The title is descriptive.",
+   "hue": null,
+   "light": 0.5014,
+   "chroma": 0.0,
+   "punch": 0.0
+  },
+  "sent-2026-09-07n::572f3ef6fbf3": {
+   "id": "CRVI002441",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002441.jpg",
+   "original_px": [
+    1000,
+    1000
+   ],
+   "original_bytes": 622165,
+   "identity": "sent-2026-09-07n::572f3ef6fbf3",
+   "source_url": "https://www.maraid.co.uk/images/blog/2015/08/Zeke-Clough-2a.jpg",
+   "maker": "Zeke Clough",
+   "title": "Yellow figure among machine parts",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "⚠️ NOTHING IS ESTABLISHED BUT THE MAKER. A blog image with no caption reachable and no lettering in the drawing; the maraid.co.uk post it belonged to is gone (its 2015 archive URLs 404 now). The attribution rests on Todd's grouping and on the hand. The title is descriptive.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img53/05.jpg",
+   "source_px": [
+    1000,
+    1000
+   ],
+   "colors": [
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "illustrator",
+     "v": "Zeke Clough"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ NOTHING IS ESTABLISHED BUT THE MAKER. A blog image with no caption reachable and no lettering in the drawing; the maraid.co.uk post it belonged to is gone (its 2015 archive URLs 404 now). The attribution rests on Todd's grouping and on the hand. The title is descriptive.",
+   "hue": 55.68,
+   "light": 0.6361,
+   "chroma": 0.6767,
+   "punch": 0.2231
+  },
+  "sent-2026-09-07n::9b19d723ebc3": {
+   "id": "CRVI002442",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002442.jpg",
+   "original_px": [
+    1000,
+    1014
+   ],
+   "original_bytes": 453706,
+   "identity": "sent-2026-09-07n::9b19d723ebc3",
+   "source_url": "https://www.maraid.co.uk/images/blog/2015/08/Zeke-Clough-11b.jpg",
+   "maker": "Shackleton",
+   "title": "Soundboy's Suicide Note (back cover)",
+   "subtitle": "",
+   "year": "2008",
+   "verified_against": "THE SLEEVE ITSELF, which prints 'ART BY CRIPPA/KALMQVIST & ZEKE S. CLOUGH' in the top right and 'MANUFACTURED AND DISTRIBUTED BY M.T. HOLDINGS LTD. WWW.ATMOSPHERIK.CO.UK' at the foot, with the track titles 'THE ROPE TIGHTENS BUT THE BRANCH IS WEAK', 'IN THE VOID' and 'SHORT WAVE'. Discogs confirms: Shackleton, Soundboy's Suicide Note, Skull Disco SKULL:010, 2008, Artwork by Crippaxxxalmqvist and Zeke Clough. ⚠️ CO-CREDITED — not Clough alone.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img53/03.jpg",
+   "source_px": [
+    1000,
+    1014
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    },
+    {
+     "k": "illustrator",
+     "v": "Zeke Clough"
+    },
+    {
+     "k": "illustrator",
+     "v": "Crippaxxxalmqvist"
+    },
+    {
+     "k": "musician",
+     "v": "Shackleton"
+    },
+    {
+     "k": "label",
+     "v": "Skull Disco"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SLEEVE ITSELF, which prints 'ART BY CRIPPA/KALMQVIST & ZEKE S. CLOUGH' in the top right and 'MANUFACTURED AND DISTRIBUTED BY M.T. HOLDINGS LTD. WWW.ATMOSPHERIK.CO.UK' at the foot, with the track titles 'THE ROPE TIGHTENS BUT THE BRANCH IS WEAK', 'IN THE VOID' and 'SHORT WAVE'. Discogs confirms: Shackleton, Soundboy's Suicide Note, Skull Disco SKULL:010, 2008, Artwork by Crippaxxxalmqvist and Zeke Clough. ⚠️ CO-CREDITED — not Clough alone.",
+   "hue": null,
+   "light": 0.7542,
+   "chroma": 0.0,
+   "punch": 0.0
+  },
+  "sent-2026-09-07n::7540a720067d": {
+   "id": "CRVI002443",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002443.jpg",
+   "original_px": [
+    1000,
+    1000
+   ],
+   "original_bytes": 599130,
+   "identity": "sent-2026-09-07n::7540a720067d",
+   "source_url": "https://www.maraid.co.uk/images/blog/2015/08/Zeke-Clough-3a.jpg",
+   "maker": "Ekoplekz",
+   "title": "Reflekzionz",
+   "subtitle": "",
+   "year": "2015",
+   "verified_against": "THE ARTWORK'S OWN STICKER, a magenta disc printed 'EKOPLEKZ / REFLEKZIONZ / ZIQ358', which Discogs resolves to Ekoplekz, Reflekzionz, Planet Mu ZIQ358, 2015. ⚠️ DISCOGS CARRIES NO ART CREDIT for this release, so the illustrator rests on Todd's naming (sent under 'Zeke Clough') and on the hand, not on a source.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img53/04.jpg",
+   "source_px": [
+    1000,
+    1000
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "illustrator",
+     "v": "Zeke Clough"
+    },
+    {
+     "k": "musician",
+     "v": "Ekoplekz"
+    },
+    {
+     "k": "label",
+     "v": "Planet Mu"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE ARTWORK'S OWN STICKER, a magenta disc printed 'EKOPLEKZ / REFLEKZIONZ / ZIQ358', which Discogs resolves to Ekoplekz, Reflekzionz, Planet Mu ZIQ358, 2015. ⚠️ DISCOGS CARRIES NO ART CREDIT for this release, so the illustrator rests on Todd's naming (sent under 'Zeke Clough') and on the hand, not on a source.",
+   "hue": 345.48,
+   "light": 0.7641,
+   "chroma": 0.7674,
+   "punch": 0.2184
+  },
+  "sent-2026-09-07n::5e780e3296ca": {
+   "id": "CRVI002444",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002444.jpg",
+   "original_px": [
+    1000,
+    1016
+   ],
+   "original_bytes": 358172,
+   "identity": "sent-2026-09-07n::5e780e3296ca",
+   "source_url": "https://www.maraid.co.uk/images/blog/2015/08/Zeke-Clough-11a.jpg",
+   "maker": "Shackleton",
+   "title": "Soundboy's Suicide Note",
+   "subtitle": "",
+   "year": "2008",
+   "verified_against": "THE SLEEVE ITSELF, which prints SKULL DISCO / SOUNDBOY'S SUICIDE NOTE across the top and 'FUCK THE WORLD' on a banner held by the central skeleton. Discogs: Shackleton, Soundboy's Suicide Note, Skull Disco SKULL:010, 2008, Artwork by Crippaxxxalmqvist and Zeke Clough — the same credit printed on the back of this record, which is item CRVI-adjacent in this batch. ⚠️ CO-CREDITED.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img53/06.jpg",
+   "source_px": [
+    1000,
+    1016
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    },
+    {
+     "k": "illustrator",
+     "v": "Zeke Clough"
+    },
+    {
+     "k": "illustrator",
+     "v": "Crippaxxxalmqvist"
+    },
+    {
+     "k": "musician",
+     "v": "Shackleton"
+    },
+    {
+     "k": "label",
+     "v": "Skull Disco"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SLEEVE ITSELF, which prints SKULL DISCO / SOUNDBOY'S SUICIDE NOTE across the top and 'FUCK THE WORLD' on a banner held by the central skeleton. Discogs: Shackleton, Soundboy's Suicide Note, Skull Disco SKULL:010, 2008, Artwork by Crippaxxxalmqvist and Zeke Clough — the same credit printed on the back of this record, which is item CRVI-adjacent in this batch. ⚠️ CO-CREDITED.",
+   "hue": null,
+   "light": 0.7406,
+   "chroma": 0.0,
+   "punch": 0.0
+  },
+  "sent-2026-09-07n::74432ca09a01": {
+   "id": "CRVI002445",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002445.jpg",
+   "original_px": [
+    1400,
+    1400
+   ],
+   "original_bytes": 1184994,
+   "identity": "sent-2026-09-07n::74432ca09a01",
+   "source_url": "https://planet.mu/wp-content/uploads/2016/03/ZIQ338_Ekoplekz.jpg",
+   "maker": "Ekoplekz",
+   "title": "Unfidelity",
+   "subtitle": "",
+   "year": "2014",
+   "verified_against": "Planet Mu's own file, named ZIQ338_Ekoplekz, and the artwork's own sticker printed 'EKOPLEKZ / UNFIDELITY / ZIQ338'; Discogs gives Ekoplekz, Unfidelity, Planet Mu ZIQ338, 2014. ⚠️ DISCOGS CARRIES NO ART CREDIT, so the illustrator rests on Todd's naming and on the hand — the same teal-and-yellow machine-creature idiom as Reflekzionz in this batch.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img53/07.jpg",
+   "source_px": [
+    1400,
+    1400
+   ],
+   "colors": [
+    "cyan",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "illustrator",
+     "v": "Zeke Clough"
+    },
+    {
+     "k": "musician",
+     "v": "Ekoplekz"
+    },
+    {
+     "k": "label",
+     "v": "Planet Mu"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Planet Mu's own file, named ZIQ338_Ekoplekz, and the artwork's own sticker printed 'EKOPLEKZ / UNFIDELITY / ZIQ338'; Discogs gives Ekoplekz, Unfidelity, Planet Mu ZIQ338, 2014. ⚠️ DISCOGS CARRIES NO ART CREDIT, so the illustrator rests on Todd's naming and on the hand — the same teal-and-yellow machine-creature idiom as Reflekzionz in this batch.",
+   "hue": 55.03,
+   "light": 0.6674,
+   "chroma": 0.4874,
+   "punch": 0.1591
+  },
+  "sent-2026-09-07o::13b39affb3a2": {
+   "id": "CRVI002446",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002446.jpg",
+   "original_px": [
+    2000,
+    1324
+   ],
+   "original_bytes": 835950,
+   "identity": "sent-2026-09-07o::13b39affb3a2",
+   "source_url": "https://www.pacegallery.com/media/images/53613.width-2000.jpg",
+   "maker": "Roberto Matta",
+   "title": "Comment une conscience se fait univers (peut être)",
+   "subtitle": "",
+   "year": "1992",
+   "verified_against": "Pace Gallery, which represents the Matta estate and captions this exact file (53613): 'Roberto Matta, Comment une conscience se fait univers (peut être), 1992, oil on canvas, 10' 1/8\" x 15' 4-1/4\" (305.1 cm x 468 cm), © 2019 Artists Rights Society (ARS), New York'. The file's 1.51 aspect ratio matches the canvas's 468/305.1 = 1.53.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img54/01.jpg",
+   "source_px": [
+    2000,
+    1324
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Roberto Matta"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "location",
+     "v": "Chile"
+    },
+    {
+     "k": "subject",
+     "v": "Surrealism"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Pace Gallery, which represents the Matta estate and captions this exact file (53613): 'Roberto Matta, Comment une conscience se fait univers (peut être), 1992, oil on canvas, 10' 1/8\" x 15' 4-1/4\" (305.1 cm x 468 cm), © 2019 Artists Rights Society (ARS), New York'. The file's 1.51 aspect ratio matches the canvas's 468/305.1 = 1.53.",
+   "hue": 224.62,
+   "light": 0.5433,
+   "chroma": 0.7214,
+   "punch": 0.2609
+  },
+  "sent-2026-09-07o::f98f802a05d5": {
+   "id": "CRVI002447",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002447.jpg",
+   "original_px": [
+    2000,
+    1363
+   ],
+   "original_bytes": 1206872,
+   "identity": "sent-2026-09-07o::f98f802a05d5",
+   "source_url": "https://sothebys-brightspot-migration.s3.amazonaws.com/24/8b/a2/d01a3c0f8d8592040e23ffa7c30c9de3d0b4e18c2e990c86b2c1cdf9f7/359pf1716-9m2ng-1.jpg",
+   "maker": "Roberto Matta",
+   "title": "Ochre construction with hooked forms",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "⚠️ THE TITLE IS DESCRIPTIVE AND THE YEAR IS NOT ESTABLISHED. The file is an auction-house image with no lot text attached to it; the host is Sotheby's own S3 store and the filename is only a lot code, 359pf1716. Matta worked in this idiom for five decades, so dating it from the picture would be a guess.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img54/02.jpg",
+   "source_px": [
+    2000,
+    1363
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Roberto Matta"
+    },
+    {
+     "k": "location",
+     "v": "Chile"
+    },
+    {
+     "k": "subject",
+     "v": "Surrealism"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ THE TITLE IS DESCRIPTIVE AND THE YEAR IS NOT ESTABLISHED. The file is an auction-house image with no lot text attached to it; the host is Sotheby's own S3 store and the filename is only a lot code, 359pf1716. Matta worked in this idiom for five decades, so dating it from the picture would be a guess.",
+   "hue": 38.52,
+   "light": 0.4349,
+   "chroma": 0.8387,
+   "punch": 0.3266
+  },
+  "sent-2026-09-07o::508fb92a14c7": {
+   "id": "CRVI002448",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002448.jpg",
+   "original_px": [
+    2000,
+    1554
+   ],
+   "original_bytes": 673959,
+   "identity": "sent-2026-09-07o::508fb92a14c7",
+   "source_url": "https://www.moma.org/media/W1siZiIsIjE1MTQ0MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=60fc6f79c608247b",
+   "maker": "Roberto Matta",
+   "title": "The Vertigo of Eros",
+   "subtitle": "",
+   "year": "1944",
+   "verified_against": "MoMA, object 78651 — 'Roberto Matta. The Vertigo of Eros. 1944'. Identified by matching MoMA media file 151443 against the og:image of the works its Matta search returns; this one is among the museum's best-known Surrealist holdings.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img54/03.jpg",
+   "source_px": [
+    2000,
+    1554
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Roberto Matta"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    },
+    {
+     "k": "location",
+     "v": "Chile"
+    },
+    {
+     "k": "subject",
+     "v": "Surrealism"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "MoMA, object 78651 — 'Roberto Matta. The Vertigo of Eros. 1944'. Identified by matching MoMA media file 151443 against the og:image of the works its Matta search returns; this one is among the museum's best-known Surrealist holdings.",
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Surrealism"
+    }
+   ],
+   "hue": 55.13,
+   "light": 0.1854,
+   "chroma": 0.1626,
+   "punch": 0.047
+  },
+  "sent-2026-09-07o::cef1fa06ad20": {
+   "id": "CRVI002449",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002449.jpg",
+   "original_px": [
+    2000,
+    1508
+   ],
+   "original_bytes": 1218096,
+   "identity": "sent-2026-09-07o::cef1fa06ad20",
+   "source_url": "https://sothebys-brightspot-migration.s3.amazonaws.com/b8/b8/33/0213690226c475251142a27afdfe74407e1ec18038dee4e12085cb288c/091pf1805-9s359-1.jpg",
+   "maker": "Roberto Matta",
+   "title": "Grey field with red mechanical figures",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "⚠️ THE TITLE IS DESCRIPTIVE AND THE YEAR IS NOT ESTABLISHED. The file is an auction-house image with no lot text attached to it; the host is Sotheby's own S3 store and the filename is only a lot code, 091pf1805. Matta worked in this idiom for five decades, so dating it from the picture would be a guess.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img54/04.jpg",
+   "source_px": [
+    2000,
+    1508
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Roberto Matta"
+    },
+    {
+     "k": "location",
+     "v": "Chile"
+    },
+    {
+     "k": "subject",
+     "v": "Surrealism"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ THE TITLE IS DESCRIPTIVE AND THE YEAR IS NOT ESTABLISHED. The file is an auction-house image with no lot text attached to it; the host is Sotheby's own S3 store and the filename is only a lot code, 091pf1805. Matta worked in this idiom for five decades, so dating it from the picture would be a guess.",
+   "hue": 18.38,
+   "light": 0.5294,
+   "chroma": 0.2284,
+   "punch": 0.0813
+  },
+  "sent-2026-09-07o::708f3251ffa2": {
+   "id": "CRVI002450",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002450.jpg",
+   "original_px": [
+    2000,
+    1553
+   ],
+   "original_bytes": 1653052,
+   "identity": "sent-2026-09-07o::708f3251ffa2",
+   "source_url": "https://sothebys-brightspot-migration.s3.amazonaws.com/93/a5/3d/5854f0430c54b9bac187cf27f2c32c737d6dada02cad4e8b8b4fa8ec4a/153pf1305-6tmwn-1.jpg",
+   "maker": "Roberto Matta",
+   "title": "Magenta and green burst",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "⚠️ THE TITLE IS DESCRIPTIVE AND THE YEAR IS NOT ESTABLISHED. The file is an auction-house image with no lot text attached to it; the host is Sotheby's own S3 store and the filename is only a lot code, 153pf1305. Matta worked in this idiom for five decades, so dating it from the picture would be a guess.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img54/05.jpg",
+   "source_px": [
+    2000,
+    1553
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Roberto Matta"
+    },
+    {
+     "k": "location",
+     "v": "Chile"
+    },
+    {
+     "k": "subject",
+     "v": "Surrealism"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ THE TITLE IS DESCRIPTIVE AND THE YEAR IS NOT ESTABLISHED. The file is an auction-house image with no lot text attached to it; the host is Sotheby's own S3 store and the filename is only a lot code, 153pf1305. Matta worked in this idiom for five decades, so dating it from the picture would be a guess.",
+   "hue": 35.37,
+   "light": 0.298,
+   "chroma": 0.5824,
+   "punch": 0.1299
+  },
+  "sent-2026-09-07o::97b23468ad7e": {
+   "id": "CRVI002451",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002451.jpg",
+   "original_px": [
+    1600,
+    1059
+   ],
+   "original_bytes": 435193,
+   "identity": "sent-2026-09-07o::97b23468ad7e",
+   "source_url": "https://cdn.britannica.com/93/261193-050-E3569261/How-Ever-1947-by-Roberto-Matta-in-the-Stedelijk-Museum-Amsterdam.jpg",
+   "maker": "Roberto Matta",
+   "title": "How Ever",
+   "subtitle": "",
+   "year": "1947",
+   "verified_against": "Britannica, whose file for this image is named in full: `How-Ever-1947-by-Roberto-Matta-in-the-Stedelijk-Museum-Amsterdam.jpg` — i.e. Roberto Matta, How Ever, 1947, Stedelijk Museum, Amsterdam. ⚠️ That is Britannica's caption carried in a filename rather than a museum record; the medium and dimensions are not established here.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img54/06.jpg",
+   "source_px": [
+    1600,
+    1059
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Roberto Matta"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    },
+    {
+     "k": "location",
+     "v": "Chile"
+    },
+    {
+     "k": "subject",
+     "v": "Surrealism"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Britannica, whose file for this image is named in full: `How-Ever-1947-by-Roberto-Matta-in-the-Stedelijk-Museum-Amsterdam.jpg` — i.e. Roberto Matta, How Ever, 1947, Stedelijk Museum, Amsterdam. ⚠️ That is Britannica's caption carried in a filename rather than a museum record; the medium and dimensions are not established here.",
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Surrealism"
+    }
+   ],
+   "hue": 51.87,
+   "light": 0.3749,
+   "chroma": 0.5306,
+   "punch": 0.154
+  },
+  "sent-2026-09-07o::db701c4362b1": {
+   "id": "CRVI002452",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002452.jpg",
+   "original_px": [
+    1500,
+    1167
+   ],
+   "original_bytes": 291942,
+   "identity": "sent-2026-09-07o::db701c4362b1",
+   "source_url": "https://cellar-c2.services.clever-cloud.com/medias.piasa.amphibee.fr/images/628787_638e09d3998424.62433122.jpg",
+   "maker": "Roberto Matta",
+   "title": "Yellow and green architecture of figures",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "⚠️ THE TITLE IS DESCRIPTIVE AND THE YEAR IS NOT ESTABLISHED. The file is an auction-house image with no lot text attached to it; the host is PIASA's media store and the filename is a numeric id. Matta worked in this idiom for five decades, so dating it from the picture would be a guess.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img54/07.jpg",
+   "source_px": [
+    1500,
+    1167
+   ],
+   "colors": [
+    "green",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Roberto Matta"
+    },
+    {
+     "k": "location",
+     "v": "Chile"
+    },
+    {
+     "k": "subject",
+     "v": "Surrealism"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ THE TITLE IS DESCRIPTIVE AND THE YEAR IS NOT ESTABLISHED. The file is an auction-house image with no lot text attached to it; the host is PIASA's media store and the filename is a numeric id. Matta worked in this idiom for five decades, so dating it from the picture would be a guess.",
+   "hue": 55.22,
+   "light": 0.5108,
+   "chroma": 0.7966,
+   "punch": 0.2696
+  },
+  "sent-2026-09-07o::b1550f2693ed": {
+   "id": "CRVI002453",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002453.jpg",
+   "original_px": [
+    1600,
+    1200
+   ],
+   "original_bytes": 562177,
+   "identity": "sent-2026-09-07o::b1550f2693ed",
+   "source_url": "https://www.pacegallery.com/media/images/901766keyNpnycJGjZJc47tS9gGf61w.original.jpg",
+   "maker": "Roberto Matta",
+   "title": "Violet field with white cubes",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "⚠️ THE TITLE IS DESCRIPTIVE AND THE YEAR IS NOT ESTABLISHED. Pace Gallery's own media store, but under a hash filename that does not appear on their Matta artist page, so no caption reaches it. The file is Pace's `.original` tier.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img54/08.jpg",
+   "source_px": [
+    1600,
+    1200
+   ],
+   "colors": [
+    "purple",
+    "pink"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Roberto Matta"
+    },
+    {
+     "k": "location",
+     "v": "Chile"
+    },
+    {
+     "k": "subject",
+     "v": "Surrealism"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ THE TITLE IS DESCRIPTIVE AND THE YEAR IS NOT ESTABLISHED. Pace Gallery's own media store, but under a hash filename that does not appear on their Matta artist page, so no caption reaches it. The file is Pace's `.original` tier.",
+   "hue": 276.64,
+   "light": 0.5466,
+   "chroma": 0.3174,
+   "punch": 0.111
+  },
+  "sent-2026-09-07o::888723581f12": {
+   "id": "CRVI002454",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002454.jpg",
+   "original_px": [
+    1600,
+    1244
+   ],
+   "original_bytes": 237330,
+   "identity": "sent-2026-09-07o::888723581f12",
+   "source_url": "https://medias.gazette-drouot.com/prod/medias/mediatheque/132715.jpg",
+   "maker": "Roberto Matta",
+   "title": "Grey ground with orange figures",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "⚠️ THE TITLE IS DESCRIPTIVE AND THE YEAR IS NOT ESTABLISHED. The file is an auction-house image with no lot text attached to it; the host is Gazette Drouot's media library and the filename is a numeric id. Matta worked in this idiom for five decades, so dating it from the picture would be a guess.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img54/09.jpg",
+   "source_px": [
+    1600,
+    1244
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Roberto Matta"
+    },
+    {
+     "k": "location",
+     "v": "Chile"
+    },
+    {
+     "k": "subject",
+     "v": "Surrealism"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ THE TITLE IS DESCRIPTIVE AND THE YEAR IS NOT ESTABLISHED. The file is an auction-house image with no lot text attached to it; the host is Gazette Drouot's media library and the filename is a numeric id. Matta worked in this idiom for five decades, so dating it from the picture would be a guess.",
+   "hue": 27.46,
+   "light": 0.4791,
+   "chroma": 0.144,
+   "punch": 0.0583
+  },
+  "sent-2026-09-07o::94e9912c9180": {
+   "id": "CRVI002455",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002455.jpg",
+   "original_px": [
+    2000,
+    1577
+   ],
+   "original_bytes": 692075,
+   "identity": "sent-2026-09-07o::94e9912c9180",
+   "source_url": "https://www.moma.org/media/W1siZiIsIjE1MTI3NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=ae058bbd74477988",
+   "maker": "Roberto Matta",
+   "title": "Listen to Living (Écoutez vivre)",
+   "subtitle": "",
+   "year": "1941",
+   "verified_against": "MoMA, object 78579 — 'Roberto Matta. Listen to Living. 1941. Oil on canvas.' Identified by matching MoMA media file 151275 against the og:image of the search results for the title; the file's 1.268 ratio matches the canvas.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img54/10.jpg",
+   "source_px": [
+    2000,
+    1577
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Roberto Matta"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    },
+    {
+     "k": "location",
+     "v": "Chile"
+    },
+    {
+     "k": "subject",
+     "v": "Surrealism"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "MoMA, object 78579 — 'Roberto Matta. Listen to Living. 1941. Oil on canvas.' Identified by matching MoMA media file 151275 against the og:image of the search results for the title; the file's 1.268 ratio matches the canvas.",
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Surrealism"
+    }
+   ],
+   "hue": 46.53,
+   "light": 0.5075,
+   "chroma": 0.5023,
+   "punch": 0.1854
+  },
+  "sent-2026-09-07o::f14d94eedd68": {
+   "id": "CRVI002456",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002456.jpg",
+   "original_px": [
+    2080,
+    2801
+   ],
+   "original_bytes": 1165622,
+   "identity": "sent-2026-09-07o::f14d94eedd68",
+   "source_url": "https://image.invaluable.com/housePhotos/johnmoran/16/695416/H0045-L260256220_original.jpg",
+   "maker": "Roberto Matta",
+   "title": "Figures around a lit basin",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "⚠️ THE TITLE IS DESCRIPTIVE AND THE YEAR IS NOT ESTABLISHED. Invaluable house photos for John Moran Auctioneers, with no lot text attached. The sheet is plainly a PRINT rather than a painting — full deckled margins with a pencil signature at the lower left and an edition notation at the lower right — which is why it is typed as one.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img54/11.jpg",
+   "source_px": [
+    2080,
+    2801
+   ],
+   "colors": [
+    "cyan",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Roberto Matta"
+    },
+    {
+     "k": "location",
+     "v": "Chile"
+    },
+    {
+     "k": "subject",
+     "v": "Surrealism"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ THE TITLE IS DESCRIPTIVE AND THE YEAR IS NOT ESTABLISHED. Invaluable house photos for John Moran Auctioneers, with no lot text attached. The sheet is plainly a PRINT rather than a painting — full deckled margins with a pencil signature at the lower left and an edition notation at the lower right — which is why it is typed as one.",
+   "hue": 37.25,
+   "light": 0.4156,
+   "chroma": 0.5395,
+   "punch": 0.1427
+  },
+  "sent-2026-09-07o::513f445a636c": {
+   "id": "CRVI002457",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002457.jpg",
+   "original_px": [
+    1800,
+    1202
+   ],
+   "original_bytes": 2443312,
+   "identity": "sent-2026-09-07o::513f445a636c",
+   "source_url": "https://artnexus.com:5000/uploads/2022-05-12T14:30:18.126ZRoberto-Matta.-The-unthinkable-r0000345.1800%20ppi.jpg",
+   "maker": "Roberto Matta",
+   "title": "The Unthinkable",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "ArtNexus, whose file for this image is named `Roberto-Matta.-The-unthinkable-r0000345.1800 ppi.jpg` — the magazine's own caption carried in the path. ⚠️ No year, medium, dimensions or collection is established from it.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img54/12.jpg",
+   "source_px": [
+    1800,
+    1202
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Roberto Matta"
+    },
+    {
+     "k": "location",
+     "v": "Chile"
+    },
+    {
+     "k": "subject",
+     "v": "Surrealism"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "ArtNexus, whose file for this image is named `Roberto-Matta.-The-unthinkable-r0000345.1800 ppi.jpg` — the magazine's own caption carried in the path. ⚠️ No year, medium, dimensions or collection is established from it.",
+   "hue": 16.09,
+   "light": 0.4093,
+   "chroma": 0.5993,
+   "punch": 0.1405
+  },
+  "sent-2026-09-07o::c20946a5d9b1": {
+   "id": "CRVI002458",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002458.jpg",
+   "original_px": [
+    4689,
+    6074
+   ],
+   "original_bytes": 7976982,
+   "identity": "sent-2026-09-07o::c20946a5d9b1",
+   "source_url": "https://d32dm0rphc51dk.cloudfront.net/_C0KezI5-RnuZjPDQzUVGQ/normalized.jpg",
+   "maker": "Roberto Matta",
+   "title": "Red and yellow ground with pale figures",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "⚠️ THE TITLE IS DESCRIPTIVE AND THE YEAR IS NOT ESTABLISHED. An Artsy asset reached through their resizing proxy; the underlying file carries an opaque id and no caption travels with it. At 4689x6074 — via Artsy's `normalized` tier rather than the `large` the link asked for — it is by far the largest file in the batch.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img54/13.jpg",
+   "source_px": [
+    4689,
+    6074
+   ],
+   "colors": [
+    "yellow",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Roberto Matta"
+    },
+    {
+     "k": "location",
+     "v": "Chile"
+    },
+    {
+     "k": "subject",
+     "v": "Surrealism"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ THE TITLE IS DESCRIPTIVE AND THE YEAR IS NOT ESTABLISHED. An Artsy asset reached through their resizing proxy; the underlying file carries an opaque id and no caption travels with it. At 4689x6074 — via Artsy's `normalized` tier rather than the `large` the link asked for — it is by far the largest file in the batch.",
+   "hue": 55.39,
+   "light": 0.446,
+   "chroma": 0.6602,
+   "punch": 0.2702
+  },
+  "sent-2026-09-07o::59d260518566": {
+   "id": "CRVI002459",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002459.jpg",
+   "original_px": [
+    2560,
+    2383
+   ],
+   "original_bytes": 1230355,
+   "identity": "sent-2026-09-07o::59d260518566",
+   "source_url": "https://d32dm0rphc51dk.cloudfront.net/YAKKj4gp4FMMhbbLj-8M-w/normalized.jpg",
+   "maker": "Roberto Matta",
+   "title": "Blue ground with three grey figures",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "⚠️ THE TITLE IS DESCRIPTIVE AND THE YEAR IS NOT ESTABLISHED. An Artsy asset reached through their resizing proxy, upgraded from the proxy's 1919x1787 to the `normalized` master at 2560x2383. No caption travels with the file.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img54/14.jpg",
+   "source_px": [
+    2560,
+    2383
+   ],
+   "colors": [
+    "blue",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Roberto Matta"
+    },
+    {
+     "k": "location",
+     "v": "Chile"
+    },
+    {
+     "k": "subject",
+     "v": "Surrealism"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ THE TITLE IS DESCRIPTIVE AND THE YEAR IS NOT ESTABLISHED. An Artsy asset reached through their resizing proxy, upgraded from the proxy's 1919x1787 to the `normalized` master at 2560x2383. No caption travels with the file.",
+   "hue": 202.27,
+   "light": 0.3556,
+   "chroma": 0.4876,
+   "punch": 0.1326
+  },
+  "sent-2026-09-07p::9bd0f471d93f": {
+   "id": "CRVI002460",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002460.jpg",
+   "original_px": [
+    1242,
+    1548
+   ],
+   "original_bytes": 209097,
+   "identity": "sent-2026-09-07p::9bd0f471d93f",
+   "source_url": "https://elephant.art/wp-content/uploads/2018/11/Eric-Yahnker-Factory-Reset.jpg",
+   "maker": "Eric Yahnker",
+   "title": "Factory Reset",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Elephant magazine, whose file for this image is named `Eric-Yahnker-Factory-Reset.jpg` — the title carried in the path. The drawing shows Andy Warhol holding an iPhone up in front of himself, the pun the title turns on: Warhol's Factory, and the phone's reset. ⚠️ No year, medium or dimensions are established.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img55/01.jpg",
+   "source_px": [
+    1242,
+    1548
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Eric Yahnker"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "Andy Warhol"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Elephant magazine, whose file for this image is named `Eric-Yahnker-Factory-Reset.jpg` — the title carried in the path. The drawing shows Andy Warhol holding an iPhone up in front of himself, the pun the title turns on: Warhol's Factory, and the phone's reset. ⚠️ No year, medium or dimensions are established.",
+   "hue": null,
+   "light": 0.3919,
+   "chroma": 0.041,
+   "punch": 0.0456
+  },
+  "sent-2026-09-07p::40083fbc3602": {
+   "id": "CRVI002461",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002461.jpg",
+   "original_px": [
+    3365,
+    5016
+   ],
+   "original_bytes": 11607010,
+   "identity": "sent-2026-09-07p::40083fbc3602",
+   "source_url": "https://lodownmagazine.com/sites/default/files/content/file/2014_wrecking_ball_108x72.jpg",
+   "maker": "Eric Yahnker",
+   "title": "Wrecking Ball",
+   "subtitle": "",
+   "year": "2014",
+   "verified_against": "Lodown Magazine, whose file is named `2014_wrecking_ball_108x72.jpg` — title, year AND dimensions in the path: 108 x 72 inches. Barack Obama is bent double out of an open Oval Office window beside the flag and the gold curtains.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img55/02.jpg",
+   "source_px": [
+    3365,
+    5016
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Eric Yahnker"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "Barack Obama"
+    },
+    {
+     "k": "subject",
+     "v": "politics"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Lodown Magazine, whose file is named `2014_wrecking_ball_108x72.jpg` — title, year AND dimensions in the path: 108 x 72 inches. Barack Obama is bent double out of an open Oval Office window beside the flag and the gold curtains.",
+   "hue": 40.81,
+   "light": 0.5553,
+   "chroma": 0.7905,
+   "punch": 0.2279
+  },
+  "sent-2026-09-07p::081b4442b891": {
+   "id": "CRVI002462",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002462.jpg",
+   "original_px": [
+    5460,
+    8192
+   ],
+   "original_bytes": 2233514,
+   "identity": "sent-2026-09-07p::081b4442b891",
+   "source_url": "https://imgix.bustle.com/wmag/2018/11/17/5bef5fd436f439701a537d1f_EY-97.jpg?w=6000",
+   "maker": "Eric Yahnker",
+   "title": "A painter copying a portrait of Colin Kaepernick",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "⚠️ THE TITLE IS DESCRIPTIVE. The file is W magazine's, served through imgix under an editorial code (`EY-97`) with no work title attached. What it shows is unambiguous: a conservator or copyist at an easel reproducing a large framed portrait of Colin Kaepernick kneeling in a San Francisco 49ers 7 jersey. Held at imgix's honest ceiling, 5460x8192.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img55/03.jpg",
+   "source_px": [
+    5460,
+    8192
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Eric Yahnker"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "Colin Kaepernick"
+    },
+    {
+     "k": "subject",
+     "v": "politics"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ THE TITLE IS DESCRIPTIVE. The file is W magazine's, served through imgix under an editorial code (`EY-97`) with no work title attached. What it shows is unambiguous: a conservator or copyist at an easel reproducing a large framed portrait of Colin Kaepernick kneeling in a San Francisco 49ers 7 jersey. Held at imgix's honest ceiling, 5460x8192.",
+   "hue": 36.56,
+   "light": 0.6903,
+   "chroma": 0.5265,
+   "punch": 0.1342
+  },
+  "sent-2026-09-07p::65789042af33": {
+   "id": "CRVI002463",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002463.jpg",
+   "original_px": [
+    1500,
+    1728
+   ],
+   "original_bytes": 400356,
+   "identity": "sent-2026-09-07p::65789042af33",
+   "source_url": "https://arrestedmotion.com/wp-content/uploads/2018/11/EY-104.jpg",
+   "maker": "Eric Yahnker",
+   "title": "Barack Obama placing a medal on Tupac Shakur",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "⚠️ THE TITLE IS DESCRIPTIVE. Arrested Motion's file, named only with the editorial code `EY-104`. The drawing shows Obama, in front of the flag and the presidential standard, fastening a blue-ribboned medal around the neck of a shirtless, bandana-wearing Tupac.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img55/04.jpg",
+   "source_px": [
+    1500,
+    1728
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Eric Yahnker"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "Barack Obama"
+    },
+    {
+     "k": "subject",
+     "v": "politics"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ THE TITLE IS DESCRIPTIVE. Arrested Motion's file, named only with the editorial code `EY-104`. The drawing shows Obama, in front of the flag and the presidential standard, fastening a blue-ribboned medal around the neck of a shirtless, bandana-wearing Tupac.",
+   "hue": 31.9,
+   "light": 0.6166,
+   "chroma": 0.4616,
+   "punch": 0.137
+  },
+  "sent-2026-09-07p::7caffb70efdb": {
+   "id": "CRVI002464",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002464.jpg",
+   "original_px": [
+    1000,
+    1139
+   ],
+   "original_bytes": 145173,
+   "identity": "sent-2026-09-07p::7caffb70efdb",
+   "source_url": "https://sungenre.com/wp-content/uploads/2018/01/eric-yahnker-the-delivery-of-st-teresa.jpg",
+   "maker": "Eric Yahnker",
+   "title": "The Delivery of St. Teresa",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Sun Genre, whose file is named `eric-yahnker-the-delivery-of-st-teresa.jpg`. The drawing puts the swooning head of Bernini's *Ecstasy of St. Teresa* into an opened Amazon box, the smile logo and barcode intact — the title's pun on ecstasy delivered. ⚠️ No year established.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img55/05.jpg",
+   "source_px": [
+    1000,
+    1139
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Eric Yahnker"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "religion"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Sun Genre, whose file is named `eric-yahnker-the-delivery-of-st-teresa.jpg`. The drawing puts the swooning head of Bernini's *Ecstasy of St. Teresa* into an opened Amazon box, the smile logo and barcode intact — the title's pun on ecstasy delivered. ⚠️ No year established.",
+   "hue": 30.93,
+   "light": 0.7021,
+   "chroma": 0.6174,
+   "punch": 0.1345
+  },
+  "sent-2026-09-07p::4b267a27c8c3": {
+   "id": "CRVI002465",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002465.jpg",
+   "original_px": [
+    1500,
+    1733
+   ],
+   "original_bytes": 1851316,
+   "identity": "sent-2026-09-07p::4b267a27c8c3",
+   "source_url": "https://thehole.com/media/pages/artists/eric-yahnker/e40b59f1c1-1721849245/eric-yahnker-balloon-ride-2.jpg",
+   "maker": "Eric Yahnker",
+   "title": "Balloon Ride",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "The Hole, New York, whose file is named `eric-yahnker-balloon-ride-2.jpg` — the gallery's own media store for its Eric Yahnker artist page. A masked cowboy rides one of Jeff Koons's magenta balloon dogs across a mirrored palace hall. ⚠️ No year established.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img55/07.jpg",
+   "source_px": [
+    1500,
+    1733
+   ],
+   "colors": [
+    "orange",
+    "pink"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Eric Yahnker"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "Jeff Koons"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Hole, New York, whose file is named `eric-yahnker-balloon-ride-2.jpg` — the gallery's own media store for its Eric Yahnker artist page. A masked cowboy rides one of Jeff Koons's magenta balloon dogs across a mirrored palace hall. ⚠️ No year established.",
+   "hue": 341.96,
+   "light": 0.6325,
+   "chroma": 0.413,
+   "punch": 0.1152
+  },
+  "sent-2026-09-07p::5c39348b8044": {
+   "id": "CRVI002466",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002466.jpg",
+   "original_px": [
+    900,
+    900
+   ],
+   "original_bytes": 316494,
+   "identity": "sent-2026-09-07p::5c39348b8044",
+   "source_url": "https://eyeondesign.aiga.org/wp-content/uploads/2017/06/2015_Abe_Lincorn-Eric-Yahnker_AIGA.jpg",
+   "maker": "Eric Yahnker",
+   "title": "Abe Lincorn",
+   "subtitle": "",
+   "year": "2015",
+   "verified_against": "AIGA Eye on Design, whose file is named `2015_Abe_Lincorn-Eric-Yahnker_AIGA.jpg` — title and year in the path. The familiar Lincoln portrait, drawn straight, with his hair in cornrows: the pun is entirely in the title. ⚠️ At 900x900 it is the smallest file kept in this batch and AIGA has nothing larger.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img55/08.jpg",
+   "source_px": [
+    900,
+    900
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Eric Yahnker"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "Abraham Lincoln"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "AIGA Eye on Design, whose file is named `2015_Abe_Lincorn-Eric-Yahnker_AIGA.jpg` — title and year in the path. The familiar Lincoln portrait, drawn straight, with his hair in cornrows: the pun is entirely in the title. ⚠️ At 900x900 it is the smallest file kept in this batch and AIGA has nothing larger.",
+   "hue": null,
+   "light": 0.3341,
+   "chroma": 0.0934,
+   "punch": 0.0558
+  },
+  "sent-2026-09-07p::9d096bd57f51": {
+   "id": "CRVI002467",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002467.jpg",
+   "original_px": [
+    910,
+    900
+   ],
+   "original_bytes": 270846,
+   "identity": "sent-2026-09-07p::9d096bd57f51",
+   "source_url": "https://media.i-d.co/cdn-cgi/image/format=auto,quality=85,width=2000/wp-content/uploads/2024/06/artist-eric-yahnker-takes-on-trump-golem-and-prince-1457963929.jpg",
+   "maker": "Eric Yahnker",
+   "title": "Two Kurt Cobains embracing",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "⚠️ THE TITLE IS DESCRIPTIVE. i-D's file, and its slug names the ARTICLE rather than the work — `artist-eric-yahnker-takes-on-trump-golem-and-prince` — none of which is in this picture. What is: two drawings of Kurt Cobain, one smaller and one larger, holding on to each other in front of a red circle-and-bar. ⚠️ No year established.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img55/09.jpg",
+   "source_px": [
+    910,
+    900
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Eric Yahnker"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "Kurt Cobain"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ THE TITLE IS DESCRIPTIVE. i-D's file, and its slug names the ARTICLE rather than the work — `artist-eric-yahnker-takes-on-trump-golem-and-prince` — none of which is in this picture. What is: two drawings of Kurt Cobain, one smaller and one larger, holding on to each other in front of a red circle-and-bar. ⚠️ No year established.",
+   "hue": 25.85,
+   "light": 0.5974,
+   "chroma": 0.314,
+   "punch": 0.0889
   }
  }
 }
