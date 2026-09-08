@@ -197,7 +197,25 @@ a{color:inherit;text-decoration:none}
  display:inline-flex;align-items:center;gap:6px;white-space:nowrap}
 .crumb .ord input{accent-color:#111;cursor:pointer}
 
+/* ⚠️ TWO LINKS IN A CRUMB. `.crumb a{margin-left:auto}` pushes the FIRST link right; a second
+   auto margin would split the pair across the bar. Only the up-link takes the auto. */
+.crumb a.up{margin-left:auto}
+.crumb a.up + a{margin-left:14px}
+
+/* The roles on a /name/ parent page, inline in the crumb:
+   REID MILES  59 items  as designer (59) · as photographer (11)      <- all tags
+   ⚠️ `.crumb a{margin-left:auto}` applies to EVERY link in the bar, so without the override
+   below each role link would claim its own share of the free space and the row would fly
+   apart. Only the trailing "all tags" keeps the auto margin. */
+.crumb .roles{font:11px/1 var(--mono);color:var(--mute);letter-spacing:.02em;
+ display:inline-flex;flex-wrap:wrap;gap:0 6px;align-items:baseline}
+.crumb .roles a{margin-left:0;color:var(--mute);font-size:11px}
+.crumb .roles a:hover{color:var(--ink);text-decoration:underline}
+
 @media (max-width:700px){
+ .crumb{height:auto;min-height:38px;flex-wrap:wrap;padding:8px 18px;gap:6px 12px}
+ .crumb a.up{margin-left:0}
+ .crumb .roles{width:100%}
  .facet .list a.small{display:none}
  .moretoggle:checked ~ .col .list a.small{display:flex}
  .more{display:inline-block;margin-top:10px;font:11px/1.6 var(--mono);letter-spacing:.05em;
@@ -696,11 +714,16 @@ is misidentified, please get in touch: it will be fixed and the correction noted
         roles = " · ".join(
             f'<a href="../../tag/{slug(k)}/{slug(v)}/">as {esc(k)} ({n})</a>'
             for k, n in sorted(facets_of.items(), key=lambda kv: (-kv[1], kv[0])))
+        # ⚠️ THE ROLES SIT INSIDE THE CRUMB, not in a band under it. Todd, 2026-09-07, looking
+        # at the first version on desktop: "can we make this more elegant". Two stacked bars of
+        # the same weight, with the roles at a different left offset from the title, read as two
+        # headers. One line reads as one page: NAME · n items · as designer (59) · as
+        # photographer (11) ......... all tags
         body = ('<div class="crumb">'
                 f'<span class="t">{esc(v.upper())}</span>'
                 f'<span class="c">{len(idxs)} items</span>'
+                f'<span class="roles">{roles}</span>'
                 '<a href="../../tags/">&#8592; all tags</a></div>'
-                f'<div class="roles">{roles}</div>'
                 f'<div class="grid">{"".join(cells)}</div><script>{JS}</script>')
         od = os.path.join(HERE, "name", slug(v)); os.makedirs(od, exist_ok=True)
         open(os.path.join(od, "index.html"), "w").write(
