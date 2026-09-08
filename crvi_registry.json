@@ -1,5 +1,5 @@
 {
- "next": 2501,
+ "next": 2534,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -139295,12 +139295,13 @@
    "identity_established": true,
    "published": false,
    "verification": "Flaunt Magazine's Tauba Auerbach feature, served from the magazine's Squarespace site (56c346b607eaa09d9189a870) — the same site and same feature as the archive's existing Auerbach record from '...Considerations4.jpg'; this is '...Considerations3.jpg'. ⚠️ The feature establishes the ARTIST. Title and date are not established, and the title given here is descriptive: the dense orange-on-white interlace of her woven/mesh paintings.",
-   "hue": 25.05,
-   "light": 0.749,
-   "chroma": 0.6774,
-   "punch": 0.218,
+   "hue": 14.14,
+   "light": 0.7091,
+   "chroma": 0.719,
+   "punch": 0.4631,
    "deleted": true,
-   "deleted_on": "2026-09-07"
+   "deleted_on": "2026-09-07",
+   "number_reused": true
   },
   "sent-2026-09-07d::be9a052aa9ab": {
    "id": "CRVI002365",
@@ -142018,12 +142019,13 @@
    "identity_established": true,
    "published": false,
    "verification": "Panorama, 'Psychedelic Patriotism', Fig. 14 — 'Peter Max, The American Cosmic Jumper in the Land of Rainbows and Stars, 1976. Billboard, 4 x 6 ft. AiA Program, GSA; FOIA 2019-00170. Photo by Page Conservation.' ⚠️ Sent at 700x461, under the floor; the un-suffixed WordPress original is 2952x1944.",
-   "hue": 43.89,
-   "light": 0.5217,
-   "chroma": 0.973,
-   "punch": 0.3796,
+   "hue": 188.16,
+   "light": 0.4709,
+   "chroma": 0.141,
+   "punch": 0.0467,
    "deleted": true,
-   "deleted_on": "2026-09-07"
+   "deleted_on": "2026-09-07",
+   "number_reused": true
   },
   "sent-2026-09-07i::fc8239864652": {
    "id": "CRVI002410",
@@ -142778,12 +142780,13 @@
      "v": "Constructivism"
     }
    ],
-   "hue": 34.99,
-   "light": 0.6965,
-   "chroma": 0.8265,
-   "punch": 0.1744,
+   "hue": 315.61,
+   "light": 0.6991,
+   "chroma": 0.8203,
+   "punch": 0.4006,
    "deleted": true,
-   "deleted_on": "2026-09-07"
+   "deleted_on": "2026-09-07",
+   "number_reused": true
   },
   "sent-2026-09-07k::f5ed83e60a0c": {
    "id": "CRVI002422",
@@ -146843,12 +146846,13 @@
    "identity_established": true,
    "published": false,
    "verification": "⚠️ NEITHER TITLE NOR YEAR IS ESTABLISHED. A gallery's Squarespace asset with no caption reaching the file. The MAKER rests on Todd's grouping, sent 2026-09-07 under 'Kiyoshi Awazu', and on the hand — the dotted grounds, banded eyes and radiating rays are his. The title is descriptive.",
-   "hue": 358.83,
-   "light": 0.4216,
-   "chroma": 0.7648,
-   "punch": 0.303,
+   "hue": 5.14,
+   "light": 0.492,
+   "chroma": 0.9991,
+   "punch": 0.6949,
    "deleted": true,
-   "deleted_on": "2026-09-07"
+   "deleted_on": "2026-09-07",
+   "number_reused": true
   },
   "sent-2026-09-07r::685474e20f1e": {
    "id": "CRVI002491",
@@ -146964,12 +146968,13 @@
    "identity_established": true,
    "published": false,
    "verification": "MoMA, object 4943 — 'Kiyoshi Awazu. Noh Performance at UCLA. 1981. Offset lithograph. 40 1/2 x 28 5/8\" (102.8 x 72.5 cm). Gift of the College of Fine Arts, UCLA. Object number 73.1990.' The sheet prints NOH at the top and the UCLA Asian Performing Arts Institute's 1981 cities along the foot.",
-   "hue": 358.38,
-   "light": 0.2844,
-   "chroma": 0.6417,
-   "punch": 0.2387,
+   "hue": 177.54,
+   "light": 0.4635,
+   "chroma": 0.9496,
+   "punch": 0.4753,
    "deleted": true,
-   "deleted_on": "2026-09-07"
+   "deleted_on": "2026-09-07",
+   "number_reused": true
   },
   "sent-2026-09-07r::e67855173a5d": {
    "id": "CRVI002493",
@@ -147413,6 +147418,2379 @@
    "light": 0.1632,
    "chroma": 0.2058,
    "punch": 0.0625
+  },
+  "sent-2026-09-08a::adbab14add8f": {
+   "id": "CRVI002364",
+   "minted": "2026-09-08",
+   "reused": true,
+   "previously": {
+    "identity": "sent-2026-09-07d::2b99642b7c9d",
+    "maker": "Tauba Auerbach",
+    "title": "Woven composition in orange and white",
+    "deleted_on": "2026-09-07"
+   },
+   "original_file": "originals/CRVI002364.jpg",
+   "original_px": [
+    2000,
+    1995
+   ],
+   "original_bytes": 76057,
+   "identity": "sent-2026-09-08a::adbab14add8f",
+   "source_url": "https://a.1stdibscdn.com/bruno-munari-prints-works-on-paper-negative-positive-screen-print-by-bruno-munari-1991-for-sale/a_6503/a_110735321666446796649/T_134703_bruno_munari_negative_positive_2_master.jpeg",
+   "maker": "Bruno Munari",
+   "title": "Negative-Positive",
+   "subtitle": "",
+   "year": "1991",
+   "label": "",
+   "verified_against": "1stDibs listing id-a_11073532 (Wallector, Roma — Platinum seller): 'Negative Positive', Bruno Munari, 1991, screen print, hand-signed and numbered in pencil on the lower margin, edition 61/100, 70 x 70 cm. The pencil signature and edition line are visible on the sheet in this photograph. ⚠️ Held at the HONEST master, 2000x1995: 1stdibs will hand back 8202 px of pure interpolation for `?width=9000`, so this was fetched with `disable=upscale`.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img59/01.jpg",
+   "source_px": [
+    2000,
+    1995
+   ],
+   "colors": [
+    "red",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "artist",
+     "v": "Bruno Munari"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "1stDibs listing id-a_11073532 (Wallector, Roma — Platinum seller): 'Negative Positive', Bruno Munari, 1991, screen print, hand-signed and numbered in pencil on the lower margin, edition 61/100, 70 x 70 cm. The pencil signature and edition line are visible on the sheet in this photograph. ⚠️ Held at the HONEST master, 2000x1995: 1stdibs will hand back 8202 px of pure interpolation for `?width=9000`, so this was fetched with `disable=upscale`.",
+   "hue": 14.14,
+   "light": 0.7091,
+   "chroma": 0.719,
+   "punch": 0.4631
+  },
+  "sent-2026-09-08a::9dbf8e7b36b4": {
+   "id": "CRVI002409",
+   "minted": "2026-09-08",
+   "reused": true,
+   "previously": {
+    "identity": "sent-2026-09-07i::6bec945e6cdb",
+    "maker": "Peter Max",
+    "title": "The American Cosmic Jumper in the Land of Rainbows and Stars",
+    "deleted_on": "2026-09-07"
+   },
+   "original_file": "originals/CRVI002409.jpg",
+   "original_px": [
+    1069,
+    1080
+   ],
+   "original_bytes": 517580,
+   "identity": "sent-2026-09-08a::9dbf8e7b36b4",
+   "source_url": "https://media.mutualart.com/Images/2024_04/18/00/005143321/bruno-munari-bruno-munari--negativo-posi-XUR4P.Jpeg",
+   "maker": "Bruno Munari",
+   "title": "Negativo positivo",
+   "subtitle": "",
+   "year": "1991",
+   "label": "",
+   "verified_against": "MutualArt artwork record 757BA6A234F1B54D04D35B8A66128418, 'Negativo positivo (1991)', 27.56 in (70 cm) — the same 70 cm as Munari's 1991 screen-print edition. The identification is exact, not approximate: this file IS the record's own image (32x32 luma distance 0.0). ⚠️ TWO MUTUALART RECORDS CARRY THE SAME PHOTOGRAPH AND DISAGREE — 65B377152FEDAAC9D56D31E669EFE7D2 gives 'Negativo - Positivo. (1991)', silkscreen, 23.62 in (60 cm). The medium and the size are therefore NOT settled here; the maker, the title and the year are.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img59/02.jpg",
+   "source_px": [
+    1069,
+    1080
+   ],
+   "colors": [
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "artist",
+     "v": "Bruno Munari"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "MutualArt artwork record 757BA6A234F1B54D04D35B8A66128418, 'Negativo positivo (1991)', 27.56 in (70 cm) — the same 70 cm as Munari's 1991 screen-print edition. The identification is exact, not approximate: this file IS the record's own image (32x32 luma distance 0.0). ⚠️ TWO MUTUALART RECORDS CARRY THE SAME PHOTOGRAPH AND DISAGREE — 65B377152FEDAAC9D56D31E669EFE7D2 gives 'Negativo - Positivo. (1991)', silkscreen, 23.62 in (60 cm). The medium and the size are therefore NOT settled here; the maker, the title and the year are.",
+   "hue": 188.16,
+   "light": 0.4709,
+   "chroma": 0.141,
+   "punch": 0.0467
+  },
+  "sent-2026-09-08a::66cabbdeef33": {
+   "id": "CRVI002421",
+   "minted": "2026-09-08",
+   "reused": true,
+   "previously": {
+    "identity": "sent-2026-09-07k::bb281702c0c6",
+    "maker": "Gustav Klutsis",
+    "title": "Dynamic City",
+    "deleted_on": "2026-09-07"
+   },
+   "original_file": "originals/CRVI002421.jpg",
+   "original_px": [
+    1994,
+    2000
+   ],
+   "original_bytes": 128843,
+   "identity": "sent-2026-09-08a::66cabbdeef33",
+   "source_url": "https://a.1stdibscdn.com/bruno-munari-prints-works-on-paper-peano-curves-original-screen-print-by-bruno-munari-1991-for-sale/a_6503/a_97163221645440669107/T_129430_bruno_munari_peano_curves_1_master.jpg",
+   "maker": "Bruno Munari",
+   "title": "Peano Curves",
+   "subtitle": "",
+   "year": "1991",
+   "label": "",
+   "verified_against": "1stDibs listing id-a_9716322 (Roma): 'Peano Curves', Bruno Munari, 1991, original serigraph, hand-signed and numbered in pencil on the lower margin, edition of 100, 70 x 70 cm. Munari worked the space-filling Peano curve for decades — the Andrew Kreps show captioned an oil of the same family 'Curve di Peano P64.1, 1974'. Held at 1994x2000 with `disable=upscale`.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img59/03.jpg",
+   "source_px": [
+    1994,
+    2000
+   ],
+   "colors": [
+    "blue",
+    "pink"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "artist",
+     "v": "Bruno Munari"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "1stDibs listing id-a_9716322 (Roma): 'Peano Curves', Bruno Munari, 1991, original serigraph, hand-signed and numbered in pencil on the lower margin, edition of 100, 70 x 70 cm. Munari worked the space-filling Peano curve for decades — the Andrew Kreps show captioned an oil of the same family 'Curve di Peano P64.1, 1974'. Held at 1994x2000 with `disable=upscale`.",
+   "hue": 315.61,
+   "light": 0.6991,
+   "chroma": 0.8203,
+   "punch": 0.4006
+  },
+  "sent-2026-09-08a::d589d89e807b": {
+   "id": "CRVI002490",
+   "minted": "2026-09-08",
+   "reused": true,
+   "previously": {
+    "identity": "sent-2026-09-07r::984d680f7b4c",
+    "maker": "Kiyoshi Awazu",
+    "title": "Red field with eyes and radiating fans",
+    "deleted_on": "2026-09-07"
+   },
+   "original_file": "originals/CRVI002490.jpg",
+   "original_px": [
+    900,
+    893
+   ],
+   "original_bytes": 42686,
+   "identity": "sent-2026-09-08a::d589d89e807b",
+   "source_url": "https://static.frieze.com/files/inline-images/editorial-b-7.jpeg",
+   "maker": "Bruno Munari",
+   "title": "Negativo-Positivo",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "ATTRIBUTED ON THE SOURCE AND THE WORK, NOT ON A CAPTION. The file is an inline image in frieze's 'In Profile: Bruno Munari' (Vincenzo Latronico, 15 June 2017), a profile written around the Museo Ettore Fico retrospective in Turin — and the picture is unmistakably one of Munari's Negativo-Positivo canvases, a yellow interlocking form and a red field with neither reading as ground. ⚠️ NO TITLE OR YEAR IS ESTABLISHED: the frieze article is paywalled, and `editorial-b-7.jpeg` is a Drupal dedupe name that says nothing about the subject. ⚠️ It is NOT Gallerie d'Italia's 'Negativo-positivo giallo-rosso' (1951, oil, 101 x 100 cm) — that painting is yellow-and-red with a white block and scores MAD 54.7 against this file.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img59/04.jpg",
+   "source_px": [
+    900,
+    893
+   ],
+   "colors": [
+    "red",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Bruno Munari"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "ATTRIBUTED ON THE SOURCE AND THE WORK, NOT ON A CAPTION. The file is an inline image in frieze's 'In Profile: Bruno Munari' (Vincenzo Latronico, 15 June 2017), a profile written around the Museo Ettore Fico retrospective in Turin — and the picture is unmistakably one of Munari's Negativo-Positivo canvases, a yellow interlocking form and a red field with neither reading as ground. ⚠️ NO TITLE OR YEAR IS ESTABLISHED: the frieze article is paywalled, and `editorial-b-7.jpeg` is a Drupal dedupe name that says nothing about the subject. ⚠️ It is NOT Gallerie d'Italia's 'Negativo-positivo giallo-rosso' (1951, oil, 101 x 100 cm) — that painting is yellow-and-red with a white block and scores MAD 54.7 against this file.",
+   "hue": 5.14,
+   "light": 0.492,
+   "chroma": 0.9991,
+   "punch": 0.6949
+  },
+  "sent-2026-09-08a::67b5827ce1ea": {
+   "id": "CRVI002492",
+   "minted": "2026-09-08",
+   "reused": true,
+   "previously": {
+    "identity": "sent-2026-09-07r::eb434e64a159",
+    "maker": "Kiyoshi Awazu",
+    "title": "Noh Performance at UCLA",
+    "deleted_on": "2026-09-07"
+   },
+   "original_file": "originals/CRVI002492.jpg",
+   "original_px": [
+    2960,
+    3000
+   ],
+   "original_bytes": 351330,
+   "identity": "sent-2026-09-08a::67b5827ce1ea",
+   "source_url": "https://media.mutualart.com/Images/2014_10/10/04/040518493/74bd108a-afa5-455e-b8a6-49d82a553889.Jpeg",
+   "maker": "Bruno Munari",
+   "title": "Negativo positivo.",
+   "subtitle": "",
+   "year": "1985",
+   "label": "",
+   "verified_against": "MutualArt artwork record 5BE4622024F64732E147EA845B24B7FB, whose JSON-LD gives 'Negativo positivo.', Bruno Munari, 1985, acrylic on canvas, 19.29 x 19.29 in (49 x 49 cm), sold 17 December 2021. The match is exact: this file and the record's own media file share the folder 2014_10/10/04/040518493/ and score 0.2 on a 32x32 luma comparison. Turquoise and blue planes with a black square and a white square, figure and ground interchangeable.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img59/05.jpg",
+   "source_px": [
+    2960,
+    3000
+   ],
+   "colors": [
+    "cyan",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "artist",
+     "v": "Bruno Munari"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "MutualArt artwork record 5BE4622024F64732E147EA845B24B7FB, whose JSON-LD gives 'Negativo positivo.', Bruno Munari, 1985, acrylic on canvas, 19.29 x 19.29 in (49 x 49 cm), sold 17 December 2021. The match is exact: this file and the record's own media file share the folder 2014_10/10/04/040518493/ and score 0.2 on a 32x32 luma comparison. Turquoise and blue planes with a black square and a white square, figure and ground interchangeable.",
+   "hue": 177.54,
+   "light": 0.4635,
+   "chroma": 0.9496,
+   "punch": 0.4753
+  },
+  "sent-2026-09-08b::40406a978030": {
+   "id": "CRVI002501",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002501.jpg",
+   "original_px": [
+    2389,
+    3525
+   ],
+   "original_bytes": 836436,
+   "identity": "sent-2026-09-08b::40406a978030",
+   "source_url": "https://a.1stdibscdn.com/milton-glaser-prints-works-on-paper-original-vintage-music-poster-bob-dylan-milton-glaser-psychedelic-design-art-for-sale/a_436/1678451576500/PA3215_master.jpg?width=8000&disable=upscale",
+   "maker": "Milton Glaser",
+   "title": "Dylan",
+   "subtitle": "",
+   "year": "1966",
+   "label": "",
+   "verified_against": "1stDibs listing id-a_11896382 (London): Milton Glaser, 1966, 83.5 x 56 cm, linen-backed, restored folds — the poster commissioned as promotional material for 'Bob Dylan's Greatest Hits', its silhouette drawn from a Duchamp self-portrait. The sheet carries Glaser's own MILTON GLASER cartouche at the upper right. ⚠️ HELD FROM THE LISTING'S MAIN PHOTOGRAPH (2389x3525), not from the link as sent, which was `picture-3` — a square 2389x2389 detail with the DYLAN lettering cropped off.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img60/01.jpg",
+   "source_px": [
+    2389,
+    3525
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "designer",
+     "v": "Milton Glaser"
+    },
+    {
+     "k": "musician",
+     "v": "Bob Dylan"
+    },
+    {
+     "k": "subject",
+     "v": "Bob Dylan"
+    },
+    {
+     "k": "client",
+     "v": "Columbia Records"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "city",
+     "v": "New York"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "1stDibs listing id-a_11896382 (London): Milton Glaser, 1966, 83.5 x 56 cm, linen-backed, restored folds — the poster commissioned as promotional material for 'Bob Dylan's Greatest Hits', its silhouette drawn from a Duchamp self-portrait. The sheet carries Glaser's own MILTON GLASER cartouche at the upper right. ⚠️ HELD FROM THE LISTING'S MAIN PHOTOGRAPH (2389x3525), not from the link as sent, which was `picture-3` — a square 2389x2389 detail with the DYLAN lettering cropped off.",
+   "hue": 345.53,
+   "light": 0.4591,
+   "chroma": 0.4408,
+   "punch": 0.1524
+  },
+  "sent-2026-09-08b::937080c0c0b1": {
+   "id": "CRVI002502",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002502.jpg",
+   "original_px": [
+    2272,
+    2937
+   ],
+   "original_bytes": 1769438,
+   "identity": "sent-2026-09-08b::937080c0c0b1",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/46/Zabriskie_Point_%281970_Milton_Glaser_poster%29.jpg",
+   "maker": "Milton Glaser",
+   "title": "Zabriskie Point",
+   "subtitle": "",
+   "year": "1970",
+   "label": "",
+   "verified_against": "Wikimedia Commons file page: 'Alternate theatrical release poster for the 1970 film Zabriskie Point', illustrated by Milton Glaser, distributed by MGM, 1970; scan via Heritage Auctions; public domain in the United States (published 1931-1977 without a copyright notice). The sheet itself prints 'A FILM BY MICHELANGELO ANTONIONI' and 'AN MGM PRESENTATION'. ℹ️ The Commons upload is cropped and retouched by its uploader; the unretouched original is in that file's upload history.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img60/02.jpg",
+   "source_px": [
+    2272,
+    2937
+   ],
+   "colors": [
+    "cyan",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "designer",
+     "v": "Milton Glaser"
+    },
+    {
+     "k": "client",
+     "v": "Metro-Goldwyn-Mayer"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons file page: 'Alternate theatrical release poster for the 1970 film Zabriskie Point', illustrated by Milton Glaser, distributed by MGM, 1970; scan via Heritage Auctions; public domain in the United States (published 1931-1977 without a copyright notice). The sheet itself prints 'A FILM BY MICHELANGELO ANTONIONI' and 'AN MGM PRESENTATION'. ℹ️ The Commons upload is cropped and retouched by its uploader; the unretouched original is in that file's upload history.",
+   "hue": 194.94,
+   "light": 0.5102,
+   "chroma": 0.8052,
+   "punch": 0.5793
+  },
+  "sent-2026-09-08b::ae96f91a5e4c": {
+   "id": "CRVI002503",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002503.jpg",
+   "original_px": [
+    1251,
+    1391
+   ],
+   "original_bytes": 203424,
+   "identity": "sent-2026-09-08b::ae96f91a5e4c",
+   "source_url": "https://www.latamarte.com/media/d2/zartists/15b8c78fe162722598b6934a4993048c/milton-gleiser-38.jpg",
+   "maker": "Milton Glaser",
+   "title": "Untitled (mouth with a landscape)",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "ATTRIBUTED ON THE HOST, NOT ON A CAPTION, AND THE HOST IS A WEAK ONE. The file is `milton-gleiser-38.jpg` in a numbered run on LatAm ARTE, whose only Milton Glaser page is 'Gallery Of Graphic Design By Milton Glaser - United States'. ⚠️ NOTHING ELSE IS ESTABLISHED — no title, no date, no client — and the title given here is DESCRIPTIVE, not Glaser's. The drawing is an open mouth whose tongue holds a landscape with a rainbow, a fruiting tree and flowers, in the Push Pin manner of the late 1960s. ⚠️ Note that the hosting site misspells his name in the filename ('gleiser').",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img60/03.jpg",
+   "source_px": [
+    1251,
+    1391
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "illustration"
+    },
+    {
+     "k": "designer",
+     "v": "Milton Glaser"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "ATTRIBUTED ON THE HOST, NOT ON A CAPTION, AND THE HOST IS A WEAK ONE. The file is `milton-gleiser-38.jpg` in a numbered run on LatAm ARTE, whose only Milton Glaser page is 'Gallery Of Graphic Design By Milton Glaser - United States'. ⚠️ NOTHING ELSE IS ESTABLISHED — no title, no date, no client — and the title given here is DESCRIPTIVE, not Glaser's. The drawing is an open mouth whose tongue holds a landscape with a rainbow, a fruiting tree and flowers, in the Push Pin manner of the late 1960s. ⚠️ Note that the hosting site misspells his name in the filename ('gleiser').",
+   "hue": 8.16,
+   "light": 0.5572,
+   "chroma": 0.9194,
+   "punch": 0.2535
+  },
+  "sent-2026-09-08b::a294ac54e235": {
+   "id": "CRVI002504",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002504.jpg",
+   "original_px": [
+    1428,
+    1925
+   ],
+   "original_bytes": 561273,
+   "identity": "sent-2026-09-08b::a294ac54e235",
+   "source_url": "https://thecarycollection.com/cdn/shop/products/2020_06_30_10_14_09_003.jpg",
+   "maker": "Milton Glaser",
+   "title": "Kandinsky",
+   "subtitle": "",
+   "year": "1984",
+   "label": "",
+   "verified_against": "Wright, 'To Inform & Delight: The Collection of Milton Glaser', 14 July 2020, lot 268: Milton Glaser, 'Kandinsky', 1984, collotype in colours, 56 x 43 cm, signed titled and numbered 'AP 1/5 Kandinsky Milton Glaser' — 'This image was created for the Masters of Colour calender, Zanders Paper.' Literature: Art is Work, p. 50; Drawing is Thinking, p. 82; Milton Glaser Posters, p. 340. ℹ️ THIS FILE IS THE BOOK, NOT THE PRINT: it is a photograph of a page carrying the running head 'ART IS WORK', offered by The Cary Collection.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img60/04.jpg",
+   "source_px": [
+    1428,
+    1925
+   ],
+   "colors": [
+    "blue",
+    "pink"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "designer",
+     "v": "Milton Glaser"
+    },
+    {
+     "k": "subject",
+     "v": "Wassily Kandinsky"
+    },
+    {
+     "k": "client",
+     "v": "Zanders Feinpapiere"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wright, 'To Inform & Delight: The Collection of Milton Glaser', 14 July 2020, lot 268: Milton Glaser, 'Kandinsky', 1984, collotype in colours, 56 x 43 cm, signed titled and numbered 'AP 1/5 Kandinsky Milton Glaser' — 'This image was created for the Masters of Colour calender, Zanders Paper.' Literature: Art is Work, p. 50; Drawing is Thinking, p. 82; Milton Glaser Posters, p. 340. ℹ️ THIS FILE IS THE BOOK, NOT THE PRINT: it is a photograph of a page carrying the running head 'ART IS WORK', offered by The Cary Collection.",
+   "hue": 345.75,
+   "light": 0.327,
+   "chroma": 0.8235,
+   "punch": 0.2317
+  },
+  "sent-2026-09-08b::7077a99eeb87": {
+   "id": "CRVI002505",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002505.jpg",
+   "original_px": [
+    2600,
+    2600
+   ],
+   "original_bytes": 1889188,
+   "identity": "sent-2026-09-08b::7077a99eeb87",
+   "source_url": "https://d26jxt5097u8sr.cloudfront.net/s3fs-public/2020-11/Mahalia-Jackson_Milton-Glaser_card.jpg",
+   "maker": "Milton Glaser",
+   "title": "Mahalia Jackson - Easter Sunday - Philharmonic Hall, Lincoln Center",
+   "subtitle": "",
+   "year": "1967",
+   "label": "",
+   "verified_against": "The sheet itself, which prints 'G. Keys Presents', the rainbow lettering MAHALIA JACKSON / EASTER SUNDAY / PHILHARMONIC HALL / LINCOLN CENTER and 'Sunday, March 26, 1967 4:00 & 8:30 P.M.', with a MILTON GLASER cartouche at the foot. Library of Congress item 93503155: 'New York : Security Printing Company, 1967', Glaser, Milton, artist. Also MoMA 353.1967.a-b (gift of the designer) and Denver Art Museum 1991.510, offset lithograph, 37¾ x 25 in. ⚠️ HELD AS A SQUARE CROP — the source file is a 2600x2600 `_card` derivative and the lettering runs out of frame. ⚠️ The poster was printed in two versions, facing left and facing right, to be posted back-to-back; this is the RIGHT-facing sheet, the Library of Congress colour transparency is the LEFT-facing one.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img60/05.jpg",
+   "source_px": [
+    2600,
+    2600
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "designer",
+     "v": "Milton Glaser"
+    },
+    {
+     "k": "musician",
+     "v": "Mahalia Jackson"
+    },
+    {
+     "k": "subject",
+     "v": "Mahalia Jackson"
+    },
+    {
+     "k": "client",
+     "v": "G. Keys"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "city",
+     "v": "New York"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The sheet itself, which prints 'G. Keys Presents', the rainbow lettering MAHALIA JACKSON / EASTER SUNDAY / PHILHARMONIC HALL / LINCOLN CENTER and 'Sunday, March 26, 1967 4:00 & 8:30 P.M.', with a MILTON GLASER cartouche at the foot. Library of Congress item 93503155: 'New York : Security Printing Company, 1967', Glaser, Milton, artist. Also MoMA 353.1967.a-b (gift of the designer) and Denver Art Museum 1991.510, offset lithograph, 37¾ x 25 in. ⚠️ HELD AS A SQUARE CROP — the source file is a 2600x2600 `_card` derivative and the lettering runs out of frame. ⚠️ The poster was printed in two versions, facing left and facing right, to be posted back-to-back; this is the RIGHT-facing sheet, the Library of Congress colour transparency is the LEFT-facing one.",
+   "hue": 15.81,
+   "light": 0.3942,
+   "chroma": 0.8386,
+   "punch": 0.282
+  },
+  "sent-2026-09-08b::75d8a4318135": {
+   "id": "CRVI002506",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002506.jpg",
+   "original_px": [
+    1440,
+    2223
+   ],
+   "original_bytes": 474068,
+   "identity": "sent-2026-09-08b::75d8a4318135",
+   "source_url": "https://a.1stdibscdn.com/milton-glaser-prints-works-on-paper-milton-glaser-the-lovin-spoonful-poster-milton-glaser-posters-for-sale/a_3543/a_125688421687803027906/CC_324_master.jpg?width=8000&disable=upscale",
+   "maker": "Milton Glaser",
+   "title": "The Lovin' Spoonful at Lincoln Center Philharmonic Hall",
+   "subtitle": "",
+   "year": "1968",
+   "label": "",
+   "verified_against": "The sheet itself: 'G. Keys & John Myerson present THE LOVIN' SPOONFUL AT LINCOLN CENTER PHILHARMONIC HALL WED. FEB 21ST 8:30 PM', tickets at the Lincoln Center box office, Bloomingdales and Abraham & Straus, TR 4-2424, $6.20 to $3.50, 'Litho by Security Printing Company Inc., New York City'. 1stDibs listing id-a_12568842 (New York) attributes it to Milton Glaser, offset lithograph, 24 x 37 in, printed Glaser credit at mid-lower left, collection MoMA, literature Milton Glaser Posters p. 155. ⚠️ THE DEALER'S DATE IS WRONG. It says c.1972, but 21 February fell on a WEDNESDAY in 1962, 1968, 1973 and 1979 — never in 1972 — and the band, formed 1965, had broken up by 1969. Dated 1968 here on the sheet's own weekday, with the TRafalgar exchange number and the ticket prices agreeing.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img60/06.jpg",
+   "source_px": [
+    1440,
+    2223
+   ],
+   "colors": [
+    "green",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "designer",
+     "v": "Milton Glaser"
+    },
+    {
+     "k": "musician",
+     "v": "The Lovin' Spoonful"
+    },
+    {
+     "k": "client",
+     "v": "G. Keys"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "city",
+     "v": "New York"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The sheet itself: 'G. Keys & John Myerson present THE LOVIN' SPOONFUL AT LINCOLN CENTER PHILHARMONIC HALL WED. FEB 21ST 8:30 PM', tickets at the Lincoln Center box office, Bloomingdales and Abraham & Straus, TR 4-2424, $6.20 to $3.50, 'Litho by Security Printing Company Inc., New York City'. 1stDibs listing id-a_12568842 (New York) attributes it to Milton Glaser, offset lithograph, 24 x 37 in, printed Glaser credit at mid-lower left, collection MoMA, literature Milton Glaser Posters p. 155. ⚠️ THE DEALER'S DATE IS WRONG. It says c.1972, but 21 February fell on a WEDNESDAY in 1962, 1968, 1973 and 1979 — never in 1972 — and the band, formed 1965, had broken up by 1969. Dated 1968 here on the sheet's own weekday, with the TRafalgar exchange number and the ticket prices agreeing.",
+   "hue": 137.6,
+   "light": 0.5581,
+   "chroma": 0.4757,
+   "punch": 0.1796
+  },
+  "sent-2026-09-08b::2c24d6378fcc": {
+   "id": "CRVI002507",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002507.jpg",
+   "original_px": [
+    4340,
+    6350
+   ],
+   "original_bytes": 14852832,
+   "identity": "sent-2026-09-08b::2c24d6378fcc",
+   "source_url": "https://media.creativeboom.com/2348d0de-e8a8-4c30-80ba-57ee7c53d0dd/11165619de315ad8fb69386662937acf1f6788d9.jpg",
+   "maker": "Milton Glaser",
+   "title": "Temple University Music Festival",
+   "subtitle": "",
+   "year": "1975",
+   "label": "",
+   "verified_against": "The sheet itself, which prints TEMPLE UNIVERSITY MUSIC FESTIVAL above the image, carries Glaser's signature in the plate at the lower right, and states at the foot 'THIS POSTER HAS BEEN COMMISSIONED FOR THE FESTIVAL BY Mobil'. Milton Glaser's own site publishes it in both his store and his work archive as 'Temple University Music Festival, 1975', with his note that the swan superimposed on a profile 'suggests some aspect of making music' — the swan being the emblem of Orpheus. Held from Creative Boom's file at 4340x6350.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img60/07.jpg",
+   "source_px": [
+    4340,
+    6350
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "designer",
+     "v": "Milton Glaser"
+    },
+    {
+     "k": "client",
+     "v": "Mobil"
+    },
+    {
+     "k": "client",
+     "v": "Temple University"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The sheet itself, which prints TEMPLE UNIVERSITY MUSIC FESTIVAL above the image, carries Glaser's signature in the plate at the lower right, and states at the foot 'THIS POSTER HAS BEEN COMMISSIONED FOR THE FESTIVAL BY Mobil'. Milton Glaser's own site publishes it in both his store and his work archive as 'Temple University Music Festival, 1975', with his note that the swan superimposed on a profile 'suggests some aspect of making music' — the swan being the emblem of Orpheus. Held from Creative Boom's file at 4340x6350.",
+   "hue": 37.04,
+   "light": 0.5739,
+   "chroma": 0.7347,
+   "punch": 0.3523
+  },
+  "sent-2026-09-08b::78bf01919cab": {
+   "id": "CRVI002508",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002508.jpg",
+   "original_px": [
+    800,
+    1212
+   ],
+   "original_bytes": 74097,
+   "identity": "sent-2026-09-08b::78bf01919cab",
+   "source_url": "https://i.pinimg.com/originals/ea/7c/e4/ea7ce42ba2dc3d61b0f61c8d627f0421.jpg",
+   "maker": "Milton Glaser",
+   "title": "Floating pear",
+   "subtitle": "",
+   "year": "1977",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF CARRIES THE WHOLE RECORD, printed below the image: 'Floating pear', 'Galerie d'actualité du C C I   juillet-août 1977', 'Réalisation Landau-Larivière', 'Imprimerie Serg, Ivry' and 'Centre Georges Pompidou / C C I, 1977', with a © MILTON GLASER cartouche inside the green field. ⚠️ The hosting file is a bare Pinterest original that names nobody — everything above is read off the poster. ⚠️ At 800x1212 it sits exactly on the archive's 800 px floor, and `i.pinimg.com/originals/` is Pinterest's top tier, so there is nothing larger at that address.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img60/08.jpg",
+   "source_px": [
+    800,
+    1212
+   ],
+   "colors": [
+    "green",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "designer",
+     "v": "Milton Glaser"
+    },
+    {
+     "k": "client",
+     "v": "Centre Georges Pompidou"
+    },
+    {
+     "k": "client",
+     "v": "Centre de Création Industrielle"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "city",
+     "v": "Paris"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF CARRIES THE WHOLE RECORD, printed below the image: 'Floating pear', 'Galerie d'actualité du C C I   juillet-août 1977', 'Réalisation Landau-Larivière', 'Imprimerie Serg, Ivry' and 'Centre Georges Pompidou / C C I, 1977', with a © MILTON GLASER cartouche inside the green field. ⚠️ The hosting file is a bare Pinterest original that names nobody — everything above is read off the poster. ⚠️ At 800x1212 it sits exactly on the archive's 800 px floor, and `i.pinimg.com/originals/` is Pinterest's top tier, so there is nothing larger at that address.",
+   "hue": 89.28,
+   "light": 0.6815,
+   "chroma": 0.4237,
+   "punch": 0.1334
+  },
+  "sent-2026-09-08c::033d49e5f415": {
+   "id": "CRVI002509",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002509.jpg",
+   "original_px": [
+    2480,
+    3508
+   ],
+   "original_bytes": 830536,
+   "identity": "sent-2026-09-08c::033d49e5f415",
+   "source_url": "https://danrawlinson.design/wp-content/uploads/2019/04/josef-muller-brockmann-poster.jpg",
+   "maker": "Dan Rawlinson",
+   "title": "Josef Müller-Brockmann",
+   "subtitle": "",
+   "year": "2019",
+   "label": "",
+   "verified_against": "⚠️ NOT BY MÜLLER-BROCKMANN — a poster ABOUT him. Dan Rawlinson's own site publishes it in 'Graphic Design Timeline: Josef Müller-Brockmann', 11 April 2019, where he writes: 'For the Graphic Design Timeline, the task I was given was to create two posters of two influential designers, containing information about them in their styles.' (The other was Paula Scher.) The sheet prints his name over a three-column biography, in navy and peach diagonals.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img61/01.jpg",
+   "source_px": [
+    2480,
+    3508
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "designer",
+     "v": "Dan Rawlinson"
+    },
+    {
+     "k": "subject",
+     "v": "Josef Müller-Brockmann"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ NOT BY MÜLLER-BROCKMANN — a poster ABOUT him. Dan Rawlinson's own site publishes it in 'Graphic Design Timeline: Josef Müller-Brockmann', 11 April 2019, where he writes: 'For the Graphic Design Timeline, the task I was given was to create two posters of two influential designers, containing information about them in their styles.' (The other was Paula Scher.) The sheet prints his name over a three-column biography, in navy and peach diagonals.",
+   "hue": 224.93,
+   "light": 0.4,
+   "chroma": 0.6607,
+   "punch": 0.1058
+  },
+  "sent-2026-09-08c::e0f4dd3a380f": {
+   "id": "CRVI002510",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002510.jpg",
+   "original_px": [
+    1920,
+    2719
+   ],
+   "original_bytes": 319333,
+   "identity": "sent-2026-09-08c::e0f4dd3a380f",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Josef_M%C3%BCller-Brockmann_1957.jpg",
+   "maker": "Josef Müller-Brockmann",
+   "title": "Juni-Festwochen Zürich 1957",
+   "subtitle": "",
+   "year": "1957",
+   "label": "",
+   "verified_against": "Wikimedia Commons file page: 'Poster for Juni-Festwochen Zürich (1957) designed by Josef Müller-Brockmann', 1957, public domain. The sheet itself prints juni-festwochen zürich 1957, 4. junifestkonzert, tonhalle grosser saal, dienstag 2. juli and mittwoch 3. juli 1957, leitung carl schuricht, solisten maria stader sopran / katharina marti alt / josef traxel tenor / otto von rohr bass, gemischter chor zürich, beethoven neunte sinfonie in d-moll op. 125 — the yellow and grey stepped rectangles standing for the four movements.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img61/02.jpg",
+   "source_px": [
+    1920,
+    2719
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "designer",
+     "v": "Josef Müller-Brockmann"
+    },
+    {
+     "k": "client",
+     "v": "Tonhalle-Gesellschaft Zürich"
+    },
+    {
+     "k": "musician",
+     "v": "Ludwig van Beethoven"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "city",
+     "v": "Zürich"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons file page: 'Poster for Juni-Festwochen Zürich (1957) designed by Josef Müller-Brockmann', 1957, public domain. The sheet itself prints juni-festwochen zürich 1957, 4. junifestkonzert, tonhalle grosser saal, dienstag 2. juli and mittwoch 3. juli 1957, leitung carl schuricht, solisten maria stader sopran / katharina marti alt / josef traxel tenor / otto von rohr bass, gemischter chor zürich, beethoven neunte sinfonie in d-moll op. 125 — the yellow and grey stepped rectangles standing for the four movements.",
+   "hue": 35.22,
+   "light": 0.6854,
+   "chroma": 0.7524,
+   "punch": 0.4904
+  },
+  "sent-2026-09-08c::3d320a3509a1": {
+   "id": "CRVI002511",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002511.jpg",
+   "original_px": [
+    1423,
+    2000
+   ],
+   "original_bytes": 366088,
+   "identity": "sent-2026-09-08c::3d320a3509a1",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Josef_M%C3%BCller-Brockmann_der_Film.jpg",
+   "maker": "Josef Müller-Brockmann",
+   "title": "der Film",
+   "subtitle": "",
+   "year": "1960",
+   "label": "",
+   "verified_against": "Wikimedia Commons file page: 'Offset lithograph poster for Der Film by Josef Müller-Brockmann, 1960', public domain, credited to MoMA's collection record 4882. The sheet prints Kunstgewerbemuseum Zürich Ausstellung, der Film, 10. Januar bis 30. April 1960, with the opening hours — the two words overlapping so that 'der' is read through 'Film'.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img61/03.jpg",
+   "source_px": [
+    1423,
+    2000
+   ],
+   "colors": [
+    "yellow",
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "designer",
+     "v": "Josef Müller-Brockmann"
+    },
+    {
+     "k": "client",
+     "v": "Kunstgewerbemuseum Zürich"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "city",
+     "v": "Zürich"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons file page: 'Offset lithograph poster for Der Film by Josef Müller-Brockmann, 1960', public domain, credited to MoMA's collection record 4882. The sheet prints Kunstgewerbemuseum Zürich Ausstellung, der Film, 10. Januar bis 30. April 1960, with the opening hours — the two words overlapping so that 'der' is read through 'Film'.",
+   "hue": 356.53,
+   "light": 0.1652,
+   "chroma": 0.1164,
+   "punch": 0.0546
+  },
+  "sent-2026-09-08c::3e0f09aab2f6": {
+   "id": "CRVI002512",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002512.jpg",
+   "original_px": [
+    3543,
+    5000
+   ],
+   "original_bytes": 1598279,
+   "identity": "sent-2026-09-08c::3e0f09aab2f6",
+   "source_url": "https://www.grapheine.com/wp-content/uploads/2013/03/MULLER-BROCKMANN-10.jpg",
+   "maker": "Josef Müller-Brockmann",
+   "title": "Automobil-Club der Schweiz: schützt das Kind!",
+   "subtitle": "",
+   "year": "1953",
+   "label": "",
+   "verified_against": "A well-recorded sheet: Artsy, Wright (Every Day is Different: The Collection of Jason Pickleman, 14 September 2023, lot 222) and Cooper Hewitt all catalogue it as Josef Müller-Brockmann, 'Automobil-Club der Schweiz, Schützt das Kind! (Protect the Children!)', 1953 — a road-safety photomontage for the Automobile Club of Switzerland, a motorcycle wheel filling the left of the sheet and a small boy running at the lower right. ℹ️ THE PHOTOGRAPH IS NOT HIS: it is by Ernst A. Heiniger, printed by Lithographie & Cartonnage AG, and is recorded separately here.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img61/04.jpg",
+   "source_px": [
+    3543,
+    5000
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "designer",
+     "v": "Josef Müller-Brockmann"
+    },
+    {
+     "k": "photographer",
+     "v": "Ernst A. Heiniger"
+    },
+    {
+     "k": "client",
+     "v": "Automobil-Club der Schweiz"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "city",
+     "v": "Zürich"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A well-recorded sheet: Artsy, Wright (Every Day is Different: The Collection of Jason Pickleman, 14 September 2023, lot 222) and Cooper Hewitt all catalogue it as Josef Müller-Brockmann, 'Automobil-Club der Schweiz, Schützt das Kind! (Protect the Children!)', 1953 — a road-safety photomontage for the Automobile Club of Switzerland, a motorcycle wheel filling the left of the sheet and a small boy running at the lower right. ℹ️ THE PHOTOGRAPH IS NOT HIS: it is by Ernst A. Heiniger, printed by Lithographie & Cartonnage AG, and is recorded separately here.",
+   "hue": null,
+   "light": 0.4116,
+   "chroma": 0.0029,
+   "punch": 0.0121
+  },
+  "sent-2026-09-08c::a11d84a85e48": {
+   "id": "CRVI002513",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002513.jpg",
+   "original_px": [
+    1162,
+    1600
+   ],
+   "original_bytes": 242191,
+   "identity": "sent-2026-09-08c::a11d84a85e48",
+   "source_url": "https://i.pinimg.com/originals/91/ff/ad/91ffadb631ad48012f2293ab911da56f.jpg",
+   "maker": "Josef Müller-Brockmann",
+   "title": "Juni-Festwochen Zürich 1959",
+   "subtitle": "",
+   "year": "1959",
+   "label": "",
+   "verified_against": "THE SHEET'S OWN MARGIN CREDIT, read by enlarging the hairline vertical strip at the right edge six times: 'j. müller-brockmann' followed by the printer's line. The face of the poster prints juni-festwochen zürich 1959, tonhalle grosser saal, dienstag 2. juni 1959 20.15 uhr, 1. konzert der tonhalle-gesellschaft zürich, leitung hans rosbaud, solisten maria stader / anton fietz / pierre fournier, and the programme — frank martin, ouverture en hommage à mozart; willy burkhard, cellokonzert op. 60; rolf liebermann, capriccio für sopran, violine und orchester; arthur honegger, dritte sinfonie 'liturgique'. ⚠️ The hosting file is a bare Pinterest original that names nobody.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img61/05.jpg",
+   "source_px": [
+    1162,
+    1600
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "designer",
+     "v": "Josef Müller-Brockmann"
+    },
+    {
+     "k": "client",
+     "v": "Tonhalle-Gesellschaft Zürich"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "city",
+     "v": "Zürich"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET'S OWN MARGIN CREDIT, read by enlarging the hairline vertical strip at the right edge six times: 'j. müller-brockmann' followed by the printer's line. The face of the poster prints juni-festwochen zürich 1959, tonhalle grosser saal, dienstag 2. juni 1959 20.15 uhr, 1. konzert der tonhalle-gesellschaft zürich, leitung hans rosbaud, solisten maria stader / anton fietz / pierre fournier, and the programme — frank martin, ouverture en hommage à mozart; willy burkhard, cellokonzert op. 60; rolf liebermann, capriccio für sopran, violine und orchester; arthur honegger, dritte sinfonie 'liturgique'. ⚠️ The hosting file is a bare Pinterest original that names nobody.",
+   "hue": 225.44,
+   "light": 0.6707,
+   "chroma": 0.3872,
+   "punch": 0.1375
+  },
+  "sent-2026-09-08c::90542a2ccb40": {
+   "id": "CRVI002514",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002514.jpg",
+   "original_px": [
+    2638,
+    3763
+   ],
+   "original_bytes": 748901,
+   "identity": "sent-2026-09-08c::90542a2ccb40",
+   "source_url": "https://a.1stdibscdn.com/josef-muller-brockmann-prints-works-on-paper-opernhaus-zurich-cavalleria-rusticana-original-vintage-opera-poster-for-sale/a_13322/1582323512666/SWX25510_master.jpg?width=8000&disable=upscale",
+   "maker": "Josef Müller-Brockmann",
+   "title": "Opernhaus Zürich: Cavalleria rusticana / I Pagliacci",
+   "subtitle": "",
+   "year": "1973",
+   "label": "",
+   "verified_against": "1stDibs listing id-a_5765851, 'Josef Müller-Brockmann, Opernhaus Zürich - Cavalleria rusticana, original vintage opera poster', 1973, 127 x 90 cm, unbacked paper. The sheet prints Opernhaus Zürich, Neuinszenierung Samstag 17. März 1973 20 Uhr, Cavalleria rusticana (Melodram von Pietro Mascagni) and I Pagliacci (Drama von Ruggero Leoncavallo), with the musical direction, production, sets and cast. ℹ️ Dealers catalogue the Opernhaus posters of these years under both his name and 'Müller-Brockmann Atelier' — his agency, Müller-Brockmann & Co., founded 1967.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img61/06.jpg",
+   "source_px": [
+    2638,
+    3763
+   ],
+   "colors": [
+    "red",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "theatre poster"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "designer",
+     "v": "Josef Müller-Brockmann"
+    },
+    {
+     "k": "client",
+     "v": "Opernhaus Zürich"
+    },
+    {
+     "k": "subject",
+     "v": "opera"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "city",
+     "v": "Zürich"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "1stDibs listing id-a_5765851, 'Josef Müller-Brockmann, Opernhaus Zürich - Cavalleria rusticana, original vintage opera poster', 1973, 127 x 90 cm, unbacked paper. The sheet prints Opernhaus Zürich, Neuinszenierung Samstag 17. März 1973 20 Uhr, Cavalleria rusticana (Melodram von Pietro Mascagni) and I Pagliacci (Drama von Ruggero Leoncavallo), with the musical direction, production, sets and cast. ℹ️ Dealers catalogue the Opernhaus posters of these years under both his name and 'Müller-Brockmann Atelier' — his agency, Müller-Brockmann & Co., founded 1967.",
+   "hue": 11.67,
+   "light": 0.7127,
+   "chroma": 0.6118,
+   "punch": 0.4429
+  },
+  "sent-2026-09-08c::a66cce741634": {
+   "id": "CRVI002515",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002515.jpg",
+   "original_px": [
+    4200,
+    5985
+   ],
+   "original_bytes": 4827340,
+   "identity": "sent-2026-09-08c::a66cce741634",
+   "source_url": "https://mir-s3-cdn-cf.behance.net/project_modules/source/1310a114010339.5627be77770a9.jpg",
+   "maker": "Unattributed",
+   "title": "Josef Müller-Brockmann, construction analysis and timeline",
+   "subtitle": "",
+   "year": "2015",
+   "label": "",
+   "verified_against": "⚠️ NOT BY MÜLLER-BROCKMANN — a poster ABOUT him, and its maker is NOT ESTABLISHED. It lays coloured construction lines, golden-section rectangles and arcs over his 1955 Beethoven poster, sets JOSEF MÜLLER BROCK MANN in the left margin, and runs a dated life timeline (1914 born in Rapperswil … 1996 died) across the foot. The file is a bare Behance project module naming no author; its filename hash decodes to a 21 October 2015 upload, which is the year given here. Searching Behance and the web for the project returned nothing.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img61/07.jpg",
+   "source_px": [
+    4200,
+    5985
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "subject",
+     "v": "Josef Müller-Brockmann"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ NOT BY MÜLLER-BROCKMANN — a poster ABOUT him, and its maker is NOT ESTABLISHED. It lays coloured construction lines, golden-section rectangles and arcs over his 1955 Beethoven poster, sets JOSEF MÜLLER BROCK MANN in the left margin, and runs a dated life timeline (1914 born in Rapperswil … 1996 died) across the foot. The file is a bare Behance project module naming no author; its filename hash decodes to a 21 October 2015 upload, which is the year given here. Searching Behance and the web for the project returned nothing.",
+   "hue": 6.89,
+   "light": 0.5567,
+   "chroma": 0.1202,
+   "punch": 0.0415
+  },
+  "sent-2026-09-08c::d9e774eea2ed": {
+   "id": "CRVI002516",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002516.jpg",
+   "original_px": [
+    1423,
+    2000
+   ],
+   "original_bytes": 394525,
+   "identity": "sent-2026-09-08c::d9e774eea2ed",
+   "source_url": "https://graphicold.com/wp-content/uploads/2023/08/josef-mller-brockmann-moma.jpg",
+   "maker": "Josef Müller-Brockmann",
+   "title": "musica viva",
+   "subtitle": "",
+   "year": "1959",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF, which prints musica viva, 19. volkskonzert der tonhalle-gesellschaft zürich, dienstag 5. mai 1959 20.15 uhr, tonhalle großer saal, leitung hans rosbaud, solist wolfgang marschner, and the programme — anton von webern, sechs orchesterstücke op. 6; arnold schönberg, violinkonzert op. 36; alban berg, drei orchesterstücke op. 6. The musica viva series for the Zurich Tonhalle is Müller-Brockmann's best-known body of work and is held by MoMA, the V&A and the Museum für Gestaltung Zürich; the hosting filename (`josef-mller-brockmann-moma`) names him and MoMA, though the site itself carries no caption.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img61/08.jpg",
+   "source_px": [
+    1423,
+    2000
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "designer",
+     "v": "Josef Müller-Brockmann"
+    },
+    {
+     "k": "client",
+     "v": "Tonhalle-Gesellschaft Zürich"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "city",
+     "v": "Zürich"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, which prints musica viva, 19. volkskonzert der tonhalle-gesellschaft zürich, dienstag 5. mai 1959 20.15 uhr, tonhalle großer saal, leitung hans rosbaud, solist wolfgang marschner, and the programme — anton von webern, sechs orchesterstücke op. 6; arnold schönberg, violinkonzert op. 36; alban berg, drei orchesterstücke op. 6. The musica viva series for the Zurich Tonhalle is Müller-Brockmann's best-known body of work and is held by MoMA, the V&A and the Museum für Gestaltung Zürich; the hosting filename (`josef-mller-brockmann-moma`) names him and MoMA, though the site itself carries no caption.",
+   "hue": 47.97,
+   "light": 0.7957,
+   "chroma": 0.3821,
+   "punch": 0.0476
+  },
+  "sent-2026-09-08c::b42c0356a7fd": {
+   "id": "CRVI002517",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002517.jpg",
+   "original_px": [
+    3375,
+    5173
+   ],
+   "original_bytes": 1300139,
+   "identity": "sent-2026-09-08c::b42c0356a7fd",
+   "source_url": "https://i.pinimg.com/originals/ee/30/da/ee30daf8d03b66dca361971cfe09346b.jpg",
+   "maker": "Unattributed",
+   "title": "type talks",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "⚠️ NOT BY MÜLLER-BROCKMANN — a lecture-series poster in his idiom, and its designer is NOT ESTABLISHED. The sheet prints 'type talks', '100 n university dr, edmond', 'jessica hische, april 22nd / james victore, may 12th / paula scher, may 18th', 'all-night jazz show', 'student art exhibition', 'free admission, lectures at 6-10 p.m.' and 'listen to type speak · uco.edu/typetalks' — the University of Central Oklahoma, Edmond. The file is a bare Pinterest original that names no maker and gives no year.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img61/09.jpg",
+   "source_px": [
+    3375,
+    5173
+   ],
+   "colors": [
+    "orange",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "event poster"
+    },
+    {
+     "k": "client",
+     "v": "University of Central Oklahoma"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "city",
+     "v": "Edmond"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ NOT BY MÜLLER-BROCKMANN — a lecture-series poster in his idiom, and its designer is NOT ESTABLISHED. The sheet prints 'type talks', '100 n university dr, edmond', 'jessica hische, april 22nd / james victore, may 12th / paula scher, may 18th', 'all-night jazz show', 'student art exhibition', 'free admission, lectures at 6-10 p.m.' and 'listen to type speak · uco.edu/typetalks' — the University of Central Oklahoma, Edmond. The file is a bare Pinterest original that names no maker and gives no year.",
+   "hue": 36.04,
+   "light": 0.6192,
+   "chroma": 0.7551,
+   "punch": 0.2032
+  },
+  "sent-2026-09-08c::0419b9662902": {
+   "id": "CRVI002518",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002518.jpg",
+   "original_px": [
+    3514,
+    5000
+   ],
+   "original_bytes": 1106973,
+   "identity": "sent-2026-09-08c::0419b9662902",
+   "source_url": "https://www.grapheine.com/wp-content/uploads/2013/03/MULLER_BROCKMANN_19.jpg",
+   "maker": "Josef Müller-Brockmann",
+   "title": "Strawinsky / Fortner / Berg",
+   "subtitle": "",
+   "year": "1955",
+   "label": "",
+   "verified_against": "THE SHEET'S OWN MARGIN CREDIT: 'J. Müller-Brockmann  Druck: Lithographie & Cartonnage AG Zürich'. The face prints tonhalle grosser saal, donnerstag den 6. januar 1955 20.15 uhr, 12. volkskonzert der tonhalle-gesellschaft, leitung erich schmid, solisten touty druey and walter lang klavier, and the programme — i. strawinsky, symphonie d'instruments à vent; w. fortner, fantasie über bach für zwei klaviere und orchester; alban berg, lulu-sinfonie. Dealers record it at 90 x 127 cm. ⚠️ THIS IS THE BLACK PRINTING; the blue one is in this same batch and carries the identical credit line.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img61/10.jpg",
+   "source_px": [
+    3514,
+    5000
+   ],
+   "colors": [
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "designer",
+     "v": "Josef Müller-Brockmann"
+    },
+    {
+     "k": "client",
+     "v": "Tonhalle-Gesellschaft Zürich"
+    },
+    {
+     "k": "musician",
+     "v": "Igor Stravinsky"
+    },
+    {
+     "k": "musician",
+     "v": "Alban Berg"
+    },
+    {
+     "k": "musician",
+     "v": "Wolfgang Fortner"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "city",
+     "v": "Zürich"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET'S OWN MARGIN CREDIT: 'J. Müller-Brockmann  Druck: Lithographie & Cartonnage AG Zürich'. The face prints tonhalle grosser saal, donnerstag den 6. januar 1955 20.15 uhr, 12. volkskonzert der tonhalle-gesellschaft, leitung erich schmid, solisten touty druey and walter lang klavier, and the programme — i. strawinsky, symphonie d'instruments à vent; w. fortner, fantasie über bach für zwei klaviere und orchester; alban berg, lulu-sinfonie. Dealers record it at 90 x 127 cm. ⚠️ THIS IS THE BLACK PRINTING; the blue one is in this same batch and carries the identical credit line.",
+   "hue": null,
+   "light": 0.1439,
+   "chroma": 0.0,
+   "punch": 0.0012
+  },
+  "sent-2026-09-08c::a01ba6283886": {
+   "id": "CRVI002519",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002519.webp",
+   "original_px": [
+    2560,
+    3680
+   ],
+   "original_bytes": 98196,
+   "identity": "sent-2026-09-08c::a01ba6283886",
+   "source_url": "https://grapheine.com/wp-content/uploads/2013/03/brockmann-poster-sammlung-zurich-2560x3680.webp",
+   "maker": "Josef Müller-Brockmann",
+   "title": "Helmhaus Zürich: Aus der Sammlung des Kunsthauses Zürich, Neuere Schweizer Kunst",
+   "subtitle": "",
+   "year": "1953",
+   "label": "",
+   "verified_against": "The Museum für Gestaltung Zürich / ZHdK poster archive records it as Josef Müller-Brockmann, 1953, single-colour letterpress, 100 x 70 cm, reference ZHdK_07-0823. The sheet prints Helmhaus Zürich, Aus der Sammlung des Kunsthauses Zürich, Neuere Schweizer Kunst, 18. Aug. bis 13. Sept. 1953, with the opening hours — black bars stepping down a pale field.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img61/11.webp",
+   "source_px": [
+    2560,
+    3680
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "designer",
+     "v": "Josef Müller-Brockmann"
+    },
+    {
+     "k": "client",
+     "v": "Helmhaus Zürich"
+    },
+    {
+     "k": "client",
+     "v": "Kunsthaus Zürich"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "city",
+     "v": "Zürich"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Museum für Gestaltung Zürich / ZHdK poster archive records it as Josef Müller-Brockmann, 1953, single-colour letterpress, 100 x 70 cm, reference ZHdK_07-0823. The sheet prints Helmhaus Zürich, Aus der Sammlung des Kunsthauses Zürich, Neuere Schweizer Kunst, 18. Aug. bis 13. Sept. 1953, with the opening hours — black bars stepping down a pale field.",
+   "hue": null,
+   "light": 0.713,
+   "chroma": 0.0041,
+   "punch": 0.0189
+  },
+  "sent-2026-09-08c::b3735dde78c4": {
+   "id": "CRVI002520",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002520.png",
+   "original_px": [
+    1000,
+    1298
+   ],
+   "original_bytes": 460742,
+   "identity": "sent-2026-09-08c::b3735dde78c4",
+   "source_url": "https://i.pinimg.com/originals/c8/f4/d8/c8f4d8c67949fd5881fef21000492f19.png",
+   "maker": "Unattributed",
+   "title": "Graphiq Magazine Issue 2: Josef Müller-Brockmann, Leader of the Swiss style",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "⚠️ NOT BY MÜLLER-BROCKMANN — a tribute cover ABOUT him, and its designer is NOT ESTABLISHED. The cover prints 'Graphiq Magazine Issue 2', 'Leader of the Swiss style' and his name, over black, blue and red diagonals, with a five-dot palette key below the rule. The file is a bare Pinterest original; the closest visual match Google returns is a Swiss-style pastiche site. No year is given anywhere.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img61/12.png",
+   "source_px": [
+    1000,
+    1298
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "subject",
+     "v": "Josef Müller-Brockmann"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ NOT BY MÜLLER-BROCKMANN — a tribute cover ABOUT him, and its designer is NOT ESTABLISHED. The cover prints 'Graphiq Magazine Issue 2', 'Leader of the Swiss style' and his name, over black, blue and red diagonals, with a five-dot palette key below the rule. The file is a bare Pinterest original; the closest visual match Google returns is a Swiss-style pastiche site. No year is given anywhere.",
+   "hue": 36.81,
+   "light": 0.6611,
+   "chroma": 0.6901,
+   "punch": 0.1359
+  },
+  "sent-2026-09-08c::3e647937b06c": {
+   "id": "CRVI002521",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002521.jpg",
+   "original_px": [
+    1512,
+    2144
+   ],
+   "original_bytes": 143797,
+   "identity": "sent-2026-09-08c::3e647937b06c",
+   "source_url": "https://i.pinimg.com/originals/89/61/a3/8961a39ddb6e38eb3eec1d39598b18e5.jpg",
+   "maker": "Josef Müller-Brockmann",
+   "title": "Opernhaus Zürich: Die schalkhafte Witwe",
+   "subtitle": "",
+   "year": "1971",
+   "label": "",
+   "verified_against": "PosterConnection Inc., San Francisco, lot description: 'Müller-Brockmann, Josef 1914 - 1996. Opernhaus Zürich - Die schalkhafte Witwe. Technique: Silkscreen 1971. Size: 50.3 x 35.4 in. (128 x 90 cm).' The sheet prints Opernhaus Zürich, Die schalkhafte Witwe, Komische Oper von Ermanno Wolf-Ferrari, Erstaufführung Samstag 13. November 1971 20 Uhr, musikalische Leitung Frank Egermann, Inszenierung Martin Markun, Bühnenbild/Kostüme Toni Businger — a single red mouth on pink. ⚠️ The hosting file is a bare Pinterest original.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img61/13.jpg",
+   "source_px": [
+    1512,
+    2144
+   ],
+   "colors": [
+    "pink",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "theatre poster"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "designer",
+     "v": "Josef Müller-Brockmann"
+    },
+    {
+     "k": "client",
+     "v": "Opernhaus Zürich"
+    },
+    {
+     "k": "subject",
+     "v": "opera"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "city",
+     "v": "Zürich"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "PosterConnection Inc., San Francisco, lot description: 'Müller-Brockmann, Josef 1914 - 1996. Opernhaus Zürich - Die schalkhafte Witwe. Technique: Silkscreen 1971. Size: 50.3 x 35.4 in. (128 x 90 cm).' The sheet prints Opernhaus Zürich, Die schalkhafte Witwe, Komische Oper von Ermanno Wolf-Ferrari, Erstaufführung Samstag 13. November 1971 20 Uhr, musikalische Leitung Frank Egermann, Inszenierung Martin Markun, Bühnenbild/Kostüme Toni Businger — a single red mouth on pink. ⚠️ The hosting file is a bare Pinterest original.",
+   "hue": 329.28,
+   "light": 0.6501,
+   "chroma": 1.0,
+   "punch": 0.3886
+  },
+  "sent-2026-09-08c::d3e45e96563d": {
+   "id": "CRVI002522",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002522.png",
+   "original_px": [
+    1000,
+    1462
+   ],
+   "original_bytes": 751839,
+   "identity": "sent-2026-09-08c::d3e45e96563d",
+   "source_url": "https://i.pinimg.com/originals/a0/73/b6/a073b6c0066f48e952bb1f96e851605b.png",
+   "maker": "Unattributed",
+   "title": "Dynamic Perspective: Optically Intriguing",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "⚠️ NOT BY MÜLLER-BROCKMANN — a poster ABOUT him, and its designer is NOT ESTABLISHED. Four columns of biography ('Josef Mueller-Brockmann was a graphic designer active and popular from the 1960's to 80's…') under the heading 'Dynamic Perspective / Optically Intriguing', with red and orange diagonals on dark green. ⚠️ The body text lines do not align with one another, and it misspells his name as Mueller throughout — this is student work, not the designer it describes. The file is a bare Pinterest original with no year.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img61/14.png",
+   "source_px": [
+    1000,
+    1462
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "subject",
+     "v": "Josef Müller-Brockmann"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ NOT BY MÜLLER-BROCKMANN — a poster ABOUT him, and its designer is NOT ESTABLISHED. Four columns of biography ('Josef Mueller-Brockmann was a graphic designer active and popular from the 1960's to 80's…') under the heading 'Dynamic Perspective / Optically Intriguing', with red and orange diagonals on dark green. ⚠️ The body text lines do not align with one another, and it misspells his name as Mueller throughout — this is student work, not the designer it describes. The file is a bare Pinterest original with no year.",
+   "hue": 184.91,
+   "light": 0.2957,
+   "chroma": 0.9842,
+   "punch": 0.3746
+  },
+  "sent-2026-09-08c::1768c2028458": {
+   "id": "CRVI002523",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002523.jpg",
+   "original_px": [
+    1866,
+    2611
+   ],
+   "original_bytes": 463744,
+   "identity": "sent-2026-09-08c::1768c2028458",
+   "source_url": "https://i.pinimg.com/originals/0a/28/11/0a28112ca0e47eca5b6ad047f38e760b.jpg",
+   "maker": "Josef Müller-Brockmann",
+   "title": "Strawinsky / Fortner / Berg (blue printing)",
+   "subtitle": "",
+   "year": "1955",
+   "label": "",
+   "verified_against": "THE SHEET'S OWN MARGIN CREDIT, identical to the black sheet in this batch: 'J. Müller-Brockmann  Druck: Lithographie & Cartonnage AG Zürich', with the same 12. volkskonzert der tonhalle-gesellschaft, donnerstag den 6. januar 1955, and the same Strawinsky / Fortner / Berg programme. ⚠️ THIS IS A DIFFERENT PHYSICAL SHEET, NOT A DIGITAL RECOLOUR of the black one: binarised and cross-correlated against it, the best alignment ran off the ±6 px search window and still differed by 8 per cent. ⚠️ WHETHER IT IS AN ORIGINAL 1955 PRINTING IS NOT ESTABLISHED — Ambassador Arts / Serigrafia issued a signed reprint edition in 1995 whose only stated difference is an added credit line, and no such line is visible here.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img61/15.jpg",
+   "source_px": [
+    1866,
+    2611
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "designer",
+     "v": "Josef Müller-Brockmann"
+    },
+    {
+     "k": "client",
+     "v": "Tonhalle-Gesellschaft Zürich"
+    },
+    {
+     "k": "musician",
+     "v": "Igor Stravinsky"
+    },
+    {
+     "k": "musician",
+     "v": "Alban Berg"
+    },
+    {
+     "k": "musician",
+     "v": "Wolfgang Fortner"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "city",
+     "v": "Zürich"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET'S OWN MARGIN CREDIT, identical to the black sheet in this batch: 'J. Müller-Brockmann  Druck: Lithographie & Cartonnage AG Zürich', with the same 12. volkskonzert der tonhalle-gesellschaft, donnerstag den 6. januar 1955, and the same Strawinsky / Fortner / Berg programme. ⚠️ THIS IS A DIFFERENT PHYSICAL SHEET, NOT A DIGITAL RECOLOUR of the black one: binarised and cross-correlated against it, the best alignment ran off the ±6 px search window and still differed by 8 per cent. ⚠️ WHETHER IT IS AN ORIGINAL 1955 PRINTING IS NOT ESTABLISHED — Ambassador Arts / Serigrafia issued a signed reprint edition in 1995 whose only stated difference is an added credit line, and no such line is visible here.",
+   "hue": 224.81,
+   "light": 0.3889,
+   "chroma": 0.9188,
+   "punch": 0.3829
+  },
+  "sent-2026-09-08d::2a1cca03a476": {
+   "id": "CRVI002524",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002524.jpg",
+   "original_px": [
+    1411,
+    1400
+   ],
+   "original_bytes": 145041,
+   "identity": "sent-2026-09-08d::2a1cca03a476",
+   "source_url": "https://i.pinimg.com/originals/4c/fc/24/4cfc245fc7f9d6c99c927ed2b523f53d.jpg",
+   "maker": "Mingering Mike",
+   "title": "Slow 'n' Easy",
+   "subtitle": "",
+   "year": "",
+   "label": "Decision",
+   "verified_against": "THE SLEEVE ITSELF, hand-drawn in marker on blue card: the Decision label mark with 'A Ming/War Production', 'DEC. 753' at the upper right, 'STEREO' at the upper left, 'MINGERING MIKE SAY'S ON SOMETHINGS YOU'VE GOT TO TAKE IT' across the top and the title with his name at the right; a figure in green and yellow crouches over a scene of children skipping on steps, with 'UH! AND ANOTHER ONE NEXT MONTH.' in the corner. ⚠️ DEC. 753 is a catalogue number, not a date. ⚠️ The hosting file is a bare Pinterest original that names nobody.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img62/01.jpg",
+   "source_px": [
+    1411,
+    1400
+   ],
+   "colors": [
+    "blue",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "musician",
+     "v": "Mingering Mike"
+    },
+    {
+     "k": "designer",
+     "v": "Mingering Mike"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "city",
+     "v": "Washington, D.C."
+    },
+    {
+     "k": "subject",
+     "v": "soul"
+    },
+    {
+     "k": "label",
+     "v": "Decision"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SLEEVE ITSELF, hand-drawn in marker on blue card: the Decision label mark with 'A Ming/War Production', 'DEC. 753' at the upper right, 'STEREO' at the upper left, 'MINGERING MIKE SAY'S ON SOMETHINGS YOU'VE GOT TO TAKE IT' across the top and the title with his name at the right; a figure in green and yellow crouches over a scene of children skipping on steps, with 'UH! AND ANOTHER ONE NEXT MONTH.' in the corner. ⚠️ DEC. 753 is a catalogue number, not a date. ⚠️ The hosting file is a bare Pinterest original that names nobody.",
+   "hue": 211.91,
+   "light": 0.4057,
+   "chroma": 0.8366,
+   "punch": 0.233
+  },
+  "sent-2026-09-08d::1ec2b145da9b": {
+   "id": "CRVI002525",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002525.jpg",
+   "original_px": [
+    960,
+    975
+   ],
+   "original_bytes": 118149,
+   "identity": "sent-2026-09-08d::1ec2b145da9b",
+   "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/0bb9229c-0028-422c-a07d-ffff2bae0ec0_960x975.jpeg",
+   "maker": "Mingering Mike",
+   "title": "The Two Sides of Mingering Mike",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "THE SLEEVE ITSELF, on red card: 'THE TWO SIDES OF MINGERING MIKE' above a two-tone profile in a green hat, 'STEREO' upper left, a 'MING/WAR PRODUCTION' mark upper centre, and the sides listed at the foot — 'DO IT! (DO WHAT YOU WANT) I'M NOT THE MARRYING KIND' and 'HEY GIRL (SOLONG BYE BYE) MAY THE LORD WATCH OVER ME'. ⚠️ The link is a Substack CDN fetch wrapper; unwrapped to the S3 original, which names nobody.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img62/02.jpg",
+   "source_px": [
+    960,
+    975
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "musician",
+     "v": "Mingering Mike"
+    },
+    {
+     "k": "designer",
+     "v": "Mingering Mike"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "city",
+     "v": "Washington, D.C."
+    },
+    {
+     "k": "subject",
+     "v": "soul"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SLEEVE ITSELF, on red card: 'THE TWO SIDES OF MINGERING MIKE' above a two-tone profile in a green hat, 'STEREO' upper left, a 'MING/WAR PRODUCTION' mark upper centre, and the sides listed at the foot — 'DO IT! (DO WHAT YOU WANT) I'M NOT THE MARRYING KIND' and 'HEY GIRL (SOLONG BYE BYE) MAY THE LORD WATCH OVER ME'. ⚠️ The link is a Substack CDN fetch wrapper; unwrapped to the S3 original, which names nobody.",
+   "hue": 356.99,
+   "light": 0.511,
+   "chroma": 0.9712,
+   "punch": 0.413
+  },
+  "sent-2026-09-08d::0f6b5b7385fb": {
+   "id": "CRVI002526",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002526.jpg",
+   "original_px": [
+    1224,
+    1159
+   ],
+   "original_bytes": 172746,
+   "identity": "sent-2026-09-08d::0f6b5b7385fb",
+   "source_url": "https://i.pinimg.com/originals/d8/f8/f8/d8f8f831edf59c486b565323a2857582.jpg",
+   "maker": "Mingering Mike",
+   "title": "3 Footsteps Away from the Altar",
+   "subtitle": "",
+   "year": "",
+   "label": "Precision",
+   "verified_against": "THE SLEEVE ITSELF: '3 FOOTSTEPS away from the altar' in red and purple lettering, 'mingering mike & the big D' at the right, 'PRECISION RECORDS NO 9003' and 'STEREO' along the top, three white footprints walking up the field, and the track list at the left — 3 Footsteps Away from the Altar / Good to Have Someone Around / The 700's of Love / Good Sweet Woman. ⚠️ The hosting file is a bare Pinterest original that names nobody.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img62/03.jpg",
+   "source_px": [
+    1224,
+    1159
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "musician",
+     "v": "Mingering Mike"
+    },
+    {
+     "k": "designer",
+     "v": "Mingering Mike"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "city",
+     "v": "Washington, D.C."
+    },
+    {
+     "k": "subject",
+     "v": "soul"
+    },
+    {
+     "k": "label",
+     "v": "Precision"
+    },
+    {
+     "k": "musician",
+     "v": "The Big D"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SLEEVE ITSELF: '3 FOOTSTEPS away from the altar' in red and purple lettering, 'mingering mike & the big D' at the right, 'PRECISION RECORDS NO 9003' and 'STEREO' along the top, three white footprints walking up the field, and the track list at the left — 3 Footsteps Away from the Altar / Good to Have Someone Around / The 700's of Love / Good Sweet Woman. ⚠️ The hosting file is a bare Pinterest original that names nobody.",
+   "hue": 37.69,
+   "light": 0.6695,
+   "chroma": 0.4347,
+   "punch": 0.1431
+  },
+  "sent-2026-09-08d::1b54e2428a5b": {
+   "id": "CRVI002527",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002527.jpg",
+   "original_px": [
+    1386,
+    1400
+   ],
+   "original_bytes": 168584,
+   "identity": "sent-2026-09-08d::1b54e2428a5b",
+   "source_url": "https://i.pinimg.com/originals/4a/89/97/4a899762576cee74f0e4058fb9298286.jpg",
+   "maker": "Mingering Mike",
+   "title": "Sickle Cell Anemia",
+   "subtitle": "",
+   "year": "",
+   "label": "Decision",
+   "verified_against": "THE SLEEVE ITSELF, on yellow card: 'SICKLE CELL ANEMIA' in outlined lettering, 'DECISION RECORDS NO 9409' and 'STEREO' along the top, a burst at the upper right reading 'CONTAINING THE LONG VERSION OF SICKLE CELL', a seated figure with folded arms, and 'Mingering Mike' with the tracks Proud Mary / Aunt Jro Sunshine / Moonlight Bay 'and five others'. ⚠️ The hosting file is a bare Pinterest original that names nobody.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img62/04.jpg",
+   "source_px": [
+    1386,
+    1400
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "musician",
+     "v": "Mingering Mike"
+    },
+    {
+     "k": "designer",
+     "v": "Mingering Mike"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "city",
+     "v": "Washington, D.C."
+    },
+    {
+     "k": "subject",
+     "v": "soul"
+    },
+    {
+     "k": "label",
+     "v": "Decision"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SLEEVE ITSELF, on yellow card: 'SICKLE CELL ANEMIA' in outlined lettering, 'DECISION RECORDS NO 9409' and 'STEREO' along the top, a burst at the upper right reading 'CONTAINING THE LONG VERSION OF SICKLE CELL', a seated figure with folded arms, and 'Mingering Mike' with the tracks Proud Mary / Aunt Jro Sunshine / Moonlight Bay 'and five others'. ⚠️ The hosting file is a bare Pinterest original that names nobody.",
+   "hue": 44.32,
+   "light": 0.5202,
+   "chroma": 0.9996,
+   "punch": 0.7943
+  },
+  "sent-2026-09-08d::d5eff451e1bf": {
+   "id": "CRVI002528",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002528.jpg",
+   "original_px": [
+    960,
+    949
+   ],
+   "original_bytes": 129318,
+   "identity": "sent-2026-09-08d::d5eff451e1bf",
+   "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/59cfa760-0ddf-4547-869b-ff1ada7bc4dc_960x949.jpeg",
+   "maker": "Mingering Mike",
+   "title": "Sittin' at Home with the Lowdown Blues",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "THE SLEEVE ITSELF: 'SITTIN AT HOME WITH THE LOWDOWN BLUES' in red and black over a brush-painted brown field, 'Mingering Mike' in cursive at the upper right, 'STEREO REC-1878' along the top, a figure in white lying with headphones beside a case, and the tracks — More/Less/Just, Oh Darling, Don't Change on Me, Games People Play 'and other sure fire hits'. ⚠️ The link is a Substack S3 original that names nobody.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img62/05.jpg",
+   "source_px": [
+    960,
+    949
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "musician",
+     "v": "Mingering Mike"
+    },
+    {
+     "k": "designer",
+     "v": "Mingering Mike"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "city",
+     "v": "Washington, D.C."
+    },
+    {
+     "k": "subject",
+     "v": "soul"
+    },
+    {
+     "k": "subject",
+     "v": "blues"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SLEEVE ITSELF: 'SITTIN AT HOME WITH THE LOWDOWN BLUES' in red and black over a brush-painted brown field, 'Mingering Mike' in cursive at the upper right, 'STEREO REC-1878' along the top, a figure in white lying with headphones beside a case, and the tracks — More/Less/Just, Oh Darling, Don't Change on Me, Games People Play 'and other sure fire hits'. ⚠️ The link is a Substack S3 original that names nobody.",
+   "hue": 18.79,
+   "light": 0.7457,
+   "chroma": 0.9272,
+   "punch": 0.2458
+  },
+  "sent-2026-09-08d::59a387c791f7": {
+   "id": "CRVI002529",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002529.jpg",
+   "original_px": [
+    1369,
+    1400
+   ],
+   "original_bytes": 145799,
+   "identity": "sent-2026-09-08d::59a387c791f7",
+   "source_url": "https://i.pinimg.com/originals/7b/53/14/7b5314b05e5fbd1d5d1e0c3cea21063e.jpg",
+   "maker": "Mingering Mike",
+   "title": "From Our Mind to Yours",
+   "subtitle": "",
+   "year": "",
+   "label": "Decision",
+   "verified_against": "THE SLEEVE ITSELF, on pink card: 'FROM OUR MIND TO YOURS' across the top, 'STEREO' centre and 'DEC 930' at the upper right with the Decision mark at the upper left, two heads inside a drawn octagon reading STOP, and 'THE BIG D & MINGERING MIKE' at the foot. ⚠️ DEC 930 is a catalogue number, not a date. ⚠️ The hosting file is a bare Pinterest original.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img62/06.jpg",
+   "source_px": [
+    1369,
+    1400
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "musician",
+     "v": "Mingering Mike"
+    },
+    {
+     "k": "designer",
+     "v": "Mingering Mike"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "city",
+     "v": "Washington, D.C."
+    },
+    {
+     "k": "subject",
+     "v": "soul"
+    },
+    {
+     "k": "label",
+     "v": "Decision"
+    },
+    {
+     "k": "musician",
+     "v": "The Big D"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SLEEVE ITSELF, on pink card: 'FROM OUR MIND TO YOURS' across the top, 'STEREO' centre and 'DEC 930' at the upper right with the Decision mark at the upper left, two heads inside a drawn octagon reading STOP, and 'THE BIG D & MINGERING MIKE' at the foot. ⚠️ DEC 930 is a catalogue number, not a date. ⚠️ The hosting file is a bare Pinterest original.",
+   "hue": 12.51,
+   "light": 0.7428,
+   "chroma": 0.928,
+   "punch": 0.2966
+  },
+  "sent-2026-09-08d::353beda748bc": {
+   "id": "CRVI002530",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002530.jpg",
+   "original_px": [
+    1024,
+    972
+   ],
+   "original_bytes": 115601,
+   "identity": "sent-2026-09-08d::353beda748bc",
+   "source_url": "https://i.pinimg.com/originals/e4/dd/e7/e4dde78198dc0063d6ea7a4a70ab886b.jpg",
+   "maker": "Mingering Mike",
+   "title": "20 Hits Plus a Free 45 Entilted \"T.V. Dinners of Mines.\" & \"Eat Now and Eat Later\"",
+   "subtitle": "",
+   "year": "",
+   "label": "Ramit",
+   "verified_against": "THE SLEEVE ITSELF, drawn on cream card: 'Ramit Records' and 'TV FEATS' at the top, a framed scene captioned '\"IN MY CORNER\"' and 'RAMBLING RALPH' in which a figure sits before a television with a plate of food, then the title block — '20 HITS PLUS A FREE 45 ENTILTED \"T.V. DINNERS OF MINES.\" & \"EAT NOW AND EAT LATER\"' — and at the foot 'INCLUDES \"KILL FOR A DIME\" & I'M MY 1ST, 2ND, 3RD, 4TH, 5TH, 6TH ETC, TRIPPLE ETC, CONSIDERATION. & OTHERS…', with 'ALL THE SONGS WRITTEN IN THIS ALBUM IS BY THAT BRILLIANT, WONDERFUL, HAM, RAMBLING RALPH'. Sideways up the left edge: 'SOLD A MILLION IN ONE WEEK! I didn't know he had that much money.' ℹ️ 'ENTILTED' is the sleeve's own spelling and is kept.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img62/07.jpg",
+   "source_px": [
+    1024,
+    972
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "musician",
+     "v": "Mingering Mike"
+    },
+    {
+     "k": "designer",
+     "v": "Mingering Mike"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "city",
+     "v": "Washington, D.C."
+    },
+    {
+     "k": "subject",
+     "v": "soul"
+    },
+    {
+     "k": "label",
+     "v": "Ramit"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SLEEVE ITSELF, drawn on cream card: 'Ramit Records' and 'TV FEATS' at the top, a framed scene captioned '\"IN MY CORNER\"' and 'RAMBLING RALPH' in which a figure sits before a television with a plate of food, then the title block — '20 HITS PLUS A FREE 45 ENTILTED \"T.V. DINNERS OF MINES.\" & \"EAT NOW AND EAT LATER\"' — and at the foot 'INCLUDES \"KILL FOR A DIME\" & I'M MY 1ST, 2ND, 3RD, 4TH, 5TH, 6TH ETC, TRIPPLE ETC, CONSIDERATION. & OTHERS…', with 'ALL THE SONGS WRITTEN IN THIS ALBUM IS BY THAT BRILLIANT, WONDERFUL, HAM, RAMBLING RALPH'. Sideways up the left edge: 'SOLD A MILLION IN ONE WEEK! I didn't know he had that much money.' ℹ️ 'ENTILTED' is the sleeve's own spelling and is kept.",
+   "hue": 35.43,
+   "light": 0.7885,
+   "chroma": 0.9191,
+   "punch": 0.1438
+  },
+  "sent-2026-09-08d::999c70f73a16": {
+   "id": "CRVI002531",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002531.png",
+   "original_px": [
+    1500,
+    1456
+   ],
+   "original_bytes": 1304671,
+   "identity": "sent-2026-09-08d::999c70f73a16",
+   "source_url": "https://images.squarespace-cdn.com/content/v1/55122635e4b0dc3ba76620d0/1427462232154-S0J1W5X1B10FWDTU2OG9/channelsofadream.png",
+   "maker": "Mingering Mike",
+   "title": "Channels of a Dream",
+   "subtitle": "",
+   "year": "",
+   "label": "Decision",
+   "verified_against": "THE SLEEVE ITSELF: 'DECISION Records' and 'MING/WAR THREE DIMENSION MOVIE ALBUM' at the top with 'STEREO' at the left, 'CHANNELS OF A DREAM' in green outlined lettering, a fan of four labelled cards (LOVE, PEACE, HAPPINESS, COMEDY) beside a control panel listing ACTION, COMEDY, DRAMA, SUSPENSE, two heads facing one another, and 'MINGERING MIKE & THE BIG \"D\"'. The right-hand block reads 'BOUND TO BE ANOTHER GREATEST HIT ALBUM OF THE FUTURE, PUTTING IT IN YOUR HANDS TODAY'. ⚠️ The hosting file is a Squarespace image called `channelsofadream.png` on a site that names nobody.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img62/08.png",
+   "source_px": [
+    1500,
+    1456
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "musician",
+     "v": "Mingering Mike"
+    },
+    {
+     "k": "designer",
+     "v": "Mingering Mike"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "city",
+     "v": "Washington, D.C."
+    },
+    {
+     "k": "subject",
+     "v": "soul"
+    },
+    {
+     "k": "label",
+     "v": "Decision"
+    },
+    {
+     "k": "musician",
+     "v": "The Big D"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SLEEVE ITSELF: 'DECISION Records' and 'MING/WAR THREE DIMENSION MOVIE ALBUM' at the top with 'STEREO' at the left, 'CHANNELS OF A DREAM' in green outlined lettering, a fan of four labelled cards (LOVE, PEACE, HAPPINESS, COMEDY) beside a control panel listing ACTION, COMEDY, DRAMA, SUSPENSE, two heads facing one another, and 'MINGERING MIKE & THE BIG \"D\"'. The right-hand block reads 'BOUND TO BE ANOTHER GREATEST HIT ALBUM OF THE FUTURE, PUTTING IT IN YOUR HANDS TODAY'. ⚠️ The hosting file is a Squarespace image called `channelsofadream.png` on a site that names nobody.",
+   "hue": 62.11,
+   "light": 0.6262,
+   "chroma": 0.8725,
+   "punch": 0.2147
+  },
+  "sent-2026-09-08d::d3ad8e8c2a11": {
+   "id": "CRVI002532",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002532.jpg",
+   "original_px": [
+    900,
+    900
+   ],
+   "original_bytes": 145265,
+   "identity": "sent-2026-09-08d::d3ad8e8c2a11",
+   "source_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj0oEORm6vPjABWKS9aqiUA5FLPj8Vnubd1xCl8YjMCWgL8GvFdVbm8Sgab81HUFLCBIhZF48ifO6005O4ioD9ALZUAFNU10FrJK5_tMZwcfBTYnt0Nf-ly4pDwK7UWrXP3U6rKq0gNDyH/s1600/mingering+mike+8c8c8.jpeg",
+   "maker": "Mingering Mike",
+   "title": "The Mingering Mike Show: Live from the Howard Theater",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "THE SLEEVE ITSELF: 'THE MINGERING MIKE SHOW' across the top and 'LIVE FROM THE HOWARD THEATER' along the foot, above a painted crowd of performers — a group in green, a band in purple with horns, a row of faces — and a drum head lettered 'THE COLDS BAND'. ℹ️ The Howard Theatre is on T Street in Washington, D.C., the city Mingering Mike drew in. ⚠️ The hosting file is a Blogger image called `mingering mike 8c8c8.jpeg` that names nobody.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img62/09.jpg",
+   "source_px": [
+    900,
+    900
+   ],
+   "colors": [
+    "yellow",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "musician",
+     "v": "Mingering Mike"
+    },
+    {
+     "k": "designer",
+     "v": "Mingering Mike"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "city",
+     "v": "Washington, D.C."
+    },
+    {
+     "k": "subject",
+     "v": "soul"
+    },
+    {
+     "k": "musician",
+     "v": "The Colds Band"
+    },
+    {
+     "k": "subject",
+     "v": "Howard Theatre"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SLEEVE ITSELF: 'THE MINGERING MIKE SHOW' across the top and 'LIVE FROM THE HOWARD THEATER' along the foot, above a painted crowd of performers — a group in green, a band in purple with horns, a row of faces — and a drum head lettered 'THE COLDS BAND'. ℹ️ The Howard Theatre is on T Street in Washington, D.C., the city Mingering Mike drew in. ⚠️ The hosting file is a Blogger image called `mingering mike 8c8c8.jpeg` that names nobody.",
+   "hue": 33.71,
+   "light": 0.6296,
+   "chroma": 0.4006,
+   "punch": 0.1356
+  },
+  "sent-2026-09-08d::cf0e9a9912ec": {
+   "id": "CRVI002533",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002533.jpg",
+   "original_px": [
+    1402,
+    1400
+   ],
+   "original_bytes": 189186,
+   "identity": "sent-2026-09-08d::cf0e9a9912ec",
+   "source_url": "https://i.pinimg.com/originals/47/c4/b5/47c4b545162eadaac6adea4815e8d5be.jpg",
+   "maker": "Mingering Mike",
+   "title": "\"I'm Superman\" b/w \"Blind in One Eye\"",
+   "subtitle": "",
+   "year": "",
+   "label": "Minger",
+   "verified_against": "THE SLEEVE ITSELF, and it is a SINGLE sleeve, not an album: '\"I'M SUPERMAN\" B/W -BLIND IN ONE EYE-' with 'Mingering Mike' signed in cursive beneath, a 'Minger' sun-and-smiley label mark at the upper right over the number 'MIN-61675', and at the upper left 'CONTENTS CONTAINED IN THE ALBUM \"ISOLATION\"'. Inside a drawn frame, two figures in Superman costume leap across the sheet. ⚠️ The hosting file is a bare Pinterest original that names nobody.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img62/10.jpg",
+   "source_px": [
+    1402,
+    1400
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "musician",
+     "v": "Mingering Mike"
+    },
+    {
+     "k": "designer",
+     "v": "Mingering Mike"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "city",
+     "v": "Washington, D.C."
+    },
+    {
+     "k": "subject",
+     "v": "soul"
+    },
+    {
+     "k": "label",
+     "v": "Minger"
+    },
+    {
+     "k": "subject",
+     "v": "Superman"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SLEEVE ITSELF, and it is a SINGLE sleeve, not an album: '\"I'M SUPERMAN\" B/W -BLIND IN ONE EYE-' with 'Mingering Mike' signed in cursive beneath, a 'Minger' sun-and-smiley label mark at the upper right over the number 'MIN-61675', and at the upper left 'CONTENTS CONTAINED IN THE ALBUM \"ISOLATION\"'. Inside a drawn frame, two figures in Superman costume leap across the sheet. ⚠️ The hosting file is a bare Pinterest original that names nobody.",
+   "hue": 35.16,
+   "light": 0.7728,
+   "chroma": 0.7928,
+   "punch": 0.1676
   }
  }
 }
