@@ -126102,6 +126102,62 @@
    "chroma": 0.7728
   },
   {
+   "id": "CRVI002394",
+   "published": true,
+   "minted": "2026-09-07",
+   "punch": 0.1324,
+   "source_url": "https://static01.nyt.com/images/2018/07/28/business/29FANIA04/merlin_13935288_21e26cad-c079-4bf6-90c7-85844b96ae55-superJumbo.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002394.jpg",
+   "source_label": "",
+   "image": "images/CRVI002394.jpg",
+   "original": "originals/CRVI002394.jpg",
+   "vector": "",
+   "original_px": [
+    1425,
+    1425
+   ],
+   "original_bytes": 368326,
+   "maker": "Pete Rodríguez",
+   "title": "I Like It Like That (A Mi Me Gusta Así)",
+   "subtitle": "",
+   "year": "1967",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "musician",
+     "v": "Pete Rodríguez"
+    },
+    {
+     "k": "label",
+     "v": "Alegre Records"
+    },
+    {
+     "k": "subject",
+     "v": "salsa"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 190.1,
+   "light": 0.7122,
+   "chroma": 0.359
+  },
+  {
    "id": "CRVI002395",
    "published": true,
    "minted": "2026-09-07",
@@ -126220,6 +126276,2246 @@
    "hue": 36.86,
    "light": 0.3496,
    "chroma": 0.3552
+  },
+  {
+   "id": "CRVI002397",
+   "published": true,
+   "minted": "2026-09-07",
+   "punch": 0.1947,
+   "source_url": "https://ca-times.brightspotcdn.com/dims4/default/9eba7e0/2147483647/strip/true/crop/635x635+0+0/resize/2000x2000!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F85%2F45%2Fba2976824025878e232b0b23bf6b%2Fhector-lavoe-revento-album-cover.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002397.jpg",
+   "source_label": "",
+   "image": "images/CRVI002397.jpg",
+   "original": "originals/CRVI002397.jpg",
+   "vector": "",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 680143,
+   "maker": "Héctor Lavoe",
+   "title": "Revento",
+   "subtitle": "",
+   "year": "1985",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "musician",
+     "v": "Héctor Lavoe"
+    },
+    {
+     "k": "label",
+     "v": "Fania Records"
+    },
+    {
+     "k": "subject",
+     "v": "salsa"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 192.04,
+   "light": 0.3157,
+   "chroma": 0.7059
+  },
+  {
+   "id": "CRVI002398",
+   "published": true,
+   "minted": "2026-09-07",
+   "punch": 0.2746,
+   "source_url": "https://colectivofuturo.com/wp-content/uploads/1979_ray_barretto_ricanstructionizzy_sanabria-1024x1017.jpeg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002398.jpg",
+   "source_label": "",
+   "image": "images/CRVI002398.jpg",
+   "original": "originals/CRVI002398.jpg",
+   "vector": "",
+   "original_px": [
+    1024,
+    1017
+   ],
+   "original_bytes": 349776,
+   "maker": "Ray Barretto con Adalberto Santiago",
+   "title": "Rican/Struction",
+   "subtitle": "",
+   "year": "1979",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "musician",
+     "v": "Ray Barretto"
+    },
+    {
+     "k": "designer",
+     "v": "Izzy Sanabria"
+    },
+    {
+     "k": "label",
+     "v": "Fania Records"
+    },
+    {
+     "k": "subject",
+     "v": "salsa"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 201.46,
+   "light": 0.5609,
+   "chroma": 0.8879
+  },
+  {
+   "id": "CRVI002399",
+   "published": true,
+   "minted": "2026-09-07",
+   "punch": 0.1753,
+   "source_url": "https://colectivofuturo.com/wp-content/uploads/1976_fania_all_stars_live_in_japan_1976-1024x1010.jpeg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002399.jpg",
+   "source_label": "",
+   "image": "images/CRVI002399.jpg",
+   "original": "originals/CRVI002399.jpg",
+   "vector": "",
+   "original_px": [
+    1024,
+    1010
+   ],
+   "original_bytes": 329879,
+   "maker": "Fania All-Stars",
+   "title": "Fania All Stars Live in Japan 1976",
+   "subtitle": "",
+   "year": "1976",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "musician",
+     "v": "Fania All-Stars"
+    },
+    {
+     "k": "label",
+     "v": "Fania Records"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "subject",
+     "v": "salsa"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 82.26,
+   "light": 0.6725,
+   "chroma": 0.873
+  },
+  {
+   "id": "CRVI002400",
+   "published": true,
+   "minted": "2026-09-07",
+   "punch": 0.4821,
+   "source_url": "https://cdn11.bigcommerce.com/s-1xa2dhlu0a/images/stencil/1280x1280/products/161215/176830/barrettoacid__71818.1775251001.jpg?c=1",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002400.jpg",
+   "source_label": "",
+   "image": "images/CRVI002400.jpg",
+   "original": "originals/CRVI002400.jpg",
+   "vector": "",
+   "original_px": [
+    1400,
+    1400
+   ],
+   "original_bytes": 129570,
+   "maker": "Ray Barretto",
+   "title": "Acid",
+   "subtitle": "",
+   "year": "1968",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "musician",
+     "v": "Ray Barretto"
+    },
+    {
+     "k": "designer",
+     "v": "Izzy Sanabria"
+    },
+    {
+     "k": "photographer",
+     "v": "Marty Topp"
+    },
+    {
+     "k": "label",
+     "v": "Fania Records"
+    },
+    {
+     "k": "subject",
+     "v": "salsa"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 356.65,
+   "light": 0.4736,
+   "chroma": 0.9736
+  },
+  {
+   "id": "CRVI002401",
+   "published": true,
+   "minted": "2026-09-07",
+   "punch": 0.1768,
+   "source_url": "https://web.consaguirre.com.ar/noticias/wp-content/uploads/2024/08/Fania-Records-reedita-el-disco-debut-homonimo-de-Ralfi-Pagan.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002401.jpg",
+   "source_label": "",
+   "image": "images/CRVI002401.jpg",
+   "original": "originals/CRVI002401.jpg",
+   "vector": "",
+   "original_px": [
+    1280,
+    1280
+   ],
+   "original_bytes": 123220,
+   "maker": "Ralfi Pagán",
+   "title": "Ralfi Pagán",
+   "subtitle": "",
+   "year": "1969",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "musician",
+     "v": "Ralfi Pagán"
+    },
+    {
+     "k": "designer",
+     "v": "Izzy Sanabria"
+    },
+    {
+     "k": "photographer",
+     "v": "Marty Topp"
+    },
+    {
+     "k": "label",
+     "v": "Fania Records"
+    },
+    {
+     "k": "subject",
+     "v": "salsa"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 31.92,
+   "light": 0.4057,
+   "chroma": 0.4583
+  },
+  {
+   "id": "CRVI002402",
+   "published": true,
+   "minted": "2026-09-07",
+   "punch": 0.1557,
+   "source_url": "https://colectivofuturo.com/wp-content/uploads/1972_willie_colon_hector_lavoe_crime_paysizzy_sanabria-1024x1024.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002402.jpg",
+   "source_label": "",
+   "image": "images/CRVI002402.jpg",
+   "original": "originals/CRVI002402.jpg",
+   "vector": "",
+   "original_px": [
+    1024,
+    1024
+   ],
+   "original_bytes": 222910,
+   "maker": "Willie Colón and Héctor Lavoe",
+   "title": "Crime Pays",
+   "subtitle": "",
+   "year": "1972",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "musician",
+     "v": "Willie Colón"
+    },
+    {
+     "k": "musician",
+     "v": "Héctor Lavoe"
+    },
+    {
+     "k": "designer",
+     "v": "Izzy Sanabria"
+    },
+    {
+     "k": "photographer",
+     "v": "Len Bauman"
+    },
+    {
+     "k": "label",
+     "v": "Fania Records"
+    },
+    {
+     "k": "subject",
+     "v": "salsa"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 33.92,
+   "light": 0.4674,
+   "chroma": 0.8532
+  },
+  {
+   "id": "CRVI002403",
+   "published": true,
+   "minted": "2026-09-07",
+   "punch": 0.1051,
+   "source_url": "https://flabbergasted-vibes.org/wp-content/uploads/2023/08/folder.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002403.jpg",
+   "source_label": "",
+   "image": "images/CRVI002403.jpg",
+   "original": "originals/CRVI002403.jpg",
+   "vector": "",
+   "original_px": [
+    917,
+    916
+   ],
+   "original_bytes": 256462,
+   "maker": "Ray Barretto",
+   "title": "Hard Hands",
+   "subtitle": "",
+   "year": "1968",
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "musician",
+     "v": "Ray Barretto"
+    },
+    {
+     "k": "designer",
+     "v": "Izzy Sanabria"
+    },
+    {
+     "k": "photographer",
+     "v": "Marty Topp"
+    },
+    {
+     "k": "label",
+     "v": "Fania Records"
+    },
+    {
+     "k": "subject",
+     "v": "salsa"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "black"
+    }
+   ],
+   "hue": 37.03,
+   "light": 0.214,
+   "chroma": 0.444
+  },
+  {
+   "id": "CRVI002404",
+   "published": true,
+   "minted": "2026-09-07",
+   "punch": 0.4145,
+   "source_url": "https://i.ebayimg.com/images/g/Hb0AAOSw6CJa~G~x/s-l1200.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002404.jpg",
+   "source_label": "",
+   "image": "images/CRVI002404.jpg",
+   "original": "originals/CRVI002404.jpg",
+   "vector": "",
+   "original_px": [
+    880,
+    1156
+   ],
+   "original_bytes": 339530,
+   "maker": "Peter Max",
+   "title": "Solar Phenomenon",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Peter Max"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "psychedelia"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 356.1,
+   "light": 0.4918,
+   "chroma": 0.9573
+  },
+  {
+   "id": "CRVI002405",
+   "published": true,
+   "minted": "2026-09-07",
+   "punch": 0.6017,
+   "source_url": "https://image.invaluable.com/housePhotos/fontainesauction/79/753279/H0096-L347384992_original.JPG",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002405.jpg",
+   "source_label": "",
+   "image": "images/CRVI002405.jpg",
+   "original": "originals/CRVI002405.jpg",
+   "vector": "",
+   "original_px": [
+    2023,
+    1467
+   ],
+   "original_bytes": 287280,
+   "maker": "Peter Max",
+   "title": "Two seated figures",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Peter Max"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "psychedelia"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 15.07,
+   "light": 0.592,
+   "chroma": 0.972
+  },
+  {
+   "id": "CRVI002406",
+   "published": true,
+   "minted": "2026-09-07",
+   "punch": 0.4796,
+   "source_url": "https://image.invaluable.com/housePhotos/johnmoran/15/748315/H0045-L342446573_original.JPG",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002406.jpg",
+   "source_label": "",
+   "image": "images/CRVI002406.jpg",
+   "original": "originals/CRVI002406.jpg",
+   "vector": "",
+   "original_px": [
+    4096,
+    3649
+   ],
+   "original_bytes": 769735,
+   "maker": "Peter Max",
+   "title": "Right Now",
+   "subtitle": "",
+   "year": "1970",
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Peter Max"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "psychedelia"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 74.98,
+   "light": 0.5545,
+   "chroma": 0.914
+  },
+  {
+   "id": "CRVI002407",
+   "published": true,
+   "minted": "2026-09-07",
+   "punch": 0.2942,
+   "source_url": "https://www.post-gazette.com/image/2019/05/09/1140x_a10-7_cTC/Peter-Max-Cover-0509",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002407.jpg",
+   "source_label": "",
+   "image": "images/CRVI002407.jpg",
+   "original": "originals/CRVI002407.jpg",
+   "vector": "",
+   "original_px": [
+    2925,
+    3075
+   ],
+   "original_bytes": 3033752,
+   "maker": "Peter Max",
+   "title": "Cosmic landscape with crystal peaks",
+   "subtitle": "",
+   "year": "2019",
+   "tags": [
+    {
+     "k": "type",
+     "v": "illustration"
+    },
+    {
+     "k": "artist",
+     "v": "Peter Max"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "psychedelia"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 185.3,
+   "light": 0.7138,
+   "chroma": 0.8326
+  },
+  {
+   "id": "CRVI002408",
+   "published": true,
+   "minted": "2026-09-07",
+   "punch": 0.6731,
+   "source_url": "https://journalpanorama.org/wp-content/uploads/2024/03/word-image-18740-20-scaled.jpeg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002408.jpg",
+   "source_label": "",
+   "image": "images/CRVI002408.jpg",
+   "original": "originals/CRVI002408.jpg",
+   "vector": "",
+   "original_px": [
+    3442,
+    2185
+   ],
+   "original_bytes": 941631,
+   "maker": "Peter Max",
+   "title": "Flowers in the Wind—American Breeze",
+   "subtitle": "",
+   "year": "1976",
+   "tags": [
+    {
+     "k": "type",
+     "v": "billboard"
+    },
+    {
+     "k": "artist",
+     "v": "Peter Max"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "client",
+     "v": "General Services Administration"
+    },
+    {
+     "k": "subject",
+     "v": "psychedelia"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 44.89,
+   "light": 0.433,
+   "chroma": 0.9795
+  },
+  {
+   "id": "CRVI002409",
+   "published": true,
+   "minted": "2026-09-07",
+   "punch": 0.3796,
+   "source_url": "https://journalpanorama.org/wp-content/uploads/2024/03/word-image-18740-14-700x461.jpeg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002409.jpg",
+   "source_label": "",
+   "image": "images/CRVI002409.jpg",
+   "original": "originals/CRVI002409.jpg",
+   "vector": "",
+   "original_px": [
+    2952,
+    1944
+   ],
+   "original_bytes": 740753,
+   "maker": "Peter Max",
+   "title": "The American Cosmic Jumper in the Land of Rainbows and Stars",
+   "subtitle": "",
+   "year": "1976",
+   "tags": [
+    {
+     "k": "type",
+     "v": "billboard"
+    },
+    {
+     "k": "artist",
+     "v": "Peter Max"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "client",
+     "v": "General Services Administration"
+    },
+    {
+     "k": "subject",
+     "v": "psychedelia"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 43.89,
+   "light": 0.5217,
+   "chroma": 0.973
+  },
+  {
+   "id": "CRVI002410",
+   "published": true,
+   "minted": "2026-09-07",
+   "punch": 0.2907,
+   "source_url": "https://journalpanorama.org/wp-content/uploads/2024/03/word-image-18740-15-700x463.jpeg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002410.jpg",
+   "source_label": "",
+   "image": "images/CRVI002410.jpg",
+   "original": "originals/CRVI002410.jpg",
+   "vector": "",
+   "original_px": [
+    3554,
+    2352
+   ],
+   "original_bytes": 1146813,
+   "maker": "Peter Max",
+   "title": "The American Traveler Spreading Good Times",
+   "subtitle": "",
+   "year": "1976",
+   "tags": [
+    {
+     "k": "type",
+     "v": "billboard"
+    },
+    {
+     "k": "artist",
+     "v": "Peter Max"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "client",
+     "v": "General Services Administration"
+    },
+    {
+     "k": "subject",
+     "v": "psychedelia"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 8.14,
+   "light": 0.625,
+   "chroma": 0.9616
+  },
+  {
+   "id": "CRVI002411",
+   "published": true,
+   "minted": "2026-09-07",
+   "punch": 0.5163,
+   "source_url": "https://journalpanorama.org/wp-content/uploads/2024/03/word-image-18740-18-700x454.jpeg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002411.jpg",
+   "source_label": "",
+   "image": "images/CRVI002411.jpg",
+   "original": "originals/CRVI002411.jpg",
+   "vector": "",
+   "original_px": [
+    3513,
+    2278
+   ],
+   "original_bytes": 1100392,
+   "maker": "Peter Max",
+   "title": "One Nation under God—This Is a Blessed Country",
+   "subtitle": "",
+   "year": "1976",
+   "tags": [
+    {
+     "k": "type",
+     "v": "billboard"
+    },
+    {
+     "k": "artist",
+     "v": "Peter Max"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "client",
+     "v": "General Services Administration"
+    },
+    {
+     "k": "subject",
+     "v": "psychedelia"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 35.56,
+   "light": 0.4682,
+   "chroma": 0.9506
+  },
+  {
+   "id": "CRVI002412",
+   "published": true,
+   "minted": "2026-09-07",
+   "punch": 0.2126,
+   "source_url": "https://m.media-amazon.com/images/I/71vPcL5Pu1L._AC_UF894,1000_QL80_.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002412.jpg",
+   "source_label": "",
+   "image": "images/CRVI002412.jpg",
+   "original": "originals/CRVI002412.jpg",
+   "vector": "",
+   "original_px": [
+    931,
+    1000
+   ],
+   "original_bytes": 162763,
+   "maker": "Filippo Tommaso Marinetti",
+   "title": "TUMB TUMB / GRANG GRANG / ZZZANG-ZZZANG-TUMB",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Filippo Tommaso Marinetti"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "subject",
+     "v": "typography"
+    },
+    {
+     "k": "subject",
+     "v": "Futurism"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 44.8,
+   "light": 0.3955,
+   "chroma": 0.8261
+  },
+  {
+   "id": "CRVI002413",
+   "published": true,
+   "minted": "2026-09-07",
+   "punch": 0.1603,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Filippo_tommaso_marinetti%2C_parole_in_libert%C3%A0%2C_treni%2C_1910%2C_02.JPG",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002413.jpg",
+   "source_label": "",
+   "image": "images/CRVI002413.jpg",
+   "original": "originals/CRVI002413.jpg",
+   "vector": "",
+   "original_px": [
+    1780,
+    2368
+   ],
+   "original_bytes": 3083023,
+   "maker": "Filippo Tommaso Marinetti",
+   "title": "Treni (parole in libertà)",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Filippo Tommaso Marinetti"
+    },
+    {
+     "k": "photographer",
+     "v": "Sailko"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "subject",
+     "v": "Futurism"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 43.06,
+   "light": 0.7651,
+   "chroma": 0.9179
+  },
+  {
+   "id": "CRVI002414",
+   "published": true,
+   "minted": "2026-09-07",
+   "punch": 0.1188,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Filippo_Tommaso_Marinetti_-_ZANG_TUMB_TUUUM_1915.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002414.jpg",
+   "source_label": "",
+   "image": "images/CRVI002414.jpg",
+   "original": "originals/CRVI002414.jpg",
+   "vector": "",
+   "original_px": [
+    2048,
+    1408
+   ],
+   "original_bytes": 552402,
+   "maker": "Filippo Tommaso Marinetti",
+   "title": "Zang Tumb Tuuum",
+   "subtitle": "",
+   "year": "1915",
+   "tags": [
+    {
+     "k": "type",
+     "v": "collage"
+    },
+    {
+     "k": "artist",
+     "v": "Filippo Tommaso Marinetti"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "subject",
+     "v": "typography"
+    },
+    {
+     "k": "subject",
+     "v": "Futurism"
+    },
+    {
+     "k": "movement",
+     "v": "Futurism"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 38.28,
+   "light": 0.7248,
+   "chroma": 0.9071
+  },
+  {
+   "id": "CRVI002415",
+   "published": true,
+   "minted": "2026-09-07",
+   "punch": 0.4656,
+   "source_url": "https://www.moma.org/media/W1siZiIsIjIzNzI5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002415.jpg",
+   "source_label": "",
+   "image": "images/CRVI002415.jpg",
+   "original": "originals/CRVI002415.jpg",
+   "vector": "",
+   "original_px": [
+    1437,
+    2000
+   ],
+   "original_bytes": 1100508,
+   "maker": "Filippo Tommaso Marinetti",
+   "title": "Zang Tumb Tumb: Adrianopoli Ottobre 1912: Parole in Libertà (cover)",
+   "subtitle": "",
+   "year": "1914",
+   "tags": [
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "artist",
+     "v": "Filippo Tommaso Marinetti"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "subject",
+     "v": "typography"
+    },
+    {
+     "k": "subject",
+     "v": "Futurism"
+    },
+    {
+     "k": "client",
+     "v": "Edizioni Futuriste di \"Poesia\""
+    },
+    {
+     "k": "movement",
+     "v": "Futurism"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 34.99,
+   "light": 0.4557,
+   "chroma": 0.8843
+  },
+  {
+   "id": "CRVI002416",
+   "published": true,
+   "minted": "2026-09-07",
+   "punch": 0.1073,
+   "source_url": "https://www.moma.org/media/W1siZiIsIjIxMTIzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=47a7bffc47ecfdf7",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002416.jpg",
+   "source_label": "",
+   "image": "images/CRVI002416.jpg",
+   "original": "originals/CRVI002416.jpg",
+   "vector": "",
+   "original_px": [
+    2000,
+    1892
+   ],
+   "original_bytes": 939949,
+   "maker": "Filippo Tommaso Marinetti",
+   "title": "Vive la France",
+   "subtitle": "",
+   "year": "1914-15",
+   "tags": [
+    {
+     "k": "type",
+     "v": "collage"
+    },
+    {
+     "k": "artist",
+     "v": "Filippo Tommaso Marinetti"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "subject",
+     "v": "typography"
+    },
+    {
+     "k": "subject",
+     "v": "Futurism"
+    },
+    {
+     "k": "movement",
+     "v": "Futurism"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 44.45,
+   "light": 0.7958,
+   "chroma": 0.8234
+  },
+  {
+   "id": "CRVI002417",
+   "published": true,
+   "minted": "2026-09-07",
+   "punch": 0.0229,
+   "source_url": "https://www.arthistoryproject.com/site/assets/files/6990/filippo_tommaso_marinetti-words_and_freedom-1914-obelisk-art-history.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002417.jpg",
+   "source_label": "",
+   "image": "images/CRVI002417.jpg",
+   "original": "originals/CRVI002417.jpg",
+   "vector": "",
+   "original_px": [
+    1400,
+    980
+   ],
+   "original_bytes": 672479,
+   "maker": "Filippo Tommaso Marinetti",
+   "title": "Words and Freedom (Parole in libertà)",
+   "subtitle": "",
+   "year": "1914",
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Filippo Tommaso Marinetti"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "subject",
+     "v": "typography"
+    },
+    {
+     "k": "subject",
+     "v": "Futurism"
+    },
+    {
+     "k": "movement",
+     "v": "Futurism"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 16.19,
+   "light": 0.7115,
+   "chroma": 0.1213
+  },
+  {
+   "id": "CRVI002418",
+   "published": true,
+   "minted": "2026-09-07",
+   "punch": 0.0547,
+   "source_url": "https://www.moma.org/interactives/objectphoto/assets/constituent/000/305/187/305187_original.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002418.jpg",
+   "source_label": "",
+   "image": "images/CRVI002418.jpg",
+   "original": "originals/CRVI002418.jpg",
+   "vector": "",
+   "original_px": [
+    1828,
+    2500
+   ],
+   "original_bytes": 910159,
+   "maker": "Gustav Klutsis",
+   "title": "Self-portrait with a camera",
+   "subtitle": "",
+   "year": "1926",
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Gustav Klutsis"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "photographer",
+     "v": "Gustav Klutsis"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "subject",
+     "v": "self-portrait"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": null,
+   "light": 0.4681,
+   "chroma": 0.0034
+  },
+  {
+   "id": "CRVI002419",
+   "published": true,
+   "minted": "2026-09-07",
+   "punch": 0.3306,
+   "source_url": "https://www.moma.org/media/W1siZiIsIjIxMTE1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=7b19272150821a47",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002419.jpg",
+   "source_label": "",
+   "image": "images/CRVI002419.jpg",
+   "original": "originals/CRVI002419.jpg",
+   "vector": "",
+   "original_px": [
+    1415,
+    2000
+   ],
+   "original_bytes": 982048,
+   "maker": "Gustav Klutsis",
+   "title": "Let's Fulfill the Plan of Great Works",
+   "subtitle": "",
+   "year": "1930",
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "artist",
+     "v": "Gustav Klutsis"
+    },
+    {
+     "k": "decade",
+     "v": "1930s"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "subject",
+     "v": "Constructivism"
+    },
+    {
+     "k": "subject",
+     "v": "propaganda"
+    },
+    {
+     "k": "movement",
+     "v": "Constructivism"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 9.72,
+   "light": 0.4337,
+   "chroma": 0.7507
+  },
+  {
+   "id": "CRVI002420",
+   "published": true,
+   "minted": "2026-09-07",
+   "punch": 0.139,
+   "source_url": "https://www.moma.org/media/W1siZiIsIjQzNjc5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=eda02f9baacca32d",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002420.jpg",
+   "source_label": "",
+   "image": "images/CRVI002420.jpg",
+   "original": "originals/CRVI002420.jpg",
+   "vector": "",
+   "original_px": [
+    1209,
+    2000
+   ],
+   "original_bytes": 732666,
+   "maker": "Gustav Klutsis",
+   "title": "Electrification of the Entire Country (Elektrifikatsiia vsei strany)",
+   "subtitle": "",
+   "year": "1920",
+   "tags": [
+    {
+     "k": "type",
+     "v": "collage"
+    },
+    {
+     "k": "artist",
+     "v": "Gustav Klutsis"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "subject",
+     "v": "Constructivism"
+    },
+    {
+     "k": "subject",
+     "v": "propaganda"
+    },
+    {
+     "k": "movement",
+     "v": "Constructivism"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 33.99,
+   "light": 0.653,
+   "chroma": 0.7187
+  },
+  {
+   "id": "CRVI002421",
+   "published": true,
+   "minted": "2026-09-07",
+   "punch": 0.1744,
+   "source_url": "https://i0.wp.com/thecharnelhouse.org/wp-content/uploads/2016/10/gustavs-klucis-dynamic-city-19192.jpg?fit=1200%2C1200&ssl=1",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002421.jpg",
+   "source_label": "",
+   "image": "images/CRVI002421.jpg",
+   "original": "originals/CRVI002421.jpg",
+   "vector": "",
+   "original_px": [
+    1658,
+    1658
+   ],
+   "original_bytes": 1832250,
+   "maker": "Gustav Klutsis",
+   "title": "Dynamic City",
+   "subtitle": "",
+   "year": "1919",
+   "tags": [
+    {
+     "k": "type",
+     "v": "collage"
+    },
+    {
+     "k": "artist",
+     "v": "Gustav Klutsis"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "subject",
+     "v": "Constructivism"
+    },
+    {
+     "k": "movement",
+     "v": "Constructivism"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 34.99,
+   "light": 0.6965,
+   "chroma": 0.8265
+  },
+  {
+   "id": "CRVI002422",
+   "published": true,
+   "minted": "2026-09-07",
+   "punch": 0.2291,
+   "source_url": "https://flashbackshop.com/cdn/shop/products/f909cdfba4d2420798eb31f2678bad29.jpg?v=1624282819",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002422.jpg",
+   "source_label": "",
+   "image": "images/CRVI002422.jpg",
+   "original": "originals/CRVI002422.jpg",
+   "vector": "",
+   "original_px": [
+    1350,
+    1800
+   ],
+   "original_bytes": 571100,
+   "maker": "Gustav Klutsis",
+   "title": "Oppressed peoples of the whole world, under the banner of the Comintern, overthrow imperialism",
+   "subtitle": "",
+   "year": "1924",
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "artist",
+     "v": "Gustav Klutsis"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "subject",
+     "v": "Constructivism"
+    },
+    {
+     "k": "subject",
+     "v": "propaganda"
+    },
+    {
+     "k": "movement",
+     "v": "Constructivism"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 35.15,
+   "light": 0.6169,
+   "chroma": 0.7174
+  },
+  {
+   "id": "CRVI002423",
+   "published": true,
+   "minted": "2026-09-07",
+   "punch": 0.2233,
+   "source_url": "https://www.moma.org/media/W1siZiIsIjE2OTI2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=c8cbcab6ab30be15",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002423.jpg",
+   "source_label": "",
+   "image": "images/CRVI002423.jpg",
+   "original": "originals/CRVI002423.jpg",
+   "vector": "",
+   "original_px": [
+    1509,
+    2000
+   ],
+   "original_bytes": 991562,
+   "maker": "Gustav Klutsis",
+   "title": "Axionometric Construction",
+   "subtitle": "",
+   "year": "1921",
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Gustav Klutsis"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "subject",
+     "v": "Constructivism"
+    },
+    {
+     "k": "movement",
+     "v": "Constructivism"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 26.34,
+   "light": 0.5887,
+   "chroma": 0.8781
+  },
+  {
+   "id": "CRVI002424",
+   "published": true,
+   "minted": "2026-09-07",
+   "punch": 0.0545,
+   "source_url": "https://arevioletsblue.com/cdn/shop/files/TheoryRevolution_PO.png?v=1772727789",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002424.jpg",
+   "source_label": "",
+   "image": "images/CRVI002424.jpg",
+   "original": "originals/CRVI002424.jpg",
+   "vector": "",
+   "original_px": [
+    1000,
+    1000
+   ],
+   "original_bytes": 155686,
+   "maker": "Gustav Klutsis",
+   "title": "Design for an agitational stand",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Gustav Klutsis"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "subject",
+     "v": "Constructivism"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 35.26,
+   "light": 0.8782,
+   "chroma": 0.5879
+  },
+  {
+   "id": "CRVI002425",
+   "published": true,
+   "minted": "2026-09-07",
+   "punch": 0.2351,
+   "source_url": "https://api.nga.gov/iiif/b564276f-6577-4490-bd5a-c714ae95611e/full/full/0/default.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002425.jpg",
+   "source_label": "",
+   "image": "images/CRVI002425.jpg",
+   "original": "originals/CRVI002425.jpg",
+   "vector": "",
+   "original_px": [
+    4096,
+    2908
+   ],
+   "original_bytes": 3013072,
+   "maker": "Gustav Klutsis",
+   "title": "Propaganda Stand (Workers of the World Unite)",
+   "subtitle": "",
+   "year": "1922",
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Gustav Klutsis"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "subject",
+     "v": "Constructivism"
+    },
+    {
+     "k": "subject",
+     "v": "typography"
+    },
+    {
+     "k": "movement",
+     "v": "Constructivism"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 34.65,
+   "light": 0.6777,
+   "chroma": 0.9192
+  },
+  {
+   "id": "CRVI002426",
+   "published": true,
+   "minted": "2026-09-07",
+   "punch": 0.091,
+   "source_url": "https://a.1stdibscdn.com/gustav-klucis-paintings-suprematist-composition-1919-paper-gouache-215-x-285-cm-for-sale/a_14372/a_90546221645186274318/DSC05385_master.JPG?width=768",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002426.jpg",
+   "source_label": "",
+   "image": "images/CRVI002426.jpg",
+   "original": "originals/CRVI002426.jpg",
+   "vector": "",
+   "original_px": [
+    4000,
+    5417
+   ],
+   "original_bytes": 1316551,
+   "maker": "Gustav Klutsis",
+   "title": "Suprematist Composition",
+   "subtitle": "",
+   "year": "1919",
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Gustav Klutsis"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "subject",
+     "v": "Suprematism"
+    },
+    {
+     "k": "subject",
+     "v": "Constructivism"
+    },
+    {
+     "k": "movement",
+     "v": "Constructivism"
+    },
+    {
+     "k": "movement",
+     "v": "Suprematism"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 58.04,
+   "light": 0.7598,
+   "chroma": 0.4429
+  },
+  {
+   "id": "CRVI002427",
+   "published": true,
+   "minted": "2026-09-07",
+   "punch": 0.192,
+   "source_url": "https://artblart.com/wp-content/uploads/2015/04/postcard-web.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002427.jpg",
+   "source_label": "",
+   "image": "images/CRVI002427.jpg",
+   "original": "originals/CRVI002427.jpg",
+   "vector": "",
+   "original_px": [
+    800,
+    1137
+   ],
+   "original_bytes": 252333,
+   "maker": "Gustav Klutsis",
+   "title": "Postcard for the All-Union Spartakiada",
+   "subtitle": "",
+   "year": "1928",
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Gustav Klutsis"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "subject",
+     "v": "Constructivism"
+    },
+    {
+     "k": "subject",
+     "v": "sport"
+    },
+    {
+     "k": "movement",
+     "v": "Constructivism"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 141.32,
+   "light": 0.4095,
+   "chroma": 0.6731
+  },
+  {
+   "id": "CRVI002428",
+   "published": true,
+   "minted": "2026-09-07",
+   "punch": 0.0095,
+   "source_url": "https://shop.a24films.com/products/bring-her-back-x-basket-case-circles-tee",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002428.jpg",
+   "source_label": "",
+   "image": "images/CRVI002428.jpg",
+   "original": "originals/CRVI002428.jpg",
+   "vector": "",
+   "original_px": [
+    3394,
+    3394
+   ],
+   "original_bytes": 709176,
+   "maker": "Unattributed",
+   "title": "Bring Her Back x Basketcase Ritual Tee",
+   "subtitle": "",
+   "year": "2025",
+   "tags": [
+    {
+     "k": "type",
+     "v": "textile"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "client",
+     "v": "A24"
+    },
+    {
+     "k": "subject",
+     "v": "Bring Her Back"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "white"
+    }
+   ],
+   "hue": null,
+   "light": 0.8944,
+   "chroma": 0.0045
+  },
+  {
+   "id": "CRVI002429",
+   "published": true,
+   "minted": "2026-09-07",
+   "punch": 0.0369,
+   "source_url": "https://shop.a24films.com/products/andrew-garfield-we-live-in-kitchen-timer",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002429.jpg",
+   "source_label": "",
+   "image": "images/CRVI002429.jpg",
+   "original": "originals/CRVI002429.jpg",
+   "vector": "",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 245667,
+   "maker": "Unattributed",
+   "title": "We Live In Time Kitchen Timer",
+   "subtitle": "",
+   "year": "2024",
+   "tags": [
+    {
+     "k": "type",
+     "v": "product design"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "client",
+     "v": "A24"
+    },
+    {
+     "k": "subject",
+     "v": "We Live in Time"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "white"
+    }
+   ],
+   "hue": 193.97,
+   "light": 0.8752,
+   "chroma": 0.221
+  },
+  {
+   "id": "CRVI002430",
+   "published": true,
+   "minted": "2026-09-07",
+   "punch": 0.0503,
+   "source_url": "https://shop.a24films.com/products/brown-logo-hat",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002430.jpg",
+   "source_label": "",
+   "image": "images/CRVI002430.jpg",
+   "original": "originals/CRVI002430.jpg",
+   "vector": "",
+   "original_px": [
+    4000,
+    4000
+   ],
+   "original_bytes": 822805,
+   "maker": "Unattributed",
+   "title": "Stacked 'A24' Hat",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "product design"
+    },
+    {
+     "k": "client",
+     "v": "A24"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "white"
+    }
+   ],
+   "hue": 24.86,
+   "light": 0.7648,
+   "chroma": 0.244
+  },
+  {
+   "id": "CRVI002431",
+   "published": true,
+   "minted": "2026-09-07",
+   "punch": 0.1655,
+   "source_url": "https://shop.a24films.com/products/marty-supreme-basketball",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002431.jpg",
+   "source_label": "",
+   "image": "images/CRVI002431.jpg",
+   "original": "originals/CRVI002431.jpg",
+   "vector": "",
+   "original_px": [
+    4000,
+    4000
+   ],
+   "original_bytes": 1053666,
+   "maker": "Unattributed",
+   "title": "Marty Supreme Basketball",
+   "subtitle": "",
+   "year": "2025",
+   "tags": [
+    {
+     "k": "type",
+     "v": "product design"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "client",
+     "v": "A24"
+    },
+    {
+     "k": "subject",
+     "v": "Marty Supreme"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "white"
+    }
+   ],
+   "hue": 15.68,
+   "light": 0.8295,
+   "chroma": 0.2669
+  },
+  {
+   "id": "CRVI002432",
+   "published": true,
+   "minted": "2026-09-07",
+   "punch": 0.0886,
+   "source_url": "https://shop.a24films.com/products/marty-supreme-tennis-balls",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002432.jpg",
+   "source_label": "",
+   "image": "images/CRVI002432.jpg",
+   "original": "originals/CRVI002432.jpg",
+   "vector": "",
+   "original_px": [
+    4000,
+    4000
+   ],
+   "original_bytes": 572249,
+   "maker": "Unattributed",
+   "title": "Marty Supreme Tennis Balls",
+   "subtitle": "",
+   "year": "2025",
+   "tags": [
+    {
+     "k": "type",
+     "v": "product design"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "client",
+     "v": "A24"
+    },
+    {
+     "k": "subject",
+     "v": "Marty Supreme"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "white"
+    }
+   ],
+   "hue": 20.64,
+   "light": 0.8982,
+   "chroma": 0.1331
+  },
+  {
+   "id": "CRVI002433",
+   "published": true,
+   "minted": "2026-09-07",
+   "punch": 0.1696,
+   "source_url": "https://shop.a24films.com/products/marty-supreme-wheaties",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002433.jpg",
+   "source_label": "",
+   "image": "images/CRVI002433.jpg",
+   "original": "originals/CRVI002433.jpg",
+   "vector": "",
+   "original_px": [
+    4000,
+    3999
+   ],
+   "original_bytes": 627654,
+   "maker": "Unattributed",
+   "title": "Marty Supreme Wheaties Box",
+   "subtitle": "",
+   "year": "2025",
+   "tags": [
+    {
+     "k": "type",
+     "v": "packaging"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "client",
+     "v": "A24"
+    },
+    {
+     "k": "client",
+     "v": "General Mills"
+    },
+    {
+     "k": "subject",
+     "v": "Marty Supreme"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "white"
+    }
+   ],
+   "hue": 14.91,
+   "light": 0.7777,
+   "chroma": 0.2777
+  },
+  {
+   "id": "CRVI002434",
+   "published": true,
+   "minted": "2026-09-07",
+   "punch": 0.095,
+   "source_url": "https://shop.a24films.com/products/the-invite-art-print",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002434.jpg",
+   "source_label": "",
+   "image": "images/CRVI002434.jpg",
+   "original": "originals/CRVI002434.jpg",
+   "vector": "",
+   "original_px": [
+    4000,
+    4000
+   ],
+   "original_bytes": 2559077,
+   "maker": "Allison Reimold",
+   "title": "The Invite Mini Poster",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "artist",
+     "v": "Allison Reimold"
+    },
+    {
+     "k": "client",
+     "v": "A24"
+    },
+    {
+     "k": "subject",
+     "v": "The Invite"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "white"
+    }
+   ],
+   "hue": 6.89,
+   "light": 0.7943,
+   "chroma": 0.2658
   }
  ]
 }

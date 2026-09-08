@@ -1,5 +1,5 @@
 {
- "next": 2397,
+ "next": 2435,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -139462,12 +139462,13 @@
    "identity_established": true,
    "published": false,
    "verification": "Unsplash photo 7wBFsHWQDlk, by the photographer who publishes there as Zak (@zaks), published 4 February 2019, shot on a Nikon D3400 and titled by Unsplash 'blue, red and pink abstract artwork'. ⚠️ THIS IS NOT A BRUCE NAUMAN. It arrived inside Todd's Nauman group because an Italian blog (traileoni.it) used it as a decorative header; it is a long-exposure light drawing sold as stock, and nothing in it is by Nauman. Recorded under its real maker so the mistake cannot propagate.",
-   "hue": 223.24,
-   "light": 0.1881,
-   "chroma": 0.7438,
-   "punch": 0.2638,
+   "hue": 190.1,
+   "light": 0.7122,
+   "chroma": 0.359,
+   "punch": 0.1324,
    "deleted": true,
-   "deleted_on": "2026-09-07"
+   "deleted_on": "2026-09-07",
+   "number_reused": true
   },
   "sent-2026-09-07g::d4d1058b80f5": {
    "id": "CRVI002395",
@@ -139587,6 +139588,2403 @@
    "light": 0.3496,
    "chroma": 0.3552,
    "punch": 0.0771
+  },
+  "sent-2026-09-07h::331eabfe07a9": {
+   "id": "CRVI002394",
+   "minted": "2026-09-07",
+   "reused": true,
+   "previously": {
+    "identity": "sent-2026-09-07g::eb46f5f94982",
+    "maker": "Zak",
+    "title": "Blue, red and pink abstract artwork",
+    "deleted_on": "2026-09-07"
+   },
+   "original_file": "originals/CRVI002394.jpg",
+   "original_px": [
+    1425,
+    1425
+   ],
+   "original_bytes": 368326,
+   "identity": "sent-2026-09-07h::331eabfe07a9",
+   "source_url": "https://static01.nyt.com/images/2018/07/28/business/29FANIA04/merlin_13935288_21e26cad-c079-4bf6-90c7-85844b96ae55-superJumbo.jpg",
+   "maker": "Pete Rodríguez",
+   "title": "I Like It Like That (A Mi Me Gusta Así)",
+   "subtitle": "",
+   "year": "1967",
+   "label": "Alegre Records",
+   "verified_against": "The sleeve itself, which prints 'I LIKE IT LIKE THAT (A MI ME GUSTA ASI) / PETE RODRIGUEZ', the ALEGRE RECORDS logo and the catalogue number LPA 833; Discogs lists the 1967 US release (Alegre X-4010 / LPA 833). ⚠️ NOT a Fania record — Alegre was an independent New York label that Fania acquired later, so it is Fania-family by ownership, not by imprint. The designer and photographer are not established.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img47/01.jpg",
+   "source_px": [
+    1425,
+    1425
+   ],
+   "colors": [
+    "cyan",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "musician",
+     "v": "Pete Rodríguez"
+    },
+    {
+     "k": "label",
+     "v": "Alegre Records"
+    },
+    {
+     "k": "subject",
+     "v": "salsa"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The sleeve itself, which prints 'I LIKE IT LIKE THAT (A MI ME GUSTA ASI) / PETE RODRIGUEZ', the ALEGRE RECORDS logo and the catalogue number LPA 833; Discogs lists the 1967 US release (Alegre X-4010 / LPA 833). ⚠️ NOT a Fania record — Alegre was an independent New York label that Fania acquired later, so it is Fania-family by ownership, not by imprint. The designer and photographer are not established.",
+   "hue": 190.1,
+   "light": 0.7122,
+   "chroma": 0.359,
+   "punch": 0.1324
+  },
+  "sent-2026-09-07h::f7c3452a4c73": {
+   "id": "CRVI002397",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002397.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 680143,
+   "identity": "sent-2026-09-07h::f7c3452a4c73",
+   "source_url": "https://ca-times.brightspotcdn.com/dims4/default/9eba7e0/2147483647/strip/true/crop/635x635+0+0/resize/2000x2000!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F85%2F45%2Fba2976824025878e232b0b23bf6b%2Fhector-lavoe-revento-album-cover.jpg",
+   "maker": "Héctor Lavoe",
+   "title": "Revento",
+   "subtitle": "",
+   "year": "1985",
+   "label": "Fania Records",
+   "verified_against": "The sleeve, which prints 'HECTOR LAVOE / Revento' and the Fania logo; Discogs gives the 1985 release, Fania Records JM 634. The file is Craft Recordings' own front-cover art (CR00743_Hector_Lavoe_-_Revento_Front_Cover_Only.jpg) at 3000x3000 — Craft owns the Fania catalogue today. ⚠️ Todd's link was a Los Angeles Times brightspot URL whose `resize/2000x2000!` upscaled a 635x635 original; that file was under the floor. The designer is not established.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img47/02.jpg",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "cyan",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "musician",
+     "v": "Héctor Lavoe"
+    },
+    {
+     "k": "label",
+     "v": "Fania Records"
+    },
+    {
+     "k": "subject",
+     "v": "salsa"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The sleeve, which prints 'HECTOR LAVOE / Revento' and the Fania logo; Discogs gives the 1985 release, Fania Records JM 634. The file is Craft Recordings' own front-cover art (CR00743_Hector_Lavoe_-_Revento_Front_Cover_Only.jpg) at 3000x3000 — Craft owns the Fania catalogue today. ⚠️ Todd's link was a Los Angeles Times brightspot URL whose `resize/2000x2000!` upscaled a 635x635 original; that file was under the floor. The designer is not established.",
+   "hue": 192.04,
+   "light": 0.3157,
+   "chroma": 0.7059,
+   "punch": 0.1947
+  },
+  "sent-2026-09-07h::c77f4e2a5f8f": {
+   "id": "CRVI002398",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002398.jpg",
+   "original_px": [
+    1024,
+    1017
+   ],
+   "original_bytes": 349776,
+   "identity": "sent-2026-09-07h::c77f4e2a5f8f",
+   "source_url": "https://colectivofuturo.com/wp-content/uploads/1979_ray_barretto_ricanstructionizzy_sanabria-1024x1017.jpeg",
+   "maker": "Ray Barretto con Adalberto Santiago",
+   "title": "Rican/Struction",
+   "subtitle": "",
+   "year": "1979",
+   "label": "Fania Records",
+   "verified_against": "The sleeve, which prints 'BARRETTO / RICAN/STRUCTION / con ADALBERTO SANTIAGO' and the Fania logo; Discogs gives 1979. The DESIGNER is Izzy Sanabria, credited by colectivofuturo.com's Fania cover story, whose filename for this exact image is `1979_ray_barretto_ricanstruction` + `izzy_sanabria` and whose text names him as the label's principal designer. ⚠️ 1024x1017 is that host's ceiling — the un-suffixed original 404s.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img47/03.jpg",
+   "source_px": [
+    1024,
+    1017
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "musician",
+     "v": "Ray Barretto"
+    },
+    {
+     "k": "designer",
+     "v": "Izzy Sanabria"
+    },
+    {
+     "k": "label",
+     "v": "Fania Records"
+    },
+    {
+     "k": "subject",
+     "v": "salsa"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The sleeve, which prints 'BARRETTO / RICAN/STRUCTION / con ADALBERTO SANTIAGO' and the Fania logo; Discogs gives 1979. The DESIGNER is Izzy Sanabria, credited by colectivofuturo.com's Fania cover story, whose filename for this exact image is `1979_ray_barretto_ricanstruction` + `izzy_sanabria` and whose text names him as the label's principal designer. ⚠️ 1024x1017 is that host's ceiling — the un-suffixed original 404s.",
+   "hue": 201.46,
+   "light": 0.5609,
+   "chroma": 0.8879,
+   "punch": 0.2746
+  },
+  "sent-2026-09-07h::e7e9630291c1": {
+   "id": "CRVI002399",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002399.jpg",
+   "original_px": [
+    1024,
+    1010
+   ],
+   "original_bytes": 329879,
+   "identity": "sent-2026-09-07h::e7e9630291c1",
+   "source_url": "https://colectivofuturo.com/wp-content/uploads/1976_fania_all_stars_live_in_japan_1976-1024x1010.jpeg",
+   "maker": "Fania All-Stars",
+   "title": "Fania All Stars Live in Japan 1976",
+   "subtitle": "",
+   "year": "1976",
+   "label": "Fania Records",
+   "verified_against": "The sleeve, which prints 'FANIA ALL STARS LIVE IN JAPAN 1976' in English and 'ファニア・オール・スターズ 来日決定' in Japanese, plus 'COLLECTORS ITEM' and the Fania logo — a Japanese pressing. Hosted on colectivofuturo.com's Fania cover story. ⚠️ Its filename carries NO designer, unlike its neighbours on that page, so the artist of this tattooed-back illustration is deliberately not attributed.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img47/04.jpg",
+   "source_px": [
+    1024,
+    1010
+   ],
+   "colors": [
+    "green",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "musician",
+     "v": "Fania All-Stars"
+    },
+    {
+     "k": "label",
+     "v": "Fania Records"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "subject",
+     "v": "salsa"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The sleeve, which prints 'FANIA ALL STARS LIVE IN JAPAN 1976' in English and 'ファニア・オール・スターズ 来日決定' in Japanese, plus 'COLLECTORS ITEM' and the Fania logo — a Japanese pressing. Hosted on colectivofuturo.com's Fania cover story. ⚠️ Its filename carries NO designer, unlike its neighbours on that page, so the artist of this tattooed-back illustration is deliberately not attributed.",
+   "hue": 82.26,
+   "light": 0.6725,
+   "chroma": 0.873,
+   "punch": 0.1753
+  },
+  "sent-2026-09-07h::7bc486402dff": {
+   "id": "CRVI002400",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002400.jpg",
+   "original_px": [
+    1400,
+    1400
+   ],
+   "original_bytes": 129570,
+   "identity": "sent-2026-09-07h::7bc486402dff",
+   "source_url": "https://cdn11.bigcommerce.com/s-1xa2dhlu0a/images/stencil/1280x1280/products/161215/176830/barrettoacid__71818.1775251001.jpg?c=1",
+   "maker": "Ray Barretto",
+   "title": "Acid",
+   "subtitle": "",
+   "year": "1968",
+   "label": "Fania Records",
+   "verified_against": "The sleeve, which prints 'ACID / RAY BARRETTO', 'FANIA' and the catalogue number; Discogs gives the US original as Fania Records LP 346, 1968, and credits DESIGN to Izzy Sanabria and PHOTOGRAPHY to Marty Topp. ⚠️ The first search hit was a London Records UK pressing with no credits — read the US original.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img47/05.jpg",
+   "source_px": [
+    1400,
+    1400
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "musician",
+     "v": "Ray Barretto"
+    },
+    {
+     "k": "designer",
+     "v": "Izzy Sanabria"
+    },
+    {
+     "k": "photographer",
+     "v": "Marty Topp"
+    },
+    {
+     "k": "label",
+     "v": "Fania Records"
+    },
+    {
+     "k": "subject",
+     "v": "salsa"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The sleeve, which prints 'ACID / RAY BARRETTO', 'FANIA' and the catalogue number; Discogs gives the US original as Fania Records LP 346, 1968, and credits DESIGN to Izzy Sanabria and PHOTOGRAPHY to Marty Topp. ⚠️ The first search hit was a London Records UK pressing with no credits — read the US original.",
+   "hue": 356.65,
+   "light": 0.4736,
+   "chroma": 0.9736,
+   "punch": 0.4821
+  },
+  "sent-2026-09-07h::7cc157d7b0d7": {
+   "id": "CRVI002401",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002401.jpg",
+   "original_px": [
+    1280,
+    1280
+   ],
+   "original_bytes": 123220,
+   "identity": "sent-2026-09-07h::7cc157d7b0d7",
+   "source_url": "https://web.consaguirre.com.ar/noticias/wp-content/uploads/2024/08/Fania-Records-reedita-el-disco-debut-homonimo-de-Ralfi-Pagan.jpg",
+   "maker": "Ralfi Pagán",
+   "title": "Ralfi Pagán",
+   "subtitle": "",
+   "year": "1969",
+   "label": "Fania Records",
+   "verified_against": "The sleeve, which prints 'RALFI PAGAN' and the Fania logo; Discogs gives Fania Records LP-377, 1969, with ARTWORK by Izzy Sanabria and PHOTOGRAPHY by Marty Topp. ⚠️ The file was found on an Argentine news page about Fania's reissue of the debut, which dates the record to 1971; the label's own catalogue number and Discogs both say 1969, and the year here follows those.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img47/06.jpg",
+   "source_px": [
+    1280,
+    1280
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "musician",
+     "v": "Ralfi Pagán"
+    },
+    {
+     "k": "designer",
+     "v": "Izzy Sanabria"
+    },
+    {
+     "k": "photographer",
+     "v": "Marty Topp"
+    },
+    {
+     "k": "label",
+     "v": "Fania Records"
+    },
+    {
+     "k": "subject",
+     "v": "salsa"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The sleeve, which prints 'RALFI PAGAN' and the Fania logo; Discogs gives Fania Records LP-377, 1969, with ARTWORK by Izzy Sanabria and PHOTOGRAPHY by Marty Topp. ⚠️ The file was found on an Argentine news page about Fania's reissue of the debut, which dates the record to 1971; the label's own catalogue number and Discogs both say 1969, and the year here follows those.",
+   "hue": 31.92,
+   "light": 0.4057,
+   "chroma": 0.4583,
+   "punch": 0.1768
+  },
+  "sent-2026-09-07h::1462df72e6ea": {
+   "id": "CRVI002402",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002402.jpg",
+   "original_px": [
+    1024,
+    1024
+   ],
+   "original_bytes": 222910,
+   "identity": "sent-2026-09-07h::1462df72e6ea",
+   "source_url": "https://colectivofuturo.com/wp-content/uploads/1972_willie_colon_hector_lavoe_crime_paysizzy_sanabria-1024x1024.jpg",
+   "maker": "Willie Colón and Héctor Lavoe",
+   "title": "Crime Pays",
+   "subtitle": "",
+   "year": "1972",
+   "label": "Fania Records",
+   "verified_against": "The sleeve, which prints 'CRIME PAYS', 'stereo' and the Fania logo with the catalogue number; Discogs gives the US original as Fania Records LP 00406, 1972, crediting PHOTOGRAPHY to Len Bauman. The DESIGN credit to Izzy Sanabria comes from colectivofuturo.com's Fania cover story, whose filename for this exact image ends `izzy_sanabria`.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img47/07.jpg",
+   "source_px": [
+    1024,
+    1024
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "musician",
+     "v": "Willie Colón"
+    },
+    {
+     "k": "musician",
+     "v": "Héctor Lavoe"
+    },
+    {
+     "k": "designer",
+     "v": "Izzy Sanabria"
+    },
+    {
+     "k": "photographer",
+     "v": "Len Bauman"
+    },
+    {
+     "k": "label",
+     "v": "Fania Records"
+    },
+    {
+     "k": "subject",
+     "v": "salsa"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The sleeve, which prints 'CRIME PAYS', 'stereo' and the Fania logo with the catalogue number; Discogs gives the US original as Fania Records LP 00406, 1972, crediting PHOTOGRAPHY to Len Bauman. The DESIGN credit to Izzy Sanabria comes from colectivofuturo.com's Fania cover story, whose filename for this exact image ends `izzy_sanabria`.",
+   "hue": 33.92,
+   "light": 0.4674,
+   "chroma": 0.8532,
+   "punch": 0.1557
+  },
+  "sent-2026-09-07h::b904b9c0f918": {
+   "id": "CRVI002403",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002403.jpg",
+   "original_px": [
+    917,
+    916
+   ],
+   "original_bytes": 256462,
+   "identity": "sent-2026-09-07h::b904b9c0f918",
+   "source_url": "https://flabbergasted-vibes.org/wp-content/uploads/2023/08/folder.jpg",
+   "maker": "Ray Barretto",
+   "title": "Hard Hands",
+   "subtitle": "",
+   "year": "1968",
+   "label": "Fania Records",
+   "verified_against": "The sleeve, which prints 'RAY BARRETTO / HARD HANDS', 'stereo', the Fania logo and the catalogue number FANIA SLP 362; Discogs confirms Fania Records SLP 362, 1968, crediting DESIGN to Izzy Sanabria and COVER PHOTOGRAPHY to Marty Topp.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img47/08.jpg",
+   "source_px": [
+    917,
+    916
+   ],
+   "colors": [
+    "orange",
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "musician",
+     "v": "Ray Barretto"
+    },
+    {
+     "k": "designer",
+     "v": "Izzy Sanabria"
+    },
+    {
+     "k": "photographer",
+     "v": "Marty Topp"
+    },
+    {
+     "k": "label",
+     "v": "Fania Records"
+    },
+    {
+     "k": "subject",
+     "v": "salsa"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The sleeve, which prints 'RAY BARRETTO / HARD HANDS', 'stereo', the Fania logo and the catalogue number FANIA SLP 362; Discogs confirms Fania Records SLP 362, 1968, crediting DESIGN to Izzy Sanabria and COVER PHOTOGRAPHY to Marty Topp.",
+   "hue": 37.03,
+   "light": 0.214,
+   "chroma": 0.444,
+   "punch": 0.1051
+  },
+  "sent-2026-09-07i::b712681956b3": {
+   "id": "CRVI002404",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002404.jpg",
+   "original_px": [
+    880,
+    1156
+   ],
+   "original_bytes": 339530,
+   "identity": "sent-2026-09-07i::b712681956b3",
+   "source_url": "https://i.ebayimg.com/images/g/Hb0AAOSw6CJa~G~x/s-l1200.jpg",
+   "maker": "Peter Max",
+   "title": "Solar Phenomenon",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "The TITLE is established by Todd, who sent it under that name on 2026-09-07; the file is an eBay listing image with no lot text attached. The MAKER is corroborated by the work itself — the cosmic landscape, the flattened rainbow bands and the crowd of tiny figures on the horizon are Max's signature idiom of c. 1970-71. ⚠️ The year is NOT established and no edition or medium is claimed.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img48/01.jpg",
+   "source_px": [
+    880,
+    1156
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Peter Max"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "psychedelia"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The TITLE is established by Todd, who sent it under that name on 2026-09-07; the file is an eBay listing image with no lot text attached. The MAKER is corroborated by the work itself — the cosmic landscape, the flattened rainbow bands and the crowd of tiny figures on the horizon are Max's signature idiom of c. 1970-71. ⚠️ The year is NOT established and no edition or medium is claimed.",
+   "hue": 356.1,
+   "light": 0.4918,
+   "chroma": 0.9573,
+   "punch": 0.4145
+  },
+  "sent-2026-09-07i::75db27540a8a": {
+   "id": "CRVI002405",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002405.jpg",
+   "original_px": [
+    2023,
+    1467
+   ],
+   "original_bytes": 287280,
+   "identity": "sent-2026-09-07i::75db27540a8a",
+   "source_url": "https://image.invaluable.com/housePhotos/fontainesauction/79/753279/H0096-L347384992_original.JPG",
+   "maker": "Peter Max",
+   "title": "Two seated figures",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Invaluable, house photos for Fontaine's Auction Gallery, lot described there as 'Peter Max (American, b. 1937), Serigraph of Seated Male & Female Figures' — which is the auction house's DESCRIPTION, not a title, so the title above is descriptive too. The sheet is signed in pencil in the lower margin. ⚠️ Neither the year nor the edition is established.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img48/02.jpg",
+   "source_px": [
+    2023,
+    1467
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Peter Max"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "psychedelia"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Invaluable, house photos for Fontaine's Auction Gallery, lot described there as 'Peter Max (American, b. 1937), Serigraph of Seated Male & Female Figures' — which is the auction house's DESCRIPTION, not a title, so the title above is descriptive too. The sheet is signed in pencil in the lower margin. ⚠️ Neither the year nor the edition is established.",
+   "hue": 15.07,
+   "light": 0.592,
+   "chroma": 0.972,
+   "punch": 0.6017
+  },
+  "sent-2026-09-07i::869a11234c0e": {
+   "id": "CRVI002406",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002406.jpg",
+   "original_px": [
+    4096,
+    3649
+   ],
+   "original_bytes": 769735,
+   "identity": "sent-2026-09-07i::869a11234c0e",
+   "source_url": "https://image.invaluable.com/housePhotos/johnmoran/15/748315/H0045-L342446573_original.JPG",
+   "maker": "Peter Max",
+   "title": "Right Now",
+   "subtitle": "",
+   "year": "1970",
+   "verified_against": "Invaluable, house photos for John Moran Auctioneers. The TITLE AND YEAR are established by Todd, who sent it as '\"Right Now,\" 1970'; the file itself carries no lot text. At 4096x3649 it is the largest file in the batch. ⚠️ The medium and edition are not established.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img48/03.jpg",
+   "source_px": [
+    4096,
+    3649
+   ],
+   "colors": [
+    "green",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Peter Max"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "psychedelia"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Invaluable, house photos for John Moran Auctioneers. The TITLE AND YEAR are established by Todd, who sent it as '\"Right Now,\" 1970'; the file itself carries no lot text. At 4096x3649 it is the largest file in the batch. ⚠️ The medium and edition are not established.",
+   "hue": 74.98,
+   "light": 0.5545,
+   "chroma": 0.914,
+   "punch": 0.4796
+  },
+  "sent-2026-09-07i::9e39a9151a83": {
+   "id": "CRVI002407",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002407.jpg",
+   "original_px": [
+    2925,
+    3075
+   ],
+   "original_bytes": 3033752,
+   "identity": "sent-2026-09-07i::9e39a9151a83",
+   "source_url": "https://www.post-gazette.com/image/2019/05/09/1140x_a10-7_cTC/Peter-Max-Cover-0509",
+   "maker": "Peter Max",
+   "title": "Cosmic landscape with crystal peaks",
+   "subtitle": "",
+   "year": "2019",
+   "verified_against": "The Pittsburgh Post-Gazette, which published this file with its report of 9 May 2019 on the New York Times investigation into Peter Max's dementia and the fraud lawsuit around his studio. The image carries its own credit inside the frame — the 'peter max™' logo, 'petermax.com', a 'Peter Max' signature and the line '© Peter Max 2019'. ⚠️ THAT IS THE CLAIM ON THE FILE, NOT A FINDING: the very article it illustrates reports the dispute over who actually made work signed in his name in those years. The title above is descriptive. Upgraded 1140x797 -> 2925x3075 via the `originalimage` preset.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img48/04.jpg",
+   "source_px": [
+    2925,
+    3075
+   ],
+   "colors": [
+    "cyan",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "illustration"
+    },
+    {
+     "k": "artist",
+     "v": "Peter Max"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "psychedelia"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Pittsburgh Post-Gazette, which published this file with its report of 9 May 2019 on the New York Times investigation into Peter Max's dementia and the fraud lawsuit around his studio. The image carries its own credit inside the frame — the 'peter max™' logo, 'petermax.com', a 'Peter Max' signature and the line '© Peter Max 2019'. ⚠️ THAT IS THE CLAIM ON THE FILE, NOT A FINDING: the very article it illustrates reports the dispute over who actually made work signed in his name in those years. The title above is descriptive. Upgraded 1140x797 -> 2925x3075 via the `originalimage` preset.",
+   "hue": 185.3,
+   "light": 0.7138,
+   "chroma": 0.8326,
+   "punch": 0.2942
+  },
+  "sent-2026-09-07i::71c9980b4b30": {
+   "id": "CRVI002408",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002408.jpg",
+   "original_px": [
+    3442,
+    2185
+   ],
+   "original_bytes": 941631,
+   "identity": "sent-2026-09-07i::71c9980b4b30",
+   "source_url": "https://journalpanorama.org/wp-content/uploads/2024/03/word-image-18740-20-scaled.jpeg",
+   "maker": "Peter Max",
+   "title": "Flowers in the Wind—American Breeze",
+   "subtitle": "",
+   "year": "1976",
+   "verified_against": "Panorama: Journal of the Association of Historians of American Art, 'Psychedelic Patriotism: Peter Max Sparks a Debate on Modern Representations of America', Fig. 20 — 'Peter Max, Flowers in the Wind—American Breeze, 1976. Billboard, 4 x 6 ft. AiA Program, GSA; FOIA 2019-00170. Photo by Page Conservation.' Todd sent this one without a title; the caption supplies it. Upgraded from the `-scaled` 2560px derivative to the 3442x2185 original.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img48/05.jpg",
+   "source_px": [
+    3442,
+    2185
+   ],
+   "colors": [
+    "yellow",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "billboard"
+    },
+    {
+     "k": "artist",
+     "v": "Peter Max"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "client",
+     "v": "General Services Administration"
+    },
+    {
+     "k": "subject",
+     "v": "psychedelia"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Panorama: Journal of the Association of Historians of American Art, 'Psychedelic Patriotism: Peter Max Sparks a Debate on Modern Representations of America', Fig. 20 — 'Peter Max, Flowers in the Wind—American Breeze, 1976. Billboard, 4 x 6 ft. AiA Program, GSA; FOIA 2019-00170. Photo by Page Conservation.' Todd sent this one without a title; the caption supplies it. Upgraded from the `-scaled` 2560px derivative to the 3442x2185 original.",
+   "hue": 44.89,
+   "light": 0.433,
+   "chroma": 0.9795,
+   "punch": 0.6731
+  },
+  "sent-2026-09-07i::6bec945e6cdb": {
+   "id": "CRVI002409",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002409.jpg",
+   "original_px": [
+    2952,
+    1944
+   ],
+   "original_bytes": 740753,
+   "identity": "sent-2026-09-07i::6bec945e6cdb",
+   "source_url": "https://journalpanorama.org/wp-content/uploads/2024/03/word-image-18740-14-700x461.jpeg",
+   "maker": "Peter Max",
+   "title": "The American Cosmic Jumper in the Land of Rainbows and Stars",
+   "subtitle": "",
+   "year": "1976",
+   "verified_against": "Panorama, 'Psychedelic Patriotism', Fig. 14 — 'Peter Max, The American Cosmic Jumper in the Land of Rainbows and Stars, 1976. Billboard, 4 x 6 ft. AiA Program, GSA; FOIA 2019-00170. Photo by Page Conservation.' ⚠️ Sent at 700x461, under the floor; the un-suffixed WordPress original is 2952x1944.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img48/07.jpg",
+   "source_px": [
+    2952,
+    1944
+   ],
+   "colors": [
+    "orange",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "billboard"
+    },
+    {
+     "k": "artist",
+     "v": "Peter Max"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "client",
+     "v": "General Services Administration"
+    },
+    {
+     "k": "subject",
+     "v": "psychedelia"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Panorama, 'Psychedelic Patriotism', Fig. 14 — 'Peter Max, The American Cosmic Jumper in the Land of Rainbows and Stars, 1976. Billboard, 4 x 6 ft. AiA Program, GSA; FOIA 2019-00170. Photo by Page Conservation.' ⚠️ Sent at 700x461, under the floor; the un-suffixed WordPress original is 2952x1944.",
+   "hue": 43.89,
+   "light": 0.5217,
+   "chroma": 0.973,
+   "punch": 0.3796
+  },
+  "sent-2026-09-07i::fc8239864652": {
+   "id": "CRVI002410",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002410.jpg",
+   "original_px": [
+    3554,
+    2352
+   ],
+   "original_bytes": 1146813,
+   "identity": "sent-2026-09-07i::fc8239864652",
+   "source_url": "https://journalpanorama.org/wp-content/uploads/2024/03/word-image-18740-15-700x463.jpeg",
+   "maker": "Peter Max",
+   "title": "The American Traveler Spreading Good Times",
+   "subtitle": "",
+   "year": "1976",
+   "verified_against": "Panorama, 'Psychedelic Patriotism', Fig. 15 — 'Peter Max, The American Traveler Spreading Good Times, 1976. Billboard, 4 x 6 ft. AiA Program, GSA; FOIA 2019-00170. Photo by Page Conservation.' The article notes it draws on two earlier Max posters, Flyer with Flower (1969) among them. ⚠️ Sent at 700x463; the original is 3554x2352.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img48/08.jpg",
+   "source_px": [
+    3554,
+    2352
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "billboard"
+    },
+    {
+     "k": "artist",
+     "v": "Peter Max"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "client",
+     "v": "General Services Administration"
+    },
+    {
+     "k": "subject",
+     "v": "psychedelia"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Panorama, 'Psychedelic Patriotism', Fig. 15 — 'Peter Max, The American Traveler Spreading Good Times, 1976. Billboard, 4 x 6 ft. AiA Program, GSA; FOIA 2019-00170. Photo by Page Conservation.' The article notes it draws on two earlier Max posters, Flyer with Flower (1969) among them. ⚠️ Sent at 700x463; the original is 3554x2352.",
+   "hue": 8.14,
+   "light": 0.625,
+   "chroma": 0.9616,
+   "punch": 0.2907
+  },
+  "sent-2026-09-07i::06fafa49c2b0": {
+   "id": "CRVI002411",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002411.jpg",
+   "original_px": [
+    3513,
+    2278
+   ],
+   "original_bytes": 1100392,
+   "identity": "sent-2026-09-07i::06fafa49c2b0",
+   "source_url": "https://journalpanorama.org/wp-content/uploads/2024/03/word-image-18740-18-700x454.jpeg",
+   "maker": "Peter Max",
+   "title": "One Nation under God—This Is a Blessed Country",
+   "subtitle": "",
+   "year": "1976",
+   "verified_against": "Panorama, 'Psychedelic Patriotism', Fig. 18 — 'Peter Max, One Nation under God—This Is a Blessed Country, 1976. Billboard, 4 x 6 ft. AiA Program, GSA; FOIA 2019-00170. Photo by Page Conservation.' ⚠️ Sent at 700x454; the original is 3513x2278.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img48/09.jpg",
+   "source_px": [
+    3513,
+    2278
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "billboard"
+    },
+    {
+     "k": "artist",
+     "v": "Peter Max"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "client",
+     "v": "General Services Administration"
+    },
+    {
+     "k": "subject",
+     "v": "psychedelia"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Panorama, 'Psychedelic Patriotism', Fig. 18 — 'Peter Max, One Nation under God—This Is a Blessed Country, 1976. Billboard, 4 x 6 ft. AiA Program, GSA; FOIA 2019-00170. Photo by Page Conservation.' ⚠️ Sent at 700x454; the original is 3513x2278.",
+   "hue": 35.56,
+   "light": 0.4682,
+   "chroma": 0.9506,
+   "punch": 0.5163
+  },
+  "sent-2026-09-07j::28c68a9b5883": {
+   "id": "CRVI002412",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002412.jpg",
+   "original_px": [
+    931,
+    1000
+   ],
+   "original_bytes": 162763,
+   "identity": "sent-2026-09-07j::28c68a9b5883",
+   "source_url": "https://m.media-amazon.com/images/I/71vPcL5Pu1L._AC_UF894,1000_QL80_.jpg",
+   "maker": "Filippo Tommaso Marinetti",
+   "title": "TUMB TUMB / GRANG GRANG / ZZZANG-ZZZANG-TUMB",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "The SHEET ITSELF, which sets the onomatopoeia of Marinetti's Adrianople bombardment — TUMB TUMB, GRAAA GRANG, TUUUMMM, ZZZANG-ZZZANG-TUMB — as radiating type on aged paper, the parole in libertà of *Zang Tumb Tumb* (1914). ⚠️ The SOURCE IS AN AMAZON PRODUCT IMAGE with no lot or catalogue text, so it is not established whether this is an original sheet or a later reproduction, and the title above is descriptive rather than established. The maker rests on the composition and on Todd's grouping, sent 2026-09-07 under 'Marinetti'.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img49/01.jpg",
+   "source_px": [
+    931,
+    1000
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Filippo Tommaso Marinetti"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "subject",
+     "v": "typography"
+    },
+    {
+     "k": "subject",
+     "v": "Futurism"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The SHEET ITSELF, which sets the onomatopoeia of Marinetti's Adrianople bombardment — TUMB TUMB, GRAAA GRANG, TUUUMMM, ZZZANG-ZZZANG-TUMB — as radiating type on aged paper, the parole in libertà of *Zang Tumb Tumb* (1914). ⚠️ The SOURCE IS AN AMAZON PRODUCT IMAGE with no lot or catalogue text, so it is not established whether this is an original sheet or a later reproduction, and the title above is descriptive rather than established. The maker rests on the composition and on Todd's grouping, sent 2026-09-07 under 'Marinetti'.",
+   "hue": 44.8,
+   "light": 0.3955,
+   "chroma": 0.8261,
+   "punch": 0.2126
+  },
+  "sent-2026-09-07j::cd9163c781fc": {
+   "id": "CRVI002413",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002413.jpg",
+   "original_px": [
+    1780,
+    2368
+   ],
+   "original_bytes": 3083023,
+   "identity": "sent-2026-09-07j::cd9163c781fc",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Filippo_tommaso_marinetti%2C_parole_in_libert%C3%A0%2C_treni%2C_1910%2C_02.JPG",
+   "maker": "Filippo Tommaso Marinetti",
+   "title": "Treni (parole in libertà)",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "Wikimedia Commons, where the file is titled 'Filippo tommaso marinetti, parole in libertà, treni' and photographed by the Commons contributor Sailko, who shoots Italian museum collections; the sheet is framed and shown in a vitrine. The word 'Treni' is written across the middle of the drawing in the artist's hand, among ink cones, spirals and arrows with French annotations. ⚠️ THE YEAR IS NOT ASSERTED. The uploader's filename says 1910, but Marinetti did not formulate parole in libertà until 1912-14, so the filename's date is inconsistent with the form it names and is not repeated here as fact.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img49/02.jpg",
+   "source_px": [
+    1780,
+    2368
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Filippo Tommaso Marinetti"
+    },
+    {
+     "k": "photographer",
+     "v": "Sailko"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "subject",
+     "v": "Futurism"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons, where the file is titled 'Filippo tommaso marinetti, parole in libertà, treni' and photographed by the Commons contributor Sailko, who shoots Italian museum collections; the sheet is framed and shown in a vitrine. The word 'Treni' is written across the middle of the drawing in the artist's hand, among ink cones, spirals and arrows with French annotations. ⚠️ THE YEAR IS NOT ASSERTED. The uploader's filename says 1910, but Marinetti did not formulate parole in libertà until 1912-14, so the filename's date is inconsistent with the form it names and is not repeated here as fact.",
+   "hue": 43.06,
+   "light": 0.7651,
+   "chroma": 0.9179,
+   "punch": 0.1603
+  },
+  "sent-2026-09-07j::aa12b7c4d473": {
+   "id": "CRVI002414",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002414.jpg",
+   "original_px": [
+    2048,
+    1408
+   ],
+   "original_bytes": 552402,
+   "identity": "sent-2026-09-07j::aa12b7c4d473",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Filippo_Tommaso_Marinetti_-_ZANG_TUMB_TUUUM_1915.jpg",
+   "maker": "Filippo Tommaso Marinetti",
+   "title": "Zang Tumb Tuuum",
+   "subtitle": "",
+   "year": "1915",
+   "verified_against": "Wikimedia Commons, whose file page credits the work to Filippo Tommaso Marinetti, dates it 1915, sources it to Sotheby's (sothebys.com/en/buy/auction/2021/zang-tumb-tuuum) and describes it as an 'original collage of typographical letters and various shapes on a sheet of paper', giving the full title of the poem as BOOOOOMBOOOOOMBAAAAARDAAAMENTO. BUM BUM BUM. ZANG TUMB TUUUM — which is what the sheet reads.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img49/03.jpg",
+   "source_px": [
+    2048,
+    1408
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "collage"
+    },
+    {
+     "k": "artist",
+     "v": "Filippo Tommaso Marinetti"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "subject",
+     "v": "typography"
+    },
+    {
+     "k": "subject",
+     "v": "Futurism"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons, whose file page credits the work to Filippo Tommaso Marinetti, dates it 1915, sources it to Sotheby's (sothebys.com/en/buy/auction/2021/zang-tumb-tuuum) and describes it as an 'original collage of typographical letters and various shapes on a sheet of paper', giving the full title of the poem as BOOOOOMBOOOOOMBAAAAARDAAAMENTO. BUM BUM BUM. ZANG TUMB TUUUM — which is what the sheet reads.",
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Futurism"
+    }
+   ],
+   "hue": 38.28,
+   "light": 0.7248,
+   "chroma": 0.9071,
+   "punch": 0.1188
+  },
+  "sent-2026-09-07j::a849d100c29a": {
+   "id": "CRVI002415",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002415.jpg",
+   "original_px": [
+    1437,
+    2000
+   ],
+   "original_bytes": 1100508,
+   "identity": "sent-2026-09-07j::a849d100c29a",
+   "source_url": "https://www.moma.org/media/W1siZiIsIjIzNzI5NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg",
+   "maker": "Filippo Tommaso Marinetti",
+   "title": "Zang Tumb Tumb: Adrianopoli Ottobre 1912: Parole in Libertà (cover)",
+   "subtitle": "",
+   "year": "1914",
+   "verified_against": "MoMA, object 31450 — 'Filippo Tommaso Marinetti. Zang Tumb Tumb: Adrianopoli Ottobre 1912: Parole in Libertà. 1914'. The cover carries its own imprint: 'F. T. MARINETTI FUTURISTA / ZANG TUMB TUMB / ADRIANOPOLI OTTOBRE 1912 / PAROLE IN LIBERTÀ / EDIZIONI FUTURISTE DI \"POESIA\", Corso Venezia 61, MILANO, 1914'. ⚠️ Todd's link was a Google thumbnail proxy at 362x552, under the floor and unimprovable; the file held here is MoMA's copy, a DIFFERENT physical copy of the same edition — worn, shot flat, where the thumbnail's was bright and shot at an angle.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img49/04.jpg",
+   "source_px": [
+    1437,
+    2000
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "artist",
+     "v": "Filippo Tommaso Marinetti"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "subject",
+     "v": "typography"
+    },
+    {
+     "k": "subject",
+     "v": "Futurism"
+    },
+    {
+     "k": "client",
+     "v": "Edizioni Futuriste di \"Poesia\""
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "MoMA, object 31450 — 'Filippo Tommaso Marinetti. Zang Tumb Tumb: Adrianopoli Ottobre 1912: Parole in Libertà. 1914'. The cover carries its own imprint: 'F. T. MARINETTI FUTURISTA / ZANG TUMB TUMB / ADRIANOPOLI OTTOBRE 1912 / PAROLE IN LIBERTÀ / EDIZIONI FUTURISTE DI \"POESIA\", Corso Venezia 61, MILANO, 1914'. ⚠️ Todd's link was a Google thumbnail proxy at 362x552, under the floor and unimprovable; the file held here is MoMA's copy, a DIFFERENT physical copy of the same edition — worn, shot flat, where the thumbnail's was bright and shot at an angle.",
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Futurism"
+    }
+   ],
+   "hue": 34.99,
+   "light": 0.4557,
+   "chroma": 0.8843,
+   "punch": 0.4656
+  },
+  "sent-2026-09-07j::4c462fc8fbc1": {
+   "id": "CRVI002416",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002416.jpg",
+   "original_px": [
+    2000,
+    1892
+   ],
+   "original_bytes": 939949,
+   "identity": "sent-2026-09-07j::4c462fc8fbc1",
+   "source_url": "https://www.moma.org/media/W1siZiIsIjIxMTIzMiJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=47a7bffc47ecfdf7",
+   "maker": "Filippo Tommaso Marinetti",
+   "title": "Vive la France",
+   "subtitle": "",
+   "year": "1914-15",
+   "verified_against": "MoMA, object 36625 — 'Filippo Tommaso Marinetti. Vive la France. 1914–15. Ink, crayon, and cut-and-pasted printed paper on paper. 12 1/8 x 12 3/4\" (30.9 x 32.6 cm). Gift of the Benjamin and Frances Benenson Foundation. Object number 387.1984.' The sheet reads VIVE LA FRANCE! six times around the margins with ZANG TUMB TUUUUM across the middle and pasted columns of figures; MoMA has it on view in Gallery 505. The 1.057 aspect ratio of the file matches the object's 32.6/30.9.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img49/05.jpg",
+   "source_px": [
+    2000,
+    1892
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "collage"
+    },
+    {
+     "k": "artist",
+     "v": "Filippo Tommaso Marinetti"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "subject",
+     "v": "typography"
+    },
+    {
+     "k": "subject",
+     "v": "Futurism"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "MoMA, object 36625 — 'Filippo Tommaso Marinetti. Vive la France. 1914–15. Ink, crayon, and cut-and-pasted printed paper on paper. 12 1/8 x 12 3/4\" (30.9 x 32.6 cm). Gift of the Benjamin and Frances Benenson Foundation. Object number 387.1984.' The sheet reads VIVE LA FRANCE! six times around the margins with ZANG TUMB TUUUUM across the middle and pasted columns of figures; MoMA has it on view in Gallery 505. The 1.057 aspect ratio of the file matches the object's 32.6/30.9.",
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Futurism"
+    }
+   ],
+   "hue": 44.45,
+   "light": 0.7958,
+   "chroma": 0.8234,
+   "punch": 0.1073
+  },
+  "sent-2026-09-07j::352ee3606177": {
+   "id": "CRVI002417",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002417.jpg",
+   "original_px": [
+    1400,
+    980
+   ],
+   "original_bytes": 672479,
+   "identity": "sent-2026-09-07j::352ee3606177",
+   "source_url": "https://www.arthistoryproject.com/site/assets/files/6990/filippo_tommaso_marinetti-words_and_freedom-1914-obelisk-art-history.jpg",
+   "maker": "Filippo Tommaso Marinetti",
+   "title": "Words and Freedom (Parole in libertà)",
+   "subtitle": "",
+   "year": "1914",
+   "verified_against": "Obelisk / arthistoryproject.com, which catalogues it as 'Words and Freedom, Filippo Tommaso Marinetti, 1914, 25 cm × 20 cm, a Futurist Letterpress Print, public domain, tagged Typography'. ⚠️ probe49 reported NO MEASURE for this file because the host serves WebP with no Content-Type; it is 1400x980 and clears the floor comfortably.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img49/06.jpg",
+   "source_px": [
+    1400,
+    980
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Filippo Tommaso Marinetti"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "subject",
+     "v": "typography"
+    },
+    {
+     "k": "subject",
+     "v": "Futurism"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Obelisk / arthistoryproject.com, which catalogues it as 'Words and Freedom, Filippo Tommaso Marinetti, 1914, 25 cm × 20 cm, a Futurist Letterpress Print, public domain, tagged Typography'. ⚠️ probe49 reported NO MEASURE for this file because the host serves WebP with no Content-Type; it is 1400x980 and clears the floor comfortably.",
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Futurism"
+    }
+   ],
+   "hue": 16.19,
+   "light": 0.7115,
+   "chroma": 0.1213,
+   "punch": 0.0229
+  },
+  "sent-2026-09-07k::33a58a58439a": {
+   "id": "CRVI002418",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002418.jpg",
+   "original_px": [
+    1828,
+    2500
+   ],
+   "original_bytes": 910159,
+   "identity": "sent-2026-09-07k::33a58a58439a",
+   "source_url": "https://www.moma.org/interactives/objectphoto/assets/constituent/000/305/187/305187_original.jpg",
+   "maker": "Gustav Klutsis",
+   "title": "Self-portrait with a camera",
+   "subtitle": "",
+   "year": "1926",
+   "verified_against": "MoMA's Object:Photo microsite, where this file is the CONSTITUENT image for Gustav Klutsis (constituent 305187, artist 12501) — that is, the portrait MoMA uses to stand for him. The sitter is therefore Klutsis. ⚠️ THE MAKER IS AN INFERENCE, NOT A CAPTION: the pose is a self-portrait (both hands raising a folding plate camera to his own face) and MoMA's Thomas Walther Collection holds Klutsis's *Untitled (Self-Portrait)*, 1926, gelatin silver print, 8.9 x 6.5 cm (1741.2001) — whose 0.731 proportion matches this file's 1828x2500 to three decimal places. No caption on the file says so.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img50/01.jpg",
+   "source_px": [
+    1828,
+    2500
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Gustav Klutsis"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "photographer",
+     "v": "Gustav Klutsis"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "subject",
+     "v": "self-portrait"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "MoMA's Object:Photo microsite, where this file is the CONSTITUENT image for Gustav Klutsis (constituent 305187, artist 12501) — that is, the portrait MoMA uses to stand for him. The sitter is therefore Klutsis. ⚠️ THE MAKER IS AN INFERENCE, NOT A CAPTION: the pose is a self-portrait (both hands raising a folding plate camera to his own face) and MoMA's Thomas Walther Collection holds Klutsis's *Untitled (Self-Portrait)*, 1926, gelatin silver print, 8.9 x 6.5 cm (1741.2001) — whose 0.731 proportion matches this file's 1828x2500 to three decimal places. No caption on the file says so.",
+   "hue": null,
+   "light": 0.4681,
+   "chroma": 0.0034,
+   "punch": 0.0547
+  },
+  "sent-2026-09-07k::d166c558ab6c": {
+   "id": "CRVI002419",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002419.jpg",
+   "original_px": [
+    1415,
+    2000
+   ],
+   "original_bytes": 982048,
+   "identity": "sent-2026-09-07k::d166c558ab6c",
+   "source_url": "https://www.moma.org/media/W1siZiIsIjIxMTE1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=7b19272150821a47",
+   "maker": "Gustav Klutsis",
+   "title": "Let's Fulfill the Plan of Great Works",
+   "subtitle": "",
+   "year": "1930",
+   "verified_against": "MoMA, object 6487 — 'Gustav Klutsis. Let's Fulfill the Plan of Great Works. 1930. Lithograph. 46 5/8 x 33\" (118.4 x 83.8 cm). Purchase Fund, Jan Tschichold Collection. Object number 357.1937.' The poster prints its own slogan, ВЫПОЛНИМ ПЛАН ВЕЛИКИХ РАБОТ, over the multiplied raised hand that is Klutsis's best-known image. Found by matching MoMA media file 211155 against the og:image of all 61 Klutsis objects.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img50/02.jpg",
+   "source_px": [
+    1415,
+    2000
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "artist",
+     "v": "Gustav Klutsis"
+    },
+    {
+     "k": "decade",
+     "v": "1930s"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "subject",
+     "v": "Constructivism"
+    },
+    {
+     "k": "subject",
+     "v": "propaganda"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "MoMA, object 6487 — 'Gustav Klutsis. Let's Fulfill the Plan of Great Works. 1930. Lithograph. 46 5/8 x 33\" (118.4 x 83.8 cm). Purchase Fund, Jan Tschichold Collection. Object number 357.1937.' The poster prints its own slogan, ВЫПОЛНИМ ПЛАН ВЕЛИКИХ РАБОТ, over the multiplied raised hand that is Klutsis's best-known image. Found by matching MoMA media file 211155 against the og:image of all 61 Klutsis objects.",
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Constructivism"
+    }
+   ],
+   "hue": 9.72,
+   "light": 0.4337,
+   "chroma": 0.7507,
+   "punch": 0.3306
+  },
+  "sent-2026-09-07k::0af6ca833091": {
+   "id": "CRVI002420",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002420.jpg",
+   "original_px": [
+    1209,
+    2000
+   ],
+   "original_bytes": 732666,
+   "identity": "sent-2026-09-07k::0af6ca833091",
+   "source_url": "https://www.moma.org/media/W1siZiIsIjQzNjc5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=eda02f9baacca32d",
+   "maker": "Gustav Klutsis",
+   "title": "Electrification of the Entire Country (Elektrifikatsiia vsei strany)",
+   "subtitle": "",
+   "year": "1920",
+   "verified_against": "MoMA, object 217696 — 'Gustav Klutsis. Electrification of the Entire Country (Elektrifikatsiia vsei strany). c. 1920. Cut-and-pasted gelatin silver prints, printed and painted paper on paper with gouache, ink, and pencil. 18 5/16 x 10 13/16\" (46.5 x 27.5 cm). The Merrill C. Berman Collection.' The pasted strip across the top reads ЭЛЕКТРИФИКАЦИЯ ВСЕЙ СТРАНЫ — Lenin's 1920 formula, 'Communism = Soviet power plus the electrification of the entire country' — and Lenin strides across the tilted disc. The file's 0.605 ratio matches the object's 27.5/46.5.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img50/03.jpg",
+   "source_px": [
+    1209,
+    2000
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "collage"
+    },
+    {
+     "k": "artist",
+     "v": "Gustav Klutsis"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "subject",
+     "v": "Constructivism"
+    },
+    {
+     "k": "subject",
+     "v": "propaganda"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "MoMA, object 217696 — 'Gustav Klutsis. Electrification of the Entire Country (Elektrifikatsiia vsei strany). c. 1920. Cut-and-pasted gelatin silver prints, printed and painted paper on paper with gouache, ink, and pencil. 18 5/16 x 10 13/16\" (46.5 x 27.5 cm). The Merrill C. Berman Collection.' The pasted strip across the top reads ЭЛЕКТРИФИКАЦИЯ ВСЕЙ СТРАНЫ — Lenin's 1920 formula, 'Communism = Soviet power plus the electrification of the entire country' — and Lenin strides across the tilted disc. The file's 0.605 ratio matches the object's 27.5/46.5.",
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Constructivism"
+    }
+   ],
+   "hue": 33.99,
+   "light": 0.653,
+   "chroma": 0.7187,
+   "punch": 0.139
+  },
+  "sent-2026-09-07k::bb281702c0c6": {
+   "id": "CRVI002421",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002421.jpg",
+   "original_px": [
+    1658,
+    1658
+   ],
+   "original_bytes": 1832250,
+   "identity": "sent-2026-09-07k::bb281702c0c6",
+   "source_url": "https://i0.wp.com/thecharnelhouse.org/wp-content/uploads/2016/10/gustavs-klucis-dynamic-city-19192.jpg?fit=1200%2C1200&ssl=1",
+   "maker": "Gustav Klutsis",
+   "title": "Dynamic City",
+   "subtitle": "",
+   "year": "1919",
+   "verified_against": "The Charnel-House, whose file for this image is named `gustavs-klucis-dynamic-city-1919`; the work is Klutsis's *Dynamic City*, one of his first Constructivist compositions, built from a black disc, angled planes and a sanded, gritty ground. ⚠️ The source is a research blog rather than a museum record, so no collection, medium or dimensions are asserted here — only the title and year the file itself carries.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img50/04.jpg",
+   "source_px": [
+    1658,
+    1658
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "collage"
+    },
+    {
+     "k": "artist",
+     "v": "Gustav Klutsis"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "subject",
+     "v": "Constructivism"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Charnel-House, whose file for this image is named `gustavs-klucis-dynamic-city-1919`; the work is Klutsis's *Dynamic City*, one of his first Constructivist compositions, built from a black disc, angled planes and a sanded, gritty ground. ⚠️ The source is a research blog rather than a museum record, so no collection, medium or dimensions are asserted here — only the title and year the file itself carries.",
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Constructivism"
+    }
+   ],
+   "hue": 34.99,
+   "light": 0.6965,
+   "chroma": 0.8265,
+   "punch": 0.1744
+  },
+  "sent-2026-09-07k::f5ed83e60a0c": {
+   "id": "CRVI002422",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002422.jpg",
+   "original_px": [
+    1350,
+    1800
+   ],
+   "original_bytes": 571100,
+   "identity": "sent-2026-09-07k::f5ed83e60a0c",
+   "source_url": "https://flashbackshop.com/cdn/shop/products/f909cdfba4d2420798eb31f2678bad29.jpg?v=1624282819",
+   "maker": "Gustav Klutsis",
+   "title": "Oppressed peoples of the whole world, under the banner of the Comintern, overthrow imperialism",
+   "subtitle": "",
+   "year": "1924",
+   "verified_against": "THE SHEET ITSELF, which is signed 'G.KLUCIS' at lower right and dated '1924 г.' beneath the signature, with a pencil inscription along the lower left. The Cyrillic set into the red megaphone reads УГНЕТЕННЫЕ НАРОДЫ ВСЕГО МИРА ПОД ЗНАМЕНЕМ КОМИНТЕРНА СВЕРГАЙТЕ ИМПЕРИАЛИЗМ, which is the title above; Lenin speaks it through the cone over a photomontage of workers and a tunnel. Hosted by Flashback Shop, a poster dealer. ⚠️ The English title is a translation of the printed Russian, not an established English title.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img50/05.jpg",
+   "source_px": [
+    1350,
+    1800
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "artist",
+     "v": "Gustav Klutsis"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "subject",
+     "v": "Constructivism"
+    },
+    {
+     "k": "subject",
+     "v": "propaganda"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, which is signed 'G.KLUCIS' at lower right and dated '1924 г.' beneath the signature, with a pencil inscription along the lower left. The Cyrillic set into the red megaphone reads УГНЕТЕННЫЕ НАРОДЫ ВСЕГО МИРА ПОД ЗНАМЕНЕМ КОМИНТЕРНА СВЕРГАЙТЕ ИМПЕРИАЛИЗМ, which is the title above; Lenin speaks it through the cone over a photomontage of workers and a tunnel. Hosted by Flashback Shop, a poster dealer. ⚠️ The English title is a translation of the printed Russian, not an established English title.",
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Constructivism"
+    }
+   ],
+   "hue": 35.15,
+   "light": 0.6169,
+   "chroma": 0.7174,
+   "punch": 0.2291
+  },
+  "sent-2026-09-07k::a3b02c282d75": {
+   "id": "CRVI002423",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002423.jpg",
+   "original_px": [
+    1509,
+    2000
+   ],
+   "original_bytes": 991562,
+   "identity": "sent-2026-09-07k::a3b02c282d75",
+   "source_url": "https://www.moma.org/media/W1siZiIsIjE2OTI2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=c8cbcab6ab30be15",
+   "maker": "Gustav Klutsis",
+   "title": "Axionometric Construction",
+   "subtitle": "",
+   "year": "1921",
+   "verified_against": "MoMA, object 75031 — 'Gustav Klutsis. Axionometric Construction. c. 1921. Lithograph.' (MoMA's own spelling of 'axonometric' is kept here because it is theirs.) Found by matching MoMA media file 169269 against the og:image of all 61 Klutsis objects.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img50/06.jpg",
+   "source_px": [
+    1509,
+    2000
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Gustav Klutsis"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "subject",
+     "v": "Constructivism"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "MoMA, object 75031 — 'Gustav Klutsis. Axionometric Construction. c. 1921. Lithograph.' (MoMA's own spelling of 'axonometric' is kept here because it is theirs.) Found by matching MoMA media file 169269 against the og:image of all 61 Klutsis objects.",
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Constructivism"
+    }
+   ],
+   "hue": 26.34,
+   "light": 0.5887,
+   "chroma": 0.8781,
+   "punch": 0.2233
+  },
+  "sent-2026-09-07k::995b1a30d70d": {
+   "id": "CRVI002424",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002424.jpg",
+   "original_px": [
+    1000,
+    1000
+   ],
+   "original_bytes": 155686,
+   "identity": "sent-2026-09-07k::995b1a30d70d",
+   "source_url": "https://arevioletsblue.com/cdn/shop/files/TheoryRevolution_PO.png?v=1772727789",
+   "maker": "Gustav Klutsis",
+   "title": "Design for an agitational stand",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "⚠️ NEITHER TITLE NOR YEAR IS ESTABLISHED. The file comes from a Shopify print shop (arevioletsblue.com), which is a vendor, not a source, and names it only 'TheoryRevolution_PO'. What the drawing shows is unambiguous and is what the title describes: one of Klutsis's designs for a street agitational stand — a mast carrying a segmented colour wheel, lettered screens and a loudspeaker box, with a standing figure drawn at the base for scale. He made that series in 1922; this record does not claim which sheet this is. The maker rests on Todd's grouping, sent 2026-09-07 under 'GUSTAV KLUTSIS'.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img50/07.jpg",
+   "source_px": [
+    1000,
+    1000
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Gustav Klutsis"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "subject",
+     "v": "Constructivism"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ NEITHER TITLE NOR YEAR IS ESTABLISHED. The file comes from a Shopify print shop (arevioletsblue.com), which is a vendor, not a source, and names it only 'TheoryRevolution_PO'. What the drawing shows is unambiguous and is what the title describes: one of Klutsis's designs for a street agitational stand — a mast carrying a segmented colour wheel, lettered screens and a loudspeaker box, with a standing figure drawn at the base for scale. He made that series in 1922; this record does not claim which sheet this is. The maker rests on Todd's grouping, sent 2026-09-07 under 'GUSTAV KLUTSIS'.",
+   "hue": 35.26,
+   "light": 0.8782,
+   "chroma": 0.5879,
+   "punch": 0.0545
+  },
+  "sent-2026-09-07k::f790639192ff": {
+   "id": "CRVI002425",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002425.jpg",
+   "original_px": [
+    4096,
+    2908
+   ],
+   "original_bytes": 3013072,
+   "identity": "sent-2026-09-07k::f790639192ff",
+   "source_url": "https://api.nga.gov/iiif/b564276f-6577-4490-bd5a-c714ae95611e/full/full/0/default.jpg",
+   "maker": "Gustav Klutsis",
+   "title": "Propaganda Stand (Workers of the World Unite)",
+   "subtitle": "",
+   "year": "1922",
+   "verified_against": "The National Gallery of Art, Washington — 'Gustav Klutsis, Propaganda Stand (Workers of the World Unite), 1922, gouache over graphite, overall 21.1 x 29.9 cm, Patrons' Permanent Fund, accession 2005.92.3', provenance estate of the artist to Galerie Avant-Garde Berlin to Merrill C. Berman to the NGA in 2005. The NGA records the inscriptions this file shows: 'across sheet in gouache: WORKERS OF THE WORLD UNITE; [Arabic text]; [Russian text]; lower right in graphite: G. Klucis'. ⚠️ Todd's link was a Google thumbnail proxy at 664x462; this is the NGA's own open-access IIIF file at 4096x2908.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img50/08.jpg",
+   "source_px": [
+    4096,
+    2908
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Gustav Klutsis"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "subject",
+     "v": "Constructivism"
+    },
+    {
+     "k": "subject",
+     "v": "typography"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The National Gallery of Art, Washington — 'Gustav Klutsis, Propaganda Stand (Workers of the World Unite), 1922, gouache over graphite, overall 21.1 x 29.9 cm, Patrons' Permanent Fund, accession 2005.92.3', provenance estate of the artist to Galerie Avant-Garde Berlin to Merrill C. Berman to the NGA in 2005. The NGA records the inscriptions this file shows: 'across sheet in gouache: WORKERS OF THE WORLD UNITE; [Arabic text]; [Russian text]; lower right in graphite: G. Klucis'. ⚠️ Todd's link was a Google thumbnail proxy at 664x462; this is the NGA's own open-access IIIF file at 4096x2908.",
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Constructivism"
+    }
+   ],
+   "hue": 34.65,
+   "light": 0.6777,
+   "chroma": 0.9192,
+   "punch": 0.2351
+  },
+  "sent-2026-09-07k::0c42cdf97e96": {
+   "id": "CRVI002426",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002426.jpg",
+   "original_px": [
+    4000,
+    5417
+   ],
+   "original_bytes": 1316551,
+   "identity": "sent-2026-09-07k::0c42cdf97e96",
+   "source_url": "https://a.1stdibscdn.com/gustav-klucis-paintings-suprematist-composition-1919-paper-gouache-215-x-285-cm-for-sale/a_14372/a_90546221645186274318/DSC05385_master.JPG?width=768",
+   "maker": "Gustav Klutsis",
+   "title": "Suprematist Composition",
+   "subtitle": "",
+   "year": "1919",
+   "verified_against": "1stdibs, whose listing URL carries the whole tombstone — 'gustav-klucis-paintings-suprematist-composition-1919-paper-gouache-215-x-285-cm' — i.e. gouache on paper, 21.5 x 28.5 cm, 1919; the sheet is signed in pencil at lower right. ⚠️ A dealer listing, which meets the archive's one-credible-source bar but is not a museum record. Upgraded 768x1040 -> 4000x5417 by dropping the `?width=` parameter from the `_master` file.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img50/09.jpg",
+   "source_px": [
+    4000,
+    5417
+   ],
+   "colors": [
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Gustav Klutsis"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "subject",
+     "v": "Suprematism"
+    },
+    {
+     "k": "subject",
+     "v": "Constructivism"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "1stdibs, whose listing URL carries the whole tombstone — 'gustav-klucis-paintings-suprematist-composition-1919-paper-gouache-215-x-285-cm' — i.e. gouache on paper, 21.5 x 28.5 cm, 1919; the sheet is signed in pencil at lower right. ⚠️ A dealer listing, which meets the archive's one-credible-source bar but is not a museum record. Upgraded 768x1040 -> 4000x5417 by dropping the `?width=` parameter from the `_master` file.",
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Constructivism"
+    },
+    {
+     "k": "movement",
+     "v": "Suprematism"
+    }
+   ],
+   "hue": 58.04,
+   "light": 0.7598,
+   "chroma": 0.4429,
+   "punch": 0.091
+  },
+  "sent-2026-09-07k::5b71845e2677": {
+   "id": "CRVI002427",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002427.jpg",
+   "original_px": [
+    800,
+    1137
+   ],
+   "original_bytes": 252333,
+   "identity": "sent-2026-09-07k::5b71845e2677",
+   "source_url": "https://artblart.com/wp-content/uploads/2015/04/postcard-web.jpg",
+   "maker": "Gustav Klutsis",
+   "title": "Postcard for the All-Union Spartakiada",
+   "subtitle": "",
+   "year": "1928",
+   "verified_against": "The postcard prints its own occasion: R.S.I., SPARTAKIADA and МОСКВА 1928 over a footballer, a blue S and a red ball above a photomontage of the stadium crowd. MoMA holds seven works catalogued as 'Gustav Klutsis. Postcard for the All Union Spartakiada Sporting Event. 1928'. ⚠️ Hosted on artblart.com under the filename `postcard-web`, and at 800x1137 it sits exactly on the archive's 800px floor — worth replacing if a larger scan appears.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img50/10.jpg",
+   "source_px": [
+    800,
+    1137
+   ],
+   "colors": [
+    "green",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Gustav Klutsis"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    },
+    {
+     "k": "subject",
+     "v": "Constructivism"
+    },
+    {
+     "k": "subject",
+     "v": "sport"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The postcard prints its own occasion: R.S.I., SPARTAKIADA and МОСКВА 1928 over a footballer, a blue S and a red ball above a photomontage of the stadium crowd. MoMA holds seven works catalogued as 'Gustav Klutsis. Postcard for the All Union Spartakiada Sporting Event. 1928'. ⚠️ Hosted on artblart.com under the filename `postcard-web`, and at 800x1137 it sits exactly on the archive's 800px floor — worth replacing if a larger scan appears.",
+   "extra_tags": [
+    {
+     "k": "movement",
+     "v": "Constructivism"
+    }
+   ],
+   "hue": 141.32,
+   "light": 0.4095,
+   "chroma": 0.6731,
+   "punch": 0.192
+  },
+  "sent-2026-09-07l::82520322c51f": {
+   "id": "CRVI002428",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002428.jpg",
+   "original_px": [
+    3394,
+    3394
+   ],
+   "original_bytes": 709176,
+   "identity": "sent-2026-09-07l::82520322c51f",
+   "source_url": "https://cdn.shopify.com/s/files/1/0023/3789/8540/files/01_CIRCLES_Tee_Front_f1358dff-1adc-4b30-8fbc-cfe8fdd38ec8.jpg",
+   "source_page": "https://shop.a24films.com/products/bring-her-back-x-basket-case-circles-tee",
+   "maker": "Unattributed",
+   "title": "Bring Her Back x Basketcase Ritual Tee",
+   "subtitle": "",
+   "year": "2025",
+   "verified_against": "A24's own shop, which titles it 'Bring Her Back x Basketcase Ritual Tee' and describes it as 'Off-white cotton tee with screen-printed illustration. Limited edition woven neck tag.' The product copy opens in Russian — 'Призови ангела. Подражай смерти. Поглоти тело. Очисти душу.' (summon the angel, imitate death, devour the body, cleanse the soul) — from A24's 2025 film *Bring Her Back*; the print itself is a spiral of dense set text around a ringed centre. A collaboration with Basketcase Gallery. ⚠️ A24 credits no designer.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img51/01.jpg",
+   "source_px": [
+    3394,
+    3394
+   ],
+   "colors": [
+    "white"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "textile"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "client",
+     "v": "A24"
+    },
+    {
+     "k": "subject",
+     "v": "Bring Her Back"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A24's own shop, which titles it 'Bring Her Back x Basketcase Ritual Tee' and describes it as 'Off-white cotton tee with screen-printed illustration. Limited edition woven neck tag.' The product copy opens in Russian — 'Призови ангела. Подражай смерти. Поглоти тело. Очисти душу.' (summon the angel, imitate death, devour the body, cleanse the soul) — from A24's 2025 film *Bring Her Back*; the print itself is a spiral of dense set text around a ringed centre. A collaboration with Basketcase Gallery. ⚠️ A24 credits no designer.",
+   "hue": null,
+   "light": 0.8944,
+   "chroma": 0.0045,
+   "punch": 0.0095
+  },
+  "sent-2026-09-07l::2f1403e075b5": {
+   "id": "CRVI002429",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002429.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 245667,
+   "identity": "sent-2026-09-07l::2f1403e075b5",
+   "source_url": "https://cdn.shopify.com/s/files/1/0023/3789/8540/files/20240922_A24_WeLiveInTime_Timer_1198-1x1-gray_EDITED.jpg",
+   "source_page": "https://shop.a24films.com/products/andrew-garfield-we-live-in-kitchen-timer",
+   "maker": "Unattributed",
+   "title": "We Live In Time Kitchen Timer",
+   "subtitle": "",
+   "year": "2024",
+   "verified_against": "A24's own shop — 'Andrew Garfield We Live In Kitchen Timer … Every second counts. Light blue 59-minute kitchen timer with magnetic backing.' The dial carries Andrew Garfield's face in high-contrast halftone, ringed by the repeated line WE LIVE IN TIME (WHAT'S THE RUSH?), for A24's 2024 film *We Live in Time*. ⚠️ A24 credits no designer.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img51/02.jpg",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "cyan",
+    "white"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "product design"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "client",
+     "v": "A24"
+    },
+    {
+     "k": "subject",
+     "v": "We Live in Time"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A24's own shop — 'Andrew Garfield We Live In Kitchen Timer … Every second counts. Light blue 59-minute kitchen timer with magnetic backing.' The dial carries Andrew Garfield's face in high-contrast halftone, ringed by the repeated line WE LIVE IN TIME (WHAT'S THE RUSH?), for A24's 2024 film *We Live in Time*. ⚠️ A24 credits no designer.",
+   "hue": 193.97,
+   "light": 0.8752,
+   "chroma": 0.221,
+   "punch": 0.0369
+  },
+  "sent-2026-09-07l::81350a622eaa": {
+   "id": "CRVI002430",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002430.jpg",
+   "original_px": [
+    4000,
+    4000
+   ],
+   "original_bytes": 822805,
+   "identity": "sent-2026-09-07l::81350a622eaa",
+   "source_url": "https://cdn.shopify.com/s/files/1/0023/3789/8540/files/20241014_A24_Hats_5319-1x1-gray.jpg",
+   "source_page": "https://shop.a24films.com/products/brown-logo-hat",
+   "maker": "Unattributed",
+   "title": "Stacked 'A24' Hat",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "A24's own shop — 'Stacked \"A24\" Hat … Brown structured twill baseball cap with embroidery on the front and the back.' The front carries the A24 logo stacked into two lines and embroidered in red. ⚠️ Neither a designer nor a year is established.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img51/03.jpg",
+   "source_px": [
+    4000,
+    4000
+   ],
+   "colors": [
+    "orange",
+    "white"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "product design"
+    },
+    {
+     "k": "client",
+     "v": "A24"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A24's own shop — 'Stacked \"A24\" Hat … Brown structured twill baseball cap with embroidery on the front and the back.' The front carries the A24 logo stacked into two lines and embroidered in red. ⚠️ Neither a designer nor a year is established.",
+   "hue": 24.86,
+   "light": 0.7648,
+   "chroma": 0.244,
+   "punch": 0.0503
+  },
+  "sent-2026-09-07l::c27eb0635fec": {
+   "id": "CRVI002431",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002431.jpg",
+   "original_px": [
+    4000,
+    4000
+   ],
+   "original_bytes": 1053666,
+   "identity": "sent-2026-09-07l::c27eb0635fec",
+   "source_url": "https://cdn.shopify.com/s/files/1/0023/3789/8540/files/26_MS_Basketball_PingPong.jpg",
+   "source_page": "https://shop.a24films.com/products/marty-supreme-basketball",
+   "maker": "Unattributed",
+   "title": "Marty Supreme Basketball",
+   "subtitle": "",
+   "year": "2025",
+   "verified_against": "A24's own shop — 'Marty Supreme Basketball … Size 7 indoor ball. Orange with black debossed graphics.' The ball is debossed MARTY SUPREME over three stars and DREAM BIG, merchandise for A24's 2025 film *Marty Supreme*. ⚠️ A24 credits no designer.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img51/04.jpg",
+   "source_px": [
+    4000,
+    4000
+   ],
+   "colors": [
+    "orange",
+    "red",
+    "white"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "product design"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "client",
+     "v": "A24"
+    },
+    {
+     "k": "subject",
+     "v": "Marty Supreme"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A24's own shop — 'Marty Supreme Basketball … Size 7 indoor ball. Orange with black debossed graphics.' The ball is debossed MARTY SUPREME over three stars and DREAM BIG, merchandise for A24's 2025 film *Marty Supreme*. ⚠️ A24 credits no designer.",
+   "hue": 15.68,
+   "light": 0.8295,
+   "chroma": 0.2669,
+   "punch": 0.1655
+  },
+  "sent-2026-09-07l::cba4b0907538": {
+   "id": "CRVI002432",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002432.jpg",
+   "original_px": [
+    4000,
+    4000
+   ],
+   "original_bytes": 572249,
+   "identity": "sent-2026-09-07l::cba4b0907538",
+   "source_url": "https://cdn.shopify.com/s/files/1/0023/3789/8540/files/03_MS_TennisBall.jpg",
+   "source_page": "https://shop.a24films.com/products/marty-supreme-tennis-balls",
+   "maker": "Unattributed",
+   "title": "Marty Supreme Tennis Balls",
+   "subtitle": "",
+   "year": "2025",
+   "verified_against": "A24's own shop — 'Marty Supreme Tennis Balls … Professional-size tennis balls. Pack of three orange balls with black graphics.' Printed MARTY SUPREME / three stars / DREAM BIG, the same lockup as the basketball. ⚠️ A24 credits no designer.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img51/05.jpg",
+   "source_px": [
+    4000,
+    4000
+   ],
+   "colors": [
+    "orange",
+    "white"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "product design"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "client",
+     "v": "A24"
+    },
+    {
+     "k": "subject",
+     "v": "Marty Supreme"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A24's own shop — 'Marty Supreme Tennis Balls … Professional-size tennis balls. Pack of three orange balls with black graphics.' Printed MARTY SUPREME / three stars / DREAM BIG, the same lockup as the basketball. ⚠️ A24 credits no designer.",
+   "hue": 20.64,
+   "light": 0.8982,
+   "chroma": 0.1331,
+   "punch": 0.0886
+  },
+  "sent-2026-09-07l::abf6af4c279c": {
+   "id": "CRVI002433",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002433.jpg",
+   "original_px": [
+    4000,
+    3999
+   ],
+   "original_bytes": 627654,
+   "identity": "sent-2026-09-07l::abf6af4c279c",
+   "source_url": "https://cdn.shopify.com/s/files/1/0023/3789/8540/files/20251125_A24_MartySupreme_Wheaties_175531x1gray.jpg",
+   "source_page": "https://shop.a24films.com/products/marty-supreme-wheaties",
+   "maker": "Unattributed",
+   "title": "Marty Supreme Wheaties Box",
+   "subtitle": "",
+   "year": "2025",
+   "verified_against": "A24's own shop — 'Marty Supreme Wheaties Box … Whole grain Wheaties with limited-edition Marty Supreme packaging', quoting the film's line, \"It's only a matter of time before I'm staring at you from the cover of a Wheaties box.\" A genuine co-branded General Mills box: the General Mills mark and WHOLE GRAIN WHEATIES lockup are intact, with MARTY SUPREME across the top band and Timothée Chalamet in character holding a ping-pong paddle, signed in script. ⚠️ A24 credits no designer.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img51/06.jpg",
+   "source_px": [
+    4000,
+    3999
+   ],
+   "colors": [
+    "red",
+    "orange",
+    "white"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "packaging"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "client",
+     "v": "A24"
+    },
+    {
+     "k": "client",
+     "v": "General Mills"
+    },
+    {
+     "k": "subject",
+     "v": "Marty Supreme"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A24's own shop — 'Marty Supreme Wheaties Box … Whole grain Wheaties with limited-edition Marty Supreme packaging', quoting the film's line, \"It's only a matter of time before I'm staring at you from the cover of a Wheaties box.\" A genuine co-branded General Mills box: the General Mills mark and WHOLE GRAIN WHEATIES lockup are intact, with MARTY SUPREME across the top band and Timothée Chalamet in character holding a ping-pong paddle, signed in script. ⚠️ A24 credits no designer.",
+   "hue": 14.91,
+   "light": 0.7777,
+   "chroma": 0.2777,
+   "punch": 0.1696
+  },
+  "sent-2026-09-07l::7c3c4029c7c2": {
+   "id": "CRVI002434",
+   "minted": "2026-09-07",
+   "original_file": "originals/CRVI002434.jpg",
+   "original_px": [
+    4000,
+    4000
+   ],
+   "original_bytes": 2559077,
+   "identity": "sent-2026-09-07l::7c3c4029c7c2",
+   "source_url": "https://cdn.shopify.com/s/files/1/0023/3789/8540/files/The_Invite_Poster_12x18_Gray_1x1_9acf79a8-7a68-4b82-a142-80abd425e49a.jpg",
+   "source_page": "https://shop.a24films.com/products/the-invite-art-print",
+   "maker": "Allison Reimold",
+   "title": "The Invite Mini Poster",
+   "subtitle": "",
+   "year": "",
+   "verified_against": "A24's own shop, which titles it 'The Invite Mini Poster by Allison Reimold' and states 'Art by Allison Reimold' — 'Limited edition 12x18\" fine art print on enhanced matte cover stock with archival inks.' The image is a Persian-carpet composition, its border and medallion filled with figures, bottles, cups and a doorway, lettered A24 at the top and 'The Invite.' at the foot. ⚠️ No year is established.",
+   "notes": [],
+   "label": "",
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img51/07.jpg",
+   "source_px": [
+    4000,
+    4000
+   ],
+   "colors": [
+    "red",
+    "orange",
+    "white"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "artist",
+     "v": "Allison Reimold"
+    },
+    {
+     "k": "client",
+     "v": "A24"
+    },
+    {
+     "k": "subject",
+     "v": "The Invite"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A24's own shop, which titles it 'The Invite Mini Poster by Allison Reimold' and states 'Art by Allison Reimold' — 'Limited edition 12x18\" fine art print on enhanced matte cover stock with archival inks.' The image is a Persian-carpet composition, its border and medallion filled with figures, bottles, cups and a doorway, lettered A24 at the top and 'The Invite.' at the foot. ⚠️ No year is established.",
+   "hue": 6.89,
+   "light": 0.7943,
+   "chroma": 0.2658,
+   "punch": 0.095
   }
  }
 }
