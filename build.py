@@ -93,8 +93,11 @@ DATA = os.path.join(HERE, "crvi.json")
 
 # `medium` was folded into `type` on 2026-08-28 — of 29 medium tags, 28 restated the type
 # beside them. One facet, not two that mostly agree.
-FACET_ORDER = ["designer", "artist", "musician", "label", "decade", "color", "type",
-               "photographer", "illustrator", "art director", "typographer"]
+# `location` and `city` were one muddled facet until 2026-09-07 — see locations.py. They sit
+# together here on purpose: the country is the coarse cut and the city is the fine one, and
+# reading them next to each other is the whole point of having split them.
+FACET_ORDER = ["designer", "artist", "musician", "label", "location", "city", "decade",
+               "color", "type", "photographer", "illustrator", "art director", "typographer"]
 
 ORDER_JS = r"""(function(){
 var c=document.getElementById("bycolor"), r=document.getElementById("byrecent");
