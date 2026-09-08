@@ -139424,7 +139424,9 @@
    "subtitle": "",
    "year": "2019",
    "verified_against": "Unsplash photo 7wBFsHWQDlk, by the photographer who publishes there as Zak (@zaks), published 4 February 2019, shot on a Nikon D3400 and titled by Unsplash 'blue, red and pink abstract artwork'. ⚠️ THIS IS NOT A BRUCE NAUMAN. It arrived inside Todd's Nauman group because an Italian blog (traileoni.it) used it as a decorative header; it is a long-exposure light drawing sold as stock, and nothing in it is by Nauman. Recorded under its real maker so the mistake cannot propagate.",
-   "notes": [],
+   "notes": [
+    "DELETED from the museum on 2026-09-07. The record is kept so CRVI002394 stays provably retired and is never reissued."
+   ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img46/13.jpg",
    "source_px": [
@@ -139458,12 +139460,14 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "Unsplash photo 7wBFsHWQDlk, by the photographer who publishes there as Zak (@zaks), published 4 February 2019, shot on a Nikon D3400 and titled by Unsplash 'blue, red and pink abstract artwork'. ⚠️ THIS IS NOT A BRUCE NAUMAN. It arrived inside Todd's Nauman group because an Italian blog (traileoni.it) used it as a decorative header; it is a long-exposure light drawing sold as stock, and nothing in it is by Nauman. Recorded under its real maker so the mistake cannot propagate.",
    "hue": 223.24,
    "light": 0.1881,
    "chroma": 0.7438,
-   "punch": 0.2638
+   "punch": 0.2638,
+   "deleted": true,
+   "deleted_on": "2026-09-07"
   },
   "sent-2026-09-07g::d4d1058b80f5": {
    "id": "CRVI002395",
