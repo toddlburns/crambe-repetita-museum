@@ -54112,7 +54112,7 @@
    ],
    "original_bytes": 1369282,
    "maker": "Kiyoshi Awazu",
-   "title": "NOH — UCLA Asian Performing Arts Institute",
+   "title": "Noh Performance at UCLA",
    "subtitle": "Poster · The Museum of Modern Art, New York",
    "year": "1981",
    "tags": [
@@ -54121,16 +54121,24 @@
      "v": "poster"
     },
     {
-     "k": "location",
-     "v": "Los Angeles"
+     "k": "designer",
+     "v": "Kiyoshi Awazu"
     },
     {
      "k": "decade",
      "v": "1980s"
     },
     {
-     "k": "artist",
-     "v": "Kiyoshi Awazu"
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "client",
+     "v": "University of California, Los Angeles"
+    },
+    {
+     "k": "subject",
+     "v": "theatre"
     },
     {
      "k": "color",
@@ -54164,7 +54172,7 @@
    ],
    "original_bytes": 963524,
    "maker": "Kiyoshi Awazu",
-   "title": "Untitled poster",
+   "title": "Red field with eyes and radiating fans",
    "subtitle": "",
    "year": "",
    "tags": [
@@ -54173,8 +54181,12 @@
      "v": "poster"
     },
     {
-     "k": "artist",
+     "k": "designer",
      "v": "Kiyoshi Awazu"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
     },
     {
      "k": "color",
@@ -74109,7 +74121,7 @@
    "id": "CRVI001409",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.3795,
+   "punch": 0.3796,
    "source_url": "https://journalpanorama.org/article/psychedelic-patriotism/",
    "animated": false,
    "video": false,
@@ -74119,38 +74131,34 @@
    "original": "originals/CRVI001409.jpg",
    "vector": "",
    "original_px": [
-    2560,
-    1686
+    2952,
+    1944
    ],
-   "original_bytes": 307509,
+   "original_bytes": 740753,
    "maker": "Peter Max",
    "title": "The American Cosmic Jumper in the Land of Rainbows and Stars",
    "subtitle": "Peter Max · 1976 · billboard for the GSA Art-in-Architecture Program",
    "year": "1976",
    "tags": [
     {
-     "k": "artist",
-     "v": "Peter Max"
-    },
-    {
-     "k": "designer",
-     "v": "Peter Max"
-    },
-    {
      "k": "type",
      "v": "billboard"
+    },
+    {
+     "k": "artist",
+     "v": "Peter Max"
     },
     {
      "k": "decade",
      "v": "1970s"
     },
     {
-     "k": "client",
-     "v": "General Services Administration"
-    },
-    {
      "k": "location",
      "v": "United States"
+    },
+    {
+     "k": "client",
+     "v": "General Services Administration"
     },
     {
      "k": "subject",
@@ -74165,9 +74173,9 @@
      "v": "cyan"
     }
    ],
-   "hue": 43.88,
-   "light": 0.522,
-   "chroma": 0.9725
+   "hue": 43.89,
+   "light": 0.5217,
+   "chroma": 0.973
   },
   {
    "id": "CRVI001410",
@@ -108113,7 +108121,7 @@
    "id": "CRVI002039",
    "published": true,
    "minted": "2026-09-06",
-   "punch": 0.1815,
+   "punch": 0.218,
    "source_url": "https://www.artnews.com/wp-content/uploads/2021/12/web13.-Tauba-Auerbach_Metamaterial-Slice-Ray.jpg",
    "animated": false,
    "video": false,
@@ -108123,10 +108131,10 @@
    "original": "originals/CRVI002039.jpg",
    "vector": "",
    "original_px": [
-    1000,
-    1256
+    2500,
+    3139
    ],
-   "original_bytes": 711372,
+   "original_bytes": 2598037,
    "maker": "Tauba Auerbach",
    "title": "Metamaterial Slice Ray",
    "subtitle": "",
@@ -108149,9 +108157,9 @@
      "v": "orange"
     }
    ],
-   "hue": 25.12,
-   "light": 0.7357,
-   "chroma": 0.6713
+   "hue": 25.05,
+   "light": 0.749,
+   "chroma": 0.6774
   },
   {
    "id": "CRVI002040",
@@ -124570,50 +124578,6 @@
    "chroma": 0.8068
   },
   {
-   "id": "CRVI002364",
-   "published": true,
-   "minted": "2026-09-07",
-   "punch": 0.218,
-   "source_url": "https://images.squarespace-cdn.com/content/v1/56c346b607eaa09d9189a870/c9e03eee-1ec1-491a-b76a-419d7aa8a766/178_Flaunt_Magazine_Digital_Flaunt.com_Web_Considerations3.jpg",
-   "animated": false,
-   "video": false,
-   "thumb": "thumbs/CRVI002364.jpg",
-   "source_label": "",
-   "image": "images/CRVI002364.jpg",
-   "original": "originals/CRVI002364.jpg",
-   "vector": "",
-   "original_px": [
-    2500,
-    3139
-   ],
-   "original_bytes": 2598037,
-   "maker": "Tauba Auerbach",
-   "title": "Woven composition in orange and white",
-   "subtitle": "",
-   "year": "",
-   "tags": [
-    {
-     "k": "type",
-     "v": "painting"
-    },
-    {
-     "k": "artist",
-     "v": "Tauba Auerbach"
-    },
-    {
-     "k": "location",
-     "v": "United States"
-    },
-    {
-     "k": "color",
-     "v": "orange"
-    }
-   ],
-   "hue": 25.05,
-   "light": 0.749,
-   "chroma": 0.6774
-  },
-  {
    "id": "CRVI002365",
    "published": true,
    "minted": "2026-09-07",
@@ -126982,66 +126946,6 @@
    "chroma": 0.9795
   },
   {
-   "id": "CRVI002409",
-   "published": true,
-   "minted": "2026-09-07",
-   "punch": 0.3796,
-   "source_url": "https://journalpanorama.org/wp-content/uploads/2024/03/word-image-18740-14-700x461.jpeg",
-   "animated": false,
-   "video": false,
-   "thumb": "thumbs/CRVI002409.jpg",
-   "source_label": "",
-   "image": "images/CRVI002409.jpg",
-   "original": "originals/CRVI002409.jpg",
-   "vector": "",
-   "original_px": [
-    2952,
-    1944
-   ],
-   "original_bytes": 740753,
-   "maker": "Peter Max",
-   "title": "The American Cosmic Jumper in the Land of Rainbows and Stars",
-   "subtitle": "",
-   "year": "1976",
-   "tags": [
-    {
-     "k": "type",
-     "v": "billboard"
-    },
-    {
-     "k": "artist",
-     "v": "Peter Max"
-    },
-    {
-     "k": "decade",
-     "v": "1970s"
-    },
-    {
-     "k": "location",
-     "v": "United States"
-    },
-    {
-     "k": "client",
-     "v": "General Services Administration"
-    },
-    {
-     "k": "subject",
-     "v": "psychedelia"
-    },
-    {
-     "k": "color",
-     "v": "orange"
-    },
-    {
-     "k": "color",
-     "v": "cyan"
-    }
-   ],
-   "hue": 43.89,
-   "light": 0.5217,
-   "chroma": 0.973
-  },
-  {
    "id": "CRVI002410",
    "published": true,
    "minted": "2026-09-07",
@@ -127704,62 +127608,6 @@
    "hue": 33.99,
    "light": 0.653,
    "chroma": 0.7187
-  },
-  {
-   "id": "CRVI002421",
-   "published": true,
-   "minted": "2026-09-07",
-   "punch": 0.1744,
-   "source_url": "https://i0.wp.com/thecharnelhouse.org/wp-content/uploads/2016/10/gustavs-klucis-dynamic-city-19192.jpg?fit=1200%2C1200&ssl=1",
-   "animated": false,
-   "video": false,
-   "thumb": "thumbs/CRVI002421.jpg",
-   "source_label": "",
-   "image": "images/CRVI002421.jpg",
-   "original": "originals/CRVI002421.jpg",
-   "vector": "",
-   "original_px": [
-    1658,
-    1658
-   ],
-   "original_bytes": 1832250,
-   "maker": "Gustav Klutsis",
-   "title": "Dynamic City",
-   "subtitle": "",
-   "year": "1919",
-   "tags": [
-    {
-     "k": "type",
-     "v": "collage"
-    },
-    {
-     "k": "artist",
-     "v": "Gustav Klutsis"
-    },
-    {
-     "k": "decade",
-     "v": "1910s"
-    },
-    {
-     "k": "location",
-     "v": "Russia"
-    },
-    {
-     "k": "subject",
-     "v": "Constructivism"
-    },
-    {
-     "k": "movement",
-     "v": "Constructivism"
-    },
-    {
-     "k": "color",
-     "v": "orange"
-    }
-   ],
-   "hue": 34.99,
-   "light": 0.6965,
-   "chroma": 0.8265
   },
   {
    "id": "CRVI002422",
@@ -131602,54 +131450,6 @@
    "chroma": 0.8481
   },
   {
-   "id": "CRVI002490",
-   "published": true,
-   "minted": "2026-09-07",
-   "punch": 0.303,
-   "source_url": "https://images.squarespace-cdn.com/content/v1/57825361440243db4a4b7830/1596936640439-Q2E24GQXHOBKJIJ75QH7/Kiyoshi+Awazu+Japanese+Design++Graphic+Designer+Painter+Japan+The+Metabolism+Film+Poster+Illustration+Ben+Shahn+Japanese+Art+Japanese+Film+Culture.jpg",
-   "animated": false,
-   "video": false,
-   "thumb": "thumbs/CRVI002490.jpg",
-   "source_label": "",
-   "image": "images/CRVI002490.jpg",
-   "original": "originals/CRVI002490.jpg",
-   "vector": "",
-   "original_px": [
-    1421,
-    2000
-   ],
-   "original_bytes": 865496,
-   "maker": "Kiyoshi Awazu",
-   "title": "Red field with eyes and radiating fans",
-   "subtitle": "",
-   "year": "",
-   "tags": [
-    {
-     "k": "type",
-     "v": "poster"
-    },
-    {
-     "k": "designer",
-     "v": "Kiyoshi Awazu"
-    },
-    {
-     "k": "location",
-     "v": "Japan"
-    },
-    {
-     "k": "color",
-     "v": "red"
-    },
-    {
-     "k": "color",
-     "v": "orange"
-    }
-   ],
-   "hue": 358.83,
-   "light": 0.4216,
-   "chroma": 0.7648
-  },
-  {
    "id": "CRVI002491",
    "published": true,
    "minted": "2026-09-07",
@@ -131704,66 +131504,6 @@
    "hue": 5.46,
    "light": 0.4065,
    "chroma": 0.8624
-  },
-  {
-   "id": "CRVI002492",
-   "published": true,
-   "minted": "2026-09-07",
-   "punch": 0.2387,
-   "source_url": "https://www.moma.org/media/W1siZiIsIjUyNzIzMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=6a435109afcad769",
-   "animated": false,
-   "video": false,
-   "thumb": "thumbs/CRVI002492.jpg",
-   "source_label": "",
-   "image": "images/CRVI002492.jpg",
-   "original": "originals/CRVI002492.jpg",
-   "vector": "",
-   "original_px": [
-    1421,
-    2000
-   ],
-   "original_bytes": 1369282,
-   "maker": "Kiyoshi Awazu",
-   "title": "Noh Performance at UCLA",
-   "subtitle": "",
-   "year": "1981",
-   "tags": [
-    {
-     "k": "type",
-     "v": "poster"
-    },
-    {
-     "k": "decade",
-     "v": "1980s"
-    },
-    {
-     "k": "designer",
-     "v": "Kiyoshi Awazu"
-    },
-    {
-     "k": "location",
-     "v": "Japan"
-    },
-    {
-     "k": "client",
-     "v": "University of California, Los Angeles"
-    },
-    {
-     "k": "subject",
-     "v": "theatre"
-    },
-    {
-     "k": "color",
-     "v": "red"
-    },
-    {
-     "k": "color",
-     "v": "orange"
-    }
-   ],
-   "hue": 358.38,
-   "light": 0.2844,
-   "chroma": 0.6417
   },
   {
    "id": "CRVI002493",

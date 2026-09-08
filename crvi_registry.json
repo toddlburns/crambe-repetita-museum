@@ -59945,7 +59945,7 @@
    "original_bytes": 1369282,
    "identity": "sent-2026-09-01::eb434e64a159",
    "maker": "Kiyoshi Awazu",
-   "title": "NOH — UCLA Asian Performing Arts Institute",
+   "title": "Noh Performance at UCLA",
    "subtitle": "Poster · The Museum of Modern Art, New York",
    "year": "1981",
    "source_url": "https://www.moma.org/media/W1siZiIsIjUyNzIzMCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=6a435109afcad769",
@@ -59970,21 +59970,29 @@
      "v": "poster"
     },
     {
-     "k": "location",
-     "v": "Los Angeles"
+     "k": "designer",
+     "v": "Kiyoshi Awazu"
     },
     {
      "k": "decade",
      "v": "1980s"
     },
     {
-     "k": "artist",
-     "v": "Kiyoshi Awazu"
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "client",
+     "v": "University of California, Los Angeles"
+    },
+    {
+     "k": "subject",
+     "v": "theatre"
     }
    ],
    "identity_established": true,
    "published": true,
-   "verification": "Held by the Museum of Modern Art, New York. The poster letters its own occasion: NOH, UCLA Asian Performing Arts Institute, Los Angeles, 1981. Kiyoshi Awazu is established as the designer of this run by LACMA, which catalogues two of these posters to him in the Marc Treib Collection, and by the AGI member archive. The title, date and client of THIS poster are not established here.",
+   "verification": "MoMA, object 4943 — 'Kiyoshi Awazu. Noh Performance at UCLA. 1981. Offset lithograph. 40 1/2 x 28 5/8\" (102.8 x 72.5 cm). Gift of the College of Fine Arts, UCLA. Object number 73.1990.' The sheet prints NOH at the top and the UCLA Asian Performing Arts Institute's 1981 cities along the foot. Awazu's authorship of this run is corroborated by LACMA, which catalogues two of these posters to him in the Marc Treib Collection, and by the AGI member archive. ⚠️ DE-DUPLICATED 2026-09-07: the same MoMA media file was added twice, on 2026-09-01 and again in batch 57. CRVI002492 held the identical bytes and the fuller MoMA tombstone; its record was merged into this, the older number, and it was deleted.",
    "hue": 358.38,
    "light": 0.2844,
    "chroma": 0.6417,
@@ -60001,7 +60009,7 @@
    "original_bytes": 963524,
    "identity": "sent-2026-09-01::984d680f7b4c",
    "maker": "Kiyoshi Awazu",
-   "title": "Untitled poster",
+   "title": "Red field with eyes and radiating fans",
    "subtitle": "",
    "year": "",
    "source_url": "https://images.squarespace-cdn.com/content/v1/57825361440243db4a4b7830/1596936640439-Q2E24GQXHOBKJIJ75QH7/Kiyoshi+Awazu+Japanese+Design++Graphic+Designer+Painter+Japan+The+Metabolism+Film+Poster+Illustration+Ben+Shahn+Japanese+Art+Japanese+Film+Culture.jpg",
@@ -60026,13 +60034,17 @@
      "v": "poster"
     },
     {
-     "k": "artist",
+     "k": "designer",
      "v": "Kiyoshi Awazu"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
     }
    ],
    "identity_established": true,
    "published": true,
-   "verification": "Kiyoshi Awazu is established as the designer of this run by LACMA, which catalogues two of these posters to him in the Marc Treib Collection, and by the AGI member archive. The title, date and client of THIS poster are not established here.",
+   "verification": "⚠️ NEITHER TITLE NOR YEAR IS ESTABLISHED — the title above is descriptive. The file is a gallery's Squarespace asset with no caption reaching it. Kiyoshi Awazu is established as the designer of this run by LACMA, which catalogues two of these posters to him in the Marc Treib Collection, and by the AGI member archive; Todd also sent it under his name on 2026-09-07. ⚠️ DE-DUPLICATED 2026-09-07: added twice from the identical Squarespace URL, on 2026-09-01 and again in batch 57. CRVI002490 carried the better descriptive title, which is now this record's; that number was deleted.",
    "hue": 358.66,
    "light": 0.4211,
    "chroma": 0.7643,
@@ -84515,10 +84527,10 @@
    "minted": "2026-08-26",
    "original_file": "originals/CRVI001409.jpg",
    "original_px": [
-    2560,
-    1686
+    2952,
+    1944
    ],
-   "original_bytes": 307509,
+   "original_bytes": 740753,
    "identity": "todd sent 2026-09-05 b3::petermax-american-cosmic-jumper",
    "maker": "Peter Max",
    "title": "The American Cosmic Jumper in the Land of Rainbows and Stars",
@@ -84533,8 +84545,8 @@
    "label": "",
    "source_image": "/private/tmp/claude-501/-Users-todd/17a598be-8184-44b5-9ac5-7cada8c9fc89/scratchpad/b3/raw/02.bin",
    "source_px": [
-    2560,
-    1686
+    2952,
+    1944
    ],
    "colors": [
     "orange",
@@ -84542,28 +84554,24 @@
    ],
    "tags": [
     {
-     "k": "artist",
-     "v": "Peter Max"
-    },
-    {
-     "k": "designer",
-     "v": "Peter Max"
-    },
-    {
      "k": "type",
      "v": "billboard"
+    },
+    {
+     "k": "artist",
+     "v": "Peter Max"
     },
     {
      "k": "decade",
      "v": "1970s"
     },
     {
-     "k": "client",
-     "v": "General Services Administration"
-    },
-    {
      "k": "location",
      "v": "United States"
+    },
+    {
+     "k": "client",
+     "v": "General Services Administration"
     },
     {
      "k": "subject",
@@ -84572,11 +84580,11 @@
    ],
    "identity_established": true,
    "published": true,
-   "verification": "Panorama, the journal of the Association of Historians of American Art, in the article 'Psychedelic Patriotism: Peter Max Sparks a Debate on Modern Representations of America'. The image here is byte-identical to the article's figure (perceptual hash distance 0), which is how it is tied to this caption rather than to any of the other six billboards in the series. Billboard, 4 x 6 ft, GSA Art-in-Architecture Program, released under FOIA 2019-00170; photographed by Page Conservation.",
-   "hue": 43.88,
-   "light": 0.522,
-   "chroma": 0.9725,
-   "punch": 0.3795
+   "verification": "Panorama: Journal of the Association of Historians of American Art, 'Psychedelic Patriotism: Peter Max Sparks a Debate on Modern Representations of America', Fig. 14 — 'Peter Max, The American Cosmic Jumper in the Land of Rainbows and Stars, 1976. Billboard, 4 x 6 ft. AiA Program, GSA; FOIA 2019-00170. Photo by Page Conservation.' ⚠️ DE-DUPLICATED 2026-09-07: added on 2026-08-26 at 2560x1686 and again in batch 48 at 2952x1944, the un-suffixed WordPress original. The LARGER FILE WAS KEPT and moved onto this, the older number; CRVI002409 was deleted.",
+   "hue": 43.89,
+   "light": 0.5217,
+   "chroma": 0.973,
+   "punch": 0.3796
   },
   "todd sent 2026-09-05 b3::petermax-color-spectrum-many-faiths": {
    "id": "CRVI001410",
@@ -89800,7 +89808,7 @@
    ],
    "identity_established": true,
    "published": true,
-   "verification": "Published as Klutsis's Dynamic City, 1919, by The Charnel-House; the file name is the publisher's own metadata.",
+   "verification": "The Charnel-House, whose file for this image is named `gustavs-klucis-dynamic-city-1919`; the work is Klutsis's *Dynamic City*, one of his first Constructivist compositions, built from a black disc, angled planes and a sanded, gritty ground. ⚠️ The source is a research blog rather than a museum record, so no collection, medium or dimensions are asserted — only the title and year the file itself carries. ⚠️ DE-DUPLICATED 2026-09-07: the identical file was added on 2026-09-05 and again in batch 50; CRVI002421 was deleted and its fuller note merged here.",
    "hue": 34.99,
    "light": 0.6965,
    "chroma": 0.8265,
@@ -120468,10 +120476,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002039.jpg",
    "original_px": [
-    1000,
-    1256
+    2500,
+    3139
    ],
-   "original_bytes": 711372,
+   "original_bytes": 2598037,
    "identity": "sent-2026-09-05::5d4bffa5ad9e",
    "source_url": "https://www.artnews.com/wp-content/uploads/2021/12/web13.-Tauba-Auerbach_Metamaterial-Slice-Ray.jpg",
    "maker": "Tauba Auerbach",
@@ -120483,8 +120491,8 @@
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img/909.jpg",
    "source_px": [
-    1000,
-    1256
+    2500,
+    3139
    ],
    "colors": [
     "orange"
@@ -120505,11 +120513,11 @@
    ],
    "identity_established": true,
    "published": true,
-   "verification": "ARTnews, whose file name gives Tauba Auerbach and Metamaterial Slice Ray. The date is not established here.",
-   "hue": 25.12,
-   "light": 0.7357,
-   "chroma": 0.6713,
-   "punch": 0.1815
+   "verification": "ARTnews, whose filename gives Tauba Auerbach and *Metamaterial Slice Ray*; the same painting also appears in Flaunt Magazine's Auerbach feature, served from that magazine's Squarespace site (56c346b607eaa09d9189a870). ⚠️ The date is not established. ⚠️ DE-DUPLICATED 2026-09-07: the two sources were added separately, on 2026-09-06 and in batch 43, and the second went in under a descriptive title because nothing named it. They are the same canvas in the same photograph. The ARTnews title was kept and the FLAUNT FILE — 2500x3139 against 1000x1256 — was moved onto this number; CRVI002364 was deleted.",
+   "hue": 25.05,
+   "light": 0.749,
+   "chroma": 0.6774,
+   "punch": 0.218
   },
   "sent-2026-09-05::e5dadfe2d66c": {
    "id": "CRVI002040",
@@ -137717,7 +137725,9 @@
    "subtitle": "",
    "year": "",
    "verified_against": "Flaunt Magazine's Tauba Auerbach feature, served from the magazine's Squarespace site (56c346b607eaa09d9189a870) — the same site and same feature as the archive's existing Auerbach record from '...Considerations4.jpg'; this is '...Considerations3.jpg'. ⚠️ The feature establishes the ARTIST. Title and date are not established, and the title given here is descriptive: the dense orange-on-white interlace of her woven/mesh paintings.",
-   "notes": [],
+   "notes": [
+    "DELETED from the museum on 2026-09-07. The record is kept so CRVI002364 stays provably retired and is never reissued."
+   ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img43/01.jpg",
    "source_px": [
@@ -137742,12 +137752,14 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "Flaunt Magazine's Tauba Auerbach feature, served from the magazine's Squarespace site (56c346b607eaa09d9189a870) — the same site and same feature as the archive's existing Auerbach record from '...Considerations4.jpg'; this is '...Considerations3.jpg'. ⚠️ The feature establishes the ARTIST. Title and date are not established, and the title given here is descriptive: the dense orange-on-white interlace of her woven/mesh paintings.",
    "hue": 25.05,
    "light": 0.749,
    "chroma": 0.6774,
-   "punch": 0.218
+   "punch": 0.218,
+   "deleted": true,
+   "deleted_on": "2026-09-07"
   },
   "sent-2026-09-07d::be9a052aa9ab": {
    "id": "CRVI002365",
@@ -140391,7 +140403,9 @@
    "subtitle": "",
    "year": "1976",
    "verified_against": "Panorama, 'Psychedelic Patriotism', Fig. 14 — 'Peter Max, The American Cosmic Jumper in the Land of Rainbows and Stars, 1976. Billboard, 4 x 6 ft. AiA Program, GSA; FOIA 2019-00170. Photo by Page Conservation.' ⚠️ Sent at 700x461, under the floor; the un-suffixed WordPress original is 2952x1944.",
-   "notes": [],
+   "notes": [
+    "DELETED from the museum on 2026-09-07. The record is kept so CRVI002409 stays provably retired and is never reissued."
+   ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img48/07.jpg",
    "source_px": [
@@ -140429,12 +140443,14 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "Panorama, 'Psychedelic Patriotism', Fig. 14 — 'Peter Max, The American Cosmic Jumper in the Land of Rainbows and Stars, 1976. Billboard, 4 x 6 ft. AiA Program, GSA; FOIA 2019-00170. Photo by Page Conservation.' ⚠️ Sent at 700x461, under the floor; the un-suffixed WordPress original is 2952x1944.",
    "hue": 43.89,
    "light": 0.5217,
    "chroma": 0.973,
-   "punch": 0.3796
+   "punch": 0.3796,
+   "deleted": true,
+   "deleted_on": "2026-09-07"
   },
   "sent-2026-09-07i::fc8239864652": {
    "id": "CRVI002410",
@@ -141151,7 +141167,9 @@
    "subtitle": "",
    "year": "1919",
    "verified_against": "The Charnel-House, whose file for this image is named `gustavs-klucis-dynamic-city-1919`; the work is Klutsis's *Dynamic City*, one of his first Constructivist compositions, built from a black disc, angled planes and a sanded, gritty ground. ⚠️ The source is a research blog rather than a museum record, so no collection, medium or dimensions are asserted here — only the title and year the file itself carries.",
-   "notes": [],
+   "notes": [
+    "DELETED from the museum on 2026-09-07. The record is kept so CRVI002421 stays provably retired and is never reissued."
+   ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img50/04.jpg",
    "source_px": [
@@ -141184,7 +141202,7 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "The Charnel-House, whose file for this image is named `gustavs-klucis-dynamic-city-1919`; the work is Klutsis's *Dynamic City*, one of his first Constructivist compositions, built from a black disc, angled planes and a sanded, gritty ground. ⚠️ The source is a research blog rather than a museum record, so no collection, medium or dimensions are asserted here — only the title and year the file itself carries.",
    "extra_tags": [
     {
@@ -141195,7 +141213,9 @@
    "hue": 34.99,
    "light": 0.6965,
    "chroma": 0.8265,
-   "punch": 0.1744
+   "punch": 0.1744,
+   "deleted": true,
+   "deleted_on": "2026-09-07"
   },
   "sent-2026-09-07k::f5ed83e60a0c": {
    "id": "CRVI002422",
@@ -145196,7 +145216,9 @@
    "subtitle": "",
    "year": "",
    "verified_against": "⚠️ NEITHER TITLE NOR YEAR IS ESTABLISHED. A gallery's Squarespace asset with no caption reaching the file. The MAKER rests on Todd's grouping, sent 2026-09-07 under 'Kiyoshi Awazu', and on the hand — the dotted grounds, banded eyes and radiating rays are his. The title is descriptive.",
-   "notes": [],
+   "notes": [
+    "DELETED from the museum on 2026-09-07. The record is kept so CRVI002490 stays provably retired and is never reissued."
+   ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img57/02.jpg",
    "source_px": [
@@ -145222,12 +145244,14 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "⚠️ NEITHER TITLE NOR YEAR IS ESTABLISHED. A gallery's Squarespace asset with no caption reaching the file. The MAKER rests on Todd's grouping, sent 2026-09-07 under 'Kiyoshi Awazu', and on the hand — the dotted grounds, banded eyes and radiating rays are his. The title is descriptive.",
    "hue": 358.83,
    "light": 0.4216,
    "chroma": 0.7648,
-   "punch": 0.303
+   "punch": 0.303,
+   "deleted": true,
+   "deleted_on": "2026-09-07"
   },
   "sent-2026-09-07r::685474e20f1e": {
    "id": "CRVI002491",
@@ -145302,7 +145326,9 @@
    "subtitle": "",
    "year": "1981",
    "verified_against": "MoMA, object 4943 — 'Kiyoshi Awazu. Noh Performance at UCLA. 1981. Offset lithograph. 40 1/2 x 28 5/8\" (102.8 x 72.5 cm). Gift of the College of Fine Arts, UCLA. Object number 73.1990.' The sheet prints NOH at the top and the UCLA Asian Performing Arts Institute's 1981 cities along the foot.",
-   "notes": [],
+   "notes": [
+    "DELETED from the museum on 2026-09-07. The record is kept so CRVI002492 stays provably retired and is never reissued."
+   ],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img57/04.jpg",
    "source_px": [
@@ -145340,12 +145366,14 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "MoMA, object 4943 — 'Kiyoshi Awazu. Noh Performance at UCLA. 1981. Offset lithograph. 40 1/2 x 28 5/8\" (102.8 x 72.5 cm). Gift of the College of Fine Arts, UCLA. Object number 73.1990.' The sheet prints NOH at the top and the UCLA Asian Performing Arts Institute's 1981 cities along the foot.",
    "hue": 358.38,
    "light": 0.2844,
    "chroma": 0.6417,
-   "punch": 0.2387
+   "punch": 0.2387,
+   "deleted": true,
+   "deleted_on": "2026-09-07"
   },
   "sent-2026-09-07r::e67855173a5d": {
    "id": "CRVI002493",
