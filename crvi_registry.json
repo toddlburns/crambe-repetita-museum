@@ -143040,23 +143040,23 @@
    "minted": "2026-09-07",
    "original_file": "originals/CRVI002426.jpg",
    "original_px": [
-    4000,
-    5417
+    1674,
+    2267
    ],
-   "original_bytes": 1316551,
+   "original_bytes": 351726,
    "identity": "sent-2026-09-07k::0c42cdf97e96",
    "source_url": "https://a.1stdibscdn.com/gustav-klucis-paintings-suprematist-composition-1919-paper-gouache-215-x-285-cm-for-sale/a_14372/a_90546221645186274318/DSC05385_master.JPG?width=768",
    "maker": "Gustav Klutsis",
    "title": "Suprematist Composition",
    "subtitle": "",
    "year": "1919",
-   "verified_against": "1stdibs, whose listing URL carries the whole tombstone — 'gustav-klucis-paintings-suprematist-composition-1919-paper-gouache-215-x-285-cm' — i.e. gouache on paper, 21.5 x 28.5 cm, 1919; the sheet is signed in pencil at lower right. ⚠️ A dealer listing, which meets the archive's one-credible-source bar but is not a museum record. Upgraded 768x1040 -> 4000x5417 by dropping the `?width=` parameter from the `_master` file.",
+   "verified_against": "1stdibs, whose listing URL carries the whole tombstone — 'gustav-klucis-paintings-suprematist-composition-1919-paper-gouache-215-x-285-cm' — i.e. gouache on paper, 21.5 x 28.5 cm, 1919; the sheet is signed in pencil at lower right. ⚠️ A dealer listing, which meets the archive's one-credible-source bar but is not a museum record. Upgraded 768x1040 -> 4000x5417 by dropping the `?width=` parameter from the `_master` file.  ⚠️ FILE REPLACED 2026-09-08: the record previously held a.1stdibscdn's `?width=4000` answer at 4000x5417, which is INTERPOLATION — 1stdibs upscales without bound. Half-round-trip MAD 0.42 and Laplacian variance 9.7 gave it away. The honest master is 1674x2267 and is what is held now.",
    "notes": [],
    "label": "",
-   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img50/09.jpg",
+   "source_image": "https://a.1stdibscdn.com/gustav-klucis-paintings-suprematist-composition-1919-paper-gouache-215-x-285-cm-for-sale/a_14372/a_90546221645186274318/DSC05385_master.JPG?width=8000&disable=upscale",
    "source_px": [
-    4000,
-    5417
+    1674,
+    2267
    ],
    "colors": [
     "white"
@@ -143089,7 +143089,7 @@
    ],
    "identity_established": true,
    "published": true,
-   "verification": "1stdibs, whose listing URL carries the whole tombstone — 'gustav-klucis-paintings-suprematist-composition-1919-paper-gouache-215-x-285-cm' — i.e. gouache on paper, 21.5 x 28.5 cm, 1919; the sheet is signed in pencil at lower right. ⚠️ A dealer listing, which meets the archive's one-credible-source bar but is not a museum record. Upgraded 768x1040 -> 4000x5417 by dropping the `?width=` parameter from the `_master` file.",
+   "verification": "1stdibs, whose listing URL carries the whole tombstone — 'gustav-klucis-paintings-suprematist-composition-1919-paper-gouache-215-x-285-cm' — i.e. gouache on paper, 21.5 x 28.5 cm, 1919; the sheet is signed in pencil at lower right. ⚠️ A dealer listing, which meets the archive's one-credible-source bar but is not a museum record. Upgraded 768x1040 -> 4000x5417 by dropping the `?width=` parameter from the `_master` file.  ⚠️ FILE REPLACED 2026-09-08: the record previously held a.1stdibscdn's `?width=4000` answer at 4000x5417, which is INTERPOLATION — 1stdibs upscales without bound. Half-round-trip MAD 0.42 and Laplacian variance 9.7 gave it away. The honest master is 1674x2267 and is what is held now.",
    "extra_tags": [
     {
      "k": "movement",
@@ -143100,10 +143100,10 @@
      "v": "Suprematism"
     }
    ],
-   "hue": 58.04,
-   "light": 0.7598,
-   "chroma": 0.4429,
-   "punch": 0.091
+   "hue": 58.03,
+   "light": 0.7597,
+   "chroma": 0.4423,
+   "punch": 0.0911
   },
   "sent-2026-09-07k::5b71845e2677": {
    "id": "CRVI002427",

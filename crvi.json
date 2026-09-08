@@ -125761,7 +125761,7 @@
    "id": "CRVI002426",
    "published": true,
    "minted": "2026-09-07",
-   "punch": 0.091,
+   "punch": 0.0911,
    "source_url": "https://a.1stdibscdn.com/gustav-klucis-paintings-suprematist-composition-1919-paper-gouache-215-x-285-cm-for-sale/a_14372/a_90546221645186274318/DSC05385_master.JPG?width=768",
    "animated": false,
    "video": false,
@@ -125771,10 +125771,10 @@
    "original": "originals/CRVI002426.jpg",
    "vector": "",
    "original_px": [
-    4000,
-    5417
+    1674,
+    2267
    ],
-   "original_bytes": 1316551,
+   "original_bytes": 351726,
    "maker": "Gustav Klutsis",
    "title": "Suprematist Composition",
    "subtitle": "",
@@ -125817,9 +125817,9 @@
      "v": "white"
     }
    ],
-   "hue": 58.04,
-   "light": 0.7598,
-   "chroma": 0.4429
+   "hue": 58.03,
+   "light": 0.7597,
+   "chroma": 0.4423
   },
   {
    "id": "CRVI002427",
