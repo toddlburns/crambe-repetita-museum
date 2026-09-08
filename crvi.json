@@ -131864,6 +131864,926 @@
    "hue": 35.16,
    "light": 0.7728,
    "chroma": 0.7928
+  },
+  {
+   "id": "CRVI002534",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.0074,
+   "source_url": "https://i.pinimg.com/originals/dc/93/70/dc937015f4468e44e9ed8ee69c64eed6.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002534.jpg",
+   "source_label": "",
+   "image": "images/CRVI002534.jpg",
+   "original": "originals/CRVI002534.jpg",
+   "vector": "",
+   "original_px": [
+    2349,
+    3253
+   ],
+   "original_bytes": 391085,
+   "maker": "Josef Hoffmann",
+   "title": "Cameo glass vase",
+   "subtitle": "",
+   "year": "1911",
+   "tags": [
+    {
+     "k": "type",
+     "v": "glass"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "designer",
+     "v": "Josef Hoffmann"
+    },
+    {
+     "k": "client",
+     "v": "Johann Loetz Witwe"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": null,
+   "light": 0.7031,
+   "chroma": 0.0417
+  },
+  {
+   "id": "CRVI002535",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.0179,
+   "source_url": "https://uploads3.wikiart.org/images/koloman-moser/a-modern-tantalus-illustration-for-meggendorfer-leaves.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002535.jpg",
+   "source_label": "",
+   "image": "images/CRVI002535.jpg",
+   "original": "originals/CRVI002535.jpg",
+   "vector": "",
+   "original_px": [
+    2628,
+    2838
+   ],
+   "original_bytes": 3638650,
+   "maker": "Koloman Moser",
+   "title": "Ein moderner Tantalus. Illustration für 'Meggendorfer Blätter'",
+   "subtitle": "",
+   "year": "1895",
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "decade",
+     "v": "1890s"
+    },
+    {
+     "k": "artist",
+     "v": "Koloman Moser"
+    },
+    {
+     "k": "client",
+     "v": "Meggendorfer Blätter"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    },
+    {
+     "k": "color",
+     "v": "neutral"
+    }
+   ],
+   "hue": null,
+   "light": 0.7427,
+   "chroma": 0.0002
+  },
+  {
+   "id": "CRVI002536",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.3231,
+   "source_url": "https://i.pinimg.com/originals/32/7b/77/327b77985e22621073a326dbb09a9773.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002536.jpg",
+   "source_label": "",
+   "image": "images/CRVI002536.jpg",
+   "original": "originals/CRVI002536.jpg",
+   "vector": "",
+   "original_px": [
+    1746,
+    2028
+   ],
+   "original_bytes": 1147728,
+   "maker": "Koloman Moser",
+   "title": "Stoffentwurf „Abimelech\" für Backhausen",
+   "subtitle": "",
+   "year": "1899",
+   "tags": [
+    {
+     "k": "type",
+     "v": "textile"
+    },
+    {
+     "k": "decade",
+     "v": "1890s"
+    },
+    {
+     "k": "artist",
+     "v": "Koloman Moser"
+    },
+    {
+     "k": "client",
+     "v": "Joh. Backhausen & Söhne"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 32.17,
+   "light": 0.4926,
+   "chroma": 0.9987
+  },
+  {
+   "id": "CRVI002537",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.2373,
+   "source_url": "https://shop.strato.de/WebRoot/Store8/Shops/61231908/46BB/11A8/DE90/BC30/F5E6/C0A8/28BD/B547/_00B4__00B4__0020_011.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002537.jpg",
+   "source_label": "",
+   "image": "images/CRVI002537.jpg",
+   "original": "originals/CRVI002537.jpg",
+   "vector": "",
+   "original_px": [
+    960,
+    1280
+   ],
+   "original_bytes": 291946,
+   "maker": "Koloman Moser",
+   "title": "Ver Sacrum, poster for the XIII Secession exhibition",
+   "subtitle": "",
+   "year": "1902",
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "designer",
+     "v": "Koloman Moser"
+    },
+    {
+     "k": "client",
+     "v": "Vienna Secession"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 23.4,
+   "light": 0.62,
+   "chroma": 0.9263
+  },
+  {
+   "id": "CRVI002538",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.2113,
+   "source_url": "https://media.mutualart.com/Images/2022_06/08/15/153001689/5f4a68cd-9b93-48bd-886a-3434d5811747.Jpeg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002538.jpg",
+   "source_label": "",
+   "image": "images/CRVI002538.jpg",
+   "original": "originals/CRVI002538.jpg",
+   "vector": "",
+   "original_px": [
+    1024,
+    1469
+   ],
+   "original_bytes": 1008632,
+   "maker": "Carl Otto Czeschka",
+   "title": "New Year's Card, Wiener Werkstätte postcard No. 252",
+   "subtitle": "",
+   "year": "1909",
+   "tags": [
+    {
+     "k": "type",
+     "v": "postcard"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "designer",
+     "v": "Carl Otto Czeschka"
+    },
+    {
+     "k": "client",
+     "v": "Wiener Werkstätte"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 36.43,
+   "light": 0.6871,
+   "chroma": 0.5686
+  },
+  {
+   "id": "CRVI002539",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.0966,
+   "source_url": "https://p1.liveauctioneers.com/7705/326656/175875740_1_x.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002539.jpg",
+   "source_label": "",
+   "image": "images/CRVI002539.jpg",
+   "original": "originals/CRVI002539.jpg",
+   "vector": "",
+   "original_px": [
+    1600,
+    1200
+   ],
+   "original_bytes": 165286,
+   "maker": "Eduard Josef Wimmer-Wisgrill",
+   "title": "Fashion design for the Wiener Werkstätte",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "designer",
+     "v": "Eduard Josef Wimmer-Wisgrill"
+    },
+    {
+     "k": "client",
+     "v": "Wiener Werkstätte"
+    },
+    {
+     "k": "subject",
+     "v": "fashion"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "white"
+    }
+   ],
+   "hue": 39.27,
+   "light": 0.9118,
+   "chroma": 0.3273
+  },
+  {
+   "id": "CRVI002540",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.0932,
+   "source_url": "https://img1.onebid.pl/img/6605/1864990_1b.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002540.jpg",
+   "source_label": "",
+   "image": "images/CRVI002540.jpg",
+   "original": "originals/CRVI002540.jpg",
+   "vector": "",
+   "original_px": [
+    2500,
+    1875
+   ],
+   "original_bytes": 729822,
+   "maker": "Eduard Josef Wimmer-Wisgrill",
+   "title": "Costume design",
+   "subtitle": "",
+   "year": "1916",
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "designer",
+     "v": "Eduard Josef Wimmer-Wisgrill"
+    },
+    {
+     "k": "client",
+     "v": "Wiener Werkstätte"
+    },
+    {
+     "k": "subject",
+     "v": "costume design"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 44.08,
+   "light": 0.8739,
+   "chroma": 0.5117
+  },
+  {
+   "id": "CRVI002541",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.0601,
+   "source_url": "https://i.pinimg.com/originals/1b/b3/b4/1bb3b4f6c5a464e8a0f6b8cfa67682bf.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002541.jpg",
+   "source_label": "",
+   "image": "images/CRVI002541.jpg",
+   "original": "originals/CRVI002541.jpg",
+   "vector": "",
+   "original_px": [
+    1049,
+    1309
+   ],
+   "original_bytes": 116030,
+   "maker": "Michael Powolny",
+   "title": "Frühling (Spring), from The Four Seasons",
+   "subtitle": "",
+   "year": "1907",
+   "tags": [
+    {
+     "k": "type",
+     "v": "ceramics"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "designer",
+     "v": "Michael Powolny"
+    },
+    {
+     "k": "client",
+     "v": "Wiener Keramik"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 44.51,
+   "light": 0.7923,
+   "chroma": 0.189
+  },
+  {
+   "id": "CRVI002542",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.2218,
+   "source_url": "https://media.mutualart.com/Images/2025_01/17/07/84892812/berthold-loffler-kunstschau-wien-KELC0.Jpeg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002542.jpg",
+   "source_label": "",
+   "image": "images/CRVI002542.jpg",
+   "original": "originals/CRVI002542.jpg",
+   "vector": "",
+   "original_px": [
+    2046,
+    1470
+   ],
+   "original_bytes": 1096370,
+   "maker": "Berthold Löffler",
+   "title": "Kunstschau Wien 1908",
+   "subtitle": "",
+   "year": "1908",
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "designer",
+     "v": "Berthold Löffler"
+    },
+    {
+     "k": "client",
+     "v": "Kunstschau Wien"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 44.64,
+   "light": 0.4829,
+   "chroma": 0.6198
+  },
+  {
+   "id": "CRVI002543",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.2825,
+   "source_url": "https://chairish-prod.freetls.fastly.net/image/product/sized/035cf4fa-9306-4404-9ff5-4c2f2b281b6c/1912-typography-specimen-book-wiener-grotesk-h-berthold-akt-ges-berlin-sw29-bauer-and-co-stuttgart-4342",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002543.jpg",
+   "source_label": "",
+   "image": "images/CRVI002543.jpg",
+   "original": "originals/CRVI002543.jpg",
+   "vector": "",
+   "original_px": [
+    1920,
+    1367
+   ],
+   "original_bytes": 966432,
+   "maker": "H. Berthold AG",
+   "title": "Wiener Grotesk, type specimen",
+   "subtitle": "",
+   "year": "1912",
+   "tags": [
+    {
+     "k": "type",
+     "v": "type specimen"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "typographer",
+     "v": "Rudolf Geyer"
+    },
+    {
+     "k": "client",
+     "v": "H. Berthold AG"
+    },
+    {
+     "k": "client",
+     "v": "Bauer & Co."
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 34.64,
+   "light": 0.6662,
+   "chroma": 0.955
+  },
+  {
+   "id": "CRVI002544",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.017,
+   "source_url": "https://i.pinimg.com/originals/bf/35/43/bf3543ec58b053d49c44025911ca7279.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002544.jpg",
+   "source_label": "",
+   "image": "images/CRVI002544.jpg",
+   "original": "originals/CRVI002544.jpg",
+   "vector": "",
+   "original_px": [
+    3636,
+    5855
+   ],
+   "original_bytes": 1179904,
+   "maker": "Vereinigte Wiener und Gmundner Keramik",
+   "title": "Vase, model number 1084",
+   "subtitle": "",
+   "year": "1918",
+   "tags": [
+    {
+     "k": "type",
+     "v": "ceramics"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "client",
+     "v": "Vereinigte Wiener und Gmundner Keramik"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": null,
+   "light": 0.712,
+   "chroma": 0.0818
+  },
+  {
+   "id": "CRVI002545",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.0716,
+   "source_url": "https://a.1stdibscdn.com/ceramic-lamp-stand-gudrun-baudisch-wiener-werkstatte-circa-1928-austrian-art-for-sale-picture-7/f_58302/f_266001521639842024965/507_wienerwerkstatte_baudisch_vase_kunsthammer_42_master.jpg?width=8000&disable=upscale",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002545.jpg",
+   "source_label": "",
+   "image": "images/CRVI002545.jpg",
+   "original": "originals/CRVI002545.jpg",
+   "vector": "",
+   "original_px": [
+    3173,
+    4754
+   ],
+   "original_bytes": 796483,
+   "maker": "Gudrun Baudisch",
+   "title": "Ceramic lamp stand",
+   "subtitle": "",
+   "year": "1928",
+   "tags": [
+    {
+     "k": "type",
+     "v": "ceramics"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "designer",
+     "v": "Gudrun Baudisch"
+    },
+    {
+     "k": "client",
+     "v": "Wiener Werkstätte"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "white"
+    }
+   ],
+   "hue": 215.21,
+   "light": 0.8728,
+   "chroma": 0.1941
+  },
+  {
+   "id": "CRVI002546",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.4385,
+   "source_url": "https://www.wiener-werkstaette-postkarten.com/wp-content/uploads/auktionen/54/514.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002546.jpg",
+   "source_label": "",
+   "image": "images/CRVI002546.jpg",
+   "original": "originals/CRVI002546.jpg",
+   "vector": "",
+   "original_px": [
+    1056,
+    1644
+   ],
+   "original_bytes": 317804,
+   "maker": "Maria Likarz-Strauss",
+   "title": "Prosit Neujahr, Wiener Werkstätte postcard No. 744",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "postcard"
+    },
+    {
+     "k": "designer",
+     "v": "Maria Likarz-Strauss"
+    },
+    {
+     "k": "client",
+     "v": "Wiener Werkstätte"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 345.54,
+   "light": 0.4544,
+   "chroma": 0.7945
+  },
+  {
+   "id": "CRVI002547",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.0505,
+   "source_url": "https://www.arthousehejtmanek.cz/temp/images/front/item/image/0014995_1600x0_0.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002547.jpg",
+   "source_label": "",
+   "image": "images/CRVI002547.jpg",
+   "original": "originals/CRVI002547.jpg",
+   "vector": "",
+   "original_px": [
+    1600,
+    2400
+   ],
+   "original_bytes": 243853,
+   "maker": "Mathilde Flögl",
+   "title": "A Glass Box",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "glass"
+    },
+    {
+     "k": "designer",
+     "v": "Mathilde Flögl"
+    },
+    {
+     "k": "client",
+     "v": "Wiener Werkstätte"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 160.75,
+   "light": 0.8441,
+   "chroma": 0.1736
+  },
+  {
+   "id": "CRVI002548",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.4625,
+   "source_url": "https://pbs.twimg.com/media/HGNhUl_a8AATa5e.jpg?name=orig",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002548.jpg",
+   "source_label": "",
+   "image": "images/CRVI002548.jpg",
+   "original": "originals/CRVI002548.jpg",
+   "vector": "",
+   "original_px": [
+    1065,
+    1300
+   ],
+   "original_bytes": 375538,
+   "maker": "Felice Rix-Ueno",
+   "title": "Gespinst",
+   "subtitle": "",
+   "year": "1924",
+   "tags": [
+    {
+     "k": "type",
+     "v": "textile"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "designer",
+     "v": "Felice Rix-Ueno"
+    },
+    {
+     "k": "client",
+     "v": "Wiener Werkstätte"
+    },
+    {
+     "k": "client",
+     "v": "Gustav Ziegler"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 15.42,
+   "light": 0.6471,
+   "chroma": 0.9263
+  },
+  {
+   "id": "CRVI002549",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.099,
+   "source_url": "https://i.pinimg.com/originals/03/c6/21/03c621e8901d036c3c9f0ce1b6809147.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002549.jpg",
+   "source_label": "",
+   "image": "images/CRVI002549.jpg",
+   "original": "originals/CRVI002549.jpg",
+   "vector": "",
+   "original_px": [
+    1569,
+    2224
+   ],
+   "original_bytes": 737046,
+   "maker": "Unattributed",
+   "title": "Geometric pattern in blue, green and black",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "textile"
+    },
+    {
+     "k": "subject",
+     "v": "pattern"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 225.32,
+   "light": 0.5103,
+   "chroma": 0.2631
   }
  ]
 }
