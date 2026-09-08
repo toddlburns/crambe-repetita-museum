@@ -1,0 +1,50 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>Filippo Tommaso Marinetti — Crambe Repetita Museum</title><link rel="stylesheet" href="../../style.css"></head><body><div class="crumb"><span class="t">FILIPPO TOMMASO MARINETTI</span><span class="c">10 items</span><a href="../../tags/">&#8592; all tags</a></div><div class="roles"><a href="../../tag/artist/filippo-tommaso-marinetti/">as artist (6)</a> · <a href="../../tag/designer/filippo-tommaso-marinetti/">as designer (4)</a></div><div class="grid"><a class="cell" href="../../CRVI001693/"><div class="inner"><img src="../../thumbs/CRVI001693.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI001693</span>Filippo Tommaso Marinetti - Les mots en liberté futuristes<br>Book · 1919</div></a><a class="cell" href="../../CRVI001694/"><div class="inner"><img src="../../thumbs/CRVI001694.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI001694</span>Filippo Tommaso Marinetti - Parole in libertà<br>1932</div></a><a class="cell" href="../../CRVI001697/"><div class="inner"><img src="../../thumbs/CRVI001697.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI001697</span>Filippo Tommaso Marinetti - Parole in libertà: Verbalisation dynamique de la route<br></div></a><a class="cell" href="../../CRVI001698/"><div class="inner"><img src="../../thumbs/CRVI001698.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI001698</span>Filippo Tommaso Marinetti - Futurismo<br>Poster · 1932</div></a><a class="cell" href="../../CRVI002412/"><div class="inner"><img src="../../thumbs/CRVI002412.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002412</span>Filippo Tommaso Marinetti - TUMB TUMB / GRANG GRANG / ZZZANG-ZZZANG-TUMB<br></div></a><a class="cell" href="../../CRVI002413/"><div class="inner"><img src="../../thumbs/CRVI002413.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002413</span>Filippo Tommaso Marinetti - Treni (parole in libertà)<br></div></a><a class="cell" href="../../CRVI002414/"><div class="inner"><img src="../../thumbs/CRVI002414.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002414</span>Filippo Tommaso Marinetti - Zang Tumb Tuuum<br>1915</div></a><a class="cell" href="../../CRVI002415/"><div class="inner"><img src="../../thumbs/CRVI002415.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002415</span>Filippo Tommaso Marinetti - Zang Tumb Tumb: Adrianopoli Ottobre 1912: Parole in Libertà (cover)<br>1914</div></a><a class="cell" href="../../CRVI002416/"><div class="inner"><img src="../../thumbs/CRVI002416.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002416</span>Filippo Tommaso Marinetti - Vive la France<br>1914-15</div></a><a class="cell" href="../../CRVI002417/"><div class="inner"><img src="../../thumbs/CRVI002417.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002417</span>Filippo Tommaso Marinetti - Words and Freedom (Parole in libertà)<br>1914</div></a></div><script>
+var SCALE=3;var t=null;
+// ⚠️ THE GIF IS FETCHED ON HOVER, NOT BEFORE. Setting src is what triggers the download, so a
+// grid cell ships the still poster and only swaps in the animation when the pointer arrives.
+// Pausing or hiding a GIF whose src is already set saves nothing — it is on the wire either way.
+// The poster is kept in data-poster so leaving restores it without a second fetch of anything.
+function playGif(c){
+  var im=c.querySelector('img.anim');
+  if(!im) return;
+  var g=im.getAttribute('data-gif');
+  if(!g||im.dataset.playing) return;
+  im.dataset.poster=im.getAttribute('src');
+  im.dataset.playing='1';
+  im.setAttribute('src',g);
+}
+function stopGif(c){
+  var im=c.querySelector('img.anim');
+  if(!im||!im.dataset.playing) return;
+  // back to the still, so a page full of gifs is not left all animating at once
+  im.setAttribute('src',im.dataset.poster);
+  delete im.dataset.playing;
+}
+// ⚠️ A VIDEO CANNOT BE SWAPPED INTO AN <img>. Where a gif item just changes src, a video item
+// lays a <video> over its still on hover and takes it away again on leave — same bargain as the
+// gif: nothing is on the wire until the pointer arrives, and a grid is never left all playing.
+function playVid(c){
+  var im=c.querySelector('img.anim'); if(!im) return;
+  var u=im.getAttribute('data-video'); if(!u||c.querySelector('video')) return;
+  var v=document.createElement('video');
+  v.src=u; v.autoplay=true; v.loop=true; v.muted=true; v.playsInline=true;
+  im.parentNode.appendChild(v);
+}
+function stopVid(c){ var v=c.querySelector('video'); if(v) v.parentNode.removeChild(v); }
+document.querySelectorAll('.cell').forEach(function(c){
+  c.addEventListener('mouseenter',function(){
+    playGif(c); playVid(c);
+    clearTimeout(t);
+    t=setTimeout(function(){
+      // transform does not change layout, so push the caption below the grown image
+      var im=c.querySelector('img'),cap=c.querySelector('.cap');
+      cap.style.transform='translateY('+im.getBoundingClientRect().height*(SCALE-1)+'px)';
+      c.classList.add('big');
+    },1000);
+  });
+  c.addEventListener('mouseleave',function(){
+    stopGif(c); stopVid(c);
+    clearTimeout(t);c.classList.remove('big');c.querySelector('.cap').style.transform='';
+  });
+});
+</script></body></html>

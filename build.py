@@ -56,6 +56,38 @@ def shown_tags(it):
             if not (t["k"] == "subject" and t["v"].lower() in _MOVEMENT_NAMES)]
 
 
+# ⚠️ A PERSON IS NOT ONE TAG. Man Ray is `artist` and `photographer`; Reid Miles is `designer`
+# on 59 Blue Note sleeves and `photographer` on 11 of them; Klutsis is designer, artist AND
+# photographer. Those are real, precise relations and the archive keeps them separate — but it
+# meant a name had no single page, and the tag index listed it once per facet with no way to see
+# the whole person. Todd, 2026-09-07: *"For artists / designers / etc. that sit in separate
+# groupings, I'd like to have a parent tag. When you click on them in the altars lists, it goes
+# to the parent tag page. Then you click on them as subject or designer or whatever if it does
+# not capture all of them in one."*
+#
+# So: any value carried under TWO OR MORE non-structural facets gets a page at /name/<slug>/
+# holding everything, with the facet pages linked from it. The facet pages are untouched.
+#
+# ⚠️ STRUCTURAL FACETS ARE EXCLUDED. `decade`, `color` and `type` describe the object, not a
+# person or a place, and a parent page for "1970s" means nothing. `medium` is excluded too for a
+# duller reason: 78 items still carry `medium: painting` beside `type: painting` from the
+# unfinished Aug 2026 fold, so without this it would mint a "painting" parent page out of pure
+# redundancy.
+PARENT_SKIP_FACETS = {"decade", "color", "type", "medium", "movement"}
+
+
+def parent_index(items):
+    """value -> {facet: count} for every value spanning 2+ non-structural facets."""
+    spread = {}
+    for it in items:
+        for t in shown_tags(it):
+            if t["k"] in PARENT_SKIP_FACETS:
+                continue
+            spread.setdefault(t["v"], {})
+            spread[t["v"]][t["k"]] = spread[t["v"]].get(t["k"], 0) + 1
+    return {v: f for v, f in spread.items() if len(f) > 1}
+
+
 HERE = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(HERE, "crvi.json")
 
@@ -412,6 +444,7 @@ def main():
     # permanent — it simply has no page until it is settled.
     items = [i for i in d["items"] if i.get("published", True)]
     held = [i for i in d["items"] if not i.get("published", True)]
+    parents = parent_index(items)
     by_tag = {}
     for i, it in enumerate(items):
         for t in shown_tags(it):
@@ -432,8 +465,21 @@ def main():
         nav = ""
         nav += f'<a href="../{prev}/" title="Previous">&#8592;</a>' if prev else '<span>&#8592;</span>'
         nav += f'<a href="../{nxt}/" title="Next">&#8594;</a>' if nxt else '<span>&#8594;</span>'
-        tags = "".join(f'<a href="../tag/{slug(t["k"])}/{slug(t["v"])}/">#{esc(t["v"])}</a>'
-                       for t in shown_tags(it))
+        # ⚠️ ONE CHIP PER NAME, NOT ONE PER CREDIT. 244 item pages used to print a name twice
+        # — "#Man Ray #Man Ray", "#Reid Miles #Reid Miles" — because the person held two real
+        # roles on the same object. Both chips now collapse into a single link to that person's
+        # parent page, which is where both roles are laid out. Values with no parent page still
+        # link straight to their own facet page, exactly as before.
+        seen_vals, chips = set(), []
+        for t in shown_tags(it):
+            if t["v"] in parents:
+                if t["v"] in seen_vals:
+                    continue
+                seen_vals.add(t["v"])
+                chips.append(f'<a href="../name/{slug(t["v"])}/">#{esc(t["v"])}</a>')
+            else:
+                chips.append(f'<a href="../tag/{slug(t["k"])}/{slug(t["v"])}/">#{esc(t["v"])}</a>')
+        tags = "".join(chips)
         tags += '<a class="all" href="../tags/">#alltags</a>'
         # source sits with the tags, at the end, quiet but always present
         # source moved to the top row (see work_line). The bottom right holds the two
@@ -480,7 +526,12 @@ def main():
         small = [t for t in vals if t[1] <= MOBILE_SHOW_MIN]
 
         def lnk(v, n, cls):
-            return (f'<a class="{cls}" href="../tag/{slug(k)}/{slug(v)}/"><span>{esc(v)}</span>'
+            # ⚠️ The name still appears under every facet it belongs to — that is how you find
+            # it where you expect — but the LINK goes to the parent page, per Todd's ask. The
+            # count shown stays the count for THIS facet, because that is what the row means.
+            href = (f'../name/{slug(v)}/' if v in parents
+                    else f'../tag/{slug(k)}/{slug(v)}/')
+            return (f'<a class="{cls}" href="{href}"><span>{esc(v)}</span>'
                     f'<span class="n">{n}</span></a>')
         links = ("".join(lnk(v, n, "big") for v, n in big)
                  + "".join(lnk(v, n, "small") for v, n in small))
@@ -605,14 +656,55 @@ is misidentified, please get in touch: it will be fixed and the correction noted
                 + ' loading="lazy" alt=""></div>'
                 f'<div class="cap"><span class="n">{esc(it["id"])}</span>'
                 f'{esc(it.get("maker"))} - {esc(it.get("title"))}<br>{esc(rest)}</div></a>')
+        # A facet page for a person who has a parent page links UP to it, so you can get from
+        # "Reid Miles as photographer" back to Reid Miles entire without going via /tags/.
+        up_link = (f'<a class="up" href="../../../name/{slug(v)}/">&#8593; all of {esc(v)}</a>'
+                   if v in parents else "")
         body = ('<div class="crumb">'
                 f'<span class="t">{esc(k.upper())}: {esc(v.upper())}</span>'
                 f'<span class="c">{len(idxs)} items</span>'
+                f'{up_link}'
                 '<a href="../../../tags/">&#8592; all tags</a></div>'
                 f'<div class="grid">{"".join(cells)}</div><script>{JS}</script>')
         od = os.path.join(HERE, "tag", slug(k), slug(v)); os.makedirs(od, exist_ok=True)
         open(os.path.join(od, "index.html"), "w").write(
             page(f'{k}: {v} — Crambe Repetita Museum', body, 3))
+
+    # ---- /name/<slug>/ — the parent page for anyone spanning two or more facets ----
+    # ⚠️ An item is listed ONCE here even when the person holds two roles on it. The union is
+    # the point; the per-role split is the row of links at the top.
+    for v, facets_of in parents.items():
+        idxs, seen_i = [], set()
+        for k in facets_of:
+            for i in by_tag.get((k, v), []):
+                if i not in seen_i:
+                    seen_i.add(i); idxs.append(i)
+        if len(idxs) > COLOUR_SORT_MIN:
+            idxs = color_order(idxs)
+        cells = []
+        for i in idxs:
+            it = items[i]
+            rest = " · ".join(filter(None, [it.get("subtitle"), it.get("year")]))
+            cells.append(
+                f'<a class="cell" href="../../{it["id"]}/">'
+                f'<div class="inner"><img src="../../{esc(it["thumb"] or it["image"])}"'
+                + (f' data-gif="../../{esc(it["image"])}" class="anim"' if it.get("animated") else "")
+                + (f' data-video="../../{esc(it["image"])}" class="anim"' if it.get("video") else "")
+                + ' loading="lazy" alt=""></div>'
+                f'<div class="cap"><span class="n">{esc(it["id"])}</span>'
+                f'{esc(it.get("maker"))} - {esc(it.get("title"))}<br>{esc(rest)}</div></a>')
+        roles = " · ".join(
+            f'<a href="../../tag/{slug(k)}/{slug(v)}/">as {esc(k)} ({n})</a>'
+            for k, n in sorted(facets_of.items(), key=lambda kv: (-kv[1], kv[0])))
+        body = ('<div class="crumb">'
+                f'<span class="t">{esc(v.upper())}</span>'
+                f'<span class="c">{len(idxs)} items</span>'
+                '<a href="../../tags/">&#8592; all tags</a></div>'
+                f'<div class="roles">{roles}</div>'
+                f'<div class="grid">{"".join(cells)}</div><script>{JS}</script>')
+        od = os.path.join(HERE, "name", slug(v)); os.makedirs(od, exist_ok=True)
+        open(os.path.join(od, "index.html"), "w").write(
+            page(f'{v} — Crambe Repetita Museum', body, 2))
 
     # ---- the front door lands on the first item ----
     open(os.path.join(HERE, "index.html"), "w").write(
@@ -666,7 +758,8 @@ is misidentified, please get in touch: it will be fixed and the correction noted
     open(os.path.join(HERE, "all", "index.html"), "w").write(
         page("All — Crambe Repetita Museum", abody, 1))
 
-    print(f'{len(items)} item pages · {len(by_tag)} tag pages · {len(order)} facets')
+    print(f'{len(items)} item pages · {len(by_tag)} tag pages · {len(parents)} name pages'
+          f' · {len(order)} facets')
     if held:
         print(f'  {len(held)} HELD BACK, unverified: ' + ", ".join(h["id"] for h in held))
     print(f'  first {items[0]["id"]} · last {items[-1]["id"]}')

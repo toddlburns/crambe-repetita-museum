@@ -1,0 +1,50 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>Gustav Klutsis — Crambe Repetita Museum</title><link rel="stylesheet" href="../../style.css"></head><body><div class="crumb"><span class="t">GUSTAV KLUTSIS</span><span class="c">15 items</span><a href="../../tags/">&#8592; all tags</a></div><div class="roles"><a href="../../tag/artist/gustav-klutsis/">as artist (15)</a> · <a href="../../tag/designer/gustav-klutsis/">as designer (4)</a> · <a href="../../tag/photographer/gustav-klutsis/">as photographer (1)</a></div><div class="grid"><a class="cell" href="../../CRVI001499/"><div class="inner"><img src="../../thumbs/CRVI001499.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI001499</span>Gustav Klutsis - Postcard Commemorating the Russian All-Union Spartakiada<br>1928</div></a><a class="cell" href="../../CRVI001500/"><div class="inner"><img src="../../thumbs/CRVI001500.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI001500</span>Gustav Klutsis - Design for a screen-tribune kiosk<br>1922</div></a><a class="cell" href="../../CRVI001502/"><div class="inner"><img src="../../thumbs/CRVI001502.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI001502</span>Gustav Klutsis - Spartakiada Moskau 1928<br>Postcard · 1928</div></a><a class="cell" href="../../CRVI001503/"><div class="inner"><img src="../../thumbs/CRVI001503.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI001503</span>Gustav Klutsis - Without Heavy Industry We Cannot Build Any Industry<br>Poster · 1930</div></a><a class="cell" href="../../CRVI001501/"><div class="inner"><img src="../../thumbs/CRVI001501.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI001501</span>Gustav Klutsis - Dynamic City<br>1919</div></a><a class="cell" href="../../CRVI002418/"><div class="inner"><img src="../../thumbs/CRVI002418.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002418</span>Gustav Klutsis - Self-portrait with a camera<br>1926</div></a><a class="cell" href="../../CRVI002419/"><div class="inner"><img src="../../thumbs/CRVI002419.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002419</span>Gustav Klutsis - Let's Fulfill the Plan of Great Works<br>1930</div></a><a class="cell" href="../../CRVI002420/"><div class="inner"><img src="../../thumbs/CRVI002420.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002420</span>Gustav Klutsis - Electrification of the Entire Country (Elektrifikatsiia vsei strany)<br>1920</div></a><a class="cell" href="../../CRVI002421/"><div class="inner"><img src="../../thumbs/CRVI002421.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002421</span>Gustav Klutsis - Dynamic City<br>1919</div></a><a class="cell" href="../../CRVI002422/"><div class="inner"><img src="../../thumbs/CRVI002422.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002422</span>Gustav Klutsis - Oppressed peoples of the whole world, under the banner of the Comintern, overthrow imperialism<br>1924</div></a><a class="cell" href="../../CRVI002423/"><div class="inner"><img src="../../thumbs/CRVI002423.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002423</span>Gustav Klutsis - Axionometric Construction<br>1921</div></a><a class="cell" href="../../CRVI002424/"><div class="inner"><img src="../../thumbs/CRVI002424.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002424</span>Gustav Klutsis - Design for an agitational stand<br></div></a><a class="cell" href="../../CRVI002425/"><div class="inner"><img src="../../thumbs/CRVI002425.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002425</span>Gustav Klutsis - Propaganda Stand (Workers of the World Unite)<br>1922</div></a><a class="cell" href="../../CRVI002426/"><div class="inner"><img src="../../thumbs/CRVI002426.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002426</span>Gustav Klutsis - Suprematist Composition<br>1919</div></a><a class="cell" href="../../CRVI002427/"><div class="inner"><img src="../../thumbs/CRVI002427.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002427</span>Gustav Klutsis - Postcard for the All-Union Spartakiada<br>1928</div></a></div><script>
+var SCALE=3;var t=null;
+// ⚠️ THE GIF IS FETCHED ON HOVER, NOT BEFORE. Setting src is what triggers the download, so a
+// grid cell ships the still poster and only swaps in the animation when the pointer arrives.
+// Pausing or hiding a GIF whose src is already set saves nothing — it is on the wire either way.
+// The poster is kept in data-poster so leaving restores it without a second fetch of anything.
+function playGif(c){
+  var im=c.querySelector('img.anim');
+  if(!im) return;
+  var g=im.getAttribute('data-gif');
+  if(!g||im.dataset.playing) return;
+  im.dataset.poster=im.getAttribute('src');
+  im.dataset.playing='1';
+  im.setAttribute('src',g);
+}
+function stopGif(c){
+  var im=c.querySelector('img.anim');
+  if(!im||!im.dataset.playing) return;
+  // back to the still, so a page full of gifs is not left all animating at once
+  im.setAttribute('src',im.dataset.poster);
+  delete im.dataset.playing;
+}
+// ⚠️ A VIDEO CANNOT BE SWAPPED INTO AN <img>. Where a gif item just changes src, a video item
+// lays a <video> over its still on hover and takes it away again on leave — same bargain as the
+// gif: nothing is on the wire until the pointer arrives, and a grid is never left all playing.
+function playVid(c){
+  var im=c.querySelector('img.anim'); if(!im) return;
+  var u=im.getAttribute('data-video'); if(!u||c.querySelector('video')) return;
+  var v=document.createElement('video');
+  v.src=u; v.autoplay=true; v.loop=true; v.muted=true; v.playsInline=true;
+  im.parentNode.appendChild(v);
+}
+function stopVid(c){ var v=c.querySelector('video'); if(v) v.parentNode.removeChild(v); }
+document.querySelectorAll('.cell').forEach(function(c){
+  c.addEventListener('mouseenter',function(){
+    playGif(c); playVid(c);
+    clearTimeout(t);
+    t=setTimeout(function(){
+      // transform does not change layout, so push the caption below the grown image
+      var im=c.querySelector('img'),cap=c.querySelector('.cap');
+      cap.style.transform='translateY('+im.getBoundingClientRect().height*(SCALE-1)+'px)';
+      c.classList.add('big');
+    },1000);
+  });
+  c.addEventListener('mouseleave',function(){
+    stopGif(c); stopVid(c);
+    clearTimeout(t);c.classList.remove('big');c.querySelector('.cap').style.transform='';
+  });
+});
+</script></body></html>

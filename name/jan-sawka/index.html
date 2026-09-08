@@ -1,0 +1,50 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>Jan Sawka — Crambe Repetita Museum</title><link rel="stylesheet" href="../../style.css"></head><body><div class="crumb"><span class="t">JAN SAWKA</span><span class="c">11 items</span><a href="../../tags/">&#8592; all tags</a></div><div class="roles"><a href="../../tag/artist/jan-sawka/">as artist (10)</a> · <a href="../../tag/designer/jan-sawka/">as designer (1)</a></div><div class="grid"><a class="cell" href="../../CRVI000292/"><div class="inner"><img src="../../thumbs/CRVI000292.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI000292</span>Jan Sawka - Operetka (The Operetta)<br>Jan Sawka · Witold Gombrowicz, Teatr STU</div></a><a class="cell" href="../../CRVI002370/"><div class="inner"><img src="../../thumbs/CRVI002370.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002370</span>Jan Sawka - Print with framed landscape panels above a figure at a wall<br></div></a><a class="cell" href="../../CRVI002371/"><div class="inner"><img src="../../thumbs/CRVI002371.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002371</span>Jan Sawka - Two suited figures sharing a red head<br></div></a><a class="cell" href="../../CRVI002372/"><div class="inner"><img src="../../thumbs/CRVI002372.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002372</span>Jan Sawka - Crash<br>1977</div></a><a class="cell" href="../../CRVI002373/"><div class="inner"><img src="../../thumbs/CRVI002373.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002373</span>Jan Sawka - Exodus (poster for STU's premiere of Leszek Moczulski's production)<br>1974</div></a><a class="cell" href="../../CRVI002374/"><div class="inner"><img src="../../thumbs/CRVI002374.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002374</span>Jan Sawka - Haloed figure at a table in a pink interior<br></div></a><a class="cell" href="../../CRVI002375/"><div class="inner"><img src="../../thumbs/CRVI002375.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002375</span>Jan Sawka - Reclining striped figure with small watching heads<br></div></a><a class="cell" href="../../CRVI002376/"><div class="inner"><img src="../../thumbs/CRVI002376.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002376</span>Jan Sawka - Figures at a table before a wall of small panels<br></div></a><a class="cell" href="../../CRVI002377/"><div class="inner"><img src="../../thumbs/CRVI002377.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002377</span>Jan Sawka - Pyramid of massed figures<br></div></a><a class="cell" href="../../CRVI002378/"><div class="inner"><img src="../../thumbs/CRVI002378.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002378</span>Jan Sawka - Overlapping discs with faces and city names<br></div></a><a class="cell" href="../../CRVI002379/"><div class="inner"><img src="../../thumbs/CRVI002379.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002379</span>Jan Sawka - Jan Sawka: Paintings &amp; Constructions (exhibition poster)<br>1985</div></a></div><script>
+var SCALE=3;var t=null;
+// ⚠️ THE GIF IS FETCHED ON HOVER, NOT BEFORE. Setting src is what triggers the download, so a
+// grid cell ships the still poster and only swaps in the animation when the pointer arrives.
+// Pausing or hiding a GIF whose src is already set saves nothing — it is on the wire either way.
+// The poster is kept in data-poster so leaving restores it without a second fetch of anything.
+function playGif(c){
+  var im=c.querySelector('img.anim');
+  if(!im) return;
+  var g=im.getAttribute('data-gif');
+  if(!g||im.dataset.playing) return;
+  im.dataset.poster=im.getAttribute('src');
+  im.dataset.playing='1';
+  im.setAttribute('src',g);
+}
+function stopGif(c){
+  var im=c.querySelector('img.anim');
+  if(!im||!im.dataset.playing) return;
+  // back to the still, so a page full of gifs is not left all animating at once
+  im.setAttribute('src',im.dataset.poster);
+  delete im.dataset.playing;
+}
+// ⚠️ A VIDEO CANNOT BE SWAPPED INTO AN <img>. Where a gif item just changes src, a video item
+// lays a <video> over its still on hover and takes it away again on leave — same bargain as the
+// gif: nothing is on the wire until the pointer arrives, and a grid is never left all playing.
+function playVid(c){
+  var im=c.querySelector('img.anim'); if(!im) return;
+  var u=im.getAttribute('data-video'); if(!u||c.querySelector('video')) return;
+  var v=document.createElement('video');
+  v.src=u; v.autoplay=true; v.loop=true; v.muted=true; v.playsInline=true;
+  im.parentNode.appendChild(v);
+}
+function stopVid(c){ var v=c.querySelector('video'); if(v) v.parentNode.removeChild(v); }
+document.querySelectorAll('.cell').forEach(function(c){
+  c.addEventListener('mouseenter',function(){
+    playGif(c); playVid(c);
+    clearTimeout(t);
+    t=setTimeout(function(){
+      // transform does not change layout, so push the caption below the grown image
+      var im=c.querySelector('img'),cap=c.querySelector('.cap');
+      cap.style.transform='translateY('+im.getBoundingClientRect().height*(SCALE-1)+'px)';
+      c.classList.add('big');
+    },1000);
+  });
+  c.addEventListener('mouseleave',function(){
+    stopGif(c); stopVid(c);
+    clearTimeout(t);c.classList.remove('big');c.querySelector('.cap').style.transform='';
+  });
+});
+</script></body></html>

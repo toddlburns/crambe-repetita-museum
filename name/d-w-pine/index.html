@@ -1,0 +1,50 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>D.W. Pine — Crambe Repetita Museum</title><link rel="stylesheet" href="../../style.css"></head><body><div class="crumb"><span class="t">D.W. PINE</span><span class="c">6 items</span><a href="../../tags/">&#8592; all tags</a></div><div class="roles"><a href="../../tag/art-director/d-w-pine/">as art director (3)</a> · <a href="../../tag/designer/d-w-pine/">as designer (3)</a></div><div class="grid"><a class="cell" href="../../CRVI000512/"><div class="inner"><img src="../../thumbs/CRVI000512.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI000512</span>D.W. Pine - Unprecedented.<br>TIME, April 24/May 1, 2023 · 2023</div></a><a class="cell" href="../../CRVI000630/"><div class="inner"><img src="../../thumbs/CRVI000630.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI000630</span>D.W. Pine, Peter Greenwood - Dear Washington, We Need to Rebuild. Can You Get Your Act Together?<br>TIME, April 10, 2017 · 2017</div></a><a class="cell" href="../../CRVI000633/"><div class="inner"><img src="../../thumbs/CRVI000633.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI000633</span>D.W. Pine, Edel Rodriguez - Total Meltdown<br>TIME, October 24 2016 · 2016</div></a><a class="cell" href="../../CRVI000534/"><div class="inner"><img src="../../thumbs/CRVI000534.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI000534</span>D.W. Pine - Delete 'Facebook'?<br>TIME, October 25-November 1, 2021 · 2021</div></a><a class="cell" href="../../CRVI000550/"><div class="inner"><img src="../../thumbs/CRVI000550.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI000550</span>D.W. Pine - Day One.<br>TIME, February 1-8, 2021 · 2021</div></a><a class="cell" href="../../CRVI000615/"><div class="inner"><img src="../../thumbs/CRVI000615.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI000615</span>D.W. Pine, Tim O'Brien - Stormy<br>TIME, April 23 2018 · 2018</div></a></div><script>
+var SCALE=3;var t=null;
+// ⚠️ THE GIF IS FETCHED ON HOVER, NOT BEFORE. Setting src is what triggers the download, so a
+// grid cell ships the still poster and only swaps in the animation when the pointer arrives.
+// Pausing or hiding a GIF whose src is already set saves nothing — it is on the wire either way.
+// The poster is kept in data-poster so leaving restores it without a second fetch of anything.
+function playGif(c){
+  var im=c.querySelector('img.anim');
+  if(!im) return;
+  var g=im.getAttribute('data-gif');
+  if(!g||im.dataset.playing) return;
+  im.dataset.poster=im.getAttribute('src');
+  im.dataset.playing='1';
+  im.setAttribute('src',g);
+}
+function stopGif(c){
+  var im=c.querySelector('img.anim');
+  if(!im||!im.dataset.playing) return;
+  // back to the still, so a page full of gifs is not left all animating at once
+  im.setAttribute('src',im.dataset.poster);
+  delete im.dataset.playing;
+}
+// ⚠️ A VIDEO CANNOT BE SWAPPED INTO AN <img>. Where a gif item just changes src, a video item
+// lays a <video> over its still on hover and takes it away again on leave — same bargain as the
+// gif: nothing is on the wire until the pointer arrives, and a grid is never left all playing.
+function playVid(c){
+  var im=c.querySelector('img.anim'); if(!im) return;
+  var u=im.getAttribute('data-video'); if(!u||c.querySelector('video')) return;
+  var v=document.createElement('video');
+  v.src=u; v.autoplay=true; v.loop=true; v.muted=true; v.playsInline=true;
+  im.parentNode.appendChild(v);
+}
+function stopVid(c){ var v=c.querySelector('video'); if(v) v.parentNode.removeChild(v); }
+document.querySelectorAll('.cell').forEach(function(c){
+  c.addEventListener('mouseenter',function(){
+    playGif(c); playVid(c);
+    clearTimeout(t);
+    t=setTimeout(function(){
+      // transform does not change layout, so push the caption below the grown image
+      var im=c.querySelector('img'),cap=c.querySelector('.cap');
+      cap.style.transform='translateY('+im.getBoundingClientRect().height*(SCALE-1)+'px)';
+      c.classList.add('big');
+    },1000);
+  });
+  c.addEventListener('mouseleave',function(){
+    stopGif(c); stopVid(c);
+    clearTimeout(t);c.classList.remove('big');c.querySelector('.cap').style.transform='';
+  });
+});
+</script></body></html>
