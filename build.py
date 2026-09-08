@@ -643,7 +643,16 @@ is misidentified, please get in touch: it will be fixed and the correction noted
     # is) and running the same direction, so the bright pinks roll straight on into the dark reds
     # and the ramp lands on dark blues before it reaches the greys.
     PUNCH_BAR = 0.20     # reads as coloured at all
-    DARK_BAR  = 0.30     # dark, but carries enough colour to be worth grouping by hue
+    # ⚠️ THE DARK WHEEL USED TO GATE ON `chroma` AND THAT WAS THE SAME BUG TWICE.
+    # `chroma` counts any pixel carrying a tint, which is exactly why it was replaced by `punch`
+    # for the bright wheel on 2026-09-04 — a pale wash scored 0.885 there while reading as white.
+    # Band 2 was left behind on the old measure, so a muted Fantin-Latour portrait (punch 0.099,
+    # chroma 0.707) entered the dark wheel and was sorted by a meaningless hue of 41.69 degrees.
+    # Todd, 2026-09-07, looking at six unrelated paintings sitting side by side: "ultimately i'm
+    # not sure why these are grouped together!" They were grouped by that number.
+    # The bar is lower than PUNCH_BAR because punch penalises darkness by construction — a deep
+    # saturated navy earns less punch than the same colour at mid lightness — but it is punch.
+    DARK_PUNCH = 0.12    # dark, but genuinely coloured; NOT chroma
     PALE      = 0.62     # a neutral above this leads the ramp; below it, it trails
     def color_order(idxs):
         def key(i):
@@ -651,12 +660,11 @@ is misidentified, please get in touch: it will be fixed and the correction noted
             h = it.get("hue")
             lt = it.get("light") if it.get("light") is not None else 0.5
             p = it.get("punch") or 0.0
-            c = it.get("chroma") or 0.0
             if h is not None and p >= PUNCH_BAR:
                 return (1, h, -lt)                    # the bright wheel, light to dark within a hue
             if lt >= PALE:
                 return (0, -lt, 0.0)                  # whites lead
-            if h is not None and c >= DARK_BAR:
+            if h is not None and p >= DARK_PUNCH:
                 return (2, h, -lt)                    # the dark wheel
             return (3, -lt, 0.0)                      # true greys, down to black
         return sorted(idxs, key=key)
