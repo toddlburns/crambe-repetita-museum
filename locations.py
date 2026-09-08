@@ -202,6 +202,9 @@ MAKER_COUNTRY = {
     "Lynn Goldsmith": "United States",
     "Maurizio Cattelan": "Italy",
     "Herbert Bayer": "Austria",
+    # Todd, 2026-09-07: "Jan Sawka should be polish". He left Poland for the United States in
+    # 1977, which is why he was held back on the first pass; his country here is Poland.
+    "Jan Sawka": "Poland",
 }
 
 # ⚠️ EVERY trademark in this archive comes from one of three AMERICAN compendia — "Trademarks of
@@ -255,12 +258,26 @@ def main():
     # pass 1 — map what exists, and learn each person's country
     resolved = {}          # id -> (country, city, why)
     unmapped = []          # ⚠️ anything the table cannot resolve is REPORTED, never dropped
+
+    # ⚠️ RE-RUNNING THIS SCRIPT MUST NOT DESTROY WHAT IT BUILT. After the first --apply a value
+    # like "Chicago, Illinois" no longer exists: the item carries location=United States and
+    # city=Chicago. A second run reading only `location` resolves city=None for every item, and
+    # the write at the end would then drop EVERY city tag in the archive. So an existing `city`
+    # tag is read here and carried through, which makes the script idempotent.
+    existing_city = {}
+    for v in live:
+        for t in tags_of(v):
+            if t["k"] == "city":
+                existing_city[v["id"]] = t["v"]
+                break
+
     for v in live:
         for t in tags_of(v):
             if t["k"] == "location":
                 got = resolve(t["v"])
                 if got:
-                    resolved[v["id"]] = (got[0], got[1], "mapped from %r" % t["v"])
+                    city = got[1] or existing_city.get(v["id"])
+                    resolved[v["id"]] = (got[0], city, "mapped from %r" % t["v"])
                 else:
                     unmapped.append((v["id"], t["v"]))
                 break
