@@ -1,0 +1,50 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>subject: lighting — Crambe Repetita Museum</title><link rel="stylesheet" href="../../../style.css"></head><body><div class="crumb"><span class="t">SUBJECT: LIGHTING</span><span class="c">11 items</span><a href="../../../tags/">&#8592; all tags</a></div><div class="grid"><a class="cell" href="../../../CRVI002721/"><div class="inner"><img src="../../../thumbs/CRVI002721.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002721</span>Gino Sarfatti - Table lamp, model 534<br>1951</div></a><a class="cell" href="../../../CRVI002722/"><div class="inner"><img src="../../../thumbs/CRVI002722.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002722</span>Gino Sarfatti - Floor lamp, model 1094<br></div></a><a class="cell" href="../../../CRVI002723/"><div class="inner"><img src="../../../thumbs/CRVI002723.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002723</span>Poul Henningsen - PH 5 pendant<br>1958</div></a><a class="cell" href="../../../CRVI002724/"><div class="inner"><img src="../../../thumbs/CRVI002724.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002724</span>Poul Henningsen - PH Kontrast pendant<br></div></a><a class="cell" href="../../../CRVI002725/"><div class="inner"><img src="../../../thumbs/CRVI002725.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002725</span>Poul Henningsen - PH 3/2 table lamp<br></div></a><a class="cell" href="../../../CRVI002726/"><div class="inner"><img src="../../../thumbs/CRVI002726.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002726</span>Poul Henningsen - PH 5 pendant (lilac)<br>1958</div></a><a class="cell" href="../../../CRVI002727/"><div class="inner"><img src="../../../thumbs/CRVI002727.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002727</span>Poul Henningsen - PH Louvre pendant<br></div></a><a class="cell" href="../../../CRVI002728/"><div class="inner"><img src="../../../thumbs/CRVI002728.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002728</span>Achille Castiglioni and Pier Giacomo Castiglioni - Arco floor lamp<br>1962</div></a><a class="cell" href="../../../CRVI002729/"><div class="inner"><img src="../../../thumbs/CRVI002729.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002729</span>Verner Panton - Panthella floor lamp<br>1971</div></a><a class="cell" href="../../../CRVI002730/"><div class="inner"><img src="../../../thumbs/CRVI002730.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002730</span>Aldo van den Nieuwelaar - TC6 lamp<br>1972</div></a><a class="cell" href="../../../CRVI002731/"><div class="inner"><img src="../../../thumbs/CRVI002731.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002731</span>Donald Deskey - Table Lamp<br>1927</div></a></div><script>
+var SCALE=3;var t=null;
+// ⚠️ THE GIF IS FETCHED ON HOVER, NOT BEFORE. Setting src is what triggers the download, so a
+// grid cell ships the still poster and only swaps in the animation when the pointer arrives.
+// Pausing or hiding a GIF whose src is already set saves nothing — it is on the wire either way.
+// The poster is kept in data-poster so leaving restores it without a second fetch of anything.
+function playGif(c){
+  var im=c.querySelector('img.anim');
+  if(!im) return;
+  var g=im.getAttribute('data-gif');
+  if(!g||im.dataset.playing) return;
+  im.dataset.poster=im.getAttribute('src');
+  im.dataset.playing='1';
+  im.setAttribute('src',g);
+}
+function stopGif(c){
+  var im=c.querySelector('img.anim');
+  if(!im||!im.dataset.playing) return;
+  // back to the still, so a page full of gifs is not left all animating at once
+  im.setAttribute('src',im.dataset.poster);
+  delete im.dataset.playing;
+}
+// ⚠️ A VIDEO CANNOT BE SWAPPED INTO AN <img>. Where a gif item just changes src, a video item
+// lays a <video> over its still on hover and takes it away again on leave — same bargain as the
+// gif: nothing is on the wire until the pointer arrives, and a grid is never left all playing.
+function playVid(c){
+  var im=c.querySelector('img.anim'); if(!im) return;
+  var u=im.getAttribute('data-video'); if(!u||c.querySelector('video')) return;
+  var v=document.createElement('video');
+  v.src=u; v.autoplay=true; v.loop=true; v.muted=true; v.playsInline=true;
+  im.parentNode.appendChild(v);
+}
+function stopVid(c){ var v=c.querySelector('video'); if(v) v.parentNode.removeChild(v); }
+document.querySelectorAll('.cell').forEach(function(c){
+  c.addEventListener('mouseenter',function(){
+    playGif(c); playVid(c);
+    clearTimeout(t);
+    t=setTimeout(function(){
+      // transform does not change layout, so push the caption below the grown image
+      var im=c.querySelector('img'),cap=c.querySelector('.cap');
+      cap.style.transform='translateY('+im.getBoundingClientRect().height*(SCALE-1)+'px)';
+      c.classList.add('big');
+    },1000);
+  });
+  c.addEventListener('mouseleave',function(){
+    stopGif(c); stopVid(c);
+    clearTimeout(t);c.classList.remove('big');c.querySelector('.cap').style.transform='';
+  });
+});
+</script></body></html>

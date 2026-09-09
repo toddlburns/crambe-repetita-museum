@@ -143240,6 +143240,1954 @@
    "hue": 313.58,
    "light": 0.5054,
    "chroma": 0.9561
+  },
+  {
+   "id": "CRVI002721",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.0205,
+   "source_url": "https://media.mutualart.com/Images/2023_03/17/15/155913560/table-lamp--model-534-PY226.Jpeg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002721.jpg",
+   "source_label": "",
+   "image": "images/CRVI002721.jpg",
+   "original": "originals/CRVI002721.jpg",
+   "vector": "",
+   "original_px": [
+    2000,
+    2001
+   ],
+   "original_bytes": 1244594,
+   "maker": "Gino Sarfatti",
+   "title": "Table lamp, model 534",
+   "subtitle": "",
+   "year": "1951",
+   "tags": [
+    {
+     "k": "type",
+     "v": "product design"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "designer",
+     "v": "Gino Sarfatti"
+    },
+    {
+     "k": "client",
+     "v": "Arteluce"
+    },
+    {
+     "k": "subject",
+     "v": "lighting"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "color",
+     "v": "white"
+    }
+   ],
+   "hue": null,
+   "light": 0.9016,
+   "chroma": 0.0741
+  },
+  {
+   "id": "CRVI002722",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.0497,
+   "source_url": "https://a.1stdibscdn.com/archivesE/upload/f_10782/f_84718631505754638630/IMGP6923_master.jpg?width=8000&disable=upscale",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002722.jpg",
+   "source_label": "",
+   "image": "images/CRVI002722.jpg",
+   "original": "originals/CRVI002722.jpg",
+   "vector": "",
+   "original_px": [
+    3200,
+    2400
+   ],
+   "original_bytes": 274156,
+   "maker": "Gino Sarfatti",
+   "title": "Floor lamp, model 1094",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "product design"
+    },
+    {
+     "k": "designer",
+     "v": "Gino Sarfatti"
+    },
+    {
+     "k": "client",
+     "v": "Arteluce"
+    },
+    {
+     "k": "subject",
+     "v": "lighting"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 34.95,
+   "light": 0.6314,
+   "chroma": 0.1039
+  },
+  {
+   "id": "CRVI002723",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.0589,
+   "source_url": "https://a.1stdibscdn.com/red-ph5-pendant-lamp-by-poul-henningsen-for-louis-poulsen-denmark-for-sale/f_18803/f_329270521677144562719/f_32927052_1677144563537_bg_processed.jpg?width=8000&disable=upscale",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002723.jpg",
+   "source_label": "",
+   "image": "images/CRVI002723.jpg",
+   "original": "originals/CRVI002723.jpg",
+   "vector": "",
+   "original_px": [
+    2611,
+    2611
+   ],
+   "original_bytes": 238297,
+   "maker": "Poul Henningsen",
+   "title": "PH 5 pendant",
+   "subtitle": "",
+   "year": "1958",
+   "tags": [
+    {
+     "k": "type",
+     "v": "product design"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "designer",
+     "v": "Poul Henningsen"
+    },
+    {
+     "k": "client",
+     "v": "Louis Poulsen"
+    },
+    {
+     "k": "subject",
+     "v": "lighting"
+    },
+    {
+     "k": "location",
+     "v": "Denmark"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "white"
+    }
+   ],
+   "hue": 4.54,
+   "light": 0.8963,
+   "chroma": 0.1607
+  },
+  {
+   "id": "CRVI002724",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.0354,
+   "source_url": "https://media.mutualart.com/Images/2023_11/09/20/203842409/poul-henningsen-ph-pendant-lamp-8LTRN.Jpeg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002724.jpg",
+   "source_label": "",
+   "image": "images/CRVI002724.jpg",
+   "original": "originals/CRVI002724.jpg",
+   "vector": "",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 686221,
+   "maker": "Poul Henningsen",
+   "title": "PH Kontrast pendant",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "product design"
+    },
+    {
+     "k": "designer",
+     "v": "Poul Henningsen"
+    },
+    {
+     "k": "client",
+     "v": "Louis Poulsen"
+    },
+    {
+     "k": "subject",
+     "v": "lighting"
+    },
+    {
+     "k": "location",
+     "v": "Denmark"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "white"
+    }
+   ],
+   "hue": null,
+   "light": 0.8511,
+   "chroma": 0.0998
+  },
+  {
+   "id": "CRVI002725",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.0135,
+   "source_url": "https://www.datocms-assets.com/151034/1771275420-4c88cd57750d75bb8e48bd2a2cd67c36j.jpeg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002725.jpg",
+   "source_label": "",
+   "image": "images/CRVI002725.jpg",
+   "original": "originals/CRVI002725.jpg",
+   "vector": "",
+   "original_px": [
+    2004,
+    2505
+   ],
+   "original_bytes": 143738,
+   "maker": "Poul Henningsen",
+   "title": "PH 3/2 table lamp",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "product design"
+    },
+    {
+     "k": "designer",
+     "v": "Poul Henningsen"
+    },
+    {
+     "k": "client",
+     "v": "Louis Poulsen"
+    },
+    {
+     "k": "subject",
+     "v": "lighting"
+    },
+    {
+     "k": "location",
+     "v": "Denmark"
+    },
+    {
+     "k": "color",
+     "v": "neutral"
+    }
+   ],
+   "hue": null,
+   "light": 0.4911,
+   "chroma": 0.0411
+  },
+  {
+   "id": "CRVI002726",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.0337,
+   "source_url": "https://ambientesdigital.com/wp-content/uploads/2018/04/ph-lamp-poul-henningsen-louis-poulsen-03.png",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002726.jpg",
+   "source_label": "",
+   "image": "images/CRVI002726.jpg",
+   "original": "originals/CRVI002726.png",
+   "vector": "",
+   "original_px": [
+    3023,
+    1588
+   ],
+   "original_bytes": 1627295,
+   "maker": "Poul Henningsen",
+   "title": "PH 5 pendant (lilac)",
+   "subtitle": "",
+   "year": "1958",
+   "tags": [
+    {
+     "k": "type",
+     "v": "product design"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "designer",
+     "v": "Poul Henningsen"
+    },
+    {
+     "k": "client",
+     "v": "Louis Poulsen"
+    },
+    {
+     "k": "subject",
+     "v": "lighting"
+    },
+    {
+     "k": "location",
+     "v": "Denmark"
+    },
+    {
+     "k": "color",
+     "v": "neutral"
+    }
+   ],
+   "hue": null,
+   "light": 0.6515,
+   "chroma": 0.0602
+  },
+  {
+   "id": "CRVI002727",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.1483,
+   "source_url": "https://www.paulbert-serpette.com/sites/default/files/objets/2021/05/Suspension-Louvre-02.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002727.jpg",
+   "source_label": "",
+   "image": "images/CRVI002727.jpg",
+   "original": "originals/CRVI002727.jpg",
+   "vector": "",
+   "original_px": [
+    1947,
+    1947
+   ],
+   "original_bytes": 1370023,
+   "maker": "Poul Henningsen",
+   "title": "PH Louvre pendant",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "product design"
+    },
+    {
+     "k": "designer",
+     "v": "Poul Henningsen"
+    },
+    {
+     "k": "client",
+     "v": "Louis Poulsen"
+    },
+    {
+     "k": "subject",
+     "v": "lighting"
+    },
+    {
+     "k": "location",
+     "v": "Denmark"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 27.81,
+   "light": 0.5928,
+   "chroma": 0.3547
+  },
+  {
+   "id": "CRVI002728",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.0087,
+   "source_url": "https://i.pinimg.com/originals/f4/83/1b/f4831b8744eed3a931c6a32f933541d0.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002728.jpg",
+   "source_label": "",
+   "image": "images/CRVI002728.jpg",
+   "original": "originals/CRVI002728.jpg",
+   "vector": "",
+   "original_px": [
+    800,
+    1196
+   ],
+   "original_bytes": 59832,
+   "maker": "Achille Castiglioni and Pier Giacomo Castiglioni",
+   "title": "Arco floor lamp",
+   "subtitle": "",
+   "year": "1962",
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "designer",
+     "v": "Achille Castiglioni"
+    },
+    {
+     "k": "designer",
+     "v": "Pier Giacomo Castiglioni"
+    },
+    {
+     "k": "client",
+     "v": "Flos"
+    },
+    {
+     "k": "subject",
+     "v": "lighting"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "color",
+     "v": "neutral"
+    }
+   ],
+   "hue": null,
+   "light": 0.7226,
+   "chroma": 0.0009
+  },
+  {
+   "id": "CRVI002729",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.1228,
+   "source_url": "https://cdn.tatlerasia.com/tatlerasia/i/2022/03/11112419-71006962-379869652889170-1446623908165157358-n-1.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002729.jpg",
+   "source_label": "",
+   "image": "images/CRVI002729.jpg",
+   "original": "originals/CRVI002729.jpg",
+   "vector": "",
+   "original_px": [
+    961,
+    960
+   ],
+   "original_bytes": 247622,
+   "maker": "Verner Panton",
+   "title": "Panthella floor lamp",
+   "subtitle": "",
+   "year": "1971",
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "designer",
+     "v": "Verner Panton"
+    },
+    {
+     "k": "client",
+     "v": "Louis Poulsen"
+    },
+    {
+     "k": "subject",
+     "v": "lighting"
+    },
+    {
+     "k": "location",
+     "v": "Denmark"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 38.42,
+   "light": 0.5562,
+   "chroma": 0.4597
+  },
+  {
+   "id": "CRVI002730",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.0409,
+   "source_url": "https://a.1stdibscdn.com/aldo-van-den-nieuwelaar-tc6-lamp-netherlands-1972-for-sale-picture-11/f_9330/f_371960221700596933044/DSC0113_7_master.jpg?width=8000&disable=upscale",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002730.jpg",
+   "source_label": "",
+   "image": "images/CRVI002730.jpg",
+   "original": "originals/CRVI002730.jpg",
+   "vector": "",
+   "original_px": [
+    4000,
+    2670
+   ],
+   "original_bytes": 495469,
+   "maker": "Aldo van den Nieuwelaar",
+   "title": "TC6 lamp",
+   "subtitle": "",
+   "year": "1972",
+   "tags": [
+    {
+     "k": "type",
+     "v": "product design"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "designer",
+     "v": "Aldo van den Nieuwelaar"
+    },
+    {
+     "k": "subject",
+     "v": "lighting"
+    },
+    {
+     "k": "location",
+     "v": "Netherlands"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": null,
+   "light": 0.1727,
+   "chroma": 0.0915
+  },
+  {
+   "id": "CRVI002731",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.0259,
+   "source_url": "https://i.pinimg.com/originals/0e/53/05/0e5305dd2aa7c1a2de712fc6411ca3aa.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002731.jpg",
+   "source_label": "",
+   "image": "images/CRVI002731.jpg",
+   "original": "originals/CRVI002731.jpg",
+   "vector": "",
+   "original_px": [
+    1414,
+    2000
+   ],
+   "original_bytes": 133500,
+   "maker": "Donald Deskey",
+   "title": "Table Lamp",
+   "subtitle": "",
+   "year": "1927",
+   "tags": [
+    {
+     "k": "type",
+     "v": "product design"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "designer",
+     "v": "Donald Deskey"
+    },
+    {
+     "k": "subject",
+     "v": "lighting"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "white"
+    }
+   ],
+   "hue": 36.07,
+   "light": 0.8756,
+   "chroma": 0.1068
+  },
+  {
+   "id": "CRVI002732",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.147,
+   "source_url": "https://uploads7.wikiart.org/images/jean-michel-basquiat/head-1.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002732.jpg",
+   "source_label": "",
+   "image": "images/CRVI002732.jpg",
+   "original": "originals/CRVI002732.jpg",
+   "vector": "",
+   "original_px": [
+    2518,
+    3406
+   ],
+   "original_bytes": 1805147,
+   "maker": "Jean-Michel Basquiat",
+   "title": "Head",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Jean-Michel Basquiat"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 34.41,
+   "light": 0.2513,
+   "chroma": 0.4698
+  },
+  {
+   "id": "CRVI002733",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.0953,
+   "source_url": "https://uploads5.wikiart.org/00221/images/edward-ruscha/20-20-20-1962.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002733.jpg",
+   "source_label": "",
+   "image": "images/CRVI002733.jpg",
+   "original": "originals/CRVI002733.jpg",
+   "vector": "",
+   "original_px": [
+    1349,
+    1075
+   ],
+   "original_bytes": 244792,
+   "maker": "Ed Ruscha",
+   "title": "20-20-20",
+   "subtitle": "",
+   "year": "1962",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "artist",
+     "v": "Ed Ruscha"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 36.41,
+   "light": 0.872,
+   "chroma": 0.7033
+  },
+  {
+   "id": "CRVI002734",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.086,
+   "source_url": "https://uploads3.wikiart.org/images/salvador-dali/figure-at-a-window.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002734.jpg",
+   "source_label": "",
+   "image": "images/CRVI002734.jpg",
+   "original": "originals/CRVI002734.jpg",
+   "vector": "",
+   "original_px": [
+    1054,
+    1600
+   ],
+   "original_bytes": 788375,
+   "maker": "Salvador Dalí",
+   "title": "Figure at a Window",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Salvador Dalí"
+    },
+    {
+     "k": "location",
+     "v": "Spain"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 227.88,
+   "light": 0.6038,
+   "chroma": 0.2179
+  },
+  {
+   "id": "CRVI002735",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.3185,
+   "source_url": "https://fraenkelgallery.com/wp-content/uploads/2021/02/Marclay-poster.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002735.jpg",
+   "source_label": "",
+   "image": "images/CRVI002735.jpg",
+   "original": "originals/CRVI002735.jpg",
+   "vector": "",
+   "original_px": [
+    816,
+    1020
+   ],
+   "original_bytes": 446294,
+   "maker": "Christian Marclay",
+   "title": "Christian Marclay, Winter 2021 (Fraenkel Gallery)",
+   "subtitle": "",
+   "year": "2021",
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "artist",
+     "v": "Christian Marclay"
+    },
+    {
+     "k": "client",
+     "v": "Fraenkel Gallery"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 25.29,
+   "light": 0.5863,
+   "chroma": 0.8173
+  },
+  {
+   "id": "CRVI002736",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.2819,
+   "source_url": "https://gagosian.com/media/images/exhibitions/2024/albert-oehlen-new-paintings/DQtyDRP_S_Hl_2400x2400.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002736.jpg",
+   "source_label": "",
+   "image": "images/CRVI002736.jpg",
+   "original": "originals/CRVI002736.jpg",
+   "vector": "",
+   "original_px": [
+    2400,
+    1576
+   ],
+   "original_bytes": 1027858,
+   "maker": "Albert Oehlen",
+   "title": "Untitled, from New Paintings",
+   "subtitle": "",
+   "year": "2024",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "artist",
+     "v": "Albert Oehlen"
+    },
+    {
+     "k": "client",
+     "v": "Gagosian"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 196.52,
+   "light": 0.4042,
+   "chroma": 0.7316
+  },
+  {
+   "id": "CRVI002737",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.2175,
+   "source_url": "https://mcmichael.com/wp-content/uploads/2024/08/DZAMA5400_WEB.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002737.jpg",
+   "source_label": "",
+   "image": "images/CRVI002737.jpg",
+   "original": "originals/CRVI002737.jpg",
+   "vector": "",
+   "original_px": [
+    1620,
+    1601
+   ],
+   "original_bytes": 877203,
+   "maker": "Marcel Dzama",
+   "title": "Untitled (dancers under a comet)",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Marcel Dzama"
+    },
+    {
+     "k": "client",
+     "v": "McMichael Canadian Art Collection"
+    },
+    {
+     "k": "location",
+     "v": "Canada"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 188.59,
+   "light": 0.3062,
+   "chroma": 0.6704
+  },
+  {
+   "id": "CRVI002738",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.2984,
+   "source_url": "https://canada-culture.org/wp-content/uploads/2026/01/Droits-reserves-Marcel-Dzama-That-light-is-from-the-moon-detail-2022.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002738.jpg",
+   "source_label": "",
+   "image": "images/CRVI002738.jpg",
+   "original": "originals/CRVI002738.jpg",
+   "vector": "",
+   "original_px": [
+    1920,
+    1486
+   ],
+   "original_bytes": 596927,
+   "maker": "Marcel Dzama",
+   "title": "That light is from the moon (detail)",
+   "subtitle": "",
+   "year": "2022",
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "artist",
+     "v": "Marcel Dzama"
+    },
+    {
+     "k": "location",
+     "v": "Canada"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 188.69,
+   "light": 0.3084,
+   "chroma": 0.8887
+  },
+  {
+   "id": "CRVI002739",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.3667,
+   "source_url": "https://paulsonfontainepress.com/wp-content/uploads/Forever-In-Both-Ways-for-All-Time-Perceptions-2a.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002739.jpg",
+   "source_label": "",
+   "image": "images/CRVI002739.jpg",
+   "original": "originals/CRVI002739.jpg",
+   "vector": "",
+   "original_px": [
+    2772,
+    2100
+   ],
+   "original_bytes": 2037951,
+   "maker": "Chris Johanson",
+   "title": "Forever Is Both Ways for All Time (Perceptions #2)",
+   "subtitle": "",
+   "year": "2007",
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    },
+    {
+     "k": "artist",
+     "v": "Chris Johanson"
+    },
+    {
+     "k": "client",
+     "v": "Paulson Fontaine Press"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 44.44,
+   "light": 0.5762,
+   "chroma": 0.864
+  },
+  {
+   "id": "CRVI002740",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.3422,
+   "source_url": "https://i.pinimg.com/originals/17/83/3e/17833e1a5ae182e0244f40c2ac415878.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002740.jpg",
+   "source_label": "",
+   "image": "images/CRVI002740.jpg",
+   "original": "originals/CRVI002740.jpg",
+   "vector": "",
+   "original_px": [
+    810,
+    1012
+   ],
+   "original_bytes": 161373,
+   "maker": "Unattributed",
+   "title": "Untitled (face with orange hair and red lips)",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "subject",
+     "v": "fashion"
+    },
+    {
+     "k": "subject",
+     "v": "portrait"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 34.03,
+   "light": 0.6113,
+   "chroma": 0.9434
+  },
+  {
+   "id": "CRVI002741",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.0648,
+   "source_url": "https://images-prod.dazeddigital.com/2000/azure/dazed-prod/1340/5/1345505.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002741.jpg",
+   "source_label": "",
+   "image": "images/CRVI002741.jpg",
+   "original": "originals/CRVI002741.jpg",
+   "vector": "",
+   "original_px": [
+    2000,
+    2665
+   ],
+   "original_bytes": 1001216,
+   "maker": "Unattributed",
+   "title": "Untitled (bob and lip necklace)",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "subject",
+     "v": "fashion"
+    },
+    {
+     "k": "client",
+     "v": "Dazed"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 4.69,
+   "light": 0.5805,
+   "chroma": 0.3532
+  },
+  {
+   "id": "CRVI002742",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.174,
+   "source_url": "https://i.pinimg.com/originals/bb/a8/d8/bba8d8b82d96948d3d19545b1e32f2dd.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002742.jpg",
+   "source_label": "",
+   "image": "images/CRVI002742.jpg",
+   "original": "originals/CRVI002742.jpg",
+   "vector": "",
+   "original_px": [
+    1365,
+    1706
+   ],
+   "original_bytes": 390803,
+   "maker": "Unattributed",
+   "title": "Untitled (red feathered figure)",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "subject",
+     "v": "fashion"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 357.23,
+   "light": 0.3098,
+   "chroma": 0.796
+  },
+  {
+   "id": "CRVI002743",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.2782,
+   "source_url": "https://i.pinimg.com/originals/e1/09/b0/e109b0f97ec0a5ef2e4fc697b45e72bc.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002743.jpg",
+   "source_label": "",
+   "image": "images/CRVI002743.jpg",
+   "original": "originals/CRVI002743.jpg",
+   "vector": "",
+   "original_px": [
+    1000,
+    1300
+   ],
+   "original_bytes": 80345,
+   "maker": "Unattributed",
+   "title": "Untitled (model in blue and violet)",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "subject",
+     "v": "fashion"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 205.16,
+   "light": 0.4179,
+   "chroma": 0.8277
+  },
+  {
+   "id": "CRVI002744",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.0984,
+   "source_url": "https://i.pinimg.com/originals/a5/d1/7d/a5d17daa3ac4d5ae90a54e1801c4f04b.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002744.jpg",
+   "source_label": "",
+   "image": "images/CRVI002744.jpg",
+   "original": "originals/CRVI002744.jpg",
+   "vector": "",
+   "original_px": [
+    976,
+    1326
+   ],
+   "original_bytes": 207862,
+   "maker": "Unattributed",
+   "title": "Untitled (model in a silver hood)",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "subject",
+     "v": "fashion"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 20.35,
+   "light": 0.5242,
+   "chroma": 0.398
+  },
+  {
+   "id": "CRVI002745",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.4314,
+   "source_url": "https://img.artlogic.net/exhibit-e/59bff84cdca83743488b4567/69566a6cba21360b8af1a89ea9509a70.jpeg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002745.jpg",
+   "source_label": "",
+   "image": "images/CRVI002745.jpg",
+   "original": "originals/CRVI002745.jpg",
+   "vector": "",
+   "original_px": [
+    2000,
+    1433
+   ],
+   "original_bytes": 1939343,
+   "maker": "Unattributed",
+   "title": "Untitled (silver objects on blue)",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "client",
+     "v": "Andrew Kreps Gallery"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 205.47,
+   "light": 0.5911,
+   "chroma": 0.6528
+  },
+  {
+   "id": "CRVI002746",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.0516,
+   "source_url": "https://designyoutrust.com/wp-content/uploads/2018/08/0-37.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002746.jpg",
+   "source_label": "",
+   "image": "images/CRVI002746.jpg",
+   "original": "originals/CRVI002746.jpg",
+   "vector": "",
+   "original_px": [
+    1080,
+    1349
+   ],
+   "original_bytes": 133752,
+   "maker": "Unattributed",
+   "title": "Untitled (two figures in circuit-board headpieces)",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "subject",
+     "v": "fashion"
+    },
+    {
+     "k": "subject",
+     "v": "portrait"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 212.6,
+   "light": 0.5479,
+   "chroma": 0.3472
+  },
+  {
+   "id": "CRVI002747",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.0619,
+   "source_url": "https://system-magazine.com/media/pages/issues/issue-14/the-edit-ibrahim-kamara/dc672f8bd5-1686232565/paolo-roversi-ib-kamara-system3.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002747.jpg",
+   "source_label": "",
+   "image": "images/CRVI002747.jpg",
+   "original": "originals/CRVI002747.jpg",
+   "vector": "",
+   "original_px": [
+    2915,
+    3804
+   ],
+   "original_bytes": 5407426,
+   "maker": "Paolo Roversi",
+   "title": "Untitled, for System magazine issue 14",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "photographer",
+     "v": "Paolo Roversi"
+    },
+    {
+     "k": "stylist",
+     "v": "Ib Kamara"
+    },
+    {
+     "k": "client",
+     "v": "System"
+    },
+    {
+     "k": "subject",
+     "v": "fashion"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 68.98,
+   "light": 0.4235,
+   "chroma": 0.1548
+  },
+  {
+   "id": "CRVI002748",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.0867,
+   "source_url": "https://images-prod.dazeddigital.com/2000/azure/dazed-prod/1210/8/1218528.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002748.jpg",
+   "source_label": "",
+   "image": "images/CRVI002748.jpg",
+   "original": "originals/CRVI002748.jpg",
+   "vector": "",
+   "original_px": [
+    2000,
+    2500
+   ],
+   "original_bytes": 526822,
+   "maker": "Unattributed",
+   "title": "Untitled (pink and white ruffles)",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "subject",
+     "v": "fashion"
+    },
+    {
+     "k": "client",
+     "v": "Dazed"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 211.48,
+   "light": 0.7562,
+   "chroma": 0.8318
+  },
+  {
+   "id": "CRVI002749",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.0848,
+   "source_url": "https://hypebeast.com/image/2020/07/browns-family-affair-ib-kamara-photoshoot-series-community-blackness-beauty-art-5.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002749.jpg",
+   "source_label": "",
+   "image": "images/CRVI002749.jpg",
+   "original": "originals/CRVI002749.jpg",
+   "vector": "",
+   "original_px": [
+    800,
+    1200
+   ],
+   "original_bytes": 42686,
+   "maker": "Ib Kamara",
+   "title": "Untitled, from Family Affair for Browns",
+   "subtitle": "",
+   "year": "2020",
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "stylist",
+     "v": "Ib Kamara"
+    },
+    {
+     "k": "client",
+     "v": "Browns"
+    },
+    {
+     "k": "subject",
+     "v": "fashion"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 2.74,
+   "light": 0.1662,
+   "chroma": 0.5102
+  },
+  {
+   "id": "CRVI002750",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.1064,
+   "source_url": "https://uploads4.wikiart.org/00269/images/c-r-w-nevinson/the-arrival-1913.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002750.jpg",
+   "source_label": "",
+   "image": "images/CRVI002750.jpg",
+   "original": "originals/CRVI002750.jpg",
+   "vector": "",
+   "original_px": [
+    874,
+    1054
+   ],
+   "original_bytes": 147611,
+   "maker": "C. R. W. Nevinson",
+   "title": "The Arrival",
+   "subtitle": "",
+   "year": "1913",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "artist",
+     "v": "C. R. W. Nevinson"
+    },
+    {
+     "k": "subject",
+     "v": "Vorticism"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 43.83,
+   "light": 0.3116,
+   "chroma": 0.3896
+  },
+  {
+   "id": "CRVI002751",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.051,
+   "source_url": "https://uploads7.wikiart.org/00269/images/c-r-w-nevinson/bursting-shell-1915.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002751.jpg",
+   "source_label": "",
+   "image": "images/CRVI002751.jpg",
+   "original": "originals/CRVI002751.jpg",
+   "vector": "",
+   "original_px": [
+    806,
+    1116
+   ],
+   "original_bytes": 129105,
+   "maker": "C. R. W. Nevinson",
+   "title": "Bursting Shell",
+   "subtitle": "",
+   "year": "1915",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "artist",
+     "v": "C. R. W. Nevinson"
+    },
+    {
+     "k": "subject",
+     "v": "Vorticism"
+    },
+    {
+     "k": "subject",
+     "v": "First World War"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": null,
+   "light": 0.3034,
+   "chroma": 0.0957
+  },
+  {
+   "id": "CRVI002752",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.471,
+   "source_url": "https://uploads0.wikiart.org/00269/images/c-r-w-nevinson/archies-1916.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002752.jpg",
+   "source_label": "",
+   "image": "images/CRVI002752.jpg",
+   "original": "originals/CRVI002752.jpg",
+   "vector": "",
+   "original_px": [
+    915,
+    1200
+   ],
+   "original_bytes": 115459,
+   "maker": "C. R. W. Nevinson",
+   "title": "Archies",
+   "subtitle": "",
+   "year": "1916",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "artist",
+     "v": "C. R. W. Nevinson"
+    },
+    {
+     "k": "subject",
+     "v": "First World War"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 224.88,
+   "light": 0.4816,
+   "chroma": 0.9962
+  },
+  {
+   "id": "CRVI002753",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.1452,
+   "source_url": "https://uploads2.wikiart.org/00269/images/c-r-w-nevinson/dog-tired-1916.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002753.jpg",
+   "source_label": "",
+   "image": "images/CRVI002753.jpg",
+   "original": "originals/CRVI002753.jpg",
+   "vector": "",
+   "original_px": [
+    992,
+    1200
+   ],
+   "original_bytes": 155650,
+   "maker": "C. R. W. Nevinson",
+   "title": "Dog Tired",
+   "subtitle": "",
+   "year": "1916",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "artist",
+     "v": "C. R. W. Nevinson"
+    },
+    {
+     "k": "subject",
+     "v": "First World War"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 45.01,
+   "light": 0.3149,
+   "chroma": 0.6736
+  },
+  {
+   "id": "CRVI002754",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.1955,
+   "source_url": "https://warrenlehrer.com/wp-content/uploads/WarrenLehrer_Letter-Box_Cover_w_Rick-Black.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002754.jpg",
+   "source_label": "",
+   "image": "images/CRVI002754.jpg",
+   "original": "originals/CRVI002754.jpg",
+   "vector": "",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 461449,
+   "maker": "Warren Lehrer",
+   "title": "Letter Box: The Geometry of Loss",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "designer",
+     "v": "Warren Lehrer"
+    },
+    {
+     "k": "subject",
+     "v": "Rick Black"
+    },
+    {
+     "k": "subject",
+     "v": "typography"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 34.69,
+   "light": 0.5402,
+   "chroma": 0.748
+  },
+  {
+   "id": "CRVI002755",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.1248,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/TakehisaYumeji-1909-Climbing_Mt_Fuji.png",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002755.jpg",
+   "source_label": "",
+   "image": "images/CRVI002755.jpg",
+   "original": "originals/CRVI002755.png",
+   "vector": "",
+   "original_px": [
+    2606,
+    4212
+   ],
+   "original_bytes": 16443999,
+   "maker": "Takehisa Yumeji",
+   "title": "Climbing Mt Fuji",
+   "subtitle": "",
+   "year": "1909",
+   "tags": [
+    {
+     "k": "type",
+     "v": "illustration"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "illustrator",
+     "v": "Takehisa Yumeji"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 54.95,
+   "light": 0.6584,
+   "chroma": 0.6953
+  },
+  {
+   "id": "CRVI002756",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.3817,
+   "source_url": "https://images.squarespace-cdn.com/content/v1/5eba6070466679466960f810/30523798-a341-4416-87d7-294047dc7c45/Scan+2.jpeg?format=original",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002756.jpg",
+   "source_label": "",
+   "image": "images/CRVI002756.jpg",
+   "original": "originals/CRVI002756.jpg",
+   "vector": "",
+   "original_px": [
+    1611,
+    2207
+   ],
+   "original_bytes": 815731,
+   "maker": "Takehisa Yumeji",
+   "title": "恨まじ君をば (Ich grolle nicht), Senow Score No. 384",
+   "subtitle": "",
+   "year": "1924",
+   "tags": [
+    {
+     "k": "type",
+     "v": "sheet music cover"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "illustrator",
+     "v": "Takehisa Yumeji"
+    },
+    {
+     "k": "client",
+     "v": "Senow"
+    },
+    {
+     "k": "musician",
+     "v": "Robert Schumann"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 27.76,
+   "light": 0.5304,
+   "chroma": 0.8964
+  },
+  {
+   "id": "CRVI002757",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.228,
+   "source_url": "https://www.shift.jp.org/wp-sft-content/uploads/sites/4/2024/06/d4127074ce0e699c2866f5363908bfb2.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002757.jpg",
+   "source_label": "",
+   "image": "images/CRVI002757.jpg",
+   "original": "originals/CRVI002757.jpg",
+   "vector": "",
+   "original_px": [
+    1200,
+    1095
+   ],
+   "original_bytes": 780536,
+   "maker": "Takehisa Yumeji",
+   "title": "化粧の秋 (Kesho no Aki, Makeup in Autumn)",
+   "subtitle": "",
+   "year": "1924",
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "illustrator",
+     "v": "Takehisa Yumeji"
+    },
+    {
+     "k": "client",
+     "v": "Fujin Gurafu"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 209.31,
+   "light": 0.4857,
+   "chroma": 0.629
   }
  ]
 }

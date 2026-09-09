@@ -1,5 +1,5 @@
 {
- "next": 2721,
+ "next": 2758,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -161628,6 +161628,2036 @@
    "light": 0.5054,
    "chroma": 0.9561,
    "punch": 0.4009
+  },
+  "sent-2026-09-08i::d1326ac42cae": {
+   "id": "CRVI002721",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002721.jpg",
+   "original_px": [
+    2000,
+    2001
+   ],
+   "original_bytes": 1244594,
+   "identity": "sent-2026-09-08i::d1326ac42cae",
+   "source_url": "https://media.mutualart.com/Images/2023_03/17/15/155913560/table-lamp--model-534-PY226.Jpeg",
+   "maker": "Gino Sarfatti",
+   "title": "Table lamp, model 534",
+   "subtitle": "",
+   "year": "1951",
+   "label": "",
+   "verified_against": "The hosting MutualArt file is named `table-lamp--model-534`, and Google Lens resolves the model, via Wright and Stockholms Auktionsverk, to GINO SARFATTI for ARTELUCE, c.1951 — five enamelled aluminium shades in red, teal, pale blue, dark blue and black on splayed brass stems rising from a white marble base. ⚠️ WHICH AUCTION LOT THIS EXAMPLE IS was not established; the file is a bare MutualArt hash.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img68/01.jpg",
+   "source_px": [
+    2000,
+    2001
+   ],
+   "colors": [
+    "white"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "product design"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "designer",
+     "v": "Gino Sarfatti"
+    },
+    {
+     "k": "client",
+     "v": "Arteluce"
+    },
+    {
+     "k": "subject",
+     "v": "lighting"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The hosting MutualArt file is named `table-lamp--model-534`, and Google Lens resolves the model, via Wright and Stockholms Auktionsverk, to GINO SARFATTI for ARTELUCE, c.1951 — five enamelled aluminium shades in red, teal, pale blue, dark blue and black on splayed brass stems rising from a white marble base. ⚠️ WHICH AUCTION LOT THIS EXAMPLE IS was not established; the file is a bare MutualArt hash.",
+   "hue": null,
+   "light": 0.9016,
+   "chroma": 0.0741,
+   "punch": 0.0205
+  },
+  "sent-2026-09-08i::db59f56e6c30": {
+   "id": "CRVI002722",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002722.jpg",
+   "original_px": [
+    3200,
+    2400
+   ],
+   "original_bytes": 274156,
+   "identity": "sent-2026-09-08i::db59f56e6c30",
+   "source_url": "https://a.1stdibscdn.com/archivesE/upload/f_10782/f_84718631505754638630/IMGP6923_master.jpg?width=8000&disable=upscale",
+   "maker": "Gino Sarfatti",
+   "title": "Floor lamp, model 1094",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "Google Lens resolves this, via Sotheby's Important Design, to GINO SARFATTI for ARTELUCE — the model 1094 multi-light floor lamp, a cluster of frosted glass globes cradled in black lacquered metal rings on a central stem. ⚠️ NO YEAR IS ESTABLISHED and the 1stDibs file sits under an `archivesE/upload` path with no listing text reachable from it. ⚠️ Held from 1stdibs with `disable=upscale`, which returns 3200x2400 rather than interpolation.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img68/02.jpg",
+   "source_px": [
+    3200,
+    2400
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "product design"
+    },
+    {
+     "k": "designer",
+     "v": "Gino Sarfatti"
+    },
+    {
+     "k": "client",
+     "v": "Arteluce"
+    },
+    {
+     "k": "subject",
+     "v": "lighting"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Google Lens resolves this, via Sotheby's Important Design, to GINO SARFATTI for ARTELUCE — the model 1094 multi-light floor lamp, a cluster of frosted glass globes cradled in black lacquered metal rings on a central stem. ⚠️ NO YEAR IS ESTABLISHED and the 1stDibs file sits under an `archivesE/upload` path with no listing text reachable from it. ⚠️ Held from 1stdibs with `disable=upscale`, which returns 3200x2400 rather than interpolation.",
+   "hue": 34.95,
+   "light": 0.6314,
+   "chroma": 0.1039,
+   "punch": 0.0497
+  },
+  "sent-2026-09-08i::a255ef3649c3": {
+   "id": "CRVI002723",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002723.jpg",
+   "original_px": [
+    2611,
+    2611
+   ],
+   "original_bytes": 238297,
+   "identity": "sent-2026-09-08i::a255ef3649c3",
+   "source_url": "https://a.1stdibscdn.com/red-ph5-pendant-lamp-by-poul-henningsen-for-louis-poulsen-denmark-for-sale/f_18803/f_329270521677144562719/f_32927052_1677144563537_bg_processed.jpg?width=8000&disable=upscale",
+   "maker": "Poul Henningsen",
+   "title": "PH 5 pendant",
+   "subtitle": "",
+   "year": "1958",
+   "label": "",
+   "verified_against": "The 1stDibs listing named in the URL path — 'Red PH5 Pendant Lamp by Poul Henningsen for Louis Poulsen, Denmark' — for the PH 5, POUL HENNINGSEN's 1958 design for LOUIS POULSEN: stacked shades in matte red whose geometry hides the bulb from every angle, the principle Henningsen had been refining since the 1920s. ℹ️ '5' is the diameter of the top shade in decimetres. ⚠️ Held with `disable=upscale`.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img68/03.jpg",
+   "source_px": [
+    2611,
+    2611
+   ],
+   "colors": [
+    "red",
+    "white"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "product design"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "designer",
+     "v": "Poul Henningsen"
+    },
+    {
+     "k": "client",
+     "v": "Louis Poulsen"
+    },
+    {
+     "k": "subject",
+     "v": "lighting"
+    },
+    {
+     "k": "location",
+     "v": "Denmark"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The 1stDibs listing named in the URL path — 'Red PH5 Pendant Lamp by Poul Henningsen for Louis Poulsen, Denmark' — for the PH 5, POUL HENNINGSEN's 1958 design for LOUIS POULSEN: stacked shades in matte red whose geometry hides the bulb from every angle, the principle Henningsen had been refining since the 1920s. ℹ️ '5' is the diameter of the top shade in decimetres. ⚠️ Held with `disable=upscale`.",
+   "hue": 4.54,
+   "light": 0.8963,
+   "chroma": 0.1607,
+   "punch": 0.0589
+  },
+  "sent-2026-09-08i::082dc088b3cd": {
+   "id": "CRVI002724",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002724.jpg",
+   "original_px": [
+    3000,
+    3000
+   ],
+   "original_bytes": 686221,
+   "identity": "sent-2026-09-08i::082dc088b3cd",
+   "source_url": "https://media.mutualart.com/Images/2023_11/09/20/203842409/poul-henningsen-ph-pendant-lamp-8LTRN.Jpeg",
+   "maker": "Poul Henningsen",
+   "title": "PH Kontrast pendant",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "The hosting MutualArt file is named `poul-henningsen-ph-pendant-lamp`, and Google Lens identifies the model as the PH CONTRAST / KONTRAST, POUL HENNINGSEN for LOUIS POULSEN — a tall stack of white shades with vivid orange inner reflectors. ⚠️ NO YEAR IS ESTABLISHED and the file is a bare MutualArt hash.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img68/04.jpg",
+   "source_px": [
+    3000,
+    3000
+   ],
+   "colors": [
+    "yellow",
+    "orange",
+    "white"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "product design"
+    },
+    {
+     "k": "designer",
+     "v": "Poul Henningsen"
+    },
+    {
+     "k": "client",
+     "v": "Louis Poulsen"
+    },
+    {
+     "k": "subject",
+     "v": "lighting"
+    },
+    {
+     "k": "location",
+     "v": "Denmark"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The hosting MutualArt file is named `poul-henningsen-ph-pendant-lamp`, and Google Lens identifies the model as the PH CONTRAST / KONTRAST, POUL HENNINGSEN for LOUIS POULSEN — a tall stack of white shades with vivid orange inner reflectors. ⚠️ NO YEAR IS ESTABLISHED and the file is a bare MutualArt hash.",
+   "hue": null,
+   "light": 0.8511,
+   "chroma": 0.0998,
+   "punch": 0.0354
+  },
+  "sent-2026-09-08i::717451743064": {
+   "id": "CRVI002725",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002725.jpg",
+   "original_px": [
+    2004,
+    2505
+   ],
+   "original_bytes": 143738,
+   "identity": "sent-2026-09-08i::717451743064",
+   "source_url": "https://www.datocms-assets.com/151034/1771275420-4c88cd57750d75bb8e48bd2a2cd67c36j.jpeg",
+   "maker": "Poul Henningsen",
+   "title": "PH 3/2 table lamp",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "The three-shade PH system on a patinated brass stem and stepped foot, in green-lacquered metal — POUL HENNINGSEN for LOUIS POULSEN. ⚠️ NEITHER THE EXACT MODEL NUMBER NOR THE YEAR IS ESTABLISHED: the file is a bare DatoCMS asset with no caption, and the PH table lamps were made in several shade sizes over decades. The title above names the size the proportions read as, and that is an inference.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img68/05.jpg",
+   "source_px": [
+    2004,
+    2505
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "product design"
+    },
+    {
+     "k": "designer",
+     "v": "Poul Henningsen"
+    },
+    {
+     "k": "client",
+     "v": "Louis Poulsen"
+    },
+    {
+     "k": "subject",
+     "v": "lighting"
+    },
+    {
+     "k": "location",
+     "v": "Denmark"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The three-shade PH system on a patinated brass stem and stepped foot, in green-lacquered metal — POUL HENNINGSEN for LOUIS POULSEN. ⚠️ NEITHER THE EXACT MODEL NUMBER NOR THE YEAR IS ESTABLISHED: the file is a bare DatoCMS asset with no caption, and the PH table lamps were made in several shade sizes over decades. The title above names the size the proportions read as, and that is an inference.",
+   "hue": null,
+   "light": 0.4911,
+   "chroma": 0.0411,
+   "punch": 0.0135
+  },
+  "sent-2026-09-08i::4753b7ea50af": {
+   "id": "CRVI002726",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002726.png",
+   "original_px": [
+    3023,
+    1588
+   ],
+   "original_bytes": 1627295,
+   "identity": "sent-2026-09-08i::4753b7ea50af",
+   "source_url": "https://ambientesdigital.com/wp-content/uploads/2018/04/ph-lamp-poul-henningsen-louis-poulsen-03.png",
+   "maker": "Poul Henningsen",
+   "title": "PH 5 pendant (lilac)",
+   "subtitle": "",
+   "year": "1958",
+   "label": "",
+   "verified_against": "Two PH 5 pendants in lilac, hung at different heights against a pale wall — POUL HENNINGSEN's 1958 design for LOUIS POULSEN, as named in the hosting filename `ph-lamp-poul-henningsen-louis-poulsen-03`. ⚠️ THE PHOTOGRAPH IS NOT CREDITED and the host is a design blog, so the record rests on the model being unmistakable rather than on a catalogue entry.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img68/06.png",
+   "source_px": [
+    3023,
+    1588
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "product design"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "designer",
+     "v": "Poul Henningsen"
+    },
+    {
+     "k": "client",
+     "v": "Louis Poulsen"
+    },
+    {
+     "k": "subject",
+     "v": "lighting"
+    },
+    {
+     "k": "location",
+     "v": "Denmark"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Two PH 5 pendants in lilac, hung at different heights against a pale wall — POUL HENNINGSEN's 1958 design for LOUIS POULSEN, as named in the hosting filename `ph-lamp-poul-henningsen-louis-poulsen-03`. ⚠️ THE PHOTOGRAPH IS NOT CREDITED and the host is a design blog, so the record rests on the model being unmistakable rather than on a catalogue entry.",
+   "hue": null,
+   "light": 0.6515,
+   "chroma": 0.0602,
+   "punch": 0.0337
+  },
+  "sent-2026-09-08i::0826262f53a1": {
+   "id": "CRVI002727",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002727.jpg",
+   "original_px": [
+    1947,
+    1947
+   ],
+   "original_bytes": 1370023,
+   "identity": "sent-2026-09-08i::0826262f53a1",
+   "source_url": "https://www.paulbert-serpette.com/sites/default/files/objets/2021/05/Suspension-Louvre-02.jpg",
+   "maker": "Poul Henningsen",
+   "title": "PH Louvre pendant",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "Google Lens resolves this, via 1stDibs, to the PH LOUVRE pendant by POUL HENNINGSEN for LOUIS POULSEN — a sphere built from tiers of white concentric louvres, lit from within. The hosting file is named `Suspension-Louvre-02`. ⚠️ NO YEAR IS ESTABLISHED; dealers place the model in the 1950s-60s.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img68/07.jpg",
+   "source_px": [
+    1947,
+    1947
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "product design"
+    },
+    {
+     "k": "designer",
+     "v": "Poul Henningsen"
+    },
+    {
+     "k": "client",
+     "v": "Louis Poulsen"
+    },
+    {
+     "k": "subject",
+     "v": "lighting"
+    },
+    {
+     "k": "location",
+     "v": "Denmark"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Google Lens resolves this, via 1stDibs, to the PH LOUVRE pendant by POUL HENNINGSEN for LOUIS POULSEN — a sphere built from tiers of white concentric louvres, lit from within. The hosting file is named `Suspension-Louvre-02`. ⚠️ NO YEAR IS ESTABLISHED; dealers place the model in the 1950s-60s.",
+   "hue": 27.81,
+   "light": 0.5928,
+   "chroma": 0.3547,
+   "punch": 0.1483
+  },
+  "sent-2026-09-08i::816306d1d841": {
+   "id": "CRVI002728",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002728.jpg",
+   "original_px": [
+    800,
+    1196
+   ],
+   "original_bytes": 59832,
+   "identity": "sent-2026-09-08i::816306d1d841",
+   "source_url": "https://i.pinimg.com/originals/f4/83/1b/f4831b8744eed3a931c6a32f933541d0.jpg",
+   "maker": "Achille Castiglioni and Pier Giacomo Castiglioni",
+   "title": "Arco floor lamp",
+   "subtitle": "",
+   "year": "1962",
+   "label": "",
+   "verified_against": "Google Lens resolves the lamp to the ARCO, designed by ACHILLE AND PIER GIACOMO CASTIGLIONI in 1962 for FLOS — the steel arc on a Carrara marble base, made so a table could be lit from above without drilling the ceiling. ⚠️ THIS IS A PHOTOGRAPH OF THE DESIGNERS WITH IT, not a product shot: a man in a suit crouches beneath the arc in a white corner. ⚠️ THE PHOTOGRAPHER IS NOT ESTABLISHED, and which of the two brothers is pictured is not either — the file is a bare Pinterest original.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img68/08.jpg",
+   "source_px": [
+    800,
+    1196
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "designer",
+     "v": "Achille Castiglioni"
+    },
+    {
+     "k": "designer",
+     "v": "Pier Giacomo Castiglioni"
+    },
+    {
+     "k": "client",
+     "v": "Flos"
+    },
+    {
+     "k": "subject",
+     "v": "lighting"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Google Lens resolves the lamp to the ARCO, designed by ACHILLE AND PIER GIACOMO CASTIGLIONI in 1962 for FLOS — the steel arc on a Carrara marble base, made so a table could be lit from above without drilling the ceiling. ⚠️ THIS IS A PHOTOGRAPH OF THE DESIGNERS WITH IT, not a product shot: a man in a suit crouches beneath the arc in a white corner. ⚠️ THE PHOTOGRAPHER IS NOT ESTABLISHED, and which of the two brothers is pictured is not either — the file is a bare Pinterest original.",
+   "hue": null,
+   "light": 0.7226,
+   "chroma": 0.0009,
+   "punch": 0.0087
+  },
+  "sent-2026-09-08i::d441f04c9a22": {
+   "id": "CRVI002729",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002729.jpg",
+   "original_px": [
+    961,
+    960
+   ],
+   "original_bytes": 247622,
+   "identity": "sent-2026-09-08i::d441f04c9a22",
+   "source_url": "https://cdn.tatlerasia.com/tatlerasia/i/2022/03/11112419-71006962-379869652889170-1446623908165157358-n-1.jpg",
+   "maker": "Verner Panton",
+   "title": "Panthella floor lamp",
+   "subtitle": "",
+   "year": "1971",
+   "label": "",
+   "verified_against": "The lamp is VERNER PANTON's PANTHELLA for LOUIS POULSEN, 1971 — a hemispherical shade on a trumpet stem, the whole thing a single continuous curve. A woman leans on a low wall beside it in a grainy period photograph. ⚠️ A MAGAZINE OR CATALOGUE PHOTOGRAPH, PHOTOGRAPHER NOT ESTABLISHED; the file is a Tatler Asia article image whose own caption was not reachable.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img68/09.jpg",
+   "source_px": [
+    961,
+    960
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "designer",
+     "v": "Verner Panton"
+    },
+    {
+     "k": "client",
+     "v": "Louis Poulsen"
+    },
+    {
+     "k": "subject",
+     "v": "lighting"
+    },
+    {
+     "k": "location",
+     "v": "Denmark"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The lamp is VERNER PANTON's PANTHELLA for LOUIS POULSEN, 1971 — a hemispherical shade on a trumpet stem, the whole thing a single continuous curve. A woman leans on a low wall beside it in a grainy period photograph. ⚠️ A MAGAZINE OR CATALOGUE PHOTOGRAPH, PHOTOGRAPHER NOT ESTABLISHED; the file is a Tatler Asia article image whose own caption was not reachable.",
+   "hue": 38.42,
+   "light": 0.5562,
+   "chroma": 0.4597,
+   "punch": 0.1228
+  },
+  "sent-2026-09-08i::c4eafe5ff816": {
+   "id": "CRVI002730",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002730.jpg",
+   "original_px": [
+    4000,
+    2670
+   ],
+   "original_bytes": 495469,
+   "identity": "sent-2026-09-08i::c4eafe5ff816",
+   "source_url": "https://a.1stdibscdn.com/aldo-van-den-nieuwelaar-tc6-lamp-netherlands-1972-for-sale-picture-11/f_9330/f_371960221700596933044/DSC0113_7_master.jpg?width=8000&disable=upscale",
+   "maker": "Aldo van den Nieuwelaar",
+   "title": "TC6 lamp",
+   "subtitle": "",
+   "year": "1972",
+   "label": "",
+   "verified_against": "The 1stDibs listing named in the URL path — 'Aldo van den Nieuwelaar TC6 Lamp, Netherlands, 1972' — a lit ring standing on a flat plinth against black, cut by a single vertical fin. ⚠️ Todd's link was `picture-11`, the eleventh photograph in the listing, but it is a full shot of the object rather than a detail, so it was kept as sent. Held at 4000x2670.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img68/10.jpg",
+   "source_px": [
+    4000,
+    2670
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "product design"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "designer",
+     "v": "Aldo van den Nieuwelaar"
+    },
+    {
+     "k": "subject",
+     "v": "lighting"
+    },
+    {
+     "k": "location",
+     "v": "Netherlands"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The 1stDibs listing named in the URL path — 'Aldo van den Nieuwelaar TC6 Lamp, Netherlands, 1972' — a lit ring standing on a flat plinth against black, cut by a single vertical fin. ⚠️ Todd's link was `picture-11`, the eleventh photograph in the listing, but it is a full shot of the object rather than a detail, so it was kept as sent. Held at 4000x2670.",
+   "hue": null,
+   "light": 0.1727,
+   "chroma": 0.0915,
+   "punch": 0.0409
+  },
+  "sent-2026-09-08i::4b5b7c1c0b97": {
+   "id": "CRVI002731",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002731.jpg",
+   "original_px": [
+    1414,
+    2000
+   ],
+   "original_bytes": 133500,
+   "identity": "sent-2026-09-08i::4b5b7c1c0b97",
+   "source_url": "https://i.pinimg.com/originals/0e/53/05/0e5305dd2aa7c1a2de712fc6411ca3aa.jpg",
+   "maker": "Donald Deskey",
+   "title": "Table Lamp",
+   "subtitle": "",
+   "year": "1927",
+   "label": "",
+   "verified_against": "The Metropolitan Museum of Art, accession 2014.744: 'Table Lamp', DONALD DESKEY (American), 1927, chrome-plated metal, glass and plastic cable, 12 5/16 × 4 3/8 × 5 11/16 in. — a stepped tower of three angled frosted panels, the Machine Age reduced to a stack of louvres. Google Lens reached the Met record from the object. ⚠️ The hosting file is a bare Pinterest original; the museum record is the source.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img68/11.jpg",
+   "source_px": [
+    1414,
+    2000
+   ],
+   "colors": [
+    "orange",
+    "white"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "product design"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "designer",
+     "v": "Donald Deskey"
+    },
+    {
+     "k": "subject",
+     "v": "lighting"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Metropolitan Museum of Art, accession 2014.744: 'Table Lamp', DONALD DESKEY (American), 1927, chrome-plated metal, glass and plastic cable, 12 5/16 × 4 3/8 × 5 11/16 in. — a stepped tower of three angled frosted panels, the Machine Age reduced to a stack of louvres. Google Lens reached the Met record from the object. ⚠️ The hosting file is a bare Pinterest original; the museum record is the source.",
+   "hue": 36.07,
+   "light": 0.8756,
+   "chroma": 0.1068,
+   "punch": 0.0259
+  },
+  "sent-2026-09-08i::9c586805a810": {
+   "id": "CRVI002732",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002732.jpg",
+   "original_px": [
+    2518,
+    3406
+   ],
+   "original_bytes": 1805147,
+   "identity": "sent-2026-09-08i::9c586805a810",
+   "source_url": "https://uploads7.wikiart.org/images/jean-michel-basquiat/head-1.jpg",
+   "maker": "Jean-Michel Basquiat",
+   "title": "Head",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "WikiArt's record for the file, `jean-michel-basquiat/head-1.jpg`: 'Head', Jean-Michel Basquiat. A skull-like head in oilstick and acrylic, one eye ringed yellow and red, over blue and black scaffolding scratched with white. ⚠️ NO YEAR, MEDIUM OR DIMENSIONS ARE ESTABLISHED — WikiArt gives none, and Basquiat used the title *Head* repeatedly, so this record does not pin down which painting it is.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img68/12.jpg",
+   "source_px": [
+    2518,
+    3406
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Jean-Michel Basquiat"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt's record for the file, `jean-michel-basquiat/head-1.jpg`: 'Head', Jean-Michel Basquiat. A skull-like head in oilstick and acrylic, one eye ringed yellow and red, over blue and black scaffolding scratched with white. ⚠️ NO YEAR, MEDIUM OR DIMENSIONS ARE ESTABLISHED — WikiArt gives none, and Basquiat used the title *Head* repeatedly, so this record does not pin down which painting it is.",
+   "hue": 34.41,
+   "light": 0.2513,
+   "chroma": 0.4698,
+   "punch": 0.147
+  },
+  "sent-2026-09-08i::a9ea8bd7afd0": {
+   "id": "CRVI002733",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002733.jpg",
+   "original_px": [
+    1349,
+    1075
+   ],
+   "original_bytes": 244792,
+   "identity": "sent-2026-09-08i::a9ea8bd7afd0",
+   "source_url": "https://uploads5.wikiart.org/00221/images/edward-ruscha/20-20-20-1962.jpg",
+   "maker": "Ed Ruscha",
+   "title": "20-20-20",
+   "subtitle": "",
+   "year": "1962",
+   "label": "",
+   "verified_against": "WikiArt's record for the file, `edward-ruscha/20-20-20-1962.jpg`: Ed Ruscha, 1962. The word 20 painted three times in red across a bare cream field, each smaller than the last, so the canvas reads as a distance chart. ⚠️ MEDIUM AND DIMENSIONS ARE NOT ESTABLISHED. ℹ️ The archive holds other Ruschas whose sources cap under the floor; this one does not.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img68/13.jpg",
+   "source_px": [
+    1349,
+    1075
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "artist",
+     "v": "Ed Ruscha"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt's record for the file, `edward-ruscha/20-20-20-1962.jpg`: Ed Ruscha, 1962. The word 20 painted three times in red across a bare cream field, each smaller than the last, so the canvas reads as a distance chart. ⚠️ MEDIUM AND DIMENSIONS ARE NOT ESTABLISHED. ℹ️ The archive holds other Ruschas whose sources cap under the floor; this one does not.",
+   "hue": 36.41,
+   "light": 0.872,
+   "chroma": 0.7033,
+   "punch": 0.0953
+  },
+  "sent-2026-09-08i::d48993ac9a10": {
+   "id": "CRVI002734",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002734.jpg",
+   "original_px": [
+    1054,
+    1600
+   ],
+   "original_bytes": 788375,
+   "identity": "sent-2026-09-08i::d48993ac9a10",
+   "source_url": "https://uploads3.wikiart.org/images/salvador-dali/figure-at-a-window.jpg",
+   "maker": "Salvador Dalí",
+   "title": "Figure at a Window",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "WikiArt's record for the file, `salvador-dali/figure-at-a-window.jpg`: 'Figure at a Window', Salvador Dalí — his sister Ana María seen from behind, leaning on the sill of an open window onto the bay at Cadaqués. ⚠️ NO YEAR IS GIVEN BY WIKIART; the painting is generally dated 1925 and that date has deliberately NOT been written in from memory.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img68/14.jpg",
+   "source_px": [
+    1054,
+    1600
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Salvador Dalí"
+    },
+    {
+     "k": "location",
+     "v": "Spain"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt's record for the file, `salvador-dali/figure-at-a-window.jpg`: 'Figure at a Window', Salvador Dalí — his sister Ana María seen from behind, leaning on the sill of an open window onto the bay at Cadaqués. ⚠️ NO YEAR IS GIVEN BY WIKIART; the painting is generally dated 1925 and that date has deliberately NOT been written in from memory.",
+   "hue": 227.88,
+   "light": 0.6038,
+   "chroma": 0.2179,
+   "punch": 0.086
+  },
+  "sent-2026-09-08i::e8584895bbf5": {
+   "id": "CRVI002735",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002735.jpg",
+   "original_px": [
+    816,
+    1020
+   ],
+   "original_bytes": 446294,
+   "identity": "sent-2026-09-08i::e8584895bbf5",
+   "source_url": "https://fraenkelgallery.com/wp-content/uploads/2021/02/Marclay-poster.jpg",
+   "maker": "Christian Marclay",
+   "title": "Christian Marclay, Winter 2021 (Fraenkel Gallery)",
+   "subtitle": "",
+   "year": "2021",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF, which prints 'CHRISTIAN MARCLAY  WINTER 2021  FRÆNKEL' along the foot beneath a head built entirely from cut comic-book onomatopoeia — AAARGH, VROOOMMM, SCHUNK — snaking out on a tan ground. The file is on Fraenkel Gallery's own site, named `Marclay-poster`. ⚠️ Held at 816x1020, close to the archive's floor: the Jetpack `?w=816` was dropped and the origin file is that size.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img68/15.jpg",
+   "source_px": [
+    816,
+    1020
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "artist",
+     "v": "Christian Marclay"
+    },
+    {
+     "k": "client",
+     "v": "Fraenkel Gallery"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, which prints 'CHRISTIAN MARCLAY  WINTER 2021  FRÆNKEL' along the foot beneath a head built entirely from cut comic-book onomatopoeia — AAARGH, VROOOMMM, SCHUNK — snaking out on a tan ground. The file is on Fraenkel Gallery's own site, named `Marclay-poster`. ⚠️ Held at 816x1020, close to the archive's floor: the Jetpack `?w=816` was dropped and the origin file is that size.",
+   "hue": 25.29,
+   "light": 0.5863,
+   "chroma": 0.8173,
+   "punch": 0.3185
+  },
+  "sent-2026-09-08i::281c953991bd": {
+   "id": "CRVI002736",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002736.jpg",
+   "original_px": [
+    2400,
+    1576
+   ],
+   "original_bytes": 1027858,
+   "identity": "sent-2026-09-08i::281c953991bd",
+   "source_url": "https://gagosian.com/media/images/exhibitions/2024/albert-oehlen-new-paintings/DQtyDRP_S_Hl_2400x2400.jpg",
+   "maker": "Albert Oehlen",
+   "title": "Untitled, from New Paintings",
+   "subtitle": "",
+   "year": "2024",
+   "label": "",
+   "verified_against": "GAGOSIAN'S OWN EXHIBITION PATH NAMES IT — `/exhibitions/2024/albert-oehlen-new-paintings/` — so this is a work from ALBERT OEHLEN's *New Paintings* at Gagosian, 2024: brushed blue skeins and torn colour over a beach-like ground, with figures dissolving into the paint. ⚠️ NO INDIVIDUAL TITLE, MEDIUM OR DIMENSIONS ARE ESTABLISHED — the file is an exhibition hero image, not a catalogued work. The title above is DESCRIPTIVE.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img68/16.jpg",
+   "source_px": [
+    2400,
+    1576
+   ],
+   "colors": [
+    "cyan",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "artist",
+     "v": "Albert Oehlen"
+    },
+    {
+     "k": "client",
+     "v": "Gagosian"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "GAGOSIAN'S OWN EXHIBITION PATH NAMES IT — `/exhibitions/2024/albert-oehlen-new-paintings/` — so this is a work from ALBERT OEHLEN's *New Paintings* at Gagosian, 2024: brushed blue skeins and torn colour over a beach-like ground, with figures dissolving into the paint. ⚠️ NO INDIVIDUAL TITLE, MEDIUM OR DIMENSIONS ARE ESTABLISHED — the file is an exhibition hero image, not a catalogued work. The title above is DESCRIPTIVE.",
+   "hue": 196.52,
+   "light": 0.4042,
+   "chroma": 0.7316,
+   "punch": 0.2819
+  },
+  "sent-2026-09-08i::c689b5d526b2": {
+   "id": "CRVI002737",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002737.jpg",
+   "original_px": [
+    1620,
+    1601
+   ],
+   "original_bytes": 877203,
+   "identity": "sent-2026-09-08i::c689b5d526b2",
+   "source_url": "https://mcmichael.com/wp-content/uploads/2024/08/DZAMA5400_WEB.jpg",
+   "maker": "Marcel Dzama",
+   "title": "Untitled (dancers under a comet)",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "ATTRIBUTED ON THE HOST'S FILENAME, `DZAMA5400_WEB.jpg`, published by the McMichael Canadian Art Collection — MARCEL DZAMA. Costumed dancers with bird wings and polka-dotted dresses wade in blue water beneath a golden comet trailing from a face in the corner. ⚠️ NO TITLE OR YEAR IS ESTABLISHED; the title above is DESCRIPTIVE.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img68/17.jpg",
+   "source_px": [
+    1620,
+    1601
+   ],
+   "colors": [
+    "orange",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Marcel Dzama"
+    },
+    {
+     "k": "client",
+     "v": "McMichael Canadian Art Collection"
+    },
+    {
+     "k": "location",
+     "v": "Canada"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "ATTRIBUTED ON THE HOST'S FILENAME, `DZAMA5400_WEB.jpg`, published by the McMichael Canadian Art Collection — MARCEL DZAMA. Costumed dancers with bird wings and polka-dotted dresses wade in blue water beneath a golden comet trailing from a face in the corner. ⚠️ NO TITLE OR YEAR IS ESTABLISHED; the title above is DESCRIPTIVE.",
+   "hue": 188.59,
+   "light": 0.3062,
+   "chroma": 0.6704,
+   "punch": 0.2175
+  },
+  "sent-2026-09-08i::7847f8ac9b45": {
+   "id": "CRVI002738",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002738.jpg",
+   "original_px": [
+    1920,
+    1486
+   ],
+   "original_bytes": 596927,
+   "identity": "sent-2026-09-08i::7847f8ac9b45",
+   "source_url": "https://canada-culture.org/wp-content/uploads/2026/01/Droits-reserves-Marcel-Dzama-That-light-is-from-the-moon-detail-2022.jpg",
+   "maker": "Marcel Dzama",
+   "title": "That light is from the moon (detail)",
+   "subtitle": "",
+   "year": "2022",
+   "label": "",
+   "verified_against": "THE HOSTING FILENAME CARRIES THE WHOLE CAPTION — `Droits-reserves-Marcel-Dzama-That-light-is-from-the-moon-detail-2022.jpg` — so: MARCEL DZAMA, 'That light is from the moon', 2022, and this file is a DETAIL, not the whole work. A moon-face at the centre of concentric turquoise rings, ringed by dancers in polka-dotted costume. ⚠️ HELD AS A DETAIL and the record says so; the full composition is not in the archive.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img68/18.jpg",
+   "source_px": [
+    1920,
+    1486
+   ],
+   "colors": [
+    "cyan",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "artist",
+     "v": "Marcel Dzama"
+    },
+    {
+     "k": "location",
+     "v": "Canada"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE HOSTING FILENAME CARRIES THE WHOLE CAPTION — `Droits-reserves-Marcel-Dzama-That-light-is-from-the-moon-detail-2022.jpg` — so: MARCEL DZAMA, 'That light is from the moon', 2022, and this file is a DETAIL, not the whole work. A moon-face at the centre of concentric turquoise rings, ringed by dancers in polka-dotted costume. ⚠️ HELD AS A DETAIL and the record says so; the full composition is not in the archive.",
+   "hue": 188.69,
+   "light": 0.3084,
+   "chroma": 0.8887,
+   "punch": 0.2984
+  },
+  "sent-2026-09-08i::fa9ea907b506": {
+   "id": "CRVI002739",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002739.jpg",
+   "original_px": [
+    2772,
+    2100
+   ],
+   "original_bytes": 2037951,
+   "identity": "sent-2026-09-08i::fa9ea907b506",
+   "source_url": "https://paulsonfontainepress.com/wp-content/uploads/Forever-In-Both-Ways-for-All-Time-Perceptions-2a.jpg",
+   "maker": "Chris Johanson",
+   "title": "Forever Is Both Ways for All Time (Perceptions #2)",
+   "subtitle": "",
+   "year": "2007",
+   "label": "",
+   "verified_against": "Google Lens resolves this, via Invaluable, to CHRIS JOHANSON, 'Forever Is Both Ways for All Time (Perceptions #2)', 2007, colour sugarlift aquatint and aquatint etching — and the hosting site is PAULSON FONTAINE PRESS, the Berkeley printer that published it, which is consistent. Ribbons of flat colour radiate from a point at the left; a line of hand lettering runs along the lower edge.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img68/19.jpg",
+   "source_px": [
+    2772,
+    2100
+   ],
+   "colors": [
+    "orange",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    },
+    {
+     "k": "artist",
+     "v": "Chris Johanson"
+    },
+    {
+     "k": "client",
+     "v": "Paulson Fontaine Press"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Google Lens resolves this, via Invaluable, to CHRIS JOHANSON, 'Forever Is Both Ways for All Time (Perceptions #2)', 2007, colour sugarlift aquatint and aquatint etching — and the hosting site is PAULSON FONTAINE PRESS, the Berkeley printer that published it, which is consistent. Ribbons of flat colour radiate from a point at the left; a line of hand lettering runs along the lower edge.",
+   "hue": 44.44,
+   "light": 0.5762,
+   "chroma": 0.864,
+   "punch": 0.3667
+  },
+  "sent-2026-09-08i::8f2f50076d1a": {
+   "id": "CRVI002740",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002740.jpg",
+   "original_px": [
+    810,
+    1012
+   ],
+   "original_bytes": 161373,
+   "identity": "sent-2026-09-08i::8f2f50076d1a",
+   "source_url": "https://i.pinimg.com/originals/17/83/3e/17833e1a5ae182e0244f40c2ac415878.jpg",
+   "maker": "Unattributed",
+   "title": "Untitled (face with orange hair and red lips)",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "⚠️ NOTHING IS ESTABLISHED. A close fashion portrait: orange hair, blue and yellow shadow worked up to the brow, an over-drawn red mouth and a red mark on the cheek. The file is a bare Pinterest original with no caption, and a fashion image has at least three separable makers — photographer, stylist and the designer of the clothes — none of whom is named here.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img68/20.jpg",
+   "source_px": [
+    810,
+    1012
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "subject",
+     "v": "fashion"
+    },
+    {
+     "k": "subject",
+     "v": "portrait"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ NOTHING IS ESTABLISHED. A close fashion portrait: orange hair, blue and yellow shadow worked up to the brow, an over-drawn red mouth and a red mark on the cheek. The file is a bare Pinterest original with no caption, and a fashion image has at least three separable makers — photographer, stylist and the designer of the clothes — none of whom is named here.",
+   "hue": 34.03,
+   "light": 0.6113,
+   "chroma": 0.9434,
+   "punch": 0.3422
+  },
+  "sent-2026-09-08i::35cab4ec9db5": {
+   "id": "CRVI002741",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002741.jpg",
+   "original_px": [
+    2000,
+    2665
+   ],
+   "original_bytes": 1001216,
+   "identity": "sent-2026-09-08i::35cab4ec9db5",
+   "source_url": "https://images-prod.dazeddigital.com/2000/azure/dazed-prod/1340/5/1345505.jpg",
+   "maker": "Unattributed",
+   "title": "Untitled (bob and lip necklace)",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "⚠️ THE MAKER IS NOT ESTABLISHED. A woman with a black pudding-bowl bob against pale grey, her neck ringed by a wire collar strung with open red-and-white mouths. The file is a Dazed editorial image whose own caption was not reachable from it. ℹ️ Held at 2000x2665 — dazeddigital's `/1280/azure/` path segment is a resize and `/2000/azure/` returns more.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img68/21.jpg",
+   "source_px": [
+    2000,
+    2665
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "subject",
+     "v": "fashion"
+    },
+    {
+     "k": "client",
+     "v": "Dazed"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ THE MAKER IS NOT ESTABLISHED. A woman with a black pudding-bowl bob against pale grey, her neck ringed by a wire collar strung with open red-and-white mouths. The file is a Dazed editorial image whose own caption was not reachable from it. ℹ️ Held at 2000x2665 — dazeddigital's `/1280/azure/` path segment is a resize and `/2000/azure/` returns more.",
+   "hue": 4.69,
+   "light": 0.5805,
+   "chroma": 0.3532,
+   "punch": 0.0648
+  },
+  "sent-2026-09-08i::ffb168c79281": {
+   "id": "CRVI002742",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002742.jpg",
+   "original_px": [
+    1365,
+    1706
+   ],
+   "original_bytes": 390803,
+   "identity": "sent-2026-09-08i::ffb168c79281",
+   "source_url": "https://i.pinimg.com/originals/bb/a8/d8/bba8d8b82d96948d3d19545b1e32f2dd.jpg",
+   "maker": "Unattributed",
+   "title": "Untitled (red feathered figure)",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "⚠️ NOTHING IS ESTABLISHED. A figure in a red tulle skirt and a mass of red flowers where the head should be, arms folded, against deep green — a fashion photograph in the manner of the 2000s. The file is a bare Pinterest original with no caption and no credit.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img68/22.jpg",
+   "source_px": [
+    1365,
+    1706
+   ],
+   "colors": [
+    "cyan",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "subject",
+     "v": "fashion"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ NOTHING IS ESTABLISHED. A figure in a red tulle skirt and a mass of red flowers where the head should be, arms folded, against deep green — a fashion photograph in the manner of the 2000s. The file is a bare Pinterest original with no caption and no credit.",
+   "hue": 357.23,
+   "light": 0.3098,
+   "chroma": 0.796,
+   "punch": 0.174
+  },
+  "sent-2026-09-08i::87a6bd5da68c": {
+   "id": "CRVI002743",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002743.jpg",
+   "original_px": [
+    1000,
+    1300
+   ],
+   "original_bytes": 80345,
+   "identity": "sent-2026-09-08i::87a6bd5da68c",
+   "source_url": "https://i.pinimg.com/originals/e1/09/b0/e109b0f97ec0a5ef2e4fc697b45e72bc.jpg",
+   "maker": "Unattributed",
+   "title": "Untitled (model in blue and violet)",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "⚠️ NOTHING IS ESTABLISHED. A model kneels on a blue floor against acid green in a violet skirt and pink bandeau, with a floral headpiece and heavy jewellery. The file is a bare Pinterest original with no caption and no credit.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img68/23.jpg",
+   "source_px": [
+    1000,
+    1300
+   ],
+   "colors": [
+    "green",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "subject",
+     "v": "fashion"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ NOTHING IS ESTABLISHED. A model kneels on a blue floor against acid green in a violet skirt and pink bandeau, with a floral headpiece and heavy jewellery. The file is a bare Pinterest original with no caption and no credit.",
+   "hue": 205.16,
+   "light": 0.4179,
+   "chroma": 0.8277,
+   "punch": 0.2782
+  },
+  "sent-2026-09-08i::87b7c06c9aa4": {
+   "id": "CRVI002744",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002744.jpg",
+   "original_px": [
+    976,
+    1326
+   ],
+   "original_bytes": 207862,
+   "identity": "sent-2026-09-08i::87b7c06c9aa4",
+   "source_url": "https://i.pinimg.com/originals/a5/d1/7d/a5d17daa3ac4d5ae90a54e1801c4f04b.jpg",
+   "maker": "Unattributed",
+   "title": "Untitled (model in a silver hood)",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "⚠️ NOTHING IS ESTABLISHED. A close portrait of a model in a pleated silver hood and collar with pale metallic lips, on white. The file is a bare Pinterest original with no caption and no credit.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img68/24.jpg",
+   "source_px": [
+    976,
+    1326
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "subject",
+     "v": "fashion"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ NOTHING IS ESTABLISHED. A close portrait of a model in a pleated silver hood and collar with pale metallic lips, on white. The file is a bare Pinterest original with no caption and no credit.",
+   "hue": 20.35,
+   "light": 0.5242,
+   "chroma": 0.398,
+   "punch": 0.0984
+  },
+  "sent-2026-09-08i::7af33bdacaa2": {
+   "id": "CRVI002745",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002745.jpg",
+   "original_px": [
+    2000,
+    1433
+   ],
+   "original_bytes": 1939343,
+   "identity": "sent-2026-09-08i::7af33bdacaa2",
+   "source_url": "https://img.artlogic.net/exhibit-e/59bff84cdca83743488b4567/69566a6cba21360b8af1a89ea9509a70.jpeg",
+   "maker": "Unattributed",
+   "title": "Untitled (silver objects on blue)",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "⚠️ THE ARTIST IS NOT ESTABLISHED. A framed photograph of silver-plated vessels, cutlery and small machined objects arranged on a bright blue ground. ℹ️ THE HOST IS IDENTIFIABLE EVEN THOUGH THE WORK IS NOT: the Artlogic path `exhibit-e/59bff84cdca83743488b4567/` resolves to ANDREW KREPS GALLERY, New York — which names the gallery, not the maker. ℹ️ Dropping the `/w_1438,h_862,c_limit/` transform took it from 1203x862 to 2000x1433.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img68/25.jpg",
+   "source_px": [
+    2000,
+    1433
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "client",
+     "v": "Andrew Kreps Gallery"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ THE ARTIST IS NOT ESTABLISHED. A framed photograph of silver-plated vessels, cutlery and small machined objects arranged on a bright blue ground. ℹ️ THE HOST IS IDENTIFIABLE EVEN THOUGH THE WORK IS NOT: the Artlogic path `exhibit-e/59bff84cdca83743488b4567/` resolves to ANDREW KREPS GALLERY, New York — which names the gallery, not the maker. ℹ️ Dropping the `/w_1438,h_862,c_limit/` transform took it from 1203x862 to 2000x1433.",
+   "hue": 205.47,
+   "light": 0.5911,
+   "chroma": 0.6528,
+   "punch": 0.4314
+  },
+  "sent-2026-09-08i::10f5cb263999": {
+   "id": "CRVI002746",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002746.jpg",
+   "original_px": [
+    1080,
+    1349
+   ],
+   "original_bytes": 133752,
+   "identity": "sent-2026-09-08i::10f5cb263999",
+   "source_url": "https://designyoutrust.com/wp-content/uploads/2018/08/0-37.jpg",
+   "maker": "Unattributed",
+   "title": "Untitled (two figures in circuit-board headpieces)",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "⚠️ NOTHING IS ESTABLISHED. Two figures in black leather greatcoats with padded shoulders, their faces replaced by masks built from circuit boards and wire, brushes rising from the crown. The file is a designyoutrust article image named only `0-37.jpg`, with no caption reachable from it.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img68/26.jpg",
+   "source_px": [
+    1080,
+    1349
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "subject",
+     "v": "fashion"
+    },
+    {
+     "k": "subject",
+     "v": "portrait"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ NOTHING IS ESTABLISHED. Two figures in black leather greatcoats with padded shoulders, their faces replaced by masks built from circuit boards and wire, brushes rising from the crown. The file is a designyoutrust article image named only `0-37.jpg`, with no caption reachable from it.",
+   "hue": 212.6,
+   "light": 0.5479,
+   "chroma": 0.3472,
+   "punch": 0.0516
+  },
+  "sent-2026-09-08i::d7114b5c2e4c": {
+   "id": "CRVI002747",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002747.jpg",
+   "original_px": [
+    2915,
+    3804
+   ],
+   "original_bytes": 5407426,
+   "identity": "sent-2026-09-08i::d7114b5c2e4c",
+   "source_url": "https://system-magazine.com/media/pages/issues/issue-14/the-edit-ibrahim-kamara/dc672f8bd5-1686232565/paolo-roversi-ib-kamara-system3.jpg",
+   "maker": "Paolo Roversi",
+   "title": "Untitled, for System magazine issue 14",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "THE HOSTING FILENAME NAMES BOTH MAKERS — `paolo-roversi-ib-kamara-system3` — and the path gives the publication: `/issues/issue-14/the-edit-ibrahim-kamara/`. So: photographed by PAOLO ROVERSI, styled by IB KAMARA, for System magazine issue 14. A figure in an oversized cream suit stands holding a cup in a papered corner, a black pleated fan behind the head. ⚠️ NO YEAR OR TITLE IS ESTABLISHED. ℹ️ Stripping `-1024x` took it 1024x1336 -> 2915x3804.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img68/27.jpg",
+   "source_px": [
+    2915,
+    3804
+   ],
+   "colors": [
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "photographer",
+     "v": "Paolo Roversi"
+    },
+    {
+     "k": "stylist",
+     "v": "Ib Kamara"
+    },
+    {
+     "k": "client",
+     "v": "System"
+    },
+    {
+     "k": "subject",
+     "v": "fashion"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE HOSTING FILENAME NAMES BOTH MAKERS — `paolo-roversi-ib-kamara-system3` — and the path gives the publication: `/issues/issue-14/the-edit-ibrahim-kamara/`. So: photographed by PAOLO ROVERSI, styled by IB KAMARA, for System magazine issue 14. A figure in an oversized cream suit stands holding a cup in a papered corner, a black pleated fan behind the head. ⚠️ NO YEAR OR TITLE IS ESTABLISHED. ℹ️ Stripping `-1024x` took it 1024x1336 -> 2915x3804.",
+   "hue": 68.98,
+   "light": 0.4235,
+   "chroma": 0.1548,
+   "punch": 0.0619
+  },
+  "sent-2026-09-08i::13e91ce4c186": {
+   "id": "CRVI002748",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002748.jpg",
+   "original_px": [
+    2000,
+    2500
+   ],
+   "original_bytes": 526822,
+   "identity": "sent-2026-09-08i::13e91ce4c186",
+   "source_url": "https://images-prod.dazeddigital.com/2000/azure/dazed-prod/1210/8/1218528.jpg",
+   "maker": "Unattributed",
+   "title": "Untitled (pink and white ruffles)",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "⚠️ THE PHOTOGRAPHER IS NOT ESTABLISHED. A model in a pearled headdress, black opera gloves and a mass of pink and white ruffles, against pale blue. The file is a Dazed editorial image whose caption was not reachable; it sits among Ib Kamara material in Todd's run but nothing on the file says so, and a styling credit is not a photography credit. ℹ️ Held at 2000x2500 via the `/2000/azure/` path.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img68/28.jpg",
+   "source_px": [
+    2000,
+    2500
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "subject",
+     "v": "fashion"
+    },
+    {
+     "k": "client",
+     "v": "Dazed"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ THE PHOTOGRAPHER IS NOT ESTABLISHED. A model in a pearled headdress, black opera gloves and a mass of pink and white ruffles, against pale blue. The file is a Dazed editorial image whose caption was not reachable; it sits among Ib Kamara material in Todd's run but nothing on the file says so, and a styling credit is not a photography credit. ℹ️ Held at 2000x2500 via the `/2000/azure/` path.",
+   "hue": 211.48,
+   "light": 0.7562,
+   "chroma": 0.8318,
+   "punch": 0.0867
+  },
+  "sent-2026-09-08i::49a25101116e": {
+   "id": "CRVI002749",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002749.jpg",
+   "original_px": [
+    800,
+    1200
+   ],
+   "original_bytes": 42686,
+   "identity": "sent-2026-09-08i::49a25101116e",
+   "source_url": "https://hypebeast.com/image/2020/07/browns-family-affair-ib-kamara-photoshoot-series-community-blackness-beauty-art-5.jpg",
+   "maker": "Ib Kamara",
+   "title": "Untitled, from Family Affair for Browns",
+   "subtitle": "",
+   "year": "2020",
+   "label": "",
+   "verified_against": "THE HOSTING FILENAME CARRIES THE PROJECT — `browns-family-affair-ib-kamara-photoshoot-series-community-blackness-beauty-art-5` — so this is from IB KAMARA's *Family Affair* series for BROWNS, published July 2020. A young man in a black double-breasted jacket and large pearl earrings against a dark red wall. ⚠️ KAMARA IS RECORDED AS THE STYLIST AND DIRECTOR OF THE SERIES; the photographer is a separate person and is not established here. ⚠️ Held at 800x1200, exactly on the archive's floor.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img68/29.jpg",
+   "source_px": [
+    800,
+    1200
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "stylist",
+     "v": "Ib Kamara"
+    },
+    {
+     "k": "client",
+     "v": "Browns"
+    },
+    {
+     "k": "subject",
+     "v": "fashion"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE HOSTING FILENAME CARRIES THE PROJECT — `browns-family-affair-ib-kamara-photoshoot-series-community-blackness-beauty-art-5` — so this is from IB KAMARA's *Family Affair* series for BROWNS, published July 2020. A young man in a black double-breasted jacket and large pearl earrings against a dark red wall. ⚠️ KAMARA IS RECORDED AS THE STYLIST AND DIRECTOR OF THE SERIES; the photographer is a separate person and is not established here. ⚠️ Held at 800x1200, exactly on the archive's floor.",
+   "hue": 2.74,
+   "light": 0.1662,
+   "chroma": 0.5102,
+   "punch": 0.0848
+  },
+  "sent-2026-09-08i::4b7b08ebd51e": {
+   "id": "CRVI002750",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002750.jpg",
+   "original_px": [
+    874,
+    1054
+   ],
+   "original_bytes": 147611,
+   "identity": "sent-2026-09-08i::4b7b08ebd51e",
+   "source_url": "https://uploads4.wikiart.org/00269/images/c-r-w-nevinson/the-arrival-1913.jpg",
+   "maker": "C. R. W. Nevinson",
+   "title": "The Arrival",
+   "subtitle": "",
+   "year": "1913",
+   "label": "",
+   "verified_against": "WikiArt's record for the file, `c-r-w-nevinson/the-arrival-1913.jpg`: C. R. W. Nevinson, 1913 — a liner shattered into Vorticist facets, the word TRANSATLANTIC surfacing in the wreckage of planes. ⚠️ MEDIUM AND DIMENSIONS ARE NOT ESTABLISHED by the record.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img68/30.jpg",
+   "source_px": [
+    874,
+    1054
+   ],
+   "colors": [
+    "blue",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "artist",
+     "v": "C. R. W. Nevinson"
+    },
+    {
+     "k": "subject",
+     "v": "Vorticism"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt's record for the file, `c-r-w-nevinson/the-arrival-1913.jpg`: C. R. W. Nevinson, 1913 — a liner shattered into Vorticist facets, the word TRANSATLANTIC surfacing in the wreckage of planes. ⚠️ MEDIUM AND DIMENSIONS ARE NOT ESTABLISHED by the record.",
+   "hue": 43.83,
+   "light": 0.3116,
+   "chroma": 0.3896,
+   "punch": 0.1064
+  },
+  "sent-2026-09-08i::f1f13f6adc05": {
+   "id": "CRVI002751",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002751.jpg",
+   "original_px": [
+    806,
+    1116
+   ],
+   "original_bytes": 129105,
+   "identity": "sent-2026-09-08i::f1f13f6adc05",
+   "source_url": "https://uploads7.wikiart.org/00269/images/c-r-w-nevinson/bursting-shell-1915.jpg",
+   "maker": "C. R. W. Nevinson",
+   "title": "Bursting Shell",
+   "subtitle": "",
+   "year": "1915",
+   "label": "",
+   "verified_against": "WikiArt's record for the file, `c-r-w-nevinson/bursting-shell-1915.jpg`: C. R. W. Nevinson, 1915 — a shell detonating as a spectrum starburst between dark buildings, painted while Nevinson was serving in France. ⚠️ MEDIUM AND DIMENSIONS ARE NOT ESTABLISHED.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img68/31.jpg",
+   "source_px": [
+    806,
+    1116
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "artist",
+     "v": "C. R. W. Nevinson"
+    },
+    {
+     "k": "subject",
+     "v": "Vorticism"
+    },
+    {
+     "k": "subject",
+     "v": "First World War"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt's record for the file, `c-r-w-nevinson/bursting-shell-1915.jpg`: C. R. W. Nevinson, 1915 — a shell detonating as a spectrum starburst between dark buildings, painted while Nevinson was serving in France. ⚠️ MEDIUM AND DIMENSIONS ARE NOT ESTABLISHED.",
+   "hue": null,
+   "light": 0.3034,
+   "chroma": 0.0957,
+   "punch": 0.051
+  },
+  "sent-2026-09-08i::26841acff52b": {
+   "id": "CRVI002752",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002752.jpg",
+   "original_px": [
+    915,
+    1200
+   ],
+   "original_bytes": 115459,
+   "identity": "sent-2026-09-08i::26841acff52b",
+   "source_url": "https://uploads0.wikiart.org/00269/images/c-r-w-nevinson/archies-1916.jpg",
+   "maker": "C. R. W. Nevinson",
+   "title": "Archies",
+   "subtitle": "",
+   "year": "1916",
+   "label": "",
+   "verified_against": "WikiArt's record for the file, `c-r-w-nevinson/archies-1916.jpg`: C. R. W. Nevinson, 1916 — a deep blue sky torn by white anti-aircraft bursts, with two aircraft small against it. ℹ️ 'Archie' was British slang for anti-aircraft fire. ⚠️ MEDIUM AND DIMENSIONS NOT ESTABLISHED.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img68/32.jpg",
+   "source_px": [
+    915,
+    1200
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "artist",
+     "v": "C. R. W. Nevinson"
+    },
+    {
+     "k": "subject",
+     "v": "First World War"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt's record for the file, `c-r-w-nevinson/archies-1916.jpg`: C. R. W. Nevinson, 1916 — a deep blue sky torn by white anti-aircraft bursts, with two aircraft small against it. ℹ️ 'Archie' was British slang for anti-aircraft fire. ⚠️ MEDIUM AND DIMENSIONS NOT ESTABLISHED.",
+   "hue": 224.88,
+   "light": 0.4816,
+   "chroma": 0.9962,
+   "punch": 0.471
+  },
+  "sent-2026-09-08i::33d9734563fa": {
+   "id": "CRVI002753",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002753.jpg",
+   "original_px": [
+    992,
+    1200
+   ],
+   "original_bytes": 155650,
+   "identity": "sent-2026-09-08i::33d9734563fa",
+   "source_url": "https://uploads2.wikiart.org/00269/images/c-r-w-nevinson/dog-tired-1916.jpg",
+   "maker": "C. R. W. Nevinson",
+   "title": "Dog Tired",
+   "subtitle": "",
+   "year": "1916",
+   "label": "",
+   "verified_against": "WikiArt's record for the file, `c-r-w-nevinson/dog-tired-1916.jpg`: C. R. W. Nevinson, 1916 — soldiers in khaki collapsed asleep across crates and kitbags, their bodies faceted into the same angular planes as the load. ⚠️ MEDIUM AND DIMENSIONS NOT ESTABLISHED.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img68/33.jpg",
+   "source_px": [
+    992,
+    1200
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "artist",
+     "v": "C. R. W. Nevinson"
+    },
+    {
+     "k": "subject",
+     "v": "First World War"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt's record for the file, `c-r-w-nevinson/dog-tired-1916.jpg`: C. R. W. Nevinson, 1916 — soldiers in khaki collapsed asleep across crates and kitbags, their bodies faceted into the same angular planes as the load. ⚠️ MEDIUM AND DIMENSIONS NOT ESTABLISHED.",
+   "hue": 45.01,
+   "light": 0.3149,
+   "chroma": 0.6736,
+   "punch": 0.1452
+  },
+  "sent-2026-09-08i::3787c6f29956": {
+   "id": "CRVI002754",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002754.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 461449,
+   "identity": "sent-2026-09-08i::3787c6f29956",
+   "source_url": "https://warrenlehrer.com/wp-content/uploads/WarrenLehrer_Letter-Box_Cover_w_Rick-Black.jpg",
+   "maker": "Warren Lehrer",
+   "title": "Letter Box: The Geometry of Loss",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "THE COVER ITSELF, which sets LETTER and BOX in yellow inside a drawn open carton whose faces are packed with scattered type, then 'the geometry of loss' on a blue bar and, at the foot, 'written by RICK BLACK / visualized by WARREN LEHRER'. ℹ️ TWO CREDITS AND THEY ARE DIFFERENT JOBS: Black wrote it, Lehrer designed it, and only Lehrer is the maker of this object. The file is on warrenlehrer.com. ⚠️ NO YEAR IS ESTABLISHED.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img68/34.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "designer",
+     "v": "Warren Lehrer"
+    },
+    {
+     "k": "subject",
+     "v": "Rick Black"
+    },
+    {
+     "k": "subject",
+     "v": "typography"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE COVER ITSELF, which sets LETTER and BOX in yellow inside a drawn open carton whose faces are packed with scattered type, then 'the geometry of loss' on a blue bar and, at the foot, 'written by RICK BLACK / visualized by WARREN LEHRER'. ℹ️ TWO CREDITS AND THEY ARE DIFFERENT JOBS: Black wrote it, Lehrer designed it, and only Lehrer is the maker of this object. The file is on warrenlehrer.com. ⚠️ NO YEAR IS ESTABLISHED.",
+   "hue": 34.69,
+   "light": 0.5402,
+   "chroma": 0.748,
+   "punch": 0.1955
+  },
+  "sent-2026-09-08i::92508517e14a": {
+   "id": "CRVI002755",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002755.png",
+   "original_px": [
+    2606,
+    4212
+   ],
+   "original_bytes": 16443999,
+   "identity": "sent-2026-09-08i::92508517e14a",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/14/TakehisaYumeji-1909-Climbing_Mt_Fuji.png",
+   "maker": "Takehisa Yumeji",
+   "title": "Climbing Mt Fuji",
+   "subtitle": "",
+   "year": "1909",
+   "label": "",
+   "verified_against": "Wikimedia Commons file 'TakehisaYumeji-1909-Climbing_Mt_Fuji.png', which gives the artist as TAKEHISA YUMEJI and the year as 1909 — a figure in a headcloth and straw sandals walking a grassy slope with a staff and a bundle, drawn in ink and light watercolour. Yumeji is the central figure of Taishō-period illustration.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img68/35.png",
+   "source_px": [
+    2606,
+    4212
+   ],
+   "colors": [
+    "yellow",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "illustration"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "illustrator",
+     "v": "Takehisa Yumeji"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons file 'TakehisaYumeji-1909-Climbing_Mt_Fuji.png', which gives the artist as TAKEHISA YUMEJI and the year as 1909 — a figure in a headcloth and straw sandals walking a grassy slope with a staff and a bundle, drawn in ink and light watercolour. Yumeji is the central figure of Taishō-period illustration.",
+   "hue": 54.95,
+   "light": 0.6584,
+   "chroma": 0.6953,
+   "punch": 0.1248
+  },
+  "sent-2026-09-08i::c9ee25a718b7": {
+   "id": "CRVI002756",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002756.jpg",
+   "original_px": [
+    1611,
+    2207
+   ],
+   "original_bytes": 815731,
+   "identity": "sent-2026-09-08i::c9ee25a718b7",
+   "source_url": "https://images.squarespace-cdn.com/content/v1/5eba6070466679466960f810/30523798-a341-4416-87d7-294047dc7c45/Scan+2.jpeg?format=original",
+   "maker": "Takehisa Yumeji",
+   "title": "恨まじ君をば (Ich grolle nicht), Senow Score No. 384",
+   "subtitle": "",
+   "year": "1924",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF, which letters 「恨まじ君をば」 across the head with シューマン曲 (composed by Schumann) beneath it, and carries the SENOW rabbit device with 'No. 384' at the lower left. Google Lens resolves it, via Yamada Shoten, to TAKEHISA YUMEJI, colour lithograph, 1924, for Senow Music Publishing — Schumann's *Ich grolle nicht* in Japanese. Two enormous eyes look out of a field split into terracotta, cream, blue and yellow wedges. ⚠️ A SECOND, SMALLER AND WARMER SCAN of this same sheet arrived in the same batch and was NOT added.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img68/36.jpg",
+   "source_px": [
+    1611,
+    2207
+   ],
+   "colors": [
+    "orange",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sheet music cover"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "illustrator",
+     "v": "Takehisa Yumeji"
+    },
+    {
+     "k": "client",
+     "v": "Senow"
+    },
+    {
+     "k": "musician",
+     "v": "Robert Schumann"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, which letters 「恨まじ君をば」 across the head with シューマン曲 (composed by Schumann) beneath it, and carries the SENOW rabbit device with 'No. 384' at the lower left. Google Lens resolves it, via Yamada Shoten, to TAKEHISA YUMEJI, colour lithograph, 1924, for Senow Music Publishing — Schumann's *Ich grolle nicht* in Japanese. Two enormous eyes look out of a field split into terracotta, cream, blue and yellow wedges. ⚠️ A SECOND, SMALLER AND WARMER SCAN of this same sheet arrived in the same batch and was NOT added.",
+   "hue": 27.76,
+   "light": 0.5304,
+   "chroma": 0.8964,
+   "punch": 0.3817
+  },
+  "sent-2026-09-08i::73115eb752c1": {
+   "id": "CRVI002757",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002757.jpg",
+   "original_px": [
+    1200,
+    1095
+   ],
+   "original_bytes": 780536,
+   "identity": "sent-2026-09-08i::73115eb752c1",
+   "source_url": "https://www.shift.jp.org/wp-sft-content/uploads/sites/4/2024/06/d4127074ce0e699c2866f5363908bfb2.jpg",
+   "maker": "Takehisa Yumeji",
+   "title": "化粧の秋 (Kesho no Aki, Makeup in Autumn)",
+   "subtitle": "",
+   "year": "1924",
+   "label": "",
+   "verified_against": "Google Lens resolves this, via Artelino and Fuji Arts, to TAKEHISA YUMEJI, 'Kesho no Aki' (Makeup in Autumn), 1924 — the October cover for the Taishō women's magazine 婦人グラフ (Fujin Gurafu, The Ladies' Graphic). A Yumeji-style beauty with a grey upswept coiffure touches her cheek before a red circle on a blue ground; OCT is lettered at the upper right.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img68/37.jpg",
+   "source_px": [
+    1200,
+    1095
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "illustrator",
+     "v": "Takehisa Yumeji"
+    },
+    {
+     "k": "client",
+     "v": "Fujin Gurafu"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Google Lens resolves this, via Artelino and Fuji Arts, to TAKEHISA YUMEJI, 'Kesho no Aki' (Makeup in Autumn), 1924 — the October cover for the Taishō women's magazine 婦人グラフ (Fujin Gurafu, The Ladies' Graphic). A Yumeji-style beauty with a grey upswept coiffure touches her cheek before a red circle on a blue ground; OCT is lettered at the upper right.",
+   "hue": 209.31,
+   "light": 0.4857,
+   "chroma": 0.629,
+   "punch": 0.228
   }
  }
 }
