@@ -137524,6 +137524,1470 @@
    "hue": 8.88,
    "light": 0.2006,
    "chroma": 0.2557
+  },
+  {
+   "id": "CRVI002624",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.1073,
+   "source_url": "https://uploads8.wikiart.org/images/koloman-moser/pieta.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002624.jpg",
+   "source_label": "",
+   "image": "images/CRVI002624.jpg",
+   "original": "originals/CRVI002624.jpg",
+   "vector": "",
+   "original_px": [
+    4746,
+    2916
+   ],
+   "original_bytes": 8396215,
+   "maker": "Koloman Moser",
+   "title": "Pietà",
+   "subtitle": "",
+   "year": "1895",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1890s"
+    },
+    {
+     "k": "artist",
+     "v": "Koloman Moser"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 30.65,
+   "light": 0.3361,
+   "chroma": 0.421
+  },
+  {
+   "id": "CRVI002625",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.1035,
+   "source_url": "https://uploads6.wikiart.org/images/koloman-moser/reproduction-template-for-the-leaf-for-gerlach-s-love-allegories-new-series-plate-35.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002625.jpg",
+   "source_label": "",
+   "image": "images/CRVI002625.jpg",
+   "original": "originals/CRVI002625.jpg",
+   "vector": "",
+   "original_px": [
+    3546,
+    3546
+   ],
+   "original_bytes": 7774208,
+   "maker": "Koloman Moser",
+   "title": "Reproduktionsvorlage für das Blatt Liebe für Gerlachs Allegorien. Neue Folge, Taf. 35",
+   "subtitle": "",
+   "year": "1895",
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "decade",
+     "v": "1890s"
+    },
+    {
+     "k": "artist",
+     "v": "Koloman Moser"
+    },
+    {
+     "k": "client",
+     "v": "Gerlach & Schenk"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 31.84,
+   "light": 0.4468,
+   "chroma": 0.4117
+  },
+  {
+   "id": "CRVI002626",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.2691,
+   "source_url": "https://luc.devroye.org/KolomanMoser-VerSacrum.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002626.jpg",
+   "source_label": "",
+   "image": "images/CRVI002626.jpg",
+   "original": "originals/CRVI002626.jpg",
+   "vector": "",
+   "original_px": [
+    2157,
+    3150
+   ],
+   "original_bytes": 5465258,
+   "maker": "Koloman Moser",
+   "title": "Secession: V. Kunstausstellung",
+   "subtitle": "",
+   "year": "1899",
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "decade",
+     "v": "1890s"
+    },
+    {
+     "k": "designer",
+     "v": "Koloman Moser"
+    },
+    {
+     "k": "client",
+     "v": "Vienna Secession"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 24.87,
+   "light": 0.4168,
+   "chroma": 0.6189
+  },
+  {
+   "id": "CRVI002627",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.2363,
+   "source_url": "https://onlinecollection.leopoldmuseum.org/images/web-lm-01750-default.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002627.jpg",
+   "source_label": "",
+   "image": "images/CRVI002627.jpg",
+   "original": "originals/CRVI002627.jpg",
+   "vector": "",
+   "original_px": [
+    3500,
+    4490
+   ],
+   "original_bytes": 2807807,
+   "maker": "Koloman Moser",
+   "title": "Plakatentwurf für Ver Sacrum. Erste Grosse Kunstausstellung",
+   "subtitle": "",
+   "year": "1897",
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "decade",
+     "v": "1890s"
+    },
+    {
+     "k": "designer",
+     "v": "Koloman Moser"
+    },
+    {
+     "k": "client",
+     "v": "Vienna Secession"
+    },
+    {
+     "k": "client",
+     "v": "Ver Sacrum"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 35.73,
+   "light": 0.5284,
+   "chroma": 0.7215
+  },
+  {
+   "id": "CRVI002628",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.0961,
+   "source_url": "https://www.theviennasecession.com/wp-content/uploads/2020/11/Der_Musikant_master.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002628.jpg",
+   "source_label": "",
+   "image": "images/CRVI002628.jpg",
+   "original": "originals/CRVI002628.jpg",
+   "vector": "",
+   "original_px": [
+    1165,
+    1650
+   ],
+   "original_bytes": 2169037,
+   "maker": "Koloman Moser",
+   "title": "Der Musikant",
+   "subtitle": "",
+   "year": "1909",
+   "tags": [
+    {
+     "k": "type",
+     "v": "sheet music cover"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "designer",
+     "v": "Koloman Moser"
+    },
+    {
+     "k": "musician",
+     "v": "Julius Bittner"
+    },
+    {
+     "k": "client",
+     "v": "B. Schott's Söhne"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 35.01,
+   "light": 0.5234,
+   "chroma": 0.2865
+  },
+  {
+   "id": "CRVI002629",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.167,
+   "source_url": "https://openaccess-cdn.clevelandart.org/1920.1316/1920.1316_print.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002629.jpg",
+   "source_label": "",
+   "image": "images/CRVI002629.jpg",
+   "original": "originals/CRVI002629.jpg",
+   "vector": "",
+   "original_px": [
+    1752,
+    3400
+   ],
+   "original_bytes": 2727251,
+   "maker": "Alfred Roller",
+   "title": "Bookplate: Anna Anderle",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "designer",
+     "v": "Alfred Roller"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 39.33,
+   "light": 0.6301,
+   "chroma": 0.6107
+  },
+  {
+   "id": "CRVI002630",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.2418,
+   "source_url": "https://uploads5.wikiart.org/00299/images/alfred-roller/belbif.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002630.jpg",
+   "source_label": "",
+   "image": "images/CRVI002630.jpg",
+   "original": "originals/CRVI002630.jpg",
+   "vector": "",
+   "original_px": [
+    1136,
+    1664
+   ],
+   "original_bytes": 1579884,
+   "maker": "Alfred Roller",
+   "title": "Sketch to a Poster (Belbif Fahrrad)",
+   "subtitle": "",
+   "year": "1898",
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "decade",
+     "v": "1890s"
+    },
+    {
+     "k": "designer",
+     "v": "Alfred Roller"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 28.35,
+   "light": 0.5589,
+   "chroma": 0.7328
+  },
+  {
+   "id": "CRVI002631",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.2321,
+   "source_url": "https://uploads1.wikiart.org/00299/images/alfred-roller/rothe-rosen.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002631.jpg",
+   "source_label": "",
+   "image": "images/CRVI002631.jpg",
+   "original": "originals/CRVI002631.jpg",
+   "vector": "",
+   "original_px": [
+    2360,
+    2488
+   ],
+   "original_bytes": 4822351,
+   "maker": "Alfred Roller",
+   "title": "Illustration to a Poem by Arno Holz",
+   "subtitle": "",
+   "year": "1898",
+   "tags": [
+    {
+     "k": "type",
+     "v": "illustration"
+    },
+    {
+     "k": "decade",
+     "v": "1890s"
+    },
+    {
+     "k": "designer",
+     "v": "Alfred Roller"
+    },
+    {
+     "k": "subject",
+     "v": "Arno Holz"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 33.76,
+   "light": 0.6191,
+   "chroma": 0.8488
+  },
+  {
+   "id": "CRVI002632",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.3313,
+   "source_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqGsMksO9EqVWj7LgnizOjrWuyA1V1_q3xBArFgeCynMyrMsQkfRERDP1JMbRdnTDRGrfmHWfX0tHb16c59XMfsoTT01I7-fG0Z36zi6c6wf2txuKzDug3UtEYe6GCBuQtOaIBKsB-QZgQh57kcxJlbpySXv2qumPaeG6yyEcE1olDTPYxE5WkheBDpvs/s1743/800px-Alfred_Roller_-_Plakat.jpeg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002632.jpg",
+   "source_label": "",
+   "image": "images/CRVI002632.jpg",
+   "original": "originals/CRVI002632.jpg",
+   "vector": "",
+   "original_px": [
+    2694,
+    5868
+   ],
+   "original_bytes": 8685768,
+   "maker": "Alfred Roller",
+   "title": "Plakat für die XIV. Ausstellung der Secession",
+   "subtitle": "",
+   "year": "1902",
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "designer",
+     "v": "Alfred Roller"
+    },
+    {
+     "k": "client",
+     "v": "Vienna Secession"
+    },
+    {
+     "k": "client",
+     "v": "Ver Sacrum"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 35.81,
+   "light": 0.5827,
+   "chroma": 0.975
+  },
+  {
+   "id": "CRVI002633",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.2241,
+   "source_url": "https://media.mutualart.com/Images/2024_08/24/17/71105045/alfred-roller-alfred-roller---secession--JKRWO.Jpeg?w=768",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002633.jpg",
+   "source_label": "",
+   "image": "images/CRVI002633.jpg",
+   "original": "originals/CRVI002633.jpg",
+   "vector": "",
+   "original_px": [
+    1200,
+    1585
+   ],
+   "original_bytes": 783638,
+   "maker": "Alfred Roller",
+   "title": "Deutsche Kunst und Dekoration, 5. Jahrgang Heft 10",
+   "subtitle": "",
+   "year": "1902",
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "designer",
+     "v": "Alfred Roller"
+    },
+    {
+     "k": "client",
+     "v": "Alexander Koch"
+    },
+    {
+     "k": "client",
+     "v": "Deutsche Kunst und Dekoration"
+    },
+    {
+     "k": "client",
+     "v": "Vienna Secession"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 25.49,
+   "light": 0.6695,
+   "chroma": 0.7772
+  },
+  {
+   "id": "CRVI002634",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.0765,
+   "source_url": "https://i.pinimg.com/originals/fe/9f/ea/fe9fea19b2d4fa89b0e448a421fab43a.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002634.jpg",
+   "source_label": "",
+   "image": "images/CRVI002634.jpg",
+   "original": "originals/CRVI002634.jpg",
+   "vector": "",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 214127,
+   "maker": "Joseph Maria Olbrich",
+   "title": "Kölner Ausstellung",
+   "subtitle": "",
+   "year": "1907",
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "designer",
+     "v": "Joseph Maria Olbrich"
+    },
+    {
+     "k": "client",
+     "v": "Kölner Ausstellung"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "city",
+     "v": "Cologne"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 25.74,
+   "light": 0.7278,
+   "chroma": 0.2983
+  },
+  {
+   "id": "CRVI002635",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.3565,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Josef_Maria_Auchentaller_-_Kathreiners_Kneipp-Malz-Kaffee%2C_1898.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002635.jpg",
+   "source_label": "",
+   "image": "images/CRVI002635.jpg",
+   "original": "originals/CRVI002635.jpg",
+   "vector": "",
+   "original_px": [
+    1124,
+    800
+   ],
+   "original_bytes": 293717,
+   "maker": "Josef Maria Auchentaller",
+   "title": "Kathreiners Kneipp-Malz-Kaffee",
+   "subtitle": "",
+   "year": "1898",
+   "tags": [
+    {
+     "k": "type",
+     "v": "advertising poster"
+    },
+    {
+     "k": "decade",
+     "v": "1890s"
+    },
+    {
+     "k": "designer",
+     "v": "Josef Maria Auchentaller"
+    },
+    {
+     "k": "client",
+     "v": "Kathreiner"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 37.87,
+   "light": 0.4062,
+   "chroma": 0.9523
+  },
+  {
+   "id": "CRVI002636",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.2542,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Josef_Maria_Auchentaller_-_Jugend_Nr._25%2C_1896.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002636.jpg",
+   "source_label": "",
+   "image": "images/CRVI002636.jpg",
+   "original": "originals/CRVI002636.jpg",
+   "vector": "",
+   "original_px": [
+    2618,
+    3474
+   ],
+   "original_bytes": 2693890,
+   "maker": "Josef Maria Auchentaller",
+   "title": "Jugend Nr. 25, 1896",
+   "subtitle": "",
+   "year": "1896",
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "decade",
+     "v": "1890s"
+    },
+    {
+     "k": "designer",
+     "v": "Josef Maria Auchentaller"
+    },
+    {
+     "k": "client",
+     "v": "Jugend"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "city",
+     "v": "Munich"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 41.45,
+   "light": 0.4298,
+   "chroma": 0.8307
+  },
+  {
+   "id": "CRVI002637",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.2396,
+   "source_url": "https://www.theviennasecession.com/wp-content/uploads/2012/12/4073244882_20e2d9e6de_oJoseph-Maria-Auchentaller.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002637.jpg",
+   "source_label": "",
+   "image": "images/CRVI002637.jpg",
+   "original": "originals/CRVI002637.jpg",
+   "vector": "",
+   "original_px": [
+    1185,
+    2368
+   ],
+   "original_bytes": 2554486,
+   "maker": "Josef Maria Auchentaller",
+   "title": "Ansichtskarten-Lotterie",
+   "subtitle": "",
+   "year": "1900",
+   "tags": [
+    {
+     "k": "type",
+     "v": "advertising poster"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "designer",
+     "v": "Josef Maria Auchentaller"
+    },
+    {
+     "k": "client",
+     "v": "Rotes Kreuz"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 51.37,
+   "light": 0.5253,
+   "chroma": 0.4873
+  },
+  {
+   "id": "CRVI002638",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.3847,
+   "source_url": "https://www.theviennasecession.com/wp-content/uploads/2012/12/AUCHENTALLER-ZEICHNUNGEN-2.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002638.jpg",
+   "source_label": "",
+   "image": "images/CRVI002638.jpg",
+   "original": "originals/CRVI002638.jpg",
+   "vector": "",
+   "original_px": [
+    1796,
+    1845
+   ],
+   "original_bytes": 1563584,
+   "maker": "Josef Maria Auchentaller",
+   "title": "Studie zu einem Placat in 3 Farben",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "designer",
+     "v": "Josef Maria Auchentaller"
+    },
+    {
+     "k": "client",
+     "v": "Ver Sacrum"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 25.0,
+   "light": 0.4924,
+   "chroma": 0.6961
+  },
+  {
+   "id": "CRVI002639",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.2359,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Ferdinand_andri%2C_poster_della_xxvi_mostra_della_secessione%2C_vienna_1906%2C_litografia.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002639.jpg",
+   "source_label": "",
+   "image": "images/CRVI002639.jpg",
+   "original": "originals/CRVI002639.jpg",
+   "vector": "",
+   "original_px": [
+    1880,
+    2612
+   ],
+   "original_bytes": 2855154,
+   "maker": "Ferdinand Andri",
+   "title": "XXVI. Ausstellung Secession",
+   "subtitle": "",
+   "year": "1906",
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "designer",
+     "v": "Ferdinand Andri"
+    },
+    {
+     "k": "client",
+     "v": "Vienna Secession"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 34.79,
+   "light": 0.5381,
+   "chroma": 0.878
+  },
+  {
+   "id": "CRVI002640",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.2159,
+   "source_url": "https://i.etsystatic.com/40628758/r/il/f9c92f/5984657866/il_fullxfull.5984657866_7mt9.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002640.jpg",
+   "source_label": "",
+   "image": "images/CRVI002640.jpg",
+   "original": "originals/CRVI002640.jpg",
+   "vector": "",
+   "original_px": [
+    1675,
+    2383
+   ],
+   "original_bytes": 2749681,
+   "maker": "Ferdinand Hodler",
+   "title": "Secession XIX. Ausstellung",
+   "subtitle": "",
+   "year": "1904",
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "designer",
+     "v": "Ferdinand Hodler"
+    },
+    {
+     "k": "client",
+     "v": "Vienna Secession"
+    },
+    {
+     "k": "client",
+     "v": "Ver Sacrum"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 34.52,
+   "light": 0.626,
+   "chroma": 0.7424
+  },
+  {
+   "id": "CRVI002641",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.1497,
+   "source_url": "https://openaccess-cdn.clevelandart.org/1924.550/1924.550_print.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002641.jpg",
+   "source_label": "",
+   "image": "images/CRVI002641.jpg",
+   "original": "originals/CRVI002641.jpg",
+   "vector": "",
+   "original_px": [
+    2429,
+    3400
+   ],
+   "original_bytes": 1188482,
+   "maker": "Emil Orlik",
+   "title": "Chinese Actor and Two Sketches of a Woman's Head",
+   "subtitle": "",
+   "year": "1912",
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "artist",
+     "v": "Emil Orlik"
+    },
+    {
+     "k": "subject",
+     "v": "theatre"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 37.77,
+   "light": 0.7804,
+   "chroma": 0.8711
+  },
+  {
+   "id": "CRVI002642",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.1114,
+   "source_url": "https://media.mutualart.com/Images/2025_05/02/17/173047128/06e96e94-79c7-46b1-ab0b-2a7a0d263dac.Jpeg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002642.jpg",
+   "source_label": "",
+   "image": "images/CRVI002642.jpg",
+   "original": "originals/CRVI002642.jpg",
+   "vector": "",
+   "original_px": [
+    1244,
+    1360
+   ],
+   "original_bytes": 1327504,
+   "maker": "Maximilian Kurzweil",
+   "title": "Der Polster (The Cushion)",
+   "subtitle": "",
+   "year": "1903",
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "artist",
+     "v": "Maximilian Kurzweil"
+    },
+    {
+     "k": "client",
+     "v": "Vienna Secession"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 24.98,
+   "light": 0.4666,
+   "chroma": 0.2856
+  },
+  {
+   "id": "CRVI002643",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.0762,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Selbstportrait_Wilhelm-List_28x22cm.png",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002643.jpg",
+   "source_label": "",
+   "image": "images/CRVI002643.jpg",
+   "original": "originals/CRVI002643.jpg",
+   "vector": "",
+   "original_px": [
+    2527,
+    3176
+   ],
+   "original_bytes": 1561077,
+   "maker": "Wilhelm List",
+   "title": "Selbstporträt",
+   "subtitle": "",
+   "year": "1889",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1880s"
+    },
+    {
+     "k": "artist",
+     "v": "Wilhelm List"
+    },
+    {
+     "k": "subject",
+     "v": "self-portrait"
+    },
+    {
+     "k": "client",
+     "v": "Vienna Secession"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 41.46,
+   "light": 0.3211,
+   "chroma": 0.1325
+  },
+  {
+   "id": "CRVI002644",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.0482,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Leopold_Stolba_Ver_Sacrum_1903_S_281.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002644.jpg",
+   "source_label": "",
+   "image": "images/CRVI002644.jpg",
+   "original": "originals/CRVI002644.jpg",
+   "vector": "",
+   "original_px": [
+    1786,
+    1874
+   ],
+   "original_bytes": 2077497,
+   "maker": "Leopold Stolba",
+   "title": "Holzschnitt, Ver Sacrum 1903, S. 281",
+   "subtitle": "",
+   "year": "1903",
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "artist",
+     "v": "Leopold Stolba"
+    },
+    {
+     "k": "client",
+     "v": "Ver Sacrum"
+    },
+    {
+     "k": "client",
+     "v": "Vienna Secession"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": null,
+   "light": 0.4598,
+   "chroma": 0.0732
+  },
+  {
+   "id": "CRVI002645",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.0955,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Leopold_Stolba_Ver_Sacrum_1903_S_279.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002645.jpg",
+   "source_label": "",
+   "image": "images/CRVI002645.jpg",
+   "original": "originals/CRVI002645.jpg",
+   "vector": "",
+   "original_px": [
+    1824,
+    1898
+   ],
+   "original_bytes": 1738366,
+   "maker": "Leopold Stolba",
+   "title": "Holzschnitt, Ver Sacrum 1903, S. 279",
+   "subtitle": "",
+   "year": "1903",
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "artist",
+     "v": "Leopold Stolba"
+    },
+    {
+     "k": "client",
+     "v": "Ver Sacrum"
+    },
+    {
+     "k": "client",
+     "v": "Vienna Secession"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 37.74,
+   "light": 0.6674,
+   "chroma": 0.3396
+  },
+  {
+   "id": "CRVI002646",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.124,
+   "source_url": "https://onlinecollection.leopoldmuseum.org/images/web-ex-36151-dlrlg-full.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002646.jpg",
+   "source_label": "",
+   "image": "images/CRVI002646.jpg",
+   "original": "originals/CRVI002646.jpg",
+   "vector": "",
+   "original_px": [
+    3500,
+    8020
+   ],
+   "original_bytes": 2174815,
+   "maker": "Joseph Maria Olbrich",
+   "title": "Plakat für die II. Ausstellung der Wiener Secession",
+   "subtitle": "",
+   "year": "1898",
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "decade",
+     "v": "1890s"
+    },
+    {
+     "k": "designer",
+     "v": "Joseph Maria Olbrich"
+    },
+    {
+     "k": "client",
+     "v": "Vienna Secession"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 35.27,
+   "light": 0.5994,
+   "chroma": 0.7047
+  },
+  {
+   "id": "CRVI002647",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.2451,
+   "source_url": "https://openaccess-cdn.clevelandart.org/1964.285/1964.285_print.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002647.jpg",
+   "source_label": "",
+   "image": "images/CRVI002647.jpg",
+   "original": "originals/CRVI002647.jpg",
+   "vector": "",
+   "original_px": [
+    2215,
+    3400
+   ],
+   "original_bytes": 2331604,
+   "maker": "Egon Schiele",
+   "title": "Portrait of a Child (Anton Peschka Jr.)",
+   "subtitle": "",
+   "year": "1916",
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "artist",
+     "v": "Egon Schiele"
+    },
+    {
+     "k": "subject",
+     "v": "Anton Peschka Jr."
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 34.5,
+   "light": 0.7118,
+   "chroma": 0.972
+  },
+  {
+   "id": "CRVI002648",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.1125,
+   "source_url": "https://xeuxis.com/wp-content/uploads/2023/12/XC087a-schiele-secession-ausstellung.webp",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002648.jpg",
+   "source_label": "",
+   "image": "images/CRVI002648.jpg",
+   "original": "originals/CRVI002648.jpg",
+   "vector": "",
+   "original_px": [
+    976,
+    1390
+   ],
+   "original_bytes": 537087,
+   "maker": "Egon Schiele",
+   "title": "Secession 49. Ausstellung",
+   "subtitle": "",
+   "year": "1918",
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "designer",
+     "v": "Egon Schiele"
+    },
+    {
+     "k": "artist",
+     "v": "Egon Schiele"
+    },
+    {
+     "k": "client",
+     "v": "Vienna Secession"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 43.6,
+   "light": 0.4135,
+   "chroma": 0.4078
   }
  ]
 }

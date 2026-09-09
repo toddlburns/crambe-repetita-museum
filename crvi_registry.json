@@ -1,5 +1,5 @@
 {
- "next": 2624,
+ "next": 2649,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -155752,6 +155752,1528 @@
    "light": 0.2006,
    "chroma": 0.2557,
    "punch": 0.0672
+  },
+  "sent-2026-09-08f::7ae5a487605e": {
+   "id": "CRVI002624",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002624.jpg",
+   "original_px": [
+    4746,
+    2916
+   ],
+   "original_bytes": 8396215,
+   "identity": "sent-2026-09-08f::7ae5a487605e",
+   "source_url": "https://uploads8.wikiart.org/images/koloman-moser/pieta.jpg",
+   "maker": "Koloman Moser",
+   "title": "Pietà",
+   "subtitle": "",
+   "year": "1895",
+   "label": "",
+   "verified_against": "WikiArt's record: 'Pieta', Koloman Moser, c.1895, Austria, oil on canvas, 72 x 116 cm, Symbolism. A dead Christ laid out on a white cloth with a hooded mourner in red and black behind. ⚠️ c.1895 puts this two years before the Secession was founded and it is a painting, not a graphic work — it arrived inside a Secession run and the record says so.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img65/01.jpg",
+   "source_px": [
+    4746,
+    2916
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1890s"
+    },
+    {
+     "k": "artist",
+     "v": "Koloman Moser"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt's record: 'Pieta', Koloman Moser, c.1895, Austria, oil on canvas, 72 x 116 cm, Symbolism. A dead Christ laid out on a white cloth with a hooded mourner in red and black behind. ⚠️ c.1895 puts this two years before the Secession was founded and it is a painting, not a graphic work — it arrived inside a Secession run and the record says so.",
+   "hue": 30.65,
+   "light": 0.3361,
+   "chroma": 0.421,
+   "punch": 0.1073
+  },
+  "sent-2026-09-08f::a9120c99480d": {
+   "id": "CRVI002625",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002625.jpg",
+   "original_px": [
+    3546,
+    3546
+   ],
+   "original_bytes": 7774208,
+   "identity": "sent-2026-09-08f::a9120c99480d",
+   "source_url": "https://uploads6.wikiart.org/images/koloman-moser/reproduction-template-for-the-leaf-for-gerlach-s-love-allegories-new-series-plate-35.jpg",
+   "maker": "Koloman Moser",
+   "title": "Reproduktionsvorlage für das Blatt Liebe für Gerlachs Allegorien. Neue Folge, Taf. 35",
+   "subtitle": "",
+   "year": "1895",
+   "label": "",
+   "verified_against": "WikiArt's record, which gives the original German title 'Reproduktionsvorlage für das Blatt Liebe für Gerlachs Allegorien. Neue Folge, Taf. 35', Koloman Moser, c.1895, indian ink on paper, 41 x 41 cm — a reproduction template for plate 35 of Gerlach's 'Allegorien. Neue Folge'. Two nudes on a riverbank under a bare branch, drawn in wash and line, with Moser's monogram at the lower right.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img65/02.jpg",
+   "source_px": [
+    3546,
+    3546
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "decade",
+     "v": "1890s"
+    },
+    {
+     "k": "artist",
+     "v": "Koloman Moser"
+    },
+    {
+     "k": "client",
+     "v": "Gerlach & Schenk"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt's record, which gives the original German title 'Reproduktionsvorlage für das Blatt Liebe für Gerlachs Allegorien. Neue Folge, Taf. 35', Koloman Moser, c.1895, indian ink on paper, 41 x 41 cm — a reproduction template for plate 35 of Gerlach's 'Allegorien. Neue Folge'. Two nudes on a riverbank under a bare branch, drawn in wash and line, with Moser's monogram at the lower right.",
+   "hue": 31.84,
+   "light": 0.4468,
+   "chroma": 0.4117,
+   "punch": 0.1035
+  },
+  "sent-2026-09-08f::606df9231782": {
+   "id": "CRVI002626",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002626.jpg",
+   "original_px": [
+    2157,
+    3150
+   ],
+   "original_bytes": 5465258,
+   "identity": "sent-2026-09-08f::606df9231782",
+   "source_url": "https://luc.devroye.org/KolomanMoser-VerSacrum.jpg",
+   "maker": "Koloman Moser",
+   "title": "Secession: V. Kunstausstellung",
+   "subtitle": "",
+   "year": "1899",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF, which prints SECESSION over V. KUNSTAUSSTELLUNG DER VEREINIGUNG BILDENDER KÜNSTLER ÖSTERREICHS, EINTRITT 50 KR and WIENZEILE 2, with the printer's line 'LITH. ANST. ALBERT BERGER, WIEN' up the left edge and 'VER SACRUM V. JAHR' along the foot. An orange figure kneels against black holding a lantern and a bowl of fruit. Google Lens resolves it to the Leopold Museum's record for the poster for the 5th Vienna Secession exhibition, 1899, by Koloman Moser. ⚠️ The hosting file is a type-history page's illustration, not a museum's.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img65/03.jpg",
+   "source_px": [
+    2157,
+    3150
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "decade",
+     "v": "1890s"
+    },
+    {
+     "k": "designer",
+     "v": "Koloman Moser"
+    },
+    {
+     "k": "client",
+     "v": "Vienna Secession"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, which prints SECESSION over V. KUNSTAUSSTELLUNG DER VEREINIGUNG BILDENDER KÜNSTLER ÖSTERREICHS, EINTRITT 50 KR and WIENZEILE 2, with the printer's line 'LITH. ANST. ALBERT BERGER, WIEN' up the left edge and 'VER SACRUM V. JAHR' along the foot. An orange figure kneels against black holding a lantern and a bowl of fruit. Google Lens resolves it to the Leopold Museum's record for the poster for the 5th Vienna Secession exhibition, 1899, by Koloman Moser. ⚠️ The hosting file is a type-history page's illustration, not a museum's.",
+   "hue": 24.87,
+   "light": 0.4168,
+   "chroma": 0.6189,
+   "punch": 0.2691
+  },
+  "sent-2026-09-08f::ccac31e3480a": {
+   "id": "CRVI002627",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002627.jpg",
+   "original_px": [
+    3500,
+    4490
+   ],
+   "original_bytes": 2807807,
+   "identity": "sent-2026-09-08f::ccac31e3480a",
+   "source_url": "https://onlinecollection.leopoldmuseum.org/images/web-lm-01750-default.jpg",
+   "maker": "Koloman Moser",
+   "title": "Plakatentwurf für Ver Sacrum. Erste Grosse Kunstausstellung",
+   "subtitle": "",
+   "year": "1897",
+   "label": "",
+   "verified_against": "The Leopold Museum, Vienna, Inv. 1750: 'Poster Design for Ver Sacrum. First Major Art Exhibition of the Secession', Koloman Moser, 1897, watercolour, gouache, coloured pencil and metal paints on tracing paper, 79.8 x 61 cm. The museum notes it advertises the first Secession exhibition of 1897 but was not shown until the fifth. ℹ️ HELD AT THE MUSEUM'S UNDOCUMENTED `-full` TIER, 3500x4490, against the 992x1273 its own viewer serves.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img65/04.jpg",
+   "source_px": [
+    3500,
+    4490
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "decade",
+     "v": "1890s"
+    },
+    {
+     "k": "designer",
+     "v": "Koloman Moser"
+    },
+    {
+     "k": "client",
+     "v": "Vienna Secession"
+    },
+    {
+     "k": "client",
+     "v": "Ver Sacrum"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Leopold Museum, Vienna, Inv. 1750: 'Poster Design for Ver Sacrum. First Major Art Exhibition of the Secession', Koloman Moser, 1897, watercolour, gouache, coloured pencil and metal paints on tracing paper, 79.8 x 61 cm. The museum notes it advertises the first Secession exhibition of 1897 but was not shown until the fifth. ℹ️ HELD AT THE MUSEUM'S UNDOCUMENTED `-full` TIER, 3500x4490, against the 992x1273 its own viewer serves.",
+   "hue": 35.73,
+   "light": 0.5284,
+   "chroma": 0.7215,
+   "punch": 0.2363
+  },
+  "sent-2026-09-08f::c89698945305": {
+   "id": "CRVI002628",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002628.jpg",
+   "original_px": [
+    1165,
+    1650
+   ],
+   "original_bytes": 2169037,
+   "identity": "sent-2026-09-08f::c89698945305",
+   "source_url": "https://www.theviennasecession.com/wp-content/uploads/2020/11/Der_Musikant_master.jpg",
+   "maker": "Koloman Moser",
+   "title": "Der Musikant",
+   "subtitle": "",
+   "year": "1909",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF, which letters DER MUSIKANT / ZWEI AKTE VON JULIUS BITTNER over a field of instruments and foliage, with 'B. SCHOTT'S SÖHNE, MAINZ' and a 1909 copyright line along the foot. Published by theviennasecession.com as 'Der Musikant — Koloman Moser'. The opera is Julius Bittner's, in two acts; Moser designed the cover.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img65/05.jpg",
+   "source_px": [
+    1165,
+    1650
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sheet music cover"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "designer",
+     "v": "Koloman Moser"
+    },
+    {
+     "k": "musician",
+     "v": "Julius Bittner"
+    },
+    {
+     "k": "client",
+     "v": "B. Schott's Söhne"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, which letters DER MUSIKANT / ZWEI AKTE VON JULIUS BITTNER over a field of instruments and foliage, with 'B. SCHOTT'S SÖHNE, MAINZ' and a 1909 copyright line along the foot. Published by theviennasecession.com as 'Der Musikant — Koloman Moser'. The opera is Julius Bittner's, in two acts; Moser designed the cover.",
+   "hue": 35.01,
+   "light": 0.5234,
+   "chroma": 0.2865,
+   "punch": 0.0961
+  },
+  "sent-2026-09-08f::70e4caf89aa4": {
+   "id": "CRVI002629",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002629.jpg",
+   "original_px": [
+    1752,
+    3400
+   ],
+   "original_bytes": 2727251,
+   "identity": "sent-2026-09-08f::70e4caf89aa4",
+   "source_url": "https://openaccess-cdn.clevelandart.org/1920.1316/1920.1316_print.jpg",
+   "maker": "Alfred Roller",
+   "title": "Bookplate: Anna Anderle",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "The Cleveland Museum of Art, accession 1920.1316: 'Bookplate: Anna Anderle', Alfred Roller (German, 1864-1935), gift of Arthur D. Brooks, overall 8.2 x 4 cm, CC0. The sheet letters EX·LIBRIS ANNA ANDERLE below a yellow-ground view of a gabled house among cypresses. ⚠️ THE MUSEUM RECORDS NO DATE. ⚠️ It also calls Roller German; he was Austrian, born in Brno.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img65/06.jpg",
+   "source_px": [
+    1752,
+    3400
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "designer",
+     "v": "Alfred Roller"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Cleveland Museum of Art, accession 1920.1316: 'Bookplate: Anna Anderle', Alfred Roller (German, 1864-1935), gift of Arthur D. Brooks, overall 8.2 x 4 cm, CC0. The sheet letters EX·LIBRIS ANNA ANDERLE below a yellow-ground view of a gabled house among cypresses. ⚠️ THE MUSEUM RECORDS NO DATE. ⚠️ It also calls Roller German; he was Austrian, born in Brno.",
+   "hue": 39.33,
+   "light": 0.6301,
+   "chroma": 0.6107,
+   "punch": 0.167
+  },
+  "sent-2026-09-08f::1eac528bd664": {
+   "id": "CRVI002630",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002630.jpg",
+   "original_px": [
+    1136,
+    1664
+   ],
+   "original_bytes": 1579884,
+   "identity": "sent-2026-09-08f::1eac528bd664",
+   "source_url": "https://uploads5.wikiart.org/00299/images/alfred-roller/belbif.jpg",
+   "maker": "Alfred Roller",
+   "title": "Sketch to a Poster (Belbif Fahrrad)",
+   "subtitle": "",
+   "year": "1898",
+   "label": "",
+   "verified_against": "WikiArt's record for the file: Alfred Roller, 'Sketch to a Poster', 1898. ℹ️ THE TITLE IS WikiArt's AND IS GENERIC; the sheet itself letters BELBIF above and FAHRRAD below a woman in a black cape stooping over a bicycle, so the subject is a bicycle advertisement and the descriptive part of the title above is read off the sheet. ⚠️ Which poster it is a sketch FOR, and whether that poster was ever printed, is not established.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img65/07.jpg",
+   "source_px": [
+    1136,
+    1664
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "decade",
+     "v": "1890s"
+    },
+    {
+     "k": "designer",
+     "v": "Alfred Roller"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt's record for the file: Alfred Roller, 'Sketch to a Poster', 1898. ℹ️ THE TITLE IS WikiArt's AND IS GENERIC; the sheet itself letters BELBIF above and FAHRRAD below a woman in a black cape stooping over a bicycle, so the subject is a bicycle advertisement and the descriptive part of the title above is read off the sheet. ⚠️ Which poster it is a sketch FOR, and whether that poster was ever printed, is not established.",
+   "hue": 28.35,
+   "light": 0.5589,
+   "chroma": 0.7328,
+   "punch": 0.2418
+  },
+  "sent-2026-09-08f::d02b3153021f": {
+   "id": "CRVI002631",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002631.jpg",
+   "original_px": [
+    2360,
+    2488
+   ],
+   "original_bytes": 4822351,
+   "identity": "sent-2026-09-08f::d02b3153021f",
+   "source_url": "https://uploads1.wikiart.org/00299/images/alfred-roller/rothe-rosen.jpg",
+   "maker": "Alfred Roller",
+   "title": "Illustration to a Poem by Arno Holz",
+   "subtitle": "",
+   "year": "1898",
+   "label": "",
+   "verified_against": "WikiArt's record for the file: Alfred Roller, 'Illustration to a Poem by Arno Holz', 1898. The plate sets the poem in a letterpress panel — 'Rothe Rosen umwinden meine düstre Lanze. Durch weisse Lilienwälder schnaubt mein Hengst…' — inside a dense black-and-white drawing of lilies, a rider and a bird, which is what identifies the poet named in the title.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img65/08.jpg",
+   "source_px": [
+    2360,
+    2488
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "illustration"
+    },
+    {
+     "k": "decade",
+     "v": "1890s"
+    },
+    {
+     "k": "designer",
+     "v": "Alfred Roller"
+    },
+    {
+     "k": "subject",
+     "v": "Arno Holz"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt's record for the file: Alfred Roller, 'Illustration to a Poem by Arno Holz', 1898. The plate sets the poem in a letterpress panel — 'Rothe Rosen umwinden meine düstre Lanze. Durch weisse Lilienwälder schnaubt mein Hengst…' — inside a dense black-and-white drawing of lilies, a rider and a bird, which is what identifies the poet named in the title.",
+   "hue": 33.76,
+   "light": 0.6191,
+   "chroma": 0.8488,
+   "punch": 0.2321
+  },
+  "sent-2026-09-08f::8aab84abe305": {
+   "id": "CRVI002632",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002632.jpg",
+   "original_px": [
+    2694,
+    5868
+   ],
+   "original_bytes": 8685768,
+   "identity": "sent-2026-09-08f::8aab84abe305",
+   "source_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqGsMksO9EqVWj7LgnizOjrWuyA1V1_q3xBArFgeCynMyrMsQkfRERDP1JMbRdnTDRGrfmHWfX0tHb16c59XMfsoTT01I7-fG0Z36zi6c6wf2txuKzDug3UtEYe6GCBuQtOaIBKsB-QZgQh57kcxJlbpySXv2qumPaeG6yyEcE1olDTPYxE5WkheBDpvs/s1743/800px-Alfred_Roller_-_Plakat.jpeg",
+   "maker": "Alfred Roller",
+   "title": "Plakat für die XIV. Ausstellung der Secession",
+   "subtitle": "",
+   "year": "1902",
+   "label": "",
+   "verified_against": "Wikimedia Commons: 'Plakat für die XIV. Ausstellung der Secession', Alfred Roller, 1902, public domain. The sheet letters XIV AUSSTELLUNG DER VEREINIGUNG DER BILDENDEN KÜNSTLER OESTERREICHS SECESSION WIEN, KLINGER BEETHOVEN, APRIL-JUNI 1902, EINTRITT 1 K, VER SACRUM V. JAHR — the Beethoven exhibition. ⚠️ HELD FROM COMMONS, NOT FROM TODD'S LINK: his was a Blogger re-host of Wikimedia's `800px-` THUMBNAIL, and the original is 2694x5868.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img65/09.jpg",
+   "source_px": [
+    2694,
+    5868
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "designer",
+     "v": "Alfred Roller"
+    },
+    {
+     "k": "client",
+     "v": "Vienna Secession"
+    },
+    {
+     "k": "client",
+     "v": "Ver Sacrum"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons: 'Plakat für die XIV. Ausstellung der Secession', Alfred Roller, 1902, public domain. The sheet letters XIV AUSSTELLUNG DER VEREINIGUNG DER BILDENDEN KÜNSTLER OESTERREICHS SECESSION WIEN, KLINGER BEETHOVEN, APRIL-JUNI 1902, EINTRITT 1 K, VER SACRUM V. JAHR — the Beethoven exhibition. ⚠️ HELD FROM COMMONS, NOT FROM TODD'S LINK: his was a Blogger re-host of Wikimedia's `800px-` THUMBNAIL, and the original is 2694x5868.",
+   "hue": 35.81,
+   "light": 0.5827,
+   "chroma": 0.975,
+   "punch": 0.3313
+  },
+  "sent-2026-09-08f::7b8e8d5ea46f": {
+   "id": "CRVI002633",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002633.jpg",
+   "original_px": [
+    1200,
+    1585
+   ],
+   "original_bytes": 783638,
+   "identity": "sent-2026-09-08f::7b8e8d5ea46f",
+   "source_url": "https://media.mutualart.com/Images/2024_08/24/17/71105045/alfred-roller-alfred-roller---secession--JKRWO.Jpeg?w=768",
+   "maker": "Alfred Roller",
+   "title": "Deutsche Kunst und Dekoration, 5. Jahrgang Heft 10",
+   "subtitle": "",
+   "year": "1902",
+   "label": "",
+   "verified_against": "THE COVER ITSELF, which letters XIV. AUSSTELLUNG DER VEREINIGUNG BILDENDER KUENSTLER ÖSTERREICHS above a red-and-gold patterned panel reading SECESSION WIEN, then VERLAG ALEX KOCH DARMSTADT, DEUTSCHE KUNST UND DEKORATION and '5. JAHRGANG · HEFT 10 · JULI 1902 · EINZELPREIS M 2.50', with a small R monogram beside DEKORATION. The hosting MutualArt file is named `alfred-roller-alfred-roller---secession--`. So: Roller's cover for the July 1902 issue of Alexander Koch's magazine, given over to the XIV Secession exhibition. ⚠️ WHICH AUCTION LOT THIS PARTICULAR COPY IS was not established — the file is a bare hash.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img65/10.jpg",
+   "source_px": [
+    1200,
+    1585
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "designer",
+     "v": "Alfred Roller"
+    },
+    {
+     "k": "client",
+     "v": "Alexander Koch"
+    },
+    {
+     "k": "client",
+     "v": "Deutsche Kunst und Dekoration"
+    },
+    {
+     "k": "client",
+     "v": "Vienna Secession"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE COVER ITSELF, which letters XIV. AUSSTELLUNG DER VEREINIGUNG BILDENDER KUENSTLER ÖSTERREICHS above a red-and-gold patterned panel reading SECESSION WIEN, then VERLAG ALEX KOCH DARMSTADT, DEUTSCHE KUNST UND DEKORATION and '5. JAHRGANG · HEFT 10 · JULI 1902 · EINZELPREIS M 2.50', with a small R monogram beside DEKORATION. The hosting MutualArt file is named `alfred-roller-alfred-roller---secession--`. So: Roller's cover for the July 1902 issue of Alexander Koch's magazine, given over to the XIV Secession exhibition. ⚠️ WHICH AUCTION LOT THIS PARTICULAR COPY IS was not established — the file is a bare hash.",
+   "hue": 25.49,
+   "light": 0.6695,
+   "chroma": 0.7772,
+   "punch": 0.2241
+  },
+  "sent-2026-09-08f::087aedba637b": {
+   "id": "CRVI002634",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002634.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 214127,
+   "identity": "sent-2026-09-08f::087aedba637b",
+   "source_url": "https://i.pinimg.com/originals/fe/9f/ea/fe9fea19b2d4fa89b0e448a421fab43a.jpg",
+   "maker": "Joseph Maria Olbrich",
+   "title": "Kölner Ausstellung",
+   "subtitle": "",
+   "year": "1907",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF, which is signed OLBRICH in the top-right corner and letters MAI KÖLNER OCTOBER / AUSSTELLUNG / VERANSTALTET V.D.A.G. FLORA / KUNST UND KUNSTGEWERBE / WECHSELNDE AUSSTELLUNGEN, with the printer's line 'LITH. u. DRUCK M. DUMONT SCHAUBERG, KÖLN' at the foot. A helmeted Athena holding a Nike stands inside a blue laurel lozenge. Google Lens resolves it, via Christie's and MeisterDrucke, to Olbrich's 1907 Kölner Ausstellung poster. ⚠️ The hosting file is a bare Pinterest original.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img65/11.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "designer",
+     "v": "Joseph Maria Olbrich"
+    },
+    {
+     "k": "client",
+     "v": "Kölner Ausstellung"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "city",
+     "v": "Cologne"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, which is signed OLBRICH in the top-right corner and letters MAI KÖLNER OCTOBER / AUSSTELLUNG / VERANSTALTET V.D.A.G. FLORA / KUNST UND KUNSTGEWERBE / WECHSELNDE AUSSTELLUNGEN, with the printer's line 'LITH. u. DRUCK M. DUMONT SCHAUBERG, KÖLN' at the foot. A helmeted Athena holding a Nike stands inside a blue laurel lozenge. Google Lens resolves it, via Christie's and MeisterDrucke, to Olbrich's 1907 Kölner Ausstellung poster. ⚠️ The hosting file is a bare Pinterest original.",
+   "hue": 25.74,
+   "light": 0.7278,
+   "chroma": 0.2983,
+   "punch": 0.0765
+  },
+  "sent-2026-09-08f::f5edf0f82e33": {
+   "id": "CRVI002635",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002635.jpg",
+   "original_px": [
+    1124,
+    800
+   ],
+   "original_bytes": 293717,
+   "identity": "sent-2026-09-08f::f5edf0f82e33",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Josef_Maria_Auchentaller_-_Kathreiners_Kneipp-Malz-Kaffee%2C_1898.jpg",
+   "maker": "Josef Maria Auchentaller",
+   "title": "Kathreiners Kneipp-Malz-Kaffee",
+   "subtitle": "",
+   "year": "1898",
+   "label": "",
+   "verified_against": "Wikimedia Commons: 'Josef Maria Auchentaller - Kathreiners Kneipp-Malz-Kaffee, 1898. Plakat. 82 x 123 cm', public domain, credited from poster-auctioneer.com. Three women in red, yellow and orange sit with cups on a green ground, VORZÜGLICHSTES up the left edge and KAFFEEGETRÄNK up the right. ⚠️ AT 1124x800 THIS SITS EXACTLY ON THE ARCHIVE'S 800 px FLOOR — it is the largest copy Commons holds, and two probes of the auction house's own image paths returned nothing.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img65/12.jpg",
+   "source_px": [
+    1124,
+    800
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "advertising poster"
+    },
+    {
+     "k": "decade",
+     "v": "1890s"
+    },
+    {
+     "k": "designer",
+     "v": "Josef Maria Auchentaller"
+    },
+    {
+     "k": "client",
+     "v": "Kathreiner"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons: 'Josef Maria Auchentaller - Kathreiners Kneipp-Malz-Kaffee, 1898. Plakat. 82 x 123 cm', public domain, credited from poster-auctioneer.com. Three women in red, yellow and orange sit with cups on a green ground, VORZÜGLICHSTES up the left edge and KAFFEEGETRÄNK up the right. ⚠️ AT 1124x800 THIS SITS EXACTLY ON THE ARCHIVE'S 800 px FLOOR — it is the largest copy Commons holds, and two probes of the auction house's own image paths returned nothing.",
+   "hue": 37.87,
+   "light": 0.4062,
+   "chroma": 0.9523,
+   "punch": 0.3565
+  },
+  "sent-2026-09-08f::38a85350e3d7": {
+   "id": "CRVI002636",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002636.jpg",
+   "original_px": [
+    2618,
+    3474
+   ],
+   "original_bytes": 2693890,
+   "identity": "sent-2026-09-08f::38a85350e3d7",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Josef_Maria_Auchentaller_-_Jugend_Nr._25%2C_1896.jpg",
+   "maker": "Josef Maria Auchentaller",
+   "title": "Jugend Nr. 25, 1896",
+   "subtitle": "",
+   "year": "1896",
+   "label": "",
+   "verified_against": "Wikimedia Commons: 'Josef Maria Auchentaller — Umschlag der Kunst- und Literaturzeitschrift \"Jugend\", Ausgabe Nr. 25/1896', dated 20 June 1896, public domain, from 'Jugend: Münchner illustrierte Wochenschrift für Kunst und Leben, 1.1896, Band 1'. The cover letters JUGEND over two figures running with a bough and a cup along a bank. ⚠️ 1896 predates both the Secession (1897) and the Wiener Werkstätte, and *Jugend* is a Munich magazine.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img65/13.jpg",
+   "source_px": [
+    2618,
+    3474
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "decade",
+     "v": "1890s"
+    },
+    {
+     "k": "designer",
+     "v": "Josef Maria Auchentaller"
+    },
+    {
+     "k": "client",
+     "v": "Jugend"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "city",
+     "v": "Munich"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons: 'Josef Maria Auchentaller — Umschlag der Kunst- und Literaturzeitschrift \"Jugend\", Ausgabe Nr. 25/1896', dated 20 June 1896, public domain, from 'Jugend: Münchner illustrierte Wochenschrift für Kunst und Leben, 1.1896, Band 1'. The cover letters JUGEND over two figures running with a bough and a cup along a bank. ⚠️ 1896 predates both the Secession (1897) and the Wiener Werkstätte, and *Jugend* is a Munich magazine.",
+   "hue": 41.45,
+   "light": 0.4298,
+   "chroma": 0.8307,
+   "punch": 0.2542
+  },
+  "sent-2026-09-08f::403a8ebfbf0a": {
+   "id": "CRVI002637",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002637.jpg",
+   "original_px": [
+    1185,
+    2368
+   ],
+   "original_bytes": 2554486,
+   "identity": "sent-2026-09-08f::403a8ebfbf0a",
+   "source_url": "https://www.theviennasecession.com/wp-content/uploads/2012/12/4073244882_20e2d9e6de_oJoseph-Maria-Auchentaller.jpg",
+   "maker": "Josef Maria Auchentaller",
+   "title": "Ansichtskarten-Lotterie",
+   "subtitle": "",
+   "year": "1900",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF, which letters ANSICHTSKARTEN LOTTERIE with a drawing date of 18 August 1900 and a HAUPTTREFFER line, a woman balancing on a golden orb inside a cascade of postcards. Google Lens resolves it, via Alamy, to Josef Maria Auchentaller, 1900, colour lithograph — a lottery in aid of the Empress Elisabeth Hospital of the Red Cross.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img65/14.jpg",
+   "source_px": [
+    1185,
+    2368
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "advertising poster"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "designer",
+     "v": "Josef Maria Auchentaller"
+    },
+    {
+     "k": "client",
+     "v": "Rotes Kreuz"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, which letters ANSICHTSKARTEN LOTTERIE with a drawing date of 18 August 1900 and a HAUPTTREFFER line, a woman balancing on a golden orb inside a cascade of postcards. Google Lens resolves it, via Alamy, to Josef Maria Auchentaller, 1900, colour lithograph — a lottery in aid of the Empress Elisabeth Hospital of the Red Cross.",
+   "hue": 51.37,
+   "light": 0.5253,
+   "chroma": 0.4873,
+   "punch": 0.2396
+  },
+  "sent-2026-09-08f::e70508e22d63": {
+   "id": "CRVI002638",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002638.jpg",
+   "original_px": [
+    1796,
+    1845
+   ],
+   "original_bytes": 1563584,
+   "identity": "sent-2026-09-08f::e70508e22d63",
+   "source_url": "https://www.theviennasecession.com/wp-content/uploads/2012/12/AUCHENTALLER-ZEICHNUNGEN-2.jpg",
+   "maker": "Josef Maria Auchentaller",
+   "title": "Studie zu einem Placat in 3 Farben",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "THE PLATE'S OWN LETTERPRESS CAPTION, printed in the right margin: 'Studie zu einem Placat in 3 Farben. Für V. S. gez. v. J. M. Auchentaller OM.' — a study for a poster in three colours, drawn for *Ver Sacrum* — with the folio 151 below and the artist's JMA monogram inside the image at the lower left. Two Pierrots flank a woman in black against orange and violet. ⚠️ NO YEAR IS GIVEN by the plate or its host. ⚠️ CROPPED AT TODD'S INSTRUCTION: the page, the caption and the folio removed, the printed block kept.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img65/15.jpg",
+   "source_px": [
+    1796,
+    1845
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "designer",
+     "v": "Josef Maria Auchentaller"
+    },
+    {
+     "k": "client",
+     "v": "Ver Sacrum"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE PLATE'S OWN LETTERPRESS CAPTION, printed in the right margin: 'Studie zu einem Placat in 3 Farben. Für V. S. gez. v. J. M. Auchentaller OM.' — a study for a poster in three colours, drawn for *Ver Sacrum* — with the folio 151 below and the artist's JMA monogram inside the image at the lower left. Two Pierrots flank a woman in black against orange and violet. ⚠️ NO YEAR IS GIVEN by the plate or its host. ⚠️ CROPPED AT TODD'S INSTRUCTION: the page, the caption and the folio removed, the printed block kept.",
+   "hue": 25.0,
+   "light": 0.4924,
+   "chroma": 0.6961,
+   "punch": 0.3847
+  },
+  "sent-2026-09-08f::01d888845783": {
+   "id": "CRVI002639",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002639.jpg",
+   "original_px": [
+    1880,
+    2612
+   ],
+   "original_bytes": 2855154,
+   "identity": "sent-2026-09-08f::01d888845783",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Ferdinand_andri%2C_poster_della_xxvi_mostra_della_secessione%2C_vienna_1906%2C_litografia.jpg",
+   "maker": "Ferdinand Andri",
+   "title": "XXVI. Ausstellung Secession",
+   "subtitle": "",
+   "year": "1906",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF, which letters XXVI AUSSTELLUNG over SECESSION beneath a range of zigzag firs against red and black waves, with the printer's line 'LITH. u. DRUCK A. BERGER, WIEN' at the foot; and the Wikimedia Commons file name, 'Ferdinand Andri, poster della XXVI mostra della secessione, Vienna 1906, litografia'. ⚠️ COMMONS' `Artist` FIELD SAYS 'Sailko' AND ITS DATE SAYS 2017 — that is the Wikimedian who PHOTOGRAPHED the framed poster in an exhibition, not the designer and not the poster's date. ℹ️ Held as photographed, frame and all: unlike two others in this batch that frame is a real object, not a seller's mockup.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img65/16.jpg",
+   "source_px": [
+    1880,
+    2612
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "designer",
+     "v": "Ferdinand Andri"
+    },
+    {
+     "k": "client",
+     "v": "Vienna Secession"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, which letters XXVI AUSSTELLUNG over SECESSION beneath a range of zigzag firs against red and black waves, with the printer's line 'LITH. u. DRUCK A. BERGER, WIEN' at the foot; and the Wikimedia Commons file name, 'Ferdinand Andri, poster della XXVI mostra della secessione, Vienna 1906, litografia'. ⚠️ COMMONS' `Artist` FIELD SAYS 'Sailko' AND ITS DATE SAYS 2017 — that is the Wikimedian who PHOTOGRAPHED the framed poster in an exhibition, not the designer and not the poster's date. ℹ️ Held as photographed, frame and all: unlike two others in this batch that frame is a real object, not a seller's mockup.",
+   "hue": 34.79,
+   "light": 0.5381,
+   "chroma": 0.878,
+   "punch": 0.2359
+  },
+  "sent-2026-09-08f::5ee045d98e82": {
+   "id": "CRVI002640",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002640.jpg",
+   "original_px": [
+    1675,
+    2383
+   ],
+   "original_bytes": 2749681,
+   "identity": "sent-2026-09-08f::5ee045d98e82",
+   "source_url": "https://i.etsystatic.com/40628758/r/il/f9c92f/5984657866/il_fullxfull.5984657866_7mt9.jpg",
+   "maker": "Ferdinand Hodler",
+   "title": "Secession XIX. Ausstellung",
+   "subtitle": "",
+   "year": "1904",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF, which letters SECESSION / XIX AUSSTELLUNG DER VEREINIGUNG BILDENDER KÜNSTLER ÖSTERREICHS / JANUAR FEBRUAR 9-7 UHR / EINTRITT 1 KRONE / VER SACRUM in cloud bands over a reclining nude in a flowering field, with 'LITH. u. DRUCK A. BERGER, WIEN' at the foot. Google Lens resolves it to Ferdinand Hodler's poster for the XIX Secession exhibition, 1904. ⚠️ NOT Andri, whose XXVI poster is also in this batch. ⚠️ CROPPED WITHOUT BEING ASKED: the source is an Etsy print listing that DRAWS a black frame and cream mount around the poster on a white ground — a product mockup, not a photograph of an object.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img65/17.jpg",
+   "source_px": [
+    1675,
+    2383
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "designer",
+     "v": "Ferdinand Hodler"
+    },
+    {
+     "k": "client",
+     "v": "Vienna Secession"
+    },
+    {
+     "k": "client",
+     "v": "Ver Sacrum"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, which letters SECESSION / XIX AUSSTELLUNG DER VEREINIGUNG BILDENDER KÜNSTLER ÖSTERREICHS / JANUAR FEBRUAR 9-7 UHR / EINTRITT 1 KRONE / VER SACRUM in cloud bands over a reclining nude in a flowering field, with 'LITH. u. DRUCK A. BERGER, WIEN' at the foot. Google Lens resolves it to Ferdinand Hodler's poster for the XIX Secession exhibition, 1904. ⚠️ NOT Andri, whose XXVI poster is also in this batch. ⚠️ CROPPED WITHOUT BEING ASKED: the source is an Etsy print listing that DRAWS a black frame and cream mount around the poster on a white ground — a product mockup, not a photograph of an object.",
+   "hue": 34.52,
+   "light": 0.626,
+   "chroma": 0.7424,
+   "punch": 0.2159
+  },
+  "sent-2026-09-08f::8ff76604569c": {
+   "id": "CRVI002641",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002641.jpg",
+   "original_px": [
+    2429,
+    3400
+   ],
+   "original_bytes": 1188482,
+   "identity": "sent-2026-09-08f::8ff76604569c",
+   "source_url": "https://openaccess-cdn.clevelandart.org/1924.550/1924.550_print.jpg",
+   "maker": "Emil Orlik",
+   "title": "Chinese Actor and Two Sketches of a Woman's Head",
+   "subtitle": "",
+   "year": "1912",
+   "label": "",
+   "verified_against": "The Cleveland Museum of Art, accession 1924.550: 'Chinese Actor and Two Sketches of a Woman's Head', Emil Orlik (Czech, 1870-1932), 1912, black crayon and watercolour with gouache for the main figure and black crayon for the two heads, sheet 26.7 x 18.7 cm, Dudley P. Allen Fund, CC0. ⚠️ NOT A SECESSION POSTER AND NOT BY SCHIELE — it arrived inside a Secession run and reads like one, but the museum names Orlik.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img65/18.jpg",
+   "source_px": [
+    2429,
+    3400
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "artist",
+     "v": "Emil Orlik"
+    },
+    {
+     "k": "subject",
+     "v": "theatre"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Cleveland Museum of Art, accession 1924.550: 'Chinese Actor and Two Sketches of a Woman's Head', Emil Orlik (Czech, 1870-1932), 1912, black crayon and watercolour with gouache for the main figure and black crayon for the two heads, sheet 26.7 x 18.7 cm, Dudley P. Allen Fund, CC0. ⚠️ NOT A SECESSION POSTER AND NOT BY SCHIELE — it arrived inside a Secession run and reads like one, but the museum names Orlik.",
+   "hue": 37.77,
+   "light": 0.7804,
+   "chroma": 0.8711,
+   "punch": 0.1497
+  },
+  "sent-2026-09-08f::1968cfc9b5da": {
+   "id": "CRVI002642",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002642.jpg",
+   "original_px": [
+    1244,
+    1360
+   ],
+   "original_bytes": 1327504,
+   "identity": "sent-2026-09-08f::1968cfc9b5da",
+   "source_url": "https://media.mutualart.com/Images/2025_05/02/17/173047128/06e96e94-79c7-46b1-ab0b-2a7a0d263dac.Jpeg",
+   "maker": "Maximilian Kurzweil",
+   "title": "Der Polster (The Cushion)",
+   "subtitle": "",
+   "year": "1903",
+   "label": "",
+   "verified_against": "Google Lens resolves this bare MutualArt file to Maximilian Kurzweil's 'Der Polster' (The Cushion), 1903, a colour woodcut on Japanese paper, of which the Metropolitan Museum of Art and MoMA both hold impressions; the sitter is generally identified as the artist's wife Martha. A woman in a blue-grey dress leans over the arm of a divan against yellow-and-green patterned upholstery. Kurzweil was a founding member of the Vienna Secession. ⚠️ WHICH AUCTION LOT THIS IMPRESSION IS was not established — the file is a bare hash.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img65/19.jpg",
+   "source_px": [
+    1244,
+    1360
+   ],
+   "colors": [
+    "orange",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "artist",
+     "v": "Maximilian Kurzweil"
+    },
+    {
+     "k": "client",
+     "v": "Vienna Secession"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Google Lens resolves this bare MutualArt file to Maximilian Kurzweil's 'Der Polster' (The Cushion), 1903, a colour woodcut on Japanese paper, of which the Metropolitan Museum of Art and MoMA both hold impressions; the sitter is generally identified as the artist's wife Martha. A woman in a blue-grey dress leans over the arm of a divan against yellow-and-green patterned upholstery. Kurzweil was a founding member of the Vienna Secession. ⚠️ WHICH AUCTION LOT THIS IMPRESSION IS was not established — the file is a bare hash.",
+   "hue": 24.98,
+   "light": 0.4666,
+   "chroma": 0.2856,
+   "punch": 0.1114
+  },
+  "sent-2026-09-08f::bebe76268da2": {
+   "id": "CRVI002643",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002643.jpg",
+   "original_px": [
+    2527,
+    3176
+   ],
+   "original_bytes": 1561077,
+   "identity": "sent-2026-09-08f::bebe76268da2",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Selbstportrait_Wilhelm-List_28x22cm.png",
+   "maker": "Wilhelm List",
+   "title": "Selbstporträt",
+   "subtitle": "",
+   "year": "1889",
+   "label": "",
+   "verified_against": "Wikimedia Commons: 'Selbstportrait Wilhelm List (Maler)', Wilhelm List, 1889, public domain, 28 x 22 cm, the uploader noting the picture is in private hands and the photograph their own. The painter sits in his studio in a blue smock and pince-nez, a cast, a plant and a small framed picture behind him. ⚠️ 1889 is eight years before the Secession, which List later joined. ⚠️ CROPPED AT TODD'S INSTRUCTION — the photographed panel edge trimmed.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img65/20.jpg",
+   "source_px": [
+    2527,
+    3176
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1880s"
+    },
+    {
+     "k": "artist",
+     "v": "Wilhelm List"
+    },
+    {
+     "k": "subject",
+     "v": "self-portrait"
+    },
+    {
+     "k": "client",
+     "v": "Vienna Secession"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons: 'Selbstportrait Wilhelm List (Maler)', Wilhelm List, 1889, public domain, 28 x 22 cm, the uploader noting the picture is in private hands and the photograph their own. The painter sits in his studio in a blue smock and pince-nez, a cast, a plant and a small framed picture behind him. ⚠️ 1889 is eight years before the Secession, which List later joined. ⚠️ CROPPED AT TODD'S INSTRUCTION — the photographed panel edge trimmed.",
+   "hue": 41.46,
+   "light": 0.3211,
+   "chroma": 0.1325,
+   "punch": 0.0762
+  },
+  "sent-2026-09-08f::35cdd00a463c": {
+   "id": "CRVI002644",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002644.jpg",
+   "original_px": [
+    1786,
+    1874
+   ],
+   "original_bytes": 2077497,
+   "identity": "sent-2026-09-08f::35cdd00a463c",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Leopold_Stolba_Ver_Sacrum_1903_S_281.jpg",
+   "maker": "Leopold Stolba",
+   "title": "Holzschnitt, Ver Sacrum 1903, S. 281",
+   "subtitle": "",
+   "year": "1903",
+   "label": "",
+   "verified_against": "Wikimedia Commons: 'Holzschnitt von Leopold Stolba, aus: \"Ver Sacrum. Mitteilungen der Vereinigung Bildender Künstler Österreichs\", 1903, Jahrgang VI, Heft 16, Heftformat 26 x 24,5 cm', public domain, credited to Dorotheum. A woman's head in profile under a spiral-crowned hat, cut in coarse black on grey. The plate's own caption reads 'Original-Holzschnitt v. Leop. Stolba OM.' with the folio 281. ⚠️ CROPPED AT TODD'S INSTRUCTION: caption and folio removed, the woodcut kept.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img65/21.jpg",
+   "source_px": [
+    1786,
+    1874
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "artist",
+     "v": "Leopold Stolba"
+    },
+    {
+     "k": "client",
+     "v": "Ver Sacrum"
+    },
+    {
+     "k": "client",
+     "v": "Vienna Secession"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons: 'Holzschnitt von Leopold Stolba, aus: \"Ver Sacrum. Mitteilungen der Vereinigung Bildender Künstler Österreichs\", 1903, Jahrgang VI, Heft 16, Heftformat 26 x 24,5 cm', public domain, credited to Dorotheum. A woman's head in profile under a spiral-crowned hat, cut in coarse black on grey. The plate's own caption reads 'Original-Holzschnitt v. Leop. Stolba OM.' with the folio 281. ⚠️ CROPPED AT TODD'S INSTRUCTION: caption and folio removed, the woodcut kept.",
+   "hue": null,
+   "light": 0.4598,
+   "chroma": 0.0732,
+   "punch": 0.0482
+  },
+  "sent-2026-09-08f::72f021611637": {
+   "id": "CRVI002645",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002645.jpg",
+   "original_px": [
+    1824,
+    1898
+   ],
+   "original_bytes": 1738366,
+   "identity": "sent-2026-09-08f::72f021611637",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Leopold_Stolba_Ver_Sacrum_1903_S_279.jpg",
+   "maker": "Leopold Stolba",
+   "title": "Holzschnitt, Ver Sacrum 1903, S. 279",
+   "subtitle": "",
+   "year": "1903",
+   "label": "",
+   "verified_against": "Wikimedia Commons: 'Holzschnitt von Leopold Stolba, aus: \"Ver Sacrum. Mitteilungen der Vereinigung Bildender Künstler Österreichs\", 1903, Jahrgang VI, Heft 16, Heftformat 26 x 24,5 cm', public domain, credited to Dorotheum. White lilies with yellow stamens over a yellow band on grey. The plate's own caption reads 'Original-Holzschnitt v. Leop. Stolba OM.' with the folio 279. ⚠️ CROPPED AT TODD'S INSTRUCTION: caption and folio removed.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img65/22.jpg",
+   "source_px": [
+    1824,
+    1898
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "artist",
+     "v": "Leopold Stolba"
+    },
+    {
+     "k": "client",
+     "v": "Ver Sacrum"
+    },
+    {
+     "k": "client",
+     "v": "Vienna Secession"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons: 'Holzschnitt von Leopold Stolba, aus: \"Ver Sacrum. Mitteilungen der Vereinigung Bildender Künstler Österreichs\", 1903, Jahrgang VI, Heft 16, Heftformat 26 x 24,5 cm', public domain, credited to Dorotheum. White lilies with yellow stamens over a yellow band on grey. The plate's own caption reads 'Original-Holzschnitt v. Leop. Stolba OM.' with the folio 279. ⚠️ CROPPED AT TODD'S INSTRUCTION: caption and folio removed.",
+   "hue": 37.74,
+   "light": 0.6674,
+   "chroma": 0.3396,
+   "punch": 0.0955
+  },
+  "sent-2026-09-08f::cc1dbe5ab582": {
+   "id": "CRVI002646",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002646.jpg",
+   "original_px": [
+    3500,
+    8020
+   ],
+   "original_bytes": 2174815,
+   "identity": "sent-2026-09-08f::cc1dbe5ab582",
+   "source_url": "https://onlinecollection.leopoldmuseum.org/images/web-ex-36151-dlrlg-full.jpg",
+   "maker": "Joseph Maria Olbrich",
+   "title": "Plakat für die II. Ausstellung der Wiener Secession",
+   "subtitle": "",
+   "year": "1898",
+   "label": "",
+   "verified_against": "The Leopold Museum, Vienna: 'Poster for the 2nd Exhibition of the Vienna Secession', design by Joseph Maria Olbrich, lithograph and print by Albert Berger, Vienna, 1898, colour lithograph on paper, 86.5 x 46 cm. The sheet shows Olbrich's own newly finished Secession pavilion with its openwork laurel dome above the lettering SECESSION / KUNSTAUSSTELLUNG D. VEREINIGUNG BILDEN. DER KÜNSTLER OESTERREICHS / WIEN WIENZEILE / VOM 12. NOVEMBER BIS ENDE DECEMBER. ℹ️ HELD AT THE MUSEUM'S UNDOCUMENTED `-full` TIER, 3500x8020, against 992x2273.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img65/23.jpg",
+   "source_px": [
+    3500,
+    8020
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "decade",
+     "v": "1890s"
+    },
+    {
+     "k": "designer",
+     "v": "Joseph Maria Olbrich"
+    },
+    {
+     "k": "client",
+     "v": "Vienna Secession"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Leopold Museum, Vienna: 'Poster for the 2nd Exhibition of the Vienna Secession', design by Joseph Maria Olbrich, lithograph and print by Albert Berger, Vienna, 1898, colour lithograph on paper, 86.5 x 46 cm. The sheet shows Olbrich's own newly finished Secession pavilion with its openwork laurel dome above the lettering SECESSION / KUNSTAUSSTELLUNG D. VEREINIGUNG BILDEN. DER KÜNSTLER OESTERREICHS / WIEN WIENZEILE / VOM 12. NOVEMBER BIS ENDE DECEMBER. ℹ️ HELD AT THE MUSEUM'S UNDOCUMENTED `-full` TIER, 3500x8020, against 992x2273.",
+   "hue": 35.27,
+   "light": 0.5994,
+   "chroma": 0.7047,
+   "punch": 0.124
+  },
+  "sent-2026-09-08f::46f38febc3b2": {
+   "id": "CRVI002647",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002647.jpg",
+   "original_px": [
+    2215,
+    3400
+   ],
+   "original_bytes": 2331604,
+   "identity": "sent-2026-09-08f::46f38febc3b2",
+   "source_url": "https://openaccess-cdn.clevelandart.org/1964.285/1964.285_print.jpg",
+   "maker": "Egon Schiele",
+   "title": "Portrait of a Child (Anton Peschka Jr.)",
+   "subtitle": "",
+   "year": "1916",
+   "label": "",
+   "verified_against": "The Cleveland Museum of Art, accession 1964.285: 'Portrait of a Child (Anton Peschka Jr.)', Egon Schiele (Austrian, 1890-1918), 1916, gouache, watercolour and graphite, sheet 49.9 x 32.2 cm, Severance and Greta Millikin Collection, CC0. The sitter is the artist's nephew, son of his sister Gertrude and the painter Anton Peschka.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img65/24.jpg",
+   "source_px": [
+    2215,
+    3400
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "artist",
+     "v": "Egon Schiele"
+    },
+    {
+     "k": "subject",
+     "v": "Anton Peschka Jr."
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Cleveland Museum of Art, accession 1964.285: 'Portrait of a Child (Anton Peschka Jr.)', Egon Schiele (Austrian, 1890-1918), 1916, gouache, watercolour and graphite, sheet 49.9 x 32.2 cm, Severance and Greta Millikin Collection, CC0. The sitter is the artist's nephew, son of his sister Gertrude and the painter Anton Peschka.",
+   "hue": 34.5,
+   "light": 0.7118,
+   "chroma": 0.972,
+   "punch": 0.2451
+  },
+  "sent-2026-09-08f::bfea8d9272c8": {
+   "id": "CRVI002648",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002648.jpg",
+   "original_px": [
+    976,
+    1390
+   ],
+   "original_bytes": 537087,
+   "identity": "sent-2026-09-08f::bfea8d9272c8",
+   "source_url": "https://xeuxis.com/wp-content/uploads/2023/12/XC087a-schiele-secession-ausstellung.webp",
+   "maker": "Egon Schiele",
+   "title": "Secession 49. Ausstellung",
+   "subtitle": "",
+   "year": "1918",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF, which letters SECESSION / 49. AUSSTELLUNG / 9-6 / 1 K beneath a group seated round a long table, is signed and dated EGON SCHIELE 1918 in the plate at the right, and carries the printer's line 'STEINDRUCK ALB. BERGER WIEN VIII.' at the lower left. Schiele's poster for the 49th Secession exhibition of 1918, the one that made his name and the last before his death that October. ⚠️ CROPPED WITHOUT BEING ASKED: the source is an xeuxis print listing that DRAWS a black frame and mount around the poster — a product mockup, not a photograph of an object.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img65/25.jpg",
+   "source_px": [
+    976,
+    1390
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
+    },
+    {
+     "k": "designer",
+     "v": "Egon Schiele"
+    },
+    {
+     "k": "artist",
+     "v": "Egon Schiele"
+    },
+    {
+     "k": "client",
+     "v": "Vienna Secession"
+    },
+    {
+     "k": "location",
+     "v": "Austria"
+    },
+    {
+     "k": "city",
+     "v": "Vienna"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, which letters SECESSION / 49. AUSSTELLUNG / 9-6 / 1 K beneath a group seated round a long table, is signed and dated EGON SCHIELE 1918 in the plate at the right, and carries the printer's line 'STEINDRUCK ALB. BERGER WIEN VIII.' at the lower left. Schiele's poster for the 49th Secession exhibition of 1918, the one that made his name and the last before his death that October. ⚠️ CROPPED WITHOUT BEING ASKED: the source is an xeuxis print listing that DRAWS a black frame and mount around the poster — a product mockup, not a photograph of an object.",
+   "hue": 43.6,
+   "light": 0.4135,
+   "chroma": 0.4078,
+   "punch": 0.1125
   }
  }
 }
