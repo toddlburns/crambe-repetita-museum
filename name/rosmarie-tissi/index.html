@@ -1,0 +1,50 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>Rosmarie Tissi — Crambe Repetita Museum</title><link rel="stylesheet" href="../../style.css"></head><body><div class="crumb"><span class="t">ROSMARIE TISSI</span><span class="c">10 items</span><span class="roles"><a href="../../tag/designer/rosmarie-tissi/">as designer (9)</a> · <a href="../../tag/subject/rosmarie-tissi/">as subject (1)</a></span><a href="../../tags/">&#8592; all tags</a></div><div class="grid"><a class="cell" href="../../CRVI002798/"><div class="inner"><img src="../../thumbs/CRVI002798.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002798</span>Rosmarie Tissi - Serenaden 92<br>1992</div></a><a class="cell" href="../../CRVI002802/"><div class="inner"><img src="../../thumbs/CRVI002802.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002802</span>Rosmarie Tissi - Serenaden 96<br>1996</div></a><a class="cell" href="../../CRVI002803/"><div class="inner"><img src="../../thumbs/CRVI002803.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002803</span>Rosmarie Tissi - Serenaden 98<br>1998</div></a><a class="cell" href="../../CRVI002806/"><div class="inner"><img src="../../thumbs/CRVI002806.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002806</span>Rosmarie Tissi - UCLA Extension<br></div></a><a class="cell" href="../../CRVI002807/"><div class="inner"><img src="../../thumbs/CRVI002807.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002807</span>Rosmarie Tissi - Serenaden 93<br>1993</div></a><a class="cell" href="../../CRVI002808/"><div class="inner"><img src="../../thumbs/CRVI002808.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002808</span>Rosmarie Tissi - Offset, for Anton Schöb<br>1982</div></a><a class="cell" href="../../CRVI002810/"><div class="inner"><img src="../../thumbs/CRVI002810.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002810</span>Rosmarie Tissi - Internationale Musikfestwochen Luzern<br>1994</div></a><a class="cell" href="../../CRVI002811/"><div class="inner"><img src="../../thumbs/CRVI002811.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002811</span>Rosmarie Tissi - Fotosatz / Offset, for Anton Schöb<br></div></a><a class="cell" href="../../CRVI002812/"><div class="inner"><img src="../../thumbs/CRVI002812.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002812</span>Rosmarie Tissi - World City Expo Tokyo '96<br>1994</div></a><a class="cell" href="../../CRVI002801/"><div class="inner"><img src="../../thumbs/CRVI002801.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002801</span>Unattributed - Rosmarie Tissi | Graphic Design Master<br></div></a></div><script>
+var SCALE=3;var t=null;
+// ⚠️ THE GIF IS FETCHED ON HOVER, NOT BEFORE. Setting src is what triggers the download, so a
+// grid cell ships the still poster and only swaps in the animation when the pointer arrives.
+// Pausing or hiding a GIF whose src is already set saves nothing — it is on the wire either way.
+// The poster is kept in data-poster so leaving restores it without a second fetch of anything.
+function playGif(c){
+  var im=c.querySelector('img.anim');
+  if(!im) return;
+  var g=im.getAttribute('data-gif');
+  if(!g||im.dataset.playing) return;
+  im.dataset.poster=im.getAttribute('src');
+  im.dataset.playing='1';
+  im.setAttribute('src',g);
+}
+function stopGif(c){
+  var im=c.querySelector('img.anim');
+  if(!im||!im.dataset.playing) return;
+  // back to the still, so a page full of gifs is not left all animating at once
+  im.setAttribute('src',im.dataset.poster);
+  delete im.dataset.playing;
+}
+// ⚠️ A VIDEO CANNOT BE SWAPPED INTO AN <img>. Where a gif item just changes src, a video item
+// lays a <video> over its still on hover and takes it away again on leave — same bargain as the
+// gif: nothing is on the wire until the pointer arrives, and a grid is never left all playing.
+function playVid(c){
+  var im=c.querySelector('img.anim'); if(!im) return;
+  var u=im.getAttribute('data-video'); if(!u||c.querySelector('video')) return;
+  var v=document.createElement('video');
+  v.src=u; v.autoplay=true; v.loop=true; v.muted=true; v.playsInline=true;
+  im.parentNode.appendChild(v);
+}
+function stopVid(c){ var v=c.querySelector('video'); if(v) v.parentNode.removeChild(v); }
+document.querySelectorAll('.cell').forEach(function(c){
+  c.addEventListener('mouseenter',function(){
+    playGif(c); playVid(c);
+    clearTimeout(t);
+    t=setTimeout(function(){
+      // transform does not change layout, so push the caption below the grown image
+      var im=c.querySelector('img'),cap=c.querySelector('.cap');
+      cap.style.transform='translateY('+im.getBoundingClientRect().height*(SCALE-1)+'px)';
+      c.classList.add('big');
+    },1000);
+  });
+  c.addEventListener('mouseleave',function(){
+    stopGif(c); stopVid(c);
+    clearTimeout(t);c.classList.remove('big');c.querySelector('.cap').style.transform='';
+  });
+});
+</script></body></html>

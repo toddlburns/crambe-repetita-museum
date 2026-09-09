@@ -145188,6 +145188,2914 @@
    "hue": 209.31,
    "light": 0.4857,
    "chroma": 0.629
+  },
+  {
+   "id": "CRVI002758",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.3065,
+   "source_url": "https://arthistoryproject.com/site/assets/files/33061/barkley_l._hendricks-sir_nelson._solid_-1970-trivium-art-history-1.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002758.jpg",
+   "source_label": "",
+   "image": "images/CRVI002758.jpg",
+   "original": "originals/CRVI002758.jpg",
+   "vector": "",
+   "original_px": [
+    1246,
+    1920
+   ],
+   "original_bytes": 140738,
+   "maker": "Barkley L. Hendricks",
+   "title": "Sir Nelson. Solid!",
+   "subtitle": "",
+   "year": "1970",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "artist",
+     "v": "Barkley L. Hendricks"
+    },
+    {
+     "k": "subject",
+     "v": "portrait"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 118.61,
+   "light": 0.3511,
+   "chroma": 0.985
+  },
+  {
+   "id": "CRVI002759",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.0,
+   "source_url": "https://media.newyorker.com/photos/6473852648c55341d9f1200b/master/Wiley-Hendricks-01.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002759.jpg",
+   "source_label": "",
+   "image": "images/CRVI002759.jpg",
+   "original": "originals/CRVI002759.jpg",
+   "vector": "",
+   "original_px": [
+    1707,
+    2560
+   ],
+   "original_bytes": 679022,
+   "maker": "Unattributed",
+   "title": "Barkley L. Hendricks photographing",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "subject",
+     "v": "photography"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "neutral"
+    }
+   ],
+   "hue": null,
+   "light": 0.6093,
+   "chroma": 0.0
+  },
+  {
+   "id": "CRVI002760",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.167,
+   "source_url": "https://images.squarespace-cdn.com/content/v1/5f763ea3346695400775be93/1602546565630-SD2E2Y9ZX9RDRLU8CI45/Barkley-L-Hendricks-Icon-For-My-Man-Superman-%28Superman-Never-Saved-Any-Black-People-Bobby-Seale%29.jpg?format=original",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002760.jpg",
+   "source_label": "",
+   "image": "images/CRVI002760.jpg",
+   "original": "originals/CRVI002760.jpg",
+   "vector": "",
+   "original_px": [
+    1441,
+    1800
+   ],
+   "original_bytes": 592333,
+   "maker": "Barkley L. Hendricks",
+   "title": "Icon for My Man Superman (Superman Never Saved Any Black People — Bobby Seale)",
+   "subtitle": "",
+   "year": "1969",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "artist",
+     "v": "Barkley L. Hendricks"
+    },
+    {
+     "k": "subject",
+     "v": "Bobby Seale"
+    },
+    {
+     "k": "subject",
+     "v": "portrait"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 212.13,
+   "light": 0.4994,
+   "chroma": 0.4049
+  },
+  {
+   "id": "CRVI002761",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.2756,
+   "source_url": "https://arthistoryproject.com/site/assets/files/33066/barkley_l._hendricks-photo_bloke-2016-trivium-art-history.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002761.jpg",
+   "source_label": "",
+   "image": "images/CRVI002761.jpg",
+   "original": "originals/CRVI002761.jpg",
+   "vector": "",
+   "original_px": [
+    1283,
+    1927
+   ],
+   "original_bytes": 188507,
+   "maker": "Barkley L. Hendricks",
+   "title": "Photo Bloke",
+   "subtitle": "",
+   "year": "2016",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "artist",
+     "v": "Barkley L. Hendricks"
+    },
+    {
+     "k": "subject",
+     "v": "portrait"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    }
+   ],
+   "hue": 343.34,
+   "light": 0.7445,
+   "chroma": 0.9643
+  },
+  {
+   "id": "CRVI002762",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.2729,
+   "source_url": "https://uploads1.wikiart.org/00287/images/barkley-l-hendricks/lawdy-mama-1969.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002762.jpg",
+   "source_label": "",
+   "image": "images/CRVI002762.jpg",
+   "original": "originals/CRVI002762.jpg",
+   "vector": "",
+   "original_px": [
+    848,
+    1251
+   ],
+   "original_bytes": 308375,
+   "maker": "Barkley L. Hendricks",
+   "title": "Lawdy Mama",
+   "subtitle": "",
+   "year": "1969",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "artist",
+     "v": "Barkley L. Hendricks"
+    },
+    {
+     "k": "subject",
+     "v": "portrait"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 36.96,
+   "light": 0.4342,
+   "chroma": 0.7297
+  },
+  {
+   "id": "CRVI002763",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.0584,
+   "source_url": "https://d7hftxdivxxvm.cloudfront.net/?quality=85&resize_to=width&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2F7EM9YAtUNvOSK9YeMN-5aQ%252F10572%2BLot%2B1%2B-%2BBarkley%2BHendricks%252C%2BMr.%2BJohnson%2B%2528Sammy%2Bfrom%2BMiami%2529.jpg&width=910",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002763.jpg",
+   "source_label": "",
+   "image": "images/CRVI002763.jpg",
+   "original": "originals/CRVI002763.jpg",
+   "vector": "",
+   "original_px": [
+    910,
+    876
+   ],
+   "original_bytes": 88962,
+   "maker": "Barkley L. Hendricks",
+   "title": "Mr. Johnson (Sammy from Miami)",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Barkley L. Hendricks"
+    },
+    {
+     "k": "subject",
+     "v": "portrait"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 17.96,
+   "light": 0.214,
+   "chroma": 0.2048
+  },
+  {
+   "id": "CRVI002764",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.1912,
+   "source_url": "https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24488_0037B_000(barkley_l_hendricks_jules043117).jpg?mode=max",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002764.jpg",
+   "source_label": "",
+   "image": "images/CRVI002764.jpg",
+   "original": "originals/CRVI002764.jpg",
+   "vector": "",
+   "original_px": [
+    2428,
+    3200
+   ],
+   "original_bytes": 1193688,
+   "maker": "Barkley L. Hendricks",
+   "title": "Untitled (man in yellow turtleneck and denim overalls)",
+   "subtitle": "",
+   "year": "1971",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "artist",
+     "v": "Barkley L. Hendricks"
+    },
+    {
+     "k": "subject",
+     "v": "portrait"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 28.69,
+   "light": 0.3689,
+   "chroma": 0.7372
+  },
+  {
+   "id": "CRVI002765",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.2187,
+   "source_url": "https://uploads6.wikiart.org/00287/images/barkley-l-hendricks/misc-tyrone-tyrone-smith-1976.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002765.jpg",
+   "source_label": "",
+   "image": "images/CRVI002765.jpg",
+   "original": "originals/CRVI002765.jpg",
+   "vector": "",
+   "original_px": [
+    829,
+    1200
+   ],
+   "original_bytes": 137629,
+   "maker": "Barkley L. Hendricks",
+   "title": "Misc. Tyrone (Tyrone Smith)",
+   "subtitle": "",
+   "year": "1976",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "artist",
+     "v": "Barkley L. Hendricks"
+    },
+    {
+     "k": "subject",
+     "v": "portrait"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 3.42,
+   "light": 0.642,
+   "chroma": 0.8315
+  },
+  {
+   "id": "CRVI002766",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.4106,
+   "source_url": "https://preview.redd.it/jh7y41v7xqj81.png?auto=webp&s=2c9b179b5077256c97297bcb5435faa3d81593ca",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002766.jpg",
+   "source_label": "",
+   "image": "images/CRVI002766.jpg",
+   "original": "originals/CRVI002766.png",
+   "vector": "",
+   "original_px": [
+    1163,
+    1275
+   ],
+   "original_bytes": 1052766,
+   "maker": "Barkley L. Hendricks",
+   "title": "FTA",
+   "subtitle": "",
+   "year": "1968",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "artist",
+     "v": "Barkley L. Hendricks"
+    },
+    {
+     "k": "subject",
+     "v": "portrait"
+    },
+    {
+     "k": "subject",
+     "v": "Vietnam War"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 80.74,
+   "light": 0.3151,
+   "chroma": 0.9741
+  },
+  {
+   "id": "CRVI002767",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.0808,
+   "source_url": "https://fineartconnoisseur.com/wp-content/uploads/2023/07/Hendricks-Brenda-P.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002767.jpg",
+   "source_label": "",
+   "image": "images/CRVI002767.jpg",
+   "original": "originals/CRVI002767.jpg",
+   "vector": "",
+   "original_px": [
+    2078,
+    3001
+   ],
+   "original_bytes": 251922,
+   "maker": "Barkley L. Hendricks",
+   "title": "Brenda P",
+   "subtitle": "",
+   "year": "1974",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "artist",
+     "v": "Barkley L. Hendricks"
+    },
+    {
+     "k": "subject",
+     "v": "portrait"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 44.12,
+   "light": 0.7644,
+   "chroma": 0.6068
+  },
+  {
+   "id": "CRVI002768",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.1937,
+   "source_url": "https://visualizing.jp/pie-chart-william-playfair/images/Playfair-pie-chairt-1_hu_e1a02e54002dfe4c.png",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002768.jpg",
+   "source_label": "",
+   "image": "images/CRVI002768.jpg",
+   "original": "originals/CRVI002768.png",
+   "vector": "",
+   "original_px": [
+    1024,
+    983
+   ],
+   "original_bytes": 570330,
+   "maker": "William Playfair",
+   "title": "Statistical Representation of the United States of America",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "designer",
+     "v": "William Playfair"
+    },
+    {
+     "k": "subject",
+     "v": "information graphic"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 43.21,
+   "light": 0.7177,
+   "chroma": 0.9496
+  },
+  {
+   "id": "CRVI002769",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.1657,
+   "source_url": "https://i.pinimg.com/originals/e0/4b/30/e04b302e38a10d17c99f449e0e270f50.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002769.jpg",
+   "source_label": "",
+   "image": "images/CRVI002769.jpg",
+   "original": "originals/CRVI002769.jpg",
+   "vector": "",
+   "original_px": [
+    1500,
+    885
+   ],
+   "original_bytes": 334494,
+   "maker": "William Playfair",
+   "title": "Universal Commercial History",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "designer",
+     "v": "William Playfair"
+    },
+    {
+     "k": "subject",
+     "v": "information graphic"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 35.23,
+   "light": 0.667,
+   "chroma": 0.6983
+  },
+  {
+   "id": "CRVI002770",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.1377,
+   "source_url": "https://flashbak.com/wp-content/uploads/2021/08/FN1.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002770.jpg",
+   "source_label": "",
+   "image": "images/CRVI002770.jpg",
+   "original": "originals/CRVI002770.jpg",
+   "vector": "",
+   "original_px": [
+    2044,
+    1828
+   ],
+   "original_bytes": 643199,
+   "maker": "Florence Nightingale",
+   "title": "Diagram Representing the Mortality in the Hospitals at Scutari and Kulali",
+   "subtitle": "",
+   "year": "1855",
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "decade",
+     "v": "1850s"
+    },
+    {
+     "k": "designer",
+     "v": "Florence Nightingale"
+    },
+    {
+     "k": "subject",
+     "v": "information graphic"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 44.52,
+   "light": 0.7855,
+   "chroma": 0.9662
+  },
+  {
+   "id": "CRVI002771",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.1477,
+   "source_url": "https://www.imagomundi.fr/IMG/jpg/10-4.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002771.jpg",
+   "source_label": "",
+   "image": "images/CRVI002771.jpg",
+   "original": "originals/CRVI002771.jpg",
+   "vector": "",
+   "original_px": [
+    2553,
+    1666
+   ],
+   "original_bytes": 659861,
+   "maker": "Gerd Arntz",
+   "title": "Erwerbstätige Bevölkerung der Erde",
+   "subtitle": "",
+   "year": "1938",
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "decade",
+     "v": "1930s"
+    },
+    {
+     "k": "designer",
+     "v": "Gerd Arntz"
+    },
+    {
+     "k": "subject",
+     "v": "information graphic"
+    },
+    {
+     "k": "subject",
+     "v": "Isotype"
+    },
+    {
+     "k": "location",
+     "v": "Netherlands"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 41.77,
+   "light": 0.8397,
+   "chroma": 0.9723
+  },
+  {
+   "id": "CRVI002772",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.085,
+   "source_url": "https://media.mutualart.com/Images/2025_06/19/12/97806450/gerd-arntz-bank-VPKYH.Jpeg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002772.jpg",
+   "source_label": "",
+   "image": "images/CRVI002772.jpg",
+   "original": "originals/CRVI002772.jpg",
+   "vector": "",
+   "original_px": [
+    2099,
+    3000
+   ],
+   "original_bytes": 2829356,
+   "maker": "Gerd Arntz",
+   "title": "Bank",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Gerd Arntz"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "location",
+     "v": "Netherlands"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 37.8,
+   "light": 0.7419,
+   "chroma": 0.7213
+  },
+  {
+   "id": "CRVI002773",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.091,
+   "source_url": "https://brewminate.com/wp-content/uploads/2020/01/012520-01-History-Art-Cartography.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002773.jpg",
+   "source_label": "",
+   "image": "images/CRVI002773.jpg",
+   "original": "originals/CRVI002773.jpg",
+   "vector": "",
+   "original_px": [
+    1200,
+    842
+   ],
+   "original_bytes": 495270,
+   "maker": "Unattributed",
+   "title": "Synchronological chart of universal history",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "subject",
+     "v": "information graphic"
+    },
+    {
+     "k": "subject",
+     "v": "cartography"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 32.95,
+   "light": 0.569,
+   "chroma": 0.1536
+  },
+  {
+   "id": "CRVI002774",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.0136,
+   "source_url": "https://i.etsystatic.com/23609182/r/il/094fac/6645633193/il_fullxfull.6645633193_pzge.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002774.jpg",
+   "source_label": "",
+   "image": "images/CRVI002774.jpg",
+   "original": "originals/CRVI002774.jpg",
+   "vector": "",
+   "original_px": [
+    3000,
+    2785
+   ],
+   "original_bytes": 685143,
+   "maker": "Unattributed",
+   "title": "Diagram of lines of force",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "subject",
+     "v": "information graphic"
+    },
+    {
+     "k": "subject",
+     "v": "science"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "white"
+    }
+   ],
+   "hue": null,
+   "light": 0.7334,
+   "chroma": 0.0578
+  },
+  {
+   "id": "CRVI002775",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.0,
+   "source_url": "https://flashbak.com/wp-content/uploads/2015/09/running.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002775.jpg",
+   "source_label": "",
+   "image": "images/CRVI002775.jpg",
+   "original": "originals/CRVI002775.jpg",
+   "vector": "",
+   "original_px": [
+    2165,
+    1015
+   ],
+   "original_bytes": 218042,
+   "maker": "Étienne-Jules Marey",
+   "title": "Chronophotograph of a running man",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "photographer",
+     "v": "Étienne-Jules Marey"
+    },
+    {
+     "k": "subject",
+     "v": "chronophotography"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "color",
+     "v": "black"
+    }
+   ],
+   "hue": null,
+   "light": 0.206,
+   "chroma": 0.0
+  },
+  {
+   "id": "CRVI002776",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.1901,
+   "source_url": "https://mdl.artvee.com/sftb/11214po.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002776.jpg",
+   "source_label": "",
+   "image": "images/CRVI002776.jpg",
+   "original": "originals/CRVI002776.jpg",
+   "vector": "",
+   "original_px": [
+    800,
+    1152
+   ],
+   "original_bytes": 298585,
+   "maker": "Marcello Dudovich",
+   "title": "Vermouth Martini",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "advertising poster"
+    },
+    {
+     "k": "designer",
+     "v": "Marcello Dudovich"
+    },
+    {
+     "k": "client",
+     "v": "Martini & Rossi"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 51.15,
+   "light": 0.2867,
+   "chroma": 0.5239
+  },
+  {
+   "id": "CRVI002777",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.084,
+   "source_url": "https://a.1stdibscdn.com/leonetto-cappiello-prints-works-on-paper-original-leonetto-cappiello-contratto-poster-1921-oversized-format-very-rare-for-sale/a_25602/1731601888913/10497_master.jpg?width=8000&disable=upscale",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002777.jpg",
+   "source_label": "",
+   "image": "images/CRVI002777.jpg",
+   "original": "originals/CRVI002777.jpg",
+   "vector": "",
+   "original_px": [
+    1080,
+    1544
+   ],
+   "original_bytes": 154633,
+   "maker": "Leonetto Cappiello",
+   "title": "Contratto",
+   "subtitle": "",
+   "year": "1921",
+   "tags": [
+    {
+     "k": "type",
+     "v": "advertising poster"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "designer",
+     "v": "Leonetto Cappiello"
+    },
+    {
+     "k": "client",
+     "v": "Contratto"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 44.47,
+   "light": 0.325,
+   "chroma": 0.3044
+  },
+  {
+   "id": "CRVI002778",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.3119,
+   "source_url": "https://a.1stdibscdn.com/archivesE/upload/a_436/1486817106496/PA1450_master.jpg?width=8000&disable=upscale",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002778.jpg",
+   "source_label": "",
+   "image": "images/CRVI002778.jpg",
+   "original": "originals/CRVI002778.jpg",
+   "vector": "",
+   "original_px": [
+    2345,
+    3117
+   ],
+   "original_bytes": 610293,
+   "maker": "Leonetto Cappiello",
+   "title": "Pâte Éclair",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "advertising poster"
+    },
+    {
+     "k": "designer",
+     "v": "Leonetto Cappiello"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 226.9,
+   "light": 0.3111,
+   "chroma": 0.7474
+  },
+  {
+   "id": "CRVI002779",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.1131,
+   "source_url": "https://a.1stdibscdn.com/archivesE/upload/8611/01_13/IN10967/ORG_IN10967.jpg?width=8000&disable=upscale",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002779.jpg",
+   "source_label": "",
+   "image": "images/CRVI002779.jpg",
+   "original": "originals/CRVI002779.jpg",
+   "vector": "",
+   "original_px": [
+    2085,
+    2927
+   ],
+   "original_bytes": 656628,
+   "maker": "Marcello Dudovich",
+   "title": "Panizza: il cappello per tutti",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "advertising poster"
+    },
+    {
+     "k": "designer",
+     "v": "Marcello Dudovich"
+    },
+    {
+     "k": "client",
+     "v": "Panizza"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 44.21,
+   "light": 0.3122,
+   "chroma": 0.2472
+  },
+  {
+   "id": "CRVI002780",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.0085,
+   "source_url": "https://whitehotmagazine.com/UserFiles/image/0/10/320e749cec446c0ebdf20c14e82ff209.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002780.jpg",
+   "source_label": "",
+   "image": "images/CRVI002780.jpg",
+   "original": "originals/CRVI002780.jpg",
+   "vector": "",
+   "original_px": [
+    1000,
+    1231
+   ],
+   "original_bytes": 455164,
+   "maker": "Unattributed",
+   "title": "Untitled (concentric maze disc)",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "subject",
+     "v": "Op Art"
+    },
+    {
+     "k": "color",
+     "v": "neutral"
+    }
+   ],
+   "hue": null,
+   "light": 0.7001,
+   "chroma": 0.0
+  },
+  {
+   "id": "CRVI002781",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.2363,
+   "source_url": "https://a.1stdibscdn.com/a-kinetic-gouache-on-paper-painting-by-dordevic-miodrag-france-1960-for-sale-picture-8/f_66502/f_361104221694448971137/s_l1600_6_master.jpg?width=8000&disable=upscale",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002781.jpg",
+   "source_label": "",
+   "image": "images/CRVI002781.jpg",
+   "original": "originals/CRVI002781.jpg",
+   "vector": "",
+   "original_px": [
+    1600,
+    1200
+   ],
+   "original_bytes": 237121,
+   "maker": "Miodrag Đorđević",
+   "title": "Kinetic gouache on paper",
+   "subtitle": "",
+   "year": "1960",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "artist",
+     "v": "Miodrag Đorđević"
+    },
+    {
+     "k": "subject",
+     "v": "kinetic art"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 214.85,
+   "light": 0.4251,
+   "chroma": 0.744
+  },
+  {
+   "id": "CRVI002782",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.736,
+   "source_url": "https://i.pinimg.com/originals/04/f6/e7/04f6e78f0e908a6cf3b5035a2a0916e2.png",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002782.jpg",
+   "source_label": "",
+   "image": "images/CRVI002782.jpg",
+   "original": "originals/CRVI002782.png",
+   "vector": "",
+   "original_px": [
+    962,
+    1362
+   ],
+   "original_bytes": 1802579,
+   "maker": "Saul Bass",
+   "title": "Such Good Friends",
+   "subtitle": "",
+   "year": "1971",
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "designer",
+     "v": "Saul Bass"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 355.22,
+   "light": 0.4266,
+   "chroma": 0.9153
+  },
+  {
+   "id": "CRVI002783",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.2872,
+   "source_url": "https://images.bauerhosting.com/legacy/empire-images/features/5b02c46b977aaa98055b9eb8/cool-hand-luke.jpg?auto=format&w=4000&q=90",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002783.jpg",
+   "source_label": "",
+   "image": "images/CRVI002783.jpg",
+   "original": "originals/CRVI002783.jpg",
+   "vector": "",
+   "original_px": [
+    4000,
+    6061
+   ],
+   "original_bytes": 1921326,
+   "maker": "Bill Gold",
+   "title": "Cool Hand Luke",
+   "subtitle": "",
+   "year": "1967",
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "designer",
+     "v": "Bill Gold"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 50.17,
+   "light": 0.7416,
+   "chroma": 0.4442
+  },
+  {
+   "id": "CRVI002784",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.3275,
+   "source_url": "https://media.mutualart.com/Images/2024_06/26/12/122358000/reynold-brown-premature-burial--1962--us-AAAAA.Jpeg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002784.jpg",
+   "source_label": "",
+   "image": "images/CRVI002784.jpg",
+   "original": "originals/CRVI002784.jpg",
+   "vector": "",
+   "original_px": [
+    2000,
+    4836
+   ],
+   "original_bytes": 2460017,
+   "maker": "Reynold Brown",
+   "title": "The Premature Burial",
+   "subtitle": "",
+   "year": "1962",
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "illustrator",
+     "v": "Reynold Brown"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 25.85,
+   "light": 0.6051,
+   "chroma": 0.8419
+  },
+  {
+   "id": "CRVI002785",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.4215,
+   "source_url": "https://www.illustrationhistory.org/images/uploads/My_Fair_Lady.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002785.jpg",
+   "source_label": "",
+   "image": "images/CRVI002785.jpg",
+   "original": "originals/CRVI002785.jpg",
+   "vector": "",
+   "original_px": [
+    900,
+    1188
+   ],
+   "original_bytes": 243656,
+   "maker": "Bob Peak",
+   "title": "My Fair Lady",
+   "subtitle": "",
+   "year": "1964",
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "illustrator",
+     "v": "Bob Peak"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 337.35,
+   "light": 0.5667,
+   "chroma": 0.9996
+  },
+  {
+   "id": "CRVI002786",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.1477,
+   "source_url": "https://media.mutualart.com/Images/2020_07/24/21/211704534/71cc26e4-9062-46b8-81a3-476e008f8d5c.Jpeg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002786.jpg",
+   "source_label": "",
+   "image": "images/CRVI002786.jpg",
+   "original": "originals/CRVI002786.jpg",
+   "vector": "",
+   "original_px": [
+    1121,
+    1500
+   ],
+   "original_bytes": 390592,
+   "maker": "Jan Lenica",
+   "title": "Affiches, Cinéma d'animation, Galerie Solothurn",
+   "subtitle": "",
+   "year": "1976",
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "designer",
+     "v": "Jan Lenica"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 175.08,
+   "light": 0.2306,
+   "chroma": 0.6096
+  },
+  {
+   "id": "CRVI002787",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.2943,
+   "source_url": "https://postermuseum.com/cdn/shop/files/HKEciiM.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002787.jpg",
+   "source_label": "",
+   "image": "images/CRVI002787.jpg",
+   "original": "originals/CRVI002787.jpg",
+   "vector": "",
+   "original_px": [
+    2694,
+    3704
+   ],
+   "original_bytes": 1297740,
+   "maker": "Jan Lenica",
+   "title": "Jan Lenica: Plakat & Film",
+   "subtitle": "",
+   "year": "1983",
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "designer",
+     "v": "Jan Lenica"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 5.19,
+   "light": 0.4257,
+   "chroma": 0.7577
+  },
+  {
+   "id": "CRVI002788",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.3484,
+   "source_url": "https://artinfo-production.s3.amazonaws.com/uploads/artwork/image/496420/RackMultipart20200623-1-1dcqnjb.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002788.jpg",
+   "source_label": "",
+   "image": "images/CRVI002788.jpg",
+   "original": "originals/CRVI002788.jpg",
+   "vector": "",
+   "original_px": [
+    1040,
+    1500
+   ],
+   "original_bytes": 305146,
+   "maker": "Waldemar Świerzy",
+   "title": "Muzeum Plakatu ma 20 lat",
+   "subtitle": "",
+   "year": "1988",
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "designer",
+     "v": "Waldemar Świerzy"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 195.87,
+   "light": 0.4623,
+   "chroma": 0.798
+  },
+  {
+   "id": "CRVI002789",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.016,
+   "source_url": "https://images.squarespace-cdn.com/content/v1/5bd8e569506fbe6dc72c84b9/1614550136423-TZ8961FN4BK90TSIIFYW/Waldemar+Swierzy+-+Jazz+Jamboree+76.png?format=original",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002789.jpg",
+   "source_label": "",
+   "image": "images/CRVI002789.jpg",
+   "original": "originals/CRVI002789.png",
+   "vector": "",
+   "original_px": [
+    1000,
+    1000
+   ],
+   "original_bytes": 840728,
+   "maker": "Waldemar Świerzy",
+   "title": "Jazz Jamboree '76",
+   "subtitle": "",
+   "year": "1976",
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "designer",
+     "v": "Waldemar Świerzy"
+    },
+    {
+     "k": "subject",
+     "v": "jazz"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    },
+    {
+     "k": "color",
+     "v": "neutral"
+    }
+   ],
+   "hue": null,
+   "light": 0.196,
+   "chroma": 0.034
+  },
+  {
+   "id": "CRVI002790",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.2031,
+   "source_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtNp274UuGfvH_kfvo06rVmwOCodd-p_s7UFVBceGrlushF_K0HE8FeFTnAQCI2CexViYd9cQLFiEGeB8Uy570ubVdpNUb4Dn18ltLtcwbFl0ale4r27oPTGv1CDW9IJY1FGaRf0o_zds/s0/Herbert+Matter12.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002790.jpg",
+   "source_label": "",
+   "image": "images/CRVI002790.jpg",
+   "original": "originals/CRVI002790.jpg",
+   "vector": "",
+   "original_px": [
+    1218,
+    1680
+   ],
+   "original_bytes": 945797,
+   "maker": "Herbert Matter",
+   "title": "Chairs by Harry Bertoia",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "advertising poster"
+    },
+    {
+     "k": "designer",
+     "v": "Herbert Matter"
+    },
+    {
+     "k": "designer",
+     "v": "Harry Bertoia"
+    },
+    {
+     "k": "client",
+     "v": "Knoll"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 42.4,
+   "light": 0.6742,
+   "chroma": 0.7106
+  },
+  {
+   "id": "CRVI002791",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.018,
+   "source_url": "https://i.pinimg.com/originals/0e/fa/41/0efa41d7fa0789f94295989f301452d2.png",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002791.jpg",
+   "source_label": "",
+   "image": "images/CRVI002791.jpg",
+   "original": "originals/CRVI002791.png",
+   "vector": "",
+   "original_px": [
+    1000,
+    1416
+   ],
+   "original_bytes": 1091437,
+   "maker": "Armin Hofmann",
+   "title": "Kunsthalle Basel: Maurice Estève, Berto Lardera",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "designer",
+     "v": "Armin Hofmann"
+    },
+    {
+     "k": "client",
+     "v": "Kunsthalle Basel"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": null,
+   "light": 0.3304,
+   "chroma": 0.0724
+  },
+  {
+   "id": "CRVI002792",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.016,
+   "source_url": "https://a.1stdibscdn.com/armin-hofmann-prints-works-on-paper-armin-hofmann-posters-museum-of-modern-art-swiss-graphic-design-vintage-poster-for-sale/a_13322/a_81641921621995827602/SWX14659_master.jpg?width=8000&disable=upscale",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002792.jpg",
+   "source_label": "",
+   "image": "images/CRVI002792.jpg",
+   "original": "originals/CRVI002792.jpg",
+   "vector": "",
+   "original_px": [
+    2350,
+    3532
+   ],
+   "original_bytes": 420776,
+   "maker": "Armin Hofmann",
+   "title": "Armin Hofmann: Posters, The Museum of Modern Art",
+   "subtitle": "",
+   "year": "1981",
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "designer",
+     "v": "Armin Hofmann"
+    },
+    {
+     "k": "client",
+     "v": "Museum of Modern Art"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "black"
+    }
+   ],
+   "hue": null,
+   "light": 0.1254,
+   "chroma": 0.0139
+  },
+  {
+   "id": "CRVI002793",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.0231,
+   "source_url": "https://i.pinimg.com/originals/ee/c3/98/eec398cf47a5a73020830b13b4f2d232.png",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002793.jpg",
+   "source_label": "",
+   "image": "images/CRVI002793.jpg",
+   "original": "originals/CRVI002793.png",
+   "vector": "",
+   "original_px": [
+    1000,
+    1446
+   ],
+   "original_bytes": 899533,
+   "maker": "Armin Hofmann",
+   "title": "Stadttheater Basel",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "theatre poster"
+    },
+    {
+     "k": "designer",
+     "v": "Armin Hofmann"
+    },
+    {
+     "k": "client",
+     "v": "Stadttheater Basel"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 44.19,
+   "light": 0.4198,
+   "chroma": 0.1712
+  },
+  {
+   "id": "CRVI002794",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.0848,
+   "source_url": "https://i.pinimg.com/originals/b1/2d/52/b12d5243a4803eecfb9bef9e4b397d98.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002794.jpg",
+   "source_label": "",
+   "image": "images/CRVI002794.jpg",
+   "original": "originals/CRVI002794.jpg",
+   "vector": "",
+   "original_px": [
+    1414,
+    2000
+   ],
+   "original_bytes": 115562,
+   "maker": "Unattributed",
+   "title": "zürcher maler, Kunsthalle Basel",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "client",
+     "v": "Kunsthalle Basel"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 44.82,
+   "light": 0.6485,
+   "chroma": 0.6962
+  },
+  {
+   "id": "CRVI002795",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.0905,
+   "source_url": "https://i.pinimg.com/originals/f7/c8/a5/f7c8a589399d3f042bad9744bfea5b37.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002795.jpg",
+   "source_label": "",
+   "image": "images/CRVI002795.jpg",
+   "original": "originals/CRVI002795.jpg",
+   "vector": "",
+   "original_px": [
+    1400,
+    1953
+   ],
+   "original_bytes": 153930,
+   "maker": "Unattributed",
+   "title": "Japanische Kalligraphie und westliche Zeichen, Kunsthalle Basel",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "client",
+     "v": "Kunsthalle Basel"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 38.99,
+   "light": 0.6414,
+   "chroma": 0.6146
+  },
+  {
+   "id": "CRVI002796",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.6188,
+   "source_url": "https://i.pinimg.com/originals/1b/1e/d0/1b1ed04ce18f1f110913ddd844c0f087.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002796.jpg",
+   "source_label": "",
+   "image": "images/CRVI002796.jpg",
+   "original": "originals/CRVI002796.jpg",
+   "vector": "",
+   "original_px": [
+    860,
+    1201
+   ],
+   "original_bytes": 125317,
+   "maker": "Josef Müller-Brockmann",
+   "title": "musica viva",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "designer",
+     "v": "Josef Müller-Brockmann"
+    },
+    {
+     "k": "client",
+     "v": "Tonhalle-Gesellschaft Zürich"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "city",
+     "v": "Zürich"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 355.0,
+   "light": 0.4362,
+   "chroma": 0.8631
+  },
+  {
+   "id": "CRVI002797",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.0077,
+   "source_url": "https://www.neugraphic.com/gerstner/2023/18.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002797.jpg",
+   "source_label": "",
+   "image": "images/CRVI002797.jpg",
+   "original": "originals/CRVI002797.jpg",
+   "vector": "",
+   "original_px": [
+    1410,
+    2000
+   ],
+   "original_bytes": 286892,
+   "maker": "Karl Gerstner",
+   "title": "Wie sieht eine technische Revolution aus?",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "advertising poster"
+    },
+    {
+     "k": "designer",
+     "v": "Karl Gerstner"
+    },
+    {
+     "k": "client",
+     "v": "IBM"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "color",
+     "v": "neutral"
+    }
+   ],
+   "hue": null,
+   "light": 0.8369,
+   "chroma": 0.0
+  },
+  {
+   "id": "CRVI002798",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.1254,
+   "source_url": "https://blog.nationalmuseum.ch/app/uploads/2017/11/04-Serenaden-1992-Tissi.webp",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002798.jpg",
+   "source_label": "",
+   "image": "images/CRVI002798.jpg",
+   "original": "originals/CRVI002798.webp",
+   "vector": "",
+   "original_px": [
+    1000,
+    1413
+   ],
+   "original_bytes": 88828,
+   "maker": "Rosmarie Tissi",
+   "title": "Serenaden 92",
+   "subtitle": "",
+   "year": "1992",
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "designer",
+     "v": "Rosmarie Tissi"
+    },
+    {
+     "k": "subject",
+     "v": "music"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "city",
+     "v": "Zürich"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 144.83,
+   "light": 0.3064,
+   "chroma": 0.4021
+  },
+  {
+   "id": "CRVI002799",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.6913,
+   "source_url": "https://d2kq0urxkarztv.cloudfront.net/56710e06df86d37030857b53/959659/upload-f0f06e80-82f4-11e8-9925-df562ff65019.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002799.jpg",
+   "source_label": "",
+   "image": "images/CRVI002799.jpg",
+   "original": "originals/CRVI002799.jpg",
+   "vector": "",
+   "original_px": [
+    1689,
+    2400
+   ],
+   "original_bytes": 718744,
+   "maker": "Siegfried Odermatt",
+   "title": "Licht",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "advertising poster"
+    },
+    {
+     "k": "designer",
+     "v": "Siegfried Odermatt"
+    },
+    {
+     "k": "client",
+     "v": "Anton Schöb"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "city",
+     "v": "Zürich"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 54.88,
+   "light": 0.4594,
+   "chroma": 0.7276
+  },
+  {
+   "id": "CRVI002800",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.5488,
+   "source_url": "https://d2kq0urxkarztv.cloudfront.net/56710e06df86d37030857b53/959659/upload-dca0e700-842c-11e8-96e3-37cefb2f3116.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002800.jpg",
+   "source_label": "",
+   "image": "images/CRVI002800.jpg",
+   "original": "originals/CRVI002800.jpg",
+   "vector": "",
+   "original_px": [
+    1687,
+    2398
+   ],
+   "original_bytes": 2783398,
+   "maker": "Siegfried Odermatt",
+   "title": "Untitled (ampersand)",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "designer",
+     "v": "Siegfried Odermatt"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 5.0,
+   "light": 0.5305,
+   "chroma": 0.8112
+  },
+  {
+   "id": "CRVI002801",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.171,
+   "source_url": "https://images.squarespace-cdn.com/content/v1/54c547dce4b050a35a846418/1644354269954-9QT44PJSWDTE8GRGHDVX/Instagram+_format15.jpg?format=original",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002801.jpg",
+   "source_label": "",
+   "image": "images/CRVI002801.jpg",
+   "original": "originals/CRVI002801.jpg",
+   "vector": "",
+   "original_px": [
+    2400,
+    2400
+   ],
+   "original_bytes": 97680,
+   "maker": "Unattributed",
+   "title": "Rosmarie Tissi | Graphic Design Master",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "subject",
+     "v": "Rosmarie Tissi"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 5.04,
+   "light": 0.5167,
+   "chroma": 0.2642
+  },
+  {
+   "id": "CRVI002802",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.3769,
+   "source_url": "https://blog.nationalmuseum.ch/app/uploads/2017/11/07-Serenaden-1996-Tissi.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002802.jpg",
+   "source_label": "",
+   "image": "images/CRVI002802.jpg",
+   "original": "originals/CRVI002802.jpg",
+   "vector": "",
+   "original_px": [
+    1000,
+    1422
+   ],
+   "original_bytes": 347228,
+   "maker": "Rosmarie Tissi",
+   "title": "Serenaden 96",
+   "subtitle": "",
+   "year": "1996",
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "designer",
+     "v": "Rosmarie Tissi"
+    },
+    {
+     "k": "subject",
+     "v": "music"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "city",
+     "v": "Zürich"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 216.08,
+   "light": 0.5396,
+   "chroma": 0.9463
+  },
+  {
+   "id": "CRVI002803",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.0449,
+   "source_url": "https://grafagallery.com/cdn/shop/products/CH42.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002803.jpg",
+   "source_label": "",
+   "image": "images/CRVI002803.jpg",
+   "original": "originals/CRVI002803.jpg",
+   "vector": "",
+   "original_px": [
+    2135,
+    3000
+   ],
+   "original_bytes": 1466298,
+   "maker": "Rosmarie Tissi",
+   "title": "Serenaden 98",
+   "subtitle": "",
+   "year": "1998",
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "designer",
+     "v": "Rosmarie Tissi"
+    },
+    {
+     "k": "subject",
+     "v": "music"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "city",
+     "v": "Zürich"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 205.2,
+   "light": 0.4345,
+   "chroma": 0.1164
+  },
+  {
+   "id": "CRVI002804",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.0,
+   "source_url": "https://payload.cargocollective.com/1/23/752338/12941017/wolfgang-weingart-poster-tom-a_1340_c.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002804.jpg",
+   "source_label": "",
+   "image": "images/CRVI002804.jpg",
+   "original": "originals/CRVI002804.jpg",
+   "vector": "",
+   "original_px": [
+    1340,
+    1900
+   ],
+   "original_bytes": 122717,
+   "maker": "Unattributed",
+   "title": "Wolfgang Weingart, Barbican Art Gallery",
+   "subtitle": "",
+   "year": "2015",
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "subject",
+     "v": "Wolfgang Weingart"
+    },
+    {
+     "k": "client",
+     "v": "Barbican Centre"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "color",
+     "v": "neutral"
+    }
+   ],
+   "hue": null,
+   "light": 0.489,
+   "chroma": 0.0
+  },
+  {
+   "id": "CRVI002805",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.1716,
+   "source_url": "https://collections-images.lacma.org/images/207619/207619-1-primary.webp",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002805.jpg",
+   "source_label": "",
+   "image": "images/CRVI002805.jpg",
+   "original": "originals/CRVI002805.webp",
+   "vector": "",
+   "original_px": [
+    1804,
+    2560
+   ],
+   "original_bytes": 1639460,
+   "maker": "Wolfgang Weingart",
+   "title": "Kunstkredit 1982/83",
+   "subtitle": "",
+   "year": "1983",
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "designer",
+     "v": "Wolfgang Weingart"
+    },
+    {
+     "k": "client",
+     "v": "Kunstkredit Basel"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 199.07,
+   "light": 0.6603,
+   "chroma": 0.6361
+  },
+  {
+   "id": "CRVI002806",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.4581,
+   "source_url": "https://www.sessions.edu/wp-content/uploads/rosmarie-tissi-1.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002806.jpg",
+   "source_label": "",
+   "image": "images/CRVI002806.jpg",
+   "original": "originals/CRVI002806.jpg",
+   "vector": "",
+   "original_px": [
+    813,
+    1000
+   ],
+   "original_bytes": 54170,
+   "maker": "Rosmarie Tissi",
+   "title": "UCLA Extension",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "designer",
+     "v": "Rosmarie Tissi"
+    },
+    {
+     "k": "client",
+     "v": "UCLA"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 55.02,
+   "light": 0.6787,
+   "chroma": 0.8044
+  },
+  {
+   "id": "CRVI002807",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.2788,
+   "source_url": "https://a.1stdibscdn.com/rosmarie-tissi-prints-works-on-paper-serenaden-93-swiss-post-modern-music-festival-original-vintage-poster-for-sale/a_13322/a_95144621642526837858/SWX02534_master.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002807.jpg",
+   "source_label": "",
+   "image": "images/CRVI002807.jpg",
+   "original": "originals/CRVI002807.jpg",
+   "vector": "",
+   "original_px": [
+    2269,
+    3230
+   ],
+   "original_bytes": 414480,
+   "maker": "Rosmarie Tissi",
+   "title": "Serenaden 93",
+   "subtitle": "",
+   "year": "1993",
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "designer",
+     "v": "Rosmarie Tissi"
+    },
+    {
+     "k": "subject",
+     "v": "music"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "city",
+     "v": "Zürich"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 222.51,
+   "light": 0.3825,
+   "chroma": 0.5805
+  },
+  {
+   "id": "CRVI002808",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.7649,
+   "source_url": "https://lineto.com/api/front/image/resize?key=f12b0039-c476-42b1-87c4-51e43757998a.jpg&width=1069&height=1501",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002808.jpg",
+   "source_label": "",
+   "image": "images/CRVI002808.jpg",
+   "original": "originals/CRVI002808.jpg",
+   "vector": "",
+   "original_px": [
+    1069,
+    1501
+   ],
+   "original_bytes": 80686,
+   "maker": "Rosmarie Tissi",
+   "title": "Offset, for Anton Schöb",
+   "subtitle": "",
+   "year": "1982",
+   "tags": [
+    {
+     "k": "type",
+     "v": "advertising poster"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "designer",
+     "v": "Rosmarie Tissi"
+    },
+    {
+     "k": "client",
+     "v": "Anton Schöb"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "city",
+     "v": "Zürich"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 44.94,
+   "light": 0.4845,
+   "chroma": 0.8438
+  },
+  {
+   "id": "CRVI002809",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.3074,
+   "source_url": "https://freight.cargo.site/t/original/i/01292e10732e3e03b161471f62017399040a9c3d73f999203ce8907a5402a146/Poster-Klein_0001_DIG-38653_LM-117017.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002809.jpg",
+   "source_label": "",
+   "image": "images/CRVI002809.jpg",
+   "original": "originals/CRVI002809.jpg",
+   "vector": "",
+   "original_px": [
+    1000,
+    1415
+   ],
+   "original_bytes": 703176,
+   "maker": "Unattributed",
+   "title": "Kieler Woche 1990",
+   "subtitle": "",
+   "year": "1990",
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "client",
+     "v": "Kieler Woche"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 224.98,
+   "light": 0.3213,
+   "chroma": 0.9418
+  },
+  {
+   "id": "CRVI002810",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.1012,
+   "source_url": "https://cdn.shopify.com/s/files/1/0318/7389/2488/products/CH80.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002810.jpg",
+   "source_label": "",
+   "image": "images/CRVI002810.jpg",
+   "original": "originals/CRVI002810.jpg",
+   "vector": "",
+   "original_px": [
+    1933,
+    3000
+   ],
+   "original_bytes": 228127,
+   "maker": "Rosmarie Tissi",
+   "title": "Internationale Musikfestwochen Luzern",
+   "subtitle": "",
+   "year": "1994",
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "designer",
+     "v": "Rosmarie Tissi"
+    },
+    {
+     "k": "subject",
+     "v": "music"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 55.3,
+   "light": 0.5357,
+   "chroma": 0.1634
+  },
+  {
+   "id": "CRVI002811",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.2751,
+   "source_url": "https://2018.swissdesignawardsblog.ch/thumbs/blog/swiss-grand-award-for-design/rosmarie-tissi/offset_fotosatz-1019x1400.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002811.jpg",
+   "source_label": "",
+   "image": "images/CRVI002811.jpg",
+   "original": "originals/CRVI002811.jpg",
+   "vector": "",
+   "original_px": [
+    1019,
+    1400
+   ],
+   "original_bytes": 214429,
+   "maker": "Rosmarie Tissi",
+   "title": "Fotosatz / Offset, for Anton Schöb",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "advertising poster"
+    },
+    {
+     "k": "designer",
+     "v": "Rosmarie Tissi"
+    },
+    {
+     "k": "client",
+     "v": "Anton Schöb"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "city",
+     "v": "Zürich"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 64.23,
+   "light": 0.817,
+   "chroma": 0.364
+  },
+  {
+   "id": "CRVI002812",
+   "published": true,
+   "minted": "2026-09-08",
+   "punch": 0.5884,
+   "source_url": "https://blog.nationalmuseum.ch/app/uploads/2017/11/02-World-City-Expo-Tokyo-1996.webp",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002812.jpg",
+   "source_label": "",
+   "image": "images/CRVI002812.jpg",
+   "original": "originals/CRVI002812.webp",
+   "vector": "",
+   "original_px": [
+    1000,
+    1413
+   ],
+   "original_bytes": 43664,
+   "maker": "Rosmarie Tissi",
+   "title": "World City Expo Tokyo '96",
+   "subtitle": "",
+   "year": "1994",
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "designer",
+     "v": "Rosmarie Tissi"
+    },
+    {
+     "k": "client",
+     "v": "World City Expo Tokyo"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 206.42,
+   "light": 0.4335,
+   "chroma": 0.9984
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "next": 2758,
+ "next": 2813,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -163658,6 +163658,3047 @@
    "light": 0.4857,
    "chroma": 0.629,
    "punch": 0.228
+  },
+  "sent-2026-09-08j::36e17b44557d": {
+   "id": "CRVI002758",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002758.jpg",
+   "original_px": [
+    1246,
+    1920
+   ],
+   "original_bytes": 140738,
+   "identity": "sent-2026-09-08j::36e17b44557d",
+   "source_url": "https://arthistoryproject.com/site/assets/files/33061/barkley_l._hendricks-sir_nelson._solid_-1970-trivium-art-history-1.jpg",
+   "maker": "Barkley L. Hendricks",
+   "title": "Sir Nelson. Solid!",
+   "subtitle": "",
+   "year": "1970",
+   "label": "",
+   "verified_against": "Google Lens resolves the thumbnail, via Obelisk Art History, to Barkley L. Hendricks, 'Sir Nelson. Solid!', 1970, oil on canvas, 46 x 30 in — a man in a green hat and coat against a flat green field, a striped scarf at the throat. ⚠️ HELD FROM arthistoryproject AT 1246x1920: Todd's link was a 446x687 GOOGLE THUMBNAIL PROXY, which has no larger version.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/01.jpg",
+   "source_px": [
+    1246,
+    1920
+   ],
+   "colors": [
+    "green",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "artist",
+     "v": "Barkley L. Hendricks"
+    },
+    {
+     "k": "subject",
+     "v": "portrait"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Google Lens resolves the thumbnail, via Obelisk Art History, to Barkley L. Hendricks, 'Sir Nelson. Solid!', 1970, oil on canvas, 46 x 30 in — a man in a green hat and coat against a flat green field, a striped scarf at the throat. ⚠️ HELD FROM arthistoryproject AT 1246x1920: Todd's link was a 446x687 GOOGLE THUMBNAIL PROXY, which has no larger version.",
+   "hue": 118.61,
+   "light": 0.3511,
+   "chroma": 0.985,
+   "punch": 0.3065
+  },
+  "sent-2026-09-08j::c27a91a469c7": {
+   "id": "CRVI002759",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002759.jpg",
+   "original_px": [
+    1707,
+    2560
+   ],
+   "original_bytes": 679022,
+   "identity": "sent-2026-09-08j::c27a91a469c7",
+   "source_url": "https://media.newyorker.com/photos/6473852648c55341d9f1200b/master/Wiley-Hendricks-01.jpg",
+   "maker": "Unattributed",
+   "title": "Barkley L. Hendricks photographing",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "⚠️ THE PHOTOGRAPHER IS NOT ESTABLISHED. A black-and-white photograph of a man in a pale trench coat raising a camera to his eye, a ring of light behind his head. The file is a New Yorker article image named `Wiley-Hendricks-01`, so it illustrates a piece touching both Kehinde Wiley and Barkley L. Hendricks; its own caption was not reachable. ⚠️ WHO IS PICTURED IS NOT ESTABLISHED EITHER — the camera hides the face.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/02.jpg",
+   "source_px": [
+    1707,
+    2560
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "subject",
+     "v": "photography"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ THE PHOTOGRAPHER IS NOT ESTABLISHED. A black-and-white photograph of a man in a pale trench coat raising a camera to his eye, a ring of light behind his head. The file is a New Yorker article image named `Wiley-Hendricks-01`, so it illustrates a piece touching both Kehinde Wiley and Barkley L. Hendricks; its own caption was not reachable. ⚠️ WHO IS PICTURED IS NOT ESTABLISHED EITHER — the camera hides the face.",
+   "hue": null,
+   "light": 0.6093,
+   "chroma": 0.0,
+   "punch": 0.0
+  },
+  "sent-2026-09-08j::cd7f11f335dd": {
+   "id": "CRVI002760",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002760.jpg",
+   "original_px": [
+    1441,
+    1800
+   ],
+   "original_bytes": 592333,
+   "identity": "sent-2026-09-08j::cd7f11f335dd",
+   "source_url": "https://images.squarespace-cdn.com/content/v1/5f763ea3346695400775be93/1602546565630-SD2E2Y9ZX9RDRLU8CI45/Barkley-L-Hendricks-Icon-For-My-Man-Superman-%28Superman-Never-Saved-Any-Black-People-Bobby-Seale%29.jpg?format=original",
+   "maker": "Barkley L. Hendricks",
+   "title": "Icon for My Man Superman (Superman Never Saved Any Black People — Bobby Seale)",
+   "subtitle": "",
+   "year": "1969",
+   "label": "",
+   "verified_against": "THE HOSTING FILENAME CARRIES THE WHOLE TITLE — `Barkley-L-Hendricks-Icon-For-My-Man-Superman-(Superman-Never-Saved-Any-Black-People-Bobby-Seale)` — and the painting matches it: a man in a Superman T-shirt and nothing else, arms folded, in round dark glasses, inside a painted red-white-and-blue border. The sitter is Black Panther co-founder Bobby Seale. ⚠️ A 483x635 gstatic DETAIL of this same work arrived in the batch and was dropped as redundant.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/03.jpg",
+   "source_px": [
+    1441,
+    1800
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "artist",
+     "v": "Barkley L. Hendricks"
+    },
+    {
+     "k": "subject",
+     "v": "Bobby Seale"
+    },
+    {
+     "k": "subject",
+     "v": "portrait"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE HOSTING FILENAME CARRIES THE WHOLE TITLE — `Barkley-L-Hendricks-Icon-For-My-Man-Superman-(Superman-Never-Saved-Any-Black-People-Bobby-Seale)` — and the painting matches it: a man in a Superman T-shirt and nothing else, arms folded, in round dark glasses, inside a painted red-white-and-blue border. The sitter is Black Panther co-founder Bobby Seale. ⚠️ A 483x635 gstatic DETAIL of this same work arrived in the batch and was dropped as redundant.",
+   "hue": 212.13,
+   "light": 0.4994,
+   "chroma": 0.4049,
+   "punch": 0.167
+  },
+  "sent-2026-09-08j::21e77dac85d1": {
+   "id": "CRVI002761",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002761.jpg",
+   "original_px": [
+    1283,
+    1927
+   ],
+   "original_bytes": 188507,
+   "identity": "sent-2026-09-08j::21e77dac85d1",
+   "source_url": "https://arthistoryproject.com/site/assets/files/33066/barkley_l._hendricks-photo_bloke-2016-trivium-art-history.jpg",
+   "maker": "Barkley L. Hendricks",
+   "title": "Photo Bloke",
+   "subtitle": "",
+   "year": "2016",
+   "label": "",
+   "verified_against": "Google Lens resolves the thumbnail, via the New Orleans Museum of Art, to Barkley L. Hendricks, 'Photo Bloke', 2016 — a man in a pink suit, white shirt, dark glasses and white trainers against a flat pink ground. ⚠️ HELD FROM arthistoryproject AT 1283x1927; Todd's link was a 452x679 gstatic thumbnail proxy.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/04.jpg",
+   "source_px": [
+    1283,
+    1927
+   ],
+   "colors": [
+    "pink"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "artist",
+     "v": "Barkley L. Hendricks"
+    },
+    {
+     "k": "subject",
+     "v": "portrait"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Google Lens resolves the thumbnail, via the New Orleans Museum of Art, to Barkley L. Hendricks, 'Photo Bloke', 2016 — a man in a pink suit, white shirt, dark glasses and white trainers against a flat pink ground. ⚠️ HELD FROM arthistoryproject AT 1283x1927; Todd's link was a 452x679 gstatic thumbnail proxy.",
+   "hue": 343.34,
+   "light": 0.7445,
+   "chroma": 0.9643,
+   "punch": 0.2756
+  },
+  "sent-2026-09-08j::8dde832e0c3e": {
+   "id": "CRVI002762",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002762.jpg",
+   "original_px": [
+    848,
+    1251
+   ],
+   "original_bytes": 308375,
+   "identity": "sent-2026-09-08j::8dde832e0c3e",
+   "source_url": "https://uploads1.wikiart.org/00287/images/barkley-l-hendricks/lawdy-mama-1969.jpg",
+   "maker": "Barkley L. Hendricks",
+   "title": "Lawdy Mama",
+   "subtitle": "",
+   "year": "1969",
+   "label": "",
+   "verified_against": "Google Lens resolves the thumbnail to Barkley L. Hendricks, 'Lawdy Mama', 1969, oil and gold leaf — a woman with a full afro in a striped top, set inside an arched gold-leaf ground that quotes the shape of an icon panel. ⚠️ TODD'S LINK WAS A 554x554 SQUARE DETAIL CROP; what is held is the WHOLE painting, from WikiArt at 848x1251.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/06.jpg",
+   "source_px": [
+    848,
+    1251
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "artist",
+     "v": "Barkley L. Hendricks"
+    },
+    {
+     "k": "subject",
+     "v": "portrait"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Google Lens resolves the thumbnail to Barkley L. Hendricks, 'Lawdy Mama', 1969, oil and gold leaf — a woman with a full afro in a striped top, set inside an arched gold-leaf ground that quotes the shape of an icon panel. ⚠️ TODD'S LINK WAS A 554x554 SQUARE DETAIL CROP; what is held is the WHOLE painting, from WikiArt at 848x1251.",
+   "hue": 36.96,
+   "light": 0.4342,
+   "chroma": 0.7297,
+   "punch": 0.2729
+  },
+  "sent-2026-09-08j::b3288232e1cc": {
+   "id": "CRVI002763",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002763.jpg",
+   "original_px": [
+    910,
+    876
+   ],
+   "original_bytes": 88962,
+   "identity": "sent-2026-09-08j::b3288232e1cc",
+   "source_url": "https://d7hftxdivxxvm.cloudfront.net/?quality=85&resize_to=width&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2F7EM9YAtUNvOSK9YeMN-5aQ%252F10572%2BLot%2B1%2B-%2BBarkley%2BHendricks%252C%2BMr.%2BJohnson%2B%2528Sammy%2Bfrom%2BMiami%2529.jpg&width=910",
+   "maker": "Barkley L. Hendricks",
+   "title": "Mr. Johnson (Sammy from Miami)",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "THE ARTSY CDN PATH CARRIES THE LOT LINE — `10572 Lot 1 - Barkley Hendricks, Mr. Johnson (Sammy from Miami).jpg` — so: Barkley L. Hendricks, 'Mr. Johnson (Sammy from Miami)'. A seated figure in a white number-69 jersey and a red visor against near-black. ⚠️ NO YEAR IS ESTABLISHED — the file is an auction-preview image and its lot page was not reached. ℹ️ Artsy's proxy was unwrapped to the S3 original rather than taken at `?width=910`.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/08.jpg",
+   "source_px": [
+    910,
+    876
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Barkley L. Hendricks"
+    },
+    {
+     "k": "subject",
+     "v": "portrait"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE ARTSY CDN PATH CARRIES THE LOT LINE — `10572 Lot 1 - Barkley Hendricks, Mr. Johnson (Sammy from Miami).jpg` — so: Barkley L. Hendricks, 'Mr. Johnson (Sammy from Miami)'. A seated figure in a white number-69 jersey and a red visor against near-black. ⚠️ NO YEAR IS ESTABLISHED — the file is an auction-preview image and its lot page was not reached. ℹ️ Artsy's proxy was unwrapped to the S3 original rather than taken at `?width=910`.",
+   "hue": 17.96,
+   "light": 0.214,
+   "chroma": 0.2048,
+   "punch": 0.0584
+  },
+  "sent-2026-09-08j::b061c4b3d391": {
+   "id": "CRVI002764",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002764.jpg",
+   "original_px": [
+    2428,
+    3200
+   ],
+   "original_bytes": 1193688,
+   "identity": "sent-2026-09-08j::b061c4b3d391",
+   "source_url": "https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24488_0037B_000(barkley_l_hendricks_jules043117).jpg?mode=max",
+   "maker": "Barkley L. Hendricks",
+   "title": "Untitled (man in yellow turtleneck and denim overalls)",
+   "subtitle": "",
+   "year": "1971",
+   "label": "",
+   "verified_against": "THE CANVAS'S OWN SIGNATURE, 'B Hendricks 71' in the upper right corner, which gives both the maker and the year. A man in a blue cap, gold-rimmed glasses, yellow turtleneck and denim overalls stands against flat brown. The file is Christie's lot image 2026_NYR_24488_0037B, whose name contains `barkley_l_hendricks_jules`. ⚠️ THE TITLE IS NOT ESTABLISHED — 'jules' in the filename suggests the Jules series, but that is a filename fragment, not a caption; the title above is DESCRIPTIVE.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/09.jpg",
+   "source_px": [
+    2428,
+    3200
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "artist",
+     "v": "Barkley L. Hendricks"
+    },
+    {
+     "k": "subject",
+     "v": "portrait"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE CANVAS'S OWN SIGNATURE, 'B Hendricks 71' in the upper right corner, which gives both the maker and the year. A man in a blue cap, gold-rimmed glasses, yellow turtleneck and denim overalls stands against flat brown. The file is Christie's lot image 2026_NYR_24488_0037B, whose name contains `barkley_l_hendricks_jules`. ⚠️ THE TITLE IS NOT ESTABLISHED — 'jules' in the filename suggests the Jules series, but that is a filename fragment, not a caption; the title above is DESCRIPTIVE.",
+   "hue": 28.69,
+   "light": 0.3689,
+   "chroma": 0.7372,
+   "punch": 0.1912
+  },
+  "sent-2026-09-08j::a361998f8230": {
+   "id": "CRVI002765",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002765.jpg",
+   "original_px": [
+    829,
+    1200
+   ],
+   "original_bytes": 137629,
+   "identity": "sent-2026-09-08j::a361998f8230",
+   "source_url": "https://uploads6.wikiart.org/00287/images/barkley-l-hendricks/misc-tyrone-tyrone-smith-1976.jpg",
+   "maker": "Barkley L. Hendricks",
+   "title": "Misc. Tyrone (Tyrone Smith)",
+   "subtitle": "",
+   "year": "1976",
+   "label": "",
+   "verified_against": "Google Lens resolves the thumbnail, via WikiArt, to Barkley L. Hendricks, 'Misc. Tyrone (Tyrone Smith)', 1976 — the sitter in denim overalls and a dark jacket over one shoulder against flat pink. ⚠️ TODD'S LINK WAS A 554x554 SQUARE DETAIL CROP; the whole painting is held, from WikiArt at 829x1200.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/10.jpg",
+   "source_px": [
+    829,
+    1200
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "artist",
+     "v": "Barkley L. Hendricks"
+    },
+    {
+     "k": "subject",
+     "v": "portrait"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Google Lens resolves the thumbnail, via WikiArt, to Barkley L. Hendricks, 'Misc. Tyrone (Tyrone Smith)', 1976 — the sitter in denim overalls and a dark jacket over one shoulder against flat pink. ⚠️ TODD'S LINK WAS A 554x554 SQUARE DETAIL CROP; the whole painting is held, from WikiArt at 829x1200.",
+   "hue": 3.42,
+   "light": 0.642,
+   "chroma": 0.8315,
+   "punch": 0.2187
+  },
+  "sent-2026-09-08j::b07d064a0805": {
+   "id": "CRVI002766",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002766.png",
+   "original_px": [
+    1163,
+    1275
+   ],
+   "original_bytes": 1052766,
+   "identity": "sent-2026-09-08j::b07d064a0805",
+   "source_url": "https://preview.redd.it/jh7y41v7xqj81.png?auto=webp&s=2c9b179b5077256c97297bcb5435faa3d81593ca",
+   "maker": "Barkley L. Hendricks",
+   "title": "FTA",
+   "subtitle": "",
+   "year": "1968",
+   "label": "",
+   "verified_against": "Google Lens resolves the thumbnail, via MutualArt, to Barkley L. Hendricks, 'FTA', 1968, oil on canvas — a bust portrait of a soldier in a Vietnam-era helmet and olive fatigues against acid green, signed at the lower right. The title is the era's anti-war acronym. ⚠️ HELD FROM A REDDIT RE-HOST at 1163x1275: the identification is firm but the FILE HAS NO PROVENANCE, and no copy with any was found above the floor.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/11.png",
+   "source_px": [
+    1163,
+    1275
+   ],
+   "colors": [
+    "green",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "artist",
+     "v": "Barkley L. Hendricks"
+    },
+    {
+     "k": "subject",
+     "v": "portrait"
+    },
+    {
+     "k": "subject",
+     "v": "Vietnam War"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Google Lens resolves the thumbnail, via MutualArt, to Barkley L. Hendricks, 'FTA', 1968, oil on canvas — a bust portrait of a soldier in a Vietnam-era helmet and olive fatigues against acid green, signed at the lower right. The title is the era's anti-war acronym. ⚠️ HELD FROM A REDDIT RE-HOST at 1163x1275: the identification is firm but the FILE HAS NO PROVENANCE, and no copy with any was found above the floor.",
+   "hue": 80.74,
+   "light": 0.3151,
+   "chroma": 0.9741,
+   "punch": 0.4106
+  },
+  "sent-2026-09-08j::37dbd6abaaaf": {
+   "id": "CRVI002767",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002767.jpg",
+   "original_px": [
+    2078,
+    3001
+   ],
+   "original_bytes": 251922,
+   "identity": "sent-2026-09-08j::37dbd6abaaaf",
+   "source_url": "https://fineartconnoisseur.com/wp-content/uploads/2023/07/Hendricks-Brenda-P.jpg",
+   "maker": "Barkley L. Hendricks",
+   "title": "Brenda P",
+   "subtitle": "",
+   "year": "1974",
+   "label": "",
+   "verified_against": "Google Lens resolves this, via Culture Type, to Barkley L. Hendricks, 'Brenda P', 1974, oil and acrylic on canvas; the sitter is generally identified as Brenda Payton of Brenda and the Tabulations. A woman in a red blouse, headwrap and flared jeans, hands on hips, against white. ⚠️ TODD'S SANITY LINK ASKED `?w=3840` AND GOT INTERPOLATION — the filename says the true master is 560x782, under the floor. Held instead from fineartconnoisseur at 2078x3001, reached by stripping WordPress's `-scaled` cap of 1773x2560.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/12.jpg",
+   "source_px": [
+    2078,
+    3001
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "artist",
+     "v": "Barkley L. Hendricks"
+    },
+    {
+     "k": "subject",
+     "v": "portrait"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Google Lens resolves this, via Culture Type, to Barkley L. Hendricks, 'Brenda P', 1974, oil and acrylic on canvas; the sitter is generally identified as Brenda Payton of Brenda and the Tabulations. A woman in a red blouse, headwrap and flared jeans, hands on hips, against white. ⚠️ TODD'S SANITY LINK ASKED `?w=3840` AND GOT INTERPOLATION — the filename says the true master is 560x782, under the floor. Held instead from fineartconnoisseur at 2078x3001, reached by stripping WordPress's `-scaled` cap of 1773x2560.",
+   "hue": 44.12,
+   "light": 0.7644,
+   "chroma": 0.6068,
+   "punch": 0.0808
+  },
+  "sent-2026-09-08j::c162e821f739": {
+   "id": "CRVI002768",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002768.png",
+   "original_px": [
+    1024,
+    983
+   ],
+   "original_bytes": 570330,
+   "identity": "sent-2026-09-08j::c162e821f739",
+   "source_url": "https://visualizing.jp/pie-chart-william-playfair/images/Playfair-pie-chairt-1_hu_e1a02e54002dfe4c.png",
+   "maker": "William Playfair",
+   "title": "Statistical Representation of the United States of America",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF, which letters 'STATISTICAL REPRESENTATION of the UNITED STATES OF AMERICA' and 'By W. PLAYFAIR' beneath a divided circle whose sectors are named for the states and territories, with LOUISIANA and 'WESTERN TERRITORY — Newly Acquired' filling the lower half. One of the first pie charts ever printed. ⚠️ NO YEAR IS ESTABLISHED by the file; Playfair published the Statistical Breviary in 1801 and this plate belongs to that family.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/13.png",
+   "source_px": [
+    1024,
+    983
+   ],
+   "colors": [
+    "orange",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "designer",
+     "v": "William Playfair"
+    },
+    {
+     "k": "subject",
+     "v": "information graphic"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, which letters 'STATISTICAL REPRESENTATION of the UNITED STATES OF AMERICA' and 'By W. PLAYFAIR' beneath a divided circle whose sectors are named for the states and territories, with LOUISIANA and 'WESTERN TERRITORY — Newly Acquired' filling the lower half. One of the first pie charts ever printed. ⚠️ NO YEAR IS ESTABLISHED by the file; Playfair published the Statistical Breviary in 1801 and this plate belongs to that family.",
+   "hue": 43.21,
+   "light": 0.7177,
+   "chroma": 0.9496,
+   "punch": 0.1937
+  },
+  "sent-2026-09-08j::6002ae919874": {
+   "id": "CRVI002769",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002769.jpg",
+   "original_px": [
+    1500,
+    885
+   ],
+   "original_bytes": 334494,
+   "identity": "sent-2026-09-08j::6002ae919874",
+   "source_url": "https://i.pinimg.com/originals/e0/4b/30/e04b302e38a10d17c99f449e0e270f50.jpg",
+   "maker": "William Playfair",
+   "title": "Universal Commercial History",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF, whose cartouche letters 'Chart of UNIVERSAL COMMERCIAL HISTORY' and 'By WILLIAM PLAYFAIR' over a ruled timeline banded pink and green, with black wedges rising and falling across it for the trade of each nation. ⚠️ NO YEAR IS ESTABLISHED by the file. ⚠️ The hosting file is a bare Pinterest original.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/14.jpg",
+   "source_px": [
+    1500,
+    885
+   ],
+   "colors": [
+    "orange",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "designer",
+     "v": "William Playfair"
+    },
+    {
+     "k": "subject",
+     "v": "information graphic"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, whose cartouche letters 'Chart of UNIVERSAL COMMERCIAL HISTORY' and 'By WILLIAM PLAYFAIR' over a ruled timeline banded pink and green, with black wedges rising and falling across it for the trade of each nation. ⚠️ NO YEAR IS ESTABLISHED by the file. ⚠️ The hosting file is a bare Pinterest original.",
+   "hue": 35.23,
+   "light": 0.667,
+   "chroma": 0.6983,
+   "punch": 0.1657
+  },
+  "sent-2026-09-08j::71193879ecc7": {
+   "id": "CRVI002770",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002770.jpg",
+   "original_px": [
+    2044,
+    1828
+   ],
+   "original_bytes": 643199,
+   "identity": "sent-2026-09-08j::71193879ecc7",
+   "source_url": "https://flashbak.com/wp-content/uploads/2021/08/FN1.jpg",
+   "maker": "Florence Nightingale",
+   "title": "Diagram Representing the Mortality in the Hospitals at Scutari and Kulali",
+   "subtitle": "",
+   "year": "1855",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF, which letters 'DIAGRAM REPRESENTING THE MORTALITY IN THE HOSPITALS AT SCUTARI AND KULALI, FROM OCTr 1st 1854, TO SEPT 30th 1855' above a radial diagram whose wedges give the monthly death rate, with an explanatory paragraph below. Nightingale's coxcomb, the diagram that argued the Crimean death toll was sanitary rather than martial. ℹ️ Held at 2044x1828 by stripping WordPress's `-1280x1145` suffix.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/15.jpg",
+   "source_px": [
+    2044,
+    1828
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "decade",
+     "v": "1850s"
+    },
+    {
+     "k": "designer",
+     "v": "Florence Nightingale"
+    },
+    {
+     "k": "subject",
+     "v": "information graphic"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, which letters 'DIAGRAM REPRESENTING THE MORTALITY IN THE HOSPITALS AT SCUTARI AND KULALI, FROM OCTr 1st 1854, TO SEPT 30th 1855' above a radial diagram whose wedges give the monthly death rate, with an explanatory paragraph below. Nightingale's coxcomb, the diagram that argued the Crimean death toll was sanitary rather than martial. ℹ️ Held at 2044x1828 by stripping WordPress's `-1280x1145` suffix.",
+   "hue": 44.52,
+   "light": 0.7855,
+   "chroma": 0.9662,
+   "punch": 0.1377
+  },
+  "sent-2026-09-08j::174f5059931b": {
+   "id": "CRVI002771",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002771.jpg",
+   "original_px": [
+    2553,
+    1666
+   ],
+   "original_bytes": 659861,
+   "identity": "sent-2026-09-08j::174f5059931b",
+   "source_url": "https://www.imagomundi.fr/IMG/jpg/10-4.jpg",
+   "maker": "Gerd Arntz",
+   "title": "Erwerbstätige Bevölkerung der Erde",
+   "subtitle": "",
+   "year": "1938",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF, which letters 'Erwerbstätige Bevölkerung der Erde' at the upper left and sets rows of blue, red and green pictogram figures in a ruled grid across Anglo-America, West and Central Europe, the USSR and East Asia, with a legend keyed by colour and the note 'Stand 1938' at the foot. The pictogram system is ISOTYPE and the figures are GERD ARNTZ's. ⚠️ OTTO NEURATH devised Isotype and is not credited on this sheet; only the draughtsman is recorded here.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/16.jpg",
+   "source_px": [
+    2553,
+    1666
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "decade",
+     "v": "1930s"
+    },
+    {
+     "k": "designer",
+     "v": "Gerd Arntz"
+    },
+    {
+     "k": "subject",
+     "v": "information graphic"
+    },
+    {
+     "k": "subject",
+     "v": "Isotype"
+    },
+    {
+     "k": "location",
+     "v": "Netherlands"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, which letters 'Erwerbstätige Bevölkerung der Erde' at the upper left and sets rows of blue, red and green pictogram figures in a ruled grid across Anglo-America, West and Central Europe, the USSR and East Asia, with a legend keyed by colour and the note 'Stand 1938' at the foot. The pictogram system is ISOTYPE and the figures are GERD ARNTZ's. ⚠️ OTTO NEURATH devised Isotype and is not credited on this sheet; only the draughtsman is recorded here.",
+   "hue": 41.77,
+   "light": 0.8397,
+   "chroma": 0.9723,
+   "punch": 0.1477
+  },
+  "sent-2026-09-08j::0c66bdc55b3b": {
+   "id": "CRVI002772",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002772.jpg",
+   "original_px": [
+    2099,
+    3000
+   ],
+   "original_bytes": 2829356,
+   "identity": "sent-2026-09-08j::0c66bdc55b3b",
+   "source_url": "https://media.mutualart.com/Images/2025_06/19/12/97806450/gerd-arntz-bank-VPKYH.Jpeg",
+   "maker": "Gerd Arntz",
+   "title": "Bank",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "The hosting MutualArt file is named `gerd-arntz-bank`, and the print is unmistakably his: a flat-planed interior in black, red, blue and cream, clerks behind a counter above and a queue of stylised figures below, a single figure in a dark coat at the foot. Arntz's linocuts of institutional life run parallel to his Isotype work. ⚠️ NO YEAR IS ESTABLISHED and the file is a bare MutualArt hash.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/17.jpg",
+   "source_px": [
+    2099,
+    3000
+   ],
+   "colors": [
+    "orange",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Gerd Arntz"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "location",
+     "v": "Netherlands"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The hosting MutualArt file is named `gerd-arntz-bank`, and the print is unmistakably his: a flat-planed interior in black, red, blue and cream, clerks behind a counter above and a queue of stylised figures below, a single figure in a dark coat at the foot. Arntz's linocuts of institutional life run parallel to his Isotype work. ⚠️ NO YEAR IS ESTABLISHED and the file is a bare MutualArt hash.",
+   "hue": 37.8,
+   "light": 0.7419,
+   "chroma": 0.7213,
+   "punch": 0.085
+  },
+  "sent-2026-09-08j::245410996323": {
+   "id": "CRVI002773",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002773.jpg",
+   "original_px": [
+    1200,
+    842
+   ],
+   "original_bytes": 495270,
+   "identity": "sent-2026-09-08j::245410996323",
+   "source_url": "https://brewminate.com/wp-content/uploads/2020/01/012520-01-History-Art-Cartography.jpg",
+   "maker": "Unattributed",
+   "title": "Synchronological chart of universal history",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF, a long horizontal chart drawn as a receding colonnade, ruled into bands for GREECE, EMPIRE OF CYRUS, EMPIRE OF ALEXANDER, ROMAN and so on, lettered '1492 DISCOVERY OF AMERICA' at one end and 'THE CREATION 4004' at the vanishing point. ⚠️ NEITHER THE MAKER NOR THE YEAR IS ESTABLISHED — the file is an article illustration on brewminate with no caption reachable. The genre is the 19th-century synchronological chart; the title above is DESCRIPTIVE.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/18.jpg",
+   "source_px": [
+    1200,
+    842
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "subject",
+     "v": "information graphic"
+    },
+    {
+     "k": "subject",
+     "v": "cartography"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, a long horizontal chart drawn as a receding colonnade, ruled into bands for GREECE, EMPIRE OF CYRUS, EMPIRE OF ALEXANDER, ROMAN and so on, lettered '1492 DISCOVERY OF AMERICA' at one end and 'THE CREATION 4004' at the vanishing point. ⚠️ NEITHER THE MAKER NOR THE YEAR IS ESTABLISHED — the file is an article illustration on brewminate with no caption reachable. The genre is the 19th-century synchronological chart; the title above is DESCRIPTIVE.",
+   "hue": 32.95,
+   "light": 0.569,
+   "chroma": 0.1536,
+   "punch": 0.091
+  },
+  "sent-2026-09-08j::225ef128734c": {
+   "id": "CRVI002774",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002774.jpg",
+   "original_px": [
+    3000,
+    2785
+   ],
+   "original_bytes": 685143,
+   "identity": "sent-2026-09-08j::225ef128734c",
+   "source_url": "https://i.etsystatic.com/23609182/r/il/094fac/6645633193/il_fullxfull.6645633193_pzge.jpg",
+   "maker": "Unattributed",
+   "title": "Diagram of lines of force",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "⚠️ NEITHER THE MAKER NOR THE SUBJECT IS FULLY ESTABLISHED. A framed black plate on which fine white lines spiral out of two labelled poles, A and B, with further letters at the margins — the diagram of a magnetic or electrostatic field. The file is an Etsy listing image with no caption. ℹ️ Etsy's `il_1080xN` was climbed to `il_fullxfull`, 1080 -> 3000.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/19.jpg",
+   "source_px": [
+    3000,
+    2785
+   ],
+   "colors": [
+    "orange",
+    "white"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "subject",
+     "v": "information graphic"
+    },
+    {
+     "k": "subject",
+     "v": "science"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ NEITHER THE MAKER NOR THE SUBJECT IS FULLY ESTABLISHED. A framed black plate on which fine white lines spiral out of two labelled poles, A and B, with further letters at the margins — the diagram of a magnetic or electrostatic field. The file is an Etsy listing image with no caption. ℹ️ Etsy's `il_1080xN` was climbed to `il_fullxfull`, 1080 -> 3000.",
+   "hue": null,
+   "light": 0.7334,
+   "chroma": 0.0578,
+   "punch": 0.0136
+  },
+  "sent-2026-09-08j::84ea630dc534": {
+   "id": "CRVI002775",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002775.jpg",
+   "original_px": [
+    2165,
+    1015
+   ],
+   "original_bytes": 218042,
+   "identity": "sent-2026-09-08j::84ea630dc534",
+   "source_url": "https://flashbak.com/wp-content/uploads/2015/09/running.jpg",
+   "maker": "Étienne-Jules Marey",
+   "title": "Chronophotograph of a running man",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "ATTRIBUTED ON THE WORK AND THE METHOD, NOT ON A CAPTION. A single plate on which a running figure is recorded as a repeating sequence of white limb-strokes against black, the geometric chronophotography Marey developed at the Station Physiologique by dressing his subject in black with reflective strips. ⚠️ NO TITLE OR YEAR IS ESTABLISHED; the file is a flashbak article image named only `running.jpg`, and the technique is also Georges Demenÿ's, who worked alongside Marey.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/20.jpg",
+   "source_px": [
+    2165,
+    1015
+   ],
+   "colors": [
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "photographer",
+     "v": "Étienne-Jules Marey"
+    },
+    {
+     "k": "subject",
+     "v": "chronophotography"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "ATTRIBUTED ON THE WORK AND THE METHOD, NOT ON A CAPTION. A single plate on which a running figure is recorded as a repeating sequence of white limb-strokes against black, the geometric chronophotography Marey developed at the Station Physiologique by dressing his subject in black with reflective strips. ⚠️ NO TITLE OR YEAR IS ESTABLISHED; the file is a flashbak article image named only `running.jpg`, and the technique is also Georges Demenÿ's, who worked alongside Marey.",
+   "hue": null,
+   "light": 0.206,
+   "chroma": 0.0,
+   "punch": 0.0
+  },
+  "sent-2026-09-08j::f6b64f7d099e": {
+   "id": "CRVI002776",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002776.jpg",
+   "original_px": [
+    800,
+    1152
+   ],
+   "original_bytes": 298585,
+   "identity": "sent-2026-09-08j::f6b64f7d099e",
+   "source_url": "https://mdl.artvee.com/sftb/11214po.jpg",
+   "maker": "Marcello Dudovich",
+   "title": "Vermouth Martini",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF, which letters VERMOUTH MARTINI and MARTINI & ROSSI — TORINO across the foot beneath a figure in a white wrap leaping out of a yellow starburst with a bottle raised in each hand, signed at the right. Held from Artvee. ⚠️ NO YEAR IS ESTABLISHED and the signature was read at 800x1152, so the attribution rests on the signature and the house manner rather than on a catalogue entry.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/21.jpg",
+   "source_px": [
+    800,
+    1152
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "advertising poster"
+    },
+    {
+     "k": "designer",
+     "v": "Marcello Dudovich"
+    },
+    {
+     "k": "client",
+     "v": "Martini & Rossi"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, which letters VERMOUTH MARTINI and MARTINI & ROSSI — TORINO across the foot beneath a figure in a white wrap leaping out of a yellow starburst with a bottle raised in each hand, signed at the right. Held from Artvee. ⚠️ NO YEAR IS ESTABLISHED and the signature was read at 800x1152, so the attribution rests on the signature and the house manner rather than on a catalogue entry.",
+   "hue": 51.15,
+   "light": 0.2867,
+   "chroma": 0.5239,
+   "punch": 0.1901
+  },
+  "sent-2026-09-08j::00e212384616": {
+   "id": "CRVI002777",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002777.jpg",
+   "original_px": [
+    1080,
+    1544
+   ],
+   "original_bytes": 154633,
+   "identity": "sent-2026-09-08j::00e212384616",
+   "source_url": "https://a.1stdibscdn.com/leonetto-cappiello-prints-works-on-paper-original-leonetto-cappiello-contratto-poster-1921-oversized-format-very-rare-for-sale/a_25602/1731601888913/10497_master.jpg?width=8000&disable=upscale",
+   "maker": "Leonetto Cappiello",
+   "title": "Contratto",
+   "subtitle": "",
+   "year": "1921",
+   "label": "",
+   "verified_against": "The 1stDibs listing named in the URL path — 'Original Leonetto Cappiello Contratto Poster 1921, oversized format, very rare'. The sheet letters CONTRATTO across the foot beneath a figure in red pouring a foaming glass over their head, signed L. Cappiello, and is dated in the plate. ⚠️ Held at 1080x1544 with `disable=upscale`.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/22.jpg",
+   "source_px": [
+    1080,
+    1544
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "advertising poster"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "designer",
+     "v": "Leonetto Cappiello"
+    },
+    {
+     "k": "client",
+     "v": "Contratto"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The 1stDibs listing named in the URL path — 'Original Leonetto Cappiello Contratto Poster 1921, oversized format, very rare'. The sheet letters CONTRATTO across the foot beneath a figure in red pouring a foaming glass over their head, signed L. Cappiello, and is dated in the plate. ⚠️ Held at 1080x1544 with `disable=upscale`.",
+   "hue": 44.47,
+   "light": 0.325,
+   "chroma": 0.3044,
+   "punch": 0.084
+  },
+  "sent-2026-09-08j::1760bfea8756": {
+   "id": "CRVI002778",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002778.jpg",
+   "original_px": [
+    2345,
+    3117
+   ],
+   "original_bytes": 610293,
+   "identity": "sent-2026-09-08j::1760bfea8756",
+   "source_url": "https://a.1stdibscdn.com/archivesE/upload/a_436/1486817106496/PA1450_master.jpg?width=8000&disable=upscale",
+   "maker": "Leonetto Cappiello",
+   "title": "Pâte Éclair",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF, which letters PÂTE ÉCLAIR / EN TUBES POUR FOURNEAUX across the foot beneath a figure in orange skating out of a red disc trailing yellow tubes, on deep blue, signed Cappiello at the upper left. ⚠️ NO YEAR IS ESTABLISHED — the file sits under a 1stDibs `archivesE/upload` path with no listing text reachable. ℹ️ Held at 2345x3117 with `disable=upscale`.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/23.jpg",
+   "source_px": [
+    2345,
+    3117
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "advertising poster"
+    },
+    {
+     "k": "designer",
+     "v": "Leonetto Cappiello"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, which letters PÂTE ÉCLAIR / EN TUBES POUR FOURNEAUX across the foot beneath a figure in orange skating out of a red disc trailing yellow tubes, on deep blue, signed Cappiello at the upper left. ⚠️ NO YEAR IS ESTABLISHED — the file sits under a 1stDibs `archivesE/upload` path with no listing text reachable. ℹ️ Held at 2345x3117 with `disable=upscale`.",
+   "hue": 226.9,
+   "light": 0.3111,
+   "chroma": 0.7474,
+   "punch": 0.3119
+  },
+  "sent-2026-09-08j::5ad95e6c379a": {
+   "id": "CRVI002779",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002779.jpg",
+   "original_px": [
+    2085,
+    2927
+   ],
+   "original_bytes": 656628,
+   "identity": "sent-2026-09-08j::5ad95e6c379a",
+   "source_url": "https://a.1stdibscdn.com/archivesE/upload/8611/01_13/IN10967/ORG_IN10967.jpg?width=8000&disable=upscale",
+   "maker": "Marcello Dudovich",
+   "title": "Panizza: il cappello per tutti",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF, which letters 'il cappello per tutti' at the top and PANIZZA / CHIFFA / :ITALIA: at the foot, around three men in the same pale hat seen in overlapping profile, one smoking, one in a striped tie. ⚠️ NEITHER THE DESIGNER NOR THE YEAR IS ESTABLISHED FROM THE FILE — it sits under a 1stDibs `archivesE` path with no listing text. The attribution above rests on the signature at the upper left and on the manner, and should be treated as provisional.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/24.jpg",
+   "source_px": [
+    2085,
+    2927
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "advertising poster"
+    },
+    {
+     "k": "designer",
+     "v": "Marcello Dudovich"
+    },
+    {
+     "k": "client",
+     "v": "Panizza"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, which letters 'il cappello per tutti' at the top and PANIZZA / CHIFFA / :ITALIA: at the foot, around three men in the same pale hat seen in overlapping profile, one smoking, one in a striped tie. ⚠️ NEITHER THE DESIGNER NOR THE YEAR IS ESTABLISHED FROM THE FILE — it sits under a 1stDibs `archivesE` path with no listing text. The attribution above rests on the signature at the upper left and on the manner, and should be treated as provisional.",
+   "hue": 44.21,
+   "light": 0.3122,
+   "chroma": 0.2472,
+   "punch": 0.1131
+  },
+  "sent-2026-09-08j::332e467cd15d": {
+   "id": "CRVI002780",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002780.jpg",
+   "original_px": [
+    1000,
+    1231
+   ],
+   "original_bytes": 455164,
+   "identity": "sent-2026-09-08j::332e467cd15d",
+   "source_url": "https://whitehotmagazine.com/UserFiles/image/0/10/320e749cec446c0ebdf20c14e82ff209.jpg",
+   "maker": "Unattributed",
+   "title": "Untitled (concentric maze disc)",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "⚠️ NOTHING IS ESTABLISHED. A black-and-white disc built from concentric squared spirals quartered into four rotating segments, on white — op art of the 1960s in manner. The file is a Whitehot Magazine article image with a hash filename and no caption reachable from it.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/25.jpg",
+   "source_px": [
+    1000,
+    1231
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "subject",
+     "v": "Op Art"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ NOTHING IS ESTABLISHED. A black-and-white disc built from concentric squared spirals quartered into four rotating segments, on white — op art of the 1960s in manner. The file is a Whitehot Magazine article image with a hash filename and no caption reachable from it.",
+   "hue": null,
+   "light": 0.7001,
+   "chroma": 0.0,
+   "punch": 0.0085
+  },
+  "sent-2026-09-08j::9cc5c96b0d9c": {
+   "id": "CRVI002781",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002781.jpg",
+   "original_px": [
+    1600,
+    1200
+   ],
+   "original_bytes": 237121,
+   "identity": "sent-2026-09-08j::9cc5c96b0d9c",
+   "source_url": "https://a.1stdibscdn.com/a-kinetic-gouache-on-paper-painting-by-dordevic-miodrag-france-1960-for-sale-picture-8/f_66502/f_361104221694448971137/s_l1600_6_master.jpg?width=8000&disable=upscale",
+   "maker": "Miodrag Đorđević",
+   "title": "Kinetic gouache on paper",
+   "subtitle": "",
+   "year": "1960",
+   "label": "",
+   "verified_against": "The 1stDibs listing named in the URL path — 'A kinetic gouache on paper painting by Dordevic Miodrag, France, 1960'. Vertical black tapering bars against a graduated blue field, each swelling and thinning so the rank reads as a standing wave. ⚠️ Todd's link was `picture-8`, the eighth photograph in the listing, but it shows the whole sheet and was kept as sent.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/26.jpg",
+   "source_px": [
+    1600,
+    1200
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "artist",
+     "v": "Miodrag Đorđević"
+    },
+    {
+     "k": "subject",
+     "v": "kinetic art"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The 1stDibs listing named in the URL path — 'A kinetic gouache on paper painting by Dordevic Miodrag, France, 1960'. Vertical black tapering bars against a graduated blue field, each swelling and thinning so the rank reads as a standing wave. ⚠️ Todd's link was `picture-8`, the eighth photograph in the listing, but it shows the whole sheet and was kept as sent.",
+   "hue": 214.85,
+   "light": 0.4251,
+   "chroma": 0.744,
+   "punch": 0.2363
+  },
+  "sent-2026-09-08j::a11f22345558": {
+   "id": "CRVI002782",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002782.png",
+   "original_px": [
+    962,
+    1362
+   ],
+   "original_bytes": 1802579,
+   "identity": "sent-2026-09-08j::a11f22345558",
+   "source_url": "https://i.pinimg.com/originals/04/f6/e7/04f6e78f0e908a6cf3b5035a2a0916e2.png",
+   "maker": "Saul Bass",
+   "title": "Such Good Friends",
+   "subtitle": "",
+   "year": "1971",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF, which letters SUCH GOOD FRIENDS in Bass's hand-drawn script beside a black cut-paper form on flat red, with the credit block at the foot naming AN OTTO PREMINGER FILM and Elaine May's screenplay from the Lois Gould novel. Preminger's film was released in 1971 and Bass designed his campaigns throughout. ⚠️ The hosting file is a bare Pinterest original, so the date rests on the film rather than on the sheet.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/27.png",
+   "source_px": [
+    962,
+    1362
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "designer",
+     "v": "Saul Bass"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, which letters SUCH GOOD FRIENDS in Bass's hand-drawn script beside a black cut-paper form on flat red, with the credit block at the foot naming AN OTTO PREMINGER FILM and Elaine May's screenplay from the Lois Gould novel. Preminger's film was released in 1971 and Bass designed his campaigns throughout. ⚠️ The hosting file is a bare Pinterest original, so the date rests on the film rather than on the sheet.",
+   "hue": 355.22,
+   "light": 0.4266,
+   "chroma": 0.9153,
+   "punch": 0.736
+  },
+  "sent-2026-09-08j::dde9e5839157": {
+   "id": "CRVI002783",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002783.jpg",
+   "original_px": [
+    4000,
+    6061
+   ],
+   "original_bytes": 1921326,
+   "identity": "sent-2026-09-08j::dde9e5839157",
+   "source_url": "https://images.bauerhosting.com/legacy/empire-images/features/5b02c46b977aaa98055b9eb8/cool-hand-luke.jpg?auto=format&w=4000&q=90",
+   "maker": "Bill Gold",
+   "title": "Cool Hand Luke",
+   "subtitle": "",
+   "year": "1967",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF, which letters PAUL NEWMAN / COOL HAND LUKE over a yellow-and-red chevron field beside Newman's face, with the full Warner Bros–Seven Arts credit block at the foot and a chain-gang frieze along the top. Bill Gold designed the Warner campaigns of the period. ⚠️ THE DESIGNER IS ATTRIBUTED ON THE STUDIO AND THE PERIOD, not on a credit printed on this sheet. ℹ️ Held at 4000x6061 by asking the Bauer CDN for more than the `w=1440` sent.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/28.jpg",
+   "source_px": [
+    4000,
+    6061
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "designer",
+     "v": "Bill Gold"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, which letters PAUL NEWMAN / COOL HAND LUKE over a yellow-and-red chevron field beside Newman's face, with the full Warner Bros–Seven Arts credit block at the foot and a chain-gang frieze along the top. Bill Gold designed the Warner campaigns of the period. ⚠️ THE DESIGNER IS ATTRIBUTED ON THE STUDIO AND THE PERIOD, not on a credit printed on this sheet. ℹ️ Held at 4000x6061 by asking the Bauer CDN for more than the `w=1440` sent.",
+   "hue": 50.17,
+   "light": 0.7416,
+   "chroma": 0.4442,
+   "punch": 0.2872
+  },
+  "sent-2026-09-08j::dce7cd9a7650": {
+   "id": "CRVI002784",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002784.jpg",
+   "original_px": [
+    2000,
+    4836
+   ],
+   "original_bytes": 2460017,
+   "identity": "sent-2026-09-08j::dce7cd9a7650",
+   "source_url": "https://media.mutualart.com/Images/2024_06/26/12/122358000/reynold-brown-premature-burial--1962--us-AAAAA.Jpeg",
+   "maker": "Reynold Brown",
+   "title": "The Premature Burial",
+   "subtitle": "",
+   "year": "1962",
+   "label": "",
+   "verified_against": "The hosting MutualArt file is named `reynold-brown-premature-burial--1962--us`, and the sheet matches: 'WITHIN THE COFFIN I LIE... ALIVE!' across the top, RAY MILLAND in EDGAR ALLAN POE'S THE PREMATURE BURIAL below a staring face and a coffin, AMERICAN INTERNATIONAL PRESENTS at the foot. An insert-format sheet.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/29.jpg",
+   "source_px": [
+    2000,
+    4836
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "illustrator",
+     "v": "Reynold Brown"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The hosting MutualArt file is named `reynold-brown-premature-burial--1962--us`, and the sheet matches: 'WITHIN THE COFFIN I LIE... ALIVE!' across the top, RAY MILLAND in EDGAR ALLAN POE'S THE PREMATURE BURIAL below a staring face and a coffin, AMERICAN INTERNATIONAL PRESENTS at the foot. An insert-format sheet.",
+   "hue": 25.85,
+   "light": 0.6051,
+   "chroma": 0.8419,
+   "punch": 0.3275
+  },
+  "sent-2026-09-08j::75cba627b79d": {
+   "id": "CRVI002785",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002785.jpg",
+   "original_px": [
+    900,
+    1188
+   ],
+   "original_bytes": 243656,
+   "identity": "sent-2026-09-08j::75cba627b79d",
+   "source_url": "https://www.illustrationhistory.org/images/uploads/My_Fair_Lady.jpg",
+   "maker": "Bob Peak",
+   "title": "My Fair Lady",
+   "subtitle": "",
+   "year": "1964",
+   "label": "",
+   "verified_against": "Published by illustrationhistory.org as `My_Fair_Lady.jpg`. A brush-and-ink crowd scene washed entirely in magenta, with a woman in a wide hat and a man in a top hat at the centre — Bob Peak's artwork for the 1964 film. ⚠️ THE FILE CARRIES NO CAPTION reachable from it, so the attribution rests on the host's own framing of Peak's work.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/30.jpg",
+   "source_px": [
+    900,
+    1188
+   ],
+   "colors": [
+    "pink",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "illustrator",
+     "v": "Bob Peak"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published by illustrationhistory.org as `My_Fair_Lady.jpg`. A brush-and-ink crowd scene washed entirely in magenta, with a woman in a wide hat and a man in a top hat at the centre — Bob Peak's artwork for the 1964 film. ⚠️ THE FILE CARRIES NO CAPTION reachable from it, so the attribution rests on the host's own framing of Peak's work.",
+   "hue": 337.35,
+   "light": 0.5667,
+   "chroma": 0.9996,
+   "punch": 0.4215
+  },
+  "sent-2026-09-08j::b14dbc9bd7c7": {
+   "id": "CRVI002786",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002786.jpg",
+   "original_px": [
+    1121,
+    1500
+   ],
+   "original_bytes": 390592,
+   "identity": "sent-2026-09-08j::b14dbc9bd7c7",
+   "source_url": "https://media.mutualart.com/Images/2020_07/24/21/211704534/71cc26e4-9062-46b8-81a3-476e008f8d5c.Jpeg",
+   "maker": "Jan Lenica",
+   "title": "Affiches, Cinéma d'animation, Galerie Solothurn",
+   "subtitle": "",
+   "year": "1976",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF, which letters JAN LENICA across the foot on violet and, in the white cone issuing from the eye, 'Affiches / Cinéma d'animation / Galerie Solothurn / Bulmper / Mart 1976'. A profile head built from flat blue, green and grey planes on brown, signed Jan Lenica. ⚠️ The file is a bare MutualArt hash.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/31.jpg",
+   "source_px": [
+    1121,
+    1500
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "designer",
+     "v": "Jan Lenica"
+    },
+    {
+     "k": "subject",
+     "v": "cinema"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, which letters JAN LENICA across the foot on violet and, in the white cone issuing from the eye, 'Affiches / Cinéma d'animation / Galerie Solothurn / Bulmper / Mart 1976'. A profile head built from flat blue, green and grey planes on brown, signed Jan Lenica. ⚠️ The file is a bare MutualArt hash.",
+   "hue": 175.08,
+   "light": 0.2306,
+   "chroma": 0.6096,
+   "punch": 0.1477
+  },
+  "sent-2026-09-08j::4bee8f15b459": {
+   "id": "CRVI002787",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002787.jpg",
+   "original_px": [
+    2694,
+    3704
+   ],
+   "original_bytes": 1297740,
+   "identity": "sent-2026-09-08j::4bee8f15b459",
+   "source_url": "https://postermuseum.com/cdn/shop/files/HKEciiM.jpg",
+   "maker": "Jan Lenica",
+   "title": "Jan Lenica: Plakat & Film",
+   "subtitle": "",
+   "year": "1983",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF, which letters 'Jan Lenica / Plakat & Film' and 'Deutsches Plakat-Museum' at the foot with the run 28.7. – 11.9.83 and the address 4300 Essen, Theaterplatz. A face dissolving into red and pink flame-like bands. Held from Poster Museum at 2694x3704.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/32.jpg",
+   "source_px": [
+    2694,
+    3704
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "designer",
+     "v": "Jan Lenica"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, which letters 'Jan Lenica / Plakat & Film' and 'Deutsches Plakat-Museum' at the foot with the run 28.7. – 11.9.83 and the address 4300 Essen, Theaterplatz. A face dissolving into red and pink flame-like bands. Held from Poster Museum at 2694x3704.",
+   "hue": 5.19,
+   "light": 0.4257,
+   "chroma": 0.7577,
+   "punch": 0.2943
+  },
+  "sent-2026-09-08j::194edd4dc403": {
+   "id": "CRVI002788",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002788.jpg",
+   "original_px": [
+    1040,
+    1500
+   ],
+   "original_bytes": 305146,
+   "identity": "sent-2026-09-08j::194edd4dc403",
+   "source_url": "https://artinfo-production.s3.amazonaws.com/uploads/artwork/image/496420/RackMultipart20200623-1-1dcqnjb.jpg",
+   "maker": "Waldemar Świerzy",
+   "title": "Muzeum Plakatu ma 20 lat",
+   "subtitle": "",
+   "year": "1988",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF, which letters 'Muzeum Plakatu ma 20 lat' across the foot beneath a shouting face built from loose strokes of flat colour. The Poster Museum at Wilanów opened in 1968, so its twentieth anniversary is 1988. ⚠️ THE DESIGNER IS ATTRIBUTED ON THE MANNER AND THE SIGNATURE at the lower right, not on a caption — the file is an artinfo S3 asset with a RackMultipart name.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/33.jpg",
+   "source_px": [
+    1040,
+    1500
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "designer",
+     "v": "Waldemar Świerzy"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, which letters 'Muzeum Plakatu ma 20 lat' across the foot beneath a shouting face built from loose strokes of flat colour. The Poster Museum at Wilanów opened in 1968, so its twentieth anniversary is 1988. ⚠️ THE DESIGNER IS ATTRIBUTED ON THE MANNER AND THE SIGNATURE at the lower right, not on a caption — the file is an artinfo S3 asset with a RackMultipart name.",
+   "hue": 195.87,
+   "light": 0.4623,
+   "chroma": 0.798,
+   "punch": 0.3484
+  },
+  "sent-2026-09-08j::d3011ac56e2c": {
+   "id": "CRVI002789",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002789.png",
+   "original_px": [
+    1000,
+    1000
+   ],
+   "original_bytes": 840728,
+   "identity": "sent-2026-09-08j::d3011ac56e2c",
+   "source_url": "https://images.squarespace-cdn.com/content/v1/5bd8e569506fbe6dc72c84b9/1614550136423-TZ8961FN4BK90TSIIFYW/Waldemar+Swierzy+-+Jazz+Jamboree+76.png?format=original",
+   "maker": "Waldemar Świerzy",
+   "title": "Jazz Jamboree '76",
+   "subtitle": "",
+   "year": "1976",
+   "label": "",
+   "verified_against": "THE HOSTING FILENAME NAMES IT — `Waldemar Swierzy - Jazz Jamboree 76` — and the sheet letters 'XIX Międzynarodowy Festiwal Muzyki Jazzowej, Warszawa 21–24 X 1976' up one side and '19th International Jazz Festival Warsaw · October 21–24 1976' up the other, around a trumpet dissolving into machinery. ⚠️ TODD MARKED THIS '(crop)' AND IT WAS NOT CROPPED: the file is already the sheet on a black ground with no frame or mount to remove, and it is square at 1000x1000, so a crop would only lose paper.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/34.png",
+   "source_px": [
+    1000,
+    1000
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "designer",
+     "v": "Waldemar Świerzy"
+    },
+    {
+     "k": "subject",
+     "v": "jazz"
+    },
+    {
+     "k": "location",
+     "v": "Poland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE HOSTING FILENAME NAMES IT — `Waldemar Swierzy - Jazz Jamboree 76` — and the sheet letters 'XIX Międzynarodowy Festiwal Muzyki Jazzowej, Warszawa 21–24 X 1976' up one side and '19th International Jazz Festival Warsaw · October 21–24 1976' up the other, around a trumpet dissolving into machinery. ⚠️ TODD MARKED THIS '(crop)' AND IT WAS NOT CROPPED: the file is already the sheet on a black ground with no frame or mount to remove, and it is square at 1000x1000, so a crop would only lose paper.",
+   "hue": null,
+   "light": 0.196,
+   "chroma": 0.034,
+   "punch": 0.016
+  },
+  "sent-2026-09-08j::643536fddac6": {
+   "id": "CRVI002790",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002790.jpg",
+   "original_px": [
+    1218,
+    1680
+   ],
+   "original_bytes": 945797,
+   "identity": "sent-2026-09-08j::643536fddac6",
+   "source_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtNp274UuGfvH_kfvo06rVmwOCodd-p_s7UFVBceGrlushF_K0HE8FeFTnAQCI2CexViYd9cQLFiEGeB8Uy570ubVdpNUb4Dn18ltLtcwbFl0ale4r27oPTGv1CDW9IJY1FGaRf0o_zds/s0/Herbert+Matter12.jpg",
+   "maker": "Herbert Matter",
+   "title": "Chairs by Harry Bertoia",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF, which letters 'CHAIRS BY HARRY BERTOIA' at the foot and, up the left edge, 'Suitable in a wide range of designs suitable for both indoor and outdoor use. May we send you an illustrated brochure?' — Bertoia's diamond chairs drawn as flat coloured lozenges over a wire grid, with the Knoll mark at the upper right. The hosting file is named `Herbert Matter12`. ⚠️ NO YEAR IS ESTABLISHED. ℹ️ THE DESIGNER AND THE CHAIR'S DESIGNER ARE DIFFERENT PEOPLE and both are recorded, in their own roles.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/35.jpg",
+   "source_px": [
+    1218,
+    1680
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "advertising poster"
+    },
+    {
+     "k": "designer",
+     "v": "Herbert Matter"
+    },
+    {
+     "k": "designer",
+     "v": "Harry Bertoia"
+    },
+    {
+     "k": "client",
+     "v": "Knoll"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, which letters 'CHAIRS BY HARRY BERTOIA' at the foot and, up the left edge, 'Suitable in a wide range of designs suitable for both indoor and outdoor use. May we send you an illustrated brochure?' — Bertoia's diamond chairs drawn as flat coloured lozenges over a wire grid, with the Knoll mark at the upper right. The hosting file is named `Herbert Matter12`. ⚠️ NO YEAR IS ESTABLISHED. ℹ️ THE DESIGNER AND THE CHAIR'S DESIGNER ARE DIFFERENT PEOPLE and both are recorded, in their own roles.",
+   "hue": 42.4,
+   "light": 0.6742,
+   "chroma": 0.7106,
+   "punch": 0.2031
+  },
+  "sent-2026-09-08j::91e1e375154c": {
+   "id": "CRVI002791",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002791.png",
+   "original_px": [
+    1000,
+    1416
+   ],
+   "original_bytes": 1091437,
+   "identity": "sent-2026-09-08j::91e1e375154c",
+   "source_url": "https://i.pinimg.com/originals/0e/fa/41/0efa41d7fa0789f94295989f301452d2.png",
+   "maker": "Armin Hofmann",
+   "title": "Kunsthalle Basel: Maurice Estève, Berto Lardera",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF, which sets a vast white E across black with two hairline rules through it, and, in small italic at the lower right, 'Kunsthalle Basel / Maurice Estève / Malerei / Berto Lardera / Skulptur / 10. Juni bis 16. Juli'. ⚠️ NO YEAR IS PRINTED, only the run. ⚠️ The file is a bare Pinterest original; the attribution rests on the Kunsthalle Basel series, which was Hofmann's.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/36.png",
+   "source_px": [
+    1000,
+    1416
+   ],
+   "colors": [
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "designer",
+     "v": "Armin Hofmann"
+    },
+    {
+     "k": "client",
+     "v": "Kunsthalle Basel"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, which sets a vast white E across black with two hairline rules through it, and, in small italic at the lower right, 'Kunsthalle Basel / Maurice Estève / Malerei / Berto Lardera / Skulptur / 10. Juni bis 16. Juli'. ⚠️ NO YEAR IS PRINTED, only the run. ⚠️ The file is a bare Pinterest original; the attribution rests on the Kunsthalle Basel series, which was Hofmann's.",
+   "hue": null,
+   "light": 0.3304,
+   "chroma": 0.0724,
+   "punch": 0.018
+  },
+  "sent-2026-09-08j::d80b0da5ba67": {
+   "id": "CRVI002792",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002792.jpg",
+   "original_px": [
+    2350,
+    3532
+   ],
+   "original_bytes": 420776,
+   "identity": "sent-2026-09-08j::d80b0da5ba67",
+   "source_url": "https://a.1stdibscdn.com/armin-hofmann-prints-works-on-paper-armin-hofmann-posters-museum-of-modern-art-swiss-graphic-design-vintage-poster-for-sale/a_13322/a_81641921621995827602/SWX14659_master.jpg?width=8000&disable=upscale",
+   "maker": "Armin Hofmann",
+   "title": "Armin Hofmann: Posters, The Museum of Modern Art",
+   "subtitle": "",
+   "year": "1981",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF, which prints 'Sept. 10 – Oct. 25, 81 / The Museum of Modern Art / New York / Armin Hofmann / POSTERS' at the head, above a white lozenge blotted with blue ink, ruled with construction marks and signed A. Hofmann. The 1stDibs listing path names it 'Armin Hofmann posters Museum of Modern Art Swiss graphic design vintage poster'. ℹ️ Held at 2350x3532 with `disable=upscale`.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/37.jpg",
+   "source_px": [
+    2350,
+    3532
+   ],
+   "colors": [
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "designer",
+     "v": "Armin Hofmann"
+    },
+    {
+     "k": "client",
+     "v": "Museum of Modern Art"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, which prints 'Sept. 10 – Oct. 25, 81 / The Museum of Modern Art / New York / Armin Hofmann / POSTERS' at the head, above a white lozenge blotted with blue ink, ruled with construction marks and signed A. Hofmann. The 1stDibs listing path names it 'Armin Hofmann posters Museum of Modern Art Swiss graphic design vintage poster'. ℹ️ Held at 2350x3532 with `disable=upscale`.",
+   "hue": null,
+   "light": 0.1254,
+   "chroma": 0.0139,
+   "punch": 0.016
+  },
+  "sent-2026-09-08j::d95ac36b1ced": {
+   "id": "CRVI002793",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002793.png",
+   "original_px": [
+    1000,
+    1446
+   ],
+   "original_bytes": 899533,
+   "identity": "sent-2026-09-08j::d95ac36b1ced",
+   "source_url": "https://i.pinimg.com/originals/ee/c3/98/eec398cf47a5a73020830b13b4f2d232.png",
+   "maker": "Armin Hofmann",
+   "title": "Stadttheater Basel",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF, which prints 'Stadt theater Basel' in small type at the left, beneath a descending stair of black bars and above a photographic band of dancers. ⚠️ NO YEAR IS ESTABLISHED. Hofmann's Stadttheater Basel posters are the series this belongs to. ⚠️ The file is a bare Pinterest original.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/38.png",
+   "source_px": [
+    1000,
+    1446
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "theatre poster"
+    },
+    {
+     "k": "designer",
+     "v": "Armin Hofmann"
+    },
+    {
+     "k": "client",
+     "v": "Stadttheater Basel"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, which prints 'Stadt theater Basel' in small type at the left, beneath a descending stair of black bars and above a photographic band of dancers. ⚠️ NO YEAR IS ESTABLISHED. Hofmann's Stadttheater Basel posters are the series this belongs to. ⚠️ The file is a bare Pinterest original.",
+   "hue": 44.19,
+   "light": 0.4198,
+   "chroma": 0.1712,
+   "punch": 0.0231
+  },
+  "sent-2026-09-08j::fcb659a4fbab": {
+   "id": "CRVI002794",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002794.jpg",
+   "original_px": [
+    1414,
+    2000
+   ],
+   "original_bytes": 115562,
+   "identity": "sent-2026-09-08j::fcb659a4fbab",
+   "source_url": "https://i.pinimg.com/originals/b1/2d/52/b12d5243a4803eecfb9bef9e4b397d98.jpg",
+   "maker": "Unattributed",
+   "title": "zürcher maler, Kunsthalle Basel",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF, which sets a huge lowercase o and the words 'zürcher maler' across the page, then lists the painters in red — carigiet, früh, graeser, herbst, jacob, leuppi, lobeck, lohse, moser, varlin — with 'kunsthalle basel 15.5. bis 24.6.' at the foot. ⚠️ THE DESIGNER IS NOT ESTABLISHED and no year is printed, only the run. The file is a bare Pinterest original.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/39.jpg",
+   "source_px": [
+    1414,
+    2000
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "client",
+     "v": "Kunsthalle Basel"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, which sets a huge lowercase o and the words 'zürcher maler' across the page, then lists the painters in red — carigiet, früh, graeser, herbst, jacob, leuppi, lobeck, lohse, moser, varlin — with 'kunsthalle basel 15.5. bis 24.6.' at the foot. ⚠️ THE DESIGNER IS NOT ESTABLISHED and no year is printed, only the run. The file is a bare Pinterest original.",
+   "hue": 44.82,
+   "light": 0.6485,
+   "chroma": 0.6962,
+   "punch": 0.0848
+  },
+  "sent-2026-09-08j::99bb25efacac": {
+   "id": "CRVI002795",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002795.jpg",
+   "original_px": [
+    1400,
+    1953
+   ],
+   "original_bytes": 153930,
+   "identity": "sent-2026-09-08j::99bb25efacac",
+   "source_url": "https://i.pinimg.com/originals/f7/c8/a5/f7c8a589399d3f042bad9744bfea5b37.jpg",
+   "maker": "Unattributed",
+   "title": "Japanische Kalligraphie und westliche Zeichen, Kunsthalle Basel",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF, which prints 'Kunsthalle Basel 18.2. bis 18.3. / Japanische Kalligraphie und westliche Zeichen' at the foot beneath a single black brushstroke form and a small orange seal-like block. ⚠️ THE DESIGNER IS NOT ESTABLISHED and no year is printed. ⚠️ The file is a bare Pinterest original.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/40.jpg",
+   "source_px": [
+    1400,
+    1953
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "client",
+     "v": "Kunsthalle Basel"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, which prints 'Kunsthalle Basel 18.2. bis 18.3. / Japanische Kalligraphie und westliche Zeichen' at the foot beneath a single black brushstroke form and a small orange seal-like block. ⚠️ THE DESIGNER IS NOT ESTABLISHED and no year is printed. ⚠️ The file is a bare Pinterest original.",
+   "hue": 38.99,
+   "light": 0.6414,
+   "chroma": 0.6146,
+   "punch": 0.0905
+  },
+  "sent-2026-09-08j::c9c19544c6be": {
+   "id": "CRVI002796",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002796.jpg",
+   "original_px": [
+    860,
+    1201
+   ],
+   "original_bytes": 125317,
+   "identity": "sent-2026-09-08j::c9c19544c6be",
+   "source_url": "https://i.pinimg.com/originals/1b/1e/d0/1b1ed04ce18f1f110913ddd844c0f087.jpg",
+   "maker": "Josef Müller-Brockmann",
+   "title": "musica viva",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF, which sets 'musica viva' at the lower left and the programme beside it — erich schmid, adolf neumeler, goffredo petrassi, darius milhaud, paul hindemith, georg kertesz, rolf liebermann — over red and black bars falling diagonally across a red field. The musica viva series for the Zurich Tonhalle is Müller-Brockmann's. ⚠️ NO YEAR IS ESTABLISHED and the file is a bare Pinterest original.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/41.jpg",
+   "source_px": [
+    860,
+    1201
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "designer",
+     "v": "Josef Müller-Brockmann"
+    },
+    {
+     "k": "client",
+     "v": "Tonhalle-Gesellschaft Zürich"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "city",
+     "v": "Zürich"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, which sets 'musica viva' at the lower left and the programme beside it — erich schmid, adolf neumeler, goffredo petrassi, darius milhaud, paul hindemith, georg kertesz, rolf liebermann — over red and black bars falling diagonally across a red field. The musica viva series for the Zurich Tonhalle is Müller-Brockmann's. ⚠️ NO YEAR IS ESTABLISHED and the file is a bare Pinterest original.",
+   "hue": 355.0,
+   "light": 0.4362,
+   "chroma": 0.8631,
+   "punch": 0.6188
+  },
+  "sent-2026-09-08j::722f912e58ad": {
+   "id": "CRVI002797",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002797.jpg",
+   "original_px": [
+    1410,
+    2000
+   ],
+   "original_bytes": 286892,
+   "identity": "sent-2026-09-08j::722f912e58ad",
+   "source_url": "https://www.neugraphic.com/gerstner/2023/18.jpg",
+   "maker": "Karl Gerstner",
+   "title": "Wie sieht eine technische Revolution aus?",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF, which asks 'Wie sieht eine technische Revolution aus?' at the head, answers 'So:' beside a small machine at the foot, and ranges a mass of typebars across the middle with two columns of body copy below — an IBM advertisement. Published on neugraphic.com under Gerstner. ⚠️ NO YEAR IS ESTABLISHED.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/42.jpg",
+   "source_px": [
+    1410,
+    2000
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "advertising poster"
+    },
+    {
+     "k": "designer",
+     "v": "Karl Gerstner"
+    },
+    {
+     "k": "client",
+     "v": "IBM"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, which asks 'Wie sieht eine technische Revolution aus?' at the head, answers 'So:' beside a small machine at the foot, and ranges a mass of typebars across the middle with two columns of body copy below — an IBM advertisement. Published on neugraphic.com under Gerstner. ⚠️ NO YEAR IS ESTABLISHED.",
+   "hue": null,
+   "light": 0.8369,
+   "chroma": 0.0,
+   "punch": 0.0077
+  },
+  "sent-2026-09-08j::ba2af8e8f179": {
+   "id": "CRVI002798",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002798.webp",
+   "original_px": [
+    1000,
+    1413
+   ],
+   "original_bytes": 88828,
+   "identity": "sent-2026-09-08j::ba2af8e8f179",
+   "source_url": "https://blog.nationalmuseum.ch/app/uploads/2017/11/04-Serenaden-1992-Tissi.webp",
+   "maker": "Rosmarie Tissi",
+   "title": "Serenaden 92",
+   "subtitle": "",
+   "year": "1992",
+   "label": "",
+   "verified_against": "The hosting file on the Schweizerisches Nationalmuseum blog is named `04-Serenaden-1992-Tissi`, which gives maker, subject and year. The sheet sets SERENADEN vertically down the left with the concert programme in fine type, over scalloped green clouds and an orange-and-white disc. The Serenaden concerts ran in the park of the Villa Schönberg, Zürich.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/43.webp",
+   "source_px": [
+    1000,
+    1413
+   ],
+   "colors": [
+    "green",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "designer",
+     "v": "Rosmarie Tissi"
+    },
+    {
+     "k": "subject",
+     "v": "music"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "city",
+     "v": "Zürich"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The hosting file on the Schweizerisches Nationalmuseum blog is named `04-Serenaden-1992-Tissi`, which gives maker, subject and year. The sheet sets SERENADEN vertically down the left with the concert programme in fine type, over scalloped green clouds and an orange-and-white disc. The Serenaden concerts ran in the park of the Villa Schönberg, Zürich.",
+   "hue": 144.83,
+   "light": 0.3064,
+   "chroma": 0.4021,
+   "punch": 0.1254
+  },
+  "sent-2026-09-08j::6a5136508a31": {
+   "id": "CRVI002799",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002799.jpg",
+   "original_px": [
+    1689,
+    2400
+   ],
+   "original_bytes": 718744,
+   "identity": "sent-2026-09-08j::6a5136508a31",
+   "source_url": "https://d2kq0urxkarztv.cloudfront.net/56710e06df86d37030857b53/959659/upload-f0f06e80-82f4-11e8-9925-df562ff65019.jpg",
+   "maker": "Siegfried Odermatt",
+   "title": "Licht",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF, which sets LICHT in heavy black across yellow with a red bar down the left, a block of reversed copy set on the diagonal, and the printer's line 'Anton Schöb, Buchdruck-Offsetdruck, Feilenstrasse / Bircherstrasse 102, 8050 Zürich' at the lower right. ⚠️ THE DESIGNER IS ATTRIBUTED ON THE CLIENT AND THE MANNER: Anton Schöb was the Zürich printer for whom Odermatt & Tissi made a long series of promotional sheets, of which the 'Offset' pieces in this batch are Tissi's. Which of the two partners made this one is NOT settled, and no year is printed.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/44.jpg",
+   "source_px": [
+    1689,
+    2400
+   ],
+   "colors": [
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "advertising poster"
+    },
+    {
+     "k": "designer",
+     "v": "Siegfried Odermatt"
+    },
+    {
+     "k": "client",
+     "v": "Anton Schöb"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "city",
+     "v": "Zürich"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, which sets LICHT in heavy black across yellow with a red bar down the left, a block of reversed copy set on the diagonal, and the printer's line 'Anton Schöb, Buchdruck-Offsetdruck, Feilenstrasse / Bircherstrasse 102, 8050 Zürich' at the lower right. ⚠️ THE DESIGNER IS ATTRIBUTED ON THE CLIENT AND THE MANNER: Anton Schöb was the Zürich printer for whom Odermatt & Tissi made a long series of promotional sheets, of which the 'Offset' pieces in this batch are Tissi's. Which of the two partners made this one is NOT settled, and no year is printed.",
+   "hue": 54.88,
+   "light": 0.4594,
+   "chroma": 0.7276,
+   "punch": 0.6913
+  },
+  "sent-2026-09-08j::a3f55fc69abe": {
+   "id": "CRVI002800",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002800.jpg",
+   "original_px": [
+    1687,
+    2398
+   ],
+   "original_bytes": 2783398,
+   "identity": "sent-2026-09-08j::a3f55fc69abe",
+   "source_url": "https://d2kq0urxkarztv.cloudfront.net/56710e06df86d37030857b53/959659/upload-dca0e700-842c-11e8-96e3-37cefb2f3116.jpg",
+   "maker": "Siegfried Odermatt",
+   "title": "Untitled (ampersand)",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF, on which a white ampersand steps down a red field in a stack of squared forms, with a line of reversed type up the right edge. ⚠️ NEITHER THE DESIGNER NOR THE YEAR IS ESTABLISHED FROM THE FILE — it is a bare cloudfront asset, sibling to the Anton Schöb sheet in this batch, and the attribution rests on that pairing and on the manner. Treat as provisional. The title above is DESCRIPTIVE.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/45.jpg",
+   "source_px": [
+    1687,
+    2398
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "designer",
+     "v": "Siegfried Odermatt"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, on which a white ampersand steps down a red field in a stack of squared forms, with a line of reversed type up the right edge. ⚠️ NEITHER THE DESIGNER NOR THE YEAR IS ESTABLISHED FROM THE FILE — it is a bare cloudfront asset, sibling to the Anton Schöb sheet in this batch, and the attribution rests on that pairing and on the manner. Treat as provisional. The title above is DESCRIPTIVE.",
+   "hue": 5.0,
+   "light": 0.5305,
+   "chroma": 0.8112,
+   "punch": 0.5488
+  },
+  "sent-2026-09-08j::9354b4eabcd1": {
+   "id": "CRVI002801",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002801.jpg",
+   "original_px": [
+    2400,
+    2400
+   ],
+   "original_bytes": 97680,
+   "identity": "sent-2026-09-08j::9354b4eabcd1",
+   "source_url": "https://images.squarespace-cdn.com/content/v1/54c547dce4b050a35a846418/1644354269954-9QT44PJSWDTE8GRGHDVX/Instagram+_format15.jpg?format=original",
+   "maker": "Unattributed",
+   "title": "Rosmarie Tissi | Graphic Design Master",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "⚠️ NOT BY ROSMARIE TISSI — a poster ABOUT her. Four coloured bars stack over a red T on near-black, and at the foot, in type about six points high, it reads 'Rosmarie Tissi | Graphic Design Master'. A contemporary tribute in her idiom. ⚠️ ITS DESIGNER IS NOT ESTABLISHED and no year is given; the file is a bare Squarespace asset named `Instagram_format15`, which is what it was made for.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/46.jpg",
+   "source_px": [
+    2400,
+    2400
+   ],
+   "colors": [
+    "red",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "subject",
+     "v": "Rosmarie Tissi"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ NOT BY ROSMARIE TISSI — a poster ABOUT her. Four coloured bars stack over a red T on near-black, and at the foot, in type about six points high, it reads 'Rosmarie Tissi | Graphic Design Master'. A contemporary tribute in her idiom. ⚠️ ITS DESIGNER IS NOT ESTABLISHED and no year is given; the file is a bare Squarespace asset named `Instagram_format15`, which is what it was made for.",
+   "hue": 5.04,
+   "light": 0.5167,
+   "chroma": 0.2642,
+   "punch": 0.171
+  },
+  "sent-2026-09-08j::a2047a0a13df": {
+   "id": "CRVI002802",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002802.jpg",
+   "original_px": [
+    1000,
+    1422
+   ],
+   "original_bytes": 347228,
+   "identity": "sent-2026-09-08j::a2047a0a13df",
+   "source_url": "https://blog.nationalmuseum.ch/app/uploads/2017/11/07-Serenaden-1996-Tissi.jpg",
+   "maker": "Rosmarie Tissi",
+   "title": "Serenaden 96",
+   "subtitle": "",
+   "year": "1996",
+   "label": "",
+   "verified_against": "The hosting file on the Schweizerisches Nationalmuseum blog is named `07-Serenaden-1996-Tissi`, which gives maker, subject and year. Yellow rules, black wedges and dotted arcs scatter across deep blue above the concert programme, with SERENADEN — 96 set across the middle.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/47.jpg",
+   "source_px": [
+    1000,
+    1422
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "designer",
+     "v": "Rosmarie Tissi"
+    },
+    {
+     "k": "subject",
+     "v": "music"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "city",
+     "v": "Zürich"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The hosting file on the Schweizerisches Nationalmuseum blog is named `07-Serenaden-1996-Tissi`, which gives maker, subject and year. Yellow rules, black wedges and dotted arcs scatter across deep blue above the concert programme, with SERENADEN — 96 set across the middle.",
+   "hue": 216.08,
+   "light": 0.5396,
+   "chroma": 0.9463,
+   "punch": 0.3769
+  },
+  "sent-2026-09-08j::bd476bdc440e": {
+   "id": "CRVI002803",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002803.jpg",
+   "original_px": [
+    2135,
+    3000
+   ],
+   "original_bytes": 1466298,
+   "identity": "sent-2026-09-08j::bd476bdc440e",
+   "source_url": "https://grafagallery.com/cdn/shop/products/CH42.jpg",
+   "maker": "Rosmarie Tissi",
+   "title": "Serenaden 98",
+   "subtitle": "",
+   "year": "1998",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF, which sets 'Serenaden 98' at the left with the concert programme beneath it, beside a blue disc wrapped in fine looping lines over a coarse halftone ground. Held from Grafa Gallery, which catalogues it under Tissi. ℹ️ The Shopify `_1200x1200` suffix was stripped for the 2135x3000 master.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/48.jpg",
+   "source_px": [
+    2135,
+    3000
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "designer",
+     "v": "Rosmarie Tissi"
+    },
+    {
+     "k": "subject",
+     "v": "music"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "city",
+     "v": "Zürich"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, which sets 'Serenaden 98' at the left with the concert programme beneath it, beside a blue disc wrapped in fine looping lines over a coarse halftone ground. Held from Grafa Gallery, which catalogues it under Tissi. ℹ️ The Shopify `_1200x1200` suffix was stripped for the 2135x3000 master.",
+   "hue": 205.2,
+   "light": 0.4345,
+   "chroma": 0.1164,
+   "punch": 0.0449
+  },
+  "sent-2026-09-08j::95d40556c0ad": {
+   "id": "CRVI002804",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002804.jpg",
+   "original_px": [
+    1340,
+    1900
+   ],
+   "original_bytes": 122717,
+   "identity": "sent-2026-09-08j::95d40556c0ad",
+   "source_url": "https://payload.cargocollective.com/1/23/752338/12941017/wolfgang-weingart-poster-tom-a_1340_c.jpg",
+   "maker": "Unattributed",
+   "title": "Wolfgang Weingart, Barbican Art Gallery",
+   "subtitle": "",
+   "year": "2015",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF, which sets WOLFGANG WEINGART in cut and reassembled white letterforms across grey, and prints below: 'Wolfgang Weingart is a German born graphic designer and typographer. Known for his experimental style, Weingart is credited as being the father of \"new wave Swiss Punk typography\"…', with '30 March – 22 April 2015 / Silk Street, London / EC2Y 8DS / barbican.org.uk'. ⚠️ NOT BY WEINGART — a 2015 poster ABOUT him, and its designer is not established.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/49.jpg",
+   "source_px": [
+    1340,
+    1900
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "subject",
+     "v": "Wolfgang Weingart"
+    },
+    {
+     "k": "client",
+     "v": "Barbican Centre"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, which sets WOLFGANG WEINGART in cut and reassembled white letterforms across grey, and prints below: 'Wolfgang Weingart is a German born graphic designer and typographer. Known for his experimental style, Weingart is credited as being the father of \"new wave Swiss Punk typography\"…', with '30 March – 22 April 2015 / Silk Street, London / EC2Y 8DS / barbican.org.uk'. ⚠️ NOT BY WEINGART — a 2015 poster ABOUT him, and its designer is not established.",
+   "hue": null,
+   "light": 0.489,
+   "chroma": 0.0,
+   "punch": 0.0
+  },
+  "sent-2026-09-08j::16d4d57a68bd": {
+   "id": "CRVI002805",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002805.webp",
+   "original_px": [
+    1804,
+    2560
+   ],
+   "original_bytes": 1639460,
+   "identity": "sent-2026-09-08j::16d4d57a68bd",
+   "source_url": "https://collections-images.lacma.org/images/207619/207619-1-primary.webp",
+   "maker": "Wolfgang Weingart",
+   "title": "Kunstkredit 1982/83",
+   "subtitle": "",
+   "year": "1983",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF, which sets KUNSTKREDIT 1982/83 in overlapping screened letterforms and prints 'Ausstellung Mustermesse Basel, Rundhofgebäude Halle 10 / Wettbewerbe, Aufträge und Ankäufe des Staatlichen Kunstkredits' with the run 23. Juli bis 14. August 1983. Held from LACMA's collection image (object 207619). The layered halftone and stepped rules are Weingart's Basel manner.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/50.webp",
+   "source_px": [
+    1804,
+    2560
+   ],
+   "colors": [
+    "cyan",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "designer",
+     "v": "Wolfgang Weingart"
+    },
+    {
+     "k": "client",
+     "v": "Kunstkredit Basel"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, which sets KUNSTKREDIT 1982/83 in overlapping screened letterforms and prints 'Ausstellung Mustermesse Basel, Rundhofgebäude Halle 10 / Wettbewerbe, Aufträge und Ankäufe des Staatlichen Kunstkredits' with the run 23. Juli bis 14. August 1983. Held from LACMA's collection image (object 207619). The layered halftone and stepped rules are Weingart's Basel manner.",
+   "hue": 199.07,
+   "light": 0.6603,
+   "chroma": 0.6361,
+   "punch": 0.1716
+  },
+  "sent-2026-09-08j::eb50e7980e68": {
+   "id": "CRVI002806",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002806.jpg",
+   "original_px": [
+    813,
+    1000
+   ],
+   "original_bytes": 54170,
+   "identity": "sent-2026-09-08j::eb50e7980e68",
+   "source_url": "https://www.sessions.edu/wp-content/uploads/rosmarie-tissi-1.jpg",
+   "maker": "Rosmarie Tissi",
+   "title": "UCLA Extension",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF, which sets U C L A E X T E N S I O N in an arc across yellow above a fan of ruled subject headings — The Arts, Social Sciences, Science and Mathematics, Business — with a halftone block, a black hand and an orange rule below. Published by sessions.edu as `rosmarie-tissi-1`. ⚠️ NO YEAR IS ESTABLISHED and the host is an educational article, not a museum.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/51.jpg",
+   "source_px": [
+    813,
+    1000
+   ],
+   "colors": [
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "designer",
+     "v": "Rosmarie Tissi"
+    },
+    {
+     "k": "client",
+     "v": "UCLA"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, which sets U C L A E X T E N S I O N in an arc across yellow above a fan of ruled subject headings — The Arts, Social Sciences, Science and Mathematics, Business — with a halftone block, a black hand and an orange rule below. Published by sessions.edu as `rosmarie-tissi-1`. ⚠️ NO YEAR IS ESTABLISHED and the host is an educational article, not a museum.",
+   "hue": 55.02,
+   "light": 0.6787,
+   "chroma": 0.8044,
+   "punch": 0.4581
+  },
+  "sent-2026-09-08j::3890142e1573": {
+   "id": "CRVI002807",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002807.jpg",
+   "original_px": [
+    2269,
+    3230
+   ],
+   "original_bytes": 414480,
+   "identity": "sent-2026-09-08j::3890142e1573",
+   "source_url": "https://a.1stdibscdn.com/rosmarie-tissi-prints-works-on-paper-serenaden-93-swiss-post-modern-music-festival-original-vintage-poster-for-sale/a_13322/a_95144621642526837858/SWX02534_master.jpg",
+   "maker": "Rosmarie Tissi",
+   "title": "Serenaden 93",
+   "subtitle": "",
+   "year": "1993",
+   "label": "",
+   "verified_against": "Google Lens resolves the thumbnail, via Grafa Gallery, to Rosmarie Tissi's Serenaden 93, and the sheet sets SERENADEN 93 vertically at the right with the concert programme beside it, over black and yellow scalloped clouds on blue. ⚠️ HELD FROM 1stDibs AT 2269x3230: Todd's link was a 374x534 gstatic thumbnail proxy.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/52.jpg",
+   "source_px": [
+    2269,
+    3230
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "designer",
+     "v": "Rosmarie Tissi"
+    },
+    {
+     "k": "subject",
+     "v": "music"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "city",
+     "v": "Zürich"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Google Lens resolves the thumbnail, via Grafa Gallery, to Rosmarie Tissi's Serenaden 93, and the sheet sets SERENADEN 93 vertically at the right with the concert programme beside it, over black and yellow scalloped clouds on blue. ⚠️ HELD FROM 1stDibs AT 2269x3230: Todd's link was a 374x534 gstatic thumbnail proxy.",
+   "hue": 222.51,
+   "light": 0.3825,
+   "chroma": 0.5805,
+   "punch": 0.2788
+  },
+  "sent-2026-09-08j::a2e6b8bbeea7": {
+   "id": "CRVI002808",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002808.jpg",
+   "original_px": [
+    1069,
+    1501
+   ],
+   "original_bytes": 80686,
+   "identity": "sent-2026-09-08j::a2e6b8bbeea7",
+   "source_url": "https://lineto.com/api/front/image/resize?key=f12b0039-c476-42b1-87c4-51e43757998a.jpg&width=1069&height=1501",
+   "maker": "Rosmarie Tissi",
+   "title": "Offset, for Anton Schöb",
+   "subtitle": "",
+   "year": "1982",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF, which builds the word OFFSET out of chunky interlocking letter-forms in red, green, pink and black on yellow, with the printer's copy at the foot: 'Seit 1949 wandelte sich unser Betrieb von der Buchdruckerei zu einer leistungsfähigen Offsetdruckerei… Anton Schöb, Buchdruck-Offsetdruck, Falzendruck, Bircherstrasse 102, 8050 Zürich'. Google Lens resolves it to Tissi, 1982. ⚠️ HELD FROM lineto AT 1069x1501; Todd's link was a 377x530 gstatic thumbnail proxy.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/53.jpg",
+   "source_px": [
+    1069,
+    1501
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "advertising poster"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "designer",
+     "v": "Rosmarie Tissi"
+    },
+    {
+     "k": "client",
+     "v": "Anton Schöb"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "city",
+     "v": "Zürich"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, which builds the word OFFSET out of chunky interlocking letter-forms in red, green, pink and black on yellow, with the printer's copy at the foot: 'Seit 1949 wandelte sich unser Betrieb von der Buchdruckerei zu einer leistungsfähigen Offsetdruckerei… Anton Schöb, Buchdruck-Offsetdruck, Falzendruck, Bircherstrasse 102, 8050 Zürich'. Google Lens resolves it to Tissi, 1982. ⚠️ HELD FROM lineto AT 1069x1501; Todd's link was a 377x530 gstatic thumbnail proxy.",
+   "hue": 44.94,
+   "light": 0.4845,
+   "chroma": 0.8438,
+   "punch": 0.7649
+  },
+  "sent-2026-09-08j::3a38a9c4828f": {
+   "id": "CRVI002809",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002809.jpg",
+   "original_px": [
+    1000,
+    1415
+   ],
+   "original_bytes": 703176,
+   "identity": "sent-2026-09-08j::3a38a9c4828f",
+   "source_url": "https://freight.cargo.site/t/original/i/01292e10732e3e03b161471f62017399040a9c3d73f999203ce8907a5402a146/Poster-Klein_0001_DIG-38653_LM-117017.jpg",
+   "maker": "Unattributed",
+   "title": "Kieler Woche 1990",
+   "subtitle": "",
+   "year": "1990",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF, which letters '1990 16.–24. Juni' across the head and 'Kieler Woche' vertically at the left, over a column of overlapping triangular pennants in blue, green, yellow, red and violet on navy. ⚠️ THE DESIGNER IS NOT ESTABLISHED — the file is a bare cargo.site asset named `Poster-Klein_0001_DIG-38653_LM-117017`, whose `LM-` and `DIG-` numbers look like a museum's accession and digitisation ids but were not resolved.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/54.jpg",
+   "source_px": [
+    1000,
+    1415
+   ],
+   "colors": [
+    "blue",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "client",
+     "v": "Kieler Woche"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, which letters '1990 16.–24. Juni' across the head and 'Kieler Woche' vertically at the left, over a column of overlapping triangular pennants in blue, green, yellow, red and violet on navy. ⚠️ THE DESIGNER IS NOT ESTABLISHED — the file is a bare cargo.site asset named `Poster-Klein_0001_DIG-38653_LM-117017`, whose `LM-` and `DIG-` numbers look like a museum's accession and digitisation ids but were not resolved.",
+   "hue": 224.98,
+   "light": 0.3213,
+   "chroma": 0.9418,
+   "punch": 0.3074
+  },
+  "sent-2026-09-08j::c1f604640ec1": {
+   "id": "CRVI002810",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002810.jpg",
+   "original_px": [
+    1933,
+    3000
+   ],
+   "original_bytes": 228127,
+   "identity": "sent-2026-09-08j::c1f604640ec1",
+   "source_url": "https://cdn.shopify.com/s/files/1/0318/7389/2488/products/CH80.jpg",
+   "maker": "Rosmarie Tissi",
+   "title": "Internationale Musikfestwochen Luzern",
+   "subtitle": "",
+   "year": "1994",
+   "label": "",
+   "verified_against": "Grafa Gallery catalogues this sheet as 'Internationale Musikfestwochen Luzern' under Rosmarie Tissi, and the sheet prints 'Internationale Musikfestwochen 17.8.–10.9.1994 Luzern' across the middle, beneath stepped bands of black, purple, blue and yellow and a single black brushed form. ⚠️ HELD FROM Grafa AT 1933x3000; Todd's link was a 374x534 gstatic thumbnail proxy.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/55.jpg",
+   "source_px": [
+    1933,
+    3000
+   ],
+   "colors": [
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "designer",
+     "v": "Rosmarie Tissi"
+    },
+    {
+     "k": "subject",
+     "v": "music"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Grafa Gallery catalogues this sheet as 'Internationale Musikfestwochen Luzern' under Rosmarie Tissi, and the sheet prints 'Internationale Musikfestwochen 17.8.–10.9.1994 Luzern' across the middle, beneath stepped bands of black, purple, blue and yellow and a single black brushed form. ⚠️ HELD FROM Grafa AT 1933x3000; Todd's link was a 374x534 gstatic thumbnail proxy.",
+   "hue": 55.3,
+   "light": 0.5357,
+   "chroma": 0.1634,
+   "punch": 0.1012
+  },
+  "sent-2026-09-08j::a0067d0adbd2": {
+   "id": "CRVI002811",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002811.jpg",
+   "original_px": [
+    1019,
+    1400
+   ],
+   "original_bytes": 214429,
+   "identity": "sent-2026-09-08j::a0067d0adbd2",
+   "source_url": "https://2018.swissdesignawardsblog.ch/thumbs/blog/swiss-grand-award-for-design/rosmarie-tissi/offset_fotosatz-1019x1400.jpg",
+   "maker": "Rosmarie Tissi",
+   "title": "Fotosatz / Offset, for Anton Schöb",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF, which stacks F O T O S A T Z down the left and sets a paragraph of the printer's copy at the head — 'Im Verlaufe von über drei Jahrzehnten wandelte sich unser Betrieb von der Buchdruckerei zu einer modernen und leistungsfähigen Offsetdruckerei… bis zum maximalen Druckformat von 72 x 102 cm' — over interlocking orange, green, blue and pink forms on yellow. Google Lens places it 1981–82, in the same Anton Schöb campaign as the 'Offset' sheet in this batch. ⚠️ NO SINGLE YEAR IS ESTABLISHED, so none is given. ⚠️ HELD FROM swissdesignawardsblog AT 1019x1400; Todd's link was a 381x524 gstatic thumbnail.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/56.jpg",
+   "source_px": [
+    1019,
+    1400
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "advertising poster"
+    },
+    {
+     "k": "designer",
+     "v": "Rosmarie Tissi"
+    },
+    {
+     "k": "client",
+     "v": "Anton Schöb"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "city",
+     "v": "Zürich"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, which stacks F O T O S A T Z down the left and sets a paragraph of the printer's copy at the head — 'Im Verlaufe von über drei Jahrzehnten wandelte sich unser Betrieb von der Buchdruckerei zu einer modernen und leistungsfähigen Offsetdruckerei… bis zum maximalen Druckformat von 72 x 102 cm' — over interlocking orange, green, blue and pink forms on yellow. Google Lens places it 1981–82, in the same Anton Schöb campaign as the 'Offset' sheet in this batch. ⚠️ NO SINGLE YEAR IS ESTABLISHED, so none is given. ⚠️ HELD FROM swissdesignawardsblog AT 1019x1400; Todd's link was a 381x524 gstatic thumbnail.",
+   "hue": 64.23,
+   "light": 0.817,
+   "chroma": 0.364,
+   "punch": 0.2751
+  },
+  "sent-2026-09-08j::4b911dd59c71": {
+   "id": "CRVI002812",
+   "minted": "2026-09-08",
+   "original_file": "originals/CRVI002812.webp",
+   "original_px": [
+    1000,
+    1413
+   ],
+   "original_bytes": 43664,
+   "identity": "sent-2026-09-08j::4b911dd59c71",
+   "source_url": "https://blog.nationalmuseum.ch/app/uploads/2017/11/02-World-City-Expo-Tokyo-1996.webp",
+   "maker": "Rosmarie Tissi",
+   "title": "World City Expo Tokyo '96",
+   "subtitle": "",
+   "year": "1994",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF, which letters 世界都市博 and 'World City Expo Tokyo '96' across the head with the run 1996年3月24日–10月13日, over a rank of coloured vertical bars trailing into blue — the bars standing for city lights reflected in the sea. Google Lens gives Rosmarie Tissi, designed 1994. ⚠️ THE EXPO WAS CANCELLED in 1995 before it opened. ⚠️ HELD FROM the Schweizerisches Nationalmuseum blog at 1000x1413; Todd's link was a 466x658 gstatic thumb.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img69/57.webp",
+   "source_px": [
+    1000,
+    1413
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "designer",
+     "v": "Rosmarie Tissi"
+    },
+    {
+     "k": "client",
+     "v": "World City Expo Tokyo"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, which letters 世界都市博 and 'World City Expo Tokyo '96' across the head with the run 1996年3月24日–10月13日, over a rank of coloured vertical bars trailing into blue — the bars standing for city lights reflected in the sea. Google Lens gives Rosmarie Tissi, designed 1994. ⚠️ THE EXPO WAS CANCELLED in 1995 before it opened. ⚠️ HELD FROM the Schweizerisches Nationalmuseum blog at 1000x1413; Todd's link was a 466x658 gstatic thumb.",
+   "hue": 206.42,
+   "light": 0.4335,
+   "chroma": 0.9984,
+   "punch": 0.5884
   }
  }
 }
