@@ -1,0 +1,50 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>artist: Pierpaolo Ferrari — Crambe Repetita Museum</title><link rel="stylesheet" href="../../../style.css"></head><body><div class="crumb"><span class="t">ARTIST: PIERPAOLO FERRARI</span><span class="c">11 items</span><a class="up" href="../../../name/pierpaolo-ferrari/">&#8593; all of Pierpaolo Ferrari</a><a href="../../../tags/">&#8592; all tags</a></div><div class="grid"><a class="cell" href="../../../CRVI002830/"><div class="inner"><img src="../../../thumbs/CRVI002830.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002830</span>Maurizio Cattelan and Pierpaolo Ferrari - Toilet Paper, Issue 8<br>2013</div></a><a class="cell" href="../../../CRVI002831/"><div class="inner"><img src="../../../thumbs/CRVI002831.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002831</span>Maurizio Cattelan and Pierpaolo Ferrari - Toilet Paper (canary and scissors cover)<br></div></a><a class="cell" href="../../../CRVI002832/"><div class="inner"><img src="../../../thumbs/CRVI002832.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002832</span>Maurizio Cattelan and Pierpaolo Ferrari - Toilet Paper, February 2012<br>2012</div></a><a class="cell" href="../../../CRVI002833/"><div class="inner"><img src="../../../thumbs/CRVI002833.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002833</span>Maurizio Cattelan and Pierpaolo Ferrari - Toilet Paper, December 2012<br>2012</div></a><a class="cell" href="../../../CRVI002834/"><div class="inner"><img src="../../../thumbs/CRVI002834.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002834</span>Maurizio Cattelan and Pierpaolo Ferrari - Toilet Paper (denim and shoes cover)<br></div></a><a class="cell" href="../../../CRVI002835/"><div class="inner"><img src="../../../thumbs/CRVI002835.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002835</span>Maurizio Cattelan and Pierpaolo Ferrari - Toilet Paper, Issue 1<br>2010</div></a><a class="cell" href="../../../CRVI002836/"><div class="inner"><img src="../../../thumbs/CRVI002836.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002836</span>Maurizio Cattelan and Pierpaolo Ferrari - Toilet Paper, Summer 2011 (TAR edition)<br>2011</div></a><a class="cell" href="../../../CRVI002837/"><div class="inner"><img src="../../../thumbs/CRVI002837.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002837</span>Maurizio Cattelan and Pierpaolo Ferrari - Toilet Paper, June 2011<br>2011</div></a><a class="cell" href="../../../CRVI002838/"><div class="inner"><img src="../../../thumbs/CRVI002838.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002838</span>Maurizio Cattelan and Pierpaolo Ferrari - Untitled (roses interior)<br></div></a><a class="cell" href="../../../CRVI002839/"><div class="inner"><img src="../../../thumbs/CRVI002839.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002839</span>Maurizio Cattelan and Pierpaolo Ferrari - Toilet Paper, Issue 9<br>2014</div></a><a class="cell" href="../../../CRVI002840/"><div class="inner"><img src="../../../thumbs/CRVI002840.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI002840</span>Maurizio Cattelan and Pierpaolo Ferrari - Toilet Paper, Diamond Collection<br></div></a></div><script>
+var SCALE=3;var t=null;
+// ⚠️ THE GIF IS FETCHED ON HOVER, NOT BEFORE. Setting src is what triggers the download, so a
+// grid cell ships the still poster and only swaps in the animation when the pointer arrives.
+// Pausing or hiding a GIF whose src is already set saves nothing — it is on the wire either way.
+// The poster is kept in data-poster so leaving restores it without a second fetch of anything.
+function playGif(c){
+  var im=c.querySelector('img.anim');
+  if(!im) return;
+  var g=im.getAttribute('data-gif');
+  if(!g||im.dataset.playing) return;
+  im.dataset.poster=im.getAttribute('src');
+  im.dataset.playing='1';
+  im.setAttribute('src',g);
+}
+function stopGif(c){
+  var im=c.querySelector('img.anim');
+  if(!im||!im.dataset.playing) return;
+  // back to the still, so a page full of gifs is not left all animating at once
+  im.setAttribute('src',im.dataset.poster);
+  delete im.dataset.playing;
+}
+// ⚠️ A VIDEO CANNOT BE SWAPPED INTO AN <img>. Where a gif item just changes src, a video item
+// lays a <video> over its still on hover and takes it away again on leave — same bargain as the
+// gif: nothing is on the wire until the pointer arrives, and a grid is never left all playing.
+function playVid(c){
+  var im=c.querySelector('img.anim'); if(!im) return;
+  var u=im.getAttribute('data-video'); if(!u||c.querySelector('video')) return;
+  var v=document.createElement('video');
+  v.src=u; v.autoplay=true; v.loop=true; v.muted=true; v.playsInline=true;
+  im.parentNode.appendChild(v);
+}
+function stopVid(c){ var v=c.querySelector('video'); if(v) v.parentNode.removeChild(v); }
+document.querySelectorAll('.cell').forEach(function(c){
+  c.addEventListener('mouseenter',function(){
+    playGif(c); playVid(c);
+    clearTimeout(t);
+    t=setTimeout(function(){
+      // transform does not change layout, so push the caption below the grown image
+      var im=c.querySelector('img'),cap=c.querySelector('.cap');
+      cap.style.transform='translateY('+im.getBoundingClientRect().height*(SCALE-1)+'px)';
+      c.classList.add('big');
+    },1000);
+  });
+  c.addEventListener('mouseleave',function(){
+    stopGif(c); stopVid(c);
+    clearTimeout(t);c.classList.remove('big');c.querySelector('.cap').style.transform='';
+  });
+});
+</script></body></html>
