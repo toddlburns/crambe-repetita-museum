@@ -1,5 +1,5 @@
 {
- "next": 2918,
+ "next": 2971,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -173311,6 +173311,2947 @@
    "light": 0.5329,
    "chroma": 0.8362,
    "punch": 0.3261
+  },
+  "sent-2026-09-09d::5ea2706693f8": {
+   "id": "CRVI002918",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002918.jpg",
+   "original_px": [
+    802,
+    1100
+   ],
+   "original_bytes": 103988,
+   "identity": "sent-2026-09-09d::5ea2706693f8",
+   "source_url": "https://64.media.tumblr.com/90458a2d7069f6999dc12ea782baf694/ce114a98f24d30a0-88/s1280x1920/18cdfb0f69ff7e13723e1f8fbc99804e33a08de7.jpg",
+   "maker": "Lora Lamm",
+   "title": "la Rinascente — floor directory",
+   "subtitle": "",
+   "year": "1965",
+   "label": "",
+   "verified_against": "Google Lens resolves this sheet, via the garadinervi archive, to LORA LAMM, 'lR la Rinascente 65'. It sets a huge R and italic l over the store's floor list (4° piano down to 1° sotterraneo). ℹ️ The lR monogram it uses is MAX HUBER's, designed for the store — Huber made the mark, Lamm made this sheet.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/01.jpg",
+   "source_px": [
+    802,
+    1100
+   ],
+   "colors": [
+    "white"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "advertising poster"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "designer",
+     "v": "Lora Lamm"
+    },
+    {
+     "k": "client",
+     "v": "la Rinascente"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "city",
+     "v": "Milan"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Google Lens resolves this sheet, via the garadinervi archive, to LORA LAMM, 'lR la Rinascente 65'. It sets a huge R and italic l over the store's floor list (4° piano down to 1° sotterraneo). ℹ️ The lR monogram it uses is MAX HUBER's, designed for the store — Huber made the mark, Lamm made this sheet.",
+   "hue": null,
+   "light": 0.6322,
+   "chroma": 0.0,
+   "punch": 0.0035
+  },
+  "sent-2026-09-09d::a7c62bb279b3": {
+   "id": "CRVI002919",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002919.png",
+   "original_px": [
+    2192,
+    2145
+   ],
+   "original_bytes": 5305906,
+   "identity": "sent-2026-09-09d::a7c62bb279b3",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/99/Une_of_Alexandre_Wollner_and_Central_Bank_of_Brazil.png",
+   "maker": "Alexandre Wollner",
+   "title": "Central Bank of Brazil — cruzeiro device",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "Wikimedia Commons names the file 'Une of Alexandre Wollner and Central Bank of Brazil'. A numeral 1 sits inside a cogged rosette. ⚠️ NO YEAR IS ESTABLISHED.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/03.png",
+   "source_px": [
+    2192,
+    2145
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "logo"
+    },
+    {
+     "k": "designer",
+     "v": "Alexandre Wollner"
+    },
+    {
+     "k": "client",
+     "v": "Banco Central do Brasil"
+    },
+    {
+     "k": "location",
+     "v": "Brazil"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Wikimedia Commons names the file 'Une of Alexandre Wollner and Central Bank of Brazil'. A numeral 1 sits inside a cogged rosette. ⚠️ NO YEAR IS ESTABLISHED.",
+   "hue": null,
+   "light": 0.8304,
+   "chroma": 0.0,
+   "punch": 0.0041
+  },
+  "sent-2026-09-09d::bc12dc9c5a76": {
+   "id": "CRVI002920",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002920.jpg",
+   "original_px": [
+    7200,
+    10800
+   ],
+   "original_bytes": 8285894,
+   "identity": "sent-2026-09-09d::bc12dc9c5a76",
+   "source_url": "https://mir-s3-cdn-cf.behance.net/project_modules/source/26759f181780427.6521c43d5a718.jpg",
+   "maker": "Alexandre Wollner",
+   "title": "alexandre wollner",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF, which repeats 'alexandre wollner' five times in red down the head over a photograph of Wollner reading, haloed by a red-and-orange sunburst above banana leaves. ⚠️ WOLLNER IS THE SUBJECT HERE AS WELL AS THE NAME ON IT; whether he designed this tribute sheet is NOT established, so it is filed under him as the subject the sheet is about. ℹ️ Held at 7200x10800 — the largest file in the batch — by swapping Behance's `/project_modules/1400/` for `/source/`.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/04.jpg",
+   "source_px": [
+    7200,
+    10800
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "designer",
+     "v": "Alexandre Wollner"
+    },
+    {
+     "k": "subject",
+     "v": "Alexandre Wollner"
+    },
+    {
+     "k": "location",
+     "v": "Brazil"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, which repeats 'alexandre wollner' five times in red down the head over a photograph of Wollner reading, haloed by a red-and-orange sunburst above banana leaves. ⚠️ WOLLNER IS THE SUBJECT HERE AS WELL AS THE NAME ON IT; whether he designed this tribute sheet is NOT established, so it is filed under him as the subject the sheet is about. ℹ️ Held at 7200x10800 — the largest file in the batch — by swapping Behance's `/project_modules/1400/` for `/source/`.",
+   "hue": 23.5,
+   "light": 0.3962,
+   "chroma": 0.8402,
+   "punch": 0.3656
+  },
+  "sent-2026-09-09d::490c780c7e57": {
+   "id": "CRVI002921",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002921.png",
+   "original_px": [
+    1080,
+    1080
+   ],
+   "original_bytes": 911821,
+   "identity": "sent-2026-09-09d::490c780c7e57",
+   "source_url": "https://i0.wp.com/teoriadodesign.com/wp/wp-content/uploads/2022/08/design-brasileiro.png",
+   "maker": "Rafic Farah",
+   "title": "30 Posters on Environment and Development (Eco 92)",
+   "subtitle": "",
+   "year": "1992",
+   "label": "",
+   "verified_against": "THE IMAGE'S OWN PRINTED CAPTION, in Portuguese: 'Imagem editada criada originalmente por Rafic Farah. Título: 30 posters on envionment and development (Eco 92)'. An indigenous figure drawn in black on chrome green over a ground of telephone-directory columns. ⚠️ THE CAPTION SAYS 'IMAGEM EDITADA' — THIS IS AN EDITED VERSION, not the original sheet, and the record says so.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/05.png",
+   "source_px": [
+    1080,
+    1080
+   ],
+   "colors": [
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "designer",
+     "v": "Rafic Farah"
+    },
+    {
+     "k": "subject",
+     "v": "environment"
+    },
+    {
+     "k": "location",
+     "v": "Brazil"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE IMAGE'S OWN PRINTED CAPTION, in Portuguese: 'Imagem editada criada originalmente por Rafic Farah. Título: 30 posters on envionment and development (Eco 92)'. An indigenous figure drawn in black on chrome green over a ground of telephone-directory columns. ⚠️ THE CAPTION SAYS 'IMAGEM EDITADA' — THIS IS AN EDITED VERSION, not the original sheet, and the record says so.",
+   "hue": 124.82,
+   "light": 0.2788,
+   "chroma": 0.9634,
+   "punch": 0.5328
+  },
+  "sent-2026-09-09d::24fce8711a38": {
+   "id": "CRVI002922",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002922.jpg",
+   "original_px": [
+    1617,
+    2500
+   ],
+   "original_bytes": 2376981,
+   "identity": "sent-2026-09-09d::24fce8711a38",
+   "source_url": "https://www.babyinktwice.ch/wp-content/uploads/2017/09/Common-Water_Plakat.jpg",
+   "maker": "Dafi Kühne",
+   "title": "Common Water — The Future of an Alpine Resource",
+   "subtitle": "",
+   "year": "2017",
+   "label": "",
+   "verified_against": "The file is served from babyinktwice.ch, DAFI KÜHNE's own studio site. The sheet sets COMMON WATER in wet, dripping wood-type letters over the NSL Kolloquium programme, ETH Zürich, 20-21 October 2017, D-ARCH.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/07.jpg",
+   "source_px": [
+    1617,
+    2500
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "event poster"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "designer",
+     "v": "Dafi Kühne"
+    },
+    {
+     "k": "client",
+     "v": "ETH Zürich"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The file is served from babyinktwice.ch, DAFI KÜHNE's own studio site. The sheet sets COMMON WATER in wet, dripping wood-type letters over the NSL Kolloquium programme, ETH Zürich, 20-21 October 2017, D-ARCH.",
+   "hue": 231.0,
+   "light": 0.6025,
+   "chroma": 0.3565,
+   "punch": 0.1096
+  },
+  "sent-2026-09-09d::2d57b31d6b08": {
+   "id": "CRVI002923",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002923.jpg",
+   "original_px": [
+    1024,
+    815
+   ],
+   "original_bytes": 147141,
+   "identity": "sent-2026-09-09d::2d57b31d6b08",
+   "source_url": "https://uploads3.wikiart.org/00333/images/corita-kent/we-care-1966.jpg",
+   "maker": "Corita Kent",
+   "title": "we care",
+   "subtitle": "",
+   "year": "1966",
+   "label": "",
+   "verified_against": "WikiArt's path for the file: `corita-kent/we-care-1966.jpg`. Serigraph lettering — 'Tiger', 'HUMBLE', 'RESEARCH WORKS WONDERS WITH OIL', 'who cares' — in tan, red and violet on cream, cut from the language of petrol advertising.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/08.jpg",
+   "source_px": [
+    1024,
+    815
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "screenprint"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "artist",
+     "v": "Corita Kent"
+    },
+    {
+     "k": "subject",
+     "v": "protest"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "WikiArt's path for the file: `corita-kent/we-care-1966.jpg`. Serigraph lettering — 'Tiger', 'HUMBLE', 'RESEARCH WORKS WONDERS WITH OIL', 'who cares' — in tan, red and violet on cream, cut from the language of petrol advertising.",
+   "hue": 5.83,
+   "light": 0.8553,
+   "chroma": 0.4257,
+   "punch": 0.1953
+  },
+  "sent-2026-09-09d::ff28d12f2acb": {
+   "id": "CRVI002924",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002924.jpg",
+   "original_px": [
+    2774,
+    2774
+   ],
+   "original_bytes": 432618,
+   "identity": "sent-2026-09-09d::ff28d12f2acb",
+   "source_url": "https://a.1stdibscdn.com/corita-kent-original-serigraph-vietnam-war-protest-wouldnt-you-go-to-jail-for-sale/f_18753/f_289269621654123631103/f_28926962_1654123632359_bg_processed.jpg?width=8000&disable=upscale",
+   "maker": "Corita Kent",
+   "title": "wouldn't you go to jail if it would help end the war?",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "1stdibs' listing slug: 'corita-kent-original-serigraph-vietnam-war-protest-wouldnt-you-go-to-jail'. Black brushstrokes cross a blue and ochre field with the title written beneath in her hand. ⚠️ CROPPED AT TODD'S INSTRUCTION. ⚠️ NO YEAR ESTABLISHED. ℹ️ Fetched with `?width=8000&disable=upscale` — 1stdibs upscales without bound.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/10.jpg",
+   "source_px": [
+    2774,
+    2774
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "screenprint"
+    },
+    {
+     "k": "artist",
+     "v": "Corita Kent"
+    },
+    {
+     "k": "subject",
+     "v": "protest"
+    },
+    {
+     "k": "subject",
+     "v": "Vietnam War"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "1stdibs' listing slug: 'corita-kent-original-serigraph-vietnam-war-protest-wouldnt-you-go-to-jail'. Black brushstrokes cross a blue and ochre field with the title written beneath in her hand. ⚠️ CROPPED AT TODD'S INSTRUCTION. ⚠️ NO YEAR ESTABLISHED. ℹ️ Fetched with `?width=8000&disable=upscale` — 1stdibs upscales without bound.",
+   "hue": 215.49,
+   "light": 0.5105,
+   "chroma": 0.6174,
+   "punch": 0.3443
+  },
+  "sent-2026-09-09d::eaf650497d68": {
+   "id": "CRVI002925",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002925.jpg",
+   "original_px": [
+    1280,
+    1282
+   ],
+   "original_bytes": 565339,
+   "identity": "sent-2026-09-09d::eaf650497d68",
+   "source_url": "https://hyperallergic-newspack.s3.amazonaws.com/uploads/2015/02/4_Corita_Kent_E_eye_love_1968_courtesy_of_the_Corita_Art_Center_Los_Angeles.jpg",
+   "maker": "Corita Kent",
+   "title": "e eye love",
+   "subtitle": "",
+   "year": "1968",
+   "label": "",
+   "verified_against": "The Hyperallergic file is named '4_Corita_Kent_E_eye_love_1968_courtesy_of_the_Corita_Art_Center_Los_Angeles'. A huge lashed eye over a green cross on orange, with Camus written across the foot: 'should like to be able to love my country and still love justice'.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/11.jpg",
+   "source_px": [
+    1280,
+    1282
+   ],
+   "colors": [
+    "red",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "screenprint"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "artist",
+     "v": "Corita Kent"
+    },
+    {
+     "k": "subject",
+     "v": "protest"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "city",
+     "v": "Los Angeles"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Hyperallergic file is named '4_Corita_Kent_E_eye_love_1968_courtesy_of_the_Corita_Art_Center_Los_Angeles'. A huge lashed eye over a green cross on orange, with Camus written across the foot: 'should like to be able to love my country and still love justice'.",
+   "hue": 11.12,
+   "light": 0.4621,
+   "chroma": 0.9262,
+   "punch": 0.6526
+  },
+  "sent-2026-09-09d::41ed5c3e1f03": {
+   "id": "CRVI002926",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002926.jpg",
+   "original_px": [
+    800,
+    599
+   ],
+   "original_bytes": 60220,
+   "identity": "sent-2026-09-09d::41ed5c3e1f03",
+   "source_url": "https://collections.sandiego.edu/internal/media/dispatcher/7771/full",
+   "maker": "Corita Kent",
+   "title": "one nation",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "Held by the University of San Diego's digital collections, which hold Corita Kent material. Orange and blue forms with ONE and NA— broken across them, her handwriting filling the gaps. ⚠️ NO YEAR ESTABLISHED.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/12.jpg",
+   "source_px": [
+    800,
+    599
+   ],
+   "colors": [
+    "red",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "screenprint"
+    },
+    {
+     "k": "artist",
+     "v": "Corita Kent"
+    },
+    {
+     "k": "subject",
+     "v": "protest"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Held by the University of San Diego's digital collections, which hold Corita Kent material. Orange and blue forms with ONE and NA— broken across them, her handwriting filling the gaps. ⚠️ NO YEAR ESTABLISHED.",
+   "hue": 14.94,
+   "light": 0.4834,
+   "chroma": 0.883,
+   "punch": 0.5648
+  },
+  "sent-2026-09-09d::096da1582471": {
+   "id": "CRVI002927",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002927.jpg",
+   "original_px": [
+    1324,
+    1574
+   ],
+   "original_bytes": 121439,
+   "identity": "sent-2026-09-09d::096da1582471",
+   "source_url": "https://a.1stdibscdn.com/sister-corita-kent-if-a-man-quote-signed-serigraph-for-sale/f_27153/1639596791726/039_01_master.jpg?width=8000&disable=upscale",
+   "maker": "Corita Kent",
+   "title": "if a man does not keep pace with his companions",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "1stdibs' listing slug: 'sister-corita-kent-if-a-man-quote-signed-serigraph'. Green and blue bands with the Thoreau passage lettered along a white diagonal. ⚠️ NO YEAR ESTABLISHED. ℹ️ 'Sister' — she was a Sister of the Immaculate Heart of Mary until 1968.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/13.jpg",
+   "source_px": [
+    1324,
+    1574
+   ],
+   "colors": [
+    "cyan",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "screenprint"
+    },
+    {
+     "k": "artist",
+     "v": "Corita Kent"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "1stdibs' listing slug: 'sister-corita-kent-if-a-man-quote-signed-serigraph'. Green and blue bands with the Thoreau passage lettered along a white diagonal. ⚠️ NO YEAR ESTABLISHED. ℹ️ 'Sister' — she was a Sister of the Immaculate Heart of Mary until 1968.",
+   "hue": 196.21,
+   "light": 0.6679,
+   "chroma": 0.6168,
+   "punch": 0.4187
+  },
+  "sent-2026-09-09d::8bbce906ede7": {
+   "id": "CRVI002928",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002928.jpg",
+   "original_px": [
+    1124,
+    1600
+   ],
+   "original_bytes": 541254,
+   "identity": "sent-2026-09-09d::8bbce906ede7",
+   "source_url": "https://videos.typographicposters.com/poster-2x/babyinktwice/babyinktwice-poster-685151404f11112a71d437c4.jpg",
+   "maker": "Dafi Kühne",
+   "title": "Karl Bickel — Zwei Ansätze, ein Medium",
+   "subtitle": "",
+   "year": "2025",
+   "label": "",
+   "verified_against": "Served from typographicposters under `/babyinktwice/`, DAFI KÜHNE's studio name. The sheet prints 'Karl Bickel — Zwei Ansätze, ein Medium', Museum Bickel, Walenstadt, 14.6.–17.8.2025, and sets Kühne's own name at the foot. Photographic fingers and bark are cut against flat pink and black rules.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/15.jpg",
+   "source_px": [
+    1124,
+    1600
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "designer",
+     "v": "Dafi Kühne"
+    },
+    {
+     "k": "client",
+     "v": "Museum Bickel"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Served from typographicposters under `/babyinktwice/`, DAFI KÜHNE's studio name. The sheet prints 'Karl Bickel — Zwei Ansätze, ein Medium', Museum Bickel, Walenstadt, 14.6.–17.8.2025, and sets Kühne's own name at the foot. Photographic fingers and bark are cut against flat pink and black rules.",
+   "hue": 21.68,
+   "light": 0.6584,
+   "chroma": 0.4771,
+   "punch": 0.1229
+  },
+  "sent-2026-09-09d::471b32680ee5": {
+   "id": "CRVI002929",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002929.jpg",
+   "original_px": [
+    1164,
+    1600
+   ],
+   "original_bytes": 383266,
+   "identity": "sent-2026-09-09d::471b32680ee5",
+   "source_url": "https://videos.typographicposters.com/poster-2x/babyinktwice/dafi-kuehne-550j-glarner-schabziger.jpg",
+   "maker": "Dafi Kühne",
+   "title": "550 Jahre Glarner Schabziger",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "The file is named `dafi-kuehne-550j-glarner-schabziger`. Blue and violet leaf-shaped blades fan from a Schabziger cone on black. ⚠️ NO YEAR ESTABLISHED.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/17.jpg",
+   "source_px": [
+    1164,
+    1600
+   ],
+   "colors": [
+    "blue",
+    "purple"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "advertising poster"
+    },
+    {
+     "k": "designer",
+     "v": "Dafi Kühne"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The file is named `dafi-kuehne-550j-glarner-schabziger`. Blue and violet leaf-shaped blades fan from a Schabziger cone on black. ⚠️ NO YEAR ESTABLISHED.",
+   "hue": 255.05,
+   "light": 0.2704,
+   "chroma": 0.2973,
+   "punch": 0.0854
+  },
+  "sent-2026-09-09d::da9c57d6e829": {
+   "id": "CRVI002930",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002930.jpg",
+   "original_px": [
+    1750,
+    2500
+   ],
+   "original_bytes": 593247,
+   "identity": "sent-2026-09-09d::da9c57d6e829",
+   "source_url": "https://www.babyinktwice.ch/wp-content/uploads/2023/09/Tunnel_2_2023_01-Web.jpg",
+   "maker": "Dafi Kühne",
+   "title": "Tunnel 2",
+   "subtitle": "",
+   "year": "2023",
+   "label": "",
+   "verified_against": "From babyinktwice.ch, Kühne's own site; the file is named `Tunnel_2_2023_01`. Blue gradient letterforms stack and overlap into a tunnel down the sheet.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/18.jpg",
+   "source_px": [
+    1750,
+    2500
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "event poster"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "designer",
+     "v": "Dafi Kühne"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "From babyinktwice.ch, Kühne's own site; the file is named `Tunnel_2_2023_01`. Blue gradient letterforms stack and overlap into a tunnel down the sheet.",
+   "hue": 217.45,
+   "light": 0.7393,
+   "chroma": 0.5979,
+   "punch": 0.1625
+  },
+  "sent-2026-09-09d::bf4860a6d367": {
+   "id": "CRVI002931",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002931.jpg",
+   "original_px": [
+    1344,
+    2000
+   ],
+   "original_bytes": 2066083,
+   "identity": "sent-2026-09-09d::bf4860a6d367",
+   "source_url": "https://www.babyinktwice.ch/wp-content/uploads/2016/01/1-Dead-Ghosts_Web.jpg",
+   "maker": "Dafi Kühne",
+   "title": "Dead Ghosts (CAN)",
+   "subtitle": "",
+   "year": "2014",
+   "label": "",
+   "verified_against": "From babyinktwice.ch; the file is named `1-Dead-Ghosts`. DEAD GHOSTS is cut in flame-shaped letters out of a brown ground, with '11 aprile 2014', 'ore 22:30' and 'Il Cassotto, Lugano'.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/19.jpg",
+   "source_px": [
+    1344,
+    2000
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "event poster"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "designer",
+     "v": "Dafi Kühne"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "city",
+     "v": "Lugano"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "From babyinktwice.ch; the file is named `1-Dead-Ghosts`. DEAD GHOSTS is cut in flame-shaped letters out of a brown ground, with '11 aprile 2014', 'ore 22:30' and 'Il Cassotto, Lugano'.",
+   "hue": 15.49,
+   "light": 0.3067,
+   "chroma": 0.417,
+   "punch": 0.1043
+  },
+  "sent-2026-09-09d::e70556f71dc5": {
+   "id": "CRVI002932",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002932.jpg",
+   "original_px": [
+    1750,
+    2500
+   ],
+   "original_bytes": 687673,
+   "identity": "sent-2026-09-09d::e70556f71dc5",
+   "source_url": "https://www.babyinktwice.ch/wp-content/uploads/2022/06/Kotzfrucht-in-der-Zitrone_01_Web.jpg",
+   "maker": "Dafi Kühne",
+   "title": "Kotzfrucht in der Zitrone",
+   "subtitle": "",
+   "year": "2022",
+   "label": "",
+   "verified_against": "From babyinktwice.ch; the file is named `Kotzfrucht-in-der-Zitrone_01`. Black wood-type letters crash across chrome yellow with '11. JUNI', 'BAR 19H', 'SHOW 20:30H' and 'DJ CLYDE MONO MANIAC'.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/20.jpg",
+   "source_px": [
+    1750,
+    2500
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "event poster"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "designer",
+     "v": "Dafi Kühne"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "From babyinktwice.ch; the file is named `Kotzfrucht-in-der-Zitrone_01`. Black wood-type letters crash across chrome yellow with '11. JUNI', 'BAR 19H', 'SHOW 20:30H' and 'DJ CLYDE MONO MANIAC'.",
+   "hue": 45.87,
+   "light": 0.3807,
+   "chroma": 0.8307,
+   "punch": 0.502
+  },
+  "sent-2026-09-09d::73cacc530ed1": {
+   "id": "CRVI002933",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002933.jpg",
+   "original_px": [
+    2500,
+    1667
+   ],
+   "original_bytes": 812972,
+   "identity": "sent-2026-09-09d::73cacc530ed1",
+   "source_url": "https://www.babyinktwice.ch/wp-content/uploads/2021/07/04_Kunststipendien_Web.jpg",
+   "maker": "Dafi Kühne",
+   "title": "Kunststipendien",
+   "subtitle": "",
+   "year": "2021",
+   "label": "",
+   "verified_against": "From babyinktwice.ch; the file is named `04_Kunststipendien`. Blue and white gradient letters descend the sheet in overlapping ranks.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/21.jpg",
+   "source_px": [
+    2500,
+    1667
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "designer",
+     "v": "Dafi Kühne"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "From babyinktwice.ch; the file is named `04_Kunststipendien`. Blue and white gradient letters descend the sheet in overlapping ranks.",
+   "hue": 19.12,
+   "light": 0.414,
+   "chroma": 0.7572,
+   "punch": 0.2032
+  },
+  "sent-2026-09-09d::196c26108871": {
+   "id": "CRVI002934",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002934.jpg",
+   "original_px": [
+    1850,
+    3691
+   ],
+   "original_bytes": 842808,
+   "identity": "sent-2026-09-09d::196c26108871",
+   "source_url": "https://a.1stdibscdn.com/fritz-kahn-prints-works-on-paper-original-vintage-graphic-poster-der-mensch-als-industriepalast-ft-industrial-man-for-sale/a_436/1535817387242/PA1965_master.jpg?width=8000&disable=upscale",
+   "maker": "Fritz Kahn",
+   "title": "Der Mensch als Industriepalast",
+   "subtitle": "",
+   "year": "1926",
+   "label": "",
+   "verified_against": "1stdibs' listing slug: 'fritz-kahn-original-vintage-graphic-poster-der-mensch-als-industriepalast'. A human body is drawn as a factory — boilers, conveyors, switchboards and workers inside the torso. Printed by Franckh'sche Verlagshandlung, Stuttgart. ℹ️ Kahn conceived it; the drawing was executed by studio hands he directed.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/22.jpg",
+   "source_px": [
+    1850,
+    3691
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "infographic"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "artist",
+     "v": "Fritz Kahn"
+    },
+    {
+     "k": "subject",
+     "v": "infographic"
+    },
+    {
+     "k": "subject",
+     "v": "science"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "1stdibs' listing slug: 'fritz-kahn-original-vintage-graphic-poster-der-mensch-als-industriepalast'. A human body is drawn as a factory — boilers, conveyors, switchboards and workers inside the torso. Printed by Franckh'sche Verlagshandlung, Stuttgart. ℹ️ Kahn conceived it; the drawing was executed by studio hands he directed.",
+   "hue": 35.55,
+   "light": 0.6233,
+   "chroma": 0.5795,
+   "punch": 0.1918
+  },
+  "sent-2026-09-09d::15e1e62eaa8e": {
+   "id": "CRVI002935",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002935.jpg",
+   "original_px": [
+    1134,
+    1600
+   ],
+   "original_bytes": 898499,
+   "identity": "sent-2026-09-09d::15e1e62eaa8e",
+   "source_url": "https://videos.typographicposters.com/poster-2x/ralph-schraivogel/ralph-schraivogel-poster-6016ffcac7864e624f667ef4.jpg",
+   "maker": "Ralph Schraivogel",
+   "title": "poster",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "Served from typographicposters under `/ralph-schraivogel/`. Warped moiré ribbons in red, green and black flood the sheet with type buried in the distortion. ⚠️ NEITHER THE TITLE NOR THE YEAR IS ESTABLISHED; the title above is descriptive.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/29.jpg",
+   "source_px": [
+    1134,
+    1600
+   ],
+   "colors": [
+    "red",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "designer",
+     "v": "Ralph Schraivogel"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Served from typographicposters under `/ralph-schraivogel/`. Warped moiré ribbons in red, green and black flood the sheet with type buried in the distortion. ⚠️ NEITHER THE TITLE NOR THE YEAR IS ESTABLISHED; the title above is descriptive.",
+   "hue": 356.18,
+   "light": 0.572,
+   "chroma": 0.3899,
+   "punch": 0.1508
+  },
+  "sent-2026-09-09d::2854021bab81": {
+   "id": "CRVI002936",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002936.jpg",
+   "original_px": [
+    1090,
+    1600
+   ],
+   "original_bytes": 1539741,
+   "identity": "sent-2026-09-09d::2854021bab81",
+   "source_url": "https://videos.typographicposters.com/poster-2x/ralph-schraivogel/ralph-schraivogel-poster-6016ff884e952f10fd6dbbf7.jpg",
+   "maker": "Ralph Schraivogel",
+   "title": "poster",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "Served from typographicposters under `/ralph-schraivogel/`. Striped tubes knot through themselves in red, yellow, blue and black on white. ⚠️ NEITHER TITLE NOR YEAR ESTABLISHED.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/31.jpg",
+   "source_px": [
+    1090,
+    1600
+   ],
+   "colors": [
+    "blue",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "designer",
+     "v": "Ralph Schraivogel"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Served from typographicposters under `/ralph-schraivogel/`. Striped tubes knot through themselves in red, yellow, blue and black on white. ⚠️ NEITHER TITLE NOR YEAR ESTABLISHED.",
+   "hue": 204.78,
+   "light": 0.4895,
+   "chroma": 0.6087,
+   "punch": 0.2529
+  },
+  "sent-2026-09-09d::0a9caceea2d3": {
+   "id": "CRVI002937",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002937.jpg",
+   "original_px": [
+    1114,
+    1600
+   ],
+   "original_bytes": 726857,
+   "identity": "sent-2026-09-09d::0a9caceea2d3",
+   "source_url": "https://videos.typographicposters.com/poster-2x/ralph-schraivogel/ralph-schraivogel-poster-6016ffb15193dd8eaedb1797.jpg",
+   "maker": "Ralph Schraivogel",
+   "title": "Schraivogel Plakate — Schule für Gestaltung Bern",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "Served from typographicposters under `/ralph-schraivogel/`; the sheet prints SCHRAIVOGEL, PLAKATE and SCHULE FÜR GESTALTUNG BERN in yellow through a dense black-and-white halftone field. ⚠️ NO YEAR ESTABLISHED.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/32.jpg",
+   "source_px": [
+    1114,
+    1600
+   ],
+   "colors": [
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "designer",
+     "v": "Ralph Schraivogel"
+    },
+    {
+     "k": "client",
+     "v": "Schule für Gestaltung Bern"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Served from typographicposters under `/ralph-schraivogel/`; the sheet prints SCHRAIVOGEL, PLAKATE and SCHULE FÜR GESTALTUNG BERN in yellow through a dense black-and-white halftone field. ⚠️ NO YEAR ESTABLISHED.",
+   "hue": 54.79,
+   "light": 0.7075,
+   "chroma": 0.3091,
+   "punch": 0.1611
+  },
+  "sent-2026-09-09d::d8528928444e": {
+   "id": "CRVI002938",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002938.jpg",
+   "original_px": [
+    1572,
+    2232
+   ],
+   "original_bytes": 190940,
+   "identity": "sent-2026-09-09d::d8528928444e",
+   "source_url": "https://a.1stdibscdn.com/siegfried-odermatt-prints-works-on-paper-serenaden-89-swiss-post-modern-music-festival-original-vintage-poster-for-sale/a_13322/a_95140921642525661393/swl01497_master.jpg?width=8000&disable=upscale",
+   "maker": "Siegfried Odermatt",
+   "title": "Serenaden 89",
+   "subtitle": "",
+   "year": "1989",
+   "label": "",
+   "verified_against": "1stdibs' listing slug: 'siegfried-odermatt-serenaden-89-swiss-post-modern-music-festival-original-vintage-poster'. A black wedge and red rule cut across chrome yellow with KONZERTSERENADEN 89 set up the diagonal and the programme at the head. ℹ️ Rosmarie Tissi, his studio partner, designed the 2002 sheet in the same series.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/33.jpg",
+   "source_px": [
+    1572,
+    2232
+   ],
+   "colors": [
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "event poster"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "designer",
+     "v": "Siegfried Odermatt"
+    },
+    {
+     "k": "subject",
+     "v": "music"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "city",
+     "v": "Zurich"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "1stdibs' listing slug: 'siegfried-odermatt-serenaden-89-swiss-post-modern-music-festival-original-vintage-poster'. A black wedge and red rule cut across chrome yellow with KONZERTSERENADEN 89 set up the diagonal and the programme at the head. ℹ️ Rosmarie Tissi, his studio partner, designed the 2002 sheet in the same series.",
+   "hue": 55.08,
+   "light": 0.5402,
+   "chroma": 0.6567,
+   "punch": 0.2967
+  },
+  "sent-2026-09-09d::08836ee5a797": {
+   "id": "CRVI002939",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002939.jpg",
+   "original_px": [
+    1979,
+    1500
+   ],
+   "original_bytes": 770340,
+   "identity": "sent-2026-09-09d::08836ee5a797",
+   "source_url": "https://platform-0.com/wp-content/uploads/2021/02/cri_000000011508-1.jpg",
+   "maker": "Peter Cook",
+   "title": "Plug-In City",
+   "subtitle": "",
+   "year": "1965",
+   "label": "",
+   "verified_against": "THE DRAWING'S OWN PRINTED CREDIT at the lower right: '© PETER COOK 1965'. Yellow and pink service towers, cranes and diagonal tubes drawn in coloured pencil and ink. ℹ️ Cook was a founder of ARCHIGRAM and Plug-In City is its central proposition.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/34.jpg",
+   "source_px": [
+    1979,
+    1500
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "architectural drawing"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "artist",
+     "v": "Peter Cook"
+    },
+    {
+     "k": "subject",
+     "v": "Archigram"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE DRAWING'S OWN PRINTED CREDIT at the lower right: '© PETER COOK 1965'. Yellow and pink service towers, cranes and diagonal tubes drawn in coloured pencil and ink. ℹ️ Cook was a founder of ARCHIGRAM and Plug-In City is its central proposition.",
+   "hue": 43.61,
+   "light": 0.6682,
+   "chroma": 0.7814,
+   "punch": 0.1841
+  },
+  "sent-2026-09-09d::b50649bde28d": {
+   "id": "CRVI002940",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002940.jpg",
+   "original_px": [
+    2048,
+    1168
+   ],
+   "original_bytes": 360357,
+   "identity": "sent-2026-09-09d::b50649bde28d",
+   "source_url": "https://www.architecturelab.net/wp-content/uploads/2026/03/the-plug-in-city-peter-cook-archigram-46.jpg",
+   "maker": "Peter Cook",
+   "title": "Plug-In City — section",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "The hosting file is named `the-plug-in-city-peter-cook-archigram`. A long section through the megastructure, its services keyed and numbered along the foot. ⚠️ NO YEAR ESTABLISHED for this sheet.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/36.jpg",
+   "source_px": [
+    2048,
+    1168
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "architectural drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Peter Cook"
+    },
+    {
+     "k": "subject",
+     "v": "Archigram"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The hosting file is named `the-plug-in-city-peter-cook-archigram`. A long section through the megastructure, its services keyed and numbered along the foot. ⚠️ NO YEAR ESTABLISHED for this sheet.",
+   "hue": 35.22,
+   "light": 0.6288,
+   "chroma": 0.7566,
+   "punch": 0.1529
+  },
+  "sent-2026-09-09d::79a9e5a1d232": {
+   "id": "CRVI002941",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002941.jpg",
+   "original_px": [
+    2364,
+    1873
+   ],
+   "original_bytes": 1555083,
+   "identity": "sent-2026-09-09d::79a9e5a1d232",
+   "source_url": "https://pbs.twimg.com/media/GMPWdW5XUAAvEyf?format=jpg&name=orig",
+   "maker": "Peter Cook",
+   "title": "Instant City",
+   "subtitle": "",
+   "year": "1970",
+   "label": "",
+   "verified_against": "THE SHEET'S OWN PRINTED CREDIT LINE along the foot: 'INSTANT CITY PROGRAM 1970 ARCHIGRAM LONDON SUPPORTED BY GRAHAM FOUNDATION CHICAGO' with PETER COOK at the right. An airship and a tented canopy descend over a high street, 'Rupert', 'IC2' and 'LEARN FRENCH NOW' lettered across the sky.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/38.jpg",
+   "source_px": [
+    2364,
+    1873
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "architectural drawing"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "artist",
+     "v": "Peter Cook"
+    },
+    {
+     "k": "subject",
+     "v": "Archigram"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET'S OWN PRINTED CREDIT LINE along the foot: 'INSTANT CITY PROGRAM 1970 ARCHIGRAM LONDON SUPPORTED BY GRAHAM FOUNDATION CHICAGO' with PETER COOK at the right. An airship and a tented canopy descend over a high street, 'Rupert', 'IC2' and 'LEARN FRENCH NOW' lettered across the sky.",
+   "hue": 221.63,
+   "light": 0.4894,
+   "chroma": 0.3388,
+   "punch": 0.1373
+  },
+  "sent-2026-09-09d::287cbeb2a2e8": {
+   "id": "CRVI002942",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002942.jpg",
+   "original_px": [
+    1780,
+    2246
+   ],
+   "original_bytes": 566499,
+   "identity": "sent-2026-09-09d::287cbeb2a2e8",
+   "source_url": "https://drawingmatter.org/wp-content/uploads/2020/10/webb_1101.17_cs_dmc.jpg",
+   "maker": "Michael Webb",
+   "title": "Sin Centre — stair study",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "Drawing Matter's file is named `webb_1101.17`, and Drawing Matter holds MICHAEL WEBB's archive. Ranks of yellow zigzag stairs are set out on blue ground with 'FLIGHT 1: TYPE A / 10 risers each 0.135m high' and its siblings annotated throughout. ⚠️ NO YEAR ESTABLISHED.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/39.jpg",
+   "source_px": [
+    1780,
+    2246
+   ],
+   "colors": [
+    "cyan",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "architectural drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Michael Webb"
+    },
+    {
+     "k": "subject",
+     "v": "Archigram"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Drawing Matter's file is named `webb_1101.17`, and Drawing Matter holds MICHAEL WEBB's archive. Ranks of yellow zigzag stairs are set out on blue ground with 'FLIGHT 1: TYPE A / 10 risers each 0.135m high' and its siblings annotated throughout. ⚠️ NO YEAR ESTABLISHED.",
+   "hue": 55.37,
+   "light": 0.4789,
+   "chroma": 0.1545,
+   "punch": 0.1203
+  },
+  "sent-2026-09-09d::a0ba93f8f963": {
+   "id": "CRVI002943",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002943.jpg",
+   "original_px": [
+    1752,
+    1685
+   ],
+   "original_bytes": 334181,
+   "identity": "sent-2026-09-09d::a0ba93f8f963",
+   "source_url": "https://drawingmatter.org/wp-content/uploads/2020/08/webb-1101.161-2560x2543.width-2000.jpg",
+   "maker": "Michael Webb",
+   "title": "study",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "Drawing Matter's file is named `webb-1101.161`. A finned, pod-like vehicle drawn over a wireframe ground plane, with a perspective grid worked out beneath it. ⚠️ NEITHER TITLE NOR YEAR ESTABLISHED; the title above is descriptive.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/40.jpg",
+   "source_px": [
+    1752,
+    1685
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "architectural drawing"
+    },
+    {
+     "k": "artist",
+     "v": "Michael Webb"
+    },
+    {
+     "k": "subject",
+     "v": "Archigram"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Drawing Matter's file is named `webb-1101.161`. A finned, pod-like vehicle drawn over a wireframe ground plane, with a perspective grid worked out beneath it. ⚠️ NEITHER TITLE NOR YEAR ESTABLISHED; the title above is descriptive.",
+   "hue": null,
+   "light": 0.7392,
+   "chroma": 0.0881,
+   "punch": 0.0532
+  },
+  "sent-2026-09-09d::71e3f029b842": {
+   "id": "CRVI002944",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002944.jpg",
+   "original_px": [
+    1080,
+    1080
+   ],
+   "original_bytes": 111067,
+   "identity": "sent-2026-09-09d::71e3f029b842",
+   "source_url": "https://a.1stdibscdn.com/olivio-martinez-prints-works-on-paper-circa-1970-political-poster-by-olivio-martines-for-ospaaal-guinea-for-sale/a_17922/1712670300508/AP_18401_Insta_2_master.jpg?width=8000&disable=upscale",
+   "maker": "Olivio Martínez",
+   "title": "La Guinée / Guinea",
+   "subtitle": "",
+   "year": "1970",
+   "label": "",
+   "verified_against": "1stdibs' listing slug: 'circa-1970-political-poster-by-olivio-martines-for-ospaaal-guinea'. Black bombers and a speech balloon reading 'la Guinee / Guinea' on olive, printed for OSPAAAL, the Cuban solidarity organisation.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/42.jpg",
+   "source_px": [
+    1080,
+    1080
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "political poster"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "designer",
+     "v": "Olivio Martínez"
+    },
+    {
+     "k": "client",
+     "v": "OSPAAAL"
+    },
+    {
+     "k": "subject",
+     "v": "protest"
+    },
+    {
+     "k": "location",
+     "v": "Cuba"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "1stdibs' listing slug: 'circa-1970-political-poster-by-olivio-martines-for-ospaaal-guinea'. Black bombers and a speech balloon reading 'la Guinee / Guinea' on olive, printed for OSPAAAL, the Cuban solidarity organisation.",
+   "hue": 62.3,
+   "light": 0.7198,
+   "chroma": 0.4988,
+   "punch": 0.116
+  },
+  "sent-2026-09-09d::523bf541b588": {
+   "id": "CRVI002945",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002945.jpg",
+   "original_px": [
+    1200,
+    1806
+   ],
+   "original_bytes": 1354702,
+   "identity": "sent-2026-09-09d::523bf541b588",
+   "source_url": "https://eyeondesign.aiga.org/wp-content/uploads/2019/10/3-Nixon-1969-Alfredo-Rostgaard-OSPAAAL-The-Mike-Stanfield-Collection-2.jpg",
+   "maker": "Alfredo Rostgaard",
+   "title": "Nixon",
+   "subtitle": "",
+   "year": "1969",
+   "label": "",
+   "verified_against": "AIGA Eye on Design names the file '3-Nixon-1969-Alfredo-Rostgaard-OSPAAAL-The-Mike-Stanfield-Collection'. Nixon is drawn in psychedelic contour lines, mouth open, against violet and red rays.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/43.jpg",
+   "source_px": [
+    1200,
+    1806
+   ],
+   "colors": [
+    "purple",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "political poster"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "designer",
+     "v": "Alfredo Rostgaard"
+    },
+    {
+     "k": "client",
+     "v": "OSPAAAL"
+    },
+    {
+     "k": "subject",
+     "v": "protest"
+    },
+    {
+     "k": "location",
+     "v": "Cuba"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "AIGA Eye on Design names the file '3-Nixon-1969-Alfredo-Rostgaard-OSPAAAL-The-Mike-Stanfield-Collection'. Nixon is drawn in psychedelic contour lines, mouth open, against violet and red rays.",
+   "hue": 4.93,
+   "light": 0.5094,
+   "chroma": 0.811,
+   "punch": 0.2937
+  },
+  "sent-2026-09-09d::a3fed653c80d": {
+   "id": "CRVI002946",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002946.jpg",
+   "original_px": [
+    1200,
+    2003
+   ],
+   "original_bytes": 309179,
+   "identity": "sent-2026-09-09d::a3fed653c80d",
+   "source_url": "https://nmaahc.si.edu/sites/default/files/files/images/blog/2012_46_17_1_001.jpg",
+   "maker": "Alfredo Rostgaard",
+   "title": "Black Power",
+   "subtitle": "",
+   "year": "1968",
+   "label": "",
+   "verified_against": "The Smithsonian's National Museum of African American History and Culture publishes this file and titles its own page 'Alfredo Rostgaard, Black Power, 1968'; the Quentin Blake Centre lists it as 'Alfredo G. Rostgaard, Black Power — RETALIATION TO CRIME'. A panther's open jaws frame the words BLACK POWER, with the OSPAAAL trilingual subtitle beneath.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/44.jpg",
+   "source_px": [
+    1200,
+    2003
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "political poster"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "designer",
+     "v": "Alfredo Rostgaard"
+    },
+    {
+     "k": "client",
+     "v": "OSPAAAL"
+    },
+    {
+     "k": "subject",
+     "v": "protest"
+    },
+    {
+     "k": "location",
+     "v": "Cuba"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Smithsonian's National Museum of African American History and Culture publishes this file and titles its own page 'Alfredo Rostgaard, Black Power, 1968'; the Quentin Blake Centre lists it as 'Alfredo G. Rostgaard, Black Power — RETALIATION TO CRIME'. A panther's open jaws frame the words BLACK POWER, with the OSPAAAL trilingual subtitle beneath.",
+   "hue": 44.2,
+   "light": 0.6535,
+   "chroma": 0.4671,
+   "punch": 0.0571
+  },
+  "sent-2026-09-09d::dbf5a098e160": {
+   "id": "CRVI002947",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002947.jpeg",
+   "original_px": [
+    1030,
+    1600
+   ],
+   "original_bytes": 694945,
+   "identity": "sent-2026-09-09d::dbf5a098e160",
+   "source_url": "https://media.mutualart.com/Images/2019_10/02/04/041927129/7990fa2f-e92b-472a-b22c-c6a79d4ecdf3.Jpeg",
+   "maker": "Antonio Fernández Reboiro",
+   "title": "Andrei Rubliov",
+   "subtitle": "",
+   "year": "1974",
+   "label": "",
+   "verified_against": "Google Lens resolves this to a 1974 Cuban ICAIC poster for Tarkovsky's 1966 *Andrei Rublev*, designed by ANTONIO FERNÁNDEZ REBOIRO. A skeletal figure in armour swings a trumpet over a fallen horse, a red bloom bursting above.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/46.jpeg",
+   "source_px": [
+    1030,
+    1600
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "designer",
+     "v": "Antonio Fernández Reboiro"
+    },
+    {
+     "k": "client",
+     "v": "ICAIC"
+    },
+    {
+     "k": "subject",
+     "v": "film"
+    },
+    {
+     "k": "location",
+     "v": "Cuba"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Google Lens resolves this to a 1974 Cuban ICAIC poster for Tarkovsky's 1966 *Andrei Rublev*, designed by ANTONIO FERNÁNDEZ REBOIRO. A skeletal figure in armour swings a trumpet over a fallen horse, a red bloom bursting above.",
+   "hue": 41.08,
+   "light": 0.3956,
+   "chroma": 0.3822,
+   "punch": 0.1409
+  },
+  "sent-2026-09-09d::5bab83d7fb0a": {
+   "id": "CRVI002948",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002948.jpeg",
+   "original_px": [
+    1070,
+    1523
+   ],
+   "original_bytes": 475331,
+   "identity": "sent-2026-09-09d::5bab83d7fb0a",
+   "source_url": "https://www.artymag.ir/en/media/zartists/bf70b101da4cc03e0bab36d3a84ed3f3/morteza-momayez-poster-paletrang-03-posnian-and-herzeovinan.jpeg",
+   "maker": "Morteza Momayez",
+   "title": "We feel it our religious and humanistic duty to defend the Bosnian and Herzegovinian nation",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "THE SHEET'S OWN PRINTED CREDIT at the foot: 'PALETRANG.COM | MORTEZA MOMAYEZ'. A bandaged white fist rises against black with yellow and red flames above it and a smear of blood below. ⚠️ NO YEAR ESTABLISHED. ℹ️ Momayez is the founding figure of modern Iranian graphic design.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/49.jpeg",
+   "source_px": [
+    1070,
+    1523
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "political poster"
+    },
+    {
+     "k": "designer",
+     "v": "Morteza Momayez"
+    },
+    {
+     "k": "subject",
+     "v": "protest"
+    },
+    {
+     "k": "location",
+     "v": "Iran"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET'S OWN PRINTED CREDIT at the foot: 'PALETRANG.COM | MORTEZA MOMAYEZ'. A bandaged white fist rises against black with yellow and red flames above it and a smear of blood below. ⚠️ NO YEAR ESTABLISHED. ℹ️ Momayez is the founding figure of modern Iranian graphic design.",
+   "hue": 356.48,
+   "light": 0.3353,
+   "chroma": 0.2492,
+   "punch": 0.1418
+  },
+  "sent-2026-09-09d::3f56809570b6": {
+   "id": "CRVI002949",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002949.jpg",
+   "original_px": [
+    1288,
+    1825
+   ],
+   "original_bytes": 568609,
+   "identity": "sent-2026-09-09d::3f56809570b6",
+   "source_url": "https://www.japantimes.co.jp/uploads/imported_images/uploads/2016/04/p7-outside-tanaka-a-20160406.jpg",
+   "maker": "Ikko Tanaka",
+   "title": "Japan",
+   "subtitle": "",
+   "year": "1980",
+   "label": "",
+   "verified_against": "Google Lens resolves this to the screenprint *Japan* by IKKO TANAKA, 1980s. A white-spotted sika deer bows its head against apricot, JAPAN set across the head in grey, violet, pink and green capitals.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/51.jpg",
+   "source_px": [
+    1288,
+    1825
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "designer",
+     "v": "Ikko Tanaka"
+    },
+    {
+     "k": "subject",
+     "v": "Japan"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Google Lens resolves this to the screenprint *Japan* by IKKO TANAKA, 1980s. A white-spotted sika deer bows its head against apricot, JAPAN set across the head in grey, violet, pink and green capitals.",
+   "hue": 24.96,
+   "light": 0.688,
+   "chroma": 0.9935,
+   "punch": 0.4605
+  },
+  "sent-2026-09-09d::c2bc0853d5e5": {
+   "id": "CRVI002950",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002950.jpg",
+   "original_px": [
+    1280,
+    1800
+   ],
+   "original_bytes": 126028,
+   "identity": "sent-2026-09-09d::c2bc0853d5e5",
+   "source_url": "https://i.pinimg.com/originals/a9/8f/dd/a98fdd0e788c62d4cff68064267d3a96.jpg",
+   "maker": "Shigeo Fukuda",
+   "title": "Shikaku Sakasu '85 (Vision Circus '85)",
+   "subtitle": "",
+   "year": "1985",
+   "label": "",
+   "verified_against": "Google Lens resolves this to *Shikaku Sakasu '85* — Vision Circus '85 — by SHIGEO FUKUDA. Two cats, one black-patched and one white, walk green diagonals on scarlet, with 視覚サーカス'85 at the foot.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/57.jpg",
+   "source_px": [
+    1280,
+    1800
+   ],
+   "colors": [
+    "red",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "designer",
+     "v": "Shigeo Fukuda"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Google Lens resolves this to *Shikaku Sakasu '85* — Vision Circus '85 — by SHIGEO FUKUDA. Two cats, one black-patched and one white, walk green diagonals on scarlet, with 視覚サーカス'85 at the foot.",
+   "hue": 352.63,
+   "light": 0.4242,
+   "chroma": 0.8686,
+   "punch": 0.4817
+  },
+  "sent-2026-09-09d::00e1bf732fe0": {
+   "id": "CRVI002951",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002951.jpg",
+   "original_px": [
+    1575,
+    2250
+   ],
+   "original_bytes": 610538,
+   "identity": "sent-2026-09-09d::00e1bf732fe0",
+   "source_url": "https://i.pinimg.com/originals/6c/8c/4c/6c8c4c718c9c5c1b2c2ef592f1bb7d97.jpg",
+   "maker": "Tadanori Yokoo",
+   "title": "Tadanori Yokoo",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "THE SHEET'S OWN LETTERING: 横尾忠則 across the head and TADANORI YOKOO on the chest of the figure — a self-portrait as a spaceman in a bubble helmet, rays and planets behind, an eye-and-target roundel at the belly. ⚠️ NO YEAR ESTABLISHED.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/58.jpg",
+   "source_px": [
+    1575,
+    2250
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "designer",
+     "v": "Tadanori Yokoo"
+    },
+    {
+     "k": "subject",
+     "v": "self-portrait"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET'S OWN LETTERING: 横尾忠則 across the head and TADANORI YOKOO on the chest of the figure — a self-portrait as a spaceman in a bubble helmet, rays and planets behind, an eye-and-target roundel at the belly. ⚠️ NO YEAR ESTABLISHED.",
+   "hue": 355.74,
+   "light": 0.5403,
+   "chroma": 0.7659,
+   "punch": 0.2871
+  },
+  "sent-2026-09-09d::d3fee3c41a0e": {
+   "id": "CRVI002952",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002952.jpg",
+   "original_px": [
+    823,
+    1029
+   ],
+   "original_bytes": 66414,
+   "identity": "sent-2026-09-09d::d3fee3c41a0e",
+   "source_url": "https://images.squarespace-cdn.com/content/v1/57825361440243db4a4b7830/80241f29-ab57-404d-9252-7700ccd8f881/the-artist-who-invented-a-new-language-without-words-mitsuo-katsui-1-sabukaru.jpg?format=2500w",
+   "maker": "Mitsuo Katsui",
+   "title": "NOH 能",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "Sabukaru's file is named 'the-artist-who-invented-a-new-language-without-words-mitsuo-katsui-1'. A woman's profile in fine halftone is overlaid by a lattice of colour rectangles, NOH and 能 at the foot. ⚠️ NO YEAR ESTABLISHED.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/62.jpg",
+   "source_px": [
+    823,
+    1029
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "designer",
+     "v": "Mitsuo Katsui"
+    },
+    {
+     "k": "subject",
+     "v": "Noh"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Sabukaru's file is named 'the-artist-who-invented-a-new-language-without-words-mitsuo-katsui-1'. A woman's profile in fine halftone is overlaid by a lattice of colour rectangles, NOH and 能 at the foot. ⚠️ NO YEAR ESTABLISHED.",
+   "hue": 214.98,
+   "light": 0.4915,
+   "chroma": 0.9012,
+   "punch": 0.3597
+  },
+  "sent-2026-09-09d::f40fdb010841": {
+   "id": "CRVI002953",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002953.jpg",
+   "original_px": [
+    1440,
+    1800
+   ],
+   "original_bytes": 130417,
+   "identity": "sent-2026-09-09d::f40fdb010841",
+   "source_url": "https://images.squarespace-cdn.com/content/v1/57825361440243db4a4b7830/92b4ab0c-5003-4238-9edb-d813b850505c/the-artist-who-invented-a-new-language-without-words-mitsuo-katsui-5-sabukaru.jpg?format=2500w",
+   "maker": "Mitsuo Katsui",
+   "title": "poster",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "Sabukaru's file is named 'the-artist-who-invented-a-new-language-without-words-mitsuo-katsui-5'. Concentric rings of light spiral into a lens flare on black. ⚠️ NEITHER TITLE NOR YEAR ESTABLISHED.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/63.jpg",
+   "source_px": [
+    1440,
+    1800
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "designer",
+     "v": "Mitsuo Katsui"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Sabukaru's file is named 'the-artist-who-invented-a-new-language-without-words-mitsuo-katsui-5'. Concentric rings of light spiral into a lens flare on black. ⚠️ NEITHER TITLE NOR YEAR ESTABLISHED.",
+   "hue": 14.91,
+   "light": 0.3281,
+   "chroma": 0.5676,
+   "punch": 0.2282
+  },
+  "sent-2026-09-09d::b35c97ea4e54": {
+   "id": "CRVI002954",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002954.jpg",
+   "original_px": [
+    851,
+    1200
+   ],
+   "original_bytes": 264151,
+   "identity": "sent-2026-09-09d::b35c97ea4e54",
+   "source_url": "https://images.squarespace-cdn.com/content/v1/642fe9d50ff3d476932fc101/1731341164159-AOVEFZ2DTTNTVZUDW7XM/Awazu2_CHI+NO+MURE1970.jpg?format=2500w",
+   "maker": "Kiyoshi Awazu",
+   "title": "Chi no Mure (地の群れ)",
+   "subtitle": "",
+   "year": "1970",
+   "label": "",
+   "verified_against": "The hosting file is named `Awazu2_CHI NO MURE 1970`. A dense black swarm fills a white field inside a red and yellow frame, 地の群れ set at the left with the Bungakuza performance details.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/67.jpg",
+   "source_px": [
+    851,
+    1200
+   ],
+   "colors": [
+    "red",
+    "pink"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "theatre poster"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "designer",
+     "v": "Kiyoshi Awazu"
+    },
+    {
+     "k": "client",
+     "v": "Bungakuza"
+    },
+    {
+     "k": "subject",
+     "v": "theatre"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The hosting file is named `Awazu2_CHI NO MURE 1970`. A dense black swarm fills a white field inside a red and yellow frame, 地の群れ set at the left with the Bungakuza performance details.",
+   "hue": 345.13,
+   "light": 0.3943,
+   "chroma": 0.5726,
+   "punch": 0.2129
+  },
+  "sent-2026-09-09d::a524c3b1106e": {
+   "id": "CRVI002955",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002955.jpg",
+   "original_px": [
+    845,
+    1200
+   ],
+   "original_bytes": 176075,
+   "identity": "sent-2026-09-09d::a524c3b1106e",
+   "source_url": "https://i.pinimg.com/originals/27/81/e6/2781e652786283c19a3585c7e7eeac47.jpg",
+   "maker": "Kiyoshi Awazu",
+   "title": "Muhōmatsu no Isshō / Tomishima Matsugorō Den",
+   "subtitle": "",
+   "year": "1969",
+   "label": "",
+   "verified_against": "Google Lens resolves this to the 1969 Bungakuza production of *The Life of Matsu the Untamed*, designed by KIYOSHI AWAZU. A purple jacket lettered 松 stands under a red camellia head, inside a border of crests and花 panels.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/68.jpg",
+   "source_px": [
+    845,
+    1200
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "theatre poster"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "designer",
+     "v": "Kiyoshi Awazu"
+    },
+    {
+     "k": "client",
+     "v": "Bungakuza"
+    },
+    {
+     "k": "subject",
+     "v": "theatre"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Google Lens resolves this to the 1969 Bungakuza production of *The Life of Matsu the Untamed*, designed by KIYOSHI AWAZU. A purple jacket lettered 松 stands under a red camellia head, inside a border of crests and花 panels.",
+   "hue": 3.95,
+   "light": 0.3884,
+   "chroma": 0.8961,
+   "punch": 0.3825
+  },
+  "sent-2026-09-09d::72028ade854f": {
+   "id": "CRVI002956",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002956.jpg",
+   "original_px": [
+    1440,
+    1796
+   ],
+   "original_bytes": 201458,
+   "identity": "sent-2026-09-09d::72028ade854f",
+   "source_url": "https://cdn.sanity.io/images/al3bmbfh/production/7fdec3c2826b7f7899bca6d61b85cfc4d4b533c2-1440x1796.jpg",
+   "maker": "Ikko Tanaka",
+   "title": "Ikko Tanaka — Design no Crossroad",
+   "subtitle": "",
+   "year": "1987",
+   "label": "",
+   "verified_against": "THE SHEET'S OWN LETTERING: 田中一光 デザインのクロスロード, 1987, 西武美術館 — Ikko Tanaka, Design's Crossroad, at the Seibu Museum of Art. Glossy scarlet ribbons coil into spirals over white with a red triangle below.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/69.jpg",
+   "source_px": [
+    1440,
+    1796
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "designer",
+     "v": "Ikko Tanaka"
+    },
+    {
+     "k": "client",
+     "v": "Seibu Museum of Art"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET'S OWN LETTERING: 田中一光 デザインのクロスロード, 1987, 西武美術館 — Ikko Tanaka, Design's Crossroad, at the Seibu Museum of Art. Glossy scarlet ribbons coil into spirals over white with a red triangle below.",
+   "hue": 5.58,
+   "light": 0.7797,
+   "chroma": 0.409,
+   "punch": 0.1224
+  },
+  "sent-2026-09-09d::981135efca7e": {
+   "id": "CRVI002957",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002957.jpg",
+   "original_px": [
+    1000,
+    1414
+   ],
+   "original_bytes": 548782,
+   "identity": "sent-2026-09-09d::981135efca7e",
+   "source_url": "https://pinktentacle.com/images/10/kamekura_14_large.jpg",
+   "maker": "Yusaku Kamekura",
+   "title": "Nippon Kogaku K.K.",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "The hosting file is named `kamekura_14_large`. A vast eye with a spiral iris fills cobalt blue, 'PRODUCERS OF THE WORLD'S FINEST OPTICAL INSTRUMENTS / NIPPON KOGAKU K.K.' above and the Nikon product list below. ⚠️ NO YEAR ESTABLISHED.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/72.jpg",
+   "source_px": [
+    1000,
+    1414
+   ],
+   "colors": [
+    "blue",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "advertising poster"
+    },
+    {
+     "k": "designer",
+     "v": "Yusaku Kamekura"
+    },
+    {
+     "k": "client",
+     "v": "Nikon"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The hosting file is named `kamekura_14_large`. A vast eye with a spiral iris fills cobalt blue, 'PRODUCERS OF THE WORLD'S FINEST OPTICAL INSTRUMENTS / NIPPON KOGAKU K.K.' above and the Nikon product list below. ⚠️ NO YEAR ESTABLISHED.",
+   "hue": 215.22,
+   "light": 0.4457,
+   "chroma": 0.781,
+   "punch": 0.4597
+  },
+  "sent-2026-09-09d::c684a7943848": {
+   "id": "CRVI002958",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002958.jpg",
+   "original_px": [
+    1080,
+    1080
+   ],
+   "original_bytes": 248329,
+   "identity": "sent-2026-09-09d::c684a7943848",
+   "source_url": "https://i0.wp.com/anothergraphic.org/wp-content/uploads/2022/09/JianpingHe-AnotherGraphic-AG-graphic-design-inspiration.jpg",
+   "maker": "Jianping He",
+   "title": "daydream",
+   "subtitle": "",
+   "year": "2025",
+   "label": "",
+   "verified_against": "The hosting file is named `JianpingHe-AnotherGraphic`. 'daydream' and 'july 17 – sept. 20 2025' run down the left with 入非非想 and 何見平 — the designer's own name in Chinese — set vertically at the right, over black-and-white striped forms.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/73.jpg",
+   "source_px": [
+    1080,
+    1080
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "designer",
+     "v": "Jianping He"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "location",
+     "v": "China"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The hosting file is named `JianpingHe-AnotherGraphic`. 'daydream' and 'july 17 – sept. 20 2025' run down the left with 入非非想 and 何見平 — the designer's own name in Chinese — set vertically at the right, over black-and-white striped forms.",
+   "hue": null,
+   "light": 0.4523,
+   "chroma": 0.0,
+   "punch": 0.0001
+  },
+  "sent-2026-09-09d::d2bd65125a2d": {
+   "id": "CRVI002959",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002959.jpg",
+   "original_px": [
+    1132,
+    1600
+   ],
+   "original_bytes": 453884,
+   "identity": "sent-2026-09-09d::d2bd65125a2d",
+   "source_url": "https://images.typographicposters.com/poster-2x/jianping-he/jianping-he-poster-68e4d649c7a08d62665b5aa2.jpg",
+   "maker": "Jianping He",
+   "title": "Hideki Nakajima: Made in Japan. Tokyo (Berlin edition)",
+   "subtitle": "",
+   "year": "2019",
+   "label": "",
+   "verified_against": "Served from typographicposters under `/jianping-he/`. The sheet sets the exhibition details for the Center for Visual Arts Berlin, 7 December 2019 to 31 January 2020, beside a cropped photograph of a woman's eyes. ⚠️ HIDEKI NAKAJIMA IS THE SUBJECT, not the maker.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/74.jpg",
+   "source_px": [
+    1132,
+    1600
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "designer",
+     "v": "Jianping He"
+    },
+    {
+     "k": "subject",
+     "v": "Hideki Nakajima"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Served from typographicposters under `/jianping-he/`. The sheet sets the exhibition details for the Center for Visual Arts Berlin, 7 December 2019 to 31 January 2020, beside a cropped photograph of a woman's eyes. ⚠️ HIDEKI NAKAJIMA IS THE SUBJECT, not the maker.",
+   "hue": 209.92,
+   "light": 0.538,
+   "chroma": 0.2199,
+   "punch": 0.1107
+  },
+  "sent-2026-09-09d::8a0a365c9261": {
+   "id": "CRVI002960",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002960.jpg",
+   "original_px": [
+    1415,
+    2000
+   ],
+   "original_bytes": 1827902,
+   "identity": "sent-2026-09-09d::8a0a365c9261",
+   "source_url": "https://images.typographic.store/poster/products/jianping-he/tg_01k722nmy47mtzxz6h7svwsvbb_image_rbg2tpbt63b6kj3z.jpg",
+   "maker": "Jianping He",
+   "title": "poster",
+   "subtitle": "",
+   "year": "2025",
+   "label": "",
+   "verified_against": "Served from typographic.store under `/jianping-he/`. Chinese characters are troweled in thick paint across a brick wall, with '2025 6.14 – 8.14' at the lower right. ⚠️ NO TITLE ESTABLISHED; the title above is descriptive.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/75.jpg",
+   "source_px": [
+    1415,
+    2000
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "designer",
+     "v": "Jianping He"
+    },
+    {
+     "k": "location",
+     "v": "China"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Served from typographic.store under `/jianping-he/`. Chinese characters are troweled in thick paint across a brick wall, with '2025 6.14 – 8.14' at the lower right. ⚠️ NO TITLE ESTABLISHED; the title above is descriptive.",
+   "hue": 19.18,
+   "light": 0.5504,
+   "chroma": 0.3831,
+   "punch": 0.1072
+  },
+  "sent-2026-09-09d::d689ba5da361": {
+   "id": "CRVI002961",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002961.jpg",
+   "original_px": [
+    4292,
+    6040
+   ],
+   "original_bytes": 3221096,
+   "identity": "sent-2026-09-09d::d689ba5da361",
+   "source_url": "https://thecharnelhouse.org/wp-content/uploads/2015/08/vladimir-stenberg-artist-russian-1899-1982-georgii-stenberg-artist-russian-1900-1933-title-pounded-cutlet-work-type-graphic-design-date-1927-material-lithograph-measurements-40.jpg",
+   "maker": "Vladimir and Georgii Stenberg",
+   "title": "Bitaya Kotleta (Pounded Cutlet)",
+   "subtitle": "",
+   "year": "1927",
+   "label": "",
+   "verified_against": "SIGNED IN THE ARTWORK '2 STENBERG 2', the brothers' joint mark, and the hosting file names the work, medium and date: 'title-pounded-cutlet, work-type-graphic-design, date-1927, material-lithograph'. Boxers, a diving figure in red trunks and a row of flapper heads on chrome yellow, КИНО КОМЕДИЯ at the foot.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/77.jpg",
+   "source_px": [
+    4292,
+    6040
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "designer",
+     "v": "Vladimir and Georgii Stenberg"
+    },
+    {
+     "k": "designer",
+     "v": "Vladimir Stenberg"
+    },
+    {
+     "k": "designer",
+     "v": "Georgii Stenberg"
+    },
+    {
+     "k": "subject",
+     "v": "Constructivism"
+    },
+    {
+     "k": "subject",
+     "v": "film"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "SIGNED IN THE ARTWORK '2 STENBERG 2', the brothers' joint mark, and the hosting file names the work, medium and date: 'title-pounded-cutlet, work-type-graphic-design, date-1927, material-lithograph'. Boxers, a diving figure in red trunks and a row of flapper heads on chrome yellow, КИНО КОМЕДИЯ at the foot.",
+   "hue": 42.59,
+   "light": 0.5132,
+   "chroma": 0.9263,
+   "punch": 0.3274
+  },
+  "sent-2026-09-09d::44e562bd1718": {
+   "id": "CRVI002962",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002962.jpg",
+   "original_px": [
+    4203,
+    6144
+   ],
+   "original_bytes": 3582787,
+   "identity": "sent-2026-09-09d::44e562bd1718",
+   "source_url": "https://thecharnelhouse.org/wp-content/uploads/2015/08/vladimir-stenberg-artist-russian-1899-1982-georgii-stenberg-artist-russian-1900-1933-title-scandal-work-type-graphic-design-date-1928-material-lithograph-measurements-h-41-1_2.jpg",
+   "maker": "Vladimir and Georgii Stenberg",
+   "title": "Spletnya (Scandal)",
+   "subtitle": "",
+   "year": "1928",
+   "label": "",
+   "verified_against": "SIGNED IN THE ARTWORK '2 STENBERG 2', and the hosting file gives 'title-scandal, work-type-graphic-design, date-1928, material-lithograph'. A rower in a blue vest is cut against a woman's face and a red-ruled grid, СПЛЕТНЯ across the head. ℹ️ Held at 4203x6144.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/79.jpg",
+   "source_px": [
+    4203,
+    6144
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "film poster"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
+    },
+    {
+     "k": "designer",
+     "v": "Vladimir and Georgii Stenberg"
+    },
+    {
+     "k": "designer",
+     "v": "Vladimir Stenberg"
+    },
+    {
+     "k": "designer",
+     "v": "Georgii Stenberg"
+    },
+    {
+     "k": "subject",
+     "v": "Constructivism"
+    },
+    {
+     "k": "subject",
+     "v": "film"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "SIGNED IN THE ARTWORK '2 STENBERG 2', and the hosting file gives 'title-scandal, work-type-graphic-design, date-1928, material-lithograph'. A rower in a blue vest is cut against a woman's face and a red-ruled grid, СПЛЕТНЯ across the head. ℹ️ Held at 4203x6144.",
+   "hue": 35.44,
+   "light": 0.3138,
+   "chroma": 0.3984,
+   "punch": 0.1336
+  },
+  "sent-2026-09-09d::12aa3759be01": {
+   "id": "CRVI002963",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002963.jpeg",
+   "original_px": [
+    1551,
+    1923
+   ],
+   "original_bytes": 2494657,
+   "identity": "sent-2026-09-09d::12aa3759be01",
+   "source_url": "https://media.mutualart.com/Images/2025_11/17/12/113443488/solomon-telingater-design-for-a-poster-SBIM2.Jpeg",
+   "maker": "Solomon Telingater",
+   "title": "Design for a poster",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "MutualArt's file is named 'solomon-telingater-design-for-a-poster'. A photomontage of officers, a truck, a wrestler and workers is assembled against blue and orange planes. ⚠️ NO YEAR ESTABLISHED.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/81.jpeg",
+   "source_px": [
+    1551,
+    1923
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photomontage"
+    },
+    {
+     "k": "designer",
+     "v": "Solomon Telingater"
+    },
+    {
+     "k": "subject",
+     "v": "Constructivism"
+    },
+    {
+     "k": "location",
+     "v": "Russia"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "MutualArt's file is named 'solomon-telingater-design-for-a-poster'. A photomontage of officers, a truck, a wrestler and workers is assembled against blue and orange planes. ⚠️ NO YEAR ESTABLISHED.",
+   "hue": 26.31,
+   "light": 0.4804,
+   "chroma": 0.4147,
+   "punch": 0.1418
+  },
+  "sent-2026-09-09d::42999b78e498": {
+   "id": "CRVI002964",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002964.jpeg",
+   "original_px": [
+    1000,
+    1379
+   ],
+   "original_bytes": 736107,
+   "identity": "sent-2026-09-09d::42999b78e498",
+   "source_url": "https://media.mutualart.com/Images/2025_06/08/12/96531970/martin-sharp-oz-magazine-cover---the-mag-6N3WS.Jpeg",
+   "maker": "Martin Sharp",
+   "title": "OZ 16 — The Magic Theatre",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "MutualArt's file is named 'martin-sharp-oz-magazine-cover---the-mag'. OZ is lettered in yellow above a red proscenium, 'PROUDLY PRESENTS THE MAGIC THEATRE' beneath, with a flower-eyed face on a stage and 'PRICE OF ADMITTANCE — YOUR MIND' in the balloons. ⚠️ NO YEAR ESTABLISHED; OZ 16 places it in 1968.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/88.jpeg",
+   "source_px": [
+    1000,
+    1379
+   ],
+   "colors": [
+    "yellow",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "artist",
+     "v": "Martin Sharp"
+    },
+    {
+     "k": "client",
+     "v": "OZ"
+    },
+    {
+     "k": "subject",
+     "v": "psychedelia"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "MutualArt's file is named 'martin-sharp-oz-magazine-cover---the-mag'. OZ is lettered in yellow above a red proscenium, 'PROUDLY PRESENTS THE MAGIC THEATRE' beneath, with a flower-eyed face on a stage and 'PRICE OF ADMITTANCE — YOUR MIND' in the balloons. ⚠️ NO YEAR ESTABLISHED; OZ 16 places it in 1968.",
+   "hue": 53.49,
+   "light": 0.403,
+   "chroma": 0.763,
+   "punch": 0.3419
+  },
+  "sent-2026-09-09d::ae86c8207c26": {
+   "id": "CRVI002965",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002965.jpg",
+   "original_px": [
+    848,
+    1200
+   ],
+   "original_bytes": 800562,
+   "identity": "sent-2026-09-09d::ae86c8207c26",
+   "source_url": "https://www.booooooom.com/wp-content/uploads/2016/03/Tanaami28.jpg",
+   "maker": "Keiichi Tanaami",
+   "title": "untitled",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "The hosting file is named `Tanaami28`, from a Booooooom feature on KEIICHI TANAAMI. A skull-headed figure in a feathered headdress stands on a bridge over green water, cherry blossom filling the ground. ⚠️ NEITHER TITLE NOR YEAR ESTABLISHED.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/92.jpg",
+   "source_px": [
+    848,
+    1200
+   ],
+   "colors": [
+    "green",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Keiichi Tanaami"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The hosting file is named `Tanaami28`, from a Booooooom feature on KEIICHI TANAAMI. A skull-headed figure in a feathered headdress stands on a bridge over green water, cherry blossom filling the ground. ⚠️ NEITHER TITLE NOR YEAR ESTABLISHED.",
+   "hue": 124.12,
+   "light": 0.4612,
+   "chroma": 0.8085,
+   "punch": 0.307
+  },
+  "sent-2026-09-09d::dabe29c292d3": {
+   "id": "CRVI002966",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002966.jpg",
+   "original_px": [
+    827,
+    1200
+   ],
+   "original_bytes": 760766,
+   "identity": "sent-2026-09-09d::dabe29c292d3",
+   "source_url": "https://cdn.booooooom.com/wp-content/uploads/2016/03/Tanaami12.jpg",
+   "maker": "Keiichi Tanaami",
+   "title": "untitled",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "The hosting file is named `Tanaami12`. A dense field of masked faces, cockerels, aircraft and CRASH! lettering in scarlet and green. ⚠️ NEITHER TITLE NOR YEAR ESTABLISHED.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/94.jpg",
+   "source_px": [
+    827,
+    1200
+   ],
+   "colors": [
+    "green",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Keiichi Tanaami"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The hosting file is named `Tanaami12`. A dense field of masked faces, cockerels, aircraft and CRASH! lettering in scarlet and green. ⚠️ NEITHER TITLE NOR YEAR ESTABLISHED.",
+   "hue": 127.34,
+   "light": 0.5509,
+   "chroma": 0.6983,
+   "punch": 0.2347
+  },
+  "sent-2026-09-09d::682f950c6216": {
+   "id": "CRVI002967",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002967.jpg",
+   "original_px": [
+    848,
+    1200
+   ],
+   "original_bytes": 742541,
+   "identity": "sent-2026-09-09d::682f950c6216",
+   "source_url": "https://www.booooooom.com/wp-content/uploads/2016/03/Tanaami27.jpg",
+   "maker": "Keiichi Tanaami",
+   "title": "untitled",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "The hosting file is named `Tanaami27`. Radiating white and yellow beams behind a totem of eyes, tongues and machinery on mint green. ⚠️ NEITHER TITLE NOR YEAR ESTABLISHED.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/95.jpg",
+   "source_px": [
+    848,
+    1200
+   ],
+   "colors": [
+    "cyan",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Keiichi Tanaami"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The hosting file is named `Tanaami27`. Radiating white and yellow beams behind a totem of eyes, tongues and machinery on mint green. ⚠️ NEITHER TITLE NOR YEAR ESTABLISHED.",
+   "hue": 185.78,
+   "light": 0.4829,
+   "chroma": 0.6847,
+   "punch": 0.2681
+  },
+  "sent-2026-09-09d::c5d88a436b1e": {
+   "id": "CRVI002968",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002968.png",
+   "original_px": [
+    1451,
+    2048
+   ],
+   "original_bytes": 3534355,
+   "identity": "sent-2026-09-09d::c5d88a436b1e",
+   "source_url": "https://2.bp.blogspot.com/-FtEA2jIqwo0/U4SzIMQUsDI/AAAAAAAABX8/aC7JMeOpW-o/s0/KeiichiTanaami_C03.png",
+   "maker": "Keiichi Tanaami",
+   "title": "untitled",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "The hosting file is named `KeiichiTanaami_C03`. A bird-beaked head with a red crest over praying hands, lightning and frogs, on cobalt. ⚠️ NEITHER TITLE NOR YEAR ESTABLISHED. ℹ️ Held at 1451x2048 by swapping Blogger's `/s1600/` for `/s0/`.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/96.png",
+   "source_px": [
+    1451,
+    2048
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Keiichi Tanaami"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The hosting file is named `KeiichiTanaami_C03`. A bird-beaked head with a red crest over praying hands, lightning and frogs, on cobalt. ⚠️ NEITHER TITLE NOR YEAR ESTABLISHED. ℹ️ Held at 1451x2048 by swapping Blogger's `/s1600/` for `/s0/`.",
+   "hue": 203.3,
+   "light": 0.4981,
+   "chroma": 0.8409,
+   "punch": 0.4186
+  },
+  "sent-2026-09-09d::c82001bd9850": {
+   "id": "CRVI002969",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002969.jpg",
+   "original_px": [
+    841,
+    1200
+   ],
+   "original_bytes": 738735,
+   "identity": "sent-2026-09-09d::c82001bd9850",
+   "source_url": "https://www.booooooom.com/wp-content/uploads/2016/03/Tanaami36.jpg",
+   "maker": "Keiichi Tanaami",
+   "title": "untitled",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "The hosting file is named `Tanaami36`. Winged and finned forms crowd a blue and red field above a bank of flowers. ⚠️ NEITHER TITLE NOR YEAR ESTABLISHED.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/97.jpg",
+   "source_px": [
+    841,
+    1200
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "artist",
+     "v": "Keiichi Tanaami"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The hosting file is named `Tanaami36`. Winged and finned forms crowd a blue and red field above a bank of flowers. ⚠️ NEITHER TITLE NOR YEAR ESTABLISHED.",
+   "hue": 207.47,
+   "light": 0.4482,
+   "chroma": 0.7664,
+   "punch": 0.3239
+  },
+  "sent-2026-09-09d::4e6dbcda1c34": {
+   "id": "CRVI002970",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI002970.jpg",
+   "original_px": [
+    1500,
+    1892
+   ],
+   "original_bytes": 1417473,
+   "identity": "sent-2026-09-09d::4e6dbcda1c34",
+   "source_url": "https://cdn.prod.website-files.com/5d70caf362d15d860bedae09/622617c2abea125f9bc318f6_thisispaper-generative-art-zach-liebermann-nft-09.jpg",
+   "maker": "Zach Lieberman",
+   "title": "generative work",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "The hosting file is named `thisispaper-generative-art-zach-liebermann-nft-09`. Soft fields of orange, red, blue and violet bleed through a grainy gradient. ⚠️ NEITHER TITLE NOR YEAR ESTABLISHED; the title above is descriptive. ⚠️ The filename spells 'Liebermann'; the artist spells it LIEBERMAN.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img74/98.jpg",
+   "source_px": [
+    1500,
+    1892
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "digital art"
+    },
+    {
+     "k": "artist",
+     "v": "Zach Lieberman"
+    },
+    {
+     "k": "subject",
+     "v": "generative art"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The hosting file is named `thisispaper-generative-art-zach-liebermann-nft-09`. Soft fields of orange, red, blue and violet bleed through a grainy gradient. ⚠️ NEITHER TITLE NOR YEAR ESTABLISHED; the title above is descriptive. ⚠️ The filename spells 'Liebermann'; the artist spells it LIEBERMAN.",
+   "hue": 21.11,
+   "light": 0.5025,
+   "chroma": 0.7071,
+   "punch": 0.2872
   }
  }
 }
