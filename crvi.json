@@ -150260,6 +150260,790 @@
    "hue": null,
    "light": 0.6486,
    "chroma": 0.0
+  },
+  {
+   "id": "CRVI002851",
+   "published": true,
+   "minted": "2026-09-09",
+   "punch": 0.2831,
+   "source_url": "https://tiborhelenyi.com/wp-content/uploads/2021/03/graphisannual.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002851.jpg",
+   "source_label": "",
+   "image": "images/CRVI002851.jpg",
+   "original": "originals/CRVI002851.jpg",
+   "vector": "",
+   "original_px": [
+    1276,
+    1754
+   ],
+   "original_bytes": 855851,
+   "maker": "Unattributed",
+   "title": "Graphis Annual 77/78",
+   "subtitle": "",
+   "year": "1977",
+   "tags": [
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "client",
+     "v": "Graphis"
+    },
+    {
+     "k": "art director",
+     "v": "Walter Herdeg"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 23.2,
+   "light": 0.3109,
+   "chroma": 0.9186
+  },
+  {
+   "id": "CRVI002852",
+   "published": true,
+   "minted": "2026-09-09",
+   "punch": 0.331,
+   "source_url": "https://cdn.sanity.io/images/476nwnl9/production/4e170135c685b15a1aef68c8dc72b7e051fd842e-2300x3412.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002852.jpg",
+   "source_label": "",
+   "image": "images/CRVI002852.jpg",
+   "original": "originals/CRVI002852.jpg",
+   "vector": "",
+   "original_px": [
+    2300,
+    3412
+   ],
+   "original_bytes": 772700,
+   "maker": "April Greiman",
+   "title": "Workspace",
+   "subtitle": "",
+   "year": "1987",
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "designer",
+     "v": "April Greiman"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "city",
+     "v": "Los Angeles"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 5.89,
+   "light": 0.4933,
+   "chroma": 0.6973
+  },
+  {
+   "id": "CRVI002853",
+   "published": true,
+   "minted": "2026-09-09",
+   "punch": 0.1892,
+   "source_url": "https://cdn.sanity.io/images/476nwnl9/production/2db6bbf0f056c6f22ca2769e75075de30c89fa14-1351x2000.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002853.jpg",
+   "source_label": "",
+   "image": "images/CRVI002853.jpg",
+   "original": "originals/CRVI002853.jpg",
+   "vector": "",
+   "original_px": [
+    1351,
+    2000
+   ],
+   "original_bytes": 216467,
+   "maker": "April Greiman and Jayme Odgers",
+   "title": "Los Angeles 1984 Olympic Games",
+   "subtitle": "",
+   "year": "1984",
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "designer",
+     "v": "April Greiman"
+    },
+    {
+     "k": "designer",
+     "v": "Jayme Odgers"
+    },
+    {
+     "k": "subject",
+     "v": "Olympic Games"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "city",
+     "v": "Los Angeles"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 15.65,
+   "light": 0.7693,
+   "chroma": 0.8586
+  },
+  {
+   "id": "CRVI002854",
+   "published": true,
+   "minted": "2026-09-09",
+   "punch": 0.0732,
+   "source_url": "https://cdn.prod.website-files.com/65eb84ca7db7cc5a9a9de38d/65f4f9cd0a019f1d78724176_DQ-133%20for%20Web.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002854.jpg",
+   "source_label": "",
+   "image": "images/CRVI002854.jpg",
+   "original": "originals/CRVI002854.jpg",
+   "vector": "",
+   "original_px": [
+    5464,
+    1800
+   ],
+   "original_bytes": 3586558,
+   "maker": "April Greiman",
+   "title": "DOES IT MAKE SENSE? Design Quarterly #133",
+   "subtitle": "",
+   "year": "1986",
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "designer",
+     "v": "April Greiman"
+    },
+    {
+     "k": "client",
+     "v": "Design Quarterly"
+    },
+    {
+     "k": "client",
+     "v": "Walker Art Center"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 42.72,
+   "light": 0.7049,
+   "chroma": 0.3462
+  },
+  {
+   "id": "CRVI002855",
+   "published": true,
+   "minted": "2026-09-09",
+   "punch": 0.0791,
+   "source_url": "https://cdn.sanity.io/images/476nwnl9/production/ed66c73f5128a88e11aa0af5a87d4cb7d19bc2be-1550x2000.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002855.jpg",
+   "source_label": "",
+   "image": "images/CRVI002855.jpg",
+   "original": "originals/CRVI002855.jpg",
+   "vector": "",
+   "original_px": [
+    1550,
+    2000
+   ],
+   "original_bytes": 402463,
+   "maker": "April Greiman",
+   "title": "AIGA Comm Graphics",
+   "subtitle": "",
+   "year": "1994",
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "designer",
+     "v": "April Greiman"
+    },
+    {
+     "k": "client",
+     "v": "AIGA"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 18.05,
+   "light": 0.8175,
+   "chroma": 0.3209
+  },
+  {
+   "id": "CRVI002856",
+   "published": true,
+   "minted": "2026-09-09",
+   "punch": 0.2701,
+   "source_url": "https://www.moma.org/media/W1siZiIsIjIzNDI3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=44a36f59e523a654",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002856.jpg",
+   "source_label": "",
+   "image": "images/CRVI002856.jpg",
+   "original": "originals/CRVI002856.jpg",
+   "vector": "",
+   "original_px": [
+    1165,
+    2000
+   ],
+   "original_bytes": 1017171,
+   "maker": "Martha Rosler",
+   "title": "Makeup/Hands Up, from House Beautiful: Bringing the War Home",
+   "subtitle": "",
+   "year": "1967",
+   "tags": [
+    {
+     "k": "type",
+     "v": "photomontage"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "artist",
+     "v": "Martha Rosler"
+    },
+    {
+     "k": "subject",
+     "v": "feminist art"
+    },
+    {
+     "k": "subject",
+     "v": "Vietnam War"
+    },
+    {
+     "k": "subject",
+     "v": "collage"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 21.92,
+   "light": 0.4437,
+   "chroma": 0.8778
+  },
+  {
+   "id": "CRVI002857",
+   "published": true,
+   "minted": "2026-09-09",
+   "punch": 0.1607,
+   "source_url": "https://freight.cargo.site/i/d8bef571ed38b7c36438fa677b2257b518fceab1f3908506c773b6bcc14e0b8f/Poster-Klein_0010_15.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002857.jpg",
+   "source_label": "",
+   "image": "images/CRVI002857.jpg",
+   "original": "originals/CRVI002857.jpg",
+   "vector": "",
+   "original_px": [
+    1000,
+    1415
+   ],
+   "original_bytes": 1987448,
+   "maker": "Rosmarie Tissi",
+   "title": "The Worst Case — UNFCCC-COP3-Kyoto",
+   "subtitle": "",
+   "year": "1997",
+   "tags": [
+    {
+     "k": "type",
+     "v": "advertising poster"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "designer",
+     "v": "Rosmarie Tissi"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
+     "k": "subject",
+     "v": "climate"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 26.83,
+   "light": 0.3869,
+   "chroma": 0.5556
+  },
+  {
+   "id": "CRVI002858",
+   "published": true,
+   "minted": "2026-09-09",
+   "punch": 0.0477,
+   "source_url": "https://freight.cargo.site/i/076af8f960ff620542f82919ca45764f2bf45a472d92fcfeded8e947377867a4/Poster_0029_8.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002858.jpg",
+   "source_label": "",
+   "image": "images/CRVI002858.jpg",
+   "original": "originals/CRVI002858.jpg",
+   "vector": "",
+   "original_px": [
+    1685,
+    2385
+   ],
+   "original_bytes": 408119,
+   "maker": "Rosmarie Tissi",
+   "title": "Schweizer Plakate des Jahres 1996",
+   "subtitle": "",
+   "year": "1996",
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "designer",
+     "v": "Rosmarie Tissi"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
+     "k": "subject",
+     "v": "poster design"
+    },
+    {
+     "k": "color",
+     "v": "white"
+    }
+   ],
+   "hue": null,
+   "light": 0.9041,
+   "chroma": 0.0951
+  },
+  {
+   "id": "CRVI002859",
+   "published": true,
+   "minted": "2026-09-09",
+   "punch": 0.0212,
+   "source_url": "https://freight.cargo.site/i/c3a40e230627bcd8c73883a519d46f04aa18860e9b893838ca6591c122490409/Poster-Jazz2.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002859.jpg",
+   "source_label": "",
+   "image": "images/CRVI002859.jpg",
+   "original": "originals/CRVI002859.jpg",
+   "vector": "",
+   "original_px": [
+    1685,
+    2385
+   ],
+   "original_bytes": 350109,
+   "maker": "Rosmarie Tissi",
+   "title": "31. Schaffhauser Jazzfestival",
+   "subtitle": "",
+   "year": "2020",
+   "tags": [
+    {
+     "k": "type",
+     "v": "event poster"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "designer",
+     "v": "Rosmarie Tissi"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
+     "k": "subject",
+     "v": "jazz"
+    },
+    {
+     "k": "subject",
+     "v": "music"
+    },
+    {
+     "k": "city",
+     "v": "Schaffhausen"
+    },
+    {
+     "k": "color",
+     "v": "neutral"
+    }
+   ],
+   "hue": null,
+   "light": 0.4871,
+   "chroma": 0.0328
+  },
+  {
+   "id": "CRVI002860",
+   "published": true,
+   "minted": "2026-09-09",
+   "punch": 0.0949,
+   "source_url": "https://freight.cargo.site/i/4cfef2ff6c3345c0ecb76e263692e8f2d52f89383973e1b07a85e69acc141367/Poster-Klein_0002_Serenaden-2002.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002860.jpg",
+   "source_label": "",
+   "image": "images/CRVI002860.jpg",
+   "original": "originals/CRVI002860.jpg",
+   "vector": "",
+   "original_px": [
+    1000,
+    1415
+   ],
+   "original_bytes": 1344098,
+   "maker": "Rosmarie Tissi",
+   "title": "Serenaden 2002",
+   "subtitle": "",
+   "year": "2002",
+   "tags": [
+    {
+     "k": "type",
+     "v": "event poster"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    },
+    {
+     "k": "designer",
+     "v": "Rosmarie Tissi"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
+     "k": "subject",
+     "v": "music"
+    },
+    {
+     "k": "city",
+     "v": "Zurich"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 56.2,
+   "light": 0.3306,
+   "chroma": 0.1089
+  },
+  {
+   "id": "CRVI002861",
+   "published": true,
+   "minted": "2026-09-09",
+   "punch": 0.3065,
+   "source_url": "https://freight.cargo.site/i/5be07626ce9bf984e1835521f1cd55941fe419f507579688f52654dc10dd3326/Poster_0000_Gras-PLakat.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002861.jpg",
+   "source_label": "",
+   "image": "images/CRVI002861.jpg",
+   "original": "originals/CRVI002861.jpg",
+   "vector": "",
+   "original_px": [
+    927,
+    1312
+   ],
+   "original_bytes": 1098608,
+   "maker": "Rosmarie Tissi",
+   "title": "Begrünungen Kuhn AG",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "advertising poster"
+    },
+    {
+     "k": "designer",
+     "v": "Rosmarie Tissi"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
+     "k": "client",
+     "v": "Kuhn AG"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 55.04,
+   "light": 0.7487,
+   "chroma": 0.7226
+  },
+  {
+   "id": "CRVI002862",
+   "published": true,
+   "minted": "2026-09-09",
+   "punch": 0.2415,
+   "source_url": "https://freight.cargo.site/i/a65dfa8bfe6c627e6f02145ffc28fcdb6bc80901131cccbaf2a4616df6560bb1/Graphis241_1.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002862.jpg",
+   "source_label": "",
+   "image": "images/CRVI002862.jpg",
+   "original": "originals/CRVI002862.jpg",
+   "vector": "",
+   "original_px": [
+    2739,
+    3400
+   ],
+   "original_bytes": 7452426,
+   "maker": "Rosmarie Tissi",
+   "title": "Graphis 241",
+   "subtitle": "",
+   "year": "1986",
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "designer",
+     "v": "Rosmarie Tissi"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
+     "k": "client",
+     "v": "Graphis"
+    },
+    {
+     "k": "art director",
+     "v": "Walter Herdeg"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 225.48,
+   "light": 0.7306,
+   "chroma": 0.8035
+  },
+  {
+   "id": "CRVI002863",
+   "published": true,
+   "minted": "2026-09-09",
+   "punch": 0.4071,
+   "source_url": "https://freight.cargo.site/i/119f6ca9419d063b8ccef320bb237438505cfa5cf6b7abe2b0b7bdebf848ee37/Ad_Tips_2.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI002863.jpg",
+   "source_label": "",
+   "image": "images/CRVI002863.jpg",
+   "original": "originals/CRVI002863.jpg",
+   "vector": "",
+   "original_px": [
+    880,
+    1382
+   ],
+   "original_bytes": 1775864,
+   "maker": "Rosmarie Tissi",
+   "title": "Tips",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "advertisement"
+    },
+    {
+     "k": "designer",
+     "v": "Rosmarie Tissi"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
+     "k": "subject",
+     "v": "typography"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 207.07,
+   "light": 0.4155,
+   "chroma": 0.8552
   }
  ]
 }

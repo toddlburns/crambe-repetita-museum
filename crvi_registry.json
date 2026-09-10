@@ -1,5 +1,5 @@
 {
- "next": 2851,
+ "next": 2864,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -168937,6 +168937,815 @@
    "light": 0.6486,
    "chroma": 0.0,
    "punch": 0.0071
+  },
+  "sent-2026-09-09f::db61949b561e": {
+   "id": "CRVI002851",
+   "minted": "2026-09-09",
+   "original_file": "originals/CRVI002851.jpg",
+   "original_px": [
+    1276,
+    1754
+   ],
+   "original_bytes": 855851,
+   "identity": "sent-2026-09-09f::db61949b561e",
+   "source_url": "https://tiborhelenyi.com/wp-content/uploads/2021/03/graphisannual.jpg",
+   "maker": "Unattributed",
+   "title": "Graphis Annual 77/78",
+   "subtitle": "",
+   "year": "1977",
+   "label": "",
+   "verified_against": "THE COVER ITSELF, which sets 'graphis annual 77/78' across the head above a cracked terracotta head, mouth open, its skull opened to release Mickey Mouse, a rainbow, Hokusai's great wave and the screaming figure from Munch. ⚠️ A CURSIVE SIGNATURE SITS AT THE LOWER LEFT AND READS 'Lagarrigue' — Jean Lagarrigue is a French illustrator known for exactly this pop-Mickey subject matter — BUT NO SOURCE WAS FOUND CONFIRMING HIM ON THIS COVER, so the maker is recorded as not established and the signature is reported as read. ℹ️ Continues the Graphis Annual run begun in batch 71; the annual's editor throughout is Walter Herdeg, The Graphis Press, Zurich.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img76/01.jpg",
+   "source_px": [
+    1276,
+    1754
+   ],
+   "colors": [
+    "orange",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "client",
+     "v": "Graphis"
+    },
+    {
+     "k": "art director",
+     "v": "Walter Herdeg"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE COVER ITSELF, which sets 'graphis annual 77/78' across the head above a cracked terracotta head, mouth open, its skull opened to release Mickey Mouse, a rainbow, Hokusai's great wave and the screaming figure from Munch. ⚠️ A CURSIVE SIGNATURE SITS AT THE LOWER LEFT AND READS 'Lagarrigue' — Jean Lagarrigue is a French illustrator known for exactly this pop-Mickey subject matter — BUT NO SOURCE WAS FOUND CONFIRMING HIM ON THIS COVER, so the maker is recorded as not established and the signature is reported as read. ℹ️ Continues the Graphis Annual run begun in batch 71; the annual's editor throughout is Walter Herdeg, The Graphis Press, Zurich.",
+   "hue": 23.2,
+   "light": 0.3109,
+   "chroma": 0.9186,
+   "punch": 0.2831
+  },
+  "sent-2026-09-09f::ac69666f8c7b": {
+   "id": "CRVI002852",
+   "minted": "2026-09-09",
+   "original_file": "originals/CRVI002852.jpg",
+   "original_px": [
+    2300,
+    3412
+   ],
+   "original_bytes": 772700,
+   "identity": "sent-2026-09-09f::ac69666f8c7b",
+   "source_url": "https://cdn.sanity.io/images/476nwnl9/production/4e170135c685b15a1aef68c8dc72b7e051fd842e-2300x3412.jpg",
+   "maker": "April Greiman",
+   "title": "Workspace",
+   "subtitle": "",
+   "year": "1987",
+   "label": "",
+   "verified_against": "MoMA's own caption in the article this file illustrates: 'April Greiman. Workspace. 1987'. The sheet sets 'Workspace 87' and 'SURVIVAL' vertically over an airbrushed cityscape, a disembodied eye, a violet arrow and bands of red, yellow and green — the hybrid of video still, photograph and Macintosh output Greiman called 'hybrid imagery'. ℹ️ Held at 2300x3412 from the article's own Sanity CDN, larger than the 1348x2000 the article displays inline.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img76/02.jpg",
+   "source_px": [
+    2300,
+    3412
+   ],
+   "colors": [
+    "red",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "designer",
+     "v": "April Greiman"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "city",
+     "v": "Los Angeles"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "MoMA's own caption in the article this file illustrates: 'April Greiman. Workspace. 1987'. The sheet sets 'Workspace 87' and 'SURVIVAL' vertically over an airbrushed cityscape, a disembodied eye, a violet arrow and bands of red, yellow and green — the hybrid of video still, photograph and Macintosh output Greiman called 'hybrid imagery'. ℹ️ Held at 2300x3412 from the article's own Sanity CDN, larger than the 1348x2000 the article displays inline.",
+   "hue": 5.89,
+   "light": 0.4933,
+   "chroma": 0.6973,
+   "punch": 0.331
+  },
+  "sent-2026-09-09f::f66708ff03ea": {
+   "id": "CRVI002853",
+   "minted": "2026-09-09",
+   "original_file": "originals/CRVI002853.jpg",
+   "original_px": [
+    1351,
+    2000
+   ],
+   "original_bytes": 216467,
+   "identity": "sent-2026-09-09f::f66708ff03ea",
+   "source_url": "https://cdn.sanity.io/images/476nwnl9/production/2db6bbf0f056c6f22ca2769e75075de30c89fa14-1351x2000.jpg",
+   "maker": "April Greiman and Jayme Odgers",
+   "title": "Los Angeles 1984 Olympic Games",
+   "subtitle": "",
+   "year": "1984",
+   "label": "",
+   "verified_against": "MoMA's own caption: 'April Greiman, Jayme Odgers. Los Angeles 1984 Olympic Games. 1984'. Bare legs descend from a blue sky onto a rule, framed in mint and pink with the LA84 star logo at the foot. ℹ️ GREIMAN CORRECTS THE OBVIOUS READING IN THE SAME ARTICLE: 'It looks like a runner but the incredible legs actually belong to the gold medalist swimmer ELLIE DANIEL.' She also names it the last project she and Odgers made together. ⚠️ TWO MAKERS, both recorded.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img76/03.jpg",
+   "source_px": [
+    1351,
+    2000
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "designer",
+     "v": "April Greiman"
+    },
+    {
+     "k": "designer",
+     "v": "Jayme Odgers"
+    },
+    {
+     "k": "subject",
+     "v": "Olympic Games"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "city",
+     "v": "Los Angeles"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "MoMA's own caption: 'April Greiman, Jayme Odgers. Los Angeles 1984 Olympic Games. 1984'. Bare legs descend from a blue sky onto a rule, framed in mint and pink with the LA84 star logo at the foot. ℹ️ GREIMAN CORRECTS THE OBVIOUS READING IN THE SAME ARTICLE: 'It looks like a runner but the incredible legs actually belong to the gold medalist swimmer ELLIE DANIEL.' She also names it the last project she and Odgers made together. ⚠️ TWO MAKERS, both recorded.",
+   "hue": 15.65,
+   "light": 0.7693,
+   "chroma": 0.8586,
+   "punch": 0.1892
+  },
+  "sent-2026-09-09f::c83015ad5dc3": {
+   "id": "CRVI002854",
+   "minted": "2026-09-09",
+   "original_file": "originals/CRVI002854.jpg",
+   "original_px": [
+    5464,
+    1800
+   ],
+   "original_bytes": 3586558,
+   "identity": "sent-2026-09-09f::c83015ad5dc3",
+   "source_url": "https://cdn.prod.website-files.com/65eb84ca7db7cc5a9a9de38d/65f4f9cd0a019f1d78724176_DQ-133%20for%20Web.jpg",
+   "maker": "April Greiman",
+   "title": "DOES IT MAKE SENSE? Design Quarterly #133",
+   "subtitle": "",
+   "year": "1986",
+   "label": "",
+   "verified_against": "MoMA's caption, quoted by Todd verbatim: 'April Greiman. DOES IT MAKE SENSE? Design Quarterly #133 (design for special issue of Design Quarterly, no. 133). 1986. Lithograph, opened: 27 1/8 × 76 1/8\" (68.9 × 193.4 cm).' A life-size digitised nude self-portrait runs the length of the sheet, overlaid with type, video stills and coordinates. ℹ️ It folds down into the magazine's format and into a slipcase printed 'If you give it a sense, it makes sense', after Wittgenstein. ⚠️ HELD FROM GREIMAN'S OWN SITE AT 5464x1800 BECAUSE MoMA CANNOT CLEAR THE FLOOR: at MoMA's hard 2000px cap this 2.81:1 sheet measures 2000x712. ℹ️ A back side exists at 3560x1200 and is NOT held here.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img76/04.jpg",
+   "source_px": [
+    5464,
+    1800
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "designer",
+     "v": "April Greiman"
+    },
+    {
+     "k": "client",
+     "v": "Design Quarterly"
+    },
+    {
+     "k": "client",
+     "v": "Walker Art Center"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "MoMA's caption, quoted by Todd verbatim: 'April Greiman. DOES IT MAKE SENSE? Design Quarterly #133 (design for special issue of Design Quarterly, no. 133). 1986. Lithograph, opened: 27 1/8 × 76 1/8\" (68.9 × 193.4 cm).' A life-size digitised nude self-portrait runs the length of the sheet, overlaid with type, video stills and coordinates. ℹ️ It folds down into the magazine's format and into a slipcase printed 'If you give it a sense, it makes sense', after Wittgenstein. ⚠️ HELD FROM GREIMAN'S OWN SITE AT 5464x1800 BECAUSE MoMA CANNOT CLEAR THE FLOOR: at MoMA's hard 2000px cap this 2.81:1 sheet measures 2000x712. ℹ️ A back side exists at 3560x1200 and is NOT held here.",
+   "hue": 42.72,
+   "light": 0.7049,
+   "chroma": 0.3462,
+   "punch": 0.0732
+  },
+  "sent-2026-09-09f::d25576b24648": {
+   "id": "CRVI002855",
+   "minted": "2026-09-09",
+   "original_file": "originals/CRVI002855.jpg",
+   "original_px": [
+    1550,
+    2000
+   ],
+   "original_bytes": 402463,
+   "identity": "sent-2026-09-09f::d25576b24648",
+   "source_url": "https://cdn.sanity.io/images/476nwnl9/production/ed66c73f5128a88e11aa0af5a87d4cb7d19bc2be-1550x2000.jpg",
+   "maker": "April Greiman",
+   "title": "AIGA Comm Graphics",
+   "subtitle": "",
+   "year": "1994",
+   "label": "",
+   "verified_against": "MoMA's caption, quoted by Todd verbatim: 'April Greiman. AIGA Comm Graphics. 1994. Lithograph, 44 × 34\" (111.8 × 86.4 cm). The Museum of Modern Art, New York. Gift of the designer.' A body is diagrammed down the sheet in organs, colour fields and type. ℹ️ Greiman's stated subject is perception: 'we see things upside down and our brain flips them around... everything's an object in space, and the body is an object in space, and a business card is a space.'",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img76/05.jpg",
+   "source_px": [
+    1550,
+    2000
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "designer",
+     "v": "April Greiman"
+    },
+    {
+     "k": "client",
+     "v": "AIGA"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "MoMA's caption, quoted by Todd verbatim: 'April Greiman. AIGA Comm Graphics. 1994. Lithograph, 44 × 34\" (111.8 × 86.4 cm). The Museum of Modern Art, New York. Gift of the designer.' A body is diagrammed down the sheet in organs, colour fields and type. ℹ️ Greiman's stated subject is perception: 'we see things upside down and our brain flips them around... everything's an object in space, and the body is an object in space, and a business card is a space.'",
+   "hue": 18.05,
+   "light": 0.8175,
+   "chroma": 0.3209,
+   "punch": 0.0791
+  },
+  "sent-2026-09-09f::966718a6550f": {
+   "id": "CRVI002856",
+   "minted": "2026-09-09",
+   "original_file": "originals/CRVI002856.jpg",
+   "original_px": [
+    1165,
+    2000
+   ],
+   "original_bytes": 1017171,
+   "identity": "sent-2026-09-09f::966718a6550f",
+   "source_url": "https://www.moma.org/media/W1siZiIsIjIzNDI3NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=44a36f59e523a654",
+   "maker": "Martha Rosler",
+   "title": "Makeup/Hands Up, from House Beautiful: Bringing the War Home",
+   "subtitle": "",
+   "year": "1967",
+   "label": "",
+   "verified_against": "MoMA's collection record for the work Todd linked: 'Martha Rosler. Makeup/Hands Up from the series House Beautiful: Bringing the War Home. c. 1967-72. Inkjet print (photomontage), printed 2011. 23 3/4 × 13 15/16\" (60.4 × 35.4 cm).' A woman's face in close-up, a brush at her lashes, with a small monochrome photograph of soldiers set into the eye socket. ⚠️ THE YEAR IS c.1967-72 AND THIS PRINT IS FROM 2011; the decade tag follows the work, not the printing. ℹ️ Rosler handed the series out as photocopies at anti-Vietnam demonstrations: 'I saw House Beautiful not as art. I wanted it to be agitational.' ⚠️ NOT APRIL GREIMAN, despite arriving among her links.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img76/06.jpg",
+   "source_px": [
+    1165,
+    2000
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photomontage"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "artist",
+     "v": "Martha Rosler"
+    },
+    {
+     "k": "subject",
+     "v": "feminist art"
+    },
+    {
+     "k": "subject",
+     "v": "Vietnam War"
+    },
+    {
+     "k": "subject",
+     "v": "collage"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "MoMA's collection record for the work Todd linked: 'Martha Rosler. Makeup/Hands Up from the series House Beautiful: Bringing the War Home. c. 1967-72. Inkjet print (photomontage), printed 2011. 23 3/4 × 13 15/16\" (60.4 × 35.4 cm).' A woman's face in close-up, a brush at her lashes, with a small monochrome photograph of soldiers set into the eye socket. ⚠️ THE YEAR IS c.1967-72 AND THIS PRINT IS FROM 2011; the decade tag follows the work, not the printing. ℹ️ Rosler handed the series out as photocopies at anti-Vietnam demonstrations: 'I saw House Beautiful not as art. I wanted it to be agitational.' ⚠️ NOT APRIL GREIMAN, despite arriving among her links.",
+   "hue": 21.92,
+   "light": 0.4437,
+   "chroma": 0.8778,
+   "punch": 0.2701
+  },
+  "sent-2026-09-09f::2f234f9ed6ac": {
+   "id": "CRVI002857",
+   "minted": "2026-09-09",
+   "original_file": "originals/CRVI002857.jpg",
+   "original_px": [
+    1000,
+    1415
+   ],
+   "original_bytes": 1987448,
+   "identity": "sent-2026-09-09f::2f234f9ed6ac",
+   "source_url": "https://freight.cargo.site/i/d8bef571ed38b7c36438fa677b2257b518fceab1f3908506c773b6bcc14e0b8f/Poster-Klein_0010_15.jpg",
+   "maker": "Rosmarie Tissi",
+   "title": "The Worst Case — UNFCCC-COP3-Kyoto",
+   "subtitle": "",
+   "year": "1997",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF, which prints 'The worst case - UNFCCC-COP3-Kyoto' at the foot over a dome of cracked red earth with a single bare white tree at its crown against black. ℹ️ COP3 met in Kyoto in December 1997 and produced the Kyoto Protocol, which dates the sheet. ⚠️ THE ATTRIBUTION IS THE PORTFOLIO'S, NOT THIS SHEET'S. The file is served from the cargo.site portfolio whose authorship is established by two items in this same batch that Google Lens resolves independently to ROSMARIE TISSI — Serenaden 2002 and the Graphis 241 cover. No outside source was found naming her on THIS sheet specifically.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img76/07.jpg",
+   "source_px": [
+    1000,
+    1415
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "advertising poster"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "designer",
+     "v": "Rosmarie Tissi"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
+     "k": "subject",
+     "v": "climate"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, which prints 'The worst case - UNFCCC-COP3-Kyoto' at the foot over a dome of cracked red earth with a single bare white tree at its crown against black. ℹ️ COP3 met in Kyoto in December 1997 and produced the Kyoto Protocol, which dates the sheet. ⚠️ THE ATTRIBUTION IS THE PORTFOLIO'S, NOT THIS SHEET'S. The file is served from the cargo.site portfolio whose authorship is established by two items in this same batch that Google Lens resolves independently to ROSMARIE TISSI — Serenaden 2002 and the Graphis 241 cover. No outside source was found naming her on THIS sheet specifically.",
+   "hue": 26.83,
+   "light": 0.3869,
+   "chroma": 0.5556,
+   "punch": 0.1607
+  },
+  "sent-2026-09-09f::52e0adafe5ce": {
+   "id": "CRVI002858",
+   "minted": "2026-09-09",
+   "original_file": "originals/CRVI002858.jpg",
+   "original_px": [
+    1685,
+    2385
+   ],
+   "original_bytes": 408119,
+   "identity": "sent-2026-09-09f::52e0adafe5ce",
+   "source_url": "https://freight.cargo.site/i/076af8f960ff620542f82919ca45764f2bf45a472d92fcfeded8e947377867a4/Poster_0029_8.jpg",
+   "maker": "Rosmarie Tissi",
+   "title": "Schweizer Plakate des Jahres 1996",
+   "subtitle": "",
+   "year": "1996",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF, which letters the same title in four languages around an empty white field — 'Affiches Suisses de l'année 1996 / Schweizer Plakate des Jahres 1996 / Cartelloni Svizzeri 1996 / Placats Svizzers da l'onn 1996' — each on its own coloured bar, so the border IS the poster. ℹ️ All four national languages including Romansh. ⚠️ THE ATTRIBUTION IS THE PORTFOLIO'S, NOT THIS SHEET'S. The file is served from the cargo.site portfolio whose authorship is established by two items in this same batch that Google Lens resolves independently to ROSMARIE TISSI — Serenaden 2002 and the Graphis 241 cover. No outside source was found naming her on THIS sheet specifically.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img76/08.jpg",
+   "source_px": [
+    1685,
+    2385
+   ],
+   "colors": [
+    "white"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "designer",
+     "v": "Rosmarie Tissi"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
+     "k": "subject",
+     "v": "poster design"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, which letters the same title in four languages around an empty white field — 'Affiches Suisses de l'année 1996 / Schweizer Plakate des Jahres 1996 / Cartelloni Svizzeri 1996 / Placats Svizzers da l'onn 1996' — each on its own coloured bar, so the border IS the poster. ℹ️ All four national languages including Romansh. ⚠️ THE ATTRIBUTION IS THE PORTFOLIO'S, NOT THIS SHEET'S. The file is served from the cargo.site portfolio whose authorship is established by two items in this same batch that Google Lens resolves independently to ROSMARIE TISSI — Serenaden 2002 and the Graphis 241 cover. No outside source was found naming her on THIS sheet specifically.",
+   "hue": null,
+   "light": 0.9041,
+   "chroma": 0.0951,
+   "punch": 0.0477
+  },
+  "sent-2026-09-09f::f277870e766f": {
+   "id": "CRVI002859",
+   "minted": "2026-09-09",
+   "original_file": "originals/CRVI002859.jpg",
+   "original_px": [
+    1685,
+    2385
+   ],
+   "original_bytes": 350109,
+   "identity": "sent-2026-09-09f::f277870e766f",
+   "source_url": "https://freight.cargo.site/i/c3a40e230627bcd8c73883a519d46f04aa18860e9b893838ca6591c122490409/Poster-Jazz2.jpg",
+   "maker": "Rosmarie Tissi",
+   "title": "31. Schaffhauser Jazzfestival",
+   "subtitle": "",
+   "year": "2020",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF, which prints '31. Schaffhauser Jazzfestival 13.–16. Mai 2020' and 'www.jazzfestival.ch' on yellow and blue rules across a grey ground, with JAZZ set very large in black-and-white striped letters that read as vibrating. ⚠️ SIEGFRIED ODERMATT, her studio partner, DIED IN 2017 and cannot be the author of a 2020 sheet. ⚠️ THE ATTRIBUTION IS THE PORTFOLIO'S, NOT THIS SHEET'S. The file is served from the cargo.site portfolio whose authorship is established by two items in this same batch that Google Lens resolves independently to ROSMARIE TISSI — Serenaden 2002 and the Graphis 241 cover. No outside source was found naming her on THIS sheet specifically.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img76/09.jpg",
+   "source_px": [
+    1685,
+    2385
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "event poster"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "designer",
+     "v": "Rosmarie Tissi"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
+     "k": "subject",
+     "v": "jazz"
+    },
+    {
+     "k": "subject",
+     "v": "music"
+    },
+    {
+     "k": "city",
+     "v": "Schaffhausen"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, which prints '31. Schaffhauser Jazzfestival 13.–16. Mai 2020' and 'www.jazzfestival.ch' on yellow and blue rules across a grey ground, with JAZZ set very large in black-and-white striped letters that read as vibrating. ⚠️ SIEGFRIED ODERMATT, her studio partner, DIED IN 2017 and cannot be the author of a 2020 sheet. ⚠️ THE ATTRIBUTION IS THE PORTFOLIO'S, NOT THIS SHEET'S. The file is served from the cargo.site portfolio whose authorship is established by two items in this same batch that Google Lens resolves independently to ROSMARIE TISSI — Serenaden 2002 and the Graphis 241 cover. No outside source was found naming her on THIS sheet specifically.",
+   "hue": null,
+   "light": 0.4871,
+   "chroma": 0.0328,
+   "punch": 0.0212
+  },
+  "sent-2026-09-09f::63f7cf2ba262": {
+   "id": "CRVI002860",
+   "minted": "2026-09-09",
+   "original_file": "originals/CRVI002860.jpg",
+   "original_px": [
+    1000,
+    1415
+   ],
+   "original_bytes": 1344098,
+   "identity": "sent-2026-09-09f::63f7cf2ba262",
+   "source_url": "https://freight.cargo.site/i/4cfef2ff6c3345c0ecb76e263692e8f2d52f89383973e1b07a85e69acc141367/Poster-Klein_0002_Serenaden-2002.jpg",
+   "maker": "Rosmarie Tissi",
+   "title": "Serenaden 2002",
+   "subtitle": "",
+   "year": "2002",
+   "label": "",
+   "verified_against": "GOOGLE LENS RESOLVES THIS ONE INDEPENDENTLY to ROSMARIE TISSI — a 2002 Serenaden concert poster for an open-air series in Zurich. The sheet sets 'S e r e n a d e n  2 o o 2' across a chartreuse disc on midnight blue, with halftone dot bursts radiating from it and the full programme set small down the left edge. ℹ️ This is one of the two items that establish the whole cargo.site portfolio as hers.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img76/10.jpg",
+   "source_px": [
+    1000,
+    1415
+   ],
+   "colors": [
+    "blue",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "event poster"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    },
+    {
+     "k": "designer",
+     "v": "Rosmarie Tissi"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
+     "k": "subject",
+     "v": "music"
+    },
+    {
+     "k": "city",
+     "v": "Zurich"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "GOOGLE LENS RESOLVES THIS ONE INDEPENDENTLY to ROSMARIE TISSI — a 2002 Serenaden concert poster for an open-air series in Zurich. The sheet sets 'S e r e n a d e n  2 o o 2' across a chartreuse disc on midnight blue, with halftone dot bursts radiating from it and the full programme set small down the left edge. ℹ️ This is one of the two items that establish the whole cargo.site portfolio as hers.",
+   "hue": 56.2,
+   "light": 0.3306,
+   "chroma": 0.1089,
+   "punch": 0.0949
+  },
+  "sent-2026-09-09f::ec9caca91825": {
+   "id": "CRVI002861",
+   "minted": "2026-09-09",
+   "original_file": "originals/CRVI002861.jpg",
+   "original_px": [
+    927,
+    1312
+   ],
+   "original_bytes": 1098608,
+   "identity": "sent-2026-09-09f::ec9caca91825",
+   "source_url": "https://freight.cargo.site/i/5be07626ce9bf984e1835521f1cd55941fe419f507579688f52654dc10dd3326/Poster_0000_Gras-PLakat.jpg",
+   "maker": "Rosmarie Tissi",
+   "title": "Begrünungen Kuhn AG",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF, which grows its own lettering: tufts of grass are cut into the shape of letters on a pale yellow ground, with German, French and Italian body copy at the foot and 'BEGRÜNUNGEN KUHN AG' — a Swiss landscaping firm — as the client line. ⚠️ NO YEAR IS PRINTED OR ESTABLISHED. ⚠️ THE ATTRIBUTION IS THE PORTFOLIO'S, NOT THIS SHEET'S. The file is served from the cargo.site portfolio whose authorship is established by two items in this same batch that Google Lens resolves independently to ROSMARIE TISSI — Serenaden 2002 and the Graphis 241 cover. No outside source was found naming her on THIS sheet specifically.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img76/11.jpg",
+   "source_px": [
+    927,
+    1312
+   ],
+   "colors": [
+    "yellow",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "advertising poster"
+    },
+    {
+     "k": "designer",
+     "v": "Rosmarie Tissi"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
+     "k": "client",
+     "v": "Kuhn AG"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, which grows its own lettering: tufts of grass are cut into the shape of letters on a pale yellow ground, with German, French and Italian body copy at the foot and 'BEGRÜNUNGEN KUHN AG' — a Swiss landscaping firm — as the client line. ⚠️ NO YEAR IS PRINTED OR ESTABLISHED. ⚠️ THE ATTRIBUTION IS THE PORTFOLIO'S, NOT THIS SHEET'S. The file is served from the cargo.site portfolio whose authorship is established by two items in this same batch that Google Lens resolves independently to ROSMARIE TISSI — Serenaden 2002 and the Graphis 241 cover. No outside source was found naming her on THIS sheet specifically.",
+   "hue": 55.04,
+   "light": 0.7487,
+   "chroma": 0.7226,
+   "punch": 0.3065
+  },
+  "sent-2026-09-09f::39c6356a6205": {
+   "id": "CRVI002862",
+   "minted": "2026-09-09",
+   "original_file": "originals/CRVI002862.jpg",
+   "original_px": [
+    2739,
+    3400
+   ],
+   "original_bytes": 7452426,
+   "identity": "sent-2026-09-09f::39c6356a6205",
+   "source_url": "https://freight.cargo.site/i/a65dfa8bfe6c627e6f02145ffc28fcdb6bc80901131cccbaf2a4616df6560bb1/Graphis241_1.jpg",
+   "maker": "Rosmarie Tissi",
+   "title": "Graphis 241",
+   "subtitle": "",
+   "year": "1986",
+   "label": "",
+   "verified_against": "GOOGLE LENS RESOLVES THIS ONE INDEPENDENTLY: the cover of GRAPHIS magazine issue 241, January/February 1986, designed by ROSMARIE TISSI. GRAPHIS is drawn as ribboned three-dimensional letters tumbling down a diagonal of yellow lattice, blue sky above and violet below, with 'graphis 241' set small at the foot and 'N° 241' up the spine edge. ℹ️ The second of the two items that establish the portfolio's authorship. ⚠️ Graphis here is the CLIENT, not the maker.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img76/12.jpg",
+   "source_px": [
+    2739,
+    3400
+   ],
+   "colors": [
+    "blue",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "designer",
+     "v": "Rosmarie Tissi"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
+     "k": "client",
+     "v": "Graphis"
+    },
+    {
+     "k": "art director",
+     "v": "Walter Herdeg"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "GOOGLE LENS RESOLVES THIS ONE INDEPENDENTLY: the cover of GRAPHIS magazine issue 241, January/February 1986, designed by ROSMARIE TISSI. GRAPHIS is drawn as ribboned three-dimensional letters tumbling down a diagonal of yellow lattice, blue sky above and violet below, with 'graphis 241' set small at the foot and 'N° 241' up the spine edge. ℹ️ The second of the two items that establish the portfolio's authorship. ⚠️ Graphis here is the CLIENT, not the maker.",
+   "hue": 225.48,
+   "light": 0.7306,
+   "chroma": 0.8035,
+   "punch": 0.2415
+  },
+  "sent-2026-09-09f::f8984c24adee": {
+   "id": "CRVI002863",
+   "minted": "2026-09-09",
+   "original_file": "originals/CRVI002863.jpg",
+   "original_px": [
+    880,
+    1382
+   ],
+   "original_bytes": 1775864,
+   "identity": "sent-2026-09-09f::f8984c24adee",
+   "source_url": "https://freight.cargo.site/i/119f6ca9419d063b8ccef320bb237438505cfa5cf6b7abe2b0b7bdebf848ee37/Ad_Tips_2.jpg",
+   "maker": "Rosmarie Tissi",
+   "title": "Tips",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "THE SHEET ITSELF, which sets TIPS on blue in two weights and two directions — a huge roman S laid on its side against lighter capitals — above a column of Dutch body copy beginning 'Sugesstiefs...' and asking what a tip is. ⚠️ THE LANGUAGE IS DUTCH, WHICH SITS ODDLY WITH A ZURICH PORTFOLIO, and neither the client nor the year is established. ⚠️ THE ATTRIBUTION IS THE PORTFOLIO'S, NOT THIS SHEET'S. The file is served from the cargo.site portfolio whose authorship is established by two items in this same batch that Google Lens resolves independently to ROSMARIE TISSI — Serenaden 2002 and the Graphis 241 cover. No outside source was found naming her on THIS sheet specifically.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img76/13.jpg",
+   "source_px": [
+    880,
+    1382
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "advertisement"
+    },
+    {
+     "k": "designer",
+     "v": "Rosmarie Tissi"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
+     "k": "subject",
+     "v": "typography"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SHEET ITSELF, which sets TIPS on blue in two weights and two directions — a huge roman S laid on its side against lighter capitals — above a column of Dutch body copy beginning 'Sugesstiefs...' and asking what a tip is. ⚠️ THE LANGUAGE IS DUTCH, WHICH SITS ODDLY WITH A ZURICH PORTFOLIO, and neither the client nor the year is established. ⚠️ THE ATTRIBUTION IS THE PORTFOLIO'S, NOT THIS SHEET'S. The file is served from the cargo.site portfolio whose authorship is established by two items in this same batch that Google Lens resolves independently to ROSMARIE TISSI — Serenaden 2002 and the Graphis 241 cover. No outside source was found naming her on THIS sheet specifically.",
+   "hue": 207.07,
+   "light": 0.4155,
+   "chroma": 0.8552,
+   "punch": 0.4071
   }
  }
 }
