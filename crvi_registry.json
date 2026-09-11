@@ -1,5 +1,5 @@
 {
- "next": 3061,
+ "next": 3066,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -181689,6 +181689,278 @@
    "light": 0.3843,
    "chroma": 0.729,
    "punch": 0.2212
+  },
+  "rescue-2026-09-11::30f68fb10c98": {
+   "id": "CRVI003061",
+   "minted": "2026-09-11",
+   "original_file": "originals/CRVI003061.jpg",
+   "original_px": [
+    1737,
+    2000
+   ],
+   "original_bytes": 379189,
+   "identity": "rescue-2026-09-11::30f68fb10c98",
+   "source_url": "https://garthgreenan.com/wp-content/uploads/2026/08/HASPP002-hi-res.jpg",
+   "maker": "Sadao Hasegawa",
+   "title": "untitled",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "Published by GARTH GREENAN GALLERY, which announced its representation of the Sadao Hasegawa estate in November 2025; the file is `HASPP002-hi-res`. ⚠️ THE TITLE AND YEAR ARE NOT ESTABLISHED — the gallery's page lists images and captions in separate blocks, so tying this file to one of its captions would be guesswork. ℹ️ Todd sent the 1024x1179 derivative; this is the full 1737x2000 file from the same base name.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img81/01.jpg",
+   "source_px": [
+    1737,
+    2000
+   ],
+   "colors": [
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Sadao Hasegawa"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published by GARTH GREENAN GALLERY, which announced its representation of the Sadao Hasegawa estate in November 2025; the file is `HASPP002-hi-res`. ⚠️ THE TITLE AND YEAR ARE NOT ESTABLISHED — the gallery's page lists images and captions in separate blocks, so tying this file to one of its captions would be guesswork. ℹ️ Todd sent the 1024x1179 derivative; this is the full 1737x2000 file from the same base name.",
+   "hue": 44.71,
+   "light": 0.4752,
+   "chroma": 0.1413,
+   "punch": 0.0437
+  },
+  "rescue-2026-09-11::ea5f56b77b4f": {
+   "id": "CRVI003062",
+   "minted": "2026-09-11",
+   "original_file": "originals/CRVI003062.jpg",
+   "original_px": [
+    1474,
+    2000
+   ],
+   "original_bytes": 351595,
+   "identity": "rescue-2026-09-11::ea5f56b77b4f",
+   "source_url": "https://garthgreenan.com/wp-content/uploads/2026/08/HASPP040-hi-res.jpg",
+   "maker": "Sadao Hasegawa",
+   "title": "untitled",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "Published by GARTH GREENAN GALLERY, the estate's gallery; the file is `HASPP040-hi-res`. ⚠️ TITLE AND YEAR NOT ESTABLISHED, for the same reason. ℹ️ Todd sent the 1024x1389 derivative; this is the full 1474x2000 file.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img81/02.jpg",
+   "source_px": [
+    1474,
+    2000
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Sadao Hasegawa"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published by GARTH GREENAN GALLERY, the estate's gallery; the file is `HASPP040-hi-res`. ⚠️ TITLE AND YEAR NOT ESTABLISHED, for the same reason. ℹ️ Todd sent the 1024x1389 derivative; this is the full 1474x2000 file.",
+   "hue": 45.0,
+   "light": 0.8029,
+   "chroma": 0.6738,
+   "punch": 0.1118
+  },
+  "rescue-2026-09-11::45a565b37818": {
+   "id": "CRVI003063",
+   "minted": "2026-09-11",
+   "original_file": "originals/CRVI003063.jpg",
+   "original_px": [
+    1000,
+    1500
+   ],
+   "original_bytes": 506874,
+   "identity": "rescue-2026-09-11::45a565b37818",
+   "source_url": "https://elephant.art/wp-content/uploads/2017/08/FORTIA-KEYEZUA-1082017.jpg",
+   "maker": "Keyezua",
+   "title": "Fortia",
+   "subtitle": "",
+   "year": "2017",
+   "label": "",
+   "verified_against": "TODD SUPPLIED THE SOURCE: elephant.art's 'An Elephant in Luanda', where the file is named `FORTIA-KEYEZUA-1082017` — the work, the artist and August 2017. A figure in a long scarlet dress lies across orange rock, the head replaced by a tall striped column. ℹ️ *Fortia* is Keyezua's series made with Angolan mask-makers, several of them disabled men, after her father's death. ⚠️ THIS RESOLVES BATCH 78 #35, which was a 452x678 Google thumbnail proxy; at 1000x1500 the real file clears the floor.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img81/03.jpg",
+   "source_px": [
+    1000,
+    1500
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "artist",
+     "v": "Keyezua"
+    },
+    {
+     "k": "subject",
+     "v": "photography"
+    },
+    {
+     "k": "location",
+     "v": "Angola"
+    },
+    {
+     "k": "location",
+     "v": "Netherlands"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "TODD SUPPLIED THE SOURCE: elephant.art's 'An Elephant in Luanda', where the file is named `FORTIA-KEYEZUA-1082017` — the work, the artist and August 2017. A figure in a long scarlet dress lies across orange rock, the head replaced by a tall striped column. ℹ️ *Fortia* is Keyezua's series made with Angolan mask-makers, several of them disabled men, after her father's death. ⚠️ THIS RESOLVES BATCH 78 #35, which was a 452x678 Google thumbnail proxy; at 1000x1500 the real file clears the floor.",
+   "hue": 34.41,
+   "light": 0.4711,
+   "chroma": 0.9946,
+   "punch": 0.5054
+  },
+  "rescue-2026-09-11::2e026d61635c": {
+   "id": "CRVI003064",
+   "minted": "2026-09-11",
+   "original_file": "originals/CRVI003064.jpg",
+   "original_px": [
+    2346,
+    2455
+   ],
+   "original_bytes": 2012393,
+   "identity": "rescue-2026-09-11::2e026d61635c",
+   "source_url": "https://d32dm0rphc51dk.cloudfront.net/cNQUZEH_BAWrVZOk6o3lbQ/normalized.jpg",
+   "maker": "Robert Goodnough",
+   "title": "Abstract 2",
+   "subtitle": "",
+   "year": "1982",
+   "label": "",
+   "verified_against": "GOOGLE LENS resolves this, via Artsy, to 'Abstract 2' (1982) by ROBERT GOODNOUGH (1917-2010). A dense cloud of red, blue, black and white strokes gathers at the centre of a cream ground and drips at the foot. ⚠️ BATCH 78 DROPPED THIS FOR WANT OF A MAKER; it was Todd naming a much smaller picture — a 512x390 proxy of Goodnough's *Colors on Gray Orange* — that made the connection findable. ℹ️ Held at 2346x2455 from Artsy's `/normalized.jpg`, which is larger than its `/larger.jpg`.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img81/04.jpg",
+   "source_px": [
+    2346,
+    2455
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "artist",
+     "v": "Robert Goodnough"
+    },
+    {
+     "k": "subject",
+     "v": "Abstract Expressionism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "GOOGLE LENS resolves this, via Artsy, to 'Abstract 2' (1982) by ROBERT GOODNOUGH (1917-2010). A dense cloud of red, blue, black and white strokes gathers at the centre of a cream ground and drips at the foot. ⚠️ BATCH 78 DROPPED THIS FOR WANT OF A MAKER; it was Todd naming a much smaller picture — a 512x390 proxy of Goodnough's *Colors on Gray Orange* — that made the connection findable. ℹ️ Held at 2346x2455 from Artsy's `/normalized.jpg`, which is larger than its `/larger.jpg`.",
+   "hue": 35.93,
+   "light": 0.5708,
+   "chroma": 0.7802,
+   "punch": 0.1965
+  },
+  "rescue-2026-09-11::217574c47e1c": {
+   "id": "CRVI003065",
+   "minted": "2026-09-11",
+   "original_file": "originals/CRVI003065.jpg",
+   "original_px": [
+    2000,
+    1173
+   ],
+   "original_bytes": 549485,
+   "identity": "rescue-2026-09-11::217574c47e1c",
+   "source_url": "https://s1.img.bidsquare.com/item/xl/3226/32264393.jpeg",
+   "maker": "Robert Goodnough",
+   "title": "Movement Abstract",
+   "subtitle": "",
+   "year": "1989",
+   "label": "",
+   "verified_against": "GOOGLE LENS resolves this, via DuMouchelles, to 'Movement Abstract', oil and acrylic on canvas, 1989, by ROBERT GOODNOUGH. Angular shards of red, blue, green, yellow and black pile into a drift across cream, tied together with a looping black line. ⚠️ ALSO DROPPED FROM BATCH 78 for want of a maker, and recovered by the same identification.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img81/05.jpg",
+   "source_px": [
+    2000,
+    1173
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "artist",
+     "v": "Robert Goodnough"
+    },
+    {
+     "k": "subject",
+     "v": "Abstract Expressionism"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "GOOGLE LENS resolves this, via DuMouchelles, to 'Movement Abstract', oil and acrylic on canvas, 1989, by ROBERT GOODNOUGH. Angular shards of red, blue, green, yellow and black pile into a drift across cream, tied together with a looping black line. ⚠️ ALSO DROPPED FROM BATCH 78 for want of a maker, and recovered by the same identification.",
+   "hue": 39.15,
+   "light": 0.6154,
+   "chroma": 0.6666,
+   "punch": 0.1695
   }
  }
 }
