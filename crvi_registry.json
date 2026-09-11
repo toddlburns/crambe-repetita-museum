@@ -1,5 +1,5 @@
 {
- "next": 3047,
+ "next": 3061,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -180964,6 +180964,731 @@
    "light": 0.5641,
    "chroma": 0.7497,
    "punch": 0.4134
+  },
+  "batch80-2026-09-10::8a5e3a6966bb": {
+   "id": "CRVI003047",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI003047.jpg",
+   "original_px": [
+    4218,
+    5274
+   ],
+   "original_bytes": 12432805,
+   "identity": "batch80-2026-09-10::8a5e3a6966bb",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Hodler_-_Blick_ins_Unendliche_1903-06.jpeg",
+   "maker": "Ferdinand Hodler",
+   "title": "Blick ins Unendliche",
+   "subtitle": "",
+   "year": "1903",
+   "label": "",
+   "verified_against": "MATCHED BY IMAGE against Wikimedia Commons at d=0.268 — 'Hodler - Blick ins Unendliche 1903-06'. A nude stands on a rocky summit above a floor of cloud, distant peaks breaking through. ⚠️ THE LINK TODD SENT WAS A 494x621 GOOGLE THUMBNAIL PROXY; this is Commons' 4218x5274 file of the same painting, found by hashing the proxy against 673 Hodler files. ℹ️ The work is dated 1903-06; 1903 is recorded.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img80/01.jpg",
+   "source_px": [
+    4218,
+    5274
+   ],
+   "colors": [
+    "orange",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "artist",
+     "v": "Ferdinand Hodler"
+    },
+    {
+     "k": "subject",
+     "v": "Symbolism"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "MATCHED BY IMAGE against Wikimedia Commons at d=0.268 — 'Hodler - Blick ins Unendliche 1903-06'. A nude stands on a rocky summit above a floor of cloud, distant peaks breaking through. ⚠️ THE LINK TODD SENT WAS A 494x621 GOOGLE THUMBNAIL PROXY; this is Commons' 4218x5274 file of the same painting, found by hashing the proxy against 673 Hodler files. ℹ️ The work is dated 1903-06; 1903 is recorded.",
+   "hue": 16.23,
+   "light": 0.7028,
+   "chroma": 0.3586,
+   "punch": 0.0921
+  },
+  "batch80-2026-09-10::238b460013b0": {
+   "id": "CRVI003048",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI003048.jpg",
+   "original_px": [
+    2035,
+    3880
+   ],
+   "original_bytes": 1966755,
+   "identity": "batch80-2026-09-10::238b460013b0",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/The_Dream_of_the_Shepherd_%28Der_Traum_des_Hirten%29_MET_DP318843.jpg",
+   "maker": "Ferdinand Hodler",
+   "title": "Der Traum des Hirten",
+   "subtitle": "",
+   "year": "1896",
+   "label": "",
+   "verified_against": "The Metropolitan Museum's own file, named 'The Dream of the Shepherd (Der Traum des Hirten) MET DP318843'. A shepherd kneels among stones while a frieze of nudes advances across the sky above him. ℹ️ THE MET FILE NAMES THE WORK BUT NOT THE ARTIST, which is why it was dropped from batch 78; a Commons file titled 'Ferdinand hodler, sogno del pastore, 1896' — the same title in Italian — supplies the attribution and the date.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img80/02.jpg",
+   "source_px": [
+    2035,
+    3880
+   ],
+   "colors": [
+    "orange",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1890s"
+    },
+    {
+     "k": "artist",
+     "v": "Ferdinand Hodler"
+    },
+    {
+     "k": "subject",
+     "v": "Symbolism"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Metropolitan Museum's own file, named 'The Dream of the Shepherd (Der Traum des Hirten) MET DP318843'. A shepherd kneels among stones while a frieze of nudes advances across the sky above him. ℹ️ THE MET FILE NAMES THE WORK BUT NOT THE ARTIST, which is why it was dropped from batch 78; a Commons file titled 'Ferdinand hodler, sogno del pastore, 1896' — the same title in Italian — supplies the attribution and the date.",
+   "hue": 20.41,
+   "light": 0.6184,
+   "chroma": 0.479,
+   "punch": 0.1182
+  },
+  "batch80-2026-09-10::3613548ee738": {
+   "id": "CRVI003049",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI003049.jpg",
+   "original_px": [
+    1000,
+    2351
+   ],
+   "original_bytes": 250644,
+   "identity": "batch80-2026-09-10::3613548ee738",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Ferdinand_Hodler_006.jpg",
+   "maker": "Ferdinand Hodler",
+   "title": "painting",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "MATCHED BY IMAGE against Wikimedia Commons at d=0.021 — essentially exact — to 'Ferdinand Hodler 006.jpg'. A man in a long black coat and pink shirt twists away, arm raised across his face, three small dark figures ranged above him. ⚠️ THE COMMONS FILE IS NUMBERED, NOT TITLED, so neither the title nor the year is established; the title above is descriptive. ⚠️ The link Todd sent was a 362x846 proxy; this is the 1000x2351 file.",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img80/03.jpg",
+   "source_px": [
+    1000,
+    2351
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Ferdinand Hodler"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "MATCHED BY IMAGE against Wikimedia Commons at d=0.021 — essentially exact — to 'Ferdinand Hodler 006.jpg'. A man in a long black coat and pink shirt twists away, arm raised across his face, three small dark figures ranged above him. ⚠️ THE COMMONS FILE IS NUMBERED, NOT TITLED, so neither the title nor the year is established; the title above is descriptive. ⚠️ The link Todd sent was a 362x846 proxy; this is the 1000x2351 file.",
+   "hue": null,
+   "light": 0.526,
+   "chroma": 0.087,
+   "punch": 0.0624
+  },
+  "batch80-2026-09-10::01d3ff9f548a": {
+   "id": "CRVI003050",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI003050.jpg",
+   "original_px": [
+    1576,
+    1181
+   ],
+   "original_bytes": 1144275,
+   "identity": "batch80-2026-09-10::01d3ff9f548a",
+   "source_url": "https://uploads4.wikiart.org/images/louise-bourgeois/the-destruction-of-the-father-1974.jpg",
+   "maker": "Louise Bourgeois",
+   "title": "The Destruction of the Father",
+   "subtitle": "",
+   "year": "1974",
+   "label": "",
+   "verified_against": "The source page titles this 'The destruction of the father' — Bourgeois's 1974 environment of bulbous plaster and latex forms lit from within, a devoured figure laid on the table between them. ℹ️ ONE OF THE FEW PICKS WHOSE PAGE TITLE IS ACTUALLY THE WORK'S TITLE rather than a gallery's name. ⚠️ THE ARTIST IS ESTABLISHED — the image was harvested under this name and passed the relevance and occupation filters — but the WORK was read off the picture, because a contact sheet carries the source PAGE's title, not the artwork's. Source page: https://www.wikiart.org/en/louise-bourgeois",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img80/04.jpg",
+   "source_px": [
+    1576,
+    1181
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "installation"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "artist",
+     "v": "Louise Bourgeois"
+    },
+    {
+     "k": "subject",
+     "v": "sculpture"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The source page titles this 'The destruction of the father' — Bourgeois's 1974 environment of bulbous plaster and latex forms lit from within, a devoured figure laid on the table between them. ℹ️ ONE OF THE FEW PICKS WHOSE PAGE TITLE IS ACTUALLY THE WORK'S TITLE rather than a gallery's name. ⚠️ THE ARTIST IS ESTABLISHED — the image was harvested under this name and passed the relevance and occupation filters — but the WORK was read off the picture, because a contact sheet carries the source PAGE's title, not the artwork's. Source page: https://www.wikiart.org/en/louise-bourgeois",
+   "hue": 26.88,
+   "light": 0.2288,
+   "chroma": 0.5667,
+   "punch": 0.2931
+  },
+  "batch80-2026-09-10::fb2e9bf1e06c": {
+   "id": "CRVI003051",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI003051.jpg",
+   "original_px": [
+    1800,
+    2119
+   ],
+   "original_bytes": 672245,
+   "identity": "batch80-2026-09-10::fb2e9bf1e06c",
+   "source_url": "https://uploads7.wikiart.org/images/louise-bourgeois/partial-recall-1979.jpg",
+   "maker": "Louise Bourgeois",
+   "title": "Partial Recall",
+   "subtitle": "",
+   "year": "1979",
+   "label": "",
+   "verified_against": "The source page titles this 'Partial Recall' — a stepped white timber construction of stacked, rounded boards photographed in black and white. ⚠️ THE ARTIST IS ESTABLISHED — the image was harvested under this name and passed the relevance and occupation filters — but the WORK was read off the picture, because a contact sheet carries the source PAGE's title, not the artwork's. Source page: https://www.wikiart.org/en/louise-bourgeois",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img80/05.jpg",
+   "source_px": [
+    1800,
+    2119
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "artist",
+     "v": "Louise Bourgeois"
+    },
+    {
+     "k": "subject",
+     "v": "sculpture"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The source page titles this 'Partial Recall' — a stepped white timber construction of stacked, rounded boards photographed in black and white. ⚠️ THE ARTIST IS ESTABLISHED — the image was harvested under this name and passed the relevance and occupation filters — but the WORK was read off the picture, because a contact sheet carries the source PAGE's title, not the artwork's. Source page: https://www.wikiart.org/en/louise-bourgeois",
+   "hue": null,
+   "light": 0.6526,
+   "chroma": 0.0,
+   "punch": 0.0
+  },
+  "batch80-2026-09-10::ef8e2f6d9ec0": {
+   "id": "CRVI003052",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI003052.jpg",
+   "original_px": [
+    2400,
+    1716
+   ],
+   "original_bytes": 1446135,
+   "identity": "batch80-2026-09-10::ef8e2f6d9ec0",
+   "source_url": "https://gagosian.com/media/images/artists/sarah-sze/S1q3iQoRQ_F0_2340x1316.jpg",
+   "maker": "Sarah Sze",
+   "title": "untitled",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "⚠️ THE PAGE TITLE IS 'Sarah Sze | Gagosian' — the gallery, not the work — so NEITHER TITLE NOR YEAR IS ESTABLISHED. A vortex of projected colour and printed fragments spirals across a wall and floor. ⚠️ THE ARTIST IS ESTABLISHED — the image was harvested under this name and passed the relevance and occupation filters — but the WORK was read off the picture, because a contact sheet carries the source PAGE's title, not the artwork's. Source page: https://gagosian.com/artists/sarah-sze/",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img80/06.jpg",
+   "source_px": [
+    2400,
+    1716
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "installation"
+    },
+    {
+     "k": "artist",
+     "v": "Sarah Sze"
+    },
+    {
+     "k": "subject",
+     "v": "sculpture"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ THE PAGE TITLE IS 'Sarah Sze | Gagosian' — the gallery, not the work — so NEITHER TITLE NOR YEAR IS ESTABLISHED. A vortex of projected colour and printed fragments spirals across a wall and floor. ⚠️ THE ARTIST IS ESTABLISHED — the image was harvested under this name and passed the relevance and occupation filters — but the WORK was read off the picture, because a contact sheet carries the source PAGE's title, not the artwork's. Source page: https://gagosian.com/artists/sarah-sze/",
+   "hue": 203.42,
+   "light": 0.5732,
+   "chroma": 0.5862,
+   "punch": 0.2064
+  },
+  "batch80-2026-09-10::cb8f261cfa7b": {
+   "id": "CRVI003053",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI003053.jpg",
+   "original_px": [
+    800,
+    1047
+   ],
+   "original_bytes": 187399,
+   "identity": "batch80-2026-09-10::cb8f261cfa7b",
+   "source_url": "https://artlogic-res.cloudinary.com/w_1600,h_1600,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/tanyabonakdargallery/images/view/4d9eefeb2a45c42d54b3d4c8991c1637j/tanyabonakdargallery-sarah-sze-the-art-of-losing-2004.jpg",
+   "maker": "Sarah Sze",
+   "title": "untitled",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "⚠️ THE PAGE TITLE IS 'Sarah Sze | Tanya Bonakdar Gallery' — the gallery, not the work. A fine white armature of rods, ladders and suspended objects is built into a blue-washed corner. ⚠️ THE ARTIST IS ESTABLISHED — the image was harvested under this name and passed the relevance and occupation filters — but the WORK was read off the picture, because a contact sheet carries the source PAGE's title, not the artwork's. Source page: https://www.tanyabonakdargallery.com/artists/62-sarah-sze/",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img80/07.jpg",
+   "source_px": [
+    800,
+    1047
+   ],
+   "colors": [
+    "blue",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Sarah Sze"
+    },
+    {
+     "k": "subject",
+     "v": "sculpture"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ THE PAGE TITLE IS 'Sarah Sze | Tanya Bonakdar Gallery' — the gallery, not the work. A fine white armature of rods, ladders and suspended objects is built into a blue-washed corner. ⚠️ THE ARTIST IS ESTABLISHED — the image was harvested under this name and passed the relevance and occupation filters — but the WORK was read off the picture, because a contact sheet carries the source PAGE's title, not the artwork's. Source page: https://www.tanyabonakdargallery.com/artists/62-sarah-sze/",
+   "hue": 202.84,
+   "light": 0.5236,
+   "chroma": 0.9931,
+   "punch": 0.4361
+  },
+  "batch80-2026-09-10::bc54e0245cd8": {
+   "id": "CRVI003054",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI003054.jpg",
+   "original_px": [
+    1600,
+    1067
+   ],
+   "original_bytes": 385464,
+   "identity": "batch80-2026-09-10::bc54e0245cd8",
+   "source_url": "https://cdn.britannica.com/40/263040-050-CA64C045/A-visitor-looks-on-at-art-work-by-American-artist-Sheila-Hicks-at-the-Pompidou-Center-in-Paris-France-on-April-7-2018-Textiles-Fiber-arts-Textile-art-Fabric-Art-Contemporary.jpg",
+   "maker": "Sheila Hicks",
+   "title": "untitled",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "⚠️ THE PAGE TITLE IS a Britannica biography headline, not a work title. A wall-high heap of soft fibre boulders in coral, apricot and lemon fills a gallery, a child standing at its foot for scale. ⚠️ THE ARTIST IS ESTABLISHED — the image was harvested under this name and passed the relevance and occupation filters — but the WORK was read off the picture, because a contact sheet carries the source PAGE's title, not the artwork's. Source page: https://www.britannica.com/biography/Sheila-Hicks",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img80/08.jpg",
+   "source_px": [
+    1600,
+    1067
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "installation"
+    },
+    {
+     "k": "artist",
+     "v": "Sheila Hicks"
+    },
+    {
+     "k": "subject",
+     "v": "sculpture"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ THE PAGE TITLE IS a Britannica biography headline, not a work title. A wall-high heap of soft fibre boulders in coral, apricot and lemon fills a gallery, a child standing at its foot for scale. ⚠️ THE ARTIST IS ESTABLISHED — the image was harvested under this name and passed the relevance and occupation filters — but the WORK was read off the picture, because a contact sheet carries the source PAGE's title, not the artwork's. Source page: https://www.britannica.com/biography/Sheila-Hicks",
+   "hue": 14.33,
+   "light": 0.5364,
+   "chroma": 0.8818,
+   "punch": 0.4375
+  },
+  "batch80-2026-09-10::90f0e2aa5e41": {
+   "id": "CRVI003055",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI003055.jpg",
+   "original_px": [
+    818,
+    1052
+   ],
+   "original_bytes": 140669,
+   "identity": "batch80-2026-09-10::90f0e2aa5e41",
+   "source_url": "https://i.pinimg.com/originals/eb/78/b2/eb78b2112fc15ed78dc6286bb215b6b7.jpg",
+   "maker": "Sheila Hicks",
+   "title": "untitled",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "⚠️ THE SOURCE IS PINTEREST, which re-hosts other people's photographs without credit: the ARTIST is certain but the photograph's author is NOT established. Columns of knotted fibre in rainbow colours fall from a dark ceiling onto piles of coloured bundles. ⚠️ THE ARTIST IS ESTABLISHED — the image was harvested under this name and passed the relevance and occupation filters — but the WORK was read off the picture, because a contact sheet carries the source PAGE's title, not the artwork's. Source page: https://www.pinterest.com/pin/sheila-hicks-knots-colorful-fiber-bundles-for-seance-at-design-miami-basel--4357",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img80/09.jpg",
+   "source_px": [
+    818,
+    1052
+   ],
+   "colors": [
+    "orange",
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "installation"
+    },
+    {
+     "k": "artist",
+     "v": "Sheila Hicks"
+    },
+    {
+     "k": "subject",
+     "v": "sculpture"
+    },
+    {
+     "k": "subject",
+     "v": "re-hosted source"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ THE SOURCE IS PINTEREST, which re-hosts other people's photographs without credit: the ARTIST is certain but the photograph's author is NOT established. Columns of knotted fibre in rainbow colours fall from a dark ceiling onto piles of coloured bundles. ⚠️ THE ARTIST IS ESTABLISHED — the image was harvested under this name and passed the relevance and occupation filters — but the WORK was read off the picture, because a contact sheet carries the source PAGE's title, not the artwork's. Source page: https://www.pinterest.com/pin/sheila-hicks-knots-colorful-fiber-bundles-for-seance-at-design-miami-basel--4357",
+   "hue": 16.11,
+   "light": 0.1475,
+   "chroma": 0.3798,
+   "punch": 0.1489
+  },
+  "batch80-2026-09-10::86c73fdd1323": {
+   "id": "CRVI003056",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI003056.jpg",
+   "original_px": [
+    1280,
+    919
+   ],
+   "original_bytes": 209681,
+   "identity": "batch80-2026-09-10::86c73fdd1323",
+   "source_url": "https://i.pinimg.com/originals/46/32/04/46320458c602eff2357cba27c04735d2.jpg",
+   "maker": "Agnes Denes",
+   "title": "Tree Mountain — A Living Time Capsule",
+   "subtitle": "",
+   "year": "1992",
+   "label": "",
+   "verified_against": "The source page titles this 'Agnes Denes: Tree Mountain — A Living Time Capsule (1996), Finland'. ⚠️ THE FILE IS A COMPOSITE OF TWO PICTURES — Denes's mathematical planting diagram above, an aerial photograph of the finished mountain below — not a single work. ⚠️ THE SOURCE IS PINTEREST. ℹ️ The project ran 1992-96; 1992 is recorded as its start. ⚠️ THE ARTIST IS ESTABLISHED — the image was harvested under this name and passed the relevance and occupation filters — but the WORK was read off the picture, because a contact sheet carries the source PAGE's title, not the artwork's. Source page: https://www.pinterest.com/pin/332351647487766610/",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img80/10.jpg",
+   "source_px": [
+    1280,
+    919
+   ],
+   "colors": [
+    "yellow",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "land art"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "artist",
+     "v": "Agnes Denes"
+    },
+    {
+     "k": "subject",
+     "v": "sculpture"
+    },
+    {
+     "k": "subject",
+     "v": "re-hosted source"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The source page titles this 'Agnes Denes: Tree Mountain — A Living Time Capsule (1996), Finland'. ⚠️ THE FILE IS A COMPOSITE OF TWO PICTURES — Denes's mathematical planting diagram above, an aerial photograph of the finished mountain below — not a single work. ⚠️ THE SOURCE IS PINTEREST. ℹ️ The project ran 1992-96; 1992 is recorded as its start. ⚠️ THE ARTIST IS ESTABLISHED — the image was harvested under this name and passed the relevance and occupation filters — but the WORK was read off the picture, because a contact sheet carries the source PAGE's title, not the artwork's. Source page: https://www.pinterest.com/pin/332351647487766610/",
+   "hue": 214.7,
+   "light": 0.7091,
+   "chroma": 0.3017,
+   "punch": 0.0935
+  },
+  "batch80-2026-09-10::98e227ff3fea": {
+   "id": "CRVI003057",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI003057.jpg",
+   "original_px": [
+    1500,
+    1000
+   ],
+   "original_bytes": 1409399,
+   "identity": "batch80-2026-09-10::98e227ff3fea",
+   "source_url": "https://sculpturemagazine.art/wp-content/uploads/2019/08/rev-17-6.jpg",
+   "maker": "Paola Pivi",
+   "title": "untitled",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "⚠️ THE PAGE TITLE IS 'Paola Pivi - Sculpture', a category, not a work. Bears covered in dyed feathers — magenta, green, blue, red — stand and sprawl through a white gallery. ⚠️ THE ARTIST IS ESTABLISHED — the image was harvested under this name and passed the relevance and occupation filters — but the WORK was read off the picture, because a contact sheet carries the source PAGE's title, not the artwork's. Source page: https://sculpturemagazine.art/paola-pivi/",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img80/11.jpg",
+   "source_px": [
+    1500,
+    1000
+   ],
+   "colors": [
+    "pink",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "installation"
+    },
+    {
+     "k": "artist",
+     "v": "Paola Pivi"
+    },
+    {
+     "k": "subject",
+     "v": "sculpture"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ THE PAGE TITLE IS 'Paola Pivi - Sculpture', a category, not a work. Bears covered in dyed feathers — magenta, green, blue, red — stand and sprawl through a white gallery. ⚠️ THE ARTIST IS ESTABLISHED — the image was harvested under this name and passed the relevance and occupation filters — but the WORK was read off the picture, because a contact sheet carries the source PAGE's title, not the artwork's. Source page: https://sculpturemagazine.art/paola-pivi/",
+   "hue": 306.73,
+   "light": 0.6722,
+   "chroma": 0.5519,
+   "punch": 0.2477
+  },
+  "batch80-2026-09-10::31d2f4d36dad": {
+   "id": "CRVI003058",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI003058.jpg",
+   "original_px": [
+    3000,
+    2000
+   ],
+   "original_bytes": 467654,
+   "identity": "batch80-2026-09-10::31d2f4d36dad",
+   "source_url": "https://i.pinimg.com/originals/be/ba/b4/bebab4b294b93c04f98dccb5fe27861b.jpg",
+   "maker": "Paola Pivi",
+   "title": "untitled",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "⚠️ THE SOURCE IS PINTEREST and the page title is a review headline. Feathered bears in orange, pink, red and green climb the walls and lie on the floor of a white room. ⚠️ THE ARTIST IS ESTABLISHED — the image was harvested under this name and passed the relevance and occupation filters — but the WORK was read off the picture, because a contact sheet carries the source PAGE's title, not the artwork's. Source page: https://www.pinterest.com/pin/paola-pivis-transporting-exhibition-is-a-whimsical-comment-on-dark-realities--53",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img80/12.jpg",
+   "source_px": [
+    3000,
+    2000
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "installation"
+    },
+    {
+     "k": "artist",
+     "v": "Paola Pivi"
+    },
+    {
+     "k": "subject",
+     "v": "sculpture"
+    },
+    {
+     "k": "subject",
+     "v": "re-hosted source"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ THE SOURCE IS PINTEREST and the page title is a review headline. Feathered bears in orange, pink, red and green climb the walls and lie on the floor of a white room. ⚠️ THE ARTIST IS ESTABLISHED — the image was harvested under this name and passed the relevance and occupation filters — but the WORK was read off the picture, because a contact sheet carries the source PAGE's title, not the artwork's. Source page: https://www.pinterest.com/pin/paola-pivis-transporting-exhibition-is-a-whimsical-comment-on-dark-realities--53",
+   "hue": 26.39,
+   "light": 0.6173,
+   "chroma": 0.2934,
+   "punch": 0.1661
+  },
+  "batch80-2026-09-10::7d7be2562d0c": {
+   "id": "CRVI003059",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI003059.jpg",
+   "original_px": [
+    819,
+    1024
+   ],
+   "original_bytes": 61685,
+   "identity": "batch80-2026-09-10::7d7be2562d0c",
+   "source_url": "https://thebass.org/wp-content/uploads/2018/10/16_818_3807-819x1024.jpg",
+   "maker": "Paola Pivi",
+   "title": "untitled",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "⚠️ THE PAGE TITLE IS '» Art with a view', a blog headline, not a work title. A single bear in scarlet feathers is fixed to a white wall, one paw raised. ⚠️ THE ARTIST IS ESTABLISHED — the image was harvested under this name and passed the relevance and occupation filters — but the WORK was read off the picture, because a contact sheet carries the source PAGE's title, not the artwork's. Source page: https://thebass.org/art/paola-pivi/",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img80/13.jpg",
+   "source_px": [
+    819,
+    1024
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Paola Pivi"
+    },
+    {
+     "k": "subject",
+     "v": "sculpture"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ THE PAGE TITLE IS '» Art with a view', a blog headline, not a work title. A single bear in scarlet feathers is fixed to a white wall, one paw raised. ⚠️ THE ARTIST IS ESTABLISHED — the image was harvested under this name and passed the relevance and occupation filters — but the WORK was read off the picture, because a contact sheet carries the source PAGE's title, not the artwork's. Source page: https://thebass.org/art/paola-pivi/",
+   "hue": 355.51,
+   "light": 0.6695,
+   "chroma": 0.3139,
+   "punch": 0.165
+  },
+  "batch80-2026-09-10::5c6896264224": {
+   "id": "CRVI003060",
+   "minted": "2026-09-10",
+   "original_file": "originals/CRVI003060.jpg",
+   "original_px": [
+    1013,
+    946
+   ],
+   "original_bytes": 159812,
+   "identity": "batch80-2026-09-10::5c6896264224",
+   "source_url": "https://cdn.culturadvisor.com/app/uploads/2022/12/1-_tl35niPasrTguYbZ8lh0Q.jpeg",
+   "maker": "Nancy Holt",
+   "title": "Sun Tunnels",
+   "subtitle": "",
+   "year": "1973",
+   "label": "",
+   "verified_against": "⚠️ THE PAGE TITLE IS a French article headline — 'NANCY HOLT, L'ARTISTE OUBLIÉE DU LAND ART' — but the work is unmistakable: Holt's SUN TUNNELS, four concrete cylinders in the Great Basin Desert, Utah, aligned on the solstices and pierced with constellation holes. Photographed here with the sun set inside the bore. ℹ️ Built 1973-76; 1973 is recorded as its start. ⚠️ THE ARTIST IS ESTABLISHED — the image was harvested under this name and passed the relevance and occupation filters — but the WORK was read off the picture, because a contact sheet carries the source PAGE's title, not the artwork's. Source page: https://www.culturadvisor.com/2022/12/nancy-holt-lartiste-oubliee-du-land-art/",
+   "notes": [],
+   "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img80/14.jpg",
+   "source_px": [
+    1013,
+    946
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "land art"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "artist",
+     "v": "Nancy Holt"
+    },
+    {
+     "k": "subject",
+     "v": "sculpture"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "⚠️ THE PAGE TITLE IS a French article headline — 'NANCY HOLT, L'ARTISTE OUBLIÉE DU LAND ART' — but the work is unmistakable: Holt's SUN TUNNELS, four concrete cylinders in the Great Basin Desert, Utah, aligned on the solstices and pierced with constellation holes. Photographed here with the sun set inside the bore. ℹ️ Built 1973-76; 1973 is recorded as its start. ⚠️ THE ARTIST IS ESTABLISHED — the image was harvested under this name and passed the relevance and occupation filters — but the WORK was read off the picture, because a contact sheet carries the source PAGE's title, not the artwork's. Source page: https://www.culturadvisor.com/2022/12/nancy-holt-lartiste-oubliee-du-land-art/",
+   "hue": 31.47,
+   "light": 0.3843,
+   "chroma": 0.729,
+   "punch": 0.2212
   }
  }
 }

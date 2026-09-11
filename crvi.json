@@ -161928,6 +161928,702 @@
    "hue": 54.08,
    "light": 0.5641,
    "chroma": 0.7497
+  },
+  {
+   "id": "CRVI003047",
+   "published": true,
+   "minted": "2026-09-10",
+   "punch": 0.0921,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Hodler_-_Blick_ins_Unendliche_1903-06.jpeg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI003047.jpg",
+   "source_label": "",
+   "image": "images/CRVI003047.jpg",
+   "original": "originals/CRVI003047.jpg",
+   "vector": "",
+   "original_px": [
+    4218,
+    5274
+   ],
+   "original_bytes": 12432805,
+   "maker": "Ferdinand Hodler",
+   "title": "Blick ins Unendliche",
+   "subtitle": "",
+   "year": "1903",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
+    },
+    {
+     "k": "artist",
+     "v": "Ferdinand Hodler"
+    },
+    {
+     "k": "subject",
+     "v": "Symbolism"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 16.23,
+   "light": 0.7028,
+   "chroma": 0.3586
+  },
+  {
+   "id": "CRVI003048",
+   "published": true,
+   "minted": "2026-09-10",
+   "punch": 0.1182,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/91/The_Dream_of_the_Shepherd_%28Der_Traum_des_Hirten%29_MET_DP318843.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI003048.jpg",
+   "source_label": "",
+   "image": "images/CRVI003048.jpg",
+   "original": "originals/CRVI003048.jpg",
+   "vector": "",
+   "original_px": [
+    2035,
+    3880
+   ],
+   "original_bytes": 1966755,
+   "maker": "Ferdinand Hodler",
+   "title": "Der Traum des Hirten",
+   "subtitle": "",
+   "year": "1896",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "decade",
+     "v": "1890s"
+    },
+    {
+     "k": "artist",
+     "v": "Ferdinand Hodler"
+    },
+    {
+     "k": "subject",
+     "v": "Symbolism"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 20.41,
+   "light": 0.6184,
+   "chroma": 0.479
+  },
+  {
+   "id": "CRVI003049",
+   "published": true,
+   "minted": "2026-09-10",
+   "punch": 0.0624,
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Ferdinand_Hodler_006.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI003049.jpg",
+   "source_label": "",
+   "image": "images/CRVI003049.jpg",
+   "original": "originals/CRVI003049.jpg",
+   "vector": "",
+   "original_px": [
+    1000,
+    2351
+   ],
+   "original_bytes": 250644,
+   "maker": "Ferdinand Hodler",
+   "title": "painting",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "artist",
+     "v": "Ferdinand Hodler"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": null,
+   "light": 0.526,
+   "chroma": 0.087
+  },
+  {
+   "id": "CRVI003050",
+   "published": true,
+   "minted": "2026-09-10",
+   "punch": 0.2931,
+   "source_url": "https://uploads4.wikiart.org/images/louise-bourgeois/the-destruction-of-the-father-1974.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI003050.jpg",
+   "source_label": "",
+   "image": "images/CRVI003050.jpg",
+   "original": "originals/CRVI003050.jpg",
+   "vector": "",
+   "original_px": [
+    1576,
+    1181
+   ],
+   "original_bytes": 1144275,
+   "maker": "Louise Bourgeois",
+   "title": "The Destruction of the Father",
+   "subtitle": "",
+   "year": "1974",
+   "tags": [
+    {
+     "k": "type",
+     "v": "installation"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "artist",
+     "v": "Louise Bourgeois"
+    },
+    {
+     "k": "subject",
+     "v": "sculpture"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 26.88,
+   "light": 0.2288,
+   "chroma": 0.5667
+  },
+  {
+   "id": "CRVI003051",
+   "published": true,
+   "minted": "2026-09-10",
+   "punch": 0.0,
+   "source_url": "https://uploads7.wikiart.org/images/louise-bourgeois/partial-recall-1979.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI003051.jpg",
+   "source_label": "",
+   "image": "images/CRVI003051.jpg",
+   "original": "originals/CRVI003051.jpg",
+   "vector": "",
+   "original_px": [
+    1800,
+    2119
+   ],
+   "original_bytes": 672245,
+   "maker": "Louise Bourgeois",
+   "title": "Partial Recall",
+   "subtitle": "",
+   "year": "1979",
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "artist",
+     "v": "Louise Bourgeois"
+    },
+    {
+     "k": "subject",
+     "v": "sculpture"
+    },
+    {
+     "k": "color",
+     "v": "neutral"
+    }
+   ],
+   "hue": null,
+   "light": 0.6526,
+   "chroma": 0.0
+  },
+  {
+   "id": "CRVI003052",
+   "published": true,
+   "minted": "2026-09-10",
+   "punch": 0.2064,
+   "source_url": "https://gagosian.com/media/images/artists/sarah-sze/S1q3iQoRQ_F0_2340x1316.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI003052.jpg",
+   "source_label": "",
+   "image": "images/CRVI003052.jpg",
+   "original": "originals/CRVI003052.jpg",
+   "vector": "",
+   "original_px": [
+    2400,
+    1716
+   ],
+   "original_bytes": 1446135,
+   "maker": "Sarah Sze",
+   "title": "untitled",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "installation"
+    },
+    {
+     "k": "artist",
+     "v": "Sarah Sze"
+    },
+    {
+     "k": "subject",
+     "v": "sculpture"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 203.42,
+   "light": 0.5732,
+   "chroma": 0.5862
+  },
+  {
+   "id": "CRVI003053",
+   "published": true,
+   "minted": "2026-09-10",
+   "punch": 0.4361,
+   "source_url": "https://artlogic-res.cloudinary.com/w_1600,h_1600,c_limit,f_auto,fl_lossy,q_auto/artlogicstorage/tanyabonakdargallery/images/view/4d9eefeb2a45c42d54b3d4c8991c1637j/tanyabonakdargallery-sarah-sze-the-art-of-losing-2004.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI003053.jpg",
+   "source_label": "",
+   "image": "images/CRVI003053.jpg",
+   "original": "originals/CRVI003053.jpg",
+   "vector": "",
+   "original_px": [
+    800,
+    1047
+   ],
+   "original_bytes": 187399,
+   "maker": "Sarah Sze",
+   "title": "untitled",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Sarah Sze"
+    },
+    {
+     "k": "subject",
+     "v": "sculpture"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 202.84,
+   "light": 0.5236,
+   "chroma": 0.9931
+  },
+  {
+   "id": "CRVI003054",
+   "published": true,
+   "minted": "2026-09-10",
+   "punch": 0.4375,
+   "source_url": "https://cdn.britannica.com/40/263040-050-CA64C045/A-visitor-looks-on-at-art-work-by-American-artist-Sheila-Hicks-at-the-Pompidou-Center-in-Paris-France-on-April-7-2018-Textiles-Fiber-arts-Textile-art-Fabric-Art-Contemporary.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI003054.jpg",
+   "source_label": "",
+   "image": "images/CRVI003054.jpg",
+   "original": "originals/CRVI003054.jpg",
+   "vector": "",
+   "original_px": [
+    1600,
+    1067
+   ],
+   "original_bytes": 385464,
+   "maker": "Sheila Hicks",
+   "title": "untitled",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "installation"
+    },
+    {
+     "k": "artist",
+     "v": "Sheila Hicks"
+    },
+    {
+     "k": "subject",
+     "v": "sculpture"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 14.33,
+   "light": 0.5364,
+   "chroma": 0.8818
+  },
+  {
+   "id": "CRVI003055",
+   "published": true,
+   "minted": "2026-09-10",
+   "punch": 0.1489,
+   "source_url": "https://i.pinimg.com/originals/eb/78/b2/eb78b2112fc15ed78dc6286bb215b6b7.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI003055.jpg",
+   "source_label": "",
+   "image": "images/CRVI003055.jpg",
+   "original": "originals/CRVI003055.jpg",
+   "vector": "",
+   "original_px": [
+    818,
+    1052
+   ],
+   "original_bytes": 140669,
+   "maker": "Sheila Hicks",
+   "title": "untitled",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "installation"
+    },
+    {
+     "k": "artist",
+     "v": "Sheila Hicks"
+    },
+    {
+     "k": "subject",
+     "v": "sculpture"
+    },
+    {
+     "k": "subject",
+     "v": "re-hosted source"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "black"
+    }
+   ],
+   "hue": 16.11,
+   "light": 0.1475,
+   "chroma": 0.3798
+  },
+  {
+   "id": "CRVI003056",
+   "published": true,
+   "minted": "2026-09-10",
+   "punch": 0.0935,
+   "source_url": "https://i.pinimg.com/originals/46/32/04/46320458c602eff2357cba27c04735d2.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI003056.jpg",
+   "source_label": "",
+   "image": "images/CRVI003056.jpg",
+   "original": "originals/CRVI003056.jpg",
+   "vector": "",
+   "original_px": [
+    1280,
+    919
+   ],
+   "original_bytes": 209681,
+   "maker": "Agnes Denes",
+   "title": "Tree Mountain — A Living Time Capsule",
+   "subtitle": "",
+   "year": "1992",
+   "tags": [
+    {
+     "k": "type",
+     "v": "land art"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "artist",
+     "v": "Agnes Denes"
+    },
+    {
+     "k": "subject",
+     "v": "sculpture"
+    },
+    {
+     "k": "subject",
+     "v": "re-hosted source"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 214.7,
+   "light": 0.7091,
+   "chroma": 0.3017
+  },
+  {
+   "id": "CRVI003057",
+   "published": true,
+   "minted": "2026-09-10",
+   "punch": 0.2477,
+   "source_url": "https://sculpturemagazine.art/wp-content/uploads/2019/08/rev-17-6.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI003057.jpg",
+   "source_label": "",
+   "image": "images/CRVI003057.jpg",
+   "original": "originals/CRVI003057.jpg",
+   "vector": "",
+   "original_px": [
+    1500,
+    1000
+   ],
+   "original_bytes": 1409399,
+   "maker": "Paola Pivi",
+   "title": "untitled",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "installation"
+    },
+    {
+     "k": "artist",
+     "v": "Paola Pivi"
+    },
+    {
+     "k": "subject",
+     "v": "sculpture"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 306.73,
+   "light": 0.6722,
+   "chroma": 0.5519
+  },
+  {
+   "id": "CRVI003058",
+   "published": true,
+   "minted": "2026-09-10",
+   "punch": 0.1661,
+   "source_url": "https://i.pinimg.com/originals/be/ba/b4/bebab4b294b93c04f98dccb5fe27861b.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI003058.jpg",
+   "source_label": "",
+   "image": "images/CRVI003058.jpg",
+   "original": "originals/CRVI003058.jpg",
+   "vector": "",
+   "original_px": [
+    3000,
+    2000
+   ],
+   "original_bytes": 467654,
+   "maker": "Paola Pivi",
+   "title": "untitled",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "installation"
+    },
+    {
+     "k": "artist",
+     "v": "Paola Pivi"
+    },
+    {
+     "k": "subject",
+     "v": "sculpture"
+    },
+    {
+     "k": "subject",
+     "v": "re-hosted source"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 26.39,
+   "light": 0.6173,
+   "chroma": 0.2934
+  },
+  {
+   "id": "CRVI003059",
+   "published": true,
+   "minted": "2026-09-10",
+   "punch": 0.165,
+   "source_url": "https://thebass.org/wp-content/uploads/2018/10/16_818_3807-819x1024.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI003059.jpg",
+   "source_label": "",
+   "image": "images/CRVI003059.jpg",
+   "original": "originals/CRVI003059.jpg",
+   "vector": "",
+   "original_px": [
+    819,
+    1024
+   ],
+   "original_bytes": 61685,
+   "maker": "Paola Pivi",
+   "title": "untitled",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "sculpture"
+    },
+    {
+     "k": "artist",
+     "v": "Paola Pivi"
+    },
+    {
+     "k": "subject",
+     "v": "sculpture"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 355.51,
+   "light": 0.6695,
+   "chroma": 0.3139
+  },
+  {
+   "id": "CRVI003060",
+   "published": true,
+   "minted": "2026-09-10",
+   "punch": 0.2212,
+   "source_url": "https://cdn.culturadvisor.com/app/uploads/2022/12/1-_tl35niPasrTguYbZ8lh0Q.jpeg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI003060.jpg",
+   "source_label": "",
+   "image": "images/CRVI003060.jpg",
+   "original": "originals/CRVI003060.jpg",
+   "vector": "",
+   "original_px": [
+    1013,
+    946
+   ],
+   "original_bytes": 159812,
+   "maker": "Nancy Holt",
+   "title": "Sun Tunnels",
+   "subtitle": "",
+   "year": "1973",
+   "tags": [
+    {
+     "k": "type",
+     "v": "land art"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "artist",
+     "v": "Nancy Holt"
+    },
+    {
+     "k": "subject",
+     "v": "sculpture"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 31.47,
+   "light": 0.3843,
+   "chroma": 0.729
   }
  ]
 }
