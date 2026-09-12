@@ -28,6 +28,18 @@ HUES = [(345, 15, "red"), (15, 45, "orange"), (45, 70, "yellow"), (70, 165, "gre
         (165, 200, "cyan"), (200, 255, "blue"), (255, 290, "purple"), (290, 345, "pink")]
 
 
+def _today():
+    """⚠️ The default minted date USED TO BE HARDCODED to 2026-08-26/27.
+
+    A spec that does not set `minted` then gets stamped three weeks stale, and the
+    site's "most recent" view sorts on that date - so 181 items added on 2026-09-11
+    landed below everything from September and read as never added at all. Every
+    other command reported success. Default to the real date instead.
+    """
+    import datetime
+    return datetime.date.today().isoformat()
+
+
 def palette(path):
     try:
         from PIL import Image
@@ -103,7 +115,7 @@ def main(spec_path):
             rid, rkey = recycled[0]
             gone = reg["items"][rkey]
             gone["number_reused"] = True
-            it = {"id": rid, "minted": spec.get("minted", "2026-08-27"),
+            it = {"id": rid, "minted": spec.get("minted", _today()),
                   "reused": True,
                   "previously": {"identity": rkey, "maker": gone.get("maker"),
                                  "title": gone.get("title"), "deleted_on": gone.get("deleted_on")}}
@@ -111,7 +123,7 @@ def main(spec_path):
             print(f'minted {rid} for {ident}  (reusing a retired number; '
                   f'was {gone.get("maker","")} — {gone.get("title","")})')
         else:
-            it = {"id": f'CRVI{reg["next"]:06d}', "minted": spec.get("minted", "2026-08-26")}
+            it = {"id": f'CRVI{reg["next"]:06d}', "minted": spec.get("minted", _today())}
             reg["next"] += 1
             reg["items"][ident] = it
             print(f'minted {it["id"]} for {ident}')
