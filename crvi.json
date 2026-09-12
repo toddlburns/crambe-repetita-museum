@@ -3689,7 +3689,7 @@
    "id": "CRVI000070",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.017,
+   "punch": 0.0174,
    "source_url": "https://www.discogs.com/release/8090112",
    "animated": false,
    "video": false,
@@ -3700,9 +3700,9 @@
    "vector": "",
    "original_px": [
     1859,
-    1859
+    1821
    ],
-   "original_bytes": 857315,
+   "original_bytes": 1812695,
    "maker": "Pierre Henry",
    "title": "Mise En Musique Du Corticalart De Roger Lafosse",
    "subtitle": "Designer unknown · Philips",
@@ -3738,7 +3738,7 @@
     }
    ],
    "hue": null,
-   "light": 0.3022,
+   "light": 0.2876,
    "chroma": 0.0
   },
   {
@@ -3793,7 +3793,7 @@
    "id": "CRVI000072",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.0305,
+   "punch": 0.0401,
    "source_url": "https://www.discogs.com/release/10861339",
    "animated": false,
    "video": false,
@@ -3803,10 +3803,10 @@
    "original": "originals/CRVI000072.jpg",
    "vector": "",
    "original_px": [
-    3000,
-    3000
+    2490,
+    2750
    ],
-   "original_bytes": 750337,
+   "original_bytes": 1089011,
    "maker": "Euglossine",
    "title": "Sharp Time",
    "subtitle": "Designer unknown",
@@ -3830,14 +3830,14 @@
     }
    ],
    "hue": null,
-   "light": 0.5617,
-   "chroma": 0.0178
+   "light": 0.4397,
+   "chroma": 0.023
   },
   {
    "id": "CRVI000073",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.0463,
+   "punch": 0.0678,
    "source_url": "https://www.discogs.com/release/7032274",
    "animated": false,
    "video": false,
@@ -3847,10 +3847,10 @@
    "original": "originals/CRVI000073.jpg",
    "vector": "",
    "original_px": [
-    3000,
-    3000
+    2480,
+    2475
    ],
-   "original_bytes": 436314,
+   "original_bytes": 650614,
    "maker": "Event Cloak",
    "title": "Life Strategies",
    "subtitle": "Designer unknown",
@@ -3873,9 +3873,9 @@
      "v": "white"
     }
    ],
-   "hue": 45.56,
-   "light": 0.7876,
-   "chroma": 0.1099
+   "hue": 45.51,
+   "light": 0.6892,
+   "chroma": 0.1602
   },
   {
    "id": "CRVI000074",
@@ -4077,7 +4077,7 @@
    "id": "CRVI000078",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.1882,
+   "punch": 0.2921,
    "source_url": "https://www.discogs.com/release/21640",
    "animated": false,
    "video": false,
@@ -4087,10 +4087,10 @@
    "original": "originals/CRVI000078.jpg",
    "vector": "",
    "original_px": [
-    1400,
-    1400
+    971,
+    1312
    ],
-   "original_bytes": 544136,
+   "original_bytes": 868820,
    "maker": "Jega",
    "title": "Spectrum",
    "subtitle": "Designer unknown",
@@ -4113,9 +4113,9 @@
      "v": "black"
     }
    ],
-   "hue": 52.24,
-   "light": 0.2397,
-   "chroma": 0.4984
+   "hue": 52.22,
+   "light": 0.3685,
+   "chroma": 0.7589
   },
   {
    "id": "CRVI000079",
@@ -4269,7 +4269,7 @@
    "id": "CRVI000082",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.2893,
+   "punch": 0.292,
    "source_url": "https://www.discogs.com/release/2020785",
    "animated": false,
    "video": false,
@@ -4280,9 +4280,9 @@
    "vector": "",
    "original_px": [
     1500,
-    1500
+    1485
    ],
-   "original_bytes": 770874,
+   "original_bytes": 988545,
    "maker": "Klaus Weiss",
    "title": "Time Signals",
    "subtitle": "Designer unknown · Selected Sound",
@@ -4309,9 +4309,9 @@
      "v": "orange"
     }
    ],
-   "hue": 15.33,
-   "light": 0.3374,
-   "chroma": 0.987
+   "hue": 15.29,
+   "light": 0.3313,
+   "chroma": 1.0
   },
   {
    "id": "CRVI000083",
@@ -11069,7 +11069,7 @@
    "id": "CRVI000216",
    "published": true,
    "minted": "2026-08-27",
-   "punch": 0.4044,
+   "punch": 0.4526,
    "source_url": "",
    "animated": false,
    "video": false,
@@ -11080,9 +11080,9 @@
    "vector": "",
    "original_px": [
     600,
-    600
+    536
    ],
-   "original_bytes": 166984,
+   "original_bytes": 228358,
    "maker": "Izuru Utsumi",
    "title": "Utsumi",
    "subtitle": "Designer unknown · Flower",
@@ -11113,9 +11113,9 @@
      "v": "orange"
     }
    ],
-   "hue": 37.82,
-   "light": 0.5726,
-   "chroma": 0.896
+   "hue": 37.8,
+   "light": 0.5217,
+   "chroma": 1.0
   },
   {
    "id": "CRVI000217",
@@ -12393,7 +12393,7 @@
    "id": "CRVI000241",
    "published": true,
    "minted": "2026-08-27",
-   "punch": 0.0254,
+   "punch": 0.0285,
    "source_url": "https://penguinseriesdesign.com/2026/03/25/penguin-has-great-ideas/",
    "animated": false,
    "video": false,
@@ -12403,10 +12403,10 @@
    "original": "originals/CRVI000241.jpg",
    "vector": "",
    "original_px": [
-    1134,
-    1717
+    1049,
+    1650
    ],
-   "original_bytes": 174336,
+   "original_bytes": 624194,
    "maker": "Phil Baines",
    "title": "Why I Am So Wise",
    "subtitle": "Cover for Friedrich Nietzsche · Penguin Great Ideas",
@@ -12437,9 +12437,9 @@
      "v": "white"
     }
    ],
-   "hue": 4.36,
-   "light": 0.8116,
-   "chroma": 0.1328
+   "hue": 4.44,
+   "light": 0.8074,
+   "chroma": 0.1462
   },
   {
    "id": "CRVI000242",
@@ -12497,7 +12497,7 @@
    "id": "CRVI000243",
    "published": true,
    "minted": "2026-08-27",
-   "punch": 0.1598,
+   "punch": 0.1957,
    "source_url": "https://penguinseriesdesign.com/2025/07/21/stoddart-designs-deighton/",
    "animated": false,
    "video": false,
@@ -12507,10 +12507,10 @@
    "original": "originals/CRVI000243.jpg",
    "vector": "",
    "original_px": [
-    1149,
-    1701
+    1045,
+    1491
    ],
-   "original_bytes": 142564,
+   "original_bytes": 657802,
    "maker": "Jim Stoddart",
    "title": "Horse Under Water",
    "subtitle": "Cover for Len Deighton · Penguin",
@@ -12541,9 +12541,9 @@
      "v": "neutral"
     }
    ],
-   "hue": 224.31,
-   "light": 0.5145,
-   "chroma": 0.5699
+   "hue": 224.36,
+   "light": 0.428,
+   "chroma": 0.7046
   },
   {
    "id": "CRVI000244",
@@ -12601,7 +12601,7 @@
    "id": "CRVI000245",
    "published": true,
    "minted": "2026-08-27",
-   "punch": 0.1017,
+   "punch": 0.1124,
    "source_url": "https://penguinseriesdesign.com/wp-content/uploads/2024/12/penguin_anthony-burgess_urgent-copy_design-peter-bentley.jpg",
    "animated": false,
    "video": false,
@@ -12611,10 +12611,10 @@
    "original": "originals/CRVI000245.jpg",
    "vector": "",
    "original_px": [
-    864,
-    1297
+    757,
+    1212
    ],
-   "original_bytes": 101827,
+   "original_bytes": 413470,
    "maker": "Peter Bentley",
    "title": "Urgent Copy",
    "subtitle": "Cover for Anthony Burgess · Penguin",
@@ -12641,15 +12641,15 @@
      "v": "white"
     }
    ],
-   "hue": 16.74,
-   "light": 0.6241,
-   "chroma": 0.3819
+   "hue": 20.68,
+   "light": 0.5802,
+   "chroma": 0.4324
   },
   {
    "id": "CRVI000246",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.1008,
+   "punch": 0.1864,
    "source_url": "https://butik.louisiana.dk/en-int/products/keiji-usami-louisiana-plakat",
    "animated": false,
    "video": false,
@@ -12659,10 +12659,10 @@
    "original": "originals/CRVI000246.jpg",
    "vector": "",
    "original_px": [
-    1560,
-    1560
+    969,
+    1365
    ],
-   "original_bytes": 179063,
+   "original_bytes": 410907,
    "maker": "Keiji Usami",
    "title": "Louisiana exhibition poster",
    "subtitle": "Exhibition poster · Louisiana Museum of Modern Art",
@@ -12685,15 +12685,15 @@
      "v": "white"
     }
    ],
-   "hue": 205.55,
-   "light": 0.8381,
-   "chroma": 0.3821
+   "hue": 205.48,
+   "light": 0.7034,
+   "chroma": 0.6907
   },
   {
    "id": "CRVI000247",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.0697,
+   "punch": 0.1285,
    "source_url": "https://butik.louisiana.dk/en-int/products/marisol-untitled-c-1960-65",
    "animated": false,
    "video": false,
@@ -12703,10 +12703,10 @@
    "original": "originals/CRVI000247.jpg",
    "vector": "",
    "original_px": [
-    1560,
-    1560
+    969,
+    1365
    ],
-   "original_bytes": 179564,
+   "original_bytes": 421889,
    "maker": "Marisol",
    "title": "Untitled",
    "subtitle": "Exhibition Poster · 1960-65",
@@ -12733,15 +12733,15 @@
      "v": "white"
     }
    ],
-   "hue": 43.87,
-   "light": 0.9165,
-   "chroma": 0.4976
+   "hue": 43.84,
+   "light": 0.8478,
+   "chroma": 0.9
   },
   {
    "id": "CRVI000248",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.0477,
+   "punch": 0.0881,
    "source_url": "https://butik.louisiana.dk/en-int/products/tetsuya-ishida-mebae-1998",
    "animated": false,
    "video": false,
@@ -12751,10 +12751,10 @@
    "original": "originals/CRVI000248.jpg",
    "vector": "",
    "original_px": [
-    1560,
-    1560
+    969,
+    1365
    ],
-   "original_bytes": 247691,
+   "original_bytes": 557230,
    "maker": "Tetsuya Ishida",
    "title": "Mebae",
    "subtitle": "Exhibition Poster · 1998",
@@ -12781,15 +12781,15 @@
      "v": "white"
     }
    ],
-   "hue": 54.08,
-   "light": 0.6714,
-   "chroma": 0.1167
+   "hue": 54.19,
+   "light": 0.3968,
+   "chroma": 0.2141
   },
   {
    "id": "CRVI000249",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.2127,
+   "punch": 0.3085,
    "source_url": "https://polishposter.com/0490-dersu-uzala-akira-kurosawa.html",
    "animated": false,
    "video": false,
@@ -12799,10 +12799,10 @@
    "original": "originals/CRVI000249.jpg",
    "vector": "",
    "original_px": [
-    800,
+    551,
     800
    ],
-   "original_bytes": 110158,
+   "original_bytes": 195537,
    "maker": "Bozena Jankowska",
    "title": "Dersu Uzala",
    "subtitle": "Film Poster Designed By Bozena Jankowska · 1976",
@@ -12829,15 +12829,15 @@
      "v": "green"
     }
    ],
-   "hue": 145.42,
-   "light": 0.6946,
-   "chroma": 0.6594
+   "hue": 145.36,
+   "light": 0.5568,
+   "chroma": 0.9556
   },
   {
    "id": "CRVI000250",
    "published": true,
    "minted": "2026-08-27",
-   "punch": 0.1516,
+   "punch": 0.1731,
    "source_url": "https://penguinseriesdesign.com/wp-content/uploads/2024/12/penguin_anthony-burgess_the-wanting-seed_design-peter-bentley.jpg",
    "animated": false,
    "video": false,
@@ -12847,10 +12847,10 @@
    "original": "originals/CRVI000250.jpg",
    "vector": "",
    "original_px": [
-    864,
-    1314
+    782,
+    1242
    ],
-   "original_bytes": 109312,
+   "original_bytes": 445982,
    "maker": "Peter Bentley",
    "title": "The Wanting Seed",
    "subtitle": "Cover for Anthony Burgess · Penguin",
@@ -12877,15 +12877,15 @@
      "v": "neutral"
     }
    ],
-   "hue": 25.62,
-   "light": 0.5925,
-   "chroma": 0.5987
+   "hue": 25.66,
+   "light": 0.5524,
+   "chroma": 0.691
   },
   {
    "id": "CRVI000251",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.0941,
+   "punch": 0.1368,
    "source_url": "https://polishposter.com/1679-skrupul-walka-polish-movie-poster.html",
    "animated": false,
    "video": false,
@@ -12895,10 +12895,10 @@
    "original": "originals/CRVI000251.jpg",
    "vector": "",
    "original_px": [
-    800,
+    550,
     800
    ],
-   "original_bytes": 86708,
+   "original_bytes": 158271,
    "maker": "Wiesław Wałkuski",
    "title": "Scruple",
    "subtitle": "Film Poster Designed By Wiesław Wałkuski · 2000",
@@ -12925,15 +12925,15 @@
      "v": "neutral"
     }
    ],
-   "hue": 356.25,
-   "light": 0.4534,
-   "chroma": 0.2733
+   "hue": 356.15,
+   "light": 0.2053,
+   "chroma": 0.398
   },
   {
    "id": "CRVI000252",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.2569,
+   "punch": 0.3787,
    "source_url": "https://polishposter.com/1857-ras-le-coeur.html",
    "animated": false,
    "video": false,
@@ -12943,10 +12943,10 @@
    "original": "originals/CRVI000252.jpg",
    "vector": "",
    "original_px": [
-    800,
+    543,
     800
    ],
-   "original_bytes": 196613,
+   "original_bytes": 328036,
    "maker": "Lech Majewski",
    "title": "Ras le cœur",
    "subtitle": "Film Poster Designed By Lech Majewski · 1980",
@@ -12977,15 +12977,15 @@
      "v": "red"
     }
    ],
-   "hue": 16.27,
-   "light": 0.6684,
-   "chroma": 0.669
+   "hue": 16.22,
+   "light": 0.5115,
+   "chroma": 0.9748
   },
   {
    "id": "CRVI000253",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.0657,
+   "punch": 0.0951,
    "source_url": "https://polishposter.com/2054-sledztwo-wykazalo.html",
    "animated": false,
    "video": false,
@@ -12995,10 +12995,10 @@
    "original": "originals/CRVI000253.jpg",
    "vector": "",
    "original_px": [
-    800,
+    552,
     800
    ],
-   "original_bytes": 174096,
+   "original_bytes": 296462,
    "maker": "Lex Drewinski",
    "title": "Investigation Proved",
    "subtitle": "Film Poster Designed By Lex Drewinski · 1983",
@@ -13025,9 +13025,9 @@
      "v": "white"
     }
    ],
-   "hue": 6.1,
-   "light": 0.7461,
-   "chroma": 0.2376
+   "hue": 6.12,
+   "light": 0.6321,
+   "chroma": 0.3449
   },
   {
    "id": "CRVI000254",
@@ -13081,7 +13081,7 @@
    "id": "CRVI000255",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.0542,
+   "punch": 0.0785,
    "source_url": "https://polishposter.com/2453-faithful-woman-a-polish-movie-poster.html",
    "animated": false,
    "video": false,
@@ -13091,10 +13091,10 @@
    "original": "originals/CRVI000255.jpg",
    "vector": "",
    "original_px": [
-    800,
+    552,
     800
    ],
-   "original_bytes": 148650,
+   "original_bytes": 248664,
    "maker": "Romuald Socha",
    "title": "A Faithful Woman",
    "subtitle": "Film Poster Designed By Romuald Socha · 1978",
@@ -13121,15 +13121,15 @@
      "v": "neutral"
     }
    ],
-   "hue": null,
-   "light": 0.5489,
-   "chroma": 0.0858
+   "hue": 21.99,
+   "light": 0.3462,
+   "chroma": 0.1234
   },
   {
    "id": "CRVI000256",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.1358,
+   "punch": 0.1987,
    "source_url": "https://polishposter.com/2461-idiots-the-polish-movie-poster.html",
    "animated": false,
    "video": false,
@@ -13139,10 +13139,10 @@
    "original": "originals/CRVI000256.jpg",
    "vector": "",
    "original_px": [
-    800,
+    548,
     800
    ],
-   "original_bytes": 116396,
+   "original_bytes": 202442,
    "maker": "Wiesław Wałkuski",
    "title": "The Idiots",
    "subtitle": "Film Poster Designed By Wiesław Wałkuski · 1999",
@@ -13169,15 +13169,15 @@
      "v": "neutral"
     }
    ],
-   "hue": 6.59,
-   "light": 0.4786,
-   "chroma": 0.4115
+   "hue": 6.66,
+   "light": 0.2391,
+   "chroma": 0.6006
   },
   {
    "id": "CRVI000257",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.1317,
+   "punch": 0.1911,
    "source_url": "https://polishposter.com/2725-thank-god-it-s-friday-polish-movie-poster.html",
    "animated": false,
    "video": false,
@@ -13187,10 +13187,10 @@
    "original": "originals/CRVI000257.jpg",
    "vector": "",
    "original_px": [
-    800,
+    551,
     800
    ],
-   "original_bytes": 156986,
+   "original_bytes": 262310,
    "maker": "Lech Majewski",
    "title": "Thank God It's Friday",
    "subtitle": "Film Poster Designed By Lech Majewski · 1979",
@@ -13217,9 +13217,9 @@
      "v": "neutral"
     }
    ],
-   "hue": 15.02,
-   "light": 0.5301,
-   "chroma": 0.6083
+   "hue": 14.95,
+   "light": 0.3178,
+   "chroma": 0.8853
   },
   {
    "id": "CRVI000258",
@@ -13957,7 +13957,7 @@
    "id": "CRVI000273",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.0221,
+   "punch": 0.0222,
    "source_url": "https://polishpostergallery.com/poster/krauze_amator",
    "animated": false,
    "video": false,
@@ -13967,10 +13967,10 @@
    "original": "originals/CRVI000273.jpg",
    "vector": "",
    "original_px": [
-    561,
-    800
+    559,
+    796
    ],
-   "original_bytes": 325629,
+   "original_bytes": 247206,
    "maker": "Andrzej Krauze",
    "title": "Camera Buff",
    "subtitle": "Film Poster · 1979",
@@ -13998,7 +13998,7 @@
     }
    ],
    "hue": null,
-   "light": 0.4552,
+   "light": 0.4516,
    "chroma": 0.0034
   },
   {
@@ -17325,7 +17325,7 @@
    "id": "CRVI000340",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.3545,
+   "punch": 0.3765,
    "source_url": "",
    "animated": false,
    "video": false,
@@ -17335,10 +17335,10 @@
    "original": "originals/CRVI000340.jpg",
    "vector": "",
    "original_px": [
-    1440,
+    1351,
     1429
    ],
-   "original_bytes": 277125,
+   "original_bytes": 412539,
    "maker": "Wilson Pickett",
    "title": "The Exciting Wilson Pickett",
    "subtitle": "Designer unknown · Atlantic",
@@ -17369,9 +17369,9 @@
      "v": "pink"
     }
    ],
-   "hue": 345.4,
-   "light": 0.6487,
-   "chroma": 0.8821
+   "hue": 345.38,
+   "light": 0.6854,
+   "chroma": 0.9274
   },
   {
    "id": "CRVI000341",
@@ -18725,7 +18725,7 @@
    "id": "CRVI000367",
    "published": true,
    "minted": "2026-08-27",
-   "punch": 0.2144,
+   "punch": 0.2569,
    "source_url": "https://penguinseriesdesign.com/2025/03/13/peter-bentley-illustrator/penguin_anthony-burgess_the-malayan-trilogy_design-peter-bentley/",
    "animated": false,
    "video": false,
@@ -18735,10 +18735,10 @@
    "original": "originals/CRVI000367.jpg",
    "vector": "",
    "original_px": [
-    864,
-    1268
+    737,
+    1202
    ],
-   "original_bytes": 114597,
+   "original_bytes": 394602,
    "maker": "Peter Bentley",
    "title": "The Malayan Trilogy",
    "subtitle": "Cover for Anthony Burgess · Penguin",
@@ -18765,9 +18765,9 @@
      "v": "orange"
     }
    ],
-   "hue": 40.86,
-   "light": 0.6007,
-   "chroma": 0.5832
+   "hue": 40.92,
+   "light": 0.5583,
+   "chroma": 0.7341
   },
   {
    "id": "CRVI000368",
@@ -19133,7 +19133,7 @@
    "id": "CRVI000375",
    "published": true,
    "minted": "2026-08-27",
-   "punch": 0.1744,
+   "punch": 0.1957,
    "source_url": "https://penguinseriesdesign.com/2025/01/27/alan-aldridge-crimes/penguin_hare-sitting-up_docken-dead_covers-by-aldridge/",
    "animated": false,
    "video": false,
@@ -19143,10 +19143,10 @@
    "original": "originals/CRVI000375.jpg",
    "vector": "",
    "original_px": [
-    580,
-    913
+    535,
+    871
    ],
-   "original_bytes": 179004,
+   "original_bytes": 232710,
    "maker": "Alan Aldridge",
    "title": "Hare Sitting Up",
    "subtitle": "Cover for Michael Innes · Penguin Crime",
@@ -19173,9 +19173,9 @@
      "v": "white"
     }
    ],
-   "hue": 125.65,
-   "light": 0.6491,
-   "chroma": 0.7219
+   "hue": 125.57,
+   "light": 0.6296,
+   "chroma": 0.8099
   },
   {
    "id": "CRVI000376",
@@ -19545,7 +19545,7 @@
    "id": "CRVI000383",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.1692,
+   "punch": 0.1714,
    "source_url": "",
    "animated": false,
    "video": false,
@@ -19556,9 +19556,9 @@
    "vector": "",
    "original_px": [
     3000,
-    3000
+    2944
    ],
-   "original_bytes": 2926713,
+   "original_bytes": 4602059,
    "maker": "Brainticket",
    "title": "Celestial Ocean",
    "subtitle": "Designer unknown · RCA Victor",
@@ -19589,9 +19589,9 @@
      "v": "neutral"
     }
    ],
-   "hue": 45.68,
-   "light": 0.4801,
-   "chroma": 0.7144
+   "hue": 45.66,
+   "light": 0.4859,
+   "chroma": 0.7285
   },
   {
    "id": "CRVI000384",
@@ -21233,7 +21233,7 @@
    "id": "CRVI000416",
    "published": true,
    "minted": "2026-08-27",
-   "punch": 0.2073,
+   "punch": 0.231,
    "source_url": "https://penguinseriesdesign.com/2025/01/27/alan-aldridge-crimes/penguin_hare-sitting-up_docken-dead_covers-by-aldridge/",
    "animated": false,
    "video": false,
@@ -21243,10 +21243,10 @@
    "original": "originals/CRVI000416.jpg",
    "vector": "",
    "original_px": [
-    579,
-    913
+    536,
+    870
    ],
-   "original_bytes": 196084,
+   "original_bytes": 202362,
    "maker": "Alan Aldridge",
    "title": "Docken Dead",
    "subtitle": "Cover for John Trench · Penguin Crime",
@@ -21273,9 +21273,9 @@
      "v": "green"
     }
    ],
-   "hue": 123.2,
-   "light": 0.6051,
-   "chroma": 0.773
+   "hue": 123.11,
+   "light": 0.5943,
+   "chroma": 0.8568
   },
   {
    "id": "CRVI000417",
@@ -22333,7 +22333,7 @@
    "id": "CRVI000437",
    "published": true,
    "minted": "2026-08-27",
-   "punch": 0.0517,
+   "punch": 0.0541,
    "source_url": "https://penguinseriesdesign.com/wp-content/uploads/2024/06/pelican_complete-plain-words_-marx-in-his-own-words-2.jpg",
    "animated": false,
    "video": false,
@@ -22343,10 +22343,10 @@
    "original": "originals/CRVI000437.jpg",
    "vector": "",
    "original_px": [
-    904,
-    1428
+    857,
+    1376
    ],
-   "original_bytes": 275947,
+   "original_bytes": 352630,
    "maker": "Unknown",
    "title": "Marx in His Own Words",
    "subtitle": "Cover for Ernst Fischer · Pelican",
@@ -22369,15 +22369,15 @@
      "v": "white"
     }
    ],
-   "hue": 43.21,
-   "light": 0.7423,
-   "chroma": 0.5713
+   "hue": 42.83,
+   "light": 0.7307,
+   "chroma": 0.6198
   },
   {
    "id": "CRVI000438",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.0643,
+   "punch": 0.0811,
    "source_url": "https://penguinseriesdesign.com/2026/06/08/penguin-university-books/#jp-carousel-9726",
    "animated": false,
    "video": false,
@@ -22387,10 +22387,10 @@
    "original": "originals/CRVI000438.jpg",
    "vector": "",
    "original_px": [
-    1134,
-    1581
+    917,
+    1386
    ],
-   "original_bytes": 104807,
+   "original_bytes": 247127,
    "maker": "John McConnell",
    "title": "The Concept of Mind",
    "subtitle": "Cover for Gilbert Ryle · Penguin University Books",
@@ -22425,15 +22425,15 @@
      "v": "neutral"
     }
    ],
-   "hue": 39.46,
-   "light": 0.4219,
-   "chroma": 0.1085
+   "hue": 39.53,
+   "light": 0.2737,
+   "chroma": 0.1453
   },
   {
    "id": "CRVI000439",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.0211,
+   "punch": 0.0215,
    "source_url": "https://penguinseriesdesign.com/wp-content/uploads/2024/06/sanity-madness-and-family_self-and-others-3.jpg",
    "animated": false,
    "video": false,
@@ -22443,10 +22443,10 @@
    "original": "originals/CRVI000439.jpg",
    "vector": "",
    "original_px": [
-    644,
-    1027
+    618,
+    979
    ],
-   "original_bytes": 294002,
+   "original_bytes": 312551,
    "maker": "Unknown",
    "title": "Sanity, Madness and the Family",
    "subtitle": "Cover for R. D. Laing and A. Esterson · Pelican",
@@ -22470,14 +22470,14 @@
     }
    ],
    "hue": null,
-   "light": 0.7322,
-   "chroma": 0.039
+   "light": 0.7275,
+   "chroma": 0.0258
   },
   {
    "id": "CRVI000440",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.0716,
+   "punch": 0.077,
    "source_url": "https://penguinseriesdesign.com/wp-content/uploads/2024/06/after-hitler_the-new-industrial-state-3.jpg",
    "animated": false,
    "video": false,
@@ -22487,10 +22487,10 @@
    "original": "originals/CRVI000440.jpg",
    "vector": "",
    "original_px": [
-    966,
-    1512
+    902,
+    1434
    ],
-   "original_bytes": 346034,
+   "original_bytes": 341911,
    "maker": "Unknown",
    "title": "After Hitler",
    "subtitle": "Cover for Jürgen Neven-du Mont · Pelican",
@@ -22513,9 +22513,9 @@
      "v": "white"
     }
    ],
-   "hue": 7.25,
-   "light": 0.7415,
-   "chroma": 0.2861
+   "hue": 37.01,
+   "light": 0.7291,
+   "chroma": 0.3144
   },
   {
    "id": "CRVI000441",
@@ -22729,7 +22729,7 @@
    "id": "CRVI000445",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.2149,
+   "punch": 0.249,
    "source_url": "https://penguinseriesdesign.com/wp-content/uploads/2023/10/fred-hoyle_the-black-cloud_illus-john-griffith_penguin.jpg",
    "animated": false,
    "video": false,
@@ -22739,10 +22739,10 @@
    "original": "originals/CRVI000445.jpg",
    "vector": "",
    "original_px": [
-    1143,
-    1786
+    1040,
+    1679
    ],
-   "original_bytes": 160398,
+   "original_bytes": 693373,
    "maker": "John Griffith",
    "title": "The Black Cloud",
    "subtitle": "Cover for Fred Hoyle · Penguin",
@@ -22773,15 +22773,15 @@
      "v": "orange"
     }
    ],
-   "hue": 15.11,
-   "light": 0.6193,
-   "chroma": 0.5256
+   "hue": 14.98,
+   "light": 0.5676,
+   "chroma": 0.6118
   },
   {
    "id": "CRVI000446",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.2825,
+   "punch": 0.3094,
    "source_url": "https://penguinseriesdesign.com/wp-content/uploads/2023/10/the-new-men-the-black-cloud.jpg",
    "animated": false,
    "video": false,
@@ -22791,10 +22791,10 @@
    "original": "originals/CRVI000446.jpg",
    "vector": "",
    "original_px": [
-    1102,
-    1742
+    1033,
+    1670
    ],
-   "original_bytes": 455681,
+   "original_bytes": 497482,
    "maker": "Unknown",
    "title": "The New Men",
    "subtitle": "Cover for C. P. Snow · Penguin",
@@ -22817,15 +22817,15 @@
      "v": "orange"
     }
    ],
-   "hue": 16.11,
-   "light": 0.762,
-   "chroma": 0.5621
+   "hue": 16.01,
+   "light": 0.7523,
+   "chroma": 0.5965
   },
   {
    "id": "CRVI000447",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.0256,
+   "punch": 0.0267,
    "source_url": "https://penguinseriesdesign.com/2023/12/17/derek-birdsalls-education/",
    "animated": false,
    "video": false,
@@ -22835,10 +22835,10 @@
    "original": "originals/CRVI000447.jpg",
    "vector": "",
    "original_px": [
-    1148,
-    1804
+    1029,
+    1660
    ],
-   "original_bytes": 90769,
+   "original_bytes": 416681,
    "maker": "Derek Birdsall",
    "title": "Ideology",
    "subtitle": "Cover for L. B. Brown · Penguin Education",
@@ -22870,14 +22870,14 @@
     }
    ],
    "hue": null,
-   "light": 0.8391,
-   "chroma": 0.0625
+   "light": 0.8251,
+   "chroma": 0.0638
   },
   {
    "id": "CRVI000448",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.0614,
+   "punch": 0.0685,
    "source_url": "https://penguinseriesdesign.com/2023/12/17/derek-birdsalls-education/",
    "animated": false,
    "video": false,
@@ -22887,10 +22887,10 @@
    "original": "originals/CRVI000448.jpg",
    "vector": "",
    "original_px": [
-    1148,
-    1804
+    1007,
+    1650
    ],
-   "original_bytes": 82843,
+   "original_bytes": 374201,
    "maker": "Derek Birdsall",
    "title": "Socialization",
    "subtitle": "Cover for Kurt Danziger · Penguin Education",
@@ -22921,15 +22921,15 @@
      "v": "white"
     }
    ],
-   "hue": 43.9,
-   "light": 0.8626,
-   "chroma": 0.2852
+   "hue": 44.26,
+   "light": 0.8582,
+   "chroma": 0.3179
   },
   {
    "id": "CRVI000449",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.0307,
+   "punch": 0.0323,
    "source_url": "https://penguinseriesdesign.com/2023/12/17/derek-birdsalls-education/",
    "animated": false,
    "video": false,
@@ -22939,10 +22939,10 @@
    "original": "originals/CRVI000449.jpg",
    "vector": "",
    "original_px": [
-    1148,
-    1804
+    1018,
+    1654
    ],
-   "original_bytes": 104262,
+   "original_bytes": 569755,
    "maker": "Derek Birdsall",
    "title": "Peasants and Peasant Societies",
    "subtitle": "Cover for Teodor Shanin · Penguin Education",
@@ -22974,14 +22974,14 @@
     }
    ],
    "hue": null,
-   "light": 0.8463,
-   "chroma": 0.0496
+   "light": 0.8492,
+   "chroma": 0.0491
   },
   {
    "id": "CRVI000450",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.0213,
+   "punch": 0.0232,
    "source_url": "https://penguinseriesdesign.com/2023/12/17/derek-birdsalls-education/",
    "animated": false,
    "video": false,
@@ -22991,10 +22991,10 @@
    "original": "originals/CRVI000450.jpg",
    "vector": "",
    "original_px": [
-    1148,
-    1804
+    1025,
+    1660
    ],
-   "original_bytes": 107185,
+   "original_bytes": 578172,
    "maker": "Derek Birdsall",
    "title": "Social Science and Public Policy",
    "subtitle": "Cover for Martin Rein · Penguin Education",
@@ -23026,14 +23026,14 @@
     }
    ],
    "hue": null,
-   "light": 0.5568,
-   "chroma": 0.0696
+   "light": 0.4836,
+   "chroma": 0.0814
   },
   {
    "id": "CRVI000451",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.0249,
+   "punch": 0.0294,
    "source_url": "https://penguinseriesdesign.com/2023/12/17/derek-birdsalls-education/",
    "animated": false,
    "video": false,
@@ -23043,10 +23043,10 @@
    "original": "originals/CRVI000451.jpg",
    "vector": "",
    "original_px": [
-    1148,
-    1804
+    1007,
+    1530
    ],
-   "original_bytes": 87857,
+   "original_bytes": 362222,
    "maker": "Derek Birdsall",
    "title": "Creativity",
    "subtitle": "Cover for P. E. Vernon · Penguin Education",
@@ -23078,14 +23078,14 @@
     }
    ],
    "hue": null,
-   "light": 0.8752,
-   "chroma": 0.0384
+   "light": 0.8599,
+   "chroma": 0.0436
   },
   {
    "id": "CRVI000452",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.0508,
+   "punch": 0.0623,
    "source_url": "https://penguinseriesdesign.com/2023/12/17/derek-birdsalls-education/",
    "animated": false,
    "video": false,
@@ -23095,10 +23095,10 @@
    "original": "originals/CRVI000452.jpg",
    "vector": "",
    "original_px": [
-    1148,
-    1804
+    1010,
+    1568
    ],
-   "original_bytes": 98582,
+   "original_bytes": 366276,
    "maker": "Derek Birdsall",
    "title": "Reconstructing Social Psychology",
    "subtitle": "Cover for Nigel Armistead · Penguin Education",
@@ -23129,15 +23129,15 @@
      "v": "white"
     }
    ],
-   "hue": 3.47,
-   "light": 0.868,
-   "chroma": 0.1122
+   "hue": 3.37,
+   "light": 0.8537,
+   "chroma": 0.131
   },
   {
    "id": "CRVI000453",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.0483,
+   "punch": 0.0592,
    "source_url": "https://penguinseriesdesign.com/2023/12/17/derek-birdsalls-education/",
    "animated": false,
    "video": false,
@@ -23147,10 +23147,10 @@
    "original": "originals/CRVI000453.jpg",
    "vector": "",
    "original_px": [
-    1148,
-    1804
+    1012,
+    1545
    ],
-   "original_bytes": 75866,
+   "original_bytes": 367016,
    "maker": "Derek Birdsall",
    "title": "Culture Against Man",
    "subtitle": "Cover for Jules Henry · Penguin Education",
@@ -23181,15 +23181,15 @@
      "v": "white"
     }
    ],
-   "hue": 44.23,
-   "light": 0.831,
-   "chroma": 0.1934
+   "hue": 43.56,
+   "light": 0.8036,
+   "chroma": 0.2312
   },
   {
    "id": "CRVI000454",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.1672,
+   "punch": 0.2099,
    "source_url": "https://penguinseriesdesign.com/2023/06/19/retro-deco-for-evelyn-waugh/",
    "animated": false,
    "video": false,
@@ -23199,10 +23199,10 @@
    "original": "originals/CRVI000454.jpg",
    "vector": "",
    "original_px": [
-    1134,
-    1631
+    955,
+    1528
    ],
-   "original_bytes": 116806,
+   "original_bytes": 530709,
    "maker": "Peter Bentley",
    "title": "Brideshead Revisited",
    "subtitle": "Cover for Evelyn Waugh · Penguin",
@@ -23229,15 +23229,15 @@
      "v": "white"
     }
    ],
-   "hue": 43.48,
-   "light": 0.7568,
-   "chroma": 0.5868
+   "hue": 43.71,
+   "light": 0.7272,
+   "chroma": 0.7289
   },
   {
    "id": "CRVI000455",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.0806,
+   "punch": 0.0956,
    "source_url": "https://penguinseriesdesign.com/2025/07/21/stoddart-designs-deighton/",
    "animated": false,
    "video": false,
@@ -23247,10 +23247,10 @@
    "original": "originals/CRVI000455.jpg",
    "vector": "",
    "original_px": [
-    1109,
-    1701
+    1020,
+    1484
    ],
-   "original_bytes": 146057,
+   "original_bytes": 718620,
    "maker": "Jim Stoddart",
    "title": "Billion Dollar Brain",
    "subtitle": "Cover for Len Deighton · Penguin",
@@ -23281,9 +23281,9 @@
      "v": "neutral"
     }
    ],
-   "hue": 358.27,
-   "light": 0.398,
-   "chroma": 0.1451
+   "hue": 358.4,
+   "light": 0.2866,
+   "chroma": 0.1749
   },
   {
    "id": "CRVI000456",
@@ -23389,7 +23389,7 @@
    "id": "CRVI000458",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.2474,
+   "punch": 0.2785,
    "source_url": "https://penguinseriesdesign.com/2025/01/27/alan-aldridge-crimes/penguin_operation-pax-by_hamlet-revengee-by-michael-innes_covers-by-aldridge/",
    "animated": false,
    "video": false,
@@ -23399,10 +23399,10 @@
    "original": "originals/CRVI000458.jpg",
    "vector": "",
    "original_px": [
-    572,
-    913
+    530,
+    855
    ],
-   "original_bytes": 160561,
+   "original_bytes": 193329,
    "maker": "Alan Aldridge",
    "title": "Operation Pax",
    "subtitle": "Cover for Michael Innes · Penguin Crime",
@@ -23429,15 +23429,15 @@
      "v": "green"
     }
    ],
-   "hue": 114.3,
-   "light": 0.5309,
-   "chroma": 0.774
+   "hue": 114.34,
+   "light": 0.5066,
+   "chroma": 0.8741
   },
   {
    "id": "CRVI000459",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.2866,
+   "punch": 0.3255,
    "source_url": "https://penguinseriesdesign.com/2025/01/27/alan-aldridge-crimes/penguin_operation-pax-by_hamlet-revengee-by-michael-innes_covers-by-aldridge/",
    "animated": false,
    "video": false,
@@ -23447,10 +23447,10 @@
    "original": "originals/CRVI000459.jpg",
    "vector": "",
    "original_px": [
-    568,
-    917
+    522,
+    861
    ],
-   "original_bytes": 196939,
+   "original_bytes": 213354,
    "maker": "Alan Aldridge",
    "title": "Hamlet, Revenge!",
    "subtitle": "Cover for Michael Innes · Penguin Crime",
@@ -23477,15 +23477,15 @@
      "v": "green"
     }
    ],
-   "hue": 120.09,
-   "light": 0.5553,
-   "chroma": 0.8674
+   "hue": 120.11,
+   "light": 0.5259,
+   "chroma": 0.9909
   },
   {
    "id": "CRVI000460",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.2389,
+   "punch": 0.2611,
    "source_url": "https://penguinseriesdesign.com/2025/01/27/alan-aldridge-crimes/penguin_corpse-at-the-carnival_suspicious-circumstances_covers-by-aldridge/",
    "animated": false,
    "video": false,
@@ -23495,10 +23495,10 @@
    "original": "originals/CRVI000460.jpg",
    "vector": "",
    "original_px": [
-    571,
-    908
+    541,
+    871
    ],
-   "original_bytes": 226476,
+   "original_bytes": 252707,
    "maker": "Alan Aldridge",
    "title": "Suspicious Circumstances",
    "subtitle": "Cover for Patrick Quentin · Penguin Crime",
@@ -23525,9 +23525,9 @@
      "v": "green"
     }
    ],
-   "hue": 118.43,
-   "light": 0.5351,
-   "chroma": 0.7881
+   "hue": 118.4,
+   "light": 0.5131,
+   "chroma": 0.8608
   },
   {
    "id": "CRVI000461",
@@ -38173,7 +38173,7 @@
    "id": "CRVI000732",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.5391,
+   "punch": 0.5875,
    "source_url": "https://trendland.com/airbrushed-album-covers-by-robert-beatty/",
    "animated": false,
    "video": false,
@@ -38183,10 +38183,10 @@
    "original": "originals/CRVI000732.jpg",
    "vector": "",
    "original_px": [
-    800,
-    800
+    764,
+    768
    ],
-   "original_bytes": 230663,
+   "original_bytes": 265107,
    "maker": "Robert Beatty",
    "title": "Untitled",
    "subtitle": "Album cover · artist and title unrecorded · Trendland plate 01",
@@ -38210,8 +38210,8 @@
     }
    ],
    "hue": 35.01,
-   "light": 0.7005,
-   "chroma": 0.8874
+   "light": 0.6737,
+   "chroma": 0.9589
   },
   {
    "id": "CRVI000733",
@@ -38801,7 +38801,7 @@
    "id": "CRVI000746",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.1099,
+   "punch": 0.1136,
    "source_url": "https://www.itsnicethat.com/articles/sam-wenc-lobby-art-editions-illustration-graphic-design-discover-050826",
    "animated": false,
    "video": false,
@@ -38811,10 +38811,10 @@
    "original": "originals/CRVI000746.png",
    "vector": "",
    "original_px": [
-    1164,
-    1164
+    1142,
+    1138
    ],
-   "original_bytes": 522524,
+   "original_bytes": 2758892,
    "maker": "Emahoy Tsege Mariam Gebru",
    "title": "Emahoy Tsege Mariam Gebru",
    "subtitle": "Album cover · designed by Sam Wenc",
@@ -38841,9 +38841,9 @@
      "v": "neutral"
     }
    ],
-   "hue": 45.67,
-   "light": 0.4383,
-   "chroma": 0.3498
+   "hue": 45.66,
+   "light": 0.419,
+   "chroma": 0.3521
   },
   {
    "id": "CRVI000747",
@@ -40249,7 +40249,7 @@
    "id": "CRVI000772",
    "published": true,
    "minted": "2026-09-01",
-   "punch": 0.2919,
+   "punch": 0.294,
    "source_url": "",
    "animated": false,
    "video": false,
@@ -40259,10 +40259,10 @@
    "original": "originals/CRVI000772.jpg",
    "vector": "",
    "original_px": [
-    938,
-    1600
+    931,
+    1599
    ],
-   "original_bytes": 235056,
+   "original_bytes": 538360,
    "maker": "Erving Goffman",
    "title": "Interaction Ritual",
    "subtitle": "Doubleday Anchor Original A596 · cover signed “Giusti”",
@@ -40297,9 +40297,9 @@
      "v": "orange"
     }
    ],
-   "hue": 52.54,
-   "light": 0.6798,
-   "chroma": 0.7574
+   "hue": 52.49,
+   "light": 0.6842,
+   "chroma": 0.7723
   },
   {
    "id": "CRVI000773",
@@ -40657,7 +40657,7 @@
    "id": "CRVI000779",
    "published": true,
    "minted": "2026-09-01",
-   "punch": 0.432,
+   "punch": 0.4401,
    "source_url": "https://bookstore.thisisdisplay.org/products/folio-5-promotional-booklets-chermayeff-geismar-silverstein-ciba-tscherny-lois",
    "animated": false,
    "video": false,
@@ -40667,10 +40667,10 @@
    "original": "originals/CRVI000779.jpg",
    "vector": "",
    "original_px": [
-    1257,
-    1083
+    1246,
+    1069
    ],
-   "original_bytes": 160438,
+   "original_bytes": 201927,
    "maker": "Folio",
    "title": "Folio 5: CIBA-U.S.A.",
    "subtitle": "Sanders Printing Corporation, New York · c. 1960–65",
@@ -40705,9 +40705,9 @@
      "v": "red"
     }
    ],
-   "hue": 194.94,
-   "light": 0.6149,
-   "chroma": 0.9399
+   "hue": 194.95,
+   "light": 0.6091,
+   "chroma": 0.9516
   },
   {
    "id": "CRVI000780",
@@ -62969,7 +62969,7 @@
    "id": "CRVI001205",
    "published": true,
    "minted": "2026-09-03",
-   "punch": 0.0977,
+   "punch": 0.1347,
    "source_url": "https://www.discogs.com/release/3595311",
    "animated": false,
    "video": false,
@@ -62979,10 +62979,10 @@
    "original": "originals/CRVI001205.jpg",
    "vector": "",
    "original_px": [
-    1200,
-    1200
+    1022,
+    1026
    ],
-   "original_bytes": 1653295,
+   "original_bytes": 381484,
    "maker": "Bill Evans Trio",
    "title": "Portrait In Jazz",
    "subtitle": "Designed by Harris Lewine, Ken Braren, Paul Bacon, photograph by Melvin Sokolsky · Riverside Records RLP 12-315",
@@ -63033,9 +63033,9 @@
      "v": "neutral"
     }
    ],
-   "hue": 35.86,
-   "light": 0.344,
-   "chroma": 0.5249
+   "hue": 35.85,
+   "light": 0.1834,
+   "chroma": 0.7242
   },
   {
    "id": "CRVI001206",
@@ -65741,7 +65741,7 @@
    "id": "CRVI001260",
    "published": true,
    "minted": "2026-09-04",
-   "punch": 0.1218,
+   "punch": 0.1271,
    "source_url": "https://www.discogs.com/release/11080786",
    "animated": false,
    "video": false,
@@ -65751,10 +65751,10 @@
    "original": "originals/CRVI001260.jpg",
    "vector": "",
    "original_px": [
-    1000,
-    1000
+    980,
+    975
    ],
-   "original_bytes": 337793,
+   "original_bytes": 666018,
    "maker": "John Coltrane",
    "title": "Coltrane's Sound",
    "subtitle": "Designed by Marvin Israel · Atlantic 1419",
@@ -65793,15 +65793,15 @@
      "v": "white"
     }
    ],
-   "hue": 44.75,
-   "light": 0.6523,
-   "chroma": 0.6298
+   "hue": 44.83,
+   "light": 0.6366,
+   "chroma": 0.6617
   },
   {
    "id": "CRVI001261",
    "published": true,
    "minted": "2026-09-04",
-   "punch": 0.2115,
+   "punch": 0.225,
    "source_url": "https://www.discogs.com/release/9869129",
    "animated": false,
    "video": false,
@@ -65811,10 +65811,10 @@
    "original": "originals/CRVI001261.jpg",
    "vector": "",
    "original_px": [
-    1741,
-    1741
+    1671,
+    1673
    ],
-   "original_bytes": 1050434,
+   "original_bytes": 1460040,
    "maker": "Elvin Jones",
    "title": "Midnight Walk",
    "subtitle": "Designed by Marvin Israel, photograph by Lee Tanner · Atlantic 1485",
@@ -65857,9 +65857,9 @@
      "v": "green"
     }
    ],
-   "hue": 161.83,
-   "light": 0.3404,
-   "chroma": 0.7177
+   "hue": 161.77,
+   "light": 0.3066,
+   "chroma": 0.7512
   },
   {
    "id": "CRVI001262",
@@ -68533,7 +68533,7 @@
    "id": "CRVI001306",
    "published": true,
    "minted": "2026-09-04",
-   "punch": 0.3192,
+   "punch": 0.3351,
    "source_url": "",
    "animated": false,
    "video": false,
@@ -68543,10 +68543,10 @@
    "original": "originals/CRVI001306.jpg",
    "vector": "",
    "original_px": [
-    5000,
-    5000
+    4900,
+    4866
    ],
-   "original_bytes": 2494176,
+   "original_bytes": 10743382,
    "maker": "June Christy",
    "title": "Off Beat",
    "subtitle": "Designer unrecorded · Capitol T 1498",
@@ -68581,9 +68581,9 @@
      "v": "orange"
     }
    ],
-   "hue": 21.56,
-   "light": 0.6265,
-   "chroma": 0.9086
+   "hue": 21.61,
+   "light": 0.6084,
+   "chroma": 0.9483
   },
   {
    "id": "CRVI001307",
@@ -68889,7 +68889,7 @@
    "id": "CRVI001312",
    "published": true,
    "minted": "2026-09-04",
-   "punch": 0.2955,
+   "punch": 0.315,
    "source_url": "https://www.discogs.com/release/8630139",
    "animated": false,
    "video": false,
@@ -68899,10 +68899,10 @@
    "original": "originals/CRVI001312.jpg",
    "vector": "",
    "original_px": [
-    5000,
-    5000
+    4866,
+    4816
    ],
-   "original_bytes": 905165,
+   "original_bytes": 5148573,
    "maker": "Martin Denny",
    "title": "Exotica",
    "subtitle": "Photograph by Garrett-Howard · Liberty LRP 3034",
@@ -68937,9 +68937,9 @@
      "v": "orange"
     }
    ],
-   "hue": 22.83,
-   "light": 0.4802,
-   "chroma": 0.919
+   "hue": 22.74,
+   "light": 0.446,
+   "chroma": 0.9818
   },
   {
    "id": "CRVI001313",
@@ -69401,7 +69401,7 @@
    "id": "CRVI001321",
    "published": true,
    "minted": "2026-09-04",
-   "punch": 0.3186,
+   "punch": 0.3399,
    "source_url": "https://www.discogs.com/release/2697804",
    "animated": false,
    "video": false,
@@ -69411,10 +69411,10 @@
    "original": "originals/CRVI001321.jpg",
    "vector": "",
    "original_px": [
-    1500,
-    1500
+    1436,
+    1440
    ],
-   "original_bytes": 272548,
+   "original_bytes": 778251,
    "maker": "Sérgio Mendes",
    "title": "The Swinger From Rio",
    "subtitle": "Designed by Loring Eutemey, photograph by Hideoki · Atlantic 1434",
@@ -69457,9 +69457,9 @@
      "v": "green"
     }
    ],
-   "hue": 144.02,
-   "light": 0.3283,
-   "chroma": 0.7646
+   "hue": 144.07,
+   "light": 0.2852,
+   "chroma": 0.802
   },
   {
    "id": "CRVI001322",
@@ -70713,7 +70713,7 @@
    "id": "CRVI001350",
    "published": true,
    "minted": "2026-09-04",
-   "punch": 0.1726,
+   "punch": 0.1777,
    "source_url": "",
    "animated": false,
    "video": false,
@@ -70723,10 +70723,10 @@
    "original": "originals/CRVI001350.jpg",
    "vector": "",
    "original_px": [
-    1997,
-    2000
+    1964,
+    1973
    ],
-   "original_bytes": 725976,
+   "original_bytes": 1165833,
    "maker": "Elvis Costello & The Attractions",
    "title": "Almost Blue",
    "subtitle": "Designed by Barney Bubbles, photograph by Keith Morris · F-Beat",
@@ -70765,9 +70765,9 @@
      "v": "neutral"
     }
    ],
-   "hue": 203.32,
-   "light": 0.4937,
-   "chroma": 0.564
+   "hue": 203.29,
+   "light": 0.4781,
+   "chroma": 0.5751
   },
   {
    "id": "CRVI001351",
@@ -71137,7 +71137,7 @@
    "id": "CRVI001358",
    "published": true,
    "minted": "2026-09-05",
-   "punch": 0.0054,
+   "punch": 0.0097,
    "source_url": "",
    "animated": false,
    "video": false,
@@ -71147,10 +71147,10 @@
    "original": "originals/CRVI001358.jpg",
    "vector": "",
    "original_px": [
-    1800,
-    2400
+    1320,
+    1712
    ],
-   "original_bytes": 633008,
+   "original_bytes": 1063784,
    "maker": "Karl Haendel",
    "title": "Roses (inverted and flipped)",
    "subtitle": "Pencil on paper mounted on panel · 130.8 × 99.7 cm",
@@ -71182,7 +71182,7 @@
     }
    ],
    "hue": null,
-   "light": 0.6023,
+   "light": 0.3136,
    "chroma": 0.0
   },
   {
@@ -71469,7 +71469,7 @@
    "id": "CRVI001364",
    "published": true,
    "minted": "2026-09-05",
-   "punch": 0.0914,
+   "punch": 0.0938,
    "source_url": "https://dgmono.com/records/blue-note-1519/",
    "animated": false,
    "video": false,
@@ -71479,10 +71479,10 @@
    "original": "originals/CRVI001364.jpg",
    "vector": "",
    "original_px": [
-    1500,
-    1500
+    1480,
+    1478
    ],
-   "original_bytes": 452075,
+   "original_bytes": 841200,
    "maker": "Herbie Nichols Trio",
    "title": "Herbie Nichols Trio",
    "subtitle": "Designed by Reid Miles, photograph by Francis Wolff · Blue Note 1519",
@@ -71525,15 +71525,15 @@
      "v": "neutral"
     }
    ],
-   "hue": 23.6,
-   "light": 0.5129,
-   "chroma": 0.1901
+   "hue": 23.62,
+   "light": 0.499,
+   "chroma": 0.1949
   },
   {
    "id": "CRVI001365",
    "published": true,
    "minted": "2026-09-05",
-   "punch": 0.1952,
+   "punch": 0.2056,
    "source_url": "https://dgmono.com/records/blue-note-1542/",
    "animated": false,
    "video": false,
@@ -71543,10 +71543,10 @@
    "original": "originals/CRVI001365.jpg",
    "vector": "",
    "original_px": [
-    1500,
-    1500
+    1463,
+    1462
    ],
-   "original_bytes": 558033,
+   "original_bytes": 986911,
    "maker": "Sonny Rollins",
    "title": "Sonny Rollins, Volume 1",
    "subtitle": "Designed by Reid Miles, photograph by Francis Wolff · Blue Note 1542",
@@ -71589,15 +71589,15 @@
      "v": "neutral"
     }
    ],
-   "hue": 247.04,
-   "light": 0.3416,
-   "chroma": 0.4548
+   "hue": 247.21,
+   "light": 0.3076,
+   "chroma": 0.4702
   },
   {
    "id": "CRVI001366",
    "published": true,
    "minted": "2026-09-05",
-   "punch": 0.0227,
+   "punch": 0.0237,
    "source_url": "https://dgmono.com/records/blue-note-1543/",
    "animated": false,
    "video": false,
@@ -71607,10 +71607,10 @@
    "original": "originals/CRVI001366.jpg",
    "vector": "",
    "original_px": [
-    1500,
-    1500
+    1450,
+    1470
    ],
-   "original_bytes": 370809,
+   "original_bytes": 658371,
    "maker": "Kenny Burrell",
    "title": "Kenny Burrell",
    "subtitle": "Cover drawing by Andy Warhol · Blue Note 1543",
@@ -71650,14 +71650,14 @@
     }
    ],
    "hue": null,
-   "light": 0.8717,
-   "chroma": 0.0272
+   "light": 0.8652,
+   "chroma": 0.0291
   },
   {
    "id": "CRVI001367",
    "published": true,
    "minted": "2026-09-05",
-   "punch": 0.0308,
+   "punch": 0.0317,
    "source_url": "https://dgmono.com/records/blue-note-4166/",
    "animated": false,
    "video": false,
@@ -71667,10 +71667,10 @@
    "original": "originals/CRVI001367.jpg",
    "vector": "",
    "original_px": [
-    1500,
-    1500
+    1478,
+    1480
    ],
-   "original_bytes": 180814,
+   "original_bytes": 407401,
    "maker": "Joe Henderson",
    "title": "In 'n Out",
    "subtitle": "Designed by Reid Miles, photograph by Francis Wolff · Blue Note 4166",
@@ -71713,15 +71713,15 @@
      "v": "white"
     }
    ],
-   "hue": 53.34,
-   "light": 0.6295,
-   "chroma": 0.1914
+   "hue": 53.16,
+   "light": 0.6193,
+   "chroma": 0.1911
   },
   {
    "id": "CRVI001368",
    "published": true,
    "minted": "2026-09-05",
-   "punch": 0.0221,
+   "punch": 0.0232,
    "source_url": "https://dgmono.com/records/prestige-7028/",
    "animated": false,
    "video": false,
@@ -71731,10 +71731,10 @@
    "original": "originals/CRVI001368.jpg",
    "vector": "",
    "original_px": [
-    1500,
-    1500
+    1460,
+    1460
    ],
-   "original_bytes": 375500,
+   "original_bytes": 832319,
    "maker": "Teddy Charles",
    "title": "Collaboration West",
    "subtitle": "Designed by Reid Miles · Prestige 7028",
@@ -71774,14 +71774,14 @@
     }
    ],
    "hue": null,
-   "light": 0.535,
-   "chroma": 0.0177
+   "light": 0.5099,
+   "chroma": 0.0179
   },
   {
    "id": "CRVI001369",
    "published": true,
    "minted": "2026-09-05",
-   "punch": 0.4298,
+   "punch": 0.4453,
    "source_url": "https://dgmono.com/records/prestige-7054/",
    "animated": false,
    "video": false,
@@ -71791,10 +71791,10 @@
    "original": "originals/CRVI001369.jpg",
    "vector": "",
    "original_px": [
-    1500,
-    1500
+    1472,
+    1475
    ],
-   "original_bytes": 266379,
+   "original_bytes": 593299,
    "maker": "Miles Davis",
    "title": "Blue Haze",
    "subtitle": "Designed by Tom Hannan · Prestige 7054",
@@ -71837,15 +71837,15 @@
      "v": "green"
     }
    ],
-   "hue": 196.4,
-   "light": 0.587,
-   "chroma": 0.7881
+   "hue": 196.47,
+   "light": 0.5722,
+   "chroma": 0.8112
   },
   {
    "id": "CRVI001370",
    "published": true,
    "minted": "2026-09-05",
-   "punch": 0.1443,
+   "punch": 0.1479,
    "source_url": "https://dgmono.com/records/prestige-7266/",
    "animated": false,
    "video": false,
@@ -71855,10 +71855,10 @@
    "original": "originals/CRVI001370.jpg",
    "vector": "",
    "original_px": [
-    1500,
-    1500
+    1477,
+    1488
    ],
-   "original_bytes": 306360,
+   "original_bytes": 607366,
    "maker": "Frank Wess",
    "title": "Yo Ho! / Poor You, Little Me",
    "subtitle": "Designer unrecorded · Prestige 7266",
@@ -71893,15 +71893,15 @@
      "v": "black"
     }
    ],
-   "hue": 5.33,
-   "light": 0.2685,
-   "chroma": 0.2844
+   "hue": 5.08,
+   "light": 0.2508,
+   "chroma": 0.2998
   },
   {
    "id": "CRVI001371",
    "published": true,
    "minted": "2026-09-05",
-   "punch": 0.4234,
+   "punch": 0.4427,
    "source_url": "https://dgmono.com/records/new-jazz-8206/",
    "animated": false,
    "video": false,
@@ -71911,10 +71911,10 @@
    "original": "originals/CRVI001371.jpg",
    "vector": "",
    "original_px": [
-    1500,
-    1500
+    1465,
+    1467
    ],
-   "original_bytes": 476021,
+   "original_bytes": 950585,
    "maker": "Steve Lacy",
    "title": "Reflections: Steve Lacy Plays Thelonious Monk",
    "subtitle": "Designer unrecorded · New Jazz 8206",
@@ -71953,15 +71953,15 @@
      "v": "green"
     }
    ],
-   "hue": 69.47,
-   "light": 0.3493,
-   "chroma": 0.8145
+   "hue": 69.4,
+   "light": 0.3193,
+   "chroma": 0.8483
   },
   {
    "id": "CRVI001372",
    "published": true,
    "minted": "2026-09-05",
-   "punch": 0.3105,
+   "punch": 0.3263,
    "source_url": "https://dgmono.com/records/new-jazz-8252/",
    "animated": false,
    "video": false,
@@ -71971,10 +71971,10 @@
    "original": "originals/CRVI001372.jpg",
    "vector": "",
    "original_px": [
-    1500,
-    1500
+    1447,
+    1480
    ],
-   "original_bytes": 372531,
+   "original_bytes": 763310,
    "maker": "Eric Dolphy",
    "title": "Out There",
    "subtitle": "Cover painting by Richard “Prophet” Jennings · New Jazz 8252",
@@ -72017,15 +72017,15 @@
      "v": "red"
     }
    ],
-   "hue": 17.7,
-   "light": 0.3459,
-   "chroma": 0.7938
+   "hue": 17.68,
+   "light": 0.3128,
+   "chroma": 0.8407
   },
   {
    "id": "CRVI001373",
    "published": true,
    "minted": "2026-09-05",
-   "punch": 0.0449,
+   "punch": 0.0466,
    "source_url": "https://dgmono.com/records/emarcy-36140/",
    "animated": false,
    "video": false,
@@ -72035,10 +72035,10 @@
    "original": "originals/CRVI001373.jpg",
    "vector": "",
    "original_px": [
-    1500,
-    1500
+    1470,
+    1473
    ],
-   "original_bytes": 164573,
+   "original_bytes": 397985,
    "maker": "Max Roach",
    "title": "Max Roach + 4 at Newport",
    "subtitle": "Designed by Emmett McBain · EmArcy 36140",
@@ -72077,15 +72077,15 @@
      "v": "white"
     }
    ],
-   "hue": 157.27,
-   "light": 0.622,
-   "chroma": 0.2877
+   "hue": 157.39,
+   "light": 0.6071,
+   "chroma": 0.2951
   },
   {
    "id": "CRVI001374",
    "published": true,
    "minted": "2026-09-05",
-   "punch": 0.1137,
+   "punch": 0.1187,
    "source_url": "https://dgmono.com/records/emarcy-36062/",
    "animated": false,
    "video": false,
@@ -72095,10 +72095,10 @@
    "original": "originals/CRVI001374.jpg",
    "vector": "",
    "original_px": [
-    1500,
-    1500
+    1460,
+    1475
    ],
-   "original_bytes": 513779,
+   "original_bytes": 999347,
    "maker": "Max Brüel Quartet",
    "title": "Cool Bruel",
    "subtitle": "Designer unrecorded · EmArcy 36062",
@@ -72133,15 +72133,15 @@
      "v": "black"
     }
    ],
-   "hue": 46.95,
-   "light": 0.28,
-   "chroma": 0.2744
+   "hue": 46.94,
+   "light": 0.2481,
+   "chroma": 0.2999
   },
   {
    "id": "CRVI001375",
    "published": true,
    "minted": "2026-09-05",
-   "punch": 0.0364,
+   "punch": 0.0378,
    "source_url": "https://dgmono.com/records/riverside-235/",
    "animated": false,
    "video": false,
@@ -72151,10 +72151,10 @@
    "original": "originals/CRVI001375.jpg",
    "vector": "",
    "original_px": [
-    1500,
-    1500
+    1478,
+    1467
    ],
-   "original_bytes": 248763,
+   "original_bytes": 608515,
    "maker": "Thelonious Monk",
    "title": "Thelonious Himself",
    "subtitle": "Designed by Paul Bacon, photograph by Paul Weller · Riverside 12-235",
@@ -72197,15 +72197,15 @@
      "v": "black"
     }
    ],
-   "hue": 53.31,
-   "light": 0.2282,
-   "chroma": 0.1459
+   "hue": 52.83,
+   "light": 0.1988,
+   "chroma": 0.154
   },
   {
    "id": "CRVI001376",
    "published": true,
    "minted": "2026-09-05",
-   "punch": 0.0989,
+   "punch": 0.1028,
    "source_url": "https://dgmono.com/records/riverside-280/",
    "animated": false,
    "video": false,
@@ -72215,10 +72215,10 @@
    "original": "originals/CRVI001376.jpg",
    "vector": "",
    "original_px": [
-    1500,
-    1500
+    1475,
+    1468
    ],
-   "original_bytes": 764278,
+   "original_bytes": 1275241,
    "maker": "Max Roach",
    "title": "Deeds, Not Words",
    "subtitle": "Designed by Paul Bacon, photograph by Lawrence N. Shustak · Riverside 12-280",
@@ -72261,15 +72261,15 @@
      "v": "neutral"
     }
    ],
-   "hue": 37.93,
-   "light": 0.3537,
-   "chroma": 0.2485
+   "hue": 38.03,
+   "light": 0.3281,
+   "chroma": 0.2569
   },
   {
    "id": "CRVI001377",
    "published": true,
    "minted": "2026-09-05",
-   "punch": 0.2781,
+   "punch": 0.296,
    "source_url": "https://dgmono.com/records/esquire-75/",
    "animated": false,
    "video": false,
@@ -72279,10 +72279,10 @@
    "original": "originals/CRVI001377.jpg",
    "vector": "",
    "original_px": [
-    1500,
-    1500
+    1452,
+    1455
    ],
-   "original_bytes": 475441,
+   "original_bytes": 875305,
    "maker": "Thelonious Monk Trio",
    "title": "Thelonious Monk Trio",
    "subtitle": "Designer unrecorded · Esquire 75",
@@ -72321,9 +72321,9 @@
      "v": "yellow"
     }
    ],
-   "hue": 5.09,
-   "light": 0.6119,
-   "chroma": 0.7588
+   "hue": 5.03,
+   "light": 0.587,
+   "chroma": 0.8032
   },
   {
    "id": "CRVI001378",
@@ -72445,7 +72445,7 @@
    "id": "CRVI001380",
    "published": true,
    "minted": "2026-09-05",
-   "punch": 0.1512,
+   "punch": 0.1571,
    "source_url": "https://dgmono.com/records/bethlehem-1015/",
    "animated": false,
    "video": false,
@@ -72455,10 +72455,10 @@
    "original": "originals/CRVI001380.jpg",
    "vector": "",
    "original_px": [
-    1500,
-    1500
+    1462,
+    1480
    ],
-   "original_bytes": 275891,
+   "original_bytes": 544352,
    "maker": "Terry Pollard",
    "title": "Terry Pollard",
    "subtitle": "Designed by Burt Goldblatt · Bethlehem 1015",
@@ -72501,15 +72501,15 @@
      "v": "black"
     }
    ],
-   "hue": 55.4,
-   "light": 0.1606,
-   "chroma": 0.3012
+   "hue": 55.35,
+   "light": 0.1273,
+   "chroma": 0.3141
   },
   {
    "id": "CRVI001381",
    "published": true,
    "minted": "2026-09-05",
-   "punch": 0.1246,
+   "punch": 0.1289,
    "source_url": "https://dgmono.com/records/united-artists-4020/",
    "animated": false,
    "video": false,
@@ -72519,10 +72519,10 @@
    "original": "originals/CRVI001381.jpg",
    "vector": "",
    "original_px": [
-    1500,
-    1500
+    1475,
+    1472
    ],
-   "original_bytes": 413919,
+   "original_bytes": 804213,
    "maker": "Benny Golson",
    "title": "Benny Golson and the Philadelphians",
    "subtitle": "Designer unrecorded · United Artists 4020",
@@ -72557,9 +72557,9 @@
      "v": "white"
     }
    ],
-   "hue": 344.77,
-   "light": 0.8025,
-   "chroma": 0.5605
+   "hue": 23.26,
+   "light": 0.7956,
+   "chroma": 0.5753
   },
   {
    "id": "CRVI001382",
@@ -72937,7 +72937,7 @@
    "id": "CRVI001389",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.4375,
+   "punch": 0.4869,
    "source_url": "https://www.discogs.com/release/940131",
    "animated": false,
    "video": false,
@@ -72947,10 +72947,10 @@
    "original": "originals/CRVI001389.jpg",
    "vector": "",
    "original_px": [
-    1060,
-    1060
+    953,
+    952
    ],
-   "original_bytes": 223109,
+   "original_bytes": 345252,
    "maker": "Al Hansen",
    "title": "Joseph Beuys Stuka Dive Bomber Piece & Other Stories",
    "subtitle": "Al Hansen · Slowscan vol. 20",
@@ -72985,9 +72985,9 @@
      "v": "red"
     }
    ],
-   "hue": 356.04,
-   "light": 0.5293,
-   "chroma": 0.9206
+   "hue": 355.91,
+   "light": 0.5736,
+   "chroma": 0.9121
   },
   {
    "id": "CRVI001390",
@@ -74409,7 +74409,7 @@
    "id": "CRVI001416",
    "published": true,
    "minted": "2026-09-05",
-   "punch": 0.1876,
+   "punch": 0.2166,
    "source_url": "https://designobserver.com/wp-content/uploads/2024/06/39475-5.jpg",
    "animated": false,
    "video": false,
@@ -74419,10 +74419,10 @@
    "original": "originals/CRVI001416.jpg",
    "vector": "",
    "original_px": [
-    1185,
-    1176
+    909,
+    1074
    ],
-   "original_bytes": 264019,
+   "original_bytes": 588981,
    "maker": "Paul Bacon, Ken Braren and Harris Lewine",
    "title": "The Unique Thelonious Monk",
    "subtitle": "Album cover · Riverside RLP 12-209",
@@ -74469,9 +74469,9 @@
      "v": "white"
     }
    ],
-   "hue": 44.26,
-   "light": 0.688,
-   "chroma": 0.846
+   "hue": 46.15,
+   "light": 0.6061,
+   "chroma": 0.7963
   },
   {
    "id": "CRVI001417",
@@ -76853,7 +76853,7 @@
    "id": "CRVI001465",
    "published": true,
    "minted": "2026-09-05",
-   "punch": 0.1299,
+   "punch": 0.1292,
    "source_url": "https://www.artic.edu/iiif/2/6242ca61-a2f4-d787-6e31-f8488249dab5/full/843,/0/default.jpg",
    "animated": false,
    "video": false,
@@ -76863,10 +76863,10 @@
    "original": "originals/CRVI001465.jpg",
    "vector": "",
    "original_px": [
-    843,
-    908
+    821,
+    889
    ],
-   "original_bytes": 207008,
+   "original_bytes": 242285,
    "maker": "Simeon Solomon",
    "title": "Self-Portrait",
    "subtitle": "",
@@ -76897,9 +76897,9 @@
      "v": "white"
     }
    ],
-   "hue": 25.32,
-   "light": 0.7514,
-   "chroma": 0.6971
+   "hue": 25.16,
+   "light": 0.7431,
+   "chroma": 0.6823
   },
   {
    "id": "CRVI001466",
@@ -77789,7 +77789,7 @@
    "id": "CRVI001483",
    "published": true,
    "minted": "2026-09-05",
-   "punch": 0.2654,
+   "punch": 0.2717,
    "source_url": "https://i.pinimg.com/originals/f5/a3/b9/f5a3b9d6af293005062980d3e8e85d12.jpg",
    "animated": false,
    "video": false,
@@ -77799,10 +77799,10 @@
    "original": "originals/CRVI001483.jpg",
    "vector": "",
    "original_px": [
-    1280,
-    1199
+    1256,
+    1179
    ],
-   "original_bytes": 383097,
+   "original_bytes": 1044864,
    "maker": "Hannah Höch",
    "title": "Collage of eyes in a vase",
    "subtitle": "",
@@ -77829,15 +77829,15 @@
      "v": "orange"
     }
    ],
-   "hue": 24.62,
-   "light": 0.578,
-   "chroma": 0.7711
+   "hue": 24.66,
+   "light": 0.5654,
+   "chroma": 0.7642
   },
   {
    "id": "CRVI001484",
    "published": true,
    "minted": "2026-09-05",
-   "punch": 0.2313,
+   "punch": 0.2338,
    "source_url": "https://i.pinimg.com/originals/56/5c/d3/565cd36c03778f7b043d19713089c3ca.jpg",
    "animated": false,
    "video": false,
@@ -77847,10 +77847,10 @@
    "original": "originals/CRVI001484.jpg",
    "vector": "",
    "original_px": [
-    1671,
-    2000
+    1662,
+    1985
    ],
-   "original_bytes": 657597,
+   "original_bytes": 1660561,
    "maker": "Hannah Höch",
    "title": "Photomontage with a man holding a white cat",
    "subtitle": "",
@@ -77877,9 +77877,9 @@
      "v": "orange"
     }
    ],
-   "hue": 33.99,
-   "light": 0.5881,
-   "chroma": 0.8437
+   "hue": 33.96,
+   "light": 0.5839,
+   "chroma": 0.8453
   },
   {
    "id": "CRVI001485",
@@ -79629,7 +79629,7 @@
    "id": "CRVI001516",
    "published": true,
    "minted": "2026-09-05",
-   "punch": 0.1537,
+   "punch": 0.1815,
    "source_url": "https://p1.liveauctioneers.com/6975/321217/172678375_1_x.jpg?quality=80&version=1709200651",
    "animated": false,
    "video": false,
@@ -79639,10 +79639,10 @@
    "original": "originals/CRVI001516.jpg",
    "vector": "",
    "original_px": [
-    1500,
-    2000
+    1383,
+    1835
    ],
-   "original_bytes": 165278,
+   "original_bytes": 479967,
    "maker": "Ilya Chashnik",
    "title": "Suprematist composition",
    "subtitle": "",
@@ -79670,8 +79670,8 @@
     }
    ],
    "hue": 43.15,
-   "light": 0.7661,
-   "chroma": 0.7769
+   "light": 0.7241,
+   "chroma": 0.911
   },
   {
    "id": "CRVI001517",
@@ -83865,7 +83865,7 @@
    "id": "CRVI001596",
    "published": true,
    "minted": "2026-09-05",
-   "punch": 0.0871,
+   "punch": 0.0879,
    "source_url": "https://openaccess-cdn.clevelandart.org/1958.344/1958.344_print.jpg",
    "animated": false,
    "video": false,
@@ -83875,10 +83875,10 @@
    "original": "originals/CRVI001596.jpg",
    "vector": "",
    "original_px": [
-    2607,
-    3400
+    2542,
+    3363
    ],
-   "original_bytes": 8893029,
+   "original_bytes": 5520376,
    "maker": "Georges Seurat",
    "title": "At the Concert Parisien",
    "subtitle": "",
@@ -83917,9 +83917,9 @@
      "v": "neutral"
     }
    ],
-   "hue": 35.38,
-   "light": 0.3818,
-   "chroma": 0.1682
+   "hue": 35.0,
+   "light": 0.3606,
+   "chroma": 0.1591
   },
   {
    "id": "CRVI001597",
@@ -84937,7 +84937,7 @@
    "id": "CRVI001616",
    "published": true,
    "minted": "2026-09-06",
-   "punch": 0.0927,
+   "punch": 0.1361,
    "source_url": "https://uploads5.wikiart.org/images/charles-rennie-mackintosh/d-cor-de-la-salle-manger-house-for-an-art-lover-glasgow-1901-2.jpg",
    "animated": false,
    "video": false,
@@ -84947,10 +84947,10 @@
    "original": "originals/CRVI001616.jpg",
    "vector": "",
    "original_px": [
-    900,
-    1200
+    648,
+    1128
    ],
-   "original_bytes": 795593,
+   "original_bytes": 673621,
    "maker": "Charles Rennie Mackintosh",
    "title": "Décor de la salle à manger, House for an Art Lover, Glasgow",
    "subtitle": "",
@@ -84981,9 +84981,9 @@
      "v": "neutral"
     }
    ],
-   "hue": 35.23,
-   "light": 0.4845,
-   "chroma": 0.5438
+   "hue": 35.26,
+   "light": 0.7154,
+   "chroma": 0.7926
   },
   {
    "id": "CRVI001617",
@@ -89169,7 +89169,7 @@
    "id": "CRVI001693",
    "published": true,
    "minted": "2026-09-06",
-   "punch": 0.2926,
+   "punch": 0.3284,
    "source_url": "https://www.artic.edu/iiif/2/2ffb82c0-6252-c97c-d2bc-be8e9987a218/full/843,/0/default.jpg",
    "animated": false,
    "video": false,
@@ -89179,10 +89179,10 @@
    "original": "originals/CRVI001693.jpg",
    "vector": "",
    "original_px": [
-    843,
-    1220
+    769,
+    1159
    ],
-   "original_bytes": 298884,
+   "original_bytes": 337737,
    "maker": "Filippo Tommaso Marinetti",
    "title": "Les mots en liberté futuristes",
    "subtitle": "Book",
@@ -89217,9 +89217,9 @@
      "v": "orange"
     }
    ],
-   "hue": 27.73,
-   "light": 0.6295,
-   "chroma": 0.8575
+   "hue": 28.03,
+   "light": 0.6543,
+   "chroma": 0.9887
   },
   {
    "id": "CRVI001694",
@@ -92301,7 +92301,7 @@
    "id": "CRVI001752",
    "published": true,
    "minted": "2026-09-06",
-   "punch": 0.1411,
+   "punch": 0.1418,
    "source_url": "https://thecharnelhouse.org/wp-content/uploads/2013/11/walter-gropius-bauhaus-master-houses-dessau-isometric-site-plan-1925-1926-ink-and-gouache-on-tracing-paper-38-x-90-7cm.jpeg",
    "animated": false,
    "video": false,
@@ -92311,10 +92311,10 @@
    "original": "originals/CRVI001752.jpg",
    "vector": "",
    "original_px": [
-    2696,
-    3642
+    2688,
+    3636
    ],
-   "original_bytes": 2942058,
+   "original_bytes": 3641003,
    "maker": "Walter Gropius",
    "title": "Bauhaus Master Houses, Dessau: isometric site plan",
    "subtitle": "",
@@ -92357,9 +92357,9 @@
      "v": "neutral"
     }
    ],
-   "hue": 30.57,
-   "light": 0.5519,
-   "chroma": 0.5474
+   "hue": 30.55,
+   "light": 0.5497,
+   "chroma": 0.5458
   },
   {
    "id": "CRVI001753",
@@ -97929,7 +97929,7 @@
    "id": "CRVI001861",
    "published": true,
    "minted": "2026-09-06",
-   "punch": 0.0632,
+   "punch": 0.0892,
    "source_url": "https://www.moma.org/media/W1siZiIsIjI2NTgwMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=d0898d061d6ed58a",
    "animated": false,
    "video": false,
@@ -97939,10 +97939,10 @@
    "original": "originals/CRVI001861.jpg",
    "vector": "",
    "original_px": [
-    1755,
-    2000
+    1393,
+    1231
    ],
-   "original_bytes": 590205,
+   "original_bytes": 627676,
    "maker": "Unidentified",
    "title": "Graphis 118",
    "subtitle": "",
@@ -97961,9 +97961,9 @@
      "v": "white"
     }
    ],
-   "hue": 39.49,
-   "light": 0.894,
-   "chroma": 0.808
+   "hue": 38.7,
+   "light": 0.8589,
+   "chroma": 0.9366
   },
   {
    "id": "CRVI001862",
@@ -98017,7 +98017,7 @@
    "id": "CRVI001863",
    "published": true,
    "minted": "2026-09-06",
-   "punch": 0.1459,
+   "punch": 0.1563,
    "source_url": "https://uploads3.wikiart.org/00336/images/donald-judd/untitled-drawing-1963.jpg",
    "animated": false,
    "video": false,
@@ -98027,10 +98027,10 @@
    "original": "originals/CRVI001863.jpg",
    "vector": "",
    "original_px": [
-    1200,
-    933
+    1135,
+    870
    ],
-   "original_bytes": 129422,
+   "original_bytes": 243242,
    "maker": "Donald Judd",
    "title": "Untitled (drawing)",
    "subtitle": "",
@@ -98065,9 +98065,9 @@
      "v": "white"
     }
    ],
-   "hue": 35.18,
-   "light": 0.814,
-   "chroma": 0.9187
+   "hue": 35.19,
+   "light": 0.8118,
+   "chroma": 0.9999
   },
   {
    "id": "CRVI001864",
@@ -98513,7 +98513,7 @@
    "id": "CRVI001872",
    "published": true,
    "minted": "2026-09-06",
-   "punch": 0.1624,
+   "punch": 0.1732,
    "source_url": "https://uploads8.wikiart.org/images/agnes-martin/aspiration-1960.jpg",
    "animated": false,
    "video": false,
@@ -98523,10 +98523,10 @@
    "original": "originals/CRVI001872.jpg",
    "vector": "",
    "original_px": [
-    1116,
-    1385
+    1075,
+    1348
    ],
-   "original_bytes": 1738402,
+   "original_bytes": 911045,
    "maker": "Agnes Martin",
    "title": "Aspiration",
    "subtitle": "",
@@ -98562,8 +98562,8 @@
     }
    ],
    "hue": 45.01,
-   "light": 0.8154,
-   "chroma": 0.9267
+   "light": 0.8032,
+   "chroma": 0.9898
   },
   {
    "id": "CRVI001873",
@@ -99393,7 +99393,7 @@
    "id": "CRVI001888",
    "published": true,
    "minted": "2026-09-06",
-   "punch": 0.1533,
+   "punch": 0.1958,
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Alighiero_Boetti_Torino_1940_%E2%80%93_Roma_1994_Collezione_Privata.jpg",
    "animated": false,
    "video": false,
@@ -99403,10 +99403,10 @@
    "original": "originals/CRVI001888.jpg",
    "vector": "",
    "original_px": [
-    1999,
-    1317
+    1719,
+    1183
    ],
-   "original_bytes": 676749,
+   "original_bytes": 1024796,
    "maker": "Alighiero Boetti",
    "title": "Untitled",
    "subtitle": "",
@@ -99433,9 +99433,9 @@
      "v": "neutral"
     }
    ],
-   "hue": 354.42,
-   "light": 0.5915,
-   "chroma": 0.4747
+   "hue": 354.0,
+   "light": 0.5006,
+   "chroma": 0.6066
   },
   {
    "id": "CRVI001889",
@@ -110165,7 +110165,7 @@
    "id": "CRVI002114",
    "published": true,
    "minted": "2026-09-06",
-   "punch": 0.0088,
+   "punch": 0.0084,
    "source_url": "https://artinfo-production.s3.waw.io.cloud.ovh.net/uploads/artwork/image/62997/311.jpg",
    "animated": false,
    "video": false,
@@ -110175,10 +110175,10 @@
    "original": "originals/CRVI002114.jpg",
    "vector": "",
    "original_px": [
-    885,
-    1200
+    821,
+    1159
    ],
-   "original_bytes": 841270,
+   "original_bytes": 907280,
    "maker": "Tadeusz Kantor",
    "title": "Drawing",
    "subtitle": "",
@@ -110202,14 +110202,14 @@
     }
    ],
    "hue": null,
-   "light": 0.6145,
+   "light": 0.5742,
    "chroma": 0.0
   },
   {
    "id": "CRVI002115",
    "published": true,
    "minted": "2026-09-06",
-   "punch": 0.3213,
+   "punch": 0.3248,
    "source_url": "https://uploads4.wikiart.org/images/philip-guston/untitled-3.jpg",
    "animated": false,
    "video": false,
@@ -110220,9 +110220,9 @@
    "vector": "",
    "original_px": [
     1500,
-    1181
+    1165
    ],
-   "original_bytes": 212468,
+   "original_bytes": 680192,
    "maker": "Philip Guston",
    "title": "Untitled",
    "subtitle": "",
@@ -110245,9 +110245,9 @@
      "v": "orange"
     }
    ],
-   "hue": 37.33,
-   "light": 0.4775,
-   "chroma": 0.9749
+   "hue": 37.29,
+   "light": 0.472,
+   "chroma": 0.9771
   },
   {
    "id": "CRVI002116",
@@ -111237,7 +111237,7 @@
    "id": "CRVI002137",
    "published": true,
    "minted": "2026-09-06",
-   "punch": 0.1869,
+   "punch": 0.2019,
    "source_url": "https://uploads4.wikiart.org/00335/images/martha-rosler/photo-op-from-the-series-bringing-the-war-home-house-beautiful-c-2004-2008.jpg",
    "animated": false,
    "video": false,
@@ -111247,10 +111247,10 @@
    "original": "originals/CRVI002137.jpg",
    "vector": "",
    "original_px": [
-    1100,
-    934
+    1059,
+    890
    ],
-   "original_bytes": 494200,
+   "original_bytes": 544636,
    "maker": "Martha Rosler",
    "title": "Photo Op, from House Beautiful: Bringing the War Home",
    "subtitle": "",
@@ -111277,9 +111277,9 @@
      "v": "neutral"
     }
    ],
-   "hue": 15.38,
-   "light": 0.5724,
-   "chroma": 0.5284
+   "hue": 15.43,
+   "light": 0.5354,
+   "chroma": 0.5686
   },
   {
    "id": "CRVI002138",
@@ -116077,7 +116077,7 @@
    "id": "CRVI002234",
    "published": true,
    "minted": "2026-09-06",
-   "punch": 0.173,
+   "punch": 0.1902,
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Oscar_schlemmer%2C_danza_bauhaus%2C_danza_coi_pali%2C_1928.jpg",
    "animated": false,
    "video": false,
@@ -116087,10 +116087,10 @@
    "original": "originals/CRVI002234.jpg",
    "vector": "",
    "original_px": [
-    3678,
-    2850
+    3393,
+    2609
    ],
-   "original_bytes": 5143653,
+   "original_bytes": 2946733,
    "maker": "Oskar Schlemmer",
    "title": "Danza coi pali (Stäbetanz)",
    "subtitle": "",
@@ -116125,9 +116125,9 @@
      "v": "neutral"
     }
    ],
-   "hue": 33.49,
-   "light": 0.5876,
-   "chroma": 0.7401
+   "hue": 33.31,
+   "light": 0.5739,
+   "chroma": 0.8633
   },
   {
    "id": "CRVI002235",
@@ -116541,7 +116541,7 @@
    "id": "CRVI002244",
    "published": true,
    "minted": "2026-09-06",
-   "punch": 0.1998,
+   "punch": 0.2051,
    "source_url": "https://i.pinimg.com/originals/bf/06/2f/bf062ffe464f76f5dea3ae9f813d09f1.jpg",
    "animated": false,
    "video": false,
@@ -116551,10 +116551,10 @@
    "original": "originals/CRVI002244.jpg",
    "vector": "",
    "original_px": [
-    1800,
-    1517
+    1776,
+    1494
    ],
-   "original_bytes": 234359,
+   "original_bytes": 771499,
    "maker": "unattributed",
    "title": "Bauhaussiedlung Dessau-Törten, axonometric",
    "subtitle": "",
@@ -116577,9 +116577,9 @@
      "v": "white"
     }
    ],
-   "hue": 46.71,
-   "light": 0.7146,
-   "chroma": 0.8111
+   "hue": 46.67,
+   "light": 0.7078,
+   "chroma": 0.8346
   },
   {
    "id": "CRVI002245",
@@ -122461,7 +122461,7 @@
    "id": "CRVI002365",
    "published": true,
    "minted": "2026-09-07",
-   "punch": 0.055,
+   "punch": 0.0922,
    "source_url": "https://www.wright20.com/items/index/2000/133_1_mass_modern_july_2013_tauba_auerbach_untitled_the_whole_alphabet_from_the_center_out__wright_auction.jpg?t=1687362157",
    "animated": false,
    "video": false,
@@ -122471,10 +122471,10 @@
    "original": "originals/CRVI002365.jpg",
    "vector": "",
    "original_px": [
-    3000,
-    3000
+    1925,
+    2825
    ],
-   "original_bytes": 495922,
+   "original_bytes": 1129657,
    "maker": "Tauba Auerbach",
    "title": "Untitled (The Whole Alphabet, From the Center Out)",
    "subtitle": "",
@@ -122497,9 +122497,9 @@
      "v": "white"
     }
    ],
-   "hue": 54.0,
-   "light": 0.8228,
-   "chroma": 0.1704
+   "hue": 215.06,
+   "light": 0.7386,
+   "chroma": 0.2858
   },
   {
    "id": "CRVI002366",
@@ -123373,7 +123373,7 @@
    "id": "CRVI002384",
    "published": true,
    "minted": "2026-09-07",
-   "punch": 0.1019,
+   "punch": 0.1067,
    "source_url": "https://img1.wsimg.com/isteam/ip/5066a8fc-6528-4007-92fd-2578fda82c6a/cri_000000246538-0001.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:1240,cg:true",
    "animated": false,
    "video": false,
@@ -123383,10 +123383,10 @@
    "original": "originals/CRVI002384.jpg",
    "vector": "",
    "original_px": [
-    2000,
-    1988
+    1950,
+    1937
    ],
-   "original_bytes": 649561,
+   "original_bytes": 1048125,
    "maker": "Dick Higgins",
    "title": "Graphis No. 82",
    "subtitle": "",
@@ -123425,9 +123425,9 @@
      "v": "white"
     }
    ],
-   "hue": 37.08,
-   "light": 0.8049,
-   "chroma": 0.8454
+   "hue": 37.1,
+   "light": 0.7955,
+   "chroma": 0.8804
   },
   {
    "id": "CRVI002385",
@@ -125005,7 +125005,7 @@
    "id": "CRVI002413",
    "published": true,
    "minted": "2026-09-07",
-   "punch": 0.1603,
+   "punch": 0.1674,
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Filippo_tommaso_marinetti%2C_parole_in_libert%C3%A0%2C_treni%2C_1910%2C_02.JPG",
    "animated": false,
    "video": false,
@@ -125015,10 +125015,10 @@
    "original": "originals/CRVI002413.jpg",
    "vector": "",
    "original_px": [
-    1780,
-    2368
+    1714,
+    2305
    ],
-   "original_bytes": 3083023,
+   "original_bytes": 1619959,
    "maker": "Filippo Tommaso Marinetti",
    "title": "Treni (parole in libertà)",
    "subtitle": "",
@@ -125049,9 +125049,9 @@
      "v": "white"
     }
    ],
-   "hue": 43.06,
-   "light": 0.7651,
-   "chroma": 0.9179
+   "hue": 43.04,
+   "light": 0.7578,
+   "chroma": 0.9419
   },
   {
    "id": "CRVI002414",
@@ -125421,7 +125421,7 @@
    "id": "CRVI002420",
    "published": true,
    "minted": "2026-09-07",
-   "punch": 0.139,
+   "punch": 0.1407,
    "source_url": "https://www.moma.org/media/W1siZiIsIjQzNjc5NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=eda02f9baacca32d",
    "animated": false,
    "video": false,
@@ -125431,10 +125431,10 @@
    "original": "originals/CRVI002420.jpg",
    "vector": "",
    "original_px": [
-    1209,
+    1191,
     2000
    ],
-   "original_bytes": 732666,
+   "original_bytes": 1119192,
    "maker": "Gustav Klutsis",
    "title": "Electrification of the Entire Country (Elektrifikatsiia vsei strany)",
    "subtitle": "",
@@ -125473,9 +125473,9 @@
      "v": "white"
     }
    ],
-   "hue": 33.99,
-   "light": 0.653,
-   "chroma": 0.7187
+   "hue": 34.03,
+   "light": 0.6482,
+   "chroma": 0.7258
   },
   {
    "id": "CRVI002421",
@@ -125653,7 +125653,7 @@
    "id": "CRVI002424",
    "published": true,
    "minted": "2026-09-07",
-   "punch": 0.0545,
+   "punch": 0.0815,
    "source_url": "https://arevioletsblue.com/cdn/shop/files/TheoryRevolution_PO.png?v=1772727789",
    "animated": false,
    "video": false,
@@ -125663,10 +125663,10 @@
    "original": "originals/CRVI002424.jpg",
    "vector": "",
    "original_px": [
-    1000,
+    666,
     1000
    ],
-   "original_bytes": 155686,
+   "original_bytes": 170097,
    "maker": "Gustav Klutsis",
    "title": "Design for an agitational stand",
    "subtitle": "",
@@ -125693,9 +125693,9 @@
      "v": "white"
     }
    ],
-   "hue": 35.26,
-   "light": 0.8782,
-   "chroma": 0.5879
+   "hue": 35.3,
+   "light": 0.8173,
+   "chroma": 0.8773
   },
   {
    "id": "CRVI002425",
@@ -127605,7 +127605,7 @@
    "id": "CRVI002461",
    "published": true,
    "minted": "2026-09-07",
-   "punch": 0.2279,
+   "punch": 0.2334,
    "source_url": "https://lodownmagazine.com/sites/default/files/content/file/2014_wrecking_ball_108x72.jpg",
    "animated": false,
    "video": false,
@@ -127615,10 +127615,10 @@
    "original": "originals/CRVI002461.jpg",
    "vector": "",
    "original_px": [
-    3365,
-    5016
+    3292,
+    4971
    ],
-   "original_bytes": 11607010,
+   "original_bytes": 6944857,
    "maker": "Eric Yahnker",
    "title": "Wrecking Ball",
    "subtitle": "",
@@ -127657,15 +127657,15 @@
      "v": "blue"
     }
    ],
-   "hue": 40.81,
-   "light": 0.5553,
-   "chroma": 0.7905
+   "hue": 40.57,
+   "light": 0.5474,
+   "chroma": 0.8016
   },
   {
    "id": "CRVI002462",
    "published": true,
    "minted": "2026-09-07",
-   "punch": 0.1342,
+   "punch": 0.1913,
    "source_url": "https://imgix.bustle.com/wmag/2018/11/17/5bef5fd436f439701a537d1f_EY-97.jpg?w=6000",
    "animated": false,
    "video": false,
@@ -127675,10 +127675,10 @@
    "original": "originals/CRVI002462.jpg",
    "vector": "",
    "original_px": [
-    5460,
-    8192
+    4238,
+    7217
    ],
-   "original_bytes": 2233514,
+   "original_bytes": 6704251,
    "maker": "Eric Yahnker",
    "title": "A painter copying a portrait of Colin Kaepernick",
    "subtitle": "",
@@ -127709,15 +127709,15 @@
      "v": "white"
     }
    ],
-   "hue": 36.56,
-   "light": 0.6903,
-   "chroma": 0.5265
+   "hue": 36.32,
+   "light": 0.5794,
+   "chroma": 0.7187
   },
   {
    "id": "CRVI002463",
    "published": true,
    "minted": "2026-09-07",
-   "punch": 0.137,
+   "punch": 0.2082,
    "source_url": "https://arrestedmotion.com/wp-content/uploads/2018/11/EY-104.jpg",
    "animated": false,
    "video": false,
@@ -127727,10 +127727,10 @@
    "original": "originals/CRVI002463.jpg",
    "vector": "",
    "original_px": [
-    1500,
-    1728
+    1142,
+    1377
    ],
-   "original_bytes": 400356,
+   "original_bytes": 565135,
    "maker": "Eric Yahnker",
    "title": "Barack Obama placing a medal on Tupac Shakur",
    "subtitle": "",
@@ -127761,9 +127761,9 @@
      "v": "neutral"
     }
    ],
-   "hue": 31.9,
-   "light": 0.6166,
-   "chroma": 0.4616
+   "hue": 31.03,
+   "light": 0.4323,
+   "chroma": 0.6449
   },
   {
    "id": "CRVI002464",
@@ -127817,7 +127817,7 @@
    "id": "CRVI002465",
    "published": true,
    "minted": "2026-09-07",
-   "punch": 0.1152,
+   "punch": 0.1614,
    "source_url": "https://thehole.com/media/pages/artists/eric-yahnker/e40b59f1c1-1721849245/eric-yahnker-balloon-ride-2.jpg",
    "animated": false,
    "video": false,
@@ -127827,10 +127827,10 @@
    "original": "originals/CRVI002465.jpg",
    "vector": "",
    "original_px": [
-    1500,
-    1733
+    1228,
+    1432
    ],
-   "original_bytes": 1851316,
+   "original_bytes": 982817,
    "maker": "Eric Yahnker",
    "title": "Balloon Ride",
    "subtitle": "",
@@ -127857,9 +127857,9 @@
      "v": "white"
     }
    ],
-   "hue": 341.96,
-   "light": 0.6325,
-   "chroma": 0.413
+   "hue": 342.14,
+   "light": 0.5066,
+   "chroma": 0.5651
   },
   {
    "id": "CRVI002466",
@@ -128021,7 +128021,7 @@
    "id": "CRVI002469",
    "published": true,
    "minted": "2026-09-07",
-   "punch": 0.3031,
+   "punch": 0.4042,
    "source_url": "https://frgtwn.com/wp-content/uploads/2022/05/s-l1600-3.jpg",
    "animated": false,
    "video": false,
@@ -128031,10 +128031,10 @@
    "original": "originals/CRVI002469.jpg",
    "vector": "",
    "original_px": [
-    1200,
-    1600
+    1030,
+    1402
    ],
-   "original_bytes": 604125,
+   "original_bytes": 582669,
    "maker": "Warp Records",
    "title": "Blech (Japanese edition)",
    "subtitle": "",
@@ -128069,9 +128069,9 @@
      "v": "green"
     }
    ],
-   "hue": 15.21,
-   "light": 0.6826,
-   "chroma": 0.6461
+   "hue": 15.32,
+   "light": 0.5819,
+   "chroma": 0.8605
   },
   {
    "id": "CRVI002470",
@@ -130273,7 +130273,7 @@
    "id": "CRVI002508",
    "published": true,
    "minted": "2026-09-08",
-   "punch": 0.1334,
+   "punch": 0.1468,
    "source_url": "https://i.pinimg.com/originals/ea/7c/e4/ea7ce42ba2dc3d61b0f61c8d627f0421.jpg",
    "animated": false,
    "video": false,
@@ -130283,10 +130283,10 @@
    "original": "originals/CRVI002508.jpg",
    "vector": "",
    "original_px": [
-    800,
-    1212
+    739,
+    1172
    ],
-   "original_bytes": 74097,
+   "original_bytes": 187808,
    "maker": "Milton Glaser",
    "title": "Floating pear",
    "subtitle": "",
@@ -130329,9 +130329,9 @@
      "v": "orange"
     }
    ],
-   "hue": 89.28,
-   "light": 0.6815,
-   "chroma": 0.4237
+   "hue": 89.21,
+   "light": 0.6539,
+   "chroma": 0.461
   },
   {
    "id": "CRVI002509",
@@ -130467,10 +130467,10 @@
    "original": "originals/CRVI002511.jpg",
    "vector": "",
    "original_px": [
-    1423,
-    2000
+    1421,
+    1999
    ],
-   "original_bytes": 366088,
+   "original_bytes": 598067,
    "maker": "Josef Müller-Brockmann",
    "title": "der Film",
    "subtitle": "",
@@ -130513,9 +130513,9 @@
      "v": "black"
     }
    ],
-   "hue": 356.53,
-   "light": 0.1652,
-   "chroma": 0.1164
+   "hue": 356.74,
+   "light": 0.1639,
+   "chroma": 0.1176
   },
   {
    "id": "CRVI002512",
@@ -131733,7 +131733,7 @@
    "id": "CRVI002532",
    "published": true,
    "minted": "2026-09-08",
-   "punch": 0.1356,
+   "punch": 0.1532,
    "source_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj0oEORm6vPjABWKS9aqiUA5FLPj8Vnubd1xCl8YjMCWgL8GvFdVbm8Sgab81HUFLCBIhZF48ifO6005O4ioD9ALZUAFNU10FrJK5_tMZwcfBTYnt0Nf-ly4pDwK7UWrXP3U6rKq0gNDyH/s1600/mingering+mike+8c8c8.jpeg",
    "animated": false,
    "video": false,
@@ -131743,10 +131743,10 @@
    "original": "originals/CRVI002532.jpg",
    "vector": "",
    "original_px": [
-    900,
-    900
+    815,
+    822
    ],
-   "original_bytes": 145265,
+   "original_bytes": 340176,
    "maker": "Mingering Mike",
    "title": "The Mingering Mike Show: Live from the Howard Theater",
    "subtitle": "",
@@ -131793,9 +131793,9 @@
      "v": "green"
     }
    ],
-   "hue": 33.71,
-   "light": 0.6296,
-   "chroma": 0.4006
+   "hue": 33.28,
+   "light": 0.561,
+   "chroma": 0.4893
   },
   {
    "id": "CRVI002533",
@@ -132161,7 +132161,7 @@
    "id": "CRVI002539",
    "published": true,
    "minted": "2026-09-08",
-   "punch": 0.0966,
+   "punch": 0.2842,
    "source_url": "https://p1.liveauctioneers.com/7705/326656/175875740_1_x.jpg",
    "animated": false,
    "video": false,
@@ -132171,10 +132171,10 @@
    "original": "originals/CRVI002539.jpg",
    "vector": "",
    "original_px": [
-    1600,
+    544,
     1200
    ],
-   "original_bytes": 165286,
+   "original_bytes": 238451,
    "maker": "Eduard Josef Wimmer-Wisgrill",
    "title": "Fashion design for the Wiener Werkstätte",
    "subtitle": "",
@@ -132214,14 +132214,14 @@
     }
    ],
    "hue": 39.27,
-   "light": 0.9118,
-   "chroma": 0.3273
+   "light": 0.7406,
+   "chroma": 0.946
   },
   {
    "id": "CRVI002540",
    "published": true,
    "minted": "2026-09-08",
-   "punch": 0.0932,
+   "punch": 0.1672,
    "source_url": "https://img1.onebid.pl/img/6605/1864990_1b.jpg",
    "animated": false,
    "video": false,
@@ -132231,10 +132231,10 @@
    "original": "originals/CRVI002540.jpg",
    "vector": "",
    "original_px": [
-    2500,
+    1400,
     1875
    ],
-   "original_bytes": 729822,
+   "original_bytes": 1168312,
    "maker": "Eduard Josef Wimmer-Wisgrill",
    "title": "Costume design",
    "subtitle": "",
@@ -132273,9 +132273,9 @@
      "v": "orange"
     }
    ],
-   "hue": 44.08,
-   "light": 0.8739,
-   "chroma": 0.5117
+   "hue": 44.06,
+   "light": 0.7749,
+   "chroma": 0.9086
   },
   {
    "id": "CRVI002541",
@@ -137977,7 +137977,7 @@
    "id": "CRVI002632",
    "published": true,
    "minted": "2026-09-08",
-   "punch": 0.3313,
+   "punch": 0.3856,
    "source_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqGsMksO9EqVWj7LgnizOjrWuyA1V1_q3xBArFgeCynMyrMsQkfRERDP1JMbRdnTDRGrfmHWfX0tHb16c59XMfsoTT01I7-fG0Z36zi6c6wf2txuKzDug3UtEYe6GCBuQtOaIBKsB-QZgQh57kcxJlbpySXv2qumPaeG6yyEcE1olDTPYxE5WkheBDpvs/s1743/800px-Alfred_Roller_-_Plakat.jpeg",
    "animated": false,
    "video": false,
@@ -137987,10 +137987,10 @@
    "original": "originals/CRVI002632.jpg",
    "vector": "",
    "original_px": [
-    2694,
-    5868
+    2253,
+    5838
    ],
-   "original_bytes": 8685768,
+   "original_bytes": 11304938,
    "maker": "Alfred Roller",
    "title": "Plakat für die XIV. Ausstellung der Secession",
    "subtitle": "",
@@ -138029,9 +138029,9 @@
      "v": "orange"
     }
    ],
-   "hue": 35.81,
-   "light": 0.5827,
-   "chroma": 0.975
+   "hue": 35.47,
+   "light": 0.5191,
+   "chroma": 0.9738
   },
   {
    "id": "CRVI002633",
@@ -138097,7 +138097,7 @@
    "id": "CRVI002634",
    "published": true,
    "minted": "2026-09-08",
-   "punch": 0.0765,
+   "punch": 0.1242,
    "source_url": "https://i.pinimg.com/originals/fe/9f/ea/fe9fea19b2d4fa89b0e448a421fab43a.jpg",
    "animated": false,
    "video": false,
@@ -138107,10 +138107,10 @@
    "original": "originals/CRVI002634.jpg",
    "vector": "",
    "original_px": [
-    1500,
-    1500
+    925,
+    1492
    ],
-   "original_bytes": 214127,
+   "original_bytes": 547507,
    "maker": "Joseph Maria Olbrich",
    "title": "Kölner Ausstellung",
    "subtitle": "",
@@ -138145,9 +138145,9 @@
      "v": "orange"
     }
    ],
-   "hue": 25.74,
-   "light": 0.7278,
-   "chroma": 0.2983
+   "hue": 25.61,
+   "light": 0.5573,
+   "chroma": 0.4547
   },
   {
    "id": "CRVI002635",
@@ -138385,7 +138385,7 @@
    "id": "CRVI002639",
    "published": true,
    "minted": "2026-09-08",
-   "punch": 0.2359,
+   "punch": 0.2064,
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Ferdinand_andri%2C_poster_della_xxvi_mostra_della_secessione%2C_vienna_1906%2C_litografia.jpg",
    "animated": false,
    "video": false,
@@ -138395,10 +138395,10 @@
    "original": "originals/CRVI002639.jpg",
    "vector": "",
    "original_px": [
-    1880,
-    2612
+    1608,
+    2361
    ],
-   "original_bytes": 2855154,
+   "original_bytes": 1416241,
    "maker": "Ferdinand Andri",
    "title": "XXVI. Ausstellung Secession",
    "subtitle": "",
@@ -138437,9 +138437,9 @@
      "v": "yellow"
     }
    ],
-   "hue": 34.79,
-   "light": 0.5381,
-   "chroma": 0.878
+   "hue": 17.93,
+   "light": 0.511,
+   "chroma": 0.8385
   },
   {
    "id": "CRVI002640",
@@ -138929,7 +138929,7 @@
    "id": "CRVI002648",
    "published": true,
    "minted": "2026-09-08",
-   "punch": 0.1125,
+   "punch": 0.1079,
    "source_url": "https://xeuxis.com/wp-content/uploads/2023/12/XC087a-schiele-secession-ausstellung.webp",
    "animated": false,
    "video": false,
@@ -138939,10 +138939,10 @@
    "original": "originals/CRVI002648.jpg",
    "vector": "",
    "original_px": [
-    976,
-    1390
+    936,
+    1260
    ],
-   "original_bytes": 537087,
+   "original_bytes": 597478,
    "maker": "Egon Schiele",
    "title": "Secession 49. Ausstellung",
    "subtitle": "",
@@ -138985,9 +138985,9 @@
      "v": "yellow"
     }
    ],
-   "hue": 43.6,
-   "light": 0.4135,
-   "chroma": 0.4078
+   "hue": 42.62,
+   "light": 0.3469,
+   "chroma": 0.3287
   },
   {
    "id": "CRVI002649",
@@ -139765,7 +139765,7 @@
    "id": "CRVI002663",
    "published": true,
    "minted": "2026-09-08",
-   "punch": 0.3058,
+   "punch": 0.3461,
    "source_url": "https://baseec-img-mng.akamaized.net/images/item/origin/2f611927872b44fe7eee1f682f259851.jpg?imformat=generic&q=100&im=Resize,width=4000,type=normal",
    "animated": false,
    "video": false,
@@ -139775,10 +139775,10 @@
    "original": "originals/CRVI002663.jpg",
    "vector": "",
    "original_px": [
-    2717,
-    3385
+    2437,
+    3205
    ],
-   "original_bytes": 1612402,
+   "original_bytes": 1803825,
    "maker": "Koichi Enomoto",
    "title": "光 / LIGHT",
    "subtitle": "",
@@ -139809,9 +139809,9 @@
      "v": "orange"
     }
    ],
-   "hue": 11.48,
-   "light": 0.5933,
-   "chroma": 0.7517
+   "hue": 11.44,
+   "light": 0.5593,
+   "chroma": 0.7799
   },
   {
    "id": "CRVI002664",
@@ -140301,7 +140301,7 @@
    "id": "CRVI002672",
    "published": true,
    "minted": "2026-09-08",
-   "punch": 0.0931,
+   "punch": 0.2024,
    "source_url": "https://designreviewed.com/wp-content/uploads/2022/08/Ikko-Tanaka-Posters-1980-2002-DNP-Graphic-Design-Archive-Exhibition-IV-2012.jpg",
    "animated": false,
    "video": false,
@@ -140311,10 +140311,10 @@
    "original": "originals/CRVI002672.jpg",
    "vector": "",
    "original_px": [
-    1600,
-    1600
+    966,
+    1224
    ],
-   "original_bytes": 273399,
+   "original_bytes": 391068,
    "maker": "Unattributed",
    "title": "DNPグラフィックデザイン・アーカイブ収蔵品展 IV: 田中一光ポスター 1980–2002",
    "subtitle": "",
@@ -140357,9 +140357,9 @@
      "v": "yellow"
     }
    ],
-   "hue": 326.1,
-   "light": 0.3501,
-   "chroma": 0.19
+   "hue": 326.03,
+   "light": 0.7571,
+   "chroma": 0.3936
   },
   {
    "id": "CRVI002673",
@@ -141189,7 +141189,7 @@
    "id": "CRVI002687",
    "published": true,
    "minted": "2026-09-08",
-   "punch": 0.0769,
+   "punch": 0.0831,
    "source_url": "https://i.pinimg.com/originals/b1/e0/f8/b1e0f875059f30734f723a8af68a9c6c.jpg",
    "animated": false,
    "video": false,
@@ -141199,10 +141199,10 @@
    "original": "originals/CRVI002687.jpg",
    "vector": "",
    "original_px": [
-    1013,
-    1440
+    961,
+    1389
    ],
-   "original_bytes": 117921,
+   "original_bytes": 348403,
    "maker": "Yoshio Hayakawa",
    "title": "第七回 秋の秀彩会 (7th Autumn Shusaikai)",
    "subtitle": "",
@@ -141241,15 +141241,15 @@
      "v": "yellow"
     }
    ],
-   "hue": 52.49,
-   "light": 0.6815,
-   "chroma": 0.67
+   "hue": 52.56,
+   "light": 0.664,
+   "chroma": 0.7458
   },
   {
    "id": "CRVI002688",
    "published": true,
    "minted": "2026-09-08",
-   "punch": 0.1297,
+   "punch": 0.1405,
    "source_url": "https://i.pinimg.com/originals/e8/e6/19/e8e61935003de1e9aacc0bcc43ce9d53.png",
    "animated": false,
    "video": false,
@@ -141259,10 +141259,10 @@
    "original": "originals/CRVI002688.png",
    "vector": "",
    "original_px": [
-    1000,
-    1409
+    951,
+    1357
    ],
-   "original_bytes": 1472300,
+   "original_bytes": 1495607,
    "maker": "Yoshio Hayakawa",
    "title": "小千谷縮と博多単帯の会 (Ojiya-chijimi and Hakata Hitoe-obi)",
    "subtitle": "",
@@ -141305,9 +141305,9 @@
      "v": "cyan"
     }
    ],
-   "hue": 45.71,
-   "light": 0.6479,
-   "chroma": 0.7681
+   "hue": 45.74,
+   "light": 0.6268,
+   "chroma": 0.8444
   },
   {
    "id": "CRVI002689",
@@ -141865,7 +141865,7 @@
    "id": "CRVI002698",
    "published": true,
    "minted": "2026-09-08",
-   "punch": 0.0443,
+   "punch": 0.1009,
    "source_url": "https://designreviewed.com/wp-content/uploads/2022/10/Design-Japan-65-1964-back.jpg",
    "animated": false,
    "video": false,
@@ -141875,10 +141875,10 @@
    "original": "originals/CRVI002698.jpg",
    "vector": "",
    "original_px": [
-    1600,
-    1600
+    906,
+    1286
    ],
-   "original_bytes": 877025,
+   "original_bytes": 769234,
    "maker": "Unattributed",
    "title": "ニッカー ポスターカラー デラックス (Nicker Poster Colour Deluxe)",
    "subtitle": "",
@@ -141917,9 +141917,9 @@
      "v": "blue"
     }
    ],
-   "hue": 41.12,
-   "light": 0.3286,
-   "chroma": 0.3269
+   "hue": 41.25,
+   "light": 0.7197,
+   "chroma": 0.7453
   },
   {
    "id": "CRVI002699",
@@ -148209,7 +148209,7 @@
    "id": "CRVI002815",
    "published": true,
    "minted": "2026-09-08",
-   "punch": 0.0218,
+   "punch": 0.0469,
    "source_url": "https://designreviewed.com/wp-content/uploads/2021/11/Walter-Dexel-Bilder-Aquarelle-Collagen-Leuchtreklame-Typografie-1979.jpg",
    "animated": false,
    "video": false,
@@ -148219,10 +148219,10 @@
    "original": "originals/CRVI002815.jpg",
    "vector": "",
    "original_px": [
-    1600,
-    1600
+    966,
+    1240
    ],
-   "original_bytes": 264559,
+   "original_bytes": 386148,
    "maker": "Unattributed",
    "title": "Walter Dexel: Bilder, Aquarelle, Collagen, Leuchtreklame, Typografie",
    "subtitle": "",
@@ -148258,8 +148258,8 @@
     }
    ],
    "hue": null,
-   "light": 0.3599,
-   "chroma": 0.05
+   "light": 0.768,
+   "chroma": 0.0876
   },
   {
    "id": "CRVI002816",
@@ -148717,7 +148717,7 @@
    "id": "CRVI002825",
    "published": true,
    "minted": "2026-09-09",
-   "punch": 0.303,
+   "punch": 0.314,
    "source_url": "https://www.theprintarkive.co.uk/cdn/shop/files/2387-Graphis-Annual-1967-1.jpg",
    "animated": false,
    "video": false,
@@ -148727,10 +148727,10 @@
    "original": "originals/CRVI002825.jpg",
    "vector": "",
    "original_px": [
-    3024,
-    3024
+    1972,
+    2503
    ],
-   "original_bytes": 1170949,
+   "original_bytes": 2021311,
    "maker": "Franco Grignani",
    "title": "Graphis Annual 67/68",
    "subtitle": "",
@@ -148777,15 +148777,15 @@
      "v": "pink"
     }
    ],
-   "hue": 345.25,
-   "light": 0.5602,
-   "chroma": 0.7872
+   "hue": 28.01,
+   "light": 0.4244,
+   "chroma": 0.6042
   },
   {
    "id": "CRVI002826",
    "published": true,
    "minted": "2026-09-09",
-   "punch": 0.0519,
+   "punch": 0.1038,
    "source_url": "https://designreviewed.com/wp-content/uploads/2022/04/Graphis-Annual-195960.jpg",
    "animated": false,
    "video": false,
@@ -148795,10 +148795,10 @@
    "original": "originals/CRVI002826.jpg",
    "vector": "",
    "original_px": [
-    3000,
-    3000
+    1886,
+    2389
    ],
-   "original_bytes": 1000257,
+   "original_bytes": 1662758,
    "maker": "George Giusti",
    "title": "Graphis Annual 59/60",
    "subtitle": "",
@@ -148849,15 +148849,15 @@
      "v": "black"
     }
    ],
-   "hue": 43.75,
-   "light": 0.3363,
-   "chroma": 0.192
+   "hue": 43.94,
+   "light": 0.6717,
+   "chroma": 0.3678
   },
   {
    "id": "CRVI002827",
    "published": true,
    "minted": "2026-09-09",
-   "punch": 0.0852,
+   "punch": 0.1747,
    "source_url": "https://designreviewed.com/wp-content/uploads/2021/11/Graphis-Annual-196061.jpg",
    "animated": false,
    "video": false,
@@ -148867,10 +148867,10 @@
    "original": "originals/CRVI002827.jpg",
    "vector": "",
    "original_px": [
-    3000,
-    3000
+    1869,
+    2356
    ],
-   "original_bytes": 2339345,
+   "original_bytes": 2066850,
    "maker": "Yusaku Kamekura",
    "title": "Graphis Annual 60/61",
    "subtitle": "",
@@ -148913,9 +148913,9 @@
      "v": "black"
     }
    ],
-   "hue": 65.59,
-   "light": 0.1122,
-   "chroma": 0.2052
+   "hue": 65.58,
+   "light": 0.2291,
+   "chroma": 0.4138
   },
   {
    "id": "CRVI002828",
@@ -148989,7 +148989,7 @@
    "id": "CRVI002829",
    "published": true,
    "minted": "2026-09-09",
-   "punch": 0.1302,
+   "punch": 0.2698,
    "source_url": "https://designreviewed.com/wp-content/uploads/2021/11/Graphis-Annual-196667.jpg",
    "animated": false,
    "video": false,
@@ -148999,10 +148999,10 @@
    "original": "originals/CRVI002829.jpg",
    "vector": "",
    "original_px": [
-    3000,
-    3000
+    1853,
+    2348
    ],
-   "original_bytes": 1916784,
+   "original_bytes": 1623015,
    "maker": "Roger Excoffon",
    "title": "Graphis Annual 66/67",
    "subtitle": "",
@@ -149049,9 +149049,9 @@
      "v": "yellow"
     }
    ],
-   "hue": 5.39,
-   "light": 0.3408,
-   "chroma": 0.2164
+   "hue": 5.37,
+   "light": 0.7045,
+   "chroma": 0.4505
   },
   {
    "id": "CRVI002830",
@@ -149705,7 +149705,7 @@
    "id": "CRVI002841",
    "published": true,
    "minted": "2026-09-09",
-   "punch": 0.1362,
+   "punch": 0.221,
    "source_url": "https://skylona.com/cdn/shop/files/image_c6669c97-720c-43db-a3bd-d2f0eb5d45ea.jpg",
    "animated": false,
    "video": false,
@@ -149715,10 +149715,10 @@
    "original": "originals/CRVI002841.jpg",
    "vector": "",
    "original_px": [
-    1600,
-    1600
+    1039,
+    1492
    ],
-   "original_bytes": 313521,
+   "original_bytes": 726885,
    "maker": "Unattributed",
    "title": "Le Corbusier",
    "subtitle": "",
@@ -149745,9 +149745,9 @@
      "v": "yellow"
     }
    ],
-   "hue": 1.52,
-   "light": 0.6958,
-   "chroma": 0.3363
+   "hue": 1.49,
+   "light": 0.5207,
+   "chroma": 0.5475
   },
   {
    "id": "CRVI002842",
@@ -150153,7 +150153,7 @@
    "id": "CRVI002849",
    "published": true,
    "minted": "2026-09-09",
-   "punch": 0.14,
+   "punch": 0.1569,
    "source_url": "https://i5.walmartimages.com/seo/Odeon-Records-Disques-Od-on-Vintage-Music-Poster-by-Jean-Carlu-c-1929-Master-Art-Print-Unframed-13in-x-19in_36adfc53-42fa-42e7-8567-4c5bbf000a9c.0913e404288b1d32300bd2aae281b09a.jpeg",
    "animated": false,
    "video": false,
@@ -150163,10 +150163,10 @@
    "original": "originals/CRVI002849.jpg",
    "vector": "",
    "original_px": [
-    1380,
-    2016
+    1306,
+    1902
    ],
-   "original_bytes": 172924,
+   "original_bytes": 473742,
    "maker": "Jean Carlu",
    "title": "Disques Odéon",
    "subtitle": "",
@@ -150205,9 +150205,9 @@
      "v": "yellow"
     }
    ],
-   "hue": 357.9,
-   "light": 0.7348,
-   "chroma": 0.2348
+   "hue": 357.81,
+   "light": 0.7044,
+   "chroma": 0.256
   },
   {
    "id": "CRVI002850",
@@ -150265,7 +150265,7 @@
    "id": "CRVI002851",
    "published": true,
    "minted": "2026-09-09",
-   "punch": 0.2831,
+   "punch": 0.2829,
    "source_url": "https://tiborhelenyi.com/wp-content/uploads/2021/03/graphisannual.jpg",
    "animated": false,
    "video": false,
@@ -150276,9 +150276,9 @@
    "vector": "",
    "original_px": [
     1276,
-    1754
+    1728
    ],
-   "original_bytes": 855851,
+   "original_bytes": 1513784,
    "maker": "Unattributed",
    "title": "Graphis Annual 77/78",
    "subtitle": "",
@@ -150317,9 +150317,9 @@
      "v": "green"
     }
    ],
-   "hue": 23.2,
-   "light": 0.3109,
-   "chroma": 0.9186
+   "hue": 23.16,
+   "light": 0.3071,
+   "chroma": 0.9226
   },
   {
    "id": "CRVI002852",
@@ -155637,7 +155637,7 @@
    "id": "CRVI002939",
    "published": true,
    "minted": "2026-09-10",
-   "punch": 0.1841,
+   "punch": 0.1887,
    "source_url": "https://platform-0.com/wp-content/uploads/2021/02/cri_000000011508-1.jpg",
    "animated": false,
    "video": false,
@@ -155647,10 +155647,10 @@
    "original": "originals/CRVI002939.jpg",
    "vector": "",
    "original_px": [
-    1979,
-    1500
+    1947,
+    1478
    ],
-   "original_bytes": 770340,
+   "original_bytes": 1291488,
    "maker": "Peter Cook",
    "title": "Plug-In City",
    "subtitle": "",
@@ -155690,8 +155690,8 @@
     }
    ],
    "hue": 43.61,
-   "light": 0.6682,
-   "chroma": 0.7814
+   "light": 0.6608,
+   "chroma": 0.7724
   },
   {
    "id": "CRVI002940",
@@ -155809,7 +155809,7 @@
    "id": "CRVI002942",
    "published": true,
    "minted": "2026-09-10",
-   "punch": 0.1203,
+   "punch": 0.1427,
    "source_url": "https://drawingmatter.org/wp-content/uploads/2020/10/webb_1101.17_cs_dmc.jpg",
    "animated": false,
    "video": false,
@@ -155819,10 +155819,10 @@
    "original": "originals/CRVI002942.jpg",
    "vector": "",
    "original_px": [
-    1780,
-    2246
+    1614,
+    2092
    ],
-   "original_bytes": 566499,
+   "original_bytes": 1428456,
    "maker": "Michael Webb",
    "title": "Sin Centre — stair study",
    "subtitle": "",
@@ -155857,9 +155857,9 @@
      "v": "yellow"
     }
    ],
-   "hue": 55.37,
-   "light": 0.4789,
-   "chroma": 0.1545
+   "hue": 55.3,
+   "light": 0.4602,
+   "chroma": 0.1826
   },
   {
    "id": "CRVI002943",
@@ -156703,10 +156703,10 @@
    "original": "originals/CRVI002958.jpg",
    "vector": "",
    "original_px": [
-    1080,
-    1080
+    693,
+    978
    ],
-   "original_bytes": 248329,
+   "original_bytes": 215970,
    "maker": "Jianping He",
    "title": "daydream",
    "subtitle": "",
@@ -156738,7 +156738,7 @@
     }
    ],
    "hue": null,
-   "light": 0.4523,
+   "light": 0.7777,
    "chroma": 0.0
   },
   {
@@ -161317,7 +161317,7 @@
    "id": "CRVI003035",
    "published": true,
    "minted": "2026-09-10",
-   "punch": 0.1064,
+   "punch": 0.1043,
    "source_url": "https://cvltnation.com/wp-content/uploads/2023/05/doorofperception.com-Marjorie-Cameron-4-1200x1570-1.jpg",
    "animated": false,
    "video": false,
@@ -161327,10 +161327,10 @@
    "original": "originals/CRVI003035.jpg",
    "vector": "",
    "original_px": [
-    1200,
-    1570
+    1129,
+    1494
    ],
-   "original_bytes": 306890,
+   "original_bytes": 526971,
    "maker": "Marjorie Cameron",
    "title": "drawing",
    "subtitle": "",
@@ -161357,9 +161357,9 @@
      "v": "yellow"
     }
    ],
-   "hue": 47.38,
-   "light": 0.7837,
-   "chroma": 0.7527
+   "hue": 47.45,
+   "light": 0.7781,
+   "chroma": 0.7499
   },
   {
    "id": "CRVI003036",
@@ -161877,7 +161877,7 @@
    "id": "CRVI003046",
    "published": true,
    "minted": "2026-09-10",
-   "punch": 0.4134,
+   "punch": 0.5036,
    "source_url": "https://m.itsnicethat.com/images/57b4a3997fa44ccc87009543.format-webp.width-2880_vUL5R0ryMmNQjJ7V.webp",
    "animated": false,
    "video": false,
@@ -161887,10 +161887,10 @@
    "original": "originals/CRVI003046.webp",
    "vector": "",
    "original_px": [
-    1132,
-    1131
+    1027,
+    1023
    ],
-   "original_bytes": 237254,
+   "original_bytes": 228570,
    "maker": "Wilfred Limonious",
    "title": "Papa San — Animal Party",
    "subtitle": "",
@@ -161925,9 +161925,9 @@
      "v": "yellow"
     }
    ],
-   "hue": 54.08,
-   "light": 0.5641,
-   "chroma": 0.7497
+   "hue": 54.18,
+   "light": 0.4732,
+   "chroma": 0.8966
   },
   {
    "id": "CRVI003047",
@@ -165713,7 +165713,7 @@
    "id": "CRVI003123",
    "published": true,
    "minted": "2026-09-11",
-   "punch": 0.1558,
+   "punch": 0.1799,
    "source_url": "https://interiordesign.net/designwire/luis-barragan-tim-street-porter-art-division-exhibition-los-angeles/",
    "animated": false,
    "video": false,
@@ -165723,10 +165723,10 @@
    "original": "originals/CRVI003123.jpg",
    "vector": "",
    "original_px": [
-    1500,
-    1876
+    1391,
+    1747
    ],
-   "original_bytes": 245654,
+   "original_bytes": 750807,
    "maker": "Luis Barragán",
    "title": "Untitled interior",
    "subtitle": "",
@@ -165757,9 +165757,9 @@
      "v": "orange"
     }
    ],
-   "hue": 24.86,
-   "light": 0.5835,
-   "chroma": 0.5862
+   "hue": 24.85,
+   "light": 0.5221,
+   "chroma": 0.676
   },
   {
    "id": "CRVI003124",
@@ -168705,7 +168705,7 @@
    "id": "CRVI003183",
    "published": true,
    "minted": "2026-09-11",
-   "punch": 0.1437,
+   "punch": 0.4316,
    "source_url": "https://www.counter-print.co.uk/products/niklaus-troxler-poster-collection-34?variant=39777488928870",
    "animated": false,
    "video": false,
@@ -168715,10 +168715,10 @@
    "original": "originals/CRVI003183.png",
    "vector": "",
    "original_px": [
-    1000,
-    1000
+    478,
+    697
    ],
-   "original_bytes": 545416,
+   "original_bytes": 515422,
    "maker": "Niklaus Troxler",
    "title": "Niklaus Troxler: Poster Collection 34",
    "subtitle": "Book cover",
@@ -168745,9 +168745,9 @@
      "v": "white"
     }
    ],
-   "hue": 104.38,
-   "light": 0.7832,
-   "chroma": 0.3007
+   "hue": 104.52,
+   "light": 0.4195,
+   "chroma": 0.8935
   },
   {
    "id": "CRVI003184",
@@ -169657,7 +169657,7 @@
    "id": "CRVI003202",
    "published": true,
    "minted": "2026-09-11",
-   "punch": 0.3966,
+   "punch": 0.51,
    "source_url": "https://1977records.com/post/727248024261246976/malcolm-garrett-linder-sterling",
    "animated": false,
    "video": false,
@@ -169667,10 +169667,10 @@
    "original": "originals/CRVI003202.jpg",
    "vector": "",
    "original_px": [
-    1275,
-    1137
+    1069,
+    1056
    ],
-   "original_bytes": 396296,
+   "original_bytes": 544725,
    "maker": "Malcolm Garrett",
    "title": "Untitled",
    "subtitle": "",
@@ -169697,9 +169697,9 @@
      "v": "blue"
     }
    ],
-   "hue": 55.57,
-   "light": 0.628,
-   "chroma": 0.7209
+   "hue": 55.59,
+   "light": 0.5227,
+   "chroma": 0.9208
   },
   {
    "id": "CRVI003203",
