@@ -28565,10 +28565,10 @@
    "minted": "2026-08-26",
    "original_file": "originals/CRVI000493.jpg",
    "original_px": [
-    886,
-    1600
+    836,
+    1535
    ],
-   "original_bytes": 384064,
+   "original_bytes": 642305,
    "identity": "ASME 2025::The New York Times for Kids::When Pets Escape: The Great Goldfish Invasion",
    "maker": "Bill Mayer",
    "title": "When Pets Escape: The Great Goldfish Invasion",
@@ -28615,11 +28615,29 @@
    "identity_established": true,
    "published": true,
    "verification": "American Society of Magazine Editors, Best Cover Contest 2025 (Finalist). ASME's own listing reads: The New York Times for Kids \"When Pets Escape: The Great Goldfish Invasion,” January 28, 2024 Bill Mayer, Illustrator",
-   "hue": 26.85,
-   "light": 0.5833,
-   "chroma": 0.8697,
+   "hue": 26.82,
+   "light": 0.5401,
+   "chroma": 0.9474,
    "source_url": "https://asme.memberclicks.net/asme-best-cover-contest-winners-and-finalists-2025",
-   "punch": 0.5719
+   "punch": 0.6317,
+   "crop": {
+    "box": [
+     25,
+     35,
+     861,
+     1570
+    ],
+    "was": [
+     886,
+     1600
+    ],
+    "now": [
+     836,
+     1535
+    ],
+    "uncropped": "originals_uncropped/CRVI000493.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "ASME 2025::The New York Times Magazine::Sting Theory": {
    "id": "CRVI000494",
@@ -29597,10 +29615,10 @@
    "minted": "2026-08-26",
    "original_file": "originals/CRVI000509.jpg",
    "original_px": [
-    1170,
-    788
+    1104,
+    736
    ],
-   "original_bytes": 426588,
+   "original_bytes": 488247,
    "identity": "Bloomberg Businessweek::Anthony Fauci spread (7 Dec 2020)",
    "maker": "Unknown",
    "title": "Anthony Fauci",
@@ -29647,10 +29665,28 @@
    "identity_established": true,
    "published": true,
    "verification": "The spread carries its own slug line, 'Bloomberg Businessweek · December 7, 2020', and the headline 'ANTHONY FAUCI — Director, National Institute of Allergy and Infectious Diseases'.",
-   "hue": 135.06,
-   "light": 0.5667,
-   "chroma": 0.3725,
-   "punch": 0.1297
+   "hue": 135.05,
+   "light": 0.5092,
+   "chroma": 0.4188,
+   "punch": 0.1467,
+   "crop": {
+    "box": [
+     45,
+     23,
+     1149,
+     759
+    ],
+    "was": [
+     1170,
+     788
+    ],
+    "now": [
+     1104,
+     736
+    ],
+    "uncropped": "originals_uncropped/CRVI000509.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "Impulse!::Albert Ayler::The Last Album": {
    "id": "CRVI000510",
@@ -37110,9 +37146,9 @@
    "original_file": "originals/CRVI000630.png",
    "original_px": [
     499,
-    698
+    661
    ],
-   "original_bytes": 302346,
+   "original_bytes": 301348,
    "identity": "asme.media::2018::time::dear washington we need to rebuild can you get your act together",
    "maker": "D.W. Pine, Peter Greenwood",
    "title": "Dear Washington, We Need to Rebuild. Can You Get Your Act Together?",
@@ -37162,10 +37198,28 @@
    "identity_established": true,
    "published": true,
    "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2018, which lists it as finalist: TIME, \"Dear Washington, We Need to Rebuild. Can You Get Your Act Together?,\" April 10, 2017 (D.W. Pine, Creative Director; Peter Greenwood, Illustrator)",
-   "hue": 6.13,
-   "light": 0.5383,
-   "chroma": 0.6945,
-   "punch": 0.2918
+   "hue": 6.09,
+   "light": 0.5128,
+   "chroma": 0.7271,
+   "punch": 0.3092,
+   "crop": {
+    "box": [
+     0,
+     37,
+     499,
+     698
+    ],
+    "was": [
+     499,
+     698
+    ],
+    "now": [
+     499,
+     661
+    ],
+    "uncropped": "originals_uncropped/CRVI000630.png",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "asme.media::2018::wired::what lies ahead": {
    "id": "CRVI000631",
@@ -37173,9 +37227,9 @@
    "original_file": "originals/CRVI000631.png",
    "original_px": [
     499,
-    688
+    664
    ],
-   "original_bytes": 144067,
+   "original_bytes": 143847,
    "identity": "asme.media::2018::wired::what lies ahead",
    "maker": "Unknown",
    "title": "What Lies Ahead",
@@ -37214,10 +37268,28 @@
    "identity_established": true,
    "published": true,
    "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2018, which lists it as finalist: WIRED, \"What Lies Ahead,\" February 2017 Most Controversial (no individual credits listed)",
-   "hue": 355.9,
-   "light": 0.4462,
-   "chroma": 0.7261,
-   "punch": 0.3109
+   "hue": 355.74,
+   "light": 0.4293,
+   "chroma": 0.7419,
+   "punch": 0.3196,
+   "crop": {
+    "box": [
+     0,
+     24,
+     499,
+     688
+    ],
+    "was": [
+     499,
+     688
+    ],
+    "now": [
+     499,
+     664
+    ],
+    "uncropped": "originals_uncropped/CRVI000631.png",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "asme.media::2018::newsweek::pop go the weasels": {
    "id": "CRVI000632",
@@ -37402,10 +37474,10 @@
    "minted": "2026-08-26",
    "original_file": "originals/CRVI000635.png",
    "original_px": [
-    599,
-    841
+    562,
+    820
    ],
-   "original_bytes": 981211,
+   "original_bytes": 972776,
    "identity": "asme.media::2017::the new yorker::anything but that",
    "maker": "Barry Blitt",
    "title": "Anything But That",
@@ -37447,10 +37519,28 @@
    "identity_established": true,
    "published": true,
    "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2017, which lists it as readers' choice: The New Yorker, \"Anything But That,\" November 14 (Barry Blitt, Illustrator). The citation gives no year; the 2017 contest honours covers published in 2016.",
-   "hue": 53.33,
-   "light": 0.6833,
-   "chroma": 0.3145,
-   "punch": 0.0605
+   "hue": 53.34,
+   "light": 0.7201,
+   "chroma": 0.3379,
+   "punch": 0.0659,
+   "crop": {
+    "box": [
+     37,
+     21,
+     599,
+     841
+    ],
+    "was": [
+     599,
+     841
+    ],
+    "now": [
+     562,
+     820
+    ],
+    "uncropped": "originals_uncropped/CRVI000635.png",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "asme.media::2017::bloomberg businessweek::uniteds quest to be less awful": {
    "id": "CRVI000636",
@@ -37938,9 +38028,9 @@
    "original_file": "originals/CRVI000644.png",
    "original_px": [
     499,
-    705
+    681
    ],
-   "original_bytes": 74909,
+   "original_bytes": 70745,
    "identity": "asme.media::2017::wired::the end of code",
    "maker": "Billy Sorrentino",
    "title": "The End of Code",
@@ -37982,10 +38072,28 @@
    "identity_established": true,
    "published": true,
    "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2017, which lists it as finalist: WIRED, \"The End of Code,\" June (Billy Sorrentino, Designer). The citation gives no year; the 2017 contest honours covers published in 2016.",
-   "hue": 5.0,
-   "light": 0.5544,
-   "chroma": 0.9479,
-   "punch": 0.6695
+   "hue": 5.01,
+   "light": 0.5427,
+   "chroma": 0.9696,
+   "punch": 0.6929,
+   "crop": {
+    "box": [
+     0,
+     24,
+     499,
+     705
+    ],
+    "was": [
+     499,
+     705
+    ],
+    "now": [
+     499,
+     681
+    ],
+    "uncropped": "originals_uncropped/CRVI000644.png",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "asme.media::2016::bloomberg businessweek::if you cant read that youd better read this": {
    "id": "CRVI000645",
@@ -39124,9 +39232,9 @@
    "original_file": "originals/CRVI000666.jpg",
    "original_px": [
     800,
-    582
+    564
    ],
-   "original_bytes": 179456,
+   "original_bytes": 214226,
    "identity": "asme.media::2020::aarp the magazine::inside the social security phone scam",
    "maker": "Lesley Q. Palmer, Katrina Zook, Dan Saelinger",
    "title": "Inside the Social Security Phone Scam",
@@ -39177,10 +39285,28 @@
    "identity_established": true,
    "published": true,
    "verification": "American Society of Magazine Editors, Best Cover Contest — Winners and Finalists 2020, which lists it as finalist: AARP The Magazine, \" Inside the Social Security Phone Scam ,\" April/May 2019 (Robert Love, Editor in Chief; Lesley Q. Palmer, Art Director; Katrina Zook, Photo Editor; Dan Saelinger, Photographer)",
-   "hue": 205.46,
-   "light": 0.5813,
-   "chroma": 0.6928,
-   "punch": 0.2585
+   "hue": 205.57,
+   "light": 0.5696,
+   "chroma": 0.7135,
+   "punch": 0.2665,
+   "crop": {
+    "box": [
+     0,
+     18,
+     800,
+     582
+    ],
+    "was": [
+     800,
+     582
+    ],
+    "now": [
+     800,
+     564
+    ],
+    "uncropped": "originals_uncropped/CRVI000666.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "asme.media::2020::gq::how i broke my smartphone addiction": {
    "id": "CRVI000667",
@@ -40193,9 +40319,9 @@
    "original_file": "originals/CRVI000683.jpg",
    "original_px": [
     1077,
-    1600
+    1599
    ],
-   "original_bytes": 752036,
+   "original_bytes": 1147731,
    "identity": "deadlypreygallery.com::groundhog-day-high-quality-print-c-a-wisely",
    "maker": "C.A. Wisely",
    "title": "Groundhog Day",
@@ -40248,9 +40374,27 @@
    "published": true,
    "verification": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"GROUNDHOG DAY (High Quality Print) - C.A. Wisely\" and describes it as: Perhaps the best of all time?!? Groundhog Day was originally painted by the great Ghanaian artist C.A. Wisely in early 2021 🐐",
    "hue": 357.08,
-   "light": 0.5096,
+   "light": 0.5094,
    "chroma": 0.8023,
-   "punch": 0.2836
+   "punch": 0.2837,
+   "crop": {
+    "box": [
+     0,
+     0,
+     1077,
+     1599
+    ],
+    "was": [
+     1077,
+     1600
+    ],
+    "now": [
+     1077,
+     1599
+    ],
+    "uncropped": "originals_uncropped/CRVI000683.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "deadlypreygallery.com::ghost-world-high-quality-print-c-a-wisely": {
    "id": "CRVI000684",
@@ -40440,9 +40584,9 @@
    "original_file": "originals/CRVI000687.jpg",
    "original_px": [
     1051,
-    1600
+    1599
    ],
-   "original_bytes": 653311,
+   "original_bytes": 1009360,
    "identity": "deadlypreygallery.com::blue-velvet-high-quality-print-heavy-j",
    "maker": "Heavy J",
    "title": "Blue Velvet",
@@ -40491,9 +40635,27 @@
    "published": true,
    "verification": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"BLUE VELVET (High Quality Print) - Heavy J\" and describes it as: What kind of beer do you like? 🍻 The great Ghanaian artist Heavy J made the most beautiful painting of this classic David Lynch a few years ago 🌹 An all time favorite for sure, it’s finally available as a $25 print!!",
    "hue": 204.6,
-   "light": 0.4909,
-   "chroma": 0.6833,
-   "punch": 0.2796
+   "light": 0.4906,
+   "chroma": 0.6819,
+   "punch": 0.2797,
+   "crop": {
+    "box": [
+     0,
+     0,
+     1051,
+     1599
+    ],
+    "was": [
+     1051,
+     1600
+    ],
+    "now": [
+     1051,
+     1599
+    ],
+    "uncropped": "originals_uncropped/CRVI000687.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "deadlypreygallery.com::best-in-show-high-quality-print-farkira": {
    "id": "CRVI000688",
@@ -40501,9 +40663,9 @@
    "original_file": "originals/CRVI000688.jpg",
    "original_px": [
     1093,
-    1600
+    1599
    ],
-   "original_bytes": 654274,
+   "original_bytes": 1044293,
    "identity": "deadlypreygallery.com::best-in-show-high-quality-print-farkira",
    "maker": "Farkira",
    "title": "Best in Show",
@@ -40551,10 +40713,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"BEST IN SHOW (High Quality Print) - Farkira\" and describes it as: Our wild version of Best in Show originally painted by the great Ghanaian artist Farkira 🐶",
-   "hue": 193.87,
-   "light": 0.603,
-   "chroma": 0.837,
-   "punch": 0.3448
+   "hue": 193.93,
+   "light": 0.6029,
+   "chroma": 0.8373,
+   "punch": 0.3448,
+   "crop": {
+    "box": [
+     0,
+     0,
+     1093,
+     1599
+    ],
+    "was": [
+     1093,
+     1600
+    ],
+    "now": [
+     1093,
+     1599
+    ],
+    "uncropped": "originals_uncropped/CRVI000688.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "deadlypreygallery.com::barton-fink-high-quality-print-c-a-wisely": {
    "id": "CRVI000689",
@@ -40685,9 +40865,9 @@
    "original_file": "originals/CRVI000691.jpg",
    "original_px": [
     1042,
-    1600
+    1599
    ],
-   "original_bytes": 475546,
+   "original_bytes": 766981,
    "identity": "deadlypreygallery.com::austin-powers-in-goldmember-high-quality-print-mr-nana-agyq",
    "maker": "Mr. Nana Agyq",
    "title": "Austin Powers in Goldmember",
@@ -40734,10 +40914,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"AUSTIN POWERS IN GOLDMEMBER (High Quality Print) - Mr. Nana Agyq\" and describes it as: The great Ghanaian artist Mr. Nana Agyq’s splash-worthy version of Goldmember is finally available as a $25 print 💦",
-   "hue": 16.19,
-   "light": 0.6046,
-   "chroma": 0.9095,
-   "punch": 0.436
+   "hue": 16.17,
+   "light": 0.6045,
+   "chroma": 0.9107,
+   "punch": 0.4361,
+   "crop": {
+    "box": [
+     0,
+     0,
+     1042,
+     1599
+    ],
+    "was": [
+     1042,
+     1600
+    ],
+    "now": [
+     1042,
+     1599
+    ],
+    "uncropped": "originals_uncropped/CRVI000691.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "deadlypreygallery.com::air-bud-high-quality-print-stoger": {
    "id": "CRVI000692",
@@ -41165,9 +41363,9 @@
    "original_file": "originals/CRVI000699.jpg",
    "original_px": [
     1599,
-    2426
+    2425
    ],
-   "original_bytes": 1456572,
+   "original_bytes": 1685434,
    "identity": "deadlypreygallery.com::stop-making-sense-high-quality-print-mr-nana-agyq",
    "maker": "Mr. Nana Agyq",
    "title": "Stop Making Sense",
@@ -41218,10 +41416,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Deadly Prey Gallery, the Chicago dealer that commissions and sells these painters' work directly, lists this as \"STOP MAKING SENSE (High Quality Print) - Mr. Nana Agyq\" and describes it: I’ve got a tape I want to play… The great Ghanaian artist Mr. Nana Agyq’s already classic version of The Talking Heads movie Stop Making Sense is finally available as a $25 print! Our most popular work of all time, scroll to see a shot of the artist with his original painting 🥇",
-   "hue": 6.63,
-   "light": 0.4676,
-   "chroma": 0.5097,
-   "punch": 0.1215
+   "hue": 6.64,
+   "light": 0.4674,
+   "chroma": 0.5101,
+   "punch": 0.1215,
+   "crop": {
+    "box": [
+     0,
+     0,
+     1599,
+     2425
+    ],
+    "was": [
+     1599,
+     2426
+    ],
+    "now": [
+     1599,
+     2425
+    ],
+    "uncropped": "originals_uncropped/CRVI000699.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "deadlypreygallery.com::sister-act-limited-edition-archival-giclee-print-from-static-medium-by-heavy-j": {
    "id": "CRVI000700",
@@ -43078,10 +43294,10 @@
    "minted": "2026-08-26",
    "original_file": "originals/CRVI000730.jpg",
    "original_px": [
-    1600,
-    1117
+    1544,
+    1061
    ],
-   "original_bytes": 221440,
+   "original_bytes": 445716,
    "identity": "robertbeatty::floodgate-companion-spread-13",
    "maker": "Robert Beatty",
    "title": "Floodgate Companion",
@@ -43122,10 +43338,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Robert Beatty's own portfolio, which carries a Floodgate Companion project page. Confirmed by matching this file against the copy on his site — they are the same image.",
-   "hue": 13.99,
-   "light": 0.5538,
-   "chroma": 0.5942,
-   "punch": 0.2459
+   "hue": 14.05,
+   "light": 0.5129,
+   "chroma": 0.6504,
+   "punch": 0.2685,
+   "crop": {
+    "box": [
+     24,
+     24,
+     1568,
+     1085
+    ],
+    "was": [
+     1600,
+     1117
+    ],
+    "now": [
+     1544,
+     1061
+    ],
+    "uncropped": "originals_uncropped/CRVI000730.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "robertbeatty::icon10-illustration": {
    "id": "CRVI000731",
@@ -43752,10 +43986,10 @@
    "minted": "2026-08-26",
    "original_file": "originals/CRVI000743.jpg",
    "original_px": [
-    810,
-    1116
+    790,
+    1112
    ],
-   "original_bytes": 232504,
+   "original_bytes": 284879,
    "identity": "trendland::george-greaves::window",
    "maker": "George Greaves",
    "title": "Untitled",
@@ -43789,10 +44023,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Trendland's feature on George Greaves' surrealist illustrations. Greaves is a Bristol-based British illustrator, a graduate of the University of Westminster, who co-founded Printed Goods with his twin brother Raphael.",
-   "hue": 35.3,
-   "light": 0.8007,
-   "chroma": 0.6132,
-   "punch": 0.0922
+   "hue": 35.28,
+   "light": 0.795,
+   "chroma": 0.6582,
+   "punch": 0.0951,
+   "crop": {
+    "box": [
+     19,
+     0,
+     809,
+     1112
+    ],
+    "was": [
+     810,
+     1116
+    ],
+    "now": [
+     790,
+     1112
+    ],
+    "uncropped": "originals_uncropped/CRVI000743.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "aiga::keedy-cranbrook-fiber": {
    "id": "CRVI000744",
@@ -44145,13 +44397,13 @@
    "identity_established": true,
    "published": false,
    "verification": "It's Nice That's feature \"Sam Wenc's handmade album covers for independent music prove the importance of doing it yourself\", which reproduces the work and captions it \"Sam Wenc: Yo La Tengo: Old Joy (Copyright © Sam Wenc, 2026)\".",
-   "hue": 43.82,
-   "light": 0.4772,
-   "chroma": 0.5199,
+   "hue": 43.91,
+   "light": 0.4581,
+   "chroma": 0.5194,
    "deleted": true,
    "deleted_on": "2026-08-30",
    "number_reused": true,
-   "punch": 0.1218
+   "punch": 0.1232
   },
   "samwenc::arvo-part": {
    "id": "CRVI000750",
@@ -44539,9 +44791,9 @@
    "original_file": "originals/CRVI000749.jpg",
    "original_px": [
     2550,
-    3509
+    3347
    ],
-   "original_bytes": 5400345,
+   "original_bytes": 4900501,
    "identity": "jimcherry::mondo-face",
    "maker": "Jim Cherry",
    "title": "Mondo Face",
@@ -44582,10 +44834,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Jim Cherry's own portfolio at jimcherry.com, where the file is published as Mondo_Face_1018.jpg. Cherry is the American airbrush illustrator who painted the cover of Yello's Claro Que Si (1981), and has worked for Nike, Volkswagen, GQ, MTV and The New York Times.",
-   "hue": 43.82,
-   "light": 0.4772,
-   "chroma": 0.5199,
-   "punch": 0.1218
+   "hue": 43.91,
+   "light": 0.4581,
+   "chroma": 0.5194,
+   "punch": 0.1232,
+   "crop": {
+    "box": [
+     0,
+     0,
+     2550,
+     3347
+    ],
+    "was": [
+     2550,
+     3509
+    ],
+    "now": [
+     2550,
+     3347
+    ],
+    "uncropped": "originals_uncropped/CRVI000749.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "tetsuyaishida::supermarket-1996": {
    "id": "CRVI000750",
@@ -47266,10 +47536,10 @@
    "minted": "2026-09-01",
    "original_file": "originals/CRVI000792.jpg",
    "original_px": [
-    2560,
-    1903
+    2339,
+    1758
    ],
-   "original_bytes": 683165,
+   "original_bytes": 1549331,
    "identity": "roykuhlman::esquire-californians-are-crazy",
    "maker": "Roy Kuhlman",
    "title": "Californians Are Crazy",
@@ -47328,20 +47598,38 @@
    "identity_established": true,
    "published": true,
    "verification": "The Comics Journal’s November 2025 article \"Roy Kuhlman, graphic designer and hidden cartoonist\" by Steven Brower captions this image: \"Kuhlman used himself as a model for these Esquire article headers. Design, illustration and photography by Roy Kuhlman, circa 1953.\"",
-   "hue": 44.32,
-   "light": 0.7586,
-   "chroma": 0.7561,
-   "punch": 0.155
+   "hue": 44.37,
+   "light": 0.7205,
+   "chroma": 0.8844,
+   "punch": 0.1821,
+   "crop": {
+    "box": [
+     166,
+     68,
+     2505,
+     1826
+    ],
+    "was": [
+     2560,
+     1903
+    ],
+    "now": [
+     2339,
+     1758
+    ],
+    "uncropped": "originals_uncropped/CRVI000792.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "roykuhlman::jama-yoo-yoo-1954": {
    "id": "CRVI000793",
    "minted": "2026-09-01",
    "original_file": "originals/CRVI000793.jpg",
    "original_px": [
-    2560,
-    1795
+    2428,
+    1735
    ],
-   "original_bytes": 754290,
+   "original_bytes": 1703284,
    "identity": "roykuhlman::jama-yoo-yoo-1954",
    "maker": "Roy Kuhlman",
    "title": "Yoo-Yoo",
@@ -47391,10 +47679,28 @@
    "identity_established": true,
    "published": true,
    "verification": "The Comics Journal’s November 2025 article by Steven Brower captions this group of images \"Article openers for the Journal of American Medical Association, 1954.\"",
-   "hue": 43.0,
-   "light": 0.8289,
-   "chroma": 0.749,
-   "punch": 0.0958
+   "hue": 42.93,
+   "light": 0.8165,
+   "chroma": 0.8177,
+   "punch": 0.104,
+   "crop": {
+    "box": [
+     85,
+     60,
+     2513,
+     1795
+    ],
+    "was": [
+     2560,
+     1795
+    ],
+    "now": [
+     2428,
+     1735
+    ],
+    "uncropped": "originals_uncropped/CRVI000793.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "roykuhlman::the-ticket-that-exploded-grove": {
    "id": "CRVI000794",
@@ -48185,10 +48491,10 @@
    "minted": "2026-09-01",
    "original_file": "originals/CRVI000807.jpg",
    "original_px": [
-    6479,
-    4572
+    5194,
+    3571
    ],
-   "original_bytes": 15736609,
+   "original_bytes": 8558228,
    "identity": "marktansey::study-for-action-painting-ii",
    "maker": "Mark Tansey",
    "title": "Study for Action Painting II",
@@ -48239,20 +48545,38 @@
    "identity_established": true,
    "published": true,
    "verification": "MutualArt’s record for the work: Mark Tansey, Study for Action Painting II (1985), oil on canvas. The finished Action Painting II is in the Montreal Museum of Fine Arts.",
-   "hue": 181.36,
-   "light": 0.6736,
-   "chroma": 0.6129,
-   "punch": 0.2593
+   "hue": 181.44,
+   "light": 0.5281,
+   "chroma": 0.9222,
+   "punch": 0.3983,
+   "crop": {
+    "box": [
+     467,
+     388,
+     5661,
+     3959
+    ],
+    "was": [
+     6479,
+     4572
+    ],
+    "now": [
+     5194,
+     3571
+    ],
+    "uncropped": "originals_uncropped/CRVI000807.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "marktansey::natures-ape-1984": {
    "id": "CRVI000808",
    "minted": "2026-09-01",
    "original_file": "originals/CRVI000808.jpg",
    "original_px": [
-    4096,
-    4780
+    3973,
+    4649
    ],
-   "original_bytes": 2226322,
+   "original_bytes": 8564035,
    "identity": "marktansey::natures-ape-1984",
    "maker": "Mark Tansey",
    "title": "Nature’s Ape",
@@ -48303,10 +48627,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Sotheby’s New York, The Now & Contemporary Evening Auction, 18 November 2025 (sale N11733), lot 123: Mark Tansey, Nature’s Ape, oil on canvas, 77 by 66 inches (195.6 by 167.6 cm), signed, titled and dated 1984 on the reverse.",
-   "hue": 175.19,
-   "light": 0.3249,
-   "chroma": 0.8809,
-   "punch": 0.1854
+   "hue": 175.18,
+   "light": 0.285,
+   "chroma": 0.9304,
+   "punch": 0.1965,
+   "crop": {
+    "box": [
+     68,
+     68,
+     4041,
+     4717
+    ],
+    "was": [
+     4096,
+     4780
+    ],
+    "now": [
+     3973,
+     4649
+    ],
+    "uncropped": "originals_uncropped/CRVI000808.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "marktansey::xing-2021": {
    "id": "CRVI000809",
@@ -49297,10 +49639,10 @@
    "minted": "2026-09-01",
    "original_file": "originals/CRVI000824.jpg",
    "original_px": [
-    1292,
-    1579
+    1234,
+    1516
    ],
-   "original_bytes": 471418,
+   "original_bytes": 976721,
    "identity": "seymourchwast::master-and-dog-1972",
    "maker": "Seymour Chwast",
    "title": "Master & Dog",
@@ -49356,9 +49698,27 @@
    "published": true,
    "verification": "The Seymour Chwast Archive: \"Master & Dog. Date 1972. Medium Various: line and flat color, watercolor, papier-mâché, woodcut. Client Push Pin Graphic #57, Why People Keep Dogs,\" with text by Konrad Lorenz.",
    "hue": 185.17,
-   "light": 0.5927,
-   "chroma": 0.8308,
-   "punch": 0.3768
+   "light": 0.556,
+   "chroma": 0.91,
+   "punch": 0.4121,
+   "crop": {
+    "box": [
+     28,
+     28,
+     1262,
+     1544
+    ],
+    "was": [
+     1292,
+     1579
+    ],
+    "now": [
+     1234,
+     1516
+    ],
+    "uncropped": "originals_uncropped/CRVI000824.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "seymourchwast::canto-xviii-ppg52-1967": {
    "id": "CRVI000825",
@@ -50102,10 +50462,10 @@
    "minted": "2026-09-01",
    "original_file": "originals/CRVI000836.jpg",
    "original_px": [
-    2601,
-    2952
+    2546,
+    2943
    ],
-   "original_bytes": 3579393,
+   "original_bytes": 4014635,
    "identity": "ottagono::72-1984",
    "maker": "Ottagono",
    "title": "Ottagono 72",
@@ -50151,10 +50511,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Each cover states its own identity in the masthead block: title, issue number, \"Rivista trimestrale di architettura arredamento industrial design\", the publisher CO.P.IN.A., Via Melzi d’Eril 26, Milano, and the issue date. This issue reads \"72 / anno 19 / marzo 1984 / Lire 6.500\".",
-   "hue": 336.67,
-   "light": 0.4819,
-   "chroma": 0.993,
-   "punch": 0.3638
+   "hue": 336.51,
+   "light": 0.4787,
+   "chroma": 0.9948,
+   "punch": 0.3665,
+   "crop": {
+    "box": [
+     11,
+     7,
+     2557,
+     2950
+    ],
+    "was": [
+     2601,
+     2952
+    ],
+    "now": [
+     2546,
+     2943
+    ],
+    "uncropped": "originals_uncropped/CRVI000836.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "ottagono::66-1982": {
    "id": "CRVI000837",
@@ -50220,9 +50598,9 @@
    "original_file": "originals/CRVI000838.jpg",
    "original_px": [
     1688,
-    1991
+    1923
    ],
-   "original_bytes": 1069034,
+   "original_bytes": 1279239,
    "identity": "ottagono::62-1981",
    "maker": "Ottagono",
    "title": "Ottagono 62",
@@ -50268,10 +50646,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Each cover states its own identity in the masthead block: title, issue number, \"Rivista trimestrale di architettura arredamento industrial design\", the publisher CO.P.IN.A., Via Melzi d’Eril 26, Milano, and the issue date. This issue reads \"62 … settembre 1981\".",
-   "hue": 34.92,
-   "light": 0.5433,
-   "chroma": 0.8608,
-   "punch": 0.2869
+   "hue": 34.9,
+   "light": 0.5357,
+   "chroma": 0.8935,
+   "punch": 0.2963,
+   "crop": {
+    "box": [
+     0,
+     0,
+     1688,
+     1923
+    ],
+    "was": [
+     1688,
+     1991
+    ],
+    "now": [
+     1688,
+     1923
+    ],
+    "uncropped": "originals_uncropped/CRVI000838.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "ottagono::77-1985": {
    "id": "CRVI000839",
@@ -50336,10 +50732,10 @@
    "minted": "2026-09-01",
    "original_file": "originals/CRVI000840.jpg",
    "original_px": [
-    1956,
-    2174
+    1663,
+    1909
    ],
-   "original_bytes": 707501,
+   "original_bytes": 1052973,
    "identity": "ottagono::70-1983",
    "maker": "Ottagono",
    "title": "Ottagono 70",
@@ -50385,20 +50781,38 @@
    "identity_established": true,
    "published": true,
    "verification": "Each cover states its own identity in the masthead block: title, issue number, \"Rivista trimestrale di architettura arredamento industrial design\", the publisher CO.P.IN.A., Via Melzi d’Eril 26, Milano, and the issue date. This issue reads \"70 / anno 18 / settembre 1983 / Lire 5.000\".",
-   "hue": 7.46,
-   "light": 0.4754,
-   "chroma": 0.5705,
-   "punch": 0.2049
+   "hue": 7.5,
+   "light": 0.3808,
+   "chroma": 0.6686,
+   "punch": 0.2542,
+   "crop": {
+    "box": [
+     151,
+     156,
+     1814,
+     2065
+    ],
+    "was": [
+     1956,
+     2174
+    ],
+    "now": [
+     1663,
+     1909
+    ],
+    "uncropped": "originals_uncropped/CRVI000840.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "ottagono::18-1970": {
    "id": "CRVI000841",
    "minted": "2026-09-01",
    "original_file": "originals/CRVI000841.jpg",
    "original_px": [
-    2140,
-    2379
+    1827,
+    2075
    ],
-   "original_bytes": 495945,
+   "original_bytes": 747242,
    "identity": "ottagono::18-1970",
    "maker": "Ottagono",
    "title": "Ottagono 18",
@@ -50443,10 +50857,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Each cover states its own identity in the masthead block: title, issue number, \"Rivista trimestrale di architettura arredamento industrial design\", the publisher CO.P.IN.A., Via Melzi d’Eril 26, Milano, and the issue date. This issue reads \"18 … anno 5 / settembre 1970\".",
-   "hue": 53.03,
-   "light": 0.8355,
-   "chroma": 0.7633,
-   "punch": 0.0765
+   "hue": 52.69,
+   "light": 0.8522,
+   "chroma": 0.9288,
+   "punch": 0.091,
+   "crop": {
+    "box": [
+     148,
+     136,
+     1975,
+     2211
+    ],
+    "was": [
+     2140,
+     2379
+    ],
+    "now": [
+     1827,
+     2075
+    ],
+    "uncropped": "originals_uncropped/CRVI000841.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "ottagono::80-1986": {
    "id": "CRVI000842",
@@ -50571,10 +51003,10 @@
    "minted": "2026-09-01",
    "original_file": "originals/CRVI000844.webp",
    "original_px": [
-    2299,
-    3000
+    2064,
+    2738
    ],
-   "original_bytes": 385226,
+   "original_bytes": 171108,
    "identity": "domus::690-1988",
    "maker": "domus",
    "title": "domus 690",
@@ -50620,10 +51052,28 @@
    "identity_established": true,
    "published": true,
    "verification": "The cover states its own identity: \"domus, NUMERO 690, GENNAIO 1988, MONTHLY REVIEW OF ARCHITECTURE INTERIORS DESIGN ART,\" with the contents set vertically down both margins.",
-   "hue": 55.14,
-   "light": 0.5908,
-   "chroma": 0.486,
-   "punch": 0.2184
+   "hue": 55.03,
+   "light": 0.7076,
+   "chroma": 0.576,
+   "punch": 0.2626,
+   "crop": {
+    "box": [
+     131,
+     124,
+     2195,
+     2862
+    ],
+    "was": [
+     2299,
+     3000
+    ],
+    "now": [
+     2064,
+     2738
+    ],
+    "uncropped": "originals_uncropped/CRVI000844.webp",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "domus::1111-2026": {
    "id": "CRVI000845",
@@ -51433,10 +51883,10 @@
    "minted": "2026-09-01",
    "original_file": "originals/CRVI000858.webp",
    "original_px": [
-    1200,
-    1565
+    1055,
+    1418
    ],
-   "original_bytes": 631876,
+   "original_bytes": 619482,
    "identity": "julianstanczak::unbounded-1991",
    "maker": "Julian Stanczak",
    "title": "Unbounded",
@@ -51482,10 +51932,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Diane Rosenstein Gallery publishes this image as dianerosensteingallery-julian-stanczak-unbounded-1991, and Artsy’s record gives \"Unbounded, 1991.\"",
-   "hue": 38.47,
-   "light": 0.4232,
-   "chroma": 0.7197,
-   "punch": 0.1474
+   "hue": 38.36,
+   "light": 0.3309,
+   "chroma": 0.9051,
+   "punch": 0.1835,
+   "crop": {
+    "box": [
+     71,
+     74,
+     1126,
+     1492
+    ],
+    "was": [
+     1200,
+     1565
+    ],
+    "now": [
+     1055,
+     1418
+    ],
+    "uncropped": "originals_uncropped/CRVI000858.webp",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "julianstanczak::conferring-blue-1981": {
    "id": "CRVI000859",
@@ -51680,10 +52148,10 @@
    "minted": "2026-09-01",
    "original_file": "originals/CRVI000862.jpg",
    "original_px": [
-    2570,
-    3000
+    2427,
+    2791
    ],
-   "original_bytes": 2306830,
+   "original_bytes": 3199743,
    "identity": "julianstanczak::sequential-chroma-1978",
    "maker": "Julian Stanczak",
    "title": "Sequential Chroma",
@@ -51734,20 +52202,38 @@
    "identity_established": true,
    "published": true,
    "verification": "Artsy’s artwork record julian-stanczak-sequential-chroma-17: Julian Stanczak, Sequential Chroma, 1978, screen print on paper, 30 1/4 × 25 3/4 in (76.8 × 65.4 cm).",
-   "hue": 6.54,
-   "light": 0.5199,
-   "chroma": 0.957,
-   "punch": 0.624
+   "hue": 7.11,
+   "light": 0.4789,
+   "chroma": 1.0,
+   "punch": 0.6794,
+   "crop": {
+    "box": [
+     66,
+     81,
+     2493,
+     2872
+    ],
+    "was": [
+     2570,
+     3000
+    ],
+    "now": [
+     2427,
+     2791
+    ],
+    "uncropped": "originals_uncropped/CRVI000862.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "julianstanczak::sharing-in-orange-1970": {
    "id": "CRVI000863",
    "minted": "2026-09-01",
    "original_file": "originals/CRVI000863.jpg",
    "original_px": [
-    3000,
-    3000
+    2960,
+    2960
    ],
-   "original_bytes": 2935733,
+   "original_bytes": 5470139,
    "identity": "julianstanczak::sharing-in-orange-1970",
    "maker": "Julian Stanczak",
    "title": "Sharing in Orange",
@@ -51798,20 +52284,38 @@
    "identity_established": true,
    "published": true,
    "verification": "Artsy’s artwork record julian-stanczak-sharing-in-orange-1: Julian Stanczak, Sharing in Orange, 1970, acrylic on canvas, 42 1/4 × 42 1/4 in (107.3 × 107.3 cm). Sotheby’s sold a work of this title in its 2020 Contemporary Art Online sale.",
-   "hue": 33.83,
-   "light": 0.5477,
-   "chroma": 0.9879,
-   "punch": 0.5373
+   "hue": 34.03,
+   "light": 0.5354,
+   "chroma": 1.0,
+   "punch": 0.5522,
+   "crop": {
+    "box": [
+     20,
+     20,
+     2980,
+     2980
+    ],
+    "was": [
+     3000,
+     3000
+    ],
+    "now": [
+     2960,
+     2960
+    ],
+    "uncropped": "originals_uncropped/CRVI000863.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "julianstanczak::airy-1973": {
    "id": "CRVI000864",
    "minted": "2026-09-01",
    "original_file": "originals/CRVI000864.webp",
    "original_px": [
-    1200,
-    1119
+    963,
+    963
    ],
-   "original_bytes": 148456,
+   "original_bytes": 126734,
    "identity": "julianstanczak::airy-1973",
    "maker": "Julian Stanczak",
    "title": "Airy",
@@ -51857,10 +52361,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Diane Rosenstein Gallery, which represents the Stanczak estate, publishes this image as dianerosensteingallery-julian-stanczak-airy-1973.",
-   "hue": 62.03,
-   "light": 0.733,
-   "chroma": 0.5836,
-   "punch": 0.1558
+   "hue": 48.08,
+   "light": 0.6689,
+   "chroma": 0.8043,
+   "punch": 0.2275,
+   "crop": {
+    "box": [
+     103,
+     79,
+     1066,
+     1042
+    ],
+    "was": [
+     1200,
+     1119
+    ],
+    "now": [
+     963,
+     963
+    ],
+    "uncropped": "originals_uncropped/CRVI000864.webp",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "julianstanczak::sothebys-n12062-untraced": {
    "id": "CRVI000865",
@@ -51975,10 +52497,10 @@
    "minted": "2026-09-01",
    "original_file": "originals/CRVI000867.jpg",
    "original_px": [
-    4096,
-    4099
+    3905,
+    3904
    ],
-   "original_bytes": 2012424,
+   "original_bytes": 5141651,
    "identity": "julianstanczak::sothebys-n11290-untraced",
    "maker": "Julian Stanczak",
    "title": "[Untitled]",
@@ -52011,9 +52533,27 @@
    "published": true,
    "verification": "⚠️ NOT ESTABLISHED — PUBLISHED ANYWAY. Todd's instruction, 2026-09-03: publish every held item with or without credits, and say plainly that the answer is not known. So this record is live while its attribution is unresolved, and nothing below should be read as settled. nothing established — the image is served by Sotheby’s (file n11290-cnzk7-t3-02) but the lot record behind it could not be traced, and no source consulted names the work or confirms the artist.",
    "hue": 86.02,
-   "light": 0.2713,
-   "chroma": 0.8585,
-   "punch": 0.1497
+   "light": 0.1983,
+   "chroma": 0.9377,
+   "punch": 0.1646,
+   "crop": {
+    "box": [
+     89,
+     96,
+     3994,
+     4000
+    ],
+    "was": [
+     4096,
+     4099
+    ],
+    "now": [
+     3905,
+     3904
+    ],
+    "uncropped": "originals_uncropped/CRVI000867.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "julianstanczak::arte-landing-untraced": {
    "id": "CRVI000868",
@@ -61490,10 +62030,10 @@
    "minted": "2026-09-01",
    "original_file": "originals/CRVI001028.jpg",
    "original_px": [
-    4096,
-    5374
+    3862,
+    5132
    ],
-   "original_bytes": 4690236,
+   "original_bytes": 7568968,
    "identity": "sent-2026-09-01::8a2ed0488b7f",
    "maker": "Adrian Ghenie",
    "title": "Untitled painting",
@@ -61532,10 +62072,28 @@
    "identity_established": true,
    "published": true,
    "verification": "The artist is established: the image is published by one of Ghenie's own galleries or by the auction house that sold the work. The title, date and dimensions of THIS painting are not established here.",
-   "hue": 42.61,
-   "light": 0.576,
-   "chroma": 0.7719,
-   "punch": 0.2784
+   "hue": 42.56,
+   "light": 0.5545,
+   "chroma": 0.846,
+   "punch": 0.3077,
+   "crop": {
+    "box": [
+     114,
+     113,
+     3976,
+     5245
+    ],
+    "was": [
+     4096,
+     5374
+    ],
+    "now": [
+     3862,
+     5132
+    ],
+    "uncropped": "originals_uncropped/CRVI001028.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-01::52b8319839c2": {
    "id": "CRVI001029",
@@ -61593,10 +62151,10 @@
    "minted": "2026-09-01",
    "original_file": "originals/CRVI001030.jpg",
    "original_px": [
-    4096,
-    4106
+    3911,
+    3902
    ],
-   "original_bytes": 4910603,
+   "original_bytes": 7601596,
    "identity": "sent-2026-09-01::f93348c85c28",
    "maker": "Adrian Ghenie",
    "title": "Untitled painting",
@@ -61635,10 +62193,28 @@
    "identity_established": true,
    "published": true,
    "verification": "The artist is established: the image is published by one of Ghenie's own galleries or by the auction house that sold the work. The title, date and dimensions of THIS painting are not established here.",
-   "hue": 15.8,
-   "light": 0.6027,
-   "chroma": 0.8104,
-   "punch": 0.2275
+   "hue": 15.92,
+   "light": 0.5675,
+   "chroma": 0.8873,
+   "punch": 0.2507,
+   "crop": {
+    "box": [
+     89,
+     96,
+     4000,
+     3998
+    ],
+    "was": [
+     4096,
+     4106
+    ],
+    "now": [
+     3911,
+     3902
+    ],
+    "uncropped": "originals_uncropped/CRVI001030.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-01::189c842a9264": {
    "id": "CRVI001031",
@@ -82309,10 +82885,10 @@
    "minted": "2026-09-04",
    "original_file": "originals/CRVI001326.jpg",
    "original_px": [
-    960,
-    1355
+    934,
+    1333
    ],
-   "original_bytes": 223477,
+   "original_bytes": 518036,
    "identity": "todd sent 2026-09-04::unattributed-tron",
    "maker": "unattributed",
    "title": "Tron",
@@ -82346,10 +82922,28 @@
    "identity_established": true,
    "published": true,
    "verification": "The 1982 theatrical poster for Tron (Disney), which names the film and carries its tagline. ⚠️ No designer or illustrator is established — the poster art has been variously attributed and the file carries no credit, so nobody is named here. From the folder Todd sent on 2026-09-04.",
-   "hue": 214.72,
-   "light": 0.172,
-   "chroma": 0.3332,
-   "punch": 0.1311
+   "hue": 214.9,
+   "light": 0.1453,
+   "chroma": 0.3431,
+   "punch": 0.1354,
+   "crop": {
+    "box": [
+     12,
+     13,
+     946,
+     1346
+    ],
+    "was": [
+     960,
+     1355
+    ],
+    "now": [
+     934,
+     1333
+    ],
+    "uncropped": "originals_uncropped/CRVI001326.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "todd sent 2026-09-04::peter-lloyd-tron-concept-art-the-solar-sailer": {
    "id": "CRVI001327",
@@ -83163,10 +83757,10 @@
    "minted": "2026-09-04",
    "original_file": "originals/CRVI001342.webp",
    "original_px": [
-    1946,
-    1557
+    1038,
+    1350
    ],
-   "original_bytes": 77658,
+   "original_bytes": 43390,
    "identity": "todd sent 2026-09-04::unattributed-american-jazz-annual-newport-edition",
    "maker": "unattributed",
    "title": "American Jazz Annual, Newport edition",
@@ -83200,10 +83794,28 @@
    "identity_established": true,
    "published": true,
    "verification": "The cover names itself: american jazz annual / newport edition 1956 / one dollar. ⚠️ No designer is established. Published with the uncertainty stated. From the folder Todd sent on 2026-09-04.",
-   "hue": 184.97,
-   "light": 0.7518,
-   "chroma": 0.3803,
-   "punch": 0.1587
+   "hue": 185.0,
+   "light": 0.5204,
+   "chroma": 0.792,
+   "punch": 0.3455,
+   "crop": {
+    "box": [
+     447,
+     110,
+     1485,
+     1460
+    ],
+    "was": [
+     1946,
+     1557
+    ],
+    "now": [
+     1038,
+     1350
+    ],
+    "uncropped": "originals_uncropped/CRVI001342.webp",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "todd sent 2026-09-04::unattributed-portrait-poster-with-coloured-discs": {
    "id": "CRVI001343",
@@ -83873,10 +84485,10 @@
    "minted": "2026-09-04",
    "original_file": "originals/CRVI001355.jpg",
    "original_px": [
-    4740,
-    3088
+    4418,
+    3035
    ],
-   "original_bytes": 8810836,
+   "original_bytes": 5063679,
    "identity": "todd sent 2026-09-04 dune::dune-production-bible-harkonnen-structure",
    "maker": "H.R. Giger",
    "title": "Dune production bible — Harkonnen structure",
@@ -83922,10 +84534,28 @@
    "identity_established": true,
    "published": true,
    "verification": "A page from the production bible for Alejandro Jodorowsky's unmade Dune — the bound presentation book taken to the studios in 1975. Its own title page, photographed as part of the same set, carries the credit line: MICHEL SEYDOUX PRESENTS / A FILM BY ALEXANDRO JODOROWSKY / BASED ON FRANK HERBERT'S NOVEL / DESIGN BY JEAN GIRAUD / MACHINES BY CHRISTOPHER FOSS. Todd photographed this copy in April 2021 and supplied the file on 2026-09-04; the museum holds it byte for byte. ⚠️ THIS PLATE IS SIGNED IN THE ARTWORK ITSELF, stencilled into the lower right: H.R. GIGER 76 / A. JODOROWSKY'S / DUNE. That is an attribution and a date carried by the object, which is the strongest source this archive accepts — no database or secondary publication was needed for it.",
-   "hue": 29.68,
-   "light": 0.5477,
-   "chroma": 0.7035,
-   "punch": 0.1462
+   "hue": 29.55,
+   "light": 0.5117,
+   "chroma": 0.7742,
+   "punch": 0.1589,
+   "crop": {
+    "box": [
+     283,
+     47,
+     4701,
+     3082
+    ],
+    "was": [
+     4740,
+     3088
+    ],
+    "now": [
+     4418,
+     3035
+    ],
+    "uncropped": "originals_uncropped/CRVI001355.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "todd sent 2026-09-04 dune::dune-production-bible-costume-design-robed-figure": {
    "id": "CRVI001356",
@@ -88989,10 +89619,10 @@
    "minted": "2026-09-05",
    "original_file": "originals/CRVI001428.jpg",
    "original_px": [
-    2186,
-    1500
+    1871,
+    1247
    ],
-   "original_bytes": 1722857,
+   "original_bytes": 1793145,
    "identity": "sent-2026-09-05::4f8164394aed",
    "source_url": "https://d2u3kfwd92fzu7.cloudfront.net/asset/cms/Art_Basel_Hong_Kong_Rirkrit_Tiravanija_Gladstone_Gallery_3.jpg",
    "maker": "Rirkrit Tiravanija",
@@ -89027,20 +89657,38 @@
    "identity_established": true,
    "published": true,
    "verification": "Art Basel's own asset, naming Rirkrit Tiravanija and Gladstone Gallery at Art Basel Hong Kong. The individual work's title and year are not established here.",
-   "hue": 353.85,
-   "light": 0.6101,
-   "chroma": 0.2915,
-   "punch": 0.0944
+   "hue": 353.72,
+   "light": 0.5271,
+   "chroma": 0.4219,
+   "punch": 0.1292,
+   "crop": {
+    "box": [
+     157,
+     125,
+     2028,
+     1372
+    ],
+    "was": [
+     2186,
+     1500
+    ],
+    "now": [
+     1871,
+     1247
+    ],
+    "uncropped": "originals_uncropped/CRVI001428.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::95decbba8e8d": {
    "id": "CRVI001429",
    "minted": "2026-09-05",
    "original_file": "originals/CRVI001429.jpg",
    "original_px": [
-    1280,
-    964
+    1224,
+    907
    ],
-   "original_bytes": 226578,
+   "original_bytes": 472503,
    "identity": "sent-2026-09-05::95decbba8e8d",
    "source_url": "https://images.squarespace-cdn.com/content/v1/67c1754c89592f0c27fddb0b/2d10af83-e9db-4f71-8890-2450970c30a7/3.+Rirkrit+Tiravanija%2C+Untitled%2C+2022+Large.jpeg",
    "maker": "Rirkrit Tiravanija",
@@ -89078,9 +89726,27 @@
    "published": true,
    "verification": "The gallery's own file name gives Rirkrit Tiravanija, Untitled, 2022.",
    "hue": null,
-   "light": 0.5856,
-   "chroma": 0.0118,
-   "punch": 0.0258
+   "light": 0.5399,
+   "chroma": 0.0169,
+   "punch": 0.0285,
+   "crop": {
+    "box": [
+     30,
+     30,
+     1254,
+     937
+    ],
+    "was": [
+     1280,
+     964
+    ],
+    "now": [
+     1224,
+     907
+    ],
+    "uncropped": "originals_uncropped/CRVI001429.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::9eed20b4c716": {
    "id": "CRVI001430",
@@ -90185,10 +90851,10 @@
    "minted": "2026-09-05",
    "original_file": "originals/CRVI001450.jpg",
    "original_px": [
-    3200,
-    2691
+    2970,
+    2506
    ],
-   "original_bytes": 3353683,
+   "original_bytes": 4760799,
    "identity": "sent-2026-09-05::be5a75612acf",
    "source_url": "https://www.christies.com/img/lotimages/2023/NYR/2023_NYR_22043_0022A_000(philip_guston_chair032925).jpg?mode=max",
    "maker": "Philip Guston",
@@ -90227,10 +90893,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Christie's own lot asset (sale 22043, lot 22A, 2023); the file name is Christie's metadata naming Philip Guston's Chair. The date is not established here.",
-   "hue": 0.33,
-   "light": 0.5827,
-   "chroma": 0.719,
-   "punch": 0.1883
+   "hue": 0.31,
+   "light": 0.5216,
+   "chroma": 0.8217,
+   "punch": 0.2176,
+   "crop": {
+    "box": [
+     101,
+     96,
+     3071,
+     2602
+    ],
+    "was": [
+     3200,
+     2691
+    ],
+    "now": [
+     2970,
+     2506
+    ],
+    "uncropped": "originals_uncropped/CRVI001450.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::8c8cc5f76020": {
    "id": "CRVI001451",
@@ -90293,10 +90977,10 @@
    "minted": "2026-09-05",
    "original_file": "originals/CRVI001452.jpg",
    "original_px": [
-    1064,
-    1215
+    1052,
+    1196
    ],
-   "original_bytes": 1101322,
+   "original_bytes": 666581,
    "identity": "sent-2026-09-05::fdb427c84994",
    "source_url": "https://www.artforum.com/wp-content/uploads/2020/11/article00_large-146.jpg",
    "maker": "Philip Guston",
@@ -90335,10 +91019,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Reproduced by Artforum. A late Guston, signed P.G. at the lower left; the individual title and date are not established here.",
-   "hue": 354.16,
-   "light": 0.6871,
-   "chroma": 0.7257,
-   "punch": 0.2188
+   "hue": 354.11,
+   "light": 0.6804,
+   "chroma": 0.7273,
+   "punch": 0.2239,
+   "crop": {
+    "box": [
+     8,
+     13,
+     1060,
+     1209
+    ],
+    "was": [
+     1064,
+     1215
+    ],
+    "now": [
+     1052,
+     1196
+    ],
+    "uncropped": "originals_uncropped/CRVI001452.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::f015d473bcc7": {
    "id": "CRVI001453",
@@ -91418,10 +92120,10 @@
    "minted": "2026-09-05",
    "original_file": "originals/CRVI001472.jpg",
    "original_px": [
-    4000,
-    3394
+    3848,
+    3184
    ],
-   "original_bytes": 3663056,
+   "original_bytes": 4695926,
    "identity": "sent-2026-09-05::2a38463933b4",
    "source_url": "https://images.metmuseum.org/CRDImages/ep/original/DP-23236-001.jpg",
    "maker": "Gustave Courbet",
@@ -91464,10 +92166,28 @@
    "identity_established": true,
    "published": true,
    "verification": "The Metropolitan Museum of Art's own image server (CRDImages/ep/DP-23236-001). Identified as Courbet's Jo, La Belle Irlandaise, Met object 436001. The sitter is Joanna Hiffernan, Whistler's model and mistress; Courbet began the portrait at Trouville in 1865 though the picture is dated 1866, and painted four versions in all.",
-   "hue": 27.47,
-   "light": 0.1825,
-   "chroma": 0.6467,
-   "punch": 0.1117
+   "hue": 27.24,
+   "light": 0.188,
+   "chroma": 0.6801,
+   "punch": 0.1181,
+   "crop": {
+    "box": [
+     75,
+     86,
+     3923,
+     3270
+    ],
+    "was": [
+     4000,
+     3394
+    ],
+    "now": [
+     3848,
+     3184
+    ],
+    "uncropped": "originals_uncropped/CRVI001472.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::de58d902f3e1": {
    "id": "CRVI001473",
@@ -92468,9 +93188,9 @@
    "original_file": "originals/CRVI001490.jpg",
    "original_px": [
     1242,
-    1787
+    1786
    ],
-   "original_bytes": 268297,
+   "original_bytes": 926244,
    "identity": "sent-2026-09-05::e2bdef8ee714",
    "source_url": "https://uploads5.wikiart.org/images/max-ernst/ambiguous-figures-1-copper-plate-1-zinc-plate-1-rubber-cloth.jpg",
    "maker": "Max Ernst",
@@ -92511,16 +93231,34 @@
    "identity_established": true,
    "published": true,
    "verification": "WikiArt, under Max Ernst. Signed max ernst within the sheet. The date is not established here.",
-   "hue": 216.36,
+   "hue": 216.33,
    "light": 0.6334,
-   "chroma": 0.6443,
-   "punch": 0.1825,
+   "chroma": 0.6449,
+   "punch": 0.1828,
    "extra_tags": [
     {
      "k": "movement",
      "v": "Dada"
     }
-   ]
+   ],
+   "crop": {
+    "box": [
+     0,
+     0,
+     1242,
+     1786
+    ],
+    "was": [
+     1242,
+     1787
+    ],
+    "now": [
+     1242,
+     1786
+    ],
+    "uncropped": "originals_uncropped/CRVI001490.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::2391a302e83c": {
    "id": "CRVI001491",
@@ -94604,10 +95342,10 @@
    "minted": "2026-09-05",
    "original_file": "originals/CRVI001524.jpg",
    "original_px": [
-    814,
-    850
+    799,
+    839
    ],
-   "original_bytes": 278874,
+   "original_bytes": 465344,
    "identity": "sent-2026-09-05::24444ecb785a",
    "source_url": "https://uploads7.wikiart.org/images/joan-mitchell/untitled-1956.jpg",
    "maker": "Joan Mitchell",
@@ -94650,16 +95388,34 @@
    "identity_established": true,
    "published": true,
    "verification": "WikiArt, under Joan Mitchell, dated 1956.",
-   "hue": 37.63,
-   "light": 0.5544,
-   "chroma": 0.7298,
-   "punch": 0.1473,
+   "hue": 37.7,
+   "light": 0.54,
+   "chroma": 0.7543,
+   "punch": 0.1519,
    "extra_tags": [
     {
      "k": "movement",
      "v": "Abstract Expressionism"
     }
-   ]
+   ],
+   "crop": {
+    "box": [
+     7,
+     5,
+     806,
+     844
+    ],
+    "was": [
+     814,
+     850
+    ],
+    "now": [
+     799,
+     839
+    ],
+    "uncropped": "originals_uncropped/CRVI001524.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::aa61fb24b40b": {
    "id": "CRVI001525",
@@ -95139,10 +95895,10 @@
    "minted": "2026-09-05",
    "original_file": "originals/CRVI001533.jpg",
    "original_px": [
-    1608,
-    1993
+    1582,
+    1983
    ],
-   "original_bytes": 414366,
+   "original_bytes": 2120136,
    "identity": "sent-2026-09-05::fe55764379dc",
    "source_url": "https://uploads7.wikiart.org/images/diego-rivera/the-adoration-of-the-virgin-1913.jpg",
    "maker": "Diego Rivera",
@@ -95182,10 +95938,28 @@
    "identity_established": true,
    "published": true,
    "verification": "WikiArt, under Diego Rivera, dated 1913.",
-   "hue": 36.51,
-   "light": 0.4303,
-   "chroma": 0.8096,
-   "punch": 0.2526
+   "hue": 36.48,
+   "light": 0.4273,
+   "chroma": 0.8157,
+   "punch": 0.2548,
+   "crop": {
+    "box": [
+     6,
+     2,
+     1588,
+     1985
+    ],
+    "was": [
+     1608,
+     1993
+    ],
+    "now": [
+     1582,
+     1983
+    ],
+    "uncropped": "originals_uncropped/CRVI001533.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::a39b7567802a": {
    "id": "CRVI001534",
@@ -95310,10 +96084,10 @@
    "minted": "2026-09-05",
    "original_file": "originals/CRVI001536.jpg",
    "original_px": [
-    1067,
-    810
+    1058,
+    804
    ],
-   "original_bytes": 240444,
+   "original_bytes": 697194,
    "identity": "sent-2026-09-05::b4f58a6d4f23",
    "source_url": "https://uploads3.wikiart.org/images/david-alfaro-siqueiros/self-portrait-1945.jpg",
    "maker": "David Alfaro Siqueiros",
@@ -95358,16 +96132,34 @@
    "identity_established": true,
    "published": true,
    "verification": "WikiArt, under David Alfaro Siqueiros, dated 1945.",
-   "hue": 36.17,
-   "light": 0.4066,
-   "chroma": 0.8911,
-   "punch": 0.2775,
+   "hue": 36.11,
+   "light": 0.401,
+   "chroma": 0.9051,
+   "punch": 0.2811,
    "extra_tags": [
     {
      "k": "movement",
      "v": "Mexican Muralism"
     }
-   ]
+   ],
+   "crop": {
+    "box": [
+     4,
+     0,
+     1062,
+     804
+    ],
+    "was": [
+     1067,
+     810
+    ],
+    "now": [
+     1058,
+     804
+    ],
+    "uncropped": "originals_uncropped/CRVI001536.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::5bc9a9c87b4b": {
    "id": "CRVI001537",
@@ -96507,10 +97299,10 @@
    "minted": "2026-09-05",
    "original_file": "originals/CRVI001557.jpg",
    "original_px": [
-    1070,
-    920
+    1042,
+    881
    ],
-   "original_bytes": 601320,
+   "original_bytes": 906498,
    "identity": "sent-2026-09-05::08a2a37dad74",
    "source_url": "https://uploads6.wikiart.org/images/remedios-varo/creation-of-the-birds.jpg",
    "maker": "Remedios Varo",
@@ -96551,26 +97343,44 @@
    "identity_established": true,
    "published": true,
    "verification": "WikiArt, under Remedios Varo; the date is not established here.",
-   "hue": 15.69,
-   "light": 0.3465,
-   "chroma": 0.8434,
-   "punch": 0.1973,
+   "hue": 15.73,
+   "light": 0.3398,
+   "chroma": 0.9057,
+   "punch": 0.2022,
    "extra_tags": [
     {
      "k": "movement",
      "v": "Surrealism"
     }
-   ]
+   ],
+   "crop": {
+    "box": [
+     12,
+     14,
+     1054,
+     895
+    ],
+    "was": [
+     1070,
+     920
+    ],
+    "now": [
+     1042,
+     881
+    ],
+    "uncropped": "originals_uncropped/CRVI001557.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::aa8eed6a43c2": {
    "id": "CRVI001558",
    "minted": "2026-09-05",
    "original_file": "originals/CRVI001558.jpg",
    "original_px": [
-    2688,
-    3056
+    2653,
+    3020
    ],
-   "original_bytes": 4171575,
+   "original_bytes": 4860346,
    "identity": "sent-2026-09-05::aa8eed6a43c2",
    "source_url": "https://uploads3.wikiart.org/00437/images/remedios-varo/1955simpat-a-la-rabia-del-gato-painted-in-1955.jpg",
    "maker": "Remedios Varo",
@@ -96613,26 +97423,44 @@
    "identity_established": true,
    "published": true,
    "verification": "WikiArt, under Remedios Varo, dated 1955.",
-   "hue": 52.67,
-   "light": 0.3036,
-   "chroma": 0.8443,
-   "punch": 0.1687,
+   "hue": 52.69,
+   "light": 0.299,
+   "chroma": 0.8705,
+   "punch": 0.1713,
    "extra_tags": [
     {
      "k": "movement",
      "v": "Surrealism"
     }
-   ]
+   ],
+   "crop": {
+    "box": [
+     18,
+     16,
+     2671,
+     3036
+    ],
+    "was": [
+     2688,
+     3056
+    ],
+    "now": [
+     2653,
+     3020
+    ],
+    "uncropped": "originals_uncropped/CRVI001558.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::e843658edcd2": {
    "id": "CRVI001559",
    "minted": "2026-09-05",
    "original_file": "originals/CRVI001559.jpg",
    "original_px": [
-    1260,
-    1160
+    1242,
+    1136
    ],
-   "original_bytes": 739137,
+   "original_bytes": 1566513,
    "identity": "sent-2026-09-05::e843658edcd2",
    "source_url": "https://uploads1.wikiart.org/images/dorothea-tanning/voltagem-1942.jpg",
    "maker": "Dorothea Tanning",
@@ -96675,26 +97503,44 @@
    "identity_established": true,
    "published": true,
    "verification": "WikiArt, under Dorothea Tanning, dated 1942.",
-   "hue": 31.91,
-   "light": 0.5134,
-   "chroma": 0.4999,
-   "punch": 0.1398,
+   "hue": 31.82,
+   "light": 0.507,
+   "chroma": 0.5033,
+   "punch": 0.1423,
    "extra_tags": [
     {
      "k": "movement",
      "v": "Surrealism"
     }
-   ]
+   ],
+   "crop": {
+    "box": [
+     12,
+     11,
+     1254,
+     1147
+    ],
+    "was": [
+     1260,
+     1160
+    ],
+    "now": [
+     1242,
+     1136
+    ],
+    "uncropped": "originals_uncropped/CRVI001559.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::b7d2f178d6d9": {
    "id": "CRVI001560",
    "minted": "2026-09-05",
    "original_file": "originals/CRVI001560.jpg",
    "original_px": [
-    1600,
-    1162
+    1575,
+    1146
    ],
-   "original_bytes": 605372,
+   "original_bytes": 1473232,
    "identity": "sent-2026-09-05::b7d2f178d6d9",
    "source_url": "https://i.pinimg.com/originals/53/51/b6/5351b62b9f213e5a8027a9c9bbe6697a.jpg",
    "maker": "Dorothea Tanning",
@@ -96737,16 +97583,34 @@
    "identity_established": true,
    "published": true,
    "verification": "Identified from the painting itself — the green hotel corridor, the two girls, the shredded doll and the giant sunflower on the stair make Eine Kleine Nachtmusik, the picture Tate holds. ⚠️ The FILE, however, came from Pinterest with no provenance at all; the identification is the work's, not the source's.",
-   "hue": 36.42,
-   "light": 0.3728,
-   "chroma": 0.9282,
-   "punch": 0.2785,
+   "hue": 36.52,
+   "light": 0.3646,
+   "chroma": 0.9505,
+   "punch": 0.2829,
    "extra_tags": [
     {
      "k": "movement",
      "v": "Surrealism"
     }
-   ]
+   ],
+   "crop": {
+    "box": [
+     11,
+     9,
+     1586,
+     1155
+    ],
+    "was": [
+     1600,
+     1162
+    ],
+    "now": [
+     1575,
+     1146
+    ],
+    "uncropped": "originals_uncropped/CRVI001560.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::6c18a64222c6": {
    "id": "CRVI001561",
@@ -96805,10 +97669,10 @@
    "minted": "2026-09-05",
    "original_file": "originals/CRVI001562.jpg",
    "original_px": [
-    1642,
-    1847
+    1608,
+    1795
    ],
-   "original_bytes": 290339,
+   "original_bytes": 1292822,
    "identity": "sent-2026-09-05::0d9da4fa9020",
    "source_url": "https://uploads6.wikiart.org/images/giorgio-de-chirico/the-gentle-afternoon-1916.jpg",
    "maker": "Giorgio de Chirico",
@@ -96847,20 +97711,38 @@
    "identity_established": true,
    "published": true,
    "verification": "WikiArt, under Giorgio de Chirico, dated 1916.",
-   "hue": 46.27,
-   "light": 0.3478,
-   "chroma": 0.6969,
-   "punch": 0.2153
+   "hue": 46.29,
+   "light": 0.3528,
+   "chroma": 0.7164,
+   "punch": 0.2221,
+   "crop": {
+    "box": [
+     30,
+     4,
+     1638,
+     1799
+    ],
+    "was": [
+     1642,
+     1847
+    ],
+    "now": [
+     1608,
+     1795
+    ],
+    "uncropped": "originals_uncropped/CRVI001562.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::5c11cc75a946": {
    "id": "CRVI001563",
    "minted": "2026-09-05",
    "original_file": "originals/CRVI001563.jpg",
    "original_px": [
-    1311,
+    1293,
     1970
    ],
-   "original_bytes": 277202,
+   "original_bytes": 1399170,
    "identity": "sent-2026-09-05::5c11cc75a946",
    "source_url": "https://uploads7.wikiart.org/images/otto-dix/self-portrait-1912.jpg",
    "maker": "Otto Dix",
@@ -96899,10 +97781,28 @@
    "identity_established": true,
    "published": true,
    "verification": "WikiArt, under Otto Dix, dated 1912; the panel is inscribed DIX 1912 at the upper left.",
-   "hue": 197.83,
-   "light": 0.4332,
-   "chroma": 0.8746,
-   "punch": 0.221
+   "hue": 197.91,
+   "light": 0.4276,
+   "chroma": 0.8729,
+   "punch": 0.2213,
+   "crop": {
+    "box": [
+     18,
+     0,
+     1311,
+     1970
+    ],
+    "was": [
+     1311,
+     1970
+    ],
+    "now": [
+     1293,
+     1970
+    ],
+    "uncropped": "originals_uncropped/CRVI001563.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::5cab119b9fae": {
    "id": "CRVI001564",
@@ -97175,10 +98075,10 @@
    "minted": "2026-09-05",
    "original_file": "originals/CRVI001569.jpg",
    "original_px": [
-    1280,
-    1822
+    1152,
+    1586
    ],
-   "original_bytes": 985580,
+   "original_bytes": 1476009,
    "identity": "sent-2026-09-05::3543d05fcabf",
    "source_url": "https://uploads3.wikiart.org/images/christian-schad/zwei-m-dche-1928.jpg",
    "maker": "Christian Schad",
@@ -97221,16 +98121,34 @@
    "identity_established": true,
    "published": true,
    "verification": "WikiArt, under Christian Schad, dated 1928.",
-   "hue": 24.2,
-   "light": 0.6142,
-   "chroma": 0.6066,
-   "punch": 0.1716,
+   "hue": 24.27,
+   "light": 0.5126,
+   "chroma": 0.7643,
+   "punch": 0.2126,
    "extra_tags": [
     {
      "k": "movement",
      "v": "New Objectivity"
     }
-   ]
+   ],
+   "crop": {
+    "box": [
+     75,
+     112,
+     1227,
+     1698
+    ],
+    "was": [
+     1280,
+     1822
+    ],
+    "now": [
+     1152,
+     1586
+    ],
+    "uncropped": "originals_uncropped/CRVI001569.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::0b6bd82ffaea": {
    "id": "CRVI001570",
@@ -98024,10 +98942,10 @@
    "minted": "2026-09-05",
    "original_file": "originals/CRVI001583.jpg",
    "original_px": [
-    2000,
-    1350
+    1832,
+    1171
    ],
-   "original_bytes": 181093,
+   "original_bytes": 469851,
    "identity": "sent-2026-09-05::6296688d463a",
    "source_url": "https://www.art.salon/images/ralston-crawford_overseas-highway_AID154467.jpg?f=grey",
    "maker": "Ralston Crawford",
@@ -98066,10 +98984,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Published as Ralston Crawford, Overseas Highway, by art.salon; the file name is their own metadata. The date is not established here.",
-   "hue": 215.13,
-   "light": 0.691,
-   "chroma": 0.2849,
-   "punch": 0.0779
+   "hue": 215.18,
+   "light": 0.6454,
+   "chroma": 0.117,
+   "punch": 0.0758,
+   "crop": {
+    "box": [
+     103,
+     73,
+     1935,
+     1244
+    ],
+    "was": [
+     2000,
+     1350
+    ],
+    "now": [
+     1832,
+     1171
+    ],
+    "uncropped": "originals_uncropped/CRVI001583.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::d7f1b5b8ed43": {
    "id": "CRVI001584",
@@ -98482,10 +99418,10 @@
    "minted": "2026-09-05",
    "original_file": "originals/CRVI001591.jpg",
    "original_px": [
-    2048,
-    1526
+    1862,
+    1303
    ],
-   "original_bytes": 253018,
+   "original_bytes": 868013,
    "identity": "sent-2026-09-05::51ef6f3e8721",
    "source_url": "https://artlogic-res.cloudinary.com/w_6000,h_6000,c_limit,f_auto,q_auto/artlogicstorage/acagalleries/images/view/fdda0630740995c623103835a9a2ff4aj/acagalleries-john-baeder-red-stripes-2002.jpg",
    "maker": "John Baeder",
@@ -98528,10 +99464,28 @@
    "identity_established": true,
    "published": true,
    "verification": "ACA Galleries, whose file name gives John Baeder, Red Stripes, 2002.",
-   "hue": 16.68,
-   "light": 0.6486,
-   "chroma": 0.5227,
-   "punch": 0.1678
+   "hue": 16.58,
+   "light": 0.5998,
+   "chroma": 0.64,
+   "punch": 0.2035,
+   "crop": {
+    "box": [
+     112,
+     129,
+     1974,
+     1432
+    ],
+    "was": [
+     2048,
+     1526
+    ],
+    "now": [
+     1862,
+     1303
+    ],
+    "uncropped": "originals_uncropped/CRVI001591.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::8f3af0110444": {
    "id": "CRVI001592",
@@ -102557,10 +103511,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI001659.jpg",
    "original_px": [
-    2100,
-    2744
+    2013,
+    2609
    ],
-   "original_bytes": 1029383,
+   "original_bytes": 2379231,
    "identity": "sent-2026-09-05::86d82cd3e985",
    "source_url": "https://uploads8.wikiart.org/images/albert-gleizes/on-a-sailboat.jpg",
    "maker": "Albert Gleizes",
@@ -102599,10 +103553,28 @@
    "identity_established": true,
    "published": true,
    "verification": "WikiArt, under Albert Gleizes; the date is not established here.",
-   "hue": 214.92,
-   "light": 0.358,
-   "chroma": 0.7236,
-   "punch": 0.2228
+   "hue": 214.97,
+   "light": 0.3833,
+   "chroma": 0.7657,
+   "punch": 0.2394,
+   "crop": {
+    "box": [
+     42,
+     78,
+     2055,
+     2687
+    ],
+    "was": [
+     2100,
+     2744
+    ],
+    "now": [
+     2013,
+     2609
+    ],
+    "uncropped": "originals_uncropped/CRVI001659.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::ffe5ba387349": {
    "id": "CRVI001660",
@@ -103147,10 +104119,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI001669.jpg",
    "original_px": [
-    1587,
-    2268
+    1514,
+    2205
    ],
-   "original_bytes": 437223,
+   "original_bytes": 1106584,
    "identity": "sent-2026-09-05::d4bf16471e99",
    "source_url": "https://uploads5.wikiart.org/00334/images/maria-blanchard/la-comulgante-girl-at-her-first-communion-1914.jpg",
    "maker": "María Blanchard",
@@ -103193,16 +104165,34 @@
    "identity_established": true,
    "published": true,
    "verification": "WikiArt, under María Blanchard, dated 1914.",
-   "hue": 15.2,
-   "light": 0.4654,
-   "chroma": 0.3019,
-   "punch": 0.0857,
+   "hue": 14.81,
+   "light": 0.454,
+   "chroma": 0.2713,
+   "punch": 0.083,
    "extra_tags": [
     {
      "k": "movement",
      "v": "Cubism"
     }
-   ]
+   ],
+   "crop": {
+    "box": [
+     40,
+     28,
+     1554,
+     2233
+    ],
+    "was": [
+     1587,
+     2268
+    ],
+    "now": [
+     1514,
+     2205
+    ],
+    "uncropped": "originals_uncropped/CRVI001669.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::6d4f80227b53": {
    "id": "CRVI001670",
@@ -104190,10 +105180,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI001686.jpg",
    "original_px": [
-    1124,
-    1524
+    1113,
+    1515
    ],
-   "original_bytes": 299833,
+   "original_bytes": 1237209,
    "identity": "sent-2026-09-05::1b83e55bced8",
    "source_url": "https://uploads0.wikiart.org/images/gino-severini/the-haunting-dancer-1911.jpg",
    "maker": "Gino Severini",
@@ -104236,16 +105226,34 @@
    "identity_established": true,
    "published": true,
    "verification": "WikiArt, under Gino Severini, dated 1911.",
-   "hue": 212.65,
-   "light": 0.4691,
-   "chroma": 0.5701,
-   "punch": 0.1445,
+   "hue": 212.66,
+   "light": 0.4657,
+   "chroma": 0.5781,
+   "punch": 0.1456,
    "extra_tags": [
     {
      "k": "movement",
      "v": "Futurism"
     }
-   ]
+   ],
+   "crop": {
+    "box": [
+     5,
+     3,
+     1118,
+     1518
+    ],
+    "was": [
+     1124,
+     1524
+    ],
+    "now": [
+     1113,
+     1515
+    ],
+    "uncropped": "originals_uncropped/CRVI001686.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::ef5448b0658b": {
    "id": "CRVI001687",
@@ -105295,10 +106303,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI001704.jpg",
    "original_px": [
-    1063,
-    1140
+    1026,
+    1102
    ],
-   "original_bytes": 528129,
+   "original_bytes": 998623,
    "identity": "sent-2026-09-05::4c390fd976d4",
    "source_url": "https://uploads7.wikiart.org/images/wassily-kandinsky/couple-riding-1906.jpg",
    "maker": "Wassily Kandinsky",
@@ -105341,10 +106349,28 @@
    "identity_established": true,
    "published": true,
    "verification": "WikiArt, under Wassily Kandinsky, dated 1906.",
-   "hue": 206.21,
-   "light": 0.4176,
-   "chroma": 0.1535,
-   "punch": 0.0625
+   "hue": 206.04,
+   "light": 0.3763,
+   "chroma": 0.1649,
+   "punch": 0.0673,
+   "crop": {
+    "box": [
+     18,
+     18,
+     1044,
+     1120
+    ],
+    "was": [
+     1063,
+     1140
+    ],
+    "now": [
+     1026,
+     1102
+    ],
+    "uncropped": "originals_uncropped/CRVI001704.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::0b345f68fe8a": {
    "id": "CRVI001705",
@@ -105802,10 +106828,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI001713.jpg",
    "original_px": [
-    1092,
-    1024
+    1071,
+    1009
    ],
-   "original_bytes": 325520,
+   "original_bytes": 730726,
    "identity": "sent-2026-09-05::c3564f33d8da",
    "source_url": "https://uploads7.wikiart.org/images/alexej-von-jawlensky/bretonische-b-uerin-1905.jpg",
    "maker": "Alexej von Jawlensky",
@@ -105848,10 +106874,28 @@
    "identity_established": true,
    "published": true,
    "verification": "WikiArt, under Alexej von Jawlensky, dated 1905.",
-   "hue": 6.17,
-   "light": 0.3612,
-   "chroma": 0.7661,
-   "punch": 0.2491
+   "hue": 6.12,
+   "light": 0.3639,
+   "chroma": 0.7721,
+   "punch": 0.2533,
+   "crop": {
+    "box": [
+     13,
+     11,
+     1084,
+     1020
+    ],
+    "was": [
+     1092,
+     1024
+    ],
+    "now": [
+     1071,
+     1009
+    ],
+    "uncropped": "originals_uncropped/CRVI001713.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::5d93b05a05aa": {
    "id": "CRVI001714",
@@ -107719,10 +108763,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI001746.jpg",
    "original_px": [
-    3352,
-    3400
+    3154,
+    3145
    ],
-   "original_bytes": 2816565,
+   "original_bytes": 3538687,
    "identity": "sent-2026-09-05::7e385b56088e",
    "source_url": "https://openaccess-cdn.clevelandart.org/1967.215/1967.215_print.jpg",
    "maker": "Piet Mondrian",
@@ -107765,16 +108809,34 @@
    "identity_established": true,
    "published": true,
    "verification": "Cleveland Museum of Art, accession 1967.215 — Piet Mondrian (Dutch, 1872–1944), Composition with Red, Yellow, and Blue, 1927.",
-   "hue": 5.01,
-   "light": 0.7433,
-   "chroma": 0.1622,
-   "punch": 0.0699,
+   "hue": 5.1,
+   "light": 0.7544,
+   "chroma": 0.1314,
+   "punch": 0.0745,
    "extra_tags": [
     {
      "k": "movement",
      "v": "De Stijl"
     }
-   ]
+   ],
+   "crop": {
+    "box": [
+     88,
+     91,
+     3242,
+     3236
+    ],
+    "was": [
+     3352,
+     3400
+    ],
+    "now": [
+     3154,
+     3145
+    ],
+    "uncropped": "originals_uncropped/CRVI001746.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::32098ed0f90e": {
    "id": "CRVI001747",
@@ -108530,10 +109592,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI001760.jpg",
    "original_px": [
-    800,
-    800
+    767,
+    771
    ],
-   "original_bytes": 46349,
+   "original_bytes": 95049,
    "identity": "sent-2026-09-05::9cee045f28c6",
    "source_url": "https://uploads0.wikiart.org/00306/images/josef-albers/study-for-homage-to-the-square-beaming.jpg",
    "maker": "Josef Albers",
@@ -108575,20 +109637,38 @@
    "identity_established": true,
    "published": true,
    "verification": "WikiArt, under Josef Albers; the date is not established here.",
-   "hue": 198.07,
-   "light": 0.3143,
-   "chroma": 0.9748,
-   "punch": 0.4312
+   "hue": 197.83,
+   "light": 0.2742,
+   "chroma": 1.0,
+   "punch": 0.4546,
+   "crop": {
+    "box": [
+     16,
+     15,
+     783,
+     786
+    ],
+    "was": [
+     800,
+     800
+    ],
+    "now": [
+     767,
+     771
+    ],
+    "uncropped": "originals_uncropped/CRVI001760.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::246322d13fb7": {
    "id": "CRVI001761",
    "minted": "2026-09-06",
    "original_file": "originals/CRVI001761.jpg",
    "original_px": [
-    1536,
-    1519
+    1477,
+    1481
    ],
-   "original_bytes": 193259,
+   "original_bytes": 516564,
    "identity": "sent-2026-09-05::246322d13fb7",
    "source_url": "https://uploads3.wikiart.org/00305/images/josef-albers/study-for-homage-to-the-square-departing-in-yellow.jpg",
    "maker": "Josef Albers",
@@ -108629,20 +109709,38 @@
    "identity_established": true,
    "published": true,
    "verification": "WikiArt, under Josef Albers; the date is not established here.",
-   "hue": 40.46,
-   "light": 0.5211,
-   "chroma": 0.9833,
-   "punch": 0.6649
+   "hue": 40.44,
+   "light": 0.5019,
+   "chroma": 1.0,
+   "punch": 0.6975,
+   "crop": {
+    "box": [
+     34,
+     17,
+     1511,
+     1498
+    ],
+    "was": [
+     1536,
+     1519
+    ],
+    "now": [
+     1477,
+     1481
+    ],
+    "uncropped": "originals_uncropped/CRVI001761.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::30e9fda717a2": {
    "id": "CRVI001762",
    "minted": "2026-09-06",
    "original_file": "originals/CRVI001762.jpg",
    "original_px": [
-    2749,
-    1901
+    2592,
+    1771
    ],
-   "original_bytes": 917756,
+   "original_bytes": 914985,
    "identity": "sent-2026-09-05::30e9fda717a2",
    "source_url": "https://uploads4.wikiart.org/00305/images/josef-albers/2015-par-12358-0121-000-josef-albers-red-wall095718.jpg",
    "maker": "Josef Albers",
@@ -108684,10 +109782,28 @@
    "identity_established": true,
    "published": true,
    "verification": "WikiArt, under Josef Albers as Red Wall; the date is not established here.",
-   "hue": 352.19,
-   "light": 0.3116,
-   "chroma": 0.9348,
-   "punch": 0.2583
+   "hue": 351.79,
+   "light": 0.2717,
+   "chroma": 0.9998,
+   "punch": 0.2797,
+   "crop": {
+    "box": [
+     73,
+     68,
+     2665,
+     1839
+    ],
+    "was": [
+     2749,
+     1901
+    ],
+    "now": [
+     2592,
+     1771
+    ],
+    "uncropped": "originals_uncropped/CRVI001762.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::d54f2ea5b456": {
    "id": "CRVI001763",
@@ -109270,10 +110386,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI001773.jpg",
    "original_px": [
-    1086,
-    1536
+    1052,
+    1513
    ],
-   "original_bytes": 204748,
+   "original_bytes": 645074,
    "identity": "sent-2026-09-05::333cd90c6e17",
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Musicians_1806.jpg",
    "maker": "Nicolas de Staël",
@@ -109319,16 +110435,34 @@
    "identity_established": true,
    "published": true,
    "verification": "Wikimedia Commons, whose file record gives Nicolas de Staël, 1953, and credits The Phillips Collection, Washington. Public domain.",
-   "hue": 36.28,
-   "light": 0.4957,
-   "chroma": 0.7633,
-   "punch": 0.3913,
+   "hue": 36.61,
+   "light": 0.502,
+   "chroma": 0.7691,
+   "punch": 0.3973,
    "extra_tags": [
     {
      "k": "movement",
      "v": "Art Informel"
     }
-   ]
+   ],
+   "crop": {
+    "box": [
+     15,
+     17,
+     1067,
+     1530
+    ],
+    "was": [
+     1086,
+     1536
+    ],
+    "now": [
+     1052,
+     1513
+    ],
+    "uncropped": "originals_uncropped/CRVI001773.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::369e7e6f9912": {
    "id": "CRVI001774",
@@ -109937,10 +111071,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI001785.jpg",
    "original_px": [
-    843,
-    1171
+    821,
+    1147
    ],
-   "original_bytes": 162150,
+   "original_bytes": 198904,
    "identity": "sent-2026-09-05::09b109c84b34",
    "source_url": "https://www.artic.edu/iiif/2/cefb5c01-7634-6349-81a7-ebfac59ec774/full/843,/0/default.jpg",
    "maker": "Akira Kanayama",
@@ -109983,10 +111117,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Art Institute of Chicago, artwork 196082 — the museum's API resolves this image id to Kanayama Akira, Work, 1952.",
-   "hue": 27.66,
-   "light": 0.7701,
-   "chroma": 0.9194,
-   "punch": 0.225
+   "hue": 27.43,
+   "light": 0.765,
+   "chroma": 0.9178,
+   "punch": 0.2281,
+   "crop": {
+    "box": [
+     12,
+     11,
+     833,
+     1158
+    ],
+    "was": [
+     843,
+     1171
+    ],
+    "now": [
+     821,
+     1147
+    ],
+    "uncropped": "originals_uncropped/CRVI001785.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::5d84a8b2c1c8": {
    "id": "CRVI001786",
@@ -110262,10 +111414,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI001791.jpg",
    "original_px": [
-    1280,
-    1152
+    1232,
+    1116
    ],
-   "original_bytes": 638730,
+   "original_bytes": 328890,
    "identity": "sent-2026-09-05::01d86385099a",
    "source_url": "https://uploads6.wikiart.org/images/morris-louis/unknown-title.jpg",
    "maker": "Morris Louis",
@@ -110306,10 +111458,28 @@
    "identity_established": true,
    "published": true,
    "verification": "WikiArt, under Morris Louis, where the file itself is titled 'unknown title'. The individual work's title and date are NOT established here.",
-   "hue": 37.41,
-   "light": 0.7492,
-   "chroma": 0.9585,
-   "punch": 0.2222
+   "hue": 37.27,
+   "light": 0.7389,
+   "chroma": 0.9822,
+   "punch": 0.2333,
+   "crop": {
+    "box": [
+     30,
+     16,
+     1262,
+     1132
+    ],
+    "was": [
+     1280,
+     1152
+    ],
+    "now": [
+     1232,
+     1116
+    ],
+    "uncropped": "originals_uncropped/CRVI001791.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::b4c8c9ee2cc9": {
    "id": "CRVI001792",
@@ -110441,10 +111611,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI001794.jpg",
    "original_px": [
-    1146,
-    1200
+    1090,
+    1148
    ],
-   "original_bytes": 771993,
+   "original_bytes": 772548,
    "identity": "sent-2026-09-05::2ddbaab866ea",
    "source_url": "https://artandtheology.org/wp-content/uploads/2022/02/thomas-alma_wind-dancing-with-spring-flowers.jpg",
    "maker": "Alma Thomas",
@@ -110490,9 +111660,27 @@
    "published": true,
    "verification": "Published by Art & Theology under Alma Thomas's name with this title in the file name. The date is not established here.",
    "hue": 34.6,
-   "light": 0.4699,
-   "chroma": 0.8395,
-   "punch": 0.3458
+   "light": 0.4924,
+   "chroma": 0.8654,
+   "punch": 0.3635,
+   "crop": {
+    "box": [
+     42,
+     32,
+     1132,
+     1180
+    ],
+    "was": [
+     1146,
+     1200
+    ],
+    "now": [
+     1090,
+     1148
+    ],
+    "uncropped": "originals_uncropped/CRVI001794.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::424f0f96a73d": {
    "id": "CRVI001795",
@@ -112534,10 +113722,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI001830.jpg",
    "original_px": [
-    900,
-    903
+    862,
+    869
    ],
-   "original_bytes": 140747,
+   "original_bytes": 396169,
    "identity": "sent-2026-09-05::d0451bd35f7a",
    "source_url": "https://uploads2.wikiart.org/images/richard-anuszkiewicz/the-fourth-of-the-three-1963.jpg",
    "maker": "Richard Anuszkiewicz",
@@ -112580,16 +113768,34 @@
    "identity_established": true,
    "published": true,
    "verification": "WikiArt, under Richard Anuszkiewicz, dated 1963.",
-   "hue": 18.33,
-   "light": 0.4883,
-   "chroma": 0.76,
-   "punch": 0.3654,
+   "hue": 18.19,
+   "light": 0.4591,
+   "chroma": 0.7852,
+   "punch": 0.3821,
    "extra_tags": [
     {
      "k": "movement",
      "v": "Op Art"
     }
-   ]
+   ],
+   "crop": {
+    "box": [
+     22,
+     16,
+     884,
+     885
+    ],
+    "was": [
+     900,
+     903
+    ],
+    "now": [
+     862,
+     869
+    ],
+    "uncropped": "originals_uncropped/CRVI001830.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::672c6e33628b": {
    "id": "CRVI001831",
@@ -112917,10 +114123,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI001837.jpg",
    "original_px": [
-    2000,
-    2000
+    1852,
+    1832
    ],
-   "original_bytes": 621201,
+   "original_bytes": 1723549,
    "identity": "sent-2026-09-05::a01a69830e6a",
    "source_url": "https://files.ocula.com/anzax/a1/a16392af-f3c3-49e5-9050-bff3f77efc56_2000_2000.jpg",
    "maker": "Unidentified",
@@ -112951,10 +114157,28 @@
    "identity_established": true,
    "published": true,
    "verification": "An image with no artist named anywhere in its URL or file name. Op Art in manner and arriving in a batch of it, but painter, title and date are all unestablished. An Ocula gallery asset whose URL carries no artist name.",
-   "hue": 4.9,
-   "light": 0.4077,
-   "chroma": 0.7258,
-   "punch": 0.197
+   "hue": 356.63,
+   "light": 0.3356,
+   "chroma": 0.8704,
+   "punch": 0.2396,
+   "crop": {
+    "box": [
+     69,
+     77,
+     1921,
+     1909
+    ],
+    "was": [
+     2000,
+     2000
+    ],
+    "now": [
+     1852,
+     1832
+    ],
+    "uncropped": "originals_uncropped/CRVI001837.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::dd67042d6789": {
    "id": "CRVI001838",
@@ -162209,10 +163433,10 @@
    "minted": "2026-09-08",
    "original_file": "originals/CRVI002697.jpg",
    "original_px": [
-    800,
-    800
+    456,
+    644
    ],
-   "original_bytes": 59999,
+   "original_bytes": 144372,
    "identity": "sent-2026-09-08h::973fe8faf477",
    "source_url": "https://media.licdn.com/dms/image/v2/D4E22AQHgcc44iYn_TA/feedshare-shrink_800/feedshare-shrink_800/0/1733230283465?e=2147483647&v=beta&t=upKIj-jV9vkq0B5YiP_Q6s0SPzS1EnGBB716fahGbss",
    "maker": "Ryuichi Yamashiro",
@@ -162264,10 +163488,28 @@
    "identity_established": true,
    "published": true,
    "verification": "THE COVER ITSELF, which prints 12 デザイン and NO.27 1961 at the head with the colophon line 第27号／昭和36年12月1日発行 beside it, above a single flat spiral of olive and blue dots unwinding across the page. Google Lens resolves it to *Design* (デザイン) No. 27, 1 December 1961, Bijutsu Shuppansha, cover by RYUICHI YAMASHIRO. ⚠️ NOT Kenji Itoh, who designed most of that year's covers — including the other two in this batch. ⚠️ Held at 800x800, exactly on the archive's floor: it is a LinkedIn `feedshare-shrink_800` file and the 1280 and 2048 tiers both 404.",
-   "hue": 44.81,
-   "light": 0.3519,
-   "chroma": 0.3905,
-   "punch": 0.0509
+   "hue": 44.78,
+   "light": 0.7676,
+   "chroma": 0.8683,
+   "punch": 0.1129,
+   "crop": {
+    "box": [
+     172,
+     79,
+     628,
+     723
+    ],
+    "was": [
+     800,
+     800
+    ],
+    "now": [
+     456,
+     644
+    ],
+    "uncropped": "originals_uncropped/CRVI002697.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-08h::9e733d72dc88": {
    "id": "CRVI002698",
@@ -162353,10 +163595,10 @@
    "minted": "2026-09-08",
    "original_file": "originals/CRVI002699.webp",
    "original_px": [
-    800,
-    800
+    456,
+    650
    ],
-   "original_bytes": 113042,
+   "original_bytes": 90144,
    "identity": "sent-2026-09-08h::070fbb02cebb",
    "source_url": "https://designreviewed.com/wp-content/uploads/elementor/thumbs/Design-Japan-56-1964-jpg-r0esiknm3ksdlmqttw8028jkuic7i7feu2z2d608xs.webp",
    "maker": "Kohei Sugiura",
@@ -162408,20 +163650,38 @@
    "identity_established": true,
    "published": true,
    "verification": "THE COVER ITSELF, which prints 2 / design / no.56 / 1964 at the upper left and デザイン at the upper right, over a fine grid of blue crosses and stars fading toward the edges. Kohei Sugiura designed ALL TWELVE of the magazine's 1964 covers, of which No. 65 is also in this batch. ⚠️ Held at 800x800, exactly on the archive's floor: it is a WordPress Elementor thumbnail and four attempts at the un-thumbed upload path all 404.",
-   "hue": 42.93,
-   "light": 0.3142,
-   "chroma": 0.27,
-   "punch": 0.0505
+   "hue": 43.0,
+   "light": 0.6787,
+   "chroma": 0.6276,
+   "punch": 0.11,
+   "crop": {
+    "box": [
+     172,
+     75,
+     628,
+     725
+    ],
+    "was": [
+     800,
+     800
+    ],
+    "now": [
+     456,
+     650
+    ],
+    "uncropped": "originals_uncropped/CRVI002699.webp",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-08h::bb831902d2a8": {
    "id": "CRVI002700",
    "minted": "2026-09-08",
    "original_file": "originals/CRVI002700.webp",
    "original_px": [
-    2000,
-    2000
+    1146,
+    1520
    ],
-   "original_bytes": 222640,
+   "original_bytes": 177580,
    "identity": "sent-2026-09-08h::bb831902d2a8",
    "source_url": "https://designreviewed.com/wp-content/uploads/2024/11/SD-Space-Design-No.-37-December-1967.-Cover-design-by-Kohei-Sugiura-Teruo-Tanabe.webp",
    "maker": "Kohei Sugiura",
@@ -162478,20 +163738,38 @@
    "identity_established": true,
    "published": true,
    "verification": "THE HOSTING FILE NAMES IT IN FULL — `SD-Space-Design-No.-37-December-1967.-Cover-design-by-Kohei-Sugiura-Teruo-Tanabe` — and the cover itself prints 12 / SD / SPACE DESIGN / MONTHLY JOURNAL OF ART AND ARCHITECTURE / NO. 37 DECEMBER 1967 across the head, over a standing figure banded in yellow, red, green and blue with a rainbow-striped skull. ℹ️ TWO DESIGNERS, both recorded: Kohei Sugiura and TERUO TANABE.",
-   "hue": 41.57,
-   "light": 0.3167,
-   "chroma": 0.3367,
-   "punch": 0.0604
+   "hue": 41.78,
+   "light": 0.724,
+   "chroma": 0.8024,
+   "punch": 0.1405,
+   "crop": {
+    "box": [
+     427,
+     237,
+     1573,
+     1757
+    ],
+    "was": [
+     2000,
+     2000
+    ],
+    "now": [
+     1146,
+     1520
+    ],
+    "uncropped": "originals_uncropped/CRVI002700.webp",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-08h::4629748116a4": {
    "id": "CRVI002701",
    "minted": "2026-09-08",
    "original_file": "originals/CRVI002701.webp",
    "original_px": [
-    1600,
-    1600
+    906,
+    1290
    ],
-   "original_bytes": 245414,
+   "original_bytes": 189678,
    "identity": "sent-2026-09-08h::4629748116a4",
    "source_url": "https://designreviewed.com/wp-content/uploads/2022/10/Design-Japan-65-1964-jpg.webp",
    "maker": "Kohei Sugiura",
@@ -162543,20 +163821,38 @@
    "identity_established": true,
    "published": true,
    "verification": "THE COVER ITSELF, which prints 11 / design / no.65 / 1964 at the upper left and デザイン at the upper right, over a grid of black dots across which magenta, cyan and black blocks interfere in a moiré. Google Lens resolves it to *Design* (デザイン) No. 65, November 1964, Bijutsu Shuppan-sha, cover by KOHEI SUGIURA (杉浦康平), who designed all twelve of that year's covers. ℹ️ The Nicker advertisement on its BACK cover is a separate item in this batch.",
-   "hue": 185.28,
-   "light": 0.349,
-   "chroma": 0.247,
-   "punch": 0.0554
+   "hue": 185.37,
+   "light": 0.7626,
+   "chroma": 0.5583,
+   "punch": 0.1217,
+   "crop": {
+    "box": [
+     347,
+     155,
+     1253,
+     1445
+    ],
+    "was": [
+     1600,
+     1600
+    ],
+    "now": [
+     906,
+     1290
+    ],
+    "uncropped": "originals_uncropped/CRVI002701.webp",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-08h::14fb80d7d244": {
    "id": "CRVI002702",
    "minted": "2026-09-08",
    "original_file": "originals/CRVI002702.jpg",
    "original_px": [
-    1080,
-    1080
+    685,
+    974
    ],
-   "original_bytes": 87456,
+   "original_bytes": 242056,
    "identity": "sent-2026-09-08h::14fb80d7d244",
    "source_url": "https://i.pinimg.com/originals/d7/fc/20/d7fc20ddceeb4e51df44a6775d6d47af.jpg",
    "maker": "Hiromu Hara",
@@ -162616,10 +163912,28 @@
    "identity_established": true,
    "published": true,
    "verification": "THE COVER ITSELF, which prints アイデア and 'international advertising art' with 誠文堂新光社 beside it, over overlapping A and G letterforms in black, blue and red. Google Lens resolves it to *Idea* (アイデア) No. 13, October 1955, Seibundo Shinkosha — COVER DESIGN BY HIROMU HARA, ART DIRECTION BY HIROSHI OHCHI, edited by Takashi Miyayama, the issue covering the AGI exhibition in Paris. ℹ️ The AG of the letterforms is Alliance Graphique Internationale.",
-   "hue": 216.69,
-   "light": 0.6159,
-   "chroma": 0.6236,
-   "punch": 0.1672
+   "hue": 216.59,
+   "light": 0.383,
+   "chroma": 0.7257,
+   "punch": 0.2492,
+   "crop": {
+    "box": [
+     170,
+     52,
+     855,
+     1026
+    ],
+    "was": [
+     1080,
+     1080
+    ],
+    "now": [
+     685,
+     974
+    ],
+    "uncropped": "originals_uncropped/CRVI002702.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-08h::c04ec5f902fd": {
    "id": "CRVI002703",
@@ -162752,10 +164066,10 @@
    "minted": "2026-09-08",
    "original_file": "originals/CRVI002705.jpg",
    "original_px": [
-    1050,
-    1050
+    608,
+    854
    ],
-   "original_bytes": 117885,
+   "original_bytes": 190362,
    "identity": "sent-2026-09-08h::84acd190b25a",
    "source_url": "https://images.squarespace-cdn.com/content/v1/5520eed8e4b04e745c97a992/1625400977318-Y28JZIDSHJRP17SEYP6X/japanese-illustrator-makoto-wada-bird-envelope-shukanbunshun.jpg?format=original",
    "maker": "Makoto Wada",
@@ -162802,10 +164116,28 @@
    "identity_established": true,
    "published": true,
    "verification": "THE COVER ITSELF, which prints 週刊文春 in green across the head with 7月20日号 and 定価420円 beneath it, over a green bird carrying a letter in its beak across a starry night above a blue sea. The hosting file is named `japanese-illustrator-makoto-wada-bird-envelope-shukanbunshun`. Wada drew *Shūkan Bunshun*'s covers weekly for forty years. ⚠️ NO YEAR IS ESTABLISHED — the cover gives the issue date as 20 July but not the year.",
-   "hue": 194.23,
-   "light": 0.6413,
-   "chroma": 0.1879,
-   "punch": 0.0882
+   "hue": 194.28,
+   "light": 0.2381,
+   "chroma": 0.3822,
+   "punch": 0.1873,
+   "crop": {
+    "box": [
+     222,
+     98,
+     830,
+     952
+    ],
+    "was": [
+     1050,
+     1050
+    ],
+    "now": [
+     608,
+     854
+    ],
+    "uncropped": "originals_uncropped/CRVI002705.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-08h::4dc3c860af34": {
    "id": "CRVI002706",
@@ -169926,10 +171258,10 @@
    "minted": "2026-09-09",
    "original_file": "originals/CRVI002831.jpg",
    "original_px": [
-    582,
-    904
+    563,
+    759
    ],
-   "original_bytes": 237794,
+   "original_bytes": 200350,
    "identity": "sent-2026-09-09b::ac9f1e308d78",
    "source_url": "https://www.rectangleroom.com/cdn/shop/files/01_TOILETPAPER.jpg",
    "maker": "Maurizio Cattelan and Pierpaolo Ferrari",
@@ -169973,10 +171305,28 @@
    "identity_established": true,
    "published": true,
    "verification": "THE COVER ITSELF, which sets TOILETPAPER in the magazine's standard black-on-cream masthead over a red rule, above a photograph of one hand holding a yellow canary while another cuts its wing feathers with scissors, on pale blue — the whole thing framed by the yellow board. ⚠️ NO ISSUE NUMBER OR DATE IS VISIBLE on this cover and none is established. ⚠️ CROPPED AT TODD'S INSTRUCTION: the magazine was photographed lying on grass and stone, which has been removed.",
-   "hue": 46.25,
-   "light": 0.6311,
-   "chroma": 0.9453,
-   "punch": 0.3421
+   "hue": 45.99,
+   "light": 0.6783,
+   "chroma": 0.9499,
+   "punch": 0.3535,
+   "crop": {
+    "box": [
+     10,
+     141,
+     573,
+     900
+    ],
+    "was": [
+     582,
+     904
+    ],
+    "now": [
+     563,
+     759
+    ],
+    "uncropped": "originals_uncropped/CRVI002831.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-09b::c288cc6b6f86": {
    "id": "CRVI002832",
@@ -170162,10 +171512,10 @@
    "minted": "2026-09-09",
    "original_file": "originals/CRVI002835.jpg",
    "original_px": [
-    1534,
-    2000
+    1470,
+    1899
    ],
-   "original_bytes": 273350,
+   "original_bytes": 618702,
    "identity": "sent-2026-09-09b::9840bffa9f64",
    "source_url": "https://boo-hooray.cdn.bibliopolis.com/pictures/4749.jpg",
    "maker": "Maurizio Cattelan and Pierpaolo Ferrari",
@@ -170213,10 +171563,28 @@
    "identity_established": true,
    "published": true,
    "verification": "THE COVER ITSELF, which prints TOILETPAPER at the head and JUNE 2010 at the right, over a black-and-white photograph of a face in extreme close-up, one eye wide, with a hand and a curved form crossing it. ℹ️ JUNE 2010 IS THE MAGAZINE'S FIRST ISSUE — Cattelan and Ferrari founded it that month — so this is the beginning of the series.",
-   "hue": 37.6,
-   "light": 0.5653,
-   "chroma": 0.1804,
-   "punch": 0.0881
+   "hue": 37.4,
+   "light": 0.5639,
+   "chroma": 0.1891,
+   "punch": 0.09,
+   "crop": {
+    "box": [
+     33,
+     48,
+     1503,
+     1947
+    ],
+    "was": [
+     1534,
+     2000
+    ],
+    "now": [
+     1470,
+     1899
+    ],
+    "uncropped": "originals_uncropped/CRVI002835.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-09b::086dfdc6b0c5": {
    "id": "CRVI002836",
@@ -185017,10 +186385,10 @@
    "minted": "2026-09-11",
    "original_file": "originals/CRVI003080.png",
    "original_px": [
-    883,
-    1200
+    765,
+    1084
    ],
-   "original_bytes": 1340425,
+   "original_bytes": 1478223,
    "source_url": "https://images.squarespace-cdn.com/content/v1/56e33409d210b8a4c7e973c9/1477597134614-NLOJ08Z9H8CZ1V53W1YW/voyage-danthony91.png",
    "source_page": "https://designcollector.net/likes/voyage-by-thomas-danthony",
    "identity": "contact-sheets-2026-09-11::thomas-danthony-voyage",
@@ -185054,10 +186422,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Designcollector publishes this as 'Voyage by Thomas Danthony'. ⚠️ THE YEAR IS NOT STATED.",
-   "hue": 235.41,
-   "light": 0.349,
-   "chroma": 0.2595,
-   "punch": 0.151
+   "hue": 235.46,
+   "light": 0.4459,
+   "chroma": 0.3622,
+   "punch": 0.1947,
+   "crop": {
+    "box": [
+     59,
+     57,
+     824,
+     1141
+    ],
+    "was": [
+     883,
+     1200
+    ],
+    "now": [
+     765,
+     1084
+    ],
+    "uncropped": "originals_uncropped/CRVI003080.png",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "contact-sheets-2026-09-11::peter-elson-galactic-encounters-star-quest": {
    "id": "CRVI003081",
@@ -188383,10 +189769,10 @@
    "minted": "2026-09-11",
    "original_file": "originals/CRVI003145.jpg",
    "original_px": [
-    1828,
-    2560
+    1613,
+    2321
    ],
-   "original_bytes": 538861,
+   "original_bytes": 1150052,
    "identity": "contact-sheets-2026-09-11::lubitsch-student-prince-israeli-poster",
    "source_url": "https://farkash-gallery.com/wp-content/uploads/2024/01/IMG_3602-1-scaled.jpg",
    "source_page": "https://farkash-gallery.com/our-shop/1-vintage-israeli-posters/vintage-movies-posters/the-student-prince-in-old-heidelberg-movie-poster-1927/",
@@ -188422,20 +189808,38 @@
    "identity_established": true,
    "published": true,
    "verification": "Farkash Gallery (Tel Aviv), an Israeli poster for Ernst Lubitsch's 'The Student Prince in Old Heidelberg'. ⚠️ THE MAKER IS NOT KNOWN. Lubitsch DIRECTED the film; he did not design the poster, and the designer is not credited. The sheet exists because the Book Checklist roster carried his name. Roster came off the publisher's listing in the Book Checklist; the picture was found by per-name image harvest and verified at 800px+ before it reached the contact sheet.",
-   "hue": 354.72,
-   "light": 0.5164,
-   "chroma": 0.888,
-   "punch": 0.3433
+   "hue": 354.62,
+   "light": 0.4363,
+   "chroma": 0.9238,
+   "punch": 0.4092,
+   "crop": {
+    "box": [
+     104,
+     106,
+     1717,
+     2427
+    ],
+    "was": [
+     1828,
+     2560
+    ],
+    "now": [
+     1613,
+     2321
+    ],
+    "uncropped": "originals_uncropped/CRVI003145.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "contact-sheets-2026-09-11::lubitsch-design-for-living-french-poster": {
    "id": "CRVI003146",
    "minted": "2026-09-11",
    "original_file": "originals/CRVI003146.jpg",
    "original_px": [
-    1200,
+    776,
     1200
    ],
-   "original_bytes": 98409,
+   "original_bytes": 331710,
    "identity": "contact-sheets-2026-09-11::lubitsch-design-for-living-french-poster",
    "source_url": "https://www.mauvais-genres.com/35404-thickbox_default/design-for-living-vintage-movie-poster-32x47-in-1933-r1980-ernst-lubitsch-gary-cooper.jpg",
    "source_page": "https://www.mauvais-genres.com/en/archives/30753-design-for-living-vintage-movie-poster-32x47-in-1933-r1980-ernst-lubitsch-gary-cooper.html",
@@ -188475,9 +189879,27 @@
    "published": true,
    "verification": "Mauvais Genres, 'DESIGN FOR LIVING French Movie Poster - 32x47 in. - 1933/R1980' - a French poster for Lubitsch's 1933 film, in a 1980 re-release printing. ⚠️ THE POSTER ARTIST IS NOT CREDITED; Lubitsch directed the film. Roster came off the publisher's listing in the Book Checklist; the picture was found by per-name image harvest and verified at 800px+ before it reached the contact sheet.",
    "hue": 345.38,
-   "light": 0.7025,
-   "chroma": 0.4872,
-   "punch": 0.2528
+   "light": 0.5405,
+   "chroma": 0.744,
+   "punch": 0.3903,
+   "crop": {
+    "box": [
+     212,
+     0,
+     988,
+     1200
+    ],
+    "was": [
+     1200,
+     1200
+    ],
+    "now": [
+     776,
+     1200
+    ],
+    "uncropped": "originals_uncropped/CRVI003146.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "contact-sheets-2026-09-11::lubitsch-that-uncertain-feeling-1941": {
    "id": "CRVI003147",
@@ -189003,10 +190425,10 @@
    "minted": "2026-09-11",
    "original_file": "originals/CRVI003157.jpg",
    "original_px": [
-    2048,
-    2048
+    1140,
+    1618
    ],
-   "original_bytes": 108556,
+   "original_bytes": 426942,
    "identity": "contact-sheets-2026-09-11::engelmann-gebrauchsgraphik-1950",
    "source_url": "https://designreviewed.com/wp-content/uploads/2021/03/Gebrauchsgraphik-9-1950.-Cover-design-by-Michael-Engelmann-2048x2048.jpg",
    "source_page": "https://designreviewed.com/artefacts/michael-engelmann-poster-collection-10-2004/",
@@ -189049,10 +190471,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Design Reviewed; the file is named 'Gebrauchsgraphik-9-1950.-Cover-design-by-Michael-Engelmann'. Roster came off the publisher's listing in the Book Checklist; the picture was found by per-name image harvest and verified at 800px+ before it reached the contact sheet.",
-   "hue": 35.61,
-   "light": 0.3116,
-   "chroma": 0.3607,
-   "punch": 0.0946
+   "hue": 35.6,
+   "light": 0.7072,
+   "chroma": 0.8495,
+   "punch": 0.2146,
+   "crop": {
+    "box": [
+     454,
+     215,
+     1594,
+     1833
+    ],
+    "was": [
+     2048,
+     2048
+    ],
+    "now": [
+     1140,
+     1618
+    ],
+    "uncropped": "originals_uncropped/CRVI003157.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "contact-sheets-2026-09-11::engelmann-inquirer": {
    "id": "CRVI003158",
@@ -190156,10 +191596,10 @@
    "minted": "2026-09-11",
    "original_file": "originals/CRVI003179.jpg",
    "original_px": [
-    2000,
-    2000
+    1540,
+    1560
    ],
-   "original_bytes": 779062,
+   "original_bytes": 905557,
    "identity": "contact-sheets-2026-09-11::wyman-shop-print",
    "source_url": "https://lancewyman.com/wp-content/uploads/05_LW_W_Print_Photo_by_Deduce-2.jpg",
    "source_page": "https://lancewyman.com/shop/",
@@ -190195,10 +191635,28 @@
    "identity_established": true,
    "published": true,
    "verification": "From Lance Wyman's OWN site, lancewyman.com - the best available source. ⚠️ It is the shop page, so the individual print is not titled or dated there. Roster came off the publisher's listing in the Book Checklist; the picture was found by per-name image harvest and verified at 800px+ before it reached the contact sheet.",
-   "hue": 195.08,
-   "light": 0.5994,
-   "chroma": 0.5611,
-   "punch": 0.3537
+   "hue": 355.74,
+   "light": 0.7681,
+   "chroma": 0.2664,
+   "punch": 0.1509,
+   "crop": {
+    "box": [
+     230,
+     220,
+     1770,
+     1780
+    ],
+    "was": [
+     2000,
+     2000
+    ],
+    "now": [
+     1540,
+     1560
+    ],
+    "uncropped": "originals_uncropped/CRVI003179.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "contact-sheets-2026-09-11::wyman-roadsigns": {
    "id": "CRVI003180",
@@ -192404,10 +193862,10 @@
    "minted": "2026-09-11",
    "original_file": "originals/CRVI003222.jpg",
    "original_px": [
-    1273,
-    1800
+    1245,
+    1765
    ],
-   "original_bytes": 327876,
+   "original_bytes": 828984,
    "identity": "contact-sheets-2026-09-11::gruettner-cabaret-1975",
    "source_url": "https://www.orsonandwelles.co.uk/cdn/shop/products/Cabaret-1975-East-German-A1-Film-Poster-Erhard-Gruttner_5000x.jpg?v=1680015695",
    "source_page": "https://www.orsonandwelles.co.uk/products/cabaret-1975-east-german-a1-film-poster-gruttner",
@@ -192451,10 +193909,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Orson & Welles poster dealers: 'Cabaret 1975 East German A1 Film Poster', the file named 'Cabaret-1975-East-German-A1-Film-Poster-Erhard-Gruttner'. Grüttner made the GDR's film posters. Roster came off the publisher's listing in the Book Checklist; the picture was found by per-name image harvest and verified at 800px+ before it reached the contact sheet.",
-   "hue": 8.21,
-   "light": 0.3464,
-   "chroma": 0.5107,
-   "punch": 0.2012
+   "hue": 8.37,
+   "light": 0.3212,
+   "chroma": 0.5286,
+   "punch": 0.2102,
+   "crop": {
+    "box": [
+     15,
+     15,
+     1260,
+     1780
+    ],
+    "was": [
+     1273,
+     1800
+    ],
+    "now": [
+     1245,
+     1765
+    ],
+    "uncropped": "originals_uncropped/CRVI003222.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "contact-sheets-2026-09-11::rudolf-gruettner-fdgb-first-of-may": {
    "id": "CRVI003223",
@@ -192909,10 +194385,10 @@
    "minted": "2026-09-11",
    "original_file": "originals/CRVI003232.jpg",
    "original_px": [
-    1000,
-    994
+    980,
+    977
    ],
-   "original_bytes": 526016,
+   "original_bytes": 309955,
    "identity": "contact-sheets-2026-09-11::fleming-canadian-design",
    "source_url": "http://farm8.staticflickr.com/7267/7788730324_ae8e421f07_o.jpg",
    "source_page": "https://gogonutzz.wordpress.com/2018/04/12/ides-142-canadian-design-today-allan-fleming/",
@@ -192948,9 +194424,27 @@
    "published": true,
    "verification": "From a course blog post, 'IDES 142: Canadian Design Today (Allan Fleming)'. Fleming designed the CN wordmark. ⚠️ A COURSE BLOG IS A WEAK SOURCE and neither title nor year is stated. Roster came off the publisher's listing in the Book Checklist; the picture was found by per-name image harvest and verified at 800px+ before it reached the contact sheet.",
    "hue": null,
-   "light": 0.4891,
+   "light": 0.4872,
    "chroma": 0.0,
-   "punch": 0.0001
+   "punch": 0.0,
+   "crop": {
+    "box": [
+     11,
+     7,
+     991,
+     984
+    ],
+    "was": [
+     1000,
+     994
+    ],
+    "now": [
+     980,
+     977
+    ],
+    "uncropped": "originals_uncropped/CRVI003232.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "contact-sheets-2026-09-11::vignelli-knoll-international": {
    "id": "CRVI003233",
@@ -193010,10 +194504,10 @@
    "minted": "2026-09-11",
    "original_file": "originals/CRVI003234.jpg",
    "original_px": [
-    1000,
-    1199
+    737,
+    898
    ],
-   "original_bytes": 227904,
+   "original_bytes": 241507,
    "identity": "contact-sheets-2026-09-11::printmag-shaughnessy-lubalin",
    "source_url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2012/06/2a34d8_5e9ef08d562f462c955196e1647ff4f3mv2.jpg?fit=1000%2C1199&ssl=1",
    "source_page": "https://www.printmag.com/design-books/designer-for-the-age-of-austerity-adrian-shaughnessy-on-herb-lubalin-s-life-and-work/",
@@ -193045,10 +194539,28 @@
    "identity_established": true,
    "published": true,
    "verification": "From Print Magazine, 'Designer for the Age of Austerity: Adrian Shaughnessy on Herb Lubalin's...'. ⚠️ THE MAKER IS NOT KNOWN. Shaughnessy WROTE the piece; the artwork reproduced is most likely Lubalin's, but the file is an opaque hash and nothing on the page ties this image to a named designer. Recorded as unknown rather than credited to either man. Roster came off the publisher's listing in the Book Checklist; the picture was found by per-name image harvest and verified at 800px+ before it reached the contact sheet.",
-   "hue": 14.81,
-   "light": 0.739,
-   "chroma": 0.4966,
-   "punch": 0.3214
+   "hue": 14.83,
+   "light": 0.6687,
+   "chroma": 0.8695,
+   "punch": 0.5809,
+   "crop": {
+    "box": [
+     133,
+     155,
+     870,
+     1053
+    ],
+    "was": [
+     1000,
+     1199
+    ],
+    "now": [
+     737,
+     898
+    ],
+    "uncropped": "originals_uncropped/CRVI003234.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "contact-sheets-2026-09-11::niessen-seven-rulers-of-beauty": {
    "id": "CRVI003235",
