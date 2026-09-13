@@ -11191,7 +11191,7 @@
    ],
    "original_bytes": 522799,
    "identity": "NYT Kusama::Infinity Mirror Room — Phalli's Field (or Floor Show) (1965)",
-   "maker": "Yayoi Kusama",
+   "maker": "Unidentified",
    "title": "Infinity Mirror Room — Phalli's Field (or Floor Show)",
    "subtitle": "Kusama standing in the work · via David Zwirner",
    "year": "1965",
@@ -11214,12 +11214,8 @@
    ],
    "tags": [
     {
-     "k": "artist",
-     "v": "Yayoi Kusama"
-    },
-    {
      "k": "type",
-     "v": "installation"
+     "v": "photograph"
     },
     {
      "k": "subject",
@@ -11240,7 +11236,7 @@
    ],
    "identity_established": true,
    "published": true,
-   "verification": "Caption and credit read directly off the New York Times feature 'Yayoi Kusama: A Life in Pictures' (27 August 2026), from Todd's own screenshots of it. Captioned 'Kusama standing in her “Infinity Mirror Room — Phalli’s Field (or Floor Show)” in 1965', credited 'Yayoi Kusama, via David Zwirner'.",
+   "verification": "Caption and credit read directly off the New York Times feature 'Yayoi Kusama: A Life in Pictures' (27 August 2026), from Todd's own screenshots of it. Captioned 'Kusama standing in her “Infinity Mirror Room — Phalli’s Field (or Floor Show)” in 1965', credited 'Yayoi Kusama, via David Zwirner'. ⚠️ MAKER CORRECTED 2026-09-13, on Todd's rule that the maker of a photograph is the PHOTOGRAPHER: this is an anonymous photograph OF Yayoi Kusama with their work, not a work BY them. The maker is therefore Unidentified; Yayoi Kusama is the SUBJECT, and the object is typed as the photograph it is. Before this, five items in the same cluster credited the artist and three credited the unknown photographer — the same object filed two opposite ways.",
    "hue": 346.29,
    "light": 0.6356,
    "chroma": 0.8502,
@@ -11445,7 +11441,7 @@
    ],
    "original_bytes": 467283,
    "identity": "NYT Kusama::Kusama with her stuffed fabric works (1964)",
-   "maker": "Yayoi Kusama",
+   "maker": "Evelyn Hofer",
    "title": "Kusama with her stuffed fabric works",
    "subtitle": "Photograph by Evelyn Hofer · among the sewn phalluses of her room-filling installations",
    "year": "1964",
@@ -11466,10 +11462,6 @@
    ],
    "tags": [
     {
-     "k": "artist",
-     "v": "Yayoi Kusama"
-    },
-    {
      "k": "type",
      "v": "photograph"
     },
@@ -11488,11 +11480,15 @@
     {
      "k": "location",
      "v": "Japan"
+    },
+    {
+     "k": "motif",
+     "v": "artist with their work"
     }
    ],
    "identity_established": true,
    "published": true,
-   "verification": "Caption and credit read directly off the New York Times feature 'Yayoi Kusama: A Life in Pictures' (27 August 2026), from Todd's own screenshots of it. Captioned 'Ms. Kusama in 1964. In the early 1960s, she began sewing thousands of stuffed fabric phalluses to create arresting room-filling installations', credited 'Evelyn Hofer/Getty Images'.",
+   "verification": "Caption and credit read directly off the New York Times feature 'Yayoi Kusama: A Life in Pictures' (27 August 2026), from Todd's own screenshots of it. Captioned 'Ms. Kusama in 1964. In the early 1960s, she began sewing thousands of stuffed fabric phalluses to create arresting room-filling installations', credited 'Evelyn Hofer/Getty Images'. ⚠️ MAKER CORRECTED 2026-09-13: the photograph is EVELYN HOFER's, credited by the Times, and Kusama is its subject — she made the sculptures in it, not the picture. It had been filed under Kusama as maker. ⚠️ Todd found this one by eye AFTER the motif:'artist with their work' page was built: it was in the face-detection sheet I reviewed and I did not flag it, so the visual pass has a known miss rate and the tag is not complete.",
    "hue": null,
    "light": 0.5302,
    "chroma": 0.0,
@@ -112393,7 +112389,7 @@
    "original_bytes": 169572,
    "identity": "sent-2026-09-05::246df3880a53",
    "source_url": "https://www.artelista.com/blog/wp-content/uploads/2020/04/yves-klein2.jpg",
-   "maker": "Yves Klein",
+   "maker": "Unidentified",
    "title": "Blue sponge sculpture",
    "subtitle": "",
    "year": "",
@@ -112414,10 +112410,6 @@
      "v": "photograph"
     },
     {
-     "k": "artist",
-     "v": "Yves Klein"
-    },
-    {
      "k": "subject",
      "v": "Nouveau Réalisme"
     },
@@ -112428,11 +112420,15 @@
     {
      "k": "motif",
      "v": "artist with their work"
+    },
+    {
+     "k": "subject",
+     "v": "Yves Klein"
     }
    ],
    "identity_established": true,
    "published": true,
-   "verification": "Published by Artelista under Yves Klein's name. NOT a work on paper or canvas: a photograph of Klein himself standing in a doorway beside one of his blue sponge sculptures. Klein made the SCULPTURE; the photographer is not named, and neither work is dated here.",
+   "verification": "Published by Artelista under Yves Klein's name. NOT a work on paper or canvas: a photograph of Klein himself standing in a doorway beside one of his blue sponge sculptures. Klein made the SCULPTURE; the photographer is not named, and neither work is dated here. ⚠️ MAKER CORRECTED 2026-09-13, on Todd's rule that the maker of a photograph is the PHOTOGRAPHER: this is an anonymous photograph OF Yves Klein with their work, not a work BY them. The maker is therefore Unidentified; Yves Klein is the SUBJECT, and the object is typed as the photograph it is. Before this, five items in the same cluster credited the artist and three credited the unknown photographer — the same object filed two opposite ways.",
    "hue": 237.03,
    "light": 0.5988,
    "chroma": 0.184,
@@ -121107,7 +121103,7 @@
    "identity": "sent-2026-09-05::69b56df595c3",
    "source_url": "https://static01.nyt.com/images/2026/08/03/multimedia/00Kusama-ADV-bfqv/00Kusama-ADV-bfqv-superJumbo.jpg",
    "maker": "Unidentified",
-   "title": "Yayoi Kusama before an Infinity Net",
+   "title": "A visitor before a Kusama Infinity Net",
    "subtitle": "",
    "year": "",
    "verified_against": "Published by The New York Times, 3 August 2026. NOT a work: a photograph OF Kusama seated in front of one of her red-and-white dot paintings. Kusama made the painting behind her; the photographer is not named here.",
@@ -121127,21 +121123,21 @@
      "v": "photograph"
     },
     {
-     "k": "artist",
-     "v": "Yayoi Kusama"
-    },
-    {
      "k": "location",
      "v": "Japan"
     },
     {
-     "k": "motif",
-     "v": "artist with their work"
+     "k": "subject",
+     "v": "Yayoi Kusama"
+    },
+    {
+     "k": "artist",
+     "v": "Yayoi Kusama"
     }
    ],
    "identity_established": true,
    "published": true,
-   "verification": "Published by The New York Times, 3 August 2026. NOT a work: a photograph OF Kusama seated in front of one of her red-and-white dot paintings. Kusama made the painting behind her; the photographer is not named here.",
+   "verification": "The New York Times, 3 August 2026. An anonymous photograph taken in a gallery: a VISITOR seen in profile at the right edge, out of focus, before a large red-and-white Kusama Infinity Net. ⚠️ CORRECTED 2026-09-13 — this record previously read 'Yayoi Kusama before an Infinity Net' and claimed the sitter was Kusama seated in front of her own painting. SHE IS NOT IN THIS PICTURE: the figure is young with long dark hair, and Kusama is elderly with her red bob. Todd caught it once the motif:'artist with their work' page put ten such photographs side by side — the error was invisible while the item sat alone. The motif tag has been removed; the PAINTING is Kusama's and she is credited as its artist, the photographer is not named by the Times, and the visitor is unidentified and not claimed to be anyone.",
    "hue": 5.27,
    "light": 0.5416,
    "chroma": 0.9154,
@@ -130887,7 +130883,7 @@
    "original_bytes": 160091,
    "identity": "sent-2026-09-05::c53c2c351418",
    "source_url": "https://www.blind-magazine.com/wp-content/uploads/2022/04/Hannah-Wilke-art-for-Life-s-Sake-en.jpg",
-   "maker": "Hannah Wilke",
+   "maker": "Unidentified",
    "title": "Art for Life's Sake",
    "subtitle": "",
    "year": "",
@@ -130908,25 +130904,21 @@
      "v": "photograph"
     },
     {
-     "k": "artist",
-     "v": "Hannah Wilke"
-    },
-    {
-     "k": "photographer",
-     "v": "Hannah Wilke"
-    },
-    {
      "k": "location",
      "v": "United States"
     },
     {
      "k": "motif",
      "v": "artist with their work"
+    },
+    {
+     "k": "subject",
+     "v": "Hannah Wilke"
     }
    ],
    "identity_established": true,
    "published": true,
-   "verification": "Blind Magazine, whose file name gives Hannah Wilke and the exhibition title Art for Life's Sake. NOT a work on its own: a photograph of Wilke standing before a wall of her chewing-gum sculptures. The photographer is not named here.",
+   "verification": "Blind Magazine, whose file name gives Hannah Wilke and the exhibition title Art for Life's Sake. NOT a work on its own: a photograph of Wilke standing before a wall of her chewing-gum sculptures. The photographer is not named here. ⚠️ MAKER CORRECTED 2026-09-13, on Todd's rule that the maker of a photograph is the PHOTOGRAPHER: this is an anonymous photograph OF Hannah Wilke with their work, not a work BY them. The maker is therefore Unidentified; Hannah Wilke is the SUBJECT, and the object is typed as the photograph it is. Before this, five items in the same cluster credited the artist and three credited the unknown photographer — the same object filed two opposite ways.",
    "hue": 18.72,
    "light": 0.7358,
    "chroma": 0.1279,
@@ -136958,7 +136950,7 @@
    "original_bytes": 300661,
    "identity": "sent-2026-09-06::89e11411429c",
    "source_url": "https://i.pinimg.com/originals/8c/0f/c0/8c0fc0d7155f1cf4d51276a36673cf0c.jpg",
-   "maker": "unattributed",
+   "maker": "Unidentified",
    "title": "Johannes Itten in his Mazdaznan robe",
    "subtitle": "",
    "year": "",
@@ -136985,11 +136977,15 @@
     {
      "k": "motif",
      "v": "artist with their work"
+    },
+    {
+     "k": "subject",
+     "v": "Johannes Itten"
     }
    ],
    "identity_established": true,
    "published": true,
-   "verification": "⚠️ Photographer NOT ESTABLISHED. Pinterest, which names nobody. The sitter is Johannes Itten, in the monk-like robe he wore at the Bauhaus, in front of one of his own star paintings — identified on the WORK, not the source.",
+   "verification": "⚠️ Photographer NOT ESTABLISHED. Pinterest, which names nobody. The sitter is Johannes Itten, in the monk-like robe he wore at the Bauhaus, in front of one of his own star paintings — identified on the WORK, not the source. ⚠️ MAKER CORRECTED 2026-09-13, on Todd's rule that the maker of a photograph is the PHOTOGRAPHER: this is an anonymous photograph OF the artist with their work, not a work BY them. The maker is therefore Unidentified; the artist is the SUBJECT, and the object is typed as the photograph it is. Before this, five items in the same cluster credited the artist and three credited the unknown photographer — the same object filed two opposite ways.",
    "hue": null,
    "light": 0.2306,
    "chroma": 0.0,
@@ -137587,7 +137583,7 @@
    "original_bytes": 92963,
    "identity": "sent-2026-09-06::c9df3f7b3ac2",
    "source_url": "https://cdn.thecollector.com/wp-content/uploads/2023/05/claes-oldenburg-store-photo-1961.jpg",
-   "maker": "unattributed",
+   "maker": "Unidentified",
    "title": "Claes Oldenburg in The Store",
    "subtitle": "",
    "year": "1961",
@@ -137618,11 +137614,15 @@
     {
      "k": "motif",
      "v": "artist with their work"
+    },
+    {
+     "k": "subject",
+     "v": "Claes Oldenburg"
     }
    ],
    "identity_established": true,
    "published": true,
-   "verification": "⚠️ Photographer NOT ESTABLISHED. The sitter and the room are certain on the WORK: Oldenburg among the plaster reliefs of *The Store*, 107 East Second Street, New York, 1961. ⚠️ SOURCE SWAPPED: the link Todd sent (a Substack CDN copy) was 1024x670, under the museum's 800px floor. The same photograph was found at 1200x812 on thecollector.com and that is the file held here.",
+   "verification": "⚠️ Photographer NOT ESTABLISHED. The sitter and the room are certain on the WORK: Oldenburg among the plaster reliefs of *The Store*, 107 East Second Street, New York, 1961. ⚠️ SOURCE SWAPPED: the link Todd sent (a Substack CDN copy) was 1024x670, under the museum's 800px floor. The same photograph was found at 1200x812 on thecollector.com and that is the file held here. ⚠️ MAKER CORRECTED 2026-09-13, on Todd's rule that the maker of a photograph is the PHOTOGRAPHER: this is an anonymous photograph OF the artist with their work, not a work BY them. The maker is therefore Unidentified; the artist is the SUBJECT, and the object is typed as the photograph it is. Before this, five items in the same cluster credited the artist and three credited the unknown photographer — the same object filed two opposite ways.",
    "hue": 34.47,
    "light": 0.3483,
    "chroma": 0.3354,
@@ -195604,7 +195604,7 @@
    "identity": "contact-sheets-2026-09-11::starck-limobel",
    "source_url": "https://limobelinwo.com/wp-content/uploads/2025/07/philippe-starck.jpg",
    "source_page": "https://limobelinwo.com/fr/Philippe-Starck--le-prolifique-designer-tout-terrain/",
-   "maker": "Philippe Starck",
+   "maker": "Unidentified",
    "title": "Untitled",
    "subtitle": "",
    "year": "",
@@ -195620,12 +195620,8 @@
    ],
    "tags": [
     {
-     "k": "designer",
-     "v": "Philippe Starck"
-    },
-    {
      "k": "type",
-     "v": "product design"
+     "v": "photograph"
     },
     {
      "k": "location",
@@ -195634,11 +195630,15 @@
     {
      "k": "motif",
      "v": "artist with their work"
+    },
+    {
+     "k": "subject",
+     "v": "Philippe Starck"
     }
    ],
    "identity_established": true,
    "published": true,
-   "verification": "From Limobel's profile of Starck. ⚠️ Neither the object nor the year is identified. Roster came off the publisher's listing in the Book Checklist; the picture was found by per-name image harvest and verified at 800px+ before it reached the contact sheet.",
+   "verification": "From Limobel's profile of Starck. ⚠️ Neither the object nor the year is identified. Roster came off the publisher's listing in the Book Checklist; the picture was found by per-name image harvest and verified at 800px+ before it reached the contact sheet. ⚠️ MAKER CORRECTED 2026-09-13, on Todd's rule that the maker of a photograph is the PHOTOGRAPHER: this is an anonymous photograph OF Philippe Starck with their work, not a work BY them. The maker is therefore Unidentified; Philippe Starck is the SUBJECT, and the object is typed as the photograph it is. Before this, five items in the same cluster credited the artist and three credited the unknown photographer — the same object filed two opposite ways.",
    "hue": 85.49,
    "light": 0.6942,
    "chroma": 0.2245,
@@ -196716,7 +196716,7 @@
    "identity": "contact-sheets-2026-09-11::vera-molnar-1961-oniris",
    "source_url": "https://artlogic-res.cloudinary.com/w_3000,h_2000,c_limit,f_auto,fl_lossy,q_auto:good/ws-ropac/usr/images/artists/hero_image/items/c5/c5d8cb729d004b2682115d4e104b3f61/vera-molnar-1961-courtesy-of-galerie-oniris-rennes.jpg?focal=48,41",
    "source_page": "https://ropac.net/artists/231-vera-molnar/",
-   "maker": "Vera Molnár",
+   "maker": "Unidentified",
    "title": "Untitled",
    "subtitle": "",
    "year": "1961",
@@ -196732,12 +196732,8 @@
    ],
    "tags": [
     {
-     "k": "artist",
-     "v": "Vera Molnár"
-    },
-    {
      "k": "type",
-     "v": "painting"
+     "v": "photograph"
     },
     {
      "k": "decade",
@@ -196750,11 +196746,15 @@
     {
      "k": "motif",
      "v": "artist with their work"
+    },
+    {
+     "k": "subject",
+     "v": "Vera Molnár"
     }
    ],
    "identity_established": true,
    "published": true,
-   "verification": "Thaddaeus Ropac's Vera Molnár page; the file is named 'vera-molnar-1961-courtesy-of-galerie-oniris-rennes', so the work is dated 1961 and the reproduction is courtesy of Galerie Oniris, Rennes. ⚠️ THE TITLE IS NOT STATED. Roster came off the publisher's listing in the Book Checklist; the picture was found by per-name image harvest and verified at 800px+ before it reached the contact sheet.",
+   "verification": "Thaddaeus Ropac's Vera Molnár page; the file is named 'vera-molnar-1961-courtesy-of-galerie-oniris-rennes', so the work is dated 1961 and the reproduction is courtesy of Galerie Oniris, Rennes. ⚠️ THE TITLE IS NOT STATED. Roster came off the publisher's listing in the Book Checklist; the picture was found by per-name image harvest and verified at 800px+ before it reached the contact sheet. ⚠️ MAKER CORRECTED 2026-09-13, on Todd's rule that the maker of a photograph is the PHOTOGRAPHER: this is an anonymous photograph OF Vera Molnár with their work, not a work BY them. The maker is therefore Unidentified; Vera Molnár is the SUBJECT, and the object is typed as the photograph it is. Before this, five items in the same cluster credited the artist and three credited the unknown photographer — the same object filed two opposite ways.",
    "hue": null,
    "light": 0.4637,
    "chroma": 0.0,
@@ -196839,7 +196839,7 @@
    "identity": "contact-sheets-2026-09-11::baumeister-berlin-1927",
    "source_url": "https://i.pinimg.com/originals/61/cf/1c/61cf1c5f194fb5ca8851e8b950711834.jpg",
    "source_page": "https://www.pinterest.com/pin/787637422309112048/",
-   "maker": "Willi Baumeister",
+   "maker": "Unidentified",
    "title": "Untitled",
    "subtitle": "",
    "year": "",
@@ -196855,12 +196855,8 @@
    ],
    "tags": [
     {
-     "k": "artist",
-     "v": "Willi Baumeister"
-    },
-    {
      "k": "type",
-     "v": "painting"
+     "v": "photograph"
     },
     {
      "k": "location",
@@ -196869,11 +196865,15 @@
     {
      "k": "motif",
      "v": "artist with their work"
+    },
+    {
+     "k": "subject",
+     "v": "Willi Baumeister"
     }
    ],
    "identity_established": true,
    "published": true,
-   "verification": "Pinned as 'Willi Baumeister in Berlin, 1927'. ⚠️ PINTEREST IS THE ONLY SOURCE and carries no provenance; the caption is the whole of the claim. ⚠️ THE CAPTION MAY DESCRIBE AN EXHIBITION OR A PHOTOGRAPH OF BAUMEISTER rather than name a work; the title is not established. Roster came off the publisher's listing in the Book Checklist; the picture was found by per-name image harvest and verified at 800px+ before it reached the contact sheet.",
+   "verification": "Pinned as 'Willi Baumeister in Berlin, 1927'. ⚠️ PINTEREST IS THE ONLY SOURCE and carries no provenance; the caption is the whole of the claim. ⚠️ THE CAPTION MAY DESCRIBE AN EXHIBITION OR A PHOTOGRAPH OF BAUMEISTER rather than name a work; the title is not established. Roster came off the publisher's listing in the Book Checklist; the picture was found by per-name image harvest and verified at 800px+ before it reached the contact sheet. ⚠️ MAKER CORRECTED 2026-09-13, on Todd's rule that the maker of a photograph is the PHOTOGRAPHER: this is an anonymous photograph OF Willi Baumeister with their work, not a work BY them. The maker is therefore Unidentified; Willi Baumeister is the SUBJECT, and the object is typed as the photograph it is. Before this, five items in the same cluster credited the artist and three credited the unknown photographer — the same object filed two opposite ways.",
    "hue": 34.77,
    "light": 0.4507,
    "chroma": 0.7615,

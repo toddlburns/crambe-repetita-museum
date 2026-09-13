@@ -11135,18 +11135,14 @@
     1037
    ],
    "original_bytes": 522799,
-   "maker": "Yayoi Kusama",
+   "maker": "Unidentified",
    "title": "Infinity Mirror Room — Phalli's Field (or Floor Show)",
    "subtitle": "Kusama standing in the work · via David Zwirner",
    "year": "1965",
    "tags": [
     {
-     "k": "artist",
-     "v": "Yayoi Kusama"
-    },
-    {
      "k": "type",
-     "v": "installation"
+     "v": "photograph"
     },
     {
      "k": "subject",
@@ -11415,15 +11411,11 @@
     1161
    ],
    "original_bytes": 467283,
-   "maker": "Yayoi Kusama",
+   "maker": "Evelyn Hofer",
    "title": "Kusama with her stuffed fabric works",
    "subtitle": "Photograph by Evelyn Hofer · among the sewn phalluses of her room-filling installations",
    "year": "1964",
    "tags": [
-    {
-     "k": "artist",
-     "v": "Yayoi Kusama"
-    },
     {
      "k": "type",
      "v": "photograph"
@@ -11443,6 +11435,10 @@
     {
      "k": "location",
      "v": "Japan"
+    },
+    {
+     "k": "motif",
+     "v": "artist with their work"
     },
     {
      "k": "color",
@@ -94039,7 +94035,7 @@
     1600
    ],
    "original_bytes": 169572,
-   "maker": "Yves Klein",
+   "maker": "Unidentified",
    "title": "Blue sponge sculpture",
    "subtitle": "",
    "year": "",
@@ -94047,10 +94043,6 @@
     {
      "k": "type",
      "v": "photograph"
-    },
-    {
-     "k": "artist",
-     "v": "Yves Klein"
     },
     {
      "k": "subject",
@@ -94063,6 +94055,10 @@
     {
      "k": "motif",
      "v": "artist with their work"
+    },
+    {
+     "k": "subject",
+     "v": "Yves Klein"
     },
     {
      "k": "color",
@@ -101640,7 +101636,7 @@
    ],
    "original_bytes": 936753,
    "maker": "Unidentified",
-   "title": "Yayoi Kusama before an Infinity Net",
+   "title": "A visitor before a Kusama Infinity Net",
    "subtitle": "",
    "year": "",
    "tags": [
@@ -101649,16 +101645,16 @@
      "v": "photograph"
     },
     {
-     "k": "artist",
-     "v": "Yayoi Kusama"
-    },
-    {
      "k": "location",
      "v": "Japan"
     },
     {
-     "k": "motif",
-     "v": "artist with their work"
+     "k": "subject",
+     "v": "Yayoi Kusama"
+    },
+    {
+     "k": "artist",
+     "v": "Yayoi Kusama"
     },
     {
      "k": "color",
@@ -110175,7 +110171,7 @@
     1352
    ],
    "original_bytes": 160091,
-   "maker": "Hannah Wilke",
+   "maker": "Unidentified",
    "title": "Art for Life's Sake",
    "subtitle": "",
    "year": "",
@@ -110185,20 +110181,16 @@
      "v": "photograph"
     },
     {
-     "k": "artist",
-     "v": "Hannah Wilke"
-    },
-    {
-     "k": "photographer",
-     "v": "Hannah Wilke"
-    },
-    {
      "k": "location",
      "v": "United States"
     },
     {
      "k": "motif",
      "v": "artist with their work"
+    },
+    {
+     "k": "subject",
+     "v": "Hannah Wilke"
     },
     {
      "k": "color",
@@ -115415,7 +115407,7 @@
     1953
    ],
    "original_bytes": 300661,
-   "maker": "unattributed",
+   "maker": "Unidentified",
    "title": "Johannes Itten in his Mazdaznan robe",
    "subtitle": "",
    "year": "",
@@ -115431,6 +115423,10 @@
     {
      "k": "motif",
      "v": "artist with their work"
+    },
+    {
+     "k": "subject",
+     "v": "Johannes Itten"
     },
     {
      "k": "movement",
@@ -115959,7 +115955,7 @@
     812
    ],
    "original_bytes": 92963,
-   "maker": "unattributed",
+   "maker": "Unidentified",
    "title": "Claes Oldenburg in The Store",
    "subtitle": "",
    "year": "1961",
@@ -115979,6 +115975,10 @@
     {
      "k": "motif",
      "v": "artist with their work"
+    },
+    {
+     "k": "subject",
+     "v": "Claes Oldenburg"
     },
     {
      "k": "movement",
@@ -168527,18 +168527,14 @@
     2262
    ],
    "original_bytes": 181974,
-   "maker": "Philippe Starck",
+   "maker": "Unidentified",
    "title": "Untitled",
    "subtitle": "",
    "year": "",
    "tags": [
     {
-     "k": "designer",
-     "v": "Philippe Starck"
-    },
-    {
      "k": "type",
-     "v": "product design"
+     "v": "photograph"
     },
     {
      "k": "location",
@@ -168547,6 +168543,10 @@
     {
      "k": "motif",
      "v": "artist with their work"
+    },
+    {
+     "k": "subject",
+     "v": "Philippe Starck"
     },
     {
      "k": "color",
@@ -169511,18 +169511,14 @@
     1964
    ],
    "original_bytes": 539921,
-   "maker": "Vera Molnár",
+   "maker": "Unidentified",
    "title": "Untitled",
    "subtitle": "",
    "year": "1961",
    "tags": [
     {
-     "k": "artist",
-     "v": "Vera Molnár"
-    },
-    {
      "k": "type",
-     "v": "painting"
+     "v": "photograph"
     },
     {
      "k": "decade",
@@ -169535,6 +169531,10 @@
     {
      "k": "motif",
      "v": "artist with their work"
+    },
+    {
+     "k": "subject",
+     "v": "Vera Molnár"
     },
     {
      "k": "color",
@@ -169611,18 +169611,14 @@
     4409
    ],
    "original_bytes": 1168271,
-   "maker": "Willi Baumeister",
+   "maker": "Unidentified",
    "title": "Untitled",
    "subtitle": "",
    "year": "",
    "tags": [
     {
-     "k": "artist",
-     "v": "Willi Baumeister"
-    },
-    {
      "k": "type",
-     "v": "painting"
+     "v": "photograph"
     },
     {
      "k": "location",
@@ -169631,6 +169627,10 @@
     {
      "k": "motif",
      "v": "artist with their work"
+    },
+    {
+     "k": "subject",
+     "v": "Willi Baumeister"
     },
     {
      "k": "color",
