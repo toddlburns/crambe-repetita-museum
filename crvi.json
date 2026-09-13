@@ -172712,6 +172712,178 @@
    "hue": 15.03,
    "light": 0.6712,
    "chroma": 0.4095
+  },
+  {
+   "id": "CRVI003263",
+   "published": true,
+   "minted": "2026-09-12",
+   "punch": 0.2612,
+   "source_url": "https://www.artsy.net/artwork/jonathan-zawada-no-youre-not-yes-i-am",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI003263.jpg",
+   "source_label": "",
+   "image": "images/CRVI003263.jpg",
+   "original": "originals/CRVI003263.jpg",
+   "vector": "",
+   "original_px": [
+    3821,
+    5212
+   ],
+   "original_bytes": 3660345,
+   "maker": "Jonathan Zawada",
+   "title": "Untitled",
+   "subtitle": "from On Burning Mirrors",
+   "year": "2022",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Jonathan Zawada"
+    },
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "medium",
+     "v": "acrylic and gouache on linen"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "location",
+     "v": "Australia"
+    },
+    {
+     "k": "city",
+     "v": "Tokyo"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 206.76,
+   "light": 0.6049,
+   "chroma": 0.5536
+  },
+  {
+   "id": "CRVI003264",
+   "published": true,
+   "minted": "2026-09-12",
+   "punch": 0.289,
+   "source_url": "https://www.artsy.net/artwork/jonathan-zawada-no-youre-not-yes-i-am",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI003264.jpg",
+   "source_label": "",
+   "image": "images/CRVI003264.jpg",
+   "original": "originals/CRVI003264.jpg",
+   "vector": "",
+   "original_px": [
+    3821,
+    5212
+   ],
+   "original_bytes": 3702526,
+   "maker": "Jonathan Zawada",
+   "title": "Untitled",
+   "subtitle": "from On Burning Mirrors",
+   "year": "2022",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Jonathan Zawada"
+    },
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "medium",
+     "v": "acrylic and gouache on linen"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "location",
+     "v": "Australia"
+    },
+    {
+     "k": "city",
+     "v": "Tokyo"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 212.53,
+   "light": 0.5814,
+   "chroma": 0.6598
+  },
+  {
+   "id": "CRVI003265",
+   "published": true,
+   "minted": "2026-09-12",
+   "punch": 0.0621,
+   "source_url": "https://www.artsy.net/artist/vera-molnar-1",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI003265.jpg",
+   "source_label": "",
+   "image": "images/CRVI003265.jpg",
+   "original": "originals/CRVI003265.jpg",
+   "vector": "",
+   "original_px": [
+    1409,
+    5660
+   ],
+   "original_bytes": 930168,
+   "maker": "Vera Molnár",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Vera Molnár"
+    },
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "subject",
+     "v": "generative art"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 24.02,
+   "light": 0.7963,
+   "chroma": 0.1519
   }
  ]
 }

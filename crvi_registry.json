@@ -1,5 +1,5 @@
 {
- "next": 3263,
+ "next": 3266,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -200031,6 +200031,179 @@
    "light": 0.6712,
    "chroma": 0.4095,
    "punch": 0.1916
+  },
+  "todd-sent-2026-09-12::zawada-burning-mirrors-ruff": {
+   "id": "CRVI003263",
+   "minted": "2026-09-12",
+   "original_file": "originals/CRVI003263.jpg",
+   "original_px": [
+    3821,
+    5212
+   ],
+   "original_bytes": 3660345,
+   "identity": "todd-sent-2026-09-12::zawada-burning-mirrors-ruff",
+   "source_url": "https://d32dm0rphc51dk.cloudfront.net/fdYdqDZmoXT8BWc4P8JLGw/normalized.jpg",
+   "source_page": "https://www.artsy.net/artwork/jonathan-zawada-no-youre-not-yes-i-am",
+   "maker": "Jonathan Zawada",
+   "title": "Untitled",
+   "subtitle": "from On Burning Mirrors",
+   "year": "2022",
+   "verified_against": "From 'On Burning Mirrors', Jonathan Zawada's solo show at CALM & PUNK GALLERY, Tokyo, 2022. The gallery describes these portraits as worked up from machine-learning output prompted with 'portrait of a realistic sculpture of a colorful medieval peasant with animal parts' — which is what is on the canvas, animal parts included. Artsy gives the medium for this body of work as acrylic and gouache on linen, and the gallery as CALM & PUNK GALLERY / GASBON METABOLISM. This one is the bearded figure in a white ruff. ⚠️ ONE OF THE TWO PAINTINGS IN THIS BATCH IS TITLED 'No You're Not. Yes, I Am.' (2022) — Todd supplied that Artsy link — BUT WHICH ONE IS NOT ESTABLISHED. Artsy 403s every non-browser client so the artwork page could not be matched to an image asset. Both are therefore recorded untitled rather than one of them being given a title it may not have. ⚠️ RECOVERED FROM AN UPSCALE. Todd's link went through Artsy's d7hftxdivxxvm resizer, which served 1407x1920 from a master that is really 751x1024 — it tested at under 2.0/255 on a shrink-and-restore, i.e. no detail at the size it claimed. ⚠️ ON ARTSY, 'larger.jpg' IS NOT THE LARGEST: larger=751x1024 but normalized=3821x5212 and main=3754x5120. This file is normalized.jpg and tests as real detail.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/539c6d41-aeb8-4169-b453-07d901464457/scratchpad/newadds/JZ_02_master.jpg",
+   "source_px": [
+    3821,
+    5212
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Jonathan Zawada"
+    },
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "medium",
+     "v": "acrylic and gouache on linen"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "location",
+     "v": "Australia"
+    },
+    {
+     "k": "city",
+     "v": "Tokyo"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "From 'On Burning Mirrors', Jonathan Zawada's solo show at CALM & PUNK GALLERY, Tokyo, 2022. The gallery describes these portraits as worked up from machine-learning output prompted with 'portrait of a realistic sculpture of a colorful medieval peasant with animal parts' — which is what is on the canvas, animal parts included. Artsy gives the medium for this body of work as acrylic and gouache on linen, and the gallery as CALM & PUNK GALLERY / GASBON METABOLISM. This one is the bearded figure in a white ruff. ⚠️ ONE OF THE TWO PAINTINGS IN THIS BATCH IS TITLED 'No You're Not. Yes, I Am.' (2022) — Todd supplied that Artsy link — BUT WHICH ONE IS NOT ESTABLISHED. Artsy 403s every non-browser client so the artwork page could not be matched to an image asset. Both are therefore recorded untitled rather than one of them being given a title it may not have. ⚠️ RECOVERED FROM AN UPSCALE. Todd's link went through Artsy's d7hftxdivxxvm resizer, which served 1407x1920 from a master that is really 751x1024 — it tested at under 2.0/255 on a shrink-and-restore, i.e. no detail at the size it claimed. ⚠️ ON ARTSY, 'larger.jpg' IS NOT THE LARGEST: larger=751x1024 but normalized=3821x5212 and main=3754x5120. This file is normalized.jpg and tests as real detail.",
+   "hue": 206.76,
+   "light": 0.6049,
+   "chroma": 0.5536,
+   "punch": 0.2612
+  },
+  "todd-sent-2026-09-12::zawada-burning-mirrors-hood": {
+   "id": "CRVI003264",
+   "minted": "2026-09-12",
+   "original_file": "originals/CRVI003264.jpg",
+   "original_px": [
+    3821,
+    5212
+   ],
+   "original_bytes": 3702526,
+   "identity": "todd-sent-2026-09-12::zawada-burning-mirrors-hood",
+   "source_url": "https://d32dm0rphc51dk.cloudfront.net/Llo1Vs5Xrr8YOnlmUPam-g/normalized.jpg",
+   "source_page": "https://www.artsy.net/artwork/jonathan-zawada-no-youre-not-yes-i-am",
+   "maker": "Jonathan Zawada",
+   "title": "Untitled",
+   "subtitle": "from On Burning Mirrors",
+   "year": "2022",
+   "verified_against": "From 'On Burning Mirrors', Jonathan Zawada's solo show at CALM & PUNK GALLERY, Tokyo, 2022. The gallery describes these portraits as worked up from machine-learning output prompted with 'portrait of a realistic sculpture of a colorful medieval peasant with animal parts' — which is what is on the canvas, animal parts included. Artsy gives the medium for this body of work as acrylic and gouache on linen, and the gallery as CALM & PUNK GALLERY / GASBON METABOLISM. This one is the hooded figure with a green frog at the mouth. ⚠️ ONE OF THE TWO PAINTINGS IN THIS BATCH IS TITLED 'No You're Not. Yes, I Am.' (2022) — Todd supplied that Artsy link — BUT WHICH ONE IS NOT ESTABLISHED. Artsy 403s every non-browser client so the artwork page could not be matched to an image asset. Both are therefore recorded untitled rather than one of them being given a title it may not have. ⚠️ RECOVERED FROM AN UPSCALE. Todd's link went through Artsy's d7hftxdivxxvm resizer, which served 1407x1920 from a master that is really 751x1024 — it tested at under 2.0/255 on a shrink-and-restore, i.e. no detail at the size it claimed. ⚠️ ON ARTSY, 'larger.jpg' IS NOT THE LARGEST: larger=751x1024 but normalized=3821x5212 and main=3754x5120. This file is normalized.jpg and tests as real detail.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/539c6d41-aeb8-4169-b453-07d901464457/scratchpad/newadds/JZ_05_master.jpg",
+   "source_px": [
+    3821,
+    5212
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Jonathan Zawada"
+    },
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "medium",
+     "v": "acrylic and gouache on linen"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    },
+    {
+     "k": "location",
+     "v": "Australia"
+    },
+    {
+     "k": "city",
+     "v": "Tokyo"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "From 'On Burning Mirrors', Jonathan Zawada's solo show at CALM & PUNK GALLERY, Tokyo, 2022. The gallery describes these portraits as worked up from machine-learning output prompted with 'portrait of a realistic sculpture of a colorful medieval peasant with animal parts' — which is what is on the canvas, animal parts included. Artsy gives the medium for this body of work as acrylic and gouache on linen, and the gallery as CALM & PUNK GALLERY / GASBON METABOLISM. This one is the hooded figure with a green frog at the mouth. ⚠️ ONE OF THE TWO PAINTINGS IN THIS BATCH IS TITLED 'No You're Not. Yes, I Am.' (2022) — Todd supplied that Artsy link — BUT WHICH ONE IS NOT ESTABLISHED. Artsy 403s every non-browser client so the artwork page could not be matched to an image asset. Both are therefore recorded untitled rather than one of them being given a title it may not have. ⚠️ RECOVERED FROM AN UPSCALE. Todd's link went through Artsy's d7hftxdivxxvm resizer, which served 1407x1920 from a master that is really 751x1024 — it tested at under 2.0/255 on a shrink-and-restore, i.e. no detail at the size it claimed. ⚠️ ON ARTSY, 'larger.jpg' IS NOT THE LARGEST: larger=751x1024 but normalized=3821x5212 and main=3754x5120. This file is normalized.jpg and tests as real detail.",
+   "hue": 212.53,
+   "light": 0.5814,
+   "chroma": 0.6598,
+   "punch": 0.289
+  },
+  "todd-sent-2026-09-12::molnar-tall-line-segments": {
+   "id": "CRVI003265",
+   "minted": "2026-09-12",
+   "original_file": "originals/CRVI003265.jpg",
+   "original_px": [
+    1409,
+    5660
+   ],
+   "original_bytes": 930168,
+   "identity": "todd-sent-2026-09-12::molnar-tall-line-segments",
+   "source_url": "https://d32dm0rphc51dk.cloudfront.net/rw6ki_8-Bd8uwVBOkAVxaA/normalized.jpg",
+   "source_page": "https://www.artsy.net/artist/vera-molnar-1",
+   "maker": "Vera Molnár",
+   "title": "Untitled",
+   "verified_against": "From Artsy's Vera Molnár listings. A very tall narrow sheet — 1409x5660 — carrying short vertical line segments in orange, pink and red on cream, drifting out of alignment down the length of it. ⚠️ TITLE AND YEAR ARE NOT KNOWN. ⚠️ RECOVERED FROM AN UPSCALE, and this was the worst in the batch: Todd's link asked the Artsy resizer for width=445 and got back 443x1780, from a master that is really 255x1024 on the 'larger' rendition. normalized.jpg is 1409x5660 and carries real detail. ON ARTSY, ALWAYS ASK FOR normalized.jpg OR main.jpg.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/539c6d41-aeb8-4169-b453-07d901464457/scratchpad/newadds/VM_23_master.jpg",
+   "source_px": [
+    1409,
+    5660
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Vera Molnár"
+    },
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "subject",
+     "v": "generative art"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "From Artsy's Vera Molnár listings. A very tall narrow sheet — 1409x5660 — carrying short vertical line segments in orange, pink and red on cream, drifting out of alignment down the length of it. ⚠️ TITLE AND YEAR ARE NOT KNOWN. ⚠️ RECOVERED FROM AN UPSCALE, and this was the worst in the batch: Todd's link asked the Artsy resizer for width=445 and got back 443x1780, from a master that is really 255x1024 on the 'larger' rendition. normalized.jpg is 1409x5660 and carries real detail. ON ARTSY, ALWAYS ASK FOR normalized.jpg OR main.jpg.",
+   "hue": 24.02,
+   "light": 0.7963,
+   "chroma": 0.1519,
+   "punch": 0.0621
   }
  }
 }
