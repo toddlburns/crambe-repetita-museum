@@ -155637,8 +155637,8 @@
    "id": "CRVI002939",
    "published": true,
    "minted": "2026-09-10",
-   "punch": 0.1887,
-   "source_url": "https://platform-0.com/wp-content/uploads/2021/02/cri_000000011508-1.jpg",
+   "punch": 0.2361,
+   "source_url": "https://www.moma.org/collection/works/798",
    "animated": false,
    "video": false,
    "thumb": "thumbs/CRVI002939.jpg",
@@ -155647,12 +155647,12 @@
    "original": "originals/CRVI002939.jpg",
    "vector": "",
    "original_px": [
-    1947,
-    1478
+    2000,
+    1516
    ],
-   "original_bytes": 1291488,
+   "original_bytes": 1075204,
    "maker": "Peter Cook",
-   "title": "Plug-In City",
+   "title": "Plug-in University Node, project (Elevation)",
    "subtitle": "",
    "year": "1965",
    "tags": [
@@ -155689,9 +155689,9 @@
      "v": "yellow"
     }
    ],
-   "hue": 43.61,
-   "light": 0.6608,
-   "chroma": 0.7724
+   "hue": 36.5,
+   "light": 0.6747,
+   "chroma": 0.8076
   },
   {
    "id": "CRVI002940",
@@ -173028,6 +173028,658 @@
    "hue": 327.89,
    "light": 0.5614,
    "chroma": 0.5297
+  },
+  {
+   "id": "CRVI003269",
+   "published": true,
+   "minted": "2026-09-13",
+   "punch": 0.4142,
+   "source_url": "https://www.superhouse.us/artists-designers/superstudio/quaderna",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI003269.jpg",
+   "source_label": "",
+   "image": "images/CRVI003269.jpg",
+   "original": "originals/CRVI003269.jpg",
+   "vector": "",
+   "original_px": [
+    2500,
+    2500
+   ],
+   "original_bytes": 303438,
+   "maker": "Superstudio",
+   "title": "Quaderna console table",
+   "subtitle": "",
+   "year": "1970",
+   "tags": [
+    {
+     "k": "type",
+     "v": "product design"
+    },
+    {
+     "k": "artist",
+     "v": "Superstudio"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "client",
+     "v": "Zanotta"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 24.69,
+   "light": 0.5283,
+   "chroma": 0.8984
+  },
+  {
+   "id": "CRVI003270",
+   "published": true,
+   "minted": "2026-09-13",
+   "punch": 0.5323,
+   "source_url": "https://archidose.substack.com/p/unboxing-archigram",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI003270.jpg",
+   "source_label": "",
+   "image": "images/CRVI003270.jpg",
+   "original": "originals/CRVI003270.jpg",
+   "vector": "",
+   "original_px": [
+    1707,
+    2048
+   ],
+   "original_bytes": 459601,
+   "maker": "Archigram",
+   "title": "Archigram: The Magazine — facsimile edition, cover",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "subject",
+     "v": "Archigram"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "artist",
+     "v": "Archigram"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 35.81,
+   "light": 0.4925,
+   "chroma": 1.0
+  },
+  {
+   "id": "CRVI003271",
+   "published": true,
+   "minted": "2026-09-13",
+   "punch": 0.4446,
+   "source_url": "https://somethingcurated.com/2020/05/06/what-archigram-taught-us/",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI003271.jpg",
+   "source_label": "",
+   "image": "images/CRVI003271.jpg",
+   "original": "originals/CRVI003271.jpg",
+   "vector": "",
+   "original_px": [
+    2551,
+    1510
+   ],
+   "original_bytes": 1629526,
+   "maker": "Warren Chalk, Peter Cook, Dennis Crompton, Ron Herron",
+   "title": "Control and Choice Dwellings, Part Section",
+   "subtitle": "",
+   "year": "1967",
+   "tags": [
+    {
+     "k": "type",
+     "v": "architectural drawing"
+    },
+    {
+     "k": "subject",
+     "v": "Archigram"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "artist",
+     "v": "Warren Chalk"
+    },
+    {
+     "k": "artist",
+     "v": "Peter Cook"
+    },
+    {
+     "k": "artist",
+     "v": "Dennis Crompton"
+    },
+    {
+     "k": "artist",
+     "v": "Ron Herron"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    }
+   ],
+   "hue": 54.77,
+   "light": 0.5926,
+   "chroma": 0.6232
+  },
+  {
+   "id": "CRVI003272",
+   "published": true,
+   "minted": "2026-09-13",
+   "punch": 0.1274,
+   "source_url": "https://www.moma.org/collection/works/795",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI003272.jpg",
+   "source_label": "",
+   "image": "images/CRVI003272.jpg",
+   "original": "originals/CRVI003272.jpg",
+   "vector": "",
+   "original_px": [
+    2000,
+    1850
+   ],
+   "original_bytes": 1542171,
+   "maker": "Peter Cook",
+   "title": "Plug-In City, project (Axonometric)",
+   "subtitle": "",
+   "year": "1964",
+   "tags": [
+    {
+     "k": "type",
+     "v": "architectural drawing"
+    },
+    {
+     "k": "subject",
+     "v": "Archigram"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "artist",
+     "v": "Peter Cook"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 34.03,
+   "light": 0.4187,
+   "chroma": 0.2526
+  },
+  {
+   "id": "CRVI003273",
+   "published": true,
+   "minted": "2026-09-13",
+   "punch": 0.2678,
+   "source_url": "https://zolimacitymag.com/m-archigram-archive-means-for-hong-kong-architecture/",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI003273.jpg",
+   "source_label": "",
+   "image": "images/CRVI003273.jpg",
+   "original": "originals/CRVI003273.webp",
+   "vector": "",
+   "original_px": [
+    998,
+    1182
+   ],
+   "original_bytes": 61638,
+   "maker": "Warren Chalk",
+   "title": "Capsule Homes, overhead view",
+   "subtitle": "",
+   "year": "1964",
+   "tags": [
+    {
+     "k": "type",
+     "v": "architectural drawing"
+    },
+    {
+     "k": "subject",
+     "v": "Archigram"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "artist",
+     "v": "Warren Chalk"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 156.66,
+   "light": 0.5728,
+   "chroma": 0.5993
+  },
+  {
+   "id": "CRVI003274",
+   "published": true,
+   "minted": "2026-09-13",
+   "punch": 0.5459,
+   "source_url": "https://www.dezeen.com/2020/05/13/archigram-instant-city-peter-cook-video-interview-vdf/",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI003274.jpg",
+   "source_label": "",
+   "image": "images/CRVI003274.jpg",
+   "original": "originals/CRVI003274.jpg",
+   "vector": "",
+   "original_px": [
+    1704,
+    1303
+   ],
+   "original_bytes": 678783,
+   "maker": "Peter Cook",
+   "title": "Instant City",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "architectural drawing"
+    },
+    {
+     "k": "subject",
+     "v": "Archigram"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "artist",
+     "v": "Peter Cook"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 245.03,
+   "light": 0.3214,
+   "chroma": 0.9143
+  },
+  {
+   "id": "CRVI003275",
+   "published": true,
+   "minted": "2026-09-13",
+   "punch": 0.0963,
+   "source_url": "https://www.moma.org/collection/works/814",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI003275.jpg",
+   "source_label": "",
+   "image": "images/CRVI003275.jpg",
+   "original": "originals/CRVI003275.jpg",
+   "vector": "",
+   "original_px": [
+    2000,
+    1552
+   ],
+   "original_bytes": 944690,
+   "maker": "Ron Herron",
+   "title": "Walking City on the Ocean, project (Exterior perspective)",
+   "subtitle": "",
+   "year": "1966",
+   "tags": [
+    {
+     "k": "type",
+     "v": "collage"
+    },
+    {
+     "k": "subject",
+     "v": "Archigram"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "artist",
+     "v": "Ron Herron"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "green"
+    }
+   ],
+   "hue": 35.48,
+   "light": 0.564,
+   "chroma": 0.6456
+  },
+  {
+   "id": "CRVI003276",
+   "published": true,
+   "minted": "2026-09-13",
+   "punch": 0.3048,
+   "source_url": "https://www.moma.org/collection/works/5938",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI003276.jpg",
+   "source_label": "",
+   "image": "images/CRVI003276.jpg",
+   "original": "originals/CRVI003276.jpg",
+   "vector": "",
+   "original_px": [
+    1420,
+    2000
+   ],
+   "original_bytes": 1378385,
+   "maker": "Ralph Schraivogel",
+   "title": "Archigram 1961-74 (Museum für Gestaltung)",
+   "subtitle": "",
+   "year": "1995",
+   "tags": [
+    {
+     "k": "type",
+     "v": "exhibition poster"
+    },
+    {
+     "k": "designer",
+     "v": "Ralph Schraivogel"
+    },
+    {
+     "k": "decade",
+     "v": "1990s"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "subject",
+     "v": "Archigram"
+    },
+    {
+     "k": "client",
+     "v": "Museum für Gestaltung Zürich"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 44.77,
+   "light": 0.4751,
+   "chroma": 0.6406
+  },
+  {
+   "id": "CRVI003277",
+   "published": true,
+   "minted": "2026-09-13",
+   "punch": 0.2107,
+   "source_url": "https://untappedjournal.com/stories/anthony-paletta-archigram-ten-magazine-review",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI003277.jpg",
+   "source_label": "",
+   "image": "images/CRVI003277.jpg",
+   "original": "originals/CRVI003277.jpg",
+   "vector": "",
+   "original_px": [
+    1500,
+    1421
+   ],
+   "original_bytes": 759998,
+   "maker": "Archigram",
+   "title": "Archigram magazine — spread",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine spread"
+    },
+    {
+     "k": "subject",
+     "v": "Archigram"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "artist",
+     "v": "Archigram"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    }
+   ],
+   "hue": 353.15,
+   "light": 0.5497,
+   "chroma": 0.5249
+  },
+  {
+   "id": "CRVI003278",
+   "published": true,
+   "minted": "2026-09-13",
+   "punch": 0.0997,
+   "source_url": "https://untappedjournal.com/stories/anthony-paletta-archigram-ten-magazine-review",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI003278.jpg",
+   "source_label": "",
+   "image": "images/CRVI003278.jpg",
+   "original": "originals/CRVI003278.jpg",
+   "vector": "",
+   "original_px": [
+    1500,
+    1421
+   ],
+   "original_bytes": 520599,
+   "maker": "Archigram",
+   "title": "Archigram magazine — spread",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "magazine spread"
+    },
+    {
+     "k": "subject",
+     "v": "Archigram"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "artist",
+     "v": "Archigram"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    }
+   ],
+   "hue": 15.7,
+   "light": 0.335,
+   "chroma": 0.2442
+  },
+  {
+   "id": "CRVI003279",
+   "published": true,
+   "minted": "2026-09-13",
+   "punch": 0.0493,
+   "source_url": "https://www.archdaily.com/1128350/archigram-trajectory-and-influences-throughout-their-work",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI003279.jpg",
+   "source_label": "",
+   "image": "images/CRVI003279.jpg",
+   "original": "originals/CRVI003279.jpg",
+   "vector": "",
+   "original_px": [
+    1543,
+    1000
+   ],
+   "original_bytes": 460036,
+   "maker": "Ron Herron",
+   "title": "Cities: Moving",
+   "subtitle": "",
+   "year": "1964",
+   "tags": [
+    {
+     "k": "type",
+     "v": "architectural drawing"
+    },
+    {
+     "k": "subject",
+     "v": "Archigram"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "artist",
+     "v": "Ron Herron"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "cyan"
+    }
+   ],
+   "hue": 203.52,
+   "light": 0.8236,
+   "chroma": 0.1898
   }
  ]
 }
