@@ -5417,7 +5417,7 @@
    "id": "CRVI000105",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.0615,
+   "punch": 0.0635,
    "source_url": "https://www.moma.org/media/W1siZiIsIjUyNzQ4OCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=445e6e85780f1b4e",
    "animated": false,
    "video": false,
@@ -5427,10 +5427,10 @@
    "original": "originals/CRVI000105.jpg",
    "vector": "",
    "original_px": [
-    1428,
-    2000
+    1393,
+    1973
    ],
-   "original_bytes": 998081,
+   "original_bytes": 1533880,
    "maker": "Masuteru Aoba",
    "title": "10th Anniversary of \"Tategumi Yokogumi\" Magazine",
    "subtitle": "Morisawa & Company Ltd. · Silkscreen",
@@ -5465,9 +5465,9 @@
      "v": "white"
     }
    ],
-   "hue": 40.81,
-   "light": 0.7469,
-   "chroma": 0.1327
+   "hue": 40.76,
+   "light": 0.7404,
+   "chroma": 0.1484
   },
   {
    "id": "CRVI000106",
@@ -5789,7 +5789,7 @@
    "id": "CRVI000112",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.1973,
+   "punch": 0.2059,
    "source_url": "https://miro.medium.com/v2/resize:fit:2400/1*7RK927u25O2cM4ENtEfwyQ.jpeg",
    "animated": false,
    "video": false,
@@ -5799,10 +5799,10 @@
    "original": "originals/CRVI000112.jpg",
    "vector": "",
    "original_px": [
-    1250,
-    1762
+    1220,
+    1722
    ],
-   "original_bytes": 551478,
+   "original_bytes": 1313063,
    "maker": "Kiyoshi Awazu",
    "title": "Kiyoshi Awazu Exhibition & Workshop",
    "subtitle": "The 43rd International Design Conference in Aspen",
@@ -5833,9 +5833,9 @@
      "v": "neutral"
     }
    ],
-   "hue": 35.94,
-   "light": 0.4604,
-   "chroma": 0.4746
+   "hue": 36.17,
+   "light": 0.4484,
+   "chroma": 0.5015
   },
   {
    "id": "CRVI000113",
@@ -5893,7 +5893,7 @@
    "id": "CRVI000114",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.096,
+   "punch": 0.0963,
    "source_url": "https://eyemagazine.com/assets/uploads/magazine/EYE-101-110/EYE-102/102-Uncoated/WEB102_Uncoated_Tokyo1964.jpg",
    "animated": false,
    "video": false,
@@ -5903,10 +5903,10 @@
    "original": "originals/CRVI000114.jpg",
    "vector": "",
    "original_px": [
-    3796,
-    5379
+    3732,
+    5327
    ],
-   "original_bytes": 2882722,
+   "original_bytes": 5477014,
    "maker": "Yusaku Kamekura",
    "title": "Tokyo 1964 — Butterfly Swimmer",
    "subtitle": "Official poster, Games of the XVIII Olympiad · photograph Osamu Hayasaki · photo direction Jo Murakoshi",
@@ -5945,15 +5945,15 @@
      "v": "neutral"
     }
    ],
-   "hue": 192.42,
-   "light": 0.3159,
-   "chroma": 0.4693
+   "hue": 192.52,
+   "light": 0.3005,
+   "chroma": 0.4586
   },
   {
    "id": "CRVI000115",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.0761,
+   "punch": 0.0763,
    "source_url": "",
    "animated": false,
    "video": false,
@@ -5964,9 +5964,9 @@
    "vector": "",
    "original_px": [
     1130,
-    1598
+    1593
    ],
-   "original_bytes": 2272745,
+   "original_bytes": 472080,
    "maker": "Yusaku Kamekura",
    "title": "Tokyo 1964 — Starting Line",
    "subtitle": "Official poster, Games of the XVIII Olympiad · photograph Osamu Hayasaki",
@@ -6005,15 +6005,15 @@
      "v": "black"
     }
    ],
-   "hue": 13.44,
-   "light": 0.2938,
-   "chroma": 0.4045
+   "hue": 13.5,
+   "light": 0.2935,
+   "chroma": 0.4121
   },
   {
    "id": "CRVI000116",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.3967,
+   "punch": 0.4243,
    "source_url": "",
    "animated": false,
    "video": false,
@@ -6023,10 +6023,10 @@
    "original": "originals/CRVI000116.jpg",
    "vector": "",
    "original_px": [
-    2123,
-    3000
+    2042,
+    2902
    ],
-   "original_bytes": 839512,
+   "original_bytes": 2439438,
    "maker": "Tadanori Yokoo",
    "title": "Made in Japan, Tadanori Yokoo, Having Reached a Climax at the Age of 29, I Was Dead",
    "subtitle": "Self-portrait poster",
@@ -6057,9 +6057,9 @@
      "v": "cyan"
     }
    ],
-   "hue": 4.23,
-   "light": 0.4892,
-   "chroma": 0.7307
+   "hue": 195.48,
+   "light": 0.4622,
+   "chroma": 0.7483
   },
   {
    "id": "CRVI000117",
@@ -6117,7 +6117,7 @@
    "id": "CRVI000118",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.4474,
+   "punch": 0.4502,
    "source_url": "",
    "animated": false,
    "video": false,
@@ -6127,10 +6127,10 @@
    "original": "originals/CRVI000118.jpg",
    "vector": "",
    "original_px": [
-    1411,
-    2000
+    1406,
+    1994
    ],
-   "original_bytes": 1353040,
+   "original_bytes": 2221636,
    "maker": "Tadanori Yokoo",
    "title": "Garuda",
    "subtitle": "Offset lithograph",
@@ -6157,15 +6157,15 @@
      "v": "red"
     }
    ],
-   "hue": 357.04,
-   "light": 0.3862,
-   "chroma": 0.9181
+   "hue": 357.0,
+   "light": 0.3832,
+   "chroma": 0.9176
   },
   {
    "id": "CRVI000119",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.2658,
+   "punch": 0.2789,
    "source_url": "",
    "animated": false,
    "video": false,
@@ -6175,10 +6175,10 @@
    "original": "originals/CRVI000119.jpg",
    "vector": "",
    "original_px": [
-    1400,
-    1989
+    1368,
+    1936
    ],
-   "original_bytes": 1359611,
+   "original_bytes": 1574109,
    "maker": "Tadanori Yokoo",
    "title": "Koshimaki-Osen",
    "subtitle": "腰巻お仙 · theatre poster for Kara Juro's Jokyo Gekijo (Situation Theatre) · silkscreen",
@@ -6209,9 +6209,9 @@
      "v": "pink"
     }
    ],
-   "hue": 325.94,
-   "light": 0.4418,
-   "chroma": 0.7089
+   "hue": 326.0,
+   "light": 0.4475,
+   "chroma": 0.7442
   },
   {
    "id": "CRVI000120",
@@ -6269,7 +6269,7 @@
    "id": "CRVI000121",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.4339,
+   "punch": 0.4588,
    "source_url": "",
    "animated": false,
    "video": false,
@@ -6279,10 +6279,10 @@
    "original": "originals/CRVI000121.jpg",
    "vector": "",
    "original_px": [
-    2975,
-    8289
+    2851,
+    8160
    ],
-   "original_bytes": 1439803,
+   "original_bytes": 4855108,
    "maker": "Tadanori Yokoo",
    "title": "Word & Image",
    "subtitle": "The Museum of Modern Art, New York, January 24 – March 10",
@@ -6317,9 +6317,9 @@
      "v": "cyan"
     }
    ],
-   "hue": 4.22,
-   "light": 0.4447,
-   "chroma": 0.7168
+   "hue": 4.21,
+   "light": 0.4182,
+   "chroma": 0.7409
   },
   {
    "id": "CRVI000122",
@@ -6373,7 +6373,7 @@
    "id": "CRVI000123",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.2286,
+   "punch": 0.2303,
    "source_url": "",
    "animated": false,
    "video": false,
@@ -6383,10 +6383,10 @@
    "original": "originals/CRVI000123.jpg",
    "vector": "",
    "original_px": [
-    1633,
-    2351
+    1625,
+    2338
    ],
-   "original_bytes": 892797,
+   "original_bytes": 991644,
    "maker": "Shigeo Fukuda",
    "title": "Jazz Festival Montreux",
    "subtitle": "19e Festival de Jazz Montreux, 5–20 juillet 1985 · 100 x 70 cm",
@@ -6421,9 +6421,9 @@
      "v": "orange"
     }
    ],
-   "hue": 45.06,
-   "light": 0.3825,
-   "chroma": 0.3386
+   "hue": 45.03,
+   "light": 0.3798,
+   "chroma": 0.3421
   },
   {
    "id": "CRVI000124",
@@ -6601,7 +6601,7 @@
    "id": "CRVI000127",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.0949,
+   "punch": 0.0961,
    "source_url": "",
    "animated": false,
    "video": false,
@@ -6611,10 +6611,10 @@
    "original": "originals/CRVI000127.jpg",
    "vector": "",
    "original_px": [
-    1421,
-    2000
+    1402,
+    1990
    ],
-   "original_bytes": 544617,
+   "original_bytes": 873566,
    "maker": "Koichi Sato",
    "title": "Sakurahime Azuma Bunsho",
    "subtitle": "桜姫東文章 · Shinjuku Kinokuniya Hall · 1976 Tomin Arts Festival",
@@ -6645,15 +6645,15 @@
      "v": "white"
     }
    ],
-   "hue": 354.25,
-   "light": 0.6506,
-   "chroma": 0.3169
+   "hue": 353.57,
+   "light": 0.6459,
+   "chroma": 0.3087
   },
   {
    "id": "CRVI000128",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.135,
+   "punch": 0.1418,
    "source_url": "",
    "animated": false,
    "video": false,
@@ -6663,10 +6663,10 @@
    "original": "originals/CRVI000128.jpg",
    "vector": "",
    "original_px": [
-    1430,
-    2000
+    1383,
+    1940
    ],
-   "original_bytes": 557787,
+   "original_bytes": 895619,
    "maker": "Koichi Sato",
    "title": "The 6th Iwaki Prefecture Art Festival",
    "subtitle": "",
@@ -6697,15 +6697,15 @@
      "v": "neutral"
     }
    ],
-   "hue": 47.96,
-   "light": 0.6148,
-   "chroma": 0.7876
+   "hue": 48.0,
+   "light": 0.5926,
+   "chroma": 0.8152
   },
   {
    "id": "CRVI000129",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.2491,
+   "punch": 0.2523,
    "source_url": "",
    "animated": false,
    "video": false,
@@ -6715,10 +6715,10 @@
    "original": "originals/CRVI000129.jpg",
    "vector": "",
    "original_px": [
-    1430,
+    1408,
     2000
    ],
-   "original_bytes": 732030,
+   "original_bytes": 1161432,
    "maker": "Koichi Sato",
    "title": "Soap Bubbles Floated, They Floated Into Outer Space",
    "subtitle": "Produced by Human Design · Fuji Television",
@@ -6745,9 +6745,9 @@
      "v": "blue"
     }
    ],
-   "hue": 192.4,
-   "light": 0.5157,
-   "chroma": 0.6389
+   "hue": 192.33,
+   "light": 0.5086,
+   "chroma": 0.6503
   },
   {
    "id": "CRVI000130",
@@ -14513,7 +14513,7 @@
    "id": "CRVI000285",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.1217,
+   "punch": 0.1435,
    "source_url": "https://www.authenticvintageposters.com/products/fortune-ad-32",
    "animated": false,
    "video": false,
@@ -14523,10 +14523,10 @@
    "original": "originals/CRVI000285.jpg",
    "vector": "",
    "original_px": [
-    3234,
-    4175
+    2724,
+    3838
    ],
-   "original_bytes": 1507968,
+   "original_bytes": 2980981,
    "maker": "Unknown",
    "title": "Heinz Tomato Juice — We're Sorry There Aren't Enough of our kind to go 'round",
    "subtitle": "Advertisement · Fortune magazine · 1935",
@@ -14545,15 +14545,15 @@
      "v": "white"
     }
    ],
-   "hue": 356.25,
-   "light": 0.8224,
-   "chroma": 0.232
+   "hue": 356.04,
+   "light": 0.7807,
+   "chroma": 0.2774
   },
   {
    "id": "CRVI000286",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.3113,
+   "punch": 0.3957,
    "source_url": "https://www.posterist.net/products/50-years-of-bauhaus-exhibition-poster?variant=41246121230533",
    "animated": false,
    "video": false,
@@ -14563,10 +14563,10 @@
    "original": "originals/CRVI000286.jpg",
    "vector": "",
    "original_px": [
-    723,
-    1024
+    640,
+    898
    ],
-   "original_bytes": 117257,
+   "original_bytes": 228192,
    "maker": "Herbert Bayer",
    "title": "Bauhaus Exhibition Poster - 50 Years of Bauhaus",
    "subtitle": "Poster",
@@ -14589,15 +14589,15 @@
      "v": "blue"
     }
    ],
-   "hue": 212.57,
-   "light": 0.565,
-   "chroma": 0.6721
+   "hue": 212.3,
+   "light": 0.5997,
+   "chroma": 0.8286
   },
   {
    "id": "CRVI000287",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.0553,
+   "punch": 0.0721,
    "source_url": "https://www.posterist.net/products/bauhaus-exhibition-poster-by-herbert-bayer?variant=41246163927237",
    "animated": false,
    "video": false,
@@ -14607,10 +14607,10 @@
    "original": "originals/CRVI000287.jpg",
    "vector": "",
    "original_px": [
-    723,
-    1024
+    636,
+    890
    ],
-   "original_bytes": 106386,
+   "original_bytes": 200611,
    "maker": "Herbert Bayer",
    "title": "Bauhaus Exhibition Poster",
    "subtitle": "Poster",
@@ -14633,15 +14633,15 @@
      "v": "white"
     }
    ],
-   "hue": 185.08,
-   "light": 0.6579,
-   "chroma": 0.1339
+   "hue": 185.07,
+   "light": 0.7158,
+   "chroma": 0.1695
   },
   {
    "id": "CRVI000288",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.184,
+   "punch": 0.2516,
    "source_url": "https://www.posterist.net/products/eight-shadow-figures-art-print-by-utagawa-hiroshige?variant=41692907307205",
    "animated": false,
    "video": false,
@@ -14651,10 +14651,10 @@
    "original": "originals/CRVI000288.jpg",
    "vector": "",
    "original_px": [
-    723,
-    1024
+    550,
+    803
    ],
-   "original_bytes": 181285,
+   "original_bytes": 304778,
    "maker": "Utagawa Hiroshige",
    "title": "Eight Shadow Figures Art Print",
    "subtitle": "Poster",
@@ -14673,15 +14673,15 @@
      "v": "white"
     }
    ],
-   "hue": 42.3,
-   "light": 0.6905,
-   "chroma": 0.726
+   "hue": 43.06,
+   "light": 0.6418,
+   "chroma": 0.7983
   },
   {
    "id": "CRVI000289",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.171,
+   "punch": 0.2075,
    "source_url": "https://www.posterist.net/products/ikko-tanaka-art-print-faces?variant=41448996896965",
    "animated": false,
    "video": false,
@@ -14691,10 +14691,10 @@
    "original": "originals/CRVI000289.jpg",
    "vector": "",
    "original_px": [
-    723,
-    1024
+    641,
+    943
    ],
-   "original_bytes": 91362,
+   "original_bytes": 215242,
    "maker": "Ikko Tanaka",
    "title": "Faces",
    "subtitle": "Poster",
@@ -14717,9 +14717,9 @@
      "v": "neutral"
     }
    ],
-   "hue": 83.5,
-   "light": 0.5219,
-   "chroma": 0.3936
+   "hue": 83.58,
+   "light": 0.426,
+   "chroma": 0.4714
   },
   {
    "id": "CRVI000290",
@@ -31889,7 +31889,7 @@
    "id": "CRVI000613",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.2927,
+   "punch": 0.3014,
    "source_url": "https://www.moma.org/collection/works/5314",
    "animated": false,
    "video": false,
@@ -31899,10 +31899,10 @@
    "original": "originals/CRVI000613.jpg",
    "vector": "",
    "original_px": [
-    1309,
-    2000
+    1272,
+    1967
    ],
-   "original_bytes": 406137,
+   "original_bytes": 649760,
    "maker": "Ivan Chermayeff, Thomas Geismar",
    "title": "Whitney Museum of American Art, 75th & Madison, Open Free Tuesday Evenings",
    "subtitle": "Lithograph, 116.8 × 76.1 cm",
@@ -31945,9 +31945,9 @@
      "v": "blue"
     }
    ],
-   "hue": 229.83,
-   "light": 0.307,
-   "chroma": 0.9524
+   "hue": 229.76,
+   "light": 0.2907,
+   "chroma": 0.9917
   },
   {
    "id": "CRVI000614",
@@ -37213,7 +37213,7 @@
    "id": "CRVI000714",
    "published": true,
    "minted": "2026-08-26",
-   "punch": 0.2955,
+   "punch": 0.3272,
    "source_url": "https://www.itsnicethat.com/features/robert-beatty-illustration-spotlight-200726",
    "animated": false,
    "video": false,
@@ -37223,10 +37223,10 @@
    "original": "originals/CRVI000714.webp",
    "vector": "",
    "original_px": [
-    2493,
-    3468
+    2333,
+    3271
    ],
-   "original_bytes": 1325346,
+   "original_bytes": 850056,
    "maker": "Robert Beatty",
    "title": "3 Day Gallon",
    "subtitle": "Ahem Editions print",
@@ -37257,9 +37257,9 @@
      "v": "orange"
     }
    ],
-   "hue": 42.68,
-   "light": 0.6625,
-   "chroma": 0.7237
+   "hue": 42.7,
+   "light": 0.633,
+   "chroma": 0.7801
   },
   {
    "id": "CRVI000715",
@@ -41333,7 +41333,7 @@
    "id": "CRVI000791",
    "published": true,
    "minted": "2026-09-01",
-   "punch": 0.5311,
+   "punch": 0.5339,
    "source_url": "https://www.wright20.com/auctions/2018/09/paul-rand-the-art-of-design/100",
    "animated": false,
    "video": false,
@@ -41343,10 +41343,10 @@
    "original": "originals/CRVI000791.jpg",
    "vector": "",
    "original_px": [
-    983,
-    1487
+    976,
+    1466
    ],
-   "original_bytes": 301412,
+   "original_bytes": 316921,
    "maker": "Paul Rand",
    "title": "Direction Magazine exhibition poster",
    "subtitle": "Offset lithograph, 1970 printing of the 1939 design · 91.4 × 61 cm",
@@ -41381,9 +41381,9 @@
      "v": "red"
     }
    ],
-   "hue": 5.09,
-   "light": 0.5717,
-   "chroma": 0.8828
+   "hue": 5.1,
+   "light": 0.5697,
+   "chroma": 0.8816
   },
   {
    "id": "CRVI000792",
@@ -41561,7 +41561,7 @@
    "id": "CRVI000795",
    "published": true,
    "minted": "2026-09-01",
-   "punch": 0.0076,
+   "punch": 0.0066,
    "source_url": "https://whitney.org/collection/works/25093",
    "animated": false,
    "video": false,
@@ -41571,10 +41571,10 @@
    "original": "originals/CRVI000795.jpg",
    "vector": "",
    "original_px": [
-    1419,
-    2048
+    1299,
+    1932
    ],
-   "original_bytes": 509665,
+   "original_bytes": 740498,
    "maker": "Hannah Wilke",
    "title": "S.O.S. Starification Object Series (Curlers)",
    "subtitle": "Gelatin silver print · 101.6 × 68.6 cm",
@@ -41610,7 +41610,7 @@
     }
    ],
    "hue": null,
-   "light": 0.7116,
+   "light": 0.6894,
    "chroma": 0.0
   },
   {
@@ -43085,7 +43085,7 @@
    "id": "CRVI000822",
    "published": true,
    "minted": "2026-09-01",
-   "punch": 0.1356,
+   "punch": 0.1405,
    "source_url": "https://seymourchwastarchive.com/collection/color/",
    "animated": false,
    "video": false,
@@ -43095,10 +43095,10 @@
    "original": "originals/CRVI000822.jpg",
    "vector": "",
    "original_px": [
-    1150,
-    2000
+    1102,
+    1949
    ],
-   "original_bytes": 588033,
+   "original_bytes": 1198096,
    "maker": "Seymour Chwast",
    "title": "Color",
    "subtitle": "Noblet Sérigraphie · 56 × 89 cm",
@@ -43133,9 +43133,9 @@
      "v": "neutral"
     }
    ],
-   "hue": 43.42,
-   "light": 0.5302,
-   "chroma": 0.3253
+   "hue": 43.43,
+   "light": 0.5118,
+   "chroma": 0.3113
   },
   {
    "id": "CRVI000823",
@@ -53961,7 +53961,7 @@
    "id": "CRVI001041",
    "published": true,
    "minted": "2026-09-01",
-   "punch": 0.3024,
+   "punch": 0.3109,
    "source_url": "https://images.squarespace-cdn.com/content/v1/57825361440243db4a4b7830/1596936640439-Q2E24GQXHOBKJIJ75QH7/Kiyoshi+Awazu+Japanese+Design++Graphic+Designer+Painter+Japan+The+Metabolism+Film+Poster+Illustration+Ben+Shahn+Japanese+Art+Japanese+Film+Culture.jpg",
    "animated": false,
    "video": false,
@@ -53971,10 +53971,10 @@
    "original": "originals/CRVI001041.jpg",
    "vector": "",
    "original_px": [
-    1421,
-    2000
+    1381,
+    1977
    ],
-   "original_bytes": 963524,
+   "original_bytes": 2001527,
    "maker": "Kiyoshi Awazu",
    "title": "Red field with eyes and radiating fans",
    "subtitle": "",
@@ -53997,9 +53997,9 @@
      "v": "red"
     }
    ],
-   "hue": 358.66,
-   "light": 0.4211,
-   "chroma": 0.7643
+   "hue": 358.46,
+   "light": 0.4075,
+   "chroma": 0.7697
   },
   {
    "id": "CRVI001042",
@@ -54385,7 +54385,7 @@
    "id": "CRVI001050",
    "published": true,
    "minted": "2026-09-01",
-   "punch": 0.1189,
+   "punch": 0.1248,
    "source_url": "https://www.moma.org/media/W1siZiIsIjU3Njg0NyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=62e3bd3977b29600",
    "animated": false,
    "video": false,
@@ -54395,10 +54395,10 @@
    "original": "originals/CRVI001050.jpg",
    "vector": "",
    "original_px": [
-    1411,
-    2000
+    1380,
+    1944
    ],
-   "original_bytes": 305264,
+   "original_bytes": 518110,
    "maker": "Takenobu Igarashi",
    "title": "Takenobu Igarashi Exhibition 2",
    "subtitle": "Poster · The Museum of Modern Art, New York",
@@ -54422,8 +54422,8 @@
     }
    ],
    "hue": null,
-   "light": 0.5502,
-   "chroma": 0.0647
+   "light": 0.5308,
+   "chroma": 0.0727
   },
   {
    "id": "CRVI001051",
@@ -73539,10 +73539,10 @@
    "original": "originals/CRVI001400.jpg",
    "vector": "",
    "original_px": [
-    2000,
-    2667
+    1666,
+    2357
    ],
-   "original_bytes": 455604,
+   "original_bytes": 1205986,
    "maker": "Lorenza Böttner",
    "title": "Face Art",
    "subtitle": "Lorenza Böttner · 1983 · black and white photograph",
@@ -73574,7 +73574,7 @@
     }
    ],
    "hue": null,
-   "light": 0.7972,
+   "light": 0.7259,
    "chroma": 0.0
   },
   {
@@ -74569,7 +74569,7 @@
    "id": "CRVI001419",
    "published": true,
    "minted": "2026-09-05",
-   "punch": 0.0868,
+   "punch": 0.1102,
    "source_url": "https://sothebys-md.brightspotcdn.com/dims4/default/3469915/2147483647/strip/true/crop/1558x2000+0+0/resize/800x1027!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Fwebnative%2Fimages%2F60%2Fb1%2Fe18bd9884a469eb692a5eee82fd0%2Fn12062-dfn72-t2-02.jpg",
    "animated": false,
    "video": false,
@@ -74579,10 +74579,10 @@
    "original": "originals/CRVI001419.jpg",
    "vector": "",
    "original_px": [
-    800,
-    1027
+    636,
+    895
    ],
-   "original_bytes": 110560,
+   "original_bytes": 156212,
    "maker": "Unidentified",
    "title": "Two boys in the sea beside a boat",
    "subtitle": "",
@@ -74597,9 +74597,9 @@
      "v": "white"
     }
    ],
-   "hue": 36.6,
-   "light": 0.6788,
-   "chroma": 0.3098
+   "hue": 36.54,
+   "light": 0.599,
+   "chroma": 0.4445
   },
   {
    "id": "CRVI001420",
@@ -75285,7 +75285,7 @@
    "id": "CRVI001433",
    "published": true,
    "minted": "2026-09-05",
-   "punch": 0.2164,
+   "punch": 0.3165,
    "source_url": "https://letterformarchive.org/wp-content/uploads/2025/07/9798991621250_02__83256.1752712652.1280.1280.jpg",
    "animated": false,
    "video": false,
@@ -75295,10 +75295,10 @@
    "original": "originals/CRVI001433.jpg",
    "vector": "",
    "original_px": [
-    800,
-    1280
+    411,
+    1200
    ],
-   "original_bytes": 300810,
+   "original_bytes": 472059,
    "maker": "Koloman Moser",
    "title": "XIII. Ausstellung der Vereinigung Bildender Künstler Österreichs Secession",
    "subtitle": "Poster",
@@ -75329,15 +75329,15 @@
      "v": "orange"
     }
    ],
-   "hue": 34.34,
-   "light": 0.7718,
-   "chroma": 0.9192
+   "hue": 15.79,
+   "light": 0.594,
+   "chroma": 0.8751
   },
   {
    "id": "CRVI001434",
    "published": true,
    "minted": "2026-09-05",
-   "punch": 0.168,
+   "punch": 0.1791,
    "source_url": "https://www.theviennasecession.com/wp-content/uploads/2011/12/gustav-klimt-poster.jpg",
    "animated": false,
    "video": false,
@@ -75347,10 +75347,10 @@
    "original": "originals/CRVI001434.jpg",
    "vector": "",
    "original_px": [
-    1150,
-    1504
+    1013,
+    1393
    ],
-   "original_bytes": 687124,
+   "original_bytes": 886614,
    "maker": "Gustav Klimt",
    "title": "I. Kunstausstellung der Vereinigung Bildender Künstler Österreichs Secession",
    "subtitle": "Poster",
@@ -75385,9 +75385,9 @@
      "v": "neutral"
     }
    ],
-   "hue": 54.46,
-   "light": 0.6082,
-   "chroma": 0.8524
+   "hue": 54.47,
+   "light": 0.5467,
+   "chroma": 0.8216
   },
   {
    "id": "CRVI001435",
@@ -75481,7 +75481,7 @@
    "id": "CRVI001437",
    "published": true,
    "minted": "2026-09-05",
-   "punch": 0.1675,
+   "punch": 0.1756,
    "source_url": "https://neue-gallery-images.b-cdn.net/61aefe47edb105a545641bf2e3e45948c356c2c0-1626x2496.jpg",
    "animated": false,
    "video": false,
@@ -75491,10 +75491,10 @@
    "original": "originals/CRVI001437.jpg",
    "vector": "",
    "original_px": [
-    1626,
-    2496
+    1548,
+    2428
    ],
-   "original_bytes": 769168,
+   "original_bytes": 1975156,
    "maker": "Franz Karl Delavilla",
    "title": "Grosses Gartenfest: Die Tänzerin und die Marionette",
    "subtitle": "Poster",
@@ -75525,9 +75525,9 @@
      "v": "neutral"
     }
    ],
-   "hue": 8.55,
-   "light": 0.5683,
-   "chroma": 0.4408
+   "hue": 8.33,
+   "light": 0.5397,
+   "chroma": 0.4418
   },
   {
    "id": "CRVI001438",
@@ -75721,7 +75721,7 @@
    "id": "CRVI001442",
    "published": true,
    "minted": "2026-09-05",
-   "punch": 0.058,
+   "punch": 0.0738,
    "source_url": "https://www.moma.org/media/W1siZiIsIjIxMTA4NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=5db9e8bf04063537",
    "animated": false,
    "video": false,
@@ -75731,10 +75731,10 @@
    "original": "originals/CRVI001442.jpg",
    "vector": "",
    "original_px": [
-    1209,
-    2000
+    780,
+    1770
    ],
-   "original_bytes": 503939,
+   "original_bytes": 596759,
    "maker": "Joseph Maria Olbrich",
    "title": "Secession: Kunstausstellung der Vereinigung Bildender Künstler Oesterreichs",
    "subtitle": "Poster",
@@ -75766,8 +75766,8 @@
     }
    ],
    "hue": 42.46,
-   "light": 0.7868,
-   "chroma": 0.4441
+   "light": 0.7338,
+   "chroma": 0.6322
   },
   {
    "id": "CRVI001443",
@@ -83981,7 +83981,7 @@
    "id": "CRVI001598",
    "published": true,
    "minted": "2026-09-05",
-   "punch": 0.225,
+   "punch": 0.2578,
    "source_url": "https://openaccess-cdn.clevelandart.org/1968.257/1968.257_print.jpg",
    "animated": false,
    "video": false,
@@ -83991,10 +83991,10 @@
    "original": "originals/CRVI001598.jpg",
    "vector": "",
    "original_px": [
-    2529,
-    3400
+    2161,
+    3051
    ],
-   "original_bytes": 2427128,
+   "original_bytes": 2849152,
    "maker": "Théo van Rysselberghe",
    "title": "Poster for the Lembrée Gallery",
    "subtitle": "Poster",
@@ -84029,9 +84029,9 @@
      "v": "orange"
     }
    ],
-   "hue": 33.17,
-   "light": 0.5322,
-   "chroma": 0.7069
+   "hue": 18.83,
+   "light": 0.4813,
+   "chroma": 0.6784
   },
   {
    "id": "CRVI001599",
@@ -84661,7 +84661,7 @@
    "id": "CRVI001611",
    "published": true,
    "minted": "2026-09-06",
-   "punch": 0.1816,
+   "punch": 0.1961,
    "source_url": "https://openaccess-cdn.clevelandart.org/1973.1018/1973.1018_print.jpg",
    "animated": false,
    "video": false,
@@ -84671,10 +84671,10 @@
    "original": "originals/CRVI001611.jpg",
    "vector": "",
    "original_px": [
-    2493,
-    3400
+    1020,
+    2823
    ],
-   "original_bytes": 4154354,
+   "original_bytes": 2586025,
    "maker": "Alphonse Mucha",
    "title": "Lorenzaccio",
    "subtitle": "Poster",
@@ -84709,9 +84709,9 @@
      "v": "white"
     }
    ],
-   "hue": 35.43,
-   "light": 0.6678,
-   "chroma": 0.9581
+   "hue": 35.55,
+   "light": 0.4694,
+   "chroma": 0.868
   },
   {
    "id": "CRVI001612",
@@ -96029,7 +96029,7 @@
    "id": "CRVI001822",
    "published": true,
    "minted": "2026-09-06",
-   "punch": 0.1044,
+   "punch": 0.1055,
    "source_url": "https://bridget-riley.publications.britishart.yale.edu/img/figures/RS01.png",
    "animated": false,
    "video": false,
@@ -96039,10 +96039,10 @@
    "original": "originals/CRVI001822.jpg",
    "vector": "",
    "original_px": [
-    1728,
-    1920
+    1699,
+    1883
    ],
-   "original_bytes": 2575110,
+   "original_bytes": 2841503,
    "maker": "Bridget Riley",
    "title": "The Responsive Eye",
    "subtitle": "",
@@ -96085,9 +96085,9 @@
      "v": "neutral"
     }
    ],
-   "hue": 44.81,
-   "light": 0.5284,
-   "chroma": 0.1742
+   "hue": 44.77,
+   "light": 0.5238,
+   "chroma": 0.1772
   },
   {
    "id": "CRVI001823",
@@ -105213,7 +105213,7 @@
    "id": "CRVI002007",
    "published": true,
    "minted": "2026-09-06",
-   "punch": 0.0355,
+   "punch": 0.0392,
    "source_url": "https://www.christies.com/img/LotImages/2024/NYR/2024_NYR_23103_0230_000(shirin_neshat_unveiling083717).jpg?mode=max",
    "animated": false,
    "video": false,
@@ -105223,10 +105223,10 @@
    "original": "originals/CRVI002007.jpg",
    "vector": "",
    "original_px": [
-    2226,
-    3200
+    2100,
+    3076
    ],
-   "original_bytes": 1518499,
+   "original_bytes": 2212492,
    "maker": "Shirin Neshat",
    "title": "Unveiling",
    "subtitle": "",
@@ -105257,9 +105257,9 @@
      "v": "neutral"
     }
    ],
-   "hue": 2.06,
-   "light": 0.3355,
-   "chroma": 0.1561
+   "hue": 1.94,
+   "light": 0.2672,
+   "chroma": 0.1758
   },
   {
    "id": "CRVI002008",
@@ -108841,7 +108841,7 @@
    "id": "CRVI002086",
    "published": true,
    "minted": "2026-09-06",
-   "punch": 0.5826,
+   "punch": 0.6034,
    "source_url": "https://www.artic.edu/iiif/2/00c608ce-91b0-e893-8ee1-3d6fc7d806c6/full/843,/0/default.jpg",
    "animated": false,
    "video": false,
@@ -108851,10 +108851,10 @@
    "original": "originals/CRVI002086.jpg",
    "vector": "",
    "original_px": [
-    843,
-    1329
+    822,
+    1315
    ],
-   "original_bytes": 699039,
+   "original_bytes": 771662,
    "maker": "Andreas Gursky",
    "title": "Shanghai",
    "subtitle": "",
@@ -108889,9 +108889,9 @@
      "v": "yellow"
     }
    ],
-   "hue": 44.36,
-   "light": 0.4873,
-   "chroma": 0.9904
+   "hue": 44.37,
+   "light": 0.469,
+   "chroma": 0.9953
   },
   {
    "id": "CRVI002087",
@@ -111381,7 +111381,7 @@
    "id": "CRVI002140",
    "published": true,
    "minted": "2026-09-06",
-   "punch": 0.1959,
+   "punch": 0.2343,
    "source_url": "https://uploads5.wikiart.org/00324/images/matthew-barney/64479168-e9e4-4c5c-8779-9342c479ee50-1632x2040.jpeg",
    "animated": false,
    "video": false,
@@ -111391,10 +111391,10 @@
    "original": "originals/CRVI002140.jpg",
    "vector": "",
    "original_px": [
-    1240,
-    1550
+    1104,
+    1454
    ],
-   "original_bytes": 72044,
+   "original_bytes": 399049,
    "maker": "Matthew Barney",
    "title": "Untitled",
    "subtitle": "",
@@ -111421,9 +111421,9 @@
      "v": "white"
     }
    ],
-   "hue": 197.8,
-   "light": 0.6397,
-   "chroma": 0.6518
+   "hue": 197.93,
+   "light": 0.5724,
+   "chroma": 0.7583
   },
   {
    "id": "CRVI002141",
@@ -115607,10 +115607,10 @@
    "original": "originals/CRVI002225.jpg",
    "vector": "",
    "original_px": [
-    1000,
-    1309
+    956,
+    1287
    ],
-   "original_bytes": 340024,
+   "original_bytes": 584700,
    "maker": "László Moholy-Nagy",
    "title": "Oskar Schlemmer in Ascona",
    "subtitle": "",
@@ -115650,14 +115650,14 @@
     }
    ],
    "hue": null,
-   "light": 0.4874,
+   "light": 0.4585,
    "chroma": 0.0
   },
   {
    "id": "CRVI002226",
    "published": true,
    "minted": "2026-09-06",
-   "punch": 0.064,
+   "punch": 0.0647,
    "source_url": "https://uploads0.wikiart.org/images/laszlo-moholy-nagy/xanti-schawinsky-on-a-bauhaus-balcony.jpg",
    "animated": false,
    "video": false,
@@ -115667,10 +115667,10 @@
    "original": "originals/CRVI002226.jpg",
    "vector": "",
    "original_px": [
-    1196,
-    1600
+    1078,
+    1438
    ],
-   "original_bytes": 140544,
+   "original_bytes": 383254,
    "maker": "László Moholy-Nagy",
    "title": "Xanti Schawinsky on a Bauhaus Balcony",
    "subtitle": "",
@@ -115701,9 +115701,9 @@
      "v": "white"
     }
    ],
-   "hue": 42.78,
-   "light": 0.6337,
-   "chroma": 0.1319
+   "hue": null,
+   "light": 0.5977,
+   "chroma": 0.0508
   },
   {
    "id": "CRVI002227",
@@ -122065,7 +122065,7 @@
    "id": "CRVI002357",
    "published": true,
    "minted": "2026-09-07",
-   "punch": 0.6178,
+   "punch": 0.7636,
    "source_url": "https://whitneymedia.org/assets/artwork/63584/2020_148_cropped.jpg",
    "animated": false,
    "video": false,
@@ -122075,10 +122075,10 @@
    "original": "originals/CRVI002357.jpg",
    "vector": "",
    "original_px": [
-    1700,
-    2048
+    1521,
+    1828
    ],
-   "original_bytes": 367412,
+   "original_bytes": 506978,
    "maker": "Amy Sherald",
    "title": "If You Surrendered to the Air, You Could Ride It",
    "subtitle": "",
@@ -122105,9 +122105,9 @@
      "v": "cyan"
     }
    ],
-   "hue": 194.92,
-   "light": 0.5159,
-   "chroma": 0.8046
+   "hue": 194.93,
+   "light": 0.4597,
+   "chroma": 0.9821
   },
   {
    "id": "CRVI002358",
@@ -122549,7 +122549,7 @@
    "id": "CRVI002367",
    "published": true,
    "minted": "2026-09-07",
-   "punch": 0.1494,
+   "punch": 0.1549,
    "source_url": "https://phi.ca/uploads/Importation/currin-1024x1280.jpg",
    "animated": false,
    "video": false,
@@ -122559,10 +122559,10 @@
    "original": "originals/CRVI002367.jpg",
    "vector": "",
    "original_px": [
-    1024,
-    1280
+    995,
+    1241
    ],
-   "original_bytes": 331285,
+   "original_bytes": 689054,
    "maker": "John Currin",
    "title": "Rachel in Fur",
    "subtitle": "",
@@ -122589,9 +122589,9 @@
      "v": "neutral"
     }
    ],
-   "hue": 33.78,
-   "light": 0.5613,
-   "chroma": 0.5887
+   "hue": 33.79,
+   "light": 0.5521,
+   "chroma": 0.6174
   },
   {
    "id": "CRVI002368",
@@ -122893,7 +122893,7 @@
    "id": "CRVI002374",
    "published": true,
    "minted": "2026-09-07",
-   "punch": 0.1595,
+   "punch": 0.1801,
    "source_url": "https://image.invaluable.com/housePhotos/Hindman/77/730077/H0587-L299675003.jpg",
    "animated": false,
    "video": false,
@@ -122903,10 +122903,10 @@
    "original": "originals/CRVI002374.jpg",
    "vector": "",
    "original_px": [
-    4071,
-    4071
+    4040,
+    3549
    ],
-   "original_bytes": 1368203,
+   "original_bytes": 3626981,
    "maker": "Jan Sawka",
    "title": "Haloed figure at a table in a pink interior",
    "subtitle": "",
@@ -122929,9 +122929,9 @@
      "v": "white"
     }
    ],
-   "hue": 34.19,
-   "light": 0.668,
-   "chroma": 0.4766
+   "hue": 34.07,
+   "light": 0.6315,
+   "chroma": 0.5382
   },
   {
    "id": "CRVI002375",
@@ -122981,7 +122981,7 @@
    "id": "CRVI002376",
    "published": true,
    "minted": "2026-09-07",
-   "punch": 0.1235,
+   "punch": 0.1259,
    "source_url": "https://i0.wp.com/www.printmag.com/wp-content/uploads/2017/11/2a34d8_98fc64a7bf874f519ae377c5e68931demv2-scaled.jpg?resize=1000%2C1445&quality=89&ssl=1",
    "animated": false,
    "video": false,
@@ -122991,10 +122991,10 @@
    "original": "originals/CRVI002376.jpg",
    "vector": "",
    "original_px": [
-    1771,
-    2560
+    1723,
+    2498
    ],
-   "original_bytes": 667203,
+   "original_bytes": 1606521,
    "maker": "Jan Sawka",
    "title": "Figures at a table before a wall of small panels",
    "subtitle": "",
@@ -123017,9 +123017,9 @@
      "v": "neutral"
     }
    ],
-   "hue": 215.36,
-   "light": 0.3476,
-   "chroma": 0.4019
+   "hue": 215.21,
+   "light": 0.3427,
+   "chroma": 0.4249
   },
   {
    "id": "CRVI002377",
@@ -125357,7 +125357,7 @@
    "id": "CRVI002419",
    "published": true,
    "minted": "2026-09-07",
-   "punch": 0.3306,
+   "punch": 0.3332,
    "source_url": "https://www.moma.org/media/W1siZiIsIjIxMTE1NSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=7b19272150821a47",
    "animated": false,
    "video": false,
@@ -125367,10 +125367,10 @@
    "original": "originals/CRVI002419.jpg",
    "vector": "",
    "original_px": [
-    1415,
-    2000
+    1390,
+    1978
    ],
-   "original_bytes": 982048,
+   "original_bytes": 1491562,
    "maker": "Gustav Klutsis",
    "title": "Let's Fulfill the Plan of Great Works",
    "subtitle": "",
@@ -125413,9 +125413,9 @@
      "v": "red"
     }
    ],
-   "hue": 9.72,
-   "light": 0.4337,
-   "chroma": 0.7507
+   "hue": 9.6,
+   "light": 0.4283,
+   "chroma": 0.7486
   },
   {
    "id": "CRVI002420",
@@ -125533,7 +125533,7 @@
    "id": "CRVI002422",
    "published": true,
    "minted": "2026-09-07",
-   "punch": 0.2291,
+   "punch": 0.238,
    "source_url": "https://flashbackshop.com/cdn/shop/products/f909cdfba4d2420798eb31f2678bad29.jpg?v=1624282819",
    "animated": false,
    "video": false,
@@ -125543,10 +125543,10 @@
    "original": "originals/CRVI002422.jpg",
    "vector": "",
    "original_px": [
-    1350,
-    1800
+    1303,
+    1766
    ],
-   "original_bytes": 571100,
+   "original_bytes": 1352022,
    "maker": "Gustav Klutsis",
    "title": "Oppressed peoples of the whole world, under the banner of the Comintern, overthrow imperialism",
    "subtitle": "",
@@ -125589,9 +125589,9 @@
      "v": "red"
     }
    ],
-   "hue": 35.15,
-   "light": 0.6169,
-   "chroma": 0.7174
+   "hue": 35.09,
+   "light": 0.5995,
+   "chroma": 0.7148
   },
   {
    "id": "CRVI002423",
@@ -126193,7 +126193,7 @@
    "id": "CRVI002434",
    "published": true,
    "minted": "2026-09-07",
-   "punch": 0.095,
+   "punch": 0.3125,
    "source_url": "https://shop.a24films.com/products/the-invite-art-print",
    "animated": false,
    "video": false,
@@ -126203,10 +126203,10 @@
    "original": "originals/CRVI002434.jpg",
    "vector": "",
    "original_px": [
-    4000,
-    4000
+    1820,
+    2714
    ],
-   "original_bytes": 2559077,
+   "original_bytes": 5833840,
    "maker": "Allison Reimold",
    "title": "The Invite Mini Poster",
    "subtitle": "",
@@ -126237,9 +126237,9 @@
      "v": "white"
     }
    ],
-   "hue": 6.89,
-   "light": 0.7943,
-   "chroma": 0.2658
+   "hue": 6.87,
+   "light": 0.4568,
+   "chroma": 0.8655
   },
   {
    "id": "CRVI002435",
@@ -126901,7 +126901,7 @@
    "id": "CRVI002447",
    "published": true,
    "minted": "2026-09-07",
-   "punch": 0.3266,
+   "punch": 0.3643,
    "source_url": "https://sothebys-brightspot-migration.s3.amazonaws.com/24/8b/a2/d01a3c0f8d8592040e23ffa7c30c9de3d0b4e18c2e990c86b2c1cdf9f7/359pf1716-9m2ng-1.jpg",
    "animated": false,
    "video": false,
@@ -126911,10 +126911,10 @@
    "original": "originals/CRVI002447.jpg",
    "vector": "",
    "original_px": [
-    2000,
-    1363
+    1910,
+    1272
    ],
-   "original_bytes": 1206872,
+   "original_bytes": 1544071,
    "maker": "Roberto Matta",
    "title": "Ochre construction with hooked forms",
    "subtitle": "",
@@ -126941,9 +126941,9 @@
      "v": "orange"
     }
    ],
-   "hue": 38.52,
-   "light": 0.4349,
-   "chroma": 0.8387
+   "hue": 40.18,
+   "light": 0.3729,
+   "chroma": 0.9193
   },
   {
    "id": "CRVI002448",
@@ -127005,7 +127005,7 @@
    "id": "CRVI002449",
    "published": true,
    "minted": "2026-09-07",
-   "punch": 0.0813,
+   "punch": 0.0977,
    "source_url": "https://sothebys-brightspot-migration.s3.amazonaws.com/b8/b8/33/0213690226c475251142a27afdfe74407e1ec18038dee4e12085cb288c/091pf1805-9s359-1.jpg",
    "animated": false,
    "video": false,
@@ -127015,10 +127015,10 @@
    "original": "originals/CRVI002449.jpg",
    "vector": "",
    "original_px": [
-    2000,
-    1508
+    1869,
+    1324
    ],
-   "original_bytes": 1218096,
+   "original_bytes": 1463773,
    "maker": "Roberto Matta",
    "title": "Grey field with red mechanical figures",
    "subtitle": "",
@@ -127045,9 +127045,9 @@
      "v": "neutral"
     }
    ],
-   "hue": 18.38,
-   "light": 0.5294,
-   "chroma": 0.2284
+   "hue": 18.11,
+   "light": 0.4537,
+   "chroma": 0.2789
   },
   {
    "id": "CRVI002450",
@@ -132101,7 +132101,7 @@
    "id": "CRVI002538",
    "published": true,
    "minted": "2026-09-08",
-   "punch": 0.2113,
+   "punch": 0.2516,
    "source_url": "https://media.mutualart.com/Images/2022_06/08/15/153001689/5f4a68cd-9b93-48bd-886a-3434d5811747.Jpeg",
    "animated": false,
    "video": false,
@@ -132111,10 +132111,10 @@
    "original": "originals/CRVI002538.jpg",
    "vector": "",
    "original_px": [
-    1024,
-    1469
+    852,
+    1322
    ],
-   "original_bytes": 1008632,
+   "original_bytes": 654431,
    "maker": "Carl Otto Czeschka",
    "title": "New Year's Card, Wiener Werkstätte postcard No. 252",
    "subtitle": "",
@@ -132153,9 +132153,9 @@
      "v": "yellow"
     }
    ],
-   "hue": 36.43,
-   "light": 0.6871,
-   "chroma": 0.5686
+   "hue": 35.18,
+   "light": 0.6595,
+   "chroma": 0.5273
   },
   {
    "id": "CRVI002539",
@@ -140241,7 +140241,7 @@
    "id": "CRVI002671",
    "published": true,
    "minted": "2026-09-08",
-   "punch": 0.1151,
+   "punch": 0.1352,
    "source_url": "https://i.pinimg.com/originals/32/99/45/329945226ebbad7c9ef2d7c0307f43e5.jpg",
    "animated": false,
    "video": false,
@@ -140251,10 +140251,10 @@
    "original": "originals/CRVI002671.jpg",
    "vector": "",
    "original_px": [
-    1207,
-    1719
+    1098,
+    1617
    ],
-   "original_bytes": 80862,
+   "original_bytes": 258365,
    "maker": "Ikko Tanaka",
    "title": "The New Spirit of Japanese Design: Print",
    "subtitle": "",
@@ -140293,9 +140293,9 @@
      "v": "orange"
     }
    ],
-   "hue": 234.99,
-   "light": 0.7094,
-   "chroma": 0.2583
+   "hue": 235.07,
+   "light": 0.6608,
+   "chroma": 0.2994
   },
   {
    "id": "CRVI002672",
@@ -143909,7 +143909,7 @@
    "id": "CRVI002733",
    "published": true,
    "minted": "2026-09-08",
-   "punch": 0.0953,
+   "punch": 0.1361,
    "source_url": "https://uploads5.wikiart.org/00221/images/edward-ruscha/20-20-20-1962.jpg",
    "animated": false,
    "video": false,
@@ -143919,10 +143919,10 @@
    "original": "originals/CRVI002733.jpg",
    "vector": "",
    "original_px": [
-    1349,
-    1075
+    1112,
+    891
    ],
-   "original_bytes": 244792,
+   "original_bytes": 300276,
    "maker": "Ed Ruscha",
    "title": "20-20-20",
    "subtitle": "",
@@ -143949,9 +143949,9 @@
      "v": "orange"
     }
    ],
-   "hue": 36.41,
-   "light": 0.872,
-   "chroma": 0.7033
+   "hue": 36.32,
+   "light": 0.8176,
+   "chroma": 0.9996
   },
   {
    "id": "CRVI002734",
@@ -145505,7 +145505,7 @@
    "id": "CRVI002764",
    "published": true,
    "minted": "2026-09-08",
-   "punch": 0.1912,
+   "punch": 0.2154,
    "source_url": "https://www.christies.com/img/LotImages/2026/NYR/2026_NYR_24488_0037B_000(barkley_l_hendricks_jules043117).jpg?mode=max",
    "animated": false,
    "video": false,
@@ -145515,10 +145515,10 @@
    "original": "originals/CRVI002764.jpg",
    "vector": "",
    "original_px": [
-    2428,
-    3200
+    2275,
+    3024
    ],
-   "original_bytes": 1193688,
+   "original_bytes": 1788106,
    "maker": "Barkley L. Hendricks",
    "title": "Untitled (man in yellow turtleneck and denim overalls)",
    "subtitle": "",
@@ -145549,9 +145549,9 @@
      "v": "orange"
     }
    ],
-   "hue": 28.69,
-   "light": 0.3689,
-   "chroma": 0.7372
+   "hue": 28.8,
+   "light": 0.2934,
+   "chroma": 0.837
   },
   {
    "id": "CRVI002765",
@@ -146825,7 +146825,7 @@
    "id": "CRVI002789",
    "published": true,
    "minted": "2026-09-08",
-   "punch": 0.016,
+   "punch": 0.0258,
    "source_url": "https://images.squarespace-cdn.com/content/v1/5bd8e569506fbe6dc72c84b9/1614550136423-TZ8961FN4BK90TSIIFYW/Waldemar+Swierzy+-+Jazz+Jamboree+76.png?format=original",
    "animated": false,
    "video": false,
@@ -146835,10 +146835,10 @@
    "original": "originals/CRVI002789.png",
    "vector": "",
    "original_px": [
-    1000,
-    1000
+    663,
+    939
    ],
-   "original_bytes": 840728,
+   "original_bytes": 779253,
    "maker": "Waldemar Świerzy",
    "title": "Jazz Jamboree '76",
    "subtitle": "",
@@ -146870,8 +146870,8 @@
     }
    ],
    "hue": null,
-   "light": 0.196,
-   "chroma": 0.034
+   "light": 0.3138,
+   "chroma": 0.0551
   },
   {
    "id": "CRVI002790",
@@ -147449,7 +147449,7 @@
    "id": "CRVI002801",
    "published": true,
    "minted": "2026-09-08",
-   "punch": 0.171,
+   "punch": 0.3064,
    "source_url": "https://images.squarespace-cdn.com/content/v1/54c547dce4b050a35a846418/1644354269954-9QT44PJSWDTE8GRGHDVX/Instagram+_format15.jpg?format=original",
    "animated": false,
    "video": false,
@@ -147459,10 +147459,10 @@
    "original": "originals/CRVI002801.jpg",
    "vector": "",
    "original_px": [
-    2400,
-    2400
+    1432,
+    2053
    ],
-   "original_bytes": 97680,
+   "original_bytes": 168295,
    "maker": "Unattributed",
    "title": "Rosmarie Tissi | Graphic Design Master",
    "subtitle": "",
@@ -147489,9 +147489,9 @@
      "v": "cyan"
     }
    ],
-   "hue": 5.04,
-   "light": 0.5167,
-   "chroma": 0.2642
+   "hue": 5.17,
+   "light": 0.2539,
+   "chroma": 0.4896
   },
   {
    "id": "CRVI002802",
@@ -148157,7 +148157,7 @@
    "id": "CRVI002814",
    "published": true,
    "minted": "2026-09-08",
-   "punch": 0.0613,
+   "punch": 0.0664,
    "source_url": "https://media.mutualart.com/Images/2023_06/08/18/184941858/walter-dexel-das-harte-p-bild-TPZTH.Jpeg",
    "animated": false,
    "video": false,
@@ -148167,10 +148167,10 @@
    "original": "originals/CRVI002814.jpg",
    "vector": "",
    "original_px": [
-    1406,
-    2000
+    1255,
+    1852
    ],
-   "original_bytes": 656172,
+   "original_bytes": 377927,
    "maker": "Walter Dexel",
    "title": "Das harte P",
    "subtitle": "",
@@ -148201,9 +148201,9 @@
      "v": "yellow"
     }
    ],
-   "hue": 35.55,
-   "light": 0.4636,
-   "chroma": 0.3909
+   "hue": 46.87,
+   "light": 0.3771,
+   "chroma": 0.3122
   },
   {
    "id": "CRVI002815",
@@ -155917,7 +155917,7 @@
    "id": "CRVI002944",
    "published": true,
    "minted": "2026-09-10",
-   "punch": 0.116,
+   "punch": 0.1774,
    "source_url": "https://a.1stdibscdn.com/olivio-martinez-prints-works-on-paper-circa-1970-political-poster-by-olivio-martines-for-ospaaal-guinea-for-sale/a_17922/1712670300508/AP_18401_Insta_2_master.jpg?width=8000&disable=upscale",
    "animated": false,
    "video": false,
@@ -155927,10 +155927,10 @@
    "original": "originals/CRVI002944.jpg",
    "vector": "",
    "original_px": [
-    1080,
+    706,
     1080
    ],
-   "original_bytes": 111067,
+   "original_bytes": 293749,
    "maker": "Olivio Martínez",
    "title": "La Guinée / Guinea",
    "subtitle": "",
@@ -155969,15 +155969,15 @@
      "v": "orange"
     }
    ],
-   "hue": 62.3,
-   "light": 0.7198,
-   "chroma": 0.4988
+   "hue": 62.27,
+   "light": 0.5715,
+   "chroma": 0.7628
   },
   {
    "id": "CRVI002945",
    "published": true,
    "minted": "2026-09-10",
-   "punch": 0.2937,
+   "punch": 0.3171,
    "source_url": "https://eyeondesign.aiga.org/wp-content/uploads/2019/10/3-Nixon-1969-Alfredo-Rostgaard-OSPAAAL-The-Mike-Stanfield-Collection-2.jpg",
    "animated": false,
    "video": false,
@@ -155987,10 +155987,10 @@
    "original": "originals/CRVI002945.jpg",
    "vector": "",
    "original_px": [
-    1200,
-    1806
+    1128,
+    1748
    ],
-   "original_bytes": 1354702,
+   "original_bytes": 1159041,
    "maker": "Alfredo Rostgaard",
    "title": "Nixon",
    "subtitle": "",
@@ -156029,9 +156029,9 @@
      "v": "red"
     }
    ],
-   "hue": 4.93,
-   "light": 0.5094,
-   "chroma": 0.811
+   "hue": 4.77,
+   "light": 0.4648,
+   "chroma": 0.8586
   },
   {
    "id": "CRVI002946",
@@ -161269,7 +161269,7 @@
    "id": "CRVI003034",
    "published": true,
    "minted": "2026-09-10",
-   "punch": 0.2514,
+   "punch": 0.4028,
    "source_url": "https://64.media.tumblr.com/a4fce34758410108fad06fc08086e76c/207623f79a90f10e-db/s1280x1920/26b8d5066d54cba83c88d7e057172b9140bdc2e1.jpg",
    "animated": false,
    "video": false,
@@ -161279,10 +161279,10 @@
    "original": "originals/CRVI003034.jpg",
    "vector": "",
    "original_px": [
-    1280,
-    1920
+    1055,
+    1442
    ],
-   "original_bytes": 833275,
+   "original_bytes": 1074339,
    "maker": "Sadao Hasegawa",
    "title": "Untitled",
    "subtitle": "",
@@ -161309,9 +161309,9 @@
      "v": "cyan"
     }
    ],
-   "hue": 196.32,
-   "light": 0.5978,
-   "chroma": 0.5951
+   "hue": 196.22,
+   "light": 0.3763,
+   "chroma": 0.9357
   },
   {
    "id": "CRVI003035",
@@ -161473,7 +161473,7 @@
    "id": "CRVI003038",
    "published": true,
    "minted": "2026-09-10",
-   "punch": 0.4577,
+   "punch": 0.5143,
    "source_url": "https://www.thebroad.org/sites/default/files/art/golub_mercenaries_iii.jpg",
    "animated": false,
    "video": false,
@@ -161483,10 +161483,10 @@
    "original": "originals/CRVI003038.jpg",
    "vector": "",
    "original_px": [
-    1813,
-    1080
+    1693,
+    982
    ],
-   "original_bytes": 476867,
+   "original_bytes": 531450,
    "maker": "Leon Golub",
    "title": "Mercenaries III",
    "subtitle": "",
@@ -161517,15 +161517,15 @@
      "v": "orange"
     }
    ],
-   "hue": 15.09,
-   "light": 0.5294,
-   "chroma": 0.7862
+   "hue": 15.21,
+   "light": 0.4776,
+   "chroma": 0.8575
   },
   {
    "id": "CRVI003039",
    "published": true,
    "minted": "2026-09-10",
-   "punch": 0.0815,
+   "punch": 0.0826,
    "source_url": "https://www.thebroad.org/sites/default/files/art/golub_interrogation_iii.jpg",
    "animated": false,
    "video": false,
@@ -161535,10 +161535,10 @@
    "original": "originals/CRVI003039.jpg",
    "vector": "",
    "original_px": [
-    1412,
-    1080
+    1304,
+    934
    ],
-   "original_bytes": 580894,
+   "original_bytes": 560007,
    "maker": "Leon Golub",
    "title": "Interrogation III",
    "subtitle": "",
@@ -161569,15 +161569,15 @@
      "v": "orange"
     }
    ],
-   "hue": 47.56,
-   "light": 0.5864,
-   "chroma": 0.2097
+   "hue": 47.55,
+   "light": 0.6055,
+   "chroma": 0.2322
   },
   {
    "id": "CRVI003040",
    "published": true,
    "minted": "2026-09-10",
-   "punch": 0.0616,
+   "punch": 0.0641,
    "source_url": "https://www.theparisreview.org/blog/wp-content/uploads/2015/06/golub69508.jpg",
    "animated": false,
    "video": false,
@@ -161587,10 +161587,10 @@
    "original": "originals/CRVI003040.jpg",
    "vector": "",
    "original_px": [
-    2835,
-    2202
+    2667,
+    2089
    ],
-   "original_bytes": 1928868,
+   "original_bytes": 2472517,
    "maker": "Leon Golub",
    "title": "painting",
    "subtitle": "",
@@ -161613,9 +161613,9 @@
      "v": "blue"
     }
    ],
-   "hue": 225.67,
-   "light": 0.5172,
-   "chroma": 0.1019
+   "hue": null,
+   "light": 0.5017,
+   "chroma": 0.0951
   },
   {
    "id": "CRVI003041",
@@ -162629,7 +162629,7 @@
    "id": "CRVI003061",
    "published": true,
    "minted": "2026-09-11",
-   "punch": 0.0437,
+   "punch": 0.0537,
    "source_url": "https://garthgreenan.com/wp-content/uploads/2026/08/HASPP002-hi-res.jpg",
    "animated": false,
    "video": false,
@@ -162639,10 +162639,10 @@
    "original": "originals/CRVI003061.jpg",
    "vector": "",
    "original_px": [
-    1737,
-    2000
+    1533,
+    1815
    ],
-   "original_bytes": 379189,
+   "original_bytes": 827466,
    "maker": "Sadao Hasegawa",
    "title": "untitled",
    "subtitle": "",
@@ -162665,15 +162665,15 @@
      "v": "yellow"
     }
    ],
-   "hue": 44.71,
-   "light": 0.4752,
-   "chroma": 0.1413
+   "hue": 44.69,
+   "light": 0.3648,
+   "chroma": 0.1746
   },
   {
    "id": "CRVI003062",
    "published": true,
    "minted": "2026-09-11",
-   "punch": 0.1118,
+   "punch": 0.1384,
    "source_url": "https://garthgreenan.com/wp-content/uploads/2026/08/HASPP040-hi-res.jpg",
    "animated": false,
    "video": false,
@@ -162683,10 +162683,10 @@
    "original": "originals/CRVI003062.jpg",
    "vector": "",
    "original_px": [
-    1474,
-    2000
+    1265,
+    1792
    ],
-   "original_bytes": 351595,
+   "original_bytes": 779850,
    "maker": "Sadao Hasegawa",
    "title": "untitled",
    "subtitle": "",
@@ -162713,9 +162713,9 @@
      "v": "yellow"
     }
    ],
-   "hue": 45.0,
-   "light": 0.8029,
-   "chroma": 0.6738
+   "hue": 44.92,
+   "light": 0.7579,
+   "chroma": 0.7965
   },
   {
    "id": "CRVI003063",
@@ -163161,7 +163161,7 @@
    "id": "CRVI003071",
    "published": true,
    "minted": "2026-09-11",
-   "punch": 0.2672,
+   "punch": 0.4199,
    "source_url": "https://www.culturedmag.com/article/2023/09/15/filmmaker-harmony-korine",
    "animated": false,
    "video": false,
@@ -163171,10 +163171,10 @@
    "original": "originals/CRVI003071.jpeg",
    "vector": "",
    "original_px": [
-    1296,
-    1747
+    948,
+    1394
    ],
-   "original_bytes": 561714,
+   "original_bytes": 477441,
    "maker": "Harmony Korine",
    "title": "Untitled",
    "subtitle": "from AGGRESSIVE DR1FTER",
@@ -163209,9 +163209,9 @@
      "v": "red"
     }
    ],
-   "hue": 3.76,
-   "light": 0.6591,
-   "chroma": 0.7146
+   "hue": 3.43,
+   "light": 0.5299,
+   "chroma": 0.9543
   },
   {
    "id": "CRVI003072",
@@ -164649,7 +164649,7 @@
    "id": "CRVI003101",
    "published": true,
    "minted": "2026-09-11",
-   "punch": 0.1453,
+   "punch": 0.1721,
    "source_url": "https://www.mutualart.com/Artwork/Der-Auserwahlte/0C4F2AFE744A6E56E6276010307AA3AE",
    "animated": false,
    "video": false,
@@ -164659,10 +164659,10 @@
    "original": "originals/CRVI003101.jpeg",
    "vector": "",
    "original_px": [
-    1497,
-    2000
+    1275,
+    1821
    ],
-   "original_bytes": 1277858,
+   "original_bytes": 746985,
    "maker": "Konrad Klapheck",
    "title": "Der Auserwählte",
    "subtitle": "",
@@ -164693,9 +164693,9 @@
      "v": "red"
     }
    ],
-   "hue": 44.15,
-   "light": 0.7735,
-   "chroma": 0.9088
+   "hue": 44.43,
+   "light": 0.7403,
+   "chroma": 0.8818
   },
   {
    "id": "CRVI003102",
@@ -168097,7 +168097,7 @@
    "id": "CRVI003171",
    "published": true,
    "minted": "2026-09-11",
-   "punch": 0.2179,
+   "punch": 0.2427,
    "source_url": "https://www.mutualart.com/Artwork/Permutation/0F2385DBE8C5FD15F3A0F15D5F59CB3C",
    "animated": false,
    "video": false,
@@ -168107,10 +168107,10 @@
    "original": "originals/CRVI003171.jpeg",
    "vector": "",
    "original_px": [
-    1970,
-    2000
+    1819,
+    1826
    ],
-   "original_bytes": 1635013,
+   "original_bytes": 567499,
    "maker": "Camille Graeser",
    "title": "Permutation",
    "subtitle": "",
@@ -168141,15 +168141,15 @@
      "v": "red"
     }
    ],
-   "hue": 215.04,
-   "light": 0.5735,
-   "chroma": 0.4795
+   "hue": 215.0,
+   "light": 0.5292,
+   "chroma": 0.4922
   },
   {
    "id": "CRVI003172",
    "published": true,
    "minted": "2026-09-11",
-   "punch": 0.6855,
+   "punch": 0.7622,
    "source_url": "https://www.mutualart.com/Artwork/Translokation/A3148355C334331142634C0C2D71B50E",
    "animated": false,
    "video": false,
@@ -168159,10 +168159,10 @@
    "original": "originals/CRVI003172.jpeg",
    "vector": "",
    "original_px": [
-    1925,
-    2000
+    1845,
+    1820
    ],
-   "original_bytes": 1367473,
+   "original_bytes": 498128,
    "maker": "Camille Graeser",
    "title": "Translokation",
    "subtitle": "",
@@ -168193,9 +168193,9 @@
      "v": "red"
     }
    ],
-   "hue": 54.83,
-   "light": 0.5712,
-   "chroma": 0.9777
+   "hue": 54.99,
+   "light": 0.5291,
+   "chroma": 0.9982
   },
   {
    "id": "CRVI003173",
@@ -169065,7 +169065,7 @@
    "id": "CRVI003190",
    "published": true,
    "minted": "2026-09-11",
-   "punch": 0.2372,
+   "punch": 0.4883,
    "source_url": "https://pittsboroarts.org/andrew-wilson",
    "animated": false,
    "video": false,
@@ -169075,10 +169075,10 @@
    "original": "originals/CRVI003190.jpg",
    "vector": "",
    "original_px": [
-    2500,
-    3438
+    1400,
+    2890
    ],
-   "original_bytes": 1085513,
+   "original_bytes": 1906533,
    "maker": "Andrew Wilson",
    "title": "Sunshine",
    "subtitle": "",
@@ -169105,9 +169105,9 @@
      "v": "yellow"
     }
    ],
-   "hue": 42.01,
-   "light": 0.6221,
-   "chroma": 0.4923
+   "hue": 42.03,
+   "light": 0.4923,
+   "chroma": 0.9969
   },
   {
    "id": "CRVI003191",
@@ -170049,7 +170049,7 @@
    "id": "CRVI003210",
    "published": true,
    "minted": "2026-09-11",
-   "punch": 0.4562,
+   "punch": 0.5386,
    "source_url": "https://fadmagazine.com/2025/02/11/legendary-swiss-concrete-artist-graphic-designer-richard-paul-lohse-gets-exhibition/lohsr137519-hires/",
    "animated": false,
    "video": false,
@@ -170059,10 +170059,10 @@
    "original": "originals/CRVI003210.jpg",
    "vector": "",
    "original_px": [
-    2000,
-    1964
+    1814,
+    1814
    ],
-   "original_bytes": 839947,
+   "original_bytes": 950492,
    "maker": "Richard Paul Lohse",
    "title": "30 vertikale systematische Farbreihen mit roten Diagonalen",
    "subtitle": "",
@@ -170089,9 +170089,9 @@
      "v": "green"
     }
    ],
-   "hue": 43.84,
-   "light": 0.567,
-   "chroma": 0.841
+   "hue": 43.76,
+   "light": 0.4996,
+   "chroma": 0.9729
   },
   {
    "id": "CRVI003211",
@@ -170145,7 +170145,7 @@
    "id": "CRVI003212",
    "published": true,
    "minted": "2026-09-11",
-   "punch": 0.5649,
+   "punch": 0.6498,
    "source_url": "https://www.mutualart.com/Artwork/Landschaft-mit-Liegestuhl/4D052D33D0E34081C5FA25EB22C4B45E",
    "animated": false,
    "video": false,
@@ -170155,10 +170155,10 @@
    "original": "originals/CRVI003212.jpeg",
    "vector": "",
    "original_px": [
-    1096,
-    1500
+    1001,
+    1402
    ],
-   "original_bytes": 226840,
+   "original_bytes": 254599,
    "maker": "Uwe Lausen",
    "title": "Landschaft mit Liegestuhl",
    "subtitle": "",
@@ -170189,9 +170189,9 @@
      "v": "blue"
     }
    ],
-   "hue": 124.95,
-   "light": 0.4622,
-   "chroma": 0.8712
+   "hue": 124.96,
+   "light": 0.3983,
+   "chroma": 0.9802
   },
   {
    "id": "CRVI003213",
@@ -170301,7 +170301,7 @@
    "id": "CRVI003215",
    "published": true,
    "minted": "2026-09-11",
-   "punch": 0.2533,
+   "punch": 0.3428,
    "source_url": "https://www.mutualart.com/Artwork/Ohne-Titel/EDD1707B136ACE08",
    "animated": false,
    "video": false,
@@ -170311,10 +170311,10 @@
    "original": "originals/CRVI003215.jpeg",
    "vector": "",
    "original_px": [
-    1300,
-    1240
+    1094,
+    1092
    ],
-   "original_bytes": 472261,
+   "original_bytes": 233143,
    "maker": "Verena Loewensberg",
    "title": "Ohne Titel",
    "subtitle": "",
@@ -170345,9 +170345,9 @@
      "v": "red"
     }
    ],
-   "hue": 43.86,
-   "light": 0.7204,
-   "chroma": 0.4799
+   "hue": 44.09,
+   "light": 0.6283,
+   "chroma": 0.6312
   },
   {
    "id": "CRVI003216",
@@ -170995,10 +170995,10 @@
    "original": "originals/CRVI003229.jpg",
    "vector": "",
    "original_px": [
-    1438,
-    2000
+    1436,
+    1964
    ],
-   "original_bytes": 192108,
+   "original_bytes": 539921,
    "maker": "Vera Molnár",
    "title": "Untitled",
    "subtitle": "",
@@ -171026,7 +171026,7 @@
     }
    ],
    "hue": null,
-   "light": 0.4633,
+   "light": 0.4637,
    "chroma": 0.0
   },
   {
