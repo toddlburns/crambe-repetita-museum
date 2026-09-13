@@ -11252,7 +11252,7 @@
    ],
    "original_bytes": 346610,
    "identity": "NYT Kusama::Kusama painting, Tokyo (2017)",
-   "maker": "Motohiko Hasui",
+   "maker": "Yayoi Kusama",
    "title": "Kusama painting, Tokyo",
    "subtitle": "Photograph by Motohiko Hasui · at the media preview of the Yayoi Kusama Museum",
    "year": "2017",
@@ -11273,6 +11273,10 @@
    ],
    "tags": [
     {
+     "k": "artist",
+     "v": "Yayoi Kusama"
+    },
+    {
      "k": "type",
      "v": "photograph"
     },
@@ -11291,15 +11295,11 @@
     {
      "k": "location",
      "v": "Japan"
-    },
-    {
-     "k": "motif",
-     "v": "artist with their work"
     }
    ],
    "identity_established": true,
    "published": true,
-   "verification": "Caption and credit read directly off the New York Times feature 'Yayoi Kusama: A Life in Pictures' (27 August 2026), from Todd's own screenshots of it. Captioned 'Kusama at a 2017 media preview of the Tokyo museum that bears her name', credited 'Motohiko Hasui for The New York Times'. ⚠️ ADDED to motif:'artist with their work' and MAKER CORRECTED 2026-09-13. The Times names the photographer — Motohiko Hasui — so the photograph is his and Kusama is its subject.",
+   "verification": "Caption and credit read directly off the New York Times feature 'Yayoi Kusama: A Life in Pictures' (27 August 2026), from Todd's own screenshots of it. Captioned 'Kusama at a 2017 media preview of the Tokyo museum that bears her name', credited 'Motohiko Hasui for The New York Times'.",
    "hue": 194.71,
    "light": 0.4676,
    "chroma": 0.5982,
@@ -167449,7 +167449,7 @@
    "original_bytes": 59832,
    "identity": "sent-2026-09-08i::816306d1d841",
    "source_url": "https://i.pinimg.com/originals/f4/83/1b/f4831b8744eed3a931c6a32f933541d0.jpg",
-   "maker": "Unknown",
+   "maker": "Achille Castiglioni and Pier Giacomo Castiglioni",
    "title": "Arco floor lamp",
    "subtitle": "",
    "year": "1962",
@@ -167474,6 +167474,14 @@
      "v": "1960s"
     },
     {
+     "k": "designer",
+     "v": "Achille Castiglioni"
+    },
+    {
+     "k": "designer",
+     "v": "Pier Giacomo Castiglioni"
+    },
+    {
      "k": "client",
      "v": "Flos"
     },
@@ -167484,23 +167492,11 @@
     {
      "k": "location",
      "v": "Italy"
-    },
-    {
-     "k": "motif",
-     "v": "artist with their work"
-    },
-    {
-     "k": "subject",
-     "v": "Achille Castiglioni"
-    },
-    {
-     "k": "subject",
-     "v": "Pier Giacomo Castiglioni"
     }
    ],
    "identity_established": true,
    "published": true,
-   "verification": "Google Lens resolves the lamp to the ARCO, designed by ACHILLE AND PIER GIACOMO CASTIGLIONI in 1962 for FLOS — the steel arc on a Carrara marble base, made so a table could be lit from above without drilling the ceiling. ⚠️ THIS IS A PHOTOGRAPH OF THE DESIGNERS WITH IT, not a product shot: a man in a suit crouches beneath the arc in a white corner. ⚠️ THE PHOTOGRAPHER IS NOT ESTABLISHED, and which of the two brothers is pictured is not either — the file is a bare Pinterest original. ⚠️ ADDED to motif:'artist with their work' 2026-09-13. The record already said this is a photograph OF THE DESIGNERS with the lamp rather than a product shot, so the maker is the (unnamed) photographer and the Castiglionis are the subject.",
+   "verification": "Google Lens resolves the lamp to the ARCO, designed by ACHILLE AND PIER GIACOMO CASTIGLIONI in 1962 for FLOS — the steel arc on a Carrara marble base, made so a table could be lit from above without drilling the ceiling. ⚠️ THIS IS A PHOTOGRAPH OF THE DESIGNERS WITH IT, not a product shot: a man in a suit crouches beneath the arc in a white corner. ⚠️ THE PHOTOGRAPHER IS NOT ESTABLISHED, and which of the two brothers is pictured is not either — the file is a bare Pinterest original.",
    "hue": null,
    "light": 0.7226,
    "chroma": 0.0009,
@@ -199980,15 +199976,11 @@
     {
      "k": "motif",
      "v": "portrait"
-    },
-    {
-     "k": "motif",
-     "v": "artist with their work"
     }
    ],
    "identity_established": true,
    "published": true,
-   "verification": "Picked by Todd off the Yousuf Karsh deep contact sheet, 2026-09-13. Source: karsh.org. WP suffix stripped 1559x1960 -> 1591x2000 Measured at 1591x2000 before minting and screened against the archive for duplicates. ⚠️ ADDED to motif:'artist with their work' 2026-09-13 — Karsh holds one of his own negatives up to the light. Maker stays Karsh: it is his self-portrait, so the photographer and the artist are one person.",
+   "verification": "Picked by Todd off the Yousuf Karsh deep contact sheet, 2026-09-13. Source: karsh.org. WP suffix stripped 1559x1960 -> 1591x2000 Measured at 1591x2000 before minting and screened against the archive for duplicates.",
    "hue": null,
    "light": 0.2682,
    "chroma": 0.0,
@@ -202726,6 +202718,10 @@
    ],
    "tags": [
     {
+     "k": "type",
+     "v": "collage"
+    },
+    {
      "k": "location",
      "v": "Italy"
     },
@@ -202740,15 +202736,11 @@
     {
      "k": "subject",
      "v": "Superstudio"
-    },
-    {
-     "k": "type",
-     "v": "photograph"
     }
    ],
    "identity_established": true,
    "published": true,
-   "verification": "Picked by Todd off the Superstudio deep contact sheet, 2026-09-13. Source: various. Measured at 1138x1005 before minting and screened against the archive for duplicates. ⚠️ TYPE CORRECTED 2026-09-13: this is a PHOTOGRAPH — three men in suits on a pink modular sofa — not a collage. ⚠️ NOT tagged motif:'artist with their work': the sitters are very probably Superstudio members with their own furniture, but archinect publishes the picture with no caption and nothing establishes who they are, so the claim is not made.",
+   "verification": "Picked by Todd off the Superstudio deep contact sheet, 2026-09-13. Source: various. Measured at 1138x1005 before minting and screened against the archive for duplicates.",
    "hue": 345.47,
    "light": 0.3367,
    "chroma": 0.4881,

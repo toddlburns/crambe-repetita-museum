@@ -11187,15 +11187,11 @@
     761
    ],
    "original_bytes": 346610,
-   "maker": "Yayoi Kusama",
+   "maker": "Motohiko Hasui",
    "title": "Kusama painting, Tokyo",
    "subtitle": "Photograph by Motohiko Hasui · at the media preview of the Yayoi Kusama Museum",
    "year": "2017",
    "tags": [
-    {
-     "k": "artist",
-     "v": "Yayoi Kusama"
-    },
     {
      "k": "type",
      "v": "photograph"
@@ -11215,6 +11211,10 @@
     {
      "k": "location",
      "v": "Japan"
+    },
+    {
+     "k": "motif",
+     "v": "artist with their work"
     },
     {
      "k": "color",
@@ -142335,7 +142335,7 @@
     1196
    ],
    "original_bytes": 59832,
-   "maker": "Achille Castiglioni and Pier Giacomo Castiglioni",
+   "maker": "Unknown",
    "title": "Arco floor lamp",
    "subtitle": "",
    "year": "1962",
@@ -142349,14 +142349,6 @@
      "v": "1960s"
     },
     {
-     "k": "designer",
-     "v": "Achille Castiglioni"
-    },
-    {
-     "k": "designer",
-     "v": "Pier Giacomo Castiglioni"
-    },
-    {
      "k": "client",
      "v": "Flos"
     },
@@ -142367,6 +142359,18 @@
     {
      "k": "location",
      "v": "Italy"
+    },
+    {
+     "k": "motif",
+     "v": "artist with their work"
+    },
+    {
+     "k": "subject",
+     "v": "Achille Castiglioni"
+    },
+    {
+     "k": "subject",
+     "v": "Pier Giacomo Castiglioni"
     },
     {
      "k": "color",
@@ -172577,6 +172581,10 @@
      "v": "portrait"
     },
     {
+     "k": "motif",
+     "v": "artist with their work"
+    },
+    {
      "k": "color",
      "v": "neutral"
     }
@@ -175401,10 +175409,6 @@
    "year": "",
    "tags": [
     {
-     "k": "type",
-     "v": "collage"
-    },
-    {
      "k": "location",
      "v": "Italy"
     },
@@ -175419,6 +175423,10 @@
     {
      "k": "subject",
      "v": "Superstudio"
+    },
+    {
+     "k": "type",
+     "v": "photograph"
     },
     {
      "k": "color",
