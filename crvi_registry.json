@@ -114254,10 +114254,10 @@
    "display": "originals/CRVI001839.jpg",
    "frames": 2,
    "original_px": [
-    2278,
-    2269
+    1869,
+    1870
    ],
-   "original_bytes": 2439615,
+   "original_bytes": 2282731,
    "identity": "sent-2026-09-05::b105e3141052",
    "source_url": "https://images.composition.gallery/59364/carlos-cruz-diez-chromointerference-la-difference-signed-card-mixed-media-available-for-sale-on-composition-gallery1705587210-28728.jpg",
    "maker": "Carlos Cruz-Diez",
@@ -114297,10 +114297,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Composition Gallery, whose file name gives Cruz-Diez and Chromointerference. The date is not established here.",
-   "hue": 181.74,
-   "light": 0.4917,
-   "chroma": 0.4853,
-   "punch": 0.1147
+   "hue": 183.9,
+   "light": 0.3098,
+   "chroma": 0.6589,
+   "punch": 0.1656,
+   "crop": {
+    "box": [
+     189.3793036600497,
+     176.09795673076928,
+     2058,
+     2046
+    ],
+    "was": [
+     2278,
+     2269
+    ],
+    "now": [
+     1869,
+     1870
+    ],
+    "uncropped": "originals_uncropped/CRVI001839.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::646299f6a8c4": {
    "id": "CRVI001840",
@@ -114625,10 +114643,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI001846.jpg",
    "original_px": [
-    914,
-    1250
+    844,
+    1169
    ],
-   "original_bytes": 552389,
+   "original_bytes": 840536,
    "identity": "sent-2026-09-05::6862fbbeab20",
    "source_url": "https://pictures.abebooks.com/inventory/10552901506.jpg",
    "maker": "Unidentified",
@@ -114660,10 +114678,28 @@
    "identity_established": true,
    "published": true,
    "verification": "An image with no artist named anywhere in its URL or file name. Op Art in manner and arriving in a batch of it, but painter, title and date are all unestablished. An AbeBooks inventory image whose file name is only a stock number.",
-   "hue": 195.64,
-   "light": 0.3613,
-   "chroma": 0.6902,
-   "punch": 0.2998
+   "hue": 195.59,
+   "light": 0.3317,
+   "chroma": 0.8072,
+   "punch": 0.3492,
+   "crop": {
+    "box": [
+     35,
+     39,
+     879,
+     1208
+    ],
+    "was": [
+     914,
+     1250
+    ],
+    "now": [
+     844,
+     1169
+    ],
+    "uncropped": "originals_uncropped/CRVI001846.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::a10b5c95c0e6": {
    "id": "CRVI001847",
@@ -115154,10 +115190,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI001857.jpg",
    "original_px": [
-    1998,
-    2000
+    1866,
+    1883
    ],
-   "original_bytes": 815126,
+   "original_bytes": 1184515,
    "identity": "sent-2026-09-05::412999de7bd2",
    "source_url": "https://www.moma.org/media/W1siZiIsIjMwNDk4OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=2e9acb4b6404a002",
    "maker": "Unidentified",
@@ -115189,9 +115225,27 @@
    "published": true,
    "verification": "Held by the Museum of Modern Art, New York, whose media server this file comes from. The MoMA media id does not resolve to an artist without the object record, and none was reachable; maker, title and date unestablished.",
    "hue": null,
-   "light": 0.5108,
-   "chroma": 0.0021,
-   "punch": 0.0158
+   "light": 0.4525,
+   "chroma": 0.0001,
+   "punch": 0.015,
+   "crop": {
+    "box": [
+     70,
+     55,
+     1936,
+     1938
+    ],
+    "was": [
+     1998,
+     2000
+    ],
+    "now": [
+     1866,
+     1883
+    ],
+    "uncropped": "originals_uncropped/CRVI001857.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::fa7111573083": {
    "id": "CRVI001858",
@@ -115985,10 +116039,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI001871.jpg",
    "original_px": [
-    2048,
-    2044
+    1982,
+    1958
    ],
-   "original_bytes": 2772778,
+   "original_bytes": 4349191,
    "identity": "sent-2026-09-05::d8438693d4a7",
    "source_url": "https://whitneymedia.org/assets/artwork/10072/95_167_cropped.jpg",
    "maker": "Unidentified",
@@ -116024,10 +116078,28 @@
    "identity_established": true,
    "published": true,
    "verification": "A Whitney Museum of American Art asset (accession 95.167 is carried in the file name, 95_167_cropped). The artist is NOT established here — the accession number is all the file gives, and no object record was reached.",
-   "hue": 44.31,
-   "light": 0.4395,
-   "chroma": 0.6255,
-   "punch": 0.2108
+   "hue": 44.57,
+   "light": 0.4057,
+   "chroma": 0.6633,
+   "punch": 0.227,
+   "crop": {
+    "box": [
+     37,
+     46,
+     2019,
+     2004
+    ],
+    "was": [
+     2048,
+     2044
+    ],
+    "now": [
+     1982,
+     1958
+    ],
+    "uncropped": "originals_uncropped/CRVI001871.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::b99fbb286737": {
    "id": "CRVI001872",
@@ -118060,10 +118132,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI001906.jpg",
    "original_px": [
-    1440,
-    1800
+    962,
+    1173
    ],
-   "original_bytes": 272435,
+   "original_bytes": 310786,
    "identity": "sent-2026-09-05::558753824efd",
    "source_url": "https://sfeir-semler.com/media/pages/exhibitions/robert-barry-works-from-19642024-10864/079ff4a9d4-1750869841/2409_sfeir_semler_batniji_barry_048-1440x.jpg",
    "maker": "Robert Barry",
@@ -118102,10 +118174,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Sfeir-Semler Gallery, from their exhibition 'Robert Barry: Works from 1964–2024', which is named in the file's own path. The individual work's title and date are NOT established here.",
-   "hue": 155.01,
-   "light": 0.6592,
-   "chroma": 0.4585,
-   "punch": 0.271
+   "hue": 155.0,
+   "light": 0.3243,
+   "chroma": 0.9953,
+   "punch": 0.6062,
+   "crop": {
+    "box": [
+     241,
+     303,
+     1203,
+     1476
+    ],
+    "was": [
+     1440,
+     1800
+    ],
+    "now": [
+     962,
+     1173
+    ],
+    "uncropped": "originals_uncropped/CRVI001906.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::e5f229a4da83": {
    "id": "CRVI001907",
@@ -118881,10 +118971,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI001920.jpg",
    "original_px": [
-    1500,
-    2000
+    1420,
+    1835
    ],
-   "original_bytes": 256178,
+   "original_bytes": 619192,
    "identity": "sent-2026-09-05::132df9447195",
    "source_url": "https://i.etsystatic.com/14675669/r/il/496d13/1915017806/il_fullxfull.1915017806_9pkm.jpg",
    "maker": "Unidentified",
@@ -118911,10 +119001,28 @@
    "identity_established": true,
    "published": true,
    "verification": "An Etsy listing image with no artist named in the URL. ⚠️ It arrived in a batch of Ana Mendieta but is a PAINTING of a standing woman, not one of her earth-body works, and nothing connects it to her. Maker, title and date all unestablished.",
-   "hue": 71.02,
-   "light": 0.742,
-   "chroma": 0.7726,
-   "punch": 0.1337
+   "hue": 71.05,
+   "light": 0.7032,
+   "chroma": 0.8748,
+   "punch": 0.1537,
+   "crop": {
+    "box": [
+     40,
+     83,
+     1460,
+     1918
+    ],
+    "was": [
+     1500,
+     2000
+    ],
+    "now": [
+     1420,
+     1835
+    ],
+    "uncropped": "originals_uncropped/CRVI001920.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::075134312d2e": {
    "id": "CRVI001921",
@@ -119333,10 +119441,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI001928.jpg",
    "original_px": [
-    1042,
-    1536
+    986,
+    1487
    ],
-   "original_bytes": 456538,
+   "original_bytes": 1054107,
    "identity": "sent-2026-09-05::22faaca742e8",
    "source_url": "https://uploads7.wikiart.org/00225/images/anselm-kiefer/urd-verdandi-skuld-the-norns-1983.jpg",
    "maker": "Anselm Kiefer",
@@ -119379,16 +119487,34 @@
    "identity_established": true,
    "published": true,
    "verification": "WikiArt, under Anselm Kiefer, dated 1983.",
-   "hue": 33.75,
-   "light": 0.3441,
-   "chroma": 0.2519,
-   "punch": 0.0795,
+   "hue": 32.38,
+   "light": 0.2978,
+   "chroma": 0.2542,
+   "punch": 0.0818,
    "extra_tags": [
     {
      "k": "movement",
      "v": "Neo-Expressionism"
     }
-   ]
+   ],
+   "crop": {
+    "box": [
+     28,
+     17,
+     1014,
+     1504
+    ],
+    "was": [
+     1042,
+     1536
+    ],
+    "now": [
+     986,
+     1487
+    ],
+    "uncropped": "originals_uncropped/CRVI001928.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::f32d118ab073": {
    "id": "CRVI001929",
@@ -119568,10 +119694,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI001932.jpg",
    "original_px": [
-    3249,
-    3376
+    3148,
+    3190
    ],
-   "original_bytes": 2860454,
+   "original_bytes": 3387186,
    "identity": "sent-2026-09-05::76ef398e6076",
    "source_url": "https://rubinmuseum.org/wp-content/uploads/exhibitions/francesco-clemente/Francisco-Clemente.jpg",
    "maker": "Francesco Clemente",
@@ -119612,10 +119738,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Rubin Museum of Art, from its Francesco Clemente exhibition — the artist's name is in the file's own path. The individual work's title and date are NOT established here.",
-   "hue": 196.13,
-   "light": 0.5704,
-   "chroma": 0.8575,
-   "punch": 0.4324
+   "hue": 195.94,
+   "light": 0.5658,
+   "chroma": 0.8666,
+   "punch": 0.4506,
+   "crop": {
+    "box": [
+     66,
+     67,
+     3214,
+     3257
+    ],
+    "was": [
+     3249,
+     3376
+    ],
+    "now": [
+     3148,
+     3190
+    ],
+    "uncropped": "originals_uncropped/CRVI001932.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::2274c68cbba9": {
    "id": "CRVI001933",
@@ -119957,10 +120101,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI001939.jpg",
    "original_px": [
-    1119,
-    1890
+    983,
+    1768
    ],
-   "original_bytes": 108265,
+   "original_bytes": 369776,
    "identity": "sent-2026-09-05::c4192b1b8d25",
    "source_url": "https://res.cloudinary.com/smimagebank/image/upload/w_6000,c_limit/v1585224347/sprueth_magers_Gary_Hume_One_Eyed_Person_7052.jpg",
    "maker": "Gary Hume",
@@ -119999,10 +120143,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Sprüth Magers, whose file name gives Gary Hume and the title One Eyed Person. The date is not established here.",
-   "hue": 46.08,
-   "light": 0.6755,
-   "chroma": 0.539,
-   "punch": 0.1522
+   "hue": 45.96,
+   "light": 0.606,
+   "chroma": 0.6513,
+   "punch": 0.1852,
+   "crop": {
+    "box": [
+     67,
+     69,
+     1050,
+     1837
+    ],
+    "was": [
+     1119,
+     1890
+    ],
+    "now": [
+     983,
+     1768
+    ],
+    "uncropped": "originals_uncropped/CRVI001939.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::9b5908021f29": {
    "id": "CRVI001940",
@@ -120316,10 +120478,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI001946.jpg",
    "original_px": [
-    1184,
-    1160
+    1098,
+    1093
    ],
-   "original_bytes": 1380996,
+   "original_bytes": 835718,
    "identity": "sent-2026-09-05::0d3999ef3c31",
    "source_url": "https://s3.amazonaws.com/files.collageplatform.com.prod/image_cache/2020x1160_fit/59c5131c5a4091aa128b4568/0df3545eb6a94ccbe1e728a82c9891af.jpeg",
    "maker": "Unidentified",
@@ -120350,10 +120512,28 @@
    "identity_established": true,
    "published": true,
    "verification": "A gallery asset served from an S3 image cache whose URL carries no artist name. Maker, title and date unestablished.",
-   "hue": 34.99,
-   "light": 0.4938,
-   "chroma": 0.9227,
-   "punch": 0.4478
+   "hue": 34.87,
+   "light": 0.4487,
+   "chroma": 0.999,
+   "punch": 0.506,
+   "crop": {
+    "box": [
+     43,
+     32,
+     1141,
+     1125
+    ],
+    "was": [
+     1184,
+     1160
+    ],
+    "now": [
+     1098,
+     1093
+    ],
+    "uncropped": "originals_uncropped/CRVI001946.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::774cb4ef56db": {
    "id": "CRVI001947",
@@ -120875,9 +121055,9 @@
    "original_file": "originals/CRVI001957.jpg",
    "original_px": [
     852,
-    1024
+    1014
    ],
-   "original_bytes": 326600,
+   "original_bytes": 528602,
    "identity": "sent-2026-09-05::a22325baf61d",
    "source_url": "https://uploads3.wikiart.org/00099/images/kerry-james-marshal/vignette-13-2008.jpg",
    "maker": "Kerry James Marshall",
@@ -120917,10 +121097,28 @@
    "identity_established": true,
    "published": true,
    "verification": "WikiArt, dated 2008. ⚠️ WikiArt's own path misspells the surname as 'kerry-james-marshal'; corrected here to Marshall.",
-   "hue": 204.19,
-   "light": 0.5221,
-   "chroma": 0.8569,
-   "punch": 0.2685
+   "hue": 204.13,
+   "light": 0.523,
+   "chroma": 0.8558,
+   "punch": 0.2681,
+   "crop": {
+    "box": [
+     0,
+     0,
+     852,
+     1014
+    ],
+    "was": [
+     852,
+     1024
+    ],
+    "now": [
+     852,
+     1014
+    ],
+    "uncropped": "originals_uncropped/CRVI001957.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::839c06108e30": {
    "id": "CRVI001958",
@@ -121228,10 +121426,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI001964.jpg",
    "original_px": [
-    1920,
-    1336
+    1846,
+    1127
    ],
-   "original_bytes": 900845,
+   "original_bytes": 1665601,
    "identity": "sent-2026-09-05::75a1601d2924",
    "source_url": "https://www.reiffersartinitiatives.com/layout/uploads/2022/04/rashid-johnson-oeuvre.jpg",
    "maker": "Rashid Johnson",
@@ -121266,20 +121464,38 @@
    "identity_established": true,
    "published": true,
    "verification": "Reiffers Art Initiatives, whose file name gives Rashid Johnson. The individual work's title and date are NOT established here.",
-   "hue": 15.59,
-   "light": 0.5779,
-   "chroma": 0.1906,
-   "punch": 0.0776
+   "hue": 15.64,
+   "light": 0.5059,
+   "chroma": 0.2379,
+   "punch": 0.0959,
+   "crop": {
+    "box": [
+     42,
+     90,
+     1888,
+     1217
+    ],
+    "was": [
+     1920,
+     1336
+    ],
+    "now": [
+     1846,
+     1127
+    ],
+    "uncropped": "originals_uncropped/CRVI001964.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::919d1d992da4": {
    "id": "CRVI001965",
    "minted": "2026-09-06",
    "original_file": "originals/CRVI001965.jpg",
    "original_px": [
-    1919,
-    2559
+    1721,
+    2135
    ],
-   "original_bytes": 1827833,
+   "original_bytes": 3111346,
    "identity": "sent-2026-09-05::919d1d992da4",
    "source_url": "https://www.glennligonstudio.com/wp-content/uploads/2024/03/GLS_Static-2_2023_11074.jpg",
    "maker": "Glenn Ligon",
@@ -121319,19 +121535,37 @@
    "published": true,
    "verification": "glennligonstudio.com — the artist's own studio site, whose file name gives Static 2 and 2023.",
    "hue": null,
-   "light": 0.4676,
-   "chroma": 0.0011,
-   "punch": 0.009
+   "light": 0.3341,
+   "chroma": 0.0,
+   "punch": 0.0071,
+   "crop": {
+    "box": [
+     96,
+     198,
+     1817,
+     2333
+    ],
+    "was": [
+     1919,
+     2559
+    ],
+    "now": [
+     1721,
+     2135
+    ],
+    "uncropped": "originals_uncropped/CRVI001965.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::3b76bdeb8a36": {
    "id": "CRVI001966",
    "minted": "2026-09-06",
    "original_file": "originals/CRVI001966.jpg",
    "original_px": [
-    1200,
-    1516
+    1090,
+    1416
    ],
-   "original_bytes": 186949,
+   "original_bytes": 536371,
    "identity": "sent-2026-09-05::3b76bdeb8a36",
    "source_url": "https://files.ocula.com/anzax/62/6245cc86-0245-44c8-92d3-23ac8c5a6bc0_1200_1516.jpg",
    "maker": "Glenn Ligon",
@@ -121366,10 +121600,28 @@
    "identity_established": true,
    "published": true,
    "verification": "An Ocula gallery asset published in a Glenn Ligon context. Stencilled text worked to illegibility on a red ground, which is Ligon's method — but the URL names nobody, so treat the attribution as resting on the work and the batch rather than the source. Title and date unestablished.",
-   "hue": 355.38,
-   "light": 0.4163,
-   "chroma": 0.7968,
-   "punch": 0.3865
+   "hue": 355.34,
+   "light": 0.345,
+   "chroma": 0.9153,
+   "punch": 0.4502,
+   "crop": {
+    "box": [
+     52,
+     42,
+     1142,
+     1458
+    ],
+    "was": [
+     1200,
+     1516
+    ],
+    "now": [
+     1090,
+     1416
+    ],
+    "uncropped": "originals_uncropped/CRVI001966.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::4dfb62a986c0": {
    "id": "CRVI001967",
@@ -122472,10 +122724,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI001989.jpg",
    "original_px": [
-    1306,
-    1195
+    1272,
+    1167
    ],
-   "original_bytes": 790067,
+   "original_bytes": 416649,
    "identity": "sent-2026-09-05::fe942aefe868",
    "source_url": "https://i1.wp.com/www.culturetype.com/wp-content/uploads/2017/11/lynette_yiadom_boakye_the_house_behind_you_2011.jpg",
    "maker": "Lynette Yiadom-Boakye",
@@ -122514,10 +122766,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Culture Type, whose file name gives it in full: Lynette Yiadom-Boakye, The House Behind You, 2011.",
-   "hue": 21.44,
-   "light": 0.2269,
-   "chroma": 0.2953,
-   "punch": 0.0454
+   "hue": 21.4,
+   "light": 0.2055,
+   "chroma": 0.3127,
+   "punch": 0.0471,
+   "crop": {
+    "box": [
+     19,
+     15,
+     1291,
+     1182
+    ],
+    "was": [
+     1306,
+     1195
+    ],
+    "now": [
+     1272,
+     1167
+    ],
+    "uncropped": "originals_uncropped/CRVI001989.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::f5a5318b1fd2": {
    "id": "CRVI001990",
@@ -122676,10 +122946,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI001993.jpg",
    "original_px": [
-    2100,
-    2573
+    1995,
+    2272
    ],
-   "original_bytes": 809531,
+   "original_bytes": 2204523,
    "identity": "sent-2026-09-05::15faffdc62c2",
    "source_url": "https://artlogic-res.cloudinary.com/w_6000,c_limit,f_auto,q_auto:best/ws-ropac/usr/images/artworks/main_image/items/98/988be2e74dc44174bf2f56caa79a22b3/jc2020-007_01_e.jpg",
    "maker": "Jordan Casteel",
@@ -122718,10 +122988,28 @@
    "identity_established": true,
    "published": true,
    "verification": "A Thaddaeus Ropac gallery asset. The file name's 'jc2020' gives the initials and year and the painting is Casteel's manner of portraiture, but the URL does not spell the name out — treat the attribution as resting on that inference. The title is not established here.",
-   "hue": 196.51,
-   "light": 0.6032,
-   "chroma": 0.5077,
-   "punch": 0.1541
+   "hue": 196.61,
+   "light": 0.5611,
+   "chroma": 0.6069,
+   "punch": 0.18,
+   "crop": {
+    "box": [
+     53,
+     116,
+     2048,
+     2388
+    ],
+    "was": [
+     2100,
+     2573
+    ],
+    "now": [
+     1995,
+     2272
+    ],
+    "uncropped": "originals_uncropped/CRVI001993.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::30d898812f58": {
    "id": "CRVI001994",
@@ -124676,10 +124964,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002033.jpg",
    "original_px": [
-    1350,
-    1800
+    1083,
+    1321
    ],
-   "original_bytes": 403268,
+   "original_bytes": 807872,
    "identity": "sent-2026-09-05::bc1684089b01",
    "source_url": "https://artviewer.org/wp-content/uploads/2017/10/Nicole-Eisenman_Dark-Light_2017_Courtesy-The-Ovitz-Family-Collection_Foto-Sophie-Thun-2.jpg",
    "maker": "Nicole Eisenman",
@@ -124722,10 +125010,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Art Viewer, whose file name carries the whole caption: Nicole Eisenman, Dark Light, 2017, courtesy the Ovitz Family Collection, photo Sophie Thun. Eisenman painted it; Thun photographed it.",
-   "hue": 63.02,
-   "light": 0.6362,
-   "chroma": 0.3545,
-   "punch": 0.1171
+   "hue": 63.01,
+   "light": 0.4271,
+   "chroma": 0.5306,
+   "punch": 0.1874,
+   "crop": {
+    "box": [
+     126,
+     224,
+     1209,
+     1545
+    ],
+    "was": [
+     1350,
+     1800
+    ],
+    "now": [
+     1083,
+     1321
+    ],
+    "uncropped": "originals_uncropped/CRVI002033.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::0a4d739476c5": {
    "id": "CRVI002034",
@@ -124860,10 +125166,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002037.jpg",
    "original_px": [
-    1800,
-    1354
+    1291,
+    885
    ],
-   "original_bytes": 983093,
+   "original_bytes": 1276158,
    "identity": "sent-2026-09-05::57fa2d0ad53d",
    "source_url": "https://artviewer.org/wp-content/uploads/2020/11/Tauba-Auerbach-at-STANDARD-OSLO-Art-Work-5.jpg",
    "maker": "Tauba Auerbach",
@@ -124908,10 +125214,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Art Viewer, whose file name gives Tauba Auerbach at STANDARD (OSLO). 2020 is the exhibition's year, from the file's upload path, rather than necessarily the work's.",
-   "hue": 47.17,
-   "light": 0.6993,
-   "chroma": 0.2781,
-   "punch": 0.1566
+   "hue": 47.29,
+   "light": 0.5697,
+   "chroma": 0.5712,
+   "punch": 0.3342,
+   "crop": {
+    "box": [
+     283,
+     194,
+     1574,
+     1079
+    ],
+    "was": [
+     1800,
+     1354
+    ],
+    "now": [
+     1291,
+     885
+    ],
+    "uncropped": "originals_uncropped/CRVI002037.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::77331db6ad7b": {
    "id": "CRVI002038",
@@ -124966,10 +125290,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002039.jpg",
    "original_px": [
-    2500,
-    3139
+    1964,
+    2625
    ],
-   "original_bytes": 2598037,
+   "original_bytes": 3277373,
    "identity": "sent-2026-09-05::5d4bffa5ad9e",
    "source_url": "https://www.artnews.com/wp-content/uploads/2021/12/web13.-Tauba-Auerbach_Metamaterial-Slice-Ray.jpg",
    "maker": "Tauba Auerbach",
@@ -125004,20 +125328,38 @@
    "identity_established": true,
    "published": true,
    "verification": "ARTnews, whose filename gives Tauba Auerbach and *Metamaterial Slice Ray*; the same painting also appears in Flaunt Magazine's Auerbach feature, served from that magazine's Squarespace site (56c346b607eaa09d9189a870). ⚠️ The date is not established. ⚠️ DE-DUPLICATED 2026-09-07: the two sources were added separately, on 2026-09-06 and in batch 43, and the second went in under a descriptive title because nothing named it. They are the same canvas in the same photograph. The ARTnews title was kept and the FLAUNT FILE — 2500x3139 against 1000x1256 — was moved onto this number; CRVI002364 was deleted.",
-   "hue": 25.05,
-   "light": 0.749,
-   "chroma": 0.6774,
-   "punch": 0.218
+   "hue": 25.0,
+   "light": 0.6654,
+   "chroma": 1.0,
+   "punch": 0.3217,
+   "crop": {
+    "box": [
+     293,
+     246,
+     2257,
+     2871
+    ],
+    "was": [
+     2500,
+     3139
+    ],
+    "now": [
+     1964,
+     2625
+    ],
+    "uncropped": "originals_uncropped/CRVI002039.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::e5dadfe2d66c": {
    "id": "CRVI002040",
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002040.jpg",
    "original_px": [
-    1600,
-    1200
+    1104,
+    845
    ],
-   "original_bytes": 585046,
+   "original_bytes": 957412,
    "identity": "sent-2026-09-05::e5dadfe2d66c",
    "source_url": "https://dinca.org/wp-content/uploads/2020/07/Extended-Object-Tauba-Auerbach-2018-compressed.jpg",
    "maker": "Tauba Auerbach",
@@ -125058,10 +125400,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Dinca, whose file name gives it in full: Extended Object, Tauba Auerbach, 2018.",
-   "hue": 46.66,
-   "light": 0.5798,
-   "chroma": 0.4087,
-   "punch": 0.1495
+   "hue": 46.39,
+   "light": 0.3214,
+   "chroma": 0.8162,
+   "punch": 0.3094,
+   "crop": {
+    "box": [
+     253,
+     172,
+     1357,
+     1017
+    ],
+    "was": [
+     1600,
+     1200
+    ],
+    "now": [
+     1104,
+     845
+    ],
+    "uncropped": "originals_uncropped/CRVI002040.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::ab381967db7f": {
    "id": "CRVI002041",
@@ -125209,9 +125569,9 @@
    "original_file": "originals/CRVI002044.jpg",
    "original_px": [
     1113,
-    1316
+    1312
    ],
-   "original_bytes": 268228,
+   "original_bytes": 488750,
    "identity": "sent-2026-09-05::2ca453b2ecc8",
    "source_url": "https://uploads2.wikiart.org/00205/images/jenny-saville/propped-1992.jpg",
    "maker": "Jenny Saville",
@@ -125250,20 +125610,38 @@
    "identity_established": true,
    "published": true,
    "verification": "WikiArt, under Jenny Saville, dated 1992.",
-   "hue": 22.62,
-   "light": 0.6079,
+   "hue": 22.7,
+   "light": 0.6073,
    "chroma": 0.2848,
-   "punch": 0.102
+   "punch": 0.1021,
+   "crop": {
+    "box": [
+     0,
+     3,
+     1113,
+     1315
+    ],
+    "was": [
+     1113,
+     1316
+    ],
+    "now": [
+     1113,
+     1312
+    ],
+    "uncropped": "originals_uncropped/CRVI002044.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::3e7f983291cc": {
    "id": "CRVI002045",
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002045.jpg",
    "original_px": [
-    1202,
-    1500
+    1146,
+    1449
    ],
-   "original_bytes": 970393,
+   "original_bytes": 1112292,
    "identity": "sent-2026-09-05::3e7f983291cc",
    "source_url": "https://awarewomenartists.com/wp-content/uploads/2024/07/saville-jenny-rupture-2020-aware-women-artists-artistes-femmes.jpg",
    "maker": "Jenny Saville",
@@ -125302,10 +125680,28 @@
    "identity_established": true,
    "published": true,
    "verification": "AWARE (Archives of Women Artists, Research and Exhibitions), whose file name gives Saville, Jenny, Rupture, 2020.",
-   "hue": 2.81,
-   "light": 0.544,
-   "chroma": 0.79,
-   "punch": 0.278
+   "hue": 2.98,
+   "light": 0.524,
+   "chroma": 0.8299,
+   "punch": 0.2961,
+   "crop": {
+    "box": [
+     28,
+     24,
+     1174,
+     1473
+    ],
+    "was": [
+     1202,
+     1500
+    ],
+    "now": [
+     1146,
+     1449
+    ],
+    "uncropped": "originals_uncropped/CRVI002045.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::213b23d624dc": {
    "id": "CRVI002046",
@@ -125470,10 +125866,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002049.jpg",
    "original_px": [
-    3349,
-    4000
+    3220,
+    3812
    ],
-   "original_bytes": 2755367,
+   "original_bytes": 3195141,
    "identity": "sent-2026-09-05::43f0da650766",
    "source_url": "https://uploads5.wikiart.org/00172/images/john-currin/2013-05-14-lot13currinbeaarthurnaked1.jpg",
    "maker": "John Currin",
@@ -125513,10 +125909,28 @@
    "identity_established": true,
    "published": true,
    "verification": "WikiArt, under John Currin; the file name carries the title and an auction lot reference. The date is not established here.",
-   "hue": 44.36,
-   "light": 0.5898,
-   "chroma": 0.849,
-   "punch": 0.2008
+   "hue": 44.35,
+   "light": 0.5525,
+   "chroma": 0.9203,
+   "punch": 0.219,
+   "crop": {
+    "box": [
+     56,
+     73,
+     3276,
+     3885
+    ],
+    "was": [
+     3349,
+     4000
+    ],
+    "now": [
+     3220,
+     3812
+    ],
+    "uncropped": "originals_uncropped/CRVI002049.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::1116301d4426": {
    "id": "CRVI002050",
@@ -125733,10 +126147,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002054.jpg",
    "original_px": [
-    1044,
-    1316
+    1027,
+    1306
    ],
-   "original_bytes": 349791,
+   "original_bytes": 606082,
    "identity": "sent-2026-09-05::ef4d0453d7ea",
    "source_url": "https://uploads7.wikiart.org/00474/images/john-currin/1994the-neverending-story-1994.jpg",
    "maker": "John Currin",
@@ -125775,10 +126189,28 @@
    "identity_established": true,
    "published": true,
    "verification": "WikiArt, under John Currin, dated 1994.",
-   "hue": 18.33,
-   "light": 0.4448,
-   "chroma": 0.7837,
-   "punch": 0.2342
+   "hue": 18.24,
+   "light": 0.4374,
+   "chroma": 0.7941,
+   "punch": 0.2387,
+   "crop": {
+    "box": [
+     8,
+     0,
+     1035,
+     1306
+    ],
+    "was": [
+     1044,
+     1316
+    ],
+    "now": [
+     1027,
+     1306
+    ],
+    "uncropped": "originals_uncropped/CRVI002054.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::40928fc7433a": {
    "id": "CRVI002055",
@@ -125833,10 +126265,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002056.jpg",
    "original_px": [
-    3200,
-    2315
+    3061,
+    2157
    ],
-   "original_bytes": 2064308,
+   "original_bytes": 3158149,
    "identity": "sent-2026-09-05::2dea0fa71a8a",
    "source_url": "https://www.christies.com/img/LotImages/2019/NYR/2019_NYR_17651_0805_000(nicolas_party_untitled).jpg?mode=max",
    "maker": "Nicolas Party",
@@ -125871,20 +126303,38 @@
    "identity_established": true,
    "published": true,
    "verification": "Christie's own lot asset (sale 17651, lot 805, 2019); the file name is Christie's metadata naming Nicolas Party. The date is not established here.",
-   "hue": 337.24,
-   "light": 0.6528,
-   "chroma": 0.8836,
-   "punch": 0.1978
+   "hue": 337.15,
+   "light": 0.617,
+   "chroma": 0.9617,
+   "punch": 0.2187,
+   "crop": {
+    "box": [
+     73,
+     80,
+     3134,
+     2237
+    ],
+    "was": [
+     3200,
+     2315
+    ],
+    "now": [
+     3061,
+     2157
+    ],
+    "uncropped": "originals_uncropped/CRVI002056.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::b70f462a6e85": {
    "id": "CRVI002057",
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002057.jpg",
    "original_px": [
-    4665,
-    6000
+    4014,
+    5263
    ],
-   "original_bytes": 3289683,
+   "original_bytes": 8754637,
    "identity": "sent-2026-09-05::b70f462a6e85",
    "source_url": "https://artlogic-res.cloudinary.com/w_6000,c_limit,f_auto,q_auto:best/artlogicstorage/pilarcorrias/images/view/dcee6a7e42974c024995b3f01f3fd73fj/pilarcorrias-christina-quarles-fold-gently-2023.jpg",
    "maker": "Christina Quarles",
@@ -125925,20 +126375,38 @@
    "identity_established": true,
    "published": true,
    "verification": "Pilar Corrias, whose file name gives Christina Quarles, Fold Gently, 2023.",
-   "hue": 34.95,
-   "light": 0.612,
-   "chroma": 0.5035,
-   "punch": 0.1561
+   "hue": 34.98,
+   "light": 0.5333,
+   "chroma": 0.6707,
+   "punch": 0.2075,
+   "crop": {
+    "box": [
+     347,
+     373,
+     4361,
+     5636
+    ],
+    "was": [
+     4665,
+     6000
+    ],
+    "now": [
+     4014,
+     5263
+    ],
+    "uncropped": "originals_uncropped/CRVI002057.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::4746c8367d2f": {
    "id": "CRVI002058",
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002058.jpg",
    "original_px": [
-    4683,
-    6000
+    4011,
+    5280
    ],
-   "original_bytes": 2193406,
+   "original_bytes": 5829211,
    "identity": "sent-2026-09-05::4746c8367d2f",
    "source_url": "https://artlogic-res.cloudinary.com/w_6000,c_limit,f_auto,q_auto:best/artlogicstorage/pilarcorrias/images/view/2556cdad8a326c7b4cb69bd99d1e640fj/pilarcorrias-christina-quarles-how-in-tha-light-of-one-night-2023.jpg",
    "maker": "Christina Quarles",
@@ -125979,10 +126447,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Pilar Corrias, whose file name gives Christina Quarles, How in tha Light of One Night, 2023.",
-   "hue": 345.52,
-   "light": 0.5311,
-   "chroma": 0.3192,
-   "punch": 0.1187
+   "hue": 345.51,
+   "light": 0.4323,
+   "chroma": 0.42,
+   "punch": 0.1571,
+   "crop": {
+    "box": [
+     325,
+     343,
+     4336,
+     5623
+    ],
+    "was": [
+     4683,
+     6000
+    ],
+    "now": [
+     4011,
+     5280
+    ],
+    "uncropped": "originals_uncropped/CRVI002058.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::491d32163a7a": {
    "id": "CRVI002059",
@@ -126330,10 +126816,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002066.jpg",
    "original_px": [
-    2500,
-    1577
+    2221,
+    1063
    ],
-   "original_bytes": 165391,
+   "original_bytes": 467506,
    "identity": "sent-2026-09-05::3444e6cccffb",
    "source_url": "https://media.icamiami.org/2018/02/b16e9144-02092018_ica_0067-edit.jpg",
    "maker": "Unidentified",
@@ -126360,10 +126846,28 @@
    "identity_established": true,
    "published": true,
    "verification": "An ICA Miami asset whose file name is a date-stamped installation photograph number. No artist is named in it.",
-   "hue": 154.93,
-   "light": 0.7467,
-   "chroma": 0.2826,
-   "punch": 0.1103
+   "hue": 154.9,
+   "light": 0.6297,
+   "chroma": 0.469,
+   "punch": 0.1845,
+   "crop": {
+    "box": [
+     129,
+     229,
+     2350,
+     1292
+    ],
+    "was": [
+     2500,
+     1577
+    ],
+    "now": [
+     2221,
+     1063
+    ],
+    "uncropped": "originals_uncropped/CRVI002066.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::90bbf71c2cc1": {
    "id": "CRVI002067",
@@ -127815,10 +128319,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002095.jpg",
    "original_px": [
-    1024,
-    1010
+    963,
+    963
    ],
-   "original_bytes": 813268,
+   "original_bytes": 699400,
    "identity": "sent-2026-09-05::42b0b425eeb3",
    "source_url": "https://uploads5.wikiart.org/images/frank-auerbach/head-of-paula-eyles.jpg",
    "maker": "Frank Auerbach",
@@ -127853,10 +128357,28 @@
    "identity_established": true,
    "published": true,
    "verification": "WikiArt, under Frank Auerbach; the date is not established here.",
-   "hue": 57.75,
-   "light": 0.4405,
-   "chroma": 0.1604,
-   "punch": 0.1013
+   "hue": 57.76,
+   "light": 0.3992,
+   "chroma": 0.1826,
+   "punch": 0.1097,
+   "crop": {
+    "box": [
+     32,
+     19,
+     995,
+     982
+    ],
+    "was": [
+     1024,
+     1010
+    ],
+    "now": [
+     963,
+     963
+    ],
+    "uncropped": "originals_uncropped/CRVI002095.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::d9578a412af5": {
    "id": "CRVI002096",
@@ -127960,10 +128482,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002098.jpg",
    "original_px": [
-    1367,
-    1183
+    1311,
+    1126
    ],
-   "original_bytes": 509603,
+   "original_bytes": 1198288,
    "identity": "sent-2026-09-05::d35d3feb44f9",
    "source_url": "https://artlogic-res.cloudinary.com/w_6000,c_limit,f_auto,q_auto:best/ws-annelyjudafineart/usr/images/artworks/main_image/items/b1/b19a23545f684cf3b5612ee371fd8dcb/lk0507_new.jpg",
    "maker": "Leon Kossoff",
@@ -127998,10 +128520,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Annely Juda Fine Art, whose file name codes the work 'lk' — Leon Kossoff, whom the gallery represented. The individual work's title and date are NOT established here.",
-   "hue": 44.75,
-   "light": 0.5055,
-   "chroma": 0.5231,
-   "punch": 0.1695
+   "hue": 44.65,
+   "light": 0.4668,
+   "chroma": 0.5529,
+   "punch": 0.1834,
+   "crop": {
+    "box": [
+     30,
+     29,
+     1341,
+     1155
+    ],
+    "was": [
+     1367,
+     1183
+    ],
+    "now": [
+     1311,
+     1126
+    ],
+    "uncropped": "originals_uncropped/CRVI002098.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::36a24adcd124": {
    "id": "CRVI002099",
@@ -129363,10 +129903,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002125.jpg",
    "original_px": [
-    1136,
-    1261
+    993,
+    1000
    ],
-   "original_bytes": 271013,
+   "original_bytes": 688045,
    "identity": "sent-2026-09-05::3bcd04d98de8",
    "source_url": "https://www.moma.org/d/assets/W1siZiIsIjIwMjUvMDMvMjgvNTlsamIyNXVhNF9KV1BMMzAwLmpwZyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA4MCAtcmVzaXplIDExMzZ4MTQyNFx1MDAzZSJdXQ/JWPL300.jpg?sha=d6beb8c26d79d815",
    "maker": "Jack Whitten",
@@ -129401,20 +129941,38 @@
    "identity_established": true,
    "published": true,
    "verification": "A Museum of Modern Art asset. The tesserae-like acrylic slabs are Whitten's method. The URL carries no artist name — a MoMA asset code. The attribution rests on the work and on the batch it arrived in, NOT on the source. Title and date unestablished.",
-   "hue": 43.36,
-   "light": 0.7708,
-   "chroma": 0.3487,
-   "punch": 0.0839
+   "hue": 43.31,
+   "light": 0.7079,
+   "chroma": 0.4995,
+   "punch": 0.1171,
+   "crop": {
+    "box": [
+     67,
+     115,
+     1060,
+     1115
+    ],
+    "was": [
+     1136,
+     1261
+    ],
+    "now": [
+     993,
+     1000
+    ],
+    "uncropped": "originals_uncropped/CRVI002125.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::84397f69f4de": {
    "id": "CRVI002126",
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002126.jpg",
    "original_px": [
-    2000,
-    1992
+    1864,
+    1853
    ],
-   "original_bytes": 890085,
+   "original_bytes": 1888834,
    "identity": "sent-2026-09-05::84397f69f4de",
    "source_url": "https://files.ocula.com/anzax/a3/a3b73f46-2b8b-4bc6-926f-a20159ca6381_2000_1992.jpg",
    "maker": "Jack Whitten",
@@ -129450,9 +130008,27 @@
    "published": true,
    "verification": "An Ocula gallery asset whose URL is an opaque identifier. The URL carries no artist name — an opaque gallery id. The attribution rests on the work and on the batch it arrived in, NOT on the source. Title and date unestablished.",
    "hue": null,
-   "light": 0.4438,
-   "chroma": 0.0329,
-   "punch": 0.0327
+   "light": 0.3971,
+   "chroma": 0.0345,
+   "punch": 0.0332,
+   "crop": {
+    "box": [
+     70,
+     67,
+     1934,
+     1920
+    ],
+    "was": [
+     2000,
+     1992
+    ],
+    "now": [
+     1864,
+     1853
+    ],
+    "uncropped": "originals_uncropped/CRVI002126.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::7dd08e0e86ec": {
    "id": "CRVI002127",
@@ -130237,10 +130813,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002142.jpg",
    "original_px": [
-    2450,
-    3000
+    1944,
+    2429
    ],
-   "original_bytes": 476877,
+   "original_bytes": 1263789,
    "identity": "sent-2026-09-05::3fd366d358d3",
    "source_url": "https://cdn.sanity.io/images/juzvn5an/release-adp/56d9b90cb4f8b171b20e1c190a997ac824e37756-2450x3000.jpg?w=2450",
    "maker": "Sherrie Levine",
@@ -130276,10 +130852,28 @@
    "identity_established": true,
    "published": true,
    "verification": "A gallery asset served from Sanity's CDN in an appropriation-art context. ⚠️ The image is a Mondrian composition; whether this is a Mondrian or Levine's re-photograph of one is exactly what the source does not say. Filed under Levine on the batch's logic, which is weaker than usual — worth checking.",
-   "hue": 26.45,
-   "light": 0.6561,
-   "chroma": 0.4255,
-   "punch": 0.2508
+   "hue": 26.44,
+   "light": 0.5249,
+   "chroma": 0.6277,
+   "punch": 0.3886,
+   "crop": {
+    "box": [
+     253,
+     278,
+     2197,
+     2707
+    ],
+    "was": [
+     2450,
+     3000
+    ],
+    "now": [
+     1944,
+     2429
+    ],
+    "uncropped": "originals_uncropped/CRVI002142.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::c32705be45d8": {
    "id": "CRVI002143",
@@ -130740,10 +131334,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002152.jpg",
    "original_px": [
-    1280,
-    1592
+    1226,
+    1532
    ],
-   "original_bytes": 398297,
+   "original_bytes": 731892,
    "identity": "sent-2026-09-05::a56f5131eb24",
    "source_url": "https://uploads8.wikiart.org/images/keith-haring/untitled-1982-1.jpg",
    "maker": "Keith Haring",
@@ -130783,10 +131377,28 @@
    "identity_established": true,
    "published": true,
    "verification": "WikiArt, under Keith Haring, dated 1982.",
-   "hue": 56.63,
-   "light": 0.4874,
-   "chroma": 0.9823,
-   "punch": 0.6938
+   "hue": 56.85,
+   "light": 0.4565,
+   "chroma": 0.9961,
+   "punch": 0.7418,
+   "crop": {
+    "box": [
+     26,
+     17,
+     1252,
+     1549
+    ],
+    "was": [
+     1280,
+     1592
+    ],
+    "now": [
+     1226,
+     1532
+    ],
+    "uncropped": "originals_uncropped/CRVI002152.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::9126cd21446b": {
    "id": "CRVI002153",
@@ -131308,10 +131920,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002163.jpg",
    "original_px": [
-    994,
-    1825
+    900,
+    1775
    ],
-   "original_bytes": 1293088,
+   "original_bytes": 620909,
    "identity": "sent-2026-09-05::bccc2361cf30",
    "source_url": "https://uploads7.wikiart.org/images/mira-schendel/untitled-1981.jpg",
    "maker": "Mira Schendel",
@@ -131350,10 +131962,28 @@
    "identity_established": true,
    "published": true,
    "verification": "WikiArt, under Mira Schendel, dated 1981.",
-   "hue": 35.19,
-   "light": 0.4034,
-   "chroma": 0.9986,
-   "punch": 0.5728
+   "hue": 35.06,
+   "light": 0.3955,
+   "chroma": 1.0,
+   "punch": 0.6114,
+   "crop": {
+    "box": [
+     48,
+     22,
+     948,
+     1797
+    ],
+    "was": [
+     994,
+     1825
+    ],
+    "now": [
+     900,
+     1775
+    ],
+    "uncropped": "originals_uncropped/CRVI002163.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::1b8129a710e9": {
    "id": "CRVI002164",
@@ -131461,10 +132091,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002166.jpg",
    "original_px": [
-    1000,
-    1304
+    898,
+    1148
    ],
-   "original_bytes": 221963,
+   "original_bytes": 576084,
    "identity": "sent-2026-09-05::54c06c789f21",
    "source_url": "https://uploads4.wikiart.org/images/roberto-matta/pyrocentre.jpg",
    "maker": "Roberto Matta",
@@ -131499,10 +132129,28 @@
    "identity_established": true,
    "published": true,
    "verification": "WikiArt, under Roberto Matta; the date is not established here.",
-   "hue": 207.45,
-   "light": 0.54,
-   "chroma": 0.4291,
-   "punch": 0.1334
+   "hue": 207.59,
+   "light": 0.4388,
+   "chroma": 0.4817,
+   "punch": 0.1572,
+   "crop": {
+    "box": [
+     50.1468141233766,
+     63,
+     948,
+     1211
+    ],
+    "was": [
+     1000,
+     1304
+    ],
+    "now": [
+     898,
+     1148
+    ],
+    "uncropped": "originals_uncropped/CRVI002166.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::8cb2f225a58b": {
    "id": "CRVI002167",
@@ -131607,10 +132255,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002169.jpg",
    "original_px": [
-    848,
-    1536
+    823,
+    1507
    ],
-   "original_bytes": 65321,
+   "original_bytes": 246687,
    "identity": "sent-2026-09-05::757bc4586a32",
    "source_url": "https://uploads1.wikiart.org/images/frank-bowling/who-s-afraid-of-barney-newman-1968.jpg",
    "maker": "Frank Bowling",
@@ -131650,10 +132298,28 @@
    "identity_established": true,
    "published": true,
    "verification": "WikiArt, under Frank Bowling, dated 1968.",
-   "hue": 85.6,
-   "light": 0.4433,
-   "chroma": 0.999,
-   "punch": 0.5065
+   "hue": 85.54,
+   "light": 0.4527,
+   "chroma": 0.9989,
+   "punch": 0.5217,
+   "crop": {
+    "box": [
+     13,
+     15,
+     836,
+     1522
+    ],
+    "was": [
+     848,
+     1536
+    ],
+    "now": [
+     823,
+     1507
+    ],
+    "uncropped": "originals_uncropped/CRVI002169.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::a6dddaa91be2": {
    "id": "CRVI002170",
@@ -131817,10 +132483,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002173.jpg",
    "original_px": [
-    2400,
-    1600
+    2074,
+    1340
    ],
-   "original_bytes": 766708,
+   "original_bytes": 1390517,
    "identity": "sent-2026-09-05::9a375f65a395",
    "source_url": "https://cdn.cahierdeseoul.com/2023/10/Park-Seo-Bo_2.jpg",
    "maker": "Park Seo-bo",
@@ -131855,10 +132521,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Cahier de Séoul, whose file name gives Park Seo-Bo. From the Écriture series. The individual work's number and date are NOT established here.",
-   "hue": 354.95,
-   "light": 0.4736,
-   "chroma": 0.7656,
-   "punch": 0.4202
+   "hue": 355.0,
+   "light": 0.3424,
+   "chroma": 1.0,
+   "punch": 0.5581,
+   "crop": {
+    "box": [
+     172,
+     135,
+     2246,
+     1475
+    ],
+    "was": [
+     2400,
+     1600
+    ],
+    "now": [
+     2074,
+     1340
+    ],
+    "uncropped": "originals_uncropped/CRVI002173.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::6a6d572c3780": {
    "id": "CRVI002174",
@@ -132752,10 +133436,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002191.jpg",
    "original_px": [
-    809,
-    1070
+    801,
+    1058
    ],
-   "original_bytes": 150443,
+   "original_bytes": 467872,
    "identity": "sent-2026-09-05::cbf1b7ba39b6",
    "source_url": "https://uploads6.wikiart.org/images/georges-braque/castle-at-la-roche-guyon-1909.jpg",
    "maker": "Georges Braque",
@@ -132795,10 +133479,28 @@
    "identity_established": true,
    "published": true,
    "verification": "WikiArt, under Georges Braque, dated 1909.",
-   "hue": 39.87,
-   "light": 0.5398,
-   "chroma": 0.7365,
-   "punch": 0.2113
+   "hue": 39.84,
+   "light": 0.5337,
+   "chroma": 0.7427,
+   "punch": 0.2139,
+   "crop": {
+    "box": [
+     5,
+     0,
+     806,
+     1058
+    ],
+    "was": [
+     809,
+     1070
+    ],
+    "now": [
+     801,
+     1058
+    ],
+    "uncropped": "originals_uncropped/CRVI002191.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-05::0a6c12693e73": {
    "id": "CRVI002192",
@@ -133725,10 +134427,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002208.jpg",
    "original_px": [
-    1063,
-    1102
+    1026,
+    1064
    ],
-   "original_bytes": 483834,
+   "original_bytes": 971732,
    "identity": "sent-2026-09-06::8edae893ebbd",
    "source_url": "https://uploads2.wikiart.org/images/wassily-kandinsky/moscow-i-1916.jpg",
    "maker": "Wassily Kandinsky",
@@ -133767,16 +134469,34 @@
    "identity_established": true,
    "published": true,
    "verification": "WikiArt, under Wassily Kandinsky, dated 1916.",
-   "hue": 6.51,
-   "light": 0.4293,
-   "chroma": 0.509,
-   "punch": 0.1543,
+   "hue": 6.48,
+   "light": 0.388,
+   "chroma": 0.5467,
+   "punch": 0.1663,
    "extra_tags": [
     {
      "k": "subject",
      "v": "Der Blaue Reiter"
     }
-   ]
+   ],
+   "crop": {
+    "box": [
+     18,
+     18,
+     1044,
+     1082
+    ],
+    "was": [
+     1063,
+     1102
+    ],
+    "now": [
+     1026,
+     1064
+    ],
+    "uncropped": "originals_uncropped/CRVI002208.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-06::7aeeff808d59": {
    "id": "CRVI002209",
@@ -134201,10 +134921,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002216.jpg",
    "original_px": [
-    2400,
-    2407
+    2322,
+    2328
    ],
-   "original_bytes": 966733,
+   "original_bytes": 2564602,
    "identity": "sent-2026-09-06::ae1b2acb976f",
    "source_url": "https://i.pinimg.com/originals/98/04/1f/98041fa3fa35b966678cf16de899845e.jpg",
    "maker": "Josef Albers",
@@ -134240,10 +134960,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Pinterest, which names nobody. Attributed on the WORK, not the source: three nested squares in the Homage to the Square format Albers painted from 1950 to his death. No specific subtitle, date or collection is established here.",
-   "hue": 19.25,
-   "light": 0.3869,
-   "chroma": 0.9469,
-   "punch": 0.5225
+   "hue": 19.13,
+   "light": 0.3718,
+   "chroma": 0.988,
+   "punch": 0.5508,
+   "crop": {
+    "box": [
+     44,
+     36,
+     2366,
+     2364
+    ],
+    "was": [
+     2400,
+     2407
+    ],
+    "now": [
+     2322,
+     2328
+    ],
+    "uncropped": "originals_uncropped/CRVI002216.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-06::dafd3b4da7f0": {
    "id": "CRVI002217",
@@ -134298,10 +135036,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002218.jpg",
    "original_px": [
-    3194,
-    3200
+    2903,
+    2891
    ],
-   "original_bytes": 372247,
+   "original_bytes": 2306677,
    "identity": "sent-2026-09-06::f1b51261729f",
    "source_url": "https://publicdelivery.org/wp-content/uploads/2019/02/Josef-Albers-Study-for-Homage-to-the-Square-Deep-Tune-1963-oil-on-masonite-76.3-x-76.3-cm-30-x-30-in.jpg",
    "maker": "Josef Albers",
@@ -134341,16 +135079,34 @@
    "identity_established": true,
    "published": true,
    "verification": "publicdelivery.org, which names it in the file itself: \"Josef Albers Study for Homage to the Square Deep Tune 1963 oil on masonite 76.3 x 76.3 cm\".",
-   "hue": 33.95,
-   "light": 0.3859,
-   "chroma": 0.8264,
-   "punch": 0.3174,
+   "hue": 33.88,
+   "light": 0.3158,
+   "chroma": 1.0,
+   "punch": 0.3807,
    "extra_tags": [
     {
      "k": "subject",
      "v": "Bauhaus"
     }
-   ]
+   ],
+   "crop": {
+    "box": [
+     143,
+     159,
+     3046,
+     3050
+    ],
+    "was": [
+     3194,
+     3200
+    ],
+    "now": [
+     2903,
+     2891
+    ],
+    "uncropped": "originals_uncropped/CRVI002218.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-06::98fdb7815e53": {
    "id": "CRVI002219",
@@ -135040,10 +135796,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002231.jpg",
    "original_px": [
-    3105,
-    3919
+    3076,
+    3866
    ],
-   "original_bytes": 2431101,
+   "original_bytes": 4048578,
    "identity": "sent-2026-09-06::c72f0268ce17",
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/0c/1928_Schlemmer_Rot_Gegeneinander.jpg",
    "maker": "Oskar Schlemmer",
@@ -135082,10 +135838,10 @@
    "identity_established": true,
    "published": true,
    "verification": "Wikimedia Commons, file 1928 Schlemmer Rot Gegeneinander.jpg.",
-   "hue": 36.83,
-   "light": 0.4167,
-   "chroma": 0.989,
-   "punch": 0.278,
+   "hue": 36.77,
+   "light": 0.4179,
+   "chroma": 0.9924,
+   "punch": 0.2793,
    "extra_tags": [
     {
      "k": "subject",
@@ -135095,17 +135851,35 @@
      "k": "movement",
      "v": "Bauhaus"
     }
-   ]
+   ],
+   "crop": {
+    "box": [
+     16,
+     29,
+     3092,
+     3895
+    ],
+    "was": [
+     3105,
+     3919
+    ],
+    "now": [
+     3076,
+     3866
+    ],
+    "uncropped": "originals_uncropped/CRVI002231.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-06::bf9323ab1481": {
    "id": "CRVI002232",
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002232.jpg",
    "original_px": [
-    3892,
-    5110
+    3835,
+    5037
    ],
-   "original_bytes": 9978601,
+   "original_bytes": 6139958,
    "identity": "sent-2026-09-06::bf9323ab1481",
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/15/1930_Schlemmer-Frauenschule.JPG",
    "maker": "Oskar Schlemmer",
@@ -135144,10 +135918,10 @@
    "identity_established": true,
    "published": true,
    "verification": "Wikimedia Commons, file 1930 Schlemmer-Frauenschule.JPG.",
-   "hue": 27.4,
-   "light": 0.5456,
-   "chroma": 0.8626,
-   "punch": 0.3065,
+   "hue": 27.5,
+   "light": 0.553,
+   "chroma": 0.8705,
+   "punch": 0.3121,
    "extra_tags": [
     {
      "k": "subject",
@@ -135157,7 +135931,25 @@
      "k": "movement",
      "v": "Bauhaus"
     }
-   ]
+   ],
+   "crop": {
+    "box": [
+     32,
+     18,
+     3867,
+     5055
+    ],
+    "was": [
+     3892,
+     5110
+    ],
+    "now": [
+     3835,
+     5037
+    ],
+    "uncropped": "originals_uncropped/CRVI002232.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-06::75eb4c599a99": {
    "id": "CRVI002233",
@@ -135826,10 +136618,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002245.jpg",
    "original_px": [
-    928,
-    1024
+    913,
+    1012
    ],
-   "original_bytes": 227844,
+   "original_bytes": 393781,
    "identity": "sent-2026-09-06::206a4333316c",
    "source_url": "https://uploads2.wikiart.org/images/mark-rothko/not_detected_242132.jpg",
    "maker": "Mark Rothko",
@@ -135865,10 +136657,28 @@
    "identity_established": true,
    "published": true,
    "verification": "WikiArt, under Mark Rothko; the source gives no date.",
-   "hue": 223.67,
-   "light": 0.4495,
-   "chroma": 0.6777,
-   "punch": 0.3193
+   "hue": 223.75,
+   "light": 0.434,
+   "chroma": 0.672,
+   "punch": 0.3284,
+   "crop": {
+    "box": [
+     6,
+     6,
+     919,
+     1018
+    ],
+    "was": [
+     928,
+     1024
+    ],
+    "now": [
+     913,
+     1012
+    ],
+    "uncropped": "originals_uncropped/CRVI002245.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-06::0705f92f8d5d": {
    "id": "CRVI002246",
@@ -136896,10 +137706,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002264.jpg",
    "original_px": [
-    2400,
-    1501
+    1968,
+    1378
    ],
-   "original_bytes": 540388,
+   "original_bytes": 1054326,
    "identity": "sent-2026-09-06::d924bc0451d6",
    "source_url": "https://www.christies.com/media-library/images/features/articles/2018/09/04/david-hockney-portrait-of-an-artist-pool-with-two-figures/58207086-bbb-white.jpg",
    "maker": "David Hockney",
@@ -136939,10 +137749,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Christie's own media library, from its feature on the 2018 sale of *Portrait of an Artist (Pool with Two Figures)*, 1972.",
-   "hue": 190.18,
-   "light": 0.524,
-   "chroma": 0.6457,
-   "punch": 0.2238
+   "hue": 190.13,
+   "light": 0.4386,
+   "chroma": 0.8366,
+   "punch": 0.2918,
+   "crop": {
+    "box": [
+     228,
+     41,
+     2196,
+     1419
+    ],
+    "was": [
+     2400,
+     1501
+    ],
+    "now": [
+     1968,
+     1378
+    ],
+    "uncropped": "originals_uncropped/CRVI002264.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-06::4c2c4cd9758f": {
    "id": "CRVI002265",
@@ -137426,10 +138254,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002274.jpg",
    "original_px": [
-    2000,
-    2007
+    1905,
+    1900
    ],
-   "original_bytes": 331657,
+   "original_bytes": 730666,
    "identity": "sent-2026-09-06::05ab8d80406f",
    "source_url": "https://www.pacegallery.com/media/images/34514.width-2000.jpg",
    "maker": "Agnes Martin",
@@ -137464,16 +138292,34 @@
    "identity_established": true,
    "published": true,
    "verification": "Pace Gallery's own image library — Pace has represented Martin and her estate. ⚠️ The asset carries no title or date.",
-   "hue": 34.13,
-   "light": 0.752,
-   "chroma": 0.8995,
-   "punch": 0.1561,
+   "hue": 34.11,
+   "light": 0.7642,
+   "chroma": 0.9963,
+   "punch": 0.1682,
    "extra_tags": [
     {
      "k": "subject",
      "v": "Minimalism"
     }
-   ]
+   ],
+   "crop": {
+    "box": [
+     48,
+     50,
+     1953,
+     1950
+    ],
+    "was": [
+     2000,
+     2007
+    ],
+    "now": [
+     1905,
+     1900
+    ],
+    "uncropped": "originals_uncropped/CRVI002274.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-06::ae7c1c6de362": {
    "id": "CRVI002275",
@@ -138768,10 +139614,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002298.jpg",
    "original_px": [
-    2019,
-    2048
+    1881,
+    1866
    ],
-   "original_bytes": 1623512,
+   "original_bytes": 2816247,
    "identity": "sent-2026-09-06::0b65c347c6fe",
    "source_url": "https://static01.nyt.com/images/2016/10/17/t-magazine/marshall-slide-8G7Z/marshall-slide-8G7Z-superJumbo.jpg?quality=75&auto=webp&disable=upscale",
    "maker": "Kerry James Marshall",
@@ -138806,10 +139652,28 @@
    "identity_established": true,
    "published": true,
    "verification": "The New York Times, from a 2016 T Magazine feature on Kerry James Marshall. ⚠️ The title and date of this painting are not established from the asset.",
-   "hue": 196.16,
-   "light": 0.4311,
-   "chroma": 0.4278,
-   "punch": 0.1515
+   "hue": 196.14,
+   "light": 0.3553,
+   "chroma": 0.5063,
+   "punch": 0.1757,
+   "crop": {
+    "box": [
+     74,
+     112,
+     1955,
+     1978
+    ],
+    "was": [
+     2019,
+     2048
+    ],
+    "now": [
+     1881,
+     1866
+    ],
+    "uncropped": "originals_uncropped/CRVI002298.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-06::c3c165efd8c4": {
    "id": "CRVI002299",
@@ -138817,9 +139681,9 @@
    "original_file": "originals/CRVI002299.jpg",
    "original_px": [
     1066,
-    1289
+    1271
    ],
-   "original_bytes": 1222701,
+   "original_bytes": 619637,
    "identity": "sent-2026-09-06::c3c165efd8c4",
    "source_url": "https://uploads0.wikiart.org/00099/images/kerry-james-marshal/the-academy-2012-acrylic-on-pvc.jpg",
    "maker": "Kerry James Marshall",
@@ -138858,10 +139722,28 @@
    "identity_established": true,
    "published": true,
    "verification": "WikiArt, under Kerry James Marshall, filed \"the academy 2012 acrylic on pvc\". ⚠️ WikiArt misspells the artist's surname as \"marshal\" in its own URL; corrected here. The title as given there is *The Academy*, 2012 — recorded as the source has it.",
-   "hue": 359.56,
-   "light": 0.3932,
-   "chroma": 0.2108,
-   "punch": 0.0889
+   "hue": 359.54,
+   "light": 0.3901,
+   "chroma": 0.2151,
+   "punch": 0.09,
+   "crop": {
+    "box": [
+     0,
+     8,
+     1066,
+     1279
+    ],
+    "was": [
+     1066,
+     1289
+    ],
+    "now": [
+     1066,
+     1271
+    ],
+    "uncropped": "originals_uncropped/CRVI002299.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-06::6859cb5610b0": {
    "id": "CRVI002300",
@@ -138916,10 +139798,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002301.jpg",
    "original_px": [
-    2500,
-    2971
+    2350,
+    2809
    ],
-   "original_bytes": 3965537,
+   "original_bytes": 2382577,
    "identity": "sent-2026-09-06::059db836d3e1",
    "source_url": "https://sothebys-md.brightspotcdn.com/fa/d6/1b0e229f4624b5a263eefee7c903/lot8kerryjamesmarshalluntitledmaskboy.jpg",
    "maker": "Kerry James Marshall",
@@ -138954,10 +139836,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Sotheby's own lot asset, named in the file: \"lot 8 kerry james marshall untitled mask boy\". No date given there.",
-   "hue": 156.28,
-   "light": 0.3734,
-   "chroma": 0.6457,
-   "punch": 0.1739
+   "hue": 156.39,
+   "light": 0.3008,
+   "chroma": 0.7032,
+   "punch": 0.1946,
+   "crop": {
+    "box": [
+     75,
+     75,
+     2425,
+     2884
+    ],
+    "was": [
+     2500,
+     2971
+    ],
+    "now": [
+     2350,
+     2809
+    ],
+    "uncropped": "originals_uncropped/CRVI002301.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-06::54a6a6c9d557": {
    "id": "CRVI002302",
@@ -139408,10 +140308,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002310.jpg",
    "original_px": [
-    857,
-    1024
+    839,
+    1005
    ],
-   "original_bytes": 978825,
+   "original_bytes": 512032,
    "identity": "sent-2026-09-06::70aecad04534",
    "source_url": "https://uploads3.wikiart.org/00166/images/neo-rauch/h-ter-der-nacht-2014.jpg",
    "maker": "Neo Rauch",
@@ -139450,10 +140350,28 @@
    "identity_established": true,
    "published": true,
    "verification": "WikiArt, under Neo Rauch, dated 2014.",
-   "hue": 26.52,
-   "light": 0.5293,
-   "chroma": 0.5529,
-   "punch": 0.1501
+   "hue": 26.55,
+   "light": 0.5105,
+   "chroma": 0.5695,
+   "punch": 0.1563,
+   "crop": {
+    "box": [
+     9,
+     6,
+     848,
+     1011
+    ],
+    "was": [
+     857,
+     1024
+    ],
+    "now": [
+     839,
+     1005
+    ],
+    "uncropped": "originals_uncropped/CRVI002310.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-06::12babf379fc9": {
    "id": "CRVI002311",
@@ -139512,10 +140430,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002312.jpg",
    "original_px": [
-    850,
-    1024
+    833,
+    1002
    ],
-   "original_bytes": 892448,
+   "original_bytes": 481296,
    "identity": "sent-2026-09-06::2174b13bf428",
    "source_url": "https://uploads2.wikiart.org/00166/images/neo-rauch/der-felsenwirt-2014.jpg",
    "maker": "Neo Rauch",
@@ -139554,20 +140472,38 @@
    "identity_established": true,
    "published": true,
    "verification": "WikiArt, under Neo Rauch, dated 2014.",
-   "hue": 342.37,
-   "light": 0.6069,
-   "chroma": 0.3097,
-   "punch": 0.1165
+   "hue": 342.53,
+   "light": 0.5904,
+   "chroma": 0.3236,
+   "punch": 0.1215,
+   "crop": {
+    "box": [
+     13,
+     11,
+     846,
+     1013
+    ],
+    "was": [
+     850,
+     1024
+    ],
+    "now": [
+     833,
+     1002
+    ],
+    "uncropped": "originals_uncropped/CRVI002312.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-06::4b3fa48be620": {
    "id": "CRVI002313",
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002313.jpg",
    "original_px": [
-    1024,
-    849
+    1002,
+    834
    ],
-   "original_bytes": 857183,
+   "original_bytes": 440051,
    "identity": "sent-2026-09-06::4b3fa48be620",
    "source_url": "https://uploads3.wikiart.org/00166/images/neo-rauch/marina-2014.jpg",
    "maker": "Neo Rauch",
@@ -139606,20 +140542,38 @@
    "identity_established": true,
    "published": true,
    "verification": "WikiArt, under Neo Rauch, dated 2014.",
-   "hue": 36.82,
-   "light": 0.555,
-   "chroma": 0.2838,
-   "punch": 0.0967
+   "hue": 36.99,
+   "light": 0.5376,
+   "chroma": 0.2956,
+   "punch": 0.1007,
+   "crop": {
+    "box": [
+     10,
+     7,
+     1012,
+     841
+    ],
+    "was": [
+     1024,
+     849
+    ],
+    "now": [
+     1002,
+     834
+    ],
+    "uncropped": "originals_uncropped/CRVI002313.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-06::f93c5a8d4be5": {
    "id": "CRVI002314",
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002314.webp",
    "original_px": [
-    2000,
-    1674
+    1977,
+    1640
    ],
-   "original_bytes": 484970,
+   "original_bytes": 322216,
    "identity": "sent-2026-09-06::f93c5a8d4be5",
    "source_url": "https://cdn.i-scmp.com/sites/default/files/d8/images/canvas/2023/12/01/fa744cae-431a-4f70-a0d8-60d3e3a60207_cfece547.jpg",
    "maker": "Neo Rauch",
@@ -139654,10 +140608,28 @@
    "identity_established": true,
    "published": true,
    "verification": "South China Morning Post, from its Neo Rauch coverage. ⚠️ Title and date not established from the asset.",
-   "hue": 16.1,
-   "light": 0.3232,
-   "chroma": 0.4876,
-   "punch": 0.1144
+   "hue": 16.01,
+   "light": 0.3019,
+   "chroma": 0.5046,
+   "punch": 0.118,
+   "crop": {
+    "box": [
+     10,
+     13,
+     1987,
+     1653
+    ],
+    "was": [
+     2000,
+     1674
+    ],
+    "now": [
+     1977,
+     1640
+    ],
+    "uncropped": "originals_uncropped/CRVI002314.webp",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-06::609d6ee209b9": {
    "id": "CRVI002315",
@@ -139808,10 +140780,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002318.jpg",
    "original_px": [
-    1000,
-    1282
+    843,
+    1115
    ],
-   "original_bytes": 234373,
+   "original_bytes": 476392,
    "identity": "sent-2026-09-06::a34c37421e21",
    "source_url": "https://dinca.org/wp-content/uploads/2020/07/Tauba-Auerbach-Grain-Fret-Sublimation-2017-compressed.jpg",
    "maker": "Tauba Auerbach",
@@ -139850,10 +140822,28 @@
    "identity_established": true,
    "published": true,
    "verification": "dinca.org, which names it in the file: \"Tauba Auerbach Grain Fret Sublimation 2017\".",
-   "hue": 194.75,
-   "light": 0.767,
-   "chroma": 0.6725,
-   "punch": 0.1755
+   "hue": 194.65,
+   "light": 0.7055,
+   "chroma": 0.9197,
+   "punch": 0.2411,
+   "crop": {
+    "box": [
+     75,
+     65,
+     918,
+     1180
+    ],
+    "was": [
+     1000,
+     1282
+    ],
+    "now": [
+     843,
+     1115
+    ],
+    "uncropped": "originals_uncropped/CRVI002318.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-06::e2c20dd9c630": {
    "id": "CRVI002319",
@@ -140298,10 +141288,10 @@
    "minted": "2026-09-07",
    "original_file": "originals/CRVI002328.jpg",
    "original_px": [
-    1200,
-    1281
+    1180,
+    1262
    ],
-   "original_bytes": 77127,
+   "original_bytes": 297468,
    "identity": "sent-2026-09-07::812cfe892a2e",
    "source_url": "https://ca-times.brightspotcdn.com/dims4/default/336ba70/2147483647/strip/true/crop/1873x2000+0+0/resize/1200x1281!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F66%2F6e%2F6616f8fe458986497c81e94c5009%2Foof-edward-ruscha-courtesy-the-museum-of-modern-art.jpg",
    "maker": "Ed Ruscha",
@@ -140341,10 +141331,28 @@
    "identity_established": true,
    "published": true,
    "verification": "The Los Angeles Times, whose file names the work and credits the owner: 'oof-edward-ruscha-courtesy-the-museum-of-modern-art'.",
-   "hue": 247.81,
-   "light": 0.3143,
-   "chroma": 0.9396,
-   "punch": 0.2225
+   "hue": 247.86,
+   "light": 0.2925,
+   "chroma": 0.9703,
+   "punch": 0.2301,
+   "crop": {
+    "box": [
+     10,
+     10,
+     1190,
+     1272
+    ],
+    "was": [
+     1200,
+     1281
+    ],
+    "now": [
+     1180,
+     1262
+    ],
+    "uncropped": "originals_uncropped/CRVI002328.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-07::2602e70ea510": {
    "id": "CRVI002329",
@@ -140608,10 +141616,10 @@
    "minted": "2026-09-07",
    "original_file": "originals/CRVI002334.jpg",
    "original_px": [
-    2346,
-    3000
+    1662,
+    2271
    ],
-   "original_bytes": 938483,
+   "original_bytes": 1896861,
    "identity": "sent-2026-09-07::d59fd789ab91",
    "source_url": "https://cdn.sanity.io/images/juzvn5an/release-adp/77c4f9653438c9635398d78950083aa5bdbdeb9c-2346x3000.jpg?w=3840",
    "maker": "Neo Rauch",
@@ -140646,20 +141654,38 @@
    "identity_established": true,
    "published": true,
    "verification": "Identified by Todd, 2026-09-07, who sent the four item URLs back and said plainly \"This is Neo Rauch\". The record previously stood unattributed because its own source names nobody — that is still true of the source, and the attribution here rests on the collector's identification, not on the file. Original note: cdn.sanity.io, under a hash, with no caption and no artist named anywhere in the URL. Unattributed. The manner reads as Neo Rauch's earlier portraits, but the source supports no name and resemblance is not attribution.",
-   "hue": 202.41,
-   "light": 0.5252,
-   "chroma": 0.4646,
-   "punch": 0.0997
+   "hue": 202.46,
+   "light": 0.2801,
+   "chroma": 0.6811,
+   "punch": 0.1601,
+   "crop": {
+    "box": [
+     337,
+     340,
+     1999,
+     2611
+    ],
+    "was": [
+     2346,
+     3000
+    ],
+    "now": [
+     1662,
+     2271
+    ],
+    "uncropped": "originals_uncropped/CRVI002334.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-07::7201a46bb85f": {
    "id": "CRVI002335",
    "minted": "2026-09-07",
    "original_file": "originals/CRVI002335.jpg",
    "original_px": [
-    3000,
-    2561
+    2448,
+    1960
    ],
-   "original_bytes": 869073,
+   "original_bytes": 2039093,
    "identity": "sent-2026-09-07::7201a46bb85f",
    "source_url": "https://cdn.sanity.io/images/juzvn5an/release-adp/24e215d39832fa3cf1285ea68655662ba9d8297e-3000x2561.jpg?w=3840",
    "maker": "Neo Rauch",
@@ -140694,20 +141720,38 @@
    "identity_established": true,
    "published": true,
    "verification": "Identified by Todd, 2026-09-07, who sent the four item URLs back and said plainly \"This is Neo Rauch\". The record previously stood unattributed because its own source names nobody — that is still true of the source, and the attribution here rests on the collector's identification, not on the file. Original note: cdn.sanity.io, same project and same absence — a hash, no caption, no name. Unattributed. The manner reads as Neo Rauch; the source establishes nothing.",
-   "hue": 14.9,
-   "light": 0.5429,
-   "chroma": 0.3673,
-   "punch": 0.1148
+   "hue": 14.72,
+   "light": 0.3487,
+   "chroma": 0.5815,
+   "punch": 0.1791,
+   "crop": {
+    "box": [
+     279,
+     274,
+     2727,
+     2234
+    ],
+    "was": [
+     3000,
+     2561
+    ],
+    "now": [
+     2448,
+     1960
+    ],
+    "uncropped": "originals_uncropped/CRVI002335.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-07::a2549bde1b88": {
    "id": "CRVI002336",
    "minted": "2026-09-07",
    "original_file": "originals/CRVI002336.jpg",
    "original_px": [
-    1000,
-    1192
+    960,
+    1152
    ],
-   "original_bytes": 662172,
+   "original_bytes": 694323,
    "identity": "sent-2026-09-07::a2549bde1b88",
    "source_url": "https://backend.artreview.com/wp-content/uploads/2023/10/Der-s%CC%8Cbergang-2018.jpg",
    "maker": "Neo Rauch",
@@ -140746,10 +141790,28 @@
    "identity_established": true,
    "published": true,
    "verification": "ArtReview, whose file names the work and its year: 'Der-Übergang-2018.jpg'.",
-   "hue": 211.31,
-   "light": 0.5423,
-   "chroma": 0.8222,
-   "punch": 0.1993
+   "hue": 211.28,
+   "light": 0.5069,
+   "chroma": 0.877,
+   "punch": 0.2146,
+   "crop": {
+    "box": [
+     18,
+     18,
+     978,
+     1170
+    ],
+    "was": [
+     1000,
+     1192
+    ],
+    "now": [
+     960,
+     1152
+    ],
+    "uncropped": "originals_uncropped/CRVI002336.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-07::64b9e714f261": {
    "id": "CRVI002337",
@@ -140804,10 +141866,10 @@
    "minted": "2026-09-07",
    "original_file": "originals/CRVI002338.jpg",
    "original_px": [
-    2048,
-    2505
+    1411,
+    1761
    ],
-   "original_bytes": 885326,
+   "original_bytes": 1087389,
    "identity": "sent-2026-09-07::8af6c7eac948",
    "source_url": "https://sothebys-md.brightspotcdn.com/dims4/default/dae2bc5/2147483647/strip/true/crop/4696x5744+0+0/resize/2048x2505!/quality/90/?url=http%3A%2F%2Fsothebys-brightspot.s3.amazonaws.com%2Fmedia-desk%2Ffd%2F6d%2Fa12342f347a5a43dadc75fe02a6d%2Fl25024-9f5dv-t3-02-a-rs.jpg",
    "maker": "Neo Rauch",
@@ -140842,20 +141904,38 @@
    "identity_established": true,
    "published": true,
    "verification": "Identified by Todd, 2026-09-07, who sent the four item URLs back and said plainly \"This is Neo Rauch\". The record previously stood unattributed because its own source names nobody — that is still true of the source, and the attribution here rests on the collector's identification, not on the file. Original note: A Sotheby's media file (lot reference l25024) with no catalogue text attached. Unattributed: the manner reads as Neo Rauch, but no lot record was reachable to confirm it, and neither title nor year is established.",
-   "hue": 53.8,
-   "light": 0.623,
-   "chroma": 0.3048,
-   "punch": 0.1385
+   "hue": 53.85,
+   "light": 0.4056,
+   "chroma": 0.6213,
+   "punch": 0.2867,
+   "crop": {
+    "box": [
+     323,
+     187,
+     1734,
+     1948
+    ],
+    "was": [
+     2048,
+     2505
+    ],
+    "now": [
+     1411,
+     1761
+    ],
+    "uncropped": "originals_uncropped/CRVI002338.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-07::13e711807c44": {
    "id": "CRVI002339",
    "minted": "2026-09-07",
    "original_file": "originals/CRVI002339.jpg",
    "original_px": [
-    1178,
-    1400
+    1138,
+    1361
    ],
-   "original_bytes": 275499,
+   "original_bytes": 697084,
    "identity": "sent-2026-09-07::13e711807c44",
    "source_url": "https://whitehotmagazine.com/UserFiles/image/0/10/3f78cc19481bfc36f1d6b99506b15c8b.jpg",
    "maker": "Neo Rauch",
@@ -140890,10 +141970,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Identified by Todd, 2026-09-07, who sent the four item URLs back and said plainly \"This is Neo Rauch\". The record previously stood unattributed because its own source names nobody — that is still true of the source, and the attribution here rests on the collector's identification, not on the file. Original note: Whitehot Magazine, which serves it under a bare hash filename and no caption. Unattributed; the manner reads as Neo Rauch and nothing in the source says so.",
-   "hue": 34.31,
-   "light": 0.3719,
-   "chroma": 0.4609,
-   "punch": 0.1144
+   "hue": 34.44,
+   "light": 0.3372,
+   "chroma": 0.4979,
+   "punch": 0.1211,
+   "crop": {
+    "box": [
+     21,
+     12,
+     1159,
+     1373
+    ],
+    "was": [
+     1178,
+     1400
+    ],
+    "now": [
+     1138,
+     1361
+    ],
+    "uncropped": "originals_uncropped/CRVI002339.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-07b::517c2f59acf6": {
    "id": "CRVI002340",
@@ -141100,10 +142198,10 @@
    "minted": "2026-09-07",
    "original_file": "originals/CRVI002344.jpg",
    "original_px": [
-    1499,
-    1499
+    1013,
+    1445
    ],
-   "original_bytes": 1051683,
+   "original_bytes": 509749,
    "identity": "sent-2026-09-07b::9a1ac0bfca40",
    "source_url": "https://cellar-c2.services.clever-cloud.com/medias.piasa.amphibee.fr/images/1799/35_1.jpg",
    "maker": "Unidentified",
@@ -141135,10 +142233,28 @@
    "identity_established": true,
    "published": true,
    "verification": "A PIASA auction media file (lot image 1799/35_1) with no catalogue text attached. ⚠️ UNATTRIBUTED ON PURPOSE: the concentric-disc composition is one BOTH Robert and Sonia Delaunay worked in for decades, and the source names neither. Resemblance is not attribution.",
-   "hue": 356.08,
-   "light": 0.6336,
-   "chroma": 0.5579,
-   "punch": 0.2416
+   "hue": 356.07,
+   "light": 0.4549,
+   "chroma": 0.8313,
+   "punch": 0.3675,
+   "crop": {
+    "box": [
+     248,
+     26,
+     1261,
+     1471
+    ],
+    "was": [
+     1499,
+     1499
+    ],
+    "now": [
+     1013,
+     1445
+    ],
+    "uncropped": "originals_uncropped/CRVI002344.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-07b::eeb92374a132": {
    "id": "CRVI002345",
@@ -141610,10 +142726,10 @@
    "minted": "2026-09-07",
    "original_file": "originals/CRVI002354.jpg",
    "original_px": [
-    1208,
-    1600
+    1085,
+    1511
    ],
-   "original_bytes": 390088,
+   "original_bytes": 676722,
    "identity": "sent-2026-09-07b::d583b1008cb9",
    "source_url": "https://i.ebayimg.com/images/g/CMgAAOSw93tnpWhv/s-l1200.jpg",
    "maker": "René Magritte",
@@ -141649,10 +142765,28 @@
    "identity_established": true,
    "published": true,
    "verification": "An eBay listing image. ⚠️ A MARKETPLACE LISTING IS NOT A SOURCE, and this is recorded as attributed on the WORK, not on the seller: the yellow-lit profile in a bowler hat, the birdcage of doves above it, Magritte's signature legible at the right. Title, date and whether this is the painting or a reproduction of it are all unestablished.",
-   "hue": 37.59,
-   "light": 0.4879,
-   "chroma": 0.6197,
-   "punch": 0.2093
+   "hue": 224.63,
+   "light": 0.4421,
+   "chroma": 0.5872,
+   "punch": 0.209,
+   "crop": {
+    "box": [
+     64,
+     46,
+     1149,
+     1557
+    ],
+    "was": [
+     1208,
+     1600
+    ],
+    "now": [
+     1085,
+     1511
+    ],
+    "uncropped": "originals_uncropped/CRVI002354.jpg",
+    "decided": "2026-09-12 by Todd, by hand"
+   }
   },
   "sent-2026-09-07b::b84f6a49894d": {
    "id": "CRVI002355",
