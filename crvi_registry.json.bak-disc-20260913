@@ -11232,10 +11232,6 @@
     {
      "k": "location",
      "v": "Japan"
-    },
-    {
-     "k": "motif",
-     "v": "artist with their work"
     }
    ],
    "identity_established": true,
@@ -46041,6 +46037,10 @@
      "v": "1950s"
     },
     {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
      "k": "location",
      "v": "Poland"
     }
@@ -47009,6 +47009,10 @@
      "v": "Print"
     },
     {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
      "k": "location",
      "v": "United States"
     }
@@ -47208,6 +47212,10 @@
      "v": "Jacqueline Cochran"
     },
     {
+     "k": "subject",
+     "v": "advertising"
+    },
+    {
      "k": "location",
      "v": "United States"
     }
@@ -47274,6 +47282,10 @@
     {
      "k": "client",
      "v": "Pepsi-Cola"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
     },
     {
      "k": "location",
@@ -47593,6 +47605,10 @@
      "v": "International Design Conference in Aspen"
     },
     {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
      "k": "location",
      "v": "United States"
     }
@@ -47764,6 +47780,10 @@
     {
      "k": "decade",
      "v": "2000s"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
     },
     {
      "k": "location",
@@ -47981,6 +48001,10 @@
      "v": "Esquire"
     },
     {
+     "k": "subject",
+     "v": "editorial design"
+    },
+    {
      "k": "location",
      "v": "United States"
     }
@@ -48056,6 +48080,10 @@
     {
      "k": "client",
      "v": "Journal of the American Medical Association"
+    },
+    {
+     "k": "subject",
+     "v": "editorial design"
     },
     {
      "k": "location",
@@ -48810,6 +48838,10 @@
      "v": "2010s"
     },
     {
+     "k": "subject",
+     "v": "painting"
+    },
+    {
      "k": "location",
      "v": "United States"
     }
@@ -48870,6 +48902,10 @@
      "v": "1980s"
     },
     {
+     "k": "subject",
+     "v": "painting"
+    },
+    {
      "k": "location",
      "v": "United States"
     }
@@ -48928,6 +48964,10 @@
     {
      "k": "decade",
      "v": "1980s"
+    },
+    {
+     "k": "subject",
+     "v": "painting"
     },
     {
      "k": "location",
@@ -49808,6 +49848,10 @@
      "v": "Mohawk Paper Mills"
     },
     {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
      "k": "location",
      "v": "United States"
     }
@@ -50022,6 +50066,10 @@
     {
      "k": "client",
      "v": "AIGA"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
     },
     {
      "k": "location",
@@ -50783,6 +50831,10 @@
      "v": "Harry N. Abrams"
     },
     {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
      "k": "location",
      "v": "United States"
     }
@@ -50898,6 +50950,10 @@
      "v": "Ottagono"
     },
     {
+     "k": "subject",
+     "v": "design"
+    },
+    {
      "k": "location",
      "v": "Italy"
     }
@@ -50970,6 +51026,10 @@
      "v": "Ottagono"
     },
     {
+     "k": "subject",
+     "v": "design"
+    },
+    {
      "k": "location",
      "v": "Italy"
     }
@@ -51023,6 +51083,10 @@
     {
      "k": "client",
      "v": "Ottagono"
+    },
+    {
+     "k": "subject",
+     "v": "design"
     },
     {
      "k": "location",
@@ -51097,6 +51161,10 @@
      "v": "Ottagono"
     },
     {
+     "k": "subject",
+     "v": "design"
+    },
+    {
      "k": "location",
      "v": "Italy"
     }
@@ -51150,6 +51218,10 @@
     {
      "k": "client",
      "v": "Ottagono"
+    },
+    {
+     "k": "subject",
+     "v": "design"
     },
     {
      "k": "location",
@@ -51224,6 +51296,10 @@
      "v": "Ottagono"
     },
     {
+     "k": "subject",
+     "v": "design"
+    },
+    {
      "k": "location",
      "v": "Italy"
     }
@@ -51294,6 +51370,10 @@
     {
      "k": "client",
      "v": "Ottagono"
+    },
+    {
+     "k": "subject",
+     "v": "design"
     },
     {
      "k": "location",
@@ -51668,6 +51748,10 @@
      "v": "form"
     },
     {
+     "k": "subject",
+     "v": "design"
+    },
+    {
      "k": "location",
      "v": "Germany"
     }
@@ -51720,6 +51804,10 @@
     {
      "k": "client",
      "v": "form"
+    },
+    {
+     "k": "subject",
+     "v": "design"
     },
     {
      "k": "location",
@@ -52101,6 +52189,10 @@
      "v": "Bloomberg Businessweek"
     },
     {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
      "k": "location",
      "v": "United States"
     }
@@ -52154,6 +52246,10 @@
     {
      "k": "client",
      "v": "The Face"
+    },
+    {
+     "k": "subject",
+     "v": "editorial design"
     },
     {
      "k": "location",
@@ -67059,6 +67155,10 @@
      "v": "typography"
     },
     {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
      "k": "location",
      "v": "Sweden"
     }
@@ -67118,6 +67218,10 @@
     {
      "k": "subject",
      "v": "typography"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
     },
     {
      "k": "location",
@@ -67182,6 +67286,10 @@
     {
      "k": "subject",
      "v": "typography"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
     },
     {
      "k": "location",
@@ -87625,6 +87733,10 @@
      "v": "wire"
     },
     {
+     "k": "subject",
+     "v": "sculpture"
+    },
+    {
      "k": "location",
      "v": "United States"
     }
@@ -87692,6 +87804,10 @@
      "v": "wire"
     },
     {
+     "k": "subject",
+     "v": "sculpture"
+    },
+    {
      "k": "location",
      "v": "United States"
     }
@@ -87752,6 +87868,10 @@
     {
      "k": "medium",
      "v": "wire"
+    },
+    {
+     "k": "subject",
+     "v": "sculpture"
     },
     {
      "k": "photographer",
@@ -87895,6 +88015,10 @@
     {
      "k": "client",
      "v": "Lorillard Tobacco Company"
+    },
+    {
+     "k": "subject",
+     "v": "advertising"
     },
     {
      "k": "location",
@@ -90929,6 +91053,10 @@
      "v": "print"
     },
     {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
      "k": "location",
      "v": "Austria"
     }
@@ -90997,6 +91125,10 @@
     {
      "k": "artist",
      "v": "Josh MacPhee"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
     },
     {
      "k": "location",
@@ -91203,6 +91335,10 @@
      "v": "print"
     },
     {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
      "k": "location",
      "v": "Austria"
     }
@@ -91392,6 +91528,10 @@
     {
      "k": "type",
      "v": "poster"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
     },
     {
      "k": "location",
@@ -112424,10 +112564,6 @@
     {
      "k": "location",
      "v": "France"
-    },
-    {
-     "k": "motif",
-     "v": "artist with their work"
     }
    ],
    "identity_established": true,
@@ -121133,10 +121269,6 @@
     {
      "k": "location",
      "v": "Japan"
-    },
-    {
-     "k": "motif",
-     "v": "artist with their work"
     }
    ],
    "identity_established": true,
@@ -130918,10 +131050,6 @@
     {
      "k": "location",
      "v": "United States"
-    },
-    {
-     "k": "motif",
-     "v": "artist with their work"
     }
    ],
    "identity_established": true,
@@ -136981,10 +137109,6 @@
     {
      "k": "location",
      "v": "Germany"
-    },
-    {
-     "k": "motif",
-     "v": "artist with their work"
     }
    ],
    "identity_established": true,
@@ -137614,10 +137738,6 @@
     {
      "k": "location",
      "v": "United States"
-    },
-    {
-     "k": "motif",
-     "v": "artist with their work"
     }
    ],
    "identity_established": true,
@@ -153679,6 +153799,10 @@
     {
      "k": "subject",
      "v": "Josef Müller-Brockmann"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
     }
    ],
    "identity_established": true,
@@ -153974,6 +154098,10 @@
     {
      "k": "subject",
      "v": "Josef Müller-Brockmann"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
     }
    ],
    "identity_established": true,
@@ -154084,6 +154212,10 @@
     {
      "k": "subject",
      "v": "Josef Müller-Brockmann"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
     }
    ],
    "identity_established": true,
@@ -162868,6 +163000,10 @@
      "v": "Ginza Graphic Gallery"
     },
     {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
      "k": "location",
      "v": "Japan"
     },
@@ -163516,6 +163652,10 @@
      "v": "Takashimaya"
     },
     {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
      "k": "location",
      "v": "Japan"
     },
@@ -163579,6 +163719,10 @@
     {
      "k": "client",
      "v": "Idea"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
     },
     {
      "k": "location",
@@ -163812,6 +163956,10 @@
      "v": "Takashimaya"
     },
     {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
      "k": "location",
      "v": "Japan"
     },
@@ -163871,6 +164019,10 @@
     {
      "k": "client",
      "v": "RC Publications"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
     },
     {
      "k": "location",
@@ -163946,6 +164098,10 @@
     {
      "k": "subject",
      "v": "Ikko Tanaka"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
     },
     {
      "k": "location",
@@ -164025,6 +164181,10 @@
     {
      "k": "client",
      "v": "RC Publications"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
     },
     {
      "k": "location",
@@ -164133,6 +164293,10 @@
      "v": "Kazumasa Nagai"
     },
     {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
      "k": "location",
      "v": "Japan"
     },
@@ -164238,6 +164402,10 @@
     {
      "k": "decade",
      "v": "1980s"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
     },
     {
      "k": "location",
@@ -164359,6 +164527,10 @@
     {
      "k": "art director",
      "v": "Ryuichi Yamashiro"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
     },
     {
      "k": "location",
@@ -164483,6 +164655,10 @@
      "v": "Museum of Modern Art, Toyama"
     },
     {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
      "k": "location",
      "v": "Japan"
     }
@@ -164538,6 +164714,10 @@
     {
      "k": "client",
      "v": "Museum für Gestaltung Zürich"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
     },
     {
      "k": "location",
@@ -165011,6 +165191,10 @@
      "v": "Sayoko Yamaguchi"
     },
     {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
      "k": "location",
      "v": "France"
     },
@@ -165068,6 +165252,10 @@
      "v": "Takashi Kono"
     },
     {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
      "k": "location",
      "v": "United States"
     }
@@ -165123,6 +165311,10 @@
     {
      "k": "client",
      "v": "Bijutsu Shuppansha"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
     },
     {
      "k": "location",
@@ -165184,6 +165376,10 @@
     {
      "k": "client",
      "v": "Bijutsu Shuppansha"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
     },
     {
      "k": "location",
@@ -165430,6 +165626,10 @@
      "v": "Yomiuri Shimbun"
     },
     {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
      "k": "location",
      "v": "Japan"
     },
@@ -165489,6 +165689,10 @@
     {
      "k": "client",
      "v": "Bijutsu Shuppansha"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
     },
     {
      "k": "location",
@@ -165564,6 +165768,10 @@
     {
      "k": "client",
      "v": "Nicker Colour"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
     },
     {
      "k": "location",
@@ -165643,6 +165851,10 @@
     {
      "k": "client",
      "v": "Bijutsu Shuppansha"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
     },
     {
      "k": "location",
@@ -165729,6 +165941,10 @@
      "v": "SD Space Design"
     },
     {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
      "k": "location",
      "v": "Japan"
     },
@@ -165806,6 +166022,10 @@
     {
      "k": "client",
      "v": "Bijutsu Shuppansha"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
     },
     {
      "k": "location",
@@ -165893,6 +166113,10 @@
     {
      "k": "client",
      "v": "Idea"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
     },
     {
      "k": "location",
@@ -166528,6 +166752,10 @@
      "v": "Shin Matsunaga"
     },
     {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
      "k": "location",
      "v": "Japan"
     },
@@ -166588,6 +166816,10 @@
      "v": "BIO Biennial of Design"
     },
     {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
      "k": "location",
      "v": "Slovenia"
     },
@@ -166646,6 +166878,10 @@
     {
      "k": "client",
      "v": "Wako"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
     },
     {
      "k": "location",
@@ -169168,6 +169404,10 @@
      "v": "photograph"
     },
     {
+     "k": "subject",
+     "v": "photography"
+    },
+    {
      "k": "location",
      "v": "United States"
     }
@@ -171159,6 +171399,10 @@
      "v": "Kunsthalle Basel"
     },
     {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
      "k": "location",
      "v": "Switzerland"
     }
@@ -171205,6 +171449,10 @@
     {
      "k": "client",
      "v": "Kunsthalle Basel"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
     },
     {
      "k": "location",
@@ -171527,6 +171775,10 @@
     {
      "k": "subject",
      "v": "Rosmarie Tissi"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
     }
    ],
    "identity_established": true,
@@ -171717,6 +171969,10 @@
     {
      "k": "client",
      "v": "Barbican Centre"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
     },
     {
      "k": "location",
@@ -172362,6 +172618,10 @@
      "v": "Walter Dexel"
     },
     {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
      "k": "location",
      "v": "Germany"
     }
@@ -172926,6 +173186,10 @@
      "v": "Walter Herdeg"
     },
     {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
      "k": "location",
      "v": "Italy"
     },
@@ -173010,6 +173274,10 @@
      "v": "Walter Herdeg"
     },
     {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
      "k": "location",
      "v": "United States"
     },
@@ -173090,6 +173358,10 @@
     {
      "k": "art director",
      "v": "Walter Herdeg"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
     },
     {
      "k": "location",
@@ -173175,6 +173447,10 @@
      "v": "Walter Herdeg"
     },
     {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
      "k": "location",
      "v": "United States"
     },
@@ -173238,6 +173514,10 @@
     {
      "k": "art director",
      "v": "Walter Herdeg"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
     },
     {
      "k": "location",
@@ -174683,6 +174963,10 @@
      "v": "Walter Herdeg"
     },
     {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
      "k": "location",
      "v": "Switzerland"
     }
@@ -174760,6 +175044,10 @@
     {
      "k": "city",
      "v": "Los Angeles"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
     }
    ],
    "identity_established": true,
@@ -174884,6 +175172,10 @@
      "v": "Walker Art Center"
     },
     {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
      "k": "location",
      "v": "United States"
     }
@@ -174939,6 +175231,10 @@
     {
      "k": "client",
      "v": "AIGA"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
     },
     {
      "k": "location",
@@ -175063,6 +175359,10 @@
     },
     {
      "k": "subject",
+     "v": "graphic design"
+    },
+    {
+     "k": "subject",
      "v": "climate"
     }
    ],
@@ -175119,6 +175419,10 @@
     },
     {
      "k": "subject",
+     "v": "graphic design"
+    },
+    {
+     "k": "subject",
      "v": "poster design"
     }
    ],
@@ -175172,6 +175476,10 @@
     {
      "k": "location",
      "v": "Switzerland"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
     },
     {
      "k": "genre",
@@ -175239,6 +175547,10 @@
      "v": "Switzerland"
     },
     {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
      "k": "genre",
      "v": "music"
     },
@@ -175294,6 +175606,10 @@
     {
      "k": "location",
      "v": "Switzerland"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
     },
     {
      "k": "client",
@@ -175353,6 +175669,10 @@
      "v": "Switzerland"
     },
     {
+     "k": "subject",
+     "v": "graphic design"
+    },
+    {
      "k": "client",
      "v": "Graphis"
     },
@@ -175407,6 +175727,10 @@
     {
      "k": "location",
      "v": "Switzerland"
+    },
+    {
+     "k": "subject",
+     "v": "graphic design"
     },
     {
      "k": "subject",
@@ -180232,6 +180556,10 @@
      "v": "Archigram"
     },
     {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
      "k": "location",
      "v": "United Kingdom"
     }
@@ -180303,6 +180631,10 @@
      "v": "Archigram"
     },
     {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
      "k": "location",
      "v": "United Kingdom"
     }
@@ -180360,6 +180692,10 @@
      "v": "Archigram"
     },
     {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
      "k": "location",
      "v": "United Kingdom"
     }
@@ -180411,6 +180747,10 @@
     {
      "k": "subject",
      "v": "Archigram"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
     },
     {
      "k": "location",
@@ -180481,6 +180821,10 @@
     {
      "k": "subject",
      "v": "Archigram"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
     },
     {
      "k": "location",
@@ -180757,6 +181101,10 @@
     {
      "k": "client",
      "v": "ICAIC"
+    },
+    {
+     "k": "subject",
+     "v": "film"
     },
     {
      "k": "location",
@@ -181551,6 +181899,10 @@
      "v": "Georgii Stenberg"
     },
     {
+     "k": "subject",
+     "v": "film"
+    },
+    {
      "k": "location",
      "v": "Russia"
     },
@@ -181614,6 +181966,10 @@
     {
      "k": "designer",
      "v": "Georgii Stenberg"
+    },
+    {
+     "k": "subject",
+     "v": "film"
     },
     {
      "k": "location",
@@ -187061,6 +187417,10 @@
     {
      "k": "artist",
      "v": "Louise Bourgeois"
+    },
+    {
+     "k": "subject",
+     "v": "sculpture"
     }
    ],
    "identity_established": true,
@@ -187109,6 +187469,10 @@
     {
      "k": "artist",
      "v": "Louise Bourgeois"
+    },
+    {
+     "k": "subject",
+     "v": "sculpture"
     }
    ],
    "identity_established": true,
@@ -187154,6 +187518,10 @@
     {
      "k": "artist",
      "v": "Sarah Sze"
+    },
+    {
+     "k": "subject",
+     "v": "sculpture"
     }
    ],
    "identity_established": true,
@@ -187199,6 +187567,10 @@
     {
      "k": "artist",
      "v": "Sarah Sze"
+    },
+    {
+     "k": "subject",
+     "v": "sculpture"
     }
    ],
    "identity_established": true,
@@ -187244,6 +187616,10 @@
     {
      "k": "artist",
      "v": "Sheila Hicks"
+    },
+    {
+     "k": "subject",
+     "v": "sculpture"
     }
    ],
    "identity_established": true,
@@ -187289,6 +187665,10 @@
     {
      "k": "artist",
      "v": "Sheila Hicks"
+    },
+    {
+     "k": "subject",
+     "v": "sculpture"
     }
    ],
    "identity_established": true,
@@ -187338,6 +187718,10 @@
     {
      "k": "artist",
      "v": "Agnes Denes"
+    },
+    {
+     "k": "subject",
+     "v": "sculpture"
     }
    ],
    "identity_established": true,
@@ -187383,6 +187767,10 @@
     {
      "k": "artist",
      "v": "Paola Pivi"
+    },
+    {
+     "k": "subject",
+     "v": "sculpture"
     }
    ],
    "identity_established": true,
@@ -187427,6 +187815,10 @@
     {
      "k": "artist",
      "v": "Paola Pivi"
+    },
+    {
+     "k": "subject",
+     "v": "sculpture"
     }
    ],
    "identity_established": true,
@@ -187471,6 +187863,10 @@
     {
      "k": "artist",
      "v": "Paola Pivi"
+    },
+    {
+     "k": "subject",
+     "v": "sculpture"
     }
    ],
    "identity_established": true,
@@ -187519,6 +187915,10 @@
     {
      "k": "artist",
      "v": "Nancy Holt"
+    },
+    {
+     "k": "subject",
+     "v": "sculpture"
     }
    ],
    "identity_established": true,
@@ -187701,6 +188101,10 @@
     {
      "k": "artist",
      "v": "Keyezua"
+    },
+    {
+     "k": "subject",
+     "v": "photography"
     },
     {
      "k": "location",
@@ -195630,10 +196034,6 @@
     {
      "k": "location",
      "v": "France"
-    },
-    {
-     "k": "motif",
-     "v": "artist with their work"
     }
    ],
    "identity_established": true,
@@ -196746,10 +197146,6 @@
     {
      "k": "location",
      "v": "France"
-    },
-    {
-     "k": "motif",
-     "v": "artist with their work"
     }
    ],
    "identity_established": true,
@@ -196865,10 +197261,6 @@
     {
      "k": "location",
      "v": "Germany"
-    },
-    {
-     "k": "motif",
-     "v": "artist with their work"
     }
    ],
    "identity_established": true,
@@ -199099,6 +199491,10 @@
      "v": "Archigram"
     },
     {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
      "k": "location",
      "v": "United Kingdom"
     },
@@ -199167,6 +199563,10 @@
      "v": "Archigram"
     },
     {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
      "k": "location",
      "v": "United Kingdom"
     },
@@ -199224,6 +199624,10 @@
      "v": "Archigram"
     },
     {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
      "k": "location",
      "v": "United Kingdom"
     },
@@ -199278,6 +199682,10 @@
     {
      "k": "subject",
      "v": "Archigram"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
     },
     {
      "k": "location",
@@ -199565,6 +199973,10 @@
     {
      "k": "subject",
      "v": "Archigram"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
     },
     {
      "k": "location",
