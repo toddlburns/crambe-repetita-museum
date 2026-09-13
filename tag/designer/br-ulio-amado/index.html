@@ -1,0 +1,50 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>designer: Bráulio Amado — Crambe Repetita Museum</title><link rel="stylesheet" href="../../../style.css"></head><body><div class="crumb"><span class="t">DESIGNER: BRÁULIO AMADO</span><span class="c">19 items</span><a href="../../../tags/">&#8592; all tags</a></div><div class="grid"><a class="cell" href="../../../CRVI003314/"><div class="inner"><img src="../../../thumbs/CRVI003314.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI003314</span>Bráulio Amado - Untitled<br></div></a><a class="cell" href="../../../CRVI003315/"><div class="inner"><img src="../../../thumbs/CRVI003315.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI003315</span>Bráulio Amado - Untitled<br></div></a><a class="cell" href="../../../CRVI003316/"><div class="inner"><img src="../../../thumbs/CRVI003316.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI003316</span>Bráulio Amado - Untitled<br></div></a><a class="cell" href="../../../CRVI003317/"><div class="inner"><img src="../../../thumbs/CRVI003317.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI003317</span>Bráulio Amado - Untitled<br></div></a><a class="cell" href="../../../CRVI003318/"><div class="inner"><img src="../../../thumbs/CRVI003318.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI003318</span>Bráulio Amado - Untitled<br></div></a><a class="cell" href="../../../CRVI003319/"><div class="inner"><img src="../../../thumbs/CRVI003319.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI003319</span>Bráulio Amado - Untitled<br></div></a><a class="cell" href="../../../CRVI003320/"><div class="inner"><img src="../../../thumbs/CRVI003320.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI003320</span>Bráulio Amado - Untitled<br></div></a><a class="cell" href="../../../CRVI003321/"><div class="inner"><img src="../../../thumbs/CRVI003321.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI003321</span>Bráulio Amado - Untitled<br></div></a><a class="cell" href="../../../CRVI003322/"><div class="inner"><img src="../../../thumbs/CRVI003322.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI003322</span>Bráulio Amado - Untitled<br></div></a><a class="cell" href="../../../CRVI003323/"><div class="inner"><img src="../../../thumbs/CRVI003323.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI003323</span>Bráulio Amado - Untitled<br></div></a><a class="cell" href="../../../CRVI003324/"><div class="inner"><img src="../../../thumbs/CRVI003324.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI003324</span>Bráulio Amado - Untitled<br></div></a><a class="cell" href="../../../CRVI003325/"><div class="inner"><img src="../../../thumbs/CRVI003325.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI003325</span>Bráulio Amado - Untitled<br></div></a><a class="cell" href="../../../CRVI003326/"><div class="inner"><img src="../../../thumbs/CRVI003326.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI003326</span>Bráulio Amado - Untitled<br></div></a><a class="cell" href="../../../CRVI003327/"><div class="inner"><img src="../../../thumbs/CRVI003327.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI003327</span>Bráulio Amado - Untitled<br></div></a><a class="cell" href="../../../CRVI003328/"><div class="inner"><img src="../../../thumbs/CRVI003328.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI003328</span>Bráulio Amado - Untitled<br></div></a><a class="cell" href="../../../CRVI003329/"><div class="inner"><img src="../../../thumbs/CRVI003329.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI003329</span>Bráulio Amado - Untitled<br></div></a><a class="cell" href="../../../CRVI003330/"><div class="inner"><img src="../../../thumbs/CRVI003330.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI003330</span>Bráulio Amado - Untitled<br></div></a><a class="cell" href="../../../CRVI003331/"><div class="inner"><img src="../../../thumbs/CRVI003331.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI003331</span>Bráulio Amado - Untitled<br></div></a><a class="cell" href="../../../CRVI003332/"><div class="inner"><img src="../../../thumbs/CRVI003332.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">CRVI003332</span>Bráulio Amado - Untitled<br></div></a></div><script>
+var SCALE=3;var t=null;
+// ⚠️ THE GIF IS FETCHED ON HOVER, NOT BEFORE. Setting src is what triggers the download, so a
+// grid cell ships the still poster and only swaps in the animation when the pointer arrives.
+// Pausing or hiding a GIF whose src is already set saves nothing — it is on the wire either way.
+// The poster is kept in data-poster so leaving restores it without a second fetch of anything.
+function playGif(c){
+  var im=c.querySelector('img.anim');
+  if(!im) return;
+  var g=im.getAttribute('data-gif');
+  if(!g||im.dataset.playing) return;
+  im.dataset.poster=im.getAttribute('src');
+  im.dataset.playing='1';
+  im.setAttribute('src',g);
+}
+function stopGif(c){
+  var im=c.querySelector('img.anim');
+  if(!im||!im.dataset.playing) return;
+  // back to the still, so a page full of gifs is not left all animating at once
+  im.setAttribute('src',im.dataset.poster);
+  delete im.dataset.playing;
+}
+// ⚠️ A VIDEO CANNOT BE SWAPPED INTO AN <img>. Where a gif item just changes src, a video item
+// lays a <video> over its still on hover and takes it away again on leave — same bargain as the
+// gif: nothing is on the wire until the pointer arrives, and a grid is never left all playing.
+function playVid(c){
+  var im=c.querySelector('img.anim'); if(!im) return;
+  var u=im.getAttribute('data-video'); if(!u||c.querySelector('video')) return;
+  var v=document.createElement('video');
+  v.src=u; v.autoplay=true; v.loop=true; v.muted=true; v.playsInline=true;
+  im.parentNode.appendChild(v);
+}
+function stopVid(c){ var v=c.querySelector('video'); if(v) v.parentNode.removeChild(v); }
+document.querySelectorAll('.cell').forEach(function(c){
+  c.addEventListener('mouseenter',function(){
+    playGif(c); playVid(c);
+    clearTimeout(t);
+    t=setTimeout(function(){
+      // transform does not change layout, so push the caption below the grown image
+      var im=c.querySelector('img'),cap=c.querySelector('.cap');
+      cap.style.transform='translateY('+im.getBoundingClientRect().height*(SCALE-1)+'px)';
+      c.classList.add('big');
+    },1000);
+  });
+  c.addEventListener('mouseleave',function(){
+    stopGif(c); stopVid(c);
+    clearTimeout(t);c.classList.remove('big');c.querySelector('.cap').style.transform='';
+  });
+});
+</script></body></html>

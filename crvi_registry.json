@@ -1,5 +1,5 @@
 {
- "next": 3280,
+ "next": 3356,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -199586,6 +199586,3800 @@
    "light": 0.8236,
    "chroma": 0.1898,
    "punch": 0.0493
+  },
+  "todd-picks-2026-09-13::f1-yvind-fahlstr-m": {
+   "id": "CRVI003280",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003280.jpg",
+   "original_px": [
+    2044,
+    2366
+   ],
+   "original_bytes": 3410990,
+   "identity": "todd-picks-2026-09-13::f1-yvind-fahlstr-m",
+   "maker": "Öyvind Fahlström",
+   "title": "Mask of Paul",
+   "verified_against": "Picked by Todd off the Öyvind Fahlström deep contact sheet, 2026-09-13. Source: mutualart. Page: https://www.mutualart.com/Artwork/Mask-of-Paul/CC819120ADF4B09D. Measured at 2044x2366 before minting and screened against the archive for duplicates.",
+   "year": 1968,
+   "source_page": "https://www.mutualart.com/Artwork/Mask-of-Paul/CC819120ADF4B09D",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/fahl/f1.jpg",
+   "source_px": [
+    2044,
+    2366
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "Sweden"
+    },
+    {
+     "k": "artist",
+     "v": "Öyvind Fahlström"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Öyvind Fahlström deep contact sheet, 2026-09-13. Source: mutualart. Page: https://www.mutualart.com/Artwork/Mask-of-Paul/CC819120ADF4B09D. Measured at 2044x2366 before minting and screened against the archive for duplicates.",
+   "hue": 36.65,
+   "light": 0.7892,
+   "chroma": 0.8154,
+   "punch": 0.1437
+  },
+  "todd-picks-2026-09-13::f2-yvind-fahlstr-m": {
+   "id": "CRVI003281",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003281.jpg",
+   "original_px": [
+    862,
+    864
+   ],
+   "original_bytes": 156960,
+   "identity": "todd-picks-2026-09-13::f2-yvind-fahlstr-m",
+   "maker": "Öyvind Fahlström",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Öyvind Fahlström deep contact sheet, 2026-09-13. Source: venusovermanhattan. Page: https://www.venusovermanhattan.com/exhibitions/oyvind-fahlstrom/selected-works?view=slider. Measured at 862x864 before minting and screened against the archive for duplicates.",
+   "source_page": "https://www.venusovermanhattan.com/exhibitions/oyvind-fahlstrom/selected-works?view=slider",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/fahl/f2.jpg",
+   "source_px": [
+    862,
+    864
+   ],
+   "colors": [
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "Sweden"
+    },
+    {
+     "k": "artist",
+     "v": "Öyvind Fahlström"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Öyvind Fahlström deep contact sheet, 2026-09-13. Source: venusovermanhattan. Page: https://www.venusovermanhattan.com/exhibitions/oyvind-fahlstrom/selected-works?view=slider. Measured at 862x864 before minting and screened against the archive for duplicates.",
+   "hue": 114.97,
+   "light": 0.4328,
+   "chroma": 0.1294,
+   "punch": 0.0412
+  },
+  "todd-picks-2026-09-13::f3-yvind-fahlstr-m": {
+   "id": "CRVI003282",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003282.jpg",
+   "original_px": [
+    2000,
+    1313
+   ],
+   "original_bytes": 1890421,
+   "identity": "todd-picks-2026-09-13::f3-yvind-fahlstr-m",
+   "maker": "Öyvind Fahlström",
+   "title": "Section of the World Map — A Puzzle",
+   "verified_against": "Picked by Todd off the Öyvind Fahlström deep contact sheet, 2026-09-13. Source: mutualart. Page: https://www.mutualart.com/Artwork/Section-of-the-World-Map--A-Puzzle/6467BE2E2EF20FD6D0EA482031195554. Measured at 2000x1313 before minting and screened against the archive for duplicates.",
+   "year": 1973,
+   "source_page": "https://www.mutualart.com/Artwork/Section-of-the-World-Map--A-Puzzle/6467BE2E2EF20FD6D0EA482031195554",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/fahl/f3.jpg",
+   "source_px": [
+    2000,
+    1313
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "Sweden"
+    },
+    {
+     "k": "artist",
+     "v": "Öyvind Fahlström"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Öyvind Fahlström deep contact sheet, 2026-09-13. Source: mutualart. Page: https://www.mutualart.com/Artwork/Section-of-the-World-Map--A-Puzzle/6467BE2E2EF20FD6D0EA482031195554. Measured at 2000x1313 before minting and screened against the archive for duplicates.",
+   "hue": 45.39,
+   "light": 0.4984,
+   "chroma": 0.5824,
+   "punch": 0.1904
+  },
+  "todd-picks-2026-09-13::l728-crop-zuzana-licko": {
+   "id": "CRVI003283",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003283.jpg",
+   "original_px": [
+    870,
+    866
+   ],
+   "original_bytes": 557461,
+   "identity": "todd-picks-2026-09-13::l728-crop-zuzana-licko",
+   "maker": "Zuzana Licko",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Zuzana Licko deep contact sheet, 2026-09-13. Source: emigre. Page: https://www.emigre.com/ArtObjects. CROPPED per Todd: pale wood frame removed, 960x960 -> 870x866 Measured at 870x866 before minting and screened against the archive for duplicates.",
+   "source_page": "https://www.emigre.com/ArtObjects",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/licko/L728_crop.jpg",
+   "source_px": [
+    870,
+    866
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "ceramic"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "designer",
+     "v": "Zuzana Licko"
+    },
+    {
+     "k": "client",
+     "v": "Emigre"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Zuzana Licko deep contact sheet, 2026-09-13. Source: emigre. Page: https://www.emigre.com/ArtObjects. CROPPED per Todd: pale wood frame removed, 960x960 -> 870x866 Measured at 870x866 before minting and screened against the archive for duplicates.",
+   "hue": 13.93,
+   "light": 0.3441,
+   "chroma": 0.8208,
+   "punch": 0.2113
+  },
+  "todd-picks-2026-09-13::l725-zuzana-licko": {
+   "id": "CRVI003284",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003284.jpg",
+   "original_px": [
+    960,
+    960
+   ],
+   "original_bytes": 266555,
+   "identity": "todd-picks-2026-09-13::l725-zuzana-licko",
+   "maker": "Zuzana Licko",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Zuzana Licko deep contact sheet, 2026-09-13. Source: emigre. Page: https://www.emigre.com/ArtObjects. Measured at 960x960 before minting and screened against the archive for duplicates.",
+   "source_page": "https://www.emigre.com/ArtObjects",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/licko/L725.jpg",
+   "source_px": [
+    960,
+    960
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "ceramic"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "designer",
+     "v": "Zuzana Licko"
+    },
+    {
+     "k": "client",
+     "v": "Emigre"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Zuzana Licko deep contact sheet, 2026-09-13. Source: emigre. Page: https://www.emigre.com/ArtObjects. Measured at 960x960 before minting and screened against the archive for duplicates.",
+   "hue": 357.93,
+   "light": 0.3835,
+   "chroma": 0.7226,
+   "punch": 0.1976
+  },
+  "todd-picks-2026-09-13::l701-zuzana-licko": {
+   "id": "CRVI003285",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003285.jpg",
+   "original_px": [
+    960,
+    960
+   ],
+   "original_bytes": 145718,
+   "identity": "todd-picks-2026-09-13::l701-zuzana-licko",
+   "maker": "Zuzana Licko",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Zuzana Licko deep contact sheet, 2026-09-13. Source: emigre. Page: https://www.emigre.com/ArtObjects. Measured at 960x960 before minting and screened against the archive for duplicates.",
+   "source_page": "https://www.emigre.com/ArtObjects",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/licko/L701.jpg",
+   "source_px": [
+    960,
+    960
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "ceramic"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "designer",
+     "v": "Zuzana Licko"
+    },
+    {
+     "k": "client",
+     "v": "Emigre"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Zuzana Licko deep contact sheet, 2026-09-13. Source: emigre. Page: https://www.emigre.com/ArtObjects. Measured at 960x960 before minting and screened against the archive for duplicates.",
+   "hue": 44.24,
+   "light": 0.4127,
+   "chroma": 0.8111,
+   "punch": 0.3307
+  },
+  "todd-picks-2026-09-13::l707-zuzana-licko": {
+   "id": "CRVI003286",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003286.jpg",
+   "original_px": [
+    960,
+    960
+   ],
+   "original_bytes": 214439,
+   "identity": "todd-picks-2026-09-13::l707-zuzana-licko",
+   "maker": "Zuzana Licko",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Zuzana Licko deep contact sheet, 2026-09-13. Source: emigre. Page: https://www.emigre.com/ArtObjects. Measured at 960x960 before minting and screened against the archive for duplicates.",
+   "source_page": "https://www.emigre.com/ArtObjects",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/licko/L707.jpg",
+   "source_px": [
+    960,
+    960
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "ceramic"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "designer",
+     "v": "Zuzana Licko"
+    },
+    {
+     "k": "client",
+     "v": "Emigre"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Zuzana Licko deep contact sheet, 2026-09-13. Source: emigre. Page: https://www.emigre.com/ArtObjects. Measured at 960x960 before minting and screened against the archive for duplicates.",
+   "hue": null,
+   "light": 0.4234,
+   "chroma": 0.0,
+   "punch": 0.0325
+  },
+  "todd-picks-2026-09-13::k-self-full-yousuf-karsh": {
+   "id": "CRVI003287",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003287.jpg",
+   "original_px": [
+    1591,
+    2000
+   ],
+   "original_bytes": 908864,
+   "identity": "todd-picks-2026-09-13::k-self-full-yousuf-karsh",
+   "maker": "Yousuf Karsh",
+   "title": "Self-Portrait",
+   "verified_against": "Picked by Todd off the Yousuf Karsh deep contact sheet, 2026-09-13. Source: karsh.org. WP suffix stripped 1559x1960 -> 1591x2000 Measured at 1591x2000 before minting and screened against the archive for duplicates.",
+   "year": 1952,
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/karsh/k_self_full.jpg",
+   "source_px": [
+    1591,
+    2000
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "location",
+     "v": "Canada"
+    },
+    {
+     "k": "photographer",
+     "v": "Yousuf Karsh"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "motif",
+     "v": "portrait"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Yousuf Karsh deep contact sheet, 2026-09-13. Source: karsh.org. WP suffix stripped 1559x1960 -> 1591x2000 Measured at 1591x2000 before minting and screened against the archive for duplicates.",
+   "hue": null,
+   "light": 0.2682,
+   "chroma": 0.0,
+   "punch": 0.0
+  },
+  "todd-picks-2026-09-13::k-pic-full-yousuf-karsh": {
+   "id": "CRVI003288",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003288.jpg",
+   "original_px": [
+    1502,
+    2000
+   ],
+   "original_bytes": 548414,
+   "identity": "todd-picks-2026-09-13::k-pic-full-yousuf-karsh",
+   "maker": "Yousuf Karsh",
+   "title": "Pablo Picasso",
+   "verified_against": "Picked by Todd off the Yousuf Karsh deep contact sheet, 2026-09-13. Source: karsh.org. ARTIST WITH THEIR WORK - Picasso beside his own ceramic Measured at 1502x2000 before minting and screened against the archive for duplicates.",
+   "year": 1954,
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/karsh/k_pic_full.jpg",
+   "source_px": [
+    1502,
+    2000
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "location",
+     "v": "Canada"
+    },
+    {
+     "k": "photographer",
+     "v": "Yousuf Karsh"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "motif",
+     "v": "portrait"
+    },
+    {
+     "k": "motif",
+     "v": "artist with their work"
+    },
+    {
+     "k": "subject",
+     "v": "Pablo Picasso"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Yousuf Karsh deep contact sheet, 2026-09-13. Source: karsh.org. ARTIST WITH THEIR WORK - Picasso beside his own ceramic Measured at 1502x2000 before minting and screened against the archive for duplicates.",
+   "hue": null,
+   "light": 0.1807,
+   "chroma": 0.0,
+   "punch": 0.0
+  },
+  "todd-picks-2026-09-13::p1-volker-pf-ller": {
+   "id": "CRVI003289",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003289.jpg",
+   "original_px": [
+    884,
+    1198
+   ],
+   "original_bytes": 267479,
+   "identity": "todd-picks-2026-09-13::p1-volker-pf-ller",
+   "maker": "Volker Pfüller",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Volker Pfüller deep contact sheet, 2026-09-13. Source: kh-berlin.de. page title generic; the FILENAME carries (c)volker-pfueller Measured at 884x1198 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/pfuller/p1.jpg",
+   "source_px": [
+    884,
+    1198
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "designer",
+     "v": "Volker Pfüller"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Volker Pfüller deep contact sheet, 2026-09-13. Source: kh-berlin.de. page title generic; the FILENAME carries (c)volker-pfueller Measured at 884x1198 before minting and screened against the archive for duplicates.",
+   "hue": 17.56,
+   "light": 0.7217,
+   "chroma": 0.516,
+   "punch": 0.103
+  },
+  "todd-picks-2026-09-13::p2-volker-pf-ller": {
+   "id": "CRVI003290",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003290.jpg",
+   "original_px": [
+    1400,
+    984
+   ],
+   "original_bytes": 379502,
+   "identity": "todd-picks-2026-09-13::p2-volker-pf-ller",
+   "maker": "Volker Pfüller",
+   "title": "Herzog Theodor von Gothland — Theaterplakat",
+   "verified_against": "Picked by Todd off the Volker Pfüller deep contact sheet, 2026-09-13. Source: erdel-shop.de. Measured at 1400x984 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/pfuller/p2.jpg",
+   "source_px": [
+    1400,
+    984
+   ],
+   "colors": [
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "designer",
+     "v": "Volker Pfüller"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Volker Pfüller deep contact sheet, 2026-09-13. Source: erdel-shop.de. Measured at 1400x984 before minting and screened against the archive for duplicates.",
+   "hue": 124.44,
+   "light": 0.5796,
+   "chroma": 0.2953,
+   "punch": 0.13
+  },
+  "todd-picks-2026-09-13::w1-tim-white": {
+   "id": "CRVI003291",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003291.jpg",
+   "original_px": [
+    1123,
+    1920
+   ],
+   "original_bytes": 966862,
+   "identity": "todd-picks-2026-09-13::w1-tim-white",
+   "maker": "Tim White",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Tim White deep contact sheet, 2026-09-13. Source: 70sscifiart.tumblr. Measured at 1123x1920 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/white/w1.img",
+   "source_px": [
+    1123,
+    1920
+   ],
+   "colors": [
+    "blue",
+    "pink"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "illustrator",
+     "v": "Tim White"
+    },
+    {
+     "k": "genre",
+     "v": "science fiction"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Tim White deep contact sheet, 2026-09-13. Source: 70sscifiart.tumblr. Measured at 1123x1920 before minting and screened against the archive for duplicates.",
+   "hue": 212.05,
+   "light": 0.3735,
+   "chroma": 0.9216,
+   "punch": 0.2276
+  },
+  "todd-picks-2026-09-13::w2-tim-white": {
+   "id": "CRVI003292",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003292.jpg",
+   "original_px": [
+    1175,
+    1600
+   ],
+   "original_bytes": 242555,
+   "identity": "todd-picks-2026-09-13::w2-tim-white",
+   "maker": "Tim White",
+   "title": "The Visual Encyclopedia of Science Fiction — cover",
+   "verified_against": "Picked by Todd off the Tim White deep contact sheet, 2026-09-13. Source: ski-ffy.blogspot. Measured at 1175x1600 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/white/w2.img",
+   "source_px": [
+    1175,
+    1600
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "illustrator",
+     "v": "Tim White"
+    },
+    {
+     "k": "genre",
+     "v": "science fiction"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Tim White deep contact sheet, 2026-09-13. Source: ski-ffy.blogspot. Measured at 1175x1600 before minting and screened against the archive for duplicates.",
+   "hue": 32.33,
+   "light": 0.3147,
+   "chroma": 0.5574,
+   "punch": 0.1437
+  },
+  "todd-picks-2026-09-13::w3-tim-white": {
+   "id": "CRVI003293",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003293.jpg",
+   "original_px": [
+    972,
+    1600
+   ],
+   "original_bytes": 1276122,
+   "identity": "todd-picks-2026-09-13::w3-tim-white",
+   "maker": "Tim White",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Tim White deep contact sheet, 2026-09-13. Source: downthetubes.net. Measured at 972x1600 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/white/w3.img",
+   "source_px": [
+    972,
+    1600
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "illustrator",
+     "v": "Tim White"
+    },
+    {
+     "k": "genre",
+     "v": "science fiction"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Tim White deep contact sheet, 2026-09-13. Source: downthetubes.net. Measured at 972x1600 before minting and screened against the archive for duplicates.",
+   "hue": 215.5,
+   "light": 0.3452,
+   "chroma": 0.8149,
+   "punch": 0.2692
+  },
+  "todd-picks-2026-09-13::w4-tim-white": {
+   "id": "CRVI003294",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003294.jpg",
+   "original_px": [
+    886,
+    1514
+   ],
+   "original_bytes": 592320,
+   "identity": "todd-picks-2026-09-13::w4-tim-white",
+   "maker": "Tim White",
+   "title": "Star Light Star Bright",
+   "verified_against": "Picked by Todd off the Tim White deep contact sheet, 2026-09-13. Source: retroscifiart.tumblr. Measured at 886x1514 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/white/w4.img",
+   "source_px": [
+    886,
+    1514
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "illustrator",
+     "v": "Tim White"
+    },
+    {
+     "k": "genre",
+     "v": "science fiction"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Tim White deep contact sheet, 2026-09-13. Source: retroscifiart.tumblr. Measured at 886x1514 before minting and screened against the archive for duplicates.",
+   "hue": 209.5,
+   "light": 0.3851,
+   "chroma": 0.9605,
+   "punch": 0.4099
+  },
+  "todd-picks-2026-09-13::w5-tim-white": {
+   "id": "CRVI003295",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003295.jpg",
+   "original_px": [
+    1020,
+    1426
+   ],
+   "original_bytes": 622324,
+   "identity": "todd-picks-2026-09-13::w5-tim-white",
+   "maker": "Tim White",
+   "title": "Supermind",
+   "verified_against": "Picked by Todd off the Tim White deep contact sheet, 2026-09-13. Source: retroscifiart.tumblr. Measured at 1020x1426 before minting and screened against the archive for duplicates.",
+   "year": 1978,
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/white/w5.img",
+   "source_px": [
+    1020,
+    1426
+   ],
+   "colors": [
+    "blue",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "illustrator",
+     "v": "Tim White"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "genre",
+     "v": "science fiction"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Tim White deep contact sheet, 2026-09-13. Source: retroscifiart.tumblr. Measured at 1020x1426 before minting and screened against the archive for duplicates.",
+   "hue": 212.1,
+   "light": 0.2791,
+   "chroma": 0.9753,
+   "punch": 0.2519
+  },
+  "todd-picks-2026-09-13::w6-tim-white": {
+   "id": "CRVI003296",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003296.jpg",
+   "original_px": [
+    1280,
+    1823
+   ],
+   "original_bytes": 805671,
+   "identity": "todd-picks-2026-09-13::w6-tim-white",
+   "maker": "Tim White",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Tim White deep contact sheet, 2026-09-13. Source: 70sscifiart.tumblr. Measured at 1280x1823 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/white/w6.img",
+   "source_px": [
+    1280,
+    1823
+   ],
+   "colors": [
+    "blue",
+    "pink"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "illustrator",
+     "v": "Tim White"
+    },
+    {
+     "k": "genre",
+     "v": "science fiction"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Tim White deep contact sheet, 2026-09-13. Source: 70sscifiart.tumblr. Measured at 1280x1823 before minting and screened against the archive for duplicates.",
+   "hue": 207.74,
+   "light": 0.4221,
+   "chroma": 0.7387,
+   "punch": 0.3207
+  },
+  "todd-picks-2026-09-13::d1-sara-de-bondt": {
+   "id": "CRVI003297",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003297.jpg",
+   "original_px": [
+    1353,
+    1882
+   ],
+   "original_bytes": 478909,
+   "identity": "todd-picks-2026-09-13::d1-sara-de-bondt",
+   "maker": "Jeanine Behaeghel",
+   "title": "Je weet niet hoe? — Korrekelder, Brugge",
+   "verified_against": "Picked by Todd off the Sara De Bondt deep contact sheet, 2026-09-13. Source: itsnicethat. Page: https://www.itsnicethat.com/articles/sara-de-bondt-off-the-grid-graphic-design-050422. NOT De Bondt. Signed 'Behaeghel' in script at upper left; the filename says Jeanine_Behaeghel too. De Bondt WROTE the book this plate is reproduced in — the writes-about-design trap. Measured at 1353x1882 before minting and screened against the archive for duplicates.",
+   "year": 1965,
+   "source_page": "https://www.itsnicethat.com/articles/sara-de-bondt-off-the-grid-graphic-design-050422",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/debondt/d1.jpg",
+   "source_px": [
+    1353,
+    1882
+   ],
+   "colors": [
+    "purple"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "theatre poster"
+    },
+    {
+     "k": "location",
+     "v": "Belgium"
+    },
+    {
+     "k": "designer",
+     "v": "Jeanine Behaeghel"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Sara De Bondt deep contact sheet, 2026-09-13. Source: itsnicethat. Page: https://www.itsnicethat.com/articles/sara-de-bondt-off-the-grid-graphic-design-050422. NOT De Bondt. Signed 'Behaeghel' in script at upper left; the filename says Jeanine_Behaeghel too. De Bondt WROTE the book this plate is reproduced in — the writes-about-design trap. Measured at 1353x1882 before minting and screened against the archive for duplicates.",
+   "hue": 265.09,
+   "light": 0.7635,
+   "chroma": 0.5667,
+   "punch": 0.2593
+  },
+  "todd-picks-2026-09-13::a-given-rayan-abdullah": {
+   "id": "CRVI003298",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003298.jpg",
+   "original_px": [
+    2500,
+    3347
+   ],
+   "original_bytes": 626916,
+   "identity": "todd-picks-2026-09-13::a-given-rayan-abdullah",
+   "maker": "Rayan",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Rayan Abdullah deep contact sheet, 2026-09-13. Source: rayansart.com. Page: https://www.rayansart.com/art. NOT Rayan Abdullah the typographer - a FORENAME collision. rayansart.com: 'Rayan is a classical realist painter who studies and teaches at Atelier Melbourne Art Academy.' No surname published anywhere on the site; signed 'Ray' lower right; instagram ray_btad. Grisaille oil of a classical bearded bust. Measured at 2500x3347 before minting and screened against the archive for duplicates.",
+   "source_page": "https://www.rayansart.com/art",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/abdullah/a_given.jpg",
+   "source_px": [
+    2500,
+    3347
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "painting"
+    },
+    {
+     "k": "location",
+     "v": "Australia"
+    },
+    {
+     "k": "artist",
+     "v": "Rayan"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Rayan Abdullah deep contact sheet, 2026-09-13. Source: rayansart.com. Page: https://www.rayansart.com/art. NOT Rayan Abdullah the typographer - a FORENAME collision. rayansart.com: 'Rayan is a classical realist painter who studies and teaches at Atelier Melbourne Art Academy.' No surname published anywhere on the site; signed 'Ray' lower right; instagram ray_btad. Grisaille oil of a classical bearded bust. Measured at 2500x3347 before minting and screened against the archive for duplicates.",
+   "hue": null,
+   "light": 0.24,
+   "chroma": 0.0215,
+   "punch": 0.0463
+  },
+  "todd-picks-2026-09-13::e-noedit-michael-engelmann": {
+   "id": "CRVI003299",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003299.jpg",
+   "original_px": [
+    4244,
+    6037
+   ],
+   "original_bytes": 7077279,
+   "identity": "todd-picks-2026-09-13::e-noedit-michael-engelmann",
+   "maker": "Michael Engelmann",
+   "title": "Bozzetti per pneumatici moto (designs for motorcycle tyres)",
+   "verified_against": "Picked by Todd off the Michael Engelmann deep contact sheet, 2026-09-13. Source: Fondazione Pirelli. Page: https://www.fondazionepirelli.org/en/activities/hurtling-by-in-graphics-art-and-design/. Stripping WordPress's -eNNNNNNNNNN EDIT suffix gave 4074x5825 -> 4244x6037. Pirelli files it 'Engelmann-Pavel-Michael', i.e. Pavel Michael Engelmann - recorded as the archive's form, not asserted as his usual name. Measured at 4244x6037 before minting and screened against the archive for duplicates.",
+   "year": 1952,
+   "source_page": "https://www.fondazionepirelli.org/en/activities/hurtling-by-in-graphics-art-and-design/",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/engelmann/e_noedit.jpg",
+   "source_px": [
+    4244,
+    6037
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "designer",
+     "v": "Michael Engelmann"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "client",
+     "v": "Pirelli"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Michael Engelmann deep contact sheet, 2026-09-13. Source: Fondazione Pirelli. Page: https://www.fondazionepirelli.org/en/activities/hurtling-by-in-graphics-art-and-design/. Stripping WordPress's -eNNNNNNNNNN EDIT suffix gave 4074x5825 -> 4244x6037. Pirelli files it 'Engelmann-Pavel-Michael', i.e. Pavel Michael Engelmann - recorded as the archive's form, not asserted as his usual name. Measured at 4244x6037 before minting and screened against the archive for duplicates.",
+   "hue": 11.24,
+   "light": 0.5462,
+   "chroma": 0.5581,
+   "punch": 0.2029
+  },
+  "todd-picks-2026-09-13::k1-konrad-klapheck": {
+   "id": "CRVI003300",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003300.jpg",
+   "original_px": [
+    1141,
+    1600
+   ],
+   "original_bytes": 861070,
+   "identity": "todd-picks-2026-09-13::k1-konrad-klapheck",
+   "maker": "Konrad Klapheck",
+   "title": "Klapheck — Galleria Schwarz, Milano (exhibition catalogue cover)",
+   "verified_against": "Picked by Todd off the Konrad Klapheck deep contact sheet, 2026-09-13. Source: MutualArt. Page: https://www.mutualart.com/Artwork/SIGNED-EXHIBITION-CATALOGUE-WITH-DRAWING/EB9A72C4759A5F689D193A3FDC3639DB. THE COVER DATES ITSELF: 'DAL 13 OTTOBRE AL 6 NOVEMBRE 1972 ALLA GALLERIA SCHWARZ MILANO'. MutualArt gave only 'MAILAND' with no year. Object is a catalogue, not a painting. Measured at 1141x1600 before minting and screened against the archive for duplicates.",
+   "year": 1972,
+   "source_page": "https://www.mutualart.com/Artwork/SIGNED-EXHIBITION-CATALOGUE-WITH-DRAWING/EB9A72C4759A5F689D193A3FDC3639DB",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/klapheck/k1.jpg",
+   "source_px": [
+    1141,
+    1600
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "artist",
+     "v": "Konrad Klapheck"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "type",
+     "v": "book cover"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Konrad Klapheck deep contact sheet, 2026-09-13. Source: MutualArt. Page: https://www.mutualart.com/Artwork/SIGNED-EXHIBITION-CATALOGUE-WITH-DRAWING/EB9A72C4759A5F689D193A3FDC3639DB. THE COVER DATES ITSELF: 'DAL 13 OTTOBRE AL 6 NOVEMBRE 1972 ALLA GALLERIA SCHWARZ MILANO'. MutualArt gave only 'MAILAND' with no year. Object is a catalogue, not a painting. Measured at 1141x1600 before minting and screened against the archive for duplicates.",
+   "hue": 39.31,
+   "light": 0.6924,
+   "chroma": 0.2786,
+   "punch": 0.0661
+  },
+  "todd-picks-2026-09-13::k2-konrad-klapheck": {
+   "id": "CRVI003301",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003301.jpg",
+   "original_px": [
+    1773,
+    2200
+   ],
+   "original_bytes": 1887935,
+   "identity": "todd-picks-2026-09-13::k2-konrad-klapheck",
+   "maker": "Konrad Klapheck",
+   "title": "Von A bis Z",
+   "verified_against": "Picked by Todd off the Konrad Klapheck deep contact sheet, 2026-09-13. Source: MutualArt. Page: https://www.mutualart.com/Artwork/Von-A-bis-Z/2DD4CCBC959B5375. A print, signed 'Klapheck' in pencil lower right with a dedication to Werner Hofmann. Measured at 1773x2200 before minting and screened against the archive for duplicates.",
+   "year": 1985,
+   "source_page": "https://www.mutualart.com/Artwork/Von-A-bis-Z/2DD4CCBC959B5375",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/klapheck/k2.jpg",
+   "source_px": [
+    1773,
+    2200
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "artist",
+     "v": "Konrad Klapheck"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Konrad Klapheck deep contact sheet, 2026-09-13. Source: MutualArt. Page: https://www.mutualart.com/Artwork/Von-A-bis-Z/2DD4CCBC959B5375. A print, signed 'Klapheck' in pencil lower right with a dedication to Werner Hofmann. Measured at 1773x2200 before minting and screened against the archive for duplicates.",
+   "hue": 40.62,
+   "light": 0.7873,
+   "chroma": 0.3091,
+   "punch": 0.1095
+  },
+  "todd-picks-2026-09-13::k3-konrad-klapheck": {
+   "id": "CRVI003302",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003302.jpg",
+   "original_px": [
+    1690,
+    2000
+   ],
+   "original_bytes": 2134402,
+   "identity": "todd-picks-2026-09-13::k3-konrad-klapheck",
+   "maker": "Konrad Klapheck",
+   "title": "Repression",
+   "verified_against": "Picked by Todd off the Konrad Klapheck deep contact sheet, 2026-09-13. Source: MutualArt. Page: https://www.mutualart.com/Artwork/Repression/F9B0D41E2AC46EE89BA3332B476A5ED5. An etching, signed and titled in pencil below the plate: 'Radierung - Repression - Klapheck'. Measured at 1690x2000 before minting and screened against the archive for duplicates.",
+   "year": 1984,
+   "source_page": "https://www.mutualart.com/Artwork/Repression/F9B0D41E2AC46EE89BA3332B476A5ED5",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/klapheck/k3.jpg",
+   "source_px": [
+    1690,
+    2000
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "artist",
+     "v": "Konrad Klapheck"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Konrad Klapheck deep contact sheet, 2026-09-13. Source: MutualArt. Page: https://www.mutualart.com/Artwork/Repression/F9B0D41E2AC46EE89BA3332B476A5ED5. An etching, signed and titled in pencil below the plate: 'Radierung - Repression - Klapheck'. Measured at 1690x2000 before minting and screened against the archive for duplicates.",
+   "hue": null,
+   "light": 0.6812,
+   "chroma": 0.0004,
+   "punch": 0.0554
+  },
+  "todd-picks-2026-09-13::b1-crop-ken-briggs": {
+   "id": "CRVI003303",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003303.jpg",
+   "original_px": [
+    1096,
+    1871
+   ],
+   "original_bytes": 540680,
+   "identity": "todd-picks-2026-09-13::b1-crop-ken-briggs",
+   "maker": "Gilbert Lesser",
+   "title": "Equus — The National Theatre (programme cover)",
+   "verified_against": "Picked by Todd off the Ken Briggs deep contact sheet, 2026-09-13. Source: Design Reviewed. Page: https://designreviewed.com/artefacts/equus-the-national-theatre-1974/. ⚠️ NOT Briggs' cover. Design Reviewed credits 'Gilbert Lesser (cover), Ken Briggs/Richard Bird (design)' — the image IS the cover, so Lesser is the maker and Briggs/Bird go on as designers of the wider piece. Format: Programme, 135x230mm. Black CMS matte stripped 3000x3000 -> 1096x1871. Measured at 1096x1871 before minting and screened against the archive for duplicates.",
+   "year": 1974,
+   "source_page": "https://designreviewed.com/artefacts/equus-the-national-theatre-1974/",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/briggs/b1_crop.jpg",
+   "source_px": [
+    1096,
+    1871
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "programme"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "designer",
+     "v": "Gilbert Lesser"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "client",
+     "v": "The National Theatre"
+    },
+    {
+     "k": "designer",
+     "v": "Ken Briggs"
+    },
+    {
+     "k": "designer",
+     "v": "Richard Bird"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Ken Briggs deep contact sheet, 2026-09-13. Source: Design Reviewed. Page: https://designreviewed.com/artefacts/equus-the-national-theatre-1974/. ⚠️ NOT Briggs' cover. Design Reviewed credits 'Gilbert Lesser (cover), Ken Briggs/Richard Bird (design)' — the image IS the cover, so Lesser is the maker and Briggs/Bird go on as designers of the wider piece. Format: Programme, 135x230mm. Black CMS matte stripped 3000x3000 -> 1096x1871. Measured at 1096x1871 before minting and screened against the archive for duplicates.",
+   "hue": 26.0,
+   "light": 0.3923,
+   "chroma": 0.1236,
+   "punch": 0.0414
+  },
+  "todd-picks-2026-09-13::b2-full-crop-ken-briggs": {
+   "id": "CRVI003304",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003304.jpg",
+   "original_px": [
+    1224,
+    2085
+   ],
+   "original_bytes": 960820,
+   "identity": "todd-picks-2026-09-13::b2-full-crop-ken-briggs",
+   "maker": "Ken Briggs and Susan Channells",
+   "title": "Much Ado About Nothing — The National Theatre (programme)",
+   "verified_against": "Picked by Todd off the Ken Briggs deep contact sheet, 2026-09-13. Source: Design Reviewed. Page: https://designreviewed.com/artefacts/much-ado-about-nothing-the-national-theatre-london-1960s/. Year given only as '1960s'. ⚠️ SPELLING CONFLICT AT SOURCE: this page says Susan CHANNELLS, the As You Like It page says Susan CHENNELLS. Design Reviewed contradicts itself; both spellings recorded, neither asserted. Stacked WP suffixes -scaled-2048x2048 stripped: 2048 -> 2560 -> 3000, then matte -> 1224x2085. Measured at 1224x2085 before minting and screened against the archive for duplicates.",
+   "source_page": "https://designreviewed.com/artefacts/much-ado-about-nothing-the-national-theatre-london-1960s/",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/briggs/b2_full_crop.jpg",
+   "source_px": [
+    1224,
+    2085
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "programme"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "designer",
+     "v": "Ken Briggs"
+    },
+    {
+     "k": "designer",
+     "v": "Susan Channells"
+    },
+    {
+     "k": "client",
+     "v": "The National Theatre"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Ken Briggs deep contact sheet, 2026-09-13. Source: Design Reviewed. Page: https://designreviewed.com/artefacts/much-ado-about-nothing-the-national-theatre-london-1960s/. Year given only as '1960s'. ⚠️ SPELLING CONFLICT AT SOURCE: this page says Susan CHANNELLS, the As You Like It page says Susan CHENNELLS. Design Reviewed contradicts itself; both spellings recorded, neither asserted. Stacked WP suffixes -scaled-2048x2048 stripped: 2048 -> 2560 -> 3000, then matte -> 1224x2085. Measured at 1224x2085 before minting and screened against the archive for duplicates.",
+   "hue": 34.53,
+   "light": 0.3115,
+   "chroma": 0.6294,
+   "punch": 0.2393
+  },
+  "todd-picks-2026-09-13::b3-crop-ken-briggs": {
+   "id": "CRVI003305",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003305.jpg",
+   "original_px": [
+    1189,
+    2093
+   ],
+   "original_bytes": 1249540,
+   "identity": "todd-picks-2026-09-13::b3-crop-ken-briggs",
+   "maker": "Ken Briggs and Moura-George",
+   "title": "Misanthrope — The National Theatre (programme)",
+   "verified_against": "Picked by Todd off the Ken Briggs deep contact sheet, 2026-09-13. Source: Design Reviewed. Page: https://designreviewed.com/artefacts/misanthrope-the-national-theatre-london-1973/. Format: Programme, 130x230mm. Matte stripped. Measured at 1189x2093 before minting and screened against the archive for duplicates.",
+   "year": 1973,
+   "source_page": "https://designreviewed.com/artefacts/misanthrope-the-national-theatre-london-1973/",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/briggs/b3_crop.jpg",
+   "source_px": [
+    1189,
+    2093
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "programme"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "designer",
+     "v": "Ken Briggs"
+    },
+    {
+     "k": "designer",
+     "v": "Moura-George"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "client",
+     "v": "The National Theatre"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Ken Briggs deep contact sheet, 2026-09-13. Source: Design Reviewed. Page: https://designreviewed.com/artefacts/misanthrope-the-national-theatre-london-1973/. Format: Programme, 130x230mm. Matte stripped. Measured at 1189x2093 before minting and screened against the archive for duplicates.",
+   "hue": 3.83,
+   "light": 0.552,
+   "chroma": 0.9689,
+   "punch": 0.5011
+  },
+  "todd-picks-2026-09-13::b4-crop-ken-briggs": {
+   "id": "CRVI003306",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003306.jpg",
+   "original_px": [
+    1189,
+    2093
+   ],
+   "original_bytes": 1051319,
+   "identity": "todd-picks-2026-09-13::b4-crop-ken-briggs",
+   "maker": "Ken Briggs",
+   "title": "The Master Builder — The National Theatre (programme)",
+   "verified_against": "Picked by Todd off the Ken Briggs deep contact sheet, 2026-09-13. Source: Design Reviewed. Page: https://designreviewed.com/artefacts/the-master-builder-the-national-theatre-london-1964/. The only one of the five credited to Briggs alone. Measured at 1189x2093 before minting and screened against the archive for duplicates.",
+   "year": 1964,
+   "source_page": "https://designreviewed.com/artefacts/the-master-builder-the-national-theatre-london-1964/",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/briggs/b4_crop.jpg",
+   "source_px": [
+    1189,
+    2093
+   ],
+   "colors": [
+    "cyan",
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "programme"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "designer",
+     "v": "Ken Briggs"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "client",
+     "v": "The National Theatre"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Ken Briggs deep contact sheet, 2026-09-13. Source: Design Reviewed. Page: https://designreviewed.com/artefacts/the-master-builder-the-national-theatre-london-1964/. The only one of the five credited to Briggs alone. Measured at 1189x2093 before minting and screened against the archive for duplicates.",
+   "hue": 186.41,
+   "light": 0.181,
+   "chroma": 0.178,
+   "punch": 0.0985
+  },
+  "todd-picks-2026-09-13::b5-crop-ken-briggs": {
+   "id": "CRVI003307",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003307.jpg",
+   "original_px": [
+    1189,
+    2093
+   ],
+   "original_bytes": 1333963,
+   "identity": "todd-picks-2026-09-13::b5-crop-ken-briggs",
+   "maker": "Ken Briggs and Susan Chennells",
+   "title": "As You Like It — The National Theatre (programme)",
+   "verified_against": "Picked by Todd off the Ken Briggs deep contact sheet, 2026-09-13. Source: Design Reviewed. Page: https://designreviewed.com/artefacts/as-you-like-it-the-national-theatre-london-1968/. See the Much Ado note: Channells/Chennells conflict at source. Measured at 1189x2093 before minting and screened against the archive for duplicates.",
+   "year": 1968,
+   "source_page": "https://designreviewed.com/artefacts/as-you-like-it-the-national-theatre-london-1968/",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/briggs/b5_crop.jpg",
+   "source_px": [
+    1189,
+    2093
+   ],
+   "colors": [
+    "green",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "programme"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "designer",
+     "v": "Ken Briggs"
+    },
+    {
+     "k": "designer",
+     "v": "Susan Chennells"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "client",
+     "v": "The National Theatre"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Ken Briggs deep contact sheet, 2026-09-13. Source: Design Reviewed. Page: https://designreviewed.com/artefacts/as-you-like-it-the-national-theatre-london-1968/. See the Much Ado note: Channells/Chennells conflict at source. Measured at 1189x2093 before minting and screened against the archive for duplicates.",
+   "hue": 75.49,
+   "light": 0.2559,
+   "chroma": 0.4556,
+   "punch": 0.123
+  },
+  "todd-picks-2026-09-13::h1-given-kazunari-hattori": {
+   "id": "CRVI003308",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003308.jpg",
+   "original_px": [
+    1818,
+    2560
+   ],
+   "original_bytes": 2044624,
+   "identity": "todd-picks-2026-09-13::h1-given-kazunari-hattori",
+   "maker": "Kazunari Hattori",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Kazunari Hattori deep contact sheet, 2026-09-13. Source: Centre de la Gravure et de l'Image imprimée. Page: https://www.centredelagravure.be/artists/hattori-kazunari/. ⚠️ '-scaled' is the BEST here — the bare 32378.jpg 404s, so WordPress holds no larger original. Measured at 1818x2560 before minting and screened against the archive for duplicates.",
+   "source_page": "https://www.centredelagravure.be/artists/hattori-kazunari/",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/hattori/h1_given.jpg",
+   "source_px": [
+    1818,
+    2560
+   ],
+   "colors": [
+    "pink",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "designer",
+     "v": "Kazunari Hattori"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Kazunari Hattori deep contact sheet, 2026-09-13. Source: Centre de la Gravure et de l'Image imprimée. Page: https://www.centredelagravure.be/artists/hattori-kazunari/. ⚠️ '-scaled' is the BEST here — the bare 32378.jpg 404s, so WordPress holds no larger original. Measured at 1818x2560 before minting and screened against the archive for duplicates.",
+   "hue": 315.09,
+   "light": 0.7201,
+   "chroma": 0.8828,
+   "punch": 0.1555
+  },
+  "todd-picks-2026-09-13::h2-kazunari-hattori": {
+   "id": "CRVI003309",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003309.png",
+   "original_px": [
+    1000,
+    1308
+   ],
+   "original_bytes": 523157,
+   "identity": "todd-picks-2026-09-13::h2-kazunari-hattori",
+   "maker": "Kazunari Hattori",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Kazunari Hattori deep contact sheet, 2026-09-13. Source: Pinterest (Nieves Books). Page: https://www.pinterest.com/pin/nieves-books-kazunari-hattori--772437773603366694/. Same pixel size as the Nieves pick but a DIFFERENT picture — raw luma MAD 63.8. Coincidence, not a re-host. Measured at 1000x1308 before minting and screened against the archive for duplicates.",
+   "source_page": "https://www.pinterest.com/pin/nieves-books-kazunari-hattori--772437773603366694/",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/hattori/h2.png",
+   "source_px": [
+    1000,
+    1308
+   ],
+   "colors": [
+    "yellow",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "designer",
+     "v": "Kazunari Hattori"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Kazunari Hattori deep contact sheet, 2026-09-13. Source: Pinterest (Nieves Books). Page: https://www.pinterest.com/pin/nieves-books-kazunari-hattori--772437773603366694/. Same pixel size as the Nieves pick but a DIFFERENT picture — raw luma MAD 63.8. Coincidence, not a re-host. Measured at 1000x1308 before minting and screened against the archive for duplicates.",
+   "hue": 54.99,
+   "light": 0.7845,
+   "chroma": 0.7531,
+   "punch": 0.2615
+  },
+  "todd-picks-2026-09-13::h3-full-kazunari-hattori": {
+   "id": "CRVI003310",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003310.jpg",
+   "original_px": [
+    2000,
+    2616
+   ],
+   "original_bytes": 5932284,
+   "identity": "todd-picks-2026-09-13::h3-full-kazunari-hattori",
+   "maker": "Kazunari Hattori",
+   "title": "Flags (Nieves / Bananafish)",
+   "verified_against": "Picked by Todd off the Kazunari Hattori deep contact sheet, 2026-09-13. Source: Nieves. Page: https://nieves.ch/1421/flags. Stripping the '-preview2.jpg' derivative suffix doubled it: 1000x1308 -> 2000x2616. Measured at 2000x2616 before minting and screened against the archive for duplicates.",
+   "source_page": "https://nieves.ch/1421/flags",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/hattori/h3_full.jpg",
+   "source_px": [
+    2000,
+    2616
+   ],
+   "colors": [
+    "blue",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    },
+    {
+     "k": "designer",
+     "v": "Kazunari Hattori"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Kazunari Hattori deep contact sheet, 2026-09-13. Source: Nieves. Page: https://nieves.ch/1421/flags. Stripping the '-preview2.jpg' derivative suffix doubled it: 1000x1308 -> 2000x2616. Measured at 2000x2616 before minting and screened against the archive for duplicates.",
+   "hue": 205.14,
+   "light": 0.6731,
+   "chroma": 0.8985,
+   "punch": 0.2786
+  },
+  "todd-picks-2026-09-13::n1-full-frieder-nake": {
+   "id": "CRVI003311",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003311.jpg",
+   "original_px": [
+    4000,
+    4007
+   ],
+   "original_bytes": 3296745,
+   "identity": "todd-picks-2026-09-13::n1-full-frieder-nake",
+   "maker": "Frieder Nake",
+   "title": "Walk Through Raster",
+   "verified_against": "Picked by Todd off the Frieder Nake deep contact sheet, 2026-09-13. Source: DAM Museum. Page: https://dam.org/museum/artists_ui/artists/nake-frieder/. Title and year from the filename NakeWalkThroughRaster1967. '-scaled' stripped: 2556x2560 -> 4000x4007. Measured at 4000x4007 before minting and screened against the archive for duplicates.",
+   "year": 1967,
+   "source_page": "https://dam.org/museum/artists_ui/artists/nake-frieder/",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/nake/n1_full.jpg",
+   "source_px": [
+    4000,
+    4007
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "artist",
+     "v": "Frieder Nake"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "subject",
+     "v": "generative art"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Frieder Nake deep contact sheet, 2026-09-13. Source: DAM Museum. Page: https://dam.org/museum/artists_ui/artists/nake-frieder/. Title and year from the filename NakeWalkThroughRaster1967. '-scaled' stripped: 2556x2560 -> 4000x4007. Measured at 4000x4007 before minting and screened against the archive for duplicates.",
+   "hue": 16.89,
+   "light": 0.9008,
+   "chroma": 0.4471,
+   "punch": 0.1009
+  },
+  "todd-picks-2026-09-13::n2-frieder-nake": {
+   "id": "CRVI003312",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003312.jpg",
+   "original_px": [
+    2351,
+    2496
+   ],
+   "original_bytes": 1165210,
+   "identity": "todd-picks-2026-09-13::n2-frieder-nake",
+   "maker": "Frieder Nake",
+   "title": "Polygonzug",
+   "verified_against": "Picked by Todd off the Frieder Nake deep contact sheet, 2026-09-13. Source: DAM Museum. Page: https://dam.org/museum/nake-interview/. Title from the filename Nake_Polygonenzug. No year established. Measured at 2351x2496 before minting and screened against the archive for duplicates.",
+   "source_page": "https://dam.org/museum/nake-interview/",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/nake/n2.jpg",
+   "source_px": [
+    2351,
+    2496
+   ],
+   "colors": [
+    "white"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "artist",
+     "v": "Frieder Nake"
+    },
+    {
+     "k": "subject",
+     "v": "generative art"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Frieder Nake deep contact sheet, 2026-09-13. Source: DAM Museum. Page: https://dam.org/museum/nake-interview/. Title from the filename Nake_Polygonenzug. No year established. Measured at 2351x2496 before minting and screened against the archive for duplicates.",
+   "hue": null,
+   "light": 0.9155,
+   "chroma": 0.0,
+   "punch": 0.0
+  },
+  "todd-picks-2026-09-13::n3-full-frieder-nake": {
+   "id": "CRVI003313",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003313.jpg",
+   "original_px": [
+    3661,
+    3124
+   ],
+   "original_bytes": 1725994,
+   "identity": "todd-picks-2026-09-13::n3-full-frieder-nake",
+   "maker": "Frieder Nake",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Frieder Nake deep contact sheet, 2026-09-13. Source: DAM Museum. Page: https://dam.org/museum/. Filename is only 'Nake-Scan-brighter' — no title, no year. Stacked '-scaled-e1607629580749' stripped: 2560x2184 -> 3661x3124. Measured at 3661x3124 before minting and screened against the archive for duplicates.",
+   "source_page": "https://dam.org/museum/",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/nake/n3_full.jpg",
+   "source_px": [
+    3661,
+    3124
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    },
+    {
+     "k": "artist",
+     "v": "Frieder Nake"
+    },
+    {
+     "k": "subject",
+     "v": "generative art"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Frieder Nake deep contact sheet, 2026-09-13. Source: DAM Museum. Page: https://dam.org/museum/. Filename is only 'Nake-Scan-brighter' — no title, no year. Stacked '-scaled-e1607629580749' stripped: 2560x2184 -> 3661x3124. Measured at 3661x3124 before minting and screened against the archive for duplicates.",
+   "hue": 4.61,
+   "light": 0.8408,
+   "chroma": 0.1137,
+   "punch": 0.0332
+  },
+  "todd-picks-2026-09-13::a01-br-ulio-amado": {
+   "id": "CRVI003314",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003314.jpg",
+   "original_px": [
+    970,
+    1500
+   ],
+   "original_bytes": 500350,
+   "identity": "todd-picks-2026-09-13::a01-br-ulio-amado",
+   "maker": "Bráulio Amado",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Bráulio Amado deep contact sheet, 2026-09-13. Source: booooooom / designboom / pinterest / X. Measured at 970x1500 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/amado/a01.jpg",
+   "source_px": [
+    970,
+    1500
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "designer",
+     "v": "Bráulio Amado"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Bráulio Amado deep contact sheet, 2026-09-13. Source: booooooom / designboom / pinterest / X. Measured at 970x1500 before minting and screened against the archive for duplicates.",
+   "hue": 344.99,
+   "light": 0.5001,
+   "chroma": 0.8335,
+   "punch": 0.3874
+  },
+  "todd-picks-2026-09-13::a02-br-ulio-amado": {
+   "id": "CRVI003315",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003315.jpg",
+   "original_px": [
+    800,
+    1236
+   ],
+   "original_bytes": 195786,
+   "identity": "todd-picks-2026-09-13::a02-br-ulio-amado",
+   "maker": "Bráulio Amado",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Bráulio Amado deep contact sheet, 2026-09-13. Source: booooooom / designboom / pinterest / X. ⚠ exactly 800 on the short edge — the floor itself Measured at 800x1236 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/amado/a02.jpg",
+   "source_px": [
+    800,
+    1236
+   ],
+   "colors": [
+    "red",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "designer",
+     "v": "Bráulio Amado"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Bráulio Amado deep contact sheet, 2026-09-13. Source: booooooom / designboom / pinterest / X. ⚠ exactly 800 on the short edge — the floor itself Measured at 800x1236 before minting and screened against the archive for duplicates.",
+   "hue": 345.54,
+   "light": 0.4792,
+   "chroma": 0.9721,
+   "punch": 0.5762
+  },
+  "todd-picks-2026-09-13::a03-br-ulio-amado": {
+   "id": "CRVI003316",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003316.jpg",
+   "original_px": [
+    1000,
+    1414
+   ],
+   "original_bytes": 546651,
+   "identity": "todd-picks-2026-09-13::a03-br-ulio-amado",
+   "maker": "Bráulio Amado",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Bráulio Amado deep contact sheet, 2026-09-13. Source: booooooom / designboom / pinterest / X. Measured at 1000x1414 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/amado/a03.jpg",
+   "source_px": [
+    1000,
+    1414
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "designer",
+     "v": "Bráulio Amado"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Bráulio Amado deep contact sheet, 2026-09-13. Source: booooooom / designboom / pinterest / X. Measured at 1000x1414 before minting and screened against the archive for duplicates.",
+   "hue": 347.04,
+   "light": 0.5994,
+   "chroma": 0.6286,
+   "punch": 0.3313
+  },
+  "todd-picks-2026-09-13::a04-br-ulio-amado": {
+   "id": "CRVI003317",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003317.jpg",
+   "original_px": [
+    1000,
+    1414
+   ],
+   "original_bytes": 525073,
+   "identity": "todd-picks-2026-09-13::a04-br-ulio-amado",
+   "maker": "Bráulio Amado",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Bráulio Amado deep contact sheet, 2026-09-13. Source: booooooom / designboom / pinterest / X. Measured at 1000x1414 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/amado/a04.jpg",
+   "source_px": [
+    1000,
+    1414
+   ],
+   "colors": [
+    "orange",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "designer",
+     "v": "Bráulio Amado"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Bráulio Amado deep contact sheet, 2026-09-13. Source: booooooom / designboom / pinterest / X. Measured at 1000x1414 before minting and screened against the archive for duplicates.",
+   "hue": 16.01,
+   "light": 0.8521,
+   "chroma": 0.6409,
+   "punch": 0.1717
+  },
+  "todd-picks-2026-09-13::a05-crop-br-ulio-amado": {
+   "id": "CRVI003318",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003318.jpg",
+   "original_px": [
+    607,
+    842
+   ],
+   "original_bytes": 309744,
+   "identity": "todd-picks-2026-09-13::a05-crop-br-ulio-amado",
+   "maker": "Bráulio Amado",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Bráulio Amado deep contact sheet, 2026-09-13. Source: booooooom / designboom / pinterest / X. CROPPED per Todd: framed print lifted off a white brick wall. ⚠ FALLS UNDER THE 800px FLOOR (1024x1024 -> 607x842). ⚠ The print is photographed at an ANGLE, so a rectangular crop cannot remove the frame entirely — a sliver of frame stays at the right. Measured at 607x842 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/amado/a05_crop.jpg",
+   "source_px": [
+    607,
+    842
+   ],
+   "colors": [
+    "green",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "designer",
+     "v": "Bráulio Amado"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Bráulio Amado deep contact sheet, 2026-09-13. Source: booooooom / designboom / pinterest / X. CROPPED per Todd: framed print lifted off a white brick wall. ⚠ FALLS UNDER THE 800px FLOOR (1024x1024 -> 607x842). ⚠ The print is photographed at an ANGLE, so a rectangular crop cannot remove the frame entirely — a sliver of frame stays at the right. Measured at 607x842 before minting and screened against the archive for duplicates.",
+   "hue": 96.47,
+   "light": 0.3273,
+   "chroma": 0.6522,
+   "punch": 0.2253
+  },
+  "todd-picks-2026-09-13::a06-br-ulio-amado": {
+   "id": "CRVI003319",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003319.jpg",
+   "original_px": [
+    1000,
+    1545
+   ],
+   "original_bytes": 647972,
+   "identity": "todd-picks-2026-09-13::a06-br-ulio-amado",
+   "maker": "Bráulio Amado",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Bráulio Amado deep contact sheet, 2026-09-13. Source: booooooom / designboom / pinterest / X. Measured at 1000x1545 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/amado/a06.jpg",
+   "source_px": [
+    1000,
+    1545
+   ],
+   "colors": [
+    "pink",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "designer",
+     "v": "Bráulio Amado"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Bráulio Amado deep contact sheet, 2026-09-13. Source: booooooom / designboom / pinterest / X. Measured at 1000x1545 before minting and screened against the archive for duplicates.",
+   "hue": 306.14,
+   "light": 0.5388,
+   "chroma": 0.793,
+   "punch": 0.3426
+  },
+  "todd-picks-2026-09-13::a07-br-ulio-amado": {
+   "id": "CRVI003320",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003320.jpg",
+   "original_px": [
+    1000,
+    1545
+   ],
+   "original_bytes": 502361,
+   "identity": "todd-picks-2026-09-13::a07-br-ulio-amado",
+   "maker": "Bráulio Amado",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Bráulio Amado deep contact sheet, 2026-09-13. Source: booooooom / designboom / pinterest / X. Measured at 1000x1545 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/amado/a07.jpg",
+   "source_px": [
+    1000,
+    1545
+   ],
+   "colors": [
+    "red",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "designer",
+     "v": "Bráulio Amado"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Bráulio Amado deep contact sheet, 2026-09-13. Source: booooooom / designboom / pinterest / X. Measured at 1000x1545 before minting and screened against the archive for duplicates.",
+   "hue": 6.4,
+   "light": 0.4565,
+   "chroma": 0.7246,
+   "punch": 0.4441
+  },
+  "todd-picks-2026-09-13::a08-br-ulio-amado": {
+   "id": "CRVI003321",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003321.jpg",
+   "original_px": [
+    1000,
+    1545
+   ],
+   "original_bytes": 630357,
+   "identity": "todd-picks-2026-09-13::a08-br-ulio-amado",
+   "maker": "Bráulio Amado",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Bráulio Amado deep contact sheet, 2026-09-13. Source: booooooom / designboom / pinterest / X. Measured at 1000x1545 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/amado/a08.jpg",
+   "source_px": [
+    1000,
+    1545
+   ],
+   "colors": [
+    "cyan",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "designer",
+     "v": "Bráulio Amado"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Bráulio Amado deep contact sheet, 2026-09-13. Source: booooooom / designboom / pinterest / X. Measured at 1000x1545 before minting and screened against the archive for duplicates.",
+   "hue": 174.97,
+   "light": 0.3752,
+   "chroma": 0.693,
+   "punch": 0.3317
+  },
+  "todd-picks-2026-09-13::a09-br-ulio-amado": {
+   "id": "CRVI003322",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003322.jpg",
+   "original_px": [
+    2400,
+    2400
+   ],
+   "original_bytes": 1631006,
+   "identity": "todd-picks-2026-09-13::a09-br-ulio-amado",
+   "maker": "Bráulio Amado",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Bráulio Amado deep contact sheet, 2026-09-13. Source: booooooom / designboom / pinterest / X. Twitter/X: appending ?name=orig doubled it, 1200x1200 -> 2400x2400 Measured at 2400x2400 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/amado/a09.jpg",
+   "source_px": [
+    2400,
+    2400
+   ],
+   "colors": [
+    "blue",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "designer",
+     "v": "Bráulio Amado"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Bráulio Amado deep contact sheet, 2026-09-13. Source: booooooom / designboom / pinterest / X. Twitter/X: appending ?name=orig doubled it, 1200x1200 -> 2400x2400 Measured at 2400x2400 before minting and screened against the archive for duplicates.",
+   "hue": 205.69,
+   "light": 0.4411,
+   "chroma": 0.6268,
+   "punch": 0.2727
+  },
+  "todd-picks-2026-09-13::a10-br-ulio-amado": {
+   "id": "CRVI003323",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003323.jpg",
+   "original_px": [
+    970,
+    1500
+   ],
+   "original_bytes": 296023,
+   "identity": "todd-picks-2026-09-13::a10-br-ulio-amado",
+   "maker": "Bráulio Amado",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Bráulio Amado deep contact sheet, 2026-09-13. Source: booooooom / designboom / pinterest / X. Measured at 970x1500 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/amado/a10.jpg",
+   "source_px": [
+    970,
+    1500
+   ],
+   "colors": [
+    "red",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "designer",
+     "v": "Bráulio Amado"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Bráulio Amado deep contact sheet, 2026-09-13. Source: booooooom / designboom / pinterest / X. Measured at 970x1500 before minting and screened against the archive for duplicates.",
+   "hue": 355.54,
+   "light": 0.4952,
+   "chroma": 0.4775,
+   "punch": 0.2051
+  },
+  "todd-picks-2026-09-13::a11-br-ulio-amado": {
+   "id": "CRVI003324",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003324.jpg",
+   "original_px": [
+    1000,
+    1545
+   ],
+   "original_bytes": 416903,
+   "identity": "todd-picks-2026-09-13::a11-br-ulio-amado",
+   "maker": "Bráulio Amado",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Bráulio Amado deep contact sheet, 2026-09-13. Source: booooooom / designboom / pinterest / X. Measured at 1000x1545 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/amado/a11.jpg",
+   "source_px": [
+    1000,
+    1545
+   ],
+   "colors": [
+    "green",
+    "purple"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "designer",
+     "v": "Bráulio Amado"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Bráulio Amado deep contact sheet, 2026-09-13. Source: booooooom / designboom / pinterest / X. Measured at 1000x1545 before minting and screened against the archive for duplicates.",
+   "hue": 94.64,
+   "light": 0.5663,
+   "chroma": 0.4183,
+   "punch": 0.1655
+  },
+  "todd-picks-2026-09-13::a12-br-ulio-amado": {
+   "id": "CRVI003325",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003325.jpg",
+   "original_px": [
+    970,
+    1500
+   ],
+   "original_bytes": 570314,
+   "identity": "todd-picks-2026-09-13::a12-br-ulio-amado",
+   "maker": "Bráulio Amado",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Bráulio Amado deep contact sheet, 2026-09-13. Source: booooooom / designboom / pinterest / X. Measured at 970x1500 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/amado/a12.jpg",
+   "source_px": [
+    970,
+    1500
+   ],
+   "colors": [
+    "yellow",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "designer",
+     "v": "Bráulio Amado"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Bráulio Amado deep contact sheet, 2026-09-13. Source: booooooom / designboom / pinterest / X. Measured at 970x1500 before minting and screened against the archive for duplicates.",
+   "hue": 5.09,
+   "light": 0.5427,
+   "chroma": 0.6155,
+   "punch": 0.2348
+  },
+  "todd-picks-2026-09-13::a13-br-ulio-amado": {
+   "id": "CRVI003326",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003326.jpg",
+   "original_px": [
+    818,
+    1000
+   ],
+   "original_bytes": 96143,
+   "identity": "todd-picks-2026-09-13::a13-br-ulio-amado",
+   "maker": "Bráulio Amado",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Bráulio Amado deep contact sheet, 2026-09-13. Source: booooooom / designboom / pinterest / X. designboom's -818x1000 IS the master — stripping the suffix returns the same file Measured at 818x1000 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/amado/a13.jpg",
+   "source_px": [
+    818,
+    1000
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "designer",
+     "v": "Bráulio Amado"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Bráulio Amado deep contact sheet, 2026-09-13. Source: booooooom / designboom / pinterest / X. designboom's -818x1000 IS the master — stripping the suffix returns the same file Measured at 818x1000 before minting and screened against the archive for duplicates.",
+   "hue": null,
+   "light": 0.5765,
+   "chroma": 0.0135,
+   "punch": 0.0055
+  },
+  "todd-picks-2026-09-13::a14-br-ulio-amado": {
+   "id": "CRVI003327",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003327.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 901034,
+   "identity": "todd-picks-2026-09-13::a14-br-ulio-amado",
+   "maker": "Bráulio Amado",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Bráulio Amado deep contact sheet, 2026-09-13. Source: booooooom / designboom / pinterest / X. Measured at 1500x1500 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/amado/a14.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "designer",
+     "v": "Bráulio Amado"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Bráulio Amado deep contact sheet, 2026-09-13. Source: booooooom / designboom / pinterest / X. Measured at 1500x1500 before minting and screened against the archive for duplicates.",
+   "hue": 15.18,
+   "light": 0.4962,
+   "chroma": 0.3035,
+   "punch": 0.1786
+  },
+  "todd-picks-2026-09-13::a15-br-ulio-amado": {
+   "id": "CRVI003328",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003328.jpg",
+   "original_px": [
+    1500,
+    1500
+   ],
+   "original_bytes": 1024721,
+   "identity": "todd-picks-2026-09-13::a15-br-ulio-amado",
+   "maker": "Bráulio Amado",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Bráulio Amado deep contact sheet, 2026-09-13. Source: booooooom / designboom / pinterest / X. stripping -1400x1400 gave 1500x1500 Measured at 1500x1500 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/amado/a15.jpg",
+   "source_px": [
+    1500,
+    1500
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "designer",
+     "v": "Bráulio Amado"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Bráulio Amado deep contact sheet, 2026-09-13. Source: booooooom / designboom / pinterest / X. stripping -1400x1400 gave 1500x1500 Measured at 1500x1500 before minting and screened against the archive for duplicates.",
+   "hue": 44.73,
+   "light": 0.4524,
+   "chroma": 0.5533,
+   "punch": 0.3226
+  },
+  "todd-picks-2026-09-13::a16-br-ulio-amado": {
+   "id": "CRVI003329",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003329.jpg",
+   "original_px": [
+    1000,
+    1545
+   ],
+   "original_bytes": 758471,
+   "identity": "todd-picks-2026-09-13::a16-br-ulio-amado",
+   "maker": "Bráulio Amado",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Bráulio Amado deep contact sheet, 2026-09-13. Source: booooooom / designboom / pinterest / X. Measured at 1000x1545 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/amado/a16.jpg",
+   "source_px": [
+    1000,
+    1545
+   ],
+   "colors": [
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "designer",
+     "v": "Bráulio Amado"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Bráulio Amado deep contact sheet, 2026-09-13. Source: booooooom / designboom / pinterest / X. Measured at 1000x1545 before minting and screened against the archive for duplicates.",
+   "hue": 55.56,
+   "light": 0.2829,
+   "chroma": 0.7064,
+   "punch": 0.3461
+  },
+  "todd-picks-2026-09-13::a17-crop-br-ulio-amado": {
+   "id": "CRVI003330",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003330.jpg",
+   "original_px": [
+    600,
+    848
+   ],
+   "original_bytes": 241497,
+   "identity": "todd-picks-2026-09-13::a17-crop-br-ulio-amado",
+   "maker": "Bráulio Amado",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Bráulio Amado deep contact sheet, 2026-09-13. Source: booooooom / designboom / pinterest / X. CROPPED per Todd: poster lifted off a white ground. ⚠ FALLS UNDER THE 800px FLOOR (818x1000 -> 600x848) and designboom has nothing larger. Measured at 600x848 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/amado/a17_crop.jpg",
+   "source_px": [
+    600,
+    848
+   ],
+   "colors": [
+    "pink",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "designer",
+     "v": "Bráulio Amado"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Bráulio Amado deep contact sheet, 2026-09-13. Source: booooooom / designboom / pinterest / X. CROPPED per Todd: poster lifted off a white ground. ⚠ FALLS UNDER THE 800px FLOOR (818x1000 -> 600x848) and designboom has nothing larger. Measured at 600x848 before minting and screened against the archive for duplicates.",
+   "hue": 344.4,
+   "light": 0.2648,
+   "chroma": 0.4124,
+   "punch": 0.1301
+  },
+  "todd-picks-2026-09-13::a18-br-ulio-amado": {
+   "id": "CRVI003331",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003331.jpg",
+   "original_px": [
+    1200,
+    1699
+   ],
+   "original_bytes": 418061,
+   "identity": "todd-picks-2026-09-13::a18-br-ulio-amado",
+   "maker": "Bráulio Amado",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Bráulio Amado deep contact sheet, 2026-09-13. Source: booooooom / designboom / pinterest / X. Measured at 1200x1699 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/amado/a18.jpg",
+   "source_px": [
+    1200,
+    1699
+   ],
+   "colors": [
+    "green",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "designer",
+     "v": "Bráulio Amado"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Bráulio Amado deep contact sheet, 2026-09-13. Source: booooooom / designboom / pinterest / X. Measured at 1200x1699 before minting and screened against the archive for duplicates.",
+   "hue": 145.65,
+   "light": 0.5875,
+   "chroma": 0.6239,
+   "punch": 0.3101
+  },
+  "todd-picks-2026-09-13::a19-br-ulio-amado": {
+   "id": "CRVI003332",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003332.jpg",
+   "original_px": [
+    1000,
+    1414
+   ],
+   "original_bytes": 1069992,
+   "identity": "todd-picks-2026-09-13::a19-br-ulio-amado",
+   "maker": "Bráulio Amado",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Bráulio Amado deep contact sheet, 2026-09-13. Source: booooooom / designboom / pinterest / X. Measured at 1000x1414 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/amado/a19.jpg",
+   "source_px": [
+    1000,
+    1414
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "designer",
+     "v": "Bráulio Amado"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Bráulio Amado deep contact sheet, 2026-09-13. Source: booooooom / designboom / pinterest / X. Measured at 1000x1414 before minting and screened against the archive for duplicates.",
+   "hue": 31.76,
+   "light": 0.4939,
+   "chroma": 0.9293,
+   "punch": 0.3488
+  },
+  "todd-picks-2026-09-13::s01-superstudio": {
+   "id": "CRVI003333",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003333.jpg",
+   "original_px": [
+    960,
+    1123
+   ],
+   "original_bytes": 207565,
+   "identity": "todd-picks-2026-09-13::s01-superstudio",
+   "maker": "Superstudio",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Superstudio deep contact sheet, 2026-09-13. Source: various. Measured at 960x1123 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/super/s01.jpg",
+   "source_px": [
+    960,
+    1123
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "collage"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "artist",
+     "v": "Superstudio"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "subject",
+     "v": "Superstudio"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Superstudio deep contact sheet, 2026-09-13. Source: various. Measured at 960x1123 before minting and screened against the archive for duplicates.",
+   "hue": 32.43,
+   "light": 0.6161,
+   "chroma": 0.2487,
+   "punch": 0.0807
+  },
+  "todd-picks-2026-09-13::s03-superstudio": {
+   "id": "CRVI003334",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003334.jpg",
+   "original_px": [
+    2831,
+    2238
+   ],
+   "original_bytes": 735485,
+   "identity": "todd-picks-2026-09-13::s03-superstudio",
+   "maker": "Superstudio",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Superstudio deep contact sheet, 2026-09-13. Source: various. 1stdibs: Niagara project Measured at 2831x2238 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/super/s03.jpg",
+   "source_px": [
+    2831,
+    2238
+   ],
+   "colors": [
+    "cyan",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "collage"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "artist",
+     "v": "Superstudio"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "subject",
+     "v": "Superstudio"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Superstudio deep contact sheet, 2026-09-13. Source: various. 1stdibs: Niagara project Measured at 2831x2238 before minting and screened against the archive for duplicates.",
+   "hue": 190.56,
+   "light": 0.6328,
+   "chroma": 0.6027,
+   "punch": 0.1428
+  },
+  "todd-picks-2026-09-13::s04-superstudio": {
+   "id": "CRVI003335",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003335.jpg",
+   "original_px": [
+    1280,
+    1064
+   ],
+   "original_bytes": 217842,
+   "identity": "todd-picks-2026-09-13::s04-superstudio",
+   "maker": "Superstudio",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Superstudio deep contact sheet, 2026-09-13. Source: various. Measured at 1280x1064 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/super/s04.jpg",
+   "source_px": [
+    1280,
+    1064
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "collage"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "artist",
+     "v": "Superstudio"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "subject",
+     "v": "Superstudio"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Superstudio deep contact sheet, 2026-09-13. Source: various. Measured at 1280x1064 before minting and screened against the archive for duplicates.",
+   "hue": 215.5,
+   "light": 0.8178,
+   "chroma": 0.1666,
+   "punch": 0.0422
+  },
+  "todd-picks-2026-09-13::s05-crop-superstudio": {
+   "id": "CRVI003336",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003336.jpg",
+   "original_px": [
+    923,
+    927
+   ],
+   "original_bytes": 384028,
+   "identity": "todd-picks-2026-09-13::s05-crop-superstudio",
+   "maker": "Superstudio",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Superstudio deep contact sheet, 2026-09-13. Source: various. CROPPED per Todd; clears the floor Measured at 923x927 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/super/s05_crop.jpg",
+   "source_px": [
+    923,
+    927
+   ],
+   "colors": [
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "collage"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "artist",
+     "v": "Superstudio"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "subject",
+     "v": "Superstudio"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Superstudio deep contact sheet, 2026-09-13. Source: various. CROPPED per Todd; clears the floor Measured at 923x927 before minting and screened against the archive for duplicates.",
+   "hue": null,
+   "light": 0.3947,
+   "chroma": 0.0383,
+   "punch": 0.0601
+  },
+  "todd-picks-2026-09-13::s06-superstudio": {
+   "id": "CRVI003337",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003337.jpg",
+   "original_px": [
+    1551,
+    1100
+   ],
+   "original_bytes": 429334,
+   "identity": "todd-picks-2026-09-13::s06-superstudio",
+   "maker": "Superstudio",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Superstudio deep contact sheet, 2026-09-13. Source: various. Measured at 1551x1100 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/super/s06.jpg",
+   "source_px": [
+    1551,
+    1100
+   ],
+   "colors": [
+    "yellow",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "collage"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "artist",
+     "v": "Superstudio"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "subject",
+     "v": "Superstudio"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Superstudio deep contact sheet, 2026-09-13. Source: various. Measured at 1551x1100 before minting and screened against the archive for duplicates.",
+   "hue": 52.85,
+   "light": 0.6798,
+   "chroma": 0.1763,
+   "punch": 0.0534
+  },
+  "todd-picks-2026-09-13::s07-superstudio": {
+   "id": "CRVI003338",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003338.png",
+   "original_px": [
+    1114,
+    1124
+   ],
+   "original_bytes": 962277,
+   "identity": "todd-picks-2026-09-13::s07-superstudio",
+   "maker": "Superstudio",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Superstudio deep contact sheet, 2026-09-13. Source: various. archinect gumlet carried enlarge=true; the bare URL returns the same 1114x1124, so nothing was upscaled Measured at 1114x1124 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/super/s07.png",
+   "source_px": [
+    1114,
+    1124
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "collage"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "artist",
+     "v": "Superstudio"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "subject",
+     "v": "Superstudio"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Superstudio deep contact sheet, 2026-09-13. Source: various. archinect gumlet carried enlarge=true; the bare URL returns the same 1114x1124, so nothing was upscaled Measured at 1114x1124 before minting and screened against the archive for duplicates.",
+   "hue": 211.92,
+   "light": 0.5173,
+   "chroma": 0.7223,
+   "punch": 0.1943
+  },
+  "todd-picks-2026-09-13::s08-superstudio": {
+   "id": "CRVI003339",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003339.jpg",
+   "original_px": [
+    2000,
+    1999
+   ],
+   "original_bytes": 748429,
+   "identity": "todd-picks-2026-09-13::s08-superstudio",
+   "maker": "Superstudio",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Superstudio deep contact sheet, 2026-09-13. Source: various. X: ?name=orig, same as :large here Measured at 2000x1999 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/super/s08.jpg",
+   "source_px": [
+    2000,
+    1999
+   ],
+   "colors": [
+    "blue",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "collage"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "artist",
+     "v": "Superstudio"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "subject",
+     "v": "Superstudio"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Superstudio deep contact sheet, 2026-09-13. Source: various. X: ?name=orig, same as :large here Measured at 2000x1999 before minting and screened against the archive for duplicates.",
+   "hue": 213.74,
+   "light": 0.696,
+   "chroma": 0.3394,
+   "punch": 0.0801
+  },
+  "todd-picks-2026-09-13::s09-superstudio": {
+   "id": "CRVI003340",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003340.jpg",
+   "original_px": [
+    1540,
+    944
+   ],
+   "original_bytes": 304945,
+   "identity": "todd-picks-2026-09-13::s09-superstudio",
+   "maker": "Superstudio",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Superstudio deep contact sheet, 2026-09-13. Source: various. Measured at 1540x944 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/super/s09.jpg",
+   "source_px": [
+    1540,
+    944
+   ],
+   "colors": [
+    "cyan",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "collage"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "artist",
+     "v": "Superstudio"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "subject",
+     "v": "Superstudio"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Superstudio deep contact sheet, 2026-09-13. Source: various. Measured at 1540x944 before minting and screened against the archive for duplicates.",
+   "hue": 195.38,
+   "light": 0.548,
+   "chroma": 0.7381,
+   "punch": 0.172
+  },
+  "todd-picks-2026-09-13::s10-superstudio": {
+   "id": "CRVI003341",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003341.jpg",
+   "original_px": [
+    1402,
+    912
+   ],
+   "original_bytes": 308427,
+   "identity": "todd-picks-2026-09-13::s10-superstudio",
+   "maker": "Superstudio",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Superstudio deep contact sheet, 2026-09-13. Source: various. ⚠ same composition as s20 in a DIFFERENT COLOUR (teal vs green), rawMAD 24.8 — two versions, not one file Measured at 1402x912 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/super/s10.jpg",
+   "source_px": [
+    1402,
+    912
+   ],
+   "colors": [
+    "cyan",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "collage"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "artist",
+     "v": "Superstudio"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "subject",
+     "v": "Superstudio"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Superstudio deep contact sheet, 2026-09-13. Source: various. ⚠ same composition as s20 in a DIFFERENT COLOUR (teal vs green), rawMAD 24.8 — two versions, not one file Measured at 1402x912 before minting and screened against the archive for duplicates.",
+   "hue": 192.69,
+   "light": 0.5339,
+   "chroma": 0.6348,
+   "punch": 0.1375
+  },
+  "todd-picks-2026-09-13::s11-superstudio": {
+   "id": "CRVI003342",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003342.jpg",
+   "original_px": [
+    800,
+    810
+   ],
+   "original_bytes": 110933,
+   "identity": "todd-picks-2026-09-13::s11-superstudio",
+   "maker": "Superstudio",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Superstudio deep contact sheet, 2026-09-13. Source: various. ⚠ exactly 800 on the short edge. LinkedIn's feedshare-shrink_2048_1536 is dead, so 800 is all it serves Measured at 800x810 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/super/s11.jpg",
+   "source_px": [
+    800,
+    810
+   ],
+   "colors": [
+    "cyan",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "collage"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "artist",
+     "v": "Superstudio"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "subject",
+     "v": "Superstudio"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Superstudio deep contact sheet, 2026-09-13. Source: various. ⚠ exactly 800 on the short edge. LinkedIn's feedshare-shrink_2048_1536 is dead, so 800 is all it serves Measured at 800x810 before minting and screened against the archive for duplicates.",
+   "hue": null,
+   "light": 0.4524,
+   "chroma": 0.0656,
+   "punch": 0.0686
+  },
+  "todd-picks-2026-09-13::s12-superstudio": {
+   "id": "CRVI003343",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003343.png",
+   "original_px": [
+    1138,
+    1005
+   ],
+   "original_bytes": 752767,
+   "identity": "todd-picks-2026-09-13::s12-superstudio",
+   "maker": "Superstudio",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Superstudio deep contact sheet, 2026-09-13. Source: various. Measured at 1138x1005 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/super/s12.png",
+   "source_px": [
+    1138,
+    1005
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "collage"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "artist",
+     "v": "Superstudio"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "subject",
+     "v": "Superstudio"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Superstudio deep contact sheet, 2026-09-13. Source: various. Measured at 1138x1005 before minting and screened against the archive for duplicates.",
+   "hue": 345.47,
+   "light": 0.3367,
+   "chroma": 0.4881,
+   "punch": 0.1843
+  },
+  "todd-picks-2026-09-13::s13-superstudio": {
+   "id": "CRVI003344",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003344.jpg",
+   "original_px": [
+    2940,
+    4000
+   ],
+   "original_bytes": 11092565,
+   "identity": "todd-picks-2026-09-13::s13-superstudio",
+   "maker": "Superstudio",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Superstudio deep contact sheet, 2026-09-13. Source: various. drawingmatter: stripping -882x1200 gave 882x1200 -> 2940x4000, the biggest gain in the batch Measured at 2940x4000 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/super/s13.jpg",
+   "source_px": [
+    2940,
+    4000
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "collage"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "artist",
+     "v": "Superstudio"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "subject",
+     "v": "Superstudio"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Superstudio deep contact sheet, 2026-09-13. Source: various. drawingmatter: stripping -882x1200 gave 882x1200 -> 2940x4000, the biggest gain in the batch Measured at 2940x4000 before minting and screened against the archive for duplicates.",
+   "hue": 32.55,
+   "light": 0.8749,
+   "chroma": 0.9035,
+   "punch": 0.1063
+  },
+  "todd-picks-2026-09-13::s14-superstudio": {
+   "id": "CRVI003345",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003345.jpg",
+   "original_px": [
+    2048,
+    1692
+   ],
+   "original_bytes": 876963,
+   "identity": "todd-picks-2026-09-13::s14-superstudio",
+   "maker": "Superstudio",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Superstudio deep contact sheet, 2026-09-13. Source: various. metalocus: dropping the Drupal /styles/.../public/ image-style path gave 2048 Measured at 2048x1692 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/super/s14.jpg",
+   "source_px": [
+    2048,
+    1692
+   ],
+   "colors": [
+    "blue",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "collage"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "artist",
+     "v": "Superstudio"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "subject",
+     "v": "Superstudio"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Superstudio deep contact sheet, 2026-09-13. Source: various. metalocus: dropping the Drupal /styles/.../public/ image-style path gave 2048 Measured at 2048x1692 before minting and screened against the archive for duplicates.",
+   "hue": 202.7,
+   "light": 0.6082,
+   "chroma": 0.4054,
+   "punch": 0.1101
+  },
+  "todd-picks-2026-09-13::s15-superstudio": {
+   "id": "CRVI003346",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003346.jpg",
+   "original_px": [
+    1375,
+    2000
+   ],
+   "original_bytes": 365568,
+   "identity": "todd-picks-2026-09-13::s15-superstudio",
+   "maker": "Superstudio",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Superstudio deep contact sheet, 2026-09-13. Source: various. drawingmatter: stacked '-edited-e1628094865747-edited-1' stripped, 1211x1396 -> 1375x2000 Measured at 1375x2000 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/super/s15.jpg",
+   "source_px": [
+    1375,
+    2000
+   ],
+   "colors": [
+    "yellow",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "collage"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "artist",
+     "v": "Superstudio"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "subject",
+     "v": "Superstudio"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Superstudio deep contact sheet, 2026-09-13. Source: various. drawingmatter: stacked '-edited-e1628094865747-edited-1' stripped, 1211x1396 -> 1375x2000 Measured at 1375x2000 before minting and screened against the archive for duplicates.",
+   "hue": 50.63,
+   "light": 0.6249,
+   "chroma": 0.2346,
+   "punch": 0.0584
+  },
+  "todd-picks-2026-09-13::s16-superstudio": {
+   "id": "CRVI003347",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003347.jpg",
+   "original_px": [
+    2000,
+    1309
+   ],
+   "original_bytes": 526903,
+   "identity": "todd-picks-2026-09-13::s16-superstudio",
+   "maker": "Superstudio",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Superstudio deep contact sheet, 2026-09-13. Source: various. Measured at 2000x1309 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/super/s16.jpg",
+   "source_px": [
+    2000,
+    1309
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "collage"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "artist",
+     "v": "Superstudio"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "subject",
+     "v": "Superstudio"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Superstudio deep contact sheet, 2026-09-13. Source: various. Measured at 2000x1309 before minting and screened against the archive for duplicates.",
+   "hue": 30.93,
+   "light": 0.4781,
+   "chroma": 0.347,
+   "punch": 0.1212
+  },
+  "todd-picks-2026-09-13::s17-superstudio": {
+   "id": "CRVI003348",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003348.jpg",
+   "original_px": [
+    1280,
+    917
+   ],
+   "original_bytes": 301805,
+   "identity": "todd-picks-2026-09-13::s17-superstudio",
+   "maker": "Superstudio",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Superstudio deep contact sheet, 2026-09-13. Source: various. cimam '.width-2480' returns only 1280x917 — the number in the path is a request, not the file Measured at 1280x917 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/super/s17.jpg",
+   "source_px": [
+    1280,
+    917
+   ],
+   "colors": [
+    "cyan",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "collage"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "artist",
+     "v": "Superstudio"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "subject",
+     "v": "Superstudio"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Superstudio deep contact sheet, 2026-09-13. Source: various. cimam '.width-2480' returns only 1280x917 — the number in the path is a request, not the file Measured at 1280x917 before minting and screened against the archive for duplicates.",
+   "hue": 201.4,
+   "light": 0.5886,
+   "chroma": 0.5913,
+   "punch": 0.1152
+  },
+  "todd-picks-2026-09-13::s18-superstudio": {
+   "id": "CRVI003349",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003349.jpg",
+   "original_px": [
+    2048,
+    1389
+   ],
+   "original_bytes": 762760,
+   "identity": "todd-picks-2026-09-13::s18-superstudio",
+   "maker": "Superstudio",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Superstudio deep contact sheet, 2026-09-13. Source: various. Measured at 2048x1389 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/super/s18.jpg",
+   "source_px": [
+    2048,
+    1389
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "collage"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "artist",
+     "v": "Superstudio"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "subject",
+     "v": "Superstudio"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Superstudio deep contact sheet, 2026-09-13. Source: various. Measured at 2048x1389 before minting and screened against the archive for duplicates.",
+   "hue": 42.8,
+   "light": 0.6183,
+   "chroma": 0.4633,
+   "punch": 0.1343
+  },
+  "todd-picks-2026-09-13::s19-superstudio": {
+   "id": "CRVI003350",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003350.jpg",
+   "original_px": [
+    1580,
+    2103
+   ],
+   "original_bytes": 843041,
+   "identity": "todd-picks-2026-09-13::s19-superstudio",
+   "maker": "Superstudio",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Superstudio deep contact sheet, 2026-09-13. Source: various. Measured at 1580x2103 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/super/s19.jpg",
+   "source_px": [
+    1580,
+    2103
+   ],
+   "colors": [
+    "orange",
+    "cyan"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "collage"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "artist",
+     "v": "Superstudio"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "subject",
+     "v": "Superstudio"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Superstudio deep contact sheet, 2026-09-13. Source: various. Measured at 1580x2103 before minting and screened against the archive for duplicates.",
+   "hue": 21.61,
+   "light": 0.5859,
+   "chroma": 0.8114,
+   "punch": 0.2194
+  },
+  "todd-picks-2026-09-13::s20-superstudio": {
+   "id": "CRVI003351",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003351.jpg",
+   "original_px": [
+    2048,
+    1456
+   ],
+   "original_bytes": 889510,
+   "identity": "todd-picks-2026-09-13::s20-superstudio",
+   "maker": "Superstudio",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Superstudio deep contact sheet, 2026-09-13. Source: various. see s10 — the other colour Measured at 2048x1456 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/super/s20.jpg",
+   "source_px": [
+    2048,
+    1456
+   ],
+   "colors": [
+    "green",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "collage"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "artist",
+     "v": "Superstudio"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "subject",
+     "v": "Superstudio"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Superstudio deep contact sheet, 2026-09-13. Source: various. see s10 — the other colour Measured at 2048x1456 before minting and screened against the archive for duplicates.",
+   "hue": 46.49,
+   "light": 0.5608,
+   "chroma": 0.8006,
+   "punch": 0.2083
+  },
+  "todd-picks-2026-09-13::s21-superstudio": {
+   "id": "CRVI003352",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003352.jpg",
+   "original_px": [
+    2048,
+    1437
+   ],
+   "original_bytes": 870796,
+   "identity": "todd-picks-2026-09-13::s21-superstudio",
+   "maker": "Superstudio",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Superstudio deep contact sheet, 2026-09-13. Source: various. Measured at 2048x1437 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/super/s21.jpg",
+   "source_px": [
+    2048,
+    1437
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "collage"
+    },
+    {
+     "k": "location",
+     "v": "Italy"
+    },
+    {
+     "k": "artist",
+     "v": "Superstudio"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "subject",
+     "v": "Superstudio"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Superstudio deep contact sheet, 2026-09-13. Source: various. Measured at 2048x1437 before minting and screened against the archive for duplicates.",
+   "hue": 40.55,
+   "light": 0.545,
+   "chroma": 0.5041,
+   "punch": 0.1224
+  },
+  "todd-picks-2026-09-13::g1-archigram": {
+   "id": "CRVI003353",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003353.jpg",
+   "original_px": [
+    2308,
+    1547
+   ],
+   "original_bytes": 990747,
+   "identity": "todd-picks-2026-09-13::g1-archigram",
+   "maker": "Archigram",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Archigram deep contact sheet, 2026-09-13. Source: various. Measured at 2308x1547 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/arch2/g1.jpg",
+   "source_px": [
+    2308,
+    1547
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "architectural drawing"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "artist",
+     "v": "Archigram"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "subject",
+     "v": "Archigram"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Archigram deep contact sheet, 2026-09-13. Source: various. Measured at 2308x1547 before minting and screened against the archive for duplicates.",
+   "hue": 54.44,
+   "light": 0.5132,
+   "chroma": 0.262,
+   "punch": 0.0794
+  },
+  "todd-picks-2026-09-13::g2-archigram": {
+   "id": "CRVI003354",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003354.jpg",
+   "original_px": [
+    1109,
+    2016
+   ],
+   "original_bytes": 467515,
+   "identity": "todd-picks-2026-09-13::g2-archigram",
+   "maker": "Archigram",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Archigram deep contact sheet, 2026-09-13. Source: various. Measured at 1109x2016 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/arch2/g2.jpg",
+   "source_px": [
+    1109,
+    2016
+   ],
+   "colors": [
+    "yellow",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "architectural drawing"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "artist",
+     "v": "Archigram"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "subject",
+     "v": "Archigram"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Archigram deep contact sheet, 2026-09-13. Source: various. Measured at 1109x2016 before minting and screened against the archive for duplicates.",
+   "hue": 58.28,
+   "light": 0.7874,
+   "chroma": 0.5489,
+   "punch": 0.1108
+  },
+  "todd-picks-2026-09-13::g3-archigram": {
+   "id": "CRVI003355",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003355.jpg",
+   "original_px": [
+    1000,
+    998
+   ],
+   "original_bytes": 1806837,
+   "identity": "todd-picks-2026-09-13::g3-archigram",
+   "maker": "Archigram",
+   "title": "Untitled",
+   "verified_against": "Picked by Todd off the Archigram deep contact sheet, 2026-09-13. Source: various. Solar City, 1987 Measured at 1000x998 before minting and screened against the archive for duplicates.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/arch2/g3.jpg",
+   "source_px": [
+    1000,
+    998
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "architectural drawing"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    },
+    {
+     "k": "artist",
+     "v": "Archigram"
+    },
+    {
+     "k": "subject",
+     "v": "architecture"
+    },
+    {
+     "k": "subject",
+     "v": "Archigram"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the Archigram deep contact sheet, 2026-09-13. Source: various. Solar City, 1987 Measured at 1000x998 before minting and screened against the archive for duplicates.",
+   "hue": 40.72,
+   "light": 0.7072,
+   "chroma": 0.9996,
+   "punch": 0.4308
   }
  }
 }
