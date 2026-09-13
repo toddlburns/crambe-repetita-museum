@@ -13836,10 +13836,10 @@
    "minted": "2026-08-26",
    "original_file": "originals/CRVI000265.jpg",
    "original_px": [
-    560,
-    800
+    557,
+    799
    ],
-   "original_bytes": 413142,
+   "original_bytes": 345852,
    "identity": "poster shop::https://polishpostergallery.com/poster/cieslewicz_roman_teatr_wspolczesny",
    "maker": "Roman Cieślewicz",
    "title": "Theater Wspolczesny in Wroclaw Invites",
@@ -13881,10 +13881,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Listed by polishpostergallery.com as “Theater Wspolczesny in Wroclaw Invites”. Designer given as Roman Cieślewicz.",
-   "hue": 88.82,
-   "light": 0.4169,
-   "chroma": 0.4993,
-   "punch": 0.086
+   "hue": 89.0,
+   "light": 0.4132,
+   "chroma": 0.4986,
+   "punch": 0.0863,
+   "crop": {
+    "box": [
+     3,
+     1,
+     560,
+     800
+    ],
+    "was": [
+     560,
+     800
+    ],
+    "now": [
+     557,
+     799
+    ],
+    "uncropped": "originals_uncropped/CRVI000265.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "poster shop::https://polishpostergallery.com/poster/cieslewicz_roman_witkiewicz_wscieklica": {
    "id": "CRVI000266",
@@ -46107,10 +46125,10 @@
    "minted": "2026-09-01",
    "original_file": "originals/CRVI000765.jpg",
    "original_px": [
-    1312,
-    2000
+    1275,
+    1941
    ],
-   "original_bytes": 687597,
+   "original_bytes": 1087117,
    "identity": "paulascher::the-diva-is-dismissed-1994",
    "maker": "Paula Scher",
    "title": "The Diva is Dismissed",
@@ -46165,20 +46183,38 @@
    "identity_established": true,
    "published": true,
    "verification": "MoMA’s collection record 8837: Paula Scher, The Diva is Dismissed, 1994, serigraph, 46 × 30 1/8\" (116.8 × 76.5 cm), gift of the designer.",
-   "hue": 44.57,
-   "light": 0.4719,
-   "chroma": 0.8864,
-   "punch": 0.5194
+   "hue": 44.52,
+   "light": 0.4487,
+   "chroma": 0.8965,
+   "punch": 0.5437,
+   "crop": {
+    "box": [
+     19,
+     30,
+     1294,
+     1971
+    ],
+    "was": [
+     1312,
+     2000
+    ],
+    "now": [
+     1275,
+     1941
+    ],
+    "uncropped": "originals_uncropped/CRVI000765.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "paulascher::him-1994": {
    "id": "CRVI000766",
    "minted": "2026-09-01",
    "original_file": "originals/CRVI000766.jpg",
    "original_px": [
-    1327,
-    2000
+    1258,
+    1942
    ],
-   "original_bytes": 339299,
+   "original_bytes": 561527,
    "identity": "paulascher::him-1994",
    "maker": "Paula Scher",
    "title": "Him",
@@ -46233,9 +46269,27 @@
    "published": true,
    "verification": "MoMA’s collection record 8836: Paula Scher, Him, 1994, screenprint, 46 × 30 1/8\" (116.8 × 76.5 cm), gift of the designer.",
    "hue": 94.87,
-   "light": 0.4525,
-   "chroma": 0.8384,
-   "punch": 0.293
+   "light": 0.4229,
+   "chroma": 0.8598,
+   "punch": 0.3084,
+   "crop": {
+    "box": [
+     36,
+     35,
+     1294,
+     1977
+    ],
+    "was": [
+     1327,
+     2000
+    ],
+    "now": [
+     1258,
+     1942
+    ],
+    "uncropped": "originals_uncropped/CRVI000766.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "paulascher::simpatico-1994": {
    "id": "CRVI000767",
@@ -56858,10 +56912,10 @@
    "minted": "2026-09-01",
    "original_file": "originals/CRVI000932.png",
    "original_px": [
-    2396,
-    2296
+    2153,
+    2084
    ],
-   "original_bytes": 48328,
+   "original_bytes": 42599,
    "vector_file": "originals/CRVI000932.svg",
    "vector_bytes": 1936,
    "identity": "trademark-books::IMG_2333_2",
@@ -56901,9 +56955,27 @@
    "published": true,
    "verification": "Trademarks of the 40s and 50s, photographed by Todd Burns; the drawing is his vector tracing of that plate. The owner of this mark is NOT established. A black square holding two discs and a rounded bar. One of the marks captioned on this page: Ansul Chemical Company (1953), Colgate-Palmolive Company (1954), The Astatic Corporation (1956), Tom Daly Electric, Inc. (1955).",
    "hue": null,
-   "light": 0.3806,
+   "light": 0.3075,
    "chroma": 0.0,
-   "punch": 0.0
+   "punch": 0.0,
+   "crop": {
+    "box": [
+     123,
+     117,
+     2276,
+     2201
+    ],
+    "was": [
+     2396,
+     2296
+    ],
+    "now": [
+     2153,
+     2084
+    ],
+    "uncropped": "originals_uncropped/CRVI000932.png",
+    "decided": "by Todd, by hand"
+   }
   },
   "trademark-books::IMG_2333_3": {
    "id": "CRVI000933",
@@ -66503,10 +66575,10 @@
    "minted": "2026-09-02",
    "original_file": "originals/CRVI001103.jpg",
    "original_px": [
-    3984,
-    1986
+    3894,
+    1929
    ],
-   "original_bytes": 2113270,
+   "original_bytes": 3687917,
    "identity": "sent-2026-09-02::17d1d60f2fd4",
    "maker": "Utagawa Yoshifusa",
    "title": "Kiyomori's Visit to Nunobiki Waterfall: The Ghost of Yoshihira Taking Revenge on Nanba",
@@ -66557,20 +66629,38 @@
    "identity_established": true,
    "published": true,
    "verification": "The Metropolitan Museum of Art, accession 2001.715.11a–c, object 63378 — Utagawa Yoshifusa (Japanese, active 1837–1860), triptych of woodblock prints (nishiki-e), ink and color on paper, vertical ōban, each sheet 36.8 × 24.8 cm, dated 1856, 2nd month; Edo period; Purchase, Arnold Weinstein Gift, 2001. Public domain. Fetched from the Museum's own collection API. The ghost is Minamoto no Yoshihira, known as Akugenta — the name in the form this was sent under.",
-   "hue": 22.71,
-   "light": 0.5445,
-   "chroma": 0.4268,
-   "punch": 0.1626
+   "hue": 22.75,
+   "light": 0.5211,
+   "chroma": 0.4588,
+   "punch": 0.1699,
+   "crop": {
+    "box": [
+     42,
+     45,
+     3936,
+     1974
+    ],
+    "was": [
+     3984,
+     1986
+    ],
+    "now": [
+     3894,
+     1929
+    ],
+    "uncropped": "originals_uncropped/CRVI001103.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-02::248afb96ffbf": {
    "id": "CRVI001104",
    "minted": "2026-09-02",
    "original_file": "originals/CRVI001104.jpg",
    "original_px": [
-    969,
-    1400
+    894,
+    1321
    ],
-   "original_bytes": 520703,
+   "original_bytes": 897604,
    "identity": "sent-2026-09-02::248afb96ffbf",
    "maker": "Utagawa Yoshifusa",
    "title": "Two Samurai, from Twenty-four Famous Generals of Kai",
@@ -66622,20 +66712,38 @@
    "identity_established": true,
    "published": true,
    "verification": "artelino (Japanese print dealer and auction house), catalogued through Ukiyo-e Search: Utagawa Yoshifusa, 'Two Samurai — 24 Famous Generals of Kai', 1843–45. The dealer's description names the series 'Kai Nijuyon-sho no Uchi' (Twenty-four Famous Generals of Kai) and the two men shown: Tsuchiya Nobuchika and Baba Nobufusa. ⚠️ artelino notes the original auction page is no longer public; the record survives in its archive.",
-   "hue": 42.53,
-   "light": 0.7372,
-   "chroma": 0.9151,
-   "punch": 0.2344
+   "hue": 42.75,
+   "light": 0.7285,
+   "chroma": 0.9483,
+   "punch": 0.2469,
+   "crop": {
+    "box": [
+     42,
+     43,
+     936,
+     1364
+    ],
+    "was": [
+     969,
+     1400
+    ],
+    "now": [
+     894,
+     1321
+    ],
+    "uncropped": "originals_uncropped/CRVI001104.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-02::5ac483aad515": {
    "id": "CRVI001105",
    "minted": "2026-09-02",
    "original_file": "originals/CRVI001105.jpg",
    "original_px": [
-    2166,
-    3200
+    2090,
+    3104
    ],
-   "original_bytes": 3163070,
+   "original_bytes": 5108269,
    "identity": "sent-2026-09-02::5ac483aad515",
    "maker": "Utagawa Kuniyoshi",
    "title": "Hakumenrōkun Teitenju, from The 108 Heroes of the Popular Suikoden",
@@ -66686,20 +66794,38 @@
    "identity_established": true,
    "published": true,
    "verification": "The print names itself: the series cartouche reads 通俗水滸傳豪傑百八人之一個 (Tsūzoku Suikoden gōketsu hyakuhachinin no hitori) and the title cartouche 白面郎君鄭天壽 with furigana はくめんろうくんていてんじゅ — Hakumenrōkun Teitenju, the Chinese hero Zheng Tianshou, 'the Fair-Faced Gentleman'. Signed 一勇齋國芳画 (Ichiyūsai Kuniyoshi ga). The Kuniyoshi Project's catalogue of the series matches the design exactly — 'Hakumenrōkun Teitenju in full armor levering a mass of rock with an iron bar; a flight of arrows descends behind him' (Robinson S2.20, Klompmakers 55) — and gives the series publisher as Kaga-ya Kichiemon, 1827–1830. Toshidama Gallery's listing of the same design dates it 1827 and describes him prying at a cliff fall with an iron bar under poison arrows at an enemy's castle gate. The image file is Christie's own lot photograph, from South Kensington sale 10605 (2015), lot 43 — a group lot of seven Kuniyoshi warrior prints, of which this is the illustrated sheet.",
-   "hue": 41.35,
-   "light": 0.523,
-   "chroma": 0.4064,
-   "punch": 0.1362
+   "hue": 41.46,
+   "light": 0.5065,
+   "chroma": 0.3768,
+   "punch": 0.1379,
+   "crop": {
+    "box": [
+     48,
+     55,
+     2138,
+     3159
+    ],
+    "was": [
+     2166,
+     3200
+    ],
+    "now": [
+     2090,
+     3104
+    ],
+    "uncropped": "originals_uncropped/CRVI001105.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-02::74d9702ccd4e": {
    "id": "CRVI001106",
    "minted": "2026-09-02",
    "original_file": "originals/CRVI001106.jpg",
    "original_px": [
-    730,
-    1102
+    727,
+    1084
    ],
-   "original_bytes": 283942,
+   "original_bytes": 534617,
    "identity": "sent-2026-09-02::74d9702ccd4e",
    "maker": "Utagawa Kuniyoshi",
    "title": "Kurō Hōgan Yoshitsune at Horikawa (Chapter 31, Makibashira)",
@@ -66751,10 +66877,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Viewing Japanese Prints, John Fiorillo's Kuniyoshi page, which publishes this exact file (pics/ukiyoe/kuniyoshi_c1845_yoshitsune_730w.jpg) with the caption: 'Utagawa Kuniyoshi: Kurô Hangan Yoshitsune at Horikawa, Chapter 31, Maki-bashira (真木柱, Cypress Pillar). Series: Genji kumo ukiyo-e awase (源氏雲浮世画合) (A Comparison of Floating World Prints with the Cloudy Chapters of Genji), 1845-1846. Woodblock print, ôban nishiki-e. Publisher: Iseya Ichibei (伊勢屋市兵衛), Seal name: hanmoto Iseichi (版元伊勢市).' The print carries the same names itself — the series cartouche 源氏雲浮世画合 on the scroll cover at top right, the chapter title 真木柱 in the poem panel, the yellow figure cartouche 九郎判官義経, and the signature 一勇齋國芳画. Ukiyo-e Search records the same design in the MAK Vienna collection as 'Makibashira, Kuro Hangan Yoshitsune', 1843–1847. The series runs to 60 designs, one for each of the 54 Genji chapters plus six supplements; this is number 31, marked in the lower left margin.",
-   "hue": 34.88,
-   "light": 0.5984,
-   "chroma": 0.6268,
-   "punch": 0.1543
+   "hue": 34.92,
+   "light": 0.5928,
+   "chroma": 0.624,
+   "punch": 0.1544,
+   "crop": {
+    "box": [
+     3,
+     18,
+     730,
+     1102
+    ],
+    "was": [
+     730,
+     1102
+    ],
+    "now": [
+     727,
+     1084
+    ],
+    "uncropped": "originals_uncropped/CRVI001106.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-02::abe31740bea2": {
    "id": "CRVI001107",
@@ -87137,10 +87281,10 @@
    "minted": "2026-09-05",
    "original_file": "originals/CRVI001382.jpg",
    "original_px": [
-    1435,
-    1600
+    1262,
+    1448
    ],
-   "original_bytes": 601513,
+   "original_bytes": 858487,
    "identity": "todd picked 2026-09-05 whitney::harry-bertoia-untitled-1943",
    "maker": "Harry Bertoia",
    "title": "Untitled",
@@ -87188,20 +87332,38 @@
    "identity_established": true,
    "published": true,
    "verification": "From the Whitney Museum of American Art's collection pages, whose per-item markup carries the artist, title and date together in one block — parsed from that block rather than from text near the image, which is what produced the original error. Harry Bertoia, Untitled, c. 1943, Whitney collection work 12394. ⚠️ HOW THIS GOT HERE. I harvested Whitney artist page 2648 believing it was Ruth Asawa's and labelled the results Asawa on the sheet Todd picked from. Page 2648 is HARRY BERTOIA — zero mentions of Asawa on it, twenty-one of Bertoia. I guessed the id, got HTTP 200 back and never checked whose page it was; a 404 would have caught me and a wrong-artist 200 did not. Todd chose to keep these anyway, correctly attributed. The attribution below is read from the Whitney's own markup, which names the artist inside each item block.",
-   "hue": 42.18,
-   "light": 0.5906,
-   "chroma": 0.3585,
-   "punch": 0.0779
+   "hue": 42.46,
+   "light": 0.5023,
+   "chroma": 0.3786,
+   "punch": 0.0862,
+   "crop": {
+    "box": [
+     80,
+     74,
+     1342,
+     1522
+    ],
+    "was": [
+     1435,
+     1600
+    ],
+    "now": [
+     1262,
+     1448
+    ],
+    "uncropped": "originals_uncropped/CRVI001382.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "todd picked 2026-09-05 whitney::harry-bertoia-untitled-1945": {
    "id": "CRVI001383",
    "minted": "2026-09-05",
    "original_file": "originals/CRVI001383.jpg",
    "original_px": [
-    1600,
-    1595
+    1493,
+    1472
    ],
-   "original_bytes": 749522,
+   "original_bytes": 1123896,
    "identity": "todd picked 2026-09-05 whitney::harry-bertoia-untitled-1945",
    "maker": "Harry Bertoia",
    "title": "Untitled",
@@ -87250,9 +87412,27 @@
    "published": true,
    "verification": "From the Whitney Museum of American Art's collection pages, whose per-item markup carries the artist, title and date together in one block — parsed from that block rather than from text near the image, which is what produced the original error. Harry Bertoia, Untitled, c. 1945, Whitney collection work 12397. ⚠️ HOW THIS GOT HERE. I harvested Whitney artist page 2648 believing it was Ruth Asawa's and labelled the results Asawa on the sheet Todd picked from. Page 2648 is HARRY BERTOIA — zero mentions of Asawa on it, twenty-one of Bertoia. I guessed the id, got HTTP 200 back and never checked whose page it was; a 404 would have caught me and a wrong-artist 200 did not. Todd chose to keep these anyway, correctly attributed. The attribution below is read from the Whitney's own markup, which names the artist inside each item block.",
    "hue": 26.99,
-   "light": 0.4787,
-   "chroma": 0.8523,
-   "punch": 0.1507
+   "light": 0.4019,
+   "chroma": 0.9854,
+   "punch": 0.1713,
+   "crop": {
+    "box": [
+     64,
+     64,
+     1557,
+     1536
+    ],
+    "was": [
+     1600,
+     1595
+    ],
+    "now": [
+     1493,
+     1472
+    ],
+    "uncropped": "originals_uncropped/CRVI001383.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "todd picked 2026-09-05 whitney::whitney-museum-of-american-art-annual-exhibition-1966-contemporary-sculpture-and-prints-1966": {
    "id": "CRVI001384",
@@ -88467,10 +88647,10 @@
    "minted": "2026-08-26",
    "original_file": "originals/CRVI001401.jpg",
    "original_px": [
-    1616,
-    2000
+    1544,
+    1955
    ],
-   "original_bytes": 846573,
+   "original_bytes": 1331664,
    "identity": "todd sent 2026-09-05 batch::marvin-israel-handiwork",
    "maker": "Marvin Israel",
    "title": "Handiwork, from Graphik USA",
@@ -88520,10 +88700,28 @@
    "identity_established": true,
    "published": true,
    "verification": "The Museum of Modern Art, object 738.1968.3, John B. Turner Fund — Marvin Israel, Handiwork from Graphik USA, 1968, one from a portfolio of eight screenprints.",
-   "hue": 35.05,
-   "light": 0.7982,
-   "chroma": 0.8746,
-   "punch": 0.2698
+   "hue": 34.76,
+   "light": 0.7944,
+   "chroma": 0.8627,
+   "punch": 0.2774,
+   "crop": {
+    "box": [
+     36,
+     27,
+     1580,
+     1982
+    ],
+    "was": [
+     1616,
+     2000
+    ],
+    "now": [
+     1544,
+     1955
+    ],
+    "uncropped": "originals_uncropped/CRVI001401.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "todd sent 2026-09-05 b3::deardoff-rouse-takin-care-of-business": {
    "id": "CRVI001402",
@@ -89081,10 +89279,10 @@
    "minted": "2026-08-26",
    "original_file": "originals/CRVI001411.jpg",
    "original_px": [
-    1738,
-    2560
+    1651,
+    2485
    ],
-   "original_bytes": 1236166,
+   "original_bytes": 2649405,
    "identity": "todd sent 2026-09-05 batch::rauschenberg-banner-stoned-moon",
    "maker": "Robert Rauschenberg",
    "title": "Banner (Stoned Moon)",
@@ -89132,10 +89330,28 @@
    "identity_established": true,
    "published": true,
    "verification": "San Francisco Museum of Modern Art, accession 77.102.25 — Robert Rauschenberg, Banner (Stoned Moon), 1969, lithograph, gift of Harry W. and Mary Margaret Anderson. The accession number appears in the image filename, and the file is served from SFMOMA's own CDN.",
-   "hue": 204.89,
-   "light": 0.6682,
-   "chroma": 0.8535,
-   "punch": 0.3238
+   "hue": 204.92,
+   "light": 0.6403,
+   "chroma": 0.9223,
+   "punch": 0.351,
+   "crop": {
+    "box": [
+     46,
+     38,
+     1697,
+     2523
+    ],
+    "was": [
+     1738,
+     2560
+    ],
+    "now": [
+     1651,
+     2485
+    ],
+    "uncropped": "originals_uncropped/CRVI001411.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "todd sent 2026-09-05 batch::dechirico-uncertainty-of-the-poet": {
    "id": "CRVI001412",
@@ -90807,10 +91023,10 @@
    "minted": "2026-09-05",
    "original_file": "originals/CRVI001439.jpg",
    "original_px": [
-    1000,
-    832
+    967,
+    801
    ],
-   "original_bytes": 280566,
+   "original_bytes": 598880,
    "identity": "sent-2026-09-05::9d8ed205586d",
    "source_url": "https://www.theviennasecession.com/wp-content/uploads/2016/01/91381_43a74135ef851a0a_b1.jpg",
    "maker": "Unidentified",
@@ -90848,20 +91064,38 @@
    "identity_established": true,
    "published": true,
    "verification": "A repeating design of stylised fruit on a chequered and dotted ground, lettered within the sheet as a Wandbespannung — a wall hanging. Vienna Secession in manner. NOT established: designer, date, or publication.",
-   "hue": 42.31,
-   "light": 0.497,
-   "chroma": 0.2741,
-   "punch": 0.083
+   "hue": 43.64,
+   "light": 0.4748,
+   "chroma": 0.2293,
+   "punch": 0.0816,
+   "crop": {
+    "box": [
+     18,
+     12,
+     985,
+     813
+    ],
+    "was": [
+     1000,
+     832
+    ],
+    "now": [
+     967,
+     801
+    ],
+    "uncropped": "originals_uncropped/CRVI001439.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-05::aceee185eb12": {
    "id": "CRVI001440",
    "minted": "2026-09-05",
    "original_file": "originals/CRVI001440.jpg",
    "original_px": [
-    1500,
-    1892
+    1452,
+    1455
    ],
-   "original_bytes": 348663,
+   "original_bytes": 1135740,
    "identity": "sent-2026-09-05::aceee185eb12",
    "source_url": "https://justseeds.org/wp-content/uploads/MacPhee_Huelga1500.jpg",
    "maker": "Josh MacPhee",
@@ -90904,20 +91138,38 @@
    "identity_established": true,
    "published": true,
    "verification": "Justseeds, the artists' cooperative MacPhee co-founded, publishes this print under his name; the file name is their own metadata.",
-   "hue": 31.9,
-   "light": 0.5862,
-   "chroma": 0.8894,
-   "punch": 0.2281
+   "hue": 27.69,
+   "light": 0.4979,
+   "chroma": 0.865,
+   "punch": 0.2571,
+   "crop": {
+    "box": [
+     23,
+     73,
+     1475,
+     1528
+    ],
+    "was": [
+     1500,
+     1892
+    ],
+    "now": [
+     1452,
+     1455
+    ],
+    "uncropped": "originals_uncropped/CRVI001440.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-05::b691953365d3": {
    "id": "CRVI001441",
    "minted": "2026-09-05",
    "original_file": "originals/CRVI001441.jpg",
    "original_px": [
-    2500,
-    3333
+    2214,
+    2912
    ],
-   "original_bytes": 1763072,
+   "original_bytes": 3653801,
    "identity": "sent-2026-09-05::b691953365d3",
    "source_url": "https://images.squarespace-cdn.com/content/5f958b2581a3b045a227608a/b36dda28-2d32-4e27-b856-29095f520754/future.jpg?format=2500w&content-type=image%2Fjpeg",
    "maker": "Unidentified",
@@ -90951,10 +91203,28 @@
    "identity_established": true,
    "published": true,
    "verification": "A woman in an orange patterned cloak, her hair spreading into the scrolling ground. Vienna Secession in manner. NOT established: designer, title, or date.",
-   "hue": 31.6,
-   "light": 0.5761,
-   "chroma": 0.6225,
-   "punch": 0.2458
+   "hue": 32.07,
+   "light": 0.4954,
+   "chroma": 0.7963,
+   "punch": 0.3134,
+   "crop": {
+    "box": [
+     126,
+     215,
+     2340,
+     3127
+    ],
+    "was": [
+     2500,
+     3333
+    ],
+    "now": [
+     2214,
+     2912
+    ],
+    "uncropped": "originals_uncropped/CRVI001441.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-05::5be43a5b76e0": {
    "id": "CRVI001442",
@@ -91035,10 +91305,10 @@
    "minted": "2026-09-05",
    "original_file": "originals/CRVI001443.jpg",
    "original_px": [
-    1382,
-    2000
+    1256,
+    1879
    ],
-   "original_bytes": 920310,
+   "original_bytes": 1401424,
    "identity": "sent-2026-09-05::807b25d74d87",
    "source_url": "https://www.moma.org/media/W1siZiIsIjUyNDI2MyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=3e83594cb06efbf9",
    "maker": "Unidentified",
@@ -91076,10 +91346,28 @@
    "identity_established": true,
    "published": true,
    "verification": "A Wiener Künstler-Postkarte — the card letters its own publisher and series at the foot, Druck u. Verlag Philipp & Kramer, Wien, Serie I/50. Roses on stems enclosing a target of concentric rings. NOT established: the designer. Philipp & Kramer published many hands in this series and the card does not name this one.",
-   "hue": 34.92,
-   "light": 0.716,
-   "chroma": 0.753,
-   "punch": 0.178
+   "hue": 34.97,
+   "light": 0.6772,
+   "chroma": 0.8743,
+   "punch": 0.2062,
+   "crop": {
+    "box": [
+     62,
+     60,
+     1318,
+     1939
+    ],
+    "was": [
+     1382,
+     2000
+    ],
+    "now": [
+     1256,
+     1879
+    ],
+    "uncropped": "originals_uncropped/CRVI001443.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-05::a221ffe33f48": {
    "id": "CRVI001444",
@@ -91138,10 +91426,10 @@
    "minted": "2026-09-05",
    "original_file": "originals/CRVI001445.jpg",
    "original_px": [
-    1024,
-    1533
+    975,
+    1476
    ],
-   "original_bytes": 998186,
+   "original_bytes": 702031,
    "identity": "sent-2026-09-05::af63a07799fb",
    "source_url": "https://media.mutualart.com/Images//2022_02/10/14/145552883/414f687b-0b48-4fff-aef8-458091f0459f.Jpeg",
    "maker": "Joseph Maria Olbrich",
@@ -91184,10 +91472,28 @@
    "identity_established": true,
    "published": true,
    "verification": "The card letters its own subject and occasion — 'Das Haus Olbrich', Darmstadt Exhibition, dated Sept 1901 in the plate — for the Darmstadt artists' colony exhibition of that year.",
-   "hue": 47.16,
-   "light": 0.7369,
-   "chroma": 0.645,
-   "punch": 0.1085
+   "hue": 46.87,
+   "light": 0.7224,
+   "chroma": 0.6418,
+   "punch": 0.1132,
+   "crop": {
+    "box": [
+     33,
+     51,
+     1008,
+     1527
+    ],
+    "was": [
+     1024,
+     1533
+    ],
+    "now": [
+     975,
+     1476
+    ],
+    "uncropped": "originals_uncropped/CRVI001445.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-05::c9ec43c65380": {
    "id": "CRVI001446",
@@ -91869,10 +92175,10 @@
    "minted": "2026-09-05",
    "original_file": "originals/CRVI001458.jpg",
    "original_px": [
-    3400,
-    3035
+    3344,
+    2964
    ],
-   "original_bytes": 6443209,
+   "original_bytes": 8578350,
    "identity": "sent-2026-09-05::87a1d30e477a",
    "source_url": "https://openaccess-cdn.clevelandart.org/1937.696/1937.696_print.jpg",
    "maker": "William Morris",
@@ -91913,20 +92219,38 @@
    "identity_established": true,
    "published": true,
    "verification": "Cleveland Museum of Art 1937.696 — William Morris (British, 1834–1896), Strawberry Thief, plain weave cotton, discharge printed.",
-   "hue": 203.93,
-   "light": 0.3932,
-   "chroma": 0.2575,
-   "punch": 0.0924
+   "hue": 203.88,
+   "light": 0.3813,
+   "chroma": 0.2714,
+   "punch": 0.0961,
+   "crop": {
+    "box": [
+     45,
+     34,
+     3389,
+     2998
+    ],
+    "was": [
+     3400,
+     3035
+    ],
+    "now": [
+     3344,
+     2964
+    ],
+    "uncropped": "originals_uncropped/CRVI001458.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-05::5b0e0366f809": {
    "id": "CRVI001459",
    "minted": "2026-09-05",
    "original_file": "originals/CRVI001459.jpg",
    "original_px": [
-    3400,
-    3129
+    3349,
+    3117
    ],
-   "original_bytes": 6768402,
+   "original_bytes": 8795163,
    "identity": "sent-2026-09-05::5b0e0366f809",
    "source_url": "https://openaccess-cdn.clevelandart.org/1937.698/1937.698_print.jpg",
    "maker": "William Morris",
@@ -91966,19 +92290,37 @@
    "published": true,
    "verification": "Cleveland Museum of Art 1937.698 — William Morris (British, 1834–1896), Kennet, plain weave cotton, printed.",
    "hue": 35.99,
-   "light": 0.3631,
-   "chroma": 0.2871,
-   "punch": 0.0991
+   "light": 0.3569,
+   "chroma": 0.2936,
+   "punch": 0.1016,
+   "crop": {
+    "box": [
+     23,
+     0,
+     3372,
+     3117
+    ],
+    "was": [
+     3400,
+     3129
+    ],
+    "now": [
+     3349,
+     3117
+    ],
+    "uncropped": "originals_uncropped/CRVI001459.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-05::54534914384d": {
    "id": "CRVI001460",
    "minted": "2026-09-05",
    "original_file": "originals/CRVI001460.jpg",
    "original_px": [
-    3400,
-    2341
+    3343,
+    2255
    ],
-   "original_bytes": 5476266,
+   "original_bytes": 7217428,
    "identity": "sent-2026-09-05::54534914384d",
    "source_url": "https://openaccess-cdn.clevelandart.org/1953.329/1953.329_print.jpg",
    "maker": "William Morris",
@@ -92021,10 +92363,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Cleveland Museum of Art 1953.329 — William Morris (British, 1834–1896), Violet and Columbine, 1883; jacquard loom woven weft-faced twill, double cloth, wool and mohair.",
-   "hue": 35.84,
-   "light": 0.2821,
-   "chroma": 0.4295,
-   "punch": 0.0877
+   "hue": 35.54,
+   "light": 0.2655,
+   "chroma": 0.4584,
+   "punch": 0.093,
+   "crop": {
+    "box": [
+     34,
+     40,
+     3377,
+     2295
+    ],
+    "was": [
+     3400,
+     2341
+    ],
+    "now": [
+     3343,
+     2255
+    ],
+    "uncropped": "originals_uncropped/CRVI001460.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-05::33ec1e199e36": {
    "id": "CRVI001461",
@@ -92329,10 +92689,10 @@
    "minted": "2026-09-05",
    "original_file": "originals/CRVI001466.jpg",
    "original_px": [
-    1376,
-    1371
+    987,
+    993
    ],
-   "original_bytes": 533169,
+   "original_bytes": 871580,
    "identity": "sent-2026-09-05::769eeccff1ef",
    "source_url": "https://images.metmuseum.org/CRDImages/dp/original/61HCAT45Ar1.jpg",
    "maker": "Unidentified",
@@ -92367,10 +92727,28 @@
    "identity_established": true,
    "published": true,
    "verification": "A Metropolitan Museum of Art Drawings and Prints image (61HCAT45Ar1). The sheet is an Aesthetic-movement nursery scene — tiled dado, Japanese fan, flat colour — and reads as Walter Crane, but the Met's collection API and website were both rate-limiting when this was written and NO source has been seen that names the artist or the book. Treat the Crane reading as a guess, not an attribution.",
-   "hue": 53.07,
-   "light": 0.8137,
-   "chroma": 0.4375,
-   "punch": 0.1269
+   "hue": 53.26,
+   "light": 0.6426,
+   "chroma": 0.8379,
+   "punch": 0.2453,
+   "crop": {
+    "box": [
+     222,
+     190,
+     1209,
+     1183
+    ],
+    "was": [
+     1376,
+     1371
+    ],
+    "now": [
+     987,
+     993
+    ],
+    "uncropped": "originals_uncropped/CRVI001466.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-05::4487038559c5": {
    "id": "CRVI001467",
@@ -92489,10 +92867,10 @@
    "minted": "2026-09-05",
    "original_file": "originals/CRVI001469.jpg",
    "original_px": [
-    2157,
-    3400
+    2096,
+    3329
    ],
-   "original_bytes": 2347578,
+   "original_bytes": 3090380,
    "identity": "sent-2026-09-05::8e4c390a307d",
    "source_url": "https://openaccess-cdn.clevelandart.org/2010.651/2010.651_print.jpg",
    "maker": "Aubrey Beardsley",
@@ -92542,10 +92920,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Cleveland Museum of Art, accession 2010.651 — the museum's own open-access record gives Aubrey Beardsley (British, 1872–1898), Isolde, 1895, colour lithograph.",
-   "hue": 36.34,
-   "light": 0.743,
-   "chroma": 0.9904,
-   "punch": 0.3396
+   "hue": 36.26,
+   "light": 0.7368,
+   "chroma": 0.9877,
+   "punch": 0.3477,
+   "crop": {
+    "box": [
+     61,
+     43,
+     2157,
+     3372
+    ],
+    "was": [
+     2157,
+     3400
+    ],
+    "now": [
+     2096,
+     3329
+    ],
+    "uncropped": "originals_uncropped/CRVI001469.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-05::00f924a15ca1": {
    "id": "CRVI001470",
@@ -92553,9 +92949,9 @@
    "original_file": "originals/CRVI001470.jpg",
    "original_px": [
     1956,
-    2425
+    2422
    ],
-   "original_bytes": 1368683,
+   "original_bytes": 1679642,
    "identity": "sent-2026-09-05::00f924a15ca1",
    "source_url": "https://uploads1.wikiart.org/images/aubrey-beardsley/how-la-beale-isoud-wrote-to-sir-tristram.jpg",
    "maker": "Aubrey Beardsley",
@@ -92594,20 +92990,38 @@
    "identity_established": true,
    "published": true,
    "verification": "WikiArt, under Aubrey Beardsley. One of the illustrations to Malory's Le Morte d'Arthur; the date of this plate is not established here.",
-   "hue": 55.39,
-   "light": 0.5618,
-   "chroma": 0.1319,
-   "punch": 0.0469
+   "hue": 55.33,
+   "light": 0.5613,
+   "chroma": 0.127,
+   "punch": 0.0468,
+   "crop": {
+    "box": [
+     0,
+     0,
+     1956,
+     2422
+    ],
+    "was": [
+     1956,
+     2425
+    ],
+    "now": [
+     1956,
+     2422
+    ],
+    "uncropped": "originals_uncropped/CRVI001470.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-05::90c930eab6a9": {
    "id": "CRVI001471",
    "minted": "2026-09-05",
    "original_file": "originals/CRVI001471.jpg",
    "original_px": [
-    1983,
-    2656
+    1904,
+    2592
    ],
-   "original_bytes": 1523425,
+   "original_bytes": 1586793,
    "identity": "sent-2026-09-05::90c930eab6a9",
    "source_url": "https://uploads3.wikiart.org/images/aubrey-beardsley/the-climax-1893.jpg",
    "maker": "Aubrey Beardsley",
@@ -92651,9 +93065,27 @@
    "published": true,
    "verification": "WikiArt, under Aubrey Beardsley, dated 1893 — the plate for Oscar Wilde's Salome in which Salome lifts the head of John the Baptist.",
    "hue": null,
-   "light": 0.5528,
-   "chroma": 0.0894,
-   "punch": 0.0467
+   "light": 0.5256,
+   "chroma": 0.0842,
+   "punch": 0.0446,
+   "crop": {
+    "box": [
+     36,
+     43,
+     1940,
+     2635
+    ],
+    "was": [
+     1983,
+     2656
+    ],
+    "now": [
+     1904,
+     2592
+    ],
+    "uncropped": "originals_uncropped/CRVI001471.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-05::2a38463933b4": {
    "id": "CRVI001472",
@@ -93491,10 +93923,10 @@
    "minted": "2026-09-05",
    "original_file": "originals/CRVI001486.jpg",
    "original_px": [
-    2785,
-    3400
+    2687,
+    3300
    ],
-   "original_bytes": 2420057,
+   "original_bytes": 3388552,
    "identity": "sent-2026-09-05::82e001d0c999",
    "source_url": "https://openaccess-cdn.clevelandart.org/1995.4/1995.4_print.jpg",
    "maker": "Kurt Schwitters",
@@ -93543,16 +93975,34 @@
    "identity_established": true,
    "published": true,
    "verification": "Cleveland Museum of Art, accession 1995.4 — the museum's own open-access record gives Kurt Schwitters (German, 1887–1948), Merz 3 Portfolio: Plate 1, 1923, lithograph.",
-   "hue": 30.24,
-   "light": 0.6878,
-   "chroma": 0.5903,
-   "punch": 0.1077,
+   "hue": 29.56,
+   "light": 0.6709,
+   "chroma": 0.5783,
+   "punch": 0.1066,
    "extra_tags": [
     {
      "k": "movement",
      "v": "Dada"
     }
-   ]
+   ],
+   "crop": {
+    "box": [
+     56,
+     51,
+     2743,
+     3351
+    ],
+    "was": [
+     2785,
+     3400
+    ],
+    "now": [
+     2687,
+     3300
+    ],
+    "uncropped": "originals_uncropped/CRVI001486.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-05::09ff3434436c": {
    "id": "CRVI001487",
@@ -94055,10 +94505,10 @@
    "minted": "2026-09-05",
    "original_file": "originals/CRVI001495.jpg",
    "original_px": [
-    2461,
-    3281
+    2091,
+    2764
    ],
-   "original_bytes": 748051,
+   "original_bytes": 1498091,
    "identity": "sent-2026-09-05::7dc1d42f5495",
    "source_url": "https://uploads2.wikiart.org/images/el-lissitzky/flying-to-earth-from-a-distance-1920.jpg",
    "maker": "El Lissitzky",
@@ -94101,26 +94551,44 @@
    "identity_established": true,
    "published": true,
    "verification": "WikiArt, under El Lissitzky, dated 1920.",
-   "hue": 50.97,
-   "light": 0.7645,
-   "chroma": 0.9816,
-   "punch": 0.2923,
+   "hue": 52.84,
+   "light": 0.7395,
+   "chroma": 0.9783,
+   "punch": 0.3137,
    "extra_tags": [
     {
      "k": "movement",
      "v": "Constructivism"
     }
-   ]
+   ],
+   "crop": {
+    "box": [
+     155.22585522217605,
+     269,
+     2246,
+     3033.4940173380396
+    ],
+    "was": [
+     2461,
+     3281
+    ],
+    "now": [
+     2091,
+     2764
+    ],
+    "uncropped": "originals_uncropped/CRVI001495.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-05::b8151ae1379a": {
    "id": "CRVI001496",
    "minted": "2026-09-05",
    "original_file": "originals/CRVI001496.jpg",
    "original_px": [
-    3250,
-    3804
+    3131,
+    3657
    ],
-   "original_bytes": 979017,
+   "original_bytes": 2031214,
    "identity": "sent-2026-09-05::b8151ae1379a",
    "source_url": "https://uploads7.wikiart.org/images/el-lissitzky/announcer-1923.jpg",
    "maker": "El Lissitzky",
@@ -94163,16 +94631,34 @@
    "identity_established": true,
    "published": true,
    "verification": "WikiArt, under El Lissitzky, dated 1923 — a figurine from the portfolio for the electro-mechanical staging of Victory over the Sun.",
-   "hue": 37.06,
-   "light": 0.8236,
-   "chroma": 0.8891,
-   "punch": 0.1047,
+   "hue": 36.94,
+   "light": 0.8152,
+   "chroma": 0.939,
+   "punch": 0.1106,
    "extra_tags": [
     {
      "k": "movement",
      "v": "Constructivism"
     }
-   ]
+   ],
+   "crop": {
+    "box": [
+     65,
+     70,
+     3196,
+     3727
+    ],
+    "was": [
+     3250,
+     3804
+    ],
+    "now": [
+     3131,
+     3657
+    ],
+    "uncropped": "originals_uncropped/CRVI001496.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-05::bf555216bfc6": {
    "id": "CRVI001497",
@@ -94294,10 +94780,10 @@
    "minted": "2026-09-05",
    "original_file": "originals/CRVI001499.jpg",
    "original_px": [
-    843,
-    1160
+    753,
+    1087
    ],
-   "original_bytes": 492866,
+   "original_bytes": 517944,
    "identity": "sent-2026-09-05::c5b5398a68ba",
    "source_url": "https://www.artic.edu/iiif/2/7b82f6f9-abab-92aa-269a-47b5d8cb3fe3/full/843,/0/default.jpg",
    "maker": "Gustav Klutsis",
@@ -94348,16 +94834,34 @@
    "identity_established": true,
    "published": true,
    "verification": "Art Institute of Chicago, artwork 199176 — the museum's API resolves this image id to Gustav G. Klutsis, Postcard Commemorating the Russian All-Union Spartakiada, 1928, colour lithograph on off-white wove card.",
-   "hue": 194.26,
-   "light": 0.5196,
-   "chroma": 0.3083,
-   "punch": 0.1771,
+   "hue": 194.36,
+   "light": 0.4506,
+   "chroma": 0.3621,
+   "punch": 0.2072,
    "extra_tags": [
     {
      "k": "movement",
      "v": "Constructivism"
     }
-   ]
+   ],
+   "crop": {
+    "box": [
+     48,
+     38,
+     801,
+     1125
+    ],
+    "was": [
+     843,
+     1160
+    ],
+    "now": [
+     753,
+     1087
+    ],
+    "uncropped": "originals_uncropped/CRVI001499.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-05::a392ef2db5e6": {
    "id": "CRVI001500",
@@ -96558,10 +97062,10 @@
    "minted": "2026-09-05",
    "original_file": "originals/CRVI001535.jpg",
    "original_px": [
-    843,
-    1200
+    805,
+    1166
    ],
-   "original_bytes": 478540,
+   "original_bytes": 521818,
    "identity": "sent-2026-09-05::1ea91360baab",
    "source_url": "https://www.artic.edu/iiif/2/f4f9c6e4-1ab5-4a62-a336-8da40e0990f6/full/843,/0/default.jpg",
    "maker": "David Alfaro Siqueiros",
@@ -96608,16 +97112,34 @@
    "identity_established": true,
    "published": true,
    "verification": "Art Institute of Chicago, artwork 16750 — the museum's API resolves this image id to David Alfaro Siqueiros, Self-Portrait, 1936. The sheet is signed and numbered beneath the image.",
-   "hue": 35.04,
-   "light": 0.5251,
-   "chroma": 0.3602,
-   "punch": 0.0579,
+   "hue": 35.06,
+   "light": 0.5663,
+   "chroma": 0.3827,
+   "punch": 0.0624,
    "extra_tags": [
     {
      "k": "movement",
      "v": "Mexican Muralism"
     }
-   ]
+   ],
+   "crop": {
+    "box": [
+     17,
+     17,
+     822,
+     1183
+    ],
+    "was": [
+     843,
+     1200
+    ],
+    "now": [
+     805,
+     1166
+    ],
+    "uncropped": "originals_uncropped/CRVI001535.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-05::b4f58a6d4f23": {
    "id": "CRVI001536",
@@ -100032,10 +100554,10 @@
    "minted": "2026-09-05",
    "original_file": "originals/CRVI001592.jpg",
    "original_px": [
-    3888,
-    2670
+    3460,
+    2099
    ],
-   "original_bytes": 920403,
+   "original_bytes": 2501225,
    "identity": "sent-2026-09-05::8f3af0110444",
    "source_url": "https://a.1stdibscdn.com/john-baeder-prints-works-on-paper-red-robin-diner_-photorealist-silkscreen-by-john-baeder-for-sale/archivesE/upload/a_466/1522263792869/Baeder_Red_Robin_master.JPG",
    "maker": "John Baeder",
@@ -100078,10 +100600,28 @@
    "identity_established": true,
    "published": true,
    "verification": "1stdibs dealer listing, as a photorealist silkscreen by John Baeder, Red Robin Diner. The date is not established here.",
-   "hue": 17.69,
-   "light": 0.6321,
-   "chroma": 0.1885,
-   "punch": 0.0647
+   "hue": 17.64,
+   "light": 0.4872,
+   "chroma": 0.2761,
+   "punch": 0.0884,
+   "crop": {
+    "box": [
+     201,
+     266,
+     3661,
+     2365
+    ],
+    "was": [
+     3888,
+     2670
+    ],
+    "now": [
+     3460,
+     2099
+    ],
+    "uncropped": "originals_uncropped/CRVI001592.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-05::ecd3b17a7cee": {
    "id": "CRVI001593",
@@ -101618,10 +102158,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI001618.jpg",
    "original_px": [
-    2454,
-    3400
+    2372,
+    3333
    ],
-   "original_bytes": 2087576,
+   "original_bytes": 2794933,
    "identity": "sent-2026-09-05::a65dbceb78cf",
    "source_url": "https://openaccess-cdn.clevelandart.org/2020.150/2020.150_print.jpg",
    "maker": "Pierre Bonnard",
@@ -101668,16 +102208,34 @@
    "identity_established": true,
    "published": true,
    "verification": "Cleveland Museum of Art, accession 2020.150 — the museum's own open-access record gives Pierre Bonnard (French, 1867–1947), Family Scene, 1893, color lithograph on beige wove paper.",
-   "hue": 42.39,
-   "light": 0.8114,
-   "chroma": 0.916,
-   "punch": 0.098,
+   "hue": 42.42,
+   "light": 0.8139,
+   "chroma": 0.9706,
+   "punch": 0.103,
    "extra_tags": [
     {
      "k": "movement",
      "v": "Nabis"
     }
-   ]
+   ],
+   "crop": {
+    "box": [
+     41,
+     33,
+     2413,
+     3366
+    ],
+    "was": [
+     2454,
+     3400
+    ],
+    "now": [
+     2372,
+     3333
+    ],
+    "uncropped": "originals_uncropped/CRVI001618.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-05::e55550d2acfc": {
    "id": "CRVI001619",
@@ -102464,10 +103022,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI001632.jpg",
    "original_px": [
-    3400,
-    3364
+    3332,
+    3338
    ],
-   "original_bytes": 8937136,
+   "original_bytes": 5339499,
    "identity": "sent-2026-09-05::7c55b33e5af9",
    "source_url": "https://openaccess-cdn.clevelandart.org/1956.297/1956.297_print.jpg",
    "maker": "Ernst Ludwig Kirchner",
@@ -102516,10 +103074,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Cleveland Museum of Art, accession 1956.297 — the museum's own open-access record gives Ernst Ludwig Kirchner (German), Wehrlin, Facing front, 1924, print.",
-   "hue": 42.19,
-   "light": 0.5473,
-   "chroma": 0.2834,
-   "punch": 0.043
+   "hue": 42.16,
+   "light": 0.5392,
+   "chroma": 0.2773,
+   "punch": 0.0425,
+   "crop": {
+    "box": [
+     23,
+     17,
+     3355,
+     3355
+    ],
+    "was": [
+     3400,
+     3364
+    ],
+    "now": [
+     3332,
+     3338
+    ],
+    "uncropped": "originals_uncropped/CRVI001632.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-05::d9cb8b430f87": {
    "id": "CRVI001633",
@@ -103369,10 +103945,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI001647.jpg",
    "original_px": [
-    2597,
-    3400
+    2199,
+    3089
    ],
-   "original_bytes": 6960148,
+   "original_bytes": 3377682,
    "identity": "sent-2026-09-05::af8cb79181b2",
    "source_url": "https://openaccess-cdn.clevelandart.org/1929.889/1929.889_print.jpg",
    "maker": "Pablo Picasso",
@@ -103411,10 +103987,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Cleveland Museum of Art, accession 1929.889 — the museum's own open-access record gives Pablo Picasso (Spanish, 1881–1973), Head of a Woman: Madeleine, 1905, printed 1913.",
-   "hue": 42.74,
-   "light": 0.5094,
-   "chroma": 0.1367,
-   "punch": 0.0608
+   "hue": null,
+   "light": 0.446,
+   "chroma": 0.0,
+   "punch": 0.0529,
+   "crop": {
+    "box": [
+     228,
+     177,
+     2427,
+     3266
+    ],
+    "was": [
+     2597,
+     3400
+    ],
+    "now": [
+     2199,
+     3089
+    ],
+    "uncropped": "originals_uncropped/CRVI001647.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-05::0a4700acb77c": {
    "id": "CRVI001648",
@@ -103473,10 +104067,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI001649.jpg",
    "original_px": [
-    2826,
-    3400
+    2770,
+    3316
    ],
-   "original_bytes": 4249312,
+   "original_bytes": 5473236,
    "identity": "sent-2026-09-05::cb906d2b4b48",
    "source_url": "https://openaccess-cdn.clevelandart.org/1929.888/1929.888_print.jpg",
    "maker": "Pablo Picasso",
@@ -103520,9 +104114,27 @@
    "published": true,
    "verification": "Cleveland Museum of Art, accession 1929.888 — the museum's own open-access record gives Pablo Picasso (Spanish, 1881–1973), The Frugal Meal, September 1904, printed 1913.",
    "hue": 35.0,
-   "light": 0.5768,
-   "chroma": 0.5696,
-   "punch": 0.1709
+   "light": 0.5645,
+   "chroma": 0.5516,
+   "punch": 0.1677,
+   "crop": {
+    "box": [
+     47,
+     61,
+     2817,
+     3377
+    ],
+    "was": [
+     2826,
+     3400
+    ],
+    "now": [
+     2770,
+     3316
+    ],
+    "uncropped": "originals_uncropped/CRVI001649.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-05::cc9a2a2167b9": {
    "id": "CRVI001650",
@@ -107777,10 +108389,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI001719.jpg",
    "original_px": [
-    843,
-    1648
+    726,
+    1534
    ],
-   "original_bytes": 552819,
+   "original_bytes": 727606,
    "identity": "sent-2026-09-05::de4c10ce0c4c",
    "source_url": "https://www.artic.edu/iiif/2/684d3f48-2352-f2d5-ed3c-0f7867853c3f/full/843,/0/default.jpg",
    "maker": "Sonia Delaunay",
@@ -107829,10 +108441,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Art Institute of Chicago, artwork 94572 — the museum's API resolves this image id to Sonia Delaunay-Terk, Jazz (Dress or Furnishing Fabric), 1977, designed 1920.",
-   "hue": 354.69,
-   "light": 0.4773,
-   "chroma": 0.4037,
-   "punch": 0.1639
+   "hue": 354.6,
+   "light": 0.4446,
+   "chroma": 0.5037,
+   "punch": 0.2018,
+   "crop": {
+    "box": [
+     62,
+     48,
+     788,
+     1582
+    ],
+    "was": [
+     843,
+     1648
+    ],
+    "now": [
+     726,
+     1534
+    ],
+    "uncropped": "originals_uncropped/CRVI001719.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-05::333f7451c7aa": {
    "id": "CRVI001720",
@@ -109617,10 +110247,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI001751.jpg",
    "original_px": [
-    1500,
-    1500
+    927,
+    1409
    ],
-   "original_bytes": 201842,
+   "original_bytes": 418361,
    "identity": "sent-2026-09-05::a09056ac0c93",
    "source_url": "https://i.pinimg.com/originals/26/c4/13/26c41308fccd21f7fac909e096701c49.jpg",
    "maker": "Unidentified",
@@ -109652,10 +110282,28 @@
    "identity_established": true,
    "published": true,
    "verification": "A Pinterest file with no provenance, shown with a printed white border and frame. It is Kandinsky in manner and may well be a reproduction of one, but nothing here establishes which work, or that it is by him rather than after him.",
-   "hue": 43.3,
-   "light": 0.6235,
-   "chroma": 0.5375,
-   "punch": 0.3024
+   "hue": 43.48,
+   "light": 0.4609,
+   "chroma": 0.9093,
+   "punch": 0.5036,
+   "crop": {
+    "box": [
+     285,
+     46,
+     1212,
+     1455
+    ],
+    "was": [
+     1500,
+     1500
+    ],
+    "now": [
+     927,
+     1409
+    ],
+    "uncropped": "originals_uncropped/CRVI001751.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-05::bdc3a155aafc": {
    "id": "CRVI001752",
@@ -114459,10 +115107,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI001832.jpg",
    "original_px": [
-    843,
-    1067
+    768,
+    983
    ],
-   "original_bytes": 201657,
+   "original_bytes": 287707,
    "identity": "sent-2026-09-05::9022ca560356",
    "source_url": "https://www.artic.edu/iiif/2/a935c5f0-6e26-0b56-067b-0db0326a8baa/full/843,/0/default.jpg",
    "maker": "Richard Anuszkiewicz",
@@ -114505,10 +115153,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Art Institute of Chicago, artwork 94098 — the museum's API resolves this image id to Richard Anuszkiewicz, Red, White and Blue, from 1776 USA 1976: Bicentennial Prints, 1975.",
-   "hue": 358.62,
-   "light": 0.5908,
-   "chroma": 0.7806,
-   "punch": 0.381
+   "hue": 357.74,
+   "light": 0.5367,
+   "chroma": 0.842,
+   "punch": 0.4368,
+   "crop": {
+    "box": [
+     36,
+     42,
+     804,
+     1025
+    ],
+    "was": [
+     843,
+     1067
+    ],
+    "now": [
+     768,
+     983
+    ],
+    "uncropped": "originals_uncropped/CRVI001832.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-05::0886c101f7de": {
    "id": "CRVI001833",
@@ -114627,10 +115293,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI001835.jpg",
    "original_px": [
-    2688,
-    2688
+    2106,
+    2203
    ],
-   "original_bytes": 560108,
+   "original_bytes": 1534879,
    "identity": "sent-2026-09-05::48b47c2b5032",
    "source_url": "https://a.1stdibscdn.com/archivesE/upload/366869/f_56379031499097255113/6R1A3430_master.jpg",
    "maker": "Unidentified",
@@ -114663,10 +115329,28 @@
    "identity_established": true,
    "published": true,
    "verification": "An image with no artist named anywhere in its URL or file name. Op Art in manner and arriving in a batch of it, but painter, title and date are all unestablished. A 1stdibs dealer listing whose URL carries no artist name.",
-   "hue": 25.4,
-   "light": 0.5517,
-   "chroma": 0.7038,
-   "punch": 0.2389
+   "hue": 23.94,
+   "light": 0.4443,
+   "chroma": 0.9171,
+   "punch": 0.3528,
+   "crop": {
+    "box": [
+     290,
+     217,
+     2396,
+     2420
+    ],
+    "was": [
+     2688,
+     2688
+    ],
+    "now": [
+     2106,
+     2203
+    ],
+    "uncropped": "originals_uncropped/CRVI001835.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-05::607aa8daab95": {
    "id": "CRVI001836",
@@ -114919,10 +115603,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI001840.jpg",
    "original_px": [
-    1600,
-    1598
+    1255,
+    1248
    ],
-   "original_bytes": 345097,
+   "original_bytes": 815621,
    "identity": "sent-2026-09-05::646299f6a8c4",
    "source_url": "https://a.1stdibscdn.com/carlos-cruz-diez-prints-works-on-paper-miercoles-from-the-serie-semana-portfolio-op-art-lithograph-by-carlos-cruz-diez-for-sale/a_466/1761317228014/Cruz_Diez_Wednesday_master.jpg",
    "maker": "Carlos Cruz-Diez",
@@ -114965,10 +115649,28 @@
    "identity_established": true,
    "published": true,
    "verification": "1stdibs dealer listing, whose file name gives Carlos Cruz-Diez, Miércoles from the Serie Semana portfolio, lithograph. The date is not established here.",
-   "hue": 38.67,
-   "light": 0.5814,
-   "chroma": 0.6609,
-   "punch": 0.1575
+   "hue": 73.77,
+   "light": 0.3746,
+   "chroma": 0.7334,
+   "punch": 0.2129,
+   "crop": {
+    "box": [
+     180,
+     167,
+     1435,
+     1415
+    ],
+    "was": [
+     1600,
+     1598
+    ],
+    "now": [
+     1255,
+     1248
+    ],
+    "uncropped": "originals_uncropped/CRVI001840.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-05::8b625fca4801": {
    "id": "CRVI001841",
@@ -120584,10 +121286,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI001937.jpg",
    "original_px": [
-    1264,
-    1536
+    1042,
+    1338
    ],
-   "original_bytes": 71766,
+   "original_bytes": 216216,
    "identity": "sent-2026-09-05::91908a843b6b",
    "source_url": "https://uploads3.wikiart.org/images/gary-hume/whistler-1998.jpg",
    "maker": "Gary Hume",
@@ -120630,26 +121332,44 @@
    "identity_established": true,
    "published": true,
    "verification": "WikiArt, under Gary Hume, dated 1998.",
-   "hue": 204.78,
-   "light": 0.8276,
-   "chroma": 0.6237,
-   "punch": 0.108,
+   "hue": 204.76,
+   "light": 0.7623,
+   "chroma": 0.8761,
+   "punch": 0.1468,
    "extra_tags": [
     {
      "k": "movement",
      "v": "Young British Artists"
     }
-   ]
+   ],
+   "crop": {
+    "box": [
+     112,
+     116,
+     1154,
+     1454
+    ],
+    "was": [
+     1264,
+     1536
+    ],
+    "now": [
+     1042,
+     1338
+    ],
+    "uncropped": "originals_uncropped/CRVI001937.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-05::f0e3f863748c": {
    "id": "CRVI001938",
    "minted": "2026-09-06",
    "original_file": "originals/CRVI001938.jpg",
    "original_px": [
-    1280,
-    1850
+    1038,
+    1566
    ],
-   "original_bytes": 151009,
+   "original_bytes": 352598,
    "identity": "sent-2026-09-05::f0e3f863748c",
    "source_url": "https://i.pinimg.com/originals/48/09/76/480976b7453abb63ff8dd8d0b38f5d3d.jpg",
    "maker": "Unidentified",
@@ -120685,10 +121405,28 @@
    "identity_established": true,
    "published": true,
    "verification": "A Pinterest file with no provenance. Flat blocked colour in the manner of Gary Hume, and it arrived among his work, but nothing here establishes maker, title or date.",
-   "hue": 53.13,
-   "light": 0.5863,
-   "chroma": 0.673,
-   "punch": 0.216
+   "hue": 53.45,
+   "light": 0.4293,
+   "chroma": 0.8909,
+   "punch": 0.3019,
+   "crop": {
+    "box": [
+     113,
+     126,
+     1151,
+     1692
+    ],
+    "was": [
+     1280,
+     1850
+    ],
+    "now": [
+     1038,
+     1566
+    ],
+    "uncropped": "originals_uncropped/CRVI001938.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-05::c4192b1b8d25": {
    "id": "CRVI001939",
@@ -126128,10 +126866,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002043.jpg",
    "original_px": [
-    1169,
-    1500
+    1079,
+    1424
    ],
-   "original_bytes": 729369,
+   "original_bytes": 1136230,
    "identity": "sent-2026-09-05::4a8fc6923dd3",
    "source_url": "https://www.maxhetzler.com/application/files/7616/7992/2183/2010_Untitled__P603___photo__def_image__1500.jpg",
    "maker": "Christopher Wool",
@@ -126170,10 +126908,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Galerie Max Hetzler, which represents Wool; the file name gives 2010 and the work number P603.",
-   "hue": 5.72,
-   "light": 0.615,
-   "chroma": 0.1807,
-   "punch": 0.065
+   "hue": 5.66,
+   "light": 0.5707,
+   "chroma": 0.2081,
+   "punch": 0.0736,
+   "crop": {
+    "box": [
+     45,
+     37,
+     1124,
+     1461
+    ],
+    "was": [
+     1169,
+     1500
+    ],
+    "now": [
+     1079,
+     1424
+    ],
+    "uncropped": "originals_uncropped/CRVI002043.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-05::2ca453b2ecc8": {
    "id": "CRVI002044",
@@ -129839,10 +130595,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002112.jpg",
    "original_px": [
-    818,
-    1000
+    723,
+    861
    ],
-   "original_bytes": 613290,
+   "original_bytes": 706457,
    "identity": "sent-2026-09-05::a2d0d21290e1",
    "source_url": "https://mnwr.pl/wp-content/uploads/2023/04/Roman-Opalka-Z-wnetrza-1969-kwasoryt-MNWr.jpg",
    "maker": "Roman Opałka",
@@ -129882,9 +130638,27 @@
    "published": true,
    "verification": "Muzeum Narodowe we Wrocławiu, whose file name gives it in full: Roman Opałka, Z wnętrza, 1969, kwasoryt (etching), MNWr.",
    "hue": null,
-   "light": 0.4655,
-   "chroma": 0.0458,
-   "punch": 0.019
+   "light": 0.3379,
+   "chroma": 0.0,
+   "punch": 0.0168,
+   "crop": {
+    "box": [
+     47,
+     55,
+     770,
+     916
+    ],
+    "was": [
+     818,
+     1000
+    ],
+    "now": [
+     723,
+     861
+    ],
+    "uncropped": "originals_uncropped/CRVI002112.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-05::73e2960e18cb": {
    "id": "CRVI002113",
@@ -130865,10 +131639,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002131.jpg",
    "original_px": [
-    843,
-    840
+    696,
+    697
    ],
-   "original_bytes": 108511,
+   "original_bytes": 100300,
    "identity": "sent-2026-09-05::05da197242cc",
    "source_url": "https://www.artic.edu/iiif/2/6c86df7d-79d9-dd54-d853-64c45c655d6d/full/843,/0/default.jpg",
    "maker": "Judy Chicago",
@@ -130907,10 +131681,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Art Institute of Chicago, artwork 241656 — the museum's API resolves this image id to Judy Chicago, 3 Star Cunts, 1969.",
-   "hue": 34.75,
-   "light": 0.8461,
-   "chroma": 0.7573,
-   "punch": 0.1157
+   "hue": 34.63,
+   "light": 0.8685,
+   "chroma": 0.9725,
+   "punch": 0.1485,
+   "crop": {
+    "box": [
+     71,
+     71,
+     767,
+     768
+    ],
+    "was": [
+     843,
+     840
+    ],
+    "now": [
+     696,
+     697
+    ],
+    "uncropped": "originals_uncropped/CRVI002131.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-05::9021032c2fd4": {
    "id": "CRVI002132",
@@ -131826,10 +132618,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002149.jpg",
    "original_px": [
-    1919,
-    2774
+    1816,
+    2675
    ],
-   "original_bytes": 731973,
+   "original_bytes": 910299,
    "identity": "sent-2026-09-05::a96193184303",
    "source_url": "https://d1tm14lrsghf7q.cloudfront.net/public/media/4535/conversions/231738-cover.jpg",
    "maker": "Barbara Kruger",
@@ -131865,9 +132657,27 @@
    "published": true,
    "verification": "A CDN asset in a Kruger context; the panel letters its own text. Date unestablished.",
    "hue": null,
-   "light": 0.4815,
-   "chroma": 0.0927,
-   "punch": 0.0477
+   "light": 0.4508,
+   "chroma": 0.0913,
+   "punch": 0.0469,
+   "crop": {
+    "box": [
+     48,
+     32,
+     1864,
+     2707
+    ],
+    "was": [
+     1919,
+     2774
+    ],
+    "now": [
+     1816,
+     2675
+    ],
+    "uncropped": "originals_uncropped/CRVI002149.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-05::cd00b08dbfe2": {
    "id": "CRVI002150",
@@ -133721,10 +134531,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002184.jpg",
    "original_px": [
-    840,
-    933
+    536,
+    630
    ],
-   "original_bytes": 202703,
+   "original_bytes": 70996,
    "identity": "sent-2026-09-05::ddd2f434dba0",
    "source_url": "https://media.mutualart.com/Images/2023_11/21/06/062605044/etel-adnan-equilibre-8KU2K.Jpeg",
    "maker": "Etel Adnan",
@@ -133759,10 +134569,28 @@
    "identity_established": true,
    "published": true,
    "verification": "MutualArt, whose file name gives Etel Adnan and Équilibre. The date is not established here.",
-   "hue": 25.56,
-   "light": 0.6948,
-   "chroma": 0.9371,
-   "punch": 0.2941
+   "hue": 44.35,
+   "light": 0.5223,
+   "chroma": 0.9997,
+   "punch": 0.5378,
+   "crop": {
+    "box": [
+     155,
+     149,
+     691,
+     779
+    ],
+    "was": [
+     840,
+     933
+    ],
+    "now": [
+     536,
+     630
+    ],
+    "uncropped": "originals_uncropped/CRVI002184.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-05::1fbd652c3ba6": {
    "id": "CRVI002185",
@@ -135815,10 +136643,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002220.jpg",
    "original_px": [
-    843,
-    1179
+    720,
+    1061
    ],
-   "original_bytes": 132017,
+   "original_bytes": 343156,
    "identity": "sent-2026-09-06::91fce0ed3473",
    "source_url": "https://i.pinimg.com/originals/37/92/ed/3792edf073a7b862c01e8472bfee4816.jpg",
    "maker": "Anni Albers",
@@ -135853,16 +136681,34 @@
    "identity_established": true,
    "published": true,
    "verification": "Pinterest, which names nobody. Attributed on the WORK, not the source: a Bauhaus-workshop wall hanging in Anni Albers's banded pink/black/orange idiom. ⚠️ Gunta Stölzl and the other Weimar weavers worked in the same idiom, so this attribution is a reading, not a record. No title, date or collection is established.",
-   "hue": 16.36,
-   "light": 0.4557,
-   "chroma": 0.5574,
-   "punch": 0.2442,
+   "hue": 16.0,
+   "light": 0.398,
+   "chroma": 0.6988,
+   "punch": 0.3117,
    "extra_tags": [
     {
      "k": "subject",
      "v": "Bauhaus"
     }
-   ]
+   ],
+   "crop": {
+    "box": [
+     63,
+     60,
+     783,
+     1121
+    ],
+    "was": [
+     843,
+     1179
+    ],
+    "now": [
+     720,
+     1061
+    ],
+    "uncropped": "originals_uncropped/CRVI002220.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-06::b6725307ac0b": {
    "id": "CRVI002221",
@@ -135986,10 +136832,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002223.jpg",
    "original_px": [
-    1400,
-    1305
+    1398,
+    1290
    ],
-   "original_bytes": 869786,
+   "original_bytes": 2183917,
    "identity": "sent-2026-09-06::ac6ab4bb00b4",
    "source_url": "https://publicdelivery.org/wp-content/uploads/2018/01/Anni-Albers-Pasture-1958-cotton-394-x-356-cm.jpg",
    "maker": "Anni Albers",
@@ -136029,15 +136875,33 @@
    "published": true,
    "verification": "publicdelivery.org, which names it in the file: \"Anni Albers Pasture 1958 cotton 39.4 x 35.6 cm\".",
    "hue": 84.62,
-   "light": 0.4382,
-   "chroma": 0.9642,
-   "punch": 0.2873,
+   "light": 0.4303,
+   "chroma": 0.9779,
+   "punch": 0.2919,
    "extra_tags": [
     {
      "k": "subject",
      "v": "Bauhaus"
     }
-   ]
+   ],
+   "crop": {
+    "box": [
+     0,
+     7,
+     1398,
+     1297
+    ],
+    "was": [
+     1400,
+     1305
+    ],
+    "now": [
+     1398,
+     1290
+    ],
+    "uncropped": "originals_uncropped/CRVI002223.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-06::7bd123f61706": {
    "id": "CRVI002224",
@@ -138717,10 +139581,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002270.jpg",
    "original_px": [
-    1400,
-    1419
+    1305,
+    1304
    ],
-   "original_bytes": 154989,
+   "original_bytes": 590479,
    "identity": "sent-2026-09-06::d3b46a34408b",
    "source_url": "https://i.pinimg.com/originals/51/af/96/51af96a95108fdb7fd9f4c794d6407d7.jpg",
    "maker": "Sol LeWitt",
@@ -138755,16 +139619,34 @@
    "identity_established": true,
    "published": true,
    "verification": "Pinterest, which names nobody. Attributed on the WORK: LeWitt's banded-and-arced colour system, black-bordered, as in the wall drawings and the gouaches after them. No title or date established.",
-   "hue": 47.04,
-   "light": 0.4198,
-   "chroma": 0.7524,
-   "punch": 0.3798,
+   "hue": 45.96,
+   "light": 0.3259,
+   "chroma": 0.8862,
+   "punch": 0.4477,
    "extra_tags": [
     {
      "k": "subject",
      "v": "Minimalism"
     }
-   ]
+   ],
+   "crop": {
+    "box": [
+     51,
+     42,
+     1356,
+     1346
+    ],
+    "was": [
+     1400,
+     1419
+    ],
+    "now": [
+     1305,
+     1304
+    ],
+    "uncropped": "originals_uncropped/CRVI002270.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-06::626003415318": {
    "id": "CRVI002271",
@@ -139127,10 +140009,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002277.jpg",
    "original_px": [
-    2000,
-    2000
+    1619,
+    1784
    ],
-   "original_bytes": 977520,
+   "original_bytes": 2561919,
    "identity": "sent-2026-09-06::001836d1f44b",
    "source_url": "https://www.ragoarts.com/items/index/2000/297_1_prints_multiples_february_2022_frank_stella_feneralia_from_the_imaginary_places_series__rago_auction.jpg?t=1668131697",
    "maker": "Frank Stella",
@@ -139165,16 +140047,34 @@
    "identity_established": true,
    "published": true,
    "verification": "Rago Arts, which names it in the file: \"frank stella feneralia from the imaginary places series\", from its Prints & Multiples sale of February 2022.",
-   "hue": 37.12,
-   "light": 0.6978,
-   "chroma": 0.6049,
-   "punch": 0.1711,
+   "hue": 37.47,
+   "light": 0.6175,
+   "chroma": 0.7507,
+   "punch": 0.2278,
    "extra_tags": [
     {
      "k": "subject",
      "v": "Minimalism"
     }
-   ]
+   ],
+   "crop": {
+    "box": [
+     211,
+     124,
+     1830,
+     1908
+    ],
+    "was": [
+     2000,
+     2000
+    ],
+    "now": [
+     1619,
+     1784
+    ],
+    "uncropped": "originals_uncropped/CRVI002277.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-06::d98510041063": {
    "id": "CRVI002278",
@@ -139289,10 +140189,10 @@
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002280.jpg",
    "original_px": [
-    2500,
-    3080
+    2289,
+    2856
    ],
-   "original_bytes": 707706,
+   "original_bytes": 1792186,
    "identity": "sent-2026-09-06::7841f0d423aa",
    "source_url": "https://i.pinimg.com/originals/66/88/27/66882760e05ce00fdbd452bfd4814c37.jpg",
    "maker": "John Baldessari",
@@ -139329,25 +140229,43 @@
    "published": true,
    "verification": "Pinterest, which names nobody. Attributed on the WORK: Baldessari's signature move of stopping out faces with flat coloured discs, over an appropriated black-and-white photograph. ⚠️ Title, date and edition are not established; the title above is descriptive, not the artist's.",
    "hue": 215.01,
-   "light": 0.5919,
-   "chroma": 0.4624,
-   "punch": 0.2516,
+   "light": 0.5465,
+   "chroma": 0.5418,
+   "punch": 0.2946,
    "extra_tags": [
     {
      "k": "subject",
      "v": "Conceptual Art"
     }
-   ]
+   ],
+   "crop": {
+    "box": [
+     108,
+     111,
+     2397,
+     2967
+    ],
+    "was": [
+     2500,
+     3080
+    ],
+    "now": [
+     2289,
+     2856
+    ],
+    "uncropped": "originals_uncropped/CRVI002280.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-06::535c3f37f345": {
    "id": "CRVI002281",
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002281.jpg",
    "original_px": [
-    1900,
-    1260
+    1817,
+    1206
    ],
-   "original_bytes": 366283,
+   "original_bytes": 861613,
    "identity": "sent-2026-09-06::535c3f37f345",
    "source_url": "https://i.pinimg.com/originals/e8/28/4c/e8284c9176a396eca6bc593139fe31bf.jpg",
    "maker": "John Baldessari",
@@ -139382,26 +140300,44 @@
    "identity_established": true,
    "published": true,
    "verification": "Pinterest, which names nobody. Attributed on the WORK: Baldessari's signature move of stopping out faces with flat coloured discs, over an appropriated black-and-white photograph. ⚠️ Title, date and edition are not established; the title above is descriptive, not the artist's.",
-   "hue": 54.91,
-   "light": 0.4939,
-   "chroma": 0.5473,
-   "punch": 0.4682,
+   "hue": 54.9,
+   "light": 0.4777,
+   "chroma": 0.568,
+   "punch": 0.5017,
    "extra_tags": [
     {
      "k": "subject",
      "v": "Conceptual Art"
     }
-   ]
+   ],
+   "crop": {
+    "box": [
+     42,
+     23,
+     1859,
+     1229
+    ],
+    "was": [
+     1900,
+     1260
+    ],
+    "now": [
+     1817,
+     1206
+    ],
+    "uncropped": "originals_uncropped/CRVI002281.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-06::dec334744f47": {
    "id": "CRVI002282",
    "minted": "2026-09-06",
    "original_file": "originals/CRVI002282.jpg",
    "original_px": [
-    2736,
-    4096
+    2672,
+    4031
    ],
-   "original_bytes": 810151,
+   "original_bytes": 1790907,
    "identity": "sent-2026-09-06::dec334744f47",
    "source_url": "https://image.invaluable.com/housePhotos/johnmoran/63/744463/H0045-L332204728_original.JPG",
    "maker": "John Baldessari",
@@ -139437,15 +140373,33 @@
    "published": true,
    "verification": "John Moran Auctioneers via Invaluable, from its own lot photograph. Attributed on the WORK: a Baldessari dot-over-face composition with playing cards and a blue brushmark. ⚠️ The lot's title and date are not established here.",
    "hue": 154.94,
-   "light": 0.6013,
-   "chroma": 0.2597,
-   "punch": 0.1533,
+   "light": 0.5856,
+   "chroma": 0.2689,
+   "punch": 0.1594,
    "extra_tags": [
     {
      "k": "subject",
      "v": "Conceptual Art"
     }
-   ]
+   ],
+   "crop": {
+    "box": [
+     32,
+     32,
+     2704,
+     4063
+    ],
+    "was": [
+     2736,
+     4096
+    ],
+    "now": [
+     2672,
+     4031
+    ],
+    "uncropped": "originals_uncropped/CRVI002282.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-06::3bc789466c92": {
    "id": "CRVI002283",
@@ -141723,10 +142677,10 @@
    "minted": "2026-09-07",
    "original_file": "originals/CRVI002323.jpg",
    "original_px": [
-    1536,
-    1239
+    1406,
+    1090
    ],
-   "original_bytes": 144793,
+   "original_bytes": 409015,
    "identity": "sent-2026-09-07::fd36bdf61ef2",
    "source_url": "https://cdn.sanity.io/images/dqllnil6/production/8e63658ba429fa509e32ac597fb89e1999c77d68-1536x1239.jpg?w=3840&q=60&auto=format",
    "maker": "Ed Ruscha",
@@ -141762,10 +142716,28 @@
    "identity_established": true,
    "published": true,
    "verification": "cdn.sanity.io, which serves the file under a hash and no caption. Attributed on the WORK: Ruscha's word painting HONK, in yellow on a red and blue ground. It is signed in pencil on the mount below the image, which makes this the print rather than the canvas. Neither the edition nor the year is established here.",
-   "hue": 345.66,
-   "light": 0.3761,
-   "chroma": 0.9504,
-   "punch": 0.2684
+   "hue": 345.52,
+   "light": 0.2942,
+   "chroma": 0.9768,
+   "punch": 0.3067,
+   "crop": {
+    "box": [
+     60,
+     77,
+     1466,
+     1167
+    ],
+    "was": [
+     1536,
+     1239
+    ],
+    "now": [
+     1406,
+     1090
+    ],
+    "uncropped": "originals_uncropped/CRVI002323.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-07::e39f929eaea5": {
    "id": "CRVI002324",
@@ -143993,10 +144965,10 @@
    "identity_established": true,
    "published": false,
    "verification": "Flaunt Magazine's Tauba Auerbach feature, served from the magazine's Squarespace site (56c346b607eaa09d9189a870) — the same site and same feature as the archive's existing Auerbach record from '...Considerations4.jpg'; this is '...Considerations3.jpg'. ⚠️ The feature establishes the ARTIST. Title and date are not established, and the title given here is descriptive: the dense orange-on-white interlace of her woven/mesh paintings.",
-   "hue": 14.14,
-   "light": 0.7091,
-   "chroma": 0.719,
-   "punch": 0.4631,
+   "hue": 14.34,
+   "light": 0.6624,
+   "chroma": 0.7507,
+   "punch": 0.5905,
    "deleted": true,
    "deleted_on": "2026-09-07",
    "number_reused": true
@@ -144355,10 +145327,10 @@
    "minted": "2026-09-07",
    "original_file": "originals/CRVI002370.jpg",
    "original_px": [
-    1054,
-    1500
+    1003,
+    1484
    ],
-   "original_bytes": 408127,
+   "original_bytes": 765574,
    "identity": "sent-2026-09-07e::2f8979a30447",
    "source_url": "https://img1.onebid.pl/img/5067/1324319_1b.jpg",
    "maker": "Jan Sawka",
@@ -144393,20 +145365,38 @@
    "identity_established": true,
    "published": true,
    "verification": "Identified by Todd, 2026-09-07, who sent the item URLs back naming Jan Sawka. The record went in unattributed because its own source names nobody — still true of the source — so the attribution rests on the collector's identification, not on the file. Title and date remain unestablished. Original note: ⚠️ UNATTRIBUTED. A OneBid (Polish auction) lot image, which names no artist. It arrived inside a Jan Sawka run and it reads like his work, but the source establishes nothing and resemblance is not attribution. Waiting on a name.",
-   "hue": 31.12,
-   "light": 0.4479,
-   "chroma": 0.8438,
-   "punch": 0.2518
+   "hue": 30.81,
+   "light": 0.4207,
+   "chroma": 0.8382,
+   "punch": 0.2642,
+   "crop": {
+    "box": [
+     26,
+     16,
+     1029,
+     1500
+    ],
+    "was": [
+     1054,
+     1500
+    ],
+    "now": [
+     1003,
+     1484
+    ],
+    "uncropped": "originals_uncropped/CRVI002370.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-07e::38b1f847a485": {
    "id": "CRVI002371",
    "minted": "2026-09-07",
    "original_file": "originals/CRVI002371.jpg",
    "original_px": [
-    1600,
-    1200
+    1451,
+    944
    ],
-   "original_bytes": 750198,
+   "original_bytes": 1207241,
    "identity": "sent-2026-09-07e::38b1f847a485",
    "source_url": "https://img1.onebid.pl/img/6325/1786317_1b.jpg",
    "maker": "Jan Sawka",
@@ -144442,20 +145432,38 @@
    "identity_established": true,
    "published": true,
    "verification": "Identified by Todd, 2026-09-07, who sent the item URLs back naming Jan Sawka. The record went in unattributed because its own source names nobody — still true of the source — so the attribution rests on the collector's identification, not on the file. Title and date remain unestablished. Original note: ⚠️ UNATTRIBUTED. A OneBid (Polish auction) lot image, which names no artist. It arrived inside a Jan Sawka run and it reads like his work, but the source establishes nothing and resemblance is not attribution. Waiting on a name.",
-   "hue": 44.93,
-   "light": 0.5708,
-   "chroma": 0.5598,
-   "punch": 0.2174
+   "hue": 44.88,
+   "light": 0.4611,
+   "chroma": 0.7846,
+   "punch": 0.2995,
+   "crop": {
+    "box": [
+     71,
+     73,
+     1522,
+     1017
+    ],
+    "was": [
+     1600,
+     1200
+    ],
+    "now": [
+     1451,
+     944
+    ],
+    "uncropped": "originals_uncropped/CRVI002371.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-07e::89c29f84ce97": {
    "id": "CRVI002372",
    "minted": "2026-09-07",
    "original_file": "originals/CRVI002372.jpg",
    "original_px": [
-    2000,
-    1401
+    1963,
+    1366
    ],
-   "original_bytes": 655312,
+   "original_bytes": 1032040,
    "identity": "sent-2026-09-07e::89c29f84ce97",
    "source_url": "https://www.moma.org/media/W1siZiIsIjU3OTAzMyJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=2e5e0eaa632e9cfd",
    "maker": "Jan Sawka",
@@ -144494,20 +145502,38 @@
    "identity_established": true,
    "published": true,
    "verification": "MoMA's own media server. The work is MoMA's Jan Sawka, Crash, 1977, offset lithograph, 26 1/4 x 37 3/4 in. (66.6 x 95.8 cm), gift of the artist — object 8342.",
-   "hue": 7.04,
-   "light": 0.2974,
-   "chroma": 0.1488,
-   "punch": 0.073
+   "hue": 7.0,
+   "light": 0.2688,
+   "chroma": 0.1543,
+   "punch": 0.0763,
+   "crop": {
+    "box": [
+     17,
+     17,
+     1980,
+     1383
+    ],
+    "was": [
+     2000,
+     1401
+    ],
+    "now": [
+     1963,
+     1366
+    ],
+    "uncropped": "originals_uncropped/CRVI002372.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-07e::645ffc950303": {
    "id": "CRVI002373",
    "minted": "2026-09-07",
    "original_file": "originals/CRVI002373.jpg",
    "original_px": [
-    1389,
-    2000
+    1375,
+    1995
    ],
-   "original_bytes": 337333,
+   "original_bytes": 585005,
    "identity": "sent-2026-09-07e::645ffc950303",
    "source_url": "https://www.moma.org/media/W1siZiIsIjUyMDk2NCJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=bcc115096ea5b030",
    "maker": "Jan Sawka",
@@ -144547,9 +145573,27 @@
    "published": true,
    "verification": "MoMA's own media server. The work is MoMA object 8352 — Jan Sawka, Exodus, 1974, offset lithograph, the isolated figure rendered as a burnt match, for Kraków's Teatr STU.",
    "hue": 5.08,
-   "light": 0.495,
-   "chroma": 0.9764,
-   "punch": 0.6072
+   "light": 0.4899,
+   "chroma": 0.9761,
+   "punch": 0.6145,
+   "crop": {
+    "box": [
+     7,
+     5,
+     1382,
+     2000
+    ],
+    "was": [
+     1389,
+     2000
+    ],
+    "now": [
+     1375,
+     1995
+    ],
+    "uncropped": "originals_uncropped/CRVI002373.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-07e::6e11d9f294c0": {
    "id": "CRVI002374",
@@ -146581,10 +147625,10 @@
    "minted": "2026-09-07",
    "original_file": "originals/CRVI002406.jpg",
    "original_px": [
-    4096,
-    3649
+    4014,
+    3570
    ],
-   "original_bytes": 769735,
+   "original_bytes": 2724118,
    "identity": "sent-2026-09-07i::869a11234c0e",
    "source_url": "https://image.invaluable.com/housePhotos/johnmoran/15/748315/H0045-L342446573_original.JPG",
    "maker": "Peter Max",
@@ -146627,10 +147671,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Invaluable, house photos for John Moran Auctioneers. The TITLE AND YEAR are established by Todd, who sent it as '\"Right Now,\" 1970'; the file itself carries no lot text. At 4096x3649 it is the largest file in the batch. ⚠️ The medium and edition are not established.",
-   "hue": 74.98,
-   "light": 0.5545,
-   "chroma": 0.914,
-   "punch": 0.4796
+   "hue": 74.97,
+   "light": 0.5352,
+   "chroma": 0.9461,
+   "punch": 0.5006,
+   "crop": {
+    "box": [
+     41,
+     41,
+     4055,
+     3611
+    ],
+    "was": [
+     4096,
+     3649
+    ],
+    "now": [
+     4014,
+     3570
+    ],
+    "uncropped": "originals_uncropped/CRVI002406.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-07i::9e39a9151a83": {
    "id": "CRVI002407",
@@ -146807,10 +147869,10 @@
    "identity_established": true,
    "published": false,
    "verification": "Panorama, 'Psychedelic Patriotism', Fig. 14 — 'Peter Max, The American Cosmic Jumper in the Land of Rainbows and Stars, 1976. Billboard, 4 x 6 ft. AiA Program, GSA; FOIA 2019-00170. Photo by Page Conservation.' ⚠️ Sent at 700x461, under the floor; the un-suffixed WordPress original is 2952x1944.",
-   "hue": 188.16,
-   "light": 0.4709,
-   "chroma": 0.141,
-   "punch": 0.0467,
+   "hue": 187.92,
+   "light": 0.3097,
+   "chroma": 0.2018,
+   "punch": 0.0583,
    "deleted": true,
    "deleted_on": "2026-09-07",
    "number_reused": true
@@ -147622,10 +148684,10 @@
      "v": "Constructivism"
     }
    ],
-   "hue": 315.61,
-   "light": 0.6991,
-   "chroma": 0.8203,
-   "punch": 0.4006,
+   "hue": 315.66,
+   "light": 0.6666,
+   "chroma": 0.8057,
+   "punch": 0.4772,
    "deleted": true,
    "deleted_on": "2026-09-07",
    "number_reused": true
@@ -147720,10 +148782,10 @@
    "minted": "2026-09-07",
    "original_file": "originals/CRVI002423.jpg",
    "original_px": [
-    1509,
-    2000
+    1417,
+    1902
    ],
-   "original_bytes": 991562,
+   "original_bytes": 1452194,
    "identity": "sent-2026-09-07k::a3b02c282d75",
    "source_url": "https://www.moma.org/media/W1siZiIsIjE2OTI2OSJdLFsicCIsImNvbnZlcnQiLCItcXVhbGl0eSA5MCAtcmVzaXplIDIwMDB4MjAwMFx1MDAzZSJdXQ.jpg?sha=c8cbcab6ab30be15",
    "maker": "Gustav Klutsis",
@@ -147772,10 +148834,28 @@
      "v": "Constructivism"
     }
    ],
-   "hue": 26.34,
-   "light": 0.5887,
-   "chroma": 0.8781,
-   "punch": 0.2233
+   "hue": 25.86,
+   "light": 0.5533,
+   "chroma": 0.8678,
+   "punch": 0.2392,
+   "crop": {
+    "box": [
+     55,
+     52,
+     1472,
+     1954
+    ],
+    "was": [
+     1509,
+     2000
+    ],
+    "now": [
+     1417,
+     1902
+    ],
+    "uncropped": "originals_uncropped/CRVI002423.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-07k::995b1a30d70d": {
    "id": "CRVI002424",
@@ -147988,10 +149068,10 @@
    "minted": "2026-09-07",
    "original_file": "originals/CRVI002427.jpg",
    "original_px": [
-    800,
+    753,
     1137
    ],
-   "original_bytes": 252333,
+   "original_bytes": 397099,
    "identity": "sent-2026-09-07k::5b71845e2677",
    "source_url": "https://artblart.com/wp-content/uploads/2015/04/postcard-web.jpg",
    "maker": "Gustav Klutsis",
@@ -148044,10 +149124,28 @@
      "v": "Constructivism"
     }
    ],
-   "hue": 141.32,
-   "light": 0.4095,
-   "chroma": 0.6731,
-   "punch": 0.192
+   "hue": 141.23,
+   "light": 0.3861,
+   "chroma": 0.6557,
+   "punch": 0.1906,
+   "crop": {
+    "box": [
+     24,
+     0,
+     777,
+     1137
+    ],
+    "was": [
+     800,
+     1137
+    ],
+    "now": [
+     753,
+     1137
+    ],
+    "uncropped": "originals_uncropped/CRVI002427.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-07l::82520322c51f": {
    "id": "CRVI002428",
@@ -149710,10 +150808,10 @@
    "minted": "2026-09-07",
    "original_file": "originals/CRVI002456.jpg",
    "original_px": [
-    2080,
-    2801
+    1971,
+    2569
    ],
-   "original_bytes": 1165622,
+   "original_bytes": 3046227,
    "identity": "sent-2026-09-07o::f14d94eedd68",
    "source_url": "https://image.invaluable.com/housePhotos/johnmoran/16/695416/H0045-L260256220_original.jpg",
    "maker": "Roberto Matta",
@@ -149752,10 +150850,28 @@
    "identity_established": true,
    "published": true,
    "verification": "⚠️ THE TITLE IS DESCRIPTIVE AND THE YEAR IS NOT ESTABLISHED. Invaluable house photos for John Moran Auctioneers, with no lot text attached. The sheet is plainly a PRINT rather than a painting — full deckled margins with a pencil signature at the lower left and an edition notation at the lower right — which is why it is typed as one.",
-   "hue": 37.25,
-   "light": 0.4156,
-   "chroma": 0.5395,
-   "punch": 0.1427
+   "hue": 175.88,
+   "light": 0.3671,
+   "chroma": 0.5159,
+   "punch": 0.1499,
+   "crop": {
+    "box": [
+     54,
+     62,
+     2025,
+     2631
+    ],
+    "was": [
+     2080,
+     2801
+    ],
+    "now": [
+     1971,
+     2569
+    ],
+    "uncropped": "originals_uncropped/CRVI002456.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-07o::513f445a636c": {
    "id": "CRVI002457",
@@ -152168,10 +153284,10 @@
    "minted": "2026-09-07",
    "original_file": "originals/CRVI002496.jpg",
    "original_px": [
-    2000,
+    1393,
     2000
    ],
-   "original_bytes": 963094,
+   "original_bytes": 1086337,
    "identity": "sent-2026-09-07r::4851bcb3158d",
    "source_url": "https://store.adachi-hanga.com/cdn/shop/files/awazu003.webp",
    "maker": "Kiyoshi Awazu",
@@ -152207,10 +153323,28 @@
    "identity_established": true,
    "published": true,
    "verification": "⚠️ NEITHER TITLE NOR YEAR IS ESTABLISHED. The file is from the Adachi Hanga shop — Adachi is a Tokyo woodblock publisher — but the product carrying this image does not appear in that store's `products.json`, so no title or edition reaches it. A red seal is printed at the upper left. The maker rests on Todd's grouping and on the hand.",
-   "hue": 5.19,
-   "light": 0.564,
-   "chroma": 0.4102,
-   "punch": 0.2257
+   "hue": 5.2,
+   "light": 0.3746,
+   "chroma": 0.5857,
+   "punch": 0.3239,
+   "crop": {
+    "box": [
+     300,
+     0,
+     1693,
+     2000
+    ],
+    "was": [
+     2000,
+     2000
+    ],
+    "now": [
+     1393,
+     2000
+    ],
+    "uncropped": "originals_uncropped/CRVI002496.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-07s::2cf96eb2343b": {
    "id": "CRVI002497",
@@ -152453,10 +153587,10 @@
    },
    "original_file": "originals/CRVI002364.jpg",
    "original_px": [
-    2000,
-    1995
+    1727,
+    1727
    ],
-   "original_bytes": 76057,
+   "original_bytes": 264835,
    "identity": "sent-2026-09-08a::adbab14add8f",
    "source_url": "https://a.1stdibscdn.com/bruno-munari-prints-works-on-paper-negative-positive-screen-print-by-bruno-munari-1991-for-sale/a_6503/a_110735321666446796649/T_134703_bruno_munari_negative_positive_2_master.jpeg",
    "maker": "Bruno Munari",
@@ -152496,10 +153630,28 @@
    "identity_established": true,
    "published": true,
    "verification": "1stDibs listing id-a_11073532 (Wallector, Roma — Platinum seller): 'Negative Positive', Bruno Munari, 1991, screen print, hand-signed and numbered in pencil on the lower margin, edition 61/100, 70 x 70 cm. The pencil signature and edition line are visible on the sheet in this photograph. ⚠️ Held at the HONEST master, 2000x1995: 1stdibs will hand back 8202 px of pure interpolation for `?width=9000`, so this was fetched with `disable=upscale`.",
-   "hue": 14.14,
-   "light": 0.7091,
-   "chroma": 0.719,
-   "punch": 0.4631
+   "hue": 14.34,
+   "light": 0.6624,
+   "chroma": 0.7507,
+   "punch": 0.5905,
+   "crop": {
+    "box": [
+     143,
+     126,
+     1870,
+     1853
+    ],
+    "was": [
+     2000,
+     1995
+    ],
+    "now": [
+     1727,
+     1727
+    ],
+    "uncropped": "originals_uncropped/CRVI002364.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-08a::9dbf8e7b36b4": {
    "id": "CRVI002409",
@@ -152513,10 +153665,10 @@
    },
    "original_file": "originals/CRVI002409.jpg",
    "original_px": [
-    1069,
-    1080
+    918,
+    918
    ],
-   "original_bytes": 517580,
+   "original_bytes": 202779,
    "identity": "sent-2026-09-08a::9dbf8e7b36b4",
    "source_url": "https://media.mutualart.com/Images/2024_04/18/00/005143321/bruno-munari-bruno-munari--negativo-posi-XUR4P.Jpeg",
    "maker": "Bruno Munari",
@@ -152555,10 +153707,28 @@
    "identity_established": true,
    "published": true,
    "verification": "MutualArt artwork record 757BA6A234F1B54D04D35B8A66128418, 'Negativo positivo (1991)', 27.56 in (70 cm) — the same 70 cm as Munari's 1991 screen-print edition. The identification is exact, not approximate: this file IS the record's own image (32x32 luma distance 0.0). ⚠️ TWO MUTUALART RECORDS CARRY THE SAME PHOTOGRAPH AND DISAGREE — 65B377152FEDAAC9D56D31E669EFE7D2 gives 'Negativo - Positivo. (1991)', silkscreen, 23.62 in (60 cm). The medium and the size are therefore NOT settled here; the maker, the title and the year are.",
-   "hue": 188.16,
-   "light": 0.4709,
-   "chroma": 0.141,
-   "punch": 0.0467
+   "hue": 187.92,
+   "light": 0.3097,
+   "chroma": 0.2018,
+   "punch": 0.0583,
+   "crop": {
+    "box": [
+     77,
+     70,
+     995,
+     988
+    ],
+    "was": [
+     1069,
+     1080
+    ],
+    "now": [
+     918,
+     918
+    ],
+    "uncropped": "originals_uncropped/CRVI002409.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-08a::66cabbdeef33": {
    "id": "CRVI002421",
@@ -152572,10 +153742,10 @@
    },
    "original_file": "originals/CRVI002421.jpg",
    "original_px": [
-    1994,
-    2000
+    1735,
+    1827
    ],
-   "original_bytes": 128843,
+   "original_bytes": 455538,
    "identity": "sent-2026-09-08a::66cabbdeef33",
    "source_url": "https://a.1stdibscdn.com/bruno-munari-prints-works-on-paper-peano-curves-original-screen-print-by-bruno-munari-1991-for-sale/a_6503/a_97163221645440669107/T_129430_bruno_munari_peano_curves_1_master.jpg",
    "maker": "Bruno Munari",
@@ -152615,10 +153785,28 @@
    "identity_established": true,
    "published": true,
    "verification": "1stDibs listing id-a_9716322 (Roma): 'Peano Curves', Bruno Munari, 1991, original serigraph, hand-signed and numbered in pencil on the lower margin, edition of 100, 70 x 70 cm. Munari worked the space-filling Peano curve for decades — the Andrew Kreps show captioned an oil of the same family 'Curve di Peano P64.1, 1974'. Held at 1994x2000 with `disable=upscale`.",
-   "hue": 315.61,
-   "light": 0.6991,
-   "chroma": 0.8203,
-   "punch": 0.4006
+   "hue": 315.66,
+   "light": 0.6666,
+   "chroma": 0.8057,
+   "punch": 0.4772,
+   "crop": {
+    "box": [
+     136,
+     132,
+     1871,
+     1959
+    ],
+    "was": [
+     1994,
+     2000
+    ],
+    "now": [
+     1735,
+     1827
+    ],
+    "uncropped": "originals_uncropped/CRVI002421.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-08a::d589d89e807b": {
    "id": "CRVI002490",
@@ -161131,10 +162319,10 @@
    "minted": "2026-09-08",
    "original_file": "originals/CRVI002628.jpg",
    "original_px": [
-    1165,
-    1650
+    1095,
+    1567
    ],
-   "original_bytes": 2169037,
+   "original_bytes": 1333565,
    "identity": "sent-2026-09-08f::c89698945305",
    "source_url": "https://www.theviennasecession.com/wp-content/uploads/2020/11/Der_Musikant_master.jpg",
    "maker": "Koloman Moser",
@@ -161181,20 +162369,38 @@
    "identity_established": true,
    "published": true,
    "verification": "THE SHEET ITSELF, which letters DER MUSIKANT / ZWEI AKTE VON JULIUS BITTNER over a field of instruments and foliage, with 'B. SCHOTT'S SÖHNE, MAINZ' and a 1909 copyright line along the foot. Published by theviennasecession.com as 'Der Musikant — Koloman Moser'. The opera is Julius Bittner's, in two acts; Moser designed the cover.",
-   "hue": 35.01,
-   "light": 0.5234,
-   "chroma": 0.2865,
-   "punch": 0.0961
+   "hue": 35.0,
+   "light": 0.4664,
+   "chroma": 0.3158,
+   "punch": 0.1071,
+   "crop": {
+    "box": [
+     35,
+     45,
+     1130,
+     1612
+    ],
+    "was": [
+     1165,
+     1650
+    ],
+    "now": [
+     1095,
+     1567
+    ],
+    "uncropped": "originals_uncropped/CRVI002628.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-08f::70e4caf89aa4": {
    "id": "CRVI002629",
    "minted": "2026-09-08",
    "original_file": "originals/CRVI002629.jpg",
    "original_px": [
-    1752,
-    3400
+    1637,
+    3250
    ],
-   "original_bytes": 2727251,
+   "original_bytes": 3311734,
    "identity": "sent-2026-09-08f::70e4caf89aa4",
    "source_url": "https://openaccess-cdn.clevelandart.org/1920.1316/1920.1316_print.jpg",
    "maker": "Alfred Roller",
@@ -161233,10 +162439,28 @@
    "identity_established": true,
    "published": true,
    "verification": "The Cleveland Museum of Art, accession 1920.1316: 'Bookplate: Anna Anderle', Alfred Roller (German, 1864-1935), gift of Arthur D. Brooks, overall 8.2 x 4 cm, CC0. The sheet letters EX·LIBRIS ANNA ANDERLE below a yellow-ground view of a gabled house among cypresses. ⚠️ THE MUSEUM RECORDS NO DATE. ⚠️ It also calls Roller German; he was Austrian, born in Brno.",
-   "hue": 39.33,
-   "light": 0.6301,
-   "chroma": 0.6107,
-   "punch": 0.167
+   "hue": 39.21,
+   "light": 0.6213,
+   "chroma": 0.6415,
+   "punch": 0.1798,
+   "crop": {
+    "box": [
+     60,
+     55,
+     1697,
+     3305
+    ],
+    "was": [
+     1752,
+     3400
+    ],
+    "now": [
+     1637,
+     3250
+    ],
+    "uncropped": "originals_uncropped/CRVI002629.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-08f::1eac528bd664": {
    "id": "CRVI002630",
@@ -162023,10 +163247,10 @@
    "minted": "2026-09-08",
    "original_file": "originals/CRVI002642.jpg",
    "original_px": [
-    1244,
-    1360
+    1136,
+    1242
    ],
-   "original_bytes": 1327504,
+   "original_bytes": 713782,
    "identity": "sent-2026-09-08f::1968cfc9b5da",
    "source_url": "https://media.mutualart.com/Images/2025_05/02/17/173047128/06e96e94-79c7-46b1-ab0b-2a7a0d263dac.Jpeg",
    "maker": "Maximilian Kurzweil",
@@ -162074,10 +163298,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Google Lens resolves this bare MutualArt file to Maximilian Kurzweil's 'Der Polster' (The Cushion), 1903, a colour woodcut on Japanese paper, of which the Metropolitan Museum of Art and MoMA both hold impressions; the sitter is generally identified as the artist's wife Martha. A woman in a blue-grey dress leans over the arm of a divan against yellow-and-green patterned upholstery. Kurzweil was a founding member of the Vienna Secession. ⚠️ WHICH AUCTION LOT THIS IMPRESSION IS was not established — the file is a bare hash.",
-   "hue": 24.98,
-   "light": 0.4666,
-   "chroma": 0.2856,
-   "punch": 0.1114
+   "hue": 25.16,
+   "light": 0.4295,
+   "chroma": 0.3432,
+   "punch": 0.1287,
+   "crop": {
+    "box": [
+     60,
+     54,
+     1196,
+     1296
+    ],
+    "was": [
+     1244,
+     1360
+    ],
+    "now": [
+     1136,
+     1242
+    ],
+    "uncropped": "originals_uncropped/CRVI002642.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-08f::bebe76268da2": {
    "id": "CRVI002643",
@@ -162149,10 +163391,10 @@
    "minted": "2026-09-08",
    "original_file": "originals/CRVI002644.jpg",
    "original_px": [
-    1786,
-    1874
+    1726,
+    1810
    ],
-   "original_bytes": 2077497,
+   "original_bytes": 2191948,
    "identity": "sent-2026-09-08f::35cdd00a463c",
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Leopold_Stolba_Ver_Sacrum_1903_S_281.jpg",
    "maker": "Leopold Stolba",
@@ -162204,19 +163446,37 @@
    "published": true,
    "verification": "Wikimedia Commons: 'Holzschnitt von Leopold Stolba, aus: \"Ver Sacrum. Mitteilungen der Vereinigung Bildender Künstler Österreichs\", 1903, Jahrgang VI, Heft 16, Heftformat 26 x 24,5 cm', public domain, credited to Dorotheum. A woman's head in profile under a spiral-crowned hat, cut in coarse black on grey. The plate's own caption reads 'Original-Holzschnitt v. Leop. Stolba OM.' with the folio 281. ⚠️ CROPPED AT TODD'S INSTRUCTION: caption and folio removed, the woodcut kept.",
    "hue": null,
-   "light": 0.4598,
-   "chroma": 0.0732,
-   "punch": 0.0482
+   "light": 0.4279,
+   "chroma": 0.0009,
+   "punch": 0.0453,
+   "crop": {
+    "box": [
+     30,
+     33,
+     1756,
+     1843
+    ],
+    "was": [
+     1786,
+     1874
+    ],
+    "now": [
+     1726,
+     1810
+    ],
+    "uncropped": "originals_uncropped/CRVI002644.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-08f::72f021611637": {
    "id": "CRVI002645",
    "minted": "2026-09-08",
    "original_file": "originals/CRVI002645.jpg",
    "original_px": [
-    1824,
-    1898
+    1685,
+    1783
    ],
-   "original_bytes": 1738366,
+   "original_bytes": 1778886,
    "identity": "sent-2026-09-08f::72f021611637",
    "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Leopold_Stolba_Ver_Sacrum_1903_S_279.jpg",
    "maker": "Leopold Stolba",
@@ -162268,10 +163528,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Wikimedia Commons: 'Holzschnitt von Leopold Stolba, aus: \"Ver Sacrum. Mitteilungen der Vereinigung Bildender Künstler Österreichs\", 1903, Jahrgang VI, Heft 16, Heftformat 26 x 24,5 cm', public domain, credited to Dorotheum. White lilies with yellow stamens over a yellow band on grey. The plate's own caption reads 'Original-Holzschnitt v. Leop. Stolba OM.' with the folio 279. ⚠️ CROPPED AT TODD'S INSTRUCTION: caption and folio removed.",
-   "hue": 37.74,
-   "light": 0.6674,
-   "chroma": 0.3396,
-   "punch": 0.0955
+   "hue": 38.45,
+   "light": 0.6598,
+   "chroma": 0.3109,
+   "punch": 0.0993,
+   "crop": {
+    "box": [
+     85,
+     64,
+     1770,
+     1847
+    ],
+    "was": [
+     1824,
+     1898
+    ],
+    "now": [
+     1685,
+     1783
+    ],
+    "uncropped": "originals_uncropped/CRVI002645.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-08f::cc1dbe5ab582": {
    "id": "CRVI002646",
@@ -167343,10 +168621,10 @@
    "minted": "2026-09-08",
    "original_file": "originals/CRVI002726.png",
    "original_px": [
-    3023,
-    1588
+    2731,
+    1436
    ],
-   "original_bytes": 1627295,
+   "original_bytes": 1584189,
    "identity": "sent-2026-09-08i::4753b7ea50af",
    "source_url": "https://ambientesdigital.com/wp-content/uploads/2018/04/ph-lamp-poul-henningsen-louis-poulsen-03.png",
    "maker": "Poul Henningsen",
@@ -167394,9 +168672,27 @@
    "published": true,
    "verification": "Two PH 5 pendants in lilac, hung at different heights against a pale wall — POUL HENNINGSEN's 1958 design for LOUIS POULSEN, as named in the hosting filename `ph-lamp-poul-henningsen-louis-poulsen-03`. ⚠️ THE PHOTOGRAPH IS NOT CREDITED and the host is a design blog, so the record rests on the model being unmistakable rather than on a catalogue entry.",
    "hue": null,
-   "light": 0.6515,
-   "chroma": 0.0602,
-   "punch": 0.0337
+   "light": 0.574,
+   "chroma": 0.0737,
+   "punch": 0.0414,
+   "crop": {
+    "box": [
+     146,
+     76,
+     2877,
+     1512
+    ],
+    "was": [
+     3023,
+     1588
+    ],
+    "now": [
+     2731,
+     1436
+    ],
+    "uncropped": "originals_uncropped/CRVI002726.png",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-08i::0826262f53a1": {
    "id": "CRVI002727",
@@ -169902,10 +171198,10 @@
    "minted": "2026-09-08",
    "original_file": "originals/CRVI002772.jpg",
    "original_px": [
-    2099,
-    3000
+    1333,
+    2127
    ],
-   "original_bytes": 2829356,
+   "original_bytes": 1270701,
    "identity": "sent-2026-09-08j::0c66bdc55b3b",
    "source_url": "https://media.mutualart.com/Images/2025_06/19/12/97806450/gerd-arntz-bank-VPKYH.Jpeg",
    "maker": "Gerd Arntz",
@@ -169945,10 +171241,28 @@
    "identity_established": true,
    "published": true,
    "verification": "The hosting MutualArt file is named `gerd-arntz-bank`, and the print is unmistakably his: a flat-planed interior in black, red, blue and cream, clerks behind a counter above and a queue of stylised figures below, a single figure in a dark coat at the foot. Arntz's linocuts of institutional life run parallel to his Isotype work. ⚠️ NO YEAR IS ESTABLISHED and the file is a bare MutualArt hash.",
-   "hue": 37.8,
-   "light": 0.7419,
-   "chroma": 0.7213,
-   "punch": 0.085
+   "hue": 37.01,
+   "light": 0.5456,
+   "chroma": 0.4042,
+   "punch": 0.0946,
+   "crop": {
+    "box": [
+     395,
+     472,
+     1728,
+     2599
+    ],
+    "was": [
+     2099,
+     3000
+    ],
+    "now": [
+     1333,
+     2127
+    ],
+    "uncropped": "originals_uncropped/CRVI002772.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-08j::245410996323": {
    "id": "CRVI002773",
@@ -170003,10 +171317,10 @@
    "minted": "2026-09-08",
    "original_file": "originals/CRVI002774.jpg",
    "original_px": [
-    3000,
-    2785
+    1301,
+    1918
    ],
-   "original_bytes": 685143,
+   "original_bytes": 1210293,
    "identity": "sent-2026-09-08j::225ef128734c",
    "source_url": "https://i.etsystatic.com/23609182/r/il/094fac/6645633193/il_fullxfull.6645633193_pzge.jpg",
    "maker": "Unattributed",
@@ -170043,9 +171357,27 @@
    "published": true,
    "verification": "⚠️ NEITHER THE MAKER NOR THE SUBJECT IS FULLY ESTABLISHED. A framed black plate on which fine white lines spiral out of two labelled poles, A and B, with further letters at the margins — the diagram of a magnetic or electrostatic field. The file is an Etsy listing image with no caption. ℹ️ Etsy's `il_1080xN` was climbed to `il_fullxfull`, 1080 -> 3000.",
    "hue": null,
-   "light": 0.7334,
-   "chroma": 0.0578,
-   "punch": 0.0136
+   "light": 0.2407,
+   "chroma": 0.0,
+   "punch": 0.0,
+   "crop": {
+    "box": [
+     866,
+     419,
+     2167,
+     2337
+    ],
+    "was": [
+     3000,
+     2785
+    ],
+    "now": [
+     1301,
+     1918
+    ],
+    "uncropped": "originals_uncropped/CRVI002774.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-08j::84ea630dc534": {
    "id": "CRVI002775",
@@ -174065,10 +175397,10 @@
    "minted": "2026-09-09",
    "original_file": "originals/CRVI002842.jpg",
    "original_px": [
-    3024,
-    3024
+    2260,
+    2143
    ],
-   "original_bytes": 1688626,
+   "original_bytes": 2150747,
    "identity": "sent-2026-09-09c::0dd5303ee018",
    "source_url": "https://www.theprintarkive.co.uk/cdn/shop/files/3145-Theo-Crosby-Pentagram-Design-3.jpg",
    "maker": "Colin Forbes",
@@ -174112,20 +175444,38 @@
    "identity_established": true,
    "published": true,
    "verification": "THE PAGE'S OWN TYPEWRITER CAPTION, printed beneath the photograph: 'Colin Forbes - Designer / 26cm x 24cm. Painted fencing mask'. A fencing mask, its mesh painted as a face with one eye and a mouth, photographed on a spiral-bound page. From the book made for THEO CROSBY's 60th birthday by his Pentagram partners. ⚠️ FORBES MADE THE OBJECT, NOT THE PAGE — the book's designer is not established, and no year is printed.",
-   "hue": 32.69,
-   "light": 0.5681,
-   "chroma": 0.5864,
-   "punch": 0.1149
+   "hue": 34.01,
+   "light": 0.7299,
+   "chroma": 0.3794,
+   "punch": 0.0731,
+   "crop": {
+    "box": [
+     398,
+     500,
+     2658,
+     2643
+    ],
+    "was": [
+     3024,
+     3024
+    ],
+    "now": [
+     2260,
+     2143
+    ],
+    "uncropped": "originals_uncropped/CRVI002842.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-09c::3e727aed198c": {
    "id": "CRVI002843",
    "minted": "2026-09-09",
    "original_file": "originals/CRVI002843.jpg",
    "original_px": [
-    3024,
-    3024
+    2293,
+    2161
    ],
-   "original_bytes": 1515460,
+   "original_bytes": 2026889,
    "identity": "sent-2026-09-09c::3e727aed198c",
    "source_url": "https://www.theprintarkive.co.uk/cdn/shop/products/1652-Theo-Crosby-60-Birthday-Pentagram-Design-2.jpg",
    "maker": "Pieter Brattinga",
@@ -174172,20 +175522,38 @@
    "identity_established": true,
    "published": true,
    "verification": "THE PAGE'S OWN TYPEWRITER CAPTION: 'Pieter Brattinga - Designer / 31cm x 18cm. Metal'. A tapering metal cone with a cylindrical collar and slots cut through it to read as eyes and a mouth, photographed on a spiral-bound page from the THEO CROSBY 60th-birthday book. ⚠️ BRATTINGA MADE THE OBJECT, NOT THE PAGE; no year is printed. ℹ️ Brattinga is the Dutch designer of the Steendrukkerij de Jong Kwadraatbladen.",
-   "hue": 35.96,
-   "light": 0.5819,
-   "chroma": 0.5482,
-   "punch": 0.1125
+   "hue": 36.26,
+   "light": 0.6725,
+   "chroma": 0.8135,
+   "punch": 0.1277,
+   "crop": {
+    "box": [
+     353,
+     527,
+     2646,
+     2688
+    ],
+    "was": [
+     3024,
+     3024
+    ],
+    "now": [
+     2293,
+     2161
+    ],
+    "uncropped": "originals_uncropped/CRVI002843.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-09c::af1029d65209": {
    "id": "CRVI002844",
    "minted": "2026-09-09",
    "original_file": "originals/CRVI002844.jpg",
    "original_px": [
-    3024,
-    3024
+    2203,
+    2019
    ],
-   "original_bytes": 1414535,
+   "original_bytes": 1927622,
    "identity": "sent-2026-09-09c::af1029d65209",
    "source_url": "https://www.theprintarkive.co.uk/cdn/shop/products/0950-Theo-Crosby-60-3.jpg",
    "maker": "Michael Black",
@@ -174228,10 +175596,28 @@
    "identity_established": true,
    "published": true,
    "verification": "THE PAGE'S OWN TYPEWRITER CAPTION: 'Micheal Black - Sculptor / 30cm x 25cm. Cast bronze' — ℹ️ 'Micheal' is the book's spelling, kept here as printed, though the sculptor is Michael Black. A bearded bronze head with staring inlaid eyes, photographed on a spiral-bound page from the THEO CROSBY 60th-birthday book. ⚠️ BLACK MADE THE OBJECT, NOT THE PAGE; no year is printed.",
-   "hue": 22.69,
-   "light": 0.5501,
-   "chroma": 0.4602,
-   "punch": 0.3025
+   "hue": 35.34,
+   "light": 0.6154,
+   "chroma": 0.1504,
+   "punch": 0.0689,
+   "crop": {
+    "box": [
+     406,
+     587,
+     2609,
+     2606
+    ],
+    "was": [
+     3024,
+     3024
+    ],
+    "now": [
+     2203,
+     2019
+    ],
+    "uncropped": "originals_uncropped/CRVI002844.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-09c::49ede9908bed": {
    "id": "CRVI002845",
@@ -179339,10 +180725,10 @@
    "minted": "2026-09-10",
    "original_file": "originals/CRVI002924.jpg",
    "original_px": [
-    2774,
-    2774
+    2644,
+    2228
    ],
-   "original_bytes": 432618,
+   "original_bytes": 1358907,
    "identity": "sent-2026-09-09d::ff28d12f2acb",
    "source_url": "https://a.1stdibscdn.com/corita-kent-original-serigraph-vietnam-war-protest-wouldnt-you-go-to-jail-for-sale/f_18753/f_289269621654123631103/f_28926962_1654123632359_bg_processed.jpg?width=8000&disable=upscale",
    "maker": "Corita Kent",
@@ -179386,10 +180772,28 @@
    "identity_established": true,
    "published": true,
    "verification": "1stdibs' listing slug: 'corita-kent-original-serigraph-vietnam-war-protest-wouldnt-you-go-to-jail'. Black brushstrokes cross a blue and ochre field with the title written beneath in her hand. ⚠️ CROPPED AT TODD'S INSTRUCTION. ⚠️ NO YEAR ESTABLISHED. ℹ️ Fetched with `?width=8000&disable=upscale` — 1stdibs upscales without bound.",
-   "hue": 215.49,
-   "light": 0.5105,
-   "chroma": 0.6174,
-   "punch": 0.3443
+   "hue": 215.54,
+   "light": 0.3606,
+   "chroma": 0.803,
+   "punch": 0.4498,
+   "crop": {
+    "box": [
+     65,
+     273,
+     2709,
+     2501
+    ],
+    "was": [
+     2774,
+     2774
+    ],
+    "now": [
+     2644,
+     2228
+    ],
+    "uncropped": "originals_uncropped/CRVI002924.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-09d::eaf650497d68": {
    "id": "CRVI002925",
@@ -179457,10 +180861,10 @@
    "minted": "2026-09-10",
    "original_file": "originals/CRVI002926.jpg",
    "original_px": [
-    800,
-    599
+    771,
+    579
    ],
-   "original_bytes": 60220,
+   "original_bytes": 202864,
    "identity": "sent-2026-09-09d::41ed5c3e1f03",
    "source_url": "https://collections.sandiego.edu/internal/media/dispatcher/7771/full",
    "maker": "Corita Kent",
@@ -179500,20 +180904,38 @@
    "identity_established": true,
    "published": true,
    "verification": "Held by the University of San Diego's digital collections, which hold Corita Kent material. Orange and blue forms with ONE and NA— broken across them, her handwriting filling the gaps. ⚠️ NO YEAR ESTABLISHED.",
-   "hue": 14.94,
-   "light": 0.4834,
-   "chroma": 0.883,
-   "punch": 0.5648
+   "hue": 14.72,
+   "light": 0.4635,
+   "chroma": 0.9149,
+   "punch": 0.6003,
+   "crop": {
+    "box": [
+     15,
+     5,
+     786,
+     584
+    ],
+    "was": [
+     800,
+     599
+    ],
+    "now": [
+     771,
+     579
+    ],
+    "uncropped": "originals_uncropped/CRVI002926.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-09d::096da1582471": {
    "id": "CRVI002927",
    "minted": "2026-09-10",
    "original_file": "originals/CRVI002927.jpg",
    "original_px": [
-    1324,
-    1574
+    971,
+    1267
    ],
-   "original_bytes": 121439,
+   "original_bytes": 366143,
    "identity": "sent-2026-09-09d::096da1582471",
    "source_url": "https://a.1stdibscdn.com/sister-corita-kent-if-a-man-quote-signed-serigraph-for-sale/f_27153/1639596791726/039_01_master.jpg?width=8000&disable=upscale",
    "maker": "Corita Kent",
@@ -179549,10 +180971,28 @@
    "identity_established": true,
    "published": true,
    "verification": "1stdibs' listing slug: 'sister-corita-kent-if-a-man-quote-signed-serigraph'. Green and blue bands with the Thoreau passage lettered along a white diagonal. ⚠️ NO YEAR ESTABLISHED. ℹ️ 'Sister' — she was a Sister of the Immaculate Heart of Mary until 1968.",
-   "hue": 196.21,
-   "light": 0.6679,
-   "chroma": 0.6168,
-   "punch": 0.4187
+   "hue": 196.26,
+   "light": 0.4456,
+   "chroma": 0.9991,
+   "punch": 0.7054,
+   "crop": {
+    "box": [
+     172,
+     153,
+     1143,
+     1420
+    ],
+    "was": [
+     1324,
+     1574
+    ],
+    "now": [
+     971,
+     1267
+    ],
+    "uncropped": "originals_uncropped/CRVI002927.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "sent-2026-09-09d::8bbce906ede7": {
    "id": "CRVI002928",
@@ -189289,10 +190729,10 @@
    "minted": "2026-09-11",
    "original_file": "originals/CRVI003091.jpg",
    "original_px": [
-    1000,
-    1414
+    843,
+    1188
    ],
-   "original_bytes": 179645,
+   "original_bytes": 450712,
    "identity": "contact-sheets-2026-09-11::grindler-artofit-1",
    "source_url": "https://i.pinimg.com/originals/3c/d3/50/3cd35032b6a24af034929e3a749ee72c.jpg",
    "source_page": "https://www.artofit.org/image-gallery/35254809571753236/the-surreal-posters-of-frieder-grindler/",
@@ -189328,10 +190768,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Reproduced by Artofit in a gallery titled 'The surreal posters of Frieder Grindler', itself lifted from CVLT Nation's feature. ⚠️ THE HOST IS A SCRAPER AGGREGATOR with no provenance of its own - the identification rests on what is legible in the picture and on the caption, not on the site. The title and year are not known. Roster came off the publisher's listing in the Book Checklist; the picture was found by per-name image harvest and verified at 800px+ before it reached the contact sheet.",
-   "hue": 214.42,
-   "light": 0.2274,
-   "chroma": 0.5896,
-   "punch": 0.2385
+   "hue": 214.28,
+   "light": 0.3204,
+   "chroma": 0.8197,
+   "punch": 0.337,
+   "crop": {
+    "box": [
+     80,
+     117,
+     923,
+     1305
+    ],
+    "was": [
+     1000,
+     1414
+    ],
+    "now": [
+     843,
+     1188
+    ],
+    "uncropped": "originals_uncropped/CRVI003091.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "contact-sheets-2026-09-11::grindler-artofit-2": {
    "id": "CRVI003092",
@@ -190624,10 +192082,10 @@
    "minted": "2026-09-11",
    "original_file": "originals/CRVI003117.jpg",
    "original_px": [
-    980,
-    1463
+    882,
+    1215
    ],
-   "original_bytes": 382223,
+   "original_bytes": 411649,
    "identity": "contact-sheets-2026-09-11::brade-denkzettel",
    "source_url": "https://asset.museum-digital.org/san/images/201101/20083200321.jpg",
    "source_page": "https://st.museum-digital.de/object/5999?navlang=de",
@@ -190663,10 +192121,28 @@
    "identity_established": true,
    "published": true,
    "verification": "museum-digital Sachsen-Anhalt, object 5999: Helmut Brade, 'Denkzettel', a poster to a text by Wilhelm Bartsch. A museum record is the strongest source in this batch. ⚠️ The year is not carried in the object title. Roster came off the publisher's listing in the Book Checklist; the picture was found by per-name image harvest and verified at 800px+ before it reached the contact sheet.",
-   "hue": 3.78,
-   "light": 0.5877,
-   "chroma": 0.1725,
-   "punch": 0.0482
+   "hue": 3.32,
+   "light": 0.5071,
+   "chroma": 0.1089,
+   "punch": 0.0502,
+   "crop": {
+    "box": [
+     53,
+     127,
+     935,
+     1342
+    ],
+    "was": [
+     980,
+     1463
+    ],
+    "now": [
+     882,
+     1215
+    ],
+    "uncropped": "originals_uncropped/CRVI003117.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "contact-sheets-2026-09-11::matthies-fuer-theater-schwaermt": {
    "id": "CRVI003118",
@@ -191698,10 +193174,10 @@
    "minted": "2026-09-11",
    "original_file": "originals/CRVI003138.jpg",
    "original_px": [
-    1811,
-    2318
+    1577,
+    2138
    ],
-   "original_bytes": 1050915,
+   "original_bytes": 2171615,
    "identity": "contact-sheets-2026-09-11::marcus-letraset-typography-poster",
    "source_url": "https://i.pinimg.com/originals/f6/e7/b4/f6e7b4098f29468169806d1b946fbb40.jpg",
    "source_page": "https://www.pinterest.com/pin/aaron-marcus-and-letraset-typography-poster--44824958784041531/",
@@ -191737,10 +193213,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Captioned 'Aaron Marcus and Letraset Typography Poster'. ⚠️ PINTEREST IS THE ONLY SOURCE and carries no provenance; the caption is the whole of the claim. Title and year not known. Roster came off the publisher's listing in the Book Checklist; the picture was found by per-name image harvest and verified at 800px+ before it reached the contact sheet.",
-   "hue": 24.75,
-   "light": 0.7319,
-   "chroma": 0.1865,
-   "punch": 0.0568
+   "hue": null,
+   "light": 0.746,
+   "chroma": 0.0641,
+   "punch": 0.0264,
+   "crop": {
+    "box": [
+     161,
+     115,
+     1738,
+     2253
+    ],
+    "was": [
+     1811,
+     2318
+    ],
+    "now": [
+     1577,
+     2138
+    ],
+    "uncropped": "originals_uncropped/CRVI003138.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "contact-sheets-2026-09-11::marcus-hieroglyphs-1978": {
    "id": "CRVI003139",
@@ -191901,10 +193395,10 @@
    "minted": "2026-09-11",
    "original_file": "originals/CRVI003142.jpg",
    "original_px": [
-    902,
-    1200
+    856,
+    1158
    ],
-   "original_bytes": 346281,
+   "original_bytes": 390522,
    "identity": "contact-sheets-2026-09-11::rodchenko-the-firemans-1929",
    "source_url": "https://uploads1.wikiart.org/images/alexander-rodchenko/the-fire-s-man-1929.jpg",
    "source_page": "https://www.wikiart.org/en/aleksandr-rodchenko",
@@ -191944,10 +193438,28 @@
    "identity_established": true,
    "published": true,
    "verification": "WikiArt files this as 'The Fire's Man', 1929 - an artefact of its slug; the work is Rodchenko's 1929 image. ⚠️ THE ENGLISH TITLE IS WIKIART'S and may not be the canonical one. Roster came off the publisher's listing in the Book Checklist; the picture was found by per-name image harvest and verified at 800px+ before it reached the contact sheet.",
-   "hue": 5.25,
-   "light": 0.5093,
-   "chroma": 0.9286,
-   "punch": 0.7403
+   "hue": 5.26,
+   "light": 0.4708,
+   "chroma": 0.9663,
+   "punch": 0.8016,
+   "crop": {
+    "box": [
+     24,
+     22,
+     880,
+     1180
+    ],
+    "was": [
+     902,
+     1200
+    ],
+    "now": [
+     856,
+     1158
+    ],
+    "uncropped": "originals_uncropped/CRVI003142.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "contact-sheets-2026-09-11::rodchenko-death-ray-artchive": {
    "id": "CRVI003143",
@@ -192991,10 +194503,10 @@
    "minted": "2026-09-11",
    "original_file": "originals/CRVI003162.jpeg",
    "original_px": [
-    1500,
+    1087,
     1500
    ],
-   "original_bytes": 1201242,
+   "original_bytes": 989240,
    "identity": "contact-sheets-2026-09-11::bayrle-portrait-c1975",
    "source_url": "https://media.mutualart.com/Images/2023_10/31/20/200348156/thomas-bayrle-bayrle--thomas--geb-1937---S9DXH.Jpeg?w=768",
    "source_page": "https://www.mutualart.com/Artwork/Portrait/E0CD5103766114CB1E3EC8EDFAF4541D",
@@ -193034,10 +194546,28 @@
    "identity_established": true,
    "published": true,
    "verification": "MutualArt lot record, 'Thomas Bayrle | Portrait (Circa 1975)'. Roster came off the publisher's listing in the Book Checklist; the picture was found by per-name image harvest and verified at 800px+ before it reached the contact sheet.",
-   "hue": 44.51,
-   "light": 0.6669,
-   "chroma": 0.5956,
-   "punch": 0.3451
+   "hue": 44.58,
+   "light": 0.5407,
+   "chroma": 0.8178,
+   "punch": 0.4759,
+   "crop": {
+    "box": [
+     208,
+     0,
+     1295,
+     1500
+    ],
+    "was": [
+     1500,
+     1500
+    ],
+    "now": [
+     1087,
+     1500
+    ],
+    "uncropped": "originals_uncropped/CRVI003162.jpeg",
+    "decided": "by Todd, by hand"
+   }
   },
   "contact-sheets-2026-09-11::bayrle-artsupp-agnelli": {
    "id": "CRVI003163",
@@ -194692,10 +196222,10 @@
    "minted": "2026-09-11",
    "original_file": "originals/CRVI003193.jpg",
    "original_px": [
-    3000,
-    2999
+    2900,
+    1910
    ],
-   "original_bytes": 527552,
+   "original_bytes": 1491017,
    "identity": "contact-sheets-2026-09-11::corita-kent-people-like-us-yes",
    "source_url": "https://i.pinimg.com/originals/bb/f6/70/bbf67042ee416fe61a475590bbbba8d5.jpg",
    "source_page": "https://www.pinterest.com/pin/people-like-us-yes-corita-kent-poster--7740630605310562/",
@@ -194730,10 +196260,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Captioned 'People Like Us Yes - Corita Kent Poster'. ⚠️ PINTEREST IS THE ONLY SOURCE and carries no provenance; the caption is the whole of the claim. The year is not stated. Roster came off the publisher's listing in the Book Checklist; the picture was found by per-name image harvest and verified at 800px+ before it reached the contact sheet.",
-   "hue": 35.21,
-   "light": 0.7685,
-   "chroma": 0.5398,
-   "punch": 0.2742
+   "hue": 35.22,
+   "light": 0.6532,
+   "chroma": 0.871,
+   "punch": 0.4451,
+   "crop": {
+    "box": [
+     50,
+     545,
+     2950,
+     2455
+    ],
+    "was": [
+     3000,
+     2999
+    ],
+    "now": [
+     2900,
+     1910
+    ],
+    "uncropped": "originals_uncropped/CRVI003193.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "contact-sheets-2026-09-11::dora-maar-main-coquillage-1934": {
    "id": "CRVI003194",
@@ -195952,10 +197500,10 @@
    "minted": "2026-09-11",
    "original_file": "originals/CRVI003216.jpg",
    "original_px": [
-    1600,
-    1600
+    936,
+    1440
    ],
-   "original_bytes": 194515,
+   "original_bytes": 440456,
    "identity": "contact-sheets-2026-09-11::burtin-the-brain",
    "source_url": "https://chairish-prod.freetls.fastly.net/image/product/sized/7b3fc0f6-a305-4006-ab37-f1b9b650a179/1994-original-pharmaceutical-poster-the-brain-the-100-best-posters-collection-will-burtin-1354?aspect=fit&height=1600&width=1600",
    "source_page": "https://www.chairish.com/product/24533999/1994-original-pharmaceutical-poster-the-brain-the-100-best-posters-collection-will-burtin",
@@ -195991,10 +197539,28 @@
    "identity_established": true,
    "published": true,
    "verification": "Chairish, '1994 Original Pharmaceutical Poster, The Brain (The 100 Best Posters)'. Burtin built the famous Brain exhibit for Upjohn. ⚠️ 1994 IS THE DATE OF THE REPRINT PORTFOLIO, not of Burtin's original design, and Burtin died in 1972. Roster came off the publisher's listing in the Book Checklist; the picture was found by per-name image harvest and verified at 800px+ before it reached the contact sheet.",
-   "hue": 14.51,
-   "light": 0.6986,
-   "chroma": 0.5097,
-   "punch": 0.248
+   "hue": 14.45,
+   "light": 0.4281,
+   "chroma": 0.937,
+   "punch": 0.4715,
+   "crop": {
+    "box": [
+     331,
+     80,
+     1267,
+     1520
+    ],
+    "was": [
+     1600,
+     1600
+    ],
+    "now": [
+     936,
+     1440
+    ],
+    "uncropped": "originals_uncropped/CRVI003216.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "contact-sheets-2026-09-11::burtin-scope-agi": {
    "id": "CRVI003217",
