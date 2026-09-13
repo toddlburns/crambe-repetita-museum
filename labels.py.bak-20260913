@@ -75,26 +75,3 @@ if __name__ == "__main__":
               "Vertigo 6360 025", "Impulse! AS-9138", "Not On Label", "Riverside RLP 12-241",
               "Coloursound Library", "Planet Mu / Virgin"]:
         print(f"  {t:24s} -> {canon(t)}")
-
-
-# ⚠️ DISCOGS DISAMBIGUATES PEOPLE WITH A TRAILING "(n)" AND IT IS NOT PART OF THE NAME.
-# Discogs cannot hold two artists called Keith Morris, so its second, eighth, twelfth get
-# "Keith Morris (2)", "(8)", "(12)". Scraping a credit verbatim carries that database
-# artifact into the archive as if it were how the person is called, and it then mints its
-# OWN tag page — so one photographer's work splits across two facets that never join.
-# Found 2026-09-13 on 14 values (designer, musician, photographer) from the 2026-09-09
-# Discogs batch, after Todd noticed /tag/designer/graham-hughes-2/. On CRVI002909 the same
-# sleeve carried BOTH "Graham Hughes" (photographer) and "Graham Hughes (2)" (designer).
-#
-# ⚠️ STRIPPING IT MERGES, SO CHECK BEFORE APPLYING IN BULK. The suffix exists precisely
-# because more than one person has the name; two different people can legitimately reduce
-# to the same string. Verify the bare name in the archive is the same human first — that is
-# a judgement, not a regex. This helper only does the arithmetic.
-_DISCOGS_DISAMBIGUATOR = re.compile(r"\s*\((\d+)\)\s*$")
-
-
-def strip_discogs_disambiguator(name):
-    """'Keith Morris (8)' -> 'Keith Morris'. Leaves everything else untouched."""
-    if not isinstance(name, str):
-        return name
-    return _DISCOGS_DISAMBIGUATOR.sub("", name).strip() or name
