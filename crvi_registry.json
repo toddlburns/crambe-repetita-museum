@@ -199106,13 +199106,13 @@
    "original_bytes": 1099365,
    "identity": "contact-sheets-2026-09-11::rune-grammofon-itunes-sleeve",
    "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f0/0c/cd/f00ccd2a-12ac-625c-61bc-cd722534114f/7033662022069.jpg/3000x3000bb.jpg",
-   "source_page": "",
-   "maker": "Unknown",
-   "title": "Untitled",
-   "subtitle": "",
-   "year": "",
-   "label": "",
-   "verified_against": "⚠️ THIS PICK CARRIES NO METADATA AT ALL. Its file is an iTunes artwork URL ('3000x3000bb.jpg') and it did not join to any harvest row, so the sheet it came from, the release and the designer are all unknown. The 3000x3000bb form and the Rune Grammofon pick file point to that label's sleeve art, but nothing here establishes which release.",
+   "source_page": "https://runegrammofon.com/collections/elephant9/products/rcd2206-elephant9-psychedelic-backfire-i-cd-2lp",
+   "maker": "Kim Hiorthøy",
+   "title": "Psychedelic Backfire I",
+   "subtitle": "Elephant9 — album cover, Rune Grammofon RCD2206",
+   "year": "2019",
+   "label": "Rune Grammofon",
+   "verified_against": "Identified by Todd, 2026-09-12. Rune Grammofon's own product page confirms the release: Elephant9, 'Psychedelic Backfire I', catalogue RCD2206, released 31.05.2019. The barcode is carried inside the iTunes artwork URL this file came from — 7033662022069 — whose 703366 prefix is Rune Grammofon's and whose middle digits give 2206, matching the catalogue number, so the picture and the release are tied together by the file itself rather than by assumption. Design is Kim Hiorthøy's, per Todd; he is Rune Grammofon's house designer and the sleeve is in his hand. ⚠️ THE LABEL'S OWN PAGE CREDITS NO DESIGNER, and Discogs 403s every non-browser client, so the attribution rests on Todd's knowledge of the label rather than on a printed credit. ⚠️ This record REPLACES an earlier one that said the release, the designer and even the sheet it came from were all unknown — it was the one pick in a batch of 186 that joined to no harvest row at all.",
    "source_image": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f0/0c/cd/f00ccd2a-12ac-625c-61bc-cd722534114f/7033662022069.jpg/3000x3000bb.jpg",
    "source_px": [
     3000,
@@ -199124,8 +199124,36 @@
    ],
    "tags": [
     {
+     "k": "designer",
+     "v": "Kim Hiorthøy"
+    },
+    {
      "k": "type",
      "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Rune Grammofon"
+    },
+    {
+     "k": "client",
+     "v": "Elephant9"
+    },
+    {
+     "k": "musician",
+     "v": "Elephant9"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "subject",
+     "v": "jazz"
+    },
+    {
+     "k": "location",
+     "v": "Norway"
     }
    ],
    "identity_established": true,

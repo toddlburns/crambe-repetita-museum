@@ -171810,7 +171810,7 @@
    "published": true,
    "minted": "2026-09-11",
    "punch": 0.4583,
-   "source_url": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/f0/0c/cd/f00ccd2a-12ac-625c-61bc-cd722534114f/7033662022069.jpg/3000x3000bb.jpg",
+   "source_url": "https://runegrammofon.com/collections/elephant9/products/rcd2206-elephant9-psychedelic-backfire-i-cd-2lp",
    "animated": false,
    "video": false,
    "thumb": "thumbs/CRVI003246.jpg",
@@ -171823,14 +171823,42 @@
     3000
    ],
    "original_bytes": 1099365,
-   "maker": "Unknown",
-   "title": "Untitled",
-   "subtitle": "",
-   "year": "",
+   "maker": "Kim Hiorthøy",
+   "title": "Psychedelic Backfire I",
+   "subtitle": "Elephant9 — album cover, Rune Grammofon RCD2206",
+   "year": "2019",
    "tags": [
+    {
+     "k": "designer",
+     "v": "Kim Hiorthøy"
+    },
     {
      "k": "type",
      "v": "album cover"
+    },
+    {
+     "k": "label",
+     "v": "Rune Grammofon"
+    },
+    {
+     "k": "client",
+     "v": "Elephant9"
+    },
+    {
+     "k": "musician",
+     "v": "Elephant9"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "subject",
+     "v": "jazz"
+    },
+    {
+     "k": "location",
+     "v": "Norway"
     },
     {
      "k": "color",
