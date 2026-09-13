@@ -1,5 +1,5 @@
 {
- "next": 3266,
+ "next": 3269,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -200025,12 +200025,18 @@
     }
    ],
    "identity_established": true,
-   "published": true,
+   "published": false,
    "verification": "Drouot; the file is named 'VeraMOLNAR_SainteVictoire,fragments(etudes),2017' with an estimate attached, so title and year come from the auction house's own cataloguing. Framed, orange and blue, the mountain reduced to stepped blocks. Sent by Todd 2026-09-12 as a batch of URLs for these two artists. Fetched and measured before minting; the shrink-and-restore test was run on every file to catch CDN upscaling.",
-   "hue": 15.03,
-   "light": 0.6712,
-   "chroma": 0.4095,
-   "punch": 0.1916
+   "hue": 35.88,
+   "light": 0.709,
+   "chroma": 0.8462,
+   "punch": 0.2156,
+   "deleted": true,
+   "deleted_on": "2026-09-13",
+   "notes": [
+    "DELETED from the museum on 2026-09-13. The record is kept so CRVI003262 stays provably retired and is never reissued."
+   ],
+   "number_reused": true
   },
   "todd-sent-2026-09-12::zawada-burning-mirrors-ruff": {
    "id": "CRVI003263",
@@ -200204,6 +200210,219 @@
    "light": 0.7963,
    "chroma": 0.1519,
    "punch": 0.0621
+  },
+  "todd-sent-2026-09-13::engelmann-gebrauchsgraphik-9-1950": {
+   "id": "CRVI003262",
+   "minted": "2026-09-13",
+   "reused": true,
+   "previously": {
+    "identity": "todd-sent-2026-09-12::molnar-sainte-victoire-2017",
+    "maker": "Vera Molnár",
+    "title": "Sainte-Victoire, fragments (études)",
+    "deleted_on": "2026-09-13"
+   },
+   "original_file": "originals/CRVI003262.jpg",
+   "original_px": [
+    1666,
+    2367
+   ],
+   "original_bytes": 367485,
+   "identity": "todd-sent-2026-09-13::engelmann-gebrauchsgraphik-9-1950",
+   "maker": "Michael Engelmann",
+   "title": "Gebrauchsgraphik 9/1950 — Farbe Form Funktion",
+   "year": 1950,
+   "source_url": "https://designreviewed.com/wp-content/uploads/2021/03/Gebrauchsgraphik-9-1950.-Cover-design-by-Michael-Engelmann.jpg",
+   "source_page": "https://designreviewed.com/artefacts/michael-engelmann-poster-collection-10-2004/",
+   "verified_against": "Design Reviewed, which serves the file as 'Gebrauchsgraphik-9-1950.-Cover-design-by-Michael-Engelmann'. The cover corroborates every part of that on its own face: the masthead reads GEBRAUCHSGRAPHIK / INTERNATIONAL ADVERTISING ART, the issue is set as 9 over 1950 at the right, the issue title FARBE FORM FUNKTION runs across the foot, and the designer's name ENGELMANN is printed vertically at the lower left. Delivered on a 3000x3000 black canvas; the synthetic matte (exactly 0,0,0, zero variance) was removed, leaving the cover at 1666x2367 — a 0.704 ratio against DIN's 0.707.",
+   "notes": "Recovered 2026-09-13 from a pick that had been written off when designreviewed.com 403'd every client during the book-sheet harvest. The block was a rate limit and had expired.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/owed/dr1_crop.jpg",
+   "source_px": [
+    1666,
+    2367
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Michael Engelmann"
+    },
+    {
+     "k": "type",
+     "v": "magazine cover"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
+    },
+    {
+     "k": "location",
+     "v": "Germany"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Design Reviewed, which serves the file as 'Gebrauchsgraphik-9-1950.-Cover-design-by-Michael-Engelmann'. The cover corroborates every part of that on its own face: the masthead reads GEBRAUCHSGRAPHIK / INTERNATIONAL ADVERTISING ART, the issue is set as 9 over 1950 at the right, the issue title FARBE FORM FUNKTION runs across the foot, and the designer's name ENGELMANN is printed vertically at the lower left. Delivered on a 3000x3000 black canvas; the synthetic matte (exactly 0,0,0, zero variance) was removed, leaving the cover at 1666x2367 — a 0.704 ratio against DIN's 0.707.",
+   "hue": 35.88,
+   "light": 0.709,
+   "chroma": 0.8462,
+   "punch": 0.2156
+  },
+  "todd-sent-2026-09-13::poster-collection-10-michael-engelmann": {
+   "id": "CRVI003266",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003266.jpg",
+   "original_px": [
+    821,
+    1188
+   ],
+   "original_bytes": 85811,
+   "identity": "todd-sent-2026-09-13::poster-collection-10-michael-engelmann",
+   "maker": "Michael Engelmann",
+   "title": "Poster Collection 10: Michael Engelmann (cover, reproducing his Roth-Händle poster)",
+   "year": 2004,
+   "source_url": "https://designreviewed.com/wp-content/uploads/2021/09/Michael-Engelmann-Poster-Collection-10-2004.jpg",
+   "source_page": "https://designreviewed.com/artefacts/michael-engelmann-poster-collection-10-2004/",
+   "verified_against": "Design Reviewed's artefact page for the book, which gives Format: Book, Year 2004, Client/Publisher Lars Müller Publishers, Size 165mm x 240mm, series Museum für Gestaltung Zürich Poster Collection. The jacket states all of it in type: POSTER COLLECTION / MICHAEL ENGELMANN / MUSEUM FÜR GESTALTUNG ZÜRICH, PLAKATSAMMLUNG / LARS MÜLLER PUBLISHERS / 10. ⚠️ ENGELMANN IS THE BOOK'S SUBJECT, and the cover reproduces one of his own posters — the Roth-Händle cigarette poster, whose brand name is legible on the rolled paper. So the picture on this cover is his; the BOOK's own designer is not established and is deliberately not named here. The delivered file was a 1600x1600 black canvas (exactly 0,0,0, zero variance); removing that synthetic matte leaves 821x1188, a 0.691 ratio against the stated 165x240mm object's 0.688.",
+   "notes": "Recovered 2026-09-13, same expired designreviewed.com rate limit as the Gebrauchsgraphik cover. Both files are served from this one page, which is why the two picks arrived carrying each other's captions — the filenames were the specific claims and both proved correct.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/owed/dr2_crop.jpg",
+   "source_px": [
+    821,
+    1188
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Michael Engelmann"
+    },
+    {
+     "k": "subject",
+     "v": "Michael Engelmann"
+    },
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Design Reviewed's artefact page for the book, which gives Format: Book, Year 2004, Client/Publisher Lars Müller Publishers, Size 165mm x 240mm, series Museum für Gestaltung Zürich Poster Collection. The jacket states all of it in type: POSTER COLLECTION / MICHAEL ENGELMANN / MUSEUM FÜR GESTALTUNG ZÜRICH, PLAKATSAMMLUNG / LARS MÜLLER PUBLISHERS / 10. ⚠️ ENGELMANN IS THE BOOK'S SUBJECT, and the cover reproduces one of his own posters — the Roth-Händle cigarette poster, whose brand name is legible on the rolled paper. So the picture on this cover is his; the BOOK's own designer is not established and is deliberately not named here. The delivered file was a 1600x1600 black canvas (exactly 0,0,0, zero variance); removing that synthetic matte leaves 821x1188, a 0.691 ratio against the stated 165x240mm object's 0.688.",
+   "hue": 5.1,
+   "light": 0.4464,
+   "chroma": 0.5788,
+   "punch": 0.2257
+  },
+  "todd-sent-2026-09-13::beall-here-it-comes-rea": {
+   "id": "CRVI003267",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003267.jpg",
+   "original_px": [
+    3563,
+    4725
+   ],
+   "original_bytes": 4331569,
+   "identity": "todd-sent-2026-09-13::beall-here-it-comes-rea",
+   "maker": "Lester Beall",
+   "title": "Here It Comes — Rural Electrification Administration",
+   "year": 1939,
+   "source_url": "https://tile.loc.gov/storage-services/master/pnp/cph/3g10000/3g14000/3g14700/3g14735u.tif",
+   "source_page": "https://www.loc.gov/item/2010650609/",
+   "verified_against": "Library of Congress item 2010650609, 'Here it comes Rural Electrification Administration, U.S. Department of Agriculture / Beall.', contributor 'Beall, Lester, 1903-1969, artist', 1 print (poster) : color ; 101 x 76 cm, call number POS - US .B415, no. 15 (C size) [P&P]. Its provenance note reads 'Gift; Lester Beall' — the Library had it from the designer. The poster also signs itself BEALL in the top right corner. ⚠️ THE YEAR IS THE ONE SOFT PART: the Library dates it only to '[193-]' and gives no closer year; 1939 here follows Outré Journal, which captions the same poster as a 1939 REA commission. Treat the decade as certain and the year as the journal's claim, not the Library's.",
+   "notes": "⚠️ NOT the file Todd picked. His pick was outrejournal.com's 1352x1781 copy; the Library of Congress holds the master and serves it as a 70 MB TIFF at 4299x5412, so that was taken instead — 2.6x the linear resolution from the institution that owns the sheet. The LoC scan surrounds the poster with black and includes a Kodak colour-control patch strip and a greyscale step wedge; those were cropped off, leaving 3563x4725, a 0.754 ratio against the catalogued object's 76x101cm (0.752). ⚠️ A 32x32 luma hash put this at MAD 52.9 against the outrejournal file and that reads as 'different picture' — it is not, it is the same poster differently framed. A perceptual hash is only meaningful between matching framings.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/owed/beall_crop.jpg",
+   "source_px": [
+    3563,
+    4725
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Lester Beall"
+    },
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "1930s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "client",
+     "v": "Rural Electrification Administration"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Library of Congress item 2010650609, 'Here it comes Rural Electrification Administration, U.S. Department of Agriculture / Beall.', contributor 'Beall, Lester, 1903-1969, artist', 1 print (poster) : color ; 101 x 76 cm, call number POS - US .B415, no. 15 (C size) [P&P]. Its provenance note reads 'Gift; Lester Beall' — the Library had it from the designer. The poster also signs itself BEALL in the top right corner. ⚠️ THE YEAR IS THE ONE SOFT PART: the Library dates it only to '[193-]' and gives no closer year; 1939 here follows Outré Journal, which captions the same poster as a 1939 REA commission. Treat the decade as certain and the year as the journal's claim, not the Library's.",
+   "hue": 24.87,
+   "light": 0.6012,
+   "chroma": 0.9952,
+   "punch": 0.5387
+  },
+  "todd-sent-2026-09-13::angiemcmonigal-courtyard-unidentified": {
+   "id": "CRVI003268",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003268.jpg",
+   "original_px": [
+    2000,
+    1529
+   ],
+   "original_bytes": 720536,
+   "identity": "todd-sent-2026-09-13::angiemcmonigal-courtyard-unidentified",
+   "maker": "Unknown",
+   "title": "Untitled",
+   "source_url": "https://angiemcmonigal.com/wp-content/uploads/2023/04/2023-04-11-13.18.50-1-Edit.jpg",
+   "verified_against": "UNIDENTIFIED, and recorded that way on Todd's instruction 2026-09-13: mint it and simply say the photograph is unidentified. Nothing about it is established — not the photographer, not the building, not the date. The only evidence the file carries is its own name, '2023-04-11-13.18.50-1-Edit.jpg', which is a camera timestamp and not an attribution, and the host, angiemcmonigal.com. What it SHOWS is a walled courtyard with a jacaranda in flower, a magenta volume behind a lilac wall, cacti, terracotta jars and a yellow tiled terrace. The contact sheet's neighbouring links point at Luis Barragán and Casa Gilardi in Mexico City, and the architecture is consistent with that — but a neighbouring link is not a source, so no maker, place or date is claimed here.",
+   "identification_status": "blank",
+   "notes": "Recovered 2026-09-13 with the other three expired-403 picks. ⚠️ This host redirects http->https, and curl without -L writes the 24-byte 301 body out as a .jpg — a file that looks downloaded and is not an image.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/owed/am.jpg",
+   "source_px": [
+    2000,
+    1529
+   ],
+   "colors": [
+    "blue",
+    "pink"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "UNIDENTIFIED, and recorded that way on Todd's instruction 2026-09-13: mint it and simply say the photograph is unidentified. Nothing about it is established — not the photographer, not the building, not the date. The only evidence the file carries is its own name, '2023-04-11-13.18.50-1-Edit.jpg', which is a camera timestamp and not an attribution, and the host, angiemcmonigal.com. What it SHOWS is a walled courtyard with a jacaranda in flower, a magenta volume behind a lilac wall, cacti, terracotta jars and a yellow tiled terrace. The contact sheet's neighbouring links point at Luis Barragán and Casa Gilardi in Mexico City, and the architecture is consistent with that — but a neighbouring link is not a source, so no maker, place or date is claimed here.",
+   "hue": 327.89,
+   "light": 0.5614,
+   "chroma": 0.5297,
+   "punch": 0.1785
   }
  }
 }

@@ -172660,9 +172660,9 @@
   {
    "id": "CRVI003262",
    "published": true,
-   "minted": "2026-09-12",
-   "punch": 0.1916,
-   "source_url": "https://cdn.drouot.com/d/uploads/322/uploads/Image/VeraMOLNAR_SainteVictoire%2Cfragments(etudes)%2C2017_2000-2500%E2%82%AC.jpg",
+   "minted": "2026-09-13",
+   "punch": 0.2156,
+   "source_url": "https://designreviewed.com/artefacts/michael-engelmann-poster-collection-10-2004/",
    "animated": false,
    "video": false,
    "thumb": "thumbs/CRVI003262.jpg",
@@ -172671,34 +172671,30 @@
    "original": "originals/CRVI003262.jpg",
    "vector": "",
    "original_px": [
-    1195,
-    1200
+    1666,
+    2367
    ],
-   "original_bytes": 165280,
-   "maker": "Vera Molnár",
-   "title": "Sainte-Victoire, fragments (études)",
+   "original_bytes": 367485,
+   "maker": "Michael Engelmann",
+   "title": "Gebrauchsgraphik 9/1950 — Farbe Form Funktion",
    "subtitle": "",
-   "year": "2017",
+   "year": "1950",
    "tags": [
     {
-     "k": "artist",
-     "v": "Vera Molnár"
-    },
-    {
-     "k": "location",
-     "v": "France"
+     "k": "designer",
+     "v": "Michael Engelmann"
     },
     {
      "k": "type",
-     "v": "print"
+     "v": "magazine cover"
     },
     {
      "k": "decade",
-     "v": "2010s"
+     "v": "1950s"
     },
     {
-     "k": "subject",
-     "v": "generative art"
+     "k": "location",
+     "v": "Germany"
     },
     {
      "k": "color",
@@ -172709,9 +172705,9 @@
      "v": "red"
     }
    ],
-   "hue": 15.03,
-   "light": 0.6712,
-   "chroma": 0.4095
+   "hue": 35.88,
+   "light": 0.709,
+   "chroma": 0.8462
   },
   {
    "id": "CRVI003263",
@@ -172884,6 +172880,154 @@
    "hue": 24.02,
    "light": 0.7963,
    "chroma": 0.1519
+  },
+  {
+   "id": "CRVI003266",
+   "published": true,
+   "minted": "2026-09-13",
+   "punch": 0.2257,
+   "source_url": "https://designreviewed.com/artefacts/michael-engelmann-poster-collection-10-2004/",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI003266.jpg",
+   "source_label": "",
+   "image": "images/CRVI003266.jpg",
+   "original": "originals/CRVI003266.jpg",
+   "vector": "",
+   "original_px": [
+    821,
+    1188
+   ],
+   "original_bytes": 85811,
+   "maker": "Michael Engelmann",
+   "title": "Poster Collection 10: Michael Engelmann (cover, reproducing his Roth-Händle poster)",
+   "subtitle": "",
+   "year": "2004",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Michael Engelmann"
+    },
+    {
+     "k": "subject",
+     "v": "Michael Engelmann"
+    },
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "decade",
+     "v": "2000s"
+    },
+    {
+     "k": "location",
+     "v": "Switzerland"
+    },
+    {
+     "k": "color",
+     "v": "red"
+    }
+   ],
+   "hue": 5.1,
+   "light": 0.4464,
+   "chroma": 0.5788
+  },
+  {
+   "id": "CRVI003267",
+   "published": true,
+   "minted": "2026-09-13",
+   "punch": 0.5387,
+   "source_url": "https://www.loc.gov/item/2010650609/",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI003267.jpg",
+   "source_label": "",
+   "image": "images/CRVI003267.jpg",
+   "original": "originals/CRVI003267.jpg",
+   "vector": "",
+   "original_px": [
+    3563,
+    4725
+   ],
+   "original_bytes": 4331569,
+   "maker": "Lester Beall",
+   "title": "Here It Comes — Rural Electrification Administration",
+   "subtitle": "",
+   "year": "1939",
+   "tags": [
+    {
+     "k": "designer",
+     "v": "Lester Beall"
+    },
+    {
+     "k": "type",
+     "v": "poster"
+    },
+    {
+     "k": "decade",
+     "v": "1930s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "client",
+     "v": "Rural Electrification Administration"
+    },
+    {
+     "k": "color",
+     "v": "orange"
+    },
+    {
+     "k": "color",
+     "v": "yellow"
+    }
+   ],
+   "hue": 24.87,
+   "light": 0.6012,
+   "chroma": 0.9952
+  },
+  {
+   "id": "CRVI003268",
+   "published": true,
+   "minted": "2026-09-13",
+   "punch": 0.1785,
+   "source_url": "https://angiemcmonigal.com/wp-content/uploads/2023/04/2023-04-11-13.18.50-1-Edit.jpg",
+   "animated": false,
+   "video": false,
+   "thumb": "thumbs/CRVI003268.jpg",
+   "source_label": "",
+   "image": "images/CRVI003268.jpg",
+   "original": "originals/CRVI003268.jpg",
+   "vector": "",
+   "original_px": [
+    2000,
+    1529
+   ],
+   "original_bytes": 720536,
+   "maker": "Unknown",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "color",
+     "v": "blue"
+    },
+    {
+     "k": "color",
+     "v": "pink"
+    }
+   ],
+   "hue": 327.89,
+   "light": 0.5614,
+   "chroma": 0.5297
   }
  ]
 }
