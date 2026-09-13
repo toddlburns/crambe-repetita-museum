@@ -1,5 +1,5 @@
 {
- "next": 3247,
+ "next": 3263,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -199163,6 +199163,874 @@
    "light": 0.5515,
    "chroma": 0.8602,
    "punch": 0.4583
+  },
+  "todd-sent-2026-09-12::zawada-mushrooms": {
+   "id": "CRVI003247",
+   "minted": "2026-09-12",
+   "original_file": "originals/CRVI003247.jpg",
+   "original_px": [
+    943,
+    1200
+   ],
+   "original_bytes": 147855,
+   "identity": "todd-sent-2026-09-12::zawada-mushrooms",
+   "source_url": "https://bigactive.com/wp-content/uploads/2019/10/JZ_mushrooms_07.jpg",
+   "source_page": "",
+   "maker": "Jonathan Zawada",
+   "title": "Untitled, from Mushrooms",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "From Big Active, Zawada's agency; the file is named 'JZ_mushrooms_07', so this is plate 7 of his Mushrooms series of rendered, iridescent fungi. ⚠️ THE INDIVIDUAL TITLE AND YEAR ARE NOT STATED. Sent by Todd 2026-09-12 as a batch of URLs for these two artists. Fetched and measured before minting; the shrink-and-restore test was run on every file to catch CDN upscaling.",
+   "source_image": "/private/tmp/claude-501/-Users-todd/539c6d41-aeb8-4169-b453-07d901464457/scratchpad/newadds/JZ_01.jpg",
+   "source_px": [
+    943,
+    1200
+   ],
+   "colors": [
+    "green",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Jonathan Zawada"
+    },
+    {
+     "k": "location",
+     "v": "Australia"
+    },
+    {
+     "k": "type",
+     "v": "digital art"
+    },
+    {
+     "k": "medium",
+     "v": "3D render"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "From Big Active, Zawada's agency; the file is named 'JZ_mushrooms_07', so this is plate 7 of his Mushrooms series of rendered, iridescent fungi. ⚠️ THE INDIVIDUAL TITLE AND YEAR ARE NOT STATED. Sent by Todd 2026-09-12 as a batch of URLs for these two artists. Fetched and measured before minting; the shrink-and-restore test was run on every file to catch CDN upscaling.",
+   "hue": 161.76,
+   "light": 0.5642,
+   "chroma": 0.7576,
+   "punch": 0.1789
+  },
+  "todd-sent-2026-09-12::zawada-skin-chains-2014": {
+   "id": "CRVI003248",
+   "minted": "2026-09-12",
+   "original_file": "originals/CRVI003248.jpg",
+   "original_px": [
+    1500,
+    2057
+   ],
+   "original_bytes": 225168,
+   "identity": "todd-sent-2026-09-12::zawada-skin-chains-2014",
+   "source_url": "https://assets.yellowtrace.com.au/wp-content/uploads/2015/07/Skin-Chains-2014-Jonathan-Zawada-Yellowtrace-09.jpg",
+   "source_page": "",
+   "maker": "Jonathan Zawada",
+   "title": "Skin Chains",
+   "subtitle": "",
+   "year": "2014",
+   "label": "",
+   "verified_against": "Published by Yellowtrace; the file is named 'Skin-Chains-2014-Jonathan-Zawada'. Draped fabric and gold chain rendered over an aerial desert plate. Sent by Todd 2026-09-12 as a batch of URLs for these two artists. Fetched and measured before minting; the shrink-and-restore test was run on every file to catch CDN upscaling.",
+   "source_image": "/private/tmp/claude-501/-Users-todd/539c6d41-aeb8-4169-b453-07d901464457/scratchpad/newadds/JZ_03.jpg",
+   "source_px": [
+    1500,
+    2057
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Jonathan Zawada"
+    },
+    {
+     "k": "location",
+     "v": "Australia"
+    },
+    {
+     "k": "type",
+     "v": "digital art"
+    },
+    {
+     "k": "medium",
+     "v": "3D render"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Published by Yellowtrace; the file is named 'Skin-Chains-2014-Jonathan-Zawada'. Draped fabric and gold chain rendered over an aerial desert plate. Sent by Todd 2026-09-12 as a batch of URLs for these two artists. Fetched and measured before minting; the shrink-and-restore test was run on every file to catch CDN upscaling.",
+   "hue": 25.04,
+   "light": 0.4951,
+   "chroma": 0.6338,
+   "punch": 0.1968
+  },
+  "todd-sent-2026-09-12::zawada-flume-skin-2016": {
+   "id": "CRVI003249",
+   "minted": "2026-09-12",
+   "original_file": "originals/CRVI003249.jpg",
+   "original_px": [
+    2500,
+    2500
+   ],
+   "original_bytes": 2272274,
+   "identity": "todd-sent-2026-09-12::zawada-flume-skin-2016",
+   "source_url": "https://bigactive.com/wp-content/uploads/2019/10/JZ_Flume_Skin_Album-Cover.jpg",
+   "source_page": "",
+   "maker": "Jonathan Zawada",
+   "title": "Skin",
+   "subtitle": "Flume — album cover",
+   "year": "2016",
+   "label": "",
+   "verified_against": "READ OFF THE ARTEFACT: the cover carries 'FLUME' and 'SKIN'. Zawada's cover for Flume's second album, released 2016, hosted by his agency Big Active under the filename 'JZ_Flume_Skin_Album-Cover'. Sent by Todd 2026-09-12 as a batch of URLs for these two artists. Fetched and measured before minting; the shrink-and-restore test was run on every file to catch CDN upscaling.",
+   "source_image": "/private/tmp/claude-501/-Users-todd/539c6d41-aeb8-4169-b453-07d901464457/scratchpad/newadds/JZ_04.jpg",
+   "source_px": [
+    2500,
+    2500
+   ],
+   "colors": [
+    "pink",
+    "purple"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Jonathan Zawada"
+    },
+    {
+     "k": "location",
+     "v": "Australia"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Jonathan Zawada"
+    },
+    {
+     "k": "client",
+     "v": "Flume"
+    },
+    {
+     "k": "musician",
+     "v": "Flume"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "READ OFF THE ARTEFACT: the cover carries 'FLUME' and 'SKIN'. Zawada's cover for Flume's second album, released 2016, hosted by his agency Big Active under the filename 'JZ_Flume_Skin_Album-Cover'. Sent by Todd 2026-09-12 as a batch of URLs for these two artists. Fetched and measured before minting; the shrink-and-restore test was run on every file to catch CDN upscaling.",
+   "hue": 335.78,
+   "light": 0.5992,
+   "chroma": 0.965,
+   "punch": 0.2257
+  },
+  "todd-sent-2026-09-12::zawada-still-life-skull": {
+   "id": "CRVI003250",
+   "minted": "2026-09-12",
+   "original_file": "originals/CRVI003250.jpg",
+   "original_px": [
+    1100,
+    1100
+   ],
+   "original_bytes": 390265,
+   "identity": "todd-sent-2026-09-12::zawada-still-life-skull",
+   "source_url": "https://caitlinjcaldwell.wordpress.com/wp-content/uploads/2014/11/marble_paraone.jpg",
+   "source_page": "",
+   "maker": "Jonathan Zawada",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "From Big Active. A rendered still life — glass skull, arch, foliage and cone on a reflective ground. ⚠️ TITLE, SERIES AND YEAR ARE NOT KNOWN. Sent by Todd 2026-09-12 as a batch of URLs for these two artists. Fetched and measured before minting; the shrink-and-restore test was run on every file to catch CDN upscaling.",
+   "source_image": "/private/tmp/claude-501/-Users-todd/539c6d41-aeb8-4169-b453-07d901464457/scratchpad/newadds/JZ_06.jpg",
+   "source_px": [
+    1100,
+    1100
+   ],
+   "colors": [
+    "orange",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Jonathan Zawada"
+    },
+    {
+     "k": "location",
+     "v": "Australia"
+    },
+    {
+     "k": "type",
+     "v": "digital art"
+    },
+    {
+     "k": "medium",
+     "v": "3D render"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "From Big Active. A rendered still life — glass skull, arch, foliage and cone on a reflective ground. ⚠️ TITLE, SERIES AND YEAR ARE NOT KNOWN. Sent by Todd 2026-09-12 as a batch of URLs for these two artists. Fetched and measured before minting; the shrink-and-restore test was run on every file to catch CDN upscaling.",
+   "hue": 255.71,
+   "light": 0.6681,
+   "chroma": 0.6395,
+   "punch": 0.147
+  },
+  "todd-sent-2026-09-12::zawada-over-time-landscape": {
+   "id": "CRVI003251",
+   "minted": "2026-09-12",
+   "original_file": "originals/CRVI003251.jpg",
+   "original_px": [
+    1652,
+    1043
+   ],
+   "original_bytes": 514389,
+   "identity": "todd-sent-2026-09-12::zawada-over-time-landscape",
+   "source_url": "https://bennettstreet.wordpress.com/wp-content/uploads/2014/11/money-problems.jpg",
+   "source_page": "",
+   "maker": "Jonathan Zawada",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "A canyon landscape pushed into false colour. The file is named 'money-problems', which fits Zawada's 'Over Time' series, where landforms are generated from financial data. ⚠️ THE SERIES ATTRIBUTION IS AN INFERENCE FROM THE FILENAME, not a stated credit, and the title and year are not known. The host is a WordPress blog, not the artist. Sent by Todd 2026-09-12 as a batch of URLs for these two artists. Fetched and measured before minting; the shrink-and-restore test was run on every file to catch CDN upscaling.",
+   "source_image": "/private/tmp/claude-501/-Users-todd/539c6d41-aeb8-4169-b453-07d901464457/scratchpad/newadds/JZ_09.jpg",
+   "source_px": [
+    1652,
+    1043
+   ],
+   "colors": [
+    "blue",
+    "pink"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Jonathan Zawada"
+    },
+    {
+     "k": "location",
+     "v": "Australia"
+    },
+    {
+     "k": "type",
+     "v": "digital art"
+    },
+    {
+     "k": "medium",
+     "v": "3D render"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A canyon landscape pushed into false colour. The file is named 'money-problems', which fits Zawada's 'Over Time' series, where landforms are generated from financial data. ⚠️ THE SERIES ATTRIBUTION IS AN INFERENCE FROM THE FILENAME, not a stated credit, and the title and year are not known. The host is a WordPress blog, not the artist. Sent by Todd 2026-09-12 as a batch of URLs for these two artists. Fetched and measured before minting; the shrink-and-restore test was run on every file to catch CDN upscaling.",
+   "hue": 226.96,
+   "light": 0.4875,
+   "chroma": 0.8763,
+   "punch": 0.2737
+  },
+  "todd-sent-2026-09-12::zawada-ribbon-render": {
+   "id": "CRVI003252",
+   "minted": "2026-09-12",
+   "original_file": "originals/CRVI003252.jpg",
+   "original_px": [
+    1140,
+    1658
+   ],
+   "original_bytes": 142194,
+   "identity": "todd-sent-2026-09-12::zawada-ribbon-render",
+   "source_url": "https://i.pinimg.com/736x/72/27/35/72273577a9bb8899e50b2ed0a4953cc4.jpg",
+   "source_page": "",
+   "maker": "Jonathan Zawada",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "A rendered ribbon-and-strap form on a peach ground. ⚠️ PINTEREST IS THE ONLY SOURCE and carries no provenance; title, year and even the commission are unknown. ℹ️ Todd's link was the 736px thumbnail, which is under the 800px floor — this is the /originals/ file at 1140x1658. Sent by Todd 2026-09-12 as a batch of URLs for these two artists. Fetched and measured before minting; the shrink-and-restore test was run on every file to catch CDN upscaling.",
+   "source_image": "/private/tmp/claude-501/-Users-todd/539c6d41-aeb8-4169-b453-07d901464457/scratchpad/newadds/JZ_10_big.jpg",
+   "source_px": [
+    1140,
+    1658
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Jonathan Zawada"
+    },
+    {
+     "k": "location",
+     "v": "Australia"
+    },
+    {
+     "k": "type",
+     "v": "digital art"
+    },
+    {
+     "k": "medium",
+     "v": "3D render"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "A rendered ribbon-and-strap form on a peach ground. ⚠️ PINTEREST IS THE ONLY SOURCE and carries no provenance; title, year and even the commission are unknown. ℹ️ Todd's link was the 736px thumbnail, which is under the 800px floor — this is the /originals/ file at 1140x1658. Sent by Todd 2026-09-12 as a batch of URLs for these two artists. Fetched and measured before minting; the shrink-and-restore test was run on every file to catch CDN upscaling.",
+   "hue": 8.13,
+   "light": 0.7177,
+   "chroma": 0.9481,
+   "punch": 0.3577
+  },
+  "todd-sent-2026-09-12::zawada-flume-skin-single": {
+   "id": "CRVI003253",
+   "minted": "2026-09-12",
+   "original_file": "originals/CRVI003253.png",
+   "original_px": [
+    1000,
+    1000
+   ],
+   "original_bytes": 386033,
+   "identity": "todd-sent-2026-09-12::zawada-flume-skin-single",
+   "source_url": "https://images.genius.com/6d583702d8914eb1629d512a39b37c28.1000x1000x1.png",
+   "source_page": "",
+   "maker": "Jonathan Zawada",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "Hosted by Genius at 1000x1000, the shape and size of a single cover, and in the same rendered-flora language as the Flume 'Skin' album art elsewhere in this batch. ⚠️ WHICH RELEASE IT IS IS NOT ESTABLISHED — Genius serves cover art without crediting the designer, so the attribution rests on Todd's list and on the visual match. Sent by Todd 2026-09-12 as a batch of URLs for these two artists. Fetched and measured before minting; the shrink-and-restore test was run on every file to catch CDN upscaling.",
+   "source_image": "/private/tmp/claude-501/-Users-todd/539c6d41-aeb8-4169-b453-07d901464457/scratchpad/newadds/JZ_11.png",
+   "source_px": [
+    1000,
+    1000
+   ],
+   "colors": [
+    "cyan",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Jonathan Zawada"
+    },
+    {
+     "k": "location",
+     "v": "Australia"
+    },
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "designer",
+     "v": "Jonathan Zawada"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Hosted by Genius at 1000x1000, the shape and size of a single cover, and in the same rendered-flora language as the Flume 'Skin' album art elsewhere in this batch. ⚠️ WHICH RELEASE IT IS IS NOT ESTABLISHED — Genius serves cover art without crediting the designer, so the attribution rests on Todd's list and on the visual match. Sent by Todd 2026-09-12 as a batch of URLs for these two artists. Fetched and measured before minting; the shrink-and-restore test was run on every file to catch CDN upscaling.",
+   "hue": 14.97,
+   "light": 0.4201,
+   "chroma": 0.6411,
+   "punch": 0.162
+  },
+  "todd-sent-2026-09-12::zawada-temples": {
+   "id": "CRVI003254",
+   "minted": "2026-09-12",
+   "original_file": "originals/CRVI003254.jpg",
+   "original_px": [
+    1200,
+    1200
+   ],
+   "original_bytes": 726281,
+   "identity": "todd-sent-2026-09-12::zawada-temples",
+   "source_url": "https://dianeontheinternet.home.blog/wp-content/uploads/2019/05/temples.jpg",
+   "source_page": "",
+   "maker": "Jonathan Zawada",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "The file is named 'temples'. A flat graphic — a key or keyhole form over horizontal bands and a sunset arc — which is a different register from the rendered work in the rest of this batch. ⚠️ THE HOST IS A PERSONAL BLOG and neither the title, the year, nor whether 'temples' names the band Temples or a subject is established. Sent by Todd 2026-09-12 as a batch of URLs for these two artists. Fetched and measured before minting; the shrink-and-restore test was run on every file to catch CDN upscaling.",
+   "source_image": "/private/tmp/claude-501/-Users-todd/539c6d41-aeb8-4169-b453-07d901464457/scratchpad/newadds/JZ_12.jpg",
+   "source_px": [
+    1200,
+    1200
+   ],
+   "colors": [
+    "cyan",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Jonathan Zawada"
+    },
+    {
+     "k": "location",
+     "v": "Australia"
+    },
+    {
+     "k": "type",
+     "v": "graphic design"
+    },
+    {
+     "k": "designer",
+     "v": "Jonathan Zawada"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The file is named 'temples'. A flat graphic — a key or keyhole form over horizontal bands and a sunset arc — which is a different register from the rendered work in the rest of this batch. ⚠️ THE HOST IS A PERSONAL BLOG and neither the title, the year, nor whether 'temples' names the band Temples or a subject is established. Sent by Todd 2026-09-12 as a batch of URLs for these two artists. Fetched and measured before minting; the shrink-and-restore test was run on every file to catch CDN upscaling.",
+   "hue": 158.21,
+   "light": 0.3803,
+   "chroma": 0.9488,
+   "punch": 0.3544
+  },
+  "todd-sent-2026-09-12::zawada-acmi-print": {
+   "id": "CRVI003255",
+   "minted": "2026-09-12",
+   "original_file": "originals/CRVI003255.jpg",
+   "original_px": [
+    842,
+    1192
+   ],
+   "original_bytes": 257335,
+   "identity": "todd-sent-2026-09-12::zawada-acmi-print",
+   "source_url": "https://images.squarespace-cdn.com/content/v1/683e6011eb0c9f0f35b4244a/b2df0377-68e0-44e1-86d7-37e91fb7b93a/ACMI_A1-print.jpg",
+   "source_page": "",
+   "maker": "Jonathan Zawada",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "The file is named 'ACMI_A1-print' — an A1 print connected with ACMI, the Australian Centre for the Moving Image. A dense crowd of rendered figures and structures. ⚠️ TITLE AND YEAR NOT STATED. Sent by Todd 2026-09-12 as a batch of URLs for these two artists. Fetched and measured before minting; the shrink-and-restore test was run on every file to catch CDN upscaling.",
+   "source_image": "/private/tmp/claude-501/-Users-todd/539c6d41-aeb8-4169-b453-07d901464457/scratchpad/newadds/JZ_13.jpg",
+   "source_px": [
+    842,
+    1192
+   ],
+   "colors": [
+    "orange",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Jonathan Zawada"
+    },
+    {
+     "k": "location",
+     "v": "Australia"
+    },
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "client",
+     "v": "ACMI"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The file is named 'ACMI_A1-print' — an A1 print connected with ACMI, the Australian Centre for the Moving Image. A dense crowd of rendered figures and structures. ⚠️ TITLE AND YEAR NOT STATED. Sent by Todd 2026-09-12 as a batch of URLs for these two artists. Fetched and measured before minting; the shrink-and-restore test was run on every file to catch CDN upscaling.",
+   "hue": 33.67,
+   "light": 0.6195,
+   "chroma": 0.6316,
+   "punch": 0.2856
+  },
+  "todd-sent-2026-09-12::molnar-lettre-de-ma-mere": {
+   "id": "CRVI003256",
+   "minted": "2026-09-12",
+   "original_file": "originals/CRVI003256.jpg",
+   "original_px": [
+    1160,
+    1160
+   ],
+   "original_bytes": 1444928,
+   "identity": "todd-sent-2026-09-12::molnar-lettre-de-ma-mere",
+   "source_url": "https://www.artforum.com/wp-content/uploads/2024/04/new-Lettre-De-Ma-Mere-Letter-from-my-Mother_Vera-Molnar.jpg",
+   "source_page": "",
+   "maker": "Vera Molnár",
+   "title": "Lettre de ma mère",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "Artforum, 2024; the file is named 'Lettre-De-Ma-Mere-Letter-from-my-Mother_Vera-Molnar'. The series takes the line of her mother's handwriting and pushes it toward illegibility. ⚠️ WHICH WORK IN THE SERIES, AND ITS YEAR, ARE NOT STATED. Sent by Todd 2026-09-12 as a batch of URLs for these two artists. Fetched and measured before minting; the shrink-and-restore test was run on every file to catch CDN upscaling.",
+   "source_image": "/private/tmp/claude-501/-Users-todd/539c6d41-aeb8-4169-b453-07d901464457/scratchpad/newadds/VM_14.jpg",
+   "source_px": [
+    1160,
+    1160
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Vera Molnár"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "subject",
+     "v": "generative art"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Artforum, 2024; the file is named 'Lettre-De-Ma-Mere-Letter-from-my-Mother_Vera-Molnar'. The series takes the line of her mother's handwriting and pushes it toward illegibility. ⚠️ WHICH WORK IN THE SERIES, AND ITS YEAR, ARE NOT STATED. Sent by Todd 2026-09-12 as a batch of URLs for these two artists. Fetched and measured before minting; the shrink-and-restore test was run on every file to catch CDN upscaling.",
+   "hue": 226.9,
+   "light": 0.687,
+   "chroma": 0.793,
+   "punch": 0.2989
+  },
+  "todd-sent-2026-09-12::molnar-des-ordres-1974": {
+   "id": "CRVI003257",
+   "minted": "2026-09-12",
+   "original_file": "originals/CRVI003257.jpg",
+   "original_px": [
+    2560,
+    2536
+   ],
+   "original_bytes": 1530601,
+   "identity": "todd-sent-2026-09-12::molnar-des-ordres-1974",
+   "source_url": "https://dam.org/museum/wp-content/uploads/2020/07/Molnar1974DesOrdres1-scaled.jpg",
+   "source_page": "",
+   "maker": "Vera Molnár",
+   "title": "(Dés)ordres",
+   "subtitle": "",
+   "year": "1974",
+   "label": "",
+   "verified_against": "The Digital Art Museum (dam.org); the file is named 'Molnar1974DesOrdres1'. A plotted grid of nested squares in which the order is progressively disturbed — the '(Dés)ordres' works. ⚠️ The title is read off the filename; the accented form is the artist's. Sent by Todd 2026-09-12 as a batch of URLs for these two artists. Fetched and measured before minting; the shrink-and-restore test was run on every file to catch CDN upscaling.",
+   "source_image": "/private/tmp/claude-501/-Users-todd/539c6d41-aeb8-4169-b453-07d901464457/scratchpad/newadds/VM_15.jpg",
+   "source_px": [
+    2560,
+    2536
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Vera Molnár"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "type",
+     "v": "drawing"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    },
+    {
+     "k": "subject",
+     "v": "generative art"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "The Digital Art Museum (dam.org); the file is named 'Molnar1974DesOrdres1'. A plotted grid of nested squares in which the order is progressively disturbed — the '(Dés)ordres' works. ⚠️ The title is read off the filename; the accented form is the artist's. Sent by Todd 2026-09-12 as a batch of URLs for these two artists. Fetched and measured before minting; the shrink-and-restore test was run on every file to catch CDN upscaling.",
+   "hue": 41.08,
+   "light": 0.76,
+   "chroma": 0.2213,
+   "punch": 0.0661
+  },
+  "todd-sent-2026-09-12::molnar-dashes": {
+   "id": "CRVI003258",
+   "minted": "2026-09-12",
+   "original_file": "originals/CRVI003258.png",
+   "original_px": [
+    950,
+    952
+   ],
+   "original_bytes": 566214,
+   "identity": "todd-sent-2026-09-12::molnar-dashes",
+   "source_url": "https://storage.ghost.io/c/e8/51/e851bb8f-1e95-43e1-83eb-1b6ae9a0791c/content/images/2023/04/6303882707d3dbb518e262af_Screen-Shot-2022-08-22-at-15.41.50.png",
+   "source_page": "",
+   "maker": "Vera Molnár",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "Black dashes scattered across a cream ground at varying angles. ⚠️ THE SOURCE IS A SCREENSHOT ('Screen-Shot-2022-08-22') republished on a Ghost blog, so nothing about the title, year or original is established. Sent by Todd 2026-09-12 as a batch of URLs for these two artists. Fetched and measured before minting; the shrink-and-restore test was run on every file to catch CDN upscaling.",
+   "source_image": "/private/tmp/claude-501/-Users-todd/539c6d41-aeb8-4169-b453-07d901464457/scratchpad/newadds/VM_16.png",
+   "source_px": [
+    950,
+    952
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Vera Molnár"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "subject",
+     "v": "generative art"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Black dashes scattered across a cream ground at varying angles. ⚠️ THE SOURCE IS A SCREENSHOT ('Screen-Shot-2022-08-22') republished on a Ghost blog, so nothing about the title, year or original is established. Sent by Todd 2026-09-12 as a batch of URLs for these two artists. Fetched and measured before minting; the shrink-and-restore test was run on every file to catch CDN upscaling.",
+   "hue": 45.21,
+   "light": 0.6821,
+   "chroma": 0.3426,
+   "punch": 0.05
+  },
+  "todd-sent-2026-09-12::molnar-sothebys-red-blue": {
+   "id": "CRVI003259",
+   "minted": "2026-09-12",
+   "original_file": "originals/CRVI003259.png",
+   "original_px": [
+    1920,
+    1920
+   ],
+   "original_bytes": 1468119,
+   "identity": "todd-sent-2026-09-12::molnar-sothebys-red-blue",
+   "source_url": "https://sothebys-com.brightspotcdn.com/12/3c/3d3a47d34b649fbeb0aff0d8738e/thumbnail-artwork-00719.png",
+   "source_page": "",
+   "maker": "Vera Molnár",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "Sotheby's artwork image. A dense field of short marks in red on blue. ⚠️ The file is named 'thumbnail-artwork-00719' — an inventory reference, not a title — and the year is not stated. Sent by Todd 2026-09-12 as a batch of URLs for these two artists. Fetched and measured before minting; the shrink-and-restore test was run on every file to catch CDN upscaling.",
+   "source_image": "/private/tmp/claude-501/-Users-todd/539c6d41-aeb8-4169-b453-07d901464457/scratchpad/newadds/VM_17.png",
+   "source_px": [
+    1920,
+    1920
+   ],
+   "colors": [
+    "red",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Vera Molnár"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "subject",
+     "v": "generative art"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Sotheby's artwork image. A dense field of short marks in red on blue. ⚠️ The file is named 'thumbnail-artwork-00719' — an inventory reference, not a title — and the year is not stated. Sent by Todd 2026-09-12 as a batch of URLs for these two artists. Fetched and measured before minting; the shrink-and-restore test was run on every file to catch CDN upscaling.",
+   "hue": 2.23,
+   "light": 0.4361,
+   "chroma": 1.0,
+   "punch": 0.455
+  },
+  "todd-sent-2026-09-12::molnar-drouot-stepped-profile": {
+   "id": "CRVI003260",
+   "minted": "2026-09-12",
+   "original_file": "originals/CRVI003260.jpg",
+   "original_px": [
+    1599,
+    901
+   ],
+   "original_bytes": 246508,
+   "identity": "todd-sent-2026-09-12::molnar-drouot-stepped-profile",
+   "source_url": "https://medias.gazette-drouot.com/prod/medias/mediatheque/155852.jpg",
+   "source_page": "",
+   "maker": "Vera Molnár",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "Gazette Drouot auction image. Horizontal rules building a stepped profile out of density alone. The silhouette suggests the Sainte-Victoire works, where Cézanne's mountain is reduced to a line, but ⚠️ THAT IS MY READING OF THE PICTURE, NOT A STATED TITLE, and the year is not given. Sent by Todd 2026-09-12 as a batch of URLs for these two artists. Fetched and measured before minting; the shrink-and-restore test was run on every file to catch CDN upscaling.",
+   "source_image": "/private/tmp/claude-501/-Users-todd/539c6d41-aeb8-4169-b453-07d901464457/scratchpad/newadds/VM_19.jpg",
+   "source_px": [
+    1599,
+    901
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Vera Molnár"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "subject",
+     "v": "generative art"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Gazette Drouot auction image. Horizontal rules building a stepped profile out of density alone. The silhouette suggests the Sainte-Victoire works, where Cézanne's mountain is reduced to a line, but ⚠️ THAT IS MY READING OF THE PICTURE, NOT A STATED TITLE, and the year is not given. Sent by Todd 2026-09-12 as a batch of URLs for these two artists. Fetched and measured before minting; the shrink-and-restore test was run on every file to catch CDN upscaling.",
+   "hue": null,
+   "light": 0.4443,
+   "chroma": 0.0029,
+   "punch": 0.0122
+  },
+  "todd-sent-2026-09-12::molnar-lines-black-blue": {
+   "id": "CRVI003261",
+   "minted": "2026-09-12",
+   "original_file": "originals/CRVI003261.webp",
+   "original_px": [
+    1200,
+    1198
+   ],
+   "original_bytes": 31582,
+   "identity": "todd-sent-2026-09-12::molnar-lines-black-blue",
+   "source_url": "https://static-assets.artlogic.net/w_1200,c_limit,f_auto,fl_lossy,q_auto/ws-artlogicwebsite3047/usr/images/artists/group_images_override/items/3f/3f922a4bc4a1408b86c0950289485c64/vm0007-image.jpg",
+   "source_page": "",
+   "maker": "Vera Molnár",
+   "title": "Untitled",
+   "subtitle": "",
+   "year": "",
+   "label": "",
+   "verified_against": "From a gallery's Artlogic asset store; the file is an inventory reference ('vm0007'). Black and blue straight lines crossing a white ground. ⚠️ TITLE AND YEAR NOT STATED. Sent by Todd 2026-09-12 as a batch of URLs for these two artists. Fetched and measured before minting; the shrink-and-restore test was run on every file to catch CDN upscaling.",
+   "source_image": "/private/tmp/claude-501/-Users-todd/539c6d41-aeb8-4169-b453-07d901464457/scratchpad/newadds/VM_22.webp",
+   "source_px": [
+    1200,
+    1198
+   ],
+   "colors": [
+    "blue",
+    "white"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Vera Molnár"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "subject",
+     "v": "generative art"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "From a gallery's Artlogic asset store; the file is an inventory reference ('vm0007'). Black and blue straight lines crossing a white ground. ⚠️ TITLE AND YEAR NOT STATED. Sent by Todd 2026-09-12 as a batch of URLs for these two artists. Fetched and measured before minting; the shrink-and-restore test was run on every file to catch CDN upscaling.",
+   "hue": null,
+   "light": 0.7972,
+   "chroma": 0.0751,
+   "punch": 0.0364
+  },
+  "todd-sent-2026-09-12::molnar-sainte-victoire-2017": {
+   "id": "CRVI003262",
+   "minted": "2026-09-12",
+   "original_file": "originals/CRVI003262.jpg",
+   "original_px": [
+    1195,
+    1200
+   ],
+   "original_bytes": 165280,
+   "identity": "todd-sent-2026-09-12::molnar-sainte-victoire-2017",
+   "source_url": "https://cdn.drouot.com/d/uploads/322/uploads/Image/VeraMOLNAR_SainteVictoire%2Cfragments(etudes)%2C2017_2000-2500%E2%82%AC.jpg",
+   "source_page": "",
+   "maker": "Vera Molnár",
+   "title": "Sainte-Victoire, fragments (études)",
+   "subtitle": "",
+   "year": "2017",
+   "label": "",
+   "verified_against": "Drouot; the file is named 'VeraMOLNAR_SainteVictoire,fragments(etudes),2017' with an estimate attached, so title and year come from the auction house's own cataloguing. Framed, orange and blue, the mountain reduced to stepped blocks. Sent by Todd 2026-09-12 as a batch of URLs for these two artists. Fetched and measured before minting; the shrink-and-restore test was run on every file to catch CDN upscaling.",
+   "source_image": "/private/tmp/claude-501/-Users-todd/539c6d41-aeb8-4169-b453-07d901464457/scratchpad/newadds/VM_24.jpg",
+   "source_px": [
+    1195,
+    1200
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "artist",
+     "v": "Vera Molnár"
+    },
+    {
+     "k": "location",
+     "v": "France"
+    },
+    {
+     "k": "type",
+     "v": "print"
+    },
+    {
+     "k": "decade",
+     "v": "2010s"
+    },
+    {
+     "k": "subject",
+     "v": "generative art"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Drouot; the file is named 'VeraMOLNAR_SainteVictoire,fragments(etudes),2017' with an estimate attached, so title and year come from the auction house's own cataloguing. Framed, orange and blue, the mountain reduced to stepped blocks. Sent by Todd 2026-09-12 as a batch of URLs for these two artists. Fetched and measured before minting; the shrink-and-restore test was run on every file to catch CDN upscaling.",
+   "hue": 15.03,
+   "light": 0.6712,
+   "chroma": 0.4095,
+   "punch": 0.1916
   }
  }
 }
