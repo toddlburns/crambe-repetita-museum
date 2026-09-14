@@ -750,18 +750,6 @@ is misidentified, please get in touch: it will be fixed and the correction noted
     # saturated navy earns less punch than the same colour at mid lightness — but it is punch.
     DARK_PUNCH = 0.12    # dark, but genuinely coloured; NOT chroma
     PALE      = 0.62     # a neutral above this leads the ramp; below it, it trails
-    # ⚠️ THE HUE MUST BE QUANTISED OR THE SECOND SORT KEY IS DEAD, which is what made the ramp
-    # read as noise. Todd, 2026-09-13: "these all feel like they're not quite a smooth section of
-    # color." Hue is a float, and 1,379 bright items carried 1,265 DISTINCT hue values — only 114
-    # ties — so `(hue, -light)` almost never reached the lightness term and value jittered at
-    # random inside one colour. Twenty consecutive items all sat at hue 42.0-42.8 while lightness
-    # bounced 0.55 / 0.48 / 0.65 / 0.37 / 0.73.
-    #
-    # Banding to 8° cuts mean neighbour lightness change from 0.141 to 0.024 and jumps over 0.25
-    # from 16% of steps to 2%, while the mean hue step only goes 0.3° -> 2.3°, which the eye
-    # cannot see. Measured across 4/6/8/12/16°; 8 is where the curve flattens. Widening further
-    # keeps smoothing value but starts showing the colour steps.
-    HUE_BAND = 8.0
     def color_order(idxs):
         def key(i):
             it = items[i]
@@ -769,12 +757,12 @@ is misidentified, please get in touch: it will be fixed and the correction noted
             lt = it.get("light") if it.get("light") is not None else 0.5
             p = it.get("punch") or 0.0
             if h is not None and p >= PUNCH_BAR:
-                return (1, int(h // HUE_BAND), -lt, -p)   # the bright wheel, light to dark in-band
+                return (1, h, -lt)                    # the bright wheel, light to dark within a hue
             if lt >= PALE:
-                return (0, -lt, 0.0, 0.0)                 # whites lead
+                return (0, -lt, 0.0)                  # whites lead
             if h is not None and p >= DARK_PUNCH:
-                return (2, int(h // HUE_BAND), -lt, -p)   # the dark wheel, same banding
-            return (3, -lt, 0.0, 0.0)                     # true greys, down to black
+                return (2, h, -lt)                    # the dark wheel
+            return (3, -lt, 0.0)                      # true greys, down to black
         return sorted(idxs, key=key)
 
     for (k, v), idxs in by_tag.items():
