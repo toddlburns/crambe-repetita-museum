@@ -93699,7 +93699,7 @@
     3200
    ],
    "original_bytes": 1710260,
-   "maker": "Shōzō Shimamoto",
+   "maker": "Shozo Shimamoto",
    "title": "Untitled",
    "subtitle": "",
    "year": "",
@@ -162988,7 +162988,7 @@
    ],
    "original_bytes": 389782,
    "maker": "Virgil Finlay",
-   "title": "Untitled",
+   "title": "Science-fiction book-club illustration",
    "subtitle": "for the Science Fiction Book Club Newsletter",
    "year": "",
    "tags": [
@@ -164403,8 +164403,8 @@
     1703
    ],
    "original_bytes": 267284,
-   "maker": "Helmut Brade",
-   "title": "Untitled",
+   "maker": "Hans-Helmut Brade",
+   "title": "Exhibition / theatre poster",
    "subtitle": "",
    "year": "",
    "tags": [
@@ -164640,7 +164640,7 @@
    ],
    "original_bytes": 245086,
    "maker": "Holger Matthies",
-   "title": "Untitled",
+   "title": "Poster",
    "subtitle": "",
    "year": "",
    "tags": [
@@ -177496,9 +177496,9 @@
    ],
    "original_bytes": 5420209,
    "maker": "Lewis Hine",
-   "title": "Untitled",
+   "title": "Child Laborer",
    "subtitle": "",
-   "year": "",
+   "year": "1908",
    "tags": [
     {
      "k": "type",
@@ -177511,6 +177511,10 @@
     {
      "k": "location",
      "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1900s"
     },
     {
      "k": "color",
@@ -179976,9 +179980,9 @@
    ],
    "original_bytes": 4476467,
    "maker": "Frida Kahlo",
-   "title": "Untitled",
+   "title": "Without Hope",
    "subtitle": "",
-   "year": "",
+   "year": "1945",
    "tags": [
     {
      "k": "type",
@@ -179987,6 +179991,10 @@
     {
      "k": "artist",
      "v": "Frida Kahlo"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
     },
     {
      "k": "color",
@@ -180496,7 +180504,7 @@
    ],
    "original_bytes": 1448342,
    "maker": "Keisai Eisen",
-   "title": "Untitled",
+   "title": "Carp Ascending a Waterfall",
    "subtitle": "",
    "year": "",
    "tags": [
@@ -180507,6 +180515,10 @@
     {
      "k": "artist",
      "v": "Keisai Eisen"
+    },
+    {
+     "k": "medium",
+     "v": "color woodblock print"
     },
     {
      "k": "color",
@@ -180540,7 +180552,7 @@
    ],
    "original_bytes": 2870622,
    "maker": "Keisai Eisen",
-   "title": "Untitled",
+   "title": "Sparrows, Bamboo and Falling Snow",
    "subtitle": "",
    "year": "",
    "tags": [
@@ -180551,6 +180563,10 @@
     {
      "k": "artist",
      "v": "Keisai Eisen"
+    },
+    {
+     "k": "medium",
+     "v": "color woodblock print"
     },
     {
      "k": "color",
@@ -180580,7 +180596,7 @@
    ],
    "original_bytes": 3023757,
    "maker": "Keisai Eisen",
-   "title": "Untitled",
+   "title": "Pictures of Eastern Brocade (from the series Famous Products of Edo)",
    "subtitle": "",
    "year": "",
    "tags": [
@@ -180591,6 +180607,10 @@
     {
      "k": "artist",
      "v": "Keisai Eisen"
+    },
+    {
+     "k": "medium",
+     "v": "color woodblock print"
     },
     {
      "k": "color",
@@ -180620,7 +180640,7 @@
    ],
    "original_bytes": 2715508,
    "maker": "Keisai Eisen",
-   "title": "Untitled",
+   "title": "The Courtesan Hanamurasaki of the Tsuchiya (from the series Beauties in their Finery amid Mallow Flowers)",
    "subtitle": "",
    "year": "",
    "tags": [
@@ -180631,6 +180651,10 @@
     {
      "k": "artist",
      "v": "Keisai Eisen"
+    },
+    {
+     "k": "medium",
+     "v": "color woodblock print"
     },
     {
      "k": "color",
@@ -180992,9 +181016,9 @@
    ],
    "original_bytes": 3000364,
    "maker": "Katsushika Hokusai",
-   "title": "Untitled",
+   "title": "Poem by Emperor Sanjo, from the series One Hundred Poems by One Hundred Poets Explained by an Old Nurse",
    "subtitle": "",
-   "year": "",
+   "year": "1835",
    "tags": [
     {
      "k": "type",
@@ -181003,6 +181027,14 @@
     {
      "k": "artist",
      "v": "Katsushika Hokusai"
+    },
+    {
+     "k": "decade",
+     "v": "1830s"
+    },
+    {
+     "k": "medium",
+     "v": "color woodblock print"
     },
     {
      "k": "color",
@@ -181036,9 +181068,9 @@
    ],
    "original_bytes": 3912058,
    "maker": "Katsushika Hokusai",
-   "title": "Untitled",
+   "title": "Poem by Kakinomoto no Hitomaro, from One Hundred Poems by One Hundred Poets Explained by an Old Nurse",
    "subtitle": "",
-   "year": "",
+   "year": "1835",
    "tags": [
     {
      "k": "type",
@@ -181047,6 +181079,14 @@
     {
      "k": "artist",
      "v": "Katsushika Hokusai"
+    },
+    {
+     "k": "decade",
+     "v": "1830s"
+    },
+    {
+     "k": "medium",
+     "v": "color woodblock print"
     },
     {
      "k": "color",
@@ -181952,7 +181992,7 @@
    ],
    "original_bytes": 132150,
    "maker": "Meret Oppenheim",
-   "title": "Untitled",
+   "title": "Steinfrau",
    "subtitle": "",
    "year": "",
    "tags": [
@@ -182176,7 +182216,7 @@
    ],
    "original_bytes": 291781,
    "maker": "Hilma af Klint",
-   "title": "Untitled",
+   "title": "Svanen",
    "subtitle": "",
    "year": "",
    "tags": [
@@ -182968,7 +183008,7 @@
    ],
    "original_bytes": 353760,
    "maker": "Kay Nielsen",
-   "title": "Untitled",
+   "title": "East of the Sun and West of the Moon — plate",
    "subtitle": "",
    "year": "",
    "tags": [
@@ -183012,7 +183052,7 @@
    ],
    "original_bytes": 398592,
    "maker": "Kay Nielsen",
-   "title": "Untitled",
+   "title": "East of the Sun and West of the Moon — plate",
    "subtitle": "",
    "year": "",
    "tags": [
