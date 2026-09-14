@@ -198568,10 +198568,10 @@
    "minted": "2026-09-12",
    "original_file": "originals/CRVI003263.jpg",
    "original_px": [
-    3821,
-    5212
+    3052,
+    4425
    ],
-   "original_bytes": 3660345,
+   "original_bytes": 6592573,
    "identity": "todd-sent-2026-09-12::zawada-burning-mirrors-ruff",
    "source_url": "https://d32dm0rphc51dk.cloudfront.net/fdYdqDZmoXT8BWc4P8JLGw/normalized.jpg",
    "source_page": "https://www.artsy.net/artwork/jonathan-zawada-no-youre-not-yes-i-am",
@@ -198619,20 +198619,38 @@
    "identity_established": true,
    "published": true,
    "verification": "From 'On Burning Mirrors', Jonathan Zawada's solo show at CALM & PUNK GALLERY, Tokyo, 2022. The gallery describes these portraits as worked up from machine-learning output prompted with 'portrait of a realistic sculpture of a colorful medieval peasant with animal parts' — which is what is on the canvas, animal parts included. Artsy gives the medium for this body of work as acrylic and gouache on linen, and the gallery as CALM & PUNK GALLERY / GASBON METABOLISM. This one is the bearded figure in a white ruff. ⚠️ ONE OF THE TWO PAINTINGS IN THIS BATCH IS TITLED 'No You're Not. Yes, I Am.' (2022) — Todd supplied that Artsy link — BUT WHICH ONE IS NOT ESTABLISHED. Artsy 403s every non-browser client so the artwork page could not be matched to an image asset. Both are therefore recorded untitled rather than one of them being given a title it may not have. ⚠️ RECOVERED FROM AN UPSCALE. Todd's link went through Artsy's d7hftxdivxxvm resizer, which served 1407x1920 from a master that is really 751x1024 — it tested at under 2.0/255 on a shrink-and-restore, i.e. no detail at the size it claimed. ⚠️ ON ARTSY, 'larger.jpg' IS NOT THE LARGEST: larger=751x1024 but normalized=3821x5212 and main=3754x5120. This file is normalized.jpg and tests as real detail.",
-   "hue": 206.76,
-   "light": 0.6049,
-   "chroma": 0.5536,
-   "punch": 0.2612
+   "hue": 206.74,
+   "light": 0.517,
+   "chroma": 0.8017,
+   "punch": 0.3782,
+   "crop": {
+    "box": [
+     430,
+     364,
+     3482,
+     4789
+    ],
+    "was": [
+     3821,
+     5212
+    ],
+    "now": [
+     3052,
+     4425
+    ],
+    "uncropped": "originals_uncropped/CRVI003263.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "todd-sent-2026-09-12::zawada-burning-mirrors-hood": {
    "id": "CRVI003264",
    "minted": "2026-09-12",
    "original_file": "originals/CRVI003264.jpg",
    "original_px": [
-    3821,
-    5212
+    3131,
+    4538
    ],
-   "original_bytes": 3702526,
+   "original_bytes": 5674510,
    "identity": "todd-sent-2026-09-12::zawada-burning-mirrors-hood",
    "source_url": "https://d32dm0rphc51dk.cloudfront.net/Llo1Vs5Xrr8YOnlmUPam-g/normalized.jpg",
    "source_page": "https://www.artsy.net/artwork/jonathan-zawada-no-youre-not-yes-i-am",
@@ -198680,10 +198698,28 @@
    "identity_established": true,
    "published": true,
    "verification": "From 'On Burning Mirrors', Jonathan Zawada's solo show at CALM & PUNK GALLERY, Tokyo, 2022. The gallery describes these portraits as worked up from machine-learning output prompted with 'portrait of a realistic sculpture of a colorful medieval peasant with animal parts' — which is what is on the canvas, animal parts included. Artsy gives the medium for this body of work as acrylic and gouache on linen, and the gallery as CALM & PUNK GALLERY / GASBON METABOLISM. This one is the hooded figure with a green frog at the mouth. ⚠️ ONE OF THE TWO PAINTINGS IN THIS BATCH IS TITLED 'No You're Not. Yes, I Am.' (2022) — Todd supplied that Artsy link — BUT WHICH ONE IS NOT ESTABLISHED. Artsy 403s every non-browser client so the artwork page could not be matched to an image asset. Both are therefore recorded untitled rather than one of them being given a title it may not have. ⚠️ RECOVERED FROM AN UPSCALE. Todd's link went through Artsy's d7hftxdivxxvm resizer, which served 1407x1920 from a master that is really 751x1024 — it tested at under 2.0/255 on a shrink-and-restore, i.e. no detail at the size it claimed. ⚠️ ON ARTSY, 'larger.jpg' IS NOT THE LARGEST: larger=751x1024 but normalized=3821x5212 and main=3754x5120. This file is normalized.jpg and tests as real detail.",
-   "hue": 212.53,
-   "light": 0.5814,
-   "chroma": 0.6598,
-   "punch": 0.289
+   "hue": 212.51,
+   "light": 0.5049,
+   "chroma": 0.9201,
+   "punch": 0.3993,
+   "crop": {
+    "box": [
+     344,
+     304,
+     3475,
+     4842
+    ],
+    "was": [
+     3821,
+     5212
+    ],
+    "now": [
+     3131,
+     4538
+    ],
+    "uncropped": "originals_uncropped/CRVI003264.jpg",
+    "decided": "by Todd, by hand"
+   }
   },
   "todd-sent-2026-09-12::molnar-tall-line-segments": {
    "id": "CRVI003265",

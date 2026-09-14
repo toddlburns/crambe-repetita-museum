@@ -171237,7 +171237,7 @@
    "id": "CRVI003263",
    "published": true,
    "minted": "2026-09-12",
-   "punch": 0.2612,
+   "punch": 0.3782,
    "source_url": "https://www.artsy.net/artwork/jonathan-zawada-no-youre-not-yes-i-am",
    "animated": false,
    "video": false,
@@ -171247,10 +171247,10 @@
    "original": "originals/CRVI003263.jpg",
    "vector": "",
    "original_px": [
-    3821,
-    5212
+    3052,
+    4425
    ],
-   "original_bytes": 3660345,
+   "original_bytes": 6592573,
    "maker": "Jonathan Zawada",
    "title": "Untitled",
    "subtitle": "from On Burning Mirrors",
@@ -171289,15 +171289,15 @@
      "v": "red"
     }
    ],
-   "hue": 206.76,
-   "light": 0.6049,
-   "chroma": 0.5536
+   "hue": 206.74,
+   "light": 0.517,
+   "chroma": 0.8017
   },
   {
    "id": "CRVI003264",
    "published": true,
    "minted": "2026-09-12",
-   "punch": 0.289,
+   "punch": 0.3993,
    "source_url": "https://www.artsy.net/artwork/jonathan-zawada-no-youre-not-yes-i-am",
    "animated": false,
    "video": false,
@@ -171307,10 +171307,10 @@
    "original": "originals/CRVI003264.jpg",
    "vector": "",
    "original_px": [
-    3821,
-    5212
+    3131,
+    4538
    ],
-   "original_bytes": 3702526,
+   "original_bytes": 5674510,
    "maker": "Jonathan Zawada",
    "title": "Untitled",
    "subtitle": "from On Burning Mirrors",
@@ -171349,9 +171349,9 @@
      "v": "orange"
     }
    ],
-   "hue": 212.53,
-   "light": 0.5814,
-   "chroma": 0.6598
+   "hue": 212.51,
+   "light": 0.5049,
+   "chroma": 0.9201
   },
   {
    "id": "CRVI003265",
