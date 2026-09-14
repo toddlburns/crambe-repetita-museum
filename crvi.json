@@ -168036,7 +168036,7 @@
    ],
    "original_bytes": 1208580,
    "maker": "Abram Games",
-   "title": "Untitled",
+   "title": "British Army Exhibition",
    "subtitle": "British Army poster",
    "year": "",
    "tags": [
@@ -176952,7 +176952,7 @@
    ],
    "original_bytes": 3896454,
    "maker": "Alfred Stieglitz",
-   "title": "Untitled",
+   "title": "Georgia O'Keeffe",
    "subtitle": "",
    "year": "",
    "tags": [
@@ -177176,9 +177176,9 @@
    ],
    "original_bytes": 1187130,
    "maker": "Steve Schapiro",
-   "title": "Untitled",
+   "title": "Bill Evans",
    "subtitle": "",
-   "year": "",
+   "year": "1961",
    "tags": [
     {
      "k": "type",
@@ -177191,6 +177191,10 @@
     {
      "k": "location",
      "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
     },
     {
      "k": "color",
@@ -177264,9 +177268,9 @@
    ],
    "original_bytes": 232598,
    "maker": "Steve Schapiro",
-   "title": "Untitled",
+   "title": "VOTE, Selma March",
    "subtitle": "",
-   "year": "",
+   "year": "1965",
    "tags": [
     {
      "k": "type",
@@ -177312,9 +177316,9 @@
    ],
    "original_bytes": 1435363,
    "maker": "Margaret Bourke-White",
-   "title": "Untitled",
+   "title": "Statue of Liberty",
    "subtitle": "",
-   "year": "",
+   "year": "1936",
    "tags": [
     {
      "k": "type",
@@ -177535,10 +177539,10 @@
     937
    ],
    "original_bytes": 78062,
-   "maker": "Marvin Newman",
-   "title": "Untitled",
+   "maker": "Marvin E. Newman",
+   "title": "Coney Island",
    "subtitle": "",
-   "year": "",
+   "year": "1953",
    "tags": [
     {
      "k": "type",
@@ -177551,6 +177555,10 @@
     {
      "k": "location",
      "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1950s"
     },
     {
      "k": "color",
@@ -177624,7 +177632,7 @@
    ],
    "original_bytes": 778057,
    "maker": "Andreas Feininger",
-   "title": "Untitled",
+   "title": "Portfolio of Shells",
    "subtitle": "",
    "year": "",
    "tags": [
@@ -177668,7 +177676,7 @@
    ],
    "original_bytes": 736442,
    "maker": "Andreas Feininger",
-   "title": "Untitled",
+   "title": "Portfolio of Shells",
    "subtitle": "",
    "year": "",
    "tags": [
@@ -177800,7 +177808,7 @@
    ],
    "original_bytes": 902228,
    "maker": "Andreas Feininger",
-   "title": "Untitled",
+   "title": "Portfolio of Shells",
    "subtitle": "",
    "year": "",
    "tags": [
@@ -178036,9 +178044,9 @@
    ],
    "original_bytes": 191817,
    "maker": "Eugene de Salignac",
-   "title": "Untitled",
+   "title": "Brooklyn Bridge",
    "subtitle": "",
-   "year": "",
+   "year": "1914",
    "tags": [
     {
      "k": "type",
@@ -178051,6 +178059,10 @@
     {
      "k": "location",
      "v": "United States"
+    },
+    {
+     "k": "decade",
+     "v": "1910s"
     },
     {
      "k": "color",
@@ -179043,18 +179055,18 @@
     2499
    ],
    "original_bytes": 1292267,
-   "maker": "Unknown",
-   "title": "Untitled",
+   "maker": "Piero Portaluppi",
+   "title": "A desk by P. Portaluppi",
    "subtitle": "",
    "year": "",
    "tags": [
     {
-     "k": "type",
-     "v": "architecture"
-    },
-    {
      "k": "artist",
      "v": "Piero Portaluppi"
+    },
+    {
+     "k": "type",
+     "v": "furniture"
     },
     {
      "k": "color",
@@ -179748,9 +179760,9 @@
    ],
    "original_bytes": 595121,
    "maker": "Henri Matisse",
-   "title": "Untitled",
+   "title": "Woman in a Purple Coat",
    "subtitle": "",
-   "year": "",
+   "year": "1937",
    "tags": [
     {
      "k": "type",
@@ -180096,9 +180108,9 @@
    ],
    "original_bytes": 1473312,
    "maker": "Frida Kahlo",
-   "title": "Untitled",
+   "title": "Self Portrait",
    "subtitle": "",
-   "year": "",
+   "year": "1940",
    "tags": [
     {
      "k": "type",
@@ -180144,9 +180156,9 @@
    ],
    "original_bytes": 1571472,
    "maker": "Frida Kahlo",
-   "title": "Untitled",
+   "title": "Self Portrait",
    "subtitle": "",
-   "year": "",
+   "year": "1940",
    "tags": [
     {
      "k": "type",
@@ -180648,9 +180660,9 @@
    ],
    "original_bytes": 2558688,
    "maker": "Keisai Eisen",
-   "title": "Untitled",
+   "title": "Winter Landscape",
    "subtitle": "",
-   "year": "",
+   "year": "1790",
    "tags": [
     {
      "k": "type",
@@ -180659,6 +180671,14 @@
     {
      "k": "artist",
      "v": "Keisai Eisen"
+    },
+    {
+     "k": "decade",
+     "v": "1790s"
+    },
+    {
+     "k": "medium",
+     "v": "Woodblock print; ink and color on paper"
     },
     {
      "k": "color",
@@ -180692,9 +180712,9 @@
    ],
    "original_bytes": 3012168,
    "maker": "Keisai Eisen",
-   "title": "Untitled",
+   "title": "Koi",
    "subtitle": "",
-   "year": "",
+   "year": "1832",
    "tags": [
     {
      "k": "type",
@@ -180703,6 +180723,14 @@
     {
      "k": "artist",
      "v": "Keisai Eisen"
+    },
+    {
+     "k": "decade",
+     "v": "1830s"
+    },
+    {
+     "k": "medium",
+     "v": "Woodblock print; ink and color on paper"
     },
     {
      "k": "color",
@@ -180736,9 +180764,9 @@
    ],
    "original_bytes": 3505237,
    "maker": "Keisai Eisen",
-   "title": "Untitled",
+   "title": "Potted Pine Tree and Koto (Japanese Harp)",
    "subtitle": "",
-   "year": "",
+   "year": "1800",
    "tags": [
     {
      "k": "type",
@@ -180747,6 +180775,14 @@
     {
      "k": "artist",
      "v": "Keisai Eisen"
+    },
+    {
+     "k": "decade",
+     "v": "1800s"
+    },
+    {
+     "k": "medium",
+     "v": "Part of an album of woodblock prints (surimono); ink and col"
     },
     {
      "k": "color",
@@ -180904,9 +180940,9 @@
    ],
    "original_bytes": 2847061,
    "maker": "Keisai Eisen",
-   "title": "Untitled",
+   "title": "Kegon Waterfall",
    "subtitle": "",
-   "year": "",
+   "year": "1790",
    "tags": [
     {
      "k": "type",
@@ -180915,6 +180951,14 @@
     {
      "k": "artist",
      "v": "Keisai Eisen"
+    },
+    {
+     "k": "decade",
+     "v": "1790s"
+    },
+    {
+     "k": "medium",
+     "v": "Woodblock print; ink and color on paper"
     },
     {
      "k": "color",
@@ -181208,7 +181252,7 @@
    ],
    "original_bytes": 1851547,
    "maker": "Katsushika Hokusai",
-   "title": "Untitled",
+   "title": "Ocean waves",
    "subtitle": "",
    "year": "",
    "tags": [
@@ -181472,9 +181516,9 @@
    ],
    "original_bytes": 1079276,
    "maker": "Albrecht Dürer",
-   "title": "Untitled",
+   "title": "The Large Turf",
    "subtitle": "",
-   "year": "",
+   "year": "1503",
    "tags": [
     {
      "k": "type",
@@ -181651,10 +181695,10 @@
     1932
    ],
    "original_bytes": 1970341,
-   "maker": "Lucas Cranach",
-   "title": "Untitled",
+   "maker": "Lucas Cranach the Elder",
+   "title": "Samson and Delilah",
    "subtitle": "",
-   "year": "",
+   "year": "1528",
    "tags": [
     {
      "k": "type",
@@ -181663,6 +181707,14 @@
     {
      "k": "artist",
      "v": "Lucas Cranach"
+    },
+    {
+     "k": "decade",
+     "v": "1520s"
+    },
+    {
+     "k": "medium",
+     "v": "Oil on beech"
     },
     {
      "k": "color",
@@ -181696,9 +181748,9 @@
    ],
    "original_bytes": 3236705,
    "maker": "Giovanni Bellini",
-   "title": "Untitled",
+   "title": "Madonna and Child",
    "subtitle": "",
-   "year": "",
+   "year": "1487",
    "tags": [
     {
      "k": "type",
@@ -181707,6 +181759,14 @@
     {
      "k": "artist",
      "v": "Giovanni Bellini"
+    },
+    {
+     "k": "decade",
+     "v": "1480s"
+    },
+    {
+     "k": "medium",
+     "v": "Oil on wood"
     },
     {
      "k": "color",
@@ -181740,9 +181800,9 @@
    ],
    "original_bytes": 4106630,
    "maker": "Giovanni Bellini",
-   "title": "Untitled",
+   "title": "Madonna and Child",
    "subtitle": "",
-   "year": "",
+   "year": "1467",
    "tags": [
     {
      "k": "type",
@@ -181751,6 +181811,14 @@
     {
      "k": "artist",
      "v": "Giovanni Bellini"
+    },
+    {
+     "k": "decade",
+     "v": "1460s"
+    },
+    {
+     "k": "medium",
+     "v": "Tempera, oil, and gold on wood"
     },
     {
      "k": "color",
@@ -181784,9 +181852,9 @@
    ],
    "original_bytes": 2436612,
    "maker": "Giovanni Bellini",
-   "title": "Untitled",
+   "title": "Madonna Adoring the Sleeping Child",
    "subtitle": "",
-   "year": "",
+   "year": "1460",
    "tags": [
     {
      "k": "type",
@@ -181795,6 +181863,14 @@
     {
      "k": "artist",
      "v": "Giovanni Bellini"
+    },
+    {
+     "k": "decade",
+     "v": "1460s"
+    },
+    {
+     "k": "medium",
+     "v": "Tempera on wood"
     },
     {
      "k": "color",
@@ -181828,9 +181904,9 @@
    ],
    "original_bytes": 305588,
    "maker": "Frida Kahlo",
-   "title": "Untitled",
+   "title": "What the Water Gave Me",
    "subtitle": "",
-   "year": "",
+   "year": "1938",
    "tags": [
     {
      "k": "type",
@@ -181964,9 +182040,9 @@
    ],
    "original_bytes": 36245,
    "maker": "Hans Arp",
-   "title": "Untitled",
+   "title": "Clouds Creature",
    "subtitle": "",
-   "year": "",
+   "year": "1961",
    "tags": [
     {
      "k": "type",
@@ -181975,6 +182051,10 @@
     {
      "k": "artist",
      "v": "Hans Arp"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
     },
     {
      "k": "color",
@@ -182184,9 +182264,9 @@
    ],
    "original_bytes": 3743538,
    "maker": "Michel Eugène Chevreul",
-   "title": "Untitled",
+   "title": "Des Couleurs et de leurs Applications aux Arts Industriels à l'Aide de Cercles Chromatiques",
    "subtitle": "",
-   "year": "",
+   "year": "1864",
    "tags": [
     {
      "k": "type",
@@ -182195,6 +182275,14 @@
     {
      "k": "artist",
      "v": "Michel Eugène Chevreul"
+    },
+    {
+     "k": "decade",
+     "v": "1860s"
+    },
+    {
+     "k": "medium",
+     "v": "Steel plate engraving, printed in color"
     },
     {
      "k": "color",
@@ -182356,9 +182444,9 @@
    ],
    "original_bytes": 2089632,
    "maker": "Michel Eugène Chevreul",
-   "title": "Untitled",
+   "title": "Des Couleurs et de leurs Applications aux Arts Industriels à l'Aide de Cercles Chromatiques",
    "subtitle": "",
-   "year": "",
+   "year": "1864",
    "tags": [
     {
      "k": "type",
@@ -182367,6 +182455,14 @@
     {
      "k": "artist",
      "v": "Michel Eugène Chevreul"
+    },
+    {
+     "k": "decade",
+     "v": "1860s"
+    },
+    {
+     "k": "medium",
+     "v": "Steel plate engraving, printed in color"
     },
     {
      "k": "color",
@@ -183860,9 +183956,9 @@
    ],
    "original_bytes": 186260,
    "maker": "Herwarth Walden",
-   "title": "Untitled",
+   "title": "Der Sturm, 18. Jahrgang, November 1927",
    "subtitle": "",
-   "year": "",
+   "year": "1927",
    "tags": [
     {
      "k": "type",
@@ -183871,6 +183967,10 @@
     {
      "k": "artist",
      "v": "Herwarth Walden"
+    },
+    {
+     "k": "decade",
+     "v": "1920s"
     },
     {
      "k": "color",
