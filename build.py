@@ -457,6 +457,99 @@ def work_line(it, up):
     return "".join(bits)
 
 
+
+# ── pass 3: crossing facets ─────────────────────────────────────────────────────────────────
+# Todd, 2026-09-13, asked what search is FOR and chose "crossing facets to ask questions" over
+# "finding a known thing". A tag page already answers ONE facet; the questions he actually asks
+# are two or three at once — "which 1960s jazz covers do I like?", "Japanese posters in orange".
+# He also chose to SKIP the review surface that pass 3 was going to bundle, so this is search only.
+#
+# ⚠️ IT IS ENTIRELY CLIENT-SIDE AND THAT IS NOT A COMPROMISE. The whole index over 3,519 items is
+# ~108 KB gzipped, so every facet and every name ships with the page and filtering is instant with
+# no server, which the static Pages hosting could not have given us anyway.
+#
+# ⚠️ SMALL FACETS ARE CLICKABLE, BIG ONES ARE TYPED. type/decade/location/movement/genre/color/
+# motif/medium/city are 4-64 values each and list comfortably. artist/designer/musician/client/
+# label/photographer run 269-546 values and would be a wall, so they are reached through the text
+# box instead. Same data, different door.
+FIND_CSS = """
+.find .pick{border-top:1px solid var(--rule);padding:12px 0 14px;display:grid;
+ grid-template-columns:150px 1fr;gap:22px;align-items:start}
+.find .pick:first-of-type{border-top:none}
+.find .pick h2{font:600 10px/1.4 var(--mono);letter-spacing:.16em;text-transform:uppercase}
+.find .vals{display:flex;flex-wrap:wrap;gap:4px 6px}
+.find .vals button{font:12px/1 var(--sans);color:var(--mute);background:none;
+ border:1px solid var(--rule);padding:4px 8px;cursor:pointer}
+.find .vals button:hover{color:var(--ink);border-color:var(--ink)}
+.find .vals button[aria-pressed="true"]{color:var(--paper);background:var(--ink);border-color:var(--ink)}
+.find .vals button .n{font:10px/1 var(--mono);opacity:.55;margin-left:5px}
+.find input[type=search]{font:13px/1 var(--sans);color:var(--ink);background:none;
+ border:1px solid var(--rule);padding:7px 9px;width:100%;max-width:420px}
+.find input[type=search]:focus{outline:none;border-color:var(--ink)}
+.find .count{font:600 10px/1.4 var(--mono);letter-spacing:.16em;text-transform:uppercase;
+ padding:14px 0 4px;border-top:1px solid var(--rule)}
+.find .count b{font-weight:600}
+.find .clear{font:11px/1 var(--sans);color:var(--mute);background:none;border:none;
+ cursor:pointer;text-decoration:underline;margin-left:10px}
+.find .clear:hover{color:var(--ink)}
+.find .none{color:var(--mute);padding:30px 0}
+"""
+
+FIND_JS = """
+(function(){
+var D=window.CRVI||[], sel={}, q="";
+var grid=document.getElementById("fgrid"), cnt=document.getElementById("fcount");
+function on(k,v){return (sel[k]||[]).indexOf(v)>=0}
+function match(it){
+  for(var k in sel){
+    if(!sel[k].length) continue;
+    var got=false;
+    for(var i=0;i<it[3].length;i++){
+      var t=it[3][i], c=t.indexOf(":");
+      if(t.slice(0,c)===k && sel[k].indexOf(t.slice(c+1))>=0){got=true;break}
+    }
+    if(!got) return false;               /* AND across facets, OR inside one */
+  }
+  if(q){
+    var hay=(it[0]+" "+it[1]+" "+it[2]+" "+it[3].join(" ")).toLowerCase();
+    var parts=q.split(/\s+/);
+    for(var j=0;j<parts.length;j++) if(hay.indexOf(parts[j])<0) return false;
+  }
+  return true;
+}
+function draw(){
+  var hits=D.filter(match), n=hits.length;
+  cnt.innerHTML="<b>"+n+"</b> of "+D.length+
+    (n<D.length?' <button class="clear" id="fclear">clear</button>':"");
+  if(!n){ grid.innerHTML='<div class="none">Nothing matches all of those at once.</div>'; wire(); return }
+  /* ⚠️ Only matches are put in the DOM. Rendering all 3,519 cells and hiding most of them
+     costs a second of layout on every keystroke; building the matched set does not. */
+  var h=[];
+  for(var i=0;i<n;i++){var it=hits[i];
+    h.push('<a class="cell" href="../'+it[0]+'/"><div class="inner"><img src="../thumbs/'+it[0]+
+      '.jpg" loading="lazy" alt=""></div><div class="cap"><span class="n">'+it[0]+'</span>'+
+      esc(it[1])+' - '+esc(it[2])+'</div></a>');}
+  grid.innerHTML=h.join(""); wire();
+}
+function esc(s){return String(s==null?"":s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;")}
+function wire(){var c=document.getElementById("fclear"); if(c) c.onclick=function(){
+  sel={}; q=""; document.getElementById("fq").value="";
+  [].forEach.call(document.querySelectorAll(".vals button"),function(b){b.setAttribute("aria-pressed","false")});
+  draw();};}
+[].forEach.call(document.querySelectorAll(".vals button"),function(b){
+  b.onclick=function(){
+    var k=b.dataset.k,v=b.dataset.v; sel[k]=sel[k]||[];
+    var i=sel[k].indexOf(v);
+    if(i<0){sel[k].push(v);b.setAttribute("aria-pressed","true")}
+    else{sel[k].splice(i,1);b.setAttribute("aria-pressed","false")}
+    draw();};});
+document.getElementById("fq").addEventListener("input",function(e){
+  q=e.target.value.trim().toLowerCase(); draw();});
+draw();
+})();
+"""
+
+
 def main():
     d = json.load(open(DATA))
     # ⚠️ NOTHING UNVERIFIED GOES LIVE. Todd, 2026-08-26, after I published an unattributed
@@ -477,7 +570,7 @@ def main():
     for n in os.listdir(HERE):
         if re.fullmatch(r"CRVI\d{6}", n): shutil.rmtree(os.path.join(HERE, n))
 
-    open(os.path.join(HERE, "style.css"), "w").write(CSS)
+    open(os.path.join(HERE, "style.css"), "w").write(CSS + FIND_CSS)
 
     # ---- one page per item, at its own typeable URL ----
     for i, it in enumerate(items):
@@ -505,7 +598,10 @@ def main():
         # source sits with the tags, at the end, quiet but always present
         # source moved to the top row (see work_line). The bottom right holds the two
         # whole-archive links: `all` takes the auto margin so both sit hard right together.
-        tags += '<a class="src allbtn" href="../all/">all</a>'
+        # ⚠️ 'find' sits BEFORE 'all' so the auto-margin on .allbtn still pushes the pair right.
+        # Putting it after would strand 'all' mid-row and shove 'find' to the far edge alone.
+        tags += '<a class="src allbtn" href="../find/">find</a>'
+        tags += '<a class="src rights" href="../all/">all</a>'
         tags += '<a class="src rights" href="../rights/">rights &amp; use</a>'
         keys = ITEM_JS % (json.dumps(prev) if prev else "null",
                           json.dumps(nxt) if nxt else "null")
@@ -784,6 +880,7 @@ is misidentified, please get in touch: it will be fixed and the correction noted
              f'<span class="c">{len(items)} items</span>'
              '<label class="ord"><input type="checkbox" id="bycolor"> group by color</label>'
              '<label class="ord"><input type="checkbox" id="byrecent"> most recent</label>'
+             '<a href="../find/">find</a>'
              f'<a href="../{items[0]["id"]}/">&#8592; museum</a></div>'
              f'<div class="grid small" id="allgrid">{"".join(acells)}</div>'
              '<script>' + ORDER_JS + '</script>'
@@ -791,6 +888,41 @@ is misidentified, please get in touch: it will be fixed and the correction noted
     os.makedirs(os.path.join(HERE, "all"), exist_ok=True)
     open(os.path.join(HERE, "all", "index.html"), "w").write(
         page("All — Crambe Repetita Museum", abody, 1))
+
+
+    # ---- pass 3: the crossing page ----
+    PICKABLE = ["type", "decade", "location", "movement", "genre", "color", "motif",
+                "medium", "city"]
+    vals = {}
+    for (k, v), idxs in by_tag.items():
+        if k in PICKABLE:
+            vals.setdefault(k, []).append((v, len(idxs)))
+    picks = []
+    for k in PICKABLE:
+        if k not in vals: continue
+        vv = sorted(vals[k], key=lambda x: (-x[1], x[0]))
+        btns = "".join(
+            f'<button type="button" aria-pressed="false" data-k="{esc(k)}" data-v="{esc(v)}">'
+            f'{esc(v)}<span class="n">{n}</span></button>' for v, n in vv)
+        picks.append(f'<div class="pick"><h2>{esc(k)}</h2><div class="vals">{btns}</div></div>')
+    index = [[it["id"], it.get("maker") or "", it.get("title") or "",
+              [f'{t["k"]}:{t["v"]}' for t in shown_tags(it)]] for it in items]
+    fbody = ('<div class="crumb"><span class="t">FIND</span>'
+             f'<span class="c">cross any facets</span>'
+             f'<a href="../all/">all</a><a href="../{items[0]["id"]}/">&#8592; museum</a></div>'
+             '<div class="wrap find">'
+             '<div class="pick"><h2>name or words</h2><div>'
+             '<input type="search" id="fq" placeholder="maker, title, or any tag value" '
+             'autocomplete="off" spellcheck="false"></div></div>'
+             + "".join(picks)
+             + '<div class="count" id="fcount"></div>'
+             '<div class="grid small" id="fgrid"></div></div>'
+             '<script>window.CRVI=' + json.dumps(index, ensure_ascii=False,
+                                                 separators=(",", ":")) + ';</script>'
+             '<script>' + FIND_JS + '</script>')
+    os.makedirs(os.path.join(HERE, "find"), exist_ok=True)
+    open(os.path.join(HERE, "find", "index.html"), "w").write(
+        page("Find — Crambe Repetita Museum", fbody, 1))
 
     print(f'{len(items)} item pages · {len(by_tag)} tag pages · {len(parents)} name pages'
           f' · {len(order)} facets')
