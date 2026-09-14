@@ -1,5 +1,5 @@
 {
- "next": 3495,
+ "next": 3520,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -209531,6 +209531,1075 @@
    "light": 0.5332,
    "chroma": 0.6913,
    "punch": 0.2804
+  },
+  "todd-picks-2026-09-13c::3328063571": {
+   "id": "CRVI003495",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003495.jpg",
+   "original_px": [
+    900,
+    1165
+   ],
+   "original_bytes": 168129,
+   "identity": "todd-picks-2026-09-13c::3328063571",
+   "maker": "Istvan Banyai",
+   "title": "Untitled",
+   "source_url": "https://www.illustrationhistory.org/images/uploads/Banyai_Zoom_3.jpg",
+   "source_page": "https://www.illustrationhistory.org/artists/istvan-banyai",
+   "verified_against": "Picked by Todd off the '100-illustrators' book contact sheet, 2026-09-13. Found under the roster name Istvan Banyai; source page https://www.illustrationhistory.org/artists/istvan-banyai. Search-result title as harvested: \"Istvan Banyai - Illustration History\". Measured at 900x1165 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/bookpicks/n3328063571.img",
+   "source_px": [
+    900,
+    1165
+   ],
+   "colors": [
+    "green",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Istvan Banyai"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the '100-illustrators' book contact sheet, 2026-09-13. Found under the roster name Istvan Banyai; source page https://www.illustrationhistory.org/artists/istvan-banyai. Search-result title as harvested: \"Istvan Banyai - Illustration History\". Measured at 900x1165 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "hue": 84.98,
+   "light": 0.6924,
+   "chroma": 0.5565,
+   "punch": 0.1937
+  },
+  "todd-picks-2026-09-13c::168846491": {
+   "id": "CRVI003496",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003496.jpg",
+   "original_px": [
+    960,
+    1337
+   ],
+   "original_bytes": 353760,
+   "identity": "todd-picks-2026-09-13c::168846491",
+   "maker": "Kay Nielsen",
+   "title": "Untitled",
+   "source_url": "https://uploads6.wikiart.org/00195/images/kay-nielsen/va-nielsen-east-of-the-sun-press-02811-091-1508171621-id-988872.jpg",
+   "source_page": "https://www.wikiart.org/en/kay-nielsen",
+   "verified_against": "Picked by Todd off the 'the-walt-disney-film-archives-the-animated-movies-19211968' book contact sheet, 2026-09-13. Found under the roster name Kay Nielsen; source page https://www.wikiart.org/en/kay-nielsen. Search-result title as harvested: \"He Too Saw The Image In The Water\". Measured at 960x1337 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/bookpicks/n168846491.img",
+   "source_px": [
+    960,
+    1337
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Kay Nielsen"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the 'the-walt-disney-film-archives-the-animated-movies-19211968' book contact sheet, 2026-09-13. Found under the roster name Kay Nielsen; source page https://www.wikiart.org/en/kay-nielsen. Search-result title as harvested: \"He Too Saw The Image In The Water\". Measured at 960x1337 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "hue": 45.59,
+   "light": 0.7456,
+   "chroma": 0.5711,
+   "punch": 0.1065
+  },
+  "todd-picks-2026-09-13c::1393425908": {
+   "id": "CRVI003497",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003497.jpg",
+   "original_px": [
+    960,
+    1312
+   ],
+   "original_bytes": 398592,
+   "identity": "todd-picks-2026-09-13c::1393425908",
+   "maker": "Kay Nielsen",
+   "title": "Untitled",
+   "source_url": "https://uploads6.wikiart.org/00195/images/kay-nielsen/va-nielsen-east-of-the-sun-press-02811-139-1508171626-id-988912.jpg",
+   "source_page": "https://www.wikiart.org/en/kay-nielsen",
+   "verified_against": "Picked by Todd off the 'the-walt-disney-film-archives-the-animated-movies-19211968' book contact sheet, 2026-09-13. Found under the roster name Kay Nielsen; source page https://www.wikiart.org/en/kay-nielsen. Search-result title as harvested: \"The Lad in Battle\". Measured at 960x1312 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/bookpicks/n1393425908.img",
+   "source_px": [
+    960,
+    1312
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Kay Nielsen"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the 'the-walt-disney-film-archives-the-animated-movies-19211968' book contact sheet, 2026-09-13. Found under the roster name Kay Nielsen; source page https://www.wikiart.org/en/kay-nielsen. Search-result title as harvested: \"The Lad in Battle\". Measured at 960x1312 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "hue": 43.0,
+   "light": 0.6033,
+   "chroma": 0.4815,
+   "punch": 0.0941
+  },
+  "todd-picks-2026-09-13c::1583288317": {
+   "id": "CRVI003498",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003498.jpg",
+   "original_px": [
+    2971,
+    4096
+   ],
+   "original_bytes": 3414227,
+   "identity": "todd-picks-2026-09-13c::1583288317",
+   "maker": "Kay Nielsen",
+   "title": "Untitled",
+   "source_url": "https://i.pinimg.com/originals/8e/aa/48/8eaa488de1a2cd3a2931d60a43128bc6.jpg",
+   "source_page": "https://www.artofit.org/image-gallery/324259241932353437/kay-nielsen/",
+   "verified_against": "Picked by Todd off the 'the-walt-disney-film-archives-the-animated-movies-19211968' book contact sheet, 2026-09-13. Found under the roster name Kay Nielsen; source page https://www.artofit.org/image-gallery/324259241932353437/kay-nielsen/. Search-result title as harvested: \"Kay nielsen – Artofit\". Measured at 2971x4096 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/bookpicks/n1583288317.img",
+   "source_px": [
+    2971,
+    4096
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Kay Nielsen"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the 'the-walt-disney-film-archives-the-animated-movies-19211968' book contact sheet, 2026-09-13. Found under the roster name Kay Nielsen; source page https://www.artofit.org/image-gallery/324259241932353437/kay-nielsen/. Search-result title as harvested: \"Kay nielsen – Artofit\". Measured at 2971x4096 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "hue": 26.2,
+   "light": 0.3382,
+   "chroma": 0.3536,
+   "punch": 0.0942
+  },
+  "todd-picks-2026-09-13c::3563332465": {
+   "id": "CRVI003499",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003499.jpg",
+   "original_px": [
+    800,
+    1094
+   ],
+   "original_bytes": 319741,
+   "identity": "todd-picks-2026-09-13c::3563332465",
+   "maker": "Kay Nielsen",
+   "title": "Untitled",
+   "source_url": "https://static.wixstatic.com/media/11786d_361f4804fdcc4a2f8c39edbd7c9ce967~mv2.jpg/v1/fill/w_800,h_1094,al_c,q_85,enc_auto/11786d_361f4804fdcc4a2f8c39edbd7c9ce967~mv2.jpg",
+   "source_page": "https://www.fairytalemagazine.com/post/the-golden-age-of-illustration-the-art-of-kay-nielsen",
+   "verified_against": "Picked by Todd off the 'the-walt-disney-film-archives-the-animated-movies-19211968' book contact sheet, 2026-09-13. Found under the roster name Kay Nielsen; source page https://www.fairytalemagazine.com/post/the-golden-age-of-illustration-the-art-of-kay-nielsen. Search-result title as harvested: \"The Golden Age of Illustration: The Art of Kay Nielsen\". Measured at 800x1094 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/bookpicks/n3563332465.img",
+   "source_px": [
+    800,
+    1094
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Kay Nielsen"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the 'the-walt-disney-film-archives-the-animated-movies-19211968' book contact sheet, 2026-09-13. Found under the roster name Kay Nielsen; source page https://www.fairytalemagazine.com/post/the-golden-age-of-illustration-the-art-of-kay-nielsen. Search-result title as harvested: \"The Golden Age of Illustration: The Art of Kay Nielsen\". Measured at 800x1094 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "hue": 34.24,
+   "light": 0.5119,
+   "chroma": 0.6699,
+   "punch": 0.1578
+  },
+  "todd-picks-2026-09-13c::7836223142": {
+   "id": "CRVI003500",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003500.jpg",
+   "original_px": [
+    1015,
+    1172
+   ],
+   "original_bytes": 1345205,
+   "identity": "todd-picks-2026-09-13c::7836223142",
+   "maker": "Kay Nielsen",
+   "title": "Untitled",
+   "source_url": "http://2.bp.blogspot.com/--aYuIomHPFI/VcW4uw9AIMI/AAAAAAABa4o/jCW0J3UXDb0/s1600/%2522%2BThis%2Bgood%2Bfairy%2Bplaced%2Bher%2Bown%2Bbaby%2Bin%2Ba%2Bcradle%2Bof%2Broses%2Band%2Bgave%2Bcommand%2Bto%2Bthe%2Bzephyrs%2Bto%2Bcarry%2Bhim%2Bto%2Bthe%2Btower%2522.jpg",
+   "source_page": "http://poulwebb.blogspot.it/2015/08/kay-nielsen-part-2.html",
+   "verified_against": "Picked by Todd off the 'the-walt-disney-film-archives-the-animated-movies-19211968' book contact sheet, 2026-09-13. Found under the roster name Kay Nielsen; source page http://poulwebb.blogspot.it/2015/08/kay-nielsen-part-2.html. Search-result title as harvested: \"ART & ARTISTS: Kay Nielsen – part 2\". Measured at 1015x1172 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/bookpicks/n7836223142.img",
+   "source_px": [
+    1015,
+    1172
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Kay Nielsen"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the 'the-walt-disney-film-archives-the-animated-movies-19211968' book contact sheet, 2026-09-13. Found under the roster name Kay Nielsen; source page http://poulwebb.blogspot.it/2015/08/kay-nielsen-part-2.html. Search-result title as harvested: \"ART & ARTISTS: Kay Nielsen – part 2\". Measured at 1015x1172 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "hue": 14.53,
+   "light": 0.4287,
+   "chroma": 0.1612,
+   "punch": 0.064
+  },
+  "todd-picks-2026-09-13c::8500264010": {
+   "id": "CRVI003501",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003501.jpg",
+   "original_px": [
+    1000,
+    1000
+   ],
+   "original_bytes": 207871,
+   "identity": "todd-picks-2026-09-13c::8500264010",
+   "maker": "Paul Davis",
+   "title": "Untitled",
+   "source_url": "https://washingtoncolor.com/wp-content/uploads/Alphabet-J-000.jpg",
+   "source_page": "https://www.washingtoncolor.com/artists/davis-p/",
+   "verified_against": "Picked by Todd off the '100-illustrators' book contact sheet, 2026-09-13. Found under the roster name Paul Davis; source page https://www.washingtoncolor.com/artists/davis-p/. Search-result title as harvested: \"Paul Davis - Washington Color Gallery\". Measured at 1000x1000 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/bookpicks/n8500264010.img",
+   "source_px": [
+    1000,
+    1000
+   ],
+   "colors": [
+    "orange",
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Paul Davis"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the '100-illustrators' book contact sheet, 2026-09-13. Found under the roster name Paul Davis; source page https://www.washingtoncolor.com/artists/davis-p/. Search-result title as harvested: \"Paul Davis - Washington Color Gallery\". Measured at 1000x1000 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "hue": 14.93,
+   "light": 0.4918,
+   "chroma": 0.6428,
+   "punch": 0.2391
+  },
+  "todd-picks-2026-09-13c::2413253459": {
+   "id": "CRVI003502",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003502.jpg",
+   "original_px": [
+    1000,
+    1349
+   ],
+   "original_bytes": 173182,
+   "identity": "todd-picks-2026-09-13c::2413253459",
+   "maker": "Brad Holland",
+   "title": "Untitled",
+   "source_url": "https://image.invaluable.com/housePhotos/SarasotaEstateAuction/91/714291/H14580-L274314937.jpg",
+   "source_page": "https://www.invaluable.com/artist/holland-brad-9fjkg7lfan/sold-at-auction-prices/",
+   "verified_against": "Picked by Todd off the '100-illustrators' book contact sheet, 2026-09-13. Found under the roster name Brad Holland; source page https://www.invaluable.com/artist/holland-brad-9fjkg7lfan/sold-at-auction-prices/. Search-result title as harvested: \"Brad Holland Paintings & Artwork for Sale | Brad Holland Art Value ...\". Measured at 1000x1349 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/bookpicks/n2413253459.img",
+   "source_px": [
+    1000,
+    1349
+   ],
+   "colors": [
+    "red"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Brad Holland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the '100-illustrators' book contact sheet, 2026-09-13. Found under the roster name Brad Holland; source page https://www.invaluable.com/artist/holland-brad-9fjkg7lfan/sold-at-auction-prices/. Search-result title as harvested: \"Brad Holland Paintings & Artwork for Sale | Brad Holland Art Value ...\". Measured at 1000x1349 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "hue": null,
+   "light": 0.7924,
+   "chroma": 0.0557,
+   "punch": 0.0142
+  },
+  "todd-picks-2026-09-13c::6294855266": {
+   "id": "CRVI003503",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003503.jpg",
+   "original_px": [
+    1056,
+    1620
+   ],
+   "original_bytes": 251259,
+   "identity": "todd-picks-2026-09-13c::6294855266",
+   "maker": "Brad Holland",
+   "title": "Untitled",
+   "source_url": "https://i.pinimg.com/originals/66/11/53/66115313ab4e0b3b805947856416a510.jpg",
+   "source_page": "https://www.pinterest.com/pin/445012006927557820/",
+   "verified_against": "Picked by Todd off the '100-illustrators' book contact sheet, 2026-09-13. Found under the roster name Brad Holland; source page https://www.pinterest.com/pin/445012006927557820/. Search-result title as harvested: \"Brad Holland | Graphic arts illustration, Brad, Illustrators\". Measured at 1056x1620 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/bookpicks/n6294855266.img",
+   "source_px": [
+    1056,
+    1620
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Brad Holland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the '100-illustrators' book contact sheet, 2026-09-13. Found under the roster name Brad Holland; source page https://www.pinterest.com/pin/445012006927557820/. Search-result title as harvested: \"Brad Holland | Graphic arts illustration, Brad, Illustrators\". Measured at 1056x1620 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "hue": null,
+   "light": 0.5545,
+   "chroma": 0.0966,
+   "punch": 0.1006
+  },
+  "todd-picks-2026-09-13c::1729555260": {
+   "id": "CRVI003504",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003504.jpg",
+   "original_px": [
+    1056,
+    1620
+   ],
+   "original_bytes": 345763,
+   "identity": "todd-picks-2026-09-13c::1729555260",
+   "maker": "Brad Holland",
+   "title": "Untitled",
+   "source_url": "https://i.pinimg.com/originals/c7/f4/b9/c7f4b974fac5b7efee0768ec701474f9.jpg",
+   "source_page": "https://www.pinterest.com/pin/445012006927557827/",
+   "verified_against": "Picked by Todd off the '100-illustrators' book contact sheet, 2026-09-13. Found under the roster name Brad Holland; source page https://www.pinterest.com/pin/445012006927557827/. Search-result title as harvested: \"Brad Holland | American illustration, Contemporary graphic, Brad\". Measured at 1056x1620 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/bookpicks/n1729555260.img",
+   "source_px": [
+    1056,
+    1620
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Brad Holland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the '100-illustrators' book contact sheet, 2026-09-13. Found under the roster name Brad Holland; source page https://www.pinterest.com/pin/445012006927557827/. Search-result title as harvested: \"Brad Holland | American illustration, Contemporary graphic, Brad\". Measured at 1056x1620 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "hue": 13.24,
+   "light": 0.7927,
+   "chroma": 0.123,
+   "punch": 0.0374
+  },
+  "todd-picks-2026-09-13c::4672701729": {
+   "id": "CRVI003505",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003505.jpg",
+   "original_px": [
+    1099,
+    1620
+   ],
+   "original_bytes": 165251,
+   "identity": "todd-picks-2026-09-13c::4672701729",
+   "maker": "Brad Holland",
+   "title": "Untitled",
+   "source_url": "https://i.pinimg.com/originals/49/1d/a7/491da71bbd3f267a7b92a5f5e13e92fd.jpg",
+   "source_page": "https://www.pinterest.com/pin/brad-holland--501518108509312811/",
+   "verified_against": "Picked by Todd off the '100-illustrators' book contact sheet, 2026-09-13. Found under the roster name Brad Holland; source page https://www.pinterest.com/pin/brad-holland--501518108509312811/. Search-result title as harvested: \"Brad Holland | Brad, Holland, Poster\". Measured at 1099x1620 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/bookpicks/n4672701729.img",
+   "source_px": [
+    1099,
+    1620
+   ],
+   "colors": [
+    "yellow",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Brad Holland"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the '100-illustrators' book contact sheet, 2026-09-13. Found under the roster name Brad Holland; source page https://www.pinterest.com/pin/brad-holland--501518108509312811/. Search-result title as harvested: \"Brad Holland | Brad, Holland, Poster\". Measured at 1099x1620 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "hue": 14.7,
+   "light": 0.2787,
+   "chroma": 0.2384,
+   "punch": 0.1197
+  },
+  "todd-picks-2026-09-13c::4102109004": {
+   "id": "CRVI003506",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003506.jpg",
+   "original_px": [
+    1000,
+    1468
+   ],
+   "original_bytes": 270399,
+   "identity": "todd-picks-2026-09-13c::4102109004",
+   "maker": "Mirko Ilić",
+   "title": "Untitled",
+   "source_url": "https://i.pinimg.com/originals/0e/4d/50/0e4d50ba10cde421601f09eb0eeabb65.png",
+   "source_page": "https://mx.pinterest.com/pin/675610381638699338/",
+   "verified_against": "Picked by Todd off the '100-illustrators' book contact sheet, 2026-09-13. Found under the roster name Mirko Ilić; source page https://mx.pinterest.com/pin/675610381638699338/. Search-result title as harvested: \"Mirko Ilić Blog | Tolerance art, Graphic design illustration, Graphic ...\". Measured at 1000x1468 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/bookpicks/n4102109004.img",
+   "source_px": [
+    1000,
+    1468
+   ],
+   "colors": [
+    "blue",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Mirko Ilić"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the '100-illustrators' book contact sheet, 2026-09-13. Found under the roster name Mirko Ilić; source page https://mx.pinterest.com/pin/675610381638699338/. Search-result title as harvested: \"Mirko Ilić Blog | Tolerance art, Graphic design illustration, Graphic ...\". Measured at 1000x1468 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "hue": 164.94,
+   "light": 0.4851,
+   "chroma": 0.6688,
+   "punch": 0.4116
+  },
+  "todd-picks-2026-09-13c::5725868754": {
+   "id": "CRVI003507",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003507.jpg",
+   "original_px": [
+    1000,
+    1357
+   ],
+   "original_bytes": 669155,
+   "identity": "todd-picks-2026-09-13c::5725868754",
+   "maker": "Christoph Niemann",
+   "title": "Untitled",
+   "source_url": "https://i.pinimg.com/originals/00/f3/2b/00f32b2d33065f17c901b1b70d4f2fc4.png",
+   "source_page": "https://www.pinterest.com/pin/2533343538470635/",
+   "verified_against": "Picked by Todd off the '100-illustrators' book contact sheet, 2026-09-13. Found under the roster name Christoph Niemann; source page https://www.pinterest.com/pin/2533343538470635/. Search-result title as harvested: \"Christoph Niemann’s “Walk in the Park” | Design gráfico, Revistas ...\". Measured at 1000x1357 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/bookpicks/n5725868754.img",
+   "source_px": [
+    1000,
+    1357
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Christoph Niemann"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the '100-illustrators' book contact sheet, 2026-09-13. Found under the roster name Christoph Niemann; source page https://www.pinterest.com/pin/2533343538470635/. Search-result title as harvested: \"Christoph Niemann’s “Walk in the Park” | Design gráfico, Revistas ...\". Measured at 1000x1357 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "hue": 41.16,
+   "light": 0.5153,
+   "chroma": 0.5736,
+   "punch": 0.365
+  },
+  "todd-picks-2026-09-13c::4324400074": {
+   "id": "CRVI003508",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003508.jpg",
+   "original_px": [
+    1200,
+    1706
+   ],
+   "original_bytes": 803566,
+   "identity": "todd-picks-2026-09-13c::4324400074",
+   "maker": "Stefan Sagmeister",
+   "title": "Untitled",
+   "source_url": "https://posterhouse.org/wp-content/uploads/2023/06/AIGA_008a.jpg",
+   "source_page": "https://ar.inspiredpencil.com/pictures-2023/stefan-sagmeister-aiga-poster",
+   "verified_against": "Picked by Todd off the 'graphic-design-1890today' book contact sheet, 2026-09-13. Found under the roster name Stefan Sagmeister; source page https://ar.inspiredpencil.com/pictures-2023/stefan-sagmeister-aiga-poster. Search-result title as harvested: \"Stefan Sagmeister Aiga Poster\". Measured at 1200x1706 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/bookpicks/n4324400074.img",
+   "source_px": [
+    1200,
+    1706
+   ],
+   "colors": [
+    "orange",
+    "green"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Stefan Sagmeister"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the 'graphic-design-1890today' book contact sheet, 2026-09-13. Found under the roster name Stefan Sagmeister; source page https://ar.inspiredpencil.com/pictures-2023/stefan-sagmeister-aiga-poster. Search-result title as harvested: \"Stefan Sagmeister Aiga Poster\". Measured at 1200x1706 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "hue": 35.01,
+   "light": 0.5169,
+   "chroma": 0.7642,
+   "punch": 0.2449
+  },
+  "todd-picks-2026-09-13c::7842285517": {
+   "id": "CRVI003509",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003509.jpg",
+   "original_px": [
+    1132,
+    1600
+   ],
+   "original_bytes": 143299,
+   "identity": "todd-picks-2026-09-13c::7842285517",
+   "maker": "Anton Stankowski",
+   "title": "Untitled",
+   "source_url": "https://i.pinimg.com/originals/56/32/39/56323951ddbececb953bb26a31d83f15.jpg",
+   "source_page": "https://www.pinterest.com/pin/depicting-process-through-forms-works-by-anton-stankowski-1906--173388654389835851/",
+   "verified_against": "Picked by Todd off the 'logo-modernism' book contact sheet, 2026-09-13. Found under the roster name Anton Stankowski; source page https://www.pinterest.com/pin/depicting-process-through-forms-works-by-anton-stankowski-1906--173388654389835851/. Search-result title as harvested: \"Depicting Process through Forms: Works by Anton Stankowski (1906 ...\". Measured at 1132x1600 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/bookpicks/n7842285517.img",
+   "source_px": [
+    1132,
+    1600
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Anton Stankowski"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the 'logo-modernism' book contact sheet, 2026-09-13. Found under the roster name Anton Stankowski; source page https://www.pinterest.com/pin/depicting-process-through-forms-works-by-anton-stankowski-1906--173388654389835851/. Search-result title as harvested: \"Depicting Process through Forms: Works by Anton Stankowski (1906 ...\". Measured at 1132x1600 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "hue": 46.34,
+   "light": 0.7108,
+   "chroma": 0.6176,
+   "punch": 0.419
+  },
+  "todd-picks-2026-09-13c::2520999969": {
+   "id": "CRVI003510",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003510.jpg",
+   "original_px": [
+    2506,
+    3533
+   ],
+   "original_bytes": 465636,
+   "identity": "todd-picks-2026-09-13c::2520999969",
+   "maker": "Anton Stankowski",
+   "title": "Untitled",
+   "source_url": "https://i.pinimg.com/originals/f5/05/96/f5059605f5e5d050adb0685cfee11294.jpg",
+   "source_page": "https://wilmoupdates.blogspot.com/2023/01/anton-stankowski-graphic-design.html",
+   "verified_against": "Picked by Todd off the 'logo-modernism' book contact sheet, 2026-09-13. Found under the roster name Anton Stankowski; source page https://wilmoupdates.blogspot.com/2023/01/anton-stankowski-graphic-design.html. Search-result title as harvested: \"Anton Stankowski Graphic Design - Wilmo Update\". Measured at 2506x3533 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/bookpicks/n2520999969.img",
+   "source_px": [
+    2506,
+    3533
+   ],
+   "colors": [
+    "red",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Anton Stankowski"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the 'logo-modernism' book contact sheet, 2026-09-13. Found under the roster name Anton Stankowski; source page https://wilmoupdates.blogspot.com/2023/01/anton-stankowski-graphic-design.html. Search-result title as harvested: \"Anton Stankowski Graphic Design - Wilmo Update\". Measured at 2506x3533 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "hue": 44.33,
+   "light": 0.8137,
+   "chroma": 0.3707,
+   "punch": 0.2175
+  },
+  "todd-picks-2026-09-13c::1529979430": {
+   "id": "CRVI003511",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003511.jpg",
+   "original_px": [
+    1724,
+    2560
+   ],
+   "original_bytes": 431088,
+   "identity": "todd-picks-2026-09-13c::1529979430",
+   "maker": "Helmut Newton",
+   "title": "Untitled",
+   "source_url": "https://images.squarespace-cdn.com/content/v1/5b670534b98a78d5e84a7d19/1681285584653-B0Q1OHLUZAQINAMHVFGR/Helmut-Newton-10-scaled.jpeg",
+   "source_page": "https://aboutphotography.blog/photographer/helmut-newton",
+   "verified_against": "Picked by Todd off the 'berlin-portrait-of-a-city' book contact sheet, 2026-09-13. Found under the roster name Helmut Newton; source page https://aboutphotography.blog/photographer/helmut-newton. Search-result title as harvested: \"Helmut Newton: Master of Fashion Photography and Provocative Visual ...\". Measured at 1724x2560 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/bookpicks/n1529979430.img",
+   "source_px": [
+    1724,
+    2560
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Helmut Newton"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the 'berlin-portrait-of-a-city' book contact sheet, 2026-09-13. Found under the roster name Helmut Newton; source page https://aboutphotography.blog/photographer/helmut-newton. Search-result title as harvested: \"Helmut Newton: Master of Fashion Photography and Provocative Visual ...\". Measured at 1724x2560 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "hue": null,
+   "light": 0.5146,
+   "chroma": 0.0,
+   "punch": 0.0122
+  },
+  "todd-picks-2026-09-13c::9890210405": {
+   "id": "CRVI003512",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003512.jpg",
+   "original_px": [
+    1200,
+    1199
+   ],
+   "original_bytes": 105673,
+   "identity": "todd-picks-2026-09-13c::9890210405",
+   "maker": "Anton Stankowski",
+   "title": "Untitled",
+   "source_url": "https://socks-studio.com/img/blog/Anton-Stankowski-06.jpg",
+   "source_page": "https://socks-studio.com/2017/09/03/depicting-process-through-forms-works-by-anton-stankowski-1906-1998/",
+   "verified_against": "Picked by Todd off the 'logo-modernism' book contact sheet, 2026-09-13. Found under the roster name Anton Stankowski; source page https://socks-studio.com/2017/09/03/depicting-process-through-forms-works-by-anton-stankowski-1906-1998/. Search-result title as harvested: \"Depicting Process through Forms: Works by Anton Stankowski (1906 – 1998 ...\". Measured at 1200x1199 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/bookpicks/n9890210405.img",
+   "source_px": [
+    1200,
+    1199
+   ],
+   "colors": [
+    "red",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Anton Stankowski"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the 'logo-modernism' book contact sheet, 2026-09-13. Found under the roster name Anton Stankowski; source page https://socks-studio.com/2017/09/03/depicting-process-through-forms-works-by-anton-stankowski-1906-1998/. Search-result title as harvested: \"Depicting Process through Forms: Works by Anton Stankowski (1906 – 1998 ...\". Measured at 1200x1199 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "hue": 210.48,
+   "light": 0.7834,
+   "chroma": 0.6469,
+   "punch": 0.2859
+  },
+  "todd-picks-2026-09-13c::1938372826": {
+   "id": "CRVI003513",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003513.jpg",
+   "original_px": [
+    940,
+    1600
+   ],
+   "original_bytes": 101217,
+   "identity": "todd-picks-2026-09-13c::1938372826",
+   "maker": "Anton Stankowski",
+   "title": "Untitled",
+   "source_url": "https://i.pinimg.com/originals/2c/66/22/2c66229474fddff0d1de911272d86621.jpg",
+   "source_page": "https://www.pinterest.com/pin/6051780720035211/",
+   "verified_against": "Picked by Todd off the 'logo-modernism' book contact sheet, 2026-09-13. Found under the roster name Anton Stankowski; source page https://www.pinterest.com/pin/6051780720035211/. Search-result title as harvested: \"from Anton Stankowski | Graphic design typography, Graphic design, Art ...\". Measured at 940x1600 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/bookpicks/n1938372826.img",
+   "source_px": [
+    940,
+    1600
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Anton Stankowski"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the 'logo-modernism' book contact sheet, 2026-09-13. Found under the roster name Anton Stankowski; source page https://www.pinterest.com/pin/6051780720035211/. Search-result title as harvested: \"from Anton Stankowski | Graphic design typography, Graphic design, Art ...\". Measured at 940x1600 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "hue": 45.15,
+   "light": 0.7761,
+   "chroma": 0.589,
+   "punch": 0.0788
+  },
+  "todd-picks-2026-09-13c::3936632238": {
+   "id": "CRVI003514",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003514.jpg",
+   "original_px": [
+    2400,
+    1737
+   ],
+   "original_bytes": 1394686,
+   "identity": "todd-picks-2026-09-13c::3936632238",
+   "maker": "Henri Cartier-Bresson",
+   "title": "Untitled",
+   "source_url": "https://uploads7.wikiart.org/00331/images/henri-cartier-bresson/212752.jpg",
+   "source_page": "https://www.wikiart.org/en/henri-cartier-bresson",
+   "verified_against": "Picked by Todd off the 'berlin-portrait-of-a-city' book contact sheet, 2026-09-13. Found under the roster name Henri Cartier-Bresson; source page https://www.wikiart.org/en/henri-cartier-bresson. Search-result title as harvested: \"The new Chinese woman works in factories\". Measured at 2400x1737 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/bookpicks/n3936632238.img",
+   "source_px": [
+    2400,
+    1737
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Henri Cartier-Bresson"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the 'berlin-portrait-of-a-city' book contact sheet, 2026-09-13. Found under the roster name Henri Cartier-Bresson; source page https://www.wikiart.org/en/henri-cartier-bresson. Search-result title as harvested: \"The new Chinese woman works in factories\". Measured at 2400x1737 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "hue": null,
+   "light": 0.5482,
+   "chroma": 0.0286,
+   "punch": 0.0265
+  },
+  "todd-picks-2026-09-13c::559015899": {
+   "id": "CRVI003515",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003515.jpg",
+   "original_px": [
+    1937,
+    2400
+   ],
+   "original_bytes": 1333850,
+   "identity": "todd-picks-2026-09-13c::559015899",
+   "maker": "Henri Cartier-Bresson",
+   "title": "Untitled",
+   "source_url": "https://uploads7.wikiart.org/00331/images/henri-cartier-bresson/212753.jpg",
+   "source_page": "https://www.wikiart.org/en/henri-cartier-bresson",
+   "verified_against": "Picked by Todd off the 'berlin-portrait-of-a-city' book contact sheet, 2026-09-13. Found under the roster name Henri Cartier-Bresson; source page https://www.wikiart.org/en/henri-cartier-bresson. Search-result title as harvested: \"Violent poster\". Measured at 1937x2400 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/bookpicks/n559015899.img",
+   "source_px": [
+    1937,
+    2400
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Henri Cartier-Bresson"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the 'berlin-portrait-of-a-city' book contact sheet, 2026-09-13. Found under the roster name Henri Cartier-Bresson; source page https://www.wikiart.org/en/henri-cartier-bresson. Search-result title as harvested: \"Violent poster\". Measured at 1937x2400 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "hue": null,
+   "light": 0.6561,
+   "chroma": 0.0693,
+   "punch": 0.0364
+  },
+  "todd-picks-2026-09-13c::8187077053": {
+   "id": "CRVI003516",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003516.jpg",
+   "original_px": [
+    4000,
+    2873
+   ],
+   "original_bytes": 872323,
+   "identity": "todd-picks-2026-09-13c::8187077053",
+   "maker": "Robert Capa",
+   "title": "Untitled",
+   "source_url": "https://www.art.salon/images/robert-capa_the-falling-soldier_AID561602.jpg?f=grey",
+   "source_page": "https://www.art.salon/artwork/robert-capa_the-falling-soldier_AID561602",
+   "verified_against": "Picked by Todd off the 'berlin-portrait-of-a-city' book contact sheet, 2026-09-13. Found under the roster name Robert Capa; source page https://www.art.salon/artwork/robert-capa_the-falling-soldier_AID561602. Search-result title as harvested: \"The falling soldier by Robert Capa | Art.Salon\". Measured at 4000x2873 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/bookpicks/n8187077053.img",
+   "source_px": [
+    4000,
+    2873
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Robert Capa"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the 'berlin-portrait-of-a-city' book contact sheet, 2026-09-13. Found under the roster name Robert Capa; source page https://www.art.salon/artwork/robert-capa_the-falling-soldier_AID561602. Search-result title as harvested: \"The falling soldier by Robert Capa | Art.Salon\". Measured at 4000x2873 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "hue": null,
+   "light": 0.572,
+   "chroma": 0.0,
+   "punch": 0.0163
+  },
+  "todd-picks-2026-09-13c::1274414771": {
+   "id": "CRVI003517",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003517.jpg",
+   "original_px": [
+    1791,
+    2500
+   ],
+   "original_bytes": 1111516,
+   "identity": "todd-picks-2026-09-13c::1274414771",
+   "maker": "Erich Salomon",
+   "title": "Untitled",
+   "source_url": "https://www.moma.org/interactives/objectphoto/assets/constituent/000/305/162/305162_original.jpg",
+   "source_page": "https://www.moma.org/interactives/objectphoto/artists/5126.html",
+   "verified_against": "Picked by Todd off the 'berlin-portrait-of-a-city' book contact sheet, 2026-09-13. Found under the roster name Erich Salomon; source page https://www.moma.org/interactives/objectphoto/artists/5126.html. Search-result title as harvested: \"Erich Salomon | Object:Photo | MoMA\". Measured at 1791x2500 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/bookpicks/n1274414771.img",
+   "source_px": [
+    1791,
+    2500
+   ],
+   "colors": [
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Erich Salomon"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the 'berlin-portrait-of-a-city' book contact sheet, 2026-09-13. Found under the roster name Erich Salomon; source page https://www.moma.org/interactives/objectphoto/artists/5126.html. Search-result title as harvested: \"Erich Salomon | Object:Photo | MoMA\". Measured at 1791x2500 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "hue": 35.98,
+   "light": 0.4754,
+   "chroma": 0.2753,
+   "punch": 0.0678
+  },
+  "todd-picks-2026-09-13c::8764574857": {
+   "id": "CRVI003518",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003518.jpg",
+   "original_px": [
+    945,
+    1252
+   ],
+   "original_bytes": 93872,
+   "identity": "todd-picks-2026-09-13c::8764574857",
+   "maker": "Erich Salomon",
+   "title": "Untitled",
+   "source_url": "https://i.pinimg.com/originals/28/23/22/282322315b5a7381871f8e6bb3d38a3b.jpg",
+   "source_page": "https://fr.pinterest.com/pin/562668547188574698/",
+   "verified_against": "Picked by Todd off the 'berlin-portrait-of-a-city' book contact sheet, 2026-09-13. Found under the roster name Erich Salomon; source page https://fr.pinterest.com/pin/562668547188574698/. Search-result title as harvested: \"Erich Salomon - Ermanox F/2 | Photojournalist, Documentary photography ...\". Measured at 945x1252 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/bookpicks/n8764574857.img",
+   "source_px": [
+    945,
+    1252
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Erich Salomon"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the 'berlin-portrait-of-a-city' book contact sheet, 2026-09-13. Found under the roster name Erich Salomon; source page https://fr.pinterest.com/pin/562668547188574698/. Search-result title as harvested: \"Erich Salomon - Ermanox F/2 | Photojournalist, Documentary photography ...\". Measured at 945x1252 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "hue": null,
+   "light": 0.4302,
+   "chroma": 0.0,
+   "punch": 0.0
+  },
+  "todd-picks-2026-09-13c::9771294808": {
+   "id": "CRVI003519",
+   "minted": "2026-09-13",
+   "original_file": "originals/CRVI003519.jpg",
+   "original_px": [
+    1130,
+    1497
+   ],
+   "original_bytes": 186260,
+   "identity": "todd-picks-2026-09-13c::9771294808",
+   "maker": "Herwarth Walden",
+   "title": "Untitled",
+   "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Der_Sturm._Hrsg._Herwarth_Walden._18._Jahrgang%2C_November_1927.jpg",
+   "source_page": "https://commons.wikimedia.org/wiki/File%3ADer%20Sturm.%20Hrsg.%20Herwarth%20Walden.%2018.%20Jahrgang%2C%20November%201927.jpg",
+   "verified_against": "Picked by Todd off the 'berlin-portrait-of-a-city' book contact sheet, 2026-09-13. Found under the roster name Herwarth Walden; source page https://commons.wikimedia.org/wiki/File%3ADer%20Sturm.%20Hrsg.%20Herwarth%20Walden.%2018.%20Jahrgang%2C%20November%201927.jpg. Search-result title as harvested: \"Der Sturm. Hrsg. Herwarth Walden. 18. Jahrgang, November 1927\". Measured at 1130x1497 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/bookpicks/n9771294808.img",
+   "source_px": [
+    1130,
+    1497
+   ],
+   "colors": [
+    "orange",
+    "yellow"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Herwarth Walden"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "Picked by Todd off the 'berlin-portrait-of-a-city' book contact sheet, 2026-09-13. Found under the roster name Herwarth Walden; source page https://commons.wikimedia.org/wiki/File%3ADer%20Sturm.%20Hrsg.%20Herwarth%20Walden.%2018.%20Jahrgang%2C%20November%201927.jpg. Search-result title as harvested: \"Der Sturm. Hrsg. Herwarth Walden. 18. Jahrgang, November 1927\". Measured at 1130x1497 and screened against the archive for duplicates. ⚠️ The roster name is where the harvest FOUND it, not necessarily who made it.",
+   "hue": 44.62,
+   "light": 0.6162,
+   "chroma": 0.9584,
+   "punch": 0.3591
   }
  }
 }
