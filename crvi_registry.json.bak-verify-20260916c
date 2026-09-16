@@ -149481,10 +149481,10 @@
    "identity": "sent-2026-09-07o::97b23468ad7e",
    "source_url": "https://cdn.britannica.com/93/261193-050-E3569261/How-Ever-1947-by-Roberto-Matta-in-the-Stedelijk-Museum-Amsterdam.jpg",
    "maker": "Roberto Matta",
-   "title": "How-Ever",
+   "title": "How Ever",
    "subtitle": "",
    "year": "1947",
-   "verified_against": "THE STEDELIJK MUSEUM'S OWN COLLECTION RECORD, which holds this painting as 'How-Ever' by Roberto Matta and gives it as 217.5 x 363.5 x 7 cm. That upgrades the previous basis, which was Britannica's caption carried in a filename (`How-Ever-1947-by-Roberto-Matta-in-the-Stedelijk-Museum-Amsterdam.jpg`) rather than a museum record — the museum now confirms what the filename asserted. TITLE RE-SPELLED 2026-09-16 to the museum's 'How-Ever', from 'How Ever'. DIMENSIONS AND HOLDING COLLECTION ESTABLISHED. ⚠️ THE MEDIUM IS STILL NOT ESTABLISHED: the museum record reachable here calls it a painting without naming the support, and the 7 cm depth is consistent with a stretched canvas but does not prove one, so no medium is recorded rather than assuming oil on canvas.",
+   "verified_against": "Britannica, whose file for this image is named in full: `How-Ever-1947-by-Roberto-Matta-in-the-Stedelijk-Museum-Amsterdam.jpg` — i.e. Roberto Matta, How Ever, 1947, Stedelijk Museum, Amsterdam. ⚠️ That is Britannica's caption carried in a filename rather than a museum record; the medium and dimensions are not established here.",
    "notes": [],
    "label": "",
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img54/06.jpg",
@@ -149525,9 +149525,7 @@
    "hue": 51.87,
    "light": 0.3749,
    "chroma": 0.5306,
-   "punch": 0.154,
-   "dimensions": "217.5 x 363.5 x 7 cm",
-   "held_by": "Stedelijk Museum, Amsterdam"
+   "punch": 0.154
   },
   "sent-2026-09-07o::db701c4362b1": {
    "id": "CRVI002452",
@@ -151776,9 +151774,9 @@
    "maker": "Celia Cruz",
    "title": "The Queen of Salsa",
    "subtitle": "",
-   "year": "2025",
+   "year": "",
    "label": "Fania Records",
-   "verified_against": "CRAFT RECORDINGS' OWN RELEASE, announced 27 August 2025: 'The Queen of Salsa', a new 12-track Celia Cruz compilation on CRAFT LATINO / FANIA drawing on her Tico, Vaya, Seeco and Fania recordings (1966-1993), issued 24 OCTOBER 2025, with an 'Azucar Naranja' orange vinyl variant of 300 copies sold exclusively through Fania.com. Discogs release 35916205. YEAR ESTABLISHED 2026-09-16 AS 2025. This record previously said the year was unknown because Discogs' match on the title was a 1999 Flashback compilation — a different record that happens to share the name. The file's own path on fania.com is `/wp-content/uploads/2025/08/`, i.e. uploaded the same month the 2025 release was announced, which corroborates it. ⚠️ THE SLEEVE'S DESIGNER AND THE COVER PHOTOGRAPHER ARE STILL NOT ESTABLISHED; Discogs blocks automated reads of the credit list, so no design credit is claimed here.",
+   "verified_against": "Fania's own file, named `CC_THE-QUEEN-OF-SALSA-front-cover`. The sleeve prints 'STEREO', 'THE QUEEN OF SALSA' in a hand-lettered blue script and 'CELIA CRUZ', over a photograph of her in a pink ruffled gown beside a plant stand. ⚠️ THE YEAR IS NOT ESTABLISHED: Discogs' match under this title is a 1999 Flashback compilation, while the artwork is plainly of the 1970s, and no art credit is recorded either way.",
    "notes": [],
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img56/22.jpg",
    "source_px": [
@@ -151816,8 +151814,7 @@
    "hue": 20.45,
    "light": 0.4526,
    "chroma": 0.9292,
-   "punch": 0.3847,
-   "source_label": "Craft Latino / Fania"
+   "punch": 0.3847
   },
   "sent-2026-09-07r::396eee7110e9": {
    "id": "CRVI002489",
