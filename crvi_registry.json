@@ -1,5 +1,5 @@
 {
- "next": 3520,
+ "next": 3528,
  "items": {
   "IDM definitive::IMG_4564_1": {
    "id": "CRVI000001",
@@ -210993,6 +210993,409 @@
    "chroma": 0.9584,
    "punch": 0.3591,
    "year": 1927
+  },
+  "todd-sent-2026-09-16::art-of-noise-in-visible-silence": {
+   "id": "CRVI003520",
+   "minted": "2026-09-15",
+   "original_file": "originals/CRVI003520.jpg",
+   "original_px": [
+    1000,
+    1000
+   ],
+   "original_bytes": 250702,
+   "identity": "todd-sent-2026-09-16::art-of-noise-in-visible-silence",
+   "maker": "The Art of Noise",
+   "title": "In Visible Silence",
+   "year": "1986",
+   "source_url": "https://insheepsclothinghifi.com/wordpress/wp-content/uploads/2023/02/artofnoise.jpg",
+   "source_page": "https://insheepsclothinghifi.com/album/the-art-of-noise-in-visible-silence/",
+   "verified_against": "THE SLEEVE ITSELF, which prints 'The Art of Noise' above and 'In Visible Silence' below a photograph of a hand holding a disc, flanked by two columns of letter-tiles spelling THE ART and OF NOISE. Confirmed by In Sheep's Clothing's own album page, the page this file comes from: Chrysalis, 1986. ⚠️ THE SLEEVE DESIGNER IS NOT ESTABLISHED. A photography credit exists — Peter Ashworth — but it is given specifically for the 'hats' and 'spray' photographs, so it does NOT clearly cover this cover image and is not recorded as if it did. Discogs blocks automated reads, so the full credit list could not be checked.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/43956825-f11b-45fd-888e-84639a406fcb/scratchpad/adds/artofnoise.jpg",
+   "source_px": [
+    1000,
+    1000
+   ],
+   "colors": [
+    "yellow",
+    "orange"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "album cover"
+    },
+    {
+     "k": "artist",
+     "v": "The Art of Noise"
+    },
+    {
+     "k": "label",
+     "v": "Chrysalis"
+    },
+    {
+     "k": "decade",
+     "v": "1980s"
+    },
+    {
+     "k": "location",
+     "v": "United Kingdom"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE SLEEVE ITSELF, which prints 'The Art of Noise' above and 'In Visible Silence' below a photograph of a hand holding a disc, flanked by two columns of letter-tiles spelling THE ART and OF NOISE. Confirmed by In Sheep's Clothing's own album page, the page this file comes from: Chrysalis, 1986. ⚠️ THE SLEEVE DESIGNER IS NOT ESTABLISHED. A photography credit exists — Peter Ashworth — but it is given specifically for the 'hats' and 'spray' photographs, so it does NOT clearly cover this cover image and is not recorded as if it did. Discogs blocks automated reads, so the full credit list could not be checked.",
+   "hue": 47.37,
+   "light": 0.7328,
+   "chroma": 0.3714,
+   "punch": 0.0859
+  },
+  "todd-sent-2026-09-16::stanley-plowman-garble": {
+   "id": "CRVI003521",
+   "minted": "2026-09-15",
+   "original_file": "originals/CRVI003521.jpg",
+   "original_px": [
+    876,
+    1182
+   ],
+   "original_bytes": 414849,
+   "identity": "todd-sent-2026-09-16::stanley-plowman-garble",
+   "maker": "Stanley Plowman",
+   "title": "Garble",
+   "year": "2026",
+   "source_url": "https://m.itsnicethat.com/original_images/stanley-plowman-pen-plotter-illustration-itsnicethat-12.jpg",
+   "source_page": "https://www.itsnicethat.com/articles/stanley-plowman-garble-graphic-design-publication-project-060726",
+   "verified_against": "IT'S NICE THAT'S ARTICLE on the project, 6 July 2026, whose gallery images are captioned 'Stanley Plowman: Garble (Copyright © Stanley Plowman, 2026)'. Garble is a pen-plotter typeface and zine: Helvetica used as a structural base, shapes distributed over it by plotter, with the designer swapping pens mid-draw and moving the paper while it was still drawing. This sheet plots the word 'Garble' six times, each pass degrading further into loops until the last line is barely legible. ℹ️ THE SENT LINK WAS CAPPED AT 828px BY `?class=w828`; dropping the parameter gives the site's own 876x1182 original. Asking for w2000 or w4000 returns the same 876 — the cap is the real file, not a resize.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/43956825-f11b-45fd-888e-84639a406fcb/scratchpad/adds/plowman.jpg",
+   "source_px": [
+    876,
+    1182
+   ],
+   "colors": [
+    "purple",
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "typography"
+    },
+    {
+     "k": "designer",
+     "v": "Stanley Plowman"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "IT'S NICE THAT'S ARTICLE on the project, 6 July 2026, whose gallery images are captioned 'Stanley Plowman: Garble (Copyright © Stanley Plowman, 2026)'. Garble is a pen-plotter typeface and zine: Helvetica used as a structural base, shapes distributed over it by plotter, with the designer swapping pens mid-draw and moving the paper while it was still drawing. This sheet plots the word 'Garble' six times, each pass degrading further into loops until the last line is barely legible. ℹ️ THE SENT LINK WAS CAPPED AT 828px BY `?class=w828`; dropping the parameter gives the site's own 876x1182 original. Asking for w2000 or w4000 returns the same 876 — the cap is the real file, not a resize.",
+   "hue": 75.06,
+   "light": 0.7706,
+   "chroma": 0.4828,
+   "punch": 0.1318
+  },
+  "todd-sent-2026-09-16::whole-earth-catalog-fall-1968": {
+   "id": "CRVI003522",
+   "minted": "2026-09-15",
+   "original_file": "originals/CRVI003522.jpg",
+   "original_px": [
+    2321,
+    3034
+   ],
+   "original_bytes": 4210872,
+   "identity": "todd-sent-2026-09-16::whole-earth-catalog-fall-1968",
+   "maker": "Stewart Brand",
+   "title": "Whole Earth Catalog, Fall 1968",
+   "subtitle": "access to tools",
+   "year": "1968",
+   "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/da1e5f60-0099-493f-b406-58d1b72c4145_2321x3034.jpeg",
+   "verified_against": "THE COVER ITSELF, which prints WHOLE EARTH CATALOG over the italic subtitle 'access to tools', a full-disc photograph of the Earth centred on a black crumpled ground, and 'Fall 1968 / $5' at the lower left — i.e. the first issue, which STEWART BRAND created, edited and published. ⚠️ A SEPARATE COVER DESIGNER IS NOT CREDITED and none is claimed here; Brand is recorded as the maker in his capacity as the catalog's creator and editor. ⚠️ THE EARTH PHOTOGRAPH IS NASA'S, NOT BRAND'S, and the specific frame is not established here, so it is not credited to a particular mission. ℹ️ The sent link was a substackcdn `image/fetch` wrapper; the wrapped S3 original is the same 2321x3034 but 4112 KB against the CDN's 1579 KB, so the original was taken — same pixels, less re-compression.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/43956825-f11b-45fd-888e-84639a406fcb/scratchpad/adds/substack.jpg",
+   "source_px": [
+    2321,
+    3034
+   ],
+   "colors": [
+    "black"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "book cover"
+    },
+    {
+     "k": "designer",
+     "v": "Stewart Brand"
+    },
+    {
+     "k": "decade",
+     "v": "1960s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    },
+    {
+     "k": "subject",
+     "v": "earth"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE COVER ITSELF, which prints WHOLE EARTH CATALOG over the italic subtitle 'access to tools', a full-disc photograph of the Earth centred on a black crumpled ground, and 'Fall 1968 / $5' at the lower left — i.e. the first issue, which STEWART BRAND created, edited and published. ⚠️ A SEPARATE COVER DESIGNER IS NOT CREDITED and none is claimed here; Brand is recorded as the maker in his capacity as the catalog's creator and editor. ⚠️ THE EARTH PHOTOGRAPH IS NASA'S, NOT BRAND'S, and the specific frame is not established here, so it is not credited to a particular mission. ℹ️ The sent link was a substackcdn `image/fetch` wrapper; the wrapped S3 original is the same 2321x3034 but 4112 KB against the CDN's 1579 KB, so the original was taken — same pixels, less re-compression.",
+   "hue": null,
+   "light": 0.2108,
+   "chroma": 0.0,
+   "punch": 0.0
+  },
+  "todd-sent-2026-09-16::fuller-montreal-dome": {
+   "id": "CRVI003523",
+   "minted": "2026-09-15",
+   "original_file": "originals/CRVI003523.jpg",
+   "original_px": [
+    1920,
+    1525
+   ],
+   "original_bytes": 645617,
+   "identity": "todd-sent-2026-09-16::fuller-montreal-dome",
+   "maker": "Unknown",
+   "title": "[Buckminster Fuller before his geodesic dome, Montreal]",
+   "source_url": "https://media.wired.com/photos/592718a57034dc5f91beda18/Buckminster_Fuller-BE043654.jpg",
+   "verified_against": "READ OFF THE PHOTOGRAPH: R. Buckminster Fuller, in a dark suit and heavy spectacles, standing before a very large full-sphere geodesic dome of double-layer triangulated steel — the United States Pavilion at Expo 67 in Montreal, now the Biosphere, which is Fuller's own building. ⚠️ THE PHOTOGRAPHER IS NOT ESTABLISHED: the file is Wired's, named `Buckminster_Fuller-BE043654.jpg`, and a BE- prefixed number is a stock-archive id rather than a credit. ⚠️ THE YEAR IS NOT ESTABLISHED — the dome opened in 1967 but nothing here dates the sitting. ℹ️ THE SENT LINK WAS CROPPED TO 3:2 by `/3:2/w_2560,c_limit/`; removing the transform returns the uncropped 1920x1525 frame, which includes the top of the sphere the crop cut off.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/43956825-f11b-45fd-888e-84639a406fcb/scratchpad/adds/fuller_wired.jpg",
+   "source_px": [
+    1920,
+    1525
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Buckminster Fuller"
+    },
+    {
+     "k": "type",
+     "v": "architecture"
+    },
+    {
+     "k": "location",
+     "v": "Canada"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "READ OFF THE PHOTOGRAPH: R. Buckminster Fuller, in a dark suit and heavy spectacles, standing before a very large full-sphere geodesic dome of double-layer triangulated steel — the United States Pavilion at Expo 67 in Montreal, now the Biosphere, which is Fuller's own building. ⚠️ THE PHOTOGRAPHER IS NOT ESTABLISHED: the file is Wired's, named `Buckminster_Fuller-BE043654.jpg`, and a BE- prefixed number is a stock-archive id rather than a credit. ⚠️ THE YEAR IS NOT ESTABLISHED — the dome opened in 1967 but nothing here dates the sitting. ℹ️ THE SENT LINK WAS CROPPED TO 3:2 by `/3:2/w_2560,c_limit/`; removing the transform returns the uncropped 1920x1525 frame, which includes the top of the sphere the crop cut off.",
+   "hue": null,
+   "light": 0.3857,
+   "chroma": 0.0,
+   "punch": 0.0
+  },
+  "todd-sent-2026-09-16::fuller-bmc-hazel-larsen-archer": {
+   "id": "CRVI003524",
+   "minted": "2026-09-15",
+   "original_file": "originals/CRVI003524.jpg",
+   "original_px": [
+    1500,
+    1895
+   ],
+   "original_bytes": 336720,
+   "identity": "todd-sent-2026-09-16::fuller-bmc-hazel-larsen-archer",
+   "maker": "Hazel Larsen Archer",
+   "title": "Buckminster Fuller at Black Mountain College",
+   "year": "c.1948-49",
+   "source_url": "https://www.blackmountaincollege.org/wp-content/uploads/buckminster_fuller_photo_by_hazel_larsen_archer.jpg",
+   "source_page": "https://www.blackmountaincollege.org/buckminster-fuller/",
+   "verified_against": "THE BLACK MOUNTAIN COLLEGE MUSEUM + ARTS CENTER'S OWN PAGE, which this file is served from, captions it 'Buckminster Fuller at Black Mountain College', photograph by HAZEL LARSEN ARCHER, circa 1948-1949, credit 'Estate of Hazel Larsen Archer'. The photographer's name is also carried in the filename. Fuller sits on a rush-seat chair holding a segmented sphere, surrounded by great-circle and geodesic models, with a blackboard of angle calculations behind. Archer taught photography at Black Mountain and photographed Fuller's dome work there. ⚠️ THE YEAR IS RECORDED AS CIRCA, on the museum's own wording — other sources give this sitting variously as 1948 and 1949, and the holding institution does not choose between them.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/43956825-f11b-45fd-888e-84639a406fcb/scratchpad/adds/fuller_bmc.jpg",
+   "source_px": [
+    1500,
+    1895
+   ],
+   "colors": [
+    "blue"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "photographer",
+     "v": "Hazel Larsen Archer"
+    },
+    {
+     "k": "artist",
+     "v": "Buckminster Fuller"
+    },
+    {
+     "k": "decade",
+     "v": "1940s"
+    },
+    {
+     "k": "location",
+     "v": "United States"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "THE BLACK MOUNTAIN COLLEGE MUSEUM + ARTS CENTER'S OWN PAGE, which this file is served from, captions it 'Buckminster Fuller at Black Mountain College', photograph by HAZEL LARSEN ARCHER, circa 1948-1949, credit 'Estate of Hazel Larsen Archer'. The photographer's name is also carried in the filename. Fuller sits on a rush-seat chair holding a segmented sphere, surrounded by great-circle and geodesic models, with a blackboard of angle calculations behind. Archer taught photography at Black Mountain and photographed Fuller's dome work there. ⚠️ THE YEAR IS RECORDED AS CIRCA, on the museum's own wording — other sources give this sitting variously as 1948 and 1949, and the holding institution does not choose between them.",
+   "hue": 242.84,
+   "light": 0.4423,
+   "chroma": 0.1062,
+   "punch": 0.0311
+  },
+  "todd-sent-2026-09-16::fuller-tensegrity-sphere-1979": {
+   "id": "CRVI003525",
+   "minted": "2026-09-15",
+   "original_file": "originals/CRVI003525.jpg",
+   "original_px": [
+    1920,
+    1376
+   ],
+   "original_bytes": 2279497,
+   "identity": "todd-sent-2026-09-16::fuller-tensegrity-sphere-1979",
+   "maker": "Unknown",
+   "title": "[R. Buckminster Fuller holds up a tensegrity sphere]",
+   "year": "1979",
+   "source_url": "https://images.dwell.com/photos-6063391372700811264/6517488726857748480-original/r-buckminster-fuller-holds-up-a-tensegrity-sphere-in-1979.jpg",
+   "verified_against": "DWELL'S OWN FILENAME, which states the subject and the year in full: `r-buckminster-fuller-holds-up-a-tensegrity-sphere-in-1979.jpg`. ⚠️ THAT IS A CAPTION CARRIED IN A FILENAME, NOT A CREDIT LINE — this archive has twice found a filename to be wrong about a date — so the year is recorded on Dwell's say-so and nothing stronger. ⚠️ THE PHOTOGRAPHER IS NOT ESTABLISHED. ℹ️ The sent link carried the `-large` derivative token at 1600x1147; swapping it for `-original` returns 1920x1376 at three times the bytes.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/43956825-f11b-45fd-888e-84639a406fcb/scratchpad/adds/fuller_dwell.jpg",
+   "source_px": [
+    1920,
+    1376
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "photograph"
+    },
+    {
+     "k": "artist",
+     "v": "Buckminster Fuller"
+    },
+    {
+     "k": "decade",
+     "v": "1970s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "DWELL'S OWN FILENAME, which states the subject and the year in full: `r-buckminster-fuller-holds-up-a-tensegrity-sphere-in-1979.jpg`. ⚠️ THAT IS A CAPTION CARRIED IN A FILENAME, NOT A CREDIT LINE — this archive has twice found a filename to be wrong about a date — so the year is recorded on Dwell's say-so and nothing stronger. ⚠️ THE PHOTOGRAPHER IS NOT ESTABLISHED. ℹ️ The sent link carried the `-large` derivative token at 1600x1147; swapping it for `-original` returns 1920x1376 at three times the bytes.",
+   "hue": null,
+   "light": 0.526,
+   "chroma": 0.0,
+   "punch": 0.0
+  },
+  "todd-sent-2026-09-16::kurokawa-interior": {
+   "id": "CRVI003526",
+   "minted": "2026-09-15",
+   "original_file": "originals/CRVI003526.jpg",
+   "original_px": [
+    1000,
+    1000
+   ],
+   "original_bytes": 149399,
+   "identity": "todd-sent-2026-09-16::kurokawa-interior",
+   "maker": "Unknown",
+   "title": "[Untitled]",
+   "source_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhd4R3hmh7AIY-gNtrMjTAbb8Ox3sx0uF0T3_okcKCq_EliDca0-71Fx-Sbl-SnKDJe38Lzd7SKb-860bErLN1FTMq9L76aHsGnUvMR3Mr5hJiGtno2SEw_1vqC5nCtfzyLXSn5pZguzGkn/s1600/kishokurokawa006-2.jpg",
+   "verified_against": "ATTRIBUTED ON THE SOURCE, NOT ESTABLISHED. The file is a Blogger-hosted scan named `kishokurokawa006-2.jpg`, which names the architect and nothing else; the picture is a low-angle view up into a deep white coffered canopy over a curved glazed curtain wall with diagonal bracing, consistent with Kurokawa's manner. Filed the same way as the other Kurokawa items here — maker Unknown, architect carried as a tag — because THE PHOTOGRAPHER IS NOT ESTABLISHED. ⚠️ WHICH BUILDING THIS IS, IS NOT ESTABLISHED. The Fukuoka Bank Head Office (1975) was tested as a candidate and REFUTED by comparing against the Wikimedia Commons low-angle atrium photograph of it: that building has flat brick walls with punched rounded-rectangle windows and a plain dark soffit, and no coffered canopy or curved glazing. No building name is recorded rather than a plausible wrong one.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/43956825-f11b-45fd-888e-84639a406fcb/scratchpad/adds/kurokawa.jpg",
+   "source_px": [
+    1000,
+    1000
+   ],
+   "colors": [
+    "neutral"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "architecture"
+    },
+    {
+     "k": "artist",
+     "v": "Kisho Kurokawa"
+    },
+    {
+     "k": "location",
+     "v": "Japan"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "ATTRIBUTED ON THE SOURCE, NOT ESTABLISHED. The file is a Blogger-hosted scan named `kishokurokawa006-2.jpg`, which names the architect and nothing else; the picture is a low-angle view up into a deep white coffered canopy over a curved glazed curtain wall with diagonal bracing, consistent with Kurokawa's manner. Filed the same way as the other Kurokawa items here — maker Unknown, architect carried as a tag — because THE PHOTOGRAPHER IS NOT ESTABLISHED. ⚠️ WHICH BUILDING THIS IS, IS NOT ESTABLISHED. The Fukuoka Bank Head Office (1975) was tested as a candidate and REFUTED by comparing against the Wikimedia Commons low-angle atrium photograph of it: that building has flat brick walls with punched rounded-rectangle windows and a plain dark soffit, and no coffered canopy or curved glazing. No building name is recorded rather than a plausible wrong one.",
+   "hue": null,
+   "light": 0.4032,
+   "chroma": 0.0,
+   "punch": 0.0
+  },
+  "todd-sent-2026-09-16::rozendaal-rooms-flood-0": {
+   "id": "CRVI003527",
+   "minted": "2026-09-15",
+   "original_file": "originals/CRVI003527.jpg",
+   "original_px": [
+    2400,
+    2400
+   ],
+   "original_bytes": 1852542,
+   "identity": "todd-sent-2026-09-16::rozendaal-rooms-flood-0",
+   "maker": "Rafaël Rozendaal",
+   "title": "Flood #0",
+   "subtitle": "from Rooms",
+   "year": "2024",
+   "source_url": "https://storage.googleapis.com/fellowship-25/data/release/2025-08-rafael-rozendaal-rooms/posters/rafael-rozendaal-rooms-flood-0.jpg",
+   "source_page": "https://fellowship.xyz/exhibition/rafael-rozendaal-rooms",
+   "verified_against": "FELLOWSHIP'S OWN RELEASE PATH AND EXHIBITION. The file sits at `fellowship-25/data/release/2025-08-rafael-rozendaal-rooms/posters/rafael-rozendaal-rooms-flood-0.jpg` — i.e. the poster image for FLOOD #0 from Rozendaal's series ROOMS. Fellowship's own listing carries a work titled 'Rooms | Flood #0', and its press announcement describes Rooms (2024) as forty-four fully on-chain 1/1 works, the unreleased pieces from Rozendaal's MoMA show 'Light' (Nov 2024 - Sep 2025), exhibited at Fellowship's converted Notting Hill chapel from 4 September 2025. YEAR RECORDED AS 2024, the date Fellowship gives the work — the 2025 in the path is the release, not the making.",
+   "label": "",
+   "source_image": "/private/tmp/claude-501/-Users-todd/43956825-f11b-45fd-888e-84639a406fcb/scratchpad/adds/rozendaal.jpg",
+   "source_px": [
+    2400,
+    2400
+   ],
+   "colors": [
+    "pink",
+    "purple"
+   ],
+   "tags": [
+    {
+     "k": "type",
+     "v": "digital art"
+    },
+    {
+     "k": "artist",
+     "v": "Rafaël Rozendaal"
+    },
+    {
+     "k": "decade",
+     "v": "2020s"
+    }
+   ],
+   "identity_established": true,
+   "published": true,
+   "verification": "FELLOWSHIP'S OWN RELEASE PATH AND EXHIBITION. The file sits at `fellowship-25/data/release/2025-08-rafael-rozendaal-rooms/posters/rafael-rozendaal-rooms-flood-0.jpg` — i.e. the poster image for FLOOD #0 from Rozendaal's series ROOMS. Fellowship's own listing carries a work titled 'Rooms | Flood #0', and its press announcement describes Rooms (2024) as forty-four fully on-chain 1/1 works, the unreleased pieces from Rozendaal's MoMA show 'Light' (Nov 2024 - Sep 2025), exhibited at Fellowship's converted Notting Hill chapel from 4 September 2025. YEAR RECORDED AS 2024, the date Fellowship gives the work — the 2025 in the path is the release, not the making.",
+   "hue": 354.76,
+   "light": 0.3859,
+   "chroma": 0.9923,
+   "punch": 0.5821
   }
  }
 }
