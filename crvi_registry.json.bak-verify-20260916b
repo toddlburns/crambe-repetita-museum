@@ -199217,7 +199217,7 @@
    "title": "Archigram: The Magazine — facsimile edition, cover",
    "source_url": "https://substack-post-media.s3.amazonaws.com/public/images/1890254f-b9f9-48e4-a1f1-9175b7c469d3_1707x2048.jpeg",
    "source_page": "https://archidose.substack.com/p/unboxing-archigram",
-   "verified_against": "THE PUBLISHER'S OWN DETAILS, via John Hill's 'A Weekly Dose of Architecture Books' unboxing (3 November 2025), the page this file comes from: 'Archigram: The Magazine', D.A.P. (Distributed Art Publishers) with Designers & Books, 2025, ISBN 9781933045856 — an authorised facsimile of all ten issues, numbered 1 (1961) to 9 1/2 (1974), designed by MIKO McGINTY AND JULIA MA, edited by Steve Kroeter and Thomas Evans. YEAR ESTABLISHED 2026-09-16: the object here is the 2025 facsimile edition's cover, so 2025 is the object's own date — the ten magazines it reproduces are 1961-74. ⚠️ WHAT IS STILL NOT ESTABLISHED: whether the line-drawn street on this cover is an Archigram drawing reproduced by the edition's designers or new work by them. The maker is therefore left as Archigram and McGinty/Ma are recorded as the edition's designers, rather than guessing which of them drew it.",
+   "verified_against": "John Hill's 'A Weekly Dose of Architecture Books', unboxing 'Archigram: The Magazine', the facsimile of all ten issues of Archigram, 'the influential and highly desirable magazine that was produced by a half-dozen like-minded architects between 1961 and 1974'. The cover states ARCHIGRAM THE MAGAZINE over a line-drawn street. ⚠️ WHICH ARCHIGRAM MEMBER DREW THE COVER IS NOT ESTABLISHED — the group is credited, no individual. ℹ️ The URL Todd sent was a substackcdn /image/fetch/ wrapper; it carries the true origin inside it and the unwrapped S3 file is the honest one (same 1707x2048, less recompressed).",
    "notes": "The object is the facsimile edition's cover, not an original 1961-74 issue.",
    "label": "",
    "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/arch/sub_orig.jpg",
@@ -199257,10 +199257,7 @@
    "hue": 35.81,
    "light": 0.4925,
    "chroma": 1.0,
-   "punch": 0.5323,
-   "year": "2025",
-   "publisher": "D.A.P. (Distributed Art Publishers) with Designers & Books",
-   "isbn": "9781933045856"
+   "punch": 0.5323
   },
   "todd-sent-2026-09-13::archigram-control-and-choice-dwellings": {
    "id": "CRVI003271",
@@ -199458,7 +199455,7 @@
    "title": "Instant City",
    "source_url": "https://static.dezeen.com/uploads/2020/05/Archigram-Instant-City_dezeen_07.jpg",
    "source_page": "https://www.dezeen.com/2020/05/13/archigram-instant-city-peter-cook-video-interview-vdf/",
-   "verified_against": "Dezeen's Virtual Design Festival piece, 'Archigram's Instant City enables \"a village to become a city for a week\"', built around a video interview with Peter Cook, who is Instant City's author; every image on it is alt-texted 'Instant City by Archigram'. ⚠️ TODD'S LINK WAS A GOOGLE THUMBNAIL PROXY (encrypted-tbn0.gstatic.com, 633x484) and this is the full Dezeen file. ⚠️ THE YEAR REMAINS UNESTABLISHED, and the 2026-09-16 re-check narrowed it without closing it: M+ in Hong Kong holds Instant City sheets by Archigram/Peter Cook dated 1968 ('Collage with airship') and January 1969 ('Plan sheet 1'), so the project's drawings run 1968-69/70. This is one of five Instant City images on the Dezeen page and the page dates none of them, so WHICH sheet this is — and therefore its year — is still not known. A project-range date is not recorded as the work's date.",
+   "verified_against": "Dezeen's Virtual Design Festival piece, 'Archigram's Instant City enables \"a village to become a city for a week\"', built around a video interview with Peter Cook, who is Instant City's author; every image on it is alt-texted 'Instant City by Archigram'. ⚠️ TODD'S LINK WAS A GOOGLE THUMBNAIL PROXY (encrypted-tbn0.gstatic.com, 633x484) which is a dead end at its own address. It was matched back to the source page by aspect ratio (1.308) and then confirmed against the five Instant City images there by 32x32 luma hash — _07 came back at MAD 0.87, the others 57 to 84. Stripping dezeen's WordPress size suffix gave 1704x1303. ⚠️ THE YEAR IS NOT ESTABLISHED: Instant City ran c.1968-70 and dezeen dates neither the project nor this sheet, so no year is claimed here.",
    "notes": "One of five Instant City images on the page; this is the one Todd picked.",
    "label": "",
    "source_image": "/private/tmp/claude-501/-Users-todd/eff9bc78-b022-4336-bc51-4936f2b29145/scratchpad/arch/dz_07.jpg",
