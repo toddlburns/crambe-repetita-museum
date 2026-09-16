@@ -163854,11 +163854,11 @@
    "identity": "sent-2026-09-08g::08a0cedc83f2",
    "source_url": "https://www.die-neue-sammlung.de/wp-content/uploads/2024/03/07_tanaka_faces.jpg",
    "maker": "Ikko Tanaka",
-   "title": "サンケイ観世能 (The 28th Sankei Kanze Noh Performance)",
+   "title": "サンケイ観世能 (Sankei Kanze Noh)",
    "subtitle": "",
-   "year": "1981",
+   "year": "",
    "label": "",
-   "verified_against": "DIE NEUE SAMMLUNG'S OWN CAPTION for this exact file. The image is `07_tanaka_faces.jpg` from the museum's 'Ikko Tanaka: Faces. Posters' exhibition page, where the same file (served as `07_tanaka_faces-1352x1920.jpg`) is captioned 'Ikko Tanaka, Poster, The 28th Sankei Kanze Noh Performance, 1981, silkscreen'. The museum's description — a white face on a red ground, flanked left and right by Japanese characters — matches the sheet. TITLE, YEAR AND MEDIUM ESTABLISHED 2026-09-16; the Sankei Kanze Noh series ran from 1954 into the 1970s-80s, so the series name alone could not date it. The filename match is what fixes which performance this is.",
+   "verified_against": "THE SHEET ITSELF, which letters サンケイ観世能 down the right over a Noh mask built from flat planes — a white face with gold eyes and red lips — flanked by columns of small coloured labels naming the programme, on red. Published by Die Neue Sammlung as `07_tanaka_faces`. Tanaka's Sankei Kanze Noh posters are his best-known series. ⚠️ WHICH YEAR'S POSTER THIS IS IS NOT ESTABLISHED — the series ran for years and the museum file carries no date.",
    "notes": [],
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img66/22.jpg",
    "source_px": [
@@ -163904,8 +163904,7 @@
    "hue": 0.42,
    "light": 0.526,
    "chroma": 0.7766,
-   "punch": 0.4045,
-   "medium": "Silkscreen"
+   "punch": 0.4045
   },
   "sent-2026-09-08g::37755bb83b2d": {
    "id": "CRVI002670",
@@ -168775,9 +168774,9 @@
    "maker": "C. R. W. Nevinson",
    "title": "The Arrival",
    "subtitle": "",
-   "year": "c.1913",
+   "year": "1913",
    "label": "",
-   "verified_against": "TATE, which holds the painting as T00110 and dates it 'c.1913' — NOT the flat 1913 that WikiArt's filename `the-arrival-1913.jpg` implied, and which this record previously carried. DATE CORRECTED TO CIRCA 2026-09-16 on the owning museum's record. Medium and dimensions from Tate's own image library (T00110) — oil on canvas, 76.2 x 63.5 cm. Given by the artist's widow, 1956. A liner shattered into Vorticist facets, the word TRANSATLANTIC surfacing in the wreckage of planes.",
+   "verified_against": "WikiArt's record for the file, `c-r-w-nevinson/the-arrival-1913.jpg`: C. R. W. Nevinson, 1913 — a liner shattered into Vorticist facets, the word TRANSATLANTIC surfacing in the wreckage of planes. ⚠️ MEDIUM AND DIMENSIONS ARE NOT ESTABLISHED by the record.",
    "notes": [],
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img68/30.jpg",
    "source_px": [
@@ -168816,11 +168815,7 @@
    "hue": 43.83,
    "light": 0.3116,
    "chroma": 0.3896,
-   "punch": 0.1064,
-   "medium": "Oil on canvas",
-   "dimensions": "76.2 x 63.5 cm (30 x 25 in)",
-   "held_by": "Tate, London",
-   "object_number": "T00110"
+   "punch": 0.1064
   },
   "sent-2026-09-08i::f1f13f6adc05": {
    "id": "CRVI002751",
@@ -168838,7 +168833,7 @@
    "subtitle": "",
    "year": "1915",
    "label": "",
-   "verified_against": "TATE, which holds the painting as T03676, 1915, oil on canvas, 76.2 x 55.9 cm, purchased 1983. MEDIUM AND DIMENSIONS ESTABLISHED 2026-09-16 — previously not established by the record. The date already held was confirmed by the museum.",
+   "verified_against": "WikiArt's record for the file, `c-r-w-nevinson/bursting-shell-1915.jpg`: C. R. W. Nevinson, 1915 — a shell detonating as a spectrum starburst between dark buildings, painted while Nevinson was serving in France. ⚠️ MEDIUM AND DIMENSIONS ARE NOT ESTABLISHED.",
    "notes": [],
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img68/31.jpg",
    "source_px": [
@@ -168880,11 +168875,7 @@
    "hue": null,
    "light": 0.3034,
    "chroma": 0.0957,
-   "punch": 0.051,
-   "medium": "Oil on canvas",
-   "dimensions": "76.2 x 55.9 cm (30 x 22 in)",
-   "held_by": "Tate, London",
-   "object_number": "T03676"
+   "punch": 0.051
   },
   "sent-2026-09-08i::26841acff52b": {
    "id": "CRVI002752",
@@ -168902,7 +168893,7 @@
    "subtitle": "",
    "year": "1916",
    "label": "",
-   "verified_against": "IMPERIAL WAR MUSEUMS, object 20239: C. R. W. Nevinson, 'Archies', 1916, support 628 x 482 mm. MEDIUM AND DIMENSIONS ESTABLISHED 2026-09-16, and the medium is the notable part — this is OIL ON GLASS, not the oil on canvas that the rest of the group is. Blue sky with small white aircraft among puffs of anti-aircraft fire; 'archie' was the gunners' word for that fire, which is the title.",
+   "verified_against": "WikiArt's record for the file, `c-r-w-nevinson/archies-1916.jpg`: C. R. W. Nevinson, 1916 — a deep blue sky torn by white anti-aircraft bursts, with two aircraft small against it. ℹ️ 'Archie' was British slang for anti-aircraft fire. ⚠️ MEDIUM AND DIMENSIONS NOT ESTABLISHED.",
    "notes": [],
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img68/32.jpg",
    "source_px": [
@@ -168940,11 +168931,7 @@
    "hue": 224.88,
    "light": 0.4816,
    "chroma": 0.9962,
-   "punch": 0.471,
-   "medium": "Oil on glass",
-   "dimensions": "62.8 x 48.2 cm (support, 628 x 482 mm)",
-   "held_by": "Imperial War Museums",
-   "object_number": "20239"
+   "punch": 0.471
   },
   "sent-2026-09-08i::33d9734563fa": {
    "id": "CRVI002753",
@@ -168962,7 +168949,7 @@
    "subtitle": "",
    "year": "1916",
    "label": "",
-   "verified_against": "The painting is held by BRISTOL MUSEUM & ART GALLERY (City Museum and Art Gallery, Bristol): C. R. W. Nevinson, 'Dog Tired', 1916, oil on canvas, 76.2 x 64.8 cm. MEDIUM, DIMENSIONS AND HOLDING COLLECTION ESTABLISHED 2026-09-16. Note this one is NOT a Tate picture, unlike the two others in this group.",
+   "verified_against": "WikiArt's record for the file, `c-r-w-nevinson/dog-tired-1916.jpg`: C. R. W. Nevinson, 1916 — soldiers in khaki collapsed asleep across crates and kitbags, their bodies faceted into the same angular planes as the load. ⚠️ MEDIUM AND DIMENSIONS NOT ESTABLISHED.",
    "notes": [],
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img68/33.jpg",
    "source_px": [
@@ -169001,10 +168988,7 @@
    "hue": 45.01,
    "light": 0.3149,
    "chroma": 0.6736,
-   "punch": 0.1452,
-   "medium": "Oil on canvas",
-   "dimensions": "76.2 x 64.8 cm (30 x 25 1/2 in)",
-   "held_by": "Bristol Museum & Art Gallery"
+   "punch": 0.1452
   },
   "sent-2026-09-08i::3787c6f29956": {
    "id": "CRVI002754",
@@ -187696,11 +187680,11 @@
    "identity": "rescue-2026-09-11::30f68fb10c98",
    "source_url": "https://garthgreenan.com/wp-content/uploads/2026/08/HASPP002-hi-res.jpg",
    "maker": "Sadao Hasegawa",
-   "title": "Snowman",
+   "title": "untitled",
    "subtitle": "",
-   "year": "1982",
+   "year": "",
    "label": "",
-   "verified_against": "GARTH GREENAN GALLERY, which represents the Sadao Hasegawa estate. The gallery page's own markup pairs this file with its caption: the <img> whose srcset is `HASPP002-hi-res.jpg` carries alt=\"Snowman\" and is immediately followed by 'Snowman, 1982, Pencil, ink, and gouache on paper. 17.333 x 14.6 in.' The listed proportion (0.842) agrees with the file (0.845). TITLE AND YEAR ESTABLISHED 2026-09-16 — previously recorded as untitled and undated because the rendered page shows captions apart from images; the pairing is only visible in the raw HTML.",
+   "verified_against": "Published by GARTH GREENAN GALLERY, which announced its representation of the Sadao Hasegawa estate in November 2025; the file is `HASPP002-hi-res`. ⚠️ THE TITLE AND YEAR ARE NOT ESTABLISHED — the gallery's page lists images and captions in separate blocks, so tying this file to one of its captions would be guesswork. ℹ️ Todd sent the 1024x1179 derivative; this is the full 1737x2000 file from the same base name.",
    "notes": [],
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img81/01.jpg",
    "source_px": [
@@ -187748,9 +187732,7 @@
     ],
     "uncropped": "originals_uncropped/CRVI003061.jpg",
     "decided": "by Todd, by hand"
-   },
-   "medium": "Pencil, ink, and gouache on paper",
-   "dimensions": "17.333 x 14.6 in"
+   }
   },
   "rescue-2026-09-11::ea5f56b77b4f": {
    "id": "CRVI003062",
@@ -187764,11 +187746,11 @@
    "identity": "rescue-2026-09-11::ea5f56b77b4f",
    "source_url": "https://garthgreenan.com/wp-content/uploads/2026/08/HASPP040-hi-res.jpg",
    "maker": "Sadao Hasegawa",
-   "title": "Untitled",
+   "title": "untitled",
    "subtitle": "",
-   "year": "1983",
+   "year": "",
    "label": "",
-   "verified_against": "GARTH GREENAN GALLERY, the estate's gallery, by the same markup pairing: the <img> whose srcset is `HASPP040-hi-res.jpg` carries alt=\"Untitled\" and is followed by 'Untitled, 1983, Pencil and gouache on paper. 12.25 x 9 in.' The listed proportion (0.735) agrees with the gallery's full file (0.737); the copy held here is a crop. YEAR ESTABLISHED 2026-09-16 — the work is genuinely untitled, which is now a recorded fact rather than a gap.",
+   "verified_against": "Published by GARTH GREENAN GALLERY, the estate's gallery; the file is `HASPP040-hi-res`. ⚠️ TITLE AND YEAR NOT ESTABLISHED, for the same reason. ℹ️ Todd sent the 1024x1389 derivative; this is the full 1474x2000 file.",
    "notes": [],
    "source_image": "/Users/todd/Desktop/Active Work/museum-adds-2026-09-05/img81/02.jpg",
    "source_px": [
@@ -187817,9 +187799,7 @@
     ],
     "uncropped": "originals_uncropped/CRVI003062.jpg",
     "decided": "by Todd, by hand"
-   },
-   "medium": "Pencil and gouache on paper",
-   "dimensions": "12.25 x 9 in"
+   }
   },
   "rescue-2026-09-11::45a565b37818": {
    "id": "CRVI003063",
@@ -196354,9 +196334,9 @@
    "maker": "Gerhard Richter",
    "title": "Abstraktes Bild (780-1)",
    "subtitle": "",
-   "year": "1992",
+   "year": "",
    "label": "",
-   "verified_against": "MARIAN GOODMAN GALLERY, Richter's gallery of record, which lists this work as '780-1 Abstract Painting', 1992, oil on canvas, 260 x 200 cm. 780-1 is Richter's own catalogue-raisonne number, which is how his abstracts are identified, so the number on the file is the identification. The National Gallery of Art also holds a work under this number. YEAR ESTABLISHED 2026-09-16 — it was previously unknown.",
+   "verified_against": "WikiArt files this as 'Abstract Painting 780-1'. The number is Richter's own catalogue-raisonné number, which is how his abstracts are identified. ⚠️ THE YEAR IS NOT ESTABLISHED - the page carries no date and I am not dating it from the CR number alone. Roster came off the publisher's listing in the Book Checklist; the picture was found by per-name image harvest and verified at 800px+ before it reached the contact sheet.",
    "source_image": "https://uploads3.wikiart.org/images/gerhard-richter/abstract-painting-780-1-1.jpg",
    "source_px": [
     1600,
@@ -196386,9 +196366,7 @@
    "hue": 43.27,
    "light": 0.3778,
    "chroma": 0.942,
-   "punch": 0.4358,
-   "medium": "Oil on canvas",
-   "dimensions": "260 x 200 cm (102 1/2 x 78 3/4 in)"
+   "punch": 0.4358
   },
   "contact-sheets-2026-09-11::saarinen-pin": {
    "id": "CRVI003220",
